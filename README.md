@@ -1,16 +1,26 @@
 # Universal Dependencies in Korean
 
-The Universal Dependencies in Korean (UDK) project provides pseudo-annotated treebanks following the guidelines from the [Universal Dependencies](http://universaldependencies.org) framework.
-UDK has generated dependency trees for the following corpora:
+The Universal Dependencies in Korean (UDK) project provides dependency treebanks pseudo-annotated by the guidelines from the [Universal Dependencies](http://universaldependencies.org) framework.
+Thus far, UDK has generated universal dependency trees for the following corpora:
 
-* [Google Treebank](gsd): 6,339 sentences, 80,392 tokens.
-* [Kaist Treebank](kaist): 27,363 sentences, 350,090 tokens.
-* [Penn Treebank](penn): 5,010 sentences, 132,041 tokens.
+* [Google Treebank](gsd): 6,339 sentences, 80,392 tokens (McDonald et al., 2013).
+* [Kaist Treebank](kaist): 27,363 sentences, 350,090 tokens (Choi et al., 1994).
+* [Penn Treebank](penn): 5,010 sentences, 132,041 tokens (Han et al., 2002).
 
 
-## Reference
+## Citation
+
+This work is a collaborative effort between Emory University, University of Pittsburgh, and Institute for Human & Machine Cognition.
 
 * [Building Universal Dependency Treebanks in Korean](doc/lrec-2018.pdf), Jayeol Chun, Na-Rae Han, Jena D. Hwang, and Jinho D. Choi. In Proceedings of the 11th International Conference on Language Resources and Evaluation, LREC'18, Miyazaki, Japan, 2018.
+
+
+## References
+
+* [Universal Dependency Annotation for Multilingual Parsing](https://www.aclweb.org/anthology/P13-2017), Ryan McDonald, Joakim Nivre, Yvonne Quirmbach-Brundage, Yoav Goldberg, Dipanjan Das, Kuzman Ganchev, Keith Hall, Slav Petrov, Hao Zhang, Oscar Täckström, Claudia Bedini, Núria Bertomeu Castelló, Jungmee Lee. In Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics, ACL'13, Sofia, Bulgaria, 2013.
+* [Penn Korean Treebank: Development and Evaluation](http://www.aclweb.org/anthology/Y02-1007), Chung-hye Han, Na-Rae Han, Eon-Suk Ko, Martha Palmer, Heejong Yi. In Proceedings of the 16th Pacic Asia Conference on Language, Information and Computation, PACLIC'02, Jeju, Korea, 2002.
+* [KAIST Tree Bank Project for Korean: Present and Future Development](doc/kaist.pdf). Key-Sun Choi, Young S. Han, Young G. Han, and Oh W. Kwon. In Proceedings of the International Workshop on Sharable Natural Language Resources, Nara, Japan, 1994.
+
 
 
 ## Contact
