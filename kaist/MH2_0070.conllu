@@ -1,0 +1,3477 @@
+# 유가증권투자 역시 80년대 중반 이후의 증권시장 활황에 힘입어 동 기간 중에 1.1 % 에서 9.3 % 로 크게 증가하였다 .
+1	유가증권투자	유가+증권+투자	NOUN	_	2	dep	_	_	유가/ncn+증권/ncn+투자/ncpa
+2	역시	역시	ADV	_	19	advmod	_	_	역시/mag
+3	80년대	80+년+대	NOUN	_	4	advmod	_	_	80/nno+년/nbu+대/xsn
+4	중반	중반	NOUN	_	5	compound	_	_	중반/ncn
+5	이후의	이후+의	NOUN	_	7	nmod	_	_	이후/ncn+의/jcm
+6	증권시장	증권+시장	NOUN	_	7	compound	_	_	증권/ncn+시장/ncn
+7	활황에	활황+에	ADV	_	8	obl	_	_	활황/ncn+에/jca
+8	힘입어	힘입+어	SCONJ	_	19	ccomp	_	_	힘입/pvg+어/ecs
+9	동	동	ADJ	_	10	amod	_	_	동/mma
+10	기간	기간	NOUN	_	11	compound	_	_	기간/ncn
+11	중에	중+에	ADV	_	19	obl	_	_	중/nbn+에/jca
+12	1.1	1.1	NUM	_	19	nummod	_	_	1.1/nnc
+13	%	%	SYM	_	12	punct	_	_	%/su
+14	에서	에서	ADP	_	12	case	_	_	에서/jca
+15	9.3	9.3	NUM	_	19	nummod	_	_	9.3/nnc
+16	%	%	SYM	_	15	punct	_	_	%/su
+17	로	로	ADP	_	15	case	_	_	로/jca
+18	크게	크+게	SCONJ	_	19	xcomp	_	_	크/paa+게/ecs
+19	증가하였다	증가+하+었+다	VERB	_	0	root	_	_	증가/ncpa+하/xsv+었/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 이에 따라 80년에 사금융저축 , 은행저축 , 비은행저축 , 유가증권 순이었던 가계의 저축구조는 90년에는 은행저축 , 비은행저축 , 사금융저축 , 유가증권 순으로 크게 바뀌었다 .
+1	이에	이+에	ADV	_	2	obl	_	_	이/npd+에/jca
+2	따라	따르+아	SCONJ	_	24	ccomp	_	_	따르/pvg+아/ecs
+3	80년에	80+년+에	ADV	_	11	obl	_	_	80/nno+년/nbu+에/jca
+4	사금융저축	사금융+저축	NOUN	_	6	conj	_	_	사금융/ncn+저축/ncpa
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	은행저축	은행+저축	NOUN	_	8	conj	_	_	은행/ncn+저축/ncpa
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	비은행저축	비+은행+저축	PART	_	10	conj	_	_	비/xp+은행/ncn+저축/ncpa
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	유가증권	유가+증권	NOUN	_	11	compound	_	_	유가/ncn+증권/ncn
+11	순이었던	순+이+었+던	VERB	_	13	acl	_	_	순/ncn+이/jp+었/ep+던/etm
+12	가계의	가계+의	NOUN	_	13	nmod	_	_	가계/ncn+의/jcm
+13	저축구조는	저축+구조+는	NOUN	_	24	dislocated	_	_	저축/ncpa+구조/ncpa+는/jxt
+14	90년에는	90+년+에+는	NUM	_	24	dislocated	_	_	90/nno+년/nbu+에/jca+는/jxt
+15	은행저축	은행+저축	NOUN	_	17	conj	_	_	은행/ncn+저축/ncpa
+16	,	,	PUNCT	_	15	punct	_	_	,/sp
+17	비은행저축	비+은행+저축	PART	_	19	conj	_	_	비/xp+은행/ncn+저축/ncpa
+18	,	,	PUNCT	_	17	punct	_	_	,/sp
+19	사금융저축	사금융+저축	NOUN	_	21	conj	_	_	사금융/ncn+저축/ncpa
+20	,	,	PUNCT	_	19	punct	_	_	,/sp
+21	유가증권	유가+증권	NOUN	_	22	compound	_	_	유가/ncn+증권/ncn
+22	순으로	순+으로	ADV	_	24	advcl	_	_	순/ncn+으로/jca
+23	크게	크+게	SCONJ	_	24	xcomp	_	_	크/paa+게/ecs
+24	바뀌었다	바뀌+었+다	VERB	_	0	root	_	_	바뀌/pvg+었/ep+다/ef
+25	.	.	PUNCT	_	24	punct	_	_	./sf
+
+# 공금융저축의 경우 지난 10 년 동안 거의 일정하게 97.98 % 수준을 유지하고 있으며 , 사금융저축은 2.3 % 의 낮은 수준을 유지하고 있다 .
+1	공금융저축의	공금융+저축+의	NOUN	_	2	nmod	_	_	공금융/ncn+저축/ncpa+의/jcm
+2	경우	경우	NOUN	_	12	advmod	_	_	경우/ncn
+3	지난	지나+ㄴ	VERB	_	5	acl	_	_	지나/pvg+ㄴ/etm
+4	10	10	NUM	_	5	nummod	_	_	10/nnc
+5	년	년	NOUN	_	6	compound	_	_	년/nbu
+6	동안	동안	NOUN	_	12	advmod	_	_	동안/ncn
+7	거의	거의	ADV	_	8	advmod	_	_	거의/mag
+8	일정하게	일정+하+게	SCONJ	_	12	xcomp	_	_	일정/ncps+하/xsm+게/ecs
+9	97.98	97.98	NUM	_	11	nummod	_	_	97.98/nnc
+10	%	%	SYM	_	9	punct	_	_	%/su
+11	수준을	수준+을	NOUN	_	12	obj	_	_	수준/ncn+을/jco
+12	유지하고	유지+하+고	VERB	_	21	conj	_	_	유지/ncpa+하/xsv+고/ecx
+13	있으며	있+으며	CCONJ	_	12	aux	_	_	있/px+으며/ecc
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	사금융저축은	사금융+저축+은	NOUN	_	21	dislocated	_	_	사금융/ncn+저축/ncpa+은/jxt
+16	2.3	2.3	NUM	_	20	nummod	_	_	2.3/nnc
+17	%	%	SYM	_	16	punct	_	_	%/su
+18	의	의	ADP	_	16	case	_	_	의/jcm
+19	낮은	낮+ㄴ	ADJ	_	20	amod	_	_	낮/paa+ㄴ/etm
+20	수준을	수준+을	NOUN	_	21	obj	_	_	수준/ncn+을/jco
+21	유지하고	유지+하+고	VERB	_	0	root	_	_	유지/ncpa+하/xsv+고/ecx
+22	있다	있+다	AUX	_	21	aux	_	_	있/px+다/ef
+23	.	.	PUNCT	_	22	punct	_	_	./sf
+
+# 그러나 유가증권의 비중만은 세계적인 증시활황에 힘입어 꾸준한 증가세를 유지하고 있다 .
+1	그러나	그러나	CCONJ	_	9	cc	_	_	그러나/maj
+2	유가증권의	유가+증권+의	NOUN	_	3	nmod	_	_	유가/ncn+증권/ncn+의/jcm
+3	비중만은	비중+만은	ADV	_	9	advcl	_	_	비중/ncn+만은/jxc
+4	세계적인	세계+적+이+ㄴ	VERB	_	5	acl	_	_	세계/ncn+적/xsn+이/jp+ㄴ/etm
+5	증시활황에	증시+활황+에	ADV	_	6	obl	_	_	증시/ncn+활황/ncn+에/jca
+6	힘입어	힘입+어	SCONJ	_	9	ccomp	_	_	힘입/pvg+어/ecs
+7	꾸준한	꾸준하+ㄴ	ADJ	_	8	amod	_	_	꾸준하/paa+ㄴ/etm
+8	증가세를	증가세+를	NOUN	_	9	obj	_	_	증가세/ncn+를/jco
+9	유지하고	유지+하+고	VERB	_	0	root	_	_	유지/ncpa+하/xsv+고/ecx
+10	있다	있+다	AUX	_	9	aux	_	_	있/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그리고 공금융저축에서도 일본은 비은행저축이나 유가증권이 주종을 이루고 있으며 아직까지도 유가증권의 비중이 미미한 실정이다 .
+1	그리고	그리고	CCONJ	_	13	cc	_	_	그리고/maj
+2	공금융저축에서도	공금융+저축+에서+도	ADV	_	7	advcl	_	_	공금융/ncn+저축/ncpa+에서/jca+도/jxc
+3	일본은	일본+은	PROPN	_	7	dislocated	_	_	일본/nq+은/jxt
+4	비은행저축이나	비+은행+저축+이나	PART	_	5	conj	_	_	비/xp+은행/ncn+저축/ncpa+이나/jcj
+5	유가증권이	유가+증권+이	NOUN	_	7	nsubj	_	_	유가/ncn+증권/ncn+이/jcs
+6	주종을	주종+을	NOUN	_	7	obj	_	_	주종/ncn+을/jco
+7	이루고	이루+고	VERB	_	13	conj	_	_	이루/pvg+고/ecx
+8	있으며	있+으며	CCONJ	_	7	aux	_	_	있/px+으며/ecc
+9	아직까지도	아직+까지도	ADV	_	13	advmod	_	_	아직/mag+까지도/jxc
+10	유가증권의	유가+증권+의	NOUN	_	11	nmod	_	_	유가/ncn+증권/ncn+의/jcm
+11	비중이	비중+이	NOUN	_	12	nsubj	_	_	비중/ncn+이/jcs
+12	미미한	미미하+ㄴ	ADJ	_	13	amod	_	_	미미하/paa+ㄴ/etm
+13	실정이다	실정+이+다	VERB	_	0	root	_	_	실정/ncn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그리고 공금융부채에서도 반 이상을 비은행부채에 의존하고 있는 일본과는 달리 우리나라에서는 은행부채의 비중이 높다는 점이다 .
+1	그리고	그리고	CCONJ	_	14	cc	_	_	그리고/maj
+2	공금융부채에서도	공금융+부채+에서+도	ADV	_	6	advcl	_	_	공금융/ncn+부채/ncn+에서/jca+도/jxc
+3	반	반	NOUN	_	4	compound	_	_	반/ncn
+4	이상을	이상+을	NOUN	_	6	obj	_	_	이상/ncn+을/jco
+5	비은행부채에	비+은행+부채+에	PART	_	6	obl	_	_	비/xp+은행/ncn+부채/ncn+에/jca
+6	의존하고	의존+하+고	VERB	_	8	acl	_	_	의존/ncpa+하/xsv+고/ecx
+7	있는	있+는	AUX	_	6	aux	_	_	있/px+는/etm
+8	일본과는	일본+과+는	PROPN	_	9	dislocated	_	_	일본/nq+과/jct+는/jxt
+9	달리	다르+이	SCONJ	_	13	xcomp	_	_	다르/paa+이/ecs
+10	우리나라에서는	우리+나라+에서+는	PRON	_	13	dislocated	_	_	우리/npp+나라/ncn+에서/jca+는/jxt
+11	은행부채의	은행+부채+의	NOUN	_	12	nmod	_	_	은행/ncn+부채/ncn+의/jcm
+12	비중이	비중+이	NOUN	_	13	nsubj	_	_	비중/ncn+이/jcs
+13	높다는	높+다는	ADJ	_	14	amod	_	_	높/paa+다는/etm
+14	점이다	점+이+다	VERB	_	0	root	_	_	점/ncn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이는 우리나라의 비은행기관이 경쟁력제고를 위해 높은 수신금리를 적용함으로써 대출금리가 은행에 비해 월등히 높을 뿐만 아니라 가계대출을 소홀히 했기 때문으로 판단된다 .
+1	이는	이+는	PRON	_	20	dislocated	_	_	이/npd+는/jxt
+2	우리나라의	우리+나라+의	PRON	_	3	nmod	_	_	우리/npp+나라/ncn+의/jcm
+3	비은행기관이	비+은행+기관+이	PART	_	8	nsubj	_	_	비/xp+은행/ncn+기관/ncn+이/jcs
+4	경쟁력제고를	경쟁력+제고+를	NOUN	_	5	obj	_	_	경쟁력/ncn+제고/ncpa+를/jco
+5	위해	위하+어	SCONJ	_	8	ccomp	_	_	위하/pvg+어/ecs
+6	높은	높+ㄴ	ADJ	_	7	amod	_	_	높/paa+ㄴ/etm
+7	수신금리를	수신+금리+를	NOUN	_	8	obj	_	_	수신/ncpa+금리/ncn+를/jco
+8	적용함으로써	적용+하+ㅁ+으로써	ADV	_	13	advcl	_	_	적용/ncpa+하/xsv+ㅁ/etn+으로써/jca
+9	대출금리가	대출+금리+가	NOUN	_	13	nsubj	_	_	대출/ncpa+금리/ncn+가/jcs
+10	은행에	은행+에	ADV	_	11	obl	_	_	은행/ncn+에/jca
+11	비해	비하+어	SCONJ	_	13	conj	_	_	비하/pvg+어/ecs
+12	월등히	월등+히	ADV	_	13	advmod	_	_	월등/ncps+히/xsa
+13	높을	높+ㄹ	ADJ	_	18	amod	_	_	높/paa+ㄹ/etm
+14	뿐만	뿐+만	ADV	_	15	fixed	_	_	뿐/nbn+만/jxc
+15	아니라	아니+라	SCONJ	_	13	aux	_	_	아니/paa+라/ecs
+16	가계대출을	가계+대출+을	NOUN	_	18	obj	_	_	가계/ncn+대출/ncpa+을/jco
+17	소홀히	소홀+히	ADV	_	18	advmod	_	_	소홀/ncps+히/xsa
+18	했기	하+었+기	VERB	_	19	nmod	_	_	하/pvg+었/ep+기/etn
+19	때문으로	때문+으로	ADV	_	20	advcl	_	_	때문/nbn+으로/jca
+20	판단된다	판단+되+ㄴ다	VERB	_	0	root	_	_	판단/ncpa+되/xsv+ㄴ다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 60 년대 초반 경제개발계획이 실시된 이후 한국경제는 괄목할 만한 고도성장을 이룩하였다 .
+1	60	60	NUM	_	2	nummod	_	_	60/nno
+2	년대	년대	NOUN	_	3	compound	_	_	년대/nbu
+3	초반	초반	NOUN	_	5	advmod	_	_	초반/ncn
+4	경제개발계획이	경제+개발+계획+이	NOUN	_	5	nsubj	_	_	경제/ncn+개발/ncpa+계획/ncpa+이/jcs
+5	실시된	실시+되+ㄴ	VERB	_	6	acl	_	_	실시/ncpa+되/xsv+ㄴ/etm
+6	이후	이후	NOUN	_	11	advmod	_	_	이후/ncn
+7	한국경제는	한국+경제+는	PROPN	_	11	dislocated	_	_	한국/nq+경제/ncn+는/jxt
+8	괄목할	괄목+하+ㄹ	VERB	_	10	acl	_	_	괄목/ncpa+하/xsv+ㄹ/etm
+9	만한	만하+ㄴ	AUX	_	8	aux	_	_	만하/px+ㄴ/etm
+10	고도성장을	고도+성장+을	NOUN	_	11	obj	_	_	고도/ncn+성장/ncpa+을/jco
+11	이룩하였다	이룩하+었+다	VERB	_	0	root	_	_	이룩하/pvg+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이러한 과정에서 1 인당 GNP는 1970 년의 252 달러에서 1990 년에는 5,569 달러로 크게 증가하였다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	과정에서	과정+에서	ADV	_	15	advcl	_	_	과정/ncn+에서/jca
+3	1	1	NUM	_	4	nummod	_	_	1/nnc
+4	인당	인+당	NOUN	_	5	advmod	_	_	인/nbu+당/xsn
+5	GNP는	GNP+는	NOUN	_	15	dislocated	_	_	GNP/f+는/jxt
+6	1970	1970	NUM	_	7	nummod	_	_	1970/nno
+7	년의	년+의	NOUN	_	9	nmod	_	_	년/nbu+의/jcm
+8	252	252	NUM	_	9	nummod	_	_	252/nnc
+9	달러에서	달러+에서	ADV	_	15	advcl	_	_	달러/nbu+에서/jca
+10	1990	1990	NUM	_	11	nummod	_	_	1990/nno
+11	년에는	년+에+는	NOUN	_	13	dislocated	_	_	년/nbu+에/jca+는/jxt
+12	5,569	5,569	NUM	_	13	nummod	_	_	5,569/nnc
+13	달러로	달러+로	ADV	_	15	advcl	_	_	달러/nbu+로/jca
+14	크게	크+게	SCONJ	_	15	xcomp	_	_	크/paa+게/ecs
+15	증가하였다	증가+하+었+다	VERB	_	0	root	_	_	증가/ncpa+하/xsv+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이에 따라 기업 및 정부 부분과 더불어 소비구조가 크게 변하고 있다 .
+1	이에	이+에	ADV	_	2	obl	_	_	이/npd+에/jca
+2	따라	따르+아	SCONJ	_	10	ccomp	_	_	따르/pvg+아/ecs
+3	기업	기업	NOUN	_	5	conj	_	_	기업/ncpa
+4	및	및	CCONJ	_	5	cc	_	_	및/maj
+5	정부	정부	NOUN	_	6	compound	_	_	정부/ncn
+6	부분과	부문+과	CCONJ	_	7	conj	_	_	부문/ncn+과/jct
+7	더불어	더불+어	SCONJ	_	10	ccomp	_	_	더불/pvg+어/ecs
+8	소비구조가	소비+구조+가	NOUN	_	10	nsubj	_	_	소비/ncpa+구조/ncpa+가/jcs
+9	크게	크+게	SCONJ	_	10	xcomp	_	_	크/paa+게/ecs
+10	변하고	변하+고	VERB	_	0	root	_	_	변하/pvg+고/ecx
+11	있다	있+다	AUX	_	10	aux	_	_	있/px+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 또한 문화생활수준을 나타내는 승용차의 보급률에서 보아도 70 년의 경우 인구 천명당 2 대에서 89 년에는 37 대로 크게 증가하였다 .
+1	또한	또한	CCONJ	_	19	cc	_	_	또한/maj
+2	문화생활수준을	문화+생활+수준+을	NOUN	_	3	obj	_	_	문화/ncn+생활/ncpa+수준/ncn+을/jco
+3	나타내는	나타내+는	VERB	_	5	acl	_	_	나타내/pvg+는/etm
+4	승용차의	승용차+의	NOUN	_	5	nmod	_	_	승용차/ncn+의/jcm
+5	보급률에서	보급률+에서	ADV	_	6	advcl	_	_	보급률/ncn+에서/jca
+6	보아도	보+아+도	ADV	_	19	ccomp	_	_	보/pvg+아/ecs+도/jxc
+7	70	70	NUM	_	8	nummod	_	_	70/nno
+8	년의	년+의	NOUN	_	9	nmod	_	_	년/nbu+의/jcm
+9	경우	경우	NOUN	_	13	compound	_	_	경우/ncn
+10	인구	인구	NOUN	_	11	compound	_	_	인구/ncn
+11	천명당	천명+당	NOUN	_	13	advmod	_	_	천명/ncn+당/xsn
+12	2	2	NUM	_	13	nummod	_	_	2/nnc
+13	대에서	대+에서	ADV	_	19	advcl	_	_	대/nbu+에서/jca
+14	89	89	NUM	_	15	nummod	_	_	89/nno
+15	년에는	년+에+는	NOUN	_	17	dislocated	_	_	년/nbu+에/jca+는/jxt
+16	37	37	NUM	_	17	nummod	_	_	37/nnc
+17	대로	대+로	ADV	_	19	advcl	_	_	대/nbu+로/jca
+18	크게	크+게	SCONJ	_	19	xcomp	_	_	크/paa+게/ecs
+19	증가하였다	증가+하+었+다	VERB	_	0	root	_	_	증가/ncpa+하/xsv+었/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 먼저 가계부문의 가처분소득과 소비지출과의 관계를 나타내는 평균소비성향의 변화추이를 보면 다음과 같다 .
+1	먼저	먼저	ADV	_	11	advmod	_	_	먼저/mag
+2	가계부문의	가계+부문+의	NOUN	_	4	nmod	_	_	가계/ncn+부문/ncn+의/jcm
+3	가처분소득과	가처분+소득+과	CCONJ	_	4	conj	_	_	가처분/ncpa+소득/ncpa+과/jcj
+4	소비지출과의	소비+지출+과+의	NOUN	_	5	nmod	_	_	소비/ncpa+지출/ncpa+과/jct+의/jcm
+5	관계를	관계+를	NOUN	_	6	obj	_	_	관계/ncpa+를/jco
+6	나타내는	나타내+는	VERB	_	8	acl	_	_	나타내/pvg+는/etm
+7	평균소비성향의	평균+소비+성향+의	NOUN	_	8	nmod	_	_	평균/ncpa+소비/ncpa+성향/ncn+의/jcm
+8	변화추이를	변화+추이+를	NOUN	_	9	obj	_	_	변화/ncpa+추이/ncpa+를/jco
+9	보면	보+면	SCONJ	_	11	conj	_	_	보/pvg+면/ecs
+10	다음과	다음+과	CCONJ	_	11	conj	_	_	다음/ncn+과/jct
+11	같다	같+다	ADJ	_	0	root	_	_	같/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 한국의 경우 70 년 소비경향이 94.4 % 에서 80 년에는 77.7 % , 90 년에는 74.7 % 로 낮아져 온 사실을 알 수 있다 .
+1	한국의	한국+의	PROPN	_	2	nmod	_	_	한국/nq+의/jcm
+2	경우	경우	NOUN	_	19	dep	_	_	경우/ncn
+3	70	70	NUM	_	4	nummod	_	_	70/nno
+4	년	년	NOUN	_	5	compound	_	_	년/nbu
+5	소비경향이	소비+경향+이	NOUN	_	19	nsubj	_	_	소비/ncpa+경향/ncn+이/jcs
+6	94.4	94.4	NUM	_	19	nummod	_	_	94.4/nnc
+7	%	%	SYM	_	6	punct	_	_	%/su
+8	에서	에서	ADP	_	6	case	_	_	에서/jca
+9	80	80	NUM	_	10	nummod	_	_	80/nno
+10	년에는	년+에+는	NOUN	_	11	dislocated	_	_	년/nbu+에/jca+는/jxt
+11	77.7	77.7	NUM	_	16	nummod	_	_	77.7/nnc
+12	%	%	SYM	_	11	punct	_	_	%/su
+13	,	,	PUNCT	_	11	punct	_	_	,/sp
+14	90	90	NUM	_	15	nummod	_	_	90/nno
+15	년에는	년+에+는	NOUN	_	16	dislocated	_	_	년/nbu+에/jca+는/jxt
+16	74.7	74.7	NUM	_	19	nummod	_	_	74.7/nnc
+17	%	%	SYM	_	16	punct	_	_	%/su
+18	로	로	ADP	_	16	case	_	_	로/jca
+19	낮아져	낮+아+지+어	AUX	_	21	amod	_	_	낮/paa+아/ecx+지/px+어/ecx
+20	온	오+ㄴ	AUX	_	19	aux	_	_	오/px+ㄴ/etm
+21	사실을	사실+을	NOUN	_	22	obj	_	_	사실/ncn+을/jco
+22	알	알+ㄹ	VERB	_	0	root	_	_	알/pvg+ㄹ/etm
+23	수	수	NOUN	_	24	fixed	_	_	수/nbn
+24	있다	있+다	ADJ	_	22	aux	_	_	있/paa+다/ef
+25	.	.	PUNCT	_	24	punct	_	_	./sf
+
+# 그림에서 보는 것처럼 70 년대에는 대폭적으로 그리고 80 년에는 소폭적인 감소추세에 있다는 사실이 나타나 있다 .
+1	그림에서	그림+에서	ADV	_	2	advcl	_	_	그림/ncn+에서/jca
+2	보는	보+는	VERB	_	3	acl	_	_	보/pvg+는/etm
+3	것처럼	것+처럼	ADV	_	12	advcl	_	_	것/nbn+처럼/jca
+4	70	70	NUM	_	5	nummod	_	_	70/nno
+5	년대에는	년대+에+는	NOUN	_	6	dislocated	_	_	년대/nbu+에/jca+는/jxt
+6	대폭적으로	대폭+적+으로	ADV	_	10	advcl	_	_	대폭/ncn+적/xsn+으로/jca
+7	그리고	그리고	CCONJ	_	10	cc	_	_	그리고/maj
+8	80	80	NUM	_	9	nummod	_	_	80/nno
+9	년에는	년+에+는	NOUN	_	10	dislocated	_	_	년/nbu+에/jca+는/jxt
+10	소폭적인	소폭+적+이+ㄴ	VERB	_	11	acl	_	_	소폭/ncn+적/xsn+이/jp+ㄴ/etm
+11	감소추세에	감소+추세+에	ADV	_	12	obl	_	_	감소/ncpa+추세/ncn+에/jca
+12	있다는	있+다는	ADJ	_	13	amod	_	_	있/paa+다는/etm
+13	사실이	사실+이	NOUN	_	14	nsubj	_	_	사실/ncn+이/jcs
+14	나타나	나타나+아	VERB	_	0	root	_	_	나타나/pvg+아/ecx
+15	있다	있+다	AUX	_	14	aux	_	_	있/px+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 일본의 경우를 보면 70 년도의 79.9 % 에서 90 년의 75.3 % 까지 완만한 추세로 소폭적인 감소를 시현하였다 .
+1	일본의	일본+의	PROPN	_	2	nmod	_	_	일본/nq+의/jcm
+2	경우를	경우+를	NOUN	_	3	obj	_	_	경우/ncn+를/jco
+3	보면	보+면	SCONJ	_	18	ccomp	_	_	보/pvg+면/ecs
+4	70	70	NUM	_	5	nummod	_	_	70/nno
+5	년도의	년도+의	NOUN	_	6	nmod	_	_	년도/nbu+의/jcm
+6	79.9	79.9	NUM	_	18	nummod	_	_	79.9/nnc
+7	%	%	SYM	_	6	punct	_	_	%/su
+8	에서	에서	ADP	_	6	case	_	_	에서/jca
+9	90	90	NUM	_	10	nummod	_	_	90/nnc
+10	년의	년+의	NOUN	_	11	nmod	_	_	년/nbu+의/jcm
+11	75.3	75.3	NUM	_	18	nummod	_	_	75.3/nnc
+12	%	%	SYM	_	11	punct	_	_	%/su
+13	까지	까지	ADP	_	11	case	_	_	까지/jxc
+14	완만한	완만+하+ㄴ	VERB	_	15	amod	_	_	완만/ncps+하/xsm+ㄴ/etm
+15	추세로	추세+로	ADV	_	18	advcl	_	_	추세/ncn+로/jca
+16	소폭적인	소폭+적+이+ㄴ	VERB	_	17	acl	_	_	소폭/ncn+적/xsn+이/jp+ㄴ/etm
+17	감소를	감소+를	NOUN	_	18	obj	_	_	감소/ncpa+를/jco
+18	시현하였다	시현+하+었+다	VERB	_	0	root	_	_	시현/ncpa+하/xsv+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 일본의 경우도 70 년의 34.1 % 에서 90 년에는 25.4 % 로 낮아진 사실이 나타나 있다 .
+1	일본의	일본+의	PROPN	_	2	nmod	_	_	일본/nq+의/jcm
+2	경우도	경우+도	ADV	_	13	advcl	_	_	경우/ncn+도/jxc
+3	70	70	NUM	_	4	nummod	_	_	70/nno
+4	년의	년+의	NOUN	_	5	nmod	_	_	년/nbu+의/jcm
+5	34.1	34.1	NUM	_	13	nummod	_	_	34.1/nnc
+6	%	%	SYM	_	5	punct	_	_	%/su
+7	에서	에서	ADP	_	5	case	_	_	에서/jca
+8	90	90	NUM	_	9	nummod	_	_	90/nno
+9	년에는	년+에+는	NOUN	_	10	dislocated	_	_	년/nbu+에/jca+는/jxt
+10	25.4	25.4	NUM	_	13	nummod	_	_	25.4/nnc
+11	%	%	SYM	_	10	punct	_	_	%/su
+12	로	로	ADP	_	10	case	_	_	로/jca
+13	낮아진	낮+아+지+ㄴ	AUX	_	14	amod	_	_	낮/paa+아/ecx+지/px+ㄴ/etm
+14	사실이	사실+이	NOUN	_	15	nsubj	_	_	사실/ncn+이/jcs
+15	나타나	나타나+아	VERB	_	0	root	_	_	나타나/pvg+아/ecx
+16	있다	있+다	AUX	_	15	aux	_	_	있/px+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 따라서 엥겔계수에 있어서 일본과의 수치는 점차 완만한 추세로 감소되고 있음을 알 수 있다 .
+1	따라서	따라서	CCONJ	_	11	cc	_	_	따라서/maj
+2	엥겔계수에	엥겔+계수+에	ADV	_	3	obl	_	_	엥겔/nq+계수/ncn+에/jca
+3	있어서	있+어서	SCONJ	_	9	xcomp	_	_	있/paa+어서/ecs
+4	일본과의	일본+과+의	PROPN	_	5	nmod	_	_	일본/nq+과/jct+의/jcm
+5	수치는	수치+는	NOUN	_	9	dislocated	_	_	수치/ncn+는/jxt
+6	점차	점차	ADV	_	7	advmod	_	_	점차/mag
+7	완만한	완만+하+ㄴ	VERB	_	8	amod	_	_	완만/ncps+하/xsm+ㄴ/etm
+8	추세로	추세+로	ADV	_	9	advcl	_	_	추세/ncn+로/jca
+9	감소되고	감소+되+고	VERB	_	11	obj	_	_	감소/ncpa+되/xsv+고/ecx
+10	있음을	있+ㅁ+을	NOUN	_	9	aux	_	_	있/px+ㅁ/etn+을/jco
+11	알	알+ㄹ	VERB	_	0	root	_	_	알/pvg+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있다	있+다	ADJ	_	11	aux	_	_	있/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이런 사실로부터 앞으로 우리 경제의 소득수준이 향상됨에 따라 소비지출중에서 식료품비의 비중은 계속해서 감소할 것으로 예측된다 .
+1	이런	이런	DET	_	2	det	_	_	이런/mmd
+2	사실로부터	사실+로+부터	ADV	_	15	advcl	_	_	사실/ncn+로/jca+부터/jxc
+3	앞으로	앞+으로	ADV	_	15	advcl	_	_	앞/ncn+으로/jca
+4	우리	우리	PRON	_	5	compound	_	_	우리/npp
+5	경제의	경제+의	NOUN	_	6	nmod	_	_	경제/ncn+의/jcm
+6	소득수준이	소득+수준+이	NOUN	_	7	nsubj	_	_	소득/ncpa+수준/ncn+이/jcs
+7	향상됨에	향상+되+ㅁ+에	ADV	_	8	obl	_	_	향상/ncpa+되/xsv+ㅁ/etn+에/jca
+8	따라	따르+아	SCONJ	_	15	ccomp	_	_	따르/pvg+아/ecs
+9	소비지출중에서	소비+지출+중+에서	ADV	_	11	advcl	_	_	소비/ncpa+지출/ncpa+중/xsn+에서/jca
+10	식료품비의	식료품비+의	NOUN	_	11	nmod	_	_	식료품비/ncn+의/jcm
+11	비중은	비중+은	NOUN	_	13	dislocated	_	_	비중/ncn+은/jxt
+12	계속해서	계속+하+어서	SCONJ	_	13	ccomp	_	_	계속/ncpa+하/xsv+어서/ecs
+13	감소할	감소+하+ㄹ	VERB	_	14	acl	_	_	감소/ncpa+하/xsv+ㄹ/etm
+14	것으로	것+으로	ADV	_	15	advcl	_	_	것/nbn+으로/jca
+15	예측된다	예측+되+ㄴ다	VERB	_	0	root	_	_	예측/ncpa+되/xsv+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그리고 식료품비의 비중이 감소하는 대신 교육 교양 오락비와 교제비 등 문화비 성격의 비목 비중이 증가될 것으로 예상된다 .
+1	그리고	그리고	CCONJ	_	17	cc	_	_	그리고/maj
+2	식료품비의	식료품비+의	NOUN	_	3	nmod	_	_	식료품비/ncn+의/jcm
+3	비중이	비중+이	NOUN	_	4	nsubj	_	_	비중/ncn+이/jcs
+4	감소하는	감소+하+는	VERB	_	5	acl	_	_	감소/ncpa+하/xsv+는/etm
+5	대신	대신	NOUN	_	15	advmod	_	_	대신/ncpa
+6	교육	교육	NOUN	_	7	compound	_	_	교육/ncpa
+7	교양	교양	NOUN	_	8	conj	_	_	교양/ncn
+8	오락비와	오락비+와	CCONJ	_	9	conj	_	_	오락비/ncn+와/jcj
+9	교제비	교제비	NOUN	_	10	compound	_	_	교제비/ncn
+10	등	등	NOUN	_	13	mark	_	_	등/nbn
+11	문화비	문화비	NOUN	_	12	compound	_	_	문화비/ncn
+12	성격의	성격+의	NOUN	_	13	nmod	_	_	성격/ncn+의/jcm
+13	비목	비목	NOUN	_	14	compound	_	_	비목/ncn
+14	비중이	비중+이	NOUN	_	15	nsubj	_	_	비중/ncn+이/jcs
+15	증가될	증가+되+ㄹ	VERB	_	16	acl	_	_	증가/ncpa+되/xsv+ㄹ/etm
+16	것으로	것+으로	ADV	_	17	advcl	_	_	것/nbn+으로/jca
+17	예상된다	예상+되+ㄴ다	VERB	_	0	root	_	_	예상/ncpa+되/xsv+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 다음에는 가계소비구조의 분석을 위해 한일간의 횡단면자료를 이용하여 가구속성별 특징을 찾아내어 양국간 비교를 하기도 한다 .
+1	다음에는	다음+에+는	NOUN	_	14	dislocated	_	_	다음/ncn+에/jca+는/jxt
+2	가계소비구조의	가계+소비+구조+의	NOUN	_	3	nmod	_	_	가계/ncn+소비/ncpa+구조/ncpa+의/jcm
+3	분석을	분석+을	NOUN	_	4	obj	_	_	분석/ncpa+을/jco
+4	위해	위하+어	SCONJ	_	13	conj	_	_	위하/pvg+어/ecs
+5	한일간의	한일+간+의	NOUN	_	6	nmod	_	_	한일/ncn+간/xsn+의/jcm
+6	횡단면자료를	횡단면+자료+를	NOUN	_	7	obj	_	_	횡단면/ncn+자료/ncn+를/jco
+7	이용하여	이용+하+어	SCONJ	_	10	ccomp	_	_	이용/ncpa+하/xsv+어/ecs
+8	가구속성별	가구+속성별	NOUN	_	9	compound	_	_	가구/ncn+속성별/ncn
+9	특징을	특징+을	NOUN	_	10	obj	_	_	특징/ncn+을/jco
+10	찾아내어	찾+아+내+어	SCONJ	_	13	ccomp	_	_	찾/pvg+아/ecx+내/px+어/ecs
+11	양국간	양국+간	NOUN	_	12	advmod	_	_	양국/ncn+간/xsn
+12	비교를	비교+를	NOUN	_	13	obj	_	_	비교/ncpa+를/jco
+13	하기도	하+기+도	ADV	_	14	advcl	_	_	하/pvg+기/etn+도/jxc
+14	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 특히 여기서는 가구속성별 특징 중에서 소득계층별 , 가구주 근무산업별 특징에 중점을 두고 분석하기로 한다 .
+1	특히	특히	ADV	_	14	advmod	_	_	특히/mag
+2	여기서는	여기+서+는	PRON	_	14	dislocated	_	_	여기/npd+서/jca+는/jxt
+3	가구속성별	가구+속성별	NOUN	_	4	compound	_	_	가구/ncn+속성별/ncn
+4	특징	특징	NOUN	_	5	compound	_	_	특징/ncpa
+5	중에서	중+에서	ADV	_	10	advcl	_	_	중/nbn+에서/jca
+6	소득계층별	소득+계층별	NOUN	_	9	conj	_	_	소득/ncpa+계층별/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	가구주	가구주	NOUN	_	9	compound	_	_	가구주/ncn
+9	근무산업별	근무+산업별	NOUN	_	10	compound	_	_	근무/ncpa+산업별/ncn
+10	특징에	특징+에	ADV	_	12	obl	_	_	특징/ncn+에/jca
+11	중점을	중점+을	NOUN	_	12	obj	_	_	중점/ncn+을/jco
+12	두고	두+고	CCONJ	_	13	conj	_	_	두/pvg+고/ecc
+13	분석하기로	분석+하+기+로	ADV	_	14	advcl	_	_	분석/ncpa+하/xsv+기/etn+로/jca
+14	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그리고 비교대상 년도는 90 년에 한정하기로 한다 .
+1	그리고	그리고	CCONJ	_	7	cc	_	_	그리고/maj
+2	비교대상	비교+대상	NOUN	_	3	compound	_	_	비교/ncpa+대상/ncn
+3	년도는	년도+는	NOUN	_	6	dislocated	_	_	년도/nbu+는/jxt
+4	90	90	NUM	_	5	nummod	_	_	90/nno
+5	년에	년+에	ADV	_	6	obl	_	_	년/nbu+에/jca
+6	한정하기로	한정+하+기+로	ADV	_	7	advcl	_	_	한정/ncpa+하/xsv+기/etn+로/jca
+7	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 먼저 소득 5 분위 계층별 가계의 흑자율과 평균소비성향에 대해 한일간의 특징을 보면 다음과 같다 .
+1	먼저	먼저	ADV	_	12	advmod	_	_	먼저/mag
+2	소득	소득	NOUN	_	4	compound	_	_	소득/ncpa
+3	5	5	NUM	_	4	nummod	_	_	5/nnc
+4	분위	분위	NOUN	_	6	compound	_	_	분위/nbu
+5	계층별	계층별	NOUN	_	6	compound	_	_	계층별/ncn
+6	가계의	가계+의	NOUN	_	8	nmod	_	_	가계/ncn+의/jcm
+7	흑자율과	흑자율+과	CCONJ	_	8	conj	_	_	흑자율/ncn+과/jcj
+8	평균소비성향에	평균+소비+성향+에	ADV	_	9	obl	_	_	평균/ncpa+소비/ncpa+성향/ncn+에/jca
+9	대해	대하+어	SCONJ	_	12	ccomp	_	_	대하/pvg+어/ecs
+10	한일간의	한일+간+의	NOUN	_	11	nmod	_	_	한일/ncn+간/xsn+의/jcm
+11	특징을	특징+을	NOUN	_	12	obj	_	_	특징/ncn+을/jco
+12	보면	보+면	SCONJ	_	14	conj	_	_	보/pvg+면/ecs
+13	다음과	다음+과	CCONJ	_	14	conj	_	_	다음/ncn+과/jct
+14	같다	같+다	ADJ	_	0	root	_	_	같/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 첫째 , 가계의 흑자율을 보면 한국과 일본 양국에서 모두 소득계층이 높아짐에 따라 증대하고 있음을 알 수 있다 .
+1	첫째	첫째	NUM	_	15	nummod	_	_	첫째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	가계의	가계+의	NOUN	_	4	nmod	_	_	가계/ncn+의/jcm
+4	흑자율을	흑자율+을	NOUN	_	5	obj	_	_	흑자율/ncn+을/jco
+5	보면	보+면	SCONJ	_	15	ccomp	_	_	보/pvg+면/ecs
+6	한국과	한국+과	CCONJ	_	7	conj	_	_	한국/nq+과/jcj
+7	일본	일본	PROPN	_	8	compound	_	_	일본/nq
+8	양국에서	양국+에서	ADV	_	13	advcl	_	_	양국/ncn+에서/jca
+9	모두	모두	ADV	_	13	advmod	_	_	모두/mag
+10	소득계층이	소득+계층+이	NOUN	_	11	nsubj	_	_	소득/ncpa+계층/ncn+이/jcs
+11	높아짐에	높+아+지+ㅁ+에	ADV	_	12	obl	_	_	높/paa+아/ecx+지/px+ㅁ/etn+에/jca
+12	따라	따르+아	SCONJ	_	13	ccomp	_	_	따르/pvg+아/ecs
+13	증대하고	증대+하+고	VERB	_	15	obj	_	_	증대/ncpa+하/xsv+고/ecx
+14	있음을	있+ㅁ+을	NOUN	_	13	aux	_	_	있/px+ㅁ/etn+을/jco
+15	알	알+ㄹ	VERB	_	0	root	_	_	알/pvg+ㄹ/etm
+16	수	수	NOUN	_	17	fixed	_	_	수/nbn
+17	있다	있+다	ADJ	_	15	aux	_	_	있/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그리고 최고소득계층의 양국비교에서는 반대로 한국의 경우는 32.9 % , 일본의 경우는 28.2 % 로 나타나 오히려 한국의 최고소득계층에서의 흑자율이 더 높은 것으로 나타났다 .
+1	그리고	그리고	CCONJ	_	23	cc	_	_	그리고/maj
+2	최고소득계층의	최고+소득+계층+의	NOUN	_	3	nmod	_	_	최고/ncn+소득/ncpa+계층/ncn+의/jcm
+3	양국비교에서는	양국+비교+에서+는	NOUN	_	15	dislocated	_	_	양국/ncn+비교/ncpa+에서/jca+는/jxt
+4	반대로	반대+로	ADV	_	15	advcl	_	_	반대/ncpa+로/jca
+5	한국의	한국+의	PROPN	_	6	nmod	_	_	한국/nq+의/jcm
+6	경우는	경우+는	NOUN	_	7	dislocated	_	_	경우/ncn+는/jxt
+7	32.9	32.9	NUM	_	12	nummod	_	_	32.9/nnc
+8	%	%	SYM	_	7	punct	_	_	%/su
+9	,	,	PUNCT	_	7	punct	_	_	,/sp
+10	일본의	일본+의	PROPN	_	11	nmod	_	_	일본/nq+의/jcm
+11	경우는	경우+는	NOUN	_	12	dislocated	_	_	경우/ncn+는/jxt
+12	28.2	28.2	NUM	_	15	nummod	_	_	28.2/nnc
+13	%	%	SYM	_	12	punct	_	_	%/su
+14	로	로	ADP	_	12	case	_	_	로/jca
+15	나타나	나타나+아	SCONJ	_	23	ccomp	_	_	나타나/pvg+아/ecs
+16	오히려	오히려	ADV	_	21	advmod	_	_	오히려/mag
+17	한국의	한국+의	PROPN	_	18	nmod	_	_	한국/nq+의/jcm
+18	최고소득계층에서의	최고+소득+계층+에서+의	NOUN	_	19	nmod	_	_	최고/ncn+소득/ncpa+계층/ncn+에서/jca+의/jcm
+19	흑자율이	흑자율+이	NOUN	_	21	nsubj	_	_	흑자율/ncn+이/jcs
+20	더	더	ADV	_	21	advmod	_	_	더/mag
+21	높은	높+ㄴ	ADJ	_	22	amod	_	_	높/paa+ㄴ/etm
+22	것으로	것+으로	ADV	_	23	advcl	_	_	것/nbn+으로/jca
+23	나타났다	나타나+ㅆ+다	VERB	_	0	root	_	_	나타나/pvg+ㅆ/ep+다/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+
+# 이와 같은 사실을 통해서 한국의 경우는 가계의 운영상태가 일본에 비해 상당히 불균등하다는 점을 알 수 있다 .
+1	이와	이+와	CCONJ	_	2	conj	_	_	이/npd+와/jct
+2	같은	같+ㄴ	ADJ	_	3	amod	_	_	같/paa+ㄴ/etm
+3	사실을	사실+을	NOUN	_	4	obj	_	_	사실/ncn+을/jco
+4	통해서	통하+어서	SCONJ	_	14	ccomp	_	_	통하/pvg+어서/ecs
+5	한국의	한국+의	PROPN	_	6	nmod	_	_	한국/nq+의/jcm
+6	경우는	경우+는	NOUN	_	12	dislocated	_	_	경우/ncn+는/jxt
+7	가계의	가계+의	NOUN	_	8	nmod	_	_	가계/ncn+의/jcm
+8	운영상태가	운영+상태+가	NOUN	_	12	nsubj	_	_	운영/ncpa+상태/ncn+가/jcs
+9	일본에	일본+에	ADV	_	10	obl	_	_	일본/nq+에/jca
+10	비해	비하+어	SCONJ	_	12	conj	_	_	비하/pvg+어/ecs
+11	상당히	상당+히	ADV	_	12	advmod	_	_	상당/ncps+히/xsa
+12	불균등하다는	불+균등+하+다는	PART	_	13	amod	_	_	불/xp+균등/ncps+하/xsm+다는/etm
+13	점을	점+을	NOUN	_	14	obj	_	_	점/ncn+을/jco
+14	알	알+ㄹ	VERB	_	0	root	_	_	알/pvg+ㄹ/etm
+15	수	수	NOUN	_	16	fixed	_	_	수/nbn
+16	있다	있+다	ADJ	_	14	aux	_	_	있/paa+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 둘째 , 평균소비성향은 양국 모두 소득수준이 높아짐에 따라 감소하고 있다는 것을 보여주고 있다 .
+1	둘째	둘째	NUM	_	12	nummod	_	_	둘째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	평균소비성향은	평균+소비+성향+은	NOUN	_	9	dislocated	_	_	평균/ncpa+소비/ncpa+성향/ncn+은/jxt
+4	양국	양국	NOUN	_	5	dep	_	_	양국/ncn
+5	모두	모두	ADV	_	9	advmod	_	_	모두/mag
+6	소득수준이	소득+수준+이	NOUN	_	7	nsubj	_	_	소득/ncpa+수준/ncn+이/jcs
+7	높아짐에	높+아+지+ㅁ+에	ADV	_	8	obl	_	_	높/paa+아/ecx+지/px+ㅁ/etn+에/jca
+8	따라	따르+아	SCONJ	_	9	ccomp	_	_	따르/pvg+아/ecs
+9	감소하고	감소+하+고	VERB	_	11	acl	_	_	감소/ncpa+하/xsv+고/ecx
+10	있다는	있+다는	AUX	_	9	aux	_	_	있/px+다는/etm
+11	것을	것+을	NOUN	_	12	obj	_	_	것/nbn+을/jco
+12	보여주고	보이+어+주+고	AUX	_	0	root	_	_	보이/pvg+어/ecx+주/px+고/ecx
+13	있다	있+다	AUX	_	12	aux	_	_	있/px+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 평균소비성향의 경우도 흑자율에서와 마찬가지로 한국의 수치는 일본에 비해 최저 소득계층에서는 높고 최고 소득계층에서는 낮게 나타나 있다 .
+1	평균소비성향의	평균+소비+성향+의	NOUN	_	2	nmod	_	_	평균/ncpa+소비/ncpa+성향/ncn+의/jcm
+2	경우도	경우+도	ADV	_	15	advcl	_	_	경우/ncn+도/jxc
+3	흑자율에서와	흑자율+에서+와	CCONJ	_	4	conj	_	_	흑자율/ncn+에서/jca+와/jct
+4	마찬가지로	마찬가지+로	ADV	_	15	advcl	_	_	마찬가지/ncn+로/jca
+5	한국의	한국+의	PROPN	_	6	nmod	_	_	한국/nq+의/jcm
+6	수치는	수치+는	NOUN	_	14	dislocated	_	_	수치/ncn+는/jxt
+7	일본에	일본+에	ADV	_	8	obl	_	_	일본/nq+에/jca
+8	비해	비하+어	SCONJ	_	14	conj	_	_	비하/pvg+어/ecs
+9	최저	최저	NOUN	_	10	compound	_	_	최저/ncn
+10	소득계층에서는	소득+계층+에서+는	NOUN	_	11	dislocated	_	_	소득/ncn+계층/ncn+에서/jca+는/jxt
+11	높고	높+고	CCONJ	_	14	conj	_	_	높/paa+고/ecc
+12	최고	최고	NOUN	_	13	compound	_	_	최고/ncn
+13	소득계층에서는	소득+계층+에서+는	NOUN	_	14	dislocated	_	_	소득/ncpa+계층/ncn+에서/jca+는/jxt
+14	낮게	낮+게	SCONJ	_	15	xcomp	_	_	낮/paa+게/ecs
+15	나타나	나타나+아	VERB	_	0	root	_	_	나타나/pvg+아/ecx
+16	있다	있+다	AUX	_	15	aux	_	_	있/px+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 가구주 근무산업별 소비지출 비교를 보면 한일 양국간에 다음과 같은 차이가 존재한다 .
+1	가구주	가구주	NOUN	_	2	compound	_	_	가구주/ncn
+2	근무산업별	근무+산업별	NOUN	_	4	compound	_	_	근무/ncpa+산업별/ncn
+3	소비지출	소비+지출	NOUN	_	4	compound	_	_	소비/ncpa+지출/ncpa
+4	비교를	비교+를	NOUN	_	5	obj	_	_	비교/ncpa+를/jco
+5	보면	보+면	SCONJ	_	11	conj	_	_	보/pvg+면/ecs
+6	한일	한일	NOUN	_	7	compound	_	_	한일/ncn
+7	양국간에	양국+간+에	ADV	_	11	obl	_	_	양국/ncn+간/xsn+에/jca
+8	다음과	다음+과	CCONJ	_	9	conj	_	_	다음/ncn+과/jct
+9	같은	같+ㄴ	ADJ	_	10	amod	_	_	같/paa+ㄴ/etm
+10	차이가	차이+가	NOUN	_	11	nsubj	_	_	차이/ncn+가/jcs
+11	존재한다	존재+하+ㄴ다	VERB	_	0	root	_	_	존재/ncps+하/xsm+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 일본의 경우는 제조업 , 전기 , 가스 , 수도업 , 금융 , 보험 , 용역업 , 서비스업 , 기타산업 등에서 평균치를 웃돌고 있다 .
+1	일본의	일본+의	PROPN	_	2	nmod	_	_	일본/nq+의/jcm
+2	경우는	경우+는	NOUN	_	22	dislocated	_	_	경우/ncn+는/jxt
+3	제조업	제조업	NOUN	_	5	conj	_	_	제조업/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	전기	전기	NOUN	_	7	conj	_	_	전기/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	가스	가스	NOUN	_	9	conj	_	_	가스/ncn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	수도업	수도업	NOUN	_	11	conj	_	_	수도업/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	금융	금융	NOUN	_	13	conj	_	_	금융/ncn
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	보험	보험	NOUN	_	15	conj	_	_	보험/ncn
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	용역업	용역업	NOUN	_	17	conj	_	_	용역업/ncn
+16	,	,	PUNCT	_	15	punct	_	_	,/sp
+17	서비스업	서비스업	NOUN	_	19	conj	_	_	서비스업/ncn
+18	,	,	PUNCT	_	17	punct	_	_	,/sp
+19	기타산업	기타+산업	NOUN	_	20	compound	_	_	기타/ncn+산업/ncn
+20	등에서	등+에서	ADV	_	22	advcl	_	_	등/nbn+에서/jca
+21	평균치를	평균치+를	NOUN	_	22	obj	_	_	평균치/ncn+를/jco
+22	웃돌고	웃돌+고	VERB	_	0	root	_	_	웃돌/pvg+고/ecx
+23	있다	있+다	AUX	_	22	aux	_	_	있/px+다/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+
+# 특히 한국에 비해 일본의 경우는 제조업에 종사하는 것이 확실한 직장과 일정한 소득을 보장해 준다는 시사점을 얻을 수 있다 .
+1	특히	특히	ADV	_	16	advmod	_	_	특히/mag
+2	한국에	한국+에	ADV	_	3	obl	_	_	한국/nq+에/jca
+3	비해	비하+어	SCONJ	_	13	ccomp	_	_	비하/pvg+어/ecs
+4	일본의	일본+의	PROPN	_	5	nmod	_	_	일본/nq+의/jcm
+5	경우는	경우+는	NOUN	_	13	dislocated	_	_	경우/ncn+는/jxt
+6	제조업에	제조업+에	ADV	_	7	obl	_	_	제조업/ncn+에/jca
+7	종사하는	종사+하+는	VERB	_	8	acl	_	_	종사/ncpa+하/xsv+는/etm
+8	것이	것+이	NOUN	_	13	nsubj	_	_	것/nbn+이/jcs
+9	확실한	확실+하+ㄴ	VERB	_	10	amod	_	_	확실/ncps+하/xsm+ㄴ/etm
+10	직장과	직장+과	CCONJ	_	12	conj	_	_	직장/ncn+과/jcj
+11	일정한	일정+하+ㄴ	VERB	_	12	amod	_	_	일정/ncps+하/xsm+ㄴ/etm
+12	소득을	소득+을	NOUN	_	13	obj	_	_	소득/ncpa+을/jco
+13	보장해	보장+하+어	VERB	_	15	acl	_	_	보장/ncpa+하/xsv+어/ecx
+14	준다는	주+ㄴ다는	AUX	_	13	aux	_	_	주/px+ㄴ다는/etm
+15	시사점을	시사점+을	NOUN	_	16	obj	_	_	시사점/ncn+을/jco
+16	얻을	얻+ㄹ	VERB	_	0	root	_	_	얻/pvg+ㄹ/etm
+17	수	수	NOUN	_	18	fixed	_	_	수/nbn
+18	있다	있+다	ADJ	_	16	aux	_	_	있/paa+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 가구주 직업별 부채보유액을 보면 자유업종사자가 325만 원으로 가장 많고 다음이 자영업자 ( 283만원 ) , 봉급생활자 ( 224만원 ) , 일용노동자 ( 162만원 ) , 기타 ( 158만원 ) 의 순으로 나타났다 .
+1	가구주	가구주	NOUN	_	2	compound	_	_	가구주/ncn
+2	직업별	직업별	NOUN	_	3	compound	_	_	직업별/ncn
+3	부채보유액을	부채+보유액+을	NOUN	_	4	obj	_	_	부채/ncn+보유액/ncn+을/jco
+4	보면	보+면	SCONJ	_	32	ccomp	_	_	보/pvg+면/ecs
+5	자유업종사자가	자유업+종사자+가	NOUN	_	9	nsubj	_	_	자유업/ncn+종사자/ncn+가/jcs
+6	325만	325+만	NUM	_	7	compound	_	_	325/nnc+만/nnc
+7	원으로	원+으로	ADV	_	9	advcl	_	_	원/nbu+으로/jca
+8	가장	가장	ADV	_	9	advmod	_	_	가장/mag
+9	많고	많+고	CCONJ	_	32	conj	_	_	많/paa+고/ecc
+10	다음이	다음+이	NOUN	_	32	nsubj	_	_	다음/ncn+이/jcs
+11	자영업자	자영+업자	NOUN	_	26	compound	_	_	자영/ncpa+업자/ncn
+12	(	(	PUNCT	_	13	punct	_	_	(/sl
+13	283만원	283+만+원	NOUN	_	11	appos	_	_	283/nnc+만/nnc+원/nbu
+14	)	)	PUNCT	_	13	punct	_	_	)/sr
+15	,	,	PUNCT	_	11	punct	_	_	,/sp
+16	봉급생활자	봉급+생활자	NOUN	_	26	compound	_	_	봉급/ncn+생활자/ncn
+17	(	(	PUNCT	_	18	punct	_	_	(/sl
+18	224만원	224+만+원	NOUN	_	16	appos	_	_	224/nnc+만/nnc+원/nbu
+19	)	)	PUNCT	_	18	punct	_	_	)/sr
+20	,	,	PUNCT	_	16	punct	_	_	,/sp
+21	일용노동자	일용+노동자	NOUN	_	26	compound	_	_	일용/ncn+노동자/ncn
+22	(	(	PUNCT	_	23	punct	_	_	(/sl
+23	162만원	162+만+원	NOUN	_	21	appos	_	_	162/nnc+만/nnc+원/nbu
+24	)	)	PUNCT	_	23	punct	_	_	)/sr
+25	,	,	PUNCT	_	21	punct	_	_	,/sp
+26	기타	기타	NOUN	_	31	nmod	_	_	기타/ncn
+27	(	(	PUNCT	_	28	punct	_	_	(/sl
+28	158만원	158+만+원	NOUN	_	26	appos	_	_	158/nnc+만/nnc+원/nbu
+29	)	)	PUNCT	_	28	punct	_	_	)/sr
+30	의	의	ADP	_	26	case	_	_	의/jcm
+31	순으로	순+으로	ADV	_	32	advcl	_	_	순/ncn+으로/jca
+32	나타났다	나타나+ㅆ+다	VERB	_	0	root	_	_	나타나/pvg+ㅆ/ep+다/ef
+33	.	.	PUNCT	_	32	punct	_	_	./sf
+
+# 차입기관별로 구성비를 보면 봉급 생활자 , 기타의 전체부채 중 은행부채는 각각 59.3 % , 59.7 % 를 차지하였으며 일용근로자의 경우 33.9 % 로 가장 낮은 구성비를 보였다 .
+1	차입기관별로	차입+기관별+로	ADV	_	3	advcl	_	_	차입/ncpa+기관별/ncn+로/jca
+2	구성비를	구성비+를	NOUN	_	3	obj	_	_	구성비/ncn+를/jco
+3	보면	보+면	SCONJ	_	27	ccomp	_	_	보/pvg+면/ecs
+4	봉급	봉급	NOUN	_	5	compound	_	_	봉급/ncn
+5	생활자	생활자	NOUN	_	7	compound	_	_	생활자/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	기타의	기타+의	NOUN	_	8	nmod	_	_	기타/ncn+의/jcm
+8	전체부채	전체+부채	NOUN	_	9	compound	_	_	전체/ncn+부채/ncn
+9	중	중	NOUN	_	18	advmod	_	_	중/nbn
+10	은행부채는	은행+부채+는	NOUN	_	18	dislocated	_	_	은행/ncn+부채/ncn+는/jxt
+11	각각	각각	ADV	_	18	advmod	_	_	각각/mag
+12	59.3	59.3	NUM	_	15	conj	_	_	59.3/nnc
+13	%	%	SYM	_	15	punct	_	_	%/su
+14	,	,	PUNCT	_	12	punct	_	_	,/sp
+15	59.7	59.7	NUM	_	18	nummod	_	_	59.7/nnc
+16	%	%	SYM	_	15	punct	_	_	%/su
+17	를	를	ADP	_	15	case	_	_	를/jco
+18	차지하였으며	차지+하+었+으며	CCONJ	_	27	conj	_	_	차지/ncpa+하/xsv+었/ep+으며/ecc
+19	일용근로자의	일용+근로자+의	NOUN	_	20	nmod	_	_	일용/ncn+근로자/ncn+의/jcm
+20	경우	경우	NOUN	_	27	advmod	_	_	경우/ncn
+21	33.9	33.9	NUM	_	25	nummod	_	_	33.9/nnc
+22	%	%	SYM	_	21	punct	_	_	%/su
+23	로	로	ADP	_	21	case	_	_	로/jca
+24	가장	가장	ADV	_	25	advmod	_	_	가장/mag
+25	낮은	낮+ㄴ	ADJ	_	26	amod	_	_	낮/paa+ㄴ/etm
+26	구성비를	구성비+를	NOUN	_	27	obj	_	_	구성비/ncn+를/jco
+27	보였다	보이+었+다	VERB	_	0	root	_	_	보이/pvg+었/ep+다/ef
+28	.	.	PUNCT	_	27	punct	_	_	./sf
+
+# 반면 은행 이외 금융기관으로부터의 부채는 일용근로자가 27.6 % 로 가장 높으며 봉급생활자가 16.4 % 로 가장 낮게 나타났다 .
+1	반면	반면	NOUN	_	18	advmod	_	_	반면/ncn
+2	은행	은행	NOUN	_	3	compound	_	_	은행/ncn
+3	이외	이외	NOUN	_	4	compound	_	_	이외/ncn
+4	금융기관으로부터의	금융+기관+으로+부터+의	NOUN	_	5	nmod	_	_	금융/ncn+기관/ncn+으로/jca+부터/jxc+의/jcm
+5	부채는	부채+는	NOUN	_	18	dislocated	_	_	부채/ncn+는/jxt
+6	일용근로자가	일용+근로자+가	NOUN	_	11	nsubj	_	_	일용/ncn+근로자/ncn+가/jcs
+7	27.6	27.6	NUM	_	11	nummod	_	_	27.6/nnc
+8	%	%	SYM	_	7	punct	_	_	%/su
+9	로	로	ADP	_	7	case	_	_	로/jca
+10	가장	가장	ADV	_	11	advmod	_	_	가장/mag
+11	높으며	높+으며	CCONJ	_	18	conj	_	_	높/paa+으며/ecc
+12	봉급생활자가	봉급+생활자+가	NOUN	_	18	nsubj	_	_	봉급/ncn+생활자/ncn+가/jcs
+13	16.4	16.4	NUM	_	18	nummod	_	_	16.4/nnc
+14	%	%	SYM	_	13	punct	_	_	%/su
+15	로	로	ADP	_	13	case	_	_	로/jca
+16	가장	가장	ADV	_	17	advmod	_	_	가장/mag
+17	낮게	낮+게	SCONJ	_	18	xcomp	_	_	낮/paa+게/ecs
+18	나타났다	나타나+ㅆ+다	VERB	_	0	root	_	_	나타나/pvg+ㅆ/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 또한 사채나 계 등의 사금융은 일용근로자가 38.6 % 로 가장 높게 나타났으며 다음이 자영업자 ( 30.0 % ) , 자유업종사자 ( 23.1 % ) , 봉급생활자 ( 20.8 % ) , 기타 ( 17.3 % ) 의 순으로 구성비를 보였다 .
+1	또한	또한	CCONJ	_	40	cc	_	_	또한/maj
+2	사채나	사채+나	CCONJ	_	3	conj	_	_	사채/ncn+나/jcj
+3	계	계	NOUN	_	4	compound	_	_	계/ncn
+4	등의	등+의	NOUN	_	5	nmod	_	_	등/nbn+의/jcm
+5	사금융은	사금융+은	NOUN	_	40	dislocated	_	_	사금융/ncn+은/jxt
+6	일용근로자가	일용+근로자+가	NOUN	_	11	nsubj	_	_	일용/ncn+근로자/ncn+가/jcs
+7	38.6	38.6	NUM	_	11	nummod	_	_	38.6/nnc
+8	%	%	SYM	_	7	punct	_	_	%/su
+9	로	로	ADP	_	7	case	_	_	로/jca
+10	가장	가장	ADV	_	11	advmod	_	_	가장/mag
+11	높게	높+게	SCONJ	_	12	xcomp	_	_	높/paa+게/ecs
+12	나타났으며	나타나+ㅆ+으며	CCONJ	_	40	conj	_	_	나타나/pvg+ㅆ/ep+으며/ecc
+13	다음이	다음+이	NOUN	_	40	nsubj	_	_	다음/ncn+이/jcs
+14	자영업자	자영+업자	NOUN	_	32	compound	_	_	자영/ncpa+업자/ncn
+15	(	(	PUNCT	_	16	punct	_	_	(/sl
+16	30.0	30.0	NUM	_	14	nummod	_	_	30.0/nnc
+17	%	%	SYM	_	16	punct	_	_	%/su
+18	)	)	PUNCT	_	16	punct	_	_	)/sr
+19	,	,	PUNCT	_	14	punct	_	_	,/sp
+20	자유업종사자	자유업+종사자	NOUN	_	32	compound	_	_	자유업/ncn+종사자/ncn
+21	(	(	PUNCT	_	22	punct	_	_	(/sl
+22	23.1	23.1	NUM	_	20	nummod	_	_	23.1/nnc
+23	%	%	SYM	_	22	punct	_	_	%/su
+24	)	)	PUNCT	_	22	punct	_	_	)/sr
+25	,	,	PUNCT	_	20	punct	_	_	,/sp
+26	봉급생활자	봉급+생활자	NOUN	_	32	compound	_	_	봉급/ncn+생활자/ncn
+27	(	(	PUNCT	_	28	punct	_	_	(/sl
+28	20.8	20.8	NUM	_	26	nummod	_	_	20.8/nnc
+29	%	%	SYM	_	28	punct	_	_	%/su
+30	)	)	PUNCT	_	28	punct	_	_	)/sr
+31	,	,	PUNCT	_	26	punct	_	_	,/sp
+32	기타	기타	NOUN	_	38	nmod	_	_	기타/ncn
+33	(	(	PUNCT	_	34	punct	_	_	(/sl
+34	17.3	17.3	NUM	_	32	nummod	_	_	17.3/nnc
+35	%	%	SYM	_	34	punct	_	_	%/su
+36	)	)	PUNCT	_	34	punct	_	_	)/sr
+37	의	의	ADP	_	32	case	_	_	의/jcm
+38	순으로	순+으로	ADV	_	40	advcl	_	_	순/ncn+으로/jca
+39	구성비를	구성비+를	NOUN	_	40	obj	_	_	구성비/ncpa+를/jco
+40	보였다	보이+었+다	VERB	_	0	root	_	_	보이/pvg+었/ep+다/ef
+41	.	.	PUNCT	_	40	punct	_	_	./sf
+
+# 소득계층별 부채보유액은 상위소득계층으로 갈수록 증가하여 [ 30만 원 미만 ] 저소득계층에서는 59만 원이나 [ 150만 원 이상 ] 고소득계층에서는 431만 원에 달하였다 .
+1	소득계층별	소득+계층별	NOUN	_	2	compound	_	_	소득/ncpa+계층별/ncn
+2	부채보유액은	부채+보유액+은	NOUN	_	22	dislocated	_	_	부채/ncn+보유액/ncn+은/jxt
+3	상위소득계층으로	상위+소득+계층+으로	ADV	_	4	advcl	_	_	상위/ncn+소득/ncpa+계층/ncn+으로/jca
+4	갈수록	가+ㄹ수록	SCONJ	_	5	ccomp	_	_	가/pvg+ㄹ수록/ecs
+5	증가하여	증가+하+어	SCONJ	_	22	ccomp	_	_	증가/ncpa+하/xsv+어/ecs
+6	[	[	PUNCT	_	7	punct	_	_	[/sl
+7	30만	30+만	NUM	_	8	compound	_	_	30/nnc+만/nnc
+8	원	원	NOUN	_	9	compound	_	_	원/nbu
+9	미만	미만	NOUN	_	11	compound	_	_	미만/ncps
+10	]	]	PUNCT	_	9	punct	_	_	]/sr
+11	저소득계층에서는	저소득+계층+에서+는	NOUN	_	13	dislocated	_	_	저소득/ncn+계층/ncn+에서/jca+는/jxt
+12	59만	59+만	NUM	_	13	compound	_	_	59/nnc+만/nnc
+13	원이나	원+이+나	SCONJ	_	22	ccomp	_	_	원/nbu+이/jp+나/ecs
+14	[	[	PUNCT	_	15	punct	_	_	[/sl
+15	150만	150+만	NUM	_	16	compound	_	_	150/nnc+만/nnc
+16	원	원	NOUN	_	17	compound	_	_	원/nbu
+17	이상	이상	NOUN	_	19	compound	_	_	이상/ncn
+18	]	]	PUNCT	_	17	punct	_	_	]/sr
+19	고소득계층에서는	고소득+계층+에서+는	NOUN	_	22	dislocated	_	_	고소득/ncn+계층/ncn+에서/jca+는/jxt
+20	431만	431+만	NUM	_	21	compound	_	_	431/nnc+만/nnc
+21	원에	원+에	ADV	_	22	obl	_	_	원/nbu+에/jca
+22	달하였다	달하+었+다	VERB	_	0	root	_	_	달하/pvg+었/ep+다/ef
+23	.	.	PUNCT	_	22	punct	_	_	./sf
+
+# 차입기관별로 구성비를 보면 은행부채는 [ 120 150만 원 미만 ] 소득계층이 66.6 % 로 가장 높은 구성비를 보였으며 [ 30만 원 미만 ] 이 36.7 % 로 가장 낮았다 .
+1	차입기관별로	차입+기관별+로	ADV	_	3	advcl	_	_	차입/ncpa+기관별/ncn+로/jca
+2	구성비를	구성비+를	NOUN	_	3	obj	_	_	구성비/ncpa+를/jco
+3	보면	보+면	SCONJ	_	29	conj	_	_	보/pvg+면/ecs
+4	은행부채는	은행+부채+는	NOUN	_	29	dislocated	_	_	은행/ncn+부채/ncn+는/jxt
+5	[	[	PUNCT	_	7	punct	_	_	[/sl
+6	120	120	NUM	_	7	nummod	_	_	120/nnc
+7	150만	150+만	NUM	_	8	compound	_	_	150/nnc+만/nnc
+8	원	원	NOUN	_	9	compound	_	_	원/nbu
+9	미만	미만	NOUN	_	11	compound	_	_	미만/ncps
+10	]	]	PUNCT	_	9	punct	_	_	]/sr
+11	소득계층이	소득+계층+이	NOUN	_	16	nsubj	_	_	소득/ncpa+계층/ncn+이/jcs
+12	66.6	66.6	NUM	_	16	nummod	_	_	66.6/nnc
+13	%	%	SYM	_	12	punct	_	_	%/su
+14	로	로	ADP	_	12	case	_	_	로/jca
+15	가장	가장	ADV	_	16	advmod	_	_	가장/mag
+16	높은	높+ㄴ	ADJ	_	17	amod	_	_	높/paa+ㄴ/etm
+17	구성비를	구성비+를	NOUN	_	18	obj	_	_	구성비/ncn+를/jco
+18	보였으며	보이+었+으며	CCONJ	_	29	conj	_	_	보이/pvg+었/ep+으며/ecc
+19	[	[	PUNCT	_	20	punct	_	_	[/sl
+20	30만	30+만	NUM	_	21	compound	_	_	30/nnc+만/nnc
+21	원	원	NOUN	_	22	compound	_	_	원/nbu
+22	미만	미만	NOUN	_	29	nsubj	_	_	미만/ncps
+23	]	]	PUNCT	_	22	punct	_	_	]/sr
+24	이	이	ADP	_	22	case	_	_	이/jcs
+25	36.7	36.7	NUM	_	29	nummod	_	_	36.7/nnc
+26	%	%	SYM	_	25	punct	_	_	%/su
+27	로	로	ADP	_	25	case	_	_	로/jca
+28	가장	가장	ADV	_	29	advmod	_	_	가장/mag
+29	낮았다	낮+았+다	ADJ	_	0	root	_	_	낮/paa+았/ep+다/ef
+30	.	.	PUNCT	_	29	punct	_	_	./sf
+
+# 반면 은행 이외 금융기관으로부터의 부채는 [ 30만 원 미만 ] 이 46.8 % 로 가장 높으며 [ 120 150만 원 미만 ] 이 15.4 % 로 가장 낮게 나타났다 .
+1	반면	반면	NOUN	_	29	advmod	_	_	반면/ncn
+2	은행	은행	NOUN	_	3	compound	_	_	은행/ncn
+3	이외	이외	NOUN	_	4	compound	_	_	이외/ncn
+4	금융기관으로부터의	금융+기관+으로+부터+의	NOUN	_	5	nmod	_	_	금융/ncn+기관/ncn+으로/jca+부터/jxc+의/jcm
+5	부채는	부채+는	NOUN	_	29	dislocated	_	_	부채/ncn+는/jxt
+6	[	[	PUNCT	_	7	punct	_	_	[/sl
+7	30만	30+만	NUM	_	8	compound	_	_	30/nnc+만/nnc
+8	원	원	NOUN	_	9	compound	_	_	원/nbu
+9	미만	미만	NOUN	_	16	nsubj	_	_	미만/ncps
+10	]	]	PUNCT	_	9	punct	_	_	]/sr
+11	이	이	ADP	_	9	case	_	_	이/jcs
+12	46.8	46.8	NUM	_	16	nummod	_	_	46.8/nnc
+13	%	%	SYM	_	12	punct	_	_	%/su
+14	로	로	ADP	_	12	case	_	_	로/jca
+15	가장	가장	ADV	_	16	advmod	_	_	가장/mag
+16	높으며	높+으며	CCONJ	_	29	conj	_	_	높/paa+으며/ecc
+17	[	[	PUNCT	_	19	punct	_	_	[/sl
+18	120	120	NUM	_	19	nummod	_	_	120/nnc
+19	150만	150+만	NUM	_	20	compound	_	_	150/nnc+만/nnc
+20	원	원	NOUN	_	21	compound	_	_	원/nbu
+21	미만	미만	NOUN	_	28	nsubj	_	_	미만/ncps
+22	]	]	PUNCT	_	21	punct	_	_	]/sr
+23	이	이	ADP	_	21	case	_	_	이/jcs
+24	15.4	15.4	NUM	_	28	nummod	_	_	15.4/nnc
+25	%	%	SYM	_	24	punct	_	_	%/su
+26	로	로	ADP	_	24	case	_	_	로/jca
+27	가장	가장	ADV	_	28	advmod	_	_	가장/mag
+28	낮게	낮+게	SCONJ	_	29	xcomp	_	_	낮/paa+게/ecs
+29	나타났다	나타나+ㅆ+다	VERB	_	0	root	_	_	나타나/pvg+ㅆ/ep+다/ef
+30	.	.	PUNCT	_	29	punct	_	_	./sf
+
+# 한편 사금융은 [ 50 100만 원 미만 ] 이 31.7 % 로 가장 높으며 [ 30만 원 미만 ] 이 16.5 % 로 가장 낮게 나타났다 .
+1	한편	한편	CCONJ	_	26	cc	_	_	한편/maj
+2	사금융은	사금융+은	PROPN	_	26	dislocated	_	_	사금융/nq+은/jxt
+3	[	[	PUNCT	_	5	punct	_	_	[/sl
+4	50	50	NUM	_	5	nummod	_	_	50/nnc
+5	100만	100+만	NUM	_	6	compound	_	_	100/nnc+만/nnc
+6	원	원	NOUN	_	7	compound	_	_	원/nbu
+7	미만	미만	NOUN	_	14	nsubj	_	_	미만/ncps
+8	]	]	PUNCT	_	7	punct	_	_	]/sr
+9	이	이	ADP	_	7	case	_	_	이/jcs
+10	31.7	31.7	NUM	_	14	nummod	_	_	31.7/nnc
+11	%	%	SYM	_	10	punct	_	_	%/su
+12	로	로	ADP	_	10	case	_	_	로/jca
+13	가장	가장	ADV	_	14	advmod	_	_	가장/mag
+14	높으며	높+으며	CCONJ	_	26	conj	_	_	높/paa+으며/ecc
+15	[	[	PUNCT	_	16	punct	_	_	[/sl
+16	30만	30+만	NUM	_	17	compound	_	_	30/nnc+만/nnc
+17	원	원	NOUN	_	18	compound	_	_	원/nbu
+18	미만	미만	NOUN	_	25	nsubj	_	_	미만/ncps
+19	]	]	PUNCT	_	18	punct	_	_	]/sr
+20	이	이	ADP	_	18	case	_	_	이/jcs
+21	16.5	16.5	NUM	_	25	nummod	_	_	16.5/nnc
+22	%	%	SYM	_	21	punct	_	_	%/su
+23	로	로	ADP	_	21	case	_	_	로/jca
+24	가장	가장	ADV	_	25	advmod	_	_	가장/mag
+25	낮게	낮+게	SCONJ	_	26	xcomp	_	_	낮/paa+게/ecs
+26	나타났다	나타나+ㅆ+다	VERB	_	0	root	_	_	나타나/pvg+ㅆ/ep+다/ef
+27	.	.	PUNCT	_	26	punct	_	_	./sf
+
+# 이를 전년도와 비교하면 신용협동조합이 42.6 % 의 증가율을 보여 가장 높은 증가세를 나타냈으며 상호신용금고 및 증권 보험회사는 각각 30.3 % , 29.5 % 의 증가율을 보였다 .
+1	이를	이+를	PRON	_	3	obj	_	_	이/npd+를/jco
+2	전년도와	전년도+와	CCONJ	_	3	conj	_	_	전년도/ncn+와/jct
+3	비교하면	비교+하+면	SCONJ	_	26	ccomp	_	_	비교/ncpa+하/xsv+면/ecs
+4	신용협동조합이	신용협동조합+이	PROPN	_	13	nsubj	_	_	신용협동조합/nq+이/jcs
+5	42.6	42.6	NUM	_	8	nummod	_	_	42.6/nnc
+6	%	%	SYM	_	5	punct	_	_	%/su
+7	의	의	ADP	_	5	case	_	_	의/jcm
+8	증가율을	증가율+을	NOUN	_	9	obj	_	_	증가율/ncn+을/jco
+9	보여	보이+어	SCONJ	_	13	ccomp	_	_	보이/pvg+어/ecs
+10	가장	가장	ADV	_	11	advmod	_	_	가장/mag
+11	높은	높+ㄴ	ADJ	_	12	amod	_	_	높/paa+ㄴ/etm
+12	증가세를	증가세+를	NOUN	_	13	obj	_	_	증가세/ncn+를/jco
+13	나타냈으며	나타내+ㅆ+으며	CCONJ	_	26	conj	_	_	나타내/pvg+ㅆ/ep+으며/ecc
+14	상호신용금고	상호신용금고	PROPN	_	17	conj	_	_	상호신용금고/nq
+15	및	및	CCONJ	_	17	cc	_	_	및/maj
+16	증권	증권	NOUN	_	17	compound	_	_	증권/ncn
+17	보험회사는	보험+회사+는	NOUN	_	26	dislocated	_	_	보험/ncn+회사/ncn+는/jxt
+18	각각	각각	ADV	_	26	advmod	_	_	각각/mag
+19	30.3	30.3	NUM	_	22	conj	_	_	30.3/nnc
+20	%	%	SYM	_	22	punct	_	_	%/su
+21	,	,	PUNCT	_	19	punct	_	_	,/sp
+22	29.5	29.5	NUM	_	25	nummod	_	_	29.5/nnc
+23	%	%	SYM	_	22	punct	_	_	%/su
+24	의	의	ADP	_	22	case	_	_	의/jcm
+25	증가율을	증가율+을	NOUN	_	26	obj	_	_	증가율/ncn+을/jco
+26	보였다	보이+었+다	VERB	_	0	root	_	_	보이/pvg+었/ep+다/ef
+27	.	.	PUNCT	_	26	punct	_	_	./sf
+
+# 이를 전년도와 비교하면 [ 주위사람의 안내 ] 및 [ 기타 ] 동기는 각각 0.6 % 포인트 , 7.1 % 포인트 증가하였으나 그 외 동기별 구성비는 감소하였다 .
+1	이를	이+를	PRON	_	3	obj	_	_	이/npd+를/jco
+2	전년도와	전년도+와	CCONJ	_	3	conj	_	_	전년도/ncn+와/jct
+3	비교하면	비교+하+면	SCONJ	_	26	ccomp	_	_	비교/ncpa+하/xsv+면/ecs
+4	[	[	PUNCT	_	5	punct	_	_	[/sl
+5	주위사람의	주위+사람+의	NOUN	_	6	nmod	_	_	주위/ncn+사람/ncn+의/jcm
+6	안내	안내	NOUN	_	10	conj	_	_	안내/ncpa
+7	]	]	PUNCT	_	6	punct	_	_	]/sr
+8	및	및	CCONJ	_	10	cc	_	_	및/maj
+9	[	[	PUNCT	_	10	punct	_	_	[/sl
+10	기타	기타	NOUN	_	12	compound	_	_	기타/ncn
+11	]	]	PUNCT	_	10	punct	_	_	]/sr
+12	동기는	동기+는	NOUN	_	21	dislocated	_	_	동기/ncn+는/jxt
+13	각각	각각	ADV	_	21	advmod	_	_	각각/mag
+14	0.6	0.6	NUM	_	16	nummod	_	_	0.6/nnc
+15	%	%	SYM	_	14	punct	_	_	%/su
+16	포인트	포인트	NOUN	_	20	compound	_	_	포인트/nbu
+17	,	,	PUNCT	_	16	punct	_	_	,/sp
+18	7.1	7.1	NUM	_	20	nummod	_	_	7.1/nnc
+19	%	%	SYM	_	18	punct	_	_	%/su
+20	포인트	포인트	NOUN	_	21	compound	_	_	포인트/nbu
+21	증가하였으나	증가+하+었+으나	SCONJ	_	26	ccomp	_	_	증가/ncpa+하/xsv+었/ep+으나/ecs
+22	그	그	DET	_	23	det	_	_	그/mmd
+23	외	외	NOUN	_	25	compound	_	_	외/ncn
+24	동기별	동기별	NOUN	_	25	compound	_	_	동기별/ncn
+25	구성비는	구성비+는	NOUN	_	26	dislocated	_	_	구성비/ncn+는/jxt
+26	감소하였다	감소+하+었+다	VERB	_	0	root	_	_	감소/ncpa+하/xsv+었/ep+다/ef
+27	.	.	PUNCT	_	26	punct	_	_	./sf
+
+# 이를 전년도와 비교해 보면 이웃은 6.8 % 포인트 증가한 반면 여타 거래처에 대한 구성비는 감소하였음을 알 수 있다 .
+1	이를	이+를	PRON	_	3	obj	_	_	이/npd+를/jco
+2	전년도와	전년도+와	CCONJ	_	3	conj	_	_	전년도/ncn+와/jct
+3	비교해	비교+하+어	VERB	_	16	ccomp	_	_	비교/ncpa+하/xsv+어/ecx
+4	보면	보+면	SCONJ	_	3	aux	_	_	보/px+면/ecs
+5	이웃은	이웃+은	NOUN	_	9	dislocated	_	_	이웃/ncn+은/jxt
+6	6.8	6.8	NUM	_	8	nummod	_	_	6.8/nnc
+7	%	%	SYM	_	6	punct	_	_	%/su
+8	포인트	포인트	NOUN	_	9	compound	_	_	포인트/nbu
+9	증가한	증가+하+ㄴ	VERB	_	10	acl	_	_	증가/ncpa+하/xsv+ㄴ/etm
+10	반면	반면	NOUN	_	15	advmod	_	_	반면/ncn
+11	여타	여타	NOUN	_	12	compound	_	_	여타/ncn
+12	거래처에	거래처+에	ADV	_	13	obl	_	_	거래처/ncn+에/jca
+13	대한	대하+ㄴ	VERB	_	14	acl	_	_	대하/pvg+ㄴ/etm
+14	구성비는	구성비+는	NOUN	_	15	dislocated	_	_	구성비/ncn+는/jxt
+15	감소하였음을	감소+하+었+ㅁ+을	NOUN	_	16	obj	_	_	감소/ncpa+하/xsv+었/ep+ㅁ/etn+을/jco
+16	알	알+ㄹ	VERB	_	0	root	_	_	알/pvg+ㄹ/etm
+17	수	수	NOUN	_	18	fixed	_	_	수/nbn
+18	있다	있+다	ADJ	_	16	aux	_	_	있/paa+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 계를 융자수단으로 이용하는 이유별로 가구구성비를 살펴 보면 [ 목돈융통편리 ] 58.8 % , [ 이용절차간편 ] 20.6 % , [ 친목도모 ] 18.1 % , [ 낮은 비용 ] 2.5 % 의 순으로 나타났다 .
+1	계를	계+를	NOUN	_	3	obj	_	_	계/ncn+를/jco
+2	융자수단으로	융자+수단+으로	ADV	_	3	advcl	_	_	융자/ncpa+수단/ncn+으로/jca
+3	이용하는	이용+하+는	VERB	_	4	acl	_	_	이용/ncpa+하/xsv+는/etm
+4	이유별로	이유별+로	ADV	_	6	advcl	_	_	이유별/ncn+로/jca
+5	가구구성비를	가구+구성비+를	NOUN	_	6	obj	_	_	가구/ncn+구성비/ncn+를/jco
+6	살펴	살피+어	VERB	_	34	ccomp	_	_	살피/pvg+어/ecx
+7	보면	보+면	SCONJ	_	6	aux	_	_	보/px+면/ecs
+8	[	[	PUNCT	_	9	punct	_	_	[/sl
+9	목돈융통편리	목돈+융통+편리	NOUN	_	11	compound	_	_	목돈/ncn+융통/ncpa+편리/ncps
+10	]	]	PUNCT	_	9	punct	_	_	]/sr
+11	58.8	58.8	NUM	_	30	nummod	_	_	58.8/nnc
+12	%	%	SYM	_	11	punct	_	_	%/su
+13	,	,	PUNCT	_	11	punct	_	_	,/sp
+14	[	[	PUNCT	_	15	punct	_	_	[/sl
+15	이용절차간편	이용+절차+간편	NOUN	_	17	compound	_	_	이용/ncpa+절차/ncn+간편/ncps
+16	]	]	PUNCT	_	15	punct	_	_	]/sr
+17	20.6	20.6	NUM	_	30	nummod	_	_	20.6/nnc
+18	%	%	SYM	_	17	punct	_	_	%/su
+19	,	,	PUNCT	_	17	punct	_	_	,/sp
+20	[	[	PUNCT	_	21	punct	_	_	[/sl
+21	친목도모	친목+도모	NOUN	_	23	compound	_	_	친목/ncps+도모/ncpa
+22	]	]	PUNCT	_	21	punct	_	_	]/sr
+23	18.1	18.1	NUM	_	30	nummod	_	_	18.1/nnc
+24	%	%	SYM	_	23	punct	_	_	%/su
+25	,	,	PUNCT	_	23	punct	_	_	,/sp
+26	[	[	PUNCT	_	27	punct	_	_	[/sl
+27	낮은	낮+ㄴ	ADJ	_	28	amod	_	_	낮/paa+ㄴ/etm
+28	비용	비용	NOUN	_	30	compound	_	_	비용/ncn
+29	]	]	PUNCT	_	28	punct	_	_	]/sr
+30	2.5	2.5	NUM	_	33	nummod	_	_	2.5/nnc
+31	%	%	SYM	_	30	punct	_	_	%/su
+32	의	의	ADP	_	30	case	_	_	의/jcm
+33	순으로	순+으로	ADV	_	34	advcl	_	_	순/ncn+으로/jca
+34	나타났다	나타나+ㅆ+다	VERB	_	0	root	_	_	나타나/pvg+ㅆ/ep+다/ef
+35	.	.	PUNCT	_	34	punct	_	_	./sf
+
+# 이를 전년도와 비교하면 [ 친목도모 ] 와 [ 이용절차편리 ] 는 각각 6.2 % , 2.2 % 포인트 증가한 반면 여타 이유는 감소하였음을 알 수 있다 .
+1	이를	이+를	PRON	_	3	obj	_	_	이/npd+를/jco
+2	전년도와	전년도+와	CCONJ	_	3	conj	_	_	전년도/ncn+와/jct
+3	비교하면	비교+하+면	SCONJ	_	24	ccomp	_	_	비교/ncpa+하/xsv+면/ecs
+4	[	[	PUNCT	_	5	punct	_	_	[/sl
+5	친목도모	친목+도모	NOUN	_	9	conj	_	_	친목/ncps+도모/ncpa
+6	]	]	PUNCT	_	5	punct	_	_	]/sr
+7	와	와	CCONJ	_	5	case	_	_	와/jcj
+8	[	[	PUNCT	_	9	punct	_	_	[/sl
+9	이용절차편리	이용+절차+편리	NOUN	_	19	dislocated	_	_	이용/ncpa+절차/ncn+편리/ncps
+10	]	]	PUNCT	_	9	punct	_	_	]/sr
+11	는	는	ADP	_	9	case	_	_	는/jxt
+12	각각	각각	ADV	_	19	advmod	_	_	각각/mag
+13	6.2	6.2	NUM	_	16	conj	_	_	6.2/nnc
+14	%	%	SYM	_	16	punct	_	_	%/su
+15	,	,	PUNCT	_	13	punct	_	_	,/sp
+16	2.2	2.2	NUM	_	18	nummod	_	_	2.2/nnc
+17	%	%	SYM	_	16	punct	_	_	%/su
+18	포인트	포인트	NOUN	_	19	compound	_	_	포인트/nbu
+19	증가한	증가+하+ㄴ	VERB	_	20	acl	_	_	증가/ncpa+하/xsv+ㄴ/etm
+20	반면	반면	NOUN	_	23	advmod	_	_	반면/ncn
+21	여타	여타	NOUN	_	22	compound	_	_	여타/ncn
+22	이유는	이유+는	NOUN	_	23	dislocated	_	_	이유/ncn+는/jxt
+23	감소하였음을	감소+하+었+ㅁ+을	NOUN	_	24	obj	_	_	감소/ncpa+하/xsv+었/ep+ㅁ/etn+을/jco
+24	알	알+ㄹ	VERB	_	0	root	_	_	알/pvg+ㄹ/etm
+25	수	수	NOUN	_	26	fixed	_	_	수/nbn
+26	있다	있+다	ADJ	_	24	aux	_	_	있/paa+다/ef
+27	.	.	PUNCT	_	26	punct	_	_	./sf
+
+# 한국가계의 경우 주택관련 , 내구소비재구입자금 목적의 비중은 87 년 이후 점진적인 증가추세를 보인 반면 일상생활 , 자녀교육 , 기타자금 목적의 비중은 감소추세를 보였다 .
+1	한국가계의	한국+가계+의	PROPN	_	2	nmod	_	_	한국/nq+가계/ncn+의/jcm
+2	경우	경우	NOUN	_	23	advmod	_	_	경우/ncn
+3	주택관련	주택+관련	NOUN	_	5	conj	_	_	주택/ncn+관련/ncpa
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	내구소비재구입자금	내구+소비재+구입+자금	NOUN	_	6	compound	_	_	내구/ncpa+소비재/ncn+구입/ncpa+자금/ncn
+6	목적의	목적+의	NOUN	_	7	nmod	_	_	목적/ncpa+의/jcm
+7	비중은	비중+은	NOUN	_	13	dislocated	_	_	비중/ncn+은/jxt
+8	87	87	NUM	_	9	nummod	_	_	87/nno
+9	년	년	NOUN	_	10	compound	_	_	년/nbu
+10	이후	이후	NOUN	_	13	advmod	_	_	이후/ncn
+11	점진적인	점진+적+이+ㄴ	VERB	_	12	acl	_	_	점진/ncpa+적/xsn+이/jp+ㄴ/etm
+12	증가추세를	증가+추세+를	NOUN	_	13	obj	_	_	증가/ncpa+추세/ncn+를/jco
+13	보인	보이+ㄴ	VERB	_	14	acl	_	_	보이/pvg+ㄴ/etm
+14	반면	반면	NOUN	_	23	advmod	_	_	반면/ncn
+15	일상생활	일상+생활	NOUN	_	17	conj	_	_	일상/ncn+생활/ncpa
+16	,	,	PUNCT	_	15	punct	_	_	,/sp
+17	자녀교육	자녀+교육	NOUN	_	19	conj	_	_	자녀/ncn+교육/ncpa
+18	,	,	PUNCT	_	17	punct	_	_	,/sp
+19	기타자금	기타+자금	NOUN	_	20	compound	_	_	기타/ncn+자금/ncn
+20	목적의	목적+의	NOUN	_	21	nmod	_	_	목적/ncpa+의/jcm
+21	비중은	비중+은	NOUN	_	23	dislocated	_	_	비중/ncn+은/jxt
+22	감소추세를	감소+추세+를	NOUN	_	23	obj	_	_	감소/ncpa+추세/ncn+를/jco
+23	보였다	보이+었+다	VERB	_	0	root	_	_	보이/pvg+었/ep+다/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+
+# 91 년에 집계된 차입목적은 주택관련자금 ( 64.9 % ) , 투자 ( 18.4 % ) , 내구소비제구입 ( 6.0 % ) , 기타 ( 6.0 % ) , 자녀교육 ( 2.4 % ) , 일상생활 ( 2.3 % ) 의 순으로 나타났다 .
+1	91	91	NUM	_	2	nummod	_	_	91/nno
+2	년에	년+에	ADV	_	3	obl	_	_	년/nbu+에/jca
+3	집계된	집계+되+ㄴ	VERB	_	4	acl	_	_	집계/ncpa+되/xsv+ㄴ/etm
+4	차입목적은	차입+목적+은	NOUN	_	42	dislocated	_	_	차입/ncpa+목적/ncpa+은/jxt
+5	주택관련자금	주택+관련+자금	NOUN	_	35	compound	_	_	주택/ncn+관련/ncpa+자금/ncn
+6	(	(	PUNCT	_	7	punct	_	_	(/sl
+7	64.9	64.9	NUM	_	5	nummod	_	_	64.9/nnc
+8	%	%	SYM	_	7	punct	_	_	%/su
+9	)	)	PUNCT	_	7	punct	_	_	)/sr
+10	,	,	PUNCT	_	5	punct	_	_	,/sp
+11	투자	투자	NOUN	_	35	compound	_	_	투자/ncpa
+12	(	(	PUNCT	_	13	punct	_	_	(/sl
+13	18.4	18.4	NUM	_	11	nummod	_	_	18.4/nnc
+14	%	%	SYM	_	13	punct	_	_	%/su
+15	)	)	PUNCT	_	13	punct	_	_	)/sr
+16	,	,	PUNCT	_	11	punct	_	_	,/sp
+17	내구소비제구입	내구+소비제+구입	NOUN	_	35	compound	_	_	내구/ncpa+소비제/ncn+구입/ncpa
+18	(	(	PUNCT	_	19	punct	_	_	(/sl
+19	6.0	6.0	NUM	_	17	nummod	_	_	6.0/nnc
+20	%	%	SYM	_	19	punct	_	_	%/su
+21	)	)	PUNCT	_	19	punct	_	_	)/sr
+22	,	,	PUNCT	_	17	punct	_	_	,/sp
+23	기타	기타	NOUN	_	35	compound	_	_	기타/ncn
+24	(	(	PUNCT	_	25	punct	_	_	(/sl
+25	6.0	6.0	NUM	_	23	nummod	_	_	6.0/nnc
+26	%	%	SYM	_	25	punct	_	_	%/su
+27	)	)	PUNCT	_	25	punct	_	_	)/sr
+28	,	,	PUNCT	_	23	punct	_	_	,/sp
+29	자녀교육	자녀+교육	NOUN	_	35	compound	_	_	자녀/ncn+교육/ncpa
+30	(	(	PUNCT	_	31	punct	_	_	(/sl
+31	2.4	2.4	NUM	_	29	nummod	_	_	2.4/nnc
+32	%	%	SYM	_	31	punct	_	_	%/su
+33	)	)	PUNCT	_	31	punct	_	_	)/sr
+34	,	,	PUNCT	_	29	punct	_	_	,/sp
+35	일상생활	일상+생활	NOUN	_	41	nmod	_	_	일상/ncn+생활/ncpa
+36	(	(	PUNCT	_	37	punct	_	_	(/sl
+37	2.3	2.3	NUM	_	35	nummod	_	_	2.3/nnc
+38	%	%	SYM	_	37	punct	_	_	%/su
+39	)	)	PUNCT	_	37	punct	_	_	)/sr
+40	의	의	ADP	_	35	case	_	_	의/jcm
+41	순으로	순+으로	ADV	_	42	advcl	_	_	순/ncn+으로/jca
+42	나타났다	나타나+ㅆ+다	VERB	_	0	root	_	_	나타나/pvg+ㅆ/ep+다/ef
+43	.	.	PUNCT	_	42	punct	_	_	./sf
+
+# 일본가계의 경우에는 투자 , 일상생활 , 자녀교육자금 목적의 비중은 증가추세를 보인 반면 내구소비재구입자금 목적의 비중은 감소추세를 보였다 .
+1	일본가계의	일본+가계+의	PROPN	_	2	nmod	_	_	일본/nq+가계/ncn+의/jcm
+2	경우에는	경우+에+는	NOUN	_	17	dislocated	_	_	경우/ncn+에/jca+는/jxt
+3	투자	투자	NOUN	_	5	conj	_	_	투자/ncpa
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	일상생활	일상+생활	NOUN	_	7	conj	_	_	일상/ncn+생활/ncpa
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	자녀교육자금	자녀+교육+자금	NOUN	_	8	compound	_	_	자녀/ncn+교육/ncpa+자금/ncn
+8	목적의	목적+의	NOUN	_	9	nmod	_	_	목적/ncpa+의/jcm
+9	비중은	비중+은	NOUN	_	11	dislocated	_	_	비중/ncn+은/jxt
+10	증가추세를	증가+추세+를	NOUN	_	11	obj	_	_	증가/ncpa+추세/ncn+를/jco
+11	보인	보이+ㄴ	VERB	_	12	acl	_	_	보이/pvg+ㄴ/etm
+12	반면	반면	NOUN	_	17	advmod	_	_	반면/ncn
+13	내구소비재구입자금	내구+소비재+구입+자금	NOUN	_	14	compound	_	_	내구/ncpa+소비재/ncn+구입/ncpa+자금/ncn
+14	목적의	목적+의	NOUN	_	15	nmod	_	_	목적/ncpa+의/jcm
+15	비중은	비중+은	NOUN	_	17	dislocated	_	_	비중/ncn+은/jxt
+16	감소추세를	감소+추세+를	NOUN	_	17	obj	_	_	감소/ncpa+추세/ncn+를/jco
+17	보였다	보이+었+다	VERB	_	0	root	_	_	보이/pvg+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 91 년에 집계된 차입목적은 주택관련자금 ( 43.8 % ) , 내구소비재구입 ( 21.3 % ) , 기타 ( 16.5 % ) , 투자 ( 7.0 % ) , 자녀교육 ( 6.2 % ) , 일상생활 ( 5.2 % ) 의 순으로 나타났다 .
+1	91	91	NUM	_	2	nummod	_	_	91/nno
+2	년에	년+에	ADV	_	3	obl	_	_	년/nbu+에/jca
+3	집계된	집계+되+ㄴ	VERB	_	4	acl	_	_	집계/ncpa+되/xsv+ㄴ/etm
+4	차입목적은	차입+목적+은	NOUN	_	42	dislocated	_	_	차입/ncpa+목적/ncpa+은/jxt
+5	주택관련자금	주택+관련+자금	NOUN	_	35	compound	_	_	주택/ncn+관련/ncpa+자금/ncn
+6	(	(	PUNCT	_	7	punct	_	_	(/sl
+7	43.8	43.8	NUM	_	5	nummod	_	_	43.8/nnc
+8	%	%	SYM	_	7	punct	_	_	%/su
+9	)	)	PUNCT	_	7	punct	_	_	)/sr
+10	,	,	PUNCT	_	5	punct	_	_	,/sp
+11	내구소비재구입	내구소비재구입	PROPN	_	35	compound	_	_	내구소비재구입/nq
+12	(	(	PUNCT	_	13	punct	_	_	(/sl
+13	21.3	21.3	NUM	_	11	nummod	_	_	21.3/nnc
+14	%	%	SYM	_	13	punct	_	_	%/su
+15	)	)	PUNCT	_	13	punct	_	_	)/sr
+16	,	,	PUNCT	_	11	punct	_	_	,/sp
+17	기타	기타	NOUN	_	35	compound	_	_	기타/ncn
+18	(	(	PUNCT	_	19	punct	_	_	(/sl
+19	16.5	16.5	NUM	_	17	nummod	_	_	16.5/nnc
+20	%	%	SYM	_	19	punct	_	_	%/su
+21	)	)	PUNCT	_	19	punct	_	_	)/sr
+22	,	,	PUNCT	_	17	punct	_	_	,/sp
+23	투자	투자	NOUN	_	35	compound	_	_	투자/ncpa
+24	(	(	PUNCT	_	25	punct	_	_	(/sl
+25	7.0	7.0	NUM	_	23	nummod	_	_	7.0/nnc
+26	%	%	SYM	_	25	punct	_	_	%/su
+27	)	)	PUNCT	_	25	punct	_	_	)/sr
+28	,	,	PUNCT	_	23	punct	_	_	,/sp
+29	자녀교육	자녀+교육	NOUN	_	35	compound	_	_	자녀/ncn+교육/ncpa
+30	(	(	PUNCT	_	31	punct	_	_	(/sl
+31	6.2	6.2	NUM	_	29	nummod	_	_	6.2/nnc
+32	%	%	SYM	_	31	punct	_	_	%/su
+33	)	)	PUNCT	_	31	punct	_	_	)/sr
+34	,	,	PUNCT	_	29	punct	_	_	,/sp
+35	일상생활	일상+생활	NOUN	_	41	nmod	_	_	일상/ncn+생활/ncpa
+36	(	(	PUNCT	_	37	punct	_	_	(/sl
+37	5.2	5.2	NUM	_	35	nummod	_	_	5.2/nnc
+38	%	%	SYM	_	37	punct	_	_	%/su
+39	)	)	PUNCT	_	37	punct	_	_	)/sr
+40	의	의	ADP	_	35	case	_	_	의/jcm
+41	순으로	순+으로	ADV	_	42	advcl	_	_	순/ncn+으로/jca
+42	나타났다	나타나+ㅆ+다	VERB	_	0	root	_	_	나타나/pvg+ㅆ/ep+다/ef
+43	.	.	PUNCT	_	42	punct	_	_	./sf
+
+# 확집의 길을 걷고 있는 나라는 한국 , 대만 , 싱가폴이며 퇴행의 길로 가고 있는 나라는 방글라데시 등을 꼽고 있다 .
+1	확집의	확집+의	NOUN	_	2	nmod	_	_	확집/ncpa+의/jcm
+2	길을	길+을	NOUN	_	3	obj	_	_	길/ncn+을/jco
+3	걷고	걷+고	VERB	_	5	acl	_	_	걷/pvg+고/ecx
+4	있는	있+는	AUX	_	3	aux	_	_	있/px+는/etm
+5	나라는	나라+는	NOUN	_	10	dislocated	_	_	나라/ncn+는/jxt
+6	한국	한국	PROPN	_	10	compound	_	_	한국/nq
+7	,	,	PUNCT	_	10	punct	_	_	,/sp
+8	대만	대만	PROPN	_	10	compound	_	_	대만/nq
+9	,	,	PUNCT	_	10	punct	_	_	,/sp
+10	싱가폴이며	싱가폴+이+며	CCONJ	_	18	conj	_	_	싱가폴/nq+이/jp+며/ecc
+11	퇴행의	퇴행+의	NOUN	_	12	nmod	_	_	퇴행/ncpa+의/jcm
+12	길로	길+로	ADV	_	13	advcl	_	_	길/ncn+로/jca
+13	가고	가+고	VERB	_	15	acl	_	_	가/pvg+고/ecx
+14	있는	있+는	AUX	_	13	aux	_	_	있/px+는/etm
+15	나라는	나라+는	NOUN	_	18	dislocated	_	_	나라/ncn+는/jxt
+16	방글라데시	방글라데시	PROPN	_	17	compound	_	_	방글라데시/nq
+17	등을	등+을	NOUN	_	18	obj	_	_	등/nbn+을/jco
+18	꼽고	꼽+고	VERB	_	0	root	_	_	꼽/pvg+고/ecx
+19	있다	있+다	AUX	_	18	aux	_	_	있/px+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 그는 확집이냐 퇴행이냐를 결정짓는 것은 결국 국민정신에 있다고 보고 있어 이것이 우리에게 의미하는 바는 사뭇 크다고 보여진다 .
+1	그는	그+는	PRON	_	9	dislocated	_	_	그/npp+는/jxt
+2	확집이냐	확집+이+냐	VERB	_	3	dep	_	_	확집/ncpa+이/jp+냐/ef
+3	퇴행이냐를	퇴행+이+냐+를	NOUN	_	4	obj	_	_	퇴행/ncpa+이/jp+냐/ef+를/jco
+4	결정짓는	결정짓+는	VERB	_	5	acl	_	_	결정짓/pvg+는/etm
+5	것은	것+은	NOUN	_	8	dislocated	_	_	것/nbn+은/jxt
+6	결국	결국	ADV	_	8	advmod	_	_	결국/mag
+7	국민정신에	국민+정신+에	ADV	_	8	obl	_	_	국민/ncn+정신/ncn+에/jca
+8	있다고	있+다+고	VERB	_	9	conj	_	_	있/paa+다/ef+고/jcr
+9	보고	보+고	VERB	_	17	ccomp	_	_	보/pvg+고/ecx
+10	있어	있+어	SCONJ	_	9	aux	_	_	있/px+어/ecs
+11	이것이	이것+이	PRON	_	13	nsubj	_	_	이것/npd+이/jcs
+12	우리에게	우리+에게	ADV	_	13	iobj	_	_	우리/npp+에게/jca
+13	의미하는	의미+하+는	VERB	_	14	acl	_	_	의미/ncpa+하/xsv+는/etm
+14	바는	바+는	NOUN	_	16	dislocated	_	_	바/nbn+는/jxt
+15	사뭇	사뭇	ADV	_	16	advmod	_	_	사뭇/mag
+16	크다고	크+다+고	VERB	_	17	conj	_	_	크/paa+다/ef+고/jcr
+17	보여진다	보이+어+지+ㄴ다	AUX	_	0	root	_	_	보이/pvg+어/ecx+지/px+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 최근 우리사회는 급격한 경제성장과 소비생활의 고도화가 진전되면서 이러한 확집의 정신이 약화되고 있다는 지적이 적지 않다 .
+1	최근	최근	NOUN	_	2	compound	_	_	최근/ncn
+2	우리사회는	우리+사회+는	PRON	_	11	dislocated	_	_	우리/npp+사회/ncn+는/jxt
+3	급격한	급격+하+ㄴ	VERB	_	4	amod	_	_	급격/ncps+하/xsm+ㄴ/etm
+4	경제성장과	경제+성장+과	CCONJ	_	6	conj	_	_	경제/ncn+성장/ncpa+과/jcj
+5	소비생활의	소비+생활+의	NOUN	_	6	nmod	_	_	소비/ncpa+생활/ncpa+의/jcm
+6	고도화가	고도화+가	NOUN	_	7	nsubj	_	_	고도화/ncpa+가/jcs
+7	진전되면서	진전+되+면서	CCONJ	_	11	conj	_	_	진전/ncpa+되/xsv+면서/ecc
+8	이러한	이러하+ㄴ	VERB	_	10	amod	_	_	이러하/pad+ㄴ/etm
+9	확집의	확집+의	NOUN	_	10	nmod	_	_	확집/ncpa+의/jcm
+10	정신이	정신+이	NOUN	_	11	nsubj	_	_	정신/ncn+이/jcs
+11	약화되고	약화+되+고	VERB	_	13	acl	_	_	약화/ncpa+되/xsv+고/ecx
+12	있다는	있+다는	AUX	_	11	aux	_	_	있/px+다는/etm
+13	지적이	지적+이	NOUN	_	14	nsubj	_	_	지적/ncpa+이/jcs
+14	적지	적+지	ADJ	_	0	root	_	_	적/paa+지/ecx
+15	않다	않+다	AUX	_	14	aux	_	_	않/px+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이러한 지적과 관련하여 본고에서는 국민경제의 근간이 되는 가계부문 특히 가계의 소비구조가 어떠한 모습을 띄고있는지 살펴보고자 한다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	지적과	지적+과	CCONJ	_	3	conj	_	_	지적/ncpa+과/jct
+3	관련하여	관련+하+어	SCONJ	_	15	ccomp	_	_	관련/ncpa+하/xsv+어/ecs
+4	본고에서는	본고+에서+는	NOUN	_	15	dislocated	_	_	본고/ncn+에서/jca+는/jxt
+5	국민경제의	국민+경제+의	NOUN	_	6	nmod	_	_	국민/ncn+경제/ncn+의/jcm
+6	근간이	근간+이	NOUN	_	7	csubj	_	_	근간/ncn+이/jcc
+7	되는	되+는	VERB	_	11	acl	_	_	되/pvg+는/etm
+8	가계부문	가계+부문	NOUN	_	11	compound	_	_	가계/ncn+부문/ncn
+9	특히	특히	ADV	_	11	advmod	_	_	특히/mag
+10	가계의	가계+의	NOUN	_	11	nmod	_	_	가계/ncn+의/jcm
+11	소비구조가	소비+구조+가	NOUN	_	14	nsubj	_	_	소비/ncpa+구조/ncpa+가/jcs
+12	어떠한	어떠하+ㄴ	VERB	_	13	amod	_	_	어떠하/pad+ㄴ/etm
+13	모습을	모습+을	NOUN	_	14	obj	_	_	모습/ncn+을/jco
+14	띄고있는지	띄+고+있+는지	SCONJ	_	15	ccomp	_	_	띄/pvg+고/ecx+있/px+는지/ecs
+15	살펴보고자	살피+어+보+고자	AUX	_	0	root	_	_	살피/pvg+어/ecx+보/px+고자/ecx
+16	한다	하+ㄴ다	AUX	_	15	aux	_	_	하/px+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 특히 세계경제를 주도하고 있는 삼두마차인 미국 , 일본 , 독일가계의 소비지출구조를 살펴보고 이들과 우리가계의 소비구조에는 어떠한 차이점과 공통점이 있는지를 분석해 본다 .
+1	특히	특히	ADV	_	12	advmod	_	_	특히/mag
+2	세계경제를	세계+경제+를	NOUN	_	3	obj	_	_	세계/ncn+경제/ncn+를/jco
+3	주도하고	주도+하+고	VERB	_	5	ccomp	_	_	주도/ncpa+하/xsv+고/ecx
+4	있는	있+는	AUX	_	3	aux	_	_	있/px+는/etm
+5	삼두마차인	삼두마차+이+ㄴ	VERB	_	10	acl	_	_	삼두마차/ncn+이/jp+ㄴ/etm
+6	미국	미국	PROPN	_	8	conj	_	_	미국/nq
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	일본	일본	PROPN	_	10	conj	_	_	일본/nq
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	독일가계의	독일+가계+의	PROPN	_	11	nmod	_	_	독일/nq+가계/ncn+의/jcm
+11	소비지출구조를	소비+지출+구조+를	NOUN	_	12	obj	_	_	소비/ncpa+지출/ncpa+구조/ncpa+를/jco
+12	살펴보고	살피+어+보+고	CCONJ	_	20	conj	_	_	살피/pvg+어/ecx+보/px+고/ecc
+13	이들과	이+들+과	CCONJ	_	14	conj	_	_	이/npp+들/xsn+과/jcj
+14	우리가계의	우리+가계+의	PRON	_	15	nmod	_	_	우리/npp+가계/ncn+의/jcm
+15	소비구조에는	소비+구조+에+는	NOUN	_	19	dislocated	_	_	소비/ncpa+구조/ncpa+에/jca+는/jxt
+16	어떠한	어떠하+ㄴ	VERB	_	18	amod	_	_	어떠하/pad+ㄴ/etm
+17	차이점과	차이점+과	CCONJ	_	18	conj	_	_	차이점/ncn+과/jcj
+18	공통점이	공통점+이	NOUN	_	19	nsubj	_	_	공통점/ncn+이/jcs
+19	있는지를	있+는지+를	NOUN	_	20	obj	_	_	있/paa+는지/ef+를/jco
+20	분석해	분석+하+어	VERB	_	0	root	_	_	분석/ncpa+하/xsv+어/ecx
+21	본다	보+ㄴ다	AUX	_	20	aux	_	_	보/px+ㄴ다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 우리나라는 급격한 경제성장과 함께 가계의 소득 및 소비 지출이 가파른 신장세를 보여왔다 .
+1	우리나라는	우리+나라+는	PRON	_	12	dislocated	_	_	우리/npp+나라/ncn+는/jxt
+2	급격한	급격+하+ㄴ	VERB	_	3	amod	_	_	급격/ncps+하/xsm+ㄴ/etm
+3	경제성장과	경제+성장+과	CCONJ	_	4	conj	_	_	경제/ncn+성장/ncpa+과/jct
+4	함께	함께	ADV	_	12	advmod	_	_	함께/mag
+5	가계의	가계+의	NOUN	_	9	nmod	_	_	가계/ncn+의/jcm
+6	소득	소득	NOUN	_	9	conj	_	_	소득/ncpa
+7	및	및	CCONJ	_	9	cc	_	_	및/maj
+8	소비	소비	NOUN	_	9	compound	_	_	소비/ncpa
+9	지출이	지출+이	NOUN	_	12	nsubj	_	_	지출/ncpa+이/jcs
+10	가파른	가파르+ㄴ	ADJ	_	11	amod	_	_	가파르/paa+ㄴ/etm
+11	신장세를	신장세+를	NOUN	_	12	obj	_	_	신장세/ncn+를/jco
+12	보여왔다	보이+어+오+았+다	AUX	_	0	root	_	_	보이/pvg+어/ecx+오/px+았/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이에 따라 우리나라 가구의 소비지출구조도 급속히 고도화되고 있다 .
+1	이에	이+에	ADV	_	2	obl	_	_	이/npd+에/jca
+2	따라	따르+아	SCONJ	_	7	ccomp	_	_	따르/pvg+아/ecs
+3	우리나라	우리+나라	NOUN	_	4	compound	_	_	우리/npp+나라/ncn
+4	가구의	가구+의	NOUN	_	5	nmod	_	_	가구/ncn+의/jcm
+5	소비지출구조도	소비+지출+구조+도	ADV	_	7	advcl	_	_	소비/ncpa+지출/ncpa+구조/ncpa+도/jxc
+6	급속히	급속+히	ADV	_	7	advmod	_	_	급속/ncps+히/xsa
+7	고도화되고	고도화+되+고	VERB	_	0	root	_	_	고도화/ncpa+되/xsv+고/ecx
+8	있다	있+다	AUX	_	7	aux	_	_	있/px+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 특히 곡류의 경우 소비지출에 대한 비중이 84 년 11.3 % 에서 91 년에는 거의 절반도 안되는 5.4 % 로 감소했다 .
+1	특히	특히	ADV	_	20	advmod	_	_	특히/mag
+2	곡류의	곡류+의	NOUN	_	3	nmod	_	_	곡류/ncn+의/jcm
+3	경우	경우	NOUN	_	20	advmod	_	_	경우/ncn
+4	소비지출에	소비+지출+에	ADV	_	5	obl	_	_	소비/ncpa+지출/ncpa+에/jca
+5	대한	대하+ㄴ	VERB	_	6	acl	_	_	대하/pvg+ㄴ/etm
+6	비중이	비중+이	NOUN	_	20	nsubj	_	_	비중/ncn+이/jcs
+7	84	84	NUM	_	8	nummod	_	_	84/nno
+8	년	년	NOUN	_	9	compound	_	_	년/nbu
+9	11.3	11.3	NUM	_	20	nummod	_	_	11.3/nnc
+10	%	%	SYM	_	9	punct	_	_	%/su
+11	에서	에서	ADP	_	9	case	_	_	에서/jca
+12	91	91	NUM	_	13	nummod	_	_	91/nno
+13	년에는	년+에+는	NOUN	_	20	dislocated	_	_	년/nbu+에/jca+는/jxt
+14	거의	거의	ADV	_	15	advmod	_	_	거의/mag
+15	절반도	절반+도	ADV	_	16	advcl	_	_	절반/ncn+도/jxc
+16	안되는	안되+는	VERB	_	17	acl	_	_	안되/pvg+는/etm
+17	5.4	5.4	NUM	_	20	nummod	_	_	5.4/nnc
+18	%	%	SYM	_	17	punct	_	_	%/su
+19	로	로	ADP	_	17	case	_	_	로/jca
+20	감소했다	감소+하+었+다	VERB	_	0	root	_	_	감소/ncpa+하/xsv+었/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 이 같은 지수변화는 생활규모가 가구주의 연령과 함께 확대되지만 50 세 이상 55 세 미만을 정점으로 하여 축소됨을 의미한다 .
+1	이	이	PRON	_	2	dep	_	_	이/npd
+2	같은	같+은	ADJ	_	3	amod	_	_	같/paa+은/etm
+3	지수변화는	지수+변화+는	NOUN	_	18	dislocated	_	_	지수/ncn+변화/ncpa+는/jxt
+4	생활규모가	생활+규모+가	NOUN	_	17	nsubj	_	_	생활/ncpa+규모/ncn+가/jcs
+5	가구주의	가구주+의	NOUN	_	6	nmod	_	_	가구주/ncn+의/jcm
+6	연령과	연령+과	CCONJ	_	7	conj	_	_	연령/ncn+과/jct
+7	함께	함께	ADV	_	8	advmod	_	_	함께/mag
+8	확대되지만	확대+되+지만	SCONJ	_	17	ccomp	_	_	확대/ncpa+되/xsv+지만/ecs
+9	50	50	NUM	_	10	nummod	_	_	50/nnc
+10	세	세	NOUN	_	11	compound	_	_	세/nbu
+11	이상	이상	NOUN	_	14	compound	_	_	이상/ncn
+12	55	55	NUM	_	13	nummod	_	_	55/nnc
+13	세	세	NOUN	_	14	compound	_	_	세/nbu
+14	미만을	미만+을	NOUN	_	16	obj	_	_	미만/ncps+을/jco
+15	정점으로	정점+으로	ADV	_	16	advcl	_	_	정점/ncn+으로/jca
+16	하여	하+어	SCONJ	_	17	ccomp	_	_	하/pvg+어/ecs
+17	축소됨을	축소+되+ㅁ+을	NOUN	_	18	obj	_	_	축소/ncpa+되/xsv+ㅁ/etn+을/jco
+18	의미한다	의미+하+ㄴ다	VERB	_	0	root	_	_	의미/ncpa+하/xsv+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이는 가구당 평균인원수의 변화와 맞물려 나타나 소비지출의 증가가 가구인원의 증가와 높은 관련이 있음을 보여주고 있다 .
+1	이는	이+는	PRON	_	14	dislocated	_	_	이/npd+는/jxt
+2	가구당	가구+당	NOUN	_	3	advmod	_	_	가구/ncn+당/xsn
+3	평균인원수의	평균+인원수+의	NOUN	_	4	nmod	_	_	평균/ncpa+인원수/ncn+의/jcm
+4	변화와	변화+와	CCONJ	_	5	conj	_	_	변화/ncpa+와/jct
+5	맞물려	맞물리+어	SCONJ	_	6	ccomp	_	_	맞물리/pvg+어/ecs
+6	나타나	나타나+아	SCONJ	_	14	ccomp	_	_	나타나/pvg+아/ecs
+7	소비지출의	소비+지출+의	NOUN	_	8	nmod	_	_	소비/ncpa+지출/ncpa+의/jcm
+8	증가가	증가+가	NOUN	_	13	nsubj	_	_	증가/ncpa+가/jcs
+9	가구인원의	가구+인원+의	NOUN	_	10	nmod	_	_	가구/ncn+인원/ncn+의/jcm
+10	증가와	증가+와	CCONJ	_	13	conj	_	_	증가/ncpa+와/jct
+11	높은	높+ㄴ	ADJ	_	12	amod	_	_	높/paa+ㄴ/etm
+12	관련이	관련+이	NOUN	_	13	nsubj	_	_	관련/ncpa+이/jcs
+13	있음을	있+ㅁ+을	NOUN	_	14	obj	_	_	있/paa+ㅁ/etn+을/jco
+14	보여주고	보이+어+주+고	AUX	_	0	root	_	_	보이/pvg+어/ecx+주/px+고/ecx
+15	있다	있+다	AUX	_	14	aux	_	_	있/px+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 가구주 연령별 소득변화도 가구주 연령별 소비지출 변화와 유사한 양상을 보이고 있다 .
+1	가구주	가구주	NOUN	_	2	compound	_	_	가구주/ncn
+2	연령별	연령별	NOUN	_	3	compound	_	_	연령별/ncn
+3	소득변화도	소득+변화+도	ADV	_	10	advcl	_	_	소득/ncpa+변화/ncpa+도/jxc
+4	가구주	가구주	NOUN	_	5	compound	_	_	가구주/ncn
+5	연령별	연령별	NOUN	_	6	compound	_	_	연령별/ncn
+6	소비지출	소비+지출	NOUN	_	7	compound	_	_	소비/ncpa+지출/ncpa
+7	변화와	변화+와	CCONJ	_	8	conj	_	_	변화/ncpa+와/jct
+8	유사한	유사+하+ㄴ	VERB	_	9	amod	_	_	유사/ncps+하/xsm+ㄴ/etm
+9	양상을	양상+을	NOUN	_	10	obj	_	_	양상/ncn+을/jco
+10	보이고	보이+고	VERB	_	0	root	_	_	보이/pvg+고/ecx
+11	있다	있+다	AUX	_	10	aux	_	_	있/px+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 즉 가구주의 연령이 높아질수록 소득수준이 높게 나타나고 있다 .
+1	즉	즉	CCONJ	_	7	cc	_	_	즉/maj
+2	가구주의	가구주+의	NOUN	_	3	nmod	_	_	가구주/ncn+의/jcm
+3	연령이	연령+이	NOUN	_	4	nsubj	_	_	연령/ncn+이/jcs
+4	높아질수록	높+아+지+ㄹ수록	SCONJ	_	7	xcomp	_	_	높/paa+아/ecx+지/px+ㄹ수록/ecs
+5	소득수준이	소득+수준+이	NOUN	_	7	nsubj	_	_	소득/ncpa+수준/ncn+이/jcs
+6	높게	높+게	SCONJ	_	7	xcomp	_	_	높/paa+게/ecs
+7	나타나고	나타나+고	VERB	_	0	root	_	_	나타나/pvg+고/ecx
+8	있다	있+다	AUX	_	7	aux	_	_	있/px+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 또한 가구주 연령별 소비지출변화는 소득변화보다 더욱 심해 가구주 연령간 소득격차보다는 소비지출 격차가 더욱 심한 것으로 나타나고 있다 .
+1	또한	또한	CCONJ	_	16	cc	_	_	또한/maj
+2	가구주	가구주	NOUN	_	3	compound	_	_	가구주/ncn
+3	연령별	연령별	NOUN	_	4	compound	_	_	연령별/ncn
+4	소비지출변화는	소비+지출+변화+는	NOUN	_	7	dislocated	_	_	소비/ncpa+지출/ncpa+변화/ncpa+는/jxt
+5	소득변화보다	소득+변화+보다	ADV	_	7	advcl	_	_	소득/ncpa+변화/ncpa+보다/jca
+6	더욱	더욱	ADV	_	7	advmod	_	_	더욱/mag
+7	심해	심하+어	SCONJ	_	14	xcomp	_	_	심하/paa+어/ecs
+8	가구주	가구주	NOUN	_	9	compound	_	_	가구주/ncn
+9	연령간	연령+간	NOUN	_	10	advmod	_	_	연령/ncn+간/xsn
+10	소득격차보다는	소득+격차+보다+는	NOUN	_	14	dislocated	_	_	소득/ncpa+격차/ncn+보다/jca+는/jxt
+11	소비지출	소비+지출	NOUN	_	12	compound	_	_	소비/ncpa+지출/ncpa
+12	격차가	격차+가	NOUN	_	14	nsubj	_	_	격차/ncn+가/jcs
+13	더욱	더욱	ADV	_	14	advmod	_	_	더욱/mag
+14	심한	심하+ㄴ	ADJ	_	15	amod	_	_	심하/paa+ㄴ/etm
+15	것으로	것+으로	ADV	_	16	advcl	_	_	것/nbn+으로/jca
+16	나타나고	나타나+고	VERB	_	0	root	_	_	나타나/pvg+고/ecx
+17	있다	있+다	AUX	_	16	aux	_	_	있/px+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 소비지출액과 개별 소비지출 비목간의 변동계수차를 비교할 경우에도 연령계층간 소비지출격차와 개별 비목지출의 격차를 도출할 수 있다 .
+1	소비지출액과	소비+지출액+과	CCONJ	_	4	conj	_	_	소비/ncpa+지출액/ncn+과/jcj
+2	개별	개별	NOUN	_	3	compound	_	_	개별/ncpa
+3	소비지출	소비+지출	NOUN	_	4	compound	_	_	소비/ncpa+지출/ncpa
+4	비목간의	비목+간+의	NOUN	_	5	nmod	_	_	비목/ncn+간/xsn+의/jcm
+5	변동계수차를	변동+계수차+를	NOUN	_	6	obj	_	_	변동/ncpa+계수차/ncn+를/jco
+6	비교할	비교+하+ㄹ	VERB	_	7	acl	_	_	비교/ncpa+하/xsv+ㄹ/etm
+7	경우에도	경우+에+도	ADV	_	13	advcl	_	_	경우/ncn+에/jca+도/jxc
+8	연령계층간	연령+계층+간	NOUN	_	9	advmod	_	_	연령/ncn+계층/ncn+간/xsn
+9	소비지출격차와	소비+지출+격차+와	CCONJ	_	11	conj	_	_	소비/ncpa+지출/ncpa+격차/ncn+와/jcj
+10	개별	개별	NOUN	_	11	compound	_	_	개별/ncpa
+11	비목지출의	비목+지출+의	NOUN	_	12	nmod	_	_	비목/ncn+지출/ncpa+의/jcm
+12	격차를	격차+를	NOUN	_	13	obj	_	_	격차/ncn+를/jco
+13	도출할	도출+하+ㄹ	VERB	_	0	root	_	_	도출/ncpa+하/xsv+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있다	있+다	ADJ	_	13	aux	_	_	있/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 각 연령별 가구주의 소비지출 평균을 100으로 두었을 때 소비지출의 변동계수는 20.2로 나타나고 있다 .
+1	각	각	ADJ	_	2	amod	_	_	각/mma
+2	연령별	연령별	NOUN	_	3	compound	_	_	연령별/ncn
+3	가구주의	가구주+의	NOUN	_	5	nmod	_	_	가구주/ncn+의/jcm
+4	소비지출	소비+지출	NOUN	_	5	compound	_	_	소비/ncpa+지출/ncpa
+5	평균을	평균+을	NOUN	_	7	obj	_	_	평균/ncpa+을/jco
+6	100으로	100+으로	ADV	_	7	advcl	_	_	100/nnc+으로/jca
+7	두었을	두+었+ㄹ	VERB	_	8	acl	_	_	두/pvg+었/ep+ㄹ/etm
+8	때	때	NOUN	_	12	advmod	_	_	때/ncn
+9	소비지출의	소비+지출+의	NOUN	_	10	nmod	_	_	소비/ncpa+지출/ncpa+의/jcm
+10	변동계수는	변동+계수+는	NOUN	_	12	dislocated	_	_	변동/ncpa+계수/ncn+는/jxt
+11	20.2로	20.2+로	ADV	_	12	advcl	_	_	20.2/nnc+로/jca
+12	나타나고	나타나+고	VERB	_	0	root	_	_	나타나/pvg+고/ecx
+13	있다	있+다	AUX	_	12	aux	_	_	있/px+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 다음으로 소비지출에 대한 항목별 구성비는 가구주 연령별로 어떤 모습을 보이고 있는지 살펴보자 .
+1	다음으로	다음+으로	ADV	_	12	advcl	_	_	다음/ncn+으로/jca
+2	소비지출에	소비+지출+에	ADV	_	3	obl	_	_	소비/ncpa+지출/ncpa+에/jca
+3	대한	대하+ㄴ	VERB	_	5	acl	_	_	대하/pvg+ㄴ/etm
+4	항목별	항목별	NOUN	_	5	compound	_	_	항목별/ncn
+5	구성비는	구성비+는	NOUN	_	10	dislocated	_	_	구성비/ncn+는/jxt
+6	가구주	가구주	NOUN	_	7	compound	_	_	가구주/ncn
+7	연령별로	연령별+로	ADV	_	10	advcl	_	_	연령별/ncn+로/jca
+8	어떤	어떤	DET	_	9	det	_	_	어떤/mmd
+9	모습을	모습+을	NOUN	_	10	obj	_	_	모습/ncn+을/jco
+10	보이고	보이+고	VERB	_	12	ccomp	_	_	보이/pvg+고/ecx
+11	있는지	있+는지	SCONJ	_	10	aux	_	_	있/px+는지/ecs
+12	살펴보자	살피+어+보+자	AUX	_	0	root	_	_	살피/pvg+어/ecx+보/px+자/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 식료품의 경우 각 연령별로 대략 31 34 % 정도의 비중을 나타내고 있고 30대 후반까지 그 비중이 늘어난 후 다시 줄어든다 .
+1	식료품의	식료품+의	NOUN	_	2	nmod	_	_	식료품/ncn+의/jcm
+2	경우	경우	NOUN	_	20	advmod	_	_	경우/ncn
+3	각	각	ADJ	_	4	amod	_	_	각/mma
+4	연령별로	연령별+로	ADV	_	11	advcl	_	_	연령별/ncn+로/jca
+5	대략	대략	NOUN	_	11	advmod	_	_	대략/ncn
+6	31	31	NUM	_	7	nummod	_	_	31/nnc
+7	34	34	NUM	_	9	nummod	_	_	34/nnc
+8	%	%	SYM	_	7	punct	_	_	%/su
+9	정도의	정도+의	NOUN	_	10	nmod	_	_	정도/ncn+의/jcm
+10	비중을	비중+을	NOUN	_	11	obj	_	_	비중/ncn+을/jco
+11	나타내고	나타내+고	VERB	_	20	conj	_	_	나타내/pvg+고/ecx
+12	있고	있+고	CCONJ	_	11	aux	_	_	있/px+고/ecc
+13	30대	30+대	NOUN	_	14	advmod	_	_	30/nnc+대/xsn
+14	후반까지	후반+까지	ADV	_	17	advcl	_	_	후반/ncn+까지/jxc
+15	그	그	DET	_	16	det	_	_	그/mmd
+16	비중이	비중+이	NOUN	_	17	nsubj	_	_	비중/ncn+이/jcs
+17	늘어난	늘+어+나+ㄴ	AUX	_	18	acl	_	_	늘/pvg+어/ecx+나/px+ㄴ/etm
+18	후	후	NOUN	_	20	advmod	_	_	후/ncn
+19	다시	다시	ADV	_	20	advmod	_	_	다시/mag
+20	줄어든다	줄어들+ㄴ다	VERB	_	0	root	_	_	줄어들/pvg+ㄴ다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그러나 각 연령별의 차이는 그다지 크지 않다 .
+1	그러나	그러나	CCONJ	_	6	cc	_	_	그러나/maj
+2	각	각	ADJ	_	3	amod	_	_	각/mma
+3	연령별의	연령별+의	NOUN	_	4	nmod	_	_	연령별/ncn+의/jcm
+4	차이는	차이+는	NOUN	_	6	dislocated	_	_	차이/ncn+는/jxt
+5	그다지	그다지	ADV	_	6	advmod	_	_	그다지/mag
+6	크지	크+지	ADJ	_	0	root	_	_	크/paa+지/ecx
+7	않다	않+다	AUX	_	6	aux	_	_	않/px+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그러나 주거비 중 월세비는 연령별로 커다란 비중상의 차이를 보이고 있다 .
+1	그러나	그러나	CCONJ	_	9	cc	_	_	그러나/maj
+2	주거비	주거비	NOUN	_	3	compound	_	_	주거비/ncn
+3	중	중	NOUN	_	4	mark	_	_	중/nbn
+4	월세비는	월세비+는	NOUN	_	9	dislocated	_	_	월세비/ncn+는/jxt
+5	연령별로	연령별+로	ADV	_	9	advcl	_	_	연령별/ncn+로/jca
+6	커다란	커다랗+ㄴ	ADJ	_	8	amod	_	_	커다랗/paa+ㄴ/etm
+7	비중상의	비중+상+의	NOUN	_	8	nmod	_	_	비중/ncn+상/xsn+의/jcm
+8	차이를	차이+를	NOUN	_	9	obj	_	_	차이/ncn+를/jco
+9	보이고	보이+고	VERB	_	0	root	_	_	보이/pvg+고/ecx
+10	있다	있+다	AUX	_	9	aux	_	_	있/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 교양오락의 경우는 20 , 30대 가구가 가장 높은 비중을 보여 특징으로 나타나고 있다 .
+1	교양오락의	교양+오락+의	NOUN	_	2	nmod	_	_	교양/ncpa+오락/ncpa+의/jcm
+2	경우는	경우+는	NOUN	_	12	dislocated	_	_	경우/ncn+는/jxt
+3	20	20	NUM	_	5	conj	_	_	20/nnc
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	30대	30+대	NOUN	_	6	advmod	_	_	30/nnc+대/xsn
+6	가구가	가구+가	NOUN	_	10	nsubj	_	_	가구/ncn+가/jcs
+7	가장	가장	ADV	_	8	advmod	_	_	가장/mag
+8	높은	높+ㄴ	ADJ	_	9	amod	_	_	높/paa+ㄴ/etm
+9	비중을	비중+을	NOUN	_	10	obj	_	_	비중/ncn+을/jco
+10	보여	보이+어	SCONJ	_	12	ccomp	_	_	보이/pvg+어/ecs
+11	특징으로	특징+으로	ADV	_	12	advcl	_	_	특징/ncpa+으로/jca
+12	나타나고	나타나+고	VERB	_	0	root	_	_	나타나/pvg+고/ecx
+13	있다	있+다	AUX	_	12	aux	_	_	있/px+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이는 편리성 , 오락성을 추구하는 젊은 세대의 흐름을 반영하는 것으로 볼 수 있다 .
+1	이는	이+는	PRON	_	9	dislocated	_	_	이/npd+는/jxt
+2	편리성	편리성	NOUN	_	4	conj	_	_	편리성/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	오락성을	오락성+을	NOUN	_	5	obj	_	_	오락성/ncn+을/jco
+5	추구하는	추구+하+는	VERB	_	8	acl	_	_	추구/ncpa+하/xsv+는/etm
+6	젊은	젊+ㄴ	ADJ	_	7	amod	_	_	젊/paa+ㄴ/etm
+7	세대의	세대+의	NOUN	_	8	nmod	_	_	세대/ncn+의/jcm
+8	흐름을	흐름+을	NOUN	_	9	obj	_	_	흐름/ncn+을/jco
+9	반영하는	반영+하+는	VERB	_	10	acl	_	_	반영/ncpa+하/xsv+는/etm
+10	것으로	것+으로	ADV	_	11	advcl	_	_	것/nbn+으로/jca
+11	볼	보+ㄹ	VERB	_	0	root	_	_	보/pvg+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있다	있+다	ADJ	_	11	aux	_	_	있/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 교통통신의 경우는 20대 후반 가구에서 가장 높은 비중 ( 11.5 % ) 을 차지하고 있다 .
+1	교통통신의	교통+통신+의	NOUN	_	2	nmod	_	_	교통/ncn+통신/ncpa+의/jcm
+2	경우는	경우+는	NOUN	_	14	dislocated	_	_	경우/ncn+는/jxt
+3	20대	20+대	NOUN	_	4	advmod	_	_	20/nnc+대/xsn
+4	후반	후반	NOUN	_	5	compound	_	_	후반/ncn
+5	가구에서	가구+에서	ADV	_	14	advcl	_	_	가구/ncn+에서/jca
+6	가장	가장	ADV	_	7	advmod	_	_	가장/mag
+7	높은	높+ㄴ	ADJ	_	8	amod	_	_	높/paa+ㄴ/etm
+8	비중	비중	NOUN	_	14	obj	_	_	비중/ncn
+9	(	(	PUNCT	_	10	punct	_	_	(/sl
+10	11.5	11.5	NUM	_	8	nummod	_	_	11.5/nnc
+11	%	%	SYM	_	10	punct	_	_	%/su
+12	)	)	PUNCT	_	10	punct	_	_	)/sr
+13	을	을	ADP	_	8	case	_	_	을/jco
+14	차지하고	차지+하+고	VERB	_	0	root	_	_	차지/ncpa+하/xsv+고/ecx
+15	있다	있+다	AUX	_	14	aux	_	_	있/px+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 다음으로 한국도시가계의 소비구조는 미국 , 독일 , 일본과 어떠한 공통점과 차이점을 가지고 있는지 살펴본다 .
+1	다음으로	다음+으로	ADV	_	14	advcl	_	_	다음/ncn+으로/jca
+2	한국도시가계의	한국+도시+가계+의	PROPN	_	3	nmod	_	_	한국/nq+도시/ncn+가계/ncn+의/jcm
+3	소비구조는	소비+구조+는	NOUN	_	12	dislocated	_	_	소비/ncpa+구조/ncpa+는/jxt
+4	미국	미국	PROPN	_	6	conj	_	_	미국/nq
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	독일	독일	PROPN	_	8	conj	_	_	독일/nq
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	일본과	일본+과	CCONJ	_	12	conj	_	_	일본/nq+과/jct
+9	어떠한	어떠하+ㄴ	VERB	_	11	amod	_	_	어떠하/pad+ㄴ/etm
+10	공통점과	공통점+과	CCONJ	_	11	conj	_	_	공통점/ncn+과/jcj
+11	차이점을	차이점+을	NOUN	_	12	obj	_	_	차이점/ncn+을/jco
+12	가지고	가지+고	VERB	_	14	ccomp	_	_	가지/pvg+고/ecx
+13	있는지	있+는지	SCONJ	_	12	aux	_	_	있/px+는지/ecs
+14	살펴본다	살피+어+보+ㄴ다	AUX	_	0	root	_	_	살피/pvg+어/ecx+보/px+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 우선 통계의 사용 및 소비지출 비목간의 조정은 다음과 같은 방법으로 수행하였다 .
+1	우선	우선	ADV	_	11	advmod	_	_	우선/mag
+2	통계의	통계+의	NOUN	_	3	nmod	_	_	통계/ncn+의/jcm
+3	사용	사용	NOUN	_	7	conj	_	_	사용/ncpa
+4	및	및	CCONJ	_	7	cc	_	_	및/maj
+5	소비지출	소비+지출	NOUN	_	6	compound	_	_	소비/ncpa+지출/ncpa
+6	비목간의	비목+간+의	NOUN	_	7	nmod	_	_	비목/ncn+간/xsn+의/jcm
+7	조정은	조정+은	NOUN	_	11	dislocated	_	_	조정/ncpa+은/jxt
+8	다음과	다음+과	CCONJ	_	9	conj	_	_	다음/ncn+과/jct
+9	같은	같+ㄴ	ADJ	_	10	amod	_	_	같/paa+ㄴ/etm
+10	방법으로	방법+으로	ADV	_	11	advcl	_	_	방법/ncn+으로/jca
+11	수행하였다	수행+하+었+다	VERB	_	0	root	_	_	수행/ncpa+하/xsv+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 또한 각국의 소비지출은 1 개월 평균 , 자국통화로 된 금액을 이용하였으며 , 미국과 같이 연간단위로 된 통계자료는 월평균으로 환산하여 사용하였다 .
+1	또한	또한	CCONJ	_	20	cc	_	_	또한/maj
+2	각국의	각국+의	NOUN	_	3	nmod	_	_	각국/ncn+의/jcm
+3	소비지출은	소비+지출+은	NOUN	_	11	dislocated	_	_	소비/ncpa+지출/ncpa+은/jxt
+4	1	1	NUM	_	5	nummod	_	_	1/nnc
+5	개월	개월	NOUN	_	6	compound	_	_	개월/nbu
+6	평균	평균	NOUN	_	10	compound	_	_	평균/ncpa
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	자국통화로	자국+통화+로	ADV	_	9	advcl	_	_	자국/ncn+통화/ncn+로/jca
+9	된	되+ㄴ	VERB	_	10	acl	_	_	되/pvg+ㄴ/etm
+10	금액을	금액+을	NOUN	_	11	obj	_	_	금액/ncn+을/jco
+11	이용하였으며	이용+하+었+으며	CCONJ	_	20	conj	_	_	이용/ncpa+하/xsv+었/ep+으며/ecc
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	미국과	미국+과	CCONJ	_	14	conj	_	_	미국/nq+과/jct
+14	같이	같+이	SCONJ	_	16	xcomp	_	_	같/paa+이/ecs
+15	연간단위로	연간+단위+로	ADV	_	16	advcl	_	_	연간/ncn+단위/ncn+로/jca
+16	된	되+ㄴ	VERB	_	17	acl	_	_	되/pvg+ㄴ/etm
+17	통계자료는	통계+자료+는	NOUN	_	20	dislocated	_	_	통계/ncn+자료/ncn+는/jxt
+18	월평균으로	월+평균+으로	ADV	_	19	advcl	_	_	월/ncn+평균/ncpa+으로/jca
+19	환산하여	환산+하+어	SCONJ	_	20	ccomp	_	_	환산/ncpa+하/xsv+어/ecs
+20	사용하였다	사용+하+었+다	VERB	_	0	root	_	_	사용/ncpa+하/xsv+었/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 통계자료를 국제비교함에 있어 문제가 되는 것은 각국의 생활관습 , 사회제도상의 상이로 인한 소비지출의 품목 분류 및 개념상의 차이이다 .
+1	통계자료를	통계+자료+를	NOUN	_	2	obj	_	_	통계/ncn+자료/ncn+를/jco
+2	국제비교함에	국제+비교+하+ㅁ+에	ADV	_	3	obl	_	_	국제/ncn+비교/ncpa+하/xsv+ㅁ/etn+에/jca
+3	있어	있+어	SCONJ	_	5	xcomp	_	_	있/paa+어/ecs
+4	문제가	문제+가	NOUN	_	5	csubj	_	_	문제/ncn+가/jcc
+5	되는	되+는	VERB	_	6	acl	_	_	되/pvg+는/etm
+6	것은	것+은	NOUN	_	18	dislocated	_	_	것/nbn+은/jxt
+7	각국의	각국+의	NOUN	_	10	nmod	_	_	각국/ncn+의/jcm
+8	생활관습	생활+관습	NOUN	_	10	conj	_	_	생활/ncpa+관습/ncn
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	사회제도상의	사회+제도+상+의	NOUN	_	11	nmod	_	_	사회/ncn+제도/ncn+상/xsn+의/jcm
+11	상이로	상이+로	ADV	_	12	advcl	_	_	상이/ncps+로/jca
+12	인한	인하+ㄴ	VERB	_	18	ccomp	_	_	인하/pvg+ㄴ/etm
+13	소비지출의	소비+지출+의	NOUN	_	17	nmod	_	_	소비/ncpa+지출/ncpa+의/jcm
+14	품목	품목	NOUN	_	15	compound	_	_	품목/ncn
+15	분류	분류	NOUN	_	17	conj	_	_	분류/ncpa
+16	및	및	CCONJ	_	17	cc	_	_	및/maj
+17	개념상의	개념+상+의	NOUN	_	18	nmod	_	_	개념/ncn+상/xsn+의/jcm
+18	차이이다	차이+이+다	VERB	_	0	root	_	_	차이/ncn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이중 습관 , 문화 , 사회제도의 차이를 조정하기란 불가능하나 , 분류 개념상의 차이는 어느 정도까지는 조정이 가능하다 .
+1	이중	이+중	NOUN	_	6	compound	_	_	이/npd+중/nbn
+2	습관	습관	NOUN	_	4	conj	_	_	습관/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	문화	문화	NOUN	_	6	conj	_	_	문화/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	사회제도의	사회+제도+의	NOUN	_	7	nmod	_	_	사회/ncn+제도/ncn+의/jcm
+7	차이를	차이+를	NOUN	_	8	obj	_	_	차이/ncn+를/jco
+8	조정하기란	조정+하+기+란	ADV	_	9	advcl	_	_	조정/ncpa+하/xsv+기/etn+란/jxc
+9	불가능하나	불+가능+하+나	PART	_	17	xcomp	_	_	불/xp+가능/ncps+하/xsm+나/ecs
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	분류	분류	NOUN	_	12	compound	_	_	분류/ncpa
+12	개념상의	개념+상+의	NOUN	_	13	nmod	_	_	개념/ncn+상/xsn+의/jcm
+13	차이는	차이+는	NOUN	_	17	dislocated	_	_	차이/ncn+는/jxt
+14	어느	어느	DET	_	15	det	_	_	어느/mmd
+15	정도까지는	정도+까지+는	NOUN	_	17	dislocated	_	_	정도/ncn+까지/jxc+는/jxt
+16	조정이	조정+이	NOUN	_	17	nsubj	_	_	조정/ncpa+이/jcs
+17	가능하다	가능+하+다	VERB	_	0	root	_	_	가능/ncps+하/xsm+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 따라서 본고에서는 소비지출의 개념을 한국의 도시가계연보를 기준으로 하여 각국자료를 재조정하였다 .
+1	따라서	따라서	CCONJ	_	10	cc	_	_	따라서/maj
+2	본고에서는	본고+에서+는	NOUN	_	10	dislocated	_	_	본고/ncn+에서/jca+는/jxt
+3	소비지출의	소비+지출+의	NOUN	_	4	nmod	_	_	소비/ncpa+지출/ncpa+의/jcm
+4	개념을	개념+을	NOUN	_	10	obj	_	_	개념/ncn+을/jco
+5	한국의	한국+의	PROPN	_	6	nmod	_	_	한국/nq+의/jcm
+6	도시가계연보를	도시+가계+연보+를	NOUN	_	8	obj	_	_	도시/ncn+가계/ncn+연보/ncn+를/jco
+7	기준으로	기준+으로	ADV	_	8	advcl	_	_	기준/ncn+으로/jca
+8	하여	하+어	SCONJ	_	10	ccomp	_	_	하/pvg+어/ecs
+9	각국자료를	각국+자료+를	NOUN	_	10	obj	_	_	각국/ncn+자료/ncn+를/jco
+10	재조정하였다	재조정+하+었+다	VERB	_	0	root	_	_	재조정/ncpa+하/xsv+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 일례로 한국 , 일본 , 독일의 경우 주택보유자의 주택비용은 주거비로 들어가지 않고 집세와 주택수리비용이 주거비에 포함된다 .
+1	일례로	일례+로	ADV	_	16	advcl	_	_	일례/ncn+로/jca
+2	한국	한국	PROPN	_	4	conj	_	_	한국/nq
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	일본	일본	PROPN	_	6	conj	_	_	일본/nq
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	독일의	독일+의	PROPN	_	7	nmod	_	_	독일/nq+의/jcm
+7	경우	경우	NOUN	_	16	advmod	_	_	경우/ncn
+8	주택보유자의	주택+보유자+의	NOUN	_	9	nmod	_	_	주택/ncn+보유자/ncn+의/jcm
+9	주택비용은	주택+비용+은	NOUN	_	11	dislocated	_	_	주택/ncn+비용/ncn+은/jxt
+10	주거비로	주거비+로	ADV	_	11	advcl	_	_	주거비/ncn+로/jca
+11	들어가지	들+어+가+지	AUX	_	16	conj	_	_	들/pvg+어/ecx+가/px+지/ecx
+12	않고	않+고	CCONJ	_	11	aux	_	_	않/px+고/ecc
+13	집세와	집세+와	CCONJ	_	14	conj	_	_	집세/ncn+와/jcj
+14	주택수리비용이	주택+수리+비용+이	NOUN	_	16	nsubj	_	_	주택/ncn+수리/ncpa+비용/ncn+이/jcs
+15	주거비에	주거비+에	ADV	_	16	obl	_	_	주거비/ncn+에/jca
+16	포함된다	포함+되+ㄴ다	VERB	_	0	root	_	_	포함/ncpa+되/xsv+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그러나 미국의 경우 자가보유에 따른 대출액 변제액과 개인보험 및 기타연금 등을 소비지출에 포함시키고 있다 .
+1	그러나	그러나	CCONJ	_	13	cc	_	_	그러나/maj
+2	미국의	미국+의	PROPN	_	3	nmod	_	_	미국/nq+의/jcm
+3	경우	경우	NOUN	_	13	advmod	_	_	경우/ncn
+4	자가보유에	자가+보유+에	ADV	_	5	obl	_	_	자가/ncn+보유/ncpa+에/jca
+5	따른	따르+ㄴ	VERB	_	7	acl	_	_	따르/pvg+ㄴ/etm
+6	대출액	대출액	NOUN	_	7	compound	_	_	대출액/ncn
+7	변제액과	변제액+과	CCONJ	_	8	conj	_	_	변제액/ncn+과/jcj
+8	개인보험	개인+보험	NOUN	_	10	conj	_	_	개인/ncn+보험/ncn
+9	및	및	CCONJ	_	10	cc	_	_	및/maj
+10	기타연금	기타+연금	NOUN	_	11	compound	_	_	기타/ncn+연금/ncn
+11	등을	등+을	NOUN	_	13	obj	_	_	등/nbn+을/jco
+12	소비지출에	소비+지출+에	ADV	_	13	obl	_	_	소비/ncpa+지출/ncpa+에/jca
+13	포함시키고	포함+시키+고	VERB	_	0	root	_	_	포함/ncpa+시키/xsv+고/ecx
+14	있다	있+다	AUX	_	13	aux	_	_	있/px+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 따라서 본고에서는 여타 국가와 같이 미국도 주택 대출변제액을 자산형성지출로 편성하였다 .
+1	따라서	따라서	CCONJ	_	10	cc	_	_	따라서/maj
+2	본고에서는	본고+에서+는	NOUN	_	10	dislocated	_	_	본고/ncn+에서/jca+는/jxt
+3	여타	여타	NOUN	_	4	compound	_	_	여타/ncn
+4	국가와	국가+와	CCONJ	_	5	conj	_	_	국가/ncn+와/jct
+5	같이	같+이	SCONJ	_	10	xcomp	_	_	같/paa+이/ecs
+6	미국도	미국+도	ADV	_	10	advcl	_	_	미국/nq+도/jxc
+7	주택	주택	NOUN	_	8	compound	_	_	주택/ncn
+8	대출변제액을	대출+변제액+을	NOUN	_	10	obj	_	_	대출/ncpa+변제액/ncn+을/jco
+9	자산형성지출로	자산+형성+지출+로	ADV	_	10	advcl	_	_	자산/ncn+형성/ncpa+지출/ncpa+로/jca
+10	편성하였다	편성+하+었+다	VERB	_	0	root	_	_	편성/ncpa+하/xsv+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 또한 의료보건제도도 각국간에 차이가 있기 때문에 건강보험료를 보건의료항목으로 잡은 미국의 경우는 한국 , 일본과 같이 비소비지출로 재편성하였다 .
+1	또한	또한	CCONJ	_	17	cc	_	_	또한/maj
+2	의료보건제도도	의료+보건+제도+도	ADV	_	5	advcl	_	_	의료/ncpa+보건/ncpa+제도/ncn+도/jxc
+3	각국간에	각국+간+에	ADV	_	5	obl	_	_	각국/ncn+간/xsn+에/jca
+4	차이가	차이+가	NOUN	_	5	nsubj	_	_	차이/ncn+가/jcs
+5	있기	있+기	ADJ	_	6	nmod	_	_	있/paa+기/etn
+6	때문에	때문+에	ADV	_	17	obl	_	_	때문/nbn+에/jca
+7	건강보험료를	건강+보험료+를	NOUN	_	9	obj	_	_	건강/ncps+보험료/ncn+를/jco
+8	보건의료항목으로	보건+의료+항목+으로	ADV	_	9	advcl	_	_	보건/ncpa+의료/ncpa+항목/ncn+으로/jca
+9	잡은	잡+ㄴ	VERB	_	10	acl	_	_	잡/pvg+ㄴ/etm
+10	미국의	미국+의	PROPN	_	11	nmod	_	_	미국/nq+의/jcm
+11	경우는	경우+는	NOUN	_	17	dislocated	_	_	경우/ncn+는/jxt
+12	한국	한국	PROPN	_	14	conj	_	_	한국/nq
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	일본과	일본+과	CCONJ	_	15	conj	_	_	일본/nq+과/jct
+15	같이	같+이	SCONJ	_	17	xcomp	_	_	같/paa+이/ecs
+16	비소비지출로	비+소비+지출+로	PART	_	17	advcl	_	_	비/xp+소비/ncpa+지출/ncpa+로/jca
+17	재편성하였다	재편성+하+었+다	VERB	_	0	root	_	_	재편성/ncpa+하/xsv+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 특히 독일자료는 주택수리비용이 가구가사용품으로 포함되어 있어 이를 주거비로 산입하였다 .
+1	특히	특히	ADV	_	5	advmod	_	_	특히/mag
+2	독일자료는	독일+자료+는	PROPN	_	5	dislocated	_	_	독일/nq+자료/ncn+는/jxt
+3	주택수리비용이	주택+수리+비용+이	NOUN	_	5	nsubj	_	_	주택/ncn+수리/ncpa+비용/ncn+이/jcs
+4	가구가사용품으로	가구+가사+용품+으로	ADV	_	5	advcl	_	_	가구/ncn+가사/ncn+용품/ncn+으로/jca
+5	포함되어	포함+되+어	VERB	_	9	ccomp	_	_	포함/ncpa+되/xsv+어/ecx
+6	있어	있+어	SCONJ	_	5	aux	_	_	있/px+어/ecs
+7	이를	이+를	PRON	_	9	obj	_	_	이/npd+를/jco
+8	주거비로	주거비+로	ADV	_	9	advcl	_	_	주거비/ncn+로/jca
+9	산입하였다	산입+하+었+다	VERB	_	0	root	_	_	산입/ncpa+하/xsv+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 아무튼 가능한 한 분류개념과 범위에 통일을 기하면서 제약범위내에서 최대한의 비교에 노력하였다 .
+1	아무튼	아무튼	ADV	_	11	advmod	_	_	아무튼/mag
+2	가능한	가능+하+ㄴ	VERB	_	3	amod	_	_	가능/ncps+하/xsm+ㄴ/etm
+3	한	한	NOUN	_	11	advmod	_	_	한/nbn
+4	분류개념과	분류+개념+과	CCONJ	_	5	conj	_	_	분류/ncpa+개념/ncn+과/jcj
+5	범위에	범위+에	ADV	_	7	obl	_	_	범위/ncn+에/jca
+6	통일을	통일+을	NOUN	_	7	obj	_	_	통일/ncpa+을/jco
+7	기하면서	기하+면서	CCONJ	_	11	conj	_	_	기하/pvg+면서/ecc
+8	제약범위내에서	제약+범위내+에서	ADV	_	11	advcl	_	_	제약/ncpa+범위내/ncn+에서/jca
+9	최대한의	최대한+의	NOUN	_	10	nmod	_	_	최대한/ncn+의/jcm
+10	비교에	비교+에	ADV	_	11	obl	_	_	비교/ncpa+에/jca
+11	노력하였다	노력+하+었+다	VERB	_	0	root	_	_	노력/ncpa+하/xsv+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이는 단일통화로 각국의 소비지출을 지수화하여 비교하는 것은 현실적으로 무리가 크기 때문이다 .
+1	이는	이+는	PRON	_	10	dislocated	_	_	이/npd+는/jxt
+2	단일통화로	단일+통화+로	ADV	_	5	advcl	_	_	단일/ncps+통화/ncn+로/jca
+3	각국의	각국+의	NOUN	_	4	nmod	_	_	각국/ncn+의/jcm
+4	소비지출을	소비+지출+을	NOUN	_	5	obj	_	_	소비/ncpa+지출/ncpa+을/jco
+5	지수화하여	지수화+하+어	SCONJ	_	6	ccomp	_	_	지수화/ncpa+하/xsv+어/ecs
+6	비교하는	비교+하+는	VERB	_	7	acl	_	_	비교/ncpa+하/xsv+는/etm
+7	것은	것+은	NOUN	_	10	dislocated	_	_	것/nbn+은/jxt
+8	현실적으로	현실+적+으로	ADV	_	10	advcl	_	_	현실/ncn+적/xsn+으로/jca
+9	무리가	무리+가	NOUN	_	10	nsubj	_	_	무리/ncps+가/jcs
+10	크기	크+기	ADJ	_	0	root	_	_	크/paa+기/etn
+11	때문이다	때문+이+다	VERB	_	10	aux	_	_	때문/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 외국의 일부논문에서 국제통계 프로그램 ( ICP ) 의 구매력평가지수 ( PPP ) 를 이용하여 US 달러로 환산한 각국의 소비지출 수준을 비교하고도 있으나 이는 정확한 방법이라고 보기 어렵다 .
+1	외국의	외국+의	NOUN	_	2	nmod	_	_	외국/ncn+의/jcm
+2	일부논문에서	일부+논문+에서	ADV	_	21	advcl	_	_	일부/ncn+논문/ncn+에서/jca
+3	국제통계	국제+통계	NOUN	_	4	compound	_	_	국제/ncn+통계/ncn
+4	프로그램	프로그램	NOUN	_	9	nmod	_	_	프로그램/ncn
+5	(	(	PUNCT	_	6	punct	_	_	(/sl
+6	ICP	ICP	X	_	4	appos	_	_	ICP/f
+7	)	)	PUNCT	_	6	punct	_	_	)/sr
+8	의	의	ADP	_	4	case	_	_	의/jcm
+9	구매력평가지수	구매력+평가+지수	NOUN	_	14	obj	_	_	구매력/ncn+평가/ncpa+지수/ncn
+10	(	(	PUNCT	_	11	punct	_	_	(/sl
+11	PPP	PPP	X	_	9	appos	_	_	PPP/f
+12	)	)	PUNCT	_	11	punct	_	_	)/sr
+13	를	를	ADP	_	9	case	_	_	를/jco
+14	이용하여	이용+하+어	SCONJ	_	17	ccomp	_	_	이용/ncpa+하/xsv+어/ecs
+15	US	US	X	_	16	compound	_	_	US/f
+16	달러로	달러+로	ADV	_	17	advcl	_	_	달러/nbu+로/jca
+17	환산한	환산+하+ㄴ	VERB	_	20	acl	_	_	환산/ncpa+하/xsv+ㄴ/etm
+18	각국의	각국+의	NOUN	_	19	nmod	_	_	각국/ncn+의/jcm
+19	소비지출	소비+지출	NOUN	_	20	compound	_	_	소비/ncpa+지출/ncpa
+20	수준을	수준+을	NOUN	_	21	obj	_	_	수준/ncn+을/jco
+21	비교하고도	비교+하+고+도	ADV	_	27	conj	_	_	비교/ncpa+하/xsv+고/ecx+도/jxc
+22	있으나	있+으나	SCONJ	_	21	aux	_	_	있/px+으나/ecs
+23	이는	이+는	PRON	_	27	dislocated	_	_	이/npd+는/jxt
+24	정확한	정확+하+ㄴ	VERB	_	25	amod	_	_	정확/ncps+하/xsm+ㄴ/etm
+25	방법이라고	방법+이+라+고	VERB	_	26	conj	_	_	방법/ncn+이/jp+라/ef+고/jcr
+26	보기	보+기	VERB	_	27	nmod	_	_	보/pvg+기/etn
+27	어렵다	어렵+다	ADJ	_	0	root	_	_	어렵/paa+다/ef
+28	.	.	PUNCT	_	27	punct	_	_	./sf
+
+# 따라서 각국의 자국통화로 각국의 소비지출증가변화를 봄으로써 이러한 규모비교상의 오류를 피하고 각국 개별의 소비규모의 변화만 고찰한다 .
+1	따라서	따라서	CCONJ	_	15	cc	_	_	따라서/maj
+2	각국의	각국+의	NOUN	_	3	nmod	_	_	각국/ncn+의/jcm
+3	자국통화로	자국+통화+로	ADV	_	6	advcl	_	_	자국/ncn+통화/ncn+로/jca
+4	각국의	각국+의	NOUN	_	5	nmod	_	_	각국/ncn+의/jcm
+5	소비지출증가변화를	소비+지출+증가+변화+를	NOUN	_	6	obj	_	_	소비/ncpa+지출/ncpa+증가/ncpa+변화/ncpa+를/jco
+6	봄으로써	보+ㅁ+으로써	ADV	_	15	advcl	_	_	보/pvg+ㅁ/etn+으로써/jca
+7	이러한	이러하+ㄴ	VERB	_	8	amod	_	_	이러하/pad+ㄴ/etm
+8	규모비교상의	규모+비교+상+의	NOUN	_	9	nmod	_	_	규모/ncn+비교/ncpa+상/xsn+의/jcm
+9	오류를	오류+를	NOUN	_	10	obj	_	_	오류/ncn+를/jco
+10	피하고	피하+고	CCONJ	_	15	conj	_	_	피하/pvg+고/ecc
+11	각국	각국	NOUN	_	12	compound	_	_	각국/ncn
+12	개별의	개별+의	NOUN	_	14	nmod	_	_	개별/ncpa+의/jcm
+13	소비규모의	소비+규모+의	NOUN	_	14	nmod	_	_	소비/ncpa+규모/ncn+의/jcm
+14	변화만	변화+만	ADV	_	15	advcl	_	_	변화/ncpa+만/jxc
+15	고찰한다	고찰+하+ㄴ다	VERB	_	0	root	_	_	고찰/ncpa+하/xsv+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 다음으로 1990 년 기준의 각국의 소비구조는 어떤지를 살펴보자 .
+1	다음으로	다음+으로	ADV	_	8	advcl	_	_	다음/ncn+으로/jca
+2	1990	1990	NUM	_	3	nummod	_	_	1990/nno
+3	년	년	NOUN	_	4	compound	_	_	년/nbu
+4	기준의	기준+의	NOUN	_	6	nmod	_	_	기준/ncn+의/jcm
+5	각국의	각국+의	NOUN	_	6	nmod	_	_	각국/ncn+의/jcm
+6	소비구조는	소비+구조+는	NOUN	_	7	dislocated	_	_	소비/ncpa+구조/ncpa+는/jxt
+7	어떤지를	어떻+ㄴ지+를	NOUN	_	8	obj	_	_	어떻/pad+ㄴ지/ecs+를/jco
+8	살펴보자	살피+어+보+자	AUX	_	0	root	_	_	살피/pvg+어/ecx+보/px+자/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 전체 소비지출 중 식료품비에 있어 한국은 32.5 % , 일본 24.1 % , 미국 20.1 % , 독일 24.6 % 로 나타나 한국의 식료품 지출비중이 가장 높다 .
+1	전체	전체	NOUN	_	2	compound	_	_	전체/ncn
+2	소비지출	소비+지출	NOUN	_	3	compound	_	_	소비/ncpa+지출/ncpa
+3	중	중	NOUN	_	4	mark	_	_	중/nbn
+4	식료품비에	식료품비+에	ADV	_	5	obl	_	_	식료품비/ncn+에/jca
+5	있어	있+어	SCONJ	_	27	xcomp	_	_	있/paa+어/ecs
+6	한국은	한국+은	PROPN	_	7	dislocated	_	_	한국/nq+은/jxt
+7	32.5	32.5	NUM	_	19	nummod	_	_	32.5/nnc
+8	%	%	SYM	_	7	punct	_	_	%/su
+9	,	,	PUNCT	_	7	punct	_	_	,/sp
+10	일본	일본	PROPN	_	11	compound	_	_	일본/nq
+11	24.1	24.1	NUM	_	19	nummod	_	_	24.1/nnc
+12	%	%	SYM	_	11	punct	_	_	%/su
+13	,	,	PUNCT	_	11	punct	_	_	,/sp
+14	미국	미국	PROPN	_	15	compound	_	_	미국/nq
+15	20.1	20.1	NUM	_	19	nummod	_	_	20.1/nnc
+16	%	%	SYM	_	15	punct	_	_	%/su
+17	,	,	PUNCT	_	15	punct	_	_	,/sp
+18	독일	독일	PROPN	_	19	compound	_	_	독일/nq
+19	24.6	24.6	NUM	_	22	nummod	_	_	24.6/nnc
+20	%	%	SYM	_	19	punct	_	_	%/su
+21	로	로	ADP	_	19	case	_	_	로/jca
+22	나타나	나타나+아	SCONJ	_	27	conj	_	_	나타나/pvg+아/ecs
+23	한국의	한국+의	PROPN	_	25	nmod	_	_	한국/nq+의/jcm
+24	식료품	식료품	NOUN	_	25	compound	_	_	식료품/ncn
+25	지출비중이	지출+비중+이	NOUN	_	27	nsubj	_	_	지출/ncpa+비중/ncn+이/jcs
+26	가장	가장	ADV	_	27	advmod	_	_	가장/mag
+27	높다	높+다	ADJ	_	0	root	_	_	높/paa+다/ef
+28	.	.	PUNCT	_	27	punct	_	_	./sf
+
+# 즉 미국의 엥겔계수가 가장 낮고 독일 , 일본은 거의 비슷한 수준을 보이고 있으며 한국의 엥겔계수가 가장 높다 .
+1	즉	즉	CCONJ	_	17	cc	_	_	즉/maj
+2	미국의	미국+의	PROPN	_	3	nmod	_	_	미국/nq+의/jcm
+3	엥겔계수가	엥겔계수+가	NOUN	_	5	nsubj	_	_	엥겔계수/ncn+가/jcs
+4	가장	가장	ADV	_	5	advmod	_	_	가장/mag
+5	낮고	낮+고	CCONJ	_	12	conj	_	_	낮/paa+고/ecc
+6	독일	독일	PROPN	_	8	conj	_	_	독일/nq
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	일본은	일본+은	PROPN	_	12	dislocated	_	_	일본/nq+은/jxt
+9	거의	거의	ADV	_	10	advmod	_	_	거의/mag
+10	비슷한	비슷하+ㄴ	ADJ	_	11	amod	_	_	비슷하/paa+ㄴ/etm
+11	수준을	수준+을	NOUN	_	12	obj	_	_	수준/ncn+을/jco
+12	보이고	보이+고	VERB	_	17	conj	_	_	보이/pvg+고/ecx
+13	있으며	있+으며	CCONJ	_	12	aux	_	_	있/px+으며/ecc
+14	한국의	한국+의	PROPN	_	15	nmod	_	_	한국/nq+의/jcm
+15	엥겔계수가	엥겔계수+가	NOUN	_	17	nsubj	_	_	엥겔계수/ncn+가/jcs
+16	가장	가장	ADV	_	17	advmod	_	_	가장/mag
+17	높다	높+다	ADJ	_	0	root	_	_	높/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 피복 , 신발의 경우에는 4 개국이 거의 비슷한 비중을 보여 별다른 특징을 보이지 않는다 .
+1	피복	피복	NOUN	_	3	conj	_	_	피복/ncn
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	신발의	신발+의	NOUN	_	4	nmod	_	_	신발/ncn+의/jcm
+4	경우에는	경우+에+는	NOUN	_	13	dislocated	_	_	경우/ncn+에/jca+는/jxt
+5	4	4	NUM	_	6	nummod	_	_	4/nnc
+6	개국이	개국+이	NOUN	_	10	nsubj	_	_	개국/nbu+이/jcs
+7	거의	거의	ADV	_	8	advmod	_	_	거의/mag
+8	비슷한	비슷하+ㄴ	ADJ	_	9	amod	_	_	비슷하/paa+ㄴ/etm
+9	비중을	비중+을	NOUN	_	10	obj	_	_	비중/ncn+을/jco
+10	보여	보이+어	SCONJ	_	13	ccomp	_	_	보이/pvg+어/ecs
+11	별다른	별다르+ㄴ	ADJ	_	12	amod	_	_	별다르/paa+ㄴ/etm
+12	특징을	특징+을	NOUN	_	13	obj	_	_	특징/ncpa+을/jco
+13	보이지	보이+지	VERB	_	0	root	_	_	보이/pvg+지/ecx
+14	않는다	않+는다	AUX	_	13	aux	_	_	않/px+는다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그러나 보건의료의 경우 미국이 8.1 % 로 가장 높게 나타나고 있고 일본 , 독일 , 한국은 상대적으로 적은 지출비중을 보이고 있다 .
+1	그러나	그러나	CCONJ	_	20	cc	_	_	그러나/maj
+2	보건의료의	보건+의료+의	NOUN	_	3	nmod	_	_	보건/ncpa+의료/ncpa+의/jcm
+3	경우	경우	NOUN	_	20	advmod	_	_	경우/ncn
+4	미국이	미국+이	PROPN	_	9	nsubj	_	_	미국/nq+이/jcs
+5	8.1	8.1	NUM	_	9	nummod	_	_	8.1/nnc
+6	%	%	SYM	_	5	punct	_	_	%/su
+7	로	로	ADP	_	5	case	_	_	로/jca
+8	가장	가장	ADV	_	9	advmod	_	_	가장/mag
+9	높게	높+게	SCONJ	_	10	xcomp	_	_	높/paa+게/ecs
+10	나타나고	나타나+고	VERB	_	20	conj	_	_	나타나/pvg+고/ecx
+11	있고	있+고	CCONJ	_	10	aux	_	_	있/px+고/ecc
+12	일본	일본	PROPN	_	14	conj	_	_	일본/nq
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	독일	독일	PROPN	_	16	conj	_	_	독일/nq
+15	,	,	PUNCT	_	14	punct	_	_	,/sp
+16	한국은	한국+은	PROPN	_	20	dislocated	_	_	한국/nq+은/jxt
+17	상대적으로	상대+적+으로	ADV	_	18	advcl	_	_	상대/ncpa+적/xsn+으로/jca
+18	적은	적+ㄴ	ADJ	_	19	amod	_	_	적/paa+ㄴ/etm
+19	지출비중을	지출+비중+을	NOUN	_	20	obj	_	_	지출/ncpa+비중/ncn+을/jco
+20	보이고	보이+고	VERB	_	0	root	_	_	보이/pvg+고/ecx
+21	있다	있+다	AUX	_	20	aux	_	_	있/px+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 이는 자동차보급과 관련이 높은 것으로 볼 수 있다 .
+1	이는	이+는	PRON	_	6	dislocated	_	_	이/npd+는/jxt
+2	자동차보급과	자동차+보급+과	CCONJ	_	4	conj	_	_	자동차/ncn+보급/ncpa+과/jct
+3	관련이	관련+이	NOUN	_	4	nsubj	_	_	관련/ncpa+이/jcs
+4	높은	높+ㄴ	ADJ	_	5	amod	_	_	높/paa+ㄴ/etm
+5	것으로	것+으로	ADV	_	6	advcl	_	_	것/nbn+으로/jca
+6	볼	보+ㄹ	VERB	_	0	root	_	_	보/pvg+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	있다	있+다	ADJ	_	6	aux	_	_	있/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 하지만 한국의 경우 경조비 , 관혼상제비 등 제잡비의 비중이 14.4 % 로 나타나 일본의 2.85보다 훨씬 큰 것으로 파악되고 있다 .
+1	하지만	하지만	CCONJ	_	19	cc	_	_	하지만/maj
+2	한국의	한국+의	PROPN	_	3	nmod	_	_	한국/nq+의/jcm
+3	경우	경우	NOUN	_	17	dep	_	_	경우/ncn
+4	경조비	경조비	NOUN	_	6	conj	_	_	경조비/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	관혼상제비	관혼상제비	NOUN	_	7	compound	_	_	관혼상제비/ncn
+7	등	등	NOUN	_	8	mark	_	_	등/nbn
+8	제잡비의	제잡비+의	NOUN	_	9	nmod	_	_	제잡비/ncn+의/jcm
+9	비중이	비중+이	NOUN	_	13	nsubj	_	_	비중/ncn+이/jcs
+10	14.4	14.4	NUM	_	13	nummod	_	_	14.4/nnc
+11	%	%	SYM	_	10	punct	_	_	%/su
+12	로	로	ADP	_	10	case	_	_	로/jca
+13	나타나	나타나+아	SCONJ	_	17	conj	_	_	나타나/pvg+아/ecs
+14	일본의	일본+의	PROPN	_	15	nmod	_	_	일본/nq+의/jcm
+15	2.85보다	2.85+보다	ADV	_	17	advcl	_	_	2.85/nnc+보다/jca
+16	훨씬	훨씬	ADV	_	17	advmod	_	_	훨씬/mag
+17	큰	크+ㄴ	ADJ	_	18	amod	_	_	크/paa+ㄴ/etm
+18	것으로	것+으로	ADV	_	19	advcl	_	_	것/nbn+으로/jca
+19	파악되고	파악+되+고	VERB	_	0	root	_	_	파악/ncpa+되/xsv+고/ecx
+20	있다	있+다	AUX	_	19	aux	_	_	있/px+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 다음으로 각국의 소비지출형태를 가구주 연령별로 살펴본다 .
+1	다음으로	다음+으로	ADV	_	6	advcl	_	_	다음/ncn+으로/jca
+2	각국의	각국+의	NOUN	_	3	nmod	_	_	각국/ncn+의/jcm
+3	소비지출형태를	소비+지출+형태+를	NOUN	_	6	obj	_	_	소비/ncpa+지출/ncpa+형태/ncn+를/jco
+4	가구주	가구주	NOUN	_	5	compound	_	_	가구주/ncn
+5	연령별로	연령별+로	ADV	_	6	advcl	_	_	연령별/ncn+로/jca
+6	살펴본다	살피+어+보+ㄴ다	AUX	_	0	root	_	_	살피/pvg+어/ecx+보/px+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 각국의 구득자료에서는 가구주의 연령계층구분이 서로 달라 이를 재조정하기가 상당히 어렵다 .
+1	각국의	각국+의	NOUN	_	2	nmod	_	_	각국/ncn+의/jcm
+2	구득자료에서는	구득+자료+에서+는	NOUN	_	6	dislocated	_	_	구득/ncpa+자료/ncn+에서/jca+는/jxt
+3	가구주의	가구주+의	NOUN	_	4	nmod	_	_	가구주/ncn+의/jcm
+4	연령계층구분이	연령+계층+구분+이	NOUN	_	6	nsubj	_	_	연령/ncn+계층/ncn+구분/ncpa+이/jcs
+5	서로	서로	ADV	_	6	advmod	_	_	서로/mag
+6	달라	다르+아	SCONJ	_	10	xcomp	_	_	다르/paa+아/ecs
+7	이를	이+를	PRON	_	8	obj	_	_	이/npd+를/jco
+8	재조정하기가	재조정+하+기+가	NOUN	_	10	nsubj	_	_	재조정/ncpa+하/xsv+기/etn+가/jcs
+9	상당히	상당+히	ADV	_	10	advmod	_	_	상당/ncps+히/xsa
+10	어렵다	어렵+다	ADJ	_	0	root	_	_	어렵/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 한국의 경우는 전술한 것처럼 소비지출의 규모가 연령과 함께 증가하다가 45 54 세에서 정점에 이르고 그 이후 축소되는 모습을 보이고 있다 .
+1	한국의	한국+의	PROPN	_	2	nmod	_	_	한국/nq+의/jcm
+2	경우는	경우+는	NOUN	_	19	dislocated	_	_	경우/ncn+는/jxt
+3	전술한	전술+하+ㄴ	VERB	_	4	acl	_	_	전술/ncpa+하/xsv+ㄴ/etm
+4	것처럼	것+처럼	ADV	_	19	advcl	_	_	것/nbn+처럼/jca
+5	소비지출의	소비+지출+의	NOUN	_	6	nmod	_	_	소비/ncpa+지출/ncpa+의/jcm
+6	규모가	규모+가	NOUN	_	17	nsubj	_	_	규모/ncn+가/jcs
+7	연령과	연령+과	CCONJ	_	8	conj	_	_	연령/ncn+과/jct
+8	함께	함께	ADV	_	9	advmod	_	_	함께/mag
+9	증가하다가	증가+하+다가	SCONJ	_	14	ccomp	_	_	증가/ncpa+하/xsv+다가/ecs
+10	45	45	NUM	_	11	nummod	_	_	45/nnc
+11	54	54	NUM	_	12	nummod	_	_	54/nnc
+12	세에서	세+에서	ADV	_	14	advcl	_	_	세/nbu+에서/jca
+13	정점에	정점+에	ADV	_	14	obl	_	_	정점/ncn+에/jca
+14	이르고	이르+고	CCONJ	_	17	conj	_	_	이르/pvg+고/ecc
+15	그	그	DET	_	16	det	_	_	그/mmd
+16	이후	이후	NOUN	_	17	compound	_	_	이후/ncn
+17	축소되는	축소+되+는	VERB	_	18	acl	_	_	축소/ncpa+되/xsv+는/etm
+18	모습을	모습+을	NOUN	_	19	obj	_	_	모습/ncn+을/jco
+19	보이고	보이+고	VERB	_	0	root	_	_	보이/pvg+고/ecx
+20	있다	있+다	AUX	_	19	aux	_	_	있/px+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 이러한 현상은 4 개국 모두 공통적인 것으로 나타나고 있다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	현상은	현상+은	NOUN	_	8	dislocated	_	_	현상/ncn+은/jxt
+3	4	4	NUM	_	4	nummod	_	_	4/nnc
+4	개국	개국	NOUN	_	5	dep	_	_	개국/nbu
+5	모두	모두	ADV	_	8	advmod	_	_	모두/mag
+6	공통적인	공통+적+이+ㄴ	VERB	_	7	acl	_	_	공통/ncpa+적/xsn+이/jp+ㄴ/etm
+7	것으로	것+으로	ADV	_	8	advcl	_	_	것/nbn+으로/jca
+8	나타나고	나타나+고	VERB	_	0	root	_	_	나타나/pvg+고/ecx
+9	있다	있+다	AUX	_	8	aux	_	_	있/px+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 다만 그 변동폭의 차이는 각국마다 다소 다르며 가구주 연령별 소비지출액의 격차가 가장 큰 나라는 4 개국 중 미국인 것으로 나타난다 .
+1	다만	다만	ADV	_	7	advmod	_	_	다만/mag
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	변동폭의	변동+폭+의	NOUN	_	4	nmod	_	_	변동/ncpa+폭/ncn+의/jcm
+4	차이는	차이+는	NOUN	_	7	dislocated	_	_	차이/ncn+는/jxt
+5	각국마다	각국+마다	ADV	_	7	advcl	_	_	각국/ncn+마다/jxc
+6	다소	다소	ADV	_	7	advmod	_	_	다소/mag
+7	다르며	다르+며	CCONJ	_	20	conj	_	_	다르/paa+며/ecc
+8	가구주	가구주	NOUN	_	9	compound	_	_	가구주/ncn
+9	연령별	연령별	NOUN	_	10	compound	_	_	연령별/ncn
+10	소비지출액의	소비+지출액+의	NOUN	_	11	nmod	_	_	소비/ncpa+지출액/ncn+의/jcm
+11	격차가	격차+가	NOUN	_	13	nsubj	_	_	격차/ncn+가/jcs
+12	가장	가장	ADV	_	13	advmod	_	_	가장/mag
+13	큰	크+ㄴ	ADJ	_	14	amod	_	_	크/paa+ㄴ/etm
+14	나라는	나라+는	NOUN	_	18	dislocated	_	_	나라/ncn+는/jxt
+15	4	4	NUM	_	16	nummod	_	_	4/nnc
+16	개국	개국	NOUN	_	17	compound	_	_	개국/nbu
+17	중	중	NOUN	_	18	advmod	_	_	중/nbn
+18	미국인	미국+이+ㄴ	VERB	_	19	acl	_	_	미국/nq+이/jp+ㄴ/etm
+19	것으로	것+으로	ADV	_	20	advcl	_	_	것/nbn+으로/jca
+20	나타난다	나타나+ㄴ다	VERB	_	0	root	_	_	나타나/pvg+ㄴ다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 또한 소득수준이 가장 낮은 25 세 미만 가구와의 소비지출격차가 여타국보다 훨씬 큰 특징을 보이고 있다 .
+1	또한	또한	CCONJ	_	14	cc	_	_	또한/maj
+2	소득수준이	소득+수준+이	NOUN	_	4	nsubj	_	_	소득/ncpa+수준/ncn+이/jcs
+3	가장	가장	ADV	_	4	advmod	_	_	가장/mag
+4	낮은	낮+ㄴ	ADJ	_	8	amod	_	_	낮/paa+ㄴ/etm
+5	25	25	NUM	_	6	nummod	_	_	25/nnc
+6	세	세	NOUN	_	7	compound	_	_	세/nbu
+7	미만	미만	NOUN	_	8	compound	_	_	미만/ncps
+8	가구와의	가구+와+의	NOUN	_	9	nmod	_	_	가구/ncn+와/jct+의/jcm
+9	소비지출격차가	소비+지출+격차+가	NOUN	_	12	nsubj	_	_	소비/ncpa+지출/ncpa+격차/ncn+가/jcs
+10	여타국보다	여타국+보다	ADV	_	12	advcl	_	_	여타국/ncn+보다/jca
+11	훨씬	훨씬	ADV	_	12	advmod	_	_	훨씬/mag
+12	큰	크+ㄴ	ADJ	_	13	amod	_	_	크/paa+ㄴ/etm
+13	특징을	특징+을	NOUN	_	14	obj	_	_	특징/ncpa+을/jco
+14	보이고	보이+고	VERB	_	0	root	_	_	보이/pvg+고/ecx
+15	있다	있+다	AUX	_	14	aux	_	_	있/px+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 전술한 바와 같이 먼저 식료품의 경우 한국이 여타국에 비해 높게 나타나며 일본 , 독일 , 미국의 순으로 그 비중이 떨어지고 있다 .
+1	전술한	전술+하+ㄴ	VERB	_	2	acl	_	_	전술/ncpa+하/xsv+ㄴ/etm
+2	바와	바+와	CCONJ	_	3	conj	_	_	바/nbn+와/jct
+3	같이	같+이	SCONJ	_	20	xcomp	_	_	같/paa+이/ecs
+4	먼저	먼저	ADV	_	20	advmod	_	_	먼저/mag
+5	식료품의	식료품+의	NOUN	_	6	nmod	_	_	식료품/ncn+의/jcm
+6	경우	경우	NOUN	_	20	advmod	_	_	경우/ncn
+7	한국이	한국+이	PROPN	_	11	nsubj	_	_	한국/nq+이/jcs
+8	여타국에	여타국+에	ADV	_	9	obl	_	_	여타국/ncn+에/jca
+9	비해	비하+어	SCONJ	_	11	ccomp	_	_	비하/pvg+어/ecs
+10	높게	높+게	SCONJ	_	11	xcomp	_	_	높/paa+게/ecs
+11	나타나며	나타나+며	CCONJ	_	20	conj	_	_	나타나/pvg+며/ecc
+12	일본	일본	PROPN	_	14	conj	_	_	일본/nq
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	독일	독일	PROPN	_	16	conj	_	_	독일/nq
+15	,	,	PUNCT	_	14	punct	_	_	,/sp
+16	미국의	미국+의	PROPN	_	17	nmod	_	_	미국/nq+의/jcm
+17	순으로	순+으로	ADV	_	20	advcl	_	_	순/ncn+으로/jca
+18	그	그	DET	_	19	det	_	_	그/mmd
+19	비중이	비중+이	NOUN	_	20	nsubj	_	_	비중/ncn+이/jcs
+20	떨어지고	떨어지+고	VERB	_	0	root	_	_	떨어지/pvg+고/ecx
+21	있다	있+다	AUX	_	20	aux	_	_	있/px+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 독일 , 미국과 한국은 45 54 세 가구주의 가정이 식료품지출 규모가 큰 반면 일본은 30대 중반에서 40대 중반까지의 가구가 가장 높다 .
+1	독일	독일	PROPN	_	3	conj	_	_	독일/nq
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	미국과	미국+과	CCONJ	_	4	conj	_	_	미국/nq+과/jcj
+4	한국은	한국+은	PROPN	_	12	dislocated	_	_	한국/nq+은/jxt
+5	45	45	NUM	_	6	nummod	_	_	45/nnc
+6	54	54	NUM	_	7	nummod	_	_	54/nnc
+7	세	세	NOUN	_	8	compound	_	_	세/nbu
+8	가구주의	가구주+의	NOUN	_	9	nmod	_	_	가구주/ncn+의/jcm
+9	가정이	가정+이	NOUN	_	12	nsubj	_	_	가정/ncn+이/jcs
+10	식료품지출	식료품+지출	NOUN	_	11	compound	_	_	식료품/ncn+지출/ncpa
+11	규모가	규모+가	NOUN	_	12	nsubj	_	_	규모/ncn+가/jcs
+12	큰	크+ㄴ	ADJ	_	13	amod	_	_	크/paa+ㄴ/etm
+13	반면	반면	NOUN	_	21	dep	_	_	반면/ncn
+14	일본은	일본+은	PROPN	_	21	dislocated	_	_	일본/nq+은/jxt
+15	30대	30+대	NOUN	_	16	advmod	_	_	30/nnc+대/xsn
+16	중반에서	중반+에서	ADV	_	18	advcl	_	_	중반/ncn+에서/jca
+17	40대	40+대	NOUN	_	18	advmod	_	_	40/nnc+대/xsn
+18	중반까지의	중반+까지+의	NOUN	_	19	nmod	_	_	중반/ncn+까지/jxc+의/jcm
+19	가구가	가구+가	NOUN	_	21	nsubj	_	_	가구/ncn+가/jcs
+20	가장	가장	ADV	_	21	advmod	_	_	가장/mag
+21	높다	높+다	ADJ	_	0	root	_	_	높/paa+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 한편 소비지출에 대한 식료품 비중은 한국은 30대 중반에서 가장 높고 여타국가는 30대 후반에서 40대 중반까지가 높게 나타나 대조적인 모습을 보인다 .
+1	한편	한편	CCONJ	_	20	cc	_	_	한편/maj
+2	소비지출에	소비+지출+에	ADV	_	3	obl	_	_	소비/ncpa+지출/ncpa+에/jca
+3	대한	대하+ㄴ	VERB	_	5	acl	_	_	대하/pvg+ㄴ/etm
+4	식료품	식료품	NOUN	_	5	compound	_	_	식료품/ncn
+5	비중은	비중+은	NOUN	_	17	dislocated	_	_	비중/ncn+은/jxt
+6	한국은	한국+은	PROPN	_	10	dislocated	_	_	한국/nq+은/jxt
+7	30대	30+대	NOUN	_	8	advmod	_	_	30/nnc+대/xsn
+8	중반에서	중반+에서	ADV	_	10	advcl	_	_	중반/ncn+에서/jca
+9	가장	가장	ADV	_	10	advmod	_	_	가장/mag
+10	높고	높+고	CCONJ	_	17	conj	_	_	높/paa+고/ecc
+11	여타국가는	여타+국가+는	NOUN	_	16	dislocated	_	_	여타/ncn+국가/ncn+는/jxt
+12	30대	30+대	NOUN	_	13	advmod	_	_	30/nnc+대/xsn
+13	후반에서	후반+에서	ADV	_	15	advcl	_	_	후반/ncn+에서/jca
+14	40대	40+대	NOUN	_	15	advmod	_	_	40/nnc+대/xsn
+15	중반까지가	중반+까지+가	NOUN	_	16	nsubj	_	_	중반/ncn+까지/jxc+가/jcs
+16	높게	높+게	SCONJ	_	17	xcomp	_	_	높/paa+게/ecs
+17	나타나	나타나+아	SCONJ	_	20	ccomp	_	_	나타나/pvg+아/ecs
+18	대조적인	대조+적+이+ㄴ	VERB	_	19	acl	_	_	대조/ncpa+적/xsn+이/jp+ㄴ/etm
+19	모습을	모습+을	NOUN	_	20	obj	_	_	모습/ncn+을/jco
+20	보인다	보이+ㄴ다	VERB	_	0	root	_	_	보이/pvg+ㄴ다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 미국가구의 외식비지출 비중은 한국 , 독일 , 일본보다 높게 나타나고 있다 .
+1	미국가구의	미국+가구+의	PROPN	_	2	nmod	_	_	미국/nq+가구/ncn+의/jcm
+2	외식비지출	외식비+지출	NOUN	_	3	compound	_	_	외식비/ncn+지출/ncpa
+3	비중은	비중+은	NOUN	_	9	dislocated	_	_	비중/ncn+은/jxt
+4	한국	한국	PROPN	_	6	conj	_	_	한국/nq
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	독일	독일	PROPN	_	8	conj	_	_	독일/nq
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	일본보다	일본+보다	ADV	_	9	advcl	_	_	일본/nq+보다/jca
+9	높게	높+게	SCONJ	_	10	xcomp	_	_	높/paa+게/ecs
+10	나타나고	나타나+고	VERB	_	0	root	_	_	나타나/pvg+고/ecx
+11	있다	있+다	AUX	_	10	aux	_	_	있/px+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이는 우리의 젊은층도 여타국의 젊은층과 같이 외식을 많이 하는 것으로 파악되고 있으며 독일 , 일본의 젊은층보다도 훨씬 높다 .
+1	이는	이+는	PRON	_	18	dislocated	_	_	이/npd+는/jxt
+2	우리의	우리+의	PRON	_	3	nmod	_	_	우리/npp+의/jcm
+3	젊은층도	젊은층+도	ADV	_	9	advcl	_	_	젊은층/ncn+도/jxc
+4	여타국의	여타국+의	PROPN	_	5	nmod	_	_	여타국/nq+의/jcm
+5	젊은층과	젊은층+과	CCONJ	_	6	conj	_	_	젊은층/ncn+과/jct
+6	같이	같+이	SCONJ	_	9	xcomp	_	_	같/paa+이/ecs
+7	외식을	외식+을	NOUN	_	9	obj	_	_	외식/ncpa+을/jco
+8	많이	많이	ADV	_	9	advmod	_	_	많이/mag
+9	하는	하+는	VERB	_	10	acl	_	_	하/pvg+는/etm
+10	것으로	것+으로	ADV	_	11	advcl	_	_	것/nbn+으로/jca
+11	파악되고	파악+되+고	VERB	_	18	conj	_	_	파악/ncpa+되/xsv+고/ecx
+12	있으며	있+으며	CCONJ	_	11	aux	_	_	있/px+으며/ecc
+13	독일	독일	PROPN	_	15	conj	_	_	독일/nq
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	일본의	일본+의	PROPN	_	16	nmod	_	_	일본/nq+의/jcm
+16	젊은층보다도	젊은층+보다+도	ADV	_	18	advcl	_	_	젊은층/ncn+보다/jca+도/jxc
+17	훨씬	훨씬	ADV	_	18	advmod	_	_	훨씬/mag
+18	높다	높+다	ADJ	_	0	root	_	_	높/paa+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이에 반해 주택수리비는 주택보유율이 높은 연령층인 30대 이후로 가면서 지출규모나 비중에 있어 높은 수준을 보이고 있다 .
+1	이에	이+에	ADV	_	2	obl	_	_	이/npd+에/jca
+2	반해	반하+어	SCONJ	_	15	ccomp	_	_	반하/pvg+어/ecs
+3	주택수리비는	주택+수리비+는	NOUN	_	15	dislocated	_	_	주택/ncn+수리비/ncn+는/jxt
+4	주택보유율이	주택+보유율+이	NOUN	_	5	nsubj	_	_	주택/ncn+보유율/ncn+이/jcs
+5	높은	높+ㄴ	ADJ	_	6	amod	_	_	높/paa+ㄴ/etm
+6	연령층인	연령+층+이+ㄴ	VERB	_	8	acl	_	_	연령/ncn+층/ncn+이/jp+ㄴ/etm
+7	30대	30+대	NOUN	_	8	advmod	_	_	30/nnc+대/xsn
+8	이후로	이후+로	ADV	_	9	advcl	_	_	이후/ncn+로/jca
+9	가면서	가+면서	CCONJ	_	15	conj	_	_	가/pvg+면서/ecc
+10	지출규모나	지출+규모+나	CCONJ	_	11	conj	_	_	지출/ncpa+규모/ncn+나/jcj
+11	비중에	비중+에	ADV	_	12	obl	_	_	비중/ncn+에/jca
+12	있어	있+어	SCONJ	_	15	xcomp	_	_	있/paa+어/ecs
+13	높은	높+ㄴ	ADJ	_	14	amod	_	_	높/paa+ㄴ/etm
+14	수준을	수준+을	NOUN	_	15	obj	_	_	수준/ncn+을/jco
+15	보이고	보이+고	VERB	_	0	root	_	_	보이/pvg+고/ecx
+16	있다	있+다	AUX	_	15	aux	_	_	있/px+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 여기서 특징으로 나타나는 것은 한국의 월세비중이 여타국보다 훨씬 낮은 것으로 나타나고 있으며 독일의 경우 고령층에 접어들수록 월세비 지출이 높아지는 현상이다 .
+1	여기서	여기+서	ADV	_	3	advcl	_	_	여기/npd+서/jca
+2	특징으로	특징+으로	ADV	_	3	advcl	_	_	특징/ncpa+으로/jca
+3	나타나는	나타나+는	VERB	_	4	acl	_	_	나타나/pvg+는/etm
+4	것은	것+은	NOUN	_	20	dislocated	_	_	것/nbn+은/jxt
+5	한국의	한국+의	PROPN	_	6	nmod	_	_	한국/nq+의/jcm
+6	월세비중이	월세+비중+이	NOUN	_	9	nsubj	_	_	월세/ncn+비중/ncn+이/jcs
+7	여타국보다	여타국+보다	ADV	_	9	advcl	_	_	여타국/ncn+보다/jca
+8	훨씬	훨씬	ADV	_	9	advmod	_	_	훨씬/mag
+9	낮은	낮+ㄴ	ADJ	_	10	amod	_	_	낮/paa+ㄴ/etm
+10	것으로	것+으로	ADV	_	11	advcl	_	_	것/nbn+으로/jca
+11	나타나고	나타나+고	VERB	_	19	conj	_	_	나타나/pvg+고/ecx
+12	있으며	있+으며	CCONJ	_	11	aux	_	_	있/px+으며/ecc
+13	독일의	독일+의	PROPN	_	14	nmod	_	_	독일/nq+의/jcm
+14	경우	경우	NOUN	_	19	dep	_	_	경우/ncn
+15	고령층에	고령+층+에	ADV	_	16	obl	_	_	고령/ncn+층/ncn+에/jca
+16	접어들수록	접어들+ㄹ수록	SCONJ	_	19	conj	_	_	접어들/pvg+ㄹ수록/ecs
+17	월세비	월세비	NOUN	_	18	compound	_	_	월세비/ncn
+18	지출이	지출+이	NOUN	_	19	nsubj	_	_	지출/ncpa+이/jcs
+19	높아지는	높+아+지+는	AUX	_	20	amod	_	_	높/paa+아/ecx+지/px+는/etm
+20	현상이다	현상+이+다	VERB	_	0	root	_	_	현상/ncn+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 이는 임차가 많은 유럽의 한 단면을 보여준다 .
+1	이는	이+는	PRON	_	7	dislocated	_	_	이/npd+는/jxt
+2	임차가	임차+가	NOUN	_	3	nsubj	_	_	임차/ncpa+가/jcs
+3	많은	많+ㄴ	ADJ	_	6	amod	_	_	많/paa+ㄴ/etm
+4	유럽의	유럽+의	PROPN	_	6	nmod	_	_	유럽/nq+의/jcm
+5	한	한	NUM	_	6	nummod	_	_	한/nnc
+6	단면을	단면+을	NOUN	_	7	obj	_	_	단면/ncn+을/jco
+7	보여준다	보이+어+주+ㄴ다	AUX	_	0	root	_	_	보이/pvg+어/ecx+주/px+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 연령계층별로 볼 때 한국 , 일본 , 독일은 젊은층이 장년층보다 높으나 미국은 노년층으로 갈수록 높게 나타난다 .
+1	연령계층별로	연령+계층별+로	ADV	_	2	advcl	_	_	연령/ncn+계층별/ncn+로/jca
+2	볼	보+ㄹ	VERB	_	3	acl	_	_	보/pvg+ㄹ/etm
+3	때	때+는	NOUN	_	16	dislocated	_	_	때/ncn+는/jxt
+4	한국	한국	PROPN	_	6	conj	_	_	한국/nq
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	일본	일본	PROPN	_	8	conj	_	_	일본/nq
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	독일은	독일+은	PROPN	_	11	dislocated	_	_	독일/nq+은/jxt
+9	젊은층이	젊은층+이	NOUN	_	11	nsubj	_	_	젊은층/ncn+이/jcs
+10	장년층보다	장년+층+보다	ADV	_	11	advcl	_	_	장년/ncn+층/ncn+보다/jca
+11	높으나	높+으나	SCONJ	_	16	xcomp	_	_	높/paa+으나/ecs
+12	미국은	미국+은	PROPN	_	16	dislocated	_	_	미국/nq+은/jxt
+13	노년층으로	노년+층+으로	ADV	_	14	advcl	_	_	노년/ncn+층/ncn+으로/jca
+14	갈수록	가+ㄹ수록	SCONJ	_	16	ccomp	_	_	가/pvg+ㄹ수록/ecs
+15	높게	높+게	SCONJ	_	16	xcomp	_	_	높/paa+게/ecs
+16	나타난다	나타나+ㄴ다	VERB	_	0	root	_	_	나타나/pvg+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이는 미국 가구의 경우 40대 중반 , 60대 중반 가구 사이의 에너지 소비량이 여타 연령층보다 훨씬 큰 데서 연유하는 것으로 보여진다 .
+1	이는	이+는	PRON	_	19	dislocated	_	_	이/npd+는/jxt
+2	미국	미국	PROPN	_	3	compound	_	_	미국/nq
+3	가구의	가구+의	NOUN	_	4	nmod	_	_	가구/ncn+의/jcm
+4	경우	경우	NOUN	_	17	dep	_	_	경우/ncn
+5	40대	40+대	NOUN	_	6	advmod	_	_	40/nnc+대/xsn
+6	중반	중반	NOUN	_	9	compound	_	_	중반/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	60대	60+대	NOUN	_	9	advmod	_	_	60/nnc+대/xsn
+9	중반	중반	NOUN	_	10	compound	_	_	중반/ncn
+10	가구	가구	NOUN	_	11	compound	_	_	가구/ncn
+11	사이의	사이+의	NOUN	_	13	nmod	_	_	사이/ncn+의/jcm
+12	에너지	에너지	NOUN	_	13	compound	_	_	에너지/ncn
+13	소비량이	소비량+이	NOUN	_	17	nsubj	_	_	소비량/ncn+이/jcs
+14	여타	여타	NOUN	_	15	compound	_	_	여타/ncn
+15	연령층보다	연령+층+보다	ADV	_	17	advcl	_	_	연령/ncn+층/ncn+보다/jca
+16	훨씬	훨씬	ADV	_	17	advmod	_	_	훨씬/mag
+17	큰	크+ㄴ	ADJ	_	18	amod	_	_	크/paa+ㄴ/etm
+18	데서	데+서	ADV	_	19	advcl	_	_	데/nbn+서/jca
+19	연유하는	연유+하+는	VERB	_	20	acl	_	_	연유/ncpa+하/xsv+는/etm
+20	것으로	것+으로	ADV	_	21	advcl	_	_	것/nbn+으로/jca
+21	보여진다	보이+어+지+ㄴ다	AUX	_	0	root	_	_	보이/pvg+어/ecx+지/px+ㄴ다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 보건의료에 있어서는 여타비목에 비해 국가간의 차이가 뚜렷하다 .
+1	보건의료에	보건+의료+에	ADV	_	2	obl	_	_	보건/ncpa+의료/ncpa+에/jca
+2	있어서는	있+어서+는	NOUN	_	7	amod	_	_	있/paa+어서/ecs+는/jxt
+3	여타비목에	여타+비목+에	ADV	_	4	obl	_	_	여타/ncn+비목/ncn+에/jca
+4	비해	비하+어	SCONJ	_	7	conj	_	_	비하/pvg+어/ecs
+5	국가간의	국가+간+의	NOUN	_	6	nmod	_	_	국가/ncn+간/xsn+의/jcm
+6	차이가	차이+가	NOUN	_	7	nsubj	_	_	차이/ncn+가/jcs
+7	뚜렷하다	뚜렷하+다	ADJ	_	0	root	_	_	뚜렷하/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이는 의료 및 보험제도상의 차이에서 기인하는 것으로 풀이된다 .
+1	이는	이+는	PRON	_	6	dislocated	_	_	이/npd+는/jxt
+2	의료	의료	NOUN	_	4	conj	_	_	의료/ncpa
+3	및	및	CCONJ	_	4	cc	_	_	및/maj
+4	보험제도상의	보험+제도+상+의	NOUN	_	5	nmod	_	_	보험/ncn+제도/ncn+상/xsn+의/jcm
+5	차이에서	차이+에서	ADV	_	6	advcl	_	_	차이/ncn+에서/jca
+6	기인하는	기인+하+는	VERB	_	7	acl	_	_	기인/ncpa+하/xsv+는/etm
+7	것으로	것+으로	ADV	_	8	advcl	_	_	것/nbn+으로/jca
+8	풀이된다	풀이+되+ㄴ다	VERB	_	0	root	_	_	풀이/ncpa+되/xsv+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 독일의 경우에는 전 가구별로 큰 격차가 나타나지 않고 있다 .
+1	독일의	독일+의	PROPN	_	2	nmod	_	_	독일/nq+의/jcm
+2	경우에는	경우+에+는	NOUN	_	7	dislocated	_	_	경우/ncn+에/jca+는/jxt
+3	전	전	ADJ	_	4	amod	_	_	전/mma
+4	가구별로	가구별+로	ADV	_	7	advcl	_	_	가구별/ncn+로/jca
+5	큰	크+ㄴ	ADJ	_	6	amod	_	_	크/paa+ㄴ/etm
+6	격차가	격차+가	NOUN	_	7	nsubj	_	_	격차/ncn+가/jcs
+7	나타나지	나타나+지	VERB	_	0	root	_	_	나타나/pvg+지/ecx
+8	않고	않+고	AUX	_	7	aux	_	_	않/px+고/ecx
+9	있다	있+다	AUX	_	7	aux	_	_	있/px+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 교육 , 교양오락 항목은 각국의 생활관습상의 대조적인 모습을 뚜렷이 보여주고 있다 .
+1	교육	교육	NOUN	_	3	conj	_	_	교육/ncpa
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	교양오락	교양+오락	NOUN	_	4	compound	_	_	교양/ncpa+오락/ncpa
+4	항목은	항목+은	NOUN	_	10	dislocated	_	_	항목/ncn+은/jxt
+5	각국의	각국+의	NOUN	_	6	nmod	_	_	각국/ncn+의/jcm
+6	생활관습상의	생활+관습+상+의	NOUN	_	8	nmod	_	_	생활/ncpa+관습/ncn+상/xsn+의/jcm
+7	대조적인	대조+적+이+ㄴ	VERB	_	8	acl	_	_	대조/ncpa+적/xsn+이/jp+ㄴ/etm
+8	모습을	모습+을	NOUN	_	10	obj	_	_	모습/ncn+을/jco
+9	뚜렷이	뚜렷+이	ADV	_	10	advmod	_	_	뚜렷/ncps+이/xsa
+10	보여주고	보이+어+주+고	AUX	_	0	root	_	_	보이/pvg+어/ecx+주/px+고/ecx
+11	있다	있+다	AUX	_	10	aux	_	_	있/px+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이는 그만큼 한국의 교육열이 높다는 것을 반영한다 .
+1	이는	이+는	PRON	_	7	dislocated	_	_	이/npd+는/jxt
+2	그만큼	그+만큼	ADV	_	5	advcl	_	_	그/npd+만큼/jca
+3	한국의	한국+의	PROPN	_	4	nmod	_	_	한국/nq+의/jcm
+4	교육열이	교육열+이	NOUN	_	5	nsubj	_	_	교육열/ncn+이/jcs
+5	높다는	높+다는	ADJ	_	6	amod	_	_	높/paa+다는/etm
+6	것을	것+을	NOUN	_	7	obj	_	_	것/nbn+을/jco
+7	반영한다	반영+하+ㄴ다	VERB	_	0	root	_	_	반영/ncpa+하/xsv+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 미국의 경우도 50대 초반까지 교육비중이 높아지나 그 증가추세는 한.일에 비해 훨씬 완만한 증가를 보인다 .
+1	미국의	미국+의	PROPN	_	2	nmod	_	_	미국/nq+의/jcm
+2	경우도	경우+도	ADV	_	6	advcl	_	_	경우/ncn+도/jxc
+3	50대	50+대	NOUN	_	4	advmod	_	_	50/nnc+대/xsn
+4	초반까지	초반+까지	ADV	_	6	advcl	_	_	초반/ncn+까지/jxc
+5	교육비중이	교육+비중+이	NOUN	_	6	nsubj	_	_	교육/ncpa+비중/ncn+이/jcs
+6	높아지나	높아지+나	SCONJ	_	14	ccomp	_	_	높아지/pvg+나/ecs
+7	그	그	DET	_	8	det	_	_	그/mmd
+8	증가추세는	증가+추세+는	NOUN	_	14	dislocated	_	_	증가/ncpa+추세/ncn+는/jxt
+9	한.일에	한.일+에	ADV	_	10	obl	_	_	한.일/ncn+에/jca
+10	비해	비하+어	SCONJ	_	12	conj	_	_	비하/pvg+어/ecs
+11	훨씬	훨씬	ADV	_	12	advmod	_	_	훨씬/mag
+12	완만한	완만+하+ㄴ	VERB	_	13	amod	_	_	완만/ncps+하/xsm+ㄴ/etm
+13	증가를	증가+를	NOUN	_	14	obj	_	_	증가/ncpa+를/jco
+14	보인다	보이+ㄴ다	VERB	_	0	root	_	_	보이/pvg+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 한편 교양 , 오락비 비중은 독일 , 일본 , 미국 , 한국의 순위로 나타나고 있다 .
+1	한편	한편	CCONJ	_	14	cc	_	_	한편/maj
+2	교양	교양	NOUN	_	4	conj	_	_	교양/ncpa
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	오락비	오락비	NOUN	_	5	compound	_	_	오락비/ncn
+5	비중은	비중+은	NOUN	_	14	dislocated	_	_	비중/ncn+은/jxt
+6	독일	독일	PROPN	_	8	conj	_	_	독일/nq
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	일본	일본	PROPN	_	10	conj	_	_	일본/nq
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	미국	미국	PROPN	_	12	conj	_	_	미국/nq
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	한국의	한국+의	PROPN	_	13	nmod	_	_	한국/nq+의/jcm
+13	순위로	순위+로	ADV	_	14	advcl	_	_	순위/ncn+로/jca
+14	나타나고	나타나+고	VERB	_	0	root	_	_	나타나/pvg+고/ecx
+15	있다	있+다	AUX	_	14	aux	_	_	있/px+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 독일의 경우는 휴가나 여행 등을 통한 오락비 등에 많은 비용을 지출하는 것으로 풀이된다 .
+1	독일의	독일+의	PROPN	_	2	nmod	_	_	독일/nq+의/jcm
+2	경우는	경우+는	NOUN	_	11	dislocated	_	_	경우/ncn+는/jxt
+3	휴가나	휴가+나	CCONJ	_	4	conj	_	_	휴가/ncn+나/jcj
+4	여행	여행	NOUN	_	5	compound	_	_	여행/ncpa
+5	등을	등+을	NOUN	_	6	obj	_	_	등/nbn+을/jco
+6	통한	통하+ㄴ	VERB	_	7	acl	_	_	통하/pvg+ㄴ/etm
+7	오락비	오락비	NOUN	_	8	compound	_	_	오락비/ncn
+8	등에	등+에	ADV	_	11	obl	_	_	등/nbn+에/jca
+9	많은	많+ㄴ	ADJ	_	10	amod	_	_	많/paa+ㄴ/etm
+10	비용을	비용+을	NOUN	_	11	obj	_	_	비용/ncn+을/jco
+11	지출하는	지출+하+는	VERB	_	12	acl	_	_	지출/ncpa+하/xsv+는/etm
+12	것으로	것+으로	ADV	_	13	advcl	_	_	것/nbn+으로/jca
+13	풀이된다	풀이+되+ㄴ다	VERB	_	0	root	_	_	풀이/ncpa+되/xsv+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 일본의 경우는 높은 독서율과 이에 따른 도서구입비 비중이 높다 .
+1	일본의	일본+의	PROPN	_	2	nmod	_	_	일본/nq+의/jcm
+2	경우는	경우+는	NOUN	_	9	dislocated	_	_	경우/ncn+는/jxt
+3	높은	높+ㄴ	ADJ	_	4	amod	_	_	높/paa+ㄴ/etm
+4	독서율과	독서율+과	CCONJ	_	8	conj	_	_	독서율/ncn+과/jcj
+5	이에	이+에	ADV	_	6	obl	_	_	이/npd+에/jca
+6	따른	따르+ㄴ	VERB	_	7	acl	_	_	따르/pvg+ㄴ/etm
+7	도서구입비	도서+구입비	NOUN	_	8	compound	_	_	도서/ncn+구입비/ncn
+8	비중이	비중+이	NOUN	_	9	nsubj	_	_	비중/ncn+이/jcs
+9	높다	높+다	ADJ	_	0	root	_	_	높/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 한국의 경우는 30대 중반까지 다소 높아지다 계속 비중이 낮아진다 .
+1	한국의	한국+의	PROPN	_	2	nmod	_	_	한국/nq+의/jcm
+2	경우는	경우+는	NOUN	_	9	dislocated	_	_	경우/ncn+는/jxt
+3	30대	30+대	NOUN	_	4	advmod	_	_	30/nnc+대/xsn
+4	중반까지	중반+까지	ADV	_	6	advcl	_	_	중반/ncn+까지/jxc
+5	다소	다소	NOUN	_	6	dep	_	_	다소/ncn
+6	높아지다	높+아+지+다	SCONJ	_	9	xcomp	_	_	높/paa+아/ecx+지/px+다/ecs
+7	계속	계속	ADV	_	9	advmod	_	_	계속/mag
+8	비중이	비중+이	NOUN	_	9	nsubj	_	_	비중/ncn+이/jcs
+9	낮아진다	낮+아+지+ㄴ다	AUX	_	0	root	_	_	낮/paa+아/ecx+지/px+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 교통 , 통신의 지출비중은 미국 , 독일 , 일본 , 한국의 순으로 나타났다 .
+1	교통	교통	NOUN	_	3	conj	_	_	교통/ncn
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	통신의	통신+의	NOUN	_	4	nmod	_	_	통신/ncpa+의/jcm
+4	지출비중은	지출+비중+은	NOUN	_	13	dislocated	_	_	지출/ncpa+비중/ncn+은/jxt
+5	미국	미국	PROPN	_	7	conj	_	_	미국/nq
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	독일	독일	PROPN	_	9	conj	_	_	독일/nq
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	일본	일본	PROPN	_	11	conj	_	_	일본/nq
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	한국의	한국+의	PROPN	_	12	nmod	_	_	한국/nq+의/jcm
+12	순으로	순+으로	ADV	_	13	advcl	_	_	순/ncn+으로/jca
+13	나타났다	나타나+ㅆ+다	VERB	_	0	root	_	_	나타나/pvg+ㅆ/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이는 자동차 보유와 관련이 있다 .
+1	이는	이+는	PRON	_	5	dislocated	_	_	이/npd+는/jxt
+2	자동차	자동차	NOUN	_	3	compound	_	_	자동차/ncn
+3	보유와	보유+와	CCONJ	_	5	conj	_	_	보유/ncpa+와/jct
+4	관련이	관련+이	NOUN	_	5	nsubj	_	_	관련/ncpa+이/jcs
+5	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 연령별 비중을 살펴보면 4 개국 모두 젊은 20대 연령층에서 매우 높으며 미국과 한국은 40대 장년층의 지출비중이 높다 .
+1	연령별	연령별	NOUN	_	2	compound	_	_	연령별/ncn
+2	비중을	비중+을	NOUN	_	3	obj	_	_	비중/ncn+을/jco
+3	살펴보면	살피+어+보+면	SCONJ	_	17	conj	_	_	살피/pvg+어/ecx+보/px+면/ecs
+4	4	4	NUM	_	5	nummod	_	_	4/nnc
+5	개국	개국	NOUN	_	6	compound	_	_	개국/nbu
+6	모두	모두	NOUN	_	11	dep	_	_	모두/ncn
+7	젊은	젊+ㄴ	ADJ	_	8	amod	_	_	젊/paa+ㄴ/etm
+8	20대	20+대	NOUN	_	9	advmod	_	_	20/nnc+대/xsn
+9	연령층에서	연령+층+에서	ADV	_	11	advcl	_	_	연령/ncn+층/ncn+에서/jca
+10	매우	매우	ADV	_	11	advmod	_	_	매우/mag
+11	높으며	높+으며	CCONJ	_	17	conj	_	_	높/paa+으며/ecc
+12	미국과	미국+과	CCONJ	_	13	conj	_	_	미국/nq+과/jcj
+13	한국은	한국+은	PROPN	_	17	dislocated	_	_	한국/nq+은/jxt
+14	40대	40+대	NOUN	_	15	advmod	_	_	40/nnc+대/xsn
+15	장년층의	장년+층+의	NOUN	_	16	nmod	_	_	장년/ncn+층/ncn+의/jcm
+16	지출비중이	지출+비중+이	NOUN	_	17	nsubj	_	_	지출/ncpa+비중/ncn+이/jcs
+17	높다	높+다	ADJ	_	0	root	_	_	높/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이에 비해 일본과 독일은 노령층의 지출비중이 높다 .
+1	이에	이+에	ADV	_	2	obl	_	_	이/npd+에/jca
+2	비해	비하+어	SCONJ	_	7	conj	_	_	비하/pvg+어/ecs
+3	일본과	일본+과	CCONJ	_	4	conj	_	_	일본/nq+과/jcj
+4	독일은	독일+은	PROPN	_	7	dislocated	_	_	독일/nq+은/jxt
+5	노령층의	노령+층+의	NOUN	_	6	nmod	_	_	노령/ncn+층/ncn+의/jcm
+6	지출비중이	지출+비중+이	NOUN	_	7	nsubj	_	_	지출/ncpa+비중/ncn+이/jcs
+7	높다	높+다	ADJ	_	0	root	_	_	높/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 교통 , 통신비의 연령별 격차를 나타내는 변동계수를 보면 한국 23.6 % , 일본 17.2 % , 미국 30.8 % , 독일 8.6 % 로 미국과 한국의 연령간 격차가 크다 .
+1	교통	교통	NOUN	_	3	conj	_	_	교통/ncn
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	통신비의	통신비+의	NOUN	_	5	nmod	_	_	통신비/ncn+의/jcm
+4	연령별	연령별	NOUN	_	5	compound	_	_	연령별/ncn
+5	격차를	격차+를	NOUN	_	6	obj	_	_	격차/ncn+를/jco
+6	나타내는	나타내+는	VERB	_	7	acl	_	_	나타내/pvg+는/etm
+7	변동계수를	변동+계수+를	NOUN	_	8	obj	_	_	변동/ncpa+계수/ncn+를/jco
+8	보면	보+면	SCONJ	_	29	conj	_	_	보/pvg+면/ecs
+9	한국	한국	PROPN	_	10	compound	_	_	한국/nq
+10	23.6	23.6	NUM	_	22	nummod	_	_	23.6/nnc
+11	%	%	SYM	_	10	punct	_	_	%/su
+12	,	,	PUNCT	_	10	punct	_	_	,/sp
+13	일본	일본	PROPN	_	14	compound	_	_	일본/nq
+14	17.2	17.2	NUM	_	22	nummod	_	_	17.2/nnc
+15	%	%	SYM	_	14	punct	_	_	%/su
+16	,	,	PUNCT	_	14	punct	_	_	,/sp
+17	미국	미국	PROPN	_	18	compound	_	_	미국/nq
+18	30.8	30.8	NUM	_	22	nummod	_	_	30.8/nnc
+19	%	%	SYM	_	18	punct	_	_	%/su
+20	,	,	PUNCT	_	18	punct	_	_	,/sp
+21	독일	독일	PROPN	_	22	compound	_	_	독일/nq
+22	8.6	8.6	NUM	_	29	nummod	_	_	8.6/nnc
+23	%	%	SYM	_	22	punct	_	_	%/su
+24	로	로	ADP	_	22	case	_	_	로/jca
+25	미국과	미국+과	CCONJ	_	26	conj	_	_	미국/nq+과/jcj
+26	한국의	한국+의	PROPN	_	28	nmod	_	_	한국/nq+의/jcm
+27	연령간	연령+간	NOUN	_	28	advmod	_	_	연령/ncn+간/xsn
+28	격차가	격차+가	NOUN	_	29	nsubj	_	_	격차/ncn+가/jcs
+29	크다	크+다	ADJ	_	0	root	_	_	크/paa+다/ef
+30	.	.	PUNCT	_	29	punct	_	_	./sf
+
+# 특히 한국가구의 경우 최근 자동차 보급이 확대되면서 자동차 구입비가 20대 후반층과 40대 중년층에서 폭발적으로 늘어난 것으로 풀이된다 .
+1	특히	특히	ADV	_	15	advmod	_	_	특히/mag
+2	한국가구의	한국+가구+의	PROPN	_	3	nmod	_	_	한국/nq+가구/ncn+의/jcm
+3	경우	경우	NOUN	_	15	advmod	_	_	경우/ncn
+4	최근	최근	NOUN	_	7	advmod	_	_	최근/ncn
+5	자동차	자동차	NOUN	_	6	compound	_	_	자동차/ncn
+6	보급이	보급+이	NOUN	_	7	nsubj	_	_	보급/ncpa+이/jcs
+7	확대되면서	확대+되+면서	CCONJ	_	15	conj	_	_	확대/ncpa+되/xsv+면서/ecc
+8	자동차	자동차	NOUN	_	9	compound	_	_	자동차/ncn
+9	구입비가	구입비+가	NOUN	_	15	nsubj	_	_	구입비/ncn+가/jcs
+10	20대	20+대	NOUN	_	11	advmod	_	_	20/nnc+대/xsn
+11	후반층과	후반+층+과	CCONJ	_	13	conj	_	_	후반/ncn+층/ncn+과/jcj
+12	40대	40+대	NOUN	_	13	advmod	_	_	40/nnc+대/xsn
+13	중년층에서	중년+층+에서	ADV	_	15	advcl	_	_	중년/ncn+층/ncn+에서/jca
+14	폭발적으로	폭발+적+으로	ADV	_	15	advcl	_	_	폭발/ncpa+적/xsn+으로/jca
+15	늘어난	늘+어+나+ㄴ	AUX	_	16	acl	_	_	늘/pvg+어/ecx+나/px+ㄴ/etm
+16	것으로	것+으로	ADV	_	17	advcl	_	_	것/nbn+으로/jca
+17	풀이된다	풀이+되+ㄴ다	VERB	_	0	root	_	_	풀이/ncpa+되/xsv+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이러한 현상은 일본에도 나타나 20대 후반 연령층의 자동차 관련비 규모가 여타 연령계층보다 훨씬 큰 것으로 나타난다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	현상은	현상+은	NOUN	_	4	dislocated	_	_	현상/ncn+은/jxt
+3	일본에도	일본+에+도	ADV	_	4	advcl	_	_	일본/nq+에/jca+도/jxc
+4	나타나	나타나+아	SCONJ	_	16	ccomp	_	_	나타나/pvg+아/ecs
+5	20대	20+대	NOUN	_	6	advmod	_	_	20/nnc+대/xsn
+6	후반	후반	NOUN	_	7	compound	_	_	후반/ncn
+7	연령층의	연령+층+의	NOUN	_	9	nmod	_	_	연령/ncn+층/ncn+의/jcm
+8	자동차	자동차	NOUN	_	9	compound	_	_	자동차/ncn
+9	관련비	관련비	NOUN	_	10	compound	_	_	관련비/ncn
+10	규모가	규모+가	NOUN	_	14	nsubj	_	_	규모/ncn+가/jcs
+11	여타	여타	NOUN	_	12	compound	_	_	여타/ncn
+12	연령계층보다	연령+계층+보다	ADV	_	14	advcl	_	_	연령/ncn+계층/ncn+보다/jca
+13	훨씬	훨씬	ADV	_	14	advmod	_	_	훨씬/mag
+14	큰	크+ㄴ	ADJ	_	15	amod	_	_	크/paa+ㄴ/etm
+15	것으로	것+으로	ADV	_	16	advcl	_	_	것/nbn+으로/jca
+16	나타난다	나타나+ㄴ다	VERB	_	0	root	_	_	나타나/pvg+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 반기의 가구로 외식비 , 개인교통비 등에서 폭발적인 지출증가세를 보였다 .
+1	반기의	반기+의	NOUN	_	2	nmod	_	_	반기/ncn+의/jcm
+2	가구로	가구+로	ADV	_	9	advcl	_	_	가구/ncn+로/jca
+3	외식비	외식비	NOUN	_	5	conj	_	_	외식비/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	개인교통비	개인+교통비	NOUN	_	6	compound	_	_	개인/ncn+교통비/ncn
+6	등에서	등+에서	ADV	_	9	advcl	_	_	등/nbn+에서/jca
+7	폭발적인	폭발+적+이+ㄴ	VERB	_	8	acl	_	_	폭발/ncpa+적/xsn+이/jp+ㄴ/etm
+8	지출증가세를	지출+증가세+를	NOUN	_	9	obj	_	_	지출/ncpa+증가세/ncn+를/jco
+9	보였다	보이+었+다	VERB	_	0	root	_	_	보이/pvg+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 한국의 임금구조가 일본과 유사한 연공서열식 체계이므로 나이가 들수록 가계의 소득 및 소득지출규모가 늘어나는 유형을 보이고 있다 .
+1	한국의	한국+의	PROPN	_	2	nmod	_	_	한국/nq+의/jcm
+2	임금구조가	임금+구조+가	NOUN	_	6	nsubj	_	_	임금/ncn+구조/ncpa+가/jcs
+3	일본과	일본+과	CCONJ	_	4	conj	_	_	일본/nq+과/jct
+4	유사한	유사+하+ㄴ	VERB	_	6	amod	_	_	유사/ncps+하/xsm+ㄴ/etm
+5	연공서열식	연공+서열식	NOUN	_	6	compound	_	_	연공/ncn+서열식/ncn
+6	체계이므로	체계+이+므로	SCONJ	_	15	ccomp	_	_	체계/ncn+이/jp+므로/ecs
+7	나이가	나이+가	NOUN	_	8	nsubj	_	_	나이/ncn+가/jcs
+8	들수록	들+ㄹ수록	SCONJ	_	13	ccomp	_	_	들/pvg+ㄹ수록/ecs
+9	가계의	가계+의	NOUN	_	12	nmod	_	_	가계/ncn+의/jcm
+10	소득	소득	NOUN	_	12	conj	_	_	소득/ncpa
+11	및	및	CCONJ	_	12	cc	_	_	및/maj
+12	소득지출규모가	소득+지출+규모+가	NOUN	_	13	nsubj	_	_	소득/ncpa+지출/ncpa+규모/ncn+가/jcs
+13	늘어나는	늘+어+나+는	AUX	_	14	acl	_	_	늘/pvg+어/ecx+나/px+는/etm
+14	유형을	유형+을	NOUN	_	15	obj	_	_	유형/ncn+을/jco
+15	보이고	보이+고	VERB	_	0	root	_	_	보이/pvg+고/ecx
+16	있다	있+다	AUX	_	15	aux	_	_	있/px+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 또한 교육비에 있어 각 연령계층 모두에서 여타국가에 비해 높은 지출비중을 보여 교육열이 강한 것으로 나타난다 .
+1	또한	또한	CCONJ	_	15	cc	_	_	또한/maj
+2	교육비에	교육비+에	ADV	_	3	obl	_	_	교육비/ncn+에/jca
+3	있어	있+어	SCONJ	_	11	xcomp	_	_	있/paa+어/ecs
+4	각	각	ADJ	_	5	amod	_	_	각/mma
+5	연령계층	연령+계층	NOUN	_	6	compound	_	_	연령/ncn+계층/ncn
+6	모두에서	모두+에서	ADV	_	11	advcl	_	_	모두/ncn+에서/jca
+7	여타국가에	여타+국가+에	ADV	_	8	obl	_	_	여타/ncn+국가/ncn+에/jca
+8	비해	비하+어	SCONJ	_	9	conj	_	_	비하/pvg+어/ecs
+9	높은	높+ㄴ	ADJ	_	10	amod	_	_	높/paa+ㄴ/etm
+10	지출비중을	지출+비중+을	NOUN	_	11	obj	_	_	지출/ncpa+비중/ncn+을/jco
+11	보여	보이+어	SCONJ	_	15	ccomp	_	_	보이/pvg+어/ecs
+12	교육열이	교육열+이	NOUN	_	13	nsubj	_	_	교육열/ncn+이/jcs
+13	강한	강하+ㄴ	ADJ	_	14	amod	_	_	강하/paa+ㄴ/etm
+14	것으로	것+으로	ADV	_	15	advcl	_	_	것/nbn+으로/jca
+15	나타난다	나타나+ㄴ다	VERB	_	0	root	_	_	나타나/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이와 같이 한국의 경우 소비구조가 고도화되고 있지만 힘을 더욱 축적해야 할 상황이다 .
+1	이와	이+와	CCONJ	_	2	conj	_	_	이/npd+와/jct
+2	같이	같+이	SCONJ	_	6	xcomp	_	_	같/paa+이/ecs
+3	한국의	한국+의	PROPN	_	4	nmod	_	_	한국/nq+의/jcm
+4	경우	경우	NOUN	_	6	advmod	_	_	경우/ncn
+5	소비구조가	소비+구조+가	NOUN	_	6	nsubj	_	_	소비/ncpa+구조/ncpa+가/jcs
+6	고도화되고	고도화+되+고	VERB	_	12	ccomp	_	_	고도화/ncpa+되/xsv+고/ecx
+7	있지만	있+지만	SCONJ	_	6	aux	_	_	있/px+지만/ecs
+8	힘을	힘+을	NOUN	_	10	obj	_	_	힘/ncn+을/jco
+9	더욱	더욱	ADV	_	10	advmod	_	_	더욱/mag
+10	축적해야	축적+하+어야	VERB	_	12	ccomp	_	_	축적/ncpa+하/xsv+어야/ecx
+11	할	하+ㄹ	AUX	_	10	aux	_	_	하/px+ㄹ/etm
+12	상황이다	상황+이+다	VERB	_	0	root	_	_	상황/ncn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 따라서 우리가계는 불요불급한 소비지출을 줄이고 건전한 소비행태 , 분수에 맞는 소비 문화를 형성하기 위해 좀더 노력해야 할 것이다 .
+1	따라서	따라서	CCONJ	_	16	cc	_	_	따라서/maj
+2	우리가계는	우리+가계+는	PRON	_	16	dislocated	_	_	우리/npp+가계/ncn+는/jxt
+3	불요불급한	불요불급+하+ㄴ	VERB	_	4	amod	_	_	불요불급/ncps+하/xsm+ㄴ/etm
+4	소비지출을	소비+지출+을	NOUN	_	5	obj	_	_	소비/ncpa+지출/ncpa+을/jco
+5	줄이고	줄이+고	CCONJ	_	13	conj	_	_	줄이/pvg+고/ecc
+6	건전한	건전+하+ㄴ	VERB	_	7	amod	_	_	건전/ncps+하/xsm+ㄴ/etm
+7	소비행태	소비+행태	NOUN	_	12	compound	_	_	소비/ncpa+행태/ncn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	분수에	분수+에	ADV	_	10	obl	_	_	분수/ncn+에/jca
+10	맞는	맞+는	VERB	_	12	acl	_	_	맞/pvg+는/etm
+11	소비	소비	NOUN	_	12	compound	_	_	소비/ncpa
+12	문화를	문화+를	NOUN	_	13	obj	_	_	문화/ncn+를/jco
+13	형성하기	형성+하+기	VERB	_	14	nmod	_	_	형성/ncpa+하/xsv+기/etn
+14	위해	위하+어	SCONJ	_	16	ccomp	_	_	위하/pvg+어/ecs
+15	좀더	좀더	ADV	_	16	advmod	_	_	좀더/mag
+16	노력해야	노력+하+어야	VERB	_	0	root	_	_	노력/ncpa+하/xsv+어야/ecx
+17	할	하+ㄹ	AUX	_	16	aux	_	_	하/px+ㄹ/etm
+18	것이다	것+이+다	VERB	_	16	aux	_	_	것/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그러나 최근 수입실적의 내용을 살펴보면 낙관만 하기에는 아직 이른 실정이다 .
+1	그러나	그러나	CCONJ	_	10	cc	_	_	그러나/maj
+2	최근	최근	NOUN	_	3	compound	_	_	최근/ncn
+3	수입실적의	수입+실적+의	NOUN	_	4	nmod	_	_	수입/ncpa+실적/ncn+의/jcm
+4	내용을	내용+을	NOUN	_	5	obj	_	_	내용/ncn+을/jco
+5	살펴보면	살피+어+보+면	SCONJ	_	10	ccomp	_	_	살피/pvg+어/ecx+보/px+면/ecs
+6	낙관만	낙관+만	ADV	_	7	advcl	_	_	낙관/ncpa+만/jxc
+7	하기에는	하+기+에+는	NOUN	_	9	dislocated	_	_	하/pvg+기/etn+에/jca+는/jxt
+8	아직	아직	ADV	_	9	advmod	_	_	아직/mag
+9	이른	이르+ㄴ	ADJ	_	10	amod	_	_	이르/paa+ㄴ/etm
+10	실정이다	실정+이+다	VERB	_	0	root	_	_	실정/ncn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 비내구소비재 중 의류수입이 급증하고 있다 .
+1	비내구소비재	비+내구+소비재	PART	_	2	compound	_	_	비/xp+내구/ncpa+소비재/ncn
+2	중	중	NOUN	_	3	mark	_	_	중/nbn
+3	의류수입이	의류+수입+이	NOUN	_	4	nsubj	_	_	의류/ncn+수입/ncpa+이/jcs
+4	급증하고	급증+하+고	VERB	_	0	root	_	_	급증/ncpa+하/xsv+고/ecx
+5	있다	있+다	AUX	_	4	aux	_	_	있/px+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 수입된 외국산의류는 국내산 의류보다 30 50 % 싼 값으로 유통되고 있어 국내산 의류를 위협하고 있다 .
+1	수입된	수입+되+ㄴ	VERB	_	2	acl	_	_	수입/ncpa+되/xsv+ㄴ/etm
+2	외국산의류는	외국산+의류+는	NOUN	_	14	dislocated	_	_	외국산/ncn+의류/ncn+는/jxt
+3	국내산	국내산	NOUN	_	4	compound	_	_	국내산/ncn
+4	의류보다	의류+보다	ADV	_	8	advcl	_	_	의류/ncn+보다/jca
+5	30	30	NUM	_	6	nummod	_	_	30/nnc
+6	50	50	NUM	_	8	nummod	_	_	50/nnc
+7	%	%	SYM	_	6	punct	_	_	%/su
+8	싼	싸+ㄴ	ADJ	_	9	amod	_	_	싸/paa+ㄴ/etm
+9	값으로	값+으로	ADV	_	10	advcl	_	_	값/ncn+으로/jca
+10	유통되고	유통+되+고	VERB	_	14	ccomp	_	_	유통/ncpa+되/xsv+고/ecx
+11	있어	있+어	SCONJ	_	10	aux	_	_	있/px+어/ecs
+12	국내산	국내산	NOUN	_	13	compound	_	_	국내산/ncn
+13	의류를	의류+를	NOUN	_	14	obj	_	_	의류/ncn+를/jco
+14	위협하고	위협+하+고	VERB	_	0	root	_	_	위협/ncpa+하/xsv+고/ecx
+15	있다	있+다	AUX	_	14	aux	_	_	있/px+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 문구류 수입도 만만치가 않다 .
+1	문구류	문구류	NOUN	_	2	compound	_	_	문구류/ncn
+2	수입도	수입+도	ADV	_	3	advcl	_	_	수입/ncpa+도/jxc
+3	만만치가	만만하+지+가	NOUN	_	0	root	_	_	만만하/paa+지/ecx+가/jcs
+4	않다	않+다	AUX	_	3	aux	_	_	않/px+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 이제는 대도시에 소재한 문구점에 가보면 쉽게 수입문구를 찾아 볼 수 있는 지경이다 .
+1	이제는	이제+는	NOUN	_	12	dislocated	_	_	이제/ncn+는/jxt
+2	대도시에	대도시+에	ADV	_	3	obl	_	_	대도시/ncn+에/jca
+3	소재한	소재+하+ㄴ	VERB	_	4	acl	_	_	소재/ncpa+하/xsv+ㄴ/etm
+4	문구점에	문구점+에	ADV	_	5	obl	_	_	문구점/ncn+에/jca
+5	가보면	가+아+보+면	SCONJ	_	8	ccomp	_	_	가/pvg+아/ecx+보/px+면/ecs
+6	쉽게	쉽+게	SCONJ	_	8	xcomp	_	_	쉽/paa+게/ecs
+7	수입문구를	수입+문구+를	NOUN	_	8	obj	_	_	수입/ncpa+문구/ncn+를/jco
+8	찾아	찾+아	VERB	_	12	ccomp	_	_	찾/pvg+아/ecx
+9	볼	보+ㄹ	AUX	_	8	aux	_	_	보/px+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있는	있+는	ADJ	_	8	aux	_	_	있/paa+는/etm
+12	지경이다	지경+이+다	VERB	_	0	root	_	_	지경/ncn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 문구 제조업체들과 문구상들이 외제문구 수입에 적극적인 이유는 판매마진이 국산에 비하여 평균 5 10 % 높기 때문인 것으로 밝히고 있다 .
+1	문구	문구	NOUN	_	2	compound	_	_	문구/ncn
+2	제조업체들과	제조업체+들+과	CCONJ	_	3	conj	_	_	제조업체/ncn+들/xsn+과/jcj
+3	문구상들이	문구상+들+이	NOUN	_	6	nsubj	_	_	문구상/ncn+들/xsn+이/jcs
+4	외제문구	외제+문구	NOUN	_	5	compound	_	_	외제/ncn+문구/ncn
+5	수입에	수입+에	ADV	_	6	obl	_	_	수입/ncpa+에/jca
+6	적극적인	적극+적+이+ㄴ	VERB	_	7	acl	_	_	적극/ncn+적/xsn+이/jp+ㄴ/etm
+7	이유는	이유+는	NOUN	_	15	dislocated	_	_	이유/ncn+는/jxt
+8	판매마진이	판매+마진+이	NOUN	_	15	nsubj	_	_	판매/ncpa+마진/ncn+이/jcs
+9	국산에	국산+에	ADV	_	10	obl	_	_	국산/ncn+에/jca
+10	비하여	비하+어	SCONJ	_	15	conj	_	_	비하/pvg+어/ecs
+11	평균	평균	NOUN	_	13	compound	_	_	평균/ncpa
+12	5	5	NUM	_	13	nummod	_	_	5/nnc
+13	10	10	NUM	_	15	nummod	_	_	10/nnc
+14	%	%	SYM	_	13	punct	_	_	%/su
+15	높기	높+기	ADJ	_	17	amod	_	_	높/paa+기/etn
+16	때문인	때문+이+ㄴ	VERB	_	15	aux	_	_	때문/nbn+이/jp+ㄴ/etm
+17	것으로	것+으로	ADV	_	18	advcl	_	_	것/nbn+으로/jca
+18	밝히고	밝히+고	VERB	_	0	root	_	_	밝히/pvg+고/ecx
+19	있다	있+다	AUX	_	18	aux	_	_	있/px+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 내수용신발수입도 최근 들어 급증하는 추세에 있다 .
+1	내수용신발수입도	내수용+신발+수입+도	ADV	_	6	advcl	_	_	내수용/ncn+신발/ncn+수입/ncpa+도/jxc
+2	최근	최근	NOUN	_	3	dep	_	_	최근/ncn
+3	들어	들+어	SCONJ	_	6	conj	_	_	들/pvg+어/ecs
+4	급증하는	급증+하+는	VERB	_	5	acl	_	_	급증/ncpa+하/xsv+는/etm
+5	추세에	추세+에	ADV	_	6	obl	_	_	추세/ncn+에/jca
+6	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이와는 달리 우리나라 신발수출은 91 년 11.3 % 감소한 이후 92년 8월 말까지 16.6 % 나 줄었다 .
+1	이와는	이+와+는	PRON	_	2	dislocated	_	_	이/npd+와/jct+는/jxt
+2	달리	다르+이	SCONJ	_	17	xcomp	_	_	다르/paa+이/ecs
+3	우리나라	우리+나라	NOUN	_	4	compound	_	_	우리/npp+나라/ncn
+4	신발수출은	신발+수출+은	NOUN	_	17	dislocated	_	_	신발/ncn+수출/ncpa+은/jxt
+5	91	91	NUM	_	6	nummod	_	_	91/nno
+6	년	년	NOUN	_	9	advmod	_	_	년/nbu
+7	11.3	11.3	NUM	_	9	nummod	_	_	11.3/nnc
+8	%	%	SYM	_	7	punct	_	_	%/su
+9	감소한	감소+하+ㄴ	VERB	_	10	acl	_	_	감소/ncpa+하/xsv+ㄴ/etm
+10	이후	이후	NOUN	_	17	advmod	_	_	이후/ncn
+11	92년	92+년	NOUN	_	12	compound	_	_	92/nno+년/nbu
+12	8월	8+월	NOUN	_	13	compound	_	_	8/nno+월/nbu
+13	말까지	말+까지	ADV	_	17	advcl	_	_	말/ncn+까지/jxc
+14	16.6	16.6	NUM	_	17	nummod	_	_	16.6/nnc
+15	%	%	SYM	_	14	punct	_	_	%/su
+16	나	나	ADP	_	14	case	_	_	나/jxc
+17	줄었다	줄+었+다	VERB	_	0	root	_	_	줄/pvg+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 완구 및 인형도 신발제품과 같은 수출입 양상을 보이고 있다 .
+1	완구	완구	NOUN	_	3	conj	_	_	완구/ncn
+2	및	및	CCONJ	_	3	cc	_	_	및/maj
+3	인형도	인형+도	ADV	_	8	advcl	_	_	인형/ncn+도/jxc
+4	신발제품과	신발+제품+과	CCONJ	_	5	conj	_	_	신발/ncn+제품/ncn+과/jct
+5	같은	같+ㄴ	ADJ	_	7	amod	_	_	같/paa+ㄴ/etm
+6	수출입	수출입	NOUN	_	7	compound	_	_	수출입/ncn
+7	양상을	양상+을	NOUN	_	8	obj	_	_	양상/ncn+을/jco
+8	보이고	보이+고	VERB	_	0	root	_	_	보이/pvg+고/ecx
+9	있다	있+다	AUX	_	8	aux	_	_	있/px+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 봉제완구 수출은 92 년 8 개월 동안 44.6 % 나 줄어든 1억 5천만 달러에 그쳤다 .
+1	봉제완구	봉제+완구	NOUN	_	2	compound	_	_	봉제/ncpa+완구/ncn
+2	수출은	수출+은	NOUN	_	15	dislocated	_	_	수출/ncpa+은/jxt
+3	92	92	NUM	_	4	nummod	_	_	92/nno
+4	년	년	NOUN	_	7	compound	_	_	년/nbu
+5	8	8	NUM	_	6	nummod	_	_	8/nno
+6	개월	개월	NOUN	_	7	compound	_	_	개월/nbu
+7	동안	동안	NOUN	_	15	advmod	_	_	동안/ncn
+8	44.6	44.6	NUM	_	11	nummod	_	_	44.6/nnc
+9	%	%	SYM	_	8	punct	_	_	%/su
+10	나	나	ADP	_	8	case	_	_	나/jxc
+11	줄어든	줄어들+ㄴ	VERB	_	14	acl	_	_	줄어들/pvg+ㄴ/etm
+12	1억	1억	NUM	_	13	nummod	_	_	1억/nnc
+13	5천만	5천만	NUM	_	14	nummod	_	_	5천만/nnc
+14	달러에	달러+에	ADV	_	15	obl	_	_	달러/nbu+에/jca
+15	그쳤다	그치+었+다	VERB	_	0	root	_	_	그치/pvg+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 더욱 문제인 것은 국내 화장품업계를 이끌어가야 할 화장품 제조업체들마저 수입판매에 열심인 점이다 .
+1	더욱	더욱	ADV	_	2	advmod	_	_	더욱/mag
+2	문제인	문제+이+ㄴ	VERB	_	3	acl	_	_	문제/ncn+이/jp+ㄴ/etm
+3	것은	것+은	NOUN	_	12	dislocated	_	_	것/nbn+은/jxt
+4	국내	국내	NOUN	_	5	compound	_	_	국내/ncn
+5	화장품업계를	화장품+업계+를	NOUN	_	6	obj	_	_	화장품/ncn+업계/ncn+를/jco
+6	이끌어가야	이끌+어+가+아야	AUX	_	9	acl	_	_	이끌/pvg+어/ecx+가/px+아야/ecx
+7	할	하+ㄹ	AUX	_	6	aux	_	_	하/px+ㄹ/etm
+8	화장품	화장품	NOUN	_	9	compound	_	_	화장품/ncn
+9	제조업체들마저	제조+업체+들+마저	ADV	_	11	advcl	_	_	제조/ncpa+업체/ncn+들/xsn+마저/jxc
+10	수입판매에	수입+판매+에	ADV	_	11	obl	_	_	수입/ncpa+판매/ncpa+에/jca
+11	열심인	열심+이+ㄴ	VERB	_	12	ccomp	_	_	열심/ncn+이/jp+ㄴ/etm
+12	점이다	점+이+다	VERB	_	0	root	_	_	점/ncn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 국산화장품은 대형백화점에서도 구석매장으로 밀려나고 있으며 점차 자기의 할인품목으로 전락하는 실정이다 .
+1	국산화장품은	국산+화장품+은	NOUN	_	9	dislocated	_	_	국산/ncn+화장품/ncn+은/jxt
+2	대형백화점에서도	대형+백화점+에서+도	ADV	_	4	advcl	_	_	대형/ncn+백화점/ncn+에서/jca+도/jxc
+3	구석매장으로	구석+매장+으로	ADV	_	4	advcl	_	_	구석/ncn+매장/ncn+으로/jca
+4	밀려나고	밀리+어+나+고	AUX	_	9	conj	_	_	밀리/pvg+어/ecx+나/px+고/ecx
+5	있으며	있+으며	CCONJ	_	4	aux	_	_	있/px+으며/ecc
+6	점차	점차	ADV	_	9	advmod	_	_	점차/mag
+7	자기의	자기+의	PRON	_	8	nmod	_	_	자기/npp+의/jcm
+8	할인품목으로	할인+품목+으로	ADV	_	9	advcl	_	_	할인/ncpa+품목/ncn+으로/jca
+9	전락하는	전락+하+는	VERB	_	10	ccomp	_	_	전락/ncpa+하/xsv+는/etm
+10	실정이다	실정+이+다	VERB	_	0	root	_	_	실정/ncn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 최근 보도에 의하면 화장품 수입을 포함하여 기술제휴 , 합작생산까지 합하면 91 년 외국브랜드 화장품의 국내시장 점유율이 20 % 에 이른다고 한다 .
+1	최근	최근	NOUN	_	2	compound	_	_	최근/ncn
+2	보도에	보도+에	ADV	_	3	obl	_	_	보도/ncpa+에/jca
+3	의하면	의하+면	SCONJ	_	21	ccomp	_	_	의하/pvg+면/ecs
+4	화장품	화장품	NOUN	_	5	compound	_	_	화장품/ncn
+5	수입을	수입+을	NOUN	_	6	obj	_	_	수입/ncpa+을/jco
+6	포함하여	포함+하+어	SCONJ	_	10	ccomp	_	_	포함/ncpa+하/xsv+어/ecs
+7	기술제휴	기술+제휴	NOUN	_	9	conj	_	_	기술/ncn+제휴/ncpa
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	합작생산까지	합작+생산+까지	ADV	_	10	advcl	_	_	합작/ncpa+생산/ncpa+까지/jxc
+10	합하면	합하+면	SCONJ	_	20	conj	_	_	합하/pvg+면/ecs
+11	91	91	NUM	_	12	nummod	_	_	91/nno
+12	년	년	NOUN	_	20	advmod	_	_	년/nbu
+13	외국브랜드	외국+브랜드	NOUN	_	14	compound	_	_	외국/ncn+브랜드/ncn
+14	화장품의	화장품+의	NOUN	_	16	nmod	_	_	화장품/ncn+의/jcm
+15	국내시장	국내+시장	NOUN	_	16	compound	_	_	국내/ncn+시장/ncn
+16	점유율이	점유율+이	NOUN	_	20	nsubj	_	_	점유율/ncn+이/jcs
+17	20	20	NUM	_	20	nummod	_	_	20/nnc
+18	%	%	SYM	_	17	punct	_	_	%/su
+19	에	에	ADP	_	17	case	_	_	에/jca
+20	이른다고	이르+ㄴ다+고	VERB	_	21	conj	_	_	이르/pvg+ㄴ다/ef+고/jcr
+21	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 수입주류 중 포도주는 92년 8월까지 3백 5십만 달러가 수입되어 91년 같은 기간보다 무려 72.4 % 의 증가율을 보였다 .
+1	수입주류	수입+주류	NOUN	_	2	compound	_	_	수입/ncpa+주류/ncn
+2	중	중	NOUN	_	3	mark	_	_	중/nbn
+3	포도주는	포도주+는	NOUN	_	18	dislocated	_	_	포도주/ncn+는/jxt
+4	92년	92+년	NOUN	_	5	compound	_	_	92/nno+년/nbu
+5	8월까지	8+월+까지	ADV	_	9	advcl	_	_	8/nno+월/nbu+까지/jxc
+6	3백	3+백	NUM	_	7	compound	_	_	3/nnc+백/nnc
+7	5십만	5+십만	NUM	_	8	compound	_	_	5/nnc+십만/nnc
+8	달러가	달러+가	NOUN	_	9	nsubj	_	_	달러/nbu+가/jcs
+9	수입되어	수입+되+어	SCONJ	_	18	ccomp	_	_	수입/ncpa+되/xsv+어/ecs
+10	91년	91+년	NOUN	_	12	compound	_	_	91/nno+년/nbu
+11	같은	같+ㄴ	ADJ	_	12	amod	_	_	같/paa+ㄴ/etm
+12	기간보다	기간+보다	ADV	_	18	advcl	_	_	기간/ncn+보다/jca
+13	무려	무려	ADV	_	18	advmod	_	_	무려/mag
+14	72.4	72.4	NUM	_	17	nummod	_	_	72.4/nnc
+15	%	%	SYM	_	14	punct	_	_	%/su
+16	의	의	ADP	_	14	case	_	_	의/jcm
+17	증가율을	증가율+을	NOUN	_	18	obj	_	_	증가율/ncn+을/jco
+18	보였다	보이+었+다	VERB	_	0	root	_	_	보이/pvg+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 또한 91년 전년대비 24.2 % 늘어난 1억 7천 5백만 달러를 기록한 담배수입은 92년 8월 말까지 전년 동기대비 1.5 % 가 증가하였다 .
+1	또한	또한	CCONJ	_	21	cc	_	_	또한/maj
+2	91년	91+년	NOUN	_	6	advmod	_	_	91/nno+년/nbu
+3	전년대비	전년+대비	NOUN	_	4	compound	_	_	전년/ncn+대비/ncpa
+4	24.2	24.2	NUM	_	6	nummod	_	_	24.2/nnc
+5	%	%	SYM	_	4	punct	_	_	%/su
+6	늘어난	늘+어+나+ㄴ	AUX	_	10	acl	_	_	늘/pvg+어/ecx+나/px+ㄴ/etm
+7	1억	1+억	NUM	_	9	compound	_	_	1/nnc+억/nnc
+8	7천	7+천	NUM	_	9	compound	_	_	7/nnc+천/nnc
+9	5백만	5+백만	NUM	_	10	compound	_	_	5/nnc+백만/nnc
+10	달러를	달러+를	NOUN	_	11	obj	_	_	달러/nbu+를/jco
+11	기록한	기록+하+ㄴ	VERB	_	12	acl	_	_	기록/ncpa+하/xsv+ㄴ/etm
+12	담배수입은	담배+수입+은	NOUN	_	21	dislocated	_	_	담배/ncn+수입/ncpa+은/jxt
+13	92년	92+년	NOUN	_	14	compound	_	_	92/nno+년/nbu
+14	8월	8+월	NOUN	_	15	compound	_	_	8/nno+월/nbu
+15	말까지	말+까지	ADV	_	21	advcl	_	_	말/ncn+까지/jxc
+16	전년	전년	NOUN	_	17	compound	_	_	전년/ncpa
+17	동기대비	동기+대비	NOUN	_	18	compound	_	_	동기/ncn+대비/ncn
+18	1.5	1.5	NUM	_	21	nummod	_	_	1.5/nnc
+19	%	%	SYM	_	18	punct	_	_	%/su
+20	가	가	ADP	_	18	case	_	_	가/jcs
+21	증가하였다	증가+하+었+다	VERB	_	0	root	_	_	증가/ncpa+하/xsv+었/ep+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 이에 기인하여 88올림픽 전까지만 해도 금액면에서 1 % 미만의 시장점유율을 보였던 양담배는 한때 10.4 % 까지 급등했다가 지금은 7 % 수준의 점유율을 차지하고 있다 .
+1	이에	이+에	ADV	_	2	obl	_	_	이/npd+에/jca
+2	기인하여	기인+하+어	SCONJ	_	23	ccomp	_	_	기인/ncpa+하/xsv+어/ecs
+3	88올림픽	88+올림픽	NOUN	_	4	compound	_	_	88/nno+올림픽/ncn
+4	전까지만	전+까지만	ADV	_	5	advcl	_	_	전/ncn+까지만/jxc
+5	해도	하+어도	SCONJ	_	11	ccomp	_	_	하/pvg+어도/ecs
+6	금액면에서	금액+면+에서	ADV	_	11	advcl	_	_	금액/ncn+면/ncn+에서/jca
+7	1	1	NUM	_	9	nummod	_	_	1/nnc
+8	%	%	SYM	_	7	punct	_	_	%/su
+9	미만의	미만+의	NOUN	_	10	nmod	_	_	미만/ncps+의/jcm
+10	시장점유율을	시장점유율+을	NOUN	_	11	obj	_	_	시장점유율/ncn+을/jco
+11	보였던	보이+었+던	VERB	_	12	acl	_	_	보이/pvg+었/ep+던/etm
+12	양담배는	양담배+는	NOUN	_	23	dislocated	_	_	양담배/ncn+는/jxt
+13	한때	한때	NOUN	_	17	advmod	_	_	한때/ncn
+14	10.4	10.4	NUM	_	17	nummod	_	_	10.4/nnc
+15	%	%	SYM	_	14	punct	_	_	%/su
+16	까지	까지	ADP	_	14	case	_	_	까지/jxc
+17	급등했다가	급등+하+었+다가	SCONJ	_	23	ccomp	_	_	급등/ncpa+하/xsv+었/ep+다가/ecs
+18	지금은	지금+은	NOUN	_	23	dislocated	_	_	지금/ncn+은/jxt
+19	7	7	NUM	_	21	nummod	_	_	7/nnc
+20	%	%	SYM	_	19	punct	_	_	%/su
+21	수준의	수준+의	NOUN	_	22	nmod	_	_	수준/ncn+의/jcm
+22	점유율을	점유율+을	NOUN	_	23	obj	_	_	점유율/ncn+을/jco
+23	차지하고	차지+하+고	VERB	_	0	root	_	_	차지/ncpa+하/xsv+고/ecx
+24	있다	있+다	AUX	_	23	aux	_	_	있/px+다/ef
+25	.	.	PUNCT	_	24	punct	_	_	./sf
+
+# 가구의 경우 92 년 8 개월 동안 수출은 91 년 같은 기간보다 16.3 % 감소하였으나 내수용수입은 33.2 % 나 증가하였다 .
+1	가구의	가구+의	NOUN	_	2	nmod	_	_	가구/ncn+의/jcm
+2	경우	경우	NOUN	_	20	advmod	_	_	경우/ncn
+3	92	92	NUM	_	4	nummod	_	_	92/nno
+4	년	년	NOUN	_	7	compound	_	_	년/nbu
+5	8	8	NUM	_	6	nummod	_	_	8/nnc
+6	개월	개월	NOUN	_	7	compound	_	_	개월/nbu
+7	동안	동안	NOUN	_	20	advmod	_	_	동안/ncn
+8	수출은	수출+은	NOUN	_	15	dislocated	_	_	수출/ncpa+은/jxt
+9	91	91	NUM	_	10	nummod	_	_	91/nno
+10	년	년	NOUN	_	12	compound	_	_	년/nbu
+11	같은	같+ㄴ	ADJ	_	12	amod	_	_	같/paa+ㄴ/etm
+12	기간보다	기간+보다	ADV	_	15	advcl	_	_	기간/ncn+보다/jca
+13	16.3	16.3	NUM	_	15	nummod	_	_	16.3/nnc
+14	%	%	SYM	_	13	punct	_	_	%/su
+15	감소하였으나	감소+하+었+으나	SCONJ	_	20	ccomp	_	_	감소/ncpa+하/xsv+었/ep+으나/ecs
+16	내수용수입은	내수용+수입+은	NOUN	_	20	dislocated	_	_	내수용/ncn+수입/ncpa+은/jxt
+17	33.2	33.2	NUM	_	20	nummod	_	_	33.2/nnc
+18	%	%	SYM	_	17	punct	_	_	%/su
+19	나	나	ADP	_	17	case	_	_	나/jxc
+20	증가하였다	증가+하+었+다	VERB	_	0	root	_	_	증가/ncpa+하/xsv+었/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 특히 침대수입은 매년 급증세를 보이고 있는데 , 92년 8월까지 284.0 % 늘어난 2백 4십만 달러를 기록하였다 .
+1	특히	특히	ADV	_	5	advmod	_	_	특히/mag
+2	침대수입은	침대+수입+은	NOUN	_	5	dislocated	_	_	침대/ncn+수입/ncpa+은/jxt
+3	매년	매년	NOUN	_	4	compound	_	_	매년/ncn
+4	급증세를	급증세+를	NOUN	_	5	obj	_	_	급증세/ncn+를/jco
+5	보이고	보이+고	VERB	_	16	ccomp	_	_	보이/pvg+고/ecx
+6	있는데	있+는데	SCONJ	_	5	aux	_	_	있/px+는데/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	92년	92+년	NOUN	_	9	compound	_	_	92/nno+년/nbu
+9	8월까지	8+월+까지	ADV	_	16	advcl	_	_	8/nno+월/nbu+까지/jxc
+10	284.0	284.0	NUM	_	12	nummod	_	_	284.0/nnc
+11	%	%	SYM	_	10	punct	_	_	%/su
+12	늘어난	늘+어+나+ㄴ	AUX	_	15	acl	_	_	늘/pvg+어/ecx+나/px+ㄴ/etm
+13	2백	2+백	NUM	_	14	compound	_	_	2/nnc+백/nnc
+14	4십만	4+십만	NUM	_	15	compound	_	_	4/nnc+십만/nnc
+15	달러를	달러+를	NOUN	_	16	obj	_	_	달러/nbu+를/jco
+16	기록하였다	기록+하+었+다	VERB	_	0	root	_	_	기록/ncpa+하/xsv+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이러한 현상은 일부계층의 호화외제 가구수요가 여전히 잠재하고 있음을 보여준다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	현상은	현상+은	NOUN	_	9	dislocated	_	_	현상/ncn+은/jxt
+3	일부계층의	일부+계층+의	NOUN	_	5	nmod	_	_	일부/ncn+계층/ncn+의/jcm
+4	호화외제	호화+외제	NOUN	_	5	compound	_	_	호화/ncps+외제/ncn
+5	가구수요가	가구+수요+가	NOUN	_	7	nsubj	_	_	가구/ncn+수요/ncn+가/jcs
+6	여전히	여전+히	ADV	_	7	advmod	_	_	여전/ncps+히/xsa
+7	잠재하고	잠재+하+고	VERB	_	9	obj	_	_	잠재/ncpa+하/xsv+고/ecx
+8	있음을	있+ㅁ+을	NOUN	_	7	aux	_	_	있/px+ㅁ/etn+을/jco
+9	보여준다	보이+어+주+ㄴ다	AUX	_	0	root	_	_	보이/pvg+어/ecx+주/px+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 전자악기를 중심으로 한 내수용악기 수입도 92 년 들어 크게 증가하고 있는 품목이다 .
+1	전자악기를	전자+악기+를	NOUN	_	3	obj	_	_	전자/ncn+악기/ncn+를/jco
+2	중심으로	중심+으로	ADV	_	3	advcl	_	_	중심/ncn+으로/jca
+3	한	하+ㄴ	VERB	_	5	acl	_	_	하/pvg+ㄴ/etm
+4	내수용악기	내수용+악기	NOUN	_	5	compound	_	_	내수용/ncn+악기/ncn
+5	수입도	수입+도	ADV	_	12	advcl	_	_	수입/ncpa+도/jxc
+6	92	92	NUM	_	7	nummod	_	_	92/nno
+7	년	년	NOUN	_	8	dep	_	_	년/nbu
+8	들어	들+어	SCONJ	_	10	ccomp	_	_	들/pvg+어/ecs
+9	크게	크+게	SCONJ	_	10	xcomp	_	_	크/paa+게/ecs
+10	증가하고	증가+하+고	VERB	_	12	ccomp	_	_	증가/ncpa+하/xsv+고/ecx
+11	있는	있+는	AUX	_	10	aux	_	_	있/px+는/etm
+12	품목이다	품목+이+다	VERB	_	0	root	_	_	품목/ncn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 업종별로는 섬유 , 신발 , 전기전자 , 잡제품 등의 대항력이 크게 낮아진 것으로 분석되었다 .
+1	업종별로는	업종별+로+는	NOUN	_	12	dislocated	_	_	업종별/ncn+로/jca+는/jxt
+2	섬유	섬유	NOUN	_	4	conj	_	_	섬유/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	신발	신발	NOUN	_	6	conj	_	_	신발/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	전기전자	전기+전자	NOUN	_	8	conj	_	_	전기/ncn+전자/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	잡제품	잡제품	NOUN	_	9	compound	_	_	잡제품/ncn
+9	등의	등+의	NOUN	_	10	nmod	_	_	등/nbn+의/jcm
+10	대항력이	대항력+이	NOUN	_	12	nsubj	_	_	대항력/ncn+이/jcs
+11	크게	크+게	SCONJ	_	12	xcomp	_	_	크/paa+게/ecs
+12	낮아진	낮+아+지+ㄴ	AUX	_	13	amod	_	_	낮/paa+아/ecx+지/px+ㄴ/etm
+13	것으로	것+으로	ADV	_	14	advcl	_	_	것/nbn+으로/jca
+14	분석되었다	분석+되+었+다	VERB	_	0	root	_	_	분석/ncpa+되/xsv+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 국내제조업체들은 국제경쟁에서 살아 남기 위해서는 가격은 물론 품질면에서 경쟁력을 갖추어야만 할 것이다 .
+1	국내제조업체들은	국내+제조+업체+들+은	NOUN	_	10	dislocated	_	_	국내/ncn+제조/ncpa+업체/ncn+들/xsn+은/jxt
+2	국제경쟁에서	국제+경쟁+에서	ADV	_	4	advcl	_	_	국제/ncn+경쟁/ncpa+에서/jca
+3	살아	살+아	SCONJ	_	4	ccomp	_	_	살/pvg+아/ecs
+4	남기	남+기	VERB	_	5	nmod	_	_	남/pvg+기/etn
+5	위해서는	위하+어서+는	NOUN	_	10	ccomp	_	_	위하/pvg+어서/ecs+는/jxt
+6	가격은	가격+은	NOUN	_	7	dislocated	_	_	가격/ncn+은/jxt
+7	물론	물론	ADV	_	10	advmod	_	_	물론/mag
+8	품질면에서	품질+면+에서	ADV	_	10	advcl	_	_	품질/ncn+면/ncn+에서/jca
+9	경쟁력을	경쟁력+을	NOUN	_	10	obj	_	_	경쟁력/ncn+을/jco
+10	갖추어야만	갖추+어야+만	ADV	_	0	root	_	_	갖추/pvg+어야/ecx+만/jxc
+11	할	하+ㄹ	AUX	_	10	aux	_	_	하/px+ㄹ/etm
+12	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 우리나라 가계의 저축 및 차입구조가 부동산 경기하락 , 주식시장 침체 등의 영향으로 변화되고 있다 .
+1	우리나라	우리+나라	NOUN	_	2	compound	_	_	우리/npp+나라/ncn
+2	가계의	가계+의	NOUN	_	5	nmod	_	_	가계/ncn+의/jcm
+3	저축	저축	NOUN	_	5	conj	_	_	저축/ncpa
+4	및	및	CCONJ	_	5	cc	_	_	및/maj
+5	차입구조가	차입+구조+가	NOUN	_	13	nsubj	_	_	차입/ncpa+구조/ncpa+가/jcs
+6	부동산	부+동산	PART	_	7	compound	_	_	부/xp+동산/ncn
+7	경기하락	경기+하락	NOUN	_	10	compound	_	_	경기/ncn+하락/ncpa
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	주식시장	주식+시장	NOUN	_	10	compound	_	_	주식/ncn+시장/ncn
+10	침체	침체	NOUN	_	11	compound	_	_	침체/ncpa
+11	등의	등+의	NOUN	_	12	nmod	_	_	등/nbn+의/jcm
+12	영향으로	영향+으로	ADV	_	13	advcl	_	_	영향/ncn+으로/jca
+13	변화되고	변화+되+고	VERB	_	0	root	_	_	변화/ncpa+되/xsv+고/ecx
+14	있다	있+다	AUX	_	13	aux	_	_	있/px+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이에 따라 저축액에서 차입금을 차감한 순 저축액은 741만 원으로 전년대비 15.5 % 가 증가되어 전년과 비슷한 증가세 ( 16.6 % ) 를 유지했다 .
+1	이에	이+에	ADV	_	2	obl	_	_	이/npd+에/jca
+2	따라	따르+아	SCONJ	_	23	ccomp	_	_	따르/pvg+아/ecs
+3	저축액에서	저축액+에서	ADV	_	5	advcl	_	_	저축액/ncn+에서/jca
+4	차입금을	차입금+을	NOUN	_	5	obj	_	_	차입금/ncn+을/jco
+5	차감한	차감+하+ㄴ	VERB	_	7	acl	_	_	차감/ncpa+하/xsv+ㄴ/etm
+6	순	순	ADJ	_	7	amod	_	_	순/mma
+7	저축액은	저축액+은	NOUN	_	23	dislocated	_	_	저축액/ncn+은/jxt
+8	741만	741+만	NUM	_	9	compound	_	_	741/nnc+만/nnc
+9	원으로	원+으로	ADV	_	14	advcl	_	_	원/nbu+으로/jca
+10	전년대비	전년+대비	NOUN	_	11	compound	_	_	전년/ncn+대비/ncpa
+11	15.5	15.5	NUM	_	14	nummod	_	_	15.5/nnc
+12	%	%	SYM	_	11	punct	_	_	%/su
+13	가	가	ADP	_	11	case	_	_	가/jcs
+14	증가되어	증가+되+어	SCONJ	_	23	ccomp	_	_	증가/ncpa+되/xsv+어/ecs
+15	전년과	전년+과	CCONJ	_	16	conj	_	_	전년/ncn+과/jct
+16	비슷한	비슷하+ㄴ	ADJ	_	17	amod	_	_	비슷하/paa+ㄴ/etm
+17	증가세	증가세	NOUN	_	23	obj	_	_	증가세/ncn
+18	(	(	PUNCT	_	19	punct	_	_	(/sl
+19	16.6	16.6	NUM	_	17	nummod	_	_	16.6/nnc
+20	%	%	SYM	_	19	punct	_	_	%/su
+21	)	)	PUNCT	_	19	punct	_	_	)/sr
+22	를	를	ADP	_	17	case	_	_	를/jco
+23	유지했다	유지+하+었+다	VERB	_	0	root	_	_	유지/ncpa+하/xsv+었/ep+다/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+
+# 그러나 세부적으로 살펴보면 가구당 평균 저축액은 전년대비 10.5 % 가 증가되어 91 년의 17.3 % 증가에 비해서는 증가세가 크게 둔화되었다 .
+1	그러나	그러나	CCONJ	_	20	cc	_	_	그러나/maj
+2	세부적으로	세부+적+으로	ADV	_	3	advcl	_	_	세부/ncn+적/xsn+으로/jca
+3	살펴보면	살피+어+보+면	SCONJ	_	20	ccomp	_	_	살피/pvg+어/ecx+보/px+면/ecs
+4	가구당	가구+당	NOUN	_	6	advmod	_	_	가구/ncn+당/xsn
+5	평균	평균	NOUN	_	6	compound	_	_	평균/ncpa
+6	저축액은	저축액+은	NOUN	_	20	dislocated	_	_	저축액/ncn+은/jxt
+7	전년대비	전년+대비	NOUN	_	8	compound	_	_	전년/ncn+대비/ncpa
+8	10.5	10.5	NUM	_	11	nummod	_	_	10.5/nnc
+9	%	%	SYM	_	8	punct	_	_	%/su
+10	가	가	ADP	_	8	case	_	_	가/jcs
+11	증가되어	증가+되+어	SCONJ	_	20	ccomp	_	_	증가/ncpa+되/xsv+어/ecs
+12	91	91	NUM	_	13	nummod	_	_	91/nno
+13	년의	년+의	NOUN	_	16	nmod	_	_	년/nbu+의/jcm
+14	17.3	17.3	NUM	_	16	nummod	_	_	17.3/nnc
+15	%	%	SYM	_	14	punct	_	_	%/su
+16	증가에	증가+에	ADV	_	17	obl	_	_	증가/ncpa+에/jca
+17	비해서는	비하+어서+는	NOUN	_	20	ccomp	_	_	비하/pvg+어서/ecs+는/jxt
+18	증가세가	증가세+가	NOUN	_	20	nsubj	_	_	증가세/ncn+가/jcs
+19	크게	크+게	SCONJ	_	20	xcomp	_	_	크/paa+게/ecs
+20	둔화되었다	둔화+되+었+다	VERB	_	0	root	_	_	둔화/ncpa+되/xsv+었/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 일본의 경우도 거품경제의 붕괴로 가계의 저축 및 차입구조가 변화되고 있다 .
+1	일본의	일본+의	PROPN	_	2	nmod	_	_	일본/nq+의/jcm
+2	경우도	경우+도	ADV	_	9	advcl	_	_	경우/ncn+도/jxc
+3	거품경제의	거품+경제+의	NOUN	_	4	nmod	_	_	거품/ncn+경제/ncn+의/jcm
+4	붕괴로	붕괴+로	ADV	_	9	advcl	_	_	붕괴/ncpa+로/jca
+5	가계의	가계+의	NOUN	_	8	nmod	_	_	가계/ncn+의/jcm
+6	저축	저축	NOUN	_	8	conj	_	_	저축/ncpa
+7	및	및	CCONJ	_	8	cc	_	_	및/maj
+8	차입구조가	차입+구조+가	NOUN	_	9	nsubj	_	_	차입/ncpa+구조/ncpa+가/jcs
+9	변화되고	변화+되+고	VERB	_	0	root	_	_	변화/ncpa+되/xsv+고/ecx
+10	있다	있+다	AUX	_	9	aux	_	_	있/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 일본 저축광고중앙위원회가 매년 실시하는 [ 저축에 관한 세론조사 ] 에 의하면 일본가계의 가구당 평균 저축액이 1991 년 들어 감소된 것으로 나타났다 .
+1	일본	일본	PROPN	_	2	flat	_	_	일본/nq
+2	저축광고중앙위원회가	저축광고중앙위원회+가	PROPN	_	4	nsubj	_	_	저축광고중앙위원회/nq+가/jcs
+3	매년	매년	ADV	_	4	advmod	_	_	매년/mag
+4	실시하는	실시+하+는	VERB	_	8	acl	_	_	실시/ncpa+하/xsv+는/etm
+5	[	[	PUNCT	_	6	punct	_	_	[/sl
+6	저축에	저축+에	ADV	_	7	obl	_	_	저축/ncpa+에/jca
+7	관한	관하+ㄴ	VERB	_	8	acl	_	_	관하/pvg+ㄴ/etm
+8	세론조사	세론+조사	NOUN	_	11	obl	_	_	세론/ncn+조사/ncpa
+9	]	]	PUNCT	_	8	punct	_	_	]/sr
+10	에	에	ADP	_	8	case	_	_	에/jca
+11	의하면	의하+면	SCONJ	_	21	ccomp	_	_	의하/pvg+면/ecs
+12	일본가계의	일본+가계+의	PROPN	_	15	nmod	_	_	일본/nq+가계/ncn+의/jcm
+13	가구당	가구+당	NOUN	_	15	advmod	_	_	가구/ncn+당/xsn
+14	평균	평균	NOUN	_	15	compound	_	_	평균/ncpa
+15	저축액이	저축액+이	NOUN	_	19	nsubj	_	_	저축액/ncn+이/jcs
+16	1991	1991	NUM	_	17	nummod	_	_	1991/nno
+17	년	년	NOUN	_	18	dep	_	_	년/nbu
+18	들어	들+어	SCONJ	_	19	ccomp	_	_	들/pvg+어/ecs
+19	감소된	감소+되+ㄴ	VERB	_	20	acl	_	_	감소/ncpa+되/xsv+ㄴ/etm
+20	것으로	것+으로	ADV	_	21	advcl	_	_	것/nbn+으로/jca
+21	나타났다	나타나+ㅆ+다	VERB	_	0	root	_	_	나타나/pvg+ㅆ/ep+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 1991 년 기준으로 일본가게의 가구당 평균저축액은 1,165만 엔으로 전년의 1,181만 엔에 비해 1.4 % 가 감소되어 1968 년 이후 처음으로 감소되었다 .
+1	1991	1991	NUM	_	2	nummod	_	_	1991/nno
+2	년	년	NOUN	_	3	compound	_	_	년/nbu
+3	기준으로	기준+으로	ADV	_	21	advcl	_	_	기준/ncn+으로/jca
+4	일본가게의	일본+가게+의	PROPN	_	6	nmod	_	_	일본/nq+가게/ncn+의/jcm
+5	가구당	가구+당	NOUN	_	6	advmod	_	_	가구/ncn+당/xsn
+6	평균저축액은	평균+저축액+은	NOUN	_	21	dislocated	_	_	평균/ncpa+저축액/ncn+은/jxt
+7	1,165만	1,165+만	NUM	_	8	compound	_	_	1,165/nnc+만/nnc
+8	엔으로	엔+으로	ADV	_	16	advcl	_	_	엔/nbu+으로/jca
+9	전년의	전년+의	NOUN	_	11	nmod	_	_	전년/ncn+의/jcm
+10	1,181만	1,181+만	NUM	_	11	compound	_	_	1,181/nnc+만/nnc
+11	엔에	엔+에	ADV	_	12	obl	_	_	엔/nbu+에/jca
+12	비해	비하+어	SCONJ	_	16	ccomp	_	_	비하/pvg+어/ecs
+13	1.4	1.4	NUM	_	16	nummod	_	_	1.4/nnc
+14	%	%	SYM	_	13	punct	_	_	%/su
+15	가	가	ADP	_	13	case	_	_	가/jcs
+16	감소되어	감소+되+어	SCONJ	_	21	ccomp	_	_	감소/ncpa+되/xsv+어/ecs
+17	1968	1968	NUM	_	18	nummod	_	_	1968/nno
+18	년	년	NOUN	_	19	compound	_	_	년/nbu
+19	이후	이후	NOUN	_	21	advmod	_	_	이후/ncn
+20	처음으로	처음+으로	ADV	_	21	advcl	_	_	처음/ncn+으로/jca
+21	감소되었다	감소+되+었+다	VERB	_	0	root	_	_	감소/ncpa+되/xsv+었/ep+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 증시침체의 영향으로 일본가계는 저축수단의 선택에 있어서도 안전성을 중시하는 경향이 뚜렷해지고 있다 .
+1	증시침체의	증시+침체+의	NOUN	_	2	nmod	_	_	증시/ncn+침체/ncpa+의/jcm
+2	영향으로	영향+으로	ADV	_	10	advcl	_	_	영향/ncn+으로/jca
+3	일본가계는	일본+가계+는	PROPN	_	8	dislocated	_	_	일본/nq+가계/ncn+는/jxt
+4	저축수단의	저축+수단+의	NOUN	_	5	nmod	_	_	저축/ncpa+수단/ncn+의/jcm
+5	선택에	선택+에	ADV	_	6	obl	_	_	선택/ncpa+에/jca
+6	있어서도	있+어서+도	ADV	_	8	amod	_	_	있/paa+어서/ecs+도/jxc
+7	안전성을	안전성+을	NOUN	_	8	obj	_	_	안전성/ncn+을/jco
+8	중시하는	중시+하+는	VERB	_	9	acl	_	_	중시/ncpa+하/xsv+는/etm
+9	경향이	경향+이	NOUN	_	10	nsubj	_	_	경향/ncn+이/jcs
+10	뚜렷해지고	뚜렷하+어+지+고	AUX	_	0	root	_	_	뚜렷하/paa+어/ecx+지/px+고/ecx
+11	있다	있+다	AUX	_	10	aux	_	_	있/px+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이러한 저축성예금의 높은 증가세에 힘입어 은행예적금도 전년대비 8.4 % 가 증가되어 저축액에서 차지하는 비중이 1990 년의 46.5 % 에서 91 년에는 51.1 % 로 상승되었다 .
+1	이러한	이러하+ㄴ	VERB	_	4	amod	_	_	이러하/pad+ㄴ/etm
+2	저축성예금의	저축성예금+의	NOUN	_	4	nmod	_	_	저축성예금/ncn+의/jcm
+3	높은	높+ㄴ	ADJ	_	4	amod	_	_	높/paa+ㄴ/etm
+4	증가세에	증가세+에	ADV	_	5	obl	_	_	증가세/ncn+에/jca
+5	힘입어	힘입+어	SCONJ	_	11	ccomp	_	_	힘입/pvg+어/ecs
+6	은행예적금도	은행예적금+도	ADV	_	11	advcl	_	_	은행예적금/ncn+도/jxc
+7	전년대비	전년+대비	NOUN	_	8	compound	_	_	전년/ncn+대비/ncpa
+8	8.4	8.4	NUM	_	11	nummod	_	_	8.4/nnc
+9	%	%	SYM	_	8	punct	_	_	%/su
+10	가	가	ADP	_	8	case	_	_	가/jcs
+11	증가되어	증가+되+어	SCONJ	_	25	ccomp	_	_	증가/ncpa+되/xsv+어/ecs
+12	저축액에서	저축액+에서	ADV	_	13	advcl	_	_	저축액/ncn+에서/jca
+13	차지하는	차지+하+는	VERB	_	14	acl	_	_	차지/ncpa+하/xsv+는/etm
+14	비중이	비중+이	NOUN	_	25	nsubj	_	_	비중/ncn+이/jcs
+15	1990	1990	NUM	_	16	nummod	_	_	1990/nno
+16	년의	년+의	NOUN	_	17	nmod	_	_	년/nbu+의/jcm
+17	46.5	46.5	NUM	_	25	nummod	_	_	46.5/nnc
+18	%	%	SYM	_	17	punct	_	_	%/su
+19	에서	에서	ADP	_	17	case	_	_	에서/jca
+20	91	91	NUM	_	21	nummod	_	_	91/nno
+21	년에는	년+에+는	NOUN	_	25	dislocated	_	_	년/nbu+에/jca+는/jxt
+22	51.1	51.1	NUM	_	25	nummod	_	_	51.1/nnc
+23	%	%	SYM	_	22	punct	_	_	%/su
+24	로	로	ADP	_	22	case	_	_	로/jca
+25	상승되었다	상승+되+었+다	VERB	_	0	root	_	_	상승/ncpa+되/xsv+었/ep+다/ef
+26	.	.	PUNCT	_	25	punct	_	_	./sf
+
+# 우리나라 도시가계도 저축수단선택시 안전성을 중시하는 경향이 강해지고 있다 .
+1	우리나라	우리+나라	NOUN	_	2	compound	_	_	우리/npp+나라/ncn
+2	도시가계도	도시+가계+도	ADV	_	7	advcl	_	_	도시/ncn+가계/ncn+도/jxc
+3	저축수단선택시	저축+수단+선택시	NOUN	_	5	advmod	_	_	저축/ncpa+수단/ncn+선택시/ncn
+4	안전성을	안전성+을	NOUN	_	5	obj	_	_	안전성/ncn+을/jco
+5	중시하는	중시+하+는	VERB	_	6	acl	_	_	중시/ncpa+하/xsv+는/etm
+6	경향이	경향+이	NOUN	_	7	nsubj	_	_	경향/ncn+이/jcs
+7	강해지고	강하+어+지+고	AUX	_	0	root	_	_	강하/paa+어/ecx+지/px+고/ecx
+8	있다	있+다	AUX	_	7	aux	_	_	있/px+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 우리나라가계는 그 동안 저축수단선택시 수익성을 중시하는 비중이 크게 높아진 반면 안전성을 중시하는 비중은 1986 년 이후 계속 감소되어왔다 왔다 .
+1	우리나라가계는	우리+나라+가계+는	PRON	_	18	dislocated	_	_	우리/npp+나라/ncn+가계/ncn+는/jxt
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	동안	동안	NOUN	_	18	advmod	_	_	동안/ncn
+4	저축수단선택시	저축+수단+선택시	NOUN	_	9	dep	_	_	저축/ncpa+수단/ncn+선택시/ncn
+5	수익성을	수익성+을	NOUN	_	6	obj	_	_	수익성/ncn+을/jco
+6	중시하는	중시+하+는	VERB	_	7	acl	_	_	중시/ncpa+하/xsv+는/etm
+7	비중이	비중+이	NOUN	_	9	nsubj	_	_	비중/ncn+이/jcs
+8	크게	크+게	SCONJ	_	9	xcomp	_	_	크/paa+게/ecs
+9	높아진	높+아+지+ㄴ	AUX	_	10	amod	_	_	높/paa+아/ecx+지/px+ㄴ/etm
+10	반면	반면	NOUN	_	18	advmod	_	_	반면/ncn
+11	안전성을	안전성+을	NOUN	_	12	obj	_	_	안전성/ncn+을/jco
+12	중시하는	중시+하+는	VERB	_	13	acl	_	_	중시/ncpa+하/xsv+는/etm
+13	비중은	비중+은	NOUN	_	18	dislocated	_	_	비중/ncn+은/jxt
+14	1986	1986	NUM	_	15	nummod	_	_	1986/nno
+15	년	년	NOUN	_	16	compound	_	_	년/nbu
+16	이후	이후	NOUN	_	18	advmod	_	_	이후/ncn
+17	계속	계속	ADV	_	18	advmod	_	_	계속/mag
+18	감소되어왔다	감소+되+어	VERB	_	0	root	_	_	감소/ncpa+되/xsv+어/ecx
+19	왔다	오+았+다	AUX	_	18	aux	_	_	오/px+았/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 그러나 저축수단에 있어서는 일본가계가 은행예적금을 크게 늘리고 있는데 반해 우리나라가계는 은행예적금의 증가가 평균저축액의 증가에 미치지 못한 것으로 나타났다 .
+1	그러나	그러나	CCONJ	_	18	cc	_	_	그러나/maj
+2	저축수단에	저축+수단+에	ADV	_	3	obl	_	_	저축/ncpa+수단/ncn+에/jca
+3	있어서는	있+어서+는	NOUN	_	18	amod	_	_	있/paa+어서/ecs+는/jxt
+4	일본가계가	일본+가계+가	PROPN	_	7	nsubj	_	_	일본/nq+가계/ncn+가/jcs
+5	은행예적금을	은행예적금+을	NOUN	_	7	obj	_	_	은행예적금/ncn+을/jco
+6	크게	크+게	SCONJ	_	7	xcomp	_	_	크/paa+게/ecs
+7	늘리고	늘리+고	VERB	_	9	ccomp	_	_	늘리/pvg+고/ecx
+8	있는데	있+는데	SCONJ	_	7	aux	_	_	있/px+는데/ecs
+9	반해	반하+어	SCONJ	_	15	ccomp	_	_	반하/pvg+어/ecs
+10	우리나라가계는	우리+나라+가계+는	PRON	_	15	dislocated	_	_	우리/npp+나라/ncn+가계/ncn+는/jxt
+11	은행예적금의	은행예적금+의	NOUN	_	12	nmod	_	_	은행예적금/ncn+의/jcm
+12	증가가	증가+가	NOUN	_	15	nsubj	_	_	증가/ncpa+가/jcs
+13	평균저축액의	평균+저축액+의	NOUN	_	14	nmod	_	_	평균/ncpa+저축액/ncn+의/jcm
+14	증가에	증가+에	ADV	_	15	obl	_	_	증가/ncpa+에/jca
+15	미치지	미치+지	VERB	_	17	acl	_	_	미치/pvg+지/ecx
+16	못한	못하+ㄴ	AUX	_	15	aux	_	_	못하/px+ㄴ/etm
+17	것으로	것+으로	ADV	_	18	advcl	_	_	것/nbn+으로/jca
+18	나타났다	나타나+ㅆ+다	VERB	_	0	root	_	_	나타나/pvg+ㅆ/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 가계저축의 증대는 경제성장의 투자재원을 국민저축으로부터 조달토록 함으로써 자립경제의 구축에 기여한다는 커다란 의미를 갖는다 .
+1	가계저축의	가계+저축+의	NOUN	_	2	nmod	_	_	가계/ncn+저축/ncpa+의/jcm
+2	증대는	증대+는	NOUN	_	13	dislocated	_	_	증대/ncpa+는/jxt
+3	경제성장의	경제+성장+의	NOUN	_	4	nmod	_	_	경제/ncn+성장/ncpa+의/jcm
+4	투자재원을	투자+재원+을	NOUN	_	6	obj	_	_	투자/ncpa+재원/ncn+을/jco
+5	국민저축으로부터	국민+저축+으로+부터	ADV	_	6	advcl	_	_	국민/ncn+저축/ncpa+으로/jca+부터/jxc
+6	조달토록	조달+하+도록	SCONJ	_	7	conj	_	_	조달/ncpa+하/xsv+도록/ecs
+7	함으로써	하+ㅁ+으로써	ADV	_	10	advcl	_	_	하/pvg+ㅁ/etn+으로써/jca
+8	자립경제의	자립+경제+의	NOUN	_	9	nmod	_	_	자립/ncpa+경제/ncn+의/jcm
+9	구축에	구축+에	ADV	_	10	obl	_	_	구축/ncpa+에/jca
+10	기여한다는	기여+하+ㄴ다는	VERB	_	12	acl	_	_	기여/ncpa+하/xsv+ㄴ다는/etm
+11	커다란	커다랗+ㄴ	ADJ	_	12	amod	_	_	커다랗/paa+ㄴ/etm
+12	의미를	의미+를	NOUN	_	13	obj	_	_	의미/ncpa+를/jco
+13	갖는다	갖+는다	VERB	_	0	root	_	_	갖/pvg+는다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 사회정책적인 면에서 볼 때에도 가계부문의 소득증가가 과소비로 이어지는 것을 막고 자산축적을 통한 사회안정과 국민복지향상을 꾀할 수 있도록 해준다 .
+1	사회정책적인	사회+정책+적+이+ㄴ	VERB	_	2	acl	_	_	사회/ncn+정책/ncn+적/xsn+이/jp+ㄴ/etm
+2	면에서	면+에서	ADV	_	3	advcl	_	_	면/ncn+에서/jca
+3	볼	보+ㄹ	VERB	_	4	acl	_	_	보/pvg+ㄹ/etm
+4	때에도	때+에+도	ADV	_	18	advcl	_	_	때/ncn+에/jca+도/jxc
+5	가계부문의	가계+부문+의	NOUN	_	6	nmod	_	_	가계/ncn+부문/ncn+의/jcm
+6	소득증가가	소득+증가+가	NOUN	_	8	nsubj	_	_	소득/ncpa+증가/ncpa+가/jcs
+7	과소비로	과소비+로	ADV	_	8	advcl	_	_	과소비/ncn+로/jca
+8	이어지는	잇+어+지+는	AUX	_	9	acl	_	_	잇/pvg+어/ecx+지/px+는/etm
+9	것을	것+을	NOUN	_	10	obj	_	_	것/nbn+을/jco
+10	막고	막+고	CCONJ	_	18	conj	_	_	막/pvg+고/ecc
+11	자산축적을	자산+축적+을	NOUN	_	12	obj	_	_	자산/ncn+축적/ncpa+을/jco
+12	통한	통하+ㄴ	VERB	_	14	acl	_	_	통하/pvg+ㄴ/etm
+13	사회안정과	사회+안정+과	CCONJ	_	14	conj	_	_	사회/ncn+안정/ncps+과/jcj
+14	국민복지향상을	국민+복지+향상+을	NOUN	_	15	obj	_	_	국민/ncn+복지/ncn+향상/ncpa+을/jco
+15	꾀할	꾀하+ㄹ	VERB	_	18	ccomp	_	_	꾀하/pvg+ㄹ/etm
+16	수	수	NOUN	_	17	fixed	_	_	수/nbn
+17	있도록	있+도록	SCONJ	_	15	aux	_	_	있/paa+도록/ecs
+18	해준다	하+어+주+ㄴ다	AUX	_	0	root	_	_	하/pvg+어/ecx+주/px+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 뿐만 아니라 개별가계의 입장에서 보면 가계소득의 일부를 축적해둠으로써 안정된 경제생활을 영위하는데 기여한다 .
+1	뿐만	뿐+만	ADV	_	2	dep	_	_	뿐/nbn+만/jxc
+2	아니라	아니+라	SCONJ	_	12	cc	_	_	아니/paa+라/ecs
+3	개별가계의	개별+가계+의	NOUN	_	4	nmod	_	_	개별/ncpa+가계/ncn+의/jcm
+4	입장에서	입장+에서	ADV	_	5	advcl	_	_	입장/ncn+에서/jca
+5	보면	보+면	SCONJ	_	12	ccomp	_	_	보/pvg+면/ecs
+6	가계소득의	가계+소득+의	NOUN	_	7	nmod	_	_	가계/ncn+소득/ncpa+의/jcm
+7	일부를	일부+를	NOUN	_	8	obj	_	_	일부/ncn+를/jco
+8	축적해둠으로써	축적+하+어+두+ㅁ+으로써	ADV	_	12	advcl	_	_	축적/ncpa+하/xsv+어/ecx+두/px+ㅁ/etn+으로써/jca
+9	안정된	안정+되+ㄴ	VERB	_	10	amod	_	_	안정/ncps+되/xsm+ㄴ/etm
+10	경제생활을	경제+생활+을	NOUN	_	11	obj	_	_	경제/ncn+생활/ncpa+을/jco
+11	영위하는데	영위+하+는데	SCONJ	_	12	ccomp	_	_	영위/ncpa+하/xsv+는데/ecs
+12	기여한다	기여+하+ㄴ다	VERB	_	0	root	_	_	기여/ncpa+하/xsv+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 따라서 본고에서는 1980 년부터 1991 년까지 12 년간 국민은행의 [ 가계금융이용실태 조사보고서 ] 자료를 바탕으로 가계저축행태에 대한 전반적인 변화추이와 특성을 살펴보았다 .
+1	따라서	따라서	CCONJ	_	21	cc	_	_	따라서/maj
+2	본고에서는	본고+에서+는	NOUN	_	21	dislocated	_	_	본고/ncn+에서/jca+는/jxt
+3	1980	1980	NUM	_	4	nummod	_	_	1980/nno
+4	년부터	년+부터	ADV	_	6	advcl	_	_	년/nbu+부터/jxc
+5	1991	1991	NUM	_	6	nummod	_	_	1991/nno
+6	년까지	년+까지	ADV	_	8	advcl	_	_	년/nbu+까지/jxc
+7	12	12	NUM	_	8	nummod	_	_	12/nnc
+8	년간	년+간	NOUN	_	14	advmod	_	_	년/nbu+간/xsn
+9	국민은행의	국민은행+의	PROPN	_	12	nmod	_	_	국민은행/nq+의/jcm
+10	[	[	PUNCT	_	11	punct	_	_	[/sl
+11	가계금융이용실태	가계+금융+이용+실태	NOUN	_	12	compound	_	_	가계/ncn+금융/ncn+이용/ncpa+실태/ncn
+12	조사보고서	조사+보고서	NOUN	_	14	compound	_	_	조사/ncpa+보고서/ncn
+13	]	]	PUNCT	_	12	punct	_	_	]/sr
+14	자료를	자료+를	NOUN	_	15	obj	_	_	자료/ncn+를/jco
+15	바탕으로	바탕+으로	ADV	_	21	advcl	_	_	바탕/ncn+으로/jca
+16	가계저축행태에	가계+저축+행태+에	ADV	_	17	obl	_	_	가계/ncn+저축/ncpa+행태/ncn+에/jca
+17	대한	대하+ㄴ	VERB	_	20	acl	_	_	대하/pvg+ㄴ/etm
+18	전반적인	전반+적+이+ㄴ	VERB	_	20	acl	_	_	전반/ncn+적/xsn+이/jp+ㄴ/etm
+19	변화추이와	변화+추이+와	CCONJ	_	20	conj	_	_	변화/ncpa+추이/ncpa+와/jcj
+20	특성을	특성+을	NOUN	_	21	obj	_	_	특성/ncn+을/jco
+21	살펴보았다	살피+어+보+았+다	AUX	_	0	root	_	_	살피/pvg+어/ecx+보/px+았/ep+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 먼저 우리나라의 가계저축행태를 객관적으로 판단하기 위하여 가계의 평균저축성향을 일본과 비교해보자 .
+1	먼저	먼저	ADV	_	10	advmod	_	_	먼저/mag
+2	우리나라의	우리+나라+의	PRON	_	3	nmod	_	_	우리/npp+나라/ncn+의/jcm
+3	가계저축행태를	가계+저축+행태+를	NOUN	_	5	obj	_	_	가계/ncn+저축/ncpa+행태/ncn+를/jco
+4	객관적으로	객관+적+으로	ADV	_	5	advcl	_	_	객관/ncn+적/xsn+으로/jca
+5	판단하기	판단+하+기	VERB	_	6	nmod	_	_	판단/ncpa+하/xsv+기/etn
+6	위하여	위하+어	SCONJ	_	10	ccomp	_	_	위하/pvg+어/ecs
+7	가계의	가계+의	NOUN	_	8	nmod	_	_	가계/ncn+의/jcm
+8	평균저축성향을	평균+저축+성향+을	NOUN	_	10	obj	_	_	평균/ncpa+저축/ncpa+성향/ncn+을/jco
+9	일본과	일본+과	CCONJ	_	10	conj	_	_	일본/nq+과/jct
+10	비교해보자	비교+하+어+보+자	AUX	_	0	root	_	_	비교/ncpa+하/xsv+어/ecx+보/px+자/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 일본은 1970 년대에 들어서면서 가계저축성향이 20 % 대에 접어들었으며 이후에도 미미한 변화를 보이면서 25 % 정도의 수준에 머무르고 있다 .
+1	일본은	일본+은	PROPN	_	18	dislocated	_	_	일본/nq+은/jxt
+2	1970	1970	NUM	_	3	nummod	_	_	1970/nno
+3	년대에	년대+에	ADV	_	4	obl	_	_	년대/nbu+에/jca
+4	들어서면서	들어서+면서	CCONJ	_	9	conj	_	_	들어서/pvg+면서/ecc
+5	가계저축성향이	가계+저축+성향+이	NOUN	_	9	nsubj	_	_	가계/ncn+저축/ncpa+성향/ncn+이/jcs
+6	20	20	NUM	_	9	nummod	_	_	20/nnc
+7	%	%	SYM	_	6	punct	_	_	%/su
+8	대에	대+에	PART	_	6	case	_	_	대/xsn+에/jca
+9	접어들었으며	접어들+었+으며	SCONJ	_	18	ccomp	_	_	접어들/pvg+었/ep+으며/ecs
+10	이후에도	이후+에+도	ADV	_	13	advcl	_	_	이후/ncn+에/jca+도/jxc
+11	미미한	미미하+ㄴ	ADJ	_	12	amod	_	_	미미하/paa+ㄴ/etm
+12	변화를	변화+를	NOUN	_	13	obj	_	_	변화/ncpa+를/jco
+13	보이면서	보이+면서	SCONJ	_	18	ccomp	_	_	보이/pvg+면서/ecs
+14	25	25	NUM	_	16	nummod	_	_	25/nnc
+15	%	%	SYM	_	14	punct	_	_	%/su
+16	정도의	정도+의	NOUN	_	17	nmod	_	_	정도/ncn+의/jcm
+17	수준에	수준+에	ADV	_	18	obl	_	_	수준/ncn+에/jca
+18	머무르고	머무르+고	VERB	_	0	root	_	_	머무르/pvg+고/ecx
+19	있다	있+다	AUX	_	18	aux	_	_	있/px+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 반면 우리나라의 가계저축성향은 1970 년의 5.6 % 의 낮은 수준에서 계속적인 증가세를 보여 1979 년 이후에는 일본보다도 높은 수치를 나타내고 있다 .
+1	반면	반면	NOUN	_	20	advmod	_	_	반면/ncn
+2	우리나라의	우리+나라+의	PRON	_	3	nmod	_	_	우리/npp+나라/ncn+의/jcm
+3	가계저축성향은	가계+저축+성향+은	NOUN	_	20	dislocated	_	_	가계/ncn+저축/ncpa+성향/ncn+은/jxt
+4	1970	1970	NUM	_	5	nummod	_	_	1970/nno
+5	년의	년+의	NOUN	_	10	nmod	_	_	년/nbu+의/jcm
+6	5.6	5.6	NUM	_	10	nummod	_	_	5.6/nnc
+7	%	%	SYM	_	6	punct	_	_	%/su
+8	의	의	ADP	_	6	case	_	_	의/jcm
+9	낮은	낮+ㄴ	ADJ	_	10	amod	_	_	낮/paa+ㄴ/etm
+10	수준에서	수준+에서	ADV	_	13	advcl	_	_	수준/ncn+에서/jca
+11	계속적인	계속+적+이+ㄴ	VERB	_	12	acl	_	_	계속/ncpa+적/xsn+이/jp+ㄴ/etm
+12	증가세를	증가세+를	NOUN	_	13	obj	_	_	증가세/ncn+를/jco
+13	보여	보이+어	SCONJ	_	20	ccomp	_	_	보이/pvg+어/ecs
+14	1979	1979	NUM	_	15	nummod	_	_	1979/nno
+15	년	년	NOUN	_	16	compound	_	_	년/nbu
+16	이후에는	이후+에+는	NOUN	_	20	dislocated	_	_	이후/ncn+에/jca+는/jxt
+17	일본보다도	일본+보다+도	ADV	_	18	advcl	_	_	일본/nq+보다/jca+도/jxc
+18	높은	높+ㄴ	ADJ	_	19	amod	_	_	높/paa+ㄴ/etm
+19	수치를	수치+를	NOUN	_	20	obj	_	_	수치/ncn+를/jco
+20	나타내고	나타내+고	VERB	_	0	root	_	_	나타내/pvg+고/ecx
+21	있다	있+다	AUX	_	20	aux	_	_	있/px+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 1980 년대에 들어서면서 비교적 완만한 증가추이를 보였는데 , 올림픽직후인 1989 년에는 일시적으로 감소하였으나 이후 다시 증가하여 1991 년에는 27.8 % 의 저축성향을 나타냈다 .
+1	1980	1980	NUM	_	2	nummod	_	_	1980/nno
+2	년대에	년대+에	ADV	_	3	obl	_	_	년대/nbu+에/jca
+3	들어서면서	들어서+면서	CCONJ	_	7	conj	_	_	들어서/pvg+면서/ecc
+4	비교적	비교+적	NOUN	_	5	amod	_	_	비교/ncpa+적/xsn
+5	완만한	완만+하+ㄴ	VERB	_	6	amod	_	_	완만/ncps+하/xsm+ㄴ/etm
+6	증가추이를	증가+추이+를	NOUN	_	7	obj	_	_	증가/ncpa+추이/ncpa+를/jco
+7	보였는데	보이+었+는데	SCONJ	_	23	ccomp	_	_	보이/pvg+었/ep+는데/ecs
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	올림픽직후인	올림픽+직후+이+ㄴ	VERB	_	11	acl	_	_	올림픽/ncn+직후/ncn+이/jp+ㄴ/etm
+10	1989	1989	NUM	_	11	nummod	_	_	1989/nno
+11	년에는	년+에+는	NOUN	_	13	dislocated	_	_	년/nbu+에/jca+는/jxt
+12	일시적으로	일시+적+으로	ADV	_	13	advcl	_	_	일시/ncn+적/xsn+으로/jca
+13	감소하였으나	감소+하+었+으나	SCONJ	_	23	ccomp	_	_	감소/ncpa+하/xsv+었/ep+으나/ecs
+14	이후	이후	NOUN	_	16	advmod	_	_	이후/ncn
+15	다시	다시	ADV	_	16	advmod	_	_	다시/mag
+16	증가하여	증가+하+어	SCONJ	_	23	ccomp	_	_	증가/ncpa+하/xsv+어/ecs
+17	1991	1991	NUM	_	18	nummod	_	_	1991/nno
+18	년에는	년+에+는	NOUN	_	23	dislocated	_	_	년/nbu+에/jca+는/jxt
+19	27.8	27.8	NUM	_	22	nummod	_	_	27.8/nnc
+20	%	%	SYM	_	19	punct	_	_	%/su
+21	의	의	ADP	_	19	case	_	_	의/jcm
+22	저축성향을	저축+성향+을	NOUN	_	23	obj	_	_	저축/ncpa+성향/ncn+을/jco
+23	나타냈다	나타내+ㅆ+다	VERB	_	0	root	_	_	나타내/pvg+ㅆ/ep+다/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+
+# 가계저축률의 증가와 함께 물가상승률을 고려한 실질가계저축보유액 역시 높은 증가추세를 보였다 .
+1	가계저축률의	가계+저축률+의	NOUN	_	2	nmod	_	_	가계/ncn+저축률/ncn+의/jcm
+2	증가와	증가+와	CCONJ	_	3	conj	_	_	증가/ncpa+와/jct
+3	함께	함께	ADV	_	10	advmod	_	_	함께/mag
+4	물가상승률을	물가+상승률+을	NOUN	_	5	obj	_	_	물가/ncn+상승률/ncn+을/jco
+5	고려한	고려+하+ㄴ	VERB	_	6	acl	_	_	고려/ncpa+하/xsv+ㄴ/etm
+6	실질가계저축보유액	실질+가계+저축+보유액	NOUN	_	7	dep	_	_	실질/ncn+가계/ncn+저축/ncpa+보유액/ncn
+7	역시	역시	ADV	_	10	advmod	_	_	역시/mag
+8	높은	높+ㄴ	ADJ	_	9	amod	_	_	높/paa+ㄴ/etm
+9	증가추세를	증가+추세+를	NOUN	_	10	obj	_	_	증가/ncpa+추세/ncn+를/jco
+10	보였다	보이+었+다	VERB	_	0	root	_	_	보이/pvg+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 1991년의 가계저축보유액은 777만 원으로 1980년의 154만 원의 5 배에 달하는 것으로 나타났다 .
+1	1991년의	1991+년+의	NUM	_	2	nmod	_	_	1991/nno+년/nbu+의/jcm
+2	가계저축보유액은	가계+저축+보유액+은	NOUN	_	10	dislocated	_	_	가계/ncn+저축/ncpa+보유액/ncn+은/jxt
+3	777만	777+만	NUM	_	4	compound	_	_	777/nnc+만/nnc
+4	원으로	원+으로	ADV	_	10	advcl	_	_	원/nbu+으로/jca
+5	1980년의	1980+년+의	NUM	_	7	nmod	_	_	1980/nno+년/nbu+의/jcm
+6	154만	154+만	NUM	_	7	compound	_	_	154/nnc+만/nnc
+7	원의	원+의	NOUN	_	9	nmod	_	_	원/nbu+의/jcm
+8	5	5	NUM	_	9	nummod	_	_	5/nnc
+9	배에	배+에	ADV	_	10	obl	_	_	배/ncn+에/jca
+10	달하는	달하+는	VERB	_	11	acl	_	_	달하/pvg+는/etm
+11	것으로	것+으로	ADV	_	12	advcl	_	_	것/nbn+으로/jca
+12	나타났다	나타나+ㅆ+다	VERB	_	0	root	_	_	나타나/pvg+ㅆ/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 반면 가계부채보유액은 1980년의 99만 원에서 1991년의 243만 원으로 2.4배의 증가를 보였다 .
+1	반면	반면	ADV	_	11	advmod	_	_	반면/mag
+2	가계부채보유액은	가계+부채+보유액+은	NOUN	_	11	dislocated	_	_	가계/ncn+부채/ncn+보유액/ncn+은/jxt
+3	1980년의	1980+년+의	NUM	_	5	nmod	_	_	1980/nno+년/nbu+의/jcm
+4	99만	99+만	NUM	_	5	compound	_	_	99/nnc+만/nnc
+5	원에서	원+에서	ADV	_	11	advcl	_	_	원/nbu+에서/jca
+6	1991년의	1991+년+의	NUM	_	8	nmod	_	_	1991/nno+년/nbu+의/jcm
+7	243만	243+만	NUM	_	8	compound	_	_	243/nnc+만/nnc
+8	원으로	원+으로	ADV	_	11	advcl	_	_	원/nbu+으로/jca
+9	2.4배의	2.4+배+의	NUM	_	10	nmod	_	_	2.4/nnc+배/ncn+의/jcm
+10	증가를	증가+를	NOUN	_	11	obj	_	_	증가/ncpa+를/jco
+11	보였다	보이+었+다	VERB	_	0	root	_	_	보이/pvg+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이에 따라 1980 년의 경우 가계부채보유액이 가계저축보유액의 64.3 % 에 이르렀으나 , 1991 년에는 31.3 % 로 줄어 가계의 재정상태가 호전되었음을 보여준다 .
+1	이에	이+에	ADV	_	2	obl	_	_	이/npd+에/jca
+2	따라	따르+아	SCONJ	_	18	ccomp	_	_	따르/pvg+아/ecs
+3	1980	1980	NUM	_	4	nummod	_	_	1980/nno
+4	년의	년+의	NOUN	_	5	nmod	_	_	년/nbu+의/jcm
+5	경우	경우	NOUN	_	11	advmod	_	_	경우/ncn
+6	가계부채보유액이	가계+부채+보유액+이	NOUN	_	11	nsubj	_	_	가계/ncn+부채/ncn+보유액/ncn+이/jcs
+7	가계저축보유액의	가계+저축+보유액+의	NOUN	_	8	nmod	_	_	가계/ncn+저축/ncpa+보유액/ncn+의/jcm
+8	64.3	64.3	NUM	_	11	nummod	_	_	64.3/nnc
+9	%	%	SYM	_	8	punct	_	_	%/su
+10	에	에	ADP	_	8	case	_	_	에/jca
+11	이르렀으나	이르+었+으나	SCONJ	_	18	ccomp	_	_	이르/pvg+었/ep+으나/ecs
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	1991	1991	NUM	_	14	nummod	_	_	1991/nno
+14	년에는	년+에+는	NOUN	_	18	dislocated	_	_	년/nbu+에/jca+는/jxt
+15	31.3	31.3	NUM	_	18	nummod	_	_	31.3/nnc
+16	%	%	SYM	_	15	punct	_	_	%/su
+17	로	로	ADP	_	15	case	_	_	로/jca
+18	줄어	줄+어	SCONJ	_	22	ccomp	_	_	줄/pvg+어/ecs
+19	가계의	가계+의	NOUN	_	20	nmod	_	_	가계/ncn+의/jcm
+20	재정상태가	재정+상태+가	NOUN	_	21	nsubj	_	_	재정/ncn+상태/ncn+가/jcs
+21	호전되었음을	호전+되+었+ㅁ+을	NOUN	_	22	obj	_	_	호전/ncpa+되/xsv+었/ep+ㅁ/etn+을/jco
+22	보여준다	보이+어+주+ㄴ다	AUX	_	0	root	_	_	보이/pvg+어/ecx+주/px+ㄴ다/ef
+23	.	.	PUNCT	_	22	punct	_	_	./sf
+
+# 결과적으로 가계저축보유액에서 가계부채보유액을 제외한 가계 순 저축보유액 같은 기간 동안 9.7 배가 증가한 것으로 나타났다 .
+1	결과적으로	결과+적+으로	ADV	_	13	advcl	_	_	결과/ncn+적/xsn+으로/jca
+2	가계저축보유액에서	가계+저축+보유액+에서	ADV	_	4	advcl	_	_	가계/ncn+저축/ncpa+보유액/ncn+에서/jca
+3	가계부채보유액을	가계+부채+보유액+을	NOUN	_	4	obj	_	_	가계/ncn+부채/ncn+보유액/ncn+을/jco
+4	제외한	제외+하+ㄴ	VERB	_	7	acl	_	_	제외/ncpa+하/xsv+ㄴ/etm
+5	가계	가계	NOUN	_	7	compound	_	_	가계/ncn
+6	순	순	ADJ	_	7	amod	_	_	순/mma
+7	저축보유액	저축+보유액+은	NOUN	_	13	dislocated	_	_	저축/ncpa+보유액/ncn+은/jxt
+8	같은	같+ㄴ	ADJ	_	9	amod	_	_	같/paa+ㄴ/etm
+9	기간	기간	NOUN	_	10	compound	_	_	기간/ncn
+10	동안	동안	NOUN	_	13	advmod	_	_	동안/ncn
+11	9.7	9.7	NUM	_	12	nummod	_	_	9.7/nnc
+12	배가	배+가	NOUN	_	13	nsubj	_	_	배/ncn+가/jcs
+13	증가한	증가+하+ㄴ	VERB	_	14	acl	_	_	증가/ncpa+하/xsv+ㄴ/etm
+14	것으로	것+으로	ADV	_	15	advcl	_	_	것/nbn+으로/jca
+15	나타났다	나타나+ㅆ+다	VERB	_	0	root	_	_	나타나/pvg+ㅆ/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 또한 [ 은행 외 금융기관 ] 을 이용하는 가구도 큰 폭으로 늘어나 1991 년의 경우 51.1 % 를 차지하였다 .
+1	또한	또한	CCONJ	_	19	cc	_	_	또한/maj
+2	[	[	PUNCT	_	3	punct	_	_	[/sl
+3	은행	은행	NOUN	_	4	compound	_	_	은행/ncn
+4	외	외	NOUN	_	5	compound	_	_	외/ncn
+5	금융기관	금융+기관	NOUN	_	8	obj	_	_	금융/ncn+기관/ncn
+6	]	]	PUNCT	_	5	punct	_	_	]/sr
+7	을	을	ADP	_	5	case	_	_	을/jco
+8	이용하는	이용+하+는	VERB	_	9	acl	_	_	이용/ncpa+하/xsv+는/etm
+9	가구도	가구+도	ADV	_	12	advcl	_	_	가구/ncn+도/jxc
+10	큰	크+ㄴ	ADJ	_	11	amod	_	_	크/paa+ㄴ/etm
+11	폭으로	폭+으로	ADV	_	12	advcl	_	_	폭/ncn+으로/jca
+12	늘어나	늘+어+나+아	SCONJ	_	19	ccomp	_	_	늘/pvg+어/ecx+나/px+아/ecs
+13	1991	1991	NUM	_	14	nummod	_	_	1991/nno
+14	년의	년+의	NOUN	_	15	nmod	_	_	년/nbu+의/jcm
+15	경우	경우	NOUN	_	19	advmod	_	_	경우/ncn
+16	51.1	51.1	NUM	_	19	nummod	_	_	51.1/nnc
+17	%	%	SYM	_	16	punct	_	_	%/su
+18	를	를	ADP	_	16	case	_	_	를/jco
+19	차지하였다	차지+하+었+다	VERB	_	0	root	_	_	차지/ncpa+하/xsv+었/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# [ 유가증권 ] 의 경우 주식시장이 활황을 누렸던 1989 년에는 29.4 % 에 이르렀으나 이후 증시가 침체기를 맞이하면서 1991 년에는 7.0 % 로 낮아졌다 .
+1	[	[	PUNCT	_	2	punct	_	_	[/sl
+2	유가증권	유가+증권	NOUN	_	5	nmod	_	_	유가/ncn+증권/ncn
+3	]	]	PUNCT	_	2	punct	_	_	]/sr
+4	의	의	ADP	_	2	case	_	_	의/jcm
+5	경우	경우	NOUN	_	24	dep	_	_	경우/ncn
+6	주식시장이	주식+시장+이	NOUN	_	8	nsubj	_	_	주식/ncn+시장/ncn+이/jcs
+7	활황을	활황+을	NOUN	_	8	obj	_	_	활황/ncn+을/jco
+8	누렸던	누리+었+던	VERB	_	10	acl	_	_	누리/pvg+었/ep+던/etm
+9	1989	1989	NUM	_	10	nummod	_	_	1989/nno
+10	년에는	년+에+는	NOUN	_	14	dislocated	_	_	년/nbu+에/jca+는/jxt
+11	29.4	29.4	NUM	_	14	nummod	_	_	29.4/nnc
+12	%	%	SYM	_	11	punct	_	_	%/su
+13	에	에	ADP	_	11	case	_	_	에/jca
+14	이르렀으나	이르+었+으나	SCONJ	_	24	conj	_	_	이르/pvg+었/ep+으나/ecs
+15	이후	이후	NOUN	_	18	advmod	_	_	이후/ncn
+16	증시가	증시+가	NOUN	_	18	nsubj	_	_	증시/ncn+가/jcs
+17	침체기를	침체기+를	NOUN	_	18	obj	_	_	침체기/ncn+를/jco
+18	맞이하면서	맞이하+면서	CCONJ	_	24	conj	_	_	맞이하/pvg+면서/ecc
+19	1991	1991	NUM	_	20	nummod	_	_	1991/nno
+20	년에는	년+에+는	NOUN	_	24	dislocated	_	_	년/nbu+에/jca+는/jxt
+21	7.0	7.0	NUM	_	24	nummod	_	_	7.0/nnc
+22	%	%	SYM	_	21	punct	_	_	%/su
+23	로	로	ADP	_	21	case	_	_	로/jca
+24	낮아졌다	낮+아+지+었+다	AUX	_	0	root	_	_	낮/paa+아/ecx+지/px+었/ep+다/ef
+25	.	.	PUNCT	_	24	punct	_	_	./sf
+
+# 도시가계의 금융기관 이용행태의 변화는 금융기관별 가계저축보유액의 분포구성비에도 그대로 반영된다 .
+1	도시가계의	도시+가계+의	NOUN	_	3	nmod	_	_	도시/ncn+가계/ncn+의/jcm
+2	금융기관	금융+기관	NOUN	_	3	compound	_	_	금융/ncn+기관/ncn
+3	이용행태의	이용+행태+의	NOUN	_	4	nmod	_	_	이용/ncpa+행태/ncn+의/jcm
+4	변화는	변화+는	NOUN	_	9	dislocated	_	_	변화/ncpa+는/jxt
+5	금융기관별	금융+기관별	NOUN	_	6	compound	_	_	금융/ncn+기관별/ncn
+6	가계저축보유액의	가계+저축+보유액+의	NOUN	_	7	nmod	_	_	가계/ncn+저축/ncpa+보유액/ncn+의/jcm
+7	분포구성비에도	분포+구성비+에+도	ADV	_	9	advcl	_	_	분포/ncpa+구성비/ncn+에/jca+도/jxc
+8	그대로	그대로	ADV	_	9	advmod	_	_	그대로/mag
+9	반영된다	반영+되+ㄴ다	VERB	_	0	root	_	_	반영/ncpa+되/xsv+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 가계저축보육액의 29.8 % 를 차지하는 반면 계 , 사채 등의 사금융저축액은 70.2 % 로 훨씬 큰 비중을 점하였다 .
+1	가계저축보육액의	가계+저축+보육액+의	NOUN	_	2	nmod	_	_	가계/ncn+저축/ncpa+보육액/ncn+의/jcm
+2	29.8	29.8	NUM	_	5	nummod	_	_	29.8/nnc
+3	%	%	SYM	_	2	punct	_	_	%/su
+4	를	를	ADP	_	2	case	_	_	를/jco
+5	차지하는	차지+하+는	VERB	_	6	acl	_	_	차지/ncpa+하/xsv+는/etm
+6	반면	반면	NOUN	_	18	advmod	_	_	반면/ncn
+7	계	계	NOUN	_	9	conj	_	_	계/ncn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	사채	사채	NOUN	_	10	compound	_	_	사채/ncn
+10	등의	등+의	NOUN	_	11	nmod	_	_	등/nbn+의/jcm
+11	사금융저축액은	사금융+저축액+은	NOUN	_	18	dislocated	_	_	사금융/ncn+저축액/ncn+은/jxt
+12	70.2	70.2	NUM	_	18	nummod	_	_	70.2/nnc
+13	%	%	SYM	_	12	punct	_	_	%/su
+14	로	로	ADP	_	12	case	_	_	로/jca
+15	훨씬	훨씬	ADV	_	16	advmod	_	_	훨씬/mag
+16	큰	크+ㄴ	ADJ	_	17	amod	_	_	크/paa+ㄴ/etm
+17	비중을	비중+을	NOUN	_	18	obj	_	_	비중/ncn+을/jco
+18	점하였다	점하+었+다	VERB	_	0	root	_	_	점하/pvg+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그러나 이후 제도금융권의 가계저축액이 꾸준히 증가함으로써 1991 년에는 제도금융저축액의 비중이 88.7 % 로 가계저축보유액의 대부분을 차지하고 있는 것으로 나타났다 .
+1	그러나	그러나	CCONJ	_	19	cc	_	_	그러나/maj
+2	이후	이후	NOUN	_	6	advmod	_	_	이후/ncn
+3	제도금융권의	제도+금융권+의	NOUN	_	4	nmod	_	_	제도/ncn+금융권/ncn+의/jcm
+4	가계저축액이	가계+저축액+이	NOUN	_	6	nsubj	_	_	가계/ncn+저축액/ncn+이/jcs
+5	꾸준히	꾸준+히	ADV	_	6	advmod	_	_	꾸준/ncps+히/xsa
+6	증가함으로써	증가+하+ㅁ+으로써	ADV	_	16	advcl	_	_	증가/ncpa+하/xsv+ㅁ/etn+으로써/jca
+7	1991	1991	NUM	_	8	nummod	_	_	1991/nno
+8	년에는	년+에+는	NOUN	_	16	dislocated	_	_	년/nbu+에/jca+는/jxt
+9	제도금융저축액의	제도+금융+저축액+의	NOUN	_	10	nmod	_	_	제도/ncn+금융/ncn+저축액/ncn+의/jcm
+10	비중이	비중+이	NOUN	_	16	nsubj	_	_	비중/ncn+이/jcs
+11	88.7	88.7	NUM	_	16	nummod	_	_	88.7/nnc
+12	%	%	SYM	_	11	punct	_	_	%/su
+13	로	로	ADP	_	11	case	_	_	로/jca
+14	가계저축보유액의	가계+저축+보유액+의	NOUN	_	15	nmod	_	_	가계/ncn+저축/ncpa+보유액/ncn+의/jcm
+15	대부분을	대부분+을	NOUN	_	16	obj	_	_	대부분/ncn+을/jco
+16	차지하고	차지+하+고	VERB	_	18	acl	_	_	차지/ncpa+하/xsv+고/ecx
+17	있는	있+는	AUX	_	16	aux	_	_	있/px+는/etm
+18	것으로	것+으로	ADV	_	19	advcl	_	_	것/nbn+으로/jca
+19	나타났다	나타나+ㅆ+다	VERB	_	0	root	_	_	나타나/pvg+ㅆ/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+

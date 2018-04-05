@@ -1,0 +1,605 @@
+# 인체를 한번 생각해보자 .
+1	인체를	인체+를	NOUN	_	3	obj	_	_	인체/ncn+를/jco
+2	한번	한번	NOUN	_	3	compound	_	_	한번/ncn
+3	생각해보자	생각+하+어+보+자	AUX	_	0	root	_	_	생각/ncpa+하/xsv+어/ecx+보/px+자/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 여기서의 주안점은 직장인들이 어떻게 전략마인드를 가질 것인가 .
+1	여기서의	여기+서+의	PRON	_	2	nmod	_	_	여기/npd+서/jca+의/jcm
+2	주안점은	주안점+은	NOUN	_	6	dislocated	_	_	주안점/ncn+은/jxt
+3	직장인들이	직장인+들+이	NOUN	_	4	nsubj	_	_	직장인/ncn+들/xsn+이/jcs
+4	어떻게	어떻+게	SCONJ	_	6	xcomp	_	_	어떻/pad+게/ecs
+5	전략마인드를	전략+마인드+를	NOUN	_	6	obj	_	_	전략/ncn+마인드/ncn+를/jco
+6	가질	가지+ㄹ	VERB	_	0	root	_	_	가지/pvg+ㄹ/etm
+7	것인가	것+이+ㄴ가	VERB	_	6	aux	_	_	것/nbn+이/jp+ㄴ가/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그렇게 하기 위해서 먼저 필요한 것은 무엇인가 .
+1	그렇게	그렇+게	SCONJ	_	2	xcomp	_	_	그렇/pad+게/ecs
+2	하기	하+기	VERB	_	3	nmod	_	_	하/pvg+기/etn
+3	위해서	위하+어서	SCONJ	_	5	conj	_	_	위하/pvg+어서/ecs
+4	먼저	먼저	ADV	_	5	advmod	_	_	먼저/mag
+5	필요한	필요+하+ㄴ	VERB	_	6	amod	_	_	필요/ncps+하/xsm+ㄴ/etm
+6	것은	것+은	NOUN	_	7	dislocated	_	_	것/nbn+은/jxt
+7	무엇인가	무엇+이+ㄴ가	VERB	_	0	root	_	_	무엇/npd+이/jp+ㄴ가/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 위기의 시대에는 전략마인드를 가지고 있는 기업만이 생존할 수 있다 .
+1	위기의	위기+의	NOUN	_	2	nmod	_	_	위기/ncn+의/jcm
+2	시대에는	시대+에+는	NOUN	_	7	dislocated	_	_	시대/ncn+에/jca+는/jxt
+3	전략마인드를	전략+마인드+를	NOUN	_	4	obj	_	_	전략/ncn+마인드/ncn+를/jco
+4	가지고	가지+고	VERB	_	6	acl	_	_	가지/pvg+고/ecx
+5	있는	있+는	AUX	_	4	aux	_	_	있/px+는/etm
+6	기업만이	기업+만+이	NOUN	_	7	nsubj	_	_	기업/ncn+만/jxc+이/jcs
+7	생존할	생존+하+ㄹ	VERB	_	0	root	_	_	생존/ncpa+하/xsv+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있다	있+다	ADJ	_	7	aux	_	_	있/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 전략마인드를 가지기 위해서는 첫째 , 전략적 호기심을 발동시켜야 한다 .
+1	전략마인드를	전략+마인드+를	NOUN	_	2	obj	_	_	전략/ncn+마인드/ncn+를/jco
+2	가지기	가지+기	VERB	_	3	nmod	_	_	가지/pvg+기/etn
+3	위해서는	위하+어서+는	NOUN	_	8	ccomp	_	_	위하/pvg+어서/ecs+는/jxt
+4	첫째	첫째	NUM	_	8	nummod	_	_	첫째/nno
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	전략적	전략+적	NOUN	_	7	amod	_	_	전략/ncn+적/xsn
+7	호기심을	호기심+을	NOUN	_	8	obj	_	_	호기심/ncn+을/jco
+8	발동시켜야	발동+시키+어야	VERB	_	0	root	_	_	발동/ncpa+시키/xsv+어야/ecx
+9	한다	하+ㄴ다	AUX	_	8	aux	_	_	하/px+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 둘째 , 문제의식을 가져야 한다 .
+1	둘째	둘째	NUM	_	4	nummod	_	_	둘째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	문제의식을	문제의식+을	NOUN	_	4	obj	_	_	문제의식/ncn+을/jco
+4	가져야	가지+어야	VERB	_	0	root	_	_	가지/pvg+어야/ecx
+5	한다	하+ㄴ다	AUX	_	4	aux	_	_	하/px+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 따라서 전략가는 경쟁구조뿐만 아니라 경쟁사와 대비된 자사의 모습 , 고객의 눈을 통해 본 자사의 모습을 올바로 인지해야 한다 .
+1	따라서	따라서	CCONJ	_	17	cc	_	_	따라서/maj
+2	전략가는	전략가+는	NOUN	_	17	dislocated	_	_	전략가/ncn+는/jxt
+3	경쟁구조뿐만	경쟁구조+뿐+만	ADV	_	4	advcl	_	_	경쟁구조/ncn+뿐/xsn+만/jxc
+4	아니라	아니+라	SCONJ	_	17	xcomp	_	_	아니/paa+라/ecs
+5	경쟁사와	경쟁사+와	CCONJ	_	6	conj	_	_	경쟁사/ncn+와/jct
+6	대비된	대비+되+ㄴ	VERB	_	8	acl	_	_	대비/ncpa+되/xsv+ㄴ/etm
+7	자사의	자사+의	NOUN	_	8	nmod	_	_	자사/ncn+의/jcm
+8	모습	모습	NOUN	_	15	compound	_	_	모습/ncn
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	고객의	고객+의	NOUN	_	11	nmod	_	_	고객/ncn+의/jcm
+11	눈을	눈+을	NOUN	_	12	obj	_	_	눈/ncn+을/jco
+12	통해	통하+어	SCONJ	_	13	ccomp	_	_	통하/pvg+어/ecs
+13	본	보+ㄴ	VERB	_	15	acl	_	_	보/pvg+ㄴ/etm
+14	자사의	자사+의	NOUN	_	15	nmod	_	_	자사/ncn+의/jcm
+15	모습을	모습+을	NOUN	_	17	obj	_	_	모습/ncn+을/jco
+16	올바로	올바로	ADV	_	17	advmod	_	_	올바로/mag
+17	인지해야	인지+하+어야	VERB	_	0	root	_	_	인지/ncpa+하/xsv+어야/ecx
+18	한다	하+ㄴ다	AUX	_	17	aux	_	_	하/px+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 전략가가 갖추어야 할 경영전략시스템 .
+1	전략가가	전략가+가	NOUN	_	2	nsubj	_	_	전략가/ncn+가/jcs
+2	갖추어야	갖추+어야	VERB	_	4	acl	_	_	갖추/pvg+어야/ecx
+3	할	하+ㄹ	AUX	_	2	aux	_	_	하/px+ㄹ/etm
+4	경영전략시스템	경영전략+시스템	NOUN	_	0	root	_	_	경영전략/ncn+시스템/ncn
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 넷째 , 채택된 전략을 끈기를 가지고 강력히 실천하는 것 .
+1	넷째	넷째	NUM	_	9	nummod	_	_	넷째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	채택된	채택+되+ㄴ	VERB	_	4	acl	_	_	채택/ncpa+되/xsv+ㄴ/etm
+4	전략을	전략+을	NOUN	_	8	obj	_	_	전략/ncn+을/jco
+5	끈기를	끈기+를	NOUN	_	6	obj	_	_	끈기/ncn+를/jco
+6	가지고	가지+고	CCONJ	_	8	conj	_	_	가지/pvg+고/ecc
+7	강력히	강력+히	ADV	_	8	advmod	_	_	강력/ncps+히/xsa
+8	실천하는	실천+하+는	VERB	_	9	acl	_	_	실천/ncpa+하/xsv+는/etm
+9	것	것	NOUN	_	0	root	_	_	것/nbn
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 전략의 일관성 등을 들 수 있다 .
+1	전략의	전략+의	NOUN	_	2	nmod	_	_	전략/ncn+의/jcm
+2	일관성	일관성	NOUN	_	3	compound	_	_	일관성/ncn
+3	등을	등+을	NOUN	_	4	obj	_	_	등/nbn+을/jco
+4	들	들+ㄹ	VERB	_	0	root	_	_	들/pvg+ㄹ/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	있다	있+다	ADJ	_	4	aux	_	_	있/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 한국적 슬기가 세계를 이긴다 .
+1	한국적	한국+적	NOUN	_	2	amod	_	_	한국/nq+적/xsn
+2	슬기가	슬기+가	NOUN	_	4	nsubj	_	_	슬기/ncn+가/jcs
+3	세계를	세계+를	NOUN	_	4	obj	_	_	세계/ncn+를/jco
+4	이긴다	이기+ㄴ다	VERB	_	0	root	_	_	이기/pvg+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 기술이 없으면 경제가 예속되고 경제가 예속되면 나라가 송두리째 선진국에 예속되고 만다 .
+1	기술이	기술+이	NOUN	_	2	nsubj	_	_	기술/ncn+이/jcs
+2	없으면	없+으면	SCONJ	_	4	xcomp	_	_	없/paa+으면/ecs
+3	경제가	경제+가	NOUN	_	4	nsubj	_	_	경제/ncn+가/jcs
+4	예속되고	예속+되+고	CCONJ	_	10	conj	_	_	예속/ncpa+되/xsv+고/ecc
+5	경제가	경제+가	NOUN	_	6	nsubj	_	_	경제/ncn+가/jcs
+6	예속되면	예속+되+면	SCONJ	_	10	ccomp	_	_	예속/ncpa+되/xsv+면/ecs
+7	나라가	나라+가	NOUN	_	10	nsubj	_	_	나라/ncn+가/jcs
+8	송두리째	송두리+째	NOUN	_	10	advmod	_	_	송두리/ncn+째/xsn
+9	선진국에	선진국+에	ADV	_	10	obl	_	_	선진국/ncn+에/jca
+10	예속되고	예속+되+고	VERB	_	0	root	_	_	예속/ncpa+되/xsv+고/ecx
+11	만다	말+ㄴ다	AUX	_	10	aux	_	_	말/px+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 우리 주변에 있는 시간도둑들의 정체를 찾아보라 .
+1	우리	우리	PRON	_	2	compound	_	_	우리/npp
+2	주변에	주변+에	ADV	_	3	obl	_	_	주변/ncn+에/jca
+3	있는	있+는	ADJ	_	4	amod	_	_	있/paa+는/etm
+4	시간도둑들의	시간+도둑+들+의	NOUN	_	5	nmod	_	_	시간/ncn+도둑/ncn+들/xsn+의/jcm
+5	정체를	정체+를	NOUN	_	6	obj	_	_	정체/ncn+를/jco
+6	찾아보라	찾+아+보+라	AUX	_	0	root	_	_	찾/pvg+아/ecx+보/px+라/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 무수히 많을 것이다 .
+1	무수히	무수히	ADV	_	2	advmod	_	_	무수히/mag
+2	많을	많+ㄹ	ADJ	_	0	root	_	_	많/paa+ㄹ/etm
+3	것이다	것+이+다	VERB	_	2	aux	_	_	것/nbn+이/jp+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 이 과정을 거친 뒤에 한 주에 한 번씩 , 가능하다면 주말에 다음주의 계획표를 작성하라 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	과정을	과정+을	NOUN	_	3	obj	_	_	과정/ncn+을/jco
+3	거친	거치+ㄴ	VERB	_	4	acl	_	_	거치/pvg+ㄴ/etm
+4	뒤에	뒤+에	ADV	_	6	obl	_	_	뒤/ncn+에/jca
+5	한	한	NUM	_	6	nummod	_	_	한/nnc
+6	주에	주+에	ADV	_	14	obl	_	_	주/nbu+에/jca
+7	한	한	NUM	_	8	nummod	_	_	한/nnc
+8	번씩	번+씩	NOUN	_	14	advmod	_	_	번/nbu+씩/xsn
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	가능하다면	가능+하+다면	SCONJ	_	14	xcomp	_	_	가능/ncps+하/xsm+다면/ecs
+11	주말에	주말+에	ADV	_	14	obl	_	_	주말/ncn+에/jca
+12	다음주의	다음주+의	NOUN	_	13	nmod	_	_	다음주/ncn+의/jcm
+13	계획표를	계획표+를	NOUN	_	14	obj	_	_	계획표/ncn+를/jco
+14	작성하라	작성+하+라	VERB	_	0	root	_	_	작성/ncpa+하/xsv+라/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 각 목표들을 구체적인 과제로 쪼개고 , 과제마다 해결하는 데 드는 최소한의 시간을 배당하라 .
+1	각	각	ADJ	_	2	amod	_	_	각/mma
+2	목표들을	목표+들+을	NOUN	_	5	obj	_	_	목표/ncpa+들/xsn+을/jco
+3	구체적인	구체+적+이+ㄴ	VERB	_	4	acl	_	_	구체/ncn+적/xsn+이/jp+ㄴ/etm
+4	과제로	과제+로	ADV	_	5	advcl	_	_	과제/ncn+로/jca
+5	쪼개고	쪼개+고	CCONJ	_	13	conj	_	_	쪼개/pvg+고/ecc
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	과제마다	과제+마다	ADV	_	13	advcl	_	_	과제/ncn+마다/jxc
+8	해결하는	해결+하+는	VERB	_	9	acl	_	_	해결/ncpa+하/xsv+는/etm
+9	데	데	NOUN	_	10	mark	_	_	데/nbn
+10	드는	들+는	VERB	_	12	acl	_	_	들/pvg+는/etm
+11	최소한의	최소한+의	NOUN	_	12	nmod	_	_	최소한/ncn+의/jcm
+12	시간을	시간+을	NOUN	_	13	obj	_	_	시간/ncn+을/jco
+13	배당하라	배당+하+라	VERB	_	0	root	_	_	배당/ncpa+하/xsv+라/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 우선순위를 매기고 소요되는 시간의 양을 예측한다 .
+1	우선순위를	우선순위+를	NOUN	_	2	obj	_	_	우선순위/ncn+를/jco
+2	매기고	매기+고	CCONJ	_	6	conj	_	_	매기/pvg+고/ecc
+3	소요되는	소요+되+는	VERB	_	4	acl	_	_	소요/ncpa+되/xsv+는/etm
+4	시간의	시간+의	NOUN	_	5	nmod	_	_	시간/ncn+의/jcm
+5	양을	양+을	NOUN	_	6	obj	_	_	양/ncn+을/jco
+6	예측한다	예측+하+ㄴ다	VERB	_	0	root	_	_	예측/ncpa+하/xsv+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 예컨대 초관리의 개념은 이런 것이다 .
+1	예컨대	예컨대	CCONJ	_	4	cc	_	_	예컨대/maj
+2	초관리의	초관리+의	NOUN	_	3	nmod	_	_	초관리/ncn+의/jcm
+3	개념은	개념+은	NOUN	_	4	dislocated	_	_	개념/ncn+은/jxt
+4	이런	이렇+ㄴ	VERB	_	0	root	_	_	이렇/pad+ㄴ/etm
+5	것이다	것+이+다	VERB	_	4	aux	_	_	것/nbn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 초관리운동의 기본논리는 한정된 시간을 효율적으로 사용하자는 것이다 .
+1	초관리운동의	초관리운동+의	NOUN	_	2	nmod	_	_	초관리운동/ncn+의/jcm
+2	기본논리는	기본+논리+는	NOUN	_	6	dislocated	_	_	기본/ncn+논리/ncn+는/jxt
+3	한정된	한정+되+ㄴ	VERB	_	4	acl	_	_	한정/ncpa+되/xsv+ㄴ/etm
+4	시간을	시간+을	NOUN	_	6	obj	_	_	시간/ncn+을/jco
+5	효율적으로	효율+적+으로	ADV	_	6	advcl	_	_	효율/ncn+적/xsn+으로/jca
+6	사용하자는	사용+하+자는	VERB	_	0	root	_	_	사용/ncpa+하/xsv+자는/etm
+7	것이다	것+이+다	VERB	_	6	aux	_	_	것/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 시테크 전략의 전략적 목표는 다음과 같다 .
+1	시테크	시테크	NOUN	_	2	compound	_	_	시테크/ncn
+2	전략의	전략+의	NOUN	_	4	nmod	_	_	전략/ncn+의/jcm
+3	전략적	전략+적	NOUN	_	4	amod	_	_	전략/ncn+적/xsn
+4	목표는	목표+는	NOUN	_	6	dislocated	_	_	목표/ncn+는/jxt
+5	다음과	다음+과	CCONJ	_	6	conj	_	_	다음/ncn+과/jct
+6	같다	같+다	ADJ	_	0	root	_	_	같/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 전략적 기동성을 높인다 .
+1	전략적	전략+적	NOUN	_	2	amod	_	_	전략/ncn+적/xsn
+2	기동성을	기동성+을	NOUN	_	3	obj	_	_	기동성/ncn+을/jco
+3	높인다	높이+ㄴ다	VERB	_	0	root	_	_	높이/pvg+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 정보가 경쟁력의 우위를 가름하기 때문이다 .
+1	정보가	정보+가	NOUN	_	4	nsubj	_	_	정보/ncn+가/jcs
+2	경쟁력의	경쟁력+의	NOUN	_	3	nmod	_	_	경쟁력/ncn+의/jcm
+3	우위를	우위+를	NOUN	_	4	obj	_	_	우위/ncn+를/jco
+4	가름하기	가름+하+기	VERB	_	0	root	_	_	가름/ncpa+하/xsv+기/etn
+5	때문이다	때문+이+다	VERB	_	4	aux	_	_	때문/nbn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 이 책은 짧은 시간 안에 신문정보를 최대한 활용하는 비법을 소개하고 있다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	책은	책+은	NOUN	_	10	dislocated	_	_	책/ncn+은/jxt
+3	짧은	짧+은	ADJ	_	4	amod	_	_	짧/paa+은/etm
+4	시간	시간	NOUN	_	5	compound	_	_	시간/ncn
+5	안에	안+에	ADV	_	8	obl	_	_	안/ncn+에/jca
+6	신문정보를	신문+정보+를	NOUN	_	8	obj	_	_	신문/ncn+정보/ncn+를/jco
+7	최대한	최대한	ADV	_	8	advmod	_	_	최대한/mag
+8	활용하는	활용+하+는	VERB	_	9	acl	_	_	활용/ncpa+하/xsv+는/etm
+9	비법을	비법+을	NOUN	_	10	obj	_	_	비법/ncn+을/jco
+10	소개하고	소개+하+고	VERB	_	0	root	_	_	소개/ncpa+하/xsv+고/ecx
+11	있다	있+다	AUX	_	10	aux	_	_	있/px+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 짧은 시간에 최대의 효율을 높이는 방법은 무엇일까 .
+1	짧은	짧+ㄴ	ADJ	_	2	amod	_	_	짧/paa+ㄴ/etm
+2	시간에	시간+에	ADV	_	5	obl	_	_	시간/ncn+에/jca
+3	최대의	최대+의	NOUN	_	4	nmod	_	_	최대/ncn+의/jcm
+4	효율을	효율+을	NOUN	_	5	obj	_	_	효율/ncn+을/jco
+5	높이는	높이+는	VERB	_	6	acl	_	_	높이/pvg+는/etm
+6	방법은	방법+은	NOUN	_	7	dislocated	_	_	방법/ncn+은/jxt
+7	무엇일까	무엇+이+ㄹ까	VERB	_	0	root	_	_	무엇/npd+이/jp+ㄹ까/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그날그날 신문에서 발췌한 기사나 정보를 체크하거나 자르거나 , 복사하여 보관한다 .
+1	그날그날	그날그날	ADV	_	10	advmod	_	_	그날그날/mag
+2	신문에서	신문+에서	ADV	_	3	advcl	_	_	신문/ncn+에서/jca
+3	발췌한	발췌+하+ㄴ	VERB	_	4	acl	_	_	발췌/ncpa+하/xsv+ㄴ/etm
+4	기사나	기사+나	CCONJ	_	5	conj	_	_	기사/ncn+나/jcj
+5	정보를	정보+를	NOUN	_	10	obj	_	_	정보/ncn+를/jco
+6	체크하거나	체크+하+거나	CCONJ	_	7	conj	_	_	체크/ncpa+하/xsv+거나/ecc
+7	자르거나	자르+거나	CCONJ	_	8	conj	_	_	자르/pvg+거나/ecc
+8	,	,	PUNCT	_	9	conj	_	_	,/sp
+9	복사하여	복사+하+어	SCONJ	_	10	ccomp	_	_	복사/ncpa+하/xsv+어/ecs
+10	보관한다	보관+하+ㄴ다	VERB	_	0	root	_	_	보관/ncpa+하/xsv+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 아메리칸 항공 .
+1	아메리칸	아메리칸	NOUN	_	2	compound	_	_	아메리칸/ncn
+2	항공	항공	NOUN	_	0	root	_	_	항공/ncn
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 그 뒤에 전략적으로 정보를 활용하기 위해 컴퓨터 네트워크를 구축했다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	뒤에	뒤+에	ADV	_	9	obl	_	_	뒤/ncn+에/jca
+3	전략적으로	전략+적+으로	ADV	_	5	advcl	_	_	전략/ncn+적/xsn+으로/jca
+4	정보를	정보+를	NOUN	_	5	obj	_	_	정보/ncn+를/jco
+5	활용하기	활용+하+기	VERB	_	6	nmod	_	_	활용/ncpa+하/xsv+기/etn
+6	위해	위하+어	SCONJ	_	9	ccomp	_	_	위하/pvg+어/ecs
+7	컴퓨터	컴퓨터	NOUN	_	8	compound	_	_	컴퓨터/ncn
+8	네트워크를	네트워크+를	NOUN	_	9	obj	_	_	네트워크/ncn+를/jco
+9	구축했다	구축+하+었+다	VERB	_	0	root	_	_	구축/ncpa+하/xsv+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 전통적인 위계질서는 붕괴되고 있다 .
+1	전통적인	전통+적+이+ㄴ	VERB	_	2	acl	_	_	전통/ncn+적/xsn+이/jp+ㄴ/etm
+2	위계질서는	위계질서+는	NOUN	_	3	dislocated	_	_	위계질서/ncn+는/jxt
+3	붕괴되고	붕괴+되+고	VERB	_	0	root	_	_	붕괴/ncpa+되/xsv+고/ecx
+4	있다	있+다	AUX	_	3	aux	_	_	있/px+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 우리나라에서도 종래의 제안제도를 이러한 방향으로 바꾸어 사내 벤처제도로 연결시키고 있다 .
+1	우리나라에서도	우리나라+에서+도	ADV	_	9	advcl	_	_	우리나라/ncn+에서/jca+도/jxc
+2	종래의	종래+의	NOUN	_	3	nmod	_	_	종래/ncn+의/jcm
+3	제안제도를	제안제도+를	NOUN	_	6	obj	_	_	제안제도/ncn+를/jco
+4	이러한	이러하+ㄴ	VERB	_	5	amod	_	_	이러하/pad+ㄴ/etm
+5	방향으로	방향+으로	ADV	_	6	advcl	_	_	방향/ncn+으로/jca
+6	바꾸어	바꾸+어	SCONJ	_	9	ccomp	_	_	바꾸/pvg+어/ecs
+7	사내	사내	NOUN	_	8	compound	_	_	사내/ncn
+8	벤처제도로	벤처제도+로	ADV	_	9	advcl	_	_	벤처제도/ncn+로/jca
+9	연결시키고	연결+시키+고	VERB	_	0	root	_	_	연결/ncpa+시키/xsv+고/ecx
+10	있다	있+다	AUX	_	9	aux	_	_	있/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 어떻게 하면 사람의 마음을 움직일 수 있을까 .
+1	어떻게	어떻+게	SCONJ	_	2	xcomp	_	_	어떻/pad+게/ecs
+2	하면	하+면	SCONJ	_	5	ccomp	_	_	하/pvg+면/ecs
+3	사람의	사람+의	NOUN	_	4	nmod	_	_	사람/ncn+의/jcm
+4	마음을	마음+을	NOUN	_	5	obj	_	_	마음/ncn+을/jco
+5	움직일	움직이+ㄹ	VERB	_	0	root	_	_	움직이/pvg+ㄹ/etm
+6	수	수	NOUN	_	7	fixed	_	_	수/nbn
+7	있을까	있+ㄹ까	ADJ	_	5	aux	_	_	있/paa+ㄹ까/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 상대방이 원하는 것이 무엇인지 알고 그것을 주면 되는 것이다 .
+1	상대방이	상대방+이	NOUN	_	2	nsubj	_	_	상대방/ncn+이/jcs
+2	원하는	원하+는	VERB	_	3	acl	_	_	원하/pvg+는/etm
+3	것이	것+이	NOUN	_	4	nsubj	_	_	것/nbn+이/jcs
+4	무엇인지	무엇+이+ㄴ지	SCONJ	_	5	ccomp	_	_	무엇/npd+이/jp+ㄴ지/ecs
+5	알고	알+고	CCONJ	_	7	conj	_	_	알/pvg+고/ecc
+6	그것을	그것+을	PRON	_	7	obj	_	_	그것/npd+을/jco
+7	주면	주+면	SCONJ	_	8	ccomp	_	_	주/pvg+면/ecs
+8	되는	되+는	VERB	_	0	root	_	_	되/pvg+는/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 사람의 마음을 움직이는 비결은 단순하다 .
+1	사람의	사람+의	NOUN	_	2	nmod	_	_	사람/ncn+의/jcm
+2	마음을	마음+을	NOUN	_	3	obj	_	_	마음/ncn+을/jco
+3	움직이는	움직이+는	VERB	_	4	acl	_	_	움직이/pvg+는/etm
+4	비결은	비결+은	NOUN	_	5	dislocated	_	_	비결/ncn+은/jxt
+5	단순하다	단순+하+다	VERB	_	0	root	_	_	단순/ncps+하/xsm+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그 사람이 스스로 하려고 하는 마음을 불러일으키는 것이다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	사람이	사람+이	NOUN	_	4	nsubj	_	_	사람/ncn+이/jcs
+3	스스로	스스로	ADV	_	4	advmod	_	_	스스로/mag
+4	하려고	하+려고	VERB	_	6	acl	_	_	하/pvg+려고/ecx
+5	하는	하+는	AUX	_	4	aux	_	_	하/px+는/etm
+6	마음을	마음+을	NOUN	_	7	obj	_	_	마음/ncn+을/jco
+7	불러일으키는	불러일으키+는	VERB	_	0	root	_	_	불러일으키/pvg+는/etm
+8	것이다	것+이+다	VERB	_	7	aux	_	_	것/nbn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그 상대방이 간절히 바라는 것을 주면 된다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	상대방이	상대방+이	NOUN	_	4	nsubj	_	_	상대방/ncn+이/jcs
+3	간절히	간절+히	ADV	_	4	advmod	_	_	간절/ncps+히/xsa
+4	바라는	바라+는	VERB	_	5	acl	_	_	바라/pvg+는/etm
+5	것을	것+을	NOUN	_	6	obj	_	_	것/nbn+을/jco
+6	주면	주+면	SCONJ	_	7	ccomp	_	_	주/pvg+면/ecs
+7	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 사람이 갖고 있는 장점을 칭찬하고 격려하는 것이 그 방법이다 .
+1	사람이	사람+이	NOUN	_	2	nsubj	_	_	사람/ncn+이/jcs
+2	갖고	갖+고	VERB	_	4	acl	_	_	갖/pvg+고/ecx
+3	있는	있+는	AUX	_	2	aux	_	_	있/px+는/etm
+4	장점을	장점+을	NOUN	_	6	obj	_	_	장점/ncn+을/jco
+5	칭찬하고	칭찬+하+고	CCONJ	_	6	conj	_	_	칭찬/ncpa+하/xsv+고/ecc
+6	격려하는	격려+하+는	VERB	_	7	acl	_	_	격려/ncpa+하/xsv+는/etm
+7	것이	것+이	NOUN	_	9	nsubj	_	_	것/nbn+이/jcs
+8	그	그	DET	_	9	det	_	_	그/mmd
+9	방법이다	방법+이+다	VERB	_	0	root	_	_	방법/ncn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 윗사람으로부터 꾸지람을 듣는 것처럼 하고자 하는 마음을 꺾어버리는 것은 없다 .
+1	윗사람으로부터	윗사람+으로+부터	ADV	_	3	advcl	_	_	윗사람/ncn+으로/jca+부터/jxc
+2	꾸지람을	꾸지람+을	NOUN	_	3	obj	_	_	꾸지람/ncpa+을/jco
+3	듣는	듣+는	VERB	_	4	acl	_	_	듣/pvg+는/etm
+4	것처럼	것+처럼	ADV	_	8	advcl	_	_	것/nbn+처럼/jca
+5	하고자	하+고자	VERB	_	7	acl	_	_	하/pvg+고자/ecx
+6	하는	하+는	AUX	_	5	aux	_	_	하/px+는/etm
+7	마음을	마음+을	NOUN	_	8	obj	_	_	마음/ncn+을/jco
+8	꺾어버리는	꺾+어+버리+는	AUX	_	9	acl	_	_	꺾/pvg+어/ecx+버리/px+는/etm
+9	것은	것+은	NOUN	_	10	dislocated	_	_	것/nbn+은/jxt
+10	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그것이 없다면 그 사람을 결코 움직일 수 없을 것이다 .
+1	그것이	그것+이	PRON	_	2	nsubj	_	_	그것/npd+이/jcs
+2	없다면	없+다면	SCONJ	_	6	xcomp	_	_	없/paa+다면/ecs
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	사람을	사람+을	NOUN	_	6	obj	_	_	사람/ncn+을/jco
+5	결코	결코	ADV	_	6	advmod	_	_	결코/mag
+6	움직일	움직이+ㄹ	VERB	_	0	root	_	_	움직이/pvg+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	없을	없+ㄹ	ADJ	_	6	aux	_	_	없/paa+ㄹ/etm
+9	것이다	것+이+다	VERB	_	6	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 겸손하고 친절한 태도를 갖는다 .
+1	겸손하고	겸손+하+고	CCONJ	_	2	conj	_	_	겸손/ncps+하/xsm+고/ecc
+2	친절한	친절+하+ㄴ	VERB	_	3	amod	_	_	친절/ncps+하/xsm+ㄴ/etm
+3	태도를	태도+를	NOUN	_	4	obj	_	_	태도/ncn+를/jco
+4	갖는다	갖+는다	VERB	_	0	root	_	_	갖/pvg+는다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 상대방이 말하고자 하는 목적을 정확히 파악한다 .
+1	상대방이	상대방+이	NOUN	_	2	nsubj	_	_	상대방/ncn+이/jcs
+2	말하고자	말하+고자	VERB	_	4	acl	_	_	말하/pvg+고자/ecx
+3	하는	하+는	AUX	_	2	aux	_	_	하/px+는/etm
+4	목적을	목적+을	NOUN	_	6	obj	_	_	목적/ncpa+을/jco
+5	정확히	정확히	ADV	_	6	advmod	_	_	정확히/mag
+6	파악한다	파악+하+ㄴ다	VERB	_	0	root	_	_	파악/ncpa+하/xsv+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 어떻게 하면 경영상태를 객관적으로 파악할 수 있을까 ?
+1	어떻게	어떻+게	SCONJ	_	2	xcomp	_	_	어떻/pad+게/ecs
+2	하면	하+면	SCONJ	_	5	ccomp	_	_	하/pvg+면/ecs
+3	경영상태를	경영상태+를	NOUN	_	5	obj	_	_	경영상태/ncn+를/jco
+4	객관적으로	객관+적+으로	ADV	_	5	advcl	_	_	객관/ncn+적/xsn+으로/jca
+5	파악할	파악+하+ㄹ	VERB	_	0	root	_	_	파악/ncpa+하/xsv+ㄹ/etm
+6	수	수	NOUN	_	7	fixed	_	_	수/nbn
+7	있을까	있+ㄹ까	ADJ	_	5	aux	_	_	있/paa+ㄹ까/ef
+8	?	?	PUNCT	_	7	punct	_	_	?/sf
+
+# 한 시대를 마감하고 새로운 시대를 전망해야 하는 시점에 서 있는 것이다 .
+1	한	한	NUM	_	2	nummod	_	_	한/nnc
+2	시대를	시대+를	NOUN	_	3	obj	_	_	시대/ncn+를/jco
+3	마감하고	마감+하+고	CCONJ	_	6	conj	_	_	마감/ncpa+하/xsv+고/ecc
+4	새로운	새롭+ㄴ	ADJ	_	5	amod	_	_	새롭/paa+ㄴ/etm
+5	시대를	시대+를	NOUN	_	6	obj	_	_	시대/ncn+를/jco
+6	전망해야	전망+하+어야	VERB	_	8	acl	_	_	전망/ncpa+하/xsv+어야/ecx
+7	하는	하+는	AUX	_	6	aux	_	_	하/px+는/etm
+8	시점에	시점+에	ADV	_	9	obl	_	_	시점/ncn+에/jca
+9	서	서+어	VERB	_	0	root	_	_	서/pvg+어/ecx
+10	있는	있+는	AUX	_	9	aux	_	_	있/px+는/etm
+11	것이다	것+이+다	VERB	_	9	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 벤치마킹 경쟁우위그룹의 비법을 분석하라 .
+1	벤치마킹	벤치마킹	NOUN	_	2	compound	_	_	벤치마킹/ncn
+2	경쟁우위그룹의	경쟁우위+그룹+의	NOUN	_	3	nmod	_	_	경쟁우위/ncn+그룹/ncn+의/jcm
+3	비법을	비법+을	NOUN	_	4	obj	_	_	비법/ncn+을/jco
+4	분석하라	분석+하+라	VERB	_	0	root	_	_	분석/ncpa+하/xsv+라/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 무엇을 어떻게 해서 경쟁우위를 차지하는가 .
+1	무엇을	무엇+을	PRON	_	3	obj	_	_	무엇/npd+을/jco
+2	어떻게	어떻+게	SCONJ	_	3	xcomp	_	_	어떻/pad+게/ecs
+3	해서	하+어서	SCONJ	_	5	ccomp	_	_	하/pvg+어서/ecs
+4	경쟁우위를	경쟁우위+를	NOUN	_	5	obj	_	_	경쟁우위/ncn+를/jco
+5	차지하는가	차지+하+는가	VERB	_	0	root	_	_	차지/ncpa+하/xsv+는가/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 벤치마킹은 선두그룹을 면밀히 분석하여 그 원인을 찾아내고 , 그것을 우리 기업의 핵심역량과 접목시켜 장점과 경쟁력을 강화시켜 나가는 방식이다 .
+1	벤치마킹은	벤치마킹+은	NOUN	_	18	dislocated	_	_	벤치마킹/ncn+은/jxt
+2	선두그룹을	선두그룹+을	NOUN	_	4	obj	_	_	선두그룹/ncn+을/jco
+3	면밀히	면밀히	ADV	_	4	advmod	_	_	면밀히/mag
+4	분석하여	분석+하+어	SCONJ	_	7	ccomp	_	_	분석/ncpa+하/xsv+어/ecs
+5	그	그	DET	_	6	det	_	_	그/mmd
+6	원인을	원인+을	NOUN	_	7	obj	_	_	원인/ncn+을/jco
+7	찾아내고	찾아내+고	CCONJ	_	13	conj	_	_	찾아내/pvg+고/ecc
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	그것을	그것+을	PRON	_	13	obj	_	_	그것/npd+을/jco
+10	우리	우리	PRON	_	11	compound	_	_	우리/npp
+11	기업의	기업+의	NOUN	_	12	nmod	_	_	기업/ncn+의/jcm
+12	핵심역량과	핵심+역량+과	CCONJ	_	13	conj	_	_	핵심/ncn+역량/ncn+과/jct
+13	접목시켜	접목+시키+어	SCONJ	_	16	ccomp	_	_	접목/ncpa+시키/xsv+어/ecs
+14	장점과	장점+과	CCONJ	_	15	conj	_	_	장점/ncn+과/jcj
+15	경쟁력을	경쟁력+을	NOUN	_	16	obj	_	_	경쟁력/ncn+을/jco
+16	강화시켜	강화+시키+어	VERB	_	18	ccomp	_	_	강화/ncpa+시키/xsv+어/ecx
+17	나가는	나가+는	AUX	_	16	aux	_	_	나가/px+는/etm
+18	방식이다	방식+이+다	VERB	_	0	root	_	_	방식/ncn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이 단계에서 그 회사가 무엇이 잘못되고 무엇이 잘되고 있는가를 발견하게 된다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	단계에서	단계+에서	ADV	_	10	advcl	_	_	단계/ncn+에서/jca
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	회사가	회사+가	NOUN	_	6	nsubj	_	_	회사/ncn+가/jcs
+5	무엇이	무엇+이	PRON	_	6	nsubj	_	_	무엇/npd+이/jcs
+6	잘못되고	잘못되+고	CCONJ	_	8	conj	_	_	잘못되/pvg+고/ecc
+7	무엇이	무엇+이	PRON	_	8	nsubj	_	_	무엇/npd+이/jcs
+8	잘되고	잘되+고	VERB	_	10	obj	_	_	잘되/pvg+고/ecx
+9	있는가를	있+는가+를	NOUN	_	8	aux	_	_	있/px+는가/ef+를/jco
+10	발견하게	발견+하+게	VERB	_	0	root	_	_	발견/ncpa+하/xsv+게/ecx
+11	된다	되+ㄴ다	AUX	_	10	aux	_	_	되/px+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 벤치마킹의 마지막 단계는 실천이다 .
+1	벤치마킹의	벤치마킹+의	NOUN	_	3	nmod	_	_	벤치마킹/ncn+의/jcm
+2	마지막	마지막	NOUN	_	3	compound	_	_	마지막/ncn
+3	단계는	단계+는	NOUN	_	4	dislocated	_	_	단계/ncn+는/jxt
+4	실천이다	실천+이+다	VERB	_	0	root	_	_	실천/ncpa+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 이것은 책이나 세미나로 배울 수 있는 것이 아니라 참호 속에서 연습하고 전투지에서 익히는 것이다 .
+1	이것은	이것+은	PRON	_	14	dislocated	_	_	이것/npd+은/jxt
+2	책이나	책+이나	CCONJ	_	3	conj	_	_	책/ncn+이나/jcj
+3	세미나로	세미나+로	ADV	_	4	advcl	_	_	세미나/ncn+로/jca
+4	배울	배우+ㄹ	VERB	_	7	acl	_	_	배우/pvg+ㄹ/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	있는	있+는	ADJ	_	4	aux	_	_	있/paa+는/etm
+7	것이	것+이	NOUN	_	8	csubj	_	_	것/nbn+이/jcc
+8	아니라	아니+라	SCONJ	_	14	xcomp	_	_	아니/paa+라/ecs
+9	참호	참호	NOUN	_	10	compound	_	_	참호/ncn
+10	속에서	속+에서	ADV	_	11	advcl	_	_	속/ncn+에서/jca
+11	연습하고	연습+하+고	CCONJ	_	13	conj	_	_	연습/ncpa+하/xsv+고/ecc
+12	전투지에서	전투지+에서	ADV	_	13	advcl	_	_	전투지/ncn+에서/jca
+13	익히는	익히+는	VERB	_	14	ccomp	_	_	익히/pvg+는/etm
+14	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 중소기업은 대기업의 모태이다 .
+1	중소기업은	중소기업+은	NOUN	_	3	dislocated	_	_	중소기업/ncn+은/jxt
+2	대기업의	대기업+의	NOUN	_	3	nmod	_	_	대기업/ncn+의/jcm
+3	모태이다	모태+이+다	VERB	_	0	root	_	_	모태/ncn+이/jp+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 중소기업이여 , 자부심을 가지자 .
+1	중소기업이여	중소기업+이여	INTJ	_	4	vocative	_	_	중소기업/ncn+이여/jcv
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	자부심을	자부심+을	NOUN	_	4	obj	_	_	자부심/ncn+을/jco
+4	가지자	가지+자	VERB	_	0	root	_	_	가지/pvg+자/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 국제화시대의 금융 .
+1	국제화시대의	국제화시대+의	NOUN	_	2	nmod	_	_	국제화시대/ncn+의/jcm
+2	금융	금융	NOUN	_	0	root	_	_	금융/ncn
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 이들 다국적기업들은 규모가 크기 때문에 여러 가지 우위를 누릴 수 있다 .
+1	이들	이+들	NOUN	_	2	compound	_	_	이/npp+들/xsn
+2	다국적기업들은	다국적기업+들+은	NOUN	_	9	dislocated	_	_	다국적기업/ncn+들/xsn+은/jxt
+3	규모가	규모+가	NOUN	_	4	nsubj	_	_	규모/ncn+가/jcs
+4	크기	크+기	ADJ	_	5	nmod	_	_	크/paa+기/etn
+5	때문에	때문+에	ADV	_	9	obl	_	_	때문/nbn+에/jca
+6	여러	여러	ADJ	_	7	amod	_	_	여러/mma
+7	가지	가지	NOUN	_	8	compound	_	_	가지/nbu
+8	우위를	우위+를	NOUN	_	9	obj	_	_	우위/ncn+를/jco
+9	누릴	누리+ㄹ	VERB	_	0	root	_	_	누리/pvg+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있다	있+다	ADJ	_	9	aux	_	_	있/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 만약 코카콜라라는 브랜드를 바꾼다면 아마도 세계 음료시장의 판도가 달라질 것이다 .
+1	만약	만약	ADV	_	4	advmod	_	_	만약/mag
+2	코카콜라라는	코카콜라+라는	PROPN	_	3	nmod	_	_	코카콜라/nq+라는/jcm
+3	브랜드를	브랜드+를	NOUN	_	4	obj	_	_	브랜드/ncn+를/jco
+4	바꾼다면	바꾸+ㄴ다면	SCONJ	_	9	ccomp	_	_	바꾸/pvg+ㄴ다면/ecs
+5	아마도	아마도	ADV	_	9	advmod	_	_	아마도/mag
+6	세계	세계	NOUN	_	7	compound	_	_	세계/ncn
+7	음료시장의	음료+시장+의	NOUN	_	8	nmod	_	_	음료/ncn+시장/ncn+의/jcm
+8	판도가	판도+가	NOUN	_	9	nsubj	_	_	판도/ncn+가/jcs
+9	달라질	달라지+ㄹ	VERB	_	0	root	_	_	달라지/pvg+ㄹ/etm
+10	것이다	것+이+다	VERB	_	9	aux	_	_	것/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 광고란 직업은 특히 밖에서 보는 것과 안에서 일하는 것 사이에 상당한 차이가 있다 .
+1	광고란	광고+란	NOUN	_	2	nmod	_	_	광고/ncpa+란/jcm
+2	직업은	직업+은	NOUN	_	13	dislocated	_	_	직업/ncn+은/jxt
+3	특히	특히	ADV	_	13	advmod	_	_	특히/mag
+4	밖에서	밖+에서	ADV	_	5	advcl	_	_	밖/ncn+에서/jca
+5	보는	보+는	VERB	_	6	acl	_	_	보/pvg+는/etm
+6	것과	것+과	CCONJ	_	9	conj	_	_	것/nbn+과/jcj
+7	안에서	안+에서	ADV	_	8	advcl	_	_	안/ncn+에서/jca
+8	일하는	일하+는	VERB	_	9	acl	_	_	일하/pvg+는/etm
+9	것	것	NOUN	_	10	mark	_	_	것/nbn
+10	사이에	사이+에	ADV	_	13	obl	_	_	사이/ncn+에/jca
+11	상당한	상당+하+ㄴ	VERB	_	12	amod	_	_	상당/ncps+하/xsm+ㄴ/etm
+12	차이가	차이+가	NOUN	_	13	nsubj	_	_	차이/ncn+가/jcs
+13	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 여기서부터 시작해야 한다 .
+1	여기서부터	여기+서+부터	ADV	_	2	advcl	_	_	여기/npd+서/jca+부터/jxc
+2	시작해야	시작+하+어야	VERB	_	0	root	_	_	시작/ncpa+하/xsv+어야/ecx
+3	한다	하+ㄴ다	AUX	_	2	aux	_	_	하/px+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 제작비도 절감하고 , 무엇보다도 광고주가 요구하는 시간을 맞추어야 한다 .
+1	제작비도	제작비+도	ADV	_	2	advcl	_	_	제작비/ncn+도/jxc
+2	절감하고	절감+하+고	CCONJ	_	8	conj	_	_	절감/ncpa+하/xsv+고/ecc
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	무엇보다도	무엇+보다+도	ADV	_	8	advcl	_	_	무엇/npd+보다/jca+도/jxc
+5	광고주가	광고주+가	NOUN	_	6	nsubj	_	_	광고주/ncn+가/jcs
+6	요구하는	요구+하+는	VERB	_	7	acl	_	_	요구/ncpa+하/xsv+는/etm
+7	시간을	시간+을	NOUN	_	8	obj	_	_	시간/ncn+을/jco
+8	맞추어야	맞추+어야	VERB	_	0	root	_	_	맞추/pvg+어야/ecx
+9	한다	하+ㄴ다	AUX	_	8	aux	_	_	하/px+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 반짝이는 아이디어를 최대한 활용해 완벽한 세상을 만들어야 하지만 현실적인 여건이 뒷받침되지 않기 때문이다 .
+1	반짝이는	반짝이+는	VERB	_	2	acl	_	_	반짝이/pvg+는/etm
+2	아이디어를	아이디어+를	NOUN	_	4	obj	_	_	아이디어/ncn+를/jco
+3	최대한	최대한	ADV	_	4	advmod	_	_	최대한/mag
+4	활용해	활용+하+어	SCONJ	_	7	ccomp	_	_	활용/ncpa+하/xsv+어/ecs
+5	완벽한	완벽+하+ㄴ	VERB	_	6	amod	_	_	완벽/ncps+하/xsm+ㄴ/etm
+6	세상을	세상+을	NOUN	_	7	obj	_	_	세상/ncn+을/jco
+7	만들어야	만들+어야	VERB	_	11	ccomp	_	_	만들/pvg+어야/ecx
+8	하지만	하+지만	SCONJ	_	7	aux	_	_	하/px+지만/ecs
+9	현실적인	현실+적+이+ㄴ	VERB	_	10	acl	_	_	현실/ncn+적/xsn+이/jp+ㄴ/etm
+10	여건이	여건+이	NOUN	_	11	nsubj	_	_	여건/ncn+이/jcs
+11	뒷받침되지	뒷받침+되+지	VERB	_	0	root	_	_	뒷받침/ncpa+되/xsv+지/ecx
+12	않기	않+기	AUX	_	11	aux	_	_	않/px+기/etn
+13	때문이다	때문+이+다	VERB	_	11	aux	_	_	때문/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 특히 충무로의 보이지 않는 스태프들 .
+1	특히	특히	ADV	_	5	advmod	_	_	특히/mag
+2	충무로의	충무로+의	PROPN	_	5	nmod	_	_	충무로/nq+의/jcm
+3	보이지	보이+지	VERB	_	5	acl	_	_	보이/pvg+지/ecx
+4	않는	않+는	AUX	_	3	aux	_	_	않/px+는/etm
+5	스태프들	스태프+들	NOUN	_	0	root	_	_	스태프/ncn+들/xsn
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+

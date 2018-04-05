@@ -1,0 +1,815 @@
+# 대학인의 힘찬 젊음 , 또한 그 속에서 무궁무진한 잠재력을 간직하고 있기에 더욱 빛나는 것입니다 .
+1	대학인의	대학인+의	NOUN	_	3	nmod	_	_	대학인/ncn+의/jcm
+2	힘찬	힘차+ㄴ	ADJ	_	3	amod	_	_	힘차/paa+ㄴ/etm
+3	젊음	젊음	NOUN	_	9	conj	_	_	젊음/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	또한	또한	CCONJ	_	9	cc	_	_	또한/maj
+6	그	그	DET	_	7	det	_	_	그/mmd
+7	속에서	속+에서	ADV	_	9	advcl	_	_	속/ncn+에서/jca
+8	무궁무진한	무궁무진+하+ㄴ	VERB	_	9	amod	_	_	무궁무진/ncps+하/xsm+ㄴ/etm
+9	잠재력을	잠재력+을	NOUN	_	10	obj	_	_	잠재력/ncn+을/jco
+10	간직하고	간직+하+고	VERB	_	13	obl	_	_	간직/ncpa+하/xsv+고/ecx
+11	있기에	있+기+에	ADV	_	10	aux	_	_	있/px+기/etn+에/jca
+12	더욱	더욱	ADV	_	13	advmod	_	_	더욱/mag
+13	빛나는	빛나+는	VERB	_	0	root	_	_	빛나/pvg+는/etm
+14	것입니다	것+이+ㅂ니다	VERB	_	13	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 쌍용은 사람과 사람의 만남을 소중히 여기고 있습니다 .
+1	쌍용은	쌍용+은	PROPN	_	6	dislocated	_	_	쌍용/nq+은/jxt
+2	사람과	사람+과	CCONJ	_	3	conj	_	_	사람/ncn+과/jcj
+3	사람의	사람+의	NOUN	_	4	nmod	_	_	사람/ncn+의/jcm
+4	만남을	만나+ㅁ+을	NOUN	_	6	obj	_	_	만나/pvg+ㅁ/etn+을/jco
+5	소중히	소중히	ADV	_	6	advmod	_	_	소중히/mag
+6	여기고	여기+고	VERB	_	0	root	_	_	여기/pvg+고/ecx
+7	있습니다	있+습니다	AUX	_	6	aux	_	_	있/px+습니다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 다들 모여들었습니다 .
+1	다들	다+들	NOUN	_	2	compound	_	_	다/ncn+들/xsn
+2	모여들었습니다	모여들+었+습니다	VERB	_	0	root	_	_	모여들/pvg+었/ep+습니다/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 아들 , 딸 , 며느리 방학 때 다녀간 손주녀석들은 끼리끼리 모여 힘자랑을 펼칩니다 .
+1	아들	아들	NOUN	_	3	conj	_	_	아들/ncn
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	딸	딸	NOUN	_	5	conj	_	_	딸/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	며느리	며느리	NOUN	_	9	conj	_	_	며느리/ncn
+6	방학	방학	NOUN	_	7	compound	_	_	방학/ncn
+7	때	때	NOUN	_	8	advmod	_	_	때/ncn
+8	다녀간	다니+어+가+ㄴ	AUX	_	9	acl	_	_	다니/pvg+어/ecx+가/px+ㄴ/etm
+9	손주녀석들은	손주녀석+들+은	NOUN	_	13	dislocated	_	_	손주녀석/ncn+들/xsn+은/jxt
+10	끼리끼리	끼리끼리	ADV	_	11	advmod	_	_	끼리끼리/mag
+11	모여	모이+어	SCONJ	_	13	ccomp	_	_	모이/pvg+어/ecs
+12	힘자랑을	힘자랑+을	NOUN	_	13	obj	_	_	힘자랑/ncn+을/jco
+13	펼칩니다	펼치+ㅂ니다	VERB	_	0	root	_	_	펼치/pvg+ㅂ니다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 열두 살 어린 나이에 조합장 영감님 손에 홀로 맡겨져 빗발치는 총알 사이를 뚫고 남으로 내려왔던 우리 둘째 사위 .
+1	열두	열두	NUM	_	2	nummod	_	_	열두/nnc
+2	살	살	NOUN	_	4	compound	_	_	살/nbu
+3	어린	어리+ㄴ	ADJ	_	4	amod	_	_	어리/paa+ㄴ/etm
+4	나이에	나이+에	ADV	_	9	obl	_	_	나이/ncn+에/jca
+5	조합장	조합장	NOUN	_	6	compound	_	_	조합장/ncn
+6	영감님	영감+님	NOUN	_	7	advmod	_	_	영감/ncn+님/xsn
+7	손에	손+에	ADV	_	9	obl	_	_	손/ncn+에/jca
+8	홀로	홀로	ADV	_	9	advmod	_	_	홀로/mag
+9	맡겨져	맡기+어+지+어	SCONJ	_	15	ccomp	_	_	맡기/pvg+어/ecx+지/px+어/ecs
+10	빗발치는	빗발치+는	VERB	_	11	acl	_	_	빗발치/pvg+는/etm
+11	총알	총알	NOUN	_	12	compound	_	_	총알/ncn
+12	사이를	사이+를	NOUN	_	13	obj	_	_	사이/ncn+를/jco
+13	뚫고	뚫+고	CCONJ	_	15	conj	_	_	뚫/pvg+고/ecc
+14	남으로	남+으로	ADV	_	15	advcl	_	_	남/ncn+으로/jca
+15	내려왔던	내리+어+오+았더+ㄴ	AUX	_	18	acl	_	_	내리/pvg+어/ecx+오/px+았더/ep+ㄴ/etm
+16	우리	우리	PRON	_	18	compound	_	_	우리/npp
+17	둘째	둘째	NUM	_	18	nummod	_	_	둘째/nno
+18	사위	사위	NOUN	_	0	root	_	_	사위/ncn
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 임진각 망향의 제단 앞에서 북녘을 향해 엎드려 울고 있는 둘째 사위의 모습이 눈앞 가득히 보였기 때문입니다 .
+1	임진각	임진각	PROPN	_	3	compound	_	_	임진각/nq
+2	망향의	망향+의	NOUN	_	3	nmod	_	_	망향/ncn+의/jcm
+3	제단	제단	NOUN	_	4	compound	_	_	제단/ncn
+4	앞에서	앞+에서	ADV	_	8	advcl	_	_	앞/ncn+에서/jca
+5	북녘을	북녘+을	NOUN	_	6	obj	_	_	북녘/ncn+을/jco
+6	향해	향하+어	SCONJ	_	8	ccomp	_	_	향하/pvg+어/ecs
+7	엎드려	엎드리+어	SCONJ	_	8	ccomp	_	_	엎드리/pvg+어/ecs
+8	울고	울+고	VERB	_	12	acl	_	_	울/pvg+고/ecx
+9	있는	있+는	AUX	_	8	aux	_	_	있/px+는/etm
+10	둘째	둘째	NUM	_	11	nummod	_	_	둘째/nno
+11	사위의	사위+의	NOUN	_	12	nmod	_	_	사위/ncn+의/jcm
+12	모습이	모습+이	NOUN	_	15	nsubj	_	_	모습/ncn+이/jcs
+13	눈앞	눈앞	NOUN	_	15	advmod	_	_	눈앞/ncn
+14	가득히	가득히	ADV	_	15	advmod	_	_	가득히/mag
+15	보였기	보이+었+기	VERB	_	0	root	_	_	보이/pvg+었/ep+기/etn
+16	때문입니다	때문+이+ㅂ니다	VERB	_	15	aux	_	_	때문/nbn+이/jp+ㅂ니다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이렇게 해라 .
+1	이렇게	이렇게	ADV	_	2	advmod	_	_	이렇게/mad
+2	해라	하+어라	VERB	_	0	root	_	_	하/pvg+어라/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 저렇게 해라 .
+1	저렇게	저렇게	ADV	_	2	advmod	_	_	저렇게/mad
+2	해라	하+어라	VERB	_	0	root	_	_	하/pvg+어라/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 아이들은 어른을 보고 배우며 자랍니다 .
+1	아이들은	아이+들+은	NOUN	_	6	dislocated	_	_	아이/ncn+들/xsn+은/jxt
+2	어른을	어른+을	NOUN	_	3	obj	_	_	어른/ncn+을/jco
+3	보고	보+고	CCONJ	_	4	conj	_	_	보/pvg+고/ecc
+4	배우며	배우+며	CCONJ	_	5	conj	_	_	배우/pvg+며/ecc
+5	자랍니다	자+랍니다	VERB	_	6	conj	_	_	자/pvg+랍니다/ef
+6	.	.	PUNCT	_	0	root	_	_	./sf
+
+# 우리가 이웃인 까닭은 가까이 있음이 아니고 따뜻한 정을 나눔입니다 .
+1	우리가	우리+가	PRON	_	2	nsubj	_	_	우리/npp+가/jcs
+2	이웃인	이웃+이+ㄴ	VERB	_	3	acl	_	_	이웃/ncpa+이/jp+ㄴ/etm
+3	까닭은	까닭+은	NOUN	_	9	dislocated	_	_	까닭/ncn+은/jxt
+4	가까이	가까이	ADV	_	5	advmod	_	_	가까이/mag
+5	있음이	있+ㅁ+이	NOUN	_	6	nsubj	_	_	있/paa+ㅁ/etn+이/jcs
+6	아니고	아니+고	CCONJ	_	9	conj	_	_	아니/paa+고/ecc
+7	따뜻한	따뜻하+ㄴ	ADJ	_	8	amod	_	_	따뜻하/paa+ㄴ/etm
+8	정을	정+을	NOUN	_	9	obj	_	_	정/ncn+을/jco
+9	나눔입니다	나누+ㅁ+이+ㅂ니다	VERB	_	0	root	_	_	나누/pvg+ㅁ/etn+이/jp+ㅂ니다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 기쁨을 나누면 배가 되고 슬픔을 나누면 반이 됩니다 .
+1	기쁨을	기쁨+을	NOUN	_	2	obj	_	_	기쁨/ncn+을/jco
+2	나누면	나누+면	SCONJ	_	4	ccomp	_	_	나누/pvg+면/ecs
+3	배가	배+가	NOUN	_	4	csubj	_	_	배/ncn+가/jcc
+4	되고	되+고	CCONJ	_	8	conj	_	_	되/pvg+고/ecc
+5	슬픔을	슬픔+을	NOUN	_	6	obj	_	_	슬픔/ncn+을/jco
+6	나누면	나누+면	SCONJ	_	8	ccomp	_	_	나누/pvg+면/ecs
+7	반이	반+이	NOUN	_	8	csubj	_	_	반/ncn+이/jcc
+8	됩니다	되+ㅂ니다	VERB	_	0	root	_	_	되/pvg+ㅂ니다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 햇수로 삼십삼 년 , 해가 뜨고 지기를 일만이천 번도 넘는 날들을 우리는 너무 오래 헤어져 있었습니다 .
+1	햇수로	햇수+로	ADV	_	3	advcl	_	_	햇수/ncn+로/jca
+2	삼십삼	삼+십+삼	NUM	_	3	compound	_	_	삼/nnc+십/nnc+삼/nnc
+3	년	년	NOUN	_	11	compound	_	_	년/nbu
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	해가	해+가	NOUN	_	7	nsubj	_	_	해/ncn+가/jcs
+6	뜨고	뜨+고	CCONJ	_	7	conj	_	_	뜨/pvg+고/ecc
+7	지기를	지+기+를	NOUN	_	10	obj	_	_	지/pvg+기/etn+를/jco
+8	일만이천	일+만+이+천	NUM	_	9	compound	_	_	일/nnc+만/nnc+이/nnc+천/nnc
+9	번도	번+도	ADV	_	10	advcl	_	_	번/nbu+도/jxc
+10	넘는	넘+는	VERB	_	11	acl	_	_	넘/pvg+는/etm
+11	날들을	날+들+을	NOUN	_	15	obj	_	_	날/ncn+들/xsn+을/jco
+12	우리는	우리+는	PRON	_	15	dislocated	_	_	우리/npp+는/jxt
+13	너무	너무	ADV	_	15	advmod	_	_	너무/mag
+14	오래	오래	ADV	_	13	advmod	_	_	오래/mag
+15	헤어져	헤어지+어	VERB	_	0	root	_	_	헤어지/pvg+어/ecx
+16	있었습니다	있+었+습니다	AUX	_	15	aux	_	_	있/px+었/ep+습니다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 대도시의 도로는 이제 포화상태입니다 .
+1	대도시의	대도시+의	NOUN	_	2	nmod	_	_	대도시/ncn+의/jcm
+2	도로는	도로+는	NOUN	_	4	dislocated	_	_	도로/ncn+는/jxt
+3	이제	이제	ADV	_	4	advmod	_	_	이제/mag
+4	포화상태입니다	포화상태+이+ㅂ니다	VERB	_	0	root	_	_	포화상태/ncn+이/jp+ㅂ니다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 안국화재는 항상 여러분을 든든히 지켜드리고 있습니다 .
+1	안국화재는	안국화재+는	PROPN	_	5	dislocated	_	_	안국화재/nq+는/jxt
+2	항상	항상	ADV	_	5	advmod	_	_	항상/mag
+3	여러분을	여러분+을	PRON	_	5	obj	_	_	여러분/npp+을/jco
+4	든든히	든든히	ADV	_	5	advmod	_	_	든든히/mag
+5	지켜드리고	지키+어+드리+고	AUX	_	0	root	_	_	지키/pvg+어/ecx+드리/px+고/ecx
+6	있습니다	있+습니다	AUX	_	5	aux	_	_	있/px+습니다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 뜻밖의 재난에서 오누이를 구해준 그 튼튼한 밧줄처럼 안국화재는 여러분의 편에서 여러분을 지키며 보호해 드리고 있습니다 .
+1	뜻밖의	뜻밖+의	NOUN	_	2	nmod	_	_	뜻밖/ncn+의/jcm
+2	재난에서	재난+에서	ADV	_	4	advcl	_	_	재난/ncn+에서/jca
+3	오누이를	오누이+를	NOUN	_	4	obj	_	_	오누이/ncn+를/jco
+4	구해준	구하+어+주+ㄴ	AUX	_	7	acl	_	_	구하/pvg+어/ecx+주/px+ㄴ/etm
+5	그	그	DET	_	7	det	_	_	그/mmd
+6	튼튼한	튼튼+하+ㄴ	VERB	_	7	amod	_	_	튼튼/ncps+하/xsm+ㄴ/etm
+7	밧줄처럼	밧줄+처럼	ADV	_	13	advcl	_	_	밧줄/ncn+처럼/jca
+8	안국화재는	안국화재+는	PROPN	_	13	dislocated	_	_	안국화재/nq+는/jxt
+9	여러분의	여러분+의	PRON	_	10	nmod	_	_	여러분/npp+의/jcm
+10	편에서	편+에서	ADV	_	13	advcl	_	_	편/ncn+에서/jca
+11	여러분을	여러분+을	PRON	_	13	obj	_	_	여러분/npp+을/jco
+12	지키며	지키+며	CCONJ	_	13	conj	_	_	지키/pvg+며/ecc
+13	보호해	보호+하+어	VERB	_	0	root	_	_	보호/ncpa+하/xsv+어/ecx
+14	드리고	드리+고	AUX	_	13	aux	_	_	드리/px+고/ecx
+15	있습니다	있+습니다	AUX	_	13	aux	_	_	있/px+습니다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 아무리 조심해도 막을 수 없는 사고 .
+1	아무리	아무리	ADV	_	2	advmod	_	_	아무리/mag
+2	조심해도	조심+하+어도	SCONJ	_	3	ccomp	_	_	조심/ncpa+하/xsv+어도/ecs
+3	막을	막+ㄹ	VERB	_	6	acl	_	_	막/pvg+ㄹ/etm
+4	수	수	NOUN	_	5	fixed	_	_	수/nbn
+5	없는	없+는	ADJ	_	3	aux	_	_	없/paa+는/etm
+6	사고	사고	NOUN	_	0	root	_	_	사고/ncpa
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 미리미리 준비하는 지혜가 필요합니다 .
+1	미리미리	미리미리	ADV	_	2	advmod	_	_	미리미리/mag
+2	준비하는	준비+하+는	VERB	_	3	acl	_	_	준비/ncpa+하/xsv+는/etm
+3	지혜가	지혜+가	NOUN	_	4	nsubj	_	_	지혜/ncn+가/jcs
+4	필요합니다	필요+하+ㅂ니다	VERB	_	0	root	_	_	필요/ncps+하/xsm+ㅂ니다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 바로 눈 앞의 것만 본 게 탈이었지 뭐예요 .
+1	바로	바로	ADV	_	3	advmod	_	_	바로/mag
+2	눈	눈	NOUN	_	3	compound	_	_	눈/ncn
+3	앞의	앞+의	NOUN	_	4	nmod	_	_	앞/ncn+의/jcm
+4	것만	것+만	ADV	_	5	advcl	_	_	것/nbn+만/jxc
+5	본	보+ㄴ	VERB	_	6	acl	_	_	보/pvg+ㄴ/etm
+6	게	게	NOUN	_	7	advmod	_	_	게/nbn
+7	탈이었지	탈+이+었+지	SCONJ	_	8	ccomp	_	_	탈/ncn+이/jp+었/ep+지/ecs
+8	뭐예요	뭐+이+예요	VERB	_	0	root	_	_	뭐/npd+이/jp+예요/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 조금 멀리 보지 못한 게 탈이었어요 .
+1	조금	조금	ADV	_	3	advmod	_	_	조금/mag
+2	멀리	멀리	ADV	_	1	advmod	_	_	멀리/mag
+3	보지	보+지	VERB	_	5	acl	_	_	보/pvg+지/ecx
+4	못한	못하+ㄴ	AUX	_	3	aux	_	_	못하/px+ㄴ/etm
+5	게	게	NOUN	_	6	advmod	_	_	게/nbn
+6	탈이었어요	탈+이+었+어+요	VERB	_	0	root	_	_	탈/ncn+이/jp+었/ep+어/ef+요/jxf
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 미리미리 대비하는 지혜가 필요하답니다 .
+1	미리미리	미리미리	ADV	_	2	advmod	_	_	미리미리/mag
+2	대비하는	대비+하+는	VERB	_	3	acl	_	_	대비/ncpa+하/xsv+는/etm
+3	지혜가	지혜+가	NOUN	_	4	nsubj	_	_	지혜/ncn+가/jcs
+4	필요하답니다	필요+하+답니다	VERB	_	0	root	_	_	필요/ncps+하/xsm+답니다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 안국화재는 항상 여러분을 든든히 지켜드리고 있습니다 .
+1	안국화재는	안국화재+는	PROPN	_	5	dislocated	_	_	안국화재/nq+는/jxt
+2	항상	항상	ADV	_	5	advmod	_	_	항상/mag
+3	여러분을	여러분+을	PRON	_	5	obj	_	_	여러분/npp+을/jco
+4	든든히	든든히	ADV	_	5	advmod	_	_	든든히/mag
+5	지켜드리고	지키+어+드리+고	AUX	_	0	root	_	_	지키/pvg+어/ecx+드리/px+고/ecx
+6	있습니다	있+습니다	AUX	_	5	aux	_	_	있/px+습니다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 더욱 좋은 제품으로 보답하겠습니다 .
+1	더욱	더욱	ADV	_	2	advmod	_	_	더욱/mag
+2	좋은	좋+ㄴ	ADJ	_	3	amod	_	_	좋/paa+ㄴ/etm
+3	제품으로	제품+으로	ADV	_	4	advcl	_	_	제품/ncn+으로/jca
+4	보답하겠습니다	보답+하+겠+습니다	VERB	_	0	root	_	_	보답/ncpa+하/xsv+겠/ep+습니다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 회복하는 데엔 몇 십 년이 걸립니다 .
+1	회복하는	회복+하+는	VERB	_	2	acl	_	_	회복/ncpa+하/xsv+는/etm
+2	데엔	데+에+ㄴ	NOUN	_	6	dislocated	_	_	데/nbn+에/jca+ㄴ/jxt
+3	몇	몇	ADJ	_	4	amod	_	_	몇/mma
+4	십	십	NUM	_	5	nummod	_	_	십/nnc
+5	년이	년+이	NOUN	_	6	nsubj	_	_	년/nbu+이/jcs
+6	걸립니다	걸리+ㅂ니다	VERB	_	0	root	_	_	걸리/pvg+ㅂ니다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 산불을 조심해야 할 때입니다 .
+1	산불을	산불+을	NOUN	_	2	obj	_	_	산불/ncn+을/jco
+2	조심해야	조심+하+어야	VERB	_	4	ccomp	_	_	조심/ncpa+하/xsv+어야/ecx
+3	할	하+ㄹ	AUX	_	2	aux	_	_	하/px+ㄹ/etm
+4	때입니다	때+이+ㅂ니다	VERB	_	0	root	_	_	때/ncn+이/jp+ㅂ니다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 여러분께선 크리넥스 티슈를 애용하심으로써 우리 국토를 더욱 푸르게 가꾸는 데에 이바지하고 계십니다 .
+1	여러분께선	여러분+께서+ㄴ	PRON	_	11	dislocated	_	_	여러분/npp+께서/jcs+ㄴ/jxt
+2	크리넥스	크리넥스	PROPN	_	3	compound	_	_	크리넥스/nq
+3	티슈를	티슈+를	NOUN	_	4	obj	_	_	티슈/ncn+를/jco
+4	애용하심으로써	애용+하+시+ㅁ+으로써	ADV	_	11	advcl	_	_	애용/ncpa+하/xsv+시/ep+ㅁ/etn+으로써/jca
+5	우리	우리	PRON	_	6	compound	_	_	우리/npp
+6	국토를	국토+를	NOUN	_	9	obj	_	_	국토/ncn+를/jco
+7	더욱	더욱	ADV	_	8	advmod	_	_	더욱/mag
+8	푸르게	푸르+게	SCONJ	_	9	xcomp	_	_	푸르/paa+게/ecs
+9	가꾸는	가꾸+는	VERB	_	10	acl	_	_	가꾸/pvg+는/etm
+10	데에	데+에	ADV	_	11	obl	_	_	데/nbn+에/jca
+11	이바지하고	이바지+하+고	VERB	_	0	root	_	_	이바지/ncpa+하/xsv+고/ecx
+12	계십니다	계시+ㅂ니다	AUX	_	11	aux	_	_	계시/px+ㅂ니다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 물은 그리움입니다 .
+1	물은	물+은	NOUN	_	2	dislocated	_	_	물/ncn+은/jxt
+2	그리움입니다	그리움+이+ㅂ니다	VERB	_	0	root	_	_	그리움/ncn+이/jp+ㅂ니다/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 우리는 그리움의 강을 바라봅니다 .
+1	우리는	우리+는	PRON	_	4	dislocated	_	_	우리/npp+는/jxt
+2	그리움의	그리움+의	NOUN	_	3	nmod	_	_	그리움/ncn+의/jcm
+3	강을	강+을	NOUN	_	4	obj	_	_	강/ncps+을/jco
+4	바라봅니다	바라보+ㅂ니다	VERB	_	0	root	_	_	바라보/pvg+ㅂ니다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 이제 , 세월은 물을 따라 흘러가고 그 물 한가운데 있던 우리들 마음은 어느새 바깥으로 밀려난 느낌입니다 .
+1	이제	이제	ADV	_	16	advmod	_	_	이제/mag
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	세월은	세월+은	NOUN	_	6	dislocated	_	_	세월/ncn+은/jxt
+4	물을	물+을	NOUN	_	5	obj	_	_	물/ncn+을/jco
+5	따라	따르+아	SCONJ	_	6	ccomp	_	_	따르/pvg+아/ecs
+6	흘러가고	흐르+어+가+고	CCONJ	_	15	conj	_	_	흐르/pvg+어/ecx+가/px+고/ecc
+7	그	그	DET	_	8	det	_	_	그/mmd
+8	물	물	NOUN	_	9	compound	_	_	물/ncn
+9	한가운데	한가운데	NOUN	_	10	dep	_	_	한가운데/ncn
+10	있던	있+더+ㄴ	ADJ	_	12	amod	_	_	있/paa+더/ep+ㄴ/etm
+11	우리들	우리+들	NOUN	_	12	compound	_	_	우리/npp+들/xsn
+12	마음은	마음+은	NOUN	_	15	dislocated	_	_	마음/ncn+은/jxt
+13	어느새	어느새	ADV	_	15	advmod	_	_	어느새/mag
+14	바깥으로	바깥+으로	ADV	_	15	advcl	_	_	바깥/ncn+으로/jca
+15	밀려난	밀리+어+나+ㄴ	AUX	_	16	ccomp	_	_	밀리/pvg+어/ecx+나/px+ㄴ/etm
+16	느낌입니다	느낌+이+ㅂ니다	VERB	_	0	root	_	_	느낌/ncn+이/jp+ㅂ니다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 물 , 그것은 그리움의 물이 아닐런지요 .
+1	물	물	NOUN	_	3	conj	_	_	물/ncn
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	그것은	그것+은	PRON	_	6	dislocated	_	_	그것/npd+은/jxt
+4	그리움의	그리움+의	NOUN	_	5	nmod	_	_	그리움/ncn+의/jcm
+5	물이	물+이	NOUN	_	6	nsubj	_	_	물/ncn+이/jcs
+6	아닐런지요	아니+ㄹ런지요	ADJ	_	0	root	_	_	아니/paa+ㄹ런지요/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그것은 옛부터 내려오는 한 그릇의 정한수로부터 시작됩니다 .
+1	그것은	그것+은	PRON	_	7	dislocated	_	_	그것/npd+은/jxt
+2	옛부터	옛+부터	ADV	_	3	advcl	_	_	옛/ncn+부터/jxc
+3	내려오는	내려오+는	VERB	_	6	acl	_	_	내려오/pvg+는/etm
+4	한	한	NUM	_	5	nummod	_	_	한/nnc
+5	그릇의	그릇+의	NOUN	_	6	nmod	_	_	그릇/ncn+의/jcm
+6	정한수로부터	정한수+로+부터	ADV	_	7	advcl	_	_	정한수/ncn+로/jca+부터/jxc
+7	시작됩니다	시작+되+ㅂ니다	VERB	_	0	root	_	_	시작/ncpa+되/xsv+ㅂ니다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 물은 자연의 위대한 철학자입니다 .
+1	물은	물+은	NOUN	_	4	dislocated	_	_	물/ncn+은/jxt
+2	자연의	자연+의	NOUN	_	4	nmod	_	_	자연/ncn+의/jcm
+3	위대한	위대+하+ㄴ	VERB	_	4	amod	_	_	위대/ncps+하/xsm+ㄴ/etm
+4	철학자입니다	철학자+이+ㅂ니다	VERB	_	0	root	_	_	철학자/ncn+이/jp+ㅂ니다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 물은 계절이 바뀔 때마다 옷을 갈아 입습니다 .
+1	물은	물+은	NOUN	_	7	dislocated	_	_	물/ncn+은/jxt
+2	계절이	계절+이	NOUN	_	3	nsubj	_	_	계절/ncn+이/jcs
+3	바뀔	바뀌+ㄹ	VERB	_	4	acl	_	_	바뀌/pvg+ㄹ/etm
+4	때마다	때+마다	ADV	_	7	advcl	_	_	때/ncn+마다/jxc
+5	옷을	옷+을	NOUN	_	7	obj	_	_	옷/ncn+을/jco
+6	갈아	갈+아	SCONJ	_	7	ccomp	_	_	갈/pvg+아/ecs
+7	입습니다	입+습니다	VERB	_	0	root	_	_	입/pvg+습니다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 겨울이 되면 날개옷으로 바꿔입고 하늘에서 펑펑 내려옵니다 .
+1	겨울이	겨울+이	NOUN	_	2	csubj	_	_	겨울/ncn+이/jcc
+2	되면	되+면	SCONJ	_	4	ccomp	_	_	되/pvg+면/ecs
+3	날개옷으로	날개옷+으로	ADV	_	4	advcl	_	_	날개옷/ncn+으로/jca
+4	바꿔입고	바꿔입+고	CCONJ	_	7	conj	_	_	바꿔입/pvg+고/ecc
+5	하늘에서	하늘+에서	ADV	_	7	advcl	_	_	하늘/ncn+에서/jca
+6	펑펑	펑펑	ADV	_	7	advmod	_	_	펑펑/mag
+7	내려옵니다	내리+어+오+ㅂ니다	AUX	_	0	root	_	_	내리/pvg+어/ecx+오/px+ㅂ니다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 봄이 오면 얼음옷을 벗어버리고 봄비로 화답합니다 .
+1	봄이	봄+이	NOUN	_	2	nsubj	_	_	봄/ncn+이/jcs
+2	오면	오+면	SCONJ	_	4	ccomp	_	_	오/pvg+면/ecs
+3	얼음옷을	얼음옷+을	NOUN	_	4	obj	_	_	얼음옷/ncn+을/jco
+4	벗어버리고	벗+어+버리+고	CCONJ	_	6	conj	_	_	벗/pvg+어/ecx+버리/px+고/ecc
+5	봄비로	봄비+로	ADV	_	6	advcl	_	_	봄비/ncn+로/jca
+6	화답합니다	화답+하+ㅂ니다	VERB	_	0	root	_	_	화답/ncpa+하/xsv+ㅂ니다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 물은 계절이 바뀌어도 쉴 새 없이 흘러갑니다 .
+1	물은	물+은	NOUN	_	7	dislocated	_	_	물/ncn+은/jxt
+2	계절이	계절+이	NOUN	_	3	nsubj	_	_	계절/ncn+이/jcs
+3	바뀌어도	바뀌+어도	SCONJ	_	7	ccomp	_	_	바뀌/pvg+어도/ecs
+4	쉴	쉬+ㄹ	VERB	_	5	acl	_	_	쉬/pvg+ㄹ/etm
+5	새	새	NOUN	_	6	dep	_	_	새/ncn
+6	없이	없+이	SCONJ	_	7	xcomp	_	_	없/paa+이/ecs
+7	흘러갑니다	흐르+어+가+ㅂ니다	AUX	_	0	root	_	_	흐르/pvg+어/ecx+가/px+ㅂ니다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 물은 휴식이 없습니다 .
+1	물은	물+은	NOUN	_	3	dislocated	_	_	물/ncn+은/jxt
+2	휴식이	휴식+이	NOUN	_	3	nsubj	_	_	휴식/ncn+이/jcs
+3	없습니다	없+습니다	ADJ	_	0	root	_	_	없/paa+습니다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 높은 데서 낮은 데서 쉴 새 없이 흘러가고 수많은 철학자들이 천 년 만 년 물을 노래합니다 .
+1	높은	높+ㄴ	ADJ	_	2	amod	_	_	높/paa+ㄴ/etm
+2	데서	데+서	ADV	_	4	advcl	_	_	데/nbn+서/jca
+3	낮은	낮+ㄴ	ADJ	_	4	amod	_	_	낮/paa+ㄴ/etm
+4	데서	데+서	ADV	_	8	advmod	_	_	데/nbn+서/jca
+5	쉴	쉬+ㄹ	VERB	_	6	acl	_	_	쉬/pvg+ㄹ/etm
+6	새	새	NOUN	_	7	dep	_	_	새/ncn
+7	없이	없+이	SCONJ	_	8	xcomp	_	_	없/paa+이/ecs
+8	흘러가고	흐르+어+가+고	CCONJ	_	16	conj	_	_	흐르/pvg+어/ecx+가/px+고/ecc
+9	수많은	수많+ㄴ	ADJ	_	10	amod	_	_	수많/paa+ㄴ/etm
+10	철학자들이	철학자+들+이	NOUN	_	16	nsubj	_	_	철학자/ncn+들/xsn+이/jcs
+11	천	천	NUM	_	12	nummod	_	_	천/nnc
+12	년	년	NOUN	_	14	compound	_	_	년/nbu
+13	만	만	NUM	_	14	nummod	_	_	만/nnc
+14	년	년	NOUN	_	16	advmod	_	_	년/nbu
+15	물을	물+을	NOUN	_	16	obj	_	_	물/ncn+을/jco
+16	노래합니다	노래+하+ㅂ니다	VERB	_	0	root	_	_	노래/ncpa+하/xsv+ㅂ니다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 깊은 산속의 바위틈에서 솟구쳐 오른 맑은 샘물은 소리 한 번 우렁찹니다 .
+1	깊은	깊+ㄴ	ADJ	_	2	amod	_	_	깊/paa+ㄴ/etm
+2	산속의	산속+의	NOUN	_	3	nmod	_	_	산속/ncn+의/jcm
+3	바위틈에서	바위틈+에서	ADV	_	5	advcl	_	_	바위틈/ncn+에서/jca
+4	솟구쳐	솟구치+어	SCONJ	_	5	ccomp	_	_	솟구치/pvg+어/ecs
+5	오른	오르+ㄴ	VERB	_	7	acl	_	_	오르/pvg+ㄴ/etm
+6	맑은	맑+ㄴ	ADJ	_	7	amod	_	_	맑/paa+ㄴ/etm
+7	샘물은	샘물+은	NOUN	_	11	dislocated	_	_	샘물/ncn+은/jxt
+8	소리	소리	NOUN	_	10	compound	_	_	소리/ncn
+9	한	한	NUM	_	10	nummod	_	_	한/nnc
+10	번	번	NOUN	_	11	dep	_	_	번/nbu
+11	우렁찹니다	우렁차+ㅂ니다	ADJ	_	0	root	_	_	우렁차/paa+ㅂ니다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 하얀 모래 위에 물거품을 싣고 쉴 새 없이 밀려왔다 밀려가는 바닷가에서 하늘과 씨름하는 푸른 바다를 바라봅니다 .
+1	하얀	하얗+ㄴ	ADJ	_	2	amod	_	_	하얗/paa+ㄴ/etm
+2	모래	모래	NOUN	_	3	compound	_	_	모래/ncn
+3	위에	위+에	ADV	_	5	obl	_	_	위/ncn+에/jca
+4	물거품을	물거품+을	NOUN	_	5	obj	_	_	물거품/ncn+을/jco
+5	싣고	싣+고	CCONJ	_	10	conj	_	_	싣/pvg+고/ecc
+6	쉴	쉬+ㄹ	VERB	_	7	acl	_	_	쉬/pvg+ㄹ/etm
+7	새	새	NOUN	_	8	dep	_	_	새/ncn
+8	없이	없+이	SCONJ	_	10	xcomp	_	_	없/paa+이/ecs
+9	밀려왔다	밀리+어+오+았+다	SCONJ	_	10	ccomp	_	_	밀리/pvg+어/ecx+오/px+았/ep+다/ecs
+10	밀려가는	밀리+어+가+는	AUX	_	11	acl	_	_	밀리/pvg+어/ecx+가/px+는/etm
+11	바닷가에서	바닷가+에서	ADV	_	16	advcl	_	_	바닷가/ncn+에서/jca
+12	하늘과	하늘+과	CCONJ	_	13	conj	_	_	하늘/ncn+과/jct
+13	씨름하는	씨름+하+는	VERB	_	15	acl	_	_	씨름/ncpa+하/xsv+는/etm
+14	푸른	푸르+ㄴ	ADJ	_	15	amod	_	_	푸르/paa+ㄴ/etm
+15	바다를	바다+를	NOUN	_	16	obj	_	_	바다/ncn+를/jco
+16	바라봅니다	바라보+ㅂ니다	VERB	_	0	root	_	_	바라보/pvg+ㅂ니다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 물 , 그것은 자연이 선사한 위대한 철학자입니다 .
+1	물	물	NOUN	_	3	conj	_	_	물/ncn
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	그것은	그것+은	PRON	_	7	dislocated	_	_	그것/npd+은/jxt
+4	자연이	자연+이	NOUN	_	5	nsubj	_	_	자연/ncps+이/jcs
+5	선사한	선사+하+ㄴ	VERB	_	7	ccomp	_	_	선사/ncpa+하/xsv+ㄴ/etm
+6	위대한	위대+하+ㄴ	VERB	_	7	amod	_	_	위대/ncps+하/xsm+ㄴ/etm
+7	철학자입니다	철학자+이+ㅂ니다	VERB	_	0	root	_	_	철학자/ncn+이/jp+ㅂ니다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 우리가 꿈꾸는 천국은 바로 우리가 살고 있는 지구 , 우리 강산입니다 .
+1	우리가	우리+가	PRON	_	2	nsubj	_	_	우리/npp+가/jcs
+2	꿈꾸는	꿈꾸+는	VERB	_	3	acl	_	_	꿈꾸/pvg+는/etm
+3	천국은	천국+은	NOUN	_	11	dislocated	_	_	천국/ncn+은/jxt
+4	바로	바로	ADV	_	6	advmod	_	_	바로/mag
+5	우리가	우리+가	PRON	_	6	nsubj	_	_	우리/npp+가/jcs
+6	살고	살+고	VERB	_	8	acl	_	_	살/pvg+고/ecx
+7	있는	있+는	AUX	_	6	aux	_	_	있/px+는/etm
+8	지구	지구	NOUN	_	11	compound	_	_	지구/ncn
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	우리	우리	PRON	_	11	compound	_	_	우리/npp
+11	강산입니다	강산+이+ㅂ니다	VERB	_	0	root	_	_	강산/ncn+이/jp+ㅂ니다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 크리넥스 티슈와 함께 우리 강산을 더욱 푸르게 가꿉시다 .
+1	크리넥스	크리넥스	PROPN	_	2	compound	_	_	크리넥스/nq
+2	티슈와	티슈+와	CCONJ	_	3	conj	_	_	티슈/ncn+와/jct
+3	함께	함께	ADV	_	8	advmod	_	_	함께/mag
+4	우리	우리	PRON	_	5	compound	_	_	우리/npp
+5	강산을	강산+을	NOUN	_	8	obj	_	_	강산/ncn+을/jco
+6	더욱	더욱	ADV	_	7	advmod	_	_	더욱/mag
+7	푸르게	푸르+게	SCONJ	_	8	xcomp	_	_	푸르/paa+게/ecs
+8	가꿉시다	가꾸+ㅂ시다	VERB	_	0	root	_	_	가꾸/pvg+ㅂ시다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 나무는 우리의 재산이자 보호자입니다 .
+1	나무는	나무+는	NOUN	_	4	dislocated	_	_	나무/ncn+는/jxt
+2	우리의	우리+의	PRON	_	3	nmod	_	_	우리/npp+의/jcm
+3	재산이자	재산+이+자	CCONJ	_	4	conj	_	_	재산/ncn+이/jp+자/ecc
+4	보호자입니다	보호자+이+ㅂ니다	VERB	_	0	root	_	_	보호자/ncn+이/jp+ㅂ니다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 유한킴벌리는 한 그루의 나무가 숲이 되고 , 우리 강산이 푸르러질 때까지 계속 나무를 심고 가꾸어 나갈 것입니다 .
+1	유한킴벌리는	유한킴벌리+는	PROPN	_	15	dislocated	_	_	유한킴벌리/nq+는/jxt
+2	한	한	NUM	_	3	nummod	_	_	한/nnc
+3	그루의	그루+의	NOUN	_	4	nmod	_	_	그루/nbu+의/jcm
+4	나무가	나무+가	NOUN	_	6	nsubj	_	_	나무/ncn+가/jcs
+5	숲이	숲+이	NOUN	_	6	csubj	_	_	숲/ncn+이/jcc
+6	되고	되+고	CCONJ	_	10	conj	_	_	되/pvg+고/ecc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	우리	우리	PRON	_	9	compound	_	_	우리/npp
+9	강산이	강산+이	NOUN	_	10	nsubj	_	_	강산/ncn+이/jcs
+10	푸르러질	푸르+어+지+ㄹ	AUX	_	11	amod	_	_	푸르/paa+어/ecx+지/px+ㄹ/etm
+11	때까지	때+까지	ADV	_	15	advcl	_	_	때/ncn+까지/jxc
+12	계속	계속	ADV	_	15	advmod	_	_	계속/mag
+13	나무를	나무+를	NOUN	_	15	obj	_	_	나무/ncn+를/jco
+14	심고	심+고	CCONJ	_	15	conj	_	_	심/pvg+고/ecc
+15	가꾸어	가꾸+어	VERB	_	0	root	_	_	가꾸/pvg+어/ecx
+16	나갈	나가+ㄹ	AUX	_	15	aux	_	_	나가/px+ㄹ/etm
+17	것입니다	것+이+ㅂ니다	VERB	_	15	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 얼마나 아름다운 자연입니까 .
+1	얼마나	얼마나	ADV	_	2	advmod	_	_	얼마나/mag
+2	아름다운	아름답+ㄴ	ADJ	_	3	amod	_	_	아름답/paa+ㄴ/etm
+3	자연입니까	자연+이+ㅂ니까	VERB	_	0	root	_	_	자연/ncps+이/jp+ㅂ니까/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 항상 맑은 공기를 되돌려 주는 나무가 있기에 우리는 이렇게 숨을 쉴 수 있습니다 .
+1	항상	항상	ADV	_	2	advmod	_	_	항상/mag
+2	맑은	맑+ㄴ	ADJ	_	3	amod	_	_	맑/paa+ㄴ/etm
+3	공기를	공기+를	NOUN	_	4	obj	_	_	공기/ncn+를/jco
+4	되돌려	되돌리+어	VERB	_	6	acl	_	_	되돌리/pvg+어/ecx
+5	주는	주+는	AUX	_	4	aux	_	_	주/px+는/etm
+6	나무가	나무+가	NOUN	_	7	nsubj	_	_	나무/ncn+가/jcs
+7	있기에	있+기+에	ADV	_	11	obl	_	_	있/paa+기/etn+에/jca
+8	우리는	우리+는	PRON	_	11	dislocated	_	_	우리/npp+는/jxt
+9	이렇게	이렇+게	SCONJ	_	11	xcomp	_	_	이렇/pad+게/ecs
+10	숨을	숨+을	NOUN	_	11	obj	_	_	숨/ncn+을/jco
+11	쉴	쉬+ㄹ	VERB	_	0	root	_	_	쉬/pvg+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있습니다	있+습니다	ADJ	_	11	aux	_	_	있/paa+습니다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이 회초리를 하나씩 꺾으면 그 어느 것도 쉽게 꺾인다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	회초리를	회초리+를	NOUN	_	4	obj	_	_	회초리/ncn+를/jco
+3	하나씩	하나+씩	NOUN	_	4	advmod	_	_	하나/nnc+씩/xsn
+4	꺾으면	꺾+으면	SCONJ	_	9	ccomp	_	_	꺾/pvg+으면/ecs
+5	그	그	DET	_	7	det	_	_	그/mmd
+6	어느	어느	DET	_	7	det	_	_	어느/mmd
+7	것도	것+도	ADV	_	9	advcl	_	_	것/nbn+도/jxc
+8	쉽게	쉽+게	SCONJ	_	9	xcomp	_	_	쉽/paa+게/ecs
+9	꺾인다	꺾이+ㄴ다	VERB	_	0	root	_	_	꺾이/pvg+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 삼성이 그 꿈과 함께 합니다 .
+1	삼성이	삼성+이	PROPN	_	5	nsubj	_	_	삼성/nq+이/jcs
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	꿈과	꿈+과	CCONJ	_	4	conj	_	_	꿈/ncn+과/jct
+4	함께	함께	ADV	_	5	advmod	_	_	함께/mag
+5	합니다	하+ㅂ니다	VERB	_	0	root	_	_	하/pvg+ㅂ니다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 아직 학교를 다니고 있을 때만 해도 지구가 좁다는 것을 그렇게 실감하지는 못합니다 .
+1	아직	아직	ADV	_	3	advmod	_	_	아직/mag
+2	학교를	학교+를	NOUN	_	3	obj	_	_	학교/ncn+를/jco
+3	다니고	다니+고	VERB	_	5	acl	_	_	다니/pvg+고/ecx
+4	있을	있+ㄹ	AUX	_	3	aux	_	_	있/px+ㄹ/etm
+5	때만	때+만	ADV	_	6	advcl	_	_	때/ncn+만/jxc
+6	해도	하+어도	SCONJ	_	11	ccomp	_	_	하/pvg+어도/ecs
+7	지구가	지구+가	NOUN	_	8	nsubj	_	_	지구/ncn+가/jcs
+8	좁다는	좁+다는	ADJ	_	9	amod	_	_	좁/paa+다는/etm
+9	것을	것+을	NOUN	_	11	obj	_	_	것/nbn+을/jco
+10	그렇게	그렇+게	SCONJ	_	11	xcomp	_	_	그렇/pad+게/ecs
+11	실감하지는	실감+하+지+는	NOUN	_	0	root	_	_	실감/ncpa+하/xsv+지/ecx+는/jxt
+12	못합니다	못하+ㅂ니다	AUX	_	11	aux	_	_	못하/px+ㅂ니다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 하늘을 좋아해 항공 정비사가 된 나를 닮았는지 이녀석은 비행기를 유난히 좋아하는 것 같아요 .
+1	하늘을	하늘+을	NOUN	_	2	obj	_	_	하늘/ncn+을/jco
+2	좋아해	좋아하+어	SCONJ	_	5	ccomp	_	_	좋아하/pvg+어/ecs
+3	항공	항공	NOUN	_	4	compound	_	_	항공/ncn
+4	정비사가	정비사+가	NOUN	_	5	csubj	_	_	정비사/ncn+가/jcc
+5	된	되+ㄴ	VERB	_	6	acl	_	_	되/pvg+ㄴ/etm
+6	나를	나+를	PRON	_	7	obj	_	_	나/npp+를/jco
+7	닮았는지	닮+았+는지	SCONJ	_	11	ccomp	_	_	닮/pvg+았/ep+는지/ecs
+8	이녀석은	이녀석+은	PRON	_	11	dislocated	_	_	이녀석/npp+은/jxt
+9	비행기를	비행기+를	NOUN	_	11	obj	_	_	비행기/ncn+를/jco
+10	유난히	유난히	ADV	_	11	advmod	_	_	유난히/mag
+11	좋아하는	좋아하+는	VERB	_	0	root	_	_	좋아하/pvg+는/etm
+12	것	것	NOUN	_	13	fixed	_	_	것/nbn
+13	같아요	같+아요	ADJ	_	11	aux	_	_	같/paa+아요/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 꿈이 있는 곳에 삼성이 있습니다 .
+1	꿈이	꿈+이	NOUN	_	2	nsubj	_	_	꿈/ncn+이/jcs
+2	있는	있+는	ADJ	_	3	amod	_	_	있/paa+는/etm
+3	곳에	곳+에	ADV	_	5	obl	_	_	곳/ncn+에/jca
+4	삼성이	삼성+이	PROPN	_	5	nsubj	_	_	삼성/nq+이/jcs
+5	있습니다	있+습니다	ADJ	_	0	root	_	_	있/paa+습니다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 함께 사는 우리사회를 만들기 위해 저희 삼성은 작은 힘을 보태고 있습니다 .
+1	함께	함께	ADV	_	2	advmod	_	_	함께/mag
+2	사는	살+는	VERB	_	3	acl	_	_	살/pvg+는/etm
+3	우리사회를	우리사회+를	NOUN	_	4	obj	_	_	우리사회/ncn+를/jco
+4	만들기	만들+기	VERB	_	5	nmod	_	_	만들/pvg+기/etn
+5	위해	위하+어	SCONJ	_	10	ccomp	_	_	위하/pvg+어/ecs
+6	저희	저희	PRON	_	7	compound	_	_	저희/npp
+7	삼성은	삼성+은	PROPN	_	10	dislocated	_	_	삼성/nq+은/jxt
+8	작은	작+ㄴ	ADJ	_	9	amod	_	_	작/paa+ㄴ/etm
+9	힘을	힘+을	NOUN	_	10	obj	_	_	힘/ncn+을/jco
+10	보태고	보태+고	VERB	_	0	root	_	_	보태/pvg+고/ecx
+11	있습니다	있+습니다	AUX	_	10	aux	_	_	있/px+습니다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 우리 나라에도 아이를 맡기고 일터로 나가야 하는 많은 어머니들이 있습니다 .
+1	우리	우리	PRON	_	2	compound	_	_	우리/npp
+2	나라에도	나라+에+도	ADV	_	10	advcl	_	_	나라/ncn+에/jca+도/jxc
+3	아이를	아이+를	NOUN	_	4	obj	_	_	아이/ncn+를/jco
+4	맡기고	맡기+고	CCONJ	_	6	conj	_	_	맡기/pvg+고/ecc
+5	일터로	일터+로	ADV	_	6	advcl	_	_	일터/ncn+로/jca
+6	나가야	나가+아야	VERB	_	9	acl	_	_	나가/pvg+아야/ecx
+7	하는	하+는	AUX	_	6	aux	_	_	하/px+는/etm
+8	많은	많+ㄴ	ADJ	_	9	amod	_	_	많/paa+ㄴ/etm
+9	어머니들이	어머니+들+이	NOUN	_	10	nsubj	_	_	어머니/ncn+들/xsn+이/jcs
+10	있습니다	있+습니다	ADJ	_	0	root	_	_	있/paa+습니다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 우리들의 어린 아이들에게 우리 어른들이 부끄럽지 않은 사회를 만들고 싶습니다 .
+1	우리들의	우리+들+의	PRON	_	3	nmod	_	_	우리/npp+들/xsn+의/jcm
+2	어린	어리+ㄴ	ADJ	_	3	amod	_	_	어리/paa+ㄴ/etm
+3	아이들에게	아이+들+에게	ADV	_	9	iobj	_	_	아이/ncn+들/xsn+에게/jca
+4	우리	우리	PRON	_	5	compound	_	_	우리/npp
+5	어른들이	어른+들+이	NOUN	_	9	nsubj	_	_	어른/ncn+들/xsn+이/jcs
+6	부끄럽지	부끄럽+지	ADJ	_	8	amod	_	_	부끄럽/paa+지/ecx
+7	않은	않+ㄴ	AUX	_	6	aux	_	_	않/px+ㄴ/etm
+8	사회를	사회+를	NOUN	_	9	obj	_	_	사회/ncn+를/jco
+9	만들고	만들+고	VERB	_	0	root	_	_	만들/pvg+고/ecx
+10	싶습니다	싶+습니다	AUX	_	9	aux	_	_	싶/px+습니다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 내일을 위한 항상 푸른 마음 , 이것이 바로 상록수 정신입니다 .
+1	내일을	내일+을	NOUN	_	2	obj	_	_	내일/ncn+을/jco
+2	위한	위하+ㄴ	VERB	_	5	acl	_	_	위하/pvg+ㄴ/etm
+3	항상	항상	ADV	_	4	advmod	_	_	항상/mag
+4	푸른	푸르+ㄴ	ADJ	_	5	amod	_	_	푸르/paa+ㄴ/etm
+5	마음	마음	NOUN	_	7	compound	_	_	마음/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	이것이	이것+이	PRON	_	10	nsubj	_	_	이것/npd+이/jcs
+8	바로	바로	ADV	_	10	advmod	_	_	바로/mag
+9	상록수	상록수	PROPN	_	10	compound	_	_	상록수/nq
+10	정신입니다	정신+이+ㅂ니다	VERB	_	0	root	_	_	정신/ncn+이/jp+ㅂ니다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 사회에 첫발을 내디딜 때를 생각하니 자네 말에 고개가 끄덕여지네 .
+1	사회에	사회+에	ADV	_	3	obl	_	_	사회/ncn+에/jca
+2	첫발을	첫발+을	NOUN	_	3	obj	_	_	첫발/ncn+을/jco
+3	내디딜	내디디+ㄹ	VERB	_	4	acl	_	_	내디디/pvg+ㄹ/etm
+4	때를	때+를	NOUN	_	5	obj	_	_	때/ncn+를/jco
+5	생각하니	생각+하+니	SCONJ	_	9	ccomp	_	_	생각/ncpa+하/xsv+니/ecs
+6	자네	자네	PRON	_	7	compound	_	_	자네/npp
+7	말에	말+에	ADV	_	9	obl	_	_	말/ncpa+에/jca
+8	고개가	고개+가	NOUN	_	9	nsubj	_	_	고개/ncn+가/jcs
+9	끄덕여지네	끄덕이+어+지+네	AUX	_	0	root	_	_	끄덕이/pvg+어/ecx+지/px+네/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 고객이 있을 때 럭키금성이 있습니다 .
+1	고객이	고객+이	NOUN	_	2	nsubj	_	_	고객/ncn+이/jcs
+2	있을	있+ㄹ	ADJ	_	3	amod	_	_	있/paa+ㄹ/etm
+3	때	때	NOUN	_	5	dep	_	_	때/ncn
+4	럭키금성이	럭키금성+이	PROPN	_	5	nsubj	_	_	럭키금성/nq+이/jcs
+5	있습니다	있+습니다	ADJ	_	0	root	_	_	있/paa+습니다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 럭키금성은 고객으로부터 배우고 , 고객을 도우며 함께 발전하는 진정한 고객의 기업이 되도록 더욱 노력하겠습니다 .
+1	럭키금성은	럭키금성+은	PROPN	_	14	dislocated	_	_	럭키금성/nq+은/jxt
+2	고객으로부터	고객+으로+부터	ADV	_	3	advcl	_	_	고객/ncn+으로/jca+부터/jxc
+3	배우고	배우+고	CCONJ	_	6	conj	_	_	배우/pvg+고/ecc
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	고객을	고객+을	NOUN	_	6	obj	_	_	고객/ncn+을/jco
+6	도우며	돕+으며	SCONJ	_	8	ccomp	_	_	돕/pvg+으며/ecs
+7	함께	함께	ADV	_	8	advmod	_	_	함께/mag
+8	발전하는	발전+하+는	VERB	_	11	acl	_	_	발전/ncpa+하/xsv+는/etm
+9	진정한	진정+하+ㄴ	VERB	_	11	amod	_	_	진정/ncps+하/xsm+ㄴ/etm
+10	고객의	고객+의	NOUN	_	11	nmod	_	_	고객/ncn+의/jcm
+11	기업이	기업+이	NOUN	_	12	csubj	_	_	기업/ncn+이/jcc
+12	되도록	되+도록	SCONJ	_	14	ccomp	_	_	되/pvg+도록/ecs
+13	더욱	더욱	ADV	_	14	advmod	_	_	더욱/mag
+14	노력하겠습니다	노력+하+겠+습니다	VERB	_	0	root	_	_	노력/ncpa+하/xsv+겠/ep+습니다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 참 세상 많이 좋아졌지요 .
+1	참	참	ADV	_	4	advmod	_	_	참/mag
+2	세상	세상	NOUN	_	4	advmod	_	_	세상/ncn
+3	많이	많이	ADV	_	4	advmod	_	_	많이/mag
+4	좋아졌지요	좋아지+었+지요	VERB	_	0	root	_	_	좋아지/pvg+었/ep+지요/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 우리에게는 있다 .
+1	우리에게는	우리+에게+는	PRON	_	2	dislocated	_	_	우리/npp+에게/jca+는/jxt
+2	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 우리 집안은 전통적으로 금속가공업 집안입니다 .
+1	우리	우리	PRON	_	2	compound	_	_	우리/npp
+2	집안은	집안+은	NOUN	_	5	dislocated	_	_	집안/ncn+은/jxt
+3	전통적으로	전통+적+으로	ADV	_	5	advcl	_	_	전통/ncn+적/xsn+으로/jca
+4	금속가공업	금속+가공업	NOUN	_	5	compound	_	_	금속/ncn+가공업/ncn
+5	집안입니다	집안+이+ㅂ니다	VERB	_	0	root	_	_	집안/ncn+이/jp+ㅂ니다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 제 할아버지 때부터 금속가공업을 해왔으니까요 .
+1	제	제	ADJ	_	2	amod	_	_	제/mma
+2	할아버지	할아버지	NOUN	_	3	compound	_	_	할아버지/ncn
+3	때부터	때+부터	ADV	_	5	advcl	_	_	때/ncn+부터/jxc
+4	금속가공업을	금속+가공업+을	NOUN	_	5	obj	_	_	금속/ncn+가공업/ncn+을/jco
+5	해왔으니까요	하+아+오+았+으니까요	AUX	_	0	root	_	_	하/pvg+아/ecx+오/px+았/ep+으니까요/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 제가 다니는 기계공학과에는 외국인 학생이 스무명이 넘어요 .
+1	제가	제+가	PRON	_	2	nsubj	_	_	제/npp+가/jcs
+2	다니는	다니+는	VERB	_	3	acl	_	_	다니/pvg+는/etm
+3	기계공학과에는	기계공학과+에+는	NOUN	_	7	dislocated	_	_	기계공학과/ncn+에/jca+는/jxt
+4	외국인	외국인	NOUN	_	5	compound	_	_	외국인/ncn
+5	학생이	학생+이	NOUN	_	7	nsubj	_	_	학생/ncn+이/jcs
+6	스무명이	스무명+이	NOUN	_	7	nsubj	_	_	스무명/ncn+이/jcs
+7	넘어요	넘+어+요	VERB	_	0	root	_	_	넘/pvg+어/ef+요/jxf
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그들은 말하죠 .
+1	그들은	그+들+은	PRON	_	2	dislocated	_	_	그/npp+들/xsn+은/jxt
+2	말하죠	말하+죠	VERB	_	0	root	_	_	말하/pvg+죠/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 외국에서 마음 놓고 공부할 수 있다는 건 분명 행운이예요 .
+1	외국에서	외국+에서	ADV	_	4	advcl	_	_	외국/ncn+에서/jca
+2	마음	마음	NOUN	_	3	dep	_	_	마음/ncn
+3	놓고	놓+고	CCONJ	_	4	conj	_	_	놓/pvg+고/ecc
+4	공부할	공부+하+ㄹ	VERB	_	7	acl	_	_	공부/ncpa+하/xsv+ㄹ/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	있다는	있+다는	ADJ	_	4	aux	_	_	있/paa+다는/etm
+7	건	것+은	NOUN	_	9	dislocated	_	_	것/nbn+은/jxt
+8	분명	분명	ADV	_	9	advmod	_	_	분명/mag
+9	행운이예요	행운+이+예요	VERB	_	0	root	_	_	행운/ncn+이/jp+예요/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 자동화 사회를 향한 금성의 전자 .
+1	자동화	자동화	NOUN	_	2	compound	_	_	자동화/ncn
+2	사회를	사회+를	NOUN	_	3	obj	_	_	사회/ncn+를/jco
+3	향한	향하+ㄴ	VERB	_	5	acl	_	_	향하/pvg+ㄴ/etm
+4	금성의	금성+의	PROPN	_	5	nmod	_	_	금성/nq+의/jcm
+5	전자	전자	NOUN	_	0	root	_	_	전자/ncn
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 금성의 첨단 전자 .
+1	금성의	금성+의	PROPN	_	3	nmod	_	_	금성/nq+의/jcm
+2	첨단	첨단	NOUN	_	3	compound	_	_	첨단/ncn
+3	전자	전자	NOUN	_	0	root	_	_	전자/ncn
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 금성은 컴퓨터 통신기술로 세계를 하나로 이어 고도정보화사회를 더욱 더 앞당기겠습니다 .
+1	금성은	금성+은	PROPN	_	10	dislocated	_	_	금성/nq+은/jxt
+2	컴퓨터	컴퓨터	NOUN	_	3	compound	_	_	컴퓨터/ncn
+3	통신기술로	통신기술+로	ADV	_	6	advcl	_	_	통신기술/ncn+로/jca
+4	세계를	세계+를	NOUN	_	6	obj	_	_	세계/ncn+를/jco
+5	하나로	하나+로	ADV	_	6	advcl	_	_	하나/nnc+로/jca
+6	이어	잇+어	SCONJ	_	10	ccomp	_	_	잇/pvg+어/ecs
+7	고도정보화사회를	고도정보화사회+를	NOUN	_	10	obj	_	_	고도정보화사회/ncn+를/jco
+8	더욱	더욱	ADV	_	10	advmod	_	_	더욱/mag
+9	더	더	ADV	_	8	advmod	_	_	더/mag
+10	앞당기겠습니다	앞당기+겠+습니다	VERB	_	0	root	_	_	앞당기/pvg+겠/ep+습니다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 기술이 있습니다 .
+1	기술이	기술+이	NOUN	_	2	nsubj	_	_	기술/ncn+이/jcs
+2	있습니다	있+습니다	ADJ	_	0	root	_	_	있/paa+습니다/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 우리나라 통신기술은 삼성전자가 이끕니다 .
+1	우리나라	우리나라	NOUN	_	2	compound	_	_	우리나라/ncn
+2	통신기술은	통신기술+은	NOUN	_	4	dislocated	_	_	통신기술/ncn+은/jxt
+3	삼성전자가	삼성+전자+가	PROPN	_	4	nsubj	_	_	삼성/nq+전자/ncn+가/jcs
+4	이끕니다	이끌+ㅂ니다	VERB	_	0	root	_	_	이끌/pvg+ㅂ니다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 휴먼테크의 고품질에는 바로 그런 마음들이 아름답게 스며 있습니다 .
+1	휴먼테크의	휴먼테크+의	NOUN	_	2	nmod	_	_	휴먼테크/ncn+의/jcm
+2	고품질에는	고품질+에+는	NOUN	_	7	dislocated	_	_	고품질/ncn+에/jca+는/jxt
+3	바로	바로	ADV	_	4	advmod	_	_	바로/mag
+4	그런	그런	DET	_	5	det	_	_	그런/mmd
+5	마음들이	마음+들+이	NOUN	_	7	nsubj	_	_	마음/ncn+들/xsn+이/jcs
+6	아름답게	아름답+게	SCONJ	_	7	xcomp	_	_	아름답/paa+게/ecs
+7	스며	스미+어	VERB	_	0	root	_	_	스미/pvg+어/ecx
+8	있습니다	있+습니다	AUX	_	7	aux	_	_	있/px+습니다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 세계에서 가장 먼저 만든 철갑선 거북선 .
+1	세계에서	세계+에서	ADV	_	4	advcl	_	_	세계/ncn+에서/jca
+2	가장	가장	ADV	_	4	advmod	_	_	가장/mag
+3	먼저	먼저	ADV	_	2	advmod	_	_	먼저/mag
+4	만든	만들+ㄴ	VERB	_	6	acl	_	_	만들/pvg+ㄴ/etm
+5	철갑선	철갑선	NOUN	_	6	compound	_	_	철갑선/ncn
+6	거북선	거북선	PROPN	_	0	root	_	_	거북선/nq
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 우리는 무한한 잠재력을 지닌 우수한 민족입니다 .
+1	우리는	우리+는	PRON	_	6	dislocated	_	_	우리/npp+는/jxt
+2	무한한	무한+하+ㄴ	VERB	_	3	amod	_	_	무한/ncps+하/xsm+ㄴ/etm
+3	잠재력을	잠재력+을	NOUN	_	4	obj	_	_	잠재력/ncn+을/jco
+4	지닌	지니+ㄴ	VERB	_	6	ccomp	_	_	지니/pvg+ㄴ/etm
+5	우수한	우수+하+ㄴ	VERB	_	6	amod	_	_	우수/ncps+하/xsm+ㄴ/etm
+6	민족입니다	민족+이+ㅂ니다	VERB	_	0	root	_	_	민족/ncn+이/jp+ㅂ니다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 술 마시는 우리 샐러리맨들에게는 묘한 징크스가 있습니다 .
+1	술	술	NOUN	_	2	dep	_	_	술/ncn
+2	마시는	마시+는	VERB	_	4	acl	_	_	마시/pvg+는/etm
+3	우리	우리	PRON	_	4	compound	_	_	우리/npp
+4	샐러리맨들에게는	샐러리맨+들+에게+는	NOUN	_	7	dislocated	_	_	샐러리맨/ncn+들/xsn+에게/jca+는/jxt
+5	묘한	묘하+ㄴ	ADJ	_	6	amod	_	_	묘하/paa+ㄴ/etm
+6	징크스가	징크스+가	NOUN	_	7	nsubj	_	_	징크스/ncn+가/jcs
+7	있습니다	있+습니다	ADJ	_	0	root	_	_	있/paa+습니다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 월요일에 마시면 일주일 내내 마시는 것이 그것입니다 .
+1	월요일에	월요일+에	ADV	_	2	obl	_	_	월요일/ncn+에/jca
+2	마시면	마시+면	SCONJ	_	5	ccomp	_	_	마시/pvg+면/ecs
+3	일주일	일주일	NOUN	_	4	dep	_	_	일주일/ncn
+4	내내	내내	ADV	_	5	advmod	_	_	내내/mag
+5	마시는	마시+는	VERB	_	6	acl	_	_	마시/pvg+는/etm
+6	것이	것+이	NOUN	_	7	nsubj	_	_	것/nbn+이/jcs
+7	그것입니다	그것+이+ㅂ니다	VERB	_	0	root	_	_	그것/npd+이/jp+ㅂ니다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 아빠와 같이 놀러간 시골 할머니댁의 옥수수밭에서 꿈의 참뜻을 알게 되었으니까요 .
+1	아빠와	아빠+와	CCONJ	_	2	conj	_	_	아빠/ncn+와/jct
+2	같이	같+이	SCONJ	_	3	xcomp	_	_	같/paa+이/ecs
+3	놀러간	놀러가+ㄴ	VERB	_	6	acl	_	_	놀러가/pvg+ㄴ/etm
+4	시골	시골	NOUN	_	5	compound	_	_	시골/ncn
+5	할머니댁의	할머니댁+의	NOUN	_	6	nmod	_	_	할머니댁/ncn+의/jcm
+6	옥수수밭에서	옥수수밭+에서	ADV	_	9	advcl	_	_	옥수수밭/ncn+에서/jca
+7	꿈의	꿈+의	NOUN	_	8	nmod	_	_	꿈/ncn+의/jcm
+8	참뜻을	참뜻+을	NOUN	_	9	obj	_	_	참뜻/ncn+을/jco
+9	알게	알+게	VERB	_	0	root	_	_	알/pvg+게/ecx
+10	되었으니까요	되+었+으니까요	AUX	_	9	aux	_	_	되/px+었/ep+으니까요/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+

@@ -1,0 +1,236 @@
+# 서구 선진국들이 일찍이 이런 과정을 밟았으며 , 그 뒤를 신흥공업국가나 개발도상국가들이 따르는 것으로 이해되고 있다 .
+1	서구	서구	NOUN	_	2	compound	_	_	서구/ncn
+2	선진국들이	선진국+들+이	NOUN	_	6	nsubj	_	_	선진국/ncn+들/xsn+이/jcs
+3	일찍이	일찍이	ADV	_	6	advmod	_	_	일찍이/mag
+4	이런	이런	DET	_	5	det	_	_	이런/mmd
+5	과정을	과정+을	NOUN	_	6	obj	_	_	과정/ncn+을/jco
+6	밟았으며	밟+았+으며	SCONJ	_	12	ccomp	_	_	밟/pvg+았/ep+으며/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	그	그	DET	_	9	det	_	_	그/mmd
+9	뒤를	뒤+를	NOUN	_	12	obj	_	_	뒤/ncn+를/jco
+10	신흥공업국가나	신흥+공업+국가+나	CCONJ	_	11	conj	_	_	신흥/ncn+공업/ncn+국가/ncn+나/jcj
+11	개발도상국가들이	개발도상국가+들+이	NOUN	_	12	nsubj	_	_	개발도상국가/ncn+들/xsn+이/jcs
+12	따르는	따르+는	VERB	_	13	acl	_	_	따르/pvg+는/etm
+13	것으로	것+으로	ADV	_	14	advcl	_	_	것/nbn+으로/jca
+14	이해되고	이해+되+고	VERB	_	0	root	_	_	이해/ncpa+되/xsv+고/ecx
+15	있다	있+다	AUX	_	14	aux	_	_	있/px+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이러한 현상은 개인에게만 해당되지 않는다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	현상은	현상+은	NOUN	_	4	dislocated	_	_	현상/ncpa+은/jxt
+3	개인에게만	개인+에게+만	ADV	_	4	advcl	_	_	개인/ncn+에게/jca+만/jxc
+4	해당되지	해당+되+지	VERB	_	0	root	_	_	해당/ncpa+되/xsv+지/ecx
+5	않는다	않+는다	AUX	_	4	aux	_	_	않/px+는다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 정보 그 자체가 부와 권력의 근원이 되는 사회가 정보사회인 것이다 .
+1	정보	정보	NOUN	_	3	compound	_	_	정보/ncn
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	자체가	자체+가	NOUN	_	7	nsubj	_	_	자체/ncn+가/jcs
+4	부와	부+와	CCONJ	_	5	conj	_	_	부/ncn+와/jcj
+5	권력의	권력+의	NOUN	_	6	nmod	_	_	권력/ncn+의/jcm
+6	근원이	근원+이	NOUN	_	7	csubj	_	_	근원/ncn+이/jcc
+7	되는	되+는	VERB	_	8	acl	_	_	되/pvg+는/etm
+8	사회가	사회+가	NOUN	_	9	nsubj	_	_	사회/ncn+가/jcs
+9	정보사회인	정보+사회+이+ㄴ	VERB	_	0	root	_	_	정보/ncn+사회/ncn+이/jp+ㄴ/etm
+10	것이다	것+이+다	VERB	_	9	aux	_	_	것/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이들 분야는 단지 제조부문만을 의미하지 않는다 .
+1	이들	이+들	NOUN	_	2	compound	_	_	이/npd+들/xsn
+2	분야는	분야+는	NOUN	_	5	dislocated	_	_	분야/ncn+는/jxt
+3	단지	단지	ADV	_	5	advmod	_	_	단지/mag
+4	제조부문만을	제조부문+만+을	NOUN	_	5	obj	_	_	제조부문/ncn+만/jxc+을/jco
+5	의미하지	의미+하+지	VERB	_	0	root	_	_	의미/ncpa+하/xsv+지/ecx
+6	않는다	않+는다	AUX	_	5	aux	_	_	않/px+는다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 예를 들면 네덜란드가 세계의 화훼시장을 장악하게 된 것은 전 세계적인 보급 및 정보체계를 갖고 있기 때문이다 .
+1	예를	예+를	NOUN	_	2	obj	_	_	예/ncn+를/jco
+2	들면	들+면	SCONJ	_	14	ccomp	_	_	들/pvg+면/ecs
+3	네덜란드가	네덜란드+가	PROPN	_	14	nsubj	_	_	네덜란드/nq+가/jcs
+4	세계의	세계+의	NOUN	_	5	nmod	_	_	세계/ncn+의/jcm
+5	화훼시장을	화훼시장+을	NOUN	_	6	obj	_	_	화훼시장/ncn+을/jco
+6	장악하게	장악+하+게	VERB	_	8	acl	_	_	장악/ncpa+하/xsv+게/ecx
+7	된	되+ㄴ	AUX	_	6	aux	_	_	되/px+ㄴ/etm
+8	것은	것+은	NOUN	_	14	dislocated	_	_	것/nbn+은/jxt
+9	전	전	ADJ	_	10	amod	_	_	전/mma
+10	세계적인	세계+적+이+ㄴ	VERB	_	13	acl	_	_	세계/ncn+적/xsn+이/jp+ㄴ/etm
+11	보급	보급	NOUN	_	13	conj	_	_	보급/ncpa
+12	및	및	CCONJ	_	13	cc	_	_	및/maj
+13	정보체계를	정보체계+를	NOUN	_	14	obj	_	_	정보체계/ncn+를/jco
+14	갖고	갖+고	VERB	_	0	root	_	_	갖/pvg+고/ecx
+15	있기	있+기	AUX	_	14	aux	_	_	있/px+기/etn
+16	때문이다	때문+이+다	VERB	_	14	aux	_	_	때문/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이 경우 꽃은 농산물이 아니다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	경우	경우	NOUN	_	5	dep	_	_	경우/ncn
+3	꽃은	꽃+은	NOUN	_	5	dislocated	_	_	꽃/ncn+은/jxt
+4	농산물이	농산물+이	NOUN	_	5	csubj	_	_	농산물/ncn+이/jcc
+5	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그것은 보급망과 정보의 산물이며 , 본질적으로 고도기술 산업이다 .
+1	그것은	그것+은	PRON	_	8	dislocated	_	_	그것/npd+은/jxt
+2	보급망과	보급망+과	CCONJ	_	3	conj	_	_	보급망/ncn+과/jcj
+3	정보의	정보+의	NOUN	_	4	nmod	_	_	정보/ncn+의/jcm
+4	산물이며	산물+이+며	CCONJ	_	8	conj	_	_	산물/ncn+이/jp+며/ecc
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	본질적으로	본질+적+으로	ADV	_	8	advcl	_	_	본질/ncn+적/xsn+으로/jca
+7	고도기술	고도+기술	NOUN	_	8	compound	_	_	고도/ncn+기술/ncn
+8	산업이다	산업+이+다	VERB	_	0	root	_	_	산업/ncn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 금융업에서도 마찬가지이다 .
+1	금융업에서도	금융업+에서+도	ADV	_	2	advcl	_	_	금융업/ncn+에서/jca+도/jxc
+2	마찬가지이다	마찬가지+이+다	VERB	_	0	root	_	_	마찬가지/ncn+이/jp+다/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 그들이 사용하는 장거리통신 , 컴퓨터 소프트웨어 시스템은 경영정보체계가 아니라 하이테크 생산라인이며 , 금융업은 거기서 상품을 만들고 분배하는 것이다 .
+1	그들이	그+들+이	PRON	_	2	nsubj	_	_	그/npp+들/xsn+이/jcs
+2	사용하는	사용+하+는	VERB	_	7	acl	_	_	사용/ncpa+하/xsv+는/etm
+3	장거리통신	장거리+통신	NOUN	_	5	conj	_	_	장거리/ncn+통신/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	컴퓨터	컴퓨터	NOUN	_	6	compound	_	_	컴퓨터/ncn
+6	소프트웨어	소프트웨어	NOUN	_	7	conj	_	_	소프트웨어/ncn
+7	시스템은	시스템+은	NOUN	_	9	dislocated	_	_	시스템/ncn+은/jxt
+8	경영정보체계가	경영정보+체계+가	NOUN	_	9	csubj	_	_	경영정보/ncn+체계/ncn+가/jcc
+9	아니라	아니+라	SCONJ	_	11	xcomp	_	_	아니/paa+라/ecs
+10	하이테크	하이테크	NOUN	_	11	compound	_	_	하이테크/ncn
+11	생산라인이며	생산라인+이+며	CCONJ	_	17	conj	_	_	생산라인/ncn+이/jp+며/ecc
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	금융업은	금융업+은	NOUN	_	17	dislocated	_	_	금융업/ncn+은/jxt
+14	거기서	거기+서	ADV	_	17	advcl	_	_	거기/npd+서/jca
+15	상품을	상품+을	NOUN	_	16	obj	_	_	상품/ncn+을/jco
+16	만들고	만들+고	CCONJ	_	17	conj	_	_	만들/pvg+고/ecc
+17	분배하는	분배+하+는	VERB	_	0	root	_	_	분배/ncpa+하/xsv+는/etm
+18	것이다	것+이+다	VERB	_	17	aux	_	_	것/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 나아가 이를 관리하는 것이 국가인 만큼 국가의 기능과 역할도 근본적으로 변화하게 된다 .
+1	나아가	나아가+아	SCONJ	_	3	ccomp	_	_	나아가/pvg+아/ecs
+2	이를	이+를	PRON	_	3	obj	_	_	이/npd+를/jco
+3	관리하는	관리+하+는	VERB	_	4	acl	_	_	관리/ncpa+하/xsv+는/etm
+4	것이	것+이	NOUN	_	5	nsubj	_	_	것/nbn+이/jcs
+5	국가인	국가+이+ㄴ	VERB	_	6	acl	_	_	국가/ncn+이/jp+ㄴ/etm
+6	만큼	만큼	NOUN	_	11	advmod	_	_	만큼/nbn
+7	국가의	국가+의	NOUN	_	8	nmod	_	_	국가/ncn+의/jcm
+8	기능과	기능+과	CCONJ	_	9	conj	_	_	기능/ncn+과/jcj
+9	역할도	역할+도	ADV	_	11	advcl	_	_	역할/ncn+도/jxc
+10	근본적으로	근본+적+으로	ADV	_	11	advcl	_	_	근본/ncn+적/xsn+으로/jca
+11	변화하게	변화+하+게	VERB	_	0	root	_	_	변화/ncpa+하/xsv+게/ecx
+12	된다	되+ㄴ다	AUX	_	11	aux	_	_	되/px+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 때문에 행정부가 업무상 수집한 공공행정정보를 입법부 및 사법부뿐만 아니라 일반 국민에게 원칙적으로 공개해야 한다 .
+1	때문에	때문에	CCONJ	_	13	cc	_	_	때문에/maj
+2	행정부가	행정부+가	NOUN	_	13	nsubj	_	_	행정부/ncn+가/jcs
+3	업무상	업무+상	NOUN	_	4	advmod	_	_	업무/ncn+상/xsn
+4	수집한	수집+하+ㄴ	VERB	_	5	acl	_	_	수집/ncpa+하/xsv+ㄴ/etm
+5	공공행정정보를	공공+행정정보+를	NOUN	_	13	obj	_	_	공공/ncn+행정정보/ncn+를/jco
+6	입법부	입법부	NOUN	_	8	conj	_	_	입법부/ncn
+7	및	및	CCONJ	_	8	cc	_	_	및/maj
+8	사법부뿐만	사법부+뿐+만	ADV	_	9	advcl	_	_	사법부/ncn+뿐/xsn+만/jxc
+9	아니라	아니+라	SCONJ	_	13	xcomp	_	_	아니/paa+라/ecs
+10	일반	일반	NOUN	_	11	compound	_	_	일반/ncn
+11	국민에게	국민+에게	ADV	_	13	iobj	_	_	국민/ncn+에게/jca
+12	원칙적으로	원칙+적+으로	ADV	_	13	advcl	_	_	원칙/ncn+적/xsn+으로/jca
+13	공개해야	공개+하+어야	VERB	_	0	root	_	_	공개/ncpa+하/xsv+어야/ecx
+14	한다	하+ㄴ다	AUX	_	13	aux	_	_	하/px+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이는 문맹을 퇴치할 뿐만 아니라 교육수준을 높이고자 하는 것이다 .
+1	이는	이+는	PRON	_	7	dislocated	_	_	이/npd+는/jxt
+2	문맹을	문맹+을	NOUN	_	3	obj	_	_	문맹/ncn+을/jco
+3	퇴치할	퇴치+하+ㄹ	VERB	_	7	ccomp	_	_	퇴치/ncpa+하/xsv+ㄹ/etm
+4	뿐만	뿐+만	ADV	_	5	fixed	_	_	뿐/nbn+만/jxc
+5	아니라	아니+라	SCONJ	_	3	aux	_	_	아니/paa+라/ecs
+6	교육수준을	교육수준+을	NOUN	_	7	obj	_	_	교육수준/ncn+을/jco
+7	높이고자	높이+고자	VERB	_	0	root	_	_	높이/pvg+고자/ecx
+8	하는	하+는	AUX	_	7	aux	_	_	하/px+는/etm
+9	것이다	것+이+다	VERB	_	7	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이것은 많은 선진국에서 이 법을 채택하고 있음에서도 확인할 수 있다 .
+1	이것은	이것+은	PRON	_	8	dislocated	_	_	이것/npd+은/jxt
+2	많은	많+ㄴ	ADJ	_	3	amod	_	_	많/paa+ㄴ/etm
+3	선진국에서	선진국+에서	ADV	_	6	advcl	_	_	선진국/ncn+에서/jca
+4	이	이	DET	_	5	det	_	_	이/mmd
+5	법을	법+을	NOUN	_	6	obj	_	_	법/ncn+을/jco
+6	채택하고	채택+하+고	VERB	_	8	advcl	_	_	채택/ncpa+하/xsv+고/ecx
+7	있음에서도	있+ㅁ+에서+도	ADV	_	6	aux	_	_	있/px+ㅁ/etn+에서/jca+도/jxc
+8	확인할	확인+하+ㄹ	VERB	_	0	root	_	_	확인/ncpa+하/xsv+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	있다	있+다	ADJ	_	8	aux	_	_	있/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이로 인해 다른 지방의회에서 일어나고 있던 조례제정 움직임도 중단되었다 .
+1	이로	이+로	ADV	_	2	advcl	_	_	이/npd+로/jca
+2	인해	인하+어	SCONJ	_	9	ccomp	_	_	인하/pvg+어/ecs
+3	다른	다르+ㄴ	ADJ	_	4	amod	_	_	다르/paa+ㄴ/etm
+4	지방의회에서	지방의회+에서	ADV	_	5	advcl	_	_	지방의회/ncn+에서/jca
+5	일어나고	일어나+고	VERB	_	8	acl	_	_	일어나/pvg+고/ecx
+6	있던	있+더+ㄴ	AUX	_	5	aux	_	_	있/px+더/ep+ㄴ/etm
+7	조례제정	조례제정	NOUN	_	8	compound	_	_	조례제정/ncn
+8	움직임도	움직임+도	ADV	_	9	advcl	_	_	움직임/ncn+도/jxc
+9	중단되었다	중단+되+었+다	VERB	_	0	root	_	_	중단/ncpa+되/xsv+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이들을 차례로 살펴본다 .
+1	이들을	이+들+을	PRON	_	3	obj	_	_	이/npd+들/xsn+을/jco
+2	차례로	차례+로	ADV	_	3	advcl	_	_	차례/ncn+로/jca
+3	살펴본다	살펴보+ㄴ다	VERB	_	0	root	_	_	살펴보/pvg+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 정부나 정치권력도 전체주의적 권위주의적인 것에서 더욱 충실한 민주주의가 실현되는 직접민주주의 시대로 될 것이라 진단한다 .
+1	정부나	정부+나	CCONJ	_	2	conj	_	_	정부/ncn+나/jcj
+2	정치권력도	정치권력+도	ADV	_	12	advcl	_	_	정치권력/ncn+도/jxc
+3	전체주의적	전체+주의+적	NOUN	_	4	dep	_	_	전체/ncn+주의/ncpa+적/xsn
+4	권위주의적인	권위주의+적+이+ㄴ	VERB	_	5	acl	_	_	권위주의/ncn+적/xsn+이/jp+ㄴ/etm
+5	것에서	것+에서	ADV	_	12	advcl	_	_	것/nbn+에서/jca
+6	더욱	더욱	ADV	_	7	advmod	_	_	더욱/mag
+7	충실한	충실+하+ㄴ	VERB	_	8	acl	_	_	충실/ncpa+하/xsv+ㄴ/etm
+8	민주주의가	민주주의+가	NOUN	_	9	nsubj	_	_	민주주의/ncn+가/jcs
+9	실현되는	실현+되+는	VERB	_	11	acl	_	_	실현/ncpa+되/xsv+는/etm
+10	직접민주주의	직접+민주주의	NOUN	_	11	compound	_	_	직접/ncn+민주주의/ncn
+11	시대로	시대+로	ADV	_	12	advcl	_	_	시대/ncn+로/jca
+12	될	되+ㄹ	VERB	_	14	ccomp	_	_	되/pvg+ㄹ/etm
+13	것이라	것+이+라	SCONJ	_	12	aux	_	_	것/nbn+이/jp+라/ecs
+14	진단한다	진단+하+ㄴ다	VERB	_	0	root	_	_	진단/ncpa+하/xsv+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이는 다니엘 벨과 피터 드러커가 주장하는 지식노동자와 유사하다 .
+1	이는	이+는	PRON	_	8	dislocated	_	_	이/npd+는/jxt
+2	다니엘	다니엘	PROPN	_	3	flat	_	_	다니엘/nq
+3	벨과	벨+과	CCONJ	_	5	conj	_	_	벨/nq+과/jcj
+4	피터	피터	PROPN	_	5	flat	_	_	피터/nq
+5	드러커가	드러커+가	PROPN	_	6	nsubj	_	_	드러커/nq+가/jcs
+6	주장하는	주장+하+는	VERB	_	7	acl	_	_	주장/ncpa+하/xsv+는/etm
+7	지식노동자와	지식+노동자+와	CCONJ	_	8	conj	_	_	지식/ncn+노동자/ncn+와/jct
+8	유사하다	유사+하+다	VERB	_	0	root	_	_	유사/ncps+하/xsm+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 정보사회에서 세계체제를 장악할 수 있는 힘은 정보력이다 .
+1	정보사회에서	정보+사회+에서	ADV	_	3	advcl	_	_	정보/ncn+사회/ncn+에서/jca
+2	세계체제를	세계+체제+를	NOUN	_	3	obj	_	_	세계/ncn+체제/ncn+를/jco
+3	장악할	장악+하+ㄹ	VERB	_	6	acl	_	_	장악/ncpa+하/xsv+ㄹ/etm
+4	수	수	NOUN	_	5	fixed	_	_	수/nbn
+5	있는	있+는	ADJ	_	3	aux	_	_	있/paa+는/etm
+6	힘은	힘+은	NOUN	_	7	dislocated	_	_	힘/ncn+은/jxt
+7	정보력이다	정보력+이+다	VERB	_	0	root	_	_	정보력/ncn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이에 따라 행정관료의 권한이 비대해지고 재량권이 크게 확대되었다 .
+1	이에	이+에	ADV	_	2	obl	_	_	이/npd+에/jca
+2	따라	따르+아	SCONJ	_	5	conj	_	_	따르/pvg+아/ecs
+3	행정관료의	행정+관료+의	NOUN	_	4	nmod	_	_	행정/ncn+관료/ncn+의/jcm
+4	권한이	권한+이	NOUN	_	5	nsubj	_	_	권한/ncn+이/jcs
+5	비대해지고	비대+하+어+지+고	CCONJ	_	8	conj	_	_	비대/ncps+하/xsm+어/ecx+지/px+고/ecc
+6	재량권이	재량권+이	NOUN	_	8	nsubj	_	_	재량권/ncn+이/jcs
+7	크게	크+게	SCONJ	_	8	xcomp	_	_	크/paa+게/ecs
+8	확대되었다	확대+되+었+다	VERB	_	0	root	_	_	확대/ncpa+되/xsv+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+

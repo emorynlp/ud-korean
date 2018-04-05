@@ -1,0 +1,456 @@
+# 당시의 평균수명은 대단히 짧았으며 , 유아 사망률 역시 매우 높았습니다 .
+1	당시의	당시+의	NOUN	_	2	nmod	_	_	당시/ncn+의/jcm
+2	평균수명은	평균+수명+은	NOUN	_	4	dislocated	_	_	평균/ncn+수명/ncn+은/jxt
+3	대단히	대단히	ADV	_	4	advmod	_	_	대단히/mag
+4	짧았으며	짧+았+으며	SCONJ	_	10	xcomp	_	_	짧/paa+았/ep+으며/ecs
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	유아	유아	NOUN	_	7	compound	_	_	유아/ncn
+7	사망률	사망률	NOUN	_	10	dep	_	_	사망률/ncn
+8	역시	역시	ADV	_	10	advmod	_	_	역시/mag
+9	매우	매우	ADV	_	10	advmod	_	_	매우/mag
+10	높았습니다	높+았+습니다	ADJ	_	0	root	_	_	높/paa+았/ep+습니다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이것이 바로 당시 일반적인 여성의 운명이었지요 .
+1	이것이	이것+이	PRON	_	6	nsubj	_	_	이것/npd+이/jcs
+2	바로	바로	ADV	_	6	advmod	_	_	바로/mag
+3	당시	당시	NOUN	_	5	compound	_	_	당시/ncn
+4	일반적인	일반+적+이+ㄴ	VERB	_	5	acl	_	_	일반/ncn+적/xsn+이/jp+ㄴ/etm
+5	여성의	여성+의	NOUN	_	6	nmod	_	_	여성/ncn+의/jcm
+6	운명이었지요	운명+이+었+지요	VERB	_	0	root	_	_	운명/ncn+이/jp+었/ep+지요/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 즉 당시는 모권제 사회였지요 .
+1	즉	즉	CCONJ	_	4	cc	_	_	즉/maj
+2	당시는	당시+는	NOUN	_	4	dislocated	_	_	당시/ncn+는/jxt
+3	모권제	모권제	NOUN	_	4	compound	_	_	모권제/ncn
+4	사회였지요	사회+이+었+지요	VERB	_	0	root	_	_	사회/ncn+이/jp+었/ep+지요/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 모권제가 부권제로 바뀌게 된 것이지요 .
+1	모권제가	모권제+가	NOUN	_	3	nsubj	_	_	모권제/ncn+가/jcs
+2	부권제로	부권제+로	ADV	_	3	advcl	_	_	부권제/ncn+로/jca
+3	바뀌게	바뀌+게	VERB	_	0	root	_	_	바뀌/pvg+게/ecx
+4	된	되+ㄴ	AUX	_	3	aux	_	_	되/px+ㄴ/etm
+5	것이지요	것+이+지요	VERB	_	3	aux	_	_	것/nbn+이/jp+지요/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 이는 다음과 같은 내용을 보아서도 잘 알 수 있습니다 .
+1	이는	이+는	PRON	_	7	dislocated	_	_	이/npd+는/jxt
+2	다음과	다음+과	CCONJ	_	3	conj	_	_	다음/ncn+과/jct
+3	같은	같+ㄴ	ADJ	_	4	amod	_	_	같/paa+ㄴ/etm
+4	내용을	내용+을	NOUN	_	5	obj	_	_	내용/ncn+을/jco
+5	보아서도	보+아서+도	ADV	_	7	ccomp	_	_	보/pvg+아서/ecs+도/jxc
+6	잘	잘	ADV	_	7	advmod	_	_	잘/mag
+7	알	알+ㄹ	VERB	_	0	root	_	_	알/pvg+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있습니다	있+습니다	ADJ	_	7	aux	_	_	있/paa+습니다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 가정에서의 모든 결정권을 남자가 장악하게 된 것이다 .
+1	가정에서의	가정+에서+의	NOUN	_	3	nmod	_	_	가정/ncn+에서/jca+의/jcm
+2	모든	모든	ADJ	_	3	amod	_	_	모든/mma
+3	결정권을	결정권+을	NOUN	_	5	obj	_	_	결정권/ncn+을/jco
+4	남자가	남자+가	NOUN	_	5	nsubj	_	_	남자/ncn+가/jcs
+5	장악하게	장악+하+게	VERB	_	0	root	_	_	장악/ncpa+하/xsv+게/ecx
+6	된	되+ㄴ	AUX	_	5	aux	_	_	되/px+ㄴ/etm
+7	것이다	것+이+다	VERB	_	5	aux	_	_	것/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이는 곧 기혼남성의 미혼여성에 대한 성관계를 말하는 것입니다 .
+1	이는	이+는	PRON	_	7	dislocated	_	_	이/npd+는/jxt
+2	곧	곧	ADV	_	7	advmod	_	_	곧/mag
+3	기혼남성의	기혼남성+의	NOUN	_	6	nmod	_	_	기혼남성/ncn+의/jcm
+4	미혼여성에	미혼여성+에	ADV	_	5	obl	_	_	미혼여성/ncn+에/jca
+5	대한	대하+ㄴ	VERB	_	6	acl	_	_	대하/pvg+ㄴ/etm
+6	성관계를	성관계+를	NOUN	_	7	obj	_	_	성관계/ncn+를/jco
+7	말하는	말하+는	VERB	_	0	root	_	_	말하/pvg+는/etm
+8	것입니다	것+이+ㅂ니다	VERB	_	7	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 노에제사회에서의 헤태리즘은 이후 봉건제사회에 들어서며 한층 더 음란하고 왜곡된 형태로 전개되었습니다 .
+1	노에제사회에서의	노에제사회+에서+의	NOUN	_	2	nmod	_	_	노에제사회/ncn+에서/jca+의/jcm
+2	헤태리즘은	헤태리즘+은	NOUN	_	11	dislocated	_	_	헤태리즘/ncn+은/jxt
+3	이후	이후	ADV	_	5	advmod	_	_	이후/mag
+4	봉건제사회에	봉건제사회+에	ADV	_	5	obl	_	_	봉건제사회/ncn+에/jca
+5	들어서며	들어서+며	SCONJ	_	11	ccomp	_	_	들어서/pvg+며/ecs
+6	한층	한층	ADV	_	9	advmod	_	_	한층/mag
+7	더	더	ADV	_	6	advmod	_	_	더/mag
+8	음란하고	음란+하+고	CCONJ	_	9	conj	_	_	음란/ncps+하/xsm+고/ecc
+9	왜곡된	왜곡+되+ㄴ	VERB	_	10	acl	_	_	왜곡/ncpa+되/xsv+ㄴ/etm
+10	형태로	형태+로	ADV	_	11	advcl	_	_	형태/ncn+로/jca
+11	전개되었습니다	전개+되+었+습니다	VERB	_	0	root	_	_	전개/ncpa+되/xsv+었/ep+습니다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이 점에 대해 다 같이 생각해보도록 합시다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	점에	점+에	ADV	_	3	obl	_	_	점/ncn+에/jca
+3	대해	대하+어	SCONJ	_	6	ccomp	_	_	대하/pvg+어/ecs
+4	다	다	ADV	_	5	advmod	_	_	다/mag
+5	같이	같+이	SCONJ	_	6	xcomp	_	_	같/paa+이/ecs
+6	생각해보도록	생각+하+어+보+도록	SCONJ	_	7	ccomp	_	_	생각/ncpa+하/xsv+어/ecx+보/px+도록/ecs
+7	합시다	하+ㅂ시다	VERB	_	0	root	_	_	하/pvg+ㅂ시다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 우리나라의 경우 대기업을 소유하고 있는 대자본가들에게 상당량의 재화가 집중되어 있다는 사실은 널리 알려져 있습니다 .
+1	우리나라의	우리나라+의	NOUN	_	2	nmod	_	_	우리나라/ncn+의/jcm
+2	경우	경우	NOUN	_	9	advmod	_	_	경우/ncn
+3	대기업을	대기업+을	NOUN	_	4	obj	_	_	대기업/ncn+을/jco
+4	소유하고	소유+하+고	VERB	_	6	acl	_	_	소유/ncpa+하/xsv+고/ecx
+5	있는	있+는	AUX	_	4	aux	_	_	있/px+는/etm
+6	대자본가들에게	대자본가+들+에게	ADV	_	9	iobj	_	_	대자본가/ncn+들/xsn+에게/jca
+7	상당량의	상당량+의	NOUN	_	8	nmod	_	_	상당량/ncn+의/jcm
+8	재화가	재화+가	NOUN	_	9	nsubj	_	_	재화/ncn+가/jcs
+9	집중되어	집중+되+어	VERB	_	11	acl	_	_	집중/ncpa+되/xsv+어/ecx
+10	있다는	있+다는	AUX	_	9	aux	_	_	있/px+다는/etm
+11	사실은	사실+은	NOUN	_	13	dislocated	_	_	사실/ncn+은/jxt
+12	널리	널리	ADV	_	13	advmod	_	_	널리/mag
+13	알려져	알리+어+지+어	AUX	_	0	root	_	_	알리/pvg+어/ecx+지/px+어/ecx
+14	있습니다	있+습니다	AUX	_	13	aux	_	_	있/px+습니다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이는 곧 그만큼 인류사회가 자연의 법칙에 충실히 따르는 것이라 할 수 있겠지요 .
+1	이는	이+는	PRON	_	10	dislocated	_	_	이/npd+는/jxt
+2	곧	곧	ADV	_	10	advmod	_	_	곧/mag
+3	그만큼	그+만큼	ADV	_	8	advcl	_	_	그/npd+만큼/jca
+4	인류사회가	인류+사회+가	NOUN	_	8	nsubj	_	_	인류/ncn+사회/ncn+가/jcs
+5	자연의	자연+의	NOUN	_	6	nmod	_	_	자연/ncn+의/jcm
+6	법칙에	법칙+에	ADV	_	8	obl	_	_	법칙/ncn+에/jca
+7	충실히	충실히	ADV	_	8	advmod	_	_	충실히/mag
+8	따르는	따르+는	VERB	_	10	ccomp	_	_	따르/pvg+는/etm
+9	것이라	것+이+라	SCONJ	_	8	aux	_	_	것/nbn+이/jp+라/ecs
+10	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있겠지요	있+겠+지요	ADJ	_	10	aux	_	_	있/paa+겠/ep+지요/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 미래의 태양은 여성입니다 .
+1	미래의	미래+의	NOUN	_	2	nmod	_	_	미래/ncn+의/jcm
+2	태양은	태양+은	NOUN	_	3	dislocated	_	_	태양/ncn+은/jxt
+3	여성입니다	여성+이+ㅂ니다	VERB	_	0	root	_	_	여성/ncn+이/jp+ㅂ니다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 처음에는 집단혼의 형태가 오랫동안 유지되었습니다 .
+1	처음에는	처음+에+는	NOUN	_	5	dislocated	_	_	처음/ncn+에/jca+는/jxt
+2	집단혼의	집단혼+의	NOUN	_	3	nmod	_	_	집단혼/ncn+의/jcm
+3	형태가	형태+가	NOUN	_	5	nsubj	_	_	형태/ncn+가/jcs
+4	오랫동안	오랫동안	ADV	_	5	advmod	_	_	오랫동안/mag
+5	유지되었습니다	유지+되+었+습니다	VERB	_	0	root	_	_	유지/ncpa+되/xsv+었/ep+습니다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 힘을 합하지 않으면 즉시 굶어 죽게 되거나 야수에게 잡혀 먹히는 매일매일 속에서 인간은 특유한 인간집단을 형성해냈던 것입니다 .
+1	힘을	힘+을	NOUN	_	2	obj	_	_	힘/ncn+을/jco
+2	합하지	합하+지	VERB	_	6	ccomp	_	_	합하/pvg+지/ecx
+3	않으면	않+으면	SCONJ	_	2	aux	_	_	않/px+으면/ecs
+4	즉시	즉시	ADV	_	6	advmod	_	_	즉시/mag
+5	굶어	굶+어	SCONJ	_	6	ccomp	_	_	굶/pvg+어/ecs
+6	죽게	죽+게	VERB	_	10	conj	_	_	죽/pvg+게/ecx
+7	되거나	되+거나	CCONJ	_	6	aux	_	_	되/px+거나/ecc
+8	야수에게	야수+에게	ADV	_	10	iobj	_	_	야수/ncn+에게/jca
+9	잡혀	잡히+어	SCONJ	_	10	ccomp	_	_	잡히/pvg+어/ecs
+10	먹히는	먹히+는	VERB	_	11	acl	_	_	먹히/pvg+는/etm
+11	매일매일	매일매일	NOUN	_	12	compound	_	_	매일매일/ncn
+12	속에서	속+에서	ADV	_	16	advcl	_	_	속/ncn+에서/jca
+13	인간은	인간+은	NOUN	_	16	dislocated	_	_	인간/ncn+은/jxt
+14	특유한	특유+하+ㄴ	VERB	_	15	amod	_	_	특유/ncps+하/xsm+ㄴ/etm
+15	인간집단을	인간+집단+을	NOUN	_	16	obj	_	_	인간/ncn+집단/ncn+을/jco
+16	형성해냈던	형성+하+어+내+ㅆ더+ㄴ	AUX	_	0	root	_	_	형성/ncpa+하/xsv+어/ecx+내/px+ㅆ더/ep+ㄴ/etm
+17	것입니다	것+이+ㅂ니다	VERB	_	16	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이 때문에 인간이 자기 자식에게 무엇인가를 남겨주고자 할 경우 재산은 여성에게 여성으로 상속되었습니다 .
+1	이	이	PRON	_	2	compound	_	_	이/npd
+2	때문에	때문+에	ADV	_	13	obl	_	_	때문/nbn+에/jca
+3	인간이	인간+이	NOUN	_	7	nsubj	_	_	인간/ncn+이/jcs
+4	자기	자기	PRON	_	5	compound	_	_	자기/npp
+5	자식에게	자식+에게	ADV	_	7	iobj	_	_	자식/ncn+에게/jca
+6	무엇인가를	무엇+이+ㄴ가+를	PRON	_	7	obj	_	_	무엇/npd+이/jp+ㄴ가/ef+를/jco
+7	남겨주고자	남기+어+주+고자	SCONJ	_	8	ccomp	_	_	남기/pvg+어/ecx+주/px+고자/ecs
+8	할	하+ㄹ	VERB	_	9	acl	_	_	하/pvg+ㄹ/etm
+9	경우	경우	NOUN	_	13	advmod	_	_	경우/ncn
+10	재산은	재산+은	NOUN	_	13	dislocated	_	_	재산/ncn+은/jxt
+11	여성에게	여성+에게	ADV	_	13	iobj	_	_	여성/ncn+에게/jca
+12	여성으로	여성+으로	ADV	_	13	advcl	_	_	여성/ncn+으로/jca
+13	상속되었습니다	상속+되+었+습니다	VERB	_	0	root	_	_	상속/ncpa+되/xsv+었/ep+습니다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그들이 여자노예에 대해 개인적인 성애를 가졌던 것은 아닙니다 .
+1	그들이	그+들+이	PRON	_	6	nsubj	_	_	그/npp+들/xsn+이/jcs
+2	여자노예에	여자+노예+에	ADV	_	3	obl	_	_	여자/ncn+노예/ncn+에/jca
+3	대해	대하+어	SCONJ	_	6	ccomp	_	_	대하/pvg+어/ecs
+4	개인적인	개인+적+이+ㄴ	VERB	_	5	acl	_	_	개인/ncn+적/xsn+이/jp+ㄴ/etm
+5	성애를	성애+를	NOUN	_	6	obj	_	_	성애/ncn+를/jco
+6	가졌던	가지+었더+ㄴ	VERB	_	7	acl	_	_	가지/pvg+었더/ep+ㄴ/etm
+7	것은	것+은	NOUN	_	8	dislocated	_	_	것/nbn+은/jxt
+8	아닙니다	아니+ㅂ니다	ADJ	_	0	root	_	_	아니/paa+ㅂ니다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 봉건제하에서도 마찬가지였습니다 .
+1	봉건제하에서도	봉건제하+에서+도	ADV	_	2	advcl	_	_	봉건제하/ncn+에서/jca+도/jxc
+2	마찬가지였습니다	마찬가지+이+었+습니다	VERB	_	0	root	_	_	마찬가지/ncn+이/jp+었/ep+습니다/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 중세 유럽의 기사들은 신분이 높은 여성 중에 자기가 동경하는 사람을 결정합니다 .
+1	중세	중세	NOUN	_	2	compound	_	_	중세/ncn
+2	유럽의	유럽+의	PROPN	_	3	nmod	_	_	유럽/nq+의/jcm
+3	기사들은	기사+들+은	NOUN	_	11	dislocated	_	_	기사/ncn+들/xsn+은/jxt
+4	신분이	신분+이	NOUN	_	5	nsubj	_	_	신분/ncn+이/jcs
+5	높은	높+ㄴ	ADJ	_	6	amod	_	_	높/paa+ㄴ/etm
+6	여성	여성	NOUN	_	7	compound	_	_	여성/ncn
+7	중에	중+에	ADV	_	11	obl	_	_	중/nbn+에/jca
+8	자기가	자기+가	NOUN	_	9	nsubj	_	_	자기/ncn+가/jcs
+9	동경하는	동경+하+는	VERB	_	10	acl	_	_	동경/ncpa+하/xsv+는/etm
+10	사람을	사람+을	NOUN	_	11	obj	_	_	사람/ncn+을/jco
+11	결정합니다	결정+하+ㅂ니다	VERB	_	0	root	_	_	결정/ncpa+하/xsv+ㅂ니다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 우리나라 역사에서도 마찬가지로 양반 사대부들과 기녀들 간에 벌어지는 농도 짙은 사연들을 무수히 찾아볼 수 있습니다 .
+1	우리나라	우리나라	NOUN	_	2	compound	_	_	우리나라/ncn
+2	역사에서도	역사+에서+도	ADV	_	13	advcl	_	_	역사/ncn+에서/jca+도/jxc
+3	마찬가지로	마찬가지+로	ADV	_	13	advcl	_	_	마찬가지/ncn+로/jca
+4	양반	양반	NOUN	_	5	compound	_	_	양반/ncn
+5	사대부들과	사대부+들+과	CCONJ	_	6	conj	_	_	사대부/ncn+들/xsn+과/jcj
+6	기녀들	기녀+들	NOUN	_	7	compound	_	_	기녀/ncn+들/xsn
+7	간에	간+에	ADV	_	8	obl	_	_	간/nbn+에/jca
+8	벌어지는	벌어지+는	VERB	_	11	acl	_	_	벌어지/pvg+는/etm
+9	농도	농도	NOUN	_	10	dep	_	_	농도/ncn
+10	짙은	짙+ㄴ	ADJ	_	11	amod	_	_	짙/paa+ㄴ/etm
+11	사연들을	사연+들+을	NOUN	_	13	obj	_	_	사연/ncn+들/xsn+을/jco
+12	무수히	무수히	ADV	_	13	advmod	_	_	무수히/mag
+13	찾아볼	찾아보+ㄹ	VERB	_	0	root	_	_	찾아보/pvg+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있습니다	있+습니다	ADJ	_	13	aux	_	_	있/paa+습니다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 마찬가지로 민주주의와 기본적 인권을 인정하는 각 국가는 기본법으로써 이 사실을 보장합니다 .
+1	마찬가지로	마찬가지+로	ADV	_	11	advcl	_	_	마찬가지/ncn+로/jca
+2	민주주의와	민주주의+와	CCONJ	_	4	conj	_	_	민주주의/ncn+와/jcj
+3	기본적	기본+적	NOUN	_	4	amod	_	_	기본/ncn+적/xsn
+4	인권을	인권+을	NOUN	_	5	obj	_	_	인권/ncn+을/jco
+5	인정하는	인정+하+는	VERB	_	7	acl	_	_	인정/ncpa+하/xsv+는/etm
+6	각	각	ADJ	_	7	amod	_	_	각/mma
+7	국가는	국가+는	NOUN	_	11	dislocated	_	_	국가/ncn+는/jxt
+8	기본법으로써	기본법+으로써	ADV	_	11	advcl	_	_	기본법/ncn+으로써/jca
+9	이	이	DET	_	10	det	_	_	이/mmd
+10	사실을	사실+을	NOUN	_	11	obj	_	_	사실/ncn+을/jco
+11	보장합니다	보장+하+ㅂ니다	VERB	_	0	root	_	_	보장/ncpa+하/xsv+ㅂ니다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 대부분의 국가의 헌법이나 가족법 등을 보면 다음과 같은 내용을 포함하고 있습니다 .
+1	대부분의	대부분+의	NOUN	_	2	nmod	_	_	대부분/ncn+의/jcm
+2	국가의	국가+의	NOUN	_	3	nmod	_	_	국가/ncn+의/jcm
+3	헌법이나	헌법+이나	CCONJ	_	4	conj	_	_	헌법/ncn+이나/jcj
+4	가족법	가족법	NOUN	_	5	compound	_	_	가족법/ncn
+5	등을	등+을	NOUN	_	6	obj	_	_	등/nbn+을/jco
+6	보면	보+면	SCONJ	_	10	ccomp	_	_	보/pvg+면/ecs
+7	다음과	다음+과	CCONJ	_	8	conj	_	_	다음/ncn+과/jct
+8	같은	같+ㄴ	ADJ	_	9	amod	_	_	같/paa+ㄴ/etm
+9	내용을	내용+을	NOUN	_	10	obj	_	_	내용/ncn+을/jco
+10	포함하고	포함+하+고	VERB	_	0	root	_	_	포함/ncpa+하/xsv+고/ecx
+11	있습니다	있+습니다	AUX	_	10	aux	_	_	있/px+습니다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 남녀의 평등권을 모든 분야에서 옹호하고 확립해야 한다 .
+1	남녀의	남녀+의	NOUN	_	2	nmod	_	_	남녀/ncn+의/jcm
+2	평등권을	평등권+을	NOUN	_	6	obj	_	_	평등권/ncn+을/jco
+3	모든	모든	ADJ	_	4	amod	_	_	모든/mma
+4	분야에서	분야+에서	ADV	_	6	advcl	_	_	분야/ncn+에서/jca
+5	옹호하고	옹호+하+고	CCONJ	_	6	conj	_	_	옹호/ncpa+하/xsv+고/ecc
+6	확립해야	확립+하+어야	VERB	_	0	root	_	_	확립/ncpa+하/xsv+어야/ecx
+7	한다	하+ㄴ다	AUX	_	6	aux	_	_	하/px+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 대체로 민주적이지 못한 사회에서 청소년들의 장래는 집안 재산 등에 의해 이미 태어나기 전에 정해집니다 .
+1	대체로	대체로	ADV	_	14	advmod	_	_	대체로/mag
+2	민주적이지	민주+적+이+지	VERB	_	4	acl	_	_	민주/ncn+적/xsn+이/jp+지/ecx
+3	못한	못하+ㄴ	AUX	_	2	aux	_	_	못하/px+ㄴ/etm
+4	사회에서	사회+에서	ADV	_	14	advcl	_	_	사회/ncn+에서/jca
+5	청소년들의	청소년+들+의	NOUN	_	6	nmod	_	_	청소년/ncn+들/xsn+의/jcm
+6	장래는	장래+는	NOUN	_	14	dislocated	_	_	장래/ncn+는/jxt
+7	집안	집안	NOUN	_	8	compound	_	_	집안/ncn
+8	재산	재산	NOUN	_	9	compound	_	_	재산/ncn
+9	등에	등+에	ADV	_	10	obl	_	_	등/nbn+에/jca
+10	의해	의하+어	SCONJ	_	14	ccomp	_	_	의하/pvg+어/ecs
+11	이미	이미	ADV	_	12	advmod	_	_	이미/mag
+12	태어나기	태어나+기	VERB	_	13	nmod	_	_	태어나/pvg+기/etn
+13	전에	전+에	ADV	_	14	obl	_	_	전/ncn+에/jca
+14	정해집니다	정하+어+지+ㅂ니다	AUX	_	0	root	_	_	정하/pvg+어/ecx+지/px+ㅂ니다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 따라서 이러한 여성관이 참다운 민주사회를 구축함에서 커다란 장애물임도 두말할 나위도 없겠지요 .
+1	따라서	따라서	CCONJ	_	11	cc	_	_	따라서/maj
+2	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+3	여성관이	여성관+이	NOUN	_	8	nsubj	_	_	여성관/ncn+이/jcs
+4	참다운	참답+ㄴ	ADJ	_	5	amod	_	_	참답/paa+ㄴ/etm
+5	민주사회를	민주+사회+를	NOUN	_	6	obj	_	_	민주/ncn+사회/ncn+를/jco
+6	구축함에서	구축+하+ㅁ+에서	ADV	_	8	advcl	_	_	구축/ncpa+하/xsv+ㅁ/etn+에서/jca
+7	커다란	커다랗+ㄴ	ADJ	_	8	amod	_	_	커다랗/paa+ㄴ/etm
+8	장애물임도	장애물+이+ㅁ+도	ADV	_	11	advcl	_	_	장애물/ncn+이/jp+ㅁ/etn+도/jxc
+9	두말할	두말+하+ㄹ	VERB	_	10	acl	_	_	두말/ncpa+하/xsv+ㄹ/etm
+10	나위도	나위+도	ADV	_	11	advcl	_	_	나위/nbn+도/jxc
+11	없겠지요	없+겠+지요	ADJ	_	0	root	_	_	없/paa+겠/ep+지요/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 중세 이전에는 개인적 성애는 문제시될 수 없었다 .
+1	중세	중세	NOUN	_	2	compound	_	_	중세/ncn
+2	이전에는	이전+에+는	NOUN	_	5	dislocated	_	_	이전/ncn+에/jca+는/jxt
+3	개인적	개인+적	NOUN	_	4	amod	_	_	개인/ncn+적/xsn
+4	성애는	성애+는	NOUN	_	5	dislocated	_	_	성애/ncn+는/jxt
+5	문제시될	문제시+되+ㄹ	VERB	_	0	root	_	_	문제시/ncpa+되/xsv+ㄹ/etm
+6	수	수	NOUN	_	7	fixed	_	_	수/nbn
+7	없었다	없+었+다	ADJ	_	5	aux	_	_	없/paa+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 따라서 서로의 애정을 올바르게 지키기 위하여 연인들은 위험한 다리도 건너고 , 때로는 목숨을 걸기도 합니다 .
+1	따라서	따라서	CCONJ	_	14	cc	_	_	따라서/maj
+2	서로의	서로+의	NOUN	_	3	nmod	_	_	서로/ncn+의/jcm
+3	애정을	애정+을	NOUN	_	5	obj	_	_	애정/ncn+을/jco
+4	올바르게	올바르+게	SCONJ	_	5	xcomp	_	_	올바르/paa+게/ecs
+5	지키기	지키+기	VERB	_	6	nmod	_	_	지키/pvg+기/etn
+6	위하여	위하+어	SCONJ	_	14	ccomp	_	_	위하/pvg+어/ecs
+7	연인들은	연인+들+은	NOUN	_	14	dislocated	_	_	연인/ncn+들/xsn+은/jxt
+8	위험한	위험+하+ㄴ	VERB	_	9	amod	_	_	위험/ncps+하/xsm+ㄴ/etm
+9	다리도	다리+도	ADV	_	10	advcl	_	_	다리/ncn+도/jxc
+10	건너고	건너+고	CCONJ	_	14	conj	_	_	건너/pvg+고/ecc
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	때로는	때로+는	NOUN	_	14	advmod	_	_	때로/mag+는/jxt
+13	목숨을	목숨+을	NOUN	_	14	obj	_	_	목숨/ncn+을/jco
+14	걸기도	걸+기+도	ADV	_	0	root	_	_	걸/pvg+기/etn+도/jxc
+15	합니다	하+ㅂ니다	AUX	_	14	aux	_	_	하/px+ㅂ니다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 통일될 수밖에 없습니다 .
+1	통일될	통일+되+ㄹ	VERB	_	0	root	_	_	통일/ncpa+되/xsv+ㄹ/etm
+2	수밖에	수+밖에	ADV	_	3	fixed	_	_	수/nbn+밖에/jxc
+3	없습니다	없+습니다	ADJ	_	1	aux	_	_	없/paa+습니다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 여성들의 일터에는 여전히 봉건적 .
+1	여성들의	여성+들+의	NOUN	_	2	nmod	_	_	여성/ncn+들/xsn+의/jcm
+2	일터에는	일터+에+는	NOUN	_	4	dislocated	_	_	일터/ncn+에/jca+는/jxt
+3	여전히	여전히	ADV	_	4	advmod	_	_	여전히/mag
+4	봉건적	봉건+적	NOUN	_	0	root	_	_	봉건/ncn+적/xsn
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 사실 이 같은 의문을 제기한 사람은 이미 자기 스스로 문제의 반 이상은 해결한 셈입니다 .
+1	사실	사실	ADV	_	13	advmod	_	_	사실/mag
+2	이	이	PRON	_	3	dep	_	_	이/npd
+3	같은	같+ㄴ	ADJ	_	4	amod	_	_	같/paa+ㄴ/etm
+4	의문을	의문+을	NOUN	_	5	obj	_	_	의문/ncn+을/jco
+5	제기한	제기+하+ㄴ	VERB	_	6	acl	_	_	제기/ncpa+하/xsv+ㄴ/etm
+6	사람은	사람+은	NOUN	_	13	dislocated	_	_	사람/ncn+은/jxt
+7	이미	이미	ADV	_	13	advmod	_	_	이미/mag
+8	자기	자기	PRON	_	9	compound	_	_	자기/npp
+9	스스로	스스로	PRON	_	13	advmod	_	_	스스로/npp
+10	문제의	문제+의	NOUN	_	11	nmod	_	_	문제/ncn+의/jcm
+11	반	반	NOUN	_	12	compound	_	_	반/ncn
+12	이상은	이상+은	NOUN	_	13	dislocated	_	_	이상/ncn+은/jxt
+13	해결한	해결+하+ㄴ	VERB	_	0	root	_	_	해결/ncpa+하/xsv+ㄴ/etm
+14	셈입니다	셈+이+ㅂ니다	VERB	_	13	aux	_	_	셈/nbn+이/jp+ㅂ니다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 문제는 외모의 아름다움이라는 것을 어떤 차원에서 바라보아야 할 것인가에 있습니다 .
+1	문제는	문제+는	NOUN	_	10	dislocated	_	_	문제/ncn+는/jxt
+2	외모의	외모+의	NOUN	_	3	nmod	_	_	외모/ncn+의/jcm
+3	아름다움이라는	아름다움+이+라는	VERB	_	4	acl	_	_	아름다움/ncn+이/jp+라는/etm
+4	것을	것+을	NOUN	_	7	obj	_	_	것/nbn+을/jco
+5	어떤	어떤	DET	_	6	det	_	_	어떤/mmd
+6	차원에서	차원+에서	ADV	_	7	advcl	_	_	차원/ncn+에서/jca
+7	바라보아야	바라보+아야	VERB	_	10	obl	_	_	바라보/pvg+아야/ecx
+8	할	하+ㄹ	AUX	_	7	aux	_	_	하/px+ㄹ/etm
+9	것인가에	것+이+ㄴ가+에	ADV	_	7	aux	_	_	것/nbn+이/jp+ㄴ가/ef+에/jca
+10	있습니다	있+습니다	ADJ	_	0	root	_	_	있/paa+습니다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 태어날 때부터 외모가 빼어난 사람도 분명히 있습니다 .
+1	태어날	태어나+ㄹ	VERB	_	2	acl	_	_	태어나/pvg+ㄹ/etm
+2	때부터	때+부터	ADV	_	4	advcl	_	_	때/ncn+부터/jxc
+3	외모가	외모+가	NOUN	_	4	nsubj	_	_	외모/ncn+가/jcs
+4	빼어난	빼어나+ㄴ	ADJ	_	5	amod	_	_	빼어나/paa+ㄴ/etm
+5	사람도	사람+도	ADV	_	7	advcl	_	_	사람/ncn+도/jxc
+6	분명히	분명히	ADV	_	7	advmod	_	_	분명히/mag
+7	있습니다	있+습니다	ADJ	_	0	root	_	_	있/paa+습니다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 즉 인간에게는 보편적인 아름다움이 있다는 것입니다 .
+1	즉	즉	CCONJ	_	5	cc	_	_	즉/maj
+2	인간에게는	인간+에게+는	NOUN	_	5	dislocated	_	_	인간/ncn+에게/jca+는/jxt
+3	보편적인	보편적+적+이+ㄴ	VERB	_	4	acl	_	_	보편적/ncn+적/xsn+이/jp+ㄴ/etm
+4	아름다움이	아름다움+이	NOUN	_	5	nsubj	_	_	아름다움/ncn+이/jcs
+5	있다는	있+다는	ADJ	_	0	root	_	_	있/paa+다는/etm
+6	것입니다	것+이+ㅂ니다	VERB	_	5	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 물질적 가치기준에 마비된 서양사람들은 개인의 외형적 아름다움을 마치 상품의 질을 판별하듯 취급하고 있습니다 .
+1	물질적	물질+적	NOUN	_	2	amod	_	_	물질/ncn+적/xsn
+2	가치기준에	가치기준+에	ADV	_	3	obl	_	_	가치기준/ncn+에/jca
+3	마비된	마비+되+ㄴ	VERB	_	4	acl	_	_	마비/ncpa+되/xsv+ㄴ/etm
+4	서양사람들은	서양+사람+들+은	NOUN	_	12	dislocated	_	_	서양/ncn+사람/ncn+들/xsn+은/jxt
+5	개인의	개인+의	NOUN	_	7	nmod	_	_	개인/ncn+의/jcm
+6	외형적	외형+적	NOUN	_	7	amod	_	_	외형/ncn+적/xsn
+7	아름다움을	아름다움+을	NOUN	_	12	obj	_	_	아름다움/ncn+을/jco
+8	마치	마치	ADV	_	11	advmod	_	_	마치/mag
+9	상품의	상품+의	NOUN	_	10	nmod	_	_	상품/ncn+의/jcm
+10	질을	질+을	NOUN	_	11	obj	_	_	질/ncn+을/jco
+11	판별하듯	판별+하+듯	SCONJ	_	12	ccomp	_	_	판별/ncpa+하/xsv+듯/ecs
+12	취급하고	취급+하+고	VERB	_	0	root	_	_	취급/ncpa+하/xsv+고/ecx
+13	있습니다	있+습니다	AUX	_	12	aux	_	_	있/px+습니다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 여러분도 잘 아시다시피 매년 각종 이름을 붙인 미인선발대회가 수도 없이 열리고 있습니다 .
+1	여러분도	여러분+도	ADV	_	3	advcl	_	_	여러분/npp+도/jxc
+2	잘	잘	ADV	_	3	advmod	_	_	잘/mag
+3	아시다시피	알+시+다시피	SCONJ	_	11	ccomp	_	_	알/pvg+시/ep+다시피/ecs
+4	매년	매년	NOUN	_	11	advmod	_	_	매년/ncn
+5	각종	각종	NOUN	_	6	compound	_	_	각종/ncn
+6	이름을	이름+을	NOUN	_	7	obj	_	_	이름/ncn+을/jco
+7	붙인	붙이+ㄴ	VERB	_	8	acl	_	_	붙이/pvg+ㄴ/etm
+8	미인선발대회가	미인+선발대회+가	NOUN	_	11	nsubj	_	_	미인/ncn+선발대회/ncn+가/jcs
+9	수도	수+도	ADV	_	10	advcl	_	_	수/ncn+도/jxc
+10	없이	없+이	SCONJ	_	11	xcomp	_	_	없/paa+이/ecs
+11	열리고	열리+고	VERB	_	0	root	_	_	열리/pvg+고/ecx
+12	있습니다	있+습니다	AUX	_	11	aux	_	_	있/px+습니다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 예를 들어 머리모양을 생각해 봅시다 .
+1	예를	예+를	NOUN	_	2	obj	_	_	예/ncn+를/jco
+2	들어	들+어	SCONJ	_	4	ccomp	_	_	들/pvg+어/ecs
+3	머리모양을	머리+모양+을	NOUN	_	4	obj	_	_	머리/ncn+모양/ncn+을/jco
+4	생각해	생각+하+어	VERB	_	0	root	_	_	생각/ncpa+하/xsv+어/ecx
+5	봅시다	보+ㅂ시다	AUX	_	4	aux	_	_	보/px+ㅂ시다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 밤 열 시가 넘어 서울의 종로거리를 지나가본 적이 있는지 모르겠습니다 .
+1	밤	밤	NOUN	_	3	compound	_	_	밤/ncn
+2	열	열	NUM	_	3	nummod	_	_	열/nnc
+3	시가	시+가	NOUN	_	4	nsubj	_	_	시/nbu+가/jcs
+4	넘어	넘+어	SCONJ	_	7	ccomp	_	_	넘/pvg+어/ecs
+5	서울의	서울+의	PROPN	_	6	nmod	_	_	서울/nq+의/jcm
+6	종로거리를	종로+거리+를	PROPN	_	7	obj	_	_	종로/nq+거리/ncn+를/jco
+7	지나가본	지나가+아+보+ㄴ	AUX	_	8	acl	_	_	지나가/pvg+아/ecx+보/px+ㄴ/etm
+8	적이	적+이	NOUN	_	9	nsubj	_	_	적/nbn+이/jcs
+9	있는지	있+는지	SCONJ	_	10	xcomp	_	_	있/paa+는지/ecs
+10	모르겠습니다	모르+겠+습니다	VERB	_	0	root	_	_	모르/pvg+겠/ep+습니다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 수십 명 , 수백 명에 이르는 젊은 십대 남녀들이 길바닥에 쭈그리고 앉아 있는 광경을 볼 수 있을 겁니다 .
+1	수십	수십	NUM	_	2	nummod	_	_	수십/nnc
+2	명	명	NOUN	_	5	compound	_	_	명/nbu
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	수백	수백	NUM	_	5	nummod	_	_	수백/nnc
+5	명에	명+에	ADV	_	6	obl	_	_	명/nbu+에/jca
+6	이르는	이르+는	VERB	_	9	acl	_	_	이르/pvg+는/etm
+7	젊은	젊+ㄴ	ADJ	_	9	amod	_	_	젊/paa+ㄴ/etm
+8	십대	십대	NOUN	_	9	compound	_	_	십대/ncn
+9	남녀들이	남녀+들+이	NOUN	_	12	nsubj	_	_	남녀/ncn+들/xsn+이/jcs
+10	길바닥에	길바닥+에	ADV	_	12	obl	_	_	길바닥/ncn+에/jca
+11	쭈그리고	쭈그리+고	CCONJ	_	12	conj	_	_	쭈그리/pvg+고/ecc
+12	앉아	앉+아	VERB	_	14	acl	_	_	앉/pvg+아/ecx
+13	있는	있+는	AUX	_	12	aux	_	_	있/px+는/etm
+14	광경을	광경+을	NOUN	_	15	obj	_	_	광경/ncn+을/jco
+15	볼	보+ㄹ	VERB	_	0	root	_	_	보/pvg+ㄹ/etm
+16	수	수	NOUN	_	17	fixed	_	_	수/nbn
+17	있을	있+ㄹ	ADJ	_	15	aux	_	_	있/paa+ㄹ/etm
+18	겁니다	거+이+ㅂ니다	VERB	_	15	aux	_	_	거/nbn+이/jp+ㅂ니다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+

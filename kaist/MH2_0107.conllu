@@ -1,0 +1,1874 @@
+# 광물학은 광물을 연구하는 학문이고 생물학은 생물을 연구하는 학문이라는 것은 글자만 보더라도 금방 알 수 있다 .
+1	광물학은	광물학+은	NOUN	_	4	dislocated	_	_	광물학/ncn+은/jxt
+2	광물을	광물+을	NOUN	_	3	obj	_	_	광물/ncn+을/jco
+3	연구하는	연구+하+는	VERB	_	4	ccomp	_	_	연구/ncpa+하/xsv+는/etm
+4	학문이고	학문+이+고	CCONJ	_	8	conj	_	_	학문/ncpa+이/jp+고/ecc
+5	생물학은	생물학+은	NOUN	_	8	dislocated	_	_	생물학/ncn+은/jxt
+6	생물을	생물+을	NOUN	_	7	obj	_	_	생물/ncn+을/jco
+7	연구하는	연구+하+는	VERB	_	8	ccomp	_	_	연구/ncpa+하/xsv+는/etm
+8	학문이라는	학문+이+라는	VERB	_	9	acl	_	_	학문/ncpa+이/jp+라는/etm
+9	것은	것+은	NOUN	_	13	dislocated	_	_	것/nbn+은/jxt
+10	글자만	글자+만	ADV	_	11	advcl	_	_	글자/ncn+만/jxc
+11	보더라도	보+더라+도	ADV	_	13	ccomp	_	_	보/pvg+더라/ecs+도/jxc
+12	금방	금방	ADV	_	13	advmod	_	_	금방/mag
+13	알	알+ㄹ	VERB	_	0	root	_	_	알/pvg+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있다	있+다	ADJ	_	13	aux	_	_	있/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그러나 철학의 경우에는 글자만을 보아서는 전혀 뜻을 알 수가 없다 .
+1	그러나	그러나	CCONJ	_	8	cc	_	_	그러나/maj
+2	철학의	철학+의	NOUN	_	3	nmod	_	_	철학/ncn+의/jcm
+3	경우에는	경우+에+는	NOUN	_	8	dislocated	_	_	경우/ncn+에/jca+는/jxt
+4	글자만을	글자+만+을	NOUN	_	5	obj	_	_	글자/ncn+만/jxc+을/jco
+5	보아서는	보+아서+는	NOUN	_	8	ccomp	_	_	보/pvg+아서/ecs+는/jxt
+6	전혀	전혀	ADV	_	8	advmod	_	_	전혀/mag
+7	뜻을	뜻+을	NOUN	_	8	obj	_	_	뜻/ncn+을/jco
+8	알	알+ㄹ	VERB	_	0	root	_	_	알/pvg+ㄹ/etm
+9	수가	수+가	NOUN	_	10	fixed	_	_	수/nbn+가/jcs
+10	없다	없+다	ADJ	_	8	aux	_	_	없/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 철학에서는 무엇을 문제로 하는가 ?
+1	철학에서는	철학+에서+는	NOUN	_	4	dislocated	_	_	철학/ncn+에서/jca+는/jxt
+2	무엇을	무엇+을	PRON	_	4	obj	_	_	무엇/npd+을/jco
+3	문제로	문제+로	ADV	_	4	advcl	_	_	문제/ncn+로/jca
+4	하는가	하+는가	VERB	_	0	root	_	_	하/pvg+는가/ef
+5	?	?	PUNCT	_	4	punct	_	_	?/sf
+
+# 철학에서 문제로 삼는 것은 세계관이다 .
+1	철학에서	철학+에서	ADV	_	3	advcl	_	_	철학/ncn+에서/jca
+2	문제로	문제+로	ADV	_	3	advcl	_	_	문제/ncn+로/jca
+3	삼는	삼+는	VERB	_	4	acl	_	_	삼/pvg+는/etm
+4	것은	것+은	NOUN	_	5	dislocated	_	_	것/nbn+은/jxt
+5	세계관이다	세계관+이+다	VERB	_	0	root	_	_	세계관/ncn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 다만 여기에서 말하는 세계란 세계지도라 할 때의 세계와는 다르다 .
+1	다만	다만	CCONJ	_	9	cc	_	_	다만/maj
+2	여기에서	여기+에서	ADV	_	3	advcl	_	_	여기/npd+에서/jca
+3	말하는	말하+는	VERB	_	4	acl	_	_	말하/pvg+는/etm
+4	세계란	세계+란	ADV	_	9	advcl	_	_	세계/ncn+란/jxc
+5	세계지도라	세계+지도+이+라	VERB	_	6	ccomp	_	_	세계/ncn+지도/ncn+이/jp+라/ef
+6	할	하+ㄹ	VERB	_	7	acl	_	_	하/pvg+ㄹ/etm
+7	때의	때+의	NOUN	_	8	nmod	_	_	때/ncn+의/jcm
+8	세계와는	세계+와+는	NOUN	_	9	dislocated	_	_	세계/ncn+와/jct+는/jxt
+9	다르다	다르+다	ADJ	_	0	root	_	_	다르/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 여기서는 존재하는 모든 것 , 모든 사물을 일괄해서 세계라고 말하는 것이다 .
+1	여기서는	여기서+는	PRON	_	10	dislocated	_	_	여기서/npd+는/jxt
+2	존재하는	존재+하+는	VERB	_	4	acl	_	_	존재/ncpa+하/xsv+는/etm
+3	모든	모든	DET	_	4	det	_	_	모든/mmd
+4	것	것	NOUN	_	7	compound	_	_	것/nbn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	모든	모든	DET	_	7	det	_	_	모든/mmd
+7	사물을	사물+을	NOUN	_	8	obj	_	_	사물/ncn+을/jco
+8	일괄해서	일괄+하+어서	SCONJ	_	10	ccomp	_	_	일괄/ncpa+하/xsv+어서/ecs
+9	세계라고	세계+이+라+고	VERB	_	10	conj	_	_	세계/ncn+이/jp+라/ef+고/jcr
+10	말하는	말하+는	VERB	_	0	root	_	_	말하/pvg+는/etm
+11	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러므로 쉽게 말해서 세계관이란 사물을 보는 방식과 생각하는 방식을 말하는 것이라고 할 수 있다 .
+1	그러므로	그러므로	CCONJ	_	12	cc	_	_	그러므로/maj
+2	쉽게	쉽+게	SCONJ	_	3	xcomp	_	_	쉽/paa+게/ecs
+3	말해서	말하+어서	SCONJ	_	12	ccomp	_	_	말하/pvg+어서/ecs
+4	세계관이란	세계관+이란	ADV	_	11	advcl	_	_	세계관/ncn+이란/jxc
+5	사물을	사물+을	NOUN	_	6	obj	_	_	사물/ncn+을/jco
+6	보는	보+는	VERB	_	7	acl	_	_	보/pvg+는/etm
+7	방식과	방식+과	CCONJ	_	9	conj	_	_	방식/ncn+과/jcj
+8	생각하는	생각+하+는	VERB	_	9	acl	_	_	생각/ncpa+하/xsv+는/etm
+9	방식을	방식+을	NOUN	_	10	obj	_	_	방식/ncn+을/jco
+10	말하는	말하+는	VERB	_	11	ccomp	_	_	말하/pvg+는/etm
+11	것이라고	것+이+라+고	VERB	_	12	conj	_	_	것/nbn+이/jp+라/ef+고/jcr
+12	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+13	수	수	NOUN	_	14	fixed	_	_	수/nbn
+14	있다	있+다	ADJ	_	12	aux	_	_	있/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 다만 사물을 보는 방식과 생각하는 방식이라고 하면 무언가 이치를 캐는 일만을 연상하는 사람이 있을지도 모르지만 그러한 것만이 세계관은 아니다 .
+1	다만	다만	ADV	_	15	advmod	_	_	다만/mag
+2	사물을	사물+을	NOUN	_	3	obj	_	_	사물/ncn+을/jco
+3	보는	보+는	VERB	_	4	acl	_	_	보/pvg+는/etm
+4	방식과	방식+과	CCONJ	_	6	conj	_	_	방식/ncn+과/jcj
+5	생각하는	생각+하+는	VERB	_	6	acl	_	_	생각/ncpa+하/xsv+는/etm
+6	방식이라고	방식+이+라+고	VERB	_	7	conj	_	_	방식/ncn+이/jp+라/ef+고/jcr
+7	하면	하+면	SCONJ	_	12	ccomp	_	_	하/pvg+면/ecs
+8	무언가	무엇+이+ㄴ가	VERB	_	10	advmod	_	_	무엇/npd+이/jp+ㄴ가/ef
+9	이치를	이치+를	NOUN	_	10	obj	_	_	이치/ncn+를/jco
+10	캐는	캐+는	VERB	_	11	acl	_	_	캐/pvg+는/etm
+11	일만을	일+만+을	NOUN	_	12	obj	_	_	일/ncn+만/jxc+을/jco
+12	연상하는	연상+하+는	VERB	_	13	acl	_	_	연상/ncpa+하/xsv+는/etm
+13	사람이	사람+이	NOUN	_	14	nsubj	_	_	사람/ncn+이/jcs
+14	있을지도	있+ㄹ지도	SCONJ	_	15	xcomp	_	_	있/paa+ㄹ지도/ecs
+15	모르지만	모르+지만	SCONJ	_	19	conj	_	_	모르/pvg+지만/ecs
+16	그러한	그러하+ㄴ	VERB	_	17	amod	_	_	그러하/pad+ㄴ/etm
+17	것만이	것+만+이	NOUN	_	19	csubj	_	_	것/nbn+만/jxc+이/jcc
+18	세계관은	세계관+은	NOUN	_	19	dislocated	_	_	세계관/ncn+은/jxt
+19	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 이치 이전의 세계관도 얼마든지 있다 .
+1	이치	이치	NOUN	_	2	compound	_	_	이치/ncn
+2	이전의	이전+의	NOUN	_	3	nmod	_	_	이전/ncn+의/jcm
+3	세계관도	세계관+도	ADV	_	5	advcl	_	_	세계관/ncn+도/jxc
+4	얼마든지	얼마든지	ADV	_	5	advmod	_	_	얼마든지/mag
+5	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 따라서 우선 세계관이란 사물을 보는 방식 , 생각하는 방식 , 느끼는 방식을 말하는 것이라고 정리해 두기로 하자 .
+1	따라서	따라서	CCONJ	_	17	cc	_	_	따라서/maj
+2	우선	우선	ADV	_	13	advmod	_	_	우선/mag
+3	세계관이란	세계관+이란	ADV	_	13	advcl	_	_	세계관/ncn+이란/jxc
+4	사물을	사물+을	NOUN	_	5	obj	_	_	사물/ncn+을/jco
+5	보는	보+는	VERB	_	6	acl	_	_	보/pvg+는/etm
+6	방식	방식	NOUN	_	12	compound	_	_	방식/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	생각하는	생각+하+는	VERB	_	9	acl	_	_	생각/ncpa+하/xsv+는/etm
+9	방식	방식	NOUN	_	12	compound	_	_	방식/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	느끼는	느끼+는	VERB	_	12	acl	_	_	느끼/pvg+는/etm
+12	방식을	방식+을	NOUN	_	13	obj	_	_	방식/ncn+을/jco
+13	말하는	말하+는	VERB	_	15	ccomp	_	_	말하/pvg+는/etm
+14	것이라고	것+이+라고	SCONJ	_	13	aux	_	_	것/nbn+이/jp+라고/ecs
+15	정리해	정리+하+어	VERB	_	17	advcl	_	_	정리/ncpa+하/xsv+어/ecx
+16	두기로	두+기+로	ADV	_	15	aux	_	_	두/px+기/etn+로/jca
+17	하자	하+자	VERB	_	0	root	_	_	하/pvg+자/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 다시 말하면 , 사물을 보고 생각하고 느끼는 방식의 문제는 행동방식이나 생활방식의 문제와 분리될 수 없다 .
+1	다시	다시	ADV	_	2	advmod	_	_	다시/mag
+2	말하면	말하+면	SCONJ	_	13	advcl	_	_	말하/pvg+면/ecs
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	사물을	사물+을	NOUN	_	7	obj	_	_	사물/ncn+을/jco
+5	보고	보+고	CCONJ	_	6	conj	_	_	보/pvg+고/ecc
+6	생각하고	생각+하+고	CCONJ	_	7	conj	_	_	생각/ncpa+하/xsv+고/ecc
+7	느끼는	느끼+는	VERB	_	8	acl	_	_	느끼/pvg+는/etm
+8	방식의	방식+의	NOUN	_	9	nmod	_	_	방식/ncn+의/jcm
+9	문제는	문제+는	NOUN	_	13	dislocated	_	_	문제/ncn+는/jxt
+10	행동방식이나	행동+방식+이나	CCONJ	_	11	conj	_	_	행동/ncpa+방식/ncn+이나/jcj
+11	생활방식의	생활+방식+의	NOUN	_	12	nmod	_	_	생활/ncpa+방식/ncn+의/jcm
+12	문제와	문제+와	CCONJ	_	13	conj	_	_	문제/ncn+와/jct
+13	분리될	분리+되+ㄹ	VERB	_	0	root	_	_	분리/ncpa+되/xsv+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	없다	없+다	ADJ	_	13	aux	_	_	없/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 사물을 보는 방식 , 생각하는 방식 , 느끼는 방식 , 생활방식의 문제 , 이것이 다시 말하면 세게관의 문제라고 정리해 두기로 하자 .
+1	사물을	사물+을	NOUN	_	2	obj	_	_	사물/ncn+을/jco
+2	보는	보+는	VERB	_	3	acl	_	_	보/pvg+는/etm
+3	방식	방식	NOUN	_	11	compound	_	_	방식/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	생각하는	생각+하+는	VERB	_	6	acl	_	_	생각/ncpa+하/xsv+는/etm
+6	방식	방식	NOUN	_	11	compound	_	_	방식/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	느끼는	느끼+는	VERB	_	9	acl	_	_	느끼/pvg+는/etm
+9	방식	방식	NOUN	_	11	compound	_	_	방식/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	생활방식의	생활+방식+의	NOUN	_	12	nmod	_	_	생활/ncpa+방식/ncn+의/jcm
+12	문제	문제	NOUN	_	14	compound	_	_	문제/ncn
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	이것이	이것+이	PRON	_	18	nsubj	_	_	이것/npd+이/jcs
+15	다시	다시	ADV	_	16	advmod	_	_	다시/mag
+16	말하면	말하+면	SCONJ	_	18	ccomp	_	_	말하/pvg+면/ecs
+17	세게관의	세게관+의	NOUN	_	18	nmod	_	_	세게관/ncn+의/jcm
+18	문제라고	문제+이+라+고	VERB	_	19	conj	_	_	문제/ncn+이/jp+라/ef+고/jcr
+19	정리해	정리+하+어	VERB	_	21	advcl	_	_	정리/ncpa+하/xsv+어/ecx
+20	두기로	두+기+로	ADV	_	19	aux	_	_	두/px+기/etn+로/jca
+21	하자	하+자	VERB	_	0	root	_	_	하/pvg+자/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 따라서 철학이 세계관을 문제로 한다는 것은 철학을 배워야 비로소 세계관이 주어진다는 것은 아니다 .
+1	따라서	따라서	CCONJ	_	13	cc	_	_	따라서/maj
+2	철학이	철학+이	NOUN	_	5	nsubj	_	_	철학/ncn+이/jcs
+3	세계관을	세계관+을	NOUN	_	5	obj	_	_	세계관/ncn+을/jco
+4	문제로	문제+로	ADV	_	5	advcl	_	_	문제/ncn+로/jca
+5	한다는	하+ㄴ다는	VERB	_	6	acl	_	_	하/pvg+ㄴ다는/etm
+6	것은	것+은	NOUN	_	13	dislocated	_	_	것/nbn+은/jxt
+7	철학을	철학+을	NOUN	_	8	obj	_	_	철학/ncn+을/jco
+8	배워야	배우+어야	SCONJ	_	11	ccomp	_	_	배우/pvg+어야/ecs
+9	비로소	비로소	ADV	_	11	advmod	_	_	비로소/mag
+10	세계관이	세계관+이	NOUN	_	11	nsubj	_	_	세계관/ncn+이/jcs
+11	주어진다는	주어지+ㄴ다는	VERB	_	12	acl	_	_	주어지/pvg+ㄴ다는/etm
+12	것은	것+은	NOUN	_	13	dislocated	_	_	것/nbn+은/jxt
+13	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 비록 철학을 배우지 않더라도 누구나 자기 나름대로의 세계관을 가지고 있다 .
+1	비록	비록	ADV	_	3	advmod	_	_	비록/mag
+2	철학을	철학+을	NOUN	_	3	obj	_	_	철학/ncn+을/jco
+3	배우지	배우+지	VERB	_	9	ccomp	_	_	배우/pvg+지/ecx
+4	않더라도	않+더라+도	ADV	_	3	aux	_	_	않/px+더라/ecs+도/jxc
+5	누구나	누구+나	ADV	_	9	advcl	_	_	누구/npp+나/jxc
+6	자기	자기	NOUN	_	7	compound	_	_	자기/ncn
+7	나름대로의	나름+대로+의	NOUN	_	8	nmod	_	_	나름/nbn+대로/jca+의/jcm
+8	세계관을	세계관+을	NOUN	_	9	obj	_	_	세계관/ncn+을/jco
+9	가지고	가지+고	VERB	_	0	root	_	_	가지/pvg+고/ecx
+10	있다	있+다	AUX	_	9	aux	_	_	있/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그것은 곧 생활의 지혜 , 상식이라는 형태이다 .
+1	그것은	그것+은	PRON	_	7	dislocated	_	_	그것/npd+은/jxt
+2	곧	곧	ADV	_	7	advmod	_	_	곧/mag
+3	생활의	생활+의	NOUN	_	4	nmod	_	_	생활/ncpa+의/jcm
+4	지혜	지혜	NOUN	_	7	compound	_	_	지혜/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	상식이라는	상식+이+라는	VERB	_	7	acl	_	_	상식/ncn+이/jp+라는/etm
+7	형태이다	형태+이+다	VERB	_	0	root	_	_	형태/ncn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그러나 이러한 상식적인 형태를 띤 세계관은 그저 무심히 그렇게 생각되고 있을 뿐이며 충분하게 검토된 것이 아닌 경우가 대부분이다 .
+1	그러나	그러나	CCONJ	_	18	cc	_	_	그러나/maj
+2	이러한	이러하+ㄴ	VERB	_	6	amod	_	_	이러하/pad+ㄴ/etm
+3	상식적인	상식+적+이+ㄴ	VERB	_	4	acl	_	_	상식/ncn+적/xsn+이/jp+ㄴ/etm
+4	형태를	형태+를	NOUN	_	5	obj	_	_	형태/ncn+를/jco
+5	띤	띠+ㄴ	VERB	_	6	acl	_	_	띠/pvg+ㄴ/etm
+6	세계관은	세계관+은	NOUN	_	10	dislocated	_	_	세계관/ncn+은/jxt
+7	그저	그저	ADV	_	10	advmod	_	_	그저/mag
+8	무심히	무심+히	ADV	_	10	advmod	_	_	무심/ncps+히/xsa
+9	그렇게	그렇+게	SCONJ	_	10	xcomp	_	_	그렇/pad+게/ecs
+10	생각되고	생각+되+고	VERB	_	18	conj	_	_	생각/ncpa+되/xsv+고/ecx
+11	있을	있+ㄹ	AUX	_	10	aux	_	_	있/px+ㄹ/etm
+12	뿐이며	뿐+이+며	CCONJ	_	10	aux	_	_	뿐/nbn+이/jp+며/ecc
+13	충분하게	충분+하+게	SCONJ	_	14	xcomp	_	_	충분/ncps+하/xsm+게/ecs
+14	검토된	검토+되+ㄴ	VERB	_	15	acl	_	_	검토/ncpa+되/xsv+ㄴ/etm
+15	것이	것+이	NOUN	_	16	csubj	_	_	것/nbn+이/jcc
+16	아닌	아니+ㄴ	ADJ	_	17	amod	_	_	아니/paa+ㄴ/etm
+17	경우가	경우+가	NOUN	_	18	nsubj	_	_	경우/ncn+가/jcs
+18	대부분이다	대부분+이+다	VERB	_	0	root	_	_	대부분/ncn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 따라서 앞뒤가 맞지 않는 것도 있으며 모순된 내용을 너저분하게 포함하고 있는 것도 종종 있다 .
+1	따라서	따라서	CCONJ	_	14	cc	_	_	따라서/maj
+2	앞뒤가	앞뒤+가	NOUN	_	3	nsubj	_	_	앞뒤/ncn+가/jcs
+3	맞지	맞+지	VERB	_	5	acl	_	_	맞/pvg+지/ecx
+4	않는	않+는	AUX	_	3	aux	_	_	않/px+는/etm
+5	것도	것+도	ADV	_	6	advcl	_	_	것/nbn+도/jxc
+6	있으며	있+으며	SCONJ	_	14	xcomp	_	_	있/paa+으며/ecs
+7	모순된	모순+되+ㄴ	VERB	_	8	acl	_	_	모순/ncpa+되/xsv+ㄴ/etm
+8	내용을	내용+을	NOUN	_	10	obj	_	_	내용/ncn+을/jco
+9	너저분하게	너저분+하+게	SCONJ	_	10	xcomp	_	_	너저분/ncps+하/xsm+게/ecs
+10	포함하고	포함+하+고	VERB	_	12	acl	_	_	포함/ncpa+하/xsv+고/ecx
+11	있는	있+는	AUX	_	10	aux	_	_	있/px+는/etm
+12	것도	것+도	ADV	_	14	advcl	_	_	것/nbn+도/jxc
+13	종종	종종	ADV	_	14	advmod	_	_	종종/mag
+14	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 예를 들면 한편으로 어디를 가도 언정은 있다고 생각하는 데 반해서 다른 한편으로는 사람은 모두 도둑놈이다고 말하는 경우가 있다 .
+1	예를	예+를	NOUN	_	2	obj	_	_	예/ncn+를/jco
+2	들면	들+면	SCONJ	_	18	conj	_	_	들/pvg+면/ecs
+3	한편으로	한편+으로	ADV	_	8	advcl	_	_	한편/ncn+으로/jca
+4	어디를	어디+를	PRON	_	5	obj	_	_	어디/npd+를/jco
+5	가도	가+도	CCONJ	_	7	conj	_	_	가/pvg+도/ecc
+6	언정은	언정+은	NOUN	_	7	dislocated	_	_	언정/ncn+은/jxt
+7	있다고	있+다+고	VERB	_	8	conj	_	_	있/paa+다/ef+고/jcr
+8	생각하는	생각+하+는	VERB	_	9	acl	_	_	생각/ncpa+하/xsv+는/etm
+9	데	데	NOUN	_	10	mark	_	_	데/nbn
+10	반해서	반하+어서	SCONJ	_	18	conj	_	_	반하/pvg+어서/ecs
+11	다른	다르+ㄴ	ADJ	_	12	amod	_	_	다르/paa+ㄴ/etm
+12	한편으로는	한편+으로+는	NOUN	_	16	dislocated	_	_	한편/ncn+으로/jca+는/jxt
+13	사람은	사람+은	NOUN	_	15	dislocated	_	_	사람/ncn+은/jxt
+14	모두	모두	ADV	_	15	advmod	_	_	모두/mag
+15	도둑놈이다고	도둑놈+이+다+고	VERB	_	16	conj	_	_	도둑놈/ncn+이/jp+다/ef+고/jcr
+16	말하는	말하+는	VERB	_	17	acl	_	_	말하/pvg+는/etm
+17	경우가	경우+가	NOUN	_	18	nsubj	_	_	경우/ncn+가/jcs
+18	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 예를 들면 정치관은 민주적인 사람이 결혼관은 상당히 비민주적인 경우가 있을 것이다 .
+1	예를	예+를	NOUN	_	2	obj	_	_	예/ncn+를/jco
+2	들면	들+면	SCONJ	_	10	conj	_	_	들/pvg+면/ecs
+3	정치관은	정치관+은	NOUN	_	4	dislocated	_	_	정치관/ncn+은/jxt
+4	민주적인	민주+적+이+ㄴ	VERB	_	5	acl	_	_	민주/ncn+적/xsn+이/jp+ㄴ/etm
+5	사람이	사람+이	NOUN	_	8	nsubj	_	_	사람/ncn+이/jcs
+6	결혼관은	결혼관+은	NOUN	_	8	dislocated	_	_	결혼관/ncn+은/jxt
+7	상당히	상당+히	ADV	_	8	advmod	_	_	상당/ncps+히/xsa
+8	비민주적인	비민주+적+이+ㄴ	VERB	_	9	acl	_	_	비민주/ncn+적/xsn+이/jp+ㄴ/etm
+9	경우가	경우+가	NOUN	_	10	nsubj	_	_	경우/ncn+가/jcs
+10	있을	있+ㄹ	ADJ	_	0	root	_	_	있/paa+ㄹ/etm
+11	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 연애관과 결혼관이 어긋나는 경우도 마찬가지이다 .
+1	연애관과	연애관+과	CCONJ	_	2	conj	_	_	연애관/nq+과/jcj
+2	결혼관이	결혼관+이	NOUN	_	3	nsubj	_	_	결혼관/ncn+이/jcs
+3	어긋나는	어긋나+는	VERB	_	4	acl	_	_	어긋나/pvg+는/etm
+4	경우도	경우+도	ADV	_	5	advcl	_	_	경우/ncn+도/jxc
+5	마찬가지이다	마찬가지+이+다	VERB	_	0	root	_	_	마찬가지/ncn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 자석의 바늘이 어느 때는 북을 가리키고 , 어느 때는 동을 , 어느 때는 남을 가리키게 되면 곤란해진다 .
+1	자석의	자석+의	NOUN	_	2	nmod	_	_	자석/ncn+의/jcm
+2	바늘이	바늘+이	NOUN	_	15	nsubj	_	_	바늘/ncn+이/jcs
+3	어느	어느	DET	_	4	det	_	_	어느/mmd
+4	때는	때+는	NOUN	_	6	dislocated	_	_	때/nbn+는/jxt
+5	북을	북+을	NOUN	_	6	obj	_	_	북/ncn+을/jco
+6	가리키고	가리키+고	CCONJ	_	15	conj	_	_	가리키/pvg+고/ecc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	어느	어느	DET	_	9	det	_	_	어느/mmd
+9	때는	때+는	NOUN	_	10	dislocated	_	_	때/nbn+는/jxt
+10	동을	동+을	NOUN	_	14	dep	_	_	동/ncn+을/jco
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	어느	어느	DET	_	13	det	_	_	어느/mmd
+13	때는	때+는	NOUN	_	14	dislocated	_	_	때/nbn+는/jxt
+14	남을	남+을	NOUN	_	15	obj	_	_	남/ncn+을/jco
+15	가리키게	가리키+게	VERB	_	17	conj	_	_	가리키/pvg+게/ecx
+16	되면	되+면	SCONJ	_	15	aux	_	_	되/px+면/ecs
+17	곤란해진다	곤란+하+어+지+ㄴ다	AUX	_	0	root	_	_	곤란/ncps+하/xsm+어/ecx+지/px+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 자석으로서의 역할을 다할 수가 없다 .
+1	자석으로서의	자석+으로서+의	NOUN	_	2	nmod	_	_	자석/ncn+으로서/jca+의/jcm
+2	역할을	역할+을	NOUN	_	3	obj	_	_	역할/ncn+을/jco
+3	다할	다하+ㄹ	VERB	_	0	root	_	_	다하/pvg+ㄹ/etm
+4	수가	수+가	NOUN	_	5	fixed	_	_	수/nbn+가/jcs
+5	없다	없+다	ADJ	_	3	aux	_	_	없/paa+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 사실상 이것은 세계관을 갖지 않은 것과 같다 .
+1	사실상	사실상	NOUN	_	7	dep	_	_	사실상/ncn
+2	이것은	이것+은	PRON	_	7	dislocated	_	_	이것/npd+은/jxt
+3	세계관을	세계관+을	NOUN	_	4	obj	_	_	세계관/ncn+을/jco
+4	갖지	갖+지	VERB	_	6	acl	_	_	갖/pvg+지/ecx
+5	않은	않+ㄴ	AUX	_	4	aux	_	_	않/px+ㄴ/etm
+6	것과	것+과	CCONJ	_	7	conj	_	_	것/nbn+과/jct
+7	같다	같+다	ADJ	_	0	root	_	_	같/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 일상생활의 좁은 범위 내에서만 산다면 그래도 생활을 꾸려가는 데는 문제가 없다 .
+1	일상생활의	일상+생활+의	NOUN	_	3	nmod	_	_	일상/ncn+생활/ncpa+의/jcm
+2	좁은	좁+ㄴ	ADJ	_	3	amod	_	_	좁/paa+ㄴ/etm
+3	범위	범위	NOUN	_	4	compound	_	_	범위/ncn
+4	내에서만	내+에서+만	ADV	_	5	advcl	_	_	내/ncn+에서/jca+만/jxc
+5	산다면	살+ㄴ다면	SCONJ	_	11	conj	_	_	살/pvg+ㄴ다면/ecs
+6	그래도	그래도	ADV	_	11	advmod	_	_	그래도/mag
+7	생활을	생활+을	NOUN	_	8	obj	_	_	생활/ncpa+을/jco
+8	꾸려가는	꾸려가+는	VERB	_	9	acl	_	_	꾸려가/pvg+는/etm
+9	데는	데+는	NOUN	_	11	dislocated	_	_	데/nbn+는/jxt
+10	문제가	문제+가	NOUN	_	11	nsubj	_	_	문제/ncn+가/jcs
+11	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러나 지리산을 겨울 등정할 때나 배를 타고 태평양으로 나가려고 할 때에 지도와 해도 , 자석과 나침반이 없다면 조난당할 것은 확실하다 .
+1	그러나	그러나	CCONJ	_	20	cc	_	_	그러나/maj
+2	지리산을	지리산+을	PROPN	_	4	obj	_	_	지리산/nq+을/jco
+3	겨울	겨울	NOUN	_	4	compound	_	_	겨울/ncn
+4	등정할	등정+하+ㄹ	VERB	_	5	acl	_	_	등정/ncpa+하/xsv+ㄹ/etm
+5	때나	때+나	CCONJ	_	11	conj	_	_	때/nbn+나/jcj
+6	배를	배+를	NOUN	_	7	obj	_	_	배/ncn+를/jco
+7	타고	타+고	SCONJ	_	9	ccomp	_	_	타/pvg+고/ecs
+8	태평양으로	태평양+으로	ADV	_	9	advcl	_	_	태평양/nq+으로/jca
+9	나가려고	나가+려고	VERB	_	11	acl	_	_	나가/pvg+려고/ecx
+10	할	하+ㄹ	AUX	_	9	aux	_	_	하/px+ㄹ/etm
+11	때에	때+에	ADV	_	17	obl	_	_	때/nbn+에/jca
+12	지도와	지도+와	CCONJ	_	13	conj	_	_	지도/ncpa+와/jcj
+13	해도	해도	NOUN	_	16	compound	_	_	해도/ncn
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	자석과	자석+과	CCONJ	_	16	conj	_	_	자석/ncn+과/jcj
+16	나침반이	나침반+이	NOUN	_	17	nsubj	_	_	나침반/ncn+이/jcs
+17	없다면	없+다면	SCONJ	_	20	xcomp	_	_	없/paa+다면/ecs
+18	조난당할	조난+당하+ㄹ	VERB	_	19	acl	_	_	조난/ncpa+당하/xsv+ㄹ/etm
+19	것은	것+은	NOUN	_	20	dislocated	_	_	것/nbn+은/jxt
+20	확실하다	확실+하+다	VERB	_	0	root	_	_	확실/ncps+하/xsm+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 체계적인 세계관을 확립할 필요는 여기에서 생긴다 .
+1	체계적인	체계+적+이+ㄴ	VERB	_	2	acl	_	_	체계/ncn+적/xsn+이/jp+ㄴ/etm
+2	세계관을	세계관+을	NOUN	_	3	obj	_	_	세계관/ncn+을/jco
+3	확립할	확립+하+ㄹ	VERB	_	4	acl	_	_	확립/ncpa+하/xsv+ㄹ/etm
+4	필요는	필요+는	NOUN	_	6	dislocated	_	_	필요/ncps+는/jxt
+5	여기에서	여기+에서	ADV	_	6	advcl	_	_	여기/npd+에서/jca
+6	생긴다	생기+ㄴ다	VERB	_	0	root	_	_	생기/pvg+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 철학은 이에 부응하려는 것이다 .
+1	철학은	철학+은	NOUN	_	4	dislocated	_	_	철학/ncn+은/jxt
+2	이에	이+에	ADV	_	3	obl	_	_	이/npd+에/jca
+3	부응하려는	부응+하+려는	VERB	_	4	ccomp	_	_	부응/ncpa+하/xsv+려는/etm
+4	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 그런 의미에서 철학은 세계관을 문제로 삼는다 .
+1	그런	그렇+ㄴ	VERB	_	2	amod	_	_	그렇/pad+ㄴ/etm
+2	의미에서	의미+에서	ADV	_	6	advcl	_	_	의미/ncpa+에서/jca
+3	철학은	철학+은	NOUN	_	6	dislocated	_	_	철학/ncn+은/jxt
+4	세계관을	세계관+을	NOUN	_	6	obj	_	_	세계관/ncn+을/jco
+5	문제로	문제+로	ADV	_	6	advcl	_	_	문제/ncn+로/jca
+6	삼는다	삼+는다	VERB	_	0	root	_	_	삼/pvg+는다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이성에 의거해서 단지 체계적인 세계관에 대한 요구에 부응하는 것이 모두 철학이라고 할 수는 없다 .
+1	이성에	이성+에	ADV	_	2	obl	_	_	이성/ncn+에/jca
+2	의거해서	의거+하+어서	SCONJ	_	8	ccomp	_	_	의거/ncpa+하/xsv+어서/ecs
+3	단지	단지	ADV	_	8	advmod	_	_	단지/mag
+4	체계적인	체계+적+이+ㄴ	VERB	_	5	acl	_	_	체계/ncn+적/xsn+이/jp+ㄴ/etm
+5	세계관에	세계관+에	ADV	_	6	obl	_	_	세계관/ncn+에/jca
+6	대한	대하+ㄴ	VERB	_	7	acl	_	_	대하/pvg+ㄴ/etm
+7	요구에	요구+에	ADV	_	8	obl	_	_	요구/ncpa+에/jca
+8	부응하는	부응+하+는	VERB	_	9	acl	_	_	부응/ncpa+하/xsv+는/etm
+9	것이	것+이	NOUN	_	11	nsubj	_	_	것/nbn+이/jcs
+10	모두	모두	ADV	_	11	advmod	_	_	모두/mag
+11	철학이라고	철학+이+라+고	VERB	_	12	conj	_	_	철학/ncn+이/jp+라/ef+고/jcr
+12	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+13	수는	수+는	NOUN	_	14	fixed	_	_	수/nbn+는/jxt
+14	없다	없+다	ADJ	_	12	aux	_	_	없/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 왜냐하면 종교야말로 그러한 요구에 부응하는 것이기 때문이다 .
+1	왜냐하면	왜냐하면	CCONJ	_	5	cc	_	_	왜냐하면/maj
+2	종교야말로	종교+야말로	ADV	_	5	advcl	_	_	종교/ncn+야말로/jxc
+3	그러한	그러하+ㄴ	VERB	_	4	amod	_	_	그러하/pad+ㄴ/etm
+4	요구에	요구+에	ADV	_	5	obl	_	_	요구/ncpa+에/jca
+5	부응하는	부응+하+는	VERB	_	0	root	_	_	부응/ncpa+하/xsv+는/etm
+6	것이기	것+이+기	VERB	_	5	aux	_	_	것/nbn+이/jp+기/etn
+7	때문이다	때문+이+다	VERB	_	5	aux	_	_	때문/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 종교는 인생이라는 배에 항상 분명한 방향을 제시하는 나침반 역할을 그 사명으로 하고 있다 .
+1	종교는	종교+는	NOUN	_	12	dislocated	_	_	종교/ncn+는/jxt
+2	인생이라는	인생+이+라는	VERB	_	3	acl	_	_	인생/ncn+이/jp+라는/etm
+3	배에	배+에	ADV	_	7	obl	_	_	배/ncn+에/jca
+4	항상	항상	ADV	_	7	advmod	_	_	항상/mag
+5	분명한	분명+하+ㄴ	VERB	_	6	amod	_	_	분명/ncps+하/xsm+ㄴ/etm
+6	방향을	방향+을	NOUN	_	7	obj	_	_	방향/ncn+을/jco
+7	제시하는	제시+하+는	VERB	_	8	acl	_	_	제시/ncpa+하/xsv+는/etm
+8	나침반	나침반	NOUN	_	9	compound	_	_	나침반/ncn
+9	역할을	역할+을	NOUN	_	12	obj	_	_	역할/ncn+을/jco
+10	그	그	PRON	_	11	compound	_	_	그/npp
+11	사명으로	사명+으로	ADV	_	12	advcl	_	_	사명/ncn+으로/jca
+12	하고	하+고	VERB	_	0	root	_	_	하/pvg+고/ecx
+13	있다	있+다	AUX	_	12	aux	_	_	있/px+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그렇다면 종교도 철학의 일종인가 ?
+1	그렇다면	그렇다면	CCONJ	_	4	cc	_	_	그렇다면/maj
+2	종교도	종교+도	ADV	_	4	advcl	_	_	종교/ncn+도/jxc
+3	철학의	철학+의	NOUN	_	4	nmod	_	_	철학/ncn+의/jcm
+4	일종인가	일종+이+ㄴ가	VERB	_	0	root	_	_	일종/ncn+이/jp+ㄴ가/ef
+5	?	?	PUNCT	_	4	punct	_	_	?/sf
+
+# 혹은 철학이 종교의 일종인가 ?
+1	혹은	혹은	CCONJ	_	4	cc	_	_	혹은/maj
+2	철학이	철학+이	NOUN	_	4	nsubj	_	_	철학/ncn+이/jcs
+3	종교의	종교+의	NOUN	_	4	nmod	_	_	종교/ncn+의/jcm
+4	일종인가	일종+이+ㄴ가	VERB	_	0	root	_	_	일종/ncn+이/jp+ㄴ가/ef
+5	?	?	PUNCT	_	4	punct	_	_	?/sf
+
+# 양쪽 모두 틀린 것이다 .
+1	양쪽	양쪽	NOUN	_	2	compound	_	_	양쪽/ncn
+2	모두	모두	PRON	_	3	dep	_	_	모두/npd
+3	틀린	틀리+ㄴ	VERB	_	0	root	_	_	틀리/pvg+ㄴ/etm
+4	것이다	것+이+다	VERB	_	3	aux	_	_	것/nbn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 종교의 경우에는 교리가 그 세계관의 골격을 이루고 있다 .
+1	종교의	종교+의	NOUN	_	2	nmod	_	_	종교/ncn+의/jcm
+2	경우에는	경우+에+는	NOUN	_	7	dislocated	_	_	경우/ncn+에/jca+는/jxt
+3	교리가	교리+가	NOUN	_	7	nsubj	_	_	교리/ncn+가/jcs
+4	그	그	PRON	_	5	compound	_	_	그/npp
+5	세계관의	세계관+의	NOUN	_	6	nmod	_	_	세계관/ncn+의/jcm
+6	골격을	골격+을	NOUN	_	7	obj	_	_	골격/ncn+을/jco
+7	이루고	이루+고	VERB	_	0	root	_	_	이루/pvg+고/ecx
+8	있다	있+다	AUX	_	7	aux	_	_	있/px+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 다시 말하면 인간의 이성을 초월한 것으로 이루어져 있는 것이 특징이다 .
+1	다시	다시	ADV	_	2	advmod	_	_	다시/mag
+2	말하면	말하+면	SCONJ	_	10	advcl	_	_	말하/pvg+면/ecs
+3	인간의	인간+의	NOUN	_	4	nmod	_	_	인간/ncn+의/jcm
+4	이성을	이성+을	NOUN	_	5	obj	_	_	이성/ncn+을/jco
+5	초월한	초월+하+ㄴ	VERB	_	6	acl	_	_	초월/ncpa+하/xsv+ㄴ/etm
+6	것으로	것+으로	ADV	_	7	advcl	_	_	것/nbn+으로/jca
+7	이루어져	이루+어+지+어	AUX	_	9	acl	_	_	이루/pvg+어/ecx+지/px+어/ecx
+8	있는	있+는	AUX	_	7	aux	_	_	있/px+는/etm
+9	것이	것+이	NOUN	_	10	nsubj	_	_	것/nbn+이/jcs
+10	특징이다	특징+이+다	VERB	_	0	root	_	_	특징/ncn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그러한 특징을 가진 교리를 골격으로 하고 있기 때문에 종교는 이성을 기초로 하는 세계관이 아니다 .
+1	그러한	그러하+ㄴ	VERB	_	2	amod	_	_	그러하/pad+ㄴ/etm
+2	특징을	특징+을	NOUN	_	3	obj	_	_	특징/ncn+을/jco
+3	가진	가지+ㄴ	VERB	_	4	acl	_	_	가지/pvg+ㄴ/etm
+4	교리를	교리+를	NOUN	_	6	obj	_	_	교리/ncn+를/jco
+5	골격으로	골격+으로	ADV	_	6	advcl	_	_	골격/ncn+으로/jca
+6	하고	하+고	VERB	_	8	dep	_	_	하/pvg+고/ecx
+7	있기	있+기	AUX	_	6	aux	_	_	있/px+기/etn
+8	때문에	때문+에	ADV	_	14	obl	_	_	때문/nbn+에/jca
+9	종교는	종교+는	NOUN	_	14	dislocated	_	_	종교/ncn+는/jxt
+10	이성을	이성+을	NOUN	_	12	obj	_	_	이성/ncn+을/jco
+11	기초로	기초+로	ADV	_	12	advcl	_	_	기초/ncpa+로/jca
+12	하는	하+는	VERB	_	13	acl	_	_	하/pvg+는/etm
+13	세계관이	세계관+이	NOUN	_	14	csubj	_	_	세계관/ncn+이/jcc
+14	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 종교는 믿는 사람에게 확신을 주지만 그 확신은 이성에 기초한 것이 아니다 .
+1	종교는	종교+는	NOUN	_	5	dislocated	_	_	종교/ncn+는/jxt
+2	믿는	믿+는	VERB	_	3	acl	_	_	믿/pvg+는/etm
+3	사람에게	사람+에게	ADV	_	5	iobj	_	_	사람/ncn+에게/jca
+4	확신을	확신+을	NOUN	_	5	obj	_	_	확신/ncpa+을/jco
+5	주지만	주+지만	SCONJ	_	11	conj	_	_	주/pvg+지만/ecs
+6	그	그	DET	_	7	det	_	_	그/mmd
+7	확신은	확신+은	NOUN	_	11	dislocated	_	_	확신/ncpa+은/jxt
+8	이성에	이성+에	ADV	_	9	obl	_	_	이성/ncn+에/jca
+9	기초한	기초+하+ㄴ	VERB	_	10	acl	_	_	기초/ncpa+하/xsv+ㄴ/etm
+10	것이	것+이	NOUN	_	11	csubj	_	_	것/nbn+이/jcc
+11	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러나 철학의 경우에는 단지 이성만이 유일한 수단이다 .
+1	그러나	그러나	CCONJ	_	7	cc	_	_	그러나/maj
+2	철학의	철학+의	NOUN	_	3	nmod	_	_	철학/ncn+의/jcm
+3	경우에는	경우+에+는	NOUN	_	7	dislocated	_	_	경우/ncn+에/jca+는/jxt
+4	단지	단지	ADV	_	7	advmod	_	_	단지/mag
+5	이성만이	이성+만+이	NOUN	_	7	nsubj	_	_	이성/ncn+만/jxc+이/jcs
+6	유일한	유일+하+ㄴ	VERB	_	7	amod	_	_	유일/ncps+하/xsm+ㄴ/etm
+7	수단이다	수단+이+다	VERB	_	0	root	_	_	수단/ncn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이성에 조금도 의지해서는 안된다고 주장하는 철학도 없는 것은 아니다 .
+1	이성에	이성+에	ADV	_	3	obl	_	_	이성/ncn+에/jca
+2	조금도	조금+도	ADV	_	3	advcl	_	_	조금/ncn+도/jxc
+3	의지해서는	의지+하+어서+는	NOUN	_	4	dislocated	_	_	의지/ncpa+하/xsv+어서/ecs+는/jxt
+4	안된다고	안되+ㄴ다+고	VERB	_	5	conj	_	_	안되/pvg+ㄴ다/ef+고/jcr
+5	주장하는	주장+하+는	VERB	_	6	acl	_	_	주장/ncpa+하/xsv+는/etm
+6	철학도	철학+도	ADV	_	7	advcl	_	_	철학/ncn+도/jxc
+7	없는	없+는	ADJ	_	8	amod	_	_	없/paa+는/etm
+8	것은	것+은	NOUN	_	9	dislocated	_	_	것/nbn+은/jxt
+9	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러나 그런 경우에도 이성에 조금도 의지해서는 안된다는 것을 이성에 의해 논증하려고 하기 때문에 불합리한 것이다 .
+1	그러나	그러나	CCONJ	_	14	cc	_	_	그러나/maj
+2	그런	그렇+ㄴ	VERB	_	3	amod	_	_	그렇/pad+ㄴ/etm
+3	경우에도	경우+에+도	ADV	_	11	advcl	_	_	경우/ncn+에/jca+도/jxc
+4	이성에	이성+에	ADV	_	6	obl	_	_	이성/ncn+에/jca
+5	조금도	조금+도	ADV	_	6	advcl	_	_	조금/ncn+도/jxc
+6	의지해서는	의지+하+어서+는	NOUN	_	7	ccomp	_	_	의지/ncpa+하/xsv+어서/ecs+는/jxt
+7	안된다는	안되+ㄴ다는	VERB	_	8	acl	_	_	안되/pvg+ㄴ다는/etm
+8	것을	것+을	NOUN	_	11	obj	_	_	것/nbn+을/jco
+9	이성에	이성+에	ADV	_	10	obl	_	_	이성/ncn+에/jca
+10	의해	의하+어	SCONJ	_	11	ccomp	_	_	의하/pvg+어/ecs
+11	논증하려고	논증+하+려고	VERB	_	13	dep	_	_	논증/ncpa+하/xsv+려고/ecx
+12	하기	하+기	AUX	_	11	aux	_	_	하/px+기/etn
+13	때문에	때문+에	ADV	_	14	obl	_	_	때문/nbn+에/jca
+14	불합리한	불합리+하+ㄴ	VERB	_	0	root	_	_	불합리/ncps+하/xsm+ㄴ/etm
+15	것이다	것+이+다	VERB	_	14	aux	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 한마디로 정리하면 철학이란 이론적 세계관이라고 말할 수 있다 .
+1	한마디로	한마디+로	ADV	_	2	advcl	_	_	한마디/ncn+로/jca
+2	정리하면	정리+하+면	SCONJ	_	6	ccomp	_	_	정리/ncpa+하/xsv+면/ecs
+3	철학이란	철학+이란	ADV	_	5	advcl	_	_	철학/ncn+이란/jxc
+4	이론적	이론+적	NOUN	_	5	amod	_	_	이론/ncn+적/xsn
+5	세계관이라고	세계관+이+라고	SCONJ	_	6	ccomp	_	_	세계관/ncn+이/jp+라고/ecs
+6	말할	말하+ㄹ	VERB	_	0	root	_	_	말하/pvg+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	있다	있+다	ADJ	_	6	aux	_	_	있/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이성에 의해서 쳬계 지어진 것이 이론이다 .
+1	이성에	이성+에	ADV	_	2	obl	_	_	이성/ncn+에/jca
+2	의해서	의하+어서	SCONJ	_	4	ccomp	_	_	의하/pvg+어서/ecs
+3	쳬계	체계	NOUN	_	4	dep	_	_	체계/ncn
+4	지어진	짓+어+지+ㄴ	AUX	_	5	acl	_	_	짓/pvg+어/ecx+지/px+ㄴ/etm
+5	것이	것+이	NOUN	_	6	nsubj	_	_	것/nbn+이/jcs
+6	이론이다	이론+이+다	VERB	_	0	root	_	_	이론/ncn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그러므로 이론적이라는 말에는 체계적이라는 것이 포함되며 , 더구나 그 체계가 이성에 근거를 둔다는 것을 나타내고 있다 .
+1	그러므로	그러므로	CCONJ	_	15	cc	_	_	그러므로/maj
+2	이론적이라는	이론+적+이+라는	VERB	_	3	acl	_	_	이론/ncn+적/xsn+이/jp+라는/etm
+3	말에는	말+에+는	NOUN	_	6	dislocated	_	_	말/ncpa+에/jca+는/jxt
+4	체계적이라는	체계+적+이+라는	VERB	_	5	acl	_	_	체계/ncn+적/xsn+이/jp+라는/etm
+5	것이	것+이	NOUN	_	6	csubj	_	_	것/nbn+이/jcc
+6	포함되며	포함+되+며	CCONJ	_	13	conj	_	_	포함/ncpa+되/xsv+며/ecc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	더구나	더구나	ADV	_	13	advmod	_	_	더구나/mag
+9	그	그	PRON	_	10	compound	_	_	그/npp
+10	체계가	체계+가	NOUN	_	13	nsubj	_	_	체계/ncn+가/jcs
+11	이성에	이성+에	ADV	_	13	obl	_	_	이성/ncn+에/jca
+12	근거를	근거+를	NOUN	_	13	obj	_	_	근거/ncpa+를/jco
+13	둔다는	두+ㄴ다는	VERB	_	14	acl	_	_	두/pvg+ㄴ다는/etm
+14	것을	것+을	NOUN	_	15	obj	_	_	것/nbn+을/jco
+15	나타내고	나타내+고	VERB	_	0	root	_	_	나타내/pvg+고/ecx
+16	있다	있+다	AUX	_	15	aux	_	_	있/px+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그러한 의미에서 철학이란 이론적 세계관이다고 할 수 있다 .
+1	그러한	그러하+ㄴ	VERB	_	2	amod	_	_	그러하/pad+ㄴ/etm
+2	의미에서	의미+에서	ADV	_	6	advcl	_	_	의미/ncpa+에서/jca
+3	철학이란	철학+이란	ADV	_	5	advcl	_	_	철학/ncn+이란/jxc
+4	이론적	이론+적	NOUN	_	5	amod	_	_	이론/ncn+적/xsn
+5	세계관이다고	셰계관+이+다+고	VERB	_	6	conj	_	_	셰계관/ncn+이/jp+다/ef+고/jcr
+6	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	있다	있+다	ADJ	_	6	aux	_	_	있/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 머리를 운전하는 법으로서의 철학 이성을 가지고 있다는 것은 다른 동물과 구별되는 인간의 커다란 특징의 하나이다 .
+1	머리를	머리+를	NOUN	_	2	obj	_	_	머리/ncpa+를/jco
+2	운전하는	운전+하+는	VERB	_	3	acl	_	_	운전/ncpa+하/xsv+는/etm
+3	법으로서의	법+으로서+의	NOUN	_	5	nmod	_	_	법/ncn+으로서/jca+의/jcm
+4	철학	철학	NOUN	_	5	compound	_	_	철학/ncn
+5	이성을	이성+을	NOUN	_	6	obj	_	_	이성/ncn+을/jco
+6	가지고	가지+고	VERB	_	8	acl	_	_	가지/pvg+고/ecx
+7	있다는	있+다는	AUX	_	6	aux	_	_	있/px+다는/etm
+8	것은	것+은	NOUN	_	15	dislocated	_	_	것/nbn+은/jxt
+9	다른	다르+ㄴ	ADJ	_	10	amod	_	_	다르/paa+ㄴ/etm
+10	동물과	동물+과	CCONJ	_	11	conj	_	_	동물/ncn+과/jct
+11	구별되는	구별+되+는	VERB	_	14	acl	_	_	구별/ncpa+되/xsv+는/etm
+12	인간의	인간+의	NOUN	_	14	nmod	_	_	인간/ncn+의/jcm
+13	커다란	커다랗+ㄴ	ADJ	_	14	amod	_	_	커다랗/paa+ㄴ/etm
+14	특징의	특징+의	NOUN	_	15	nmod	_	_	특징/ncn+의/jcm
+15	하나이다	하나+이+다	VERB	_	0	root	_	_	하나/ncn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이성이란 알기 쉽게 말해서 생각하는 힘이며 인간만이 그것을 가지고 있다 .
+1	이성이란	이성+이란	ADV	_	6	advcl	_	_	이성/ncn+이란/jxc
+2	알기	알+기	VERB	_	3	nmod	_	_	알/pvg+기/etn
+3	쉽게	쉽+게	SCONJ	_	4	xcomp	_	_	쉽/paa+게/ecs
+4	말해서	말하+어서	SCONJ	_	6	ccomp	_	_	말하/pvg+어서/ecs
+5	생각하는	생각+하+는	VERB	_	6	ccomp	_	_	생각/ncpa+하/xsv+는/etm
+6	힘이며	힘+이+며	CCONJ	_	9	conj	_	_	힘/ncn+이/jp+며/ecc
+7	인간만이	인간+만+이	NOUN	_	9	nsubj	_	_	인간/ncn+만/jxc+이/jcs
+8	그것을	그것+을	PRON	_	9	obj	_	_	그것/npd+을/jco
+9	가지고	가지+고	VERB	_	0	root	_	_	가지/pvg+고/ecx
+10	있다	있+다	AUX	_	9	aux	_	_	있/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 적어도 본질적으로는 불가능하다 .
+1	적어도	적어도	ADV	_	3	advmod	_	_	적어도/mag
+2	본질적으로는	본질+적+으로+는	NOUN	_	3	dislocated	_	_	본질/ncn+적/xsn+으로/jca+는/jxt
+3	불가능하다	불가능+하+다	VERB	_	0	root	_	_	불가능/ncps+하/xsm+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 원숭이라 하더라도 그렇다 .
+1	원숭이라	원숭이+라	ADV	_	2	advcl	_	_	원숭이/ncn+라/jxc
+2	하더라도	하+더라+도	ADV	_	3	dep	_	_	하/pvg+더라/ecs+도/jxc
+3	그렇다	그렇+다	VERB	_	0	root	_	_	그렇/pad+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 그것이 원숭이의 지혜의 한계이다 .
+1	그것이	그것+이	PRON	_	4	nsubj	_	_	그것/npd+이/jcs
+2	원숭이의	원숭이+의	NOUN	_	3	nmod	_	_	원숭이/ncn+의/jcm
+3	지혜의	지혜+의	NOUN	_	4	nmod	_	_	지혜/ncn+의/jcm
+4	한계이다	한계+이+다	VERB	_	0	root	_	_	한계/ncn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 그런 원숭이를 잠깐 등장시켜 보자 .
+1	그런	그렇+ㄴ	VERB	_	2	amod	_	_	그렇/pad+ㄴ/etm
+2	원숭이를	원숭이+를	NOUN	_	4	obj	_	_	원숭이/ncn+를/jco
+3	잠깐	잠깐	ADV	_	4	advmod	_	_	잠깐/mag
+4	등장시켜	등장+시키+어	VERB	_	0	root	_	_	등장/ncpa+시키/xsv+어/ecx
+5	보자	보+자	AUX	_	4	aux	_	_	보/px+자/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 원숭이 : 원숭이 지혜 , 원숭이 지혜 하고 놀리지만 인간의 지혜와 우리들의 지혜 중에서 어느 쪽이 진정한 지혜인지 알아보자 .
+1	원숭이	원숭이	NOUN	_	19	dep	_	_	원숭이/ncn
+2	:	:	PUNCT	_	1	punct	_	_	:/sp
+3	원숭이	원숭이	NOUN	_	4	compound	_	_	원숭이/ncn
+4	지혜	지혜	NOUN	_	7	compound	_	_	지혜/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	원숭이	원숭이	NOUN	_	7	compound	_	_	원숭이/ncn
+7	지혜	지혜	NOUN	_	8	dep	_	_	지혜/ncn
+8	하고	하+고	SCONJ	_	9	ccomp	_	_	하/pvg+고/ecs
+9	놀리지만	놀리+지만	SCONJ	_	18	ccomp	_	_	놀리/pvg+지만/ecs
+10	인간의	인간+의	NOUN	_	11	nmod	_	_	인간/ncn+의/jcm
+11	지혜와	지혜+와	CCONJ	_	13	conj	_	_	지혜/ncps+와/jcj
+12	우리들의	우리+들+의	PRON	_	13	nmod	_	_	우리/npp+들/xsn+의/jcm
+13	지혜	지혜	NOUN	_	14	compound	_	_	지혜/ncn
+14	중에서	중+에서	ADV	_	18	advcl	_	_	중/nbn+에서/jca
+15	어느	어느	NOUN	_	16	compound	_	_	어느/ncn
+16	쪽이	쪽+이	NOUN	_	18	nsubj	_	_	쪽/nbn+이/jcs
+17	진정한	진정+하+ㄴ	VERB	_	18	amod	_	_	진정/ncps+하/xsm+ㄴ/etm
+18	지혜인지	지혜+이+ㄴ지	SCONJ	_	19	ccomp	_	_	지혜/ncps+이/jp+ㄴ지/ecs
+19	알아보자	알+아+보+자	AUX	_	0	root	_	_	알/pvg+아/ecx+보/px+자/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 첫째 , 우리들은 원숭이로서의 생존방식을 괴로워하는 일은 절대 없다 .
+1	첫째	첫째	NUM	_	9	nummod	_	_	첫째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	우리들은	우리+들+은	PRON	_	6	dislocated	_	_	우리/npp+들/xsn+은/jxt
+4	원숭이로서의	원숭이+로서+의	NOUN	_	5	nmod	_	_	원숭이/ncn+로서/jca+의/jcm
+5	생존방식을	생존+방식+을	NOUN	_	6	obj	_	_	생존/ncpa+방식/ncn+을/jco
+6	괴로워하는	괴로워하+는	VERB	_	7	acl	_	_	괴로워하/pvg+는/etm
+7	일은	일+은	NOUN	_	9	dislocated	_	_	일/ncn+은/jxt
+8	절대	절대	NOUN	_	9	dep	_	_	절대/ncn
+9	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 우리들의 생활은 염세관 같은 것과는 관계 없다 .
+1	우리들의	우리+들+의	PRON	_	2	nmod	_	_	우리/npp+들/xsn+의/jcm
+2	생활은	생활+은	NOUN	_	7	dislocated	_	_	생활/ncpa+은/jxt
+3	염세관	염세관	NOUN	_	4	dep	_	_	염세관/ncn
+4	같은	같+ㄴ	ADJ	_	5	amod	_	_	같/paa+ㄴ/etm
+5	것과는	것+과+는	NOUN	_	7	dislocated	_	_	것/nbn+과/jct+는/jxt
+6	관계	관계	NOUN	_	7	dep	_	_	관계/ncpa
+7	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 자네들의 생활에는 진보가 없어 .
+1	자네들의	자네+들+의	PRON	_	2	nmod	_	_	자네/npp+들/xsn+의/jcm
+2	생활에는	생활+에+는	NOUN	_	4	dislocated	_	_	생활/ncpa+에/jca+는/jxt
+3	진보가	진보+가	NOUN	_	4	nsubj	_	_	진보/ncpa+가/jcs
+4	없어	없+어	ADJ	_	0	root	_	_	없/paa+어/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 자네들은 전차를 움직일 수는 있어도 스스로 그것을 만들 수가 없을 거야 .
+1	자네들은	자네+들+은	PRON	_	8	dislocated	_	_	자네/npp+들/xsn+은/jxt
+2	전차를	전차+를	NOUN	_	3	obj	_	_	전차/ncn+를/jco
+3	움직일	움직이+ㄹ	VERB	_	8	ccomp	_	_	움직이/pvg+ㄹ/etm
+4	수는	수+는	NOUN	_	5	fixed	_	_	수/nbn+는/jxt
+5	있어도	있+어도	SCONJ	_	3	aux	_	_	있/paa+어도/ecs
+6	스스로	스스로	ADV	_	8	advmod	_	_	스스로/mag
+7	그것을	그것+을	PRON	_	8	obj	_	_	그것/npd+을/jco
+8	만들	만들+ㄹ	VERB	_	0	root	_	_	만들/pvg+ㄹ/etm
+9	수가	수+가	NOUN	_	10	fixed	_	_	수/nbn+가/jcs
+10	없을	없+ㄹ	ADJ	_	8	aux	_	_	없/paa+ㄹ/etm
+11	거야	거+이+야	VERB	_	8	aux	_	_	거/nbn+이/jp+야/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 하지만 그 차와 비행기가 자주 엄청난 사고를 일으키지 않나 ?
+1	하지만	하지만	CCONJ	_	8	cc	_	_	하지만/maj
+2	그	그	DET	_	4	det	_	_	그/mmd
+3	차와	차+와	CCONJ	_	4	conj	_	_	차/ncn+와/jcj
+4	비행기가	비행기+가	NOUN	_	8	nsubj	_	_	비행기/ncn+가/jcs
+5	자주	자주	ADV	_	8	advmod	_	_	자주/mag
+6	엄청난	엄청나+ㄴ	ADJ	_	7	amod	_	_	엄청나/paa+ㄴ/etm
+7	사고를	사고+를	NOUN	_	8	obj	_	_	사고/ncpa+를/jco
+8	일으키지	일으키+지	VERB	_	0	root	_	_	일으키/pvg+지/ecx
+9	않나	않+나	AUX	_	8	aux	_	_	않/px+나/ef
+10	?	?	PUNCT	_	9	punct	_	_	?/sf
+
+# 우리들의 세계에는 교통 사고도 , 비행기 납치도 , 게다가 공해 따위도 없어 .
+1	우리들의	우리+들+의	PRON	_	2	nmod	_	_	우리/npp+들/xsn+의/jcm
+2	세계에는	세계+에+는	NOUN	_	12	dislocated	_	_	세계/ncn+에/jca+는/jxt
+3	교통	교통	NOUN	_	4	compound	_	_	교통/ncn
+4	사고도	사고+도	ADV	_	11	dep	_	_	사고/ncpa+도/jxc
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	비행기	비행기	NOUN	_	7	compound	_	_	비행기/ncn
+7	납치도	납치+도	ADV	_	11	dep	_	_	납치/ncpa+도/jxc
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	게다가	게다가	ADV	_	11	advmod	_	_	게다가/mag
+10	공해	공해	NOUN	_	11	compound	_	_	공해/ncn
+11	따위도	따위+도	ADV	_	12	advcl	_	_	따위/ncn+도/jxc
+12	없어	없+어	ADJ	_	0	root	_	_	없/paa+어/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그것이 과연 진보인가 ?
+1	그것이	그것+이	PRON	_	3	nsubj	_	_	그것/npd+이/jcs
+2	과연	과연	ADV	_	3	advmod	_	_	과연/mag
+3	진보인가	진보+이+ㄴ가	VERB	_	0	root	_	_	진보/ncpa+이/jp+ㄴ가/ef
+4	?	?	PUNCT	_	3	punct	_	_	?/sf
+
+# 자네 생각은 어떤가 ?
+1	자네	자네	PRON	_	2	compound	_	_	자네/npp
+2	생각은	생각+은	NOUN	_	3	dislocated	_	_	생각/ncpa+은/jxt
+3	어떤가	어떻+ㄴ가	VERB	_	0	root	_	_	어떻/pad+ㄴ가/ef
+4	?	?	PUNCT	_	3	punct	_	_	?/sf
+
+# 자 , 당신은 인간으로서 이것에 어떻게 답할 것인가 ?
+1	자	자	INTJ	_	7	discourse	_	_	자/ii
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	당신은	당신+은	PRON	_	7	dislocated	_	_	당신/npp+은/jxt
+4	인간으로서	인간+으로서	ADV	_	7	advcl	_	_	인간/ncn+으로서/jca
+5	이것에	이것+에	ADV	_	7	obl	_	_	이것/npd+에/jca
+6	어떻게	어떻+게	SCONJ	_	7	xcomp	_	_	어떻/pad+게/ecs
+7	답할	답+하+ㄹ	VERB	_	0	root	_	_	답/ncpa+하/xsv+ㄹ/etm
+8	것인가	것+이+ㄴ가	VERB	_	7	aux	_	_	것/nbn+이/jp+ㄴ가/ef
+9	?	?	PUNCT	_	8	punct	_	_	?/sf
+
+# 차분하게 시간을 두고 생각해 보자 .
+1	차분하게	차분+하+게	SCONJ	_	4	xcomp	_	_	차분/ncps+하/xsm+게/ecs
+2	시간을	시간+을	NOUN	_	3	obj	_	_	시간/ncn+을/jco
+3	두고	두+고	CCONJ	_	4	conj	_	_	두/pvg+고/ecc
+4	생각해	생각+하+어	VERB	_	0	root	_	_	생각/ncpa+하/xsv+어/ecx
+5	보자	보+자	AUX	_	4	aux	_	_	보/px+자/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 실은 이 차분하게 시간을 두고 생각한다고 말하는 것을 인간 이외의 동물들은 할 수 없는 것이다 .
+1	실은	실은	ADV	_	12	advmod	_	_	실은/mag
+2	이	이	DET	_	8	det	_	_	이/mmd
+3	차분하게	차분+하+게	SCONJ	_	6	xcomp	_	_	차분/ncps+하/xsm+게/ecs
+4	시간을	시간+을	NOUN	_	5	obj	_	_	시간/ncn+을/jco
+5	두고	두+고	CCONJ	_	6	conj	_	_	두/pvg+고/ecc
+6	생각한다고	생각+하+ㄴ다+고	VERB	_	7	conj	_	_	생각/ncpa+하/xsv+ㄴ다/ef+고/jcr
+7	말하는	말하+는	VERB	_	8	acl	_	_	말하/pvg+는/etm
+8	것을	것+을	NOUN	_	12	obj	_	_	것/nbn+을/jco
+9	인간	인간	NOUN	_	10	compound	_	_	인간/ncn
+10	이외의	이외+의	NOUN	_	11	nmod	_	_	이외/ncn+의/jcm
+11	동물들은	동물+들+은	NOUN	_	12	dislocated	_	_	동물/ncn+들/xsn+은/jxt
+12	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+13	수	수	NOUN	_	14	fixed	_	_	수/nbn
+14	없는	없+는	ADJ	_	12	aux	_	_	없/paa+는/etm
+15	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 동물의 생활에서는 참자는 말이 있을 수 없다 .
+1	동물의	동물+의	NOUN	_	2	nmod	_	_	동물/ncn+의/jcm
+2	생활에서는	생활+에서+는	NOUN	_	5	dislocated	_	_	생활/ncpa+에서/jca+는/jxt
+3	참자는	참+자는	VERB	_	4	acl	_	_	참/pvg+자는/etm
+4	말이	말+이	NOUN	_	5	nsubj	_	_	말/ncpa+이/jcs
+5	있을	있+ㄹ	ADJ	_	0	root	_	_	있/paa+ㄹ/etm
+6	수	수	NOUN	_	7	fixed	_	_	수/nbn
+7	없다	없+다	ADJ	_	5	aux	_	_	없/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 사냥감의 낌새가 느껴지면 즉시 번개같이 쫓아간다 .
+1	사냥감의	사냥감+의	NOUN	_	2	nmod	_	_	사냥감/ncn+의/jcm
+2	낌새가	낌새+가	NOUN	_	3	nsubj	_	_	낌새/ncn+가/jcs
+3	느껴지면	느끼+어+지+면	SCONJ	_	6	ccomp	_	_	느끼/pvg+어/ecx+지/px+면/ecs
+4	즉시	즉시	ADV	_	6	advmod	_	_	즉시/mag
+5	번개같이	번개+같이	ADV	_	6	advcl	_	_	번개/ncn+같이/jca
+6	쫓아간다	쫓+아+가+ㄴ다	AUX	_	0	root	_	_	쫓/pvg+아/ecx+가/px+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그렇게 하지 않으면 먹이는 달아나버린다 .
+1	그렇게	그렇+게	SCONJ	_	2	xcomp	_	_	그렇/pad+게/ecs
+2	하지	하+지	VERB	_	5	ccomp	_	_	하/pvg+지/ecx
+3	않으면	않+으면	SCONJ	_	2	aux	_	_	않/px+으면/ecs
+4	먹이는	먹이+는	NOUN	_	5	dislocated	_	_	먹이/ncn+는/jxt
+5	달아나버린다	달아나+아+버리+ㄴ다	AUX	_	0	root	_	_	달아나/pvg+아/ecx+버리/px+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 또 그렇게 하지 않으면 자기가 오히려 먹혀버린다 .
+1	또	또	ADV	_	3	advmod	_	_	또/mag
+2	그렇게	그렇+게	SCONJ	_	3	xcomp	_	_	그렇/pad+게/ecs
+3	하지	하+지	VERB	_	7	ccomp	_	_	하/pvg+지/ecx
+4	않으면	않+으면	SCONJ	_	3	aux	_	_	않/px+으면/ecs
+5	자기가	자기+가	PRON	_	7	nsubj	_	_	자기/npp+가/jcs
+6	오히려	오히려	ADV	_	7	advmod	_	_	오히려/mag
+7	먹혀버린다	먹히+어+버리+ㄴ다	AUX	_	0	root	_	_	먹히/pvg+어/ecx+버리/px+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 즉결주의야말로 생명이다 .
+1	즉결주의야말로	즉결주의+야말로	ADV	_	2	advcl	_	_	즉결주의/ncn+야말로/jxc
+2	생명이다	생명+이+다	VERB	_	0	root	_	_	생명/ncn+이/jp+다/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 눈 앞에 보이는 것만 생각하고 행동하다가 일이 잘못될 위험도 있다 .
+1	눈	눈	NOUN	_	2	compound	_	_	눈/ncn
+2	앞에	앞+에	ADV	_	3	obl	_	_	앞/ncn+에/jca
+3	보이는	보이+는	VERB	_	4	acl	_	_	보이/pvg+는/etm
+4	것만	것+만	ADV	_	5	advcl	_	_	것/nbn+만/jxc
+5	생각하고	생각+하+고	CCONJ	_	6	conj	_	_	생각/ncpa+하/xsv+고/ecc
+6	행동하다가	행동+하+다가	SCONJ	_	8	ccomp	_	_	행동/ncpa+하/xsv+다가/ecs
+7	일이	일+이	NOUN	_	8	nsubj	_	_	일/ncn+이/jcs
+8	잘못될	잘못+되+ㄹ	VERB	_	9	acl	_	_	잘못/ncpa+되/xsv+ㄹ/etm
+9	위험도	위험+도	ADV	_	10	advcl	_	_	위험/ncpa+도/jxc
+10	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이런 우스운 일을 인간은 많이 저질러 왔다 .
+1	이런	이렇+ㄴ	VERB	_	3	amod	_	_	이렇/pad+ㄴ/etm
+2	우스운	우습+ㄴ	ADJ	_	3	amod	_	_	우습/paa+ㄴ/etm
+3	일을	일+을	NOUN	_	6	obj	_	_	일/ncpa+을/jco
+4	인간은	인간+은	NOUN	_	6	dislocated	_	_	인간/ncn+은/jxt
+5	많이	많+이	SCONJ	_	6	xcomp	_	_	많/paa+이/ecs
+6	저질러	저지르+어	VERB	_	0	root	_	_	저지르/pvg+어/ecx
+7	왔다	오+았+다	AUX	_	6	aux	_	_	오/px+았/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그러나 시행참오를 범할 수 있다는 것이야말로 인간의 우수성의 발로이기도 한 것이다 .
+1	그러나	그러나	CCONJ	_	9	cc	_	_	그러나/maj
+2	시행참오를	시행참오+를	NOUN	_	3	obj	_	_	시행참오/ncn+를/jco
+3	범할	범하+ㄹ	VERB	_	6	acl	_	_	범하/pvg+ㄹ/etm
+4	수	수	NOUN	_	5	fixed	_	_	수/nbn
+5	있다는	있+다는	ADJ	_	3	aux	_	_	있/paa+다는/etm
+6	것이야말로	것+이야말로	ADV	_	9	advcl	_	_	것/nbn+이야말로/jxc
+7	인간의	인간+의	NOUN	_	8	nmod	_	_	인간/ncn+의/jcm
+8	우수성의	우수성+의	NOUN	_	9	nmod	_	_	우수성/ncn+의/jcm
+9	발로이기도	발로+이+기+도	ADV	_	0	root	_	_	발로/ncpa+이/jp+기/etn+도/jxc
+10	한	하+ㄴ	AUX	_	9	aux	_	_	하/px+ㄴ/etm
+11	것이다	것+이+다	VERB	_	9	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 동물에게는 시행착오라는 것이 없다 .
+1	동물에게는	동물+에게+는	NOUN	_	4	dislocated	_	_	동물/ncn+에게/jca+는/jxt
+2	시행착오라는	시행착오+라는	NOUN	_	3	nmod	_	_	시행착오/ncn+라는/jcm
+3	것이	것+이	NOUN	_	4	nsubj	_	_	것/nbn+이/jcs
+4	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 적어도 기본적으로는 없다 .
+1	적어도	적어도	ADV	_	3	advmod	_	_	적어도/mag
+2	기본적으로는	기본+적+으로+는	NOUN	_	3	dislocated	_	_	기본/ncn+적/xsn+으로/jca+는/jxt
+3	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 동물의 생활은 , 처음부터 타고난 생리적인 능력 , 소위 본능의 힘에 의해서 영위되고 있기 때문이다 .
+1	동물의	동물+의	NOUN	_	2	nmod	_	_	동물/ncn+의/jcm
+2	생활은	생활+은	NOUN	_	13	advmod	_	_	생활/ncpa+은/jxt
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	처음부터	처음+부터	ADV	_	5	advcl	_	_	처음/ncn+부터/jxc
+5	타고난	타고나+ㄴ	VERB	_	7	acl	_	_	타고나/pvg+ㄴ/etm
+6	생리적인	생리+적+이+ㄴ	VERB	_	7	acl	_	_	생리/ncn+적/xsn+이/jp+ㄴ/etm
+7	능력	능력	NOUN	_	11	compound	_	_	능력/ncn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	소위	소위	ADV	_	10	advmod	_	_	소위/mag
+10	본능의	본능+의	NOUN	_	11	nmod	_	_	본능/ncn+의/jcm
+11	힘에	힘+에	ADV	_	12	obl	_	_	힘/ncn+에/jca
+12	의해서	의하+어서	SCONJ	_	13	ccomp	_	_	의하/pvg+어서/ecs
+13	영위되고	영위+되+고	VERB	_	0	root	_	_	영위/ncpa+되/xsv+고/ecx
+14	있기	있+기	AUX	_	13	aux	_	_	있/px+기/etn
+15	때문이다	때문+이+다	VERB	_	13	aux	_	_	때문/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그것은 진화과정에서 우수한 것만이 골라지면서 단련되어 온 능력이므로 실수하는 일이 없도록 처음부터 타고나 있다 .
+1	그것은	그것+은	PRON	_	8	dislocated	_	_	그것/npd+은/jxt
+2	진화과정에서	진화+과정+에서	ADV	_	6	advcl	_	_	진화/ncpa+과정/ncn+에서/jca
+3	우수한	우수하+ㄴ	ADJ	_	4	amod	_	_	우수하/paa+ㄴ/etm
+4	것만이	것+만+이	NOUN	_	5	nsubj	_	_	것/nbn+만/jxc+이/jcs
+5	골라지면서	고르+아+지+면서	CCONJ	_	6	conj	_	_	고르/pvg+아/ecx+지/px+면서/ecc
+6	단련되어	단련+되+어	VERB	_	8	ccomp	_	_	단련/ncpa+되/xsv+어/ecx
+7	온	오+ㄴ	AUX	_	6	aux	_	_	오/px+ㄴ/etm
+8	능력이므로	능력+이+므로	SCONJ	_	13	ccomp	_	_	능력/ncn+이/jp+므로/ecs
+9	실수하는	실수+하+는	VERB	_	10	acl	_	_	실수/ncpa+하/xsv+는/etm
+10	일이	일+이	NOUN	_	11	nsubj	_	_	일/ncn+이/jcs
+11	없도록	없+도록	SCONJ	_	13	xcomp	_	_	없/paa+도록/ecs
+12	처음부터	처음+부터	ADV	_	13	advcl	_	_	처음/ncn+부터/jxc
+13	타고나	타고나+아	VERB	_	0	root	_	_	타고나/pvg+아/ecx
+14	있다	있+다	AUX	_	13	aux	_	_	있/px+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 개미와 개미가 서로 다투어서와 같은 일은 동화의 세계에서나 있는 일이다 .
+1	개미와	개미+와	CCONJ	_	2	conj	_	_	개미/ncn+와/jcj
+2	개미가	개미+가	NOUN	_	4	nsubj	_	_	개미/ncn+가/jcs
+3	서로	서로	ADV	_	4	advmod	_	_	서로/mag
+4	다투어서와	다투+어서+와	CCONJ	_	5	conj	_	_	다투/pvg+어서/ecs+와/jct
+5	같은	같+ㄴ	ADJ	_	6	amod	_	_	같/paa+ㄴ/etm
+6	일은	일+은	NOUN	_	9	dislocated	_	_	일/ncpa+은/jxt
+7	동화의	동화+의	NOUN	_	8	nmod	_	_	동화/ncn+의/jcm
+8	세계에서나	세계+에서+나	ADV	_	9	advcl	_	_	세계/ncn+에서/jca+나/jxc
+9	있는	있+는	ADJ	_	10	amod	_	_	있/paa+는/etm
+10	일이다	일+이+다	VERB	_	0	root	_	_	일/ncpa+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 동쪽에서 달려온 개와 서쪽에서 달려온 개가 정면으로 충돌하여 머리가 깨져서 죽어버렸다는 식의 이야기는 개의 세게에는 있을 수 없다 .
+1	동쪽에서	동+쪽+에서	ADV	_	2	advcl	_	_	동/ncn+쪽/xsn+에서/jca
+2	달려온	달리+어+오+ㄴ	AUX	_	3	acl	_	_	달리/pvg+어/ecx+오/px+ㄴ/etm
+3	개와	개+와	CCONJ	_	6	conj	_	_	개/ncn+와/jcj
+4	서쪽에서	서+쪽+에서	ADV	_	5	advcl	_	_	서/ncn+쪽/xsn+에서/jca
+5	달려온	달리+어+오+ㄴ	AUX	_	6	acl	_	_	달리/pvg+어/ecx+오/px+ㄴ/etm
+6	개가	개+가	NOUN	_	8	nsubj	_	_	개/ncn+가/jcs
+7	정면으로	정면+으로	ADV	_	8	advcl	_	_	정면/ncn+으로/jca
+8	충돌하여	충돌+하+어	SCONJ	_	11	ccomp	_	_	충돌/ncpa+하/xsv+어/ecs
+9	머리가	머리+가	NOUN	_	10	nsubj	_	_	머리/ncpa+가/jcs
+10	깨져서	깨+어+지+어서	SCONJ	_	11	ccomp	_	_	깨/pvg+어/ecx+지/px+어서/ecs
+11	죽어버렸다는	죽+어+버리+었+다는	AUX	_	12	acl	_	_	죽/pvg+어/ecx+버리/px+었/ep+다는/etm
+12	식의	식+의	NOUN	_	13	nmod	_	_	식/ncn+의/jcm
+13	이야기는	이야기+는	NOUN	_	16	dislocated	_	_	이야기/ncpa+는/jxt
+14	개의	개+의	NOUN	_	15	nmod	_	_	개/ncn+의/jcm
+15	세게에는	세계+에+는	NOUN	_	16	dislocated	_	_	세계/ncn+에/jca+는/jxt
+16	있을	있+ㄹ	ADJ	_	0	root	_	_	있/paa+ㄹ/etm
+17	수	수	NOUN	_	18	fixed	_	_	수/nbn
+18	없다	없+다	ADJ	_	16	aux	_	_	없/paa+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그러나 그 대신에 동물의 생활은 본능에 의해서 한정된 좁은 환경에 묶여 있다 .
+1	그러나	그러나	CCONJ	_	11	cc	_	_	그러나/maj
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	대신에	대신+에	ADV	_	11	obl	_	_	대신/ncpa+에/jca
+4	동물의	동물+의	NOUN	_	5	nmod	_	_	동물/ncn+의/jcm
+5	생활은	생활+은	NOUN	_	11	dislocated	_	_	생활/ncpa+은/jxt
+6	본능에	본능+에	ADV	_	7	obl	_	_	본능/ncn+에/jca
+7	의해서	의하+어서	SCONJ	_	8	ccomp	_	_	의하/pvg+어서/ecs
+8	한정된	한정+되+ㄴ	VERB	_	10	acl	_	_	한정/ncpa+되/xsv+ㄴ/etm
+9	좁은	좁+ㄴ	ADJ	_	10	amod	_	_	좁/paa+ㄴ/etm
+10	환경에	환경+에	ADV	_	11	obl	_	_	환경/ncn+에/jca
+11	묶여	묶이+어	VERB	_	0	root	_	_	묶이/pvg+어/ecx
+12	있다	있+다	AUX	_	11	aux	_	_	있/px+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 두더지는 땅 속을 나오는 일이 없다 .
+1	두더지는	두더지+는	NOUN	_	6	dislocated	_	_	두더지/ncn+는/jxt
+2	땅	땅	NOUN	_	3	compound	_	_	땅/ncn
+3	속을	속+을	NOUN	_	4	obj	_	_	속/ncn+을/jco
+4	나오는	나오+는	VERB	_	5	acl	_	_	나오/pvg+는/etm
+5	일이	일+이	NOUN	_	6	nsubj	_	_	일/ncn+이/jcs
+6	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그러나 동물이라면 아무리 거기에 에베레스트산이 우뚝 솟아 있더라도 올라 가지 않는다 .
+1	그러나	그러나	CCONJ	_	10	cc	_	_	그러나/maj
+2	동물이라면	동물+이+라면	SCONJ	_	10	ccomp	_	_	동물/ncn+이/jp+라면/ecs
+3	아무리	아무리	ADV	_	7	advmod	_	_	아무리/mag
+4	거기에	거기+에	ADV	_	7	obl	_	_	거기/npd+에/jca
+5	에베레스트산이	에베레스트산+이	PROPN	_	7	nsubj	_	_	에베레스트산/nq+이/jcs
+6	우뚝	우뚝	ADV	_	7	advmod	_	_	우뚝/mag
+7	솟아	솟+아	VERB	_	10	ccomp	_	_	솟/pvg+아/ecx
+8	있더라도	있+더라도	SCONJ	_	7	aux	_	_	있/px+더라도/ecs
+9	올라	오르+아	SCONJ	_	10	ccomp	_	_	오르/pvg+아/ecs
+10	가지	가+지	VERB	_	0	root	_	_	가/pvg+지/ecx
+11	않는다	않+는다	AUX	_	10	aux	_	_	않/px+는다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그래서 조난당하는 일도 없다 .
+1	그래서	그래서	CCONJ	_	4	cc	_	_	그래서/maj
+2	조난당하는	조난+당하+는	VERB	_	3	acl	_	_	조난/ncpa+당하/xsv+는/etm
+3	일도	일+도	ADV	_	4	advcl	_	_	일/ncpa+도/jxc
+4	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 인간만이 오른다 .
+1	인간만이	인간+만+이	NOUN	_	2	nsubj	_	_	인간/ncn+만/jxc+이/jcs
+2	오른다	오르+ㄴ다	VERB	_	0	root	_	_	오르/pvg+ㄴ다/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 사실은 인간이기 때문에 오르는 것이다 .
+1	사실은	사실+은	NOUN	_	4	dislocated	_	_	사실/ncn+은/jxt
+2	인간이기	인간+이+기	VERB	_	3	nmod	_	_	인간/ncn+이/jp+기/etn
+3	때문에	때문+에	ADV	_	4	obl	_	_	때문/nbn+에/jca
+4	오르는	오르+는	VERB	_	0	root	_	_	오르/pvg+는/etm
+5	것이다	것+이+다	VERB	_	4	aux	_	_	것/nbn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 인간은 바다를 탐험하며 달까지 날아간다 .
+1	인간은	인간+은	NOUN	_	5	dislocated	_	_	인간/ncn+은/jxt
+2	바다를	바다+를	NOUN	_	3	obj	_	_	바다/ncn+를/jco
+3	탐험하며	탐험+하+며	CCONJ	_	5	conj	_	_	탐험/ncpa+하/xsv+며/ecc
+4	달까지	달+까지	ADV	_	5	advcl	_	_	달/ncn+까지/jxc
+5	날아간다	날+아+가+ㄴ다	AUX	_	0	root	_	_	날/pvg+아/ecx+가/px+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그래서 인간만이 동물에게는 없는 사고를 당한다 .
+1	그래서	그래서	CCONJ	_	6	cc	_	_	그래서/maj
+2	인간만이	인간+만+이	NOUN	_	6	csubj	_	_	인간/ncn+만/jxc+이/jcc
+3	동물에게는	동물+에게+는	NOUN	_	4	dislocated	_	_	동물/ncn+에게/jca+는/jxt
+4	없는	없+는	ADJ	_	5	amod	_	_	없/paa+는/etm
+5	사고를	사고+를	NOUN	_	6	obj	_	_	사고/ncpa+를/jco
+6	당한다	당하+ㄴ다	VERB	_	0	root	_	_	당하/pvg+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 힐러리도 그 유명한 말을 한 뒤 , 세번째로 에베레스트산에 도전하다가 산 속에서 소식이 끊어졌다 .
+1	힐러리도	힐러리+도	ADV	_	14	advcl	_	_	힐러리/nq+도/jxc
+2	그	그	DET	_	4	det	_	_	그/mmd
+3	유명한	유명+하+ㄴ	VERB	_	4	amod	_	_	유명/ncps+하/xsm+ㄴ/etm
+4	말을	말+을	NOUN	_	5	obj	_	_	말/ncpa+을/jco
+5	한	하+ㄴ	VERB	_	6	acl	_	_	하/pvg+ㄴ/etm
+6	뒤	뒤	NOUN	_	14	advmod	_	_	뒤/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	세번째로	세번째+로	ADV	_	10	advcl	_	_	세번째/nno+로/jca
+9	에베레스트산에	에베레스트산+에	ADV	_	10	obl	_	_	에베레스트산/nq+에/jca
+10	도전하다가	도전+하+다가	SCONJ	_	14	ccomp	_	_	도전/ncpa+하/xsv+다가/ecs
+11	산	산	NOUN	_	12	compound	_	_	산/ncn
+12	속에서	속+에서	ADV	_	14	advcl	_	_	속/ncn+에서/jca
+13	소식이	소식+이	NOUN	_	14	nsubj	_	_	소식/ncn+이/jcs
+14	끊어졌다	끊+어+지+었+다	AUX	_	0	root	_	_	끊/pvg+어/ecx+지/px+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 시행착오는 , 본능에 의한 제한된 생활로부터 빠져 나와 새로운 환경과 맞설 때에 생기는 것이다 .
+1	시행착오는	시행+착오+는	NOUN	_	13	advmod	_	_	시행/ncpa+착오/ncps+는/jxt
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	본능에	본능+에	ADV	_	4	obl	_	_	본능/ncn+에/jca
+4	의한	의하+ㄴ	VERB	_	6	acl	_	_	의하/pvg+ㄴ/etm
+5	제한된	제한+되+ㄴ	VERB	_	6	acl	_	_	제한/ncpa+되/xsv+ㄴ/etm
+6	생활로부터	생활+로+부터	ADV	_	8	advcl	_	_	생활/ncpa+로/jca+부터/jxc
+7	빠져	빠지+어	SCONJ	_	8	ccomp	_	_	빠지/pvg+어/ecs
+8	나와	나오+아	SCONJ	_	11	ccomp	_	_	나오/pvg+아/ecs
+9	새로운	새롭+ㄴ	ADJ	_	10	amod	_	_	새롭/paa+ㄴ/etm
+10	환경과	환경+과	CCONJ	_	11	conj	_	_	환경/ncn+과/jct
+11	맞설	맞서+ㄹ	VERB	_	12	acl	_	_	맞서/pvg+ㄹ/etm
+12	때에	때+에	ADV	_	13	obl	_	_	때/ncn+에/jca
+13	생기는	생기+는	VERB	_	0	root	_	_	생기/pvg+는/etm
+14	것이다	것+이+다	VERB	_	13	aux	_	_	것/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 따라서 그것은 인간이 우수하기 때문에 생기는 것이다 .
+1	따라서	따라서	CCONJ	_	6	cc	_	_	따라서/maj
+2	그것은	그것+은	PRON	_	6	dislocated	_	_	그것/npd+은/jxt
+3	인간이	인간+이	NOUN	_	4	nsubj	_	_	인간/ncn+이/jcs
+4	우수하기	우수+하+기	VERB	_	5	nmod	_	_	우수/ncps+하/xsm+기/etn
+5	때문에	때문+에	ADV	_	6	obl	_	_	때문/nbn+에/jca
+6	생기는	생기+는	VERB	_	0	root	_	_	생기/pvg+는/etm
+7	것이다	것+이+다	VERB	_	6	aux	_	_	것/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 물론 시행착오 자체가 훌륭하다는 것은 아니다 .
+1	물론	물론	ADV	_	6	advmod	_	_	물론/mag
+2	시행착오	시행+착오	NOUN	_	3	compound	_	_	시행/ncpa+착오/ncps
+3	자체가	자체+가	NOUN	_	4	nsubj	_	_	자체/ncn+가/jcs
+4	훌륭하다는	훌륭+하+다는	VERB	_	5	amod	_	_	훌륭/ncps+하/xsm+다는/etm
+5	것은	것+은	NOUN	_	6	dislocated	_	_	것/nbn+은/jxt
+6	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 가능한 한 시행착오 없이 행동할 때 비로소 진정으로 훌륭하다고 말할 수 있다 .
+1	가능한	가능+하+ㄴ	VERB	_	2	amod	_	_	가능/ncps+하/xsm+ㄴ/etm
+2	한	한	NOUN	_	4	mark	_	_	한/nbn
+3	시행착오	시행+착오	NOUN	_	4	dep	_	_	시행/ncpa+착오/ncps
+4	없이	없+이	SCONJ	_	5	xcomp	_	_	없/paa+이/ecs
+5	행동할	행동+하+ㄹ	VERB	_	6	acl	_	_	행동/ncpa+하/xsv+ㄹ/etm
+6	때	때	NOUN	_	9	compound	_	_	때/ncn
+7	비로소	비로소	ADV	_	9	advmod	_	_	비로소/mag
+8	진정으로	진정+으로	ADV	_	9	advcl	_	_	진정/ncn+으로/jca
+9	훌륭하다고	훌륭+하+다고	SCONJ	_	10	xcomp	_	_	훌륭/ncps+하/xsm+다고/ecs
+10	말할	말하+ㄹ	VERB	_	0	root	_	_	말하/pvg+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있다	있+다	ADJ	_	10	aux	_	_	있/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 동물과 인간의 머리 차이는 개의 네 다리와 인간이 타는 자동차의 차이와 비슷하다고 할 수 있다 .
+1	동물과	동물+과	CCONJ	_	2	conj	_	_	동물/ncn+과/jcj
+2	인간의	인간+의	NOUN	_	4	nmod	_	_	인간/ncn+의/jcm
+3	머리	머리	NOUN	_	4	compound	_	_	머리/ncn
+4	차이는	차이+는	NOUN	_	12	dislocated	_	_	차이/ncn+는/jxt
+5	개의	개+의	NOUN	_	7	nmod	_	_	개/ncn+의/jcm
+6	네	네	NUM	_	7	nummod	_	_	네/nnc
+7	다리와	다리+와	CCONJ	_	10	conj	_	_	다리/ncn+와/jcj
+8	인간이	인간+이	NOUN	_	9	nsubj	_	_	인간/ncn+이/jcs
+9	타는	타+는	VERB	_	10	acl	_	_	타/pvg+는/etm
+10	자동차의	자동차+의	NOUN	_	11	nmod	_	_	자동차/ncn+의/jcm
+11	차이와	차이+와	CCONJ	_	12	conj	_	_	차이/ncn+와/jct
+12	비슷하다고	비슷+하+다+고	VERB	_	13	conj	_	_	비슷/ncps+하/xsm+다/ef+고/jcr
+13	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있다	있+다	ADJ	_	13	aux	_	_	있/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 차가 교통사고를 일으키는 것처럼 인간은 , 개에게는 머리를 거꾸로 달아 놓더라도 불가능한 시행착오를 얼마든지 범할 수 있다 .
+1	차가	차+가	NOUN	_	3	nsubj	_	_	차/ncn+가/jcs
+2	교통사고를	교통+사고+를	NOUN	_	3	obj	_	_	교통/ncn+사고/ncn+를/jco
+3	일으키는	일으키+는	VERB	_	4	acl	_	_	일으키/pvg+는/etm
+4	것처럼	것+처럼	ADV	_	15	advcl	_	_	것/nbn+처럼/jca
+5	인간은	인간+은	NOUN	_	15	advmod	_	_	인간/ncn+은/jxt
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	개에게는	개+에게+는	NOUN	_	10	dislocated	_	_	개/ncn+에게/jca+는/jxt
+8	머리를	머리+를	NOUN	_	10	obj	_	_	머리/ncn+를/jco
+9	거꾸로	거꾸로	ADV	_	10	advmod	_	_	거꾸로/mag
+10	달아	달+아	VERB	_	12	ccomp	_	_	달/pvg+아/ecx
+11	놓더라도	놓+더라+도	ADV	_	10	aux	_	_	놓/px+더라/ecs+도/jxc
+12	불가능한	불가능+하+ㄴ	VERB	_	13	amod	_	_	불가능/ncps+하/xsm+ㄴ/etm
+13	시행착오를	시행+착오+를	NOUN	_	15	obj	_	_	시행/ncpa+착오/ncps+를/jco
+14	얼마든지	얼마든지	ADV	_	15	advmod	_	_	얼마든지/mag
+15	범할	범하+ㄹ	VERB	_	0	root	_	_	범하/pvg+ㄹ/etm
+16	수	수	NOUN	_	17	fixed	_	_	수/nbn
+17	있다	있+다	ADJ	_	15	aux	_	_	있/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그렇다고 해서 애당초 생각하는 것조차도 불가능한 개의 머리가 더 뛰어나다고 할 수는 없다 .
+1	그렇다고	그렇+다+고	VERB	_	2	conj	_	_	그렇/pad+다/ef+고/jcr
+2	해서	하+어서	SCONJ	_	11	ccomp	_	_	하/pvg+어서/ecs
+3	애당초	애당초	NOUN	_	6	compound	_	_	애당초/ncn
+4	생각하는	생각+하+는	VERB	_	5	acl	_	_	생각/ncpa+하/xsv+는/etm
+5	것조차도	것+조차도	ADV	_	6	advcl	_	_	것/nbn+조차도/jxc
+6	불가능한	불가능+하+ㄴ	VERB	_	8	amod	_	_	불가능/ncps+하/xsm+ㄴ/etm
+7	개의	개+의	NOUN	_	8	nmod	_	_	개/ncn+의/jcm
+8	머리가	머리+가	NOUN	_	10	nsubj	_	_	머리/ncn+가/jcs
+9	더	더	ADV	_	10	advmod	_	_	더/mag
+10	뛰어나다고	뛰어나+다+고	VERB	_	11	conj	_	_	뛰어나/paa+다/ef+고/jcr
+11	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+12	수는	수+는	NOUN	_	13	fixed	_	_	수/nbn+는/jxt
+13	없다	없+다	ADJ	_	11	aux	_	_	없/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 올바르게 운전하기만 한다면 인간의 자동차는 개의 네 발로는 도저히 따를 수 없는 강력한 위력을 발휘한다 .
+1	올바르게	올바르+게	SCONJ	_	2	xcomp	_	_	올바르/paa+게/ecs
+2	운전하기만	운전+하+기+만	ADV	_	15	ccomp	_	_	운전/ncpa+하/xsv+기/etn+만/jxc
+3	한다면	하+ㄴ다면	SCONJ	_	2	aux	_	_	하/pvg+ㄴ다면/ecs
+4	인간의	인간+의	NOUN	_	5	nmod	_	_	인간/ncn+의/jcm
+5	자동차는	자동차+는	NOUN	_	15	dislocated	_	_	자동차/ncn+는/jxt
+6	개의	개+의	NOUN	_	8	nmod	_	_	개/ncn+의/jcm
+7	네	네	NUM	_	8	nummod	_	_	네/nnc
+8	발로는	발+로+는	NOUN	_	10	dislocated	_	_	발/ncn+로/jca+는/jxt
+9	도저히	도저히	ADV	_	10	advmod	_	_	도저히/mag
+10	따를	따르+ㄹ	VERB	_	14	acl	_	_	따르/pvg+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	없는	없+는	ADJ	_	10	aux	_	_	없/paa+는/etm
+13	강력한	강력+하+ㄴ	VERB	_	14	amod	_	_	강력/ncps+하/xsm+ㄴ/etm
+14	위력을	위력+을	NOUN	_	15	obj	_	_	위력/ncn+을/jco
+15	발휘한다	발휘+하+ㄴ다	VERB	_	0	root	_	_	발휘/ncpa+하/xsv+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 인간의 머리도 그와 동일한 것이다 .
+1	인간의	인간+의	NOUN	_	2	nmod	_	_	인간/ncn+의/jcm
+2	머리도	머리+도	ADV	_	4	advcl	_	_	머리/ncn+도/jxc
+3	그와	그+와	CCONJ	_	4	conj	_	_	그/npp+와/jct
+4	동일한	동일+하+ㄴ	VERB	_	0	root	_	_	동일/ncps+하/xsm+ㄴ/etm
+5	것이다	것+이+다	VERB	_	4	aux	_	_	것/nbn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 차의 올바른 운전법에 관해서는 자동차 학원에 다니면서 학습해야 한다 .
+1	차의	차+의	NOUN	_	3	nmod	_	_	차/ncn+의/jcm
+2	올바른	올바르+ㄴ	ADJ	_	3	amod	_	_	올바르/paa+ㄴ/etm
+3	운전법에	운전법+에	ADV	_	4	obl	_	_	운전법/ncn+에/jca
+4	관해서는	관하+어서+는	NOUN	_	8	ccomp	_	_	관하/pvg+어서/ecs+는/jxt
+5	자동차	자동차	NOUN	_	6	compound	_	_	자동차/ncn
+6	학원에	학원+에	ADV	_	7	obl	_	_	학원/ncn+에/jca
+7	다니면서	다니+면서	CCONJ	_	8	conj	_	_	다니/pvg+면서/ecc
+8	학습해야	학습+하+어야	VERB	_	0	root	_	_	학습/ncpa+하/xsv+어야/ecx
+9	한다	하+ㄴ다	AUX	_	8	aux	_	_	하/px+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 과학도 이성에 기초해서 세계를 파악하려고 하는 것이다 .
+1	과학도	과학+도	ADV	_	7	advcl	_	_	과학/ncn+도/jxc
+2	이성에	이성+에	ADV	_	3	obl	_	_	이성/ncn+에/jca
+3	기초해서	기초+하+어서	SCONJ	_	5	ccomp	_	_	기초/ncpa+하/xsv+어서/ecs
+4	세계를	세계+를	NOUN	_	5	obj	_	_	세계/ncn+를/jco
+5	파악하려고	파악+하+려고	VERB	_	7	ccomp	_	_	파악/ncpa+하/xsv+려고/ecx
+6	하는	하+는	AUX	_	5	aux	_	_	하/px+는/etm
+7	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그 점에서는 철학과 다르지 않다 .
+1	그	그	PRON	_	2	compound	_	_	그/npp
+2	점에서는	점+에서+는	NOUN	_	4	dislocated	_	_	점/ncn+에서/jca+는/jxt
+3	철학과	철학+과	CCONJ	_	4	conj	_	_	철학/ncn+과/jct
+4	다르지	다르+지	ADJ	_	0	root	_	_	다르/paa+지/ecx
+5	않다	않+다	AUX	_	4	aux	_	_	않/px+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그 때문에 처음에는 철학과 과학의 구별이 없었다 .
+1	그	그	PRON	_	2	compound	_	_	그/npp
+2	때문에	때문+에	ADV	_	7	obl	_	_	때문/nbn+에/jca
+3	처음에는	처음+에+는	NOUN	_	7	dislocated	_	_	처음/ncn+에/jca+는/jxt
+4	철학과	철학+과	CCONJ	_	5	conj	_	_	철학/ncn+과/jcj
+5	과학의	과학+의	NOUN	_	6	nmod	_	_	과학/ncn+의/jcm
+6	구별이	구별+이	NOUN	_	7	nsubj	_	_	구별/ncpa+이/jcs
+7	없었다	없+었+다	ADJ	_	0	root	_	_	없/paa+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그러나 처음에는 하나였던 철학과 과학은 그 이후 서로 다른 길을 걸어왔다 .
+1	그러나	그러나	CCONJ	_	11	cc	_	_	그러나/maj
+2	처음에는	처음+에+는	NOUN	_	3	dislocated	_	_	처음/ncn+에/jca+는/jxt
+3	하나였던	하나+이+었+던	VERB	_	5	acl	_	_	하나/nnc+이/jp+었/ep+던/etm
+4	철학과	철학+과	CCONJ	_	5	conj	_	_	철학/ncn+과/jcj
+5	과학은	과학+은	NOUN	_	11	dislocated	_	_	과학/ncn+은/jxt
+6	그	그	DET	_	7	det	_	_	그/mmd
+7	이후	이후	NOUN	_	11	advmod	_	_	이후/ncn
+8	서로	서로	ADV	_	9	advmod	_	_	서로/mag
+9	다른	다르+ㄴ	ADJ	_	10	amod	_	_	다르/paa+ㄴ/etm
+10	길을	길+을	NOUN	_	11	obj	_	_	길/ncn+을/jco
+11	걸어왔다	걷+어+오+았+다	AUX	_	0	root	_	_	걷/pvg+어/ecx+오/px+았/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 확실하게 증명된 사실을 기초로 하여 견실하게 논의를 진전시킨다는 것이 과학의 특징이다 .
+1	확실하게	확실+하+게	SCONJ	_	2	xcomp	_	_	확실/ncps+하/xsm+게/ecs
+2	증명된	증명+되+ㄴ	VERB	_	3	acl	_	_	증명/ncpa+되/xsv+ㄴ/etm
+3	사실을	사실+을	NOUN	_	5	obj	_	_	사실/ncn+을/jco
+4	기초로	기초+로	ADV	_	5	advcl	_	_	기초/ncpa+로/jca
+5	하여	하+어	SCONJ	_	8	ccomp	_	_	하/pvg+어/ecs
+6	견실하게	견실+하+게	SCONJ	_	8	xcomp	_	_	견실/ncps+하/xsm+게/ecs
+7	논의를	논의+를	NOUN	_	8	obj	_	_	논의/ncpa+를/jco
+8	진전시킨다는	진전+시키+ㄴ다는	VERB	_	9	acl	_	_	진전/ncpa+시키/xsv+ㄴ다는/etm
+9	것이	것+이	NOUN	_	11	nsubj	_	_	것/nbn+이/jcs
+10	과학의	과학+의	NOUN	_	11	nmod	_	_	과학/ncn+의/jcm
+11	특징이다	특징+이+다	VERB	_	0	root	_	_	특징/ncn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러기 위해서는 우선 연구대상을 한정해야 한다 .
+1	그러기	그러+기	VERB	_	2	nmod	_	_	그러/pvd+기/etn
+2	위해서는	위하+어서+는	NOUN	_	5	ccomp	_	_	위하/pvg+어서/ecs+는/jxt
+3	우선	우선	ADV	_	5	advmod	_	_	우선/mag
+4	연구대상을	연구+대상+을	NOUN	_	5	obj	_	_	연구/ncpa+대상/ncn+을/jco
+5	한정해야	한정+하+어야	VERB	_	0	root	_	_	한정/ncpa+하/xsv+어야/ecx
+6	한다	하+ㄴ다	AUX	_	5	aux	_	_	하/px+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이에 관해 마르크스는 이렇게 말했다 .
+1	이에	이+에	ADV	_	2	obl	_	_	이/npd+에/jca
+2	관해	관하+어	SCONJ	_	5	ccomp	_	_	관하/pvg+어/ecs
+3	마르크스는	마르크스+는	PROPN	_	5	dislocated	_	_	마르크스/nq+는/jxt
+4	이렇게	이렇+게	SCONJ	_	5	xcomp	_	_	이렇/pad+게/ecs
+5	말했다	말하+었+다	VERB	_	0	root	_	_	말하/pvg+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그 이유는 무엇인가 ?
+1	그	그	PRON	_	2	compound	_	_	그/npp
+2	이유는	이유+는	NOUN	_	3	dislocated	_	_	이유/ncn+는/jxt
+3	무엇인가	무엇+이+ㄴ가	VERB	_	0	root	_	_	무엇/npd+이/jp+ㄴ가/ef
+4	?	?	PUNCT	_	3	punct	_	_	?/sf
+
+# 유지적 전체인 신체는 그 신체의 세포보다 연구하기 쉽기 때문이다 .
+1	유지적	유지+적	NOUN	_	2	amod	_	_	유지/ncpa+적/xsn
+2	전체인	전체+이+ㄴ	VERB	_	3	acl	_	_	전체/ncn+이/jp+ㄴ/etm
+3	신체는	신체+는	NOUN	_	8	dislocated	_	_	신체/ncn+는/jxt
+4	그	그	DET	_	5	det	_	_	그/mmd
+5	신체의	신체+의	NOUN	_	6	nmod	_	_	신체/ncn+의/jcm
+6	세포보다	세포+보다	ADV	_	8	advcl	_	_	세포/ncn+보다/jca
+7	연구하기	연구+하+기	VERB	_	8	nmod	_	_	연구/ncpa+하/xsv+기/etn
+8	쉽기	쉽+기	ADJ	_	0	root	_	_	쉽/paa+기/etn
+9	때문이다	때문+이+다	VERB	_	8	aux	_	_	때문/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그래서 과학은 식물학 , 동물학 , 광물학 등과 같은 개별과학으로서 발달하여 왔다 .
+1	그래서	그래서	CCONJ	_	11	cc	_	_	그래서/maj
+2	과학은	과학+은	NOUN	_	11	dislocated	_	_	과학/ncn+은/jxt
+3	식물학	식물학	NOUN	_	5	conj	_	_	식물학/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	동물학	동물학	NOUN	_	7	conj	_	_	동물학/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	광물학	광물학	NOUN	_	8	compound	_	_	광물학/ncn
+8	등과	등+과	CCONJ	_	9	conj	_	_	등/nbn+과/jct
+9	같은	같+ㄴ	ADJ	_	10	amod	_	_	같/paa+ㄴ/etm
+10	개별과학으로서	개별과학+으로서	ADV	_	11	advcl	_	_	개별과학/ncn+으로서/jca
+11	발달하여	발달+하+어	VERB	_	0	root	_	_	발달/ncpa+하/xsv+어/ecx
+12	왔다	오+았+다	AUX	_	11	aux	_	_	오/px+았/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이 단계에서 세계의 전체적인 모습을 이론적으로 문제삼는 일은 과학의 취급범위 안에 놓일 수 없었다 .
+1	이	이	PROPN	_	2	compound	_	_	이/nq
+2	단계에서	단계+에서	ADV	_	12	advcl	_	_	단계/ncn+에서/jca
+3	세계의	세계+의	NOUN	_	5	nmod	_	_	세계/ncn+의/jcm
+4	전체적인	전체+적+이+ㄴ	VERB	_	5	acl	_	_	전체/ncn+적/xsn+이/jp+ㄴ/etm
+5	모습을	모습+을	NOUN	_	7	obj	_	_	모습/ncn+을/jco
+6	이론적으로	이론+적+으로	ADV	_	7	advcl	_	_	이론/ncn+적/xsn+으로/jca
+7	문제삼는	문제삼+는	VERB	_	8	acl	_	_	문제삼/pvg+는/etm
+8	일은	일+은	NOUN	_	12	dislocated	_	_	일/ncn+은/jxt
+9	과학의	과학+의	NOUN	_	10	nmod	_	_	과학/ncn+의/jcm
+10	취급범위	취급+범위	NOUN	_	11	compound	_	_	취급/ncpa+범위/ncn
+11	안에	안+에	ADV	_	12	obl	_	_	안/ncn+에/jca
+12	놓일	놓이+ㄹ	VERB	_	0	root	_	_	놓이/pvg+ㄹ/etm
+13	수	수	NOUN	_	14	fixed	_	_	수/nbn
+14	없었다	없+었+다	ADJ	_	12	aux	_	_	없/paa+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그 무렵 , 철학은 모든 학문의 여왕이라고 불리고 있었다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	무렵	무렵	NOUN	_	8	advmod	_	_	무렵/nbn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	철학은	철학+은	NOUN	_	8	dislocated	_	_	철학/ncn+은/jxt
+5	모든	모든	DET	_	6	det	_	_	모든/mmd
+6	학문의	학문+의	NOUN	_	7	nmod	_	_	학문/ncpa+의/jcm
+7	여왕이라고	여왕+이+라+고	VERB	_	8	conj	_	_	여왕/ncn+이/jp+라/ef+고/jcr
+8	불리고	불리+고	VERB	_	0	root	_	_	불리/pvg+고/ecx
+9	있었다	있+었+다	AUX	_	8	aux	_	_	있/px+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 무엇이 천박한가 , 천박하지 않은가는 별도로 하고 , 철학의 연구방식과 과학의 연구방식이 같을 수 없다는 것은 이 단계에서 무리가 없었다 .
+1	무엇이	무엇+이	PRON	_	2	nsubj	_	_	무엇/npd+이/jcs
+2	천박한가	천박+하+ㄴ가	VERB	_	4	dep	_	_	천박/ncps+하/xsm+ㄴ가/ef
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	천박하지	천박+하+지	VERB	_	7	dislocated	_	_	천박/ncps+하/xsm+지/ecx
+5	않은가는	않+ㄴ가+는	NOUN	_	4	aux	_	_	않/px+ㄴ가/ef+는/jxt
+6	별도로	별도+로	ADV	_	7	advcl	_	_	별도/ncn+로/jca
+7	하고	하+고	CCONJ	_	20	conj	_	_	하/pvg+고/ecc
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	철학의	철학+의	NOUN	_	10	nmod	_	_	철학/ncn+의/jcm
+10	연구방식과	연구+방식+과	CCONJ	_	12	conj	_	_	연구/ncpa+방식/ncn+과/jcj
+11	과학의	과학+의	NOUN	_	12	nmod	_	_	과학/ncn+의/jcm
+12	연구방식이	연구+방식+이	NOUN	_	13	nsubj	_	_	연구/ncpa+방식/ncn+이/jcs
+13	같을	같+ㄹ	ADJ	_	16	amod	_	_	같/paa+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	없다는	없+다는	ADJ	_	13	aux	_	_	없/paa+다는/etm
+16	것은	것+은	NOUN	_	20	dislocated	_	_	것/nbn+은/jxt
+17	이	이	DET	_	18	det	_	_	이/mmd
+18	단계에서	단계+에서	ADV	_	20	advcl	_	_	단계/ncn+에서/jca
+19	무리가	무리+가	NOUN	_	20	nsubj	_	_	무리/ncn+가/jcs
+20	없었다	없+었+다	ADJ	_	0	root	_	_	없/paa+었/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 다시 말해서 실증된 사실이 결여되어 있는 부분을 철학자 개개인이 자신의 머리로서 생각해 내는 , 상상으로 보충하는 방법밖에 길이 없었던 것이다 .
+1	다시	다시	ADV	_	2	advmod	_	_	다시/mag
+2	말해서	말하+어서	SCONJ	_	19	advcl	_	_	말하/pvg+어서/ecs
+3	실증된	실증+되+ㄴ	VERB	_	4	acl	_	_	실증/ncpa+되/xsv+ㄴ/etm
+4	사실이	사실+이	NOUN	_	5	csubj	_	_	사실/ncn+이/jcc
+5	결여되어	결여+되+어	VERB	_	7	acl	_	_	결여/ncpa+되/xsv+어/ecx
+6	있는	있+는	AUX	_	5	aux	_	_	있/px+는/etm
+7	부분을	부분+을	NOUN	_	12	obj	_	_	부분/ncn+을/jco
+8	철학자	철학자	NOUN	_	9	compound	_	_	철학자/ncn
+9	개개인이	개개인+이	NOUN	_	12	nsubj	_	_	개개인/ncn+이/jcs
+10	자신의	자신+의	NOUN	_	11	nmod	_	_	자신/ncn+의/jcm
+11	머리로서	머리+로서	ADV	_	12	advcl	_	_	머리/ncpa+로서/jca
+12	생각해	생각+하+어	VERB	_	16	dep	_	_	생각/ncpa+하/xsv+어/ecx
+13	내는	내+는	AUX	_	12	aux	_	_	내/px+는/etm
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	상상으로	상상+으로	ADV	_	16	advcl	_	_	상상/ncpa+으로/jca
+16	보충하는	보충+하+는	VERB	_	17	dep	_	_	보충/ncpa+하/xsv+는/etm
+17	방법밖에	방법+밖에	ADV	_	19	advcl	_	_	방법/ncn+밖에/jxc
+18	길이	길+이	NOUN	_	19	nsubj	_	_	길/ncn+이/jcs
+19	없었던	없+었+던	ADJ	_	0	root	_	_	없/paa+었/ep+던/etm
+20	것이다	것+이+다	VERB	_	19	aux	_	_	것/nbn+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그 때문에 철학자의 수에 비례하는 철학이 생기게 되었다 .
+1	그	그	PRON	_	2	compound	_	_	그/npp
+2	때문에	때문+에	ADV	_	7	obl	_	_	때문/nbn+에/jca
+3	철학자의	철학자+의	NOUN	_	4	nmod	_	_	철학자/ncn+의/jcm
+4	수에	수+에	ADV	_	5	obl	_	_	수/ncn+에/jca
+5	비례하는	비례+하+는	VERB	_	6	acl	_	_	비례/ncpa+하/xsv+는/etm
+6	철학이	철학+이	NOUN	_	7	nsubj	_	_	철학/ncn+이/jcs
+7	생기게	생기+게	VERB	_	0	root	_	_	생기/pvg+게/ecx
+8	되었다	되+었+다	AUX	_	7	aux	_	_	되/px+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 관념론 철학이 칸트 철학 , 헤겔 철학 등과 같은 방식으로 철학자 개인의 이름을 붙여 불리어 온 것도 그 때문이다 .
+1	관념론	관념론	NOUN	_	2	compound	_	_	관념론/ncn
+2	철학이	철학+이	NOUN	_	15	nsubj	_	_	철학/ncn+이/jcs
+3	칸트	칸트	PROPN	_	4	compound	_	_	칸트/nq
+4	철학	철학	NOUN	_	7	compound	_	_	철학/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	헤겔	헤겔	PROPN	_	7	compound	_	_	헤겔/nq
+7	철학	철학	NOUN	_	8	compound	_	_	철학/ncn
+8	등과	등+과	CCONJ	_	9	conj	_	_	등/nbn+과/jct
+9	같은	같+ㄴ	ADJ	_	10	amod	_	_	같/paa+ㄴ/etm
+10	방식으로	방식+으로	ADV	_	15	advcl	_	_	방식/ncn+으로/jca
+11	철학자	철학자	NOUN	_	12	compound	_	_	철학자/ncn
+12	개인의	개인+의	NOUN	_	13	nmod	_	_	개인/ncn+의/jcm
+13	이름을	이름+을	NOUN	_	14	obj	_	_	이름/ncn+을/jco
+14	붙여	붙이+어	SCONJ	_	15	ccomp	_	_	붙이/pvg+어/ecs
+15	불리어	불리+어	VERB	_	17	acl	_	_	불리/pvg+어/ecx
+16	온	오+ㄴ	AUX	_	15	aux	_	_	오/px+ㄴ/etm
+17	것도	것+도	ADV	_	19	advcl	_	_	것/nbn+도/jxc
+18	그	그	PRON	_	19	compound	_	_	그/npp
+19	때문이다	때문+이+다	VERB	_	0	root	_	_	때문/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 그러나 19 세기를 고비로 하여 사정은 커다랗게 변해 왔다 .
+1	그러나	그러나	CCONJ	_	8	cc	_	_	그러나/maj
+2	19	19	NUM	_	3	nummod	_	_	19/nno
+3	세기를	세기+를	NOUN	_	5	obj	_	_	세기/ncn+를/jco
+4	고비로	고비+로	ADV	_	5	advcl	_	_	고비/ncpa+로/jca
+5	하여	하+어	SCONJ	_	8	ccomp	_	_	하/pvg+어/ecs
+6	사정은	사정+은	NOUN	_	8	dislocated	_	_	사정/ncn+은/jxt
+7	커다랗게	커다랗+게	SCONJ	_	8	xcomp	_	_	커다랗/paa+게/ecs
+8	변해	변하+어	VERB	_	0	root	_	_	변하/pvg+어/ecx
+9	왔다	오+았+다	AUX	_	8	aux	_	_	오/px+았/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 자연의 영역과 사회의 영역 모두에서 , 위에서 서술한 바와 같은 상태에 근본적인 전환을 초래한 사건이 잇달아 일어났다 .
+1	자연의	자연+의	NOUN	_	2	nmod	_	_	자연/ncpa+의/jcm
+2	영역과	영역+과	CCONJ	_	4	conj	_	_	영역/ncn+과/jcj
+3	사회의	사회+의	NOUN	_	4	nmod	_	_	사회/ncn+의/jcm
+4	영역	영역	NOUN	_	5	compound	_	_	영역/ncn
+5	모두에서	모두+에서	ADV	_	14	advmod	_	_	모두/ncn+에서/jca
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	위에서	위+에서	ADV	_	8	advcl	_	_	위/ncn+에서/jca
+8	서술한	서술+하+ㄴ	VERB	_	9	acl	_	_	서술/ncpa+하/xsv+ㄴ/etm
+9	바와	바+와	CCONJ	_	10	conj	_	_	바/nbn+와/jct
+10	같은	같+ㄴ	ADJ	_	11	amod	_	_	같/paa+ㄴ/etm
+11	상태에	상태+에	ADV	_	14	obl	_	_	상태/ncn+에/jca
+12	근본적인	근본+적+이+ㄴ	VERB	_	13	acl	_	_	근본/ncn+적/xsn+이/jp+ㄴ/etm
+13	전환을	전환+을	NOUN	_	14	obj	_	_	전환/ncpa+을/jco
+14	초래한	초래+하+ㄴ	VERB	_	15	acl	_	_	초래/ncpa+하/xsv+ㄴ/etm
+15	사건이	사건+이	NOUN	_	17	nsubj	_	_	사건/ncn+이/jcs
+16	잇달아	잇달+아	SCONJ	_	17	ccomp	_	_	잇달/pvg+아/ecs
+17	일어났다	일어나+ㅆ+다	VERB	_	0	root	_	_	일어나/pvg+ㅆ/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이에 따라 여러 과학의 힘으로 세계의 전체적인 관련을 문제로 삼는 새로운 단계에 도달하게 되었다 .
+1	이에	이+에	ADV	_	2	obl	_	_	이/npd+에/jca
+2	따라	따르+아	SCONJ	_	13	ccomp	_	_	따르/pvg+아/ecs
+3	여러	여러	ADJ	_	5	amod	_	_	여러/mma
+4	과학의	과학+의	NOUN	_	5	nmod	_	_	과학/ncn+의/jcm
+5	힘으로	힘+으로	ADV	_	10	advcl	_	_	힘/ncn+으로/jca
+6	세계의	세계+의	NOUN	_	8	nmod	_	_	세계/ncn+의/jcm
+7	전체적인	전체+적+이+ㄴ	VERB	_	8	acl	_	_	전체/ncn+적/xsn+이/jp+ㄴ/etm
+8	관련을	관련+을	NOUN	_	10	obj	_	_	관련/ncpa+을/jco
+9	문제로	문제+로	ADV	_	10	advcl	_	_	문제/ncn+로/jca
+10	삼는	삼+는	VERB	_	12	acl	_	_	삼/pvg+는/etm
+11	새로운	새롭+ㄴ	ADJ	_	12	amod	_	_	새롭/paa+ㄴ/etm
+12	단계에	단계+에	ADV	_	13	obl	_	_	단계/ncn+에/jca
+13	도달하게	도달+하+게	VERB	_	0	root	_	_	도달/ncpa+하/xsv+게/ecx
+14	되었다	되+었+다	AUX	_	13	aux	_	_	되/px+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 사회의 영역에서도 똑같은 현상이 일어났다 .
+1	사회의	사회+의	NOUN	_	2	nmod	_	_	사회/ncn+의/jcm
+2	영역에서도	영역+에서+도	ADV	_	5	advcl	_	_	영역/ncn+에서/jca+도/jxc
+3	똑같은	똑같+ㄴ	ADJ	_	4	amod	_	_	똑같/paa+ㄴ/etm
+4	현상이	현상+이	NOUN	_	5	nsubj	_	_	현상/ncn+이/jcs
+5	일어났다	일어나+ㅆ+다	VERB	_	0	root	_	_	일어나/pvg+ㅆ/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 마르크스와 엥겔스에 의해서 사회과학의 기초가 확립되었다 .
+1	마르크스와	마르크스+와	CCONJ	_	2	conj	_	_	마르크스/nq+와/jcj
+2	엥겔스에	엥겔스+에	ADV	_	3	obl	_	_	엥겔스/nq+에/jca
+3	의해서	의하+어서	SCONJ	_	6	ccomp	_	_	의하/pvg+어서/ecs
+4	사회과학의	사회과학+의	NOUN	_	5	nmod	_	_	사회과학/ncn+의/jcm
+5	기초가	기초+가	NOUN	_	6	nsubj	_	_	기초/ncn+가/jcs
+6	확립되었다	확립+되+었+다	VERB	_	0	root	_	_	확립/ncpa+되/xsv+었/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그리하여 통일적인 과학적 사회관 , 역사관을 확립할 수 있게 되어 종래에 역사철학 등으로 불리어온 학문은 또한 과거의 것이 되었던 것이다 .
+1	그리하여	그리하여	CCONJ	_	19	cc	_	_	그리하여/maj
+2	통일적인	통일+적+이+ㄴ	VERB	_	6	acl	_	_	통일/ncpa+적/xsn+이/jp+ㄴ/etm
+3	과학적	과학+적	NOUN	_	6	amod	_	_	과학/ncn+적/xsn
+4	사회관	사회관	NOUN	_	6	conj	_	_	사회관/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	역사관을	역사관+을	NOUN	_	7	obj	_	_	역사관/ncn+을/jco
+7	확립할	확립+하+ㄹ	VERB	_	19	ccomp	_	_	확립/ncpa+하/xsv+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있게	있+게	ADJ	_	7	aux	_	_	있/paa+게/ecx
+10	되어	되+어	SCONJ	_	7	aux	_	_	되/px+어/ecs
+11	종래에	종래+에	ADV	_	14	obl	_	_	종래/ncn+에/jca
+12	역사철학	역사철학	NOUN	_	13	compound	_	_	역사철학/ncn
+13	등으로	등+으로	ADV	_	14	advcl	_	_	등/nbn+으로/jca
+14	불리어온	불리+어+오+ㄴ	AUX	_	15	acl	_	_	불리/pvg+어/ecx+오/px+ㄴ/etm
+15	학문은	학문+은	NOUN	_	19	dislocated	_	_	학문/ncpa+은/jxt
+16	또한	또한	ADV	_	19	advmod	_	_	또한/mag
+17	과거의	과거+의	NOUN	_	18	nmod	_	_	과거/ncn+의/jcm
+18	것이	것+이	NOUN	_	19	csubj	_	_	것/nbn+이/jcc
+19	되었던	되+었+던	VERB	_	0	root	_	_	되/pvg+었/ep+던/etm
+20	것이다	것+이+다	VERB	_	19	aux	_	_	것/nbn+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 나침반은 이제 철두철미하게 과학에 의해서 만들어질 수 있는 것이 되었으며 , 그렇기 때문에 비로소 진실로 신뢰할 수 있는 것이 되었다 .
+1	나침반은	나침반+은	NOUN	_	10	dislocated	_	_	나침반/ncn+은/jxt
+2	이제	이제	ADV	_	10	advmod	_	_	이제/mag
+3	철두철미하게	철두철미+하+게	SCONJ	_	6	xcomp	_	_	철두철미/ncps+하/xsm+게/ecs
+4	과학에	과학+에	ADV	_	5	obl	_	_	과학/ncn+에/jca
+5	의해서	의하+어서	SCONJ	_	6	ccomp	_	_	의하/pvg+어서/ecs
+6	만들어질	만들+어+지+ㄹ	AUX	_	9	acl	_	_	만들/pvg+어/ecx+지/px+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	있는	있+는	ADJ	_	6	aux	_	_	있/paa+는/etm
+9	것이	것+이	NOUN	_	10	csubj	_	_	것/nbn+이/jcc
+10	되었으며	되+었+으며	SCONJ	_	20	ccomp	_	_	되/pvg+었/ep+으며/ecs
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	그렇기	그렇+기	VERB	_	13	nmod	_	_	그렇/pad+기/etn
+13	때문에	때문+에	ADV	_	20	obl	_	_	때문/nbn+에/jca
+14	비로소	비로소	ADV	_	20	advmod	_	_	비로소/mag
+15	진실로	진실+로	ADV	_	16	advcl	_	_	진실/ncpa+로/jca
+16	신뢰할	신뢰+하+ㄹ	VERB	_	19	acl	_	_	신뢰/ncpa+하/xsv+ㄹ/etm
+17	수	수	NOUN	_	18	fixed	_	_	수/nbn
+18	있는	있+는	ADJ	_	16	aux	_	_	있/paa+는/etm
+19	것이	것+이	NOUN	_	20	csubj	_	_	것/nbn+이/jcc
+20	되었다	되+었+다	VERB	_	0	root	_	_	되/pvg+었/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 이제부터 우리들이 공부하려고 하는 철학은 그러한 의미에서의 과학적 세계관이며 , 낡은 의미에서의 철학이 아니다 .
+1	이제부터	이제+부터	ADV	_	3	advcl	_	_	이제/ncn+부터/jxc
+2	우리들이	우리+들+이	PRON	_	3	nsubj	_	_	우리/npp+들/xsn+이/jcs
+3	공부하려고	공부+하+려고	VERB	_	5	acl	_	_	공부/ncpa+하/xsv+려고/ecx
+4	하는	하+는	AUX	_	3	aux	_	_	하/px+는/etm
+5	철학은	철학+은	NOUN	_	9	dislocated	_	_	철학/ncn+은/jxt
+6	그러한	그러하+ㄴ	VERB	_	7	amod	_	_	그러하/pad+ㄴ/etm
+7	의미에서의	의미+에서+의	NOUN	_	9	nmod	_	_	의미/ncpa+에서/jca+의/jcm
+8	과학적	과학+적	NOUN	_	9	amod	_	_	과학/ncn+적/xsn
+9	세계관이며	세계관+이+며	CCONJ	_	14	conj	_	_	세계관/ncn+이/jp+며/ecc
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	낡은	낡+ㄴ	ADJ	_	12	amod	_	_	낡/paa+ㄴ/etm
+12	의미에서의	의미+에서+의	NOUN	_	13	nmod	_	_	의미/ncpa+에서/jca+의/jcm
+13	철학이	철학+이	NOUN	_	14	csubj	_	_	철학/ncn+이/jcc
+14	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 인간은 원시시대부터 자신들을 둘러싼 세계와 그 안에서의 자신들의 지위에 관해서 다양하게 생각하며 살아 왔다 .
+1	인간은	인간+은	NOUN	_	13	dislocated	_	_	인간/ncn+은/jxt
+2	원시시대부터	원시시대+부터	ADV	_	13	advcl	_	_	원시시대/ncn+부터/jxc
+3	자신들을	자신+들+을	NOUN	_	4	obj	_	_	자신/ncn+들/xsn+을/jco
+4	둘러싼	둘러싸+ㄴ	VERB	_	5	acl	_	_	둘러싸/pvg+ㄴ/etm
+5	세계와	세계+와	CCONJ	_	9	conj	_	_	세계/ncn+와/jcj
+6	그	그	DET	_	7	det	_	_	그/mmd
+7	안에서의	안+에서+의	NOUN	_	9	nmod	_	_	안/ncn+에서/jca+의/jcm
+8	자신들의	자신+들+의	NOUN	_	9	nmod	_	_	자신/ncn+들/xsn+의/jcm
+9	지위에	지위+에	ADV	_	10	obl	_	_	지위/ncn+에/jca
+10	관해서	관하+어서	SCONJ	_	12	ccomp	_	_	관하/pvg+어서/ecs
+11	다양하게	다양+하+게	SCONJ	_	12	xcomp	_	_	다양/ncps+하/xsm+게/ecs
+12	생각하며	생각+하+며	CCONJ	_	13	conj	_	_	생각/ncpa+하/xsv+며/ecc
+13	살아	살+아	VERB	_	0	root	_	_	살/pvg+아/ecx
+14	왔다	오+았+다	AUX	_	13	aux	_	_	오/px+았/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 행복이나 재앙은 모두 그 정령에 의해서 움직여지고 있는 것으로 생각되었다 .
+1	행복이나	행복+이나	CCONJ	_	2	conj	_	_	행복/ncps+이나/jcj
+2	재앙은	재앙+은	NOUN	_	7	dislocated	_	_	재앙/ncn+은/jxt
+3	모두	모두	ADV	_	7	advmod	_	_	모두/mag
+4	그	그	PRON	_	5	compound	_	_	그/npp
+5	정령에	정령+에	ADV	_	6	obl	_	_	정령/ncn+에/jca
+6	의해서	의하+어서	SCONJ	_	7	ccomp	_	_	의하/pvg+어서/ecs
+7	움직여지고	움직이+어+지+고	AUX	_	9	acl	_	_	움직이/pvg+어/ecx+지/px+고/ecx
+8	있는	있+는	AUX	_	7	aux	_	_	있/px+는/etm
+9	것으로	것+으로	ADV	_	10	advcl	_	_	것/nbn+으로/jca
+10	생각되었다	생각+되+었+다	VERB	_	0	root	_	_	생각/ncpa+되/xsv+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 따라서 사람들은 기도와 주술에 의해서 정령의 마음을 움직여서 재앙을 피하고 행복을 얻으려고 노력하였다 .
+1	따라서	따라서	CCONJ	_	13	cc	_	_	따라서/maj
+2	사람들은	사람+들+은	NOUN	_	13	dislocated	_	_	사람/ncn+들/xsn+은/jxt
+3	기도와	기도+와	CCONJ	_	4	conj	_	_	기도/ncpa+와/jcj
+4	주술에	주술+에	ADV	_	5	obl	_	_	주술/ncn+에/jca
+5	의해서	의하+어서	SCONJ	_	8	ccomp	_	_	의하/pvg+어서/ecs
+6	정령의	정령+의	NOUN	_	7	nmod	_	_	정령/ncn+의/jcm
+7	마음을	마음+을	NOUN	_	8	obj	_	_	마음/ncn+을/jco
+8	움직여서	움직이+어서	SCONJ	_	12	ccomp	_	_	움직이/pvg+어서/ecs
+9	재앙을	재앙+을	NOUN	_	10	obj	_	_	재앙/ncn+을/jco
+10	피하고	피하+고	CCONJ	_	12	conj	_	_	피하/pvg+고/ecc
+11	행복을	행복+을	NOUN	_	12	obj	_	_	행복/ncps+을/jco
+12	얻으려고	얻+으려고	SCONJ	_	13	ccomp	_	_	얻/pvg+으려고/ecs
+13	노력하였다	노력+하+었+다	VERB	_	0	root	_	_	노력/ncpa+하/xsv+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그러면 인간의 육체에 영혼이 깃들어서 그 움직임을 지배하고 있다는 사고는 어디에서 생긴 것인가 ?
+1	그러면	그러면	CCONJ	_	12	cc	_	_	그러면/maj
+2	인간의	인간+의	NOUN	_	3	nmod	_	_	인간/ncn+의/jcm
+3	육체에	육체+에	ADV	_	5	obl	_	_	육체/ncn+에/jca
+4	영혼이	영혼+이	NOUN	_	5	nsubj	_	_	영혼/ncn+이/jcs
+5	깃들어서	깃들+어서	SCONJ	_	8	ccomp	_	_	깃들/pvg+어서/ecs
+6	그	그	DET	_	7	det	_	_	그/mmd
+7	움직임을	움직이+ㅁ+을	NOUN	_	8	obj	_	_	움직이/pvg+ㅁ/etn+을/jco
+8	지배하고	지배+하+고	VERB	_	10	acl	_	_	지배/ncpa+하/xsv+고/ecx
+9	있다는	있+다는	AUX	_	8	aux	_	_	있/px+다는/etm
+10	사고는	사고+는	NOUN	_	12	dislocated	_	_	사고/ncpa+는/jxt
+11	어디에서	어디+에서	ADV	_	12	advcl	_	_	어디/npd+에서/jca
+12	생긴	생기+ㄴ	VERB	_	0	root	_	_	생기/pvg+ㄴ/etm
+13	것인가	것+이+ㄴ가	VERB	_	12	aux	_	_	것/nbn+이/jp+ㄴ가/ef
+14	?	?	PUNCT	_	13	punct	_	_	?/sf
+
+# 그것은 꿈이라는 현상에 대한 원시인의 해석에 기초한 것이었다고 생각된다 .
+1	그것은	그것+은	PRON	_	8	dislocated	_	_	그것/npd+은/jxt
+2	꿈이라는	꿈+이+라는	VERB	_	3	acl	_	_	꿈/ncn+이/jp+라는/etm
+3	현상에	현상+에	ADV	_	4	obl	_	_	현상/ncn+에/jca
+4	대한	대하+ㄴ	VERB	_	6	acl	_	_	대하/pvg+ㄴ/etm
+5	원시인의	원시인+의	NOUN	_	6	nmod	_	_	원시인/ncn+의/jcm
+6	해석에	해석+에	ADV	_	7	obl	_	_	해석/ncpa+에/jca
+7	기초한	기초+하+ㄴ	VERB	_	8	ccomp	_	_	기초/ncpa+하/xsv+ㄴ/etm
+8	것이었다고	것+이+었+다고	SCONJ	_	9	ccomp	_	_	것/nbn+이/jp+었/ep+다고/ecs
+9	생각된다	생각+되+ㄴ다	VERB	_	0	root	_	_	생각/ncpa+되/xsv+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이렇게 해서 인간의 육체에 영혼이 깃들어 있다는 사고가 일단 탄생되 그것이 자연계의 모든 것에 투영되어서 애니미즘의 세계관이 형성된 것이다 .
+1	이렇게	이렇+게	SCONJ	_	2	xcomp	_	_	이렇/pad+게/ecs
+2	해서	하+어서	SCONJ	_	10	ccomp	_	_	하/pvg+어서/ecs
+3	인간의	인간+의	NOUN	_	4	nmod	_	_	인간/ncn+의/jcm
+4	육체에	육체+에	ADV	_	6	obl	_	_	육체/ncn+에/jca
+5	영혼이	영혼+이	NOUN	_	6	nsubj	_	_	영혼/ncn+이/jcs
+6	깃들어	깃들+어	VERB	_	8	acl	_	_	깃들/pvg+어/ecx
+7	있다는	있+다는	AUX	_	6	aux	_	_	있/px+다는/etm
+8	사고가	사고+가	NOUN	_	10	nsubj	_	_	사고/ncpa+가/jcs
+9	일단	일단	ADV	_	10	advmod	_	_	일단/mag
+10	탄생되	탄생+되+어	SCONJ	_	15	ccomp	_	_	탄생/ncpa+되/xsv+어/ecs
+11	그것이	그것+이	PRON	_	15	nsubj	_	_	그것/npd+이/jcs
+12	자연계의	자연계+의	NOUN	_	14	nmod	_	_	자연계/ncn+의/jcm
+13	모든	모든	DET	_	14	det	_	_	모든/mmd
+14	것에	것+에	ADV	_	15	obl	_	_	것/nbn+에/jca
+15	투영되어서	투영+되+어서	SCONJ	_	18	ccomp	_	_	투영/ncpa+되/xsv+어서/ecs
+16	애니미즘의	애니미즘+의	PROPN	_	17	nmod	_	_	애니미즘/nq+의/jcm
+17	세계관이	세계관+이	NOUN	_	18	csubj	_	_	세계관/ncn+이/jcc
+18	형성된	형성+되+ㄴ	VERB	_	0	root	_	_	형성/ncpa+되/xsv+ㄴ/etm
+19	것이다	것+이+다	VERB	_	18	aux	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 이 세계관은 주술과 같은 것이다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	세계관은	세계관+은	NOUN	_	4	dislocated	_	_	세계관/ncn+은/jxt
+3	주술과	주술+과	CCONJ	_	4	conj	_	_	주술/ncn+과/jct
+4	같은	같+ㄴ	ADJ	_	0	root	_	_	같/paa+ㄴ/etm
+5	것이다	것+이+다	VERB	_	4	aux	_	_	것/nbn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 다시 말해서 , 질병을 고치기 위하여 주술을 쓰는 것은 질병 또한 신의 뜻에 의한다 .
+1	다시	다시	ADV	_	2	advmod	_	_	다시/mag
+2	말해서	말하+어서	SCONJ	_	14	advcl	_	_	말하/pvg+어서/ecs
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	질병을	질병+을	NOUN	_	5	obj	_	_	질병/ncn+을/jco
+5	고치기	고치+기	VERB	_	6	nmod	_	_	고치/pvg+기/etn
+6	위하여	위하+어	SCONJ	_	8	ccomp	_	_	위하/pvg+어/ecs
+7	주술을	주술+을	NOUN	_	8	obj	_	_	주술/ncn+을/jco
+8	쓰는	쓰+는	VERB	_	9	acl	_	_	쓰/pvg+는/etm
+9	것은	것+은	NOUN	_	14	dislocated	_	_	것/nbn+은/jxt
+10	질병	질병	NOUN	_	14	advmod	_	_	질병/ncn
+11	또한	또한	ADV	_	14	advmod	_	_	또한/mag
+12	신의	신+의	NOUN	_	13	nmod	_	_	신/ncn+의/jcm
+13	뜻에	뜻+에	ADV	_	14	obl	_	_	뜻/ncn+에/jca
+14	의한다	의하+ㄴ다	VERB	_	0	root	_	_	의하/pvg+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 어떤 신의 뜻을 어기는 일이 있다면 재앙이 내려 질병을 얻는다는 질병관에 서 있는 것이다 .
+1	어떤	어떻+ㄴ	VERB	_	5	amod	_	_	어떻/pad+ㄴ/etm
+2	신의	신+의	NOUN	_	3	nmod	_	_	신/ncn+의/jcm
+3	뜻을	뜻+을	NOUN	_	4	obj	_	_	뜻/ncn+을/jco
+4	어기는	어기+는	VERB	_	5	acl	_	_	어기/pvg+는/etm
+5	일이	일+이	NOUN	_	6	nsubj	_	_	일/ncpa+이/jcs
+6	있다면	있+다면	SCONJ	_	8	xcomp	_	_	있/paa+다면/ecs
+7	재앙이	재앙+이	NOUN	_	8	nsubj	_	_	재앙/ncn+이/jcs
+8	내려	내리+어	SCONJ	_	10	ccomp	_	_	내리/pvg+어/ecs
+9	질병을	질병+을	NOUN	_	10	obj	_	_	질병/ncn+을/jco
+10	얻는다는	얻+는다는	VERB	_	11	acl	_	_	얻/pvg+는다는/etm
+11	질병관에	질병관+에	ADV	_	12	obl	_	_	질병관/ncn+에/jca
+12	서	서+어	VERB	_	0	root	_	_	서/pvg+어/ecx
+13	있는	있+는	AUX	_	12	aux	_	_	있/px+는/etm
+14	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이러한 애니미즘적 주술적 세계관은 면면히 이어져 오늘날에도 여전히 살아 남아 있다 .
+1	이러한	이러하+ㄴ	VERB	_	4	amod	_	_	이러하/pad+ㄴ/etm
+2	애니미즘적	애니미즘+적	NOUN	_	4	amod	_	_	애니미즘/nq+적/xsn
+3	주술적	주술+적	NOUN	_	4	amod	_	_	주술/ncn+적/xsn
+4	세계관은	세계관+은	NOUN	_	10	dislocated	_	_	세계관/ncn+은/jxt
+5	면면히	면면히	ADV	_	6	advmod	_	_	면면히/mag
+6	이어져	이어지+어	SCONJ	_	10	ccomp	_	_	이어지/pvg+어/ecs
+7	오늘날에도	오늘날+에+도	ADV	_	10	advcl	_	_	오늘날/ncn+에/jca+도/jxc
+8	여전히	여전+히	ADV	_	10	advmod	_	_	여전/ncps+히/xsa
+9	살아	살+아	SCONJ	_	10	ccomp	_	_	살/pvg+아/ecs
+10	남아	남+아	VERB	_	0	root	_	_	남/pvg+아/ecx
+11	있다	있+다	AUX	_	10	aux	_	_	있/px+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이러한 애니미즘적 세계관은 점차로 성장하고 정리되어 여러가지 신화의 체계를 형성하여 갔다 .
+1	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+2	애니미즘적	애니미즘+적	NOUN	_	3	amod	_	_	애니미즘/nq+적/xsn
+3	세계관은	세계관+은	NOUN	_	10	dislocated	_	_	세계관/ncn+은/jxt
+4	점차로	점차+로	ADV	_	5	advcl	_	_	점차/ncn+로/jca
+5	성장하고	성장+하+고	CCONJ	_	6	conj	_	_	성장/ncpa+하/xsv+고/ecc
+6	정리되어	정리+되+어	SCONJ	_	10	ccomp	_	_	정리/ncpa+되/xsv+어/ecs
+7	여러가지	여러가지	NOUN	_	8	compound	_	_	여러가지/ncn
+8	신화의	신화+의	NOUN	_	9	nmod	_	_	신화/ncn+의/jcm
+9	체계를	체계+를	NOUN	_	10	obj	_	_	체계/ncn+를/jco
+10	형성하여	형성+하+어	VERB	_	0	root	_	_	형성/ncpa+하/xsv+어/ecx
+11	갔다	가+ㅆ+다	AUX	_	10	aux	_	_	가/px+ㅆ/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그리하여 여러 신의 계보와 활동에 의해서 세계의 성립과 여러 현상 , 그리고 인간의 역사와 운명까지도 설명하려고 했다 .
+1	그리하여	그리하여	CCONJ	_	16	cc	_	_	그리하여/maj
+2	여러	여러	ADJ	_	3	amod	_	_	여러/mma
+3	신의	신+의	NOUN	_	5	nmod	_	_	신/ncn+의/jcm
+4	계보와	계보+와	CCONJ	_	5	conj	_	_	계보/ncn+와/jcj
+5	활동에	활동+에	ADV	_	6	obl	_	_	활동/ncpa+에/jca
+6	의해서	의하+어서	SCONJ	_	16	ccomp	_	_	의하/pvg+어서/ecs
+7	세계의	세계+의	NOUN	_	8	nmod	_	_	세계/ncn+의/jcm
+8	성립과	성립+과	CCONJ	_	10	conj	_	_	성립/ncpa+과/jcj
+9	여러	여러	ADJ	_	10	amod	_	_	여러/mma
+10	현상	현상	NOUN	_	15	conj	_	_	현상/ncn
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	그리고	그리고	CCONJ	_	15	cc	_	_	그리고/maj
+13	인간의	인간+의	NOUN	_	15	nmod	_	_	인간/ncn+의/jcm
+14	역사와	역사+와	CCONJ	_	15	conj	_	_	역사/ncn+와/jcj
+15	운명까지도	운명+까지도	ADV	_	16	advcl	_	_	운명/ncn+까지도/jxc
+16	설명하려고	설명+하+려고	VERB	_	0	root	_	_	설명/ncpa+하/xsv+려고/ecx
+17	했다	하+었+다	AUX	_	16	aux	_	_	하/px+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그러나 한편 자연에 대한 인간의 힘이 전차로 성장함에 따라 자연 현상들과 그 일관된 법칙성에 대한 이해도 조금씩 발전되어 갔다 .
+1	그러나	그러나	CCONJ	_	18	cc	_	_	그러나/maj
+2	한편	한편	ADV	_	8	advmod	_	_	한편/mag
+3	자연에	자연+에	ADV	_	4	obl	_	_	자연/ncn+에/jca
+4	대한	대하+ㄴ	VERB	_	6	acl	_	_	대하/pvg+ㄴ/etm
+5	인간의	인간+의	NOUN	_	6	nmod	_	_	인간/ncn+의/jcm
+6	힘이	힘+이	NOUN	_	8	nsubj	_	_	힘/ncn+이/jcs
+7	전차로	전차+로	ADV	_	8	advcl	_	_	전차/ncn+로/jca
+8	성장함에	성장+하+ㅁ+에	ADV	_	9	obl	_	_	성장/ncpa+하/xsv+ㅁ/etn+에/jca
+9	따라	따르+아	SCONJ	_	18	ccomp	_	_	따르/pvg+아/ecs
+10	자연	자연	NOUN	_	11	compound	_	_	자연/ncn
+11	현상들과	현상+들+과	CCONJ	_	14	conj	_	_	현상/ncn+들/xsn+과/jcj
+12	그	그	DET	_	14	det	_	_	그/mmd
+13	일관된	일관+되+ㄴ	VERB	_	14	acl	_	_	일관/ncpa+되/xsv+ㄴ/etm
+14	법칙성에	법칙성+에	ADV	_	15	obl	_	_	법칙성/ncn+에/jca
+15	대한	대하+ㄴ	VERB	_	16	acl	_	_	대하/pvg+ㄴ/etm
+16	이해도	이해+도	ADV	_	18	advcl	_	_	이해/ncpa+도/jxc
+17	조금씩	조금+씩	NOUN	_	18	advmod	_	_	조금/ncn+씩/xsn
+18	발전되어	발전+되+어	VERB	_	0	root	_	_	발전/ncpa+되/xsv+어/ecx
+19	갔다	가+ㅆ+다	AUX	_	18	aux	_	_	가/px+ㅆ/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 이렇게 해서 고대사회가 되면 , 신화적 세계관과는 근본적으로 다른 새로운 형태의 세계관이 탄생되기에 이른다 .
+1	이렇게	이렇+게	SCONJ	_	2	xcomp	_	_	이렇/pad+게/ecs
+2	해서	하+어서	SCONJ	_	4	ccomp	_	_	하/pvg+어서/ecs
+3	고대사회가	고대사회+가	NOUN	_	4	csubj	_	_	고대사회/ncn+가/jcc
+4	되면	되+면	SCONJ	_	14	ccomp	_	_	되/pvg+면/ecs
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	신화적	신화+적	NOUN	_	7	amod	_	_	신화/ncn+적/xsn
+7	세계관과는	세계관+과+는	NOUN	_	9	dislocated	_	_	세계관/ncn+과/jct+는/jxt
+8	근본적으로	근본+적+으로	ADV	_	9	advcl	_	_	근본/ncn+적/xsn+으로/jca
+9	다른	다르+ㄴ	ADJ	_	12	amod	_	_	다르/paa+ㄴ/etm
+10	새로운	새롭+ㄴ	ADJ	_	11	amod	_	_	새롭/paa+ㄴ/etm
+11	형태의	형태+의	NOUN	_	12	nmod	_	_	형태/ncn+의/jcm
+12	세계관이	세계관+이	NOUN	_	13	nsubj	_	_	세계관/ncn+이/jcs
+13	탄생되기에	탄생+되+기+에	ADV	_	14	obl	_	_	탄생/ncpa+되/xsv+기/etn+에/jca
+14	이른다	이르+ㄴ다	VERB	_	0	root	_	_	이르/pvg+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그러나 이 새로운 세계관에서 세계의 근원이라고 간주된 물과 불은 그러한 신비적인 물과 불이 아니고 물질로서의 물과 불이었다 .
+1	그러나	그러나	CCONJ	_	17	cc	_	_	그러나/maj
+2	이	이	DET	_	4	det	_	_	이/mmd
+3	새로운	새롭+ㄴ	ADJ	_	4	amod	_	_	새롭/paa+ㄴ/etm
+4	세계관에서	세계관+에서	ADV	_	7	advcl	_	_	세계관/ncn+에서/jca
+5	세계의	세계+의	NOUN	_	6	nmod	_	_	세계/ncn+의/jcm
+6	근원이라고	근원+이+라고	SCONJ	_	7	ccomp	_	_	근원/ncn+이/jp+라고/ecs
+7	간주된	간주+되+ㄴ	VERB	_	9	acl	_	_	간주/ncpa+되/xsv+ㄴ/etm
+8	물과	물+과	CCONJ	_	9	conj	_	_	물/ncn+과/jcj
+9	불은	불+은	NOUN	_	17	dislocated	_	_	불/ncn+은/jxt
+10	그러한	그러하+ㄴ	VERB	_	13	amod	_	_	그러하/pad+ㄴ/etm
+11	신비적인	신비+적+이+ㄴ	VERB	_	13	acl	_	_	신비/ncpa+적/xsn+이/jp+ㄴ/etm
+12	물과	물+과	CCONJ	_	13	conj	_	_	물/ncn+과/jcj
+13	불이	불+이	NOUN	_	14	csubj	_	_	불/ncn+이/jcc
+14	아니고	아니+고	CCONJ	_	17	conj	_	_	아니/paa+고/ecc
+15	물질로서의	물질+로서+의	NOUN	_	17	nmod	_	_	물질/ncn+로서/jca+의/jcm
+16	물과	물+과	CCONJ	_	17	conj	_	_	물/ncn+과/jcj
+17	불이었다	불+이+었+다	VERB	_	0	root	_	_	불/ncn+이/jp+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그리고 그것들이 세계의 근원이라고 주장하는 데 대해 그 나름대로의 이유를 들고 이성에 호소해서 논증하려고 한 것이다 .
+1	그리고	그리고	CCONJ	_	14	cc	_	_	그리고/maj
+2	그것들이	그것+들+이	PRON	_	4	nsubj	_	_	그것/npd+들/xsn+이/jcs
+3	세계의	세계+의	NOUN	_	4	nmod	_	_	세계/ncn+의/jcm
+4	근원이라고	근원+이+라고	SCONJ	_	5	ccomp	_	_	근원/ncn+이/jp+라고/ecs
+5	주장하는	주장+하+는	VERB	_	6	acl	_	_	주장/ncpa+하/xsv+는/etm
+6	데	데	NOUN	_	7	mark	_	_	데/nbn
+7	대해	대하+어	SCONJ	_	13	ccomp	_	_	대하/pvg+어/ecs
+8	그	그	DET	_	9	det	_	_	그/mmd
+9	나름대로의	나름+대로+의	NOUN	_	10	nmod	_	_	나름/nbn+대로/jca+의/jcm
+10	이유를	이유+를	NOUN	_	11	obj	_	_	이유/ncn+를/jco
+11	들고	들+고	CCONJ	_	13	conj	_	_	들/pvg+고/ecc
+12	이성에	이성+에	ADV	_	13	obl	_	_	이성/ncn+에/jca
+13	호소해서	호소+하+어서	SCONJ	_	14	ccomp	_	_	호소/ncpa+하/xsv+어서/ecs
+14	논증하려고	논증+하+려고	VERB	_	0	root	_	_	논증/ncpa+하/xsv+려고/ecx
+15	한	하+ㄴ	AUX	_	14	aux	_	_	하/px+ㄴ/etm
+16	것이다	것+이+다	VERB	_	14	aux	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그것은 확실한 논증을 결여한 불충분한 추론이지만 이렇게 해서 이성에 호소하고 논증에 기초한 세계관이 형성되었다는 의의는 큰 것이었다 .
+1	그것은	그것+은	PRON	_	6	dislocated	_	_	그것/npd+은/jxt
+2	확실한	확실+하+ㄴ	VERB	_	3	amod	_	_	확실/ncps+하/xsm+ㄴ/etm
+3	논증을	논증+을	NOUN	_	4	obj	_	_	논증/ncpa+을/jco
+4	결여한	결여+하+ㄴ	VERB	_	6	ccomp	_	_	결여/ncpa+하/xsv+ㄴ/etm
+5	불충분한	불충분+하+ㄴ	VERB	_	6	amod	_	_	불충분/ncps+하/xsm+ㄴ/etm
+6	추론이지만	추론+이+지만	SCONJ	_	16	conj	_	_	추론/ncpa+이/jp+지만/ecs
+7	이렇게	이렇+게	SCONJ	_	8	xcomp	_	_	이렇/pad+게/ecs
+8	해서	하+어서	SCONJ	_	10	ccomp	_	_	하/pvg+어서/ecs
+9	이성에	이성+에	ADV	_	10	obl	_	_	이성/ncn+에/jca
+10	호소하고	호소+하+고	CCONJ	_	14	conj	_	_	호소/ncpa+하/xsv+고/ecc
+11	논증에	논증+에	ADV	_	12	obl	_	_	논증/ncpa+에/jca
+12	기초한	기초+하+ㄴ	VERB	_	13	acl	_	_	기초/ncpa+하/xsv+ㄴ/etm
+13	세계관이	세계관+이	NOUN	_	14	nsubj	_	_	세계관/ncn+이/jcs
+14	형성되었다는	형성+되+었+다는	VERB	_	15	acl	_	_	형성/ncpa+되/xsv+었/ep+다는/etm
+15	의의는	의의+는	NOUN	_	16	dislocated	_	_	의의/ncn+는/jxt
+16	큰	크+ㄴ	ADJ	_	0	root	_	_	크/paa+ㄴ/etm
+17	것이었다	것+이+었+다	VERB	_	16	aux	_	_	것/nbn+이/jp+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 또한 이러한 주장에 대해서 다른 사람은 또 다른 이유를 들면서 물이 아니라 공기나 불이 근원적인 것이라고 주장했다 .
+1	또한	또한	CCONJ	_	17	cc	_	_	또한/maj
+2	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+3	주장에	주장+에	ADV	_	4	obl	_	_	주장/ncpa+에/jca
+4	대해서	대하+어서	SCONJ	_	17	ccomp	_	_	대하/pvg+어서/ecs
+5	다른	다르+ㄴ	ADJ	_	6	amod	_	_	다르/paa+ㄴ/etm
+6	사람은	사람+은	NOUN	_	17	dislocated	_	_	사람/ncn+은/jxt
+7	또	또	ADV	_	8	advmod	_	_	또/mag
+8	다른	다르+ㄴ	ADJ	_	9	amod	_	_	다르/paa+ㄴ/etm
+9	이유를	이유+를	NOUN	_	10	obj	_	_	이유/ncn+를/jco
+10	들면서	들+면서	CCONJ	_	17	conj	_	_	들/pvg+면서/ecc
+11	물이	물+이	NOUN	_	12	nsubj	_	_	물/ncn+이/jcs
+12	아니라	아니+라	SCONJ	_	14	xcomp	_	_	아니/paa+라/ecs
+13	공기나	공기+나	CCONJ	_	14	conj	_	_	공기/ncn+나/jcj
+14	불이	불+이	NOUN	_	16	nsubj	_	_	불/ncn+이/jcs
+15	근원적인	근원+적+이+ㄴ	VERB	_	16	ccomp	_	_	근원/ncn+적/xsn+이/jp+ㄴ/etm
+16	것이라고	것+이+라고	SCONJ	_	17	ccomp	_	_	것/nbn+이/jp+라고/ecs
+17	주장했다	주장+하+었+다	VERB	_	0	root	_	_	주장/ncpa+하/xsv+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그로부터 맹목적인 신앙이 아니라 비판과 반비판 , 자유토론이 이루어지게 되었다 .
+1	그로부터	그+로+부터	ADV	_	9	advcl	_	_	그/npp+로/jca+부터/jxc
+2	맹목적인	맹목+적+이+ㄴ	VERB	_	3	acl	_	_	맹목/ncn+적/xsn+이/jp+ㄴ/etm
+3	신앙이	신앙+이	NOUN	_	4	csubj	_	_	신앙/ncpa+이/jcc
+4	아니라	아니+라	SCONJ	_	8	xcomp	_	_	아니/paa+라/ecs
+5	비판과	비판+과	CCONJ	_	6	conj	_	_	비판/ncpa+과/jcj
+6	반비판	반비판	NOUN	_	8	conj	_	_	반비판/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	자유토론이	자유+토론+이	NOUN	_	9	nsubj	_	_	자유/ncps+토론/ncpa+이/jcs
+9	이루어지게	이루+어+지+게	AUX	_	0	root	_	_	이루/pvg+어/ecx+지/px+게/ecx
+10	되었다	되+었+다	AUX	_	9	aux	_	_	되/px+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 철학적 세계관은 이렇게 해서 출발한 것이다 .
+1	철학적	철학+적	NOUN	_	2	amod	_	_	철학/ncn+적/xsn
+2	세계관은	세계관+은	NOUN	_	5	dislocated	_	_	세계관/ncn+은/jxt
+3	이렇게	이렇+게	SCONJ	_	4	xcomp	_	_	이렇/pad+게/ecs
+4	해서	하+어서	SCONJ	_	5	ccomp	_	_	하/pvg+어서/ecs
+5	출발한	출발+하+ㄴ	VERB	_	0	root	_	_	출발/ncpa+하/xsv+ㄴ/etm
+6	것이다	것+이+다	VERB	_	5	aux	_	_	것/nbn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+

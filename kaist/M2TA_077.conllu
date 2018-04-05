@@ -1,0 +1,251 @@
+# 이러한 현상은 자본주의든 사회주의든 , 체제를 막론하고 유사한 양상으로 나타난다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	현상은	현상+은	NOUN	_	10	dislocated	_	_	현상/ncpa+은/jxt
+3	자본주의든	자본주의+든	ADV	_	7	advcl	_	_	자본주의/ncn+든/jxc
+4	사회주의든	사회주의+든	ADV	_	7	advmod	_	_	사회주의/ncn+든/jxc
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	체제를	체제+를	NOUN	_	7	obj	_	_	체제/ncn+를/jco
+7	막론하고	막론+하+고	CCONJ	_	10	conj	_	_	막론/ncpa+하/xsv+고/ecc
+8	유사한	유사+하+ㄴ	VERB	_	9	amod	_	_	유사/ncps+하/xsm+ㄴ/etm
+9	양상으로	양상+으로	ADV	_	10	advcl	_	_	양상/ncn+으로/jca
+10	나타난다	나타나+ㄴ다	VERB	_	0	root	_	_	나타나/pvg+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이러한 현상을 우리는 여가에 관한 전문연구소가 설립되고 각종 잡지에서 여가에 관한 특집호가 편찬되는 데서 확인할 수 있다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	현상을	현상+을	NOUN	_	15	obj	_	_	현상/ncpa+을/jco
+3	우리는	우리+는	PRON	_	15	dislocated	_	_	우리/npp+는/jxt
+4	여가에	여가+에	ADV	_	5	obl	_	_	여가/ncn+에/jca
+5	관한	관하+ㄴ	VERB	_	6	acl	_	_	관하/pvg+ㄴ/etm
+6	전문연구소가	전문+연구소+가	NOUN	_	7	nsubj	_	_	전문/ncn+연구소/ncn+가/jcs
+7	설립되고	설립+되+고	CCONJ	_	13	conj	_	_	설립/ncpa+되/xsv+고/ecc
+8	각종	각종	NOUN	_	9	compound	_	_	각종/ncn
+9	잡지에서	잡지+에서	ADV	_	13	advcl	_	_	잡지/ncn+에서/jca
+10	여가에	여가+에	ADV	_	11	obl	_	_	여가/ncn+에/jca
+11	관한	관하+ㄴ	VERB	_	12	acl	_	_	관하/pvg+ㄴ/etm
+12	특집호가	특집호+가	NOUN	_	13	nsubj	_	_	특집호/ncn+가/jcs
+13	편찬되는	편찬+되+는	VERB	_	14	acl	_	_	편찬/ncpa+되/xsv+는/etm
+14	데서	데+서	ADV	_	15	advcl	_	_	데/nbn+서/jca
+15	확인할	확인+하+ㄹ	VERB	_	0	root	_	_	확인/ncpa+하/xsv+ㄹ/etm
+16	수	수	NOUN	_	17	fixed	_	_	수/nbn
+17	있다	있+다	ADJ	_	15	aux	_	_	있/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 새로운 기술을 누가 소유하고 통제하는지에 대한 문제는 거의 무시된다 .
+1	새로운	새롭+ㄴ	ADJ	_	2	amod	_	_	새롭/paa+ㄴ/etm
+2	기술을	기술+을	NOUN	_	5	obj	_	_	기술/ncpa+을/jco
+3	누가	누+가	PRON	_	5	nsubj	_	_	누/npp+가/jcs
+4	소유하고	소유+하+고	CCONJ	_	5	conj	_	_	소유/ncpa+하/xsv+고/ecc
+5	통제하는지에	통제+하+는지+에	ADV	_	6	obl	_	_	통제/ncpa+하/xsv+는지/ecs+에/jca
+6	대한	대하+ㄴ	VERB	_	7	acl	_	_	대하/pvg+ㄴ/etm
+7	문제는	문제+는	NOUN	_	9	dislocated	_	_	문제/ncn+는/jxt
+8	거의	거의	ADV	_	9	advmod	_	_	거의/mag
+9	무시된다	무시+되+ㄴ다	VERB	_	0	root	_	_	무시/ncpa+되/xsv+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이 과정에서 세 가지 주요한 주제가 산출된다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	과정에서	과정+에서	ADV	_	7	advcl	_	_	과정/ncn+에서/jca
+3	세	세	NUM	_	4	nummod	_	_	세/nnc
+4	가지	가지	NOUN	_	6	compound	_	_	가지/nbu
+5	주요한	주요+하+ㄴ	VERB	_	6	amod	_	_	주요/ncps+하/xsm+ㄴ/etm
+6	주제가	주제+가	NOUN	_	7	nsubj	_	_	주제/ncn+가/jcs
+7	산출된다	산출+되+ㄴ다	VERB	_	0	root	_	_	산출/ncpa+되/xsv+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 첫째 , 여가산업은 자본주의 경제에서 확장일로에 들어선 영역으로 전후에 출현했다 .
+1	첫째	첫째	NUM	_	10	nummod	_	_	첫째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	여가산업은	여가+산업+은	NOUN	_	10	dislocated	_	_	여가/ncn+산업/ncn+은/jxt
+4	자본주의	자본주의	NOUN	_	5	compound	_	_	자본주의/ncn
+5	경제에서	경제+에서	ADV	_	7	advcl	_	_	경제/ncn+에서/jca
+6	확장일로에	확장일로+에	ADV	_	7	obl	_	_	확장일로/ncn+에/jca
+7	들어선	들어서+ㄴ	VERB	_	8	acl	_	_	들어서/pvg+ㄴ/etm
+8	영역으로	영역+으로	ADV	_	10	advcl	_	_	영역/ncn+으로/jca
+9	전후에	전후+에	ADV	_	10	obl	_	_	전후/ncn+에/jca
+10	출현했다	출현+하+었+다	VERB	_	0	root	_	_	출현/ncpa+하/xsv+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이것의 주된 내용을 요약해 보면 다음과 같은 다섯 가지로 압축할 수 있다 .
+1	이것의	이것+의	PRON	_	3	nmod	_	_	이것/npd+의/jcm
+2	주된	주되+ㄴ	VERB	_	3	acl	_	_	주되/pvg+ㄴ/etm
+3	내용을	내용+을	NOUN	_	4	obj	_	_	내용/ncn+을/jco
+4	요약해	요약+하+어	VERB	_	10	ccomp	_	_	요약/ncpa+하/xsv+어/ecx
+5	보면	보+면	SCONJ	_	4	aux	_	_	보/px+면/ecs
+6	다음과	다음+과	CCONJ	_	7	conj	_	_	다음/npd+과/jct
+7	같은	같+ㄴ	ADJ	_	9	amod	_	_	같/paa+ㄴ/etm
+8	다섯	다섯	NUM	_	9	nummod	_	_	다섯/nnc
+9	가지로	가지+로	ADV	_	10	advcl	_	_	가지/nbu+로/jca
+10	압축할	압축+하+ㄹ	VERB	_	0	root	_	_	압축/ncpa+하/xsv+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있다	있+다	ADJ	_	10	aux	_	_	있/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 아도르노는 그의 요점을 다음과 같이 말한다 .
+1	아도르노는	아도르노+는	PROPN	_	6	dislocated	_	_	아도르노/nq+는/jxt
+2	그의	그+의	PRON	_	3	nmod	_	_	그/npp+의/jcm
+3	요점을	요점+을	NOUN	_	6	obj	_	_	요점/ncn+을/jco
+4	다음과	다음+과	CCONJ	_	5	conj	_	_	다음/ncn+과/jct
+5	같이	같+이	SCONJ	_	6	xcomp	_	_	같/paa+이/ecs
+6	말한다	말하+ㄴ다	VERB	_	0	root	_	_	말하/pvg+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 문화산업은 선언한다 .
+1	문화산업은	문화+산업+은	NOUN	_	2	dislocated	_	_	문화/ncn+산업/ncn+은/jxt
+2	선언한다	선언+하+ㄴ다	VERB	_	0	root	_	_	선언/ncpa+하/xsv+ㄴ다/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 어쨌든 현존하는 것에 순응해야 한다 .
+1	어쨌든	어쨌든	CCONJ	_	4	cc	_	_	어쨌든/maj
+2	현존하는	현존+하+는	VERB	_	3	acl	_	_	현존/ncpa+하/xsv+는/etm
+3	것에	것+에	ADV	_	4	obl	_	_	것/nbn+에/jca
+4	순응해야	순응+하+어야	VERB	_	0	root	_	_	순응/ncpa+하/xsv+어야/ecx
+5	한다	하+ㄴ다	AUX	_	4	aux	_	_	하/px+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 마르쿠제는 노동자계급만이 계급사회를 부정할 수 있다는 정통 맑스주의 사상을 기본적으로 견지한다 .
+1	마르쿠제는	마르쿠제+는	PROPN	_	11	dislocated	_	_	마르쿠제/nq+는/jxt
+2	노동자계급만이	노동자+계급+만+이	NOUN	_	4	nsubj	_	_	노동자/ncn+계급/ncn+만/jxc+이/jcs
+3	계급사회를	계급사회+를	NOUN	_	4	obj	_	_	계급사회/ncn+를/jco
+4	부정할	부정+하+ㄹ	VERB	_	9	acl	_	_	부정/ncpa+하/xsv+ㄹ/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	있다는	있+다는	ADJ	_	4	aux	_	_	있/paa+다는/etm
+7	정통	정통	NOUN	_	9	compound	_	_	정통/ncn
+8	맑스주의	맑스주의	NOUN	_	9	compound	_	_	맑스주의/ncn
+9	사상을	사상+을	NOUN	_	11	obj	_	_	사상/ncn+을/jco
+10	기본적으로	기본+적+으로	ADV	_	11	advcl	_	_	기본/ncn+적/xsn+으로/jca
+11	견지한다	견지+하+ㄴ다	VERB	_	0	root	_	_	견지/ncpa+하/xsv+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 정통 맑스주의에서 수용하고 있는 유명한 명제는 경제와 의식 사이에는 근본적인 인과관계가 있다는 것이다 .
+1	정통	정통	NOUN	_	2	compound	_	_	정통/ncn
+2	맑스주의에서	맑스주의+에서	ADV	_	3	advcl	_	_	맑스주의/ncn+에서/jca
+3	수용하고	수용+하+고	VERB	_	6	acl	_	_	수용/ncpa+하/xsv+고/ecx
+4	있는	있+는	AUX	_	3	aux	_	_	있/px+는/etm
+5	유명한	유명+하+ㄴ	VERB	_	6	amod	_	_	유명/ncps+하/xsm+ㄴ/etm
+6	명제는	명제+는	NOUN	_	12	dislocated	_	_	명제/ncn+는/jxt
+7	경제와	경제+와	CCONJ	_	8	conj	_	_	경제/ncn+와/jcj
+8	의식	의식	NOUN	_	9	compound	_	_	의식/ncn
+9	사이에는	사이+에+는	NOUN	_	12	dislocated	_	_	사이/ncn+에/jca+는/jxt
+10	근본적인	근본+적+이+ㄴ	VERB	_	11	acl	_	_	근본/ncn+적/xsn+이/jp+ㄴ/etm
+11	인과관계가	인과관계+가	NOUN	_	12	nsubj	_	_	인과관계/ncn+가/jcs
+12	있다는	있+다는	ADJ	_	0	root	_	_	있/paa+다는/etm
+13	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 여가의 영역도 그것들 중의 하나다 .
+1	여가의	여가+의	NOUN	_	2	nmod	_	_	여가/ncn+의/jcm
+2	영역도	영역+도	ADV	_	5	advcl	_	_	영역/ncn+도/jxc
+3	그것들	그것+들	NOUN	_	4	compound	_	_	그것/npd+들/xsn
+4	중의	중+의	NOUN	_	5	nmod	_	_	중/nbn+의/jcm
+5	하나다	하나+이+다	VERB	_	0	root	_	_	하나/nnc+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그 결과 그들은 다음과 같은 결론을 끄집어내게 되었다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	결과	결과	NOUN	_	7	advmod	_	_	결과/ncpa
+3	그들은	그+들+은	PRON	_	7	dislocated	_	_	그/npp+들/xsn+은/jxt
+4	다음과	다음+과	CCONJ	_	5	conj	_	_	다음/ncn+과/jct
+5	같은	같+ㄴ	ADJ	_	6	amod	_	_	같/paa+ㄴ/etm
+6	결론을	결론+을	NOUN	_	7	obj	_	_	결론/ncn+을/jco
+7	끄집어내게	끄집어내+게	VERB	_	0	root	_	_	끄집어내/pvg+게/ecx
+8	되었다	되+었+다	AUX	_	7	aux	_	_	되/px+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이러한 맥락에서 루카치의 물화이론과 그람시의 헤게모니 개념이 새롭게 각광을 받기 시작한다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	맥락에서	맥락+에서	ADV	_	10	advcl	_	_	맥락/ncn+에서/jca
+3	루카치의	루카치+의	PROPN	_	4	nmod	_	_	루카치/nq+의/jcm
+4	물화이론과	물화이론+과	CCONJ	_	7	conj	_	_	물화이론/ncn+과/jcj
+5	그람시의	그람시+의	PROPN	_	7	nmod	_	_	그람시/nq+의/jcm
+6	헤게모니	헤게모니	NOUN	_	7	compound	_	_	헤게모니/ncn
+7	개념이	개념+이	NOUN	_	10	nsubj	_	_	개념/ncn+이/jcs
+8	새롭게	새롭+게	SCONJ	_	10	xcomp	_	_	새롭/paa+게/ecs
+9	각광을	각광+을	NOUN	_	10	obj	_	_	각광/ncn+을/jco
+10	받기	받+기	VERB	_	11	nmod	_	_	받/pvg+기/etn
+11	시작한다	시작+하+ㄴ다	VERB	_	0	root	_	_	시작/ncpa+하/xsv+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 결합체 사회학의 중요한 특성은 다음과 같은 네 가지로 요약할 수 있다 .
+1	결합체	결합체	NOUN	_	2	compound	_	_	결합체/ncn
+2	사회학의	사회학+의	NOUN	_	4	nmod	_	_	사회학/ncn+의/jcm
+3	중요한	중요+하+ㄴ	VERB	_	4	amod	_	_	중요/ncps+하/xsm+ㄴ/etm
+4	특성은	특성+은	NOUN	_	9	dislocated	_	_	특성/ncn+은/jxt
+5	다음과	다음+과	CCONJ	_	6	conj	_	_	다음/ncn+과/jct
+6	같은	같+ㄴ	ADJ	_	8	amod	_	_	같/paa+ㄴ/etm
+7	네	네	NUM	_	8	nummod	_	_	네/nnc
+8	가지로	가지+로	ADV	_	9	advcl	_	_	가지/nbu+로/jca
+9	요약할	요약+하+ㄹ	VERB	_	0	root	_	_	요약/ncpa+하/xsv+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있다	있+다	ADJ	_	9	aux	_	_	있/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 둘째 , 결합체는 환원할 수 없는 사회적 단위 , 즉 개인에 의해서 생성되고 재생성되는 단위로서 연구된다 .
+1	둘째	둘째	NUM	_	16	nummod	_	_	둘째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	결합체는	결합체+는	NOUN	_	16	dislocated	_	_	결합체/ncn+는/jxt
+4	환원할	환원+하+ㄹ	VERB	_	8	acl	_	_	환원/ncpa+하/xsv+ㄹ/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	없는	없+는	ADJ	_	4	aux	_	_	없/paa+는/etm
+7	사회적	사회+적	NOUN	_	8	amod	_	_	사회/ncn+적/xsn
+8	단위	단위	NOUN	_	11	conj	_	_	단위/ncn
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	즉	즉	CCONJ	_	11	cc	_	_	즉/maj
+11	개인에	개인+에	ADV	_	12	obl	_	_	개인/ncn+에/jca
+12	의해서	의하+어서	SCONJ	_	14	ccomp	_	_	의하/pvg+어서/ecs
+13	생성되고	생성+되+고	CCONJ	_	14	conj	_	_	생성/ncpa+되/xsv+고/ecc
+14	재생성되는	재생성+되+는	VERB	_	15	acl	_	_	재생성/ncpa+되/xsv+는/etm
+15	단위로서	단위+로서	ADV	_	16	advcl	_	_	단위/ncn+로서/jca
+16	연구된다	연구+되+ㄴ다	VERB	_	0	root	_	_	연구/ncpa+되/xsv+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 여기에 대해 엘리아스는 다음과 같이 설명한다 .
+1	여기에	여기+에	ADV	_	2	obl	_	_	여기/npd+에/jca
+2	대해	대하+어	SCONJ	_	6	ccomp	_	_	대하/pvg+어/ecs
+3	엘리아스는	엘리아스+는	PROPN	_	6	dislocated	_	_	엘리아스/nq+는/jxt
+4	다음과	다음+과	CCONJ	_	5	conj	_	_	다음/ncn+과/jct
+5	같이	같+이	SCONJ	_	6	xcomp	_	_	같/paa+이/ecs
+6	설명한다	설명+하+ㄴ다	VERB	_	0	root	_	_	설명/ncpa+하/xsv+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 축구에서는 다른 집단 스포츠와 마찬가지로 한 팀의 움직임은 그 상대팀의 움직임과 상호관련된다 .
+1	축구에서는	축구+에서+는	NOUN	_	12	dislocated	_	_	축구/ncpa+에서/jca+는/jxt
+2	다른	다르+ㄴ	ADJ	_	4	amod	_	_	다르/paa+ㄴ/etm
+3	집단	집단	NOUN	_	4	compound	_	_	집단/ncn
+4	스포츠와	스포츠+와	CCONJ	_	5	conj	_	_	스포츠/ncn+와/jct
+5	마찬가지로	마찬가지+로	ADV	_	12	advcl	_	_	마찬가지/ncn+로/jca
+6	한	한	NUM	_	7	nummod	_	_	한/nnc
+7	팀의	팀+의	NOUN	_	8	nmod	_	_	팀/ncn+의/jcm
+8	움직임은	움직임+은	NOUN	_	12	dislocated	_	_	움직임/ncn+은/jxt
+9	그	그	DET	_	10	det	_	_	그/mmd
+10	상대팀의	상대팀+의	NOUN	_	11	nmod	_	_	상대팀/ncn+의/jcm
+11	움직임과	움직임+과	CCONJ	_	12	conj	_	_	움직임/ncn+과/jct
+12	상호관련된다	상호+관련+되+ㄴ다	VERB	_	0	root	_	_	상호/ncn+관련/ncpa+되/xsv+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 시합의 동향은 어느 편에 의해서도 또는 어느 한 개인에 의해서도 제어될 수 없다 .
+1	시합의	시합+의	NOUN	_	2	nmod	_	_	시합/ncn+의/jcm
+2	동향은	동향+은	NOUN	_	11	dislocated	_	_	동향/ncn+은/jxt
+3	어느	어느	DET	_	4	det	_	_	어느/mmd
+4	편에	편+에	ADV	_	5	obl	_	_	편/ncn+에/jca
+5	의해서도	의하+어서+도	ADV	_	10	ccomp	_	_	의하/pvg+어서/ecs+도/jxc
+6	또는	또는	CCONJ	_	10	cc	_	_	또는/maj
+7	어느	어느	DET	_	9	det	_	_	어느/mmd
+8	한	한	NUM	_	9	nummod	_	_	한/nnc
+9	개인에	개인+에	ADV	_	10	obl	_	_	개인/ncn+에/jca
+10	의해서도	의하+어서+도	ADV	_	11	ccomp	_	_	의하/pvg+어서/ecs+도/jxc
+11	제어될	제어+되+ㄹ	VERB	_	0	root	_	_	제어/ncpa+되/xsv+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	없다	없+다	ADJ	_	11	aux	_	_	없/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이들의 논지를 보다 자세히 살펴보면 다음과 같다 .
+1	이들의	이+들+의	PRON	_	2	nmod	_	_	이/npp+들/xsn+의/jcm
+2	논지를	논지+를	NOUN	_	5	obj	_	_	논지/ncn+를/jco
+3	보다	보다	ADV	_	5	advmod	_	_	보다/mag
+4	자세히	자세히	ADV	_	3	advmod	_	_	자세히/mag
+5	살펴보면	살피+어+보+면	SCONJ	_	7	conj	_	_	살피/pvg+어/ecx+보/px+면/ecs
+6	다음과	다음+과	CCONJ	_	7	conj	_	_	다음/ncn+과/jct
+7	같다	같+다	ADJ	_	0	root	_	_	같/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+

@@ -1,0 +1,782 @@
+# 백화점에 가면 정말 내가 왕이 된 기분이었지요 .
+1	백화점에	백화점+에	ADV	_	2	obl	_	_	백화점/ncn+에/jca
+2	가면	가+면	SCONJ	_	7	ccomp	_	_	가/pvg+면/ecs
+3	정말	정말	ADV	_	6	advmod	_	_	정말/mag
+4	내가	내+가	PRON	_	6	nsubj	_	_	내/npp+가/jcs
+5	왕이	왕+이	NOUN	_	6	csubj	_	_	왕/ncn+이/jcc
+6	된	되+ㄴ	VERB	_	7	ccomp	_	_	되/pvg+ㄴ/etm
+7	기분이었지요	기분+이+었+지요	VERB	_	0	root	_	_	기분/ncn+이/jp+었/ep+지요/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 간섭하는 사람도 없고 너무나 편해요 .
+1	간섭하는	간섭+하+는	VERB	_	2	acl	_	_	간섭/ncpa+하/xsv+는/etm
+2	사람도	사람+도	ADV	_	3	advcl	_	_	사람/ncn+도/jxc
+3	없고	없+고	CCONJ	_	5	conj	_	_	없/paa+고/ecc
+4	너무나	너무나	ADV	_	5	advmod	_	_	너무나/mag
+5	편해요	편하+어+요	VERB	_	0	root	_	_	편하/paa+어/ef+요/jxf
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 과거는 과거지요 .
+1	과거는	과거+는	NOUN	_	2	dislocated	_	_	과거/ncn+는/jxt
+2	과거지요	과거+이+지요	VERB	_	0	root	_	_	과거/ncn+이/jp+지요/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 요는 일본을 배우자는 것이다 .
+1	요는	요+는	NOUN	_	4	dislocated	_	_	요/ncn+는/jxt
+2	일본을	일본+을	PROPN	_	3	obj	_	_	일본/nq+을/jco
+3	배우자는	배우+자는	VERB	_	4	ccomp	_	_	배우/pvg+자는/etm
+4	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 우리가 배우지 않으면 안된다 .
+1	우리가	우리+가	PRON	_	2	nsubj	_	_	우리/npp+가/jcs
+2	배우지	배우+지	VERB	_	4	ccomp	_	_	배우/pvg+지/ecx
+3	않으면	않+으면	SCONJ	_	2	aux	_	_	않/px+으면/ecs
+4	안된다	안되+ㄴ다	VERB	_	0	root	_	_	안되/pvg+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 우리에게는 일본밖에 없다 .
+1	우리에게는	우리+에게+는	PRON	_	3	dislocated	_	_	우리/npp+에게/jca+는/jxt
+2	일본밖에	일본+밖에	ADV	_	3	advcl	_	_	일본/nq+밖에/jxc
+3	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 일본에 가기 전에는 나 역시 그렇게 생각했다 .
+1	일본에	일본+에	ADV	_	2	obl	_	_	일본/nq+에/jca
+2	가기	가+기	VERB	_	3	nmod	_	_	가/pvg+기/etn
+3	전에는	전+에+는	NOUN	_	7	dislocated	_	_	전/ncn+에/jca+는/jxt
+4	나	나	PRON	_	7	advmod	_	_	나/npp
+5	역시	역시	ADV	_	7	advmod	_	_	역시/mag
+6	그렇게	그렇+게	SCONJ	_	7	xcomp	_	_	그렇/pad+게/ecs
+7	생각했다	생각+하+었+다	VERB	_	0	root	_	_	생각/ncpa+하/xsv+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 일본은 지극히 비정상적인 나라이다 .
+1	일본은	일본+은	PROPN	_	4	dislocated	_	_	일본/nq+은/jxt
+2	지극히	지극히	ADV	_	3	advmod	_	_	지극히/mag
+3	비정상적인	비정상+적+이+ㄴ	VERB	_	4	ccomp	_	_	비정상/ncn+적/xsn+이/jp+ㄴ/etm
+4	나라이다	나라+이+다	VERB	_	0	root	_	_	나라/ncn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 국가도 국민도 모두가 비정상적이다 .
+1	국가도	국가+도	ADV	_	4	advcl	_	_	국가/ncn+도/jxc
+2	국민도	국민+도	ADV	_	4	advcl	_	_	국민/ncn+도/jxc
+3	모두가	모두+가	NOUN	_	4	nsubj	_	_	모두/ncn+가/jcs
+4	비정상적이다	비정상+적+이+다	VERB	_	0	root	_	_	비정상/ncn+적/xsn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 이들 사이에 가해자와 피해자 , 억압자와 피억압자의 관계가 성립된다 .
+1	이들	이+들	NOUN	_	2	compound	_	_	이/npp+들/xsn
+2	사이에	사이+에	ADV	_	9	obl	_	_	사이/ncn+에/jca
+3	가해자와	가해자+와	CCONJ	_	4	conj	_	_	가해자/ncn+와/jcj
+4	피해자	피해자	NOUN	_	7	compound	_	_	피해자/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	억압자와	억압자+와	CCONJ	_	7	conj	_	_	억압자/ncn+와/jcj
+7	피억압자의	피억압자+의	NOUN	_	8	nmod	_	_	피억압자/ncn+의/jcm
+8	관계가	관계+가	NOUN	_	9	nsubj	_	_	관계/ncpa+가/jcs
+9	성립된다	성립+되+ㄴ다	VERB	_	0	root	_	_	성립/ncpa+되/xsv+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 마치 길들여진 노예나 하인처럼 이들은 기뻐하며 순종한다 .
+1	마치	마치	ADV	_	4	advmod	_	_	마치/mag
+2	길들여진	길들이+어+지+ㄴ	AUX	_	4	acl	_	_	길들이/pvg+어/ecx+지/px+ㄴ/etm
+3	노예나	노예+나	CCONJ	_	4	conj	_	_	노예/ncn+나/jcj
+4	하인처럼	하인+처럼	ADV	_	8	advcl	_	_	하인/ncn+처럼/jca
+5	이들은	이+들+은	PRON	_	8	dislocated	_	_	이/npp+들/xsn+은/jxt
+6	기뻐하며	기뻐하+며	CCONJ	_	7	conj	_	_	기뻐하/pvg+며/ecc
+7	순종한다	순종+하+ㄴ다	VERB	_	8	conj	_	_	순종/ncpa+하/xsv+ㄴ다/ef
+8	.	.	PUNCT	_	0	root	_	_	./sf
+
+# 힘 앞에 굴절된 약자의 잔인함은 더욱 잔혹하다 .
+1	힘	힘	NOUN	_	2	compound	_	_	힘/ncn
+2	앞에	앞+에	ADV	_	3	obl	_	_	앞/ncn+에/jca
+3	굴절된	굴절+되+ㄴ	VERB	_	4	acl	_	_	굴절/ncpa+되/xsv+ㄴ/etm
+4	약자의	약자+의	NOUN	_	5	nmod	_	_	약자/ncn+의/jcm
+5	잔인함은	잔인+하+ㅁ+은	NOUN	_	7	dislocated	_	_	잔인/ncps+하/xsm+ㅁ/etn+은/jxt
+6	더욱	더욱	ADV	_	7	advmod	_	_	더욱/mag
+7	잔혹하다	잔혹+하+다	VERB	_	0	root	_	_	잔혹/ncps+하/xsm+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 십 년이 넘는 기자노릇을 하면서 나는 운 좋게 여러 나라를 여행할 수가 있었다 .
+1	십	십	NUM	_	2	nummod	_	_	십/nnc
+2	년이	년+이	NOUN	_	3	nsubj	_	_	년/nbu+이/jcs
+3	넘는	넘+는	VERB	_	4	acl	_	_	넘/pvg+는/etm
+4	기자노릇을	기자+노릇+을	NOUN	_	5	obj	_	_	기자/ncn+노릇/ncn+을/jco
+5	하면서	하+면서	SCONJ	_	11	ccomp	_	_	하/pvg+면서/ecs
+6	나는	나+는	PRON	_	11	dislocated	_	_	나/npp+는/jxt
+7	운	운	NOUN	_	8	dep	_	_	운/ncn
+8	좋게	좋+게	SCONJ	_	11	xcomp	_	_	좋/paa+게/ecs
+9	여러	여러	ADJ	_	10	amod	_	_	여러/mma
+10	나라를	나라+를	NOUN	_	11	obj	_	_	나라/ncn+를/jco
+11	여행할	여행+하+ㄹ	VERB	_	0	root	_	_	여행/ncpa+하/xsv+ㄹ/etm
+12	수가	수+가	NOUN	_	13	fixed	_	_	수/nbn+가/jcs
+13	있었다	있+었+다	ADJ	_	11	aux	_	_	있/paa+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 일본생활의 첫 인상은 지하철 안의 사람들로부터 무너지기 시작했다 .
+1	일본생활의	일본+생활+의	PROPN	_	3	nmod	_	_	일본/nq+생활/ncpa+의/jcm
+2	첫	첫	NUM	_	3	nummod	_	_	첫/nno
+3	인상은	인상+은	NOUN	_	7	dislocated	_	_	인상/ncn+은/jxt
+4	지하철	지하철	NOUN	_	5	compound	_	_	지하철/ncn
+5	안의	안+의	NOUN	_	6	nmod	_	_	안/ncn+의/jcm
+6	사람들로부터	사람+들+로부터	ADV	_	7	advcl	_	_	사람/ncn+들/xsn+로부터/jca
+7	무너지기	무너지+기	VERB	_	8	nmod	_	_	무너지/pvg+기/etn
+8	시작했다	시작+하+었+다	VERB	_	0	root	_	_	시작/ncpa+하/xsv+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 나를 빼고는 승객 모두가 눈을 감은 채 자고 있었다 .
+1	나를	나+를	PRON	_	2	obj	_	_	나/npp+를/jco
+2	빼고는	빼+고+는	NOUN	_	8	ccomp	_	_	빼/pvg+고/ecc+는/jxt
+3	승객	승객	NOUN	_	4	compound	_	_	승객/ncn
+4	모두가	모두+가	NOUN	_	6	nsubj	_	_	모두/ncn+가/jcs
+5	눈을	눈+을	NOUN	_	6	obj	_	_	눈/ncn+을/jco
+6	감은	감+은	VERB	_	7	acl	_	_	감/pvg+은/etm
+7	채	채	NOUN	_	8	mark	_	_	채/nbn
+8	자고	자+고	VERB	_	0	root	_	_	자/pvg+고/ecx
+9	있었다	있+었+다	AUX	_	8	aux	_	_	있/px+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 한술 더 뜨는 사람들도 있었다 .
+1	한술	한술	NOUN	_	3	advmod	_	_	한술/ncn
+2	더	더	ADV	_	3	advmod	_	_	더/mag
+3	뜨는	뜨+는	VERB	_	4	acl	_	_	뜨/pvg+는/etm
+4	사람들도	사람+들+도	ADV	_	5	advcl	_	_	사람/ncn+들/xsn+도/jxc
+5	있었다	있+었+다	ADJ	_	0	root	_	_	있/paa+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그런 점에서 일본사회를 바라보면 참으로 묘한 현상을 발견하게 된다 .
+1	그런	그런	DET	_	2	det	_	_	그런/mmd
+2	점에서	점+에서	ADV	_	4	advcl	_	_	점/ncn+에서/jca
+3	일본사회를	일본+사회+를	PROPN	_	4	obj	_	_	일본/nq+사회/ncn+를/jco
+4	바라보면	바라보+면	SCONJ	_	8	ccomp	_	_	바라보/pvg+면/ecs
+5	참으로	참으로	ADV	_	6	advmod	_	_	참으로/mag
+6	묘한	묘하+ㄴ	ADJ	_	7	amod	_	_	묘하/paa+ㄴ/etm
+7	현상을	현상+을	NOUN	_	8	obj	_	_	현상/ncn+을/jco
+8	발견하게	발견+하+게	VERB	_	0	root	_	_	발견/ncpa+하/xsv+게/ecx
+9	된다	되+ㄴ다	AUX	_	8	aux	_	_	되/px+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러한 기준에서 보면 전세계가 인정하는 선진국 일본의 후진성이 사회 구석구석에 너무나도 잘 배어 있기 때문이다 .
+1	그러한	그러하+ㄴ	ADJ	_	2	amod	_	_	그러하/paa+ㄴ/etm
+2	기준에서	기준+에서	ADV	_	3	advcl	_	_	기준/ncn+에서/jca
+3	보면	보+면	SCONJ	_	13	ccomp	_	_	보/pvg+면/ecs
+4	전세계가	전세계+가	NOUN	_	5	nsubj	_	_	전세계/ncn+가/jcs
+5	인정하는	인정+하+는	VERB	_	7	acl	_	_	인정/ncpa+하/xsv+는/etm
+6	선진국	선진국	NOUN	_	7	compound	_	_	선진국/ncn
+7	일본의	일본+의	PROPN	_	8	nmod	_	_	일본/nq+의/jcm
+8	후진성이	후진성+이	NOUN	_	13	nsubj	_	_	후진성/ncn+이/jcs
+9	사회	사회	NOUN	_	10	compound	_	_	사회/ncn
+10	구석구석에	구석구석+에	ADV	_	13	obl	_	_	구석구석/ncn+에/jca
+11	너무나도	너무나+도	ADV	_	13	advmod	_	_	너무나/mag+도/jxc
+12	잘	잘	ADV	_	13	advmod	_	_	잘/mag
+13	배어	배+어	VERB	_	0	root	_	_	배/pvg+어/ecx
+14	있기	있+기	AUX	_	13	aux	_	_	있/px+기/etn
+15	때문이다	때문+이+다	VERB	_	13	aux	_	_	때문/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그런데도 당사자인 일본인들은 나비부인을 그들 스스로를 미화하는 데 이용하고 있어 나는 너무나 어이가 없었다 .
+1	그런데도	그렇+ㄴ데도	SCONJ	_	9	xcomp	_	_	그렇/pad+ㄴ데도/ecs
+2	당사자인	당사자+이+ㄴ	VERB	_	3	acl	_	_	당사자/ncn+이/jp+ㄴ/etm
+3	일본인들은	일본인+들+은	NOUN	_	9	dislocated	_	_	일본인/ncn+들/xsn+은/jxt
+4	나비부인을	나비+부인+을	NOUN	_	9	obj	_	_	나비/ncn+부인/ncn+을/jco
+5	그들	그+들	NOUN	_	6	compound	_	_	그/npp+들/xsn
+6	스스로를	스스로+를	PRON	_	7	obj	_	_	스스로/npp+를/jco
+7	미화하는	미화+하+는	VERB	_	8	acl	_	_	미화/ncpa+하/xsv+는/etm
+8	데	데	NOUN	_	9	mark	_	_	데/nbn
+9	이용하고	이용+하+고	VERB	_	14	conj	_	_	이용/ncpa+하/xsv+고/ecx
+10	있어	있+어	SCONJ	_	9	aux	_	_	있/px+어/ecs
+11	나는	나+는	PRON	_	14	dislocated	_	_	나/npp+는/jxt
+12	너무나	너무나	ADV	_	14	advmod	_	_	너무나/mag
+13	어이가	어이+가	NOUN	_	14	nsubj	_	_	어이/ncn+가/jcs
+14	없었다	없+었+다	ADJ	_	0	root	_	_	없/paa+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그렇게 생각해서인지 일본에는 수 많은 나비부인 희망자들이 흘러 넘치고 있다 .
+1	그렇게	그렇+게	SCONJ	_	2	xcomp	_	_	그렇/pad+게/ecs
+2	생각해서인지	생각+하+어서+이+ㄴ지	SCONJ	_	9	ccomp	_	_	생각/ncpa+하/xsv+어서/ecs+이/jp+ㄴ지/ecs
+3	일본에는	일본+에+는	PROPN	_	9	dislocated	_	_	일본/nq+에/jca+는/jxt
+4	수	수	NOUN	_	5	dep	_	_	수/ncn
+5	많은	많+은	ADJ	_	7	amod	_	_	많/paa+은/etm
+6	나비부인	나비+부인	NOUN	_	7	compound	_	_	나비/ncn+부인/ncn
+7	희망자들이	희망자+들+이	NOUN	_	9	nsubj	_	_	희망자/ncn+들/xsn+이/jcs
+8	흘러	흐르+어	SCONJ	_	9	ccomp	_	_	흐르/pvg+어/ecs
+9	넘치고	넘치+고	VERB	_	0	root	_	_	넘치/pvg+고/ecx
+10	있다	있+다	AUX	_	9	aux	_	_	있/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 아예 그런 여성들의 등에 얹혀서 놀고 지내는 것은 물론 용돈에서부터 한 밑천까지 단단히 챙기는 서양남자들이 부지기수다 .
+1	아예	아예	ADV	_	7	advmod	_	_	아예/mag
+2	그런	그런	DET	_	3	det	_	_	그런/mmd
+3	여성들의	여성+들+의	NOUN	_	4	nmod	_	_	여성/ncn+들/xsn+의/jcm
+4	등에	등+에	ADV	_	5	obl	_	_	등/ncn+에/jca
+5	얹혀서	얹+어서	SCONJ	_	7	ccomp	_	_	얹/pvg+어서/ecs
+6	놀고	놀+고	CCONJ	_	7	conj	_	_	놀/pvg+고/ecc
+7	지내는	지내+는	VERB	_	8	acl	_	_	지내/pvg+는/etm
+8	것은	것+은	NOUN	_	9	dislocated	_	_	것/nbn+은/jxt
+9	물론	물론	ADV	_	16	advmod	_	_	물론/mag
+10	용돈에서부터	용돈+에서+부터	ADV	_	14	advcl	_	_	용돈/ncn+에서/jca+부터/jxc
+11	한	한	NUM	_	12	nummod	_	_	한/nnc
+12	밑천까지	밑천+까지	ADV	_	14	advcl	_	_	밑천/ncn+까지/jxc
+13	단단히	단단히	ADV	_	14	advmod	_	_	단단히/mag
+14	챙기는	챙기+는	VERB	_	15	acl	_	_	챙기/pvg+는/etm
+15	서양남자들이	서양+남자+들+이	NOUN	_	16	nsubj	_	_	서양/ncn+남자/ncn+들/xsn+이/jcs
+16	부지기수다	부지기수+이+다	VERB	_	0	root	_	_	부지기수/ncn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 내가 친하게 지내던 유럽 어느 나라의 외교관 부인이 있었다 .
+1	내가	내+가	PRON	_	3	nsubj	_	_	내/npp+가/jcs
+2	친하게	친하+게	SCONJ	_	3	xcomp	_	_	친하/paa+게/ecs
+3	지내던	지내+더+ㄴ	VERB	_	8	acl	_	_	지내/pvg+더/ep+ㄴ/etm
+4	유럽	유럽	PROPN	_	6	compound	_	_	유럽/nq
+5	어느	어느	DET	_	6	det	_	_	어느/mmd
+6	나라의	나라+의	NOUN	_	8	nmod	_	_	나라/ncn+의/jcm
+7	외교관	외교관	NOUN	_	8	compound	_	_	외교관/ncn
+8	부인이	부인+이	NOUN	_	9	nsubj	_	_	부인/ncn+이/jcs
+9	있었다	있+었+다	ADJ	_	0	root	_	_	있/paa+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 일본에만 오면 남편들이 사고가 나니까요 .
+1	일본에만	일본+에+만	ADV	_	2	advcl	_	_	일본/nq+에/jca+만/jxc
+2	오면	오+면	SCONJ	_	5	ccomp	_	_	오/pvg+면/ecs
+3	남편들이	남편+들+이	NOUN	_	5	nsubj	_	_	남편/ncn+들/xsn+이/jcs
+4	사고가	사고+가	NOUN	_	5	nsubj	_	_	사고/ncpa+가/jcs
+5	나니까요	나+니까요	VERB	_	0	root	_	_	나/pvg+니까요/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 일본여자들이 서양남자라면 미추노소를 가리지 않고 육탄공세를 펼쳐대니까요 .
+1	일본여자들이	일본+여자+들+이	PROPN	_	7	nsubj	_	_	일본/nq+여자/ncn+들/xsn+이/jcs
+2	서양남자라면	서양+남자+이+라면	SCONJ	_	7	ccomp	_	_	서양/ncn+남자/ncn+이/jp+라면/ecs
+3	미추노소를	미추노소+를	NOUN	_	4	obj	_	_	미추노소/ncn+를/jco
+4	가리지	가리+지	VERB	_	7	conj	_	_	가리/pvg+지/ecx
+5	않고	않+고	CCONJ	_	4	aux	_	_	않/px+고/ecc
+6	육탄공세를	육탄공세+를	NOUN	_	7	obj	_	_	육탄공세/ncn+를/jco
+7	펼쳐대니까요	펼치+어+대+니까요	AUX	_	0	root	_	_	펼치/pvg+어/ecx+대/px+니까요/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그녀뿐 아니었다 .
+1	그녀뿐	그녀+뿐	NOUN	_	2	advmod	_	_	그녀/npp+뿐/xsn
+2	아니었다	아니+었+다	ADJ	_	0	root	_	_	아니/paa+었/ep+다/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 서양의 남자들에게 일본은 확실히 천국이다 .
+1	서양의	서양+의	NOUN	_	2	nmod	_	_	서양/ncn+의/jcm
+2	남자들에게	남자+들+에게	ADV	_	5	iobj	_	_	남자/ncn+들/xsn+에게/jca
+3	일본은	일본+은	PROPN	_	5	dislocated	_	_	일본/nq+은/jxt
+4	확실히	확실히	ADV	_	5	advmod	_	_	확실히/mag
+5	천국이다	천국+이+다	VERB	_	0	root	_	_	천국/ncn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 내가 일본에 있으면서 무엇보다 먼저 놀랐던 것은 지하철을 타고 다니는 여자들의 장신구였다 .
+1	내가	내+가	PRON	_	6	nsubj	_	_	내/npp+가/jcs
+2	일본에	일본+에	ADV	_	3	obl	_	_	일본/nq+에/jca
+3	있으면서	있+으면서	SCONJ	_	6	xcomp	_	_	있/paa+으면서/ecs
+4	무엇보다	무엇+보다	ADV	_	6	advcl	_	_	무엇/npd+보다/jca
+5	먼저	먼저	ADV	_	6	advmod	_	_	먼저/mag
+6	놀랐던	놀라+ㅆ더+ㄴ	VERB	_	7	acl	_	_	놀라/pvg+ㅆ더/ep+ㄴ/etm
+7	것은	것+은	NOUN	_	12	dislocated	_	_	것/nbn+은/jxt
+8	지하철을	지하철+을	NOUN	_	9	obj	_	_	지하철/ncn+을/jco
+9	타고	타+고	CCONJ	_	10	conj	_	_	타/pvg+고/ecc
+10	다니는	다니+는	VERB	_	11	acl	_	_	다니/pvg+는/etm
+11	여자들의	여자+들+의	NOUN	_	12	nmod	_	_	여자/ncn+들/xsn+의/jcm
+12	장신구였다	장신구+이+었+다	VERB	_	0	root	_	_	장신구/ncn+이/jp+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그저 보통 직장의 여자사무원들이 대부분이라는데 호기심이 일어났던 것이다 .
+1	그저	그저	ADV	_	4	advmod	_	_	그저/mag
+2	보통	보통	NOUN	_	3	compound	_	_	보통/ncn
+3	직장의	직장+의	NOUN	_	4	nmod	_	_	직장/ncn+의/jcm
+4	여자사무원들이	여자+사무원+들+이	NOUN	_	5	nsubj	_	_	여자/ncn+사무원/ncn+들/xsn+이/jcs
+5	대부분이라는데	대부분+이+라는데	SCONJ	_	7	ccomp	_	_	대부분/ncn+이/jp+라는데/ecs
+6	호기심이	호기심+이	NOUN	_	7	nsubj	_	_	호기심/ncn+이/jcs
+7	일어났던	일+어+나+ㅆ더+ㄴ	AUX	_	0	root	_	_	일/pvg+어/ecx+나/px+ㅆ더/ep+ㄴ/etm
+8	것이다	것+이+다	VERB	_	7	aux	_	_	것/nbn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 멋 내는 돈을 버느라고 한 달 내내 일한 셈이다 .
+1	멋	멋	NOUN	_	2	dep	_	_	멋/ncn
+2	내는	내+는	VERB	_	3	acl	_	_	내/pvg+는/etm
+3	돈을	돈+을	NOUN	_	4	obj	_	_	돈/ncn+을/jco
+4	버느라고	벌+느라고	SCONJ	_	8	ccomp	_	_	벌/pvg+느라고/ecs
+5	한	한	NUM	_	6	nummod	_	_	한/nnc
+6	달	달	NOUN	_	7	dep	_	_	달/nbu
+7	내내	내내	ADV	_	8	advmod	_	_	내내/mag
+8	일한	일+하+ㄴ	VERB	_	0	root	_	_	일/ncpa+하/xsv+ㄴ/etm
+9	셈이다	셈+이+다	VERB	_	8	aux	_	_	셈/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그런 일본아가씨들의 차림새는 그들이 그토록 얽매여 있는 루이비통 백처럼 모두가 같은 스타일이다 .
+1	그런	그런	DET	_	3	det	_	_	그런/mmd
+2	일본아가씨들의	일본+아가씨+들+의	PROPN	_	3	nmod	_	_	일본/nq+아가씨/ncn+들/xsn+의/jcm
+3	차림새는	차림새+는	NOUN	_	12	dislocated	_	_	차림새/ncn+는/jxt
+4	그들이	그+들+이	PRON	_	6	nsubj	_	_	그/npp+들/xsn+이/jcs
+5	그토록	그토록	ADV	_	6	advmod	_	_	그토록/mad
+6	얽매여	얽매이+어	VERB	_	9	acl	_	_	얽매이/pvg+어/ecx
+7	있는	있+는	AUX	_	6	aux	_	_	있/px+는/etm
+8	루이비통	루이비통	NOUN	_	9	compound	_	_	루이비통/ncn
+9	백처럼	백+처럼	ADV	_	12	advcl	_	_	백/ncn+처럼/jca
+10	모두가	모두+가	NOUN	_	11	nsubj	_	_	모두/ncn+가/jcs
+11	같은	같+ㄴ	ADJ	_	12	amod	_	_	같/paa+ㄴ/etm
+12	스타일이다	스타일+이+다	VERB	_	0	root	_	_	스타일/ncn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 일본의 거리에서 하루종일 보게 되는 것이 바로 그런 아가씨들이다 .
+1	일본의	일본+의	PROPN	_	2	nmod	_	_	일본/nq+의/jcm
+2	거리에서	거리+에서	ADV	_	4	advcl	_	_	거리/ncn+에서/jca
+3	하루종일	하루종일	NOUN	_	4	dep	_	_	하루종일/ncn
+4	보게	보+게	VERB	_	6	acl	_	_	보/pvg+게/ecx
+5	되는	되+는	AUX	_	4	aux	_	_	되/px+는/etm
+6	것이	것+이	NOUN	_	9	nsubj	_	_	것/nbn+이/jcs
+7	바로	바로	ADV	_	9	advmod	_	_	바로/mag
+8	그런	그런	DET	_	9	det	_	_	그런/mmd
+9	아가씨들이다	아가씨+들+이+다	VERB	_	0	root	_	_	아가씨/ncn+들/xsn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 귀족과 같은 품위와 자존심을 지니는 것이 바로 귀족이다 .
+1	귀족과	귀족+과	CCONJ	_	2	conj	_	_	귀족/ncn+과/jct
+2	같은	같+ㄴ	ADJ	_	4	amod	_	_	같/paa+ㄴ/etm
+3	품위와	품위+와	CCONJ	_	4	conj	_	_	품위/ncn+와/jcj
+4	자존심을	자존심+을	NOUN	_	5	obj	_	_	자존심/ncn+을/jco
+5	지니는	지니+는	VERB	_	6	acl	_	_	지니/pvg+는/etm
+6	것이	것+이	NOUN	_	8	nsubj	_	_	것/nbn+이/jcs
+7	바로	바로	ADV	_	8	advmod	_	_	바로/mag
+8	귀족이다	귀족+이+다	VERB	_	0	root	_	_	귀족/ncn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 바로 이런 점이 일본여성들의 무자존심을 잘 나타내준다 .
+1	바로	바로	ADV	_	3	advmod	_	_	바로/mag
+2	이런	이런	DET	_	3	det	_	_	이런/mmd
+3	점이	점+이	NOUN	_	7	nsubj	_	_	점/ncn+이/jcs
+4	일본여성들의	일본+여성+들+의	PROPN	_	5	nmod	_	_	일본/nq+여성/ncn+들/xsn+의/jcm
+5	무자존심을	무자존심+을	NOUN	_	7	obj	_	_	무자존심/ncn+을/jco
+6	잘	잘	ADV	_	7	advmod	_	_	잘/mag
+7	나타내준다	나타내+어+주+ㄴ다	AUX	_	0	root	_	_	나타내/pvg+어/ecx+주/px+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 굳이 서양사회의 예를 들지 않더라도 남편이 아닌 남자에게 보석을 받는 여자는 창녀밖에 없다는 것이 정설이다 .
+1	굳이	굳이	ADV	_	4	advmod	_	_	굳이/mag
+2	서양사회의	서양+사회+의	NOUN	_	3	nmod	_	_	서양/ncn+사회/ncn+의/jcm
+3	예를	예+를	NOUN	_	4	obj	_	_	예/ncn+를/jco
+4	들지	들+지	VERB	_	15	ccomp	_	_	들/pvg+지/ecx
+5	않더라도	않+더라도	SCONJ	_	4	aux	_	_	않/px+더라도/ecs
+6	남편이	남편+이	NOUN	_	7	csubj	_	_	남편/ncn+이/jcc
+7	아닌	아니+ㄴ	ADJ	_	8	amod	_	_	아니/paa+ㄴ/etm
+8	남자에게	남자+에게	ADV	_	10	iobj	_	_	남자/ncn+에게/jca
+9	보석을	보석+을	NOUN	_	10	obj	_	_	보석/ncn+을/jco
+10	받는	받+는	VERB	_	11	acl	_	_	받/pvg+는/etm
+11	여자는	여자+는	NOUN	_	13	dislocated	_	_	여자/ncn+는/jxt
+12	창녀밖에	창녀+밖에	ADV	_	13	advcl	_	_	창녀/ncn+밖에/jxc
+13	없다는	없+다는	ADJ	_	14	amod	_	_	없/paa+다는/etm
+14	것이	것+이	NOUN	_	15	nsubj	_	_	것/nbn+이/jcs
+15	정설이다	정설+이+다	VERB	_	0	root	_	_	정설/ncn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 대개 집안에서 내려온 보석이거나 결혼할 때 받는 경우가 대부분이다 .
+1	대개	대개	ADV	_	4	advmod	_	_	대개/mag
+2	집안에서	집안+에서	ADV	_	3	advcl	_	_	집안/ncn+에서/jca
+3	내려온	내려오+ㄴ	VERB	_	4	ccomp	_	_	내려오/pvg+ㄴ/etm
+4	보석이거나	보석+이+거나	CCONJ	_	9	conj	_	_	보석/ncn+이/jp+거나/ecc
+5	결혼할	결혼+하+ㄹ	VERB	_	6	acl	_	_	결혼/ncpa+하/xsv+ㄹ/etm
+6	때	때	NOUN	_	7	mark	_	_	때/nbn
+7	받는	받+는	VERB	_	8	acl	_	_	받/pvg+는/etm
+8	경우가	경우+가	NOUN	_	9	nsubj	_	_	경우/ncn+가/jcs
+9	대부분이다	대부분+이+다	VERB	_	0	root	_	_	대부분/ncn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 독자의 기호 , 바로 독자가 원하던 것을 그대로 적중시켰기 때문이었다 .
+1	독자의	독자+의	NOUN	_	2	nmod	_	_	독자/ncn+의/jcm
+2	기호	기호	NOUN	_	7	compound	_	_	기호/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	바로	바로	ADV	_	7	advmod	_	_	바로/mag
+5	독자가	독자+가	NOUN	_	6	nsubj	_	_	독자/ncn+가/jcs
+6	원하던	원하+더+ㄴ	VERB	_	7	acl	_	_	원하/pvg+더/ep+ㄴ/etm
+7	것을	것+을	NOUN	_	9	obj	_	_	것/nbn+을/jco
+8	그대로	그대로	ADV	_	9	advmod	_	_	그대로/mag
+9	적중시켰기	적중+시키+었+기	VERB	_	0	root	_	_	적중/ncpa+시키/xsv+었/ep+기/etn
+10	때문이었다	때문+이+었+다	VERB	_	9	aux	_	_	때문/nbn+이/jp+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 하나코에서 다루는 것은 대충 이런 내용들이다 .
+1	하나코에서	하나코+에서	ADV	_	2	advcl	_	_	하나코/nq+에서/jca
+2	다루는	다루+는	VERB	_	3	acl	_	_	다루/pvg+는/etm
+3	것은	것+은	NOUN	_	6	dislocated	_	_	것/nbn+은/jxt
+4	대충	대충	ADV	_	6	advmod	_	_	대충/mag
+5	이런	이런	DET	_	6	det	_	_	이런/mmd
+6	내용들이다	내용+들+이+다	VERB	_	0	root	_	_	내용/ncn+들/xsn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 쇼핑 역시 돈문제 또한 전혀 생각하지 않고 온갖 고급품을 섭렵한다 .
+1	쇼핑	쇼핑	NOUN	_	6	advmod	_	_	쇼핑/ncn
+2	역시	역시	ADV	_	6	advmod	_	_	역시/mag
+3	돈문제	돈문제	NOUN	_	6	advmod	_	_	돈문제/ncn
+4	또한	또한	ADV	_	6	advmod	_	_	또한/mag
+5	전혀	전혀	ADV	_	6	advmod	_	_	전혀/mag
+6	생각하지	생각+하+지	VERB	_	10	conj	_	_	생각/ncpa+하/xsv+지/ecx
+7	않고	않+고	CCONJ	_	6	aux	_	_	않/px+고/ecc
+8	온갖	온갖	ADJ	_	9	amod	_	_	온갖/mma
+9	고급품을	고급품+을	NOUN	_	10	obj	_	_	고급품/ncn+을/jco
+10	섭렵한다	섭렵+하+ㄴ다	VERB	_	0	root	_	_	섭렵/ncpa+하/xsv+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 모두들 싸구려 감성을 지닌 채 허영에 사로잡힌 모델이 되어 버린 느낌을 버릴 수 없다 .
+1	모두들	모두+들	NOUN	_	4	advmod	_	_	모두/ncn+들/xsn
+2	싸구려	싸구려	NOUN	_	3	compound	_	_	싸구려/ncn
+3	감성을	감성+을	NOUN	_	4	obj	_	_	감성/ncn+을/jco
+4	지닌	지니+ㄴ	VERB	_	5	acl	_	_	지니/pvg+ㄴ/etm
+5	채	채	NOUN	_	7	advmod	_	_	채/nbn
+6	허영에	허영+에	ADV	_	7	obl	_	_	허영/ncn+에/jca
+7	사로잡힌	사로잡히+ㄴ	VERB	_	8	acl	_	_	사로잡히/pvg+ㄴ/etm
+8	모델이	모델+이	NOUN	_	9	csubj	_	_	모델/ncn+이/jcc
+9	되어	되+어	VERB	_	11	acl	_	_	되/pvg+어/ecx
+10	버린	버리+ㄴ	AUX	_	9	aux	_	_	버리/px+ㄴ/etm
+11	느낌을	느낌+을	NOUN	_	12	obj	_	_	느낌/ncn+을/jco
+12	버릴	버리+ㄹ	VERB	_	0	root	_	_	버리/pvg+ㄹ/etm
+13	수	수	NOUN	_	14	fixed	_	_	수/nbn
+14	없다	없+다	ADJ	_	12	aux	_	_	없/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 한 것에 놀라지 않을 수 없었다 .
+1	한	하+ㄴ	VERB	_	2	acl	_	_	하/pvg+ㄴ/etm
+2	것에	것+에	ADV	_	3	obl	_	_	것/nbn+에/jca
+3	놀라지	놀라+지	VERB	_	0	root	_	_	놀라/pvg+지/ecx
+4	않을	않+ㄹ	AUX	_	3	aux	_	_	않/px+ㄹ/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	없었다	없+었+다	ADJ	_	3	aux	_	_	없/paa+었/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 일본여자와 술집여자 일본인들은 정말로 술을 자주 마신다 .
+1	일본여자와	일본+여자+와	CCONJ	_	3	conj	_	_	일본/nq+여자/ncn+와/jcj
+2	술집여자	술집+여자	NOUN	_	3	compound	_	_	술집/ncn+여자/ncn
+3	일본인들은	일본인+들+은	NOUN	_	7	dislocated	_	_	일본인/ncn+들/xsn+은/jxt
+4	정말로	정말로	ADV	_	7	advmod	_	_	정말로/mag
+5	술을	술+을	NOUN	_	7	obj	_	_	술/ncn+을/jco
+6	자주	자주	ADV	_	7	advmod	_	_	자주/mag
+7	마신다	마시+ㄴ다	VERB	_	0	root	_	_	마시/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이러한 일본인들의 술습관에 맞추어 수 많은 술집들이 퇴근길의 직장인들을 유혹한다 .
+1	이러한	이러하+ㄴ	ADJ	_	3	amod	_	_	이러하/paa+ㄴ/etm
+2	일본인들의	일본인+들+의	NOUN	_	3	nmod	_	_	일본인/ncn+들/xsn+의/jcm
+3	술습관에	술습관+에	ADV	_	4	advcl	_	_	술습관/ncn+에/jxc
+4	맞추어	맞추+어	SCONJ	_	10	ccomp	_	_	맞추/pvg+어/ecs
+5	수	수	NOUN	_	6	dep	_	_	수/ncn
+6	많은	많+ㄴ	ADJ	_	7	amod	_	_	많/paa+ㄴ/etm
+7	술집들이	술집+들+이	NOUN	_	10	nsubj	_	_	술집/ncn+들/xsn+이/jcs
+8	퇴근길의	퇴근길+의	NOUN	_	9	nmod	_	_	퇴근길/ncn+의/jcm
+9	직장인들을	직장인+들+을	NOUN	_	10	obj	_	_	직장인/ncn+들/xsn+을/jco
+10	유혹한다	유혹+하+ㄴ다	VERB	_	0	root	_	_	유혹/ncpa+하/xsv+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이렇게 술집이 많으니 술집에 나와 있는 여자들도 많다 .
+1	이렇게	이렇+게	SCONJ	_	3	xcomp	_	_	이렇/pad+게/ecs
+2	술집이	술집+이	NOUN	_	3	nsubj	_	_	술집/ncn+이/jcs
+3	많으니	많+으니	SCONJ	_	8	xcomp	_	_	많/paa+으니/ecs
+4	술집에	술집+에	ADV	_	5	obl	_	_	술집/ncn+에/jca
+5	나와	나오+아	VERB	_	7	acl	_	_	나오/pvg+아/ecx
+6	있는	있+는	AUX	_	5	aux	_	_	있/px+는/etm
+7	여자들도	여자+들+도	ADV	_	8	advcl	_	_	여자/ncn+들/xsn+도/jxc
+8	많다	많+다	ADJ	_	0	root	_	_	많/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 낮에는 은행이나 관공서 등 직장에 나가는 여성들이 밤에는 아르바이트를 겸한 가벼운 기분으로 술집에 나와 앉아 있었다 .
+1	낮에는	낮+에+는	NOUN	_	6	dislocated	_	_	낮/ncn+에/jca+는/jxt
+2	은행이나	은행+이나	CCONJ	_	3	conj	_	_	은행/ncn+이나/jcj
+3	관공서	관공서	NOUN	_	4	compound	_	_	관공서/ncn
+4	등	등	NOUN	_	5	mark	_	_	등/nbn
+5	직장에	직장+에	ADV	_	6	obl	_	_	직장/ncn+에/jca
+6	나가는	나가+는	VERB	_	7	acl	_	_	나가/pvg+는/etm
+7	여성들이	여성+들+이	NOUN	_	15	nsubj	_	_	여성/ncn+들/xsn+이/jcs
+8	밤에는	밤+에+는	NOUN	_	15	dislocated	_	_	밤/ncn+에/jca+는/jxt
+9	아르바이트를	아르바이트+를	NOUN	_	10	obj	_	_	아르바이트/ncn+를/jco
+10	겸한	겸하+ㄴ	VERB	_	12	acl	_	_	겸하/pvg+ㄴ/etm
+11	가벼운	가볍+ㄴ	ADJ	_	12	amod	_	_	가볍/paa+ㄴ/etm
+12	기분으로	기분+으로	ADV	_	15	advcl	_	_	기분/ncn+으로/jca
+13	술집에	술집+에	ADV	_	15	obl	_	_	술집/ncn+에/jca
+14	나와	나오+아	SCONJ	_	15	ccomp	_	_	나오/pvg+아/ecs
+15	앉아	앉+아	VERB	_	0	root	_	_	앉/pvg+아/ecx
+16	있었다	있+었+다	AUX	_	15	aux	_	_	있/px+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 군데군데 우리 돈으로 몇 백만원을 훨씬 웃돌아 보이는 최고급 기모노를 입은 여자들과 비싼 장신구를 몸에 휘감은 여자들이 있었다 .
+1	군데군데	군데군데	ADV	_	18	advmod	_	_	군데군데/mag
+2	우리	우리	PRON	_	3	compound	_	_	우리/npp
+3	돈으로	돈+으로	ADV	_	7	advcl	_	_	돈/ncn+으로/jca
+4	몇	몇	ADJ	_	5	amod	_	_	몇/mma
+5	백만원을	백만+원+을	NUM	_	7	obj	_	_	백만/nnc+원/nbu+을/jco
+6	훨씬	훨씬	ADV	_	7	advmod	_	_	훨씬/mag
+7	웃돌아	웃돌+아	SCONJ	_	8	ccomp	_	_	웃돌/pvg+아/ecs
+8	보이는	보이+는	VERB	_	10	acl	_	_	보이/pvg+는/etm
+9	최고급	최고급	NOUN	_	10	compound	_	_	최고급/ncn
+10	기모노를	기모노+를	NOUN	_	11	obj	_	_	기모노/ncn+를/jco
+11	입은	입+ㄴ	VERB	_	12	acl	_	_	입/pvg+ㄴ/etm
+12	여자들과	여자+들+과	CCONJ	_	17	conj	_	_	여자/ncn+들/xsn+과/jcj
+13	비싼	비싸+ㄴ	ADJ	_	14	amod	_	_	비싸/paa+ㄴ/etm
+14	장신구를	장신구+를	NOUN	_	16	obj	_	_	장신구/ncn+를/jco
+15	몸에	몸+에	ADV	_	16	obl	_	_	몸/ncn+에/jca
+16	휘감은	휘감+은	VERB	_	17	acl	_	_	휘감/pvg+은/etm
+17	여자들이	여자+들+이	NOUN	_	18	nsubj	_	_	여자/ncn+들/xsn+이/jcs
+18	있었다	있+었+다	ADJ	_	0	root	_	_	있/paa+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그날을 위해 그녀는 낮이고 밤이고 물 속에서 뛰는 셈이었다 .
+1	그날을	그날+을	PRON	_	2	obj	_	_	그날/npd+을/jco
+2	위해	위하+어	SCONJ	_	8	ccomp	_	_	위하/pvg+어/ecs
+3	그녀는	그녀+는	PRON	_	8	dislocated	_	_	그녀/npp+는/jxt
+4	낮이고	낮+이+고	CCONJ	_	5	conj	_	_	낮/ncn+이/jp+고/ecc
+5	밤이고	밤+이+고	CCONJ	_	8	conj	_	_	밤/ncn+이/jp+고/ecc
+6	물	물	NOUN	_	7	compound	_	_	물/ncn
+7	속에서	속+에서	ADV	_	8	advcl	_	_	속/ncn+에서/jca
+8	뛰는	뛰+는	VERB	_	0	root	_	_	뛰/pvg+는/etm
+9	셈이었다	셈+이+었+다	VERB	_	8	aux	_	_	셈/nbn+이/jp+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 물론 우리나라의 경우와 일본의 경우는 다르다 .
+1	물론	물론	ADV	_	6	advmod	_	_	물론/mag
+2	우리나라의	우리나라+의	NOUN	_	3	nmod	_	_	우리나라/ncn+의/jcm
+3	경우와	경우+와	CCONJ	_	5	conj	_	_	경우/ncn+와/jcj
+4	일본의	일본+의	PROPN	_	5	nmod	_	_	일본/nq+의/jcm
+5	경우는	경우+는	NOUN	_	6	dislocated	_	_	경우/ncn+는/jxt
+6	다르다	다르+다	ADJ	_	0	root	_	_	다르/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 아줌마 둘이 사이 좋게 하는 스나쿠였는데 손님이 많이 오는 주말에는 여대생 아르바이트를 썼다 .
+1	아줌마	아줌마	NOUN	_	2	compound	_	_	아줌마/ncn
+2	둘이	둘+이	NUM	_	5	nsubj	_	_	둘/nnc+이/jcs
+3	사이	사이	NOUN	_	4	dep	_	_	사이/ncn
+4	좋게	좋+게	SCONJ	_	5	xcomp	_	_	좋/paa+게/ecs
+5	하는	하+는	VERB	_	6	ccomp	_	_	하/pvg+는/etm
+6	스나쿠였는데	스나쿠+이+었+는데	SCONJ	_	13	ccomp	_	_	스나쿠/ncn+이/jp+었/ep+는데/ecs
+7	손님이	손님+이	NOUN	_	9	nsubj	_	_	손님/ncn+이/jcs
+8	많이	많이	ADV	_	9	advmod	_	_	많이/mag
+9	오는	오+는	VERB	_	10	acl	_	_	오/pvg+는/etm
+10	주말에는	주말+에+는	NOUN	_	13	dislocated	_	_	주말/ncn+에/jca+는/jxt
+11	여대생	여대생	NOUN	_	12	compound	_	_	여대생/ncn
+12	아르바이트를	아르바이트+를	NOUN	_	13	obj	_	_	아르바이트/ncn+를/jco
+13	썼다	쓰+었+다	VERB	_	0	root	_	_	쓰/pvg+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 도쿄거리를 걷다 보면 서양남자와 팔짱을 끼고 지나가는 일본 여자들을 많이 볼 수 있다 .
+1	도쿄거리를	도쿄+거리+를	PROPN	_	2	obj	_	_	도쿄/nq+거리/ncn+를/jco
+2	걷다	걷+다	VERB	_	11	ccomp	_	_	걷/pvg+다/ecx
+3	보면	보+면	SCONJ	_	2	aux	_	_	보/px+면/ecs
+4	서양남자와	서양+남자+와	CCONJ	_	6	conj	_	_	서양/ncn+남자/ncn+와/jct
+5	팔짱을	팔짱+을	NOUN	_	6	obj	_	_	팔짱/ncn+을/jco
+6	끼고	끼+고	CCONJ	_	7	conj	_	_	끼/pvg+고/ecc
+7	지나가는	지나+아+가+는	AUX	_	9	acl	_	_	지나/pvg+아/ecx+가/px+는/etm
+8	일본	일본	PROPN	_	9	compound	_	_	일본/nq
+9	여자들을	여자+들+을	NOUN	_	11	obj	_	_	여자/ncn+들/xsn+을/jco
+10	많이	많이	ADV	_	11	advmod	_	_	많이/mag
+11	볼	보+ㄹ	VERB	_	0	root	_	_	보/pvg+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있다	있+다	ADJ	_	11	aux	_	_	있/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 일본의 젊은 여자들 사이에 .
+1	일본의	일본+의	PROPN	_	3	nmod	_	_	일본/nq+의/jcm
+2	젊은	젊+ㄴ	ADJ	_	3	amod	_	_	젊/paa+ㄴ/etm
+3	여자들	여자+들	NOUN	_	4	compound	_	_	여자/ncn+들/xsn
+4	사이에	사이+에	ADV	_	0	root	_	_	사이/ncn+에/jca
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 내가 도쿄를 떠날 무렵에는 흑인남자가 아주 큰 인기를 끌고 있었다 .
+1	내가	내+가	PRON	_	3	nsubj	_	_	내/npp+가/jcs
+2	도쿄를	도쿄+를	PROPN	_	3	obj	_	_	도쿄/nq+를/jco
+3	떠날	떠나+ㄹ	VERB	_	4	acl	_	_	떠나/pvg+ㄹ/etm
+4	무렵에는	무렵+에+는	NOUN	_	9	dislocated	_	_	무렵/nbn+에/jca+는/jxt
+5	흑인남자가	흑인남자+가	NOUN	_	9	nsubj	_	_	흑인남자/ncn+가/jcs
+6	아주	아주	ADV	_	7	advmod	_	_	아주/mag
+7	큰	크+ㄴ	ADJ	_	8	amod	_	_	크/paa+ㄴ/etm
+8	인기를	인기+를	NOUN	_	9	obj	_	_	인기/ncn+를/jco
+9	끌고	끌+고	VERB	_	0	root	_	_	끌/pvg+고/ecx
+10	있었다	있+었+다	AUX	_	9	aux	_	_	있/px+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 일본여자들이 좋아하는 흑인이란 아프리카의 오리지날 흑인이 아닌 어디까지나 영어를 쓰는 아메리칸 블랙인 것이다 .
+1	일본여자들이	일본+여자+들+이	PROPN	_	2	nsubj	_	_	일본/nq+여자/ncn+들/xsn+이/jcs
+2	좋아하는	좋아하+는	VERB	_	3	acl	_	_	좋아하/pvg+는/etm
+3	흑인이란	흑인+이란	ADV	_	12	advcl	_	_	흑인/ncn+이란/jxc
+4	아프리카의	아프리카+의	PROPN	_	6	nmod	_	_	아프리카/nq+의/jcm
+5	오리지날	오리지날	NOUN	_	6	compound	_	_	오리지날/ncn
+6	흑인이	흑인+이	NOUN	_	7	csubj	_	_	흑인/ncn+이/jcc
+7	아닌	아니+ㄴ	ADJ	_	12	amod	_	_	아니/paa+ㄴ/etm
+8	어디까지나	어디+까지나	ADV	_	10	advmod	_	_	어디/mad+까지나/jxc
+9	영어를	영어+를	NOUN	_	10	obj	_	_	영어/ncn+를/jco
+10	쓰는	쓰+는	VERB	_	12	acl	_	_	쓰/pvg+는/etm
+11	아메리칸	아메리칸	PROPN	_	12	compound	_	_	아메리칸/nq
+12	블랙인	블랙+이+ㄴ	VERB	_	0	root	_	_	블랙/ncn+이/jp+ㄴ/etm
+13	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 여기서 선택된 남자들은 백이면 백 모두 흑인들이다 .
+1	여기서	여기+서	ADV	_	2	advcl	_	_	여기/npd+서/jca
+2	선택된	선택+되+ㄴ	VERB	_	3	acl	_	_	선택/ncpa+되/xsv+ㄴ/etm
+3	남자들은	남자+들+은	NOUN	_	7	dislocated	_	_	남자/ncn+들/xsn+은/jxt
+4	백이면	백+이+면	SCONJ	_	7	ccomp	_	_	백/nnc+이/jp+면/ecs
+5	백	백	NUM	_	6	nummod	_	_	백/nnc
+6	모두	모두	ADV	_	7	advmod	_	_	모두/mag
+7	흑인들이다	흑인+들+이+다	VERB	_	0	root	_	_	흑인/ncn+들/xsn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 일본여성들은 그들을 상대로 직접 가격흥정을 한다 .
+1	일본여성들은	일본+여성+들+은	PROPN	_	6	dislocated	_	_	일본/nq+여성/ncn+들/xsn+은/jxt
+2	그들을	그+들+을	PRON	_	3	obj	_	_	그/npp+들/xsn+을/jco
+3	상대로	상대+로	ADV	_	6	advcl	_	_	상대/ncpa+로/jca
+4	직접	직접	ADV	_	6	advmod	_	_	직접/mag
+5	가격흥정을	가격흥정+을	NOUN	_	6	obj	_	_	가격흥정/ncn+을/jco
+6	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 흑인병사들을 일단 디스코테크로 데리고 가서 신나게 춤추며 마시고 논다 .
+1	흑인병사들을	흑인병사+들+을	NOUN	_	5	obj	_	_	흑인병사/ncn+들/xsn+을/jco
+2	일단	일단	ADV	_	5	advmod	_	_	일단/mag
+3	디스코테크로	디스코+테크+로	ADV	_	5	advcl	_	_	디스코/ncn+테크/ncn+로/jca
+4	데리고	데리+고	CCONJ	_	5	conj	_	_	데리/pvg+고/ecc
+5	가서	가+서	SCONJ	_	10	ccomp	_	_	가/pvg+서/ecs
+6	신나게	신나+게	SCONJ	_	10	ccomp	_	_	신나/pvg+게/ecs
+7	춤추며	춤추+며	CCONJ	_	8	conj	_	_	춤추/pvg+며/ecc
+8	마시고	마시+고	CCONJ	_	9	conj	_	_	마시/pvg+고/ecc
+9	논다	놀+ㄴ다	VERB	_	10	conj	_	_	놀/pvg+ㄴ다/ef
+10	.	.	PUNCT	_	0	root	_	_	./sf
+
+# 그 다음에는 가까운 러브호텔로 간다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	다음에는	다음+에+는	NOUN	_	5	dislocated	_	_	다음/ncn+에/jca+는/jxt
+3	가까운	가깝+ㄴ	ADJ	_	4	amod	_	_	가깝/paa+ㄴ/etm
+4	러브호텔로	러브+호텔+로	ADV	_	5	advcl	_	_	러브/ncn+호텔/ncn+로/jca
+5	간다	가+ㄴ다	VERB	_	0	root	_	_	가/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 물론 모든 비용은 경제대국 일본아가씨의 몫이다 .
+1	물론	물론	ADV	_	6	advmod	_	_	물론/mag
+2	모든	모든	ADJ	_	3	amod	_	_	모든/mma
+3	비용은	비용+은	NOUN	_	6	dislocated	_	_	비용/ncn+은/jxt
+4	경제대국	경제대국	NOUN	_	5	compound	_	_	경제대국/ncn
+5	일본아가씨의	일본+아가씨+의	PROPN	_	6	nmod	_	_	일본/nq+아가씨/ncn+의/jcm
+6	몫이다	몫+이+다	VERB	_	0	root	_	_	몫/ncn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 하다못해 영어를 배우기 위해서도 아닌 것이다 .
+1	하다못해	하+다+못하+어	SCONJ	_	5	conj	_	_	하/pvg+다/ecx+못하/px+어/ecs
+2	영어를	영어+를	NOUN	_	3	obj	_	_	영어/ncn+를/jco
+3	배우기	배우+기	VERB	_	4	nmod	_	_	배우/pvg+기/etn
+4	위해서도	위하+어서도	SCONJ	_	5	conj	_	_	위하/pvg+어서도/ecs
+5	아닌	아니+ㄴ	ADJ	_	0	root	_	_	아니/paa+ㄴ/etm
+6	것이다	것+이+다	VERB	_	5	aux	_	_	것/nbn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 전통적인 남존여비의 사회가 바로 일본이다 .
+1	전통적인	전통+적+이+ㄴ	VERB	_	3	acl	_	_	전통/ncn+적/xsn+이/jp+ㄴ/etm
+2	남존여비의	남존여비+의	NOUN	_	3	nmod	_	_	남존여비/ncn+의/jcm
+3	사회가	사회+가	NOUN	_	5	nsubj	_	_	사회/ncn+가/jcs
+4	바로	바로	ADV	_	5	advmod	_	_	바로/mag
+5	일본이다	일본+이+다	VERB	_	0	root	_	_	일본/nq+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 일본의 유행가 가운데 이런 가사가 있다 .
+1	일본의	일본+의	PROPN	_	2	nmod	_	_	일본/nq+의/jcm
+2	유행가	유행가	NOUN	_	3	compound	_	_	유행가/ncn
+3	가운데	가운데	NOUN	_	6	dep	_	_	가운데/ncn
+4	이런	이런	DET	_	5	det	_	_	이런/mmd
+5	가사가	가사+가	NOUN	_	6	nsubj	_	_	가사/ncn+가/jcs
+6	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 여자를 술안주와 함께 술상에 올려 놓은 노래이다 .
+1	여자를	여자+를	NOUN	_	5	obj	_	_	여자/ncn+를/jco
+2	술안주와	술안주+와	CCONJ	_	3	conj	_	_	술안주/ncn+와/jct
+3	함께	함께	ADV	_	5	advmod	_	_	함께/mag
+4	술상에	술상+에	ADV	_	5	obl	_	_	술상/ncn+에/jca
+5	올려	올리+어	VERB	_	7	ccomp	_	_	올리/pvg+어/ecx
+6	놓은	놓+ㄴ	AUX	_	5	aux	_	_	놓/px+ㄴ/etm
+7	노래이다	노래+이+다	VERB	_	0	root	_	_	노래/ncpa+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 삼십년을 기다렸다 .
+1	삼십년을	삼십+년+을	NUM	_	2	obj	_	_	삼십/nno+년/nbu+을/jco
+2	기다렸다	기다리+었+다	VERB	_	0	root	_	_	기다리/pvg+었/ep+다/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 나는 그런 커플을 몇 명 만나 보았는데 나름대로 특징이 있다는 결론을 얻었다 .
+1	나는	나+는	PRON	_	12	dislocated	_	_	나/npp+는/jxt
+2	그런	그런	DET	_	3	det	_	_	그런/mmd
+3	커플을	커플+을	NOUN	_	7	obj	_	_	커플/ncn+을/jco
+4	몇	몇	ADJ	_	5	amod	_	_	몇/mma
+5	명	명	NOUN	_	7	advmod	_	_	명/nbu
+6	만나	만나+아	SCONJ	_	7	ccomp	_	_	만나/pvg+아/ecs
+7	보았는데	보+았+는데	SCONJ	_	12	ccomp	_	_	보/pvg+았/ep+는데/ecs
+8	나름대로	나름+대로	ADV	_	10	advcl	_	_	나름/ncn+대로/jca
+9	특징이	특징+이	NOUN	_	10	nsubj	_	_	특징/ncn+이/jcs
+10	있다는	있+다는	ADJ	_	11	amod	_	_	있/paa+다는/etm
+11	결론을	결론+을	NOUN	_	12	obj	_	_	결론/ncn+을/jco
+12	얻었다	얻+었+다	VERB	_	0	root	_	_	얻/pvg+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그토록 제게 문제가 많았다면 미리 알려주어서 고치게 만들었으면 좋았을텐데요 .
+1	그토록	그토록	ADV	_	4	advmod	_	_	그토록/mad
+2	제게	제+게	ADV	_	4	iobj	_	_	제/npp+게/jca
+3	문제가	문제+가	NOUN	_	4	nsubj	_	_	문제/ncn+가/jcs
+4	많았다면	많+았+다면	SCONJ	_	6	xcomp	_	_	많/paa+았/ep+다면/ecs
+5	미리	미리	ADV	_	6	advmod	_	_	미리/mag
+6	알려주어서	알리+어+주+어서	SCONJ	_	7	ccomp	_	_	알리/pvg+어/ecx+주/px+어서/ecs
+7	고치게	고치+게	SCONJ	_	8	ccomp	_	_	고치/pvg+게/ecs
+8	만들었으면	만들+었+으면	SCONJ	_	9	conj	_	_	만들/pvg+었/ep+으면/ecs
+9	좋았을텐데요	좋+았+ㄹ텐데	ADJ	_	0	root	_	_	좋/paa+았/ep+ㄹ텐데/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 선이 가느다란 얼굴에 아주 가냘픈 인상을 주는 , 어디서고 만날 수 있는 중년여성이었다 .
+1	선이	선+이	NOUN	_	2	nsubj	_	_	선/ncn+이/jcs
+2	가느다란	가느다랗+ㄴ	ADJ	_	3	amod	_	_	가느다랗/paa+ㄴ/etm
+3	얼굴에	얼굴+에	ADV	_	7	advcl	_	_	얼굴/ncn+에/jxc
+4	아주	아주	ADV	_	5	advmod	_	_	아주/mag
+5	가냘픈	가냘프+ㄴ	ADJ	_	6	amod	_	_	가냘프/paa+ㄴ/etm
+6	인상을	인상+을	NOUN	_	7	obj	_	_	인상/ncn+을/jco
+7	주는	주+는	VERB	_	10	dep	_	_	주/pvg+는/etm
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	어디서고	어디+서+이+고	SCONJ	_	10	ccomp	_	_	어디/npd+서/jca+이/jp+고/ecs
+10	만날	만나+ㄹ	VERB	_	13	ccomp	_	_	만나/pvg+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있는	있+는	ADJ	_	10	aux	_	_	있/paa+는/etm
+13	중년여성이었다	중년+여성+이+었+다	VERB	_	0	root	_	_	중년/ncn+여성/ncn+이/jp+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그 사람이 늦게 들어오고 외박을 해도 다 참았습니다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	사람이	사람+이	NOUN	_	6	nsubj	_	_	사람/ncn+이/jcs
+3	늦게	늦+게	SCONJ	_	4	xcomp	_	_	늦/paa+게/ecs
+4	들어오고	들+어+오+고	CCONJ	_	6	conj	_	_	들/pvg+어/ecx+오/px+고/ecc
+5	외박을	외박+을	NOUN	_	6	obj	_	_	외박/ncn+을/jco
+6	해도	하+어도	SCONJ	_	8	ccomp	_	_	하/pvg+어도/ecs
+7	다	다	ADV	_	8	advmod	_	_	다/mag
+8	참았습니다	참+았+습니다	VERB	_	0	root	_	_	참/pvg+았/ep+습니다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 저는 몸도 약하고 경제적인 능력도 없어요 .
+1	저는	저+는	PRON	_	6	dislocated	_	_	저/npp+는/jxt
+2	몸도	몸+도	ADV	_	3	advcl	_	_	몸/ncn+도/jxc
+3	약하고	약하+고	CCONJ	_	6	conj	_	_	약하/paa+고/ecc
+4	경제적인	경제+적+이+ㄴ	VERB	_	5	acl	_	_	경제/ncn+적/xsn+이/jp+ㄴ/etm
+5	능력도	능력+도	ADV	_	6	advcl	_	_	능력/ncn+도/jxc
+6	없어요	없+어+요	VERB	_	0	root	_	_	없/paa+어/ef+요/jxf
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 술에 취해 곤드레만드레 된 친구를 할 수 없이 자기집까지 데리고 갔다 .
+1	술에	술+에	ADV	_	2	advcl	_	_	술/ncn+에/jxc
+2	취해	취하+어	SCONJ	_	4	ccomp	_	_	취하/pvg+어/ecs
+3	곤드레만드레	곤드레만드레	ADV	_	4	advmod	_	_	곤드레만드레/mag
+4	된	되+ㄴ	VERB	_	5	acl	_	_	되/pvg+ㄴ/etm
+5	친구를	친구+를	NOUN	_	11	obj	_	_	친구/ncn+를/jco
+6	할	하+ㄹ	VERB	_	11	ccomp	_	_	하/pvg+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	없이	없+이	SCONJ	_	6	aux	_	_	없/paa+이/ecs
+9	자기집까지	자기집+까지	ADV	_	11	advcl	_	_	자기집/ncn+까지/jxc
+10	데리고	데리+고	CCONJ	_	11	conj	_	_	데리/pvg+고/ecc
+11	갔다	가+ㅆ+다	VERB	_	0	root	_	_	가/pvg+ㅆ/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 만나 보니 십년은 늙어 보였다 .
+1	만나	만나+아	VERB	_	5	ccomp	_	_	만나/pvg+아/ecx
+2	보니	보+니	SCONJ	_	1	aux	_	_	보/px+니/ecs
+3	십년은	십+년+은	NUM	_	5	dislocated	_	_	십/nno+년/nbu+은/jxt
+4	늙어	늙+어	SCONJ	_	5	ccomp	_	_	늙/pvg+어/ecs
+5	보였다	보이+었+다	VERB	_	0	root	_	_	보이/pvg+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+

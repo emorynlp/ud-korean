@@ -1,0 +1,4661 @@
+# 남한사회에 맑시즘의 세대가 있은 후에 이 문제에 대해서만큼 많이 언급된 저서도 없다 .
+1	남한사회에	남한+사회+에	ADV	_	4	obl	_	_	남한/nq+사회/ncn+에/jca
+2	맑시즘의	맑시즘+의	NOUN	_	3	nmod	_	_	맑시즘/ncn+의/jcm
+3	세대가	세대+가	NOUN	_	4	nsubj	_	_	세대/ncpa+가/jcs
+4	있은	있+ㄴ	ADJ	_	5	amod	_	_	있/paa+ㄴ/etm
+5	후에	후+에	ADV	_	12	obl	_	_	후/ncn+에/jca
+6	이	이	DET	_	7	det	_	_	이/mmd
+7	문제에	문제+에	ADV	_	8	obl	_	_	문제/ncn+에/jca
+8	대해서만큼	대하+어서+만큼	ADV	_	9	advcl	_	_	대하/pvg+어서/ecs+만큼/jca
+9	많이	많이	ADV	_	10	advmod	_	_	많이/mag
+10	언급된	언급+되+ㄴ	VERB	_	11	acl	_	_	언급/ncpa+되/xsv+ㄴ/etm
+11	저서도	저서+도	ADV	_	12	advcl	_	_	저서/ncn+도/jxc
+12	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 천편일률적인 인용 , 기계적 반복어가 그 내용의 주를 이룬다 .
+1	천편일률적인	천편일률+적+이+ㄴ	VERB	_	2	acl	_	_	천편일률/ncn+적/xsn+이/jp+ㄴ/etm
+2	인용	인용	NOUN	_	5	compound	_	_	인용/ncpa
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	기계적	기계+적	NOUN	_	5	amod	_	_	기계/ncn+적/xsn
+5	반복어가	반복어+가	NOUN	_	9	nsubj	_	_	반복어/ncn+가/jcs
+6	그	그	DET	_	7	det	_	_	그/mmd
+7	내용의	내용+의	NOUN	_	8	nmod	_	_	내용/ncn+의/jcm
+8	주를	주+를	NOUN	_	9	obj	_	_	주/ncn+를/jco
+9	이룬다	이루+ㄴ다	VERB	_	0	root	_	_	이루/pvg+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러나 문제는 그러한 인용 자체에 있지 않다 .
+1	그러나	그러나	CCONJ	_	6	cc	_	_	그러나/maj
+2	문제는	문제+는	NOUN	_	6	dislocated	_	_	문제/ncn+는/jxt
+3	그러한	그러하+ㄴ	VERB	_	4	amod	_	_	그러하/pad+ㄴ/etm
+4	인용	인용	NOUN	_	5	compound	_	_	인용/ncn
+5	자체에	자체+에	ADV	_	6	obl	_	_	자체/ncn+에/jca
+6	있지	있+지	ADJ	_	0	root	_	_	있/paa+지/ecx
+7	않다	않+다	AUX	_	6	aux	_	_	않/px+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 하지만 독자들은 뒤로 갈수록 우리가 왜 이 문제를 제기하였는가를 수긍하실 줄 믿는다 .
+1	하지만	하지만	CCONJ	_	12	cc	_	_	하지만/maj
+2	독자들은	독자+들+은	NOUN	_	10	dislocated	_	_	독자/ncn+들/xsn+은/jxt
+3	뒤로	뒤+로	ADV	_	4	advcl	_	_	뒤/ncn+로/jca
+4	갈수록	가+ㄹ수록	SCONJ	_	10	ccomp	_	_	가/pvg+ㄹ수록/ecs
+5	우리가	우리+가	PRON	_	9	nsubj	_	_	우리/npp+가/jcs
+6	왜	왜	ADV	_	9	advmod	_	_	왜/mag
+7	이	이	DET	_	8	det	_	_	이/mmd
+8	문제를	문제+를	NOUN	_	9	obj	_	_	문제/ncn+를/jco
+9	제기하였는가를	제기하+었+는가+를	NOUN	_	10	obj	_	_	제기하/pvg+었/ep+는가/ef+를/jco
+10	수긍하실	수긍+하+시+ㄹ	VERB	_	11	acl	_	_	수긍/ncpa+하/xsv+시/ep+ㄹ/etm
+11	줄	줄	NOUN	_	12	mark	_	_	줄/nbn
+12	믿는다	믿+는다	VERB	_	0	root	_	_	믿/pvg+는다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 논의의 출발점으로 역사라 불리는 것에 대한 유물론적 이해와 그것을 파악하는 방법 즉 , 사회과학적 의미에서의 역사적 유물론에 대해 시작하자 .
+1	논의의	논의+의	NOUN	_	2	nmod	_	_	논의/ncpa+의/jcm
+2	출발점으로	출발+점+으로	ADV	_	19	advcl	_	_	출발/ncpa+점/ncn+으로/jca
+3	역사라	역사+라	ADV	_	4	advcl	_	_	역사/ncn+라/jxc
+4	불리는	불리+는	VERB	_	5	acl	_	_	불리/pvg+는/etm
+5	것에	것+에	ADV	_	6	obl	_	_	것/nbn+에/jca
+6	대한	대하+ㄴ	VERB	_	8	acl	_	_	대하/pvg+ㄴ/etm
+7	유물론적	유물론+적	NOUN	_	8	amod	_	_	유물론/ncn+적/xsn
+8	이해와	이해+와	CCONJ	_	17	conj	_	_	이해/ncpa+와/jcj
+9	그것을	그것+을	PRON	_	10	obj	_	_	그것/npd+을/jco
+10	파악하는	파악+하+는	VERB	_	11	acl	_	_	파악/ncpa+하/xsv+는/etm
+11	방법	방법	NOUN	_	15	conj	_	_	방법/ncn
+12	즉	즉	CCONJ	_	13	cc	_	_	즉/maj
+13	,	,	PUNCT	_	11	punct	_	_	,/sp
+14	사회과학적	사회+과학+적	NOUN	_	15	amod	_	_	사회/ncn+과학/ncn+적/xsn
+15	의미에서의	의미+에서+의	NOUN	_	17	nmod	_	_	의미/ncpa+에서/jca+의/jcm
+16	역사적	역사+적	NOUN	_	17	amod	_	_	역사/ncn+적/xsn
+17	유물론에	유물론+에	ADV	_	18	obl	_	_	유물론/ncn+에/jca
+18	대해	대하+어	SCONJ	_	19	ccomp	_	_	대하/pvg+어/ecs
+19	시작하자	시작+하+자	VERB	_	0	root	_	_	시작/ncpa+하/xsv+자/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 역사를 유물론적으로 파악하기 위해서는 그러한 이해를 위한 제전제가 필요하다 .
+1	역사를	역사+를	NOUN	_	3	obj	_	_	역사/ncn+를/jco
+2	유물론적으로	유물론+적+으로	ADV	_	3	advcl	_	_	유물론/ncn+적/xsn+으로/jca
+3	파악하기	파악+하+기	VERB	_	4	nmod	_	_	파악/ncpa+하/xsv+기/etn
+4	위해서는	위하+어서+는	NOUN	_	9	dep	_	_	위하/pvg+어서/ecs+는/jxt
+5	그러한	그러하+ㄴ	VERB	_	6	amod	_	_	그러하/pad+ㄴ/etm
+6	이해를	이해+를	NOUN	_	7	obj	_	_	이해/ncpa+를/jco
+7	위한	위하+ㄴ	VERB	_	8	acl	_	_	위하/pvg+ㄴ/etm
+8	제전제가	제전제+가	NOUN	_	9	nsubj	_	_	제전제/ncn+가/jcs
+9	필요하다	필요하+다	ADJ	_	0	root	_	_	필요하/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 한편 인간은 자신들의 삶을 영위하고 표현하는 생활속에서 일정한 사회 , 정치적 관계들은 형성하는 바 이는 경험적으로 관찰되어지는 사실이다 .
+1	한편	한편	CCONJ	_	18	cc	_	_	한편/maj
+2	인간은	인간+은	NOUN	_	13	dislocated	_	_	인간/ncn+은/jxt
+3	자신들의	자신+들+의	NOUN	_	4	nmod	_	_	자신/ncn+들/xsn+의/jcm
+4	삶을	삶+을	NOUN	_	6	obj	_	_	삶/ncn+을/jco
+5	영위하고	영위+하+고	CCONJ	_	6	conj	_	_	영위/ncpa+하/xsv+고/ecc
+6	표현하는	표현+하+는	VERB	_	7	acl	_	_	표현/ncpa+하/xsv+는/etm
+7	생활속에서	생활+속+에서	ADV	_	13	advcl	_	_	생활/ncpa+속/ncn+에서/jca
+8	일정한	일정하+ㄴ	ADJ	_	12	amod	_	_	일정하/paa+ㄴ/etm
+9	사회	사회	NOUN	_	11	conj	_	_	사회/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	정치적	정치+적	NOUN	_	12	amod	_	_	정치/ncpa+적/xsn
+12	관계들은	관계+들+은	NOUN	_	13	dislocated	_	_	관계/ncpa+들/xsn+은/jxt
+13	형성하는	형성+하+는	VERB	_	14	acl	_	_	형성/ncpa+하/xsv+는/etm
+14	바	바	NOUN	_	18	advmod	_	_	바/nbn
+15	이는	이+는	PRON	_	18	dislocated	_	_	이/npd+는/jxt
+16	경험적으로	경험+적+으로	ADV	_	17	advcl	_	_	경험/ncpa+적/xsn+으로/jca
+17	관찰되어지는	관찰+되+어+지+는	AUX	_	18	ccomp	_	_	관찰/ncpa+되/xsv+어/ecx+지/px+는/etm
+18	사실이다	사실+이+다	VERB	_	0	root	_	_	사실/ncn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 앞서의 사실을 잊지 않으면서 역사적 유물론은 무엇을 통해 인류역사의 발전을 파악하는가를 알아보자 .
+1	앞서의	앞서+의	NOUN	_	2	nmod	_	_	앞서/ncn+의/jcm
+2	사실을	사실+을	NOUN	_	3	obj	_	_	사실/ncn+을/jco
+3	잊지	잊+지	VERB	_	12	ccomp	_	_	잊/pvg+지/ecx
+4	않으면서	않+으면서	SCONJ	_	3	aux	_	_	않/px+으면서/ecs
+5	역사적	역사+적	NOUN	_	6	amod	_	_	역사/ncn+적/xsn
+6	유물론은	유물론+은	NOUN	_	8	dislocated	_	_	유물론/ncn+은/jxt
+7	무엇을	무엇+을	PRON	_	8	obj	_	_	무엇/npd+을/jco
+8	통해	통하+어	SCONJ	_	11	conj	_	_	통하/pvg+어/ecs
+9	인류역사의	인류+역사+의	NOUN	_	10	nmod	_	_	인류/ncn+역사/ncn+의/jcm
+10	발전을	발전+을	NOUN	_	11	obj	_	_	발전/ncpa+을/jco
+11	파악하는가를	파악하+는가+를	NOUN	_	12	obj	_	_	파악하/pvg+는가/ef+를/jco
+12	알아보자	알+아+보+자	AUX	_	0	root	_	_	알/pvg+아/ecx+보/px+자/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 맑스는 자신의 정치경제학에 대한 연구의 변을 밝히며 다음과 같이 말하였다 .
+1	맑스는	맑스+는	PROPN	_	10	dislocated	_	_	맑스/nq+는/jxt
+2	자신의	자신+의	NOUN	_	3	nmod	_	_	자신/ncn+의/jcm
+3	정치경제학에	정치경제학+에	ADV	_	4	obl	_	_	정치경제학/ncn+에/jca
+4	대한	대하+ㄴ	VERB	_	5	acl	_	_	대하/pvg+ㄴ/etm
+5	연구의	연구+의	NOUN	_	6	nmod	_	_	연구/ncpa+의/jcm
+6	변을	변+을	NOUN	_	7	obj	_	_	변/ncn+을/jco
+7	밝히며	밝히+며	CCONJ	_	10	conj	_	_	밝히/pvg+며/ecc
+8	다음과	다음+과	CCONJ	_	9	conj	_	_	다음/ncn+과/jct
+9	같이	같+이	SCONJ	_	10	xcomp	_	_	같/paa+이/ecs
+10	말하였다	말하+었+다	VERB	_	0	root	_	_	말하/pvg+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 즉 , 그들의 물질적 생산제력의 특정한 발전단계에 조응하는 생산관계에 들어간다 .
+1	즉	즉	CCONJ	_	10	cc	_	_	즉/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	그들의	그+들+의	PRON	_	5	nmod	_	_	그/npp+들/xsn+의/jcm
+4	물질적	물질+적	NOUN	_	5	amod	_	_	물질/ncn+적/xsn
+5	생산제력의	생산+제력+의	NOUN	_	7	nmod	_	_	생산/ncpa+제력/ncn+의/jcm
+6	특정한	특정+하+ㄴ	VERB	_	7	acl	_	_	특정/ncpa+하/xsv+ㄴ/etm
+7	발전단계에	발전+단계+에	ADV	_	8	obl	_	_	발전/ncpa+단계/ncn+에/jca
+8	조응하는	조응+하+는	VERB	_	9	acl	_	_	조응/ncpa+하/xsv+는/etm
+9	생산관계에	생산+관계+에	ADV	_	10	obl	_	_	생산/ncpa+관계/ncpa+에/jca
+10	들어간다	들어가+ㄴ다	VERB	_	0	root	_	_	들어가/pvg+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이러한 생산관계의 총체가 사회의 경제구조를 형성한다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	생산관계의	생산+관계+의	NOUN	_	3	nmod	_	_	생산/ncpa+관계/ncpa+의/jcm
+3	총체가	총체+가	NOUN	_	6	nsubj	_	_	총체/ncn+가/jcs
+4	사회의	사회+의	NOUN	_	5	nmod	_	_	사회/ncn+의/jcm
+5	경제구조를	경제+구조+를	NOUN	_	6	obj	_	_	경제/ncn+구조/ncn+를/jco
+6	형성한다	형성+하+ㄴ다	VERB	_	0	root	_	_	형성/ncpa+하/xsv+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이것에 대해서는 다른 장에서 보다 자세히 언급하겠지만 , 물질적 생활의 생산양식이 사회적 정치적 및 정신적 생활과정 일반을 제약한다 .
+1	이것에	이것+에	ADV	_	2	obl	_	_	이것/npd+에/jca
+2	대해서는	대하+어서+는	NOUN	_	7	ccomp	_	_	대하/pvg+어서/ecs+는/jxt
+3	다른	다르+ㄴ	ADJ	_	4	amod	_	_	다르/paa+ㄴ/etm
+4	장에서	장+에서	ADV	_	7	advcl	_	_	장/nbu+에서/jca
+5	보다	보다	ADV	_	7	advmod	_	_	보다/mag
+6	자세히	자세+히	ADV	_	5	dep	_	_	자세/ncps+히/xsa
+7	언급하겠지만	언급+하+겠+지만	SCONJ	_	18	ccomp	_	_	언급/ncpa+하/xsv+겠/ep+지만/ecs
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	물질적	물질+적	NOUN	_	10	amod	_	_	물질/ncn+적/xsn
+10	생활의	생활+의	NOUN	_	11	nmod	_	_	생활/ncpa+의/jcm
+11	생산양식이	생산+양식+이	NOUN	_	18	nsubj	_	_	생산/ncpa+양식/ncn+이/jcs
+12	사회적	사회+적	NOUN	_	13	conj	_	_	사회/ncn+적/xsn
+13	정치적	정치+적	NOUN	_	15	conj	_	_	정치/ncpa+적/xsn
+14	및	및	CCONJ	_	15	cc	_	_	및/maj
+15	정신적	정신+적	NOUN	_	16	amod	_	_	정신/ncn+적/xsn
+16	생활과정	생활+과정	NOUN	_	17	compound	_	_	생활/ncpa+과정/ncn
+17	일반을	일반+을	NOUN	_	18	obj	_	_	일반/ncn+을/jco
+18	제약한다	제약+하+ㄴ다	VERB	_	0	root	_	_	제약/ncpa+하/xsv+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 인간의 의식이 그들의 존재를 규정하는 것이 아니라 반대로 그들의 사회적 존재가 그들의 의식을 규정하는 것이다 .
+1	인간의	인간+의	NOUN	_	2	nmod	_	_	인간/ncn+의/jcm
+2	의식이	의식+이	NOUN	_	5	nsubj	_	_	의식/ncpa+이/jcs
+3	그들의	그+들+의	PRON	_	4	nmod	_	_	그/npp+들/xsn+의/jcm
+4	존재를	존재+를	NOUN	_	5	obj	_	_	존재/ncpa+를/jco
+5	규정하는	규정+하+는	VERB	_	6	acl	_	_	규정/ncpa+하/xsv+는/etm
+6	것이	것+이	NOUN	_	7	nsubj	_	_	것/nbn+이/jcs
+7	아니라	아니+라	SCONJ	_	14	xcomp	_	_	아니/paa+라/ecs
+8	반대로	반대+로	ADV	_	14	advcl	_	_	반대/ncpa+로/jca
+9	그들의	그+들+의	PRON	_	11	nmod	_	_	그/npp+들/xsn+의/jcm
+10	사회적	사회+적	NOUN	_	11	amod	_	_	사회/ncn+적/xsn
+11	존재가	존재+가	NOUN	_	14	nsubj	_	_	존재/ncpa+가/jcs
+12	그들의	그+들+의	PRON	_	13	nmod	_	_	그/npp+들/xsn+의/jcm
+13	의식을	의식+을	NOUN	_	14	obj	_	_	의식/ncpa+을/jco
+14	규정하는	규정+하+는	VERB	_	0	root	_	_	규정/ncpa+하/xsv+는/etm
+15	것이다	것+이+다	VERB	_	14	aux	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이제 우리는 이에 공산주의적 생산양식을 추가할 수 있다 .
+1	이제	이제	ADV	_	6	advmod	_	_	이제/mag
+2	우리는	우리+는	PRON	_	6	dislocated	_	_	우리/npp+는/jxt
+3	이에	이에	ADV	_	6	advmod	_	_	이에/mag
+4	공산주의적	공산주의+적	NOUN	_	5	amod	_	_	공산주의/ncn+적/xsn
+5	생산양식을	생산+양식+을	NOUN	_	6	obj	_	_	생산/ncpa+양식/ncn+을/jco
+6	추가할	추가+하+ㄹ	VERB	_	0	root	_	_	추가/ncpa+하/xsv+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	있다	있+다	ADJ	_	6	aux	_	_	있/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 맑스는 부르조아적 생산양식 즉 , 자본주의적 생산관계를 , 상품생산을 사회적 생산과정의 최후의 적대적 형태로 파악한다 .
+1	맑스는	맑스+는	PROPN	_	15	dislocated	_	_	맑스/nq+는/jxt
+2	부르조아적	부르조아+적	NOUN	_	3	amod	_	_	부르조아/ncn+적/xsn
+3	생산양식	생산+양식	NOUN	_	7	conj	_	_	생산/ncpa+양식/ncn
+4	즉	즉	CCONJ	_	5	cc	_	_	즉/maj
+5	,	,	PUNCT	_	3	punct	_	_	,/sp
+6	자본주의적	자본주의+적	NOUN	_	7	amod	_	_	자본주의/ncn+적/xsn
+7	생산관계를	생산+관계+를	NOUN	_	9	dep	_	_	생산/ncpa+관계/ncpa+를/jco
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	상품생산을	상품+생산+을	NOUN	_	15	obj	_	_	상품/ncn+생산/ncpa+을/jco
+10	사회적	사회+적	NOUN	_	11	amod	_	_	사회/ncn+적/xsn
+11	생산과정의	생산+과정+의	NOUN	_	14	nmod	_	_	생산/ncpa+과정/ncn+의/jcm
+12	최후의	최후+의	NOUN	_	14	nmod	_	_	최후/ncn+의/jcm
+13	적대적	적대+적	NOUN	_	14	amod	_	_	적대/ncpa+적/xsn
+14	형태로	형태+로	ADV	_	15	advcl	_	_	형태/ncn+로/jca
+15	파악한다	파악+하+ㄴ다	VERB	_	0	root	_	_	파악/ncpa+하/xsv+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 왜냐하면 맑스에게 있어서 이러한 연구의 본질적 목적은 세걔를 다양하게 해석하는 일이 아니라 세계를 변혁하는 데 있었기 때문이다 .
+1	왜냐하면	왜냐하면	CCONJ	_	16	cc	_	_	왜냐하면/maj
+2	맑스에게	맑스+에게	ADV	_	3	iobj	_	_	맑스/nq+에게/jca
+3	있어서	있+어서	SCONJ	_	16	xcomp	_	_	있/paa+어서/ecs
+4	이러한	이러하+ㄴ	VERB	_	5	amod	_	_	이러하/pad+ㄴ/etm
+5	연구의	연구+의	NOUN	_	7	nmod	_	_	연구/ncpa+의/jcm
+6	본질적	본질+적	NOUN	_	7	amod	_	_	본질/ncn+적/xsn
+7	목적은	목적+은	NOUN	_	16	dislocated	_	_	목적/ncn+은/jxt
+8	세걔를	세계+를	NOUN	_	10	obj	_	_	세계/ncn+를/jco
+9	다양하게	다양+하+게	SCONJ	_	10	xcomp	_	_	다양/ncps+하/xsm+게/ecs
+10	해석하는	해석+하+는	VERB	_	11	acl	_	_	해석/ncpa+하/xsv+는/etm
+11	일이	일+이	NOUN	_	12	nsubj	_	_	일/ncn+이/jcs
+12	아니라	아니+라	SCONJ	_	16	xcomp	_	_	아니/paa+라/ecs
+13	세계를	세계+를	NOUN	_	14	obj	_	_	세계/ncn+를/jco
+14	변혁하는	변혁+하+는	VERB	_	15	acl	_	_	변혁/ncpa+하/xsv+는/etm
+15	데	데	NOUN	_	16	mark	_	_	데/nbn
+16	있었기	있+었+기	ADJ	_	0	root	_	_	있/paa+었/ep+기/etn
+17	때문이다	때문+이+다	VERB	_	16	aux	_	_	때문/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 레닌 역시 이러한 문제의식에 대하여 정확히 이해하였다 .
+1	레닌	레닌	PROPN	_	2	dep	_	_	레닌/nq
+2	역시	역시	ADV	_	7	advmod	_	_	역시/mag
+3	이러한	이러하+ㄴ	VERB	_	4	amod	_	_	이러하/pad+ㄴ/etm
+4	문제의식에	문제+의식+에	ADV	_	5	obl	_	_	문제/ncn+의식/ncpa+에/jca
+5	대하여	대하+어	SCONJ	_	7	ccomp	_	_	대하/pvg+어/ecs
+6	정확히	정확+히	ADV	_	7	advmod	_	_	정확/ncps+히/xsa
+7	이해하였다	이해+하+었+다	VERB	_	0	root	_	_	이해/ncpa+하/xsv+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그러나 정작 문제는 다음에 있다 .
+1	그러나	그러나	CCONJ	_	5	cc	_	_	그러나/maj
+2	정작	정작	ADV	_	5	advmod	_	_	정작/mag
+3	문제는	문제+는	NOUN	_	5	dislocated	_	_	문제/ncn+는/jxt
+4	다음에	다음+에	ADV	_	5	obl	_	_	다음/ncn+에/jca
+5	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 이 저서의 역사적 의의는 당시 러시아의 주된 사회운동세력이었던 소부르조아 정치세력인 나로드니즘과 이론투쟁 가운데서 쓰여진 것이란 데 있다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	저서의	저서+의	NOUN	_	4	nmod	_	_	저서/ncn+의/jcm
+3	역사적	역사+적	NOUN	_	4	amod	_	_	역사/ncn+적/xsn
+4	의의는	의의+는	NOUN	_	17	dislocated	_	_	의의/ncn+는/jxt
+5	당시	당시	NOUN	_	8	advmod	_	_	당시/ncn
+6	러시아의	러시아+의	PROPN	_	8	nmod	_	_	러시아/nq+의/jcm
+7	주된	주되+ㄴ	VERB	_	8	acl	_	_	주되/pvg+ㄴ/etm
+8	사회운동세력이었던	사회+운동+세력+이+었+던	VERB	_	11	acl	_	_	사회/ncn+운동/ncpa+세력/ncn+이/jp+었/ep+던/etm
+9	소부르조아	소부르조아	PROPN	_	10	compound	_	_	소부르조아/nq
+10	정치세력인	정치+세력+이+ㄴ	VERB	_	11	acl	_	_	정치/ncpa+세력/ncn+이/jp+ㄴ/etm
+11	나로드니즘과	나로드니즘+과	CCONJ	_	12	conj	_	_	나로드니즘/nq+과/jcj
+12	이론투쟁	이론+투쟁	NOUN	_	13	compound	_	_	이론/ncn+투쟁/ncpa
+13	가운데서	가운데+서	ADV	_	14	advcl	_	_	가운데/ncn+서/jca
+14	쓰여진	쓰이+어+지+ㄴ	AUX	_	16	acl	_	_	쓰이/pvg+어/ecx+지/px+ㄴ/etm
+15	것이란	것+이+란	VERB	_	14	aux	_	_	것/nbn+이/jp+란/etm
+16	데	데	NOUN	_	17	mark	_	_	데/nbn
+17	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그들은 맑스의 저작을 읽었으되 그것을 관념론적으로 파악하여 러시아 사회발전에 대한 완전한 몰이해를 대변하였다 .
+1	그들은	그+들+은	PRON	_	13	dislocated	_	_	그/npp+들/xsn+은/jxt
+2	맑스의	맑스+의	PROPN	_	3	nmod	_	_	맑스/nq+의/jcm
+3	저작을	저작+을	NOUN	_	4	obj	_	_	저작/ncn+을/jco
+4	읽었으되	읽+었+으되	SCONJ	_	7	ccomp	_	_	읽/pvg+었/ep+으되/ecs
+5	그것을	그것+을	PRON	_	7	obj	_	_	그것/npd+을/jco
+6	관념론적으로	관념론+적+으로	ADV	_	7	advcl	_	_	관념론/ncn+적/xsn+으로/jca
+7	파악하여	파악+하+어	SCONJ	_	13	ccomp	_	_	파악/ncpa+하/xsv+어/ecs
+8	러시아	러시아	PROPN	_	9	compound	_	_	러시아/nq
+9	사회발전에	사회+발전+에	ADV	_	10	obl	_	_	사회/ncn+발전/ncpa+에/jca
+10	대한	대하+ㄴ	VERB	_	12	acl	_	_	대하/pvg+ㄴ/etm
+11	완전한	완전+하+ㄴ	VERB	_	12	amod	_	_	완전/ncps+하/xsm+ㄴ/etm
+12	몰이해를	몰이해+를	NOUN	_	13	obj	_	_	몰이해/ncpa+를/jco
+13	대변하였다	대변+하+었+다	VERB	_	0	root	_	_	대변/ncpa+하/xsv+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 특히 러시아가 자본주의적 발전을 겪지 않고도 사회주의로 나아갈 수 있다는 그들의 생각은 역사적 유물론과 도저히 화해할 수 없는 종류의 것이었다 .
+1	특히	특히	ADV	_	20	advmod	_	_	특히/mag
+2	러시아가	러시아+가	PROPN	_	8	nsubj	_	_	러시아/nq+가/jcs
+3	자본주의적	자본주의+적	NOUN	_	4	amod	_	_	자본주의/ncn+적/xsn
+4	발전을	발전+을	NOUN	_	5	obj	_	_	발전/ncpa+을/jco
+5	겪지	겪+지	VERB	_	8	ccomp	_	_	겪/pvg+지/ecx
+6	않고도	않+고+도	ADV	_	5	aux	_	_	않/px+고/ecc+도/jxc
+7	사회주의로	사회주의+로	ADV	_	8	advcl	_	_	사회주의/ncn+로/jca
+8	나아갈	나아가+ㄹ	VERB	_	12	acl	_	_	나아가/pvg+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	있다는	있+다는	ADJ	_	8	aux	_	_	있/paa+다는/etm
+11	그들의	그+들+의	PRON	_	12	nmod	_	_	그/npp+들/xsn+의/jcm
+12	생각은	생각+은	NOUN	_	20	dislocated	_	_	생각/ncpa+은/jxt
+13	역사적	역사+적	NOUN	_	14	amod	_	_	역사/ncn+적/xsn
+14	유물론과	유물론+과	CCONJ	_	16	conj	_	_	유물론/ncn+과/jct
+15	도저히	도저히	ADV	_	16	advmod	_	_	도저히/mag
+16	화해할	화해+하+ㄹ	VERB	_	19	acl	_	_	화해/ncpa+하/xsv+ㄹ/etm
+17	수	수	NOUN	_	18	fixed	_	_	수/nbn
+18	없는	없+는	ADJ	_	16	aux	_	_	없/paa+는/etm
+19	종류의	종류+의	NOUN	_	20	nmod	_	_	종류/ncn+의/jcm
+20	것이었다	것+이+었+다	VERB	_	0	root	_	_	것/nbn+이/jp+었/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 이러한 소부르조아의 사상은 얼굴을 달리하며 재생산되어진다 .
+1	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+2	소부르조아의	소부르조아+의	PROPN	_	3	nmod	_	_	소부르조아/nq+의/jcm
+3	사상은	사상+은	NOUN	_	6	dislocated	_	_	사상/ncn+은/jxt
+4	얼굴을	얼굴+을	NOUN	_	5	obj	_	_	얼굴/ncn+을/jco
+5	달리하며	달리하+며	CCONJ	_	6	conj	_	_	달리하/pvg+며/ecc
+6	재생산되어진다	재생산+되+어+지+ㄴ다	AUX	_	0	root	_	_	재생산/ncpa+되/xsv+어/ecx+지/px+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 남한사회의 정치운동의 현실 역시 예외일 수 없다 .
+1	남한사회의	남한+사회+의	PROPN	_	2	nmod	_	_	남한/nq+사회/ncn+의/jcm
+2	정치운동의	정치+운동+의	NOUN	_	3	nmod	_	_	정치/ncpa+운동/ncpa+의/jcm
+3	현실	현실	NOUN	_	4	dep	_	_	현실/ncn
+4	역시	역시	ADV	_	5	advmod	_	_	역시/mag
+5	예외일	예외+이+ㄹ	VERB	_	0	root	_	_	예외/ncn+이/jp+ㄹ/etm
+6	수	수	NOUN	_	7	fixed	_	_	수/nbn
+7	없다	없+다	ADJ	_	5	aux	_	_	없/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그들은 맑스와 레닌을 얘기하지만 역사적 유물론을 수미일관되게 적용하지 않는다 .
+1	그들은	그+들+은	PRON	_	8	dislocated	_	_	그/npp+들/xsn+은/jxt
+2	맑스와	맑스+와	CCONJ	_	3	conj	_	_	맑스/nq+와/jcj
+3	레닌을	레닌+을	PROPN	_	4	obj	_	_	레닌/nq+을/jco
+4	얘기하지만	얘기+하+지만	SCONJ	_	8	ccomp	_	_	얘기/ncpa+하/xsv+지만/ecs
+5	역사적	역사+적	NOUN	_	6	amod	_	_	역사/ncn+적/xsn
+6	유물론을	유물론+을	NOUN	_	8	obj	_	_	유물론/ncn+을/jco
+7	수미일관되게	수미+일관+되+게	SCONJ	_	8	ccomp	_	_	수미/ncn+일관/ncpa+되/xsv+게/ecs
+8	적용하지	적용+하+지	VERB	_	0	root	_	_	적용/ncpa+하/xsv+지/ecx
+9	않는다	않+는다	AUX	_	8	aux	_	_	않/px+는다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러한 세력의 이론적 영향으로부터 서둘러 벗어나는 일 , 남한 노동운동의 시급한 과제이다 .
+1	그러한	그러하+ㄴ	VERB	_	4	amod	_	_	그러하/pad+ㄴ/etm
+2	세력의	세력+의	NOUN	_	4	nmod	_	_	세력/ncn+의/jcm
+3	이론적	이론+적	NOUN	_	4	amod	_	_	이론/ncn+적/xsn
+4	영향으로부터	영향+으로+부터	ADV	_	6	advcl	_	_	영향/ncn+으로/jca+부터/jxc
+5	서둘러	서둘러	ADV	_	6	advmod	_	_	서둘러/mag
+6	벗어나는	벗어나+는	VERB	_	7	acl	_	_	벗어나/pvg+는/etm
+7	일	일	NOUN	_	12	compound	_	_	일/ncn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	남한	남한	PROPN	_	10	compound	_	_	남한/nq
+10	노동운동의	노동+운동+의	NOUN	_	12	nmod	_	_	노동/ncpa+운동/ncpa+의/jcm
+11	시급한	시급하+ㄴ	ADJ	_	12	amod	_	_	시급하/paa+ㄴ/etm
+12	과제이다	과제+이+다	VERB	_	0	root	_	_	과제/ncn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 마지막으로 이 절을 총괄하는 의미에서 유물론적으로 역사를 파악하는 맑스의 관점이 인류의 지성사를 어떻게 바꾸었는가에 대해 레닌을 인용하기로 하자 .
+1	마지막으로	마지막+으로	ADV	_	18	advcl	_	_	마지막/ncn+으로/jca
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	절을	절+을	NOUN	_	4	obj	_	_	절/nbu+을/jco
+4	총괄하는	총괄+하+는	VERB	_	5	acl	_	_	총괄/ncpa+하/xsv+는/etm
+5	의미에서	의미+에서	ADV	_	18	advcl	_	_	의미/ncpa+에서/jca
+6	유물론적으로	유물론+적+으로	ADV	_	8	advcl	_	_	유물론/ncn+적/xsn+으로/jca
+7	역사를	역사+를	NOUN	_	8	obj	_	_	역사/ncn+를/jco
+8	파악하는	파악+하+는	VERB	_	10	acl	_	_	파악/ncpa+하/xsv+는/etm
+9	맑스의	맑스+의	PROPN	_	10	nmod	_	_	맑스/nq+의/jcm
+10	관점이	관점+이	NOUN	_	14	nsubj	_	_	관점/ncn+이/jcs
+11	인류의	인류+의	NOUN	_	12	nmod	_	_	인류/ncn+의/jcm
+12	지성사를	지성사+를	NOUN	_	14	obj	_	_	지성사/ncn+를/jco
+13	어떻게	어떻+게	SCONJ	_	14	xcomp	_	_	어떻/pad+게/ecs
+14	바꾸었는가에	바꾸+었+는가+에	ADV	_	15	obl	_	_	바꾸/pvg+었/ep+는가/ef+에/jca
+15	대해	대하+어	SCONJ	_	17	conj	_	_	대하/pvg+어/ecs
+16	레닌을	레닌+을	PROPN	_	17	obj	_	_	레닌/nq+을/jco
+17	인용하기로	인용+하+기+로	ADV	_	18	advcl	_	_	인용/ncpa+하/xsv+기/etn+로/jca
+18	하자	하+자	VERB	_	0	root	_	_	하/pvg+자/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 사회적 관계들 , 체계의 발전을 지배하는 객관적인 합법칙성을 파악할 수도 없어 그들의 사회적 관계의 근원이 물질적 생산의 발전정도에 있다는 사실을 간과해버렸다 .
+1	사회적	사회+적	NOUN	_	2	amod	_	_	사회/ncn+적/xsn
+2	관계들	관계+들	NOUN	_	8	dep	_	_	관계/ncpa+들/xsn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	체계의	체계+의	NOUN	_	5	nmod	_	_	체계/ncn+의/jcm
+5	발전을	발전+을	NOUN	_	6	obj	_	_	발전/ncpa+을/jco
+6	지배하는	지배+하+는	VERB	_	8	acl	_	_	지배/ncpa+하/xsv+는/etm
+7	객관적인	객관+적+이+ㄴ	VERB	_	8	acl	_	_	객관/ncn+적/xsn+이/jp+ㄴ/etm
+8	합법칙성을	합법칙성+을	NOUN	_	9	obj	_	_	합법칙성/ncn+을/jco
+9	파악할	파악+하+ㄹ	VERB	_	21	ccomp	_	_	파악/ncpa+하/xsv+ㄹ/etm
+10	수도	수+도	ADV	_	11	fixed	_	_	수/nbn+도/jxc
+11	없어	없+어	SCONJ	_	9	aux	_	_	없/paa+어/ecs
+12	그들의	그+들+의	PRON	_	14	nmod	_	_	그/npp+들/xsn+의/jcm
+13	사회적	사회+적	NOUN	_	14	amod	_	_	사회/ncn+적/xsn
+14	관계의	관계+의	NOUN	_	15	nmod	_	_	관계/ncpa+의/jcm
+15	근원이	근원+이	NOUN	_	19	nsubj	_	_	근원/ncn+이/jcs
+16	물질적	물질+적	NOUN	_	17	amod	_	_	물질/ncn+적/xsn
+17	생산의	생산+의	NOUN	_	18	nmod	_	_	생산/ncpa+의/jcm
+18	발전정도에	발전+정도+에	ADV	_	19	obl	_	_	발전/ncpa+정도/ncn+에/jca
+19	있다는	있+다는	ADJ	_	20	amod	_	_	있/paa+다는/etm
+20	사실을	사실+을	NOUN	_	21	obj	_	_	사실/ncn+을/jco
+21	간과해버렸다	간과+하+어+버리+었+다	AUX	_	0	root	_	_	간과/ncpa+하/xsv+어/ecx+버리/px+었/ep+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 이에 반해 사적 유물론은 대중의 사회적 생활조건들과 이들 조건의 변화를 자연사적인 정확성을 가지고 연구하는 일을 비로소 가능하게 하였다 .
+1	이에	이+에	ADV	_	2	obl	_	_	이/npd+에/jca
+2	반해	반하+어	SCONJ	_	17	conj	_	_	반하/pvg+어/ecs
+3	사적	사+적	NOUN	_	4	amod	_	_	사/ncn+적/xsn
+4	유물론은	유물론+은	NOUN	_	17	dislocated	_	_	유물론/ncn+은/jxt
+5	대중의	대중+의	NOUN	_	7	nmod	_	_	대중/ncn+의/jcm
+6	사회적	사회+적	NOUN	_	7	amod	_	_	사회/ncn+적/xsn
+7	생활조건들과	생활+조건+들+과	CCONJ	_	10	conj	_	_	생활/ncpa+조건/ncn+들/xsn+과/jcj
+8	이들	이+들	NOUN	_	9	compound	_	_	이/npd+들/xsn
+9	조건의	조건+의	NOUN	_	10	nmod	_	_	조건/ncn+의/jcm
+10	변화를	변화+를	NOUN	_	14	obj	_	_	변화/ncpa+를/jco
+11	자연사적인	자연사+적+이+ㄴ	VERB	_	12	acl	_	_	자연사/ncn+적/xsn+이/jp+ㄴ/etm
+12	정확성을	정확성+을	NOUN	_	13	obj	_	_	정확성/ncn+을/jco
+13	가지고	가지+고	CCONJ	_	14	conj	_	_	가지/pvg+고/ecc
+14	연구하는	연구+하+는	VERB	_	15	acl	_	_	연구/ncpa+하/xsv+는/etm
+15	일을	일+을	NOUN	_	17	obj	_	_	일/ncn+을/jco
+16	비로소	비로소	ADV	_	17	advmod	_	_	비로소/mag
+17	가능하게	가능+하+게	VERB	_	0	root	_	_	가능/ncps+하/xsm+게/ecx
+18	하였다	하+었+다	AUX	_	17	aux	_	_	하/px+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 맑스주의는 모든 서로 항쟁하는 경향들의 총체를 고찰하고 그것들을 여러 사회계급의 정확히 규정할 수 있는 생활조건 및 생산조건에 귀착시킨다 .
+1	맑스주의는	맑스주의+는	NOUN	_	18	dislocated	_	_	맑스주의/ncn+는/jxt
+2	모든	모든	ADJ	_	5	amod	_	_	모든/mma
+3	서로	서로	ADV	_	4	advmod	_	_	서로/mag
+4	항쟁하는	항쟁+하+는	VERB	_	5	acl	_	_	항쟁/ncpa+하/xsv+는/etm
+5	경향들의	경향+들+의	NOUN	_	6	nmod	_	_	경향/ncn+들/xsn+의/jcm
+6	총체를	총체+를	NOUN	_	7	obj	_	_	총체/ncn+를/jco
+7	고찰하고	고찰+하+고	CCONJ	_	18	conj	_	_	고찰/ncpa+하/xsv+고/ecc
+8	그것들을	그것+들+을	PRON	_	18	obj	_	_	그것/npd+들/xsn+을/jco
+9	여러	여러	ADJ	_	10	amod	_	_	여러/mma
+10	사회계급의	사회+계급+의	NOUN	_	17	nmod	_	_	사회/ncn+계급/ncn+의/jcm
+11	정확히	정확+히	ADV	_	12	advmod	_	_	정확/ncps+히/xsa
+12	규정할	규정+하+ㄹ	VERB	_	17	acl	_	_	규정/ncpa+하/xsv+ㄹ/etm
+13	수	수	NOUN	_	14	fixed	_	_	수/nbn
+14	있는	있+는	ADJ	_	12	aux	_	_	있/paa+는/etm
+15	생활조건	생활+조건	NOUN	_	17	conj	_	_	생활/ncpa+조건/ncn
+16	및	및	CCONJ	_	17	cc	_	_	및/maj
+17	생산조건에	생산+조건+에	ADV	_	18	obl	_	_	생산/ncpa+조건/ncn+에/jca
+18	귀착시킨다	귀착+시키+ㄴ다	VERB	_	0	root	_	_	귀착/ncpa+시키/xsv+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 보통의 저술에서는 이행기를 먼저 서술하고 공산주의의 두가지 국면을 시간상의 순서로 나중에 얘기하지만 우리는 그 반대로 할 것이다 .
+1	보통의	보통+의	NOUN	_	2	nmod	_	_	보통/ncn+의/jcm
+2	저술에서는	저술+에서+는	NOUN	_	5	dislocated	_	_	저술/ncpa+에서/jca+는/jxt
+3	이행기를	이행기+를	NOUN	_	5	obj	_	_	이행기/ncn+를/jco
+4	먼저	먼저	ADV	_	5	advmod	_	_	먼저/mag
+5	서술하고	서술+하+고	CCONJ	_	12	conj	_	_	서술/ncpa+하/xsv+고/ecc
+6	공산주의의	공산주의+의	NOUN	_	8	nmod	_	_	공산주의/ncn+의/jcm
+7	두가지	두+가지	NOUN	_	8	compound	_	_	두/nnc+가지/nbu
+8	국면을	국면+을	NOUN	_	12	obj	_	_	국면/ncn+을/jco
+9	시간상의	시간+상+의	NOUN	_	10	nmod	_	_	시간/ncn+상/ncn+의/jcm
+10	순서로	순서+로	ADV	_	12	advcl	_	_	순서/ncn+로/jca
+11	나중에	나중+에	ADV	_	12	obl	_	_	나중/ncn+에/jca
+12	얘기하지만	얘기+하+지만	SCONJ	_	16	ccomp	_	_	얘기/ncpa+하/xsv+지만/ecs
+13	우리는	우리+는	PRON	_	16	dislocated	_	_	우리/npp+는/jxt
+14	그	그	DET	_	15	det	_	_	그/mmd
+15	반대로	반대+로	ADV	_	16	advcl	_	_	반대/ncpa+로/jca
+16	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+17	것이다	것+이+다	VERB	_	16	aux	_	_	것/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 물론 서술상의 순서 문제가 큰 차이를 낳는 것은 아니다 .
+1	물론	물론	ADV	_	9	advmod	_	_	물론/mag
+2	서술상의	서술+상+의	NOUN	_	3	nmod	_	_	서술/ncpa+상/ncn+의/jcm
+3	순서	순서	NOUN	_	4	compound	_	_	순서/ncn
+4	문제가	문제+가	NOUN	_	7	nsubj	_	_	문제/ncn+가/jcs
+5	큰	크+ㄴ	ADJ	_	6	amod	_	_	크/paa+ㄴ/etm
+6	차이를	차이+를	NOUN	_	7	obj	_	_	차이/ncn+를/jco
+7	낳는	낳+는	VERB	_	8	acl	_	_	낳/pvg+는/etm
+8	것은	것+은	NOUN	_	9	dislocated	_	_	것/nbn+은/jxt
+9	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러므로 1917년 10월 사회주의 혁명 이후에 이행기를 둘러싸고 전개될 수 있는 문제이다 .
+1	그러므로	그러므로	CCONJ	_	12	cc	_	_	그러므로/maj
+2	1917년	1917+년	NOUN	_	3	compound	_	_	1917/nno+년/nbu
+3	10월	10+월	NOUN	_	5	compound	_	_	10/nno+월/nbu
+4	사회주의	사회주의	NOUN	_	5	compound	_	_	사회주의/ncn
+5	혁명	혁명	NOUN	_	6	compound	_	_	혁명/ncpa
+6	이후에	이후+에	ADV	_	9	obl	_	_	이후/ncn+에/jca
+7	이행기를	이행기+를	NOUN	_	8	obj	_	_	이행기/ncn+를/jco
+8	둘러싸고	둘러싸+고	CCONJ	_	9	conj	_	_	둘러싸/pvg+고/ecc
+9	전개될	전개+되+ㄹ	VERB	_	10	acl	_	_	전개/ncpa+되/xsv+ㄹ/etm
+10	수	수	NOUN	_	11	mark	_	_	수/nbn
+11	있는	있+는	ADJ	_	12	amod	_	_	있/paa+는/etm
+12	문제이다	문제+이+다	VERB	_	0	root	_	_	문제/ncn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 따라서 역사적 자료와 스탈린주의 및 기회주의 사상과의 이론투쟁이 요구된다는 사실로 미루어 많은 지면을 할애하기 위해 뒤로 미룬 것이다 .
+1	따라서	따라서	CCONJ	_	18	cc	_	_	따라서/maj
+2	역사적	역사+적	NOUN	_	3	amod	_	_	역사/ncn+적/xsn
+3	자료와	자료+와	CCONJ	_	10	conj	_	_	자료/ncn+와/jcj
+4	스탈린주의	스탈린주의	NOUN	_	7	conj	_	_	스탈린주의/ncn
+5	및	및	CCONJ	_	7	cc	_	_	및/maj
+6	기회주의	기회주의	NOUN	_	7	compound	_	_	기회주의/ncn
+7	사상과의	사상+과+의	NOUN	_	8	nmod	_	_	사상/ncn+과/jct+의/jcm
+8	이론투쟁이	이론+투쟁+이	NOUN	_	9	csubj	_	_	이론/ncn+투쟁/ncpa+이/jcc
+9	요구된다는	요구+되+ㄴ다는	VERB	_	10	acl	_	_	요구/ncpa+되/xsv+ㄴ다는/etm
+10	사실로	사실+로	ADV	_	11	advcl	_	_	사실/ncn+로/jca
+11	미루어	미루+어	SCONJ	_	17	ccomp	_	_	미루/pvg+어/ecs
+12	많은	많+ㄴ	ADJ	_	13	amod	_	_	많/paa+ㄴ/etm
+13	지면을	지면+을	NOUN	_	14	obj	_	_	지면/ncn+을/jco
+14	할애하기	할애+하+기	VERB	_	15	nmod	_	_	할애/ncpa+하/xsv+기/etn
+15	위해	위하+어	SCONJ	_	17	ccomp	_	_	위하/pvg+어/ecs
+16	뒤로	뒤+로	ADV	_	17	advcl	_	_	뒤/ncn+로/jca
+17	미룬	미루+ㄴ	VERB	_	18	ccomp	_	_	미루/pvg+ㄴ/etm
+18	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이러한 생산의 사회화는 모든 생산수단을 사회적 소유로 전화시키으로써 달성되는데 그 출발점은 국유화의 형태로 시작된다 .
+1	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+2	생산의	생산+의	NOUN	_	3	nmod	_	_	생산/ncpa+의/jcm
+3	사회화는	사회화+는	NOUN	_	9	dislocated	_	_	사회화/ncn+는/jxt
+4	모든	모든	ADJ	_	5	amod	_	_	모든/mma
+5	생산수단을	생산+수단+을	NOUN	_	8	obj	_	_	생산/ncpa+수단/ncn+을/jco
+6	사회적	사회+적	NOUN	_	7	amod	_	_	사회/ncn+적/xsn
+7	소유로	소유+로	ADV	_	8	advcl	_	_	소유/ncpa+로/jca
+8	전화시키으로써	전화+시키+ㅁ+으로써	ADV	_	9	advcl	_	_	전화/ncpa+시키/xsv+ㅁ/etn+으로써/jca
+9	달성되는데	달성+되+는데	SCONJ	_	14	ccomp	_	_	달성/ncpa+되/xsv+는데/ecs
+10	그	그	DET	_	11	det	_	_	그/mmd
+11	출발점은	출발+점+은	NOUN	_	14	dislocated	_	_	출발/ncpa+점/ncn+은/jxt
+12	국유화의	국유화+의	PROPN	_	13	nmod	_	_	국유화/nq+의/jcm
+13	형태로	형태+로	ADV	_	14	advcl	_	_	형태/ncn+로/jca
+14	시작된다	시작+되+ㄴ다	VERB	_	0	root	_	_	시작/ncpa+되/xsv+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 생산은 단일한 사회적 생산이며 , 당연히 계급의 소멸을 전제하고 , 이론적으로 도시와 농촌의 분업은 폐지됨을 상정할 수 있다 .
+1	생산은	생산+은	NOUN	_	9	dislocated	_	_	생산/ncpa+은/jxt
+2	단일한	단일+하+ㄴ	VERB	_	4	amod	_	_	단일/ncps+하/xsm+ㄴ/etm
+3	사회적	사회+적	NOUN	_	4	amod	_	_	사회/ncn+적/xsn
+4	생산이며	생산+이+며	CCONJ	_	9	conj	_	_	생산/ncpa+이/jp+며/ecc
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	당연히	당연+히	ADV	_	9	advmod	_	_	당연/ncps+히/xsa
+7	계급의	계급+의	NOUN	_	8	nmod	_	_	계급/ncn+의/jcm
+8	소멸을	소멸+을	NOUN	_	9	obj	_	_	소멸/ncpa+을/jco
+9	전제하고	전제+하+고	CCONJ	_	16	conj	_	_	전제/ncpa+하/xsv+고/ecc
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	이론적으로	이론+적+으로	ADV	_	15	advcl	_	_	이론/ncn+적/xsn+으로/jca
+12	도시와	도시+와	CCONJ	_	13	conj	_	_	도시/ncn+와/jcj
+13	농촌의	농촌+의	NOUN	_	14	nmod	_	_	농촌/ncn+의/jcm
+14	분업은	분업+은	NOUN	_	15	dislocated	_	_	분업/ncpa+은/jxt
+15	폐지됨을	폐지+되+ㅁ+을	NOUN	_	16	obj	_	_	폐지/ncpa+되/xsv+ㅁ/etn+을/jco
+16	상정할	상정+하+ㄹ	VERB	_	0	root	_	_	상정/ncpa+하/xsv+ㄹ/etm
+17	수	수	NOUN	_	18	fixed	_	_	수/nbn
+18	있다	있+다	ADJ	_	16	aux	_	_	있/paa+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 상술한 내용은 국가문제와도 매우 밀접한 관련을 맺기에 다시 언급할 기회를 가질 것이다 .
+1	상술한	상술+하+ㄴ	VERB	_	2	acl	_	_	상술/ncpa+하/xsv+ㄴ/etm
+2	내용은	내용+은	NOUN	_	7	dislocated	_	_	내용/ncn+은/jxt
+3	국가문제와도	국가+문제+와도	ADV	_	7	advcl	_	_	국가/ncn+문제/ncn+와도/jxc
+4	매우	매우	ADV	_	5	advmod	_	_	매우/mag
+5	밀접한	밀접+하+ㄴ	VERB	_	6	amod	_	_	밀접/ncps+하/xsm+ㄴ/etm
+6	관련을	관련+을	NOUN	_	7	obj	_	_	관련/ncpa+을/jco
+7	맺기에	맺+기+에	ADV	_	11	obl	_	_	맺/pvg+기/etn+에/jca
+8	다시	다시	ADV	_	9	advmod	_	_	다시/mag
+9	언급할	언급+하+ㄹ	VERB	_	10	acl	_	_	언급/ncpa+하/xsv+ㄹ/etm
+10	기회를	기회+를	NOUN	_	11	obj	_	_	기회/ncn+를/jco
+11	가질	가지+ㄹ	VERB	_	0	root	_	_	가지/pvg+ㄹ/etm
+12	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 잘 알려진대로 공산주의의 두가지 국면의 공통점과 차이점을 묘사한 이후에 맑스는 다음과 같이 말하였다 .
+1	잘	잘	ADV	_	2	advmod	_	_	잘/mag
+2	알려진대로	알리+어+지+ㄴ대로	SCONJ	_	13	ccomp	_	_	알리/pvg+어/ecx+지/px+ㄴ대로/ecs
+3	공산주의의	공산주의+의	NOUN	_	5	nmod	_	_	공산주의/ncn+의/jcm
+4	두가지	두+가지	NOUN	_	5	compound	_	_	두/nnc+가지/nbn
+5	국면의	국면+의	NOUN	_	7	nmod	_	_	국면/ncn+의/jcm
+6	공통점과	공통점+과	CCONJ	_	7	conj	_	_	공통점/ncn+과/jcj
+7	차이점을	차이점+을	NOUN	_	8	obj	_	_	차이점/ncn+을/jco
+8	묘사한	묘사+하+ㄴ	VERB	_	9	acl	_	_	묘사/ncpa+하/xsv+ㄴ/etm
+9	이후에	이후+에	ADV	_	13	obl	_	_	이후/ncn+에/jca
+10	맑스는	맑스+는	PROPN	_	13	dislocated	_	_	맑스/nq+는/jxt
+11	다음과	다음+과	CCONJ	_	12	conj	_	_	다음/ncn+과/jct
+12	같이	같+이	SCONJ	_	13	xcomp	_	_	같/paa+이/ecs
+13	말하였다	말하+었+다	VERB	_	0	root	_	_	말하/pvg+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 소비재의 분배는 언제나 생산조건 그 자체의 분배 결과일 뿐이다 .
+1	소비재의	소비재+의	NOUN	_	2	nmod	_	_	소비재/ncn+의/jcm
+2	분배는	분배+는	NOUN	_	8	dislocated	_	_	분배/ncpa+는/jxt
+3	언제나	언제나	ADV	_	8	advmod	_	_	언제나/mag
+4	생산조건	생산+조건	NOUN	_	6	compound	_	_	생산/ncpa+조건/ncn
+5	그	그	DET	_	6	det	_	_	그/mmd
+6	자체의	자체+의	NOUN	_	7	nmod	_	_	자체/ncn+의/jcm
+7	분배	분배	NOUN	_	8	compound	_	_	분배/ncn
+8	결과일	결과+이+ㄹ	VERB	_	0	root	_	_	결과/ncpa+이/jp+ㄹ/etm
+9	뿐이다	뿐+이+다	VERB	_	8	aux	_	_	뿐/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그런데 그 생산조견의 분배는 바로 생산양식 그 자체의 특성이다 .
+1	그런데	그런데	CCONJ	_	9	cc	_	_	그런데/maj
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	생산조견의	생산+조견+의	NOUN	_	4	nmod	_	_	생산/ncpa+조견/ncn+의/jcm
+4	분배는	분배+는	NOUN	_	9	dislocated	_	_	분배/ncpa+는/jxt
+5	바로	바로	ADV	_	8	advmod	_	_	바로/mag
+6	생산양식	생산+양식	NOUN	_	8	compound	_	_	생산/ncpa+양식/ncn
+7	그	그	DET	_	8	det	_	_	그/mmd
+8	자체의	자체+의	NOUN	_	9	nmod	_	_	자체/ncn+의/jcm
+9	특성이다	특성+이+다	VERB	_	0	root	_	_	특성/ncn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 생산요소들이 이렇게 분배되면 결국 오늘날과 같은 소비재의 분배가 저절로 발생한다 .
+1	생산요소들이	생산+요소+들+이	NOUN	_	3	nsubj	_	_	생산/ncpa+요소/ncn+들/xsn+이/jcs
+2	이렇게	이렇+게	SCONJ	_	3	xcomp	_	_	이렇/pad+게/ecs
+3	분배되면	분배+되+면	SCONJ	_	10	ccomp	_	_	분배/ncpa+되/xsv+면/ecs
+4	결국	결국	ADV	_	10	advmod	_	_	결국/mag
+5	오늘날과	오늘날+과	CCONJ	_	6	conj	_	_	오늘날/ncn+과/jct
+6	같은	같+ㄴ	ADJ	_	8	amod	_	_	같/paa+ㄴ/etm
+7	소비재의	소비재+의	NOUN	_	8	nmod	_	_	소비재/ncn+의/jcm
+8	분배가	분배+가	NOUN	_	10	nsubj	_	_	분배/ncpa+가/jcs
+9	저절로	저절로	ADV	_	10	advmod	_	_	저절로/mag
+10	발생한다	발생+하+ㄴ다	VERB	_	0	root	_	_	발생/ncpa+하/xsv+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그러나 진정한 관계가 오래전에 이미 해명되었는데 무엇 때문에 뒤로 되돌아간단 말인가 .
+1	그러나	그러나	CCONJ	_	11	cc	_	_	그러나/maj
+2	진정한	진정+하+ㄴ	VERB	_	3	amod	_	_	진정/ncps+하/xsm+ㄴ/etm
+3	관계가	관계+가	NOUN	_	6	nsubj	_	_	관계/ncpa+가/jcs
+4	오래전에	오래전+에	ADV	_	6	obl	_	_	오래전/ncn+에/jca
+5	이미	이미	ADV	_	6	advmod	_	_	이미/mag
+6	해명되었는데	해명+되+었+는데	SCONJ	_	10	ccomp	_	_	해명/ncpa+되/xsv+었/ep+는데/ecs
+7	무엇	무엇	PRON	_	8	compound	_	_	무엇/npd
+8	때문에	때문+에	ADV	_	10	obl	_	_	때문/nbn+에/jca
+9	뒤로	뒤+로	ADV	_	10	advcl	_	_	뒤/ncn+로/jca
+10	되돌아간단	되돌아가+ㄴ단	VERB	_	11	ccomp	_	_	되돌아가/pvg+ㄴ단/etm
+11	말인가	말+이+ㄴ가	VERB	_	0	root	_	_	말/ncpa+이/jp+ㄴ가/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그렇다면 생산의 물질적 조건들이 노동자들 자신들의 집단적 소유로 대표되는 사회주의 단계에서 소비재의 분배 또는 교환은 어떠한 변화를 겪게 되는가 ?
+1	그렇다면	그렇다면	CCONJ	_	18	cc	_	_	그렇다면/maj
+2	생산의	생산+의	NOUN	_	4	nmod	_	_	생산/ncpa+의/jcm
+3	물질적	물질+적	NOUN	_	4	amod	_	_	물질/ncn+적/xsn
+4	조건들이	조건+들+이	NOUN	_	9	nsubj	_	_	조건/ncn+들/xsn+이/jcs
+5	노동자들	노동자+들	NOUN	_	6	compound	_	_	노동자/ncn+들/xsn
+6	자신들의	자신+들+의	NOUN	_	8	nmod	_	_	자신/ncn+들/xsn+의/jcm
+7	집단적	집단+적	NOUN	_	8	amod	_	_	집단/ncn+적/xsn
+8	소유로	소유+로	ADV	_	9	advcl	_	_	소유/ncpa+로/jca
+9	대표되는	대표+되+는	VERB	_	10	acl	_	_	대표/ncpa+되/xsv+는/etm
+10	사회주의	사회주의	NOUN	_	11	compound	_	_	사회주의/ncn
+11	단계에서	단계+에서	ADV	_	18	advcl	_	_	단계/ncn+에서/jca
+12	소비재의	소비재+의	NOUN	_	15	nmod	_	_	소비재/ncn+의/jcm
+13	분배	분배	NOUN	_	15	conj	_	_	분배/ncpa
+14	또는	또는	CCONJ	_	15	cc	_	_	또는/maj
+15	교환은	교환+은	NOUN	_	18	dislocated	_	_	교환/ncpa+은/jxt
+16	어떠한	어떠하+ㄴ	VERB	_	17	amod	_	_	어떠하/pad+ㄴ/etm
+17	변화를	변화+를	NOUN	_	18	obj	_	_	변화/ncpa+를/jco
+18	겪게	겪+게	VERB	_	0	root	_	_	겪/pvg+게/ecx
+19	되는가	되+는가	AUX	_	18	aux	_	_	되/px+는가/ef
+20	?	?	PUNCT	_	19	punct	_	_	?/sf
+
+# 가장 먼저 떠오르는 것이 상품과 시장의 문제이다 .
+1	가장	가장	ADV	_	3	advmod	_	_	가장/mag
+2	먼저	먼저	ADV	_	1	advmod	_	_	먼저/mag
+3	떠오르는	떠오르+는	VERB	_	4	acl	_	_	떠오르/pvg+는/etm
+4	것이	것+이	NOUN	_	7	nsubj	_	_	것/nbn+이/jcs
+5	상품과	상품+과	CCONJ	_	6	conj	_	_	상품/ncn+과/jcj
+6	시장의	시장+의	NOUN	_	7	nmod	_	_	시장/ncn+의/jcm
+7	문제이다	문제+이+다	VERB	_	0	root	_	_	문제/ncn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 여기에서는 실용성의 문제가 아니라 이론적 엄밀성이 중시되어야 한다 .
+1	여기에서는	여기+에서+는	PRON	_	7	dislocated	_	_	여기/npd+에서/jca+는/jxt
+2	실용성의	실용성+의	NOUN	_	3	nmod	_	_	실용성/ncn+의/jcm
+3	문제가	문제+가	NOUN	_	4	csubj	_	_	문제/ncn+가/jcc
+4	아니라	아니+라	SCONJ	_	7	xcomp	_	_	아니/paa+라/ecs
+5	이론적	이론+적	NOUN	_	6	amod	_	_	이론/ncn+적/xsn
+6	엄밀성이	엄밀성+이	NOUN	_	7	nsubj	_	_	엄밀성/ncn+이/jcs
+7	중시되어야	중시+되+어야	VERB	_	0	root	_	_	중시/ncpa+되/xsv+어야/ecx
+8	한다	하+ㄴ다	AUX	_	7	aux	_	_	하/px+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 상품이란 무엇인가 ?
+1	상품이란	상품+이란	ADV	_	2	advcl	_	_	상품/ncn+이란/jxc
+2	무엇인가	무엇+이+ㄴ가	VERB	_	0	root	_	_	무엇/npd+이/jp+ㄴ가/ef
+3	?	?	PUNCT	_	2	punct	_	_	?/sf
+
+# 분리된 사적 생산자들의 사회에서 만들어낸 생산물이며 결국 사적 생산물이다 .
+1	분리된	분리+되+ㄴ	VERB	_	3	acl	_	_	분리/ncpa+되/xsv+ㄴ/etm
+2	사적	사적	NOUN	_	3	compound	_	_	사적/ncn
+3	생산자들의	생산자+들+의	NOUN	_	4	nmod	_	_	생산자/ncn+들/xsn+의/jcm
+4	사회에서	사회+에서	ADV	_	5	advcl	_	_	사회/ncn+에서/jca
+5	만들어낸	만들+어+내+ㄴ	AUX	_	6	ccomp	_	_	만들/pvg+어/ecx+내/px+ㄴ/etm
+6	생산물이며	생산물+이+며	CCONJ	_	9	conj	_	_	생산물/ncn+이/jp+며/ecc
+7	결국	결국	ADV	_	9	advmod	_	_	결국/mag
+8	사적	사적	NOUN	_	9	compound	_	_	사적/ncn
+9	생산물이다	생산물+이+다	VERB	_	0	root	_	_	생산물/ncn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 한편 이들 사적 생산의 산물인 상품을 시장에서의 교환을 통해서만 비로소 사회적으로 소비된다 .
+1	한편	한편	CCONJ	_	12	cc	_	_	한편/maj
+2	이들	이+들	NOUN	_	6	compound	_	_	이/npd+들/xsn
+3	사적	사적	NOUN	_	4	compound	_	_	사적/ncn
+4	생산의	생산+의	NOUN	_	5	nmod	_	_	생산/ncpa+의/jcm
+5	산물인	산물+이+ㄴ	VERB	_	6	acl	_	_	산물/ncn+이/jp+ㄴ/etm
+6	상품을	상품+을	NOUN	_	12	obj	_	_	상품/ncn+을/jco
+7	시장에서의	시장+에서+의	NOUN	_	8	nmod	_	_	시장/ncn+에서/jca+의/jcm
+8	교환을	교환+을	NOUN	_	9	obj	_	_	교환/ncpa+을/jco
+9	통해서만	통하+어서+만	ADV	_	12	ccomp	_	_	통하/pvg+어서/ecs+만/jxc
+10	비로소	비로소	ADV	_	12	advmod	_	_	비로소/mag
+11	사회적으로	사회+적+으로	ADV	_	12	advcl	_	_	사회/ncn+적/xsn+으로/jca
+12	소비된다	소비+되+ㄴ다	VERB	_	0	root	_	_	소비/ncpa+되/xsv+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 또한 상품은 가치형테를 띠고 교환되는데 그러한 상품의 물적 속성인 가치는 그 가운데 체현된 노동량에 다름 아니다 .
+1	또한	또한	CCONJ	_	16	cc	_	_	또한/maj
+2	상품은	상품+은	NOUN	_	5	dislocated	_	_	상품/ncn+은/jxt
+3	가치형테를	가치+형태+를	NOUN	_	4	obj	_	_	가치/ncn+형태/ncn+를/jco
+4	띠고	띠+고	CCONJ	_	5	conj	_	_	띠/pvg+고/ecc
+5	교환되는데	교환+되+는데	SCONJ	_	16	conj	_	_	교환/ncpa+되/xsv+는데/ecs
+6	그러한	그러하+ㄴ	VERB	_	9	amod	_	_	그러하/pad+ㄴ/etm
+7	상품의	상품+의	NOUN	_	9	nmod	_	_	상품/ncn+의/jcm
+8	물적	물+적	NOUN	_	9	amod	_	_	물/ncn+적/xsn
+9	속성인	속성+이+ㄴ	VERB	_	10	acl	_	_	속성/ncn+이/jp+ㄴ/etm
+10	가치는	가치+는	NOUN	_	16	dislocated	_	_	가치/ncn+는/jxt
+11	그	그	DET	_	12	det	_	_	그/mmd
+12	가운데	가운데	NOUN	_	13	compound	_	_	가운데/ncn
+13	체현된	체현+되+ㄴ	VERB	_	14	acl	_	_	체현/ncpa+되/xsv+ㄴ/etm
+14	노동량에	노동량+에	ADV	_	16	obl	_	_	노동량/ncn+에/jca
+15	다름	다르+ㅁ	ADJ	_	16	nmod	_	_	다르/paa+ㅁ/etn
+16	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이러한 상품생산과 교환은 자본주의적 생산 즉 , 노동과 소유가 분리된 생산의 맹아이며 부르조아 사회의 기본세포이다 .
+1	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+2	상품생산과	상품+생산+과	CCONJ	_	3	conj	_	_	상품/ncn+생산/ncpa+과/jcj
+3	교환은	교환+은	NOUN	_	15	dislocated	_	_	교환/ncpa+은/jxt
+4	자본주의적	자본주의+적	NOUN	_	5	amod	_	_	자본주의/ncn+적/xsn
+5	생산	생산	NOUN	_	11	conj	_	_	생산/ncpa
+6	즉	즉	CCONJ	_	7	cc	_	_	즉/maj
+7	,	,	PUNCT	_	5	punct	_	_	,/sp
+8	노동과	노동+과	CCONJ	_	9	conj	_	_	노동/ncpa+과/jcj
+9	소유가	소유+가	NOUN	_	10	nsubj	_	_	소유/ncpa+가/jcs
+10	분리된	분리+되+ㄴ	VERB	_	11	acl	_	_	분리/ncpa+되/xsv+ㄴ/etm
+11	생산의	생산+의	NOUN	_	12	nmod	_	_	생산/ncpa+의/jcm
+12	맹아이며	맹아+이+며	CCONJ	_	15	conj	_	_	맹아/ncn+이/jp+며/ecc
+13	부르조아	부르조아	X	_	14	compound	_	_	부르조아/f
+14	사회의	사회+의	NOUN	_	15	nmod	_	_	사회/ncn+의/jcm
+15	기본세포이다	기본+세포+이+다	VERB	_	0	root	_	_	기본/ncn+세포/ncn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 자본주의적 생산은 상품생산과 교환을 전제하며 , 확대된 교환은 자본주의적 생산을 고무 발전시킨다 .
+1	자본주의적	자본주의+적	NOUN	_	2	amod	_	_	자본주의/ncn+적/xsn
+2	생산은	생산+은	NOUN	_	5	dislocated	_	_	생산/ncpa+은/jxt
+3	상품생산과	상품+생산+과	CCONJ	_	4	conj	_	_	상품/ncn+생산/ncpa+과/jcj
+4	교환을	교환+을	NOUN	_	5	obj	_	_	교환/ncpa+을/jco
+5	전제하며	전제+하+며	CCONJ	_	12	conj	_	_	전제/ncpa+하/xsv+며/ecc
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	확대된	확대+되+ㄴ	VERB	_	8	acl	_	_	확대/ncpa+되/xsv+ㄴ/etm
+8	교환은	교환+은	NOUN	_	12	dislocated	_	_	교환/ncpa+은/jxt
+9	자본주의적	자본주의+적	NOUN	_	10	amod	_	_	자본주의/ncn+적/xsn
+10	생산을	생산+을	NOUN	_	12	obj	_	_	생산/ncpa+을/jco
+11	고무	고무	NOUN	_	12	compound	_	_	고무/ncpa
+12	발전시킨다	발전+시키+ㄴ다	VERB	_	0	root	_	_	발전/ncpa+시키/xsv+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그렇다면 사회주의적 생산에서는 어떠한 변화를 겪게 되는가 ?
+1	그렇다면	그렇다면	CCONJ	_	6	cc	_	_	그렇다면/maj
+2	사회주의적	사회주의+적	NOUN	_	3	amod	_	_	사회주의/ncn+적/xsn
+3	생산에서는	생산+에서+는	NOUN	_	6	dislocated	_	_	생산/ncpa+에서/jca+는/jxt
+4	어떠한	어떠하+ㄴ	VERB	_	5	amod	_	_	어떠하/pad+ㄴ/etm
+5	변화를	변화+를	NOUN	_	6	obj	_	_	변화/ncpa+를/jco
+6	겪게	겪+게	VERB	_	0	root	_	_	겪/pvg+게/ecx
+7	되는가	되+는가	AUX	_	6	aux	_	_	되/px+는가/ef
+8	?	?	PUNCT	_	7	punct	_	_	?/sf
+
+# 마찬가지로 여기서는 생산물을 생산하는데 지출된 노동이 이 생산물의 가치로서 즉 , 그 생산물에 붙어있는 물적속성으로 나타나지 않는다 .
+1	마찬가지로	마찬가지+로	ADV	_	16	advcl	_	_	마찬가지/ncn+로/jca
+2	여기서는	여기서+는	PRON	_	16	dislocated	_	_	여기서/npd+는/jxt
+3	생산물을	생산물+을	NOUN	_	4	obj	_	_	생산물/ncn+을/jco
+4	생산하는데	생산+하+는데	SCONJ	_	5	ccomp	_	_	생산/ncpa+하/xsv+는데/ecs
+5	지출된	지출+되+ㄴ	VERB	_	6	acl	_	_	지출/ncpa+되/xsv+ㄴ/etm
+6	노동이	노동+이	NOUN	_	16	nsubj	_	_	노동/ncpa+이/jcs
+7	이	이	DET	_	8	det	_	_	이/mmd
+8	생산물의	생산물+의	NOUN	_	9	nmod	_	_	생산물/ncn+의/jcm
+9	가치로서	가치+로서	ADV	_	10	advcl	_	_	가치/ncn+로서/jca
+10	즉	즉	CCONJ	_	16	cc	_	_	즉/maj
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	그	그	DET	_	13	det	_	_	그/mmd
+13	생산물에	생산물+에	ADV	_	14	obl	_	_	생산물/ncn+에/jca
+14	붙어있는	붙+어+있+는	AUX	_	15	acl	_	_	붙/pvg+어/ecx+있/px+는/etm
+15	물적속성으로	물+적+속성+으로	ADV	_	10	advcl	_	_	물/ncn+적/xsn+속성/ncn+으로/jca
+16	나타나지	나타나+지	VERB	_	0	root	_	_	나타나/pvg+지/ecx
+17	않는다	않+는다	AUX	_	16	aux	_	_	않/px+는다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 한마디로 상품과 교환의 현실적 필요성이 제거된다 .
+1	한마디로	한마디+로	ADV	_	6	advcl	_	_	한마디/ncn+로/jca
+2	상품과	상품+과	CCONJ	_	3	conj	_	_	상품/ncn+과/jcj
+3	교환의	교환+의	NOUN	_	5	nmod	_	_	교환/ncpa+의/jcm
+4	현실적	현실+적	NOUN	_	5	amod	_	_	현실/ncn+적/xsn
+5	필요성이	필요성+이	NOUN	_	6	nsubj	_	_	필요성/ncn+이/jcs
+6	제거된다	제거+되+ㄴ다	VERB	_	0	root	_	_	제거/ncpa+되/xsv+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 따라서 자본주의적 생산 및 상품교환 일반을 지배하는 그 유명한 가치법칙도 폐기되어져 마땅하다 .
+1	따라서	따라서	CCONJ	_	12	cc	_	_	따라서/maj
+2	자본주의적	자본주의+적	NOUN	_	5	amod	_	_	자본주의/ncn+적/xsn
+3	생산	생산	NOUN	_	5	conj	_	_	생산/ncpa
+4	및	및	CCONJ	_	5	cc	_	_	및/maj
+5	상품교환	상품+교환	NOUN	_	6	compound	_	_	상품/ncn+교환/ncpa
+6	일반을	일반+을	NOUN	_	7	obj	_	_	일반/ncn+을/jco
+7	지배하는	지배+하+는	VERB	_	10	acl	_	_	지배/ncpa+하/xsv+는/etm
+8	그	그	DET	_	10	det	_	_	그/mmd
+9	유명한	유명+하+ㄴ	VERB	_	10	amod	_	_	유명/ncps+하/xsm+ㄴ/etm
+10	가치법칙도	가치+법칙+도	ADV	_	11	advcl	_	_	가치/ncn+법칙/ncn+도/jxc
+11	폐기되어져	폐기+되+어+지+어	SCONJ	_	12	conj	_	_	폐기/ncpa+되/xsv+어/ecx+지/px+어/ecs
+12	마땅하다	마땅+하+다	VERB	_	0	root	_	_	마땅/ncps+하/xsm+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그러므로 하나의 생산물에 포함되어 있는 사회적 노동의 양을 처음에는 우회적인 방법으로 확정할 필요가 없다 .
+1	그러므로	그러므로	CCONJ	_	14	cc	_	_	그러므로/maj
+2	하나의	하나+의	NOUN	_	3	nmod	_	_	하나/ncn+의/jcm
+3	생산물에	생산물+에	ADV	_	4	obl	_	_	생산물/ncn+에/jca
+4	포함되어	포함+되+어	VERB	_	8	acl	_	_	포함/ncpa+되/xsv+어/ecx
+5	있는	있+는	AUX	_	4	aux	_	_	있/px+는/etm
+6	사회적	사회+적	NOUN	_	7	amod	_	_	사회/ncn+적/xsn
+7	노동의	노동+의	NOUN	_	8	nmod	_	_	노동/ncpa+의/jcm
+8	양을	양+을	NOUN	_	12	obj	_	_	양/ncn+을/jco
+9	처음에는	처음+에+는	NOUN	_	12	dislocated	_	_	처음/ncn+에/jca+는/jxt
+10	우회적인	우회+적+이+ㄴ	VERB	_	11	acl	_	_	우회/ncn+적/xsn+이/jp+ㄴ/etm
+11	방법으로	방법+으로	ADV	_	12	advcl	_	_	방법/ncn+으로/jca
+12	확정할	확정+하+ㄹ	VERB	_	13	acl	_	_	확정/ncpa+하/xsv+ㄹ/etm
+13	필요가	필요+가	NOUN	_	14	nsubj	_	_	필요/ncps+가/jcs
+14	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그런데 우리는 과학적 사상에 있어서 수미일관되게 견지되어야할 엄밀한이 현실과의 절충속에서 왜곡되어지는 경우를 본다 .
+1	그런데	그런데	CCONJ	_	13	cc	_	_	그런데/maj
+2	우리는	우리+는	PRON	_	13	dislocated	_	_	우리/npp+는/jxt
+3	과학적	과학+적	NOUN	_	4	amod	_	_	과학/ncn+적/xsn
+4	사상에	사상+에	ADV	_	5	obl	_	_	사상/ncn+에/jca
+5	있어서	있+어서	SCONJ	_	7	xcomp	_	_	있/paa+어서/ecs
+6	수미일관되게	수미일관+되+게	SCONJ	_	7	ccomp	_	_	수미일관/ncpa+되/xsv+게/ecs
+7	견지되어야할	견지+되+어야+하+ㄹ	AUX	_	8	acl	_	_	견지/ncpa+되/xsv+어야/ecx+하/px+ㄹ/etm
+8	엄밀한이	엄밀+하+ㅁ+이	NOUN	_	11	nsubj	_	_	엄밀/ncps+하/xsm+ㅁ/etn+이/jcs
+9	현실과의	현실+과+의	NOUN	_	10	nmod	_	_	현실/ncn+과/jct+의/jcm
+10	절충속에서	절충+속+에서	ADV	_	11	advcl	_	_	절충/ncpa+속/ncn+에서/jca
+11	왜곡되어지는	왜곡+되+어+지+는	AUX	_	12	acl	_	_	왜곡/ncpa+되/xsv+어/ecx+지/px+는/etm
+12	경우를	경우+를	NOUN	_	13	obj	_	_	경우/ncn+를/jco
+13	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 화폐관계가 유지되고 있다는 점이다 .
+1	화폐관계가	화폐+관계+가	NOUN	_	2	csubj	_	_	화폐/ncn+관계/ncpa+가/jcc
+2	유지되고	유지+되+고	VERB	_	4	ccomp	_	_	유지/ncpa+되/xsv+고/ecx
+3	있다는	있+다는	AUX	_	2	aux	_	_	있/px+다는/etm
+4	점이다	점+이+다	VERB	_	0	root	_	_	점/ncn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 아발킨이 이 문제를 올바로 제기하기 위해서는 과연 소련사회가 공산주의의 낮은 국면인 사회주의의 단계에 도달해 있는가를 먼저 검증했어야 한다 .
+1	아발킨이	아발킨+이	PROPN	_	5	nsubj	_	_	아발킨/nq+이/jcs
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	문제를	문제+를	NOUN	_	5	obj	_	_	문제/ncn+를/jco
+4	올바로	올바로	ADV	_	5	advmod	_	_	올바로/mag
+5	제기하기	제기+하+기	VERB	_	6	nmod	_	_	제기/ncpa+하/xsv+기/etn
+6	위해서는	위하+어서+는	NOUN	_	17	ccomp	_	_	위하/pvg+어서/ecs+는/jxt
+7	과연	과연	ADV	_	14	advmod	_	_	과연/mag
+8	소련사회가	소련+사회+가	PROPN	_	14	nsubj	_	_	소련/nq+사회/ncn+가/jcs
+9	공산주의의	공산주의+의	NOUN	_	11	nmod	_	_	공산주의/ncn+의/jcm
+10	낮은	낮+ㄴ	ADJ	_	11	amod	_	_	낮/paa+ㄴ/etm
+11	국면인	국면+이+ㄴ	VERB	_	12	acl	_	_	국면/ncn+이/jp+ㄴ/etm
+12	사회주의의	사회주의+의	NOUN	_	13	nmod	_	_	사회주의/ncn+의/jcm
+13	단계에	단계+에	ADV	_	14	obl	_	_	단계/ncn+에/jca
+14	도달해	도달+하+어	VERB	_	17	obj	_	_	도달/ncpa+하/xsv+어/ecx
+15	있는가를	있+는가+를	NOUN	_	14	aux	_	_	있/px+는가/ef+를/jco
+16	먼저	먼저	ADV	_	17	advmod	_	_	먼저/mag
+17	검증했어야	검증+하+었+어야	VERB	_	0	root	_	_	검증/ncpa+하/xsv+었/ep+어야/ecx
+18	한다	하+ㄴ다	AUX	_	17	aux	_	_	하/px+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그런데 그는 단지 사실만 나열하고 있다 .
+1	그런데	그런데	CCONJ	_	5	cc	_	_	그런데/maj
+2	그는	그+는	PRON	_	5	dislocated	_	_	그/npp+는/jxt
+3	단지	단지	ADV	_	5	advmod	_	_	단지/mag
+4	사실만	사실+만	ADV	_	5	advcl	_	_	사실/ncn+만/jxc
+5	나열하고	나열+하+고	VERB	_	0	root	_	_	나열/ncpa+하/xsv+고/ecx
+6	있다	있+다	AUX	_	5	aux	_	_	있/px+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 스탈린이 그의 1936년 헌법에서 밝힌 대로라면 소련 사회는 응당 공산주의의 낮은 국면에 도달해 있다 .
+1	스탈린이	스탈린+이	PROPN	_	5	nsubj	_	_	스탈린/nq+이/jcs
+2	그의	그+의	PRON	_	4	nmod	_	_	그/npp+의/jcm
+3	1936년	1936+년	NOUN	_	4	compound	_	_	1936/nno+년/nbu
+4	헌법에서	헌법+에서	ADV	_	5	advcl	_	_	헌법/ncn+에서/jca
+5	밝힌	밝히+ㄴ	VERB	_	6	ccomp	_	_	밝히/pvg+ㄴ/etm
+6	대로라면	대로+이+라면	SCONJ	_	13	ccomp	_	_	대로/nbn+이/jp+라면/ecs
+7	소련	소련	PROPN	_	8	compound	_	_	소련/nq
+8	사회는	사회+는	NOUN	_	13	dislocated	_	_	사회/ncn+는/jxt
+9	응당	응당	ADV	_	13	advmod	_	_	응당/mag
+10	공산주의의	공산주의+의	NOUN	_	12	nmod	_	_	공산주의/ncn+의/jcm
+11	낮은	낮+ㄴ	ADJ	_	12	amod	_	_	낮/paa+ㄴ/etm
+12	국면에	국면+에	ADV	_	13	obl	_	_	국면/ncn+에/jca
+13	도달해	도달+하+어	VERB	_	0	root	_	_	도달/ncpa+하/xsv+어/ecx
+14	있다	있+다	AUX	_	13	aux	_	_	있/px+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그러나 그러한 사회주의는 종이쪼가리에나 존재하는 것이지 공산주의 공자에도 접근하지 못하는 조악한 종류의 것이다 .
+1	그러나	그러나	CCONJ	_	13	cc	_	_	그러나/maj
+2	그러한	그러하+ㄴ	VERB	_	3	amod	_	_	그러하/pad+ㄴ/etm
+3	사회주의는	사회주의+는	NOUN	_	5	dislocated	_	_	사회주의/ncn+는/jxt
+4	종이쪼가리에나	종이+쪼가리+에+나	ADV	_	5	advcl	_	_	종이/ncn+쪼가리/ncn+에/jca+나/jxc
+5	존재하는	존재+하+는	VERB	_	13	ccomp	_	_	존재/ncpa+하/xsv+는/etm
+6	것이지	것+이+지	SCONJ	_	5	aux	_	_	것/nbn+이/jp+지/ecs
+7	공산주의	공산주의	NOUN	_	8	compound	_	_	공산주의/ncn
+8	공자에도	공자+에+도	ADV	_	9	advcl	_	_	공자/nq+에/jca+도/jxc
+9	접근하지	접근+하+지	VERB	_	12	acl	_	_	접근/ncpa+하/xsv+지/ecx
+10	못하는	못하+는	AUX	_	9	aux	_	_	못하/px+는/etm
+11	조악한	조악+하+ㄴ	VERB	_	12	amod	_	_	조악/ncps+하/xsm+ㄴ/etm
+12	종류의	종류+의	NOUN	_	13	nmod	_	_	종류/ncn+의/jcm
+13	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이러한 연구방식은 유물론적 태도가 결코 아니다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	연구방식은	연구+방식+은	NOUN	_	6	dislocated	_	_	연구/ncpa+방식/ncn+은/jxt
+3	유물론적	유물론+적	NOUN	_	4	amod	_	_	유물론/ncn+적/xsn
+4	태도가	태도+가	NOUN	_	6	csubj	_	_	태도/ncn+가/jcc
+5	결코	결코	ADV	_	6	advmod	_	_	결코/mag
+6	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이제 남은 문제는 그렇다면 공산주의를 두가지의 국면으로 구분할 수 있는 요소는 어떻게 발생하는가를 가름하는 것이다 .
+1	이제	이제	ADV	_	2	advmod	_	_	이제/mag
+2	남은	남+은	VERB	_	3	acl	_	_	남/pvg+은/etm
+3	문제는	문제+는	NOUN	_	14	dislocated	_	_	문제/ncn+는/jxt
+4	그렇다면	그렇+다면	SCONJ	_	14	xcomp	_	_	그렇/pad+다면/ecs
+5	공산주의를	공산주의+를	NOUN	_	8	obj	_	_	공산주의/ncn+를/jco
+6	두가지의	두+가지+의	NUM	_	7	nmod	_	_	두/nnc+가지/nbn+의/jcm
+7	국면으로	국면+으로	ADV	_	8	advcl	_	_	국면/ncn+으로/jca
+8	구분할	구분+하+ㄹ	VERB	_	11	acl	_	_	구분/ncpa+하/xsv+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	있는	있+는	ADJ	_	8	aux	_	_	있/paa+는/etm
+11	요소는	요소+는	NOUN	_	13	dislocated	_	_	요소/ncn+는/jxt
+12	어떻게	어떻+게	SCONJ	_	13	xcomp	_	_	어떻/pad+게/ecs
+13	발생하는가를	발생+하+는가+를	NOUN	_	14	obj	_	_	발생/ncpa+하/xsv+는가/ef+를/jco
+14	가름하는	가름+하+는	VERB	_	0	root	_	_	가름/ncpa+하/xsv+는/etm
+15	것이다	것+이+다	VERB	_	14	aux	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 정신적인 면에서 그 모태였던 낡은 사회의 흔적을 아직 지니고 있기 때문이다 .
+1	정신적인	정신+적+이+ㄴ	VERB	_	2	acl	_	_	정신/ncn+적/xsn+이/jp+ㄴ/etm
+2	면에서	면+에서	ADV	_	9	advcl	_	_	면/ncn+에서/jca
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	모태였던	모태+이+었+던	VERB	_	6	acl	_	_	모태/ncn+이/jp+었/ep+던/etm
+5	낡은	낡+ㄴ	ADJ	_	6	amod	_	_	낡/paa+ㄴ/etm
+6	사회의	사회+의	NOUN	_	7	nmod	_	_	사회/ncn+의/jcm
+7	흔적을	흔적+을	NOUN	_	9	obj	_	_	흔적/ncn+을/jco
+8	아직	아직	ADV	_	9	advmod	_	_	아직/mag
+9	지니고	지니+고	VERB	_	0	root	_	_	지니/pvg+고/ecx
+10	있기	있+기	AUX	_	9	aux	_	_	있/px+기/etn
+11	때문이다	때문+이+다	VERB	_	9	aux	_	_	때문/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 폐단은 동등한 권리에 기촨 소비재의 분배문제에서 파생한다 .
+1	폐단은	폐단+은	NOUN	_	7	dislocated	_	_	폐단/ncn+은/jxt
+2	동등한	동등+하+ㄴ	VERB	_	3	amod	_	_	동등/ncps+하/xsm+ㄴ/etm
+3	권리에	권리+에	ADV	_	4	obl	_	_	권리/ncn+에/jca
+4	기촨	기초+하+ㄴ	VERB	_	6	acl	_	_	기초/ncpa+하/xsv+ㄴ/etm
+5	소비재의	소비재+의	NOUN	_	6	nmod	_	_	소비재/ncn+의/jcm
+6	분배문제에서	분배+문제+에서	ADV	_	7	advcl	_	_	분배/ncpa+문제/ncn+에서/jca
+7	파생한다	파생+하+ㄴ다	VERB	_	0	root	_	_	파생/ncpa+하/xsv+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 개인은 사회주의 사회를 규정하는 분배원리에 따라 자신이 수행한 노동량에 비례하여 소비재의 사회적 저장분 중에서 같은 양의 노동이 드는 만큼만 돌려받는다 .
+1	개인은	개인+은	NOUN	_	20	dislocated	_	_	개인/ncn+은/jxt
+2	사회주의	사회주의	NOUN	_	3	compound	_	_	사회주의/ncn
+3	사회를	사회+를	NOUN	_	4	obj	_	_	사회/ncn+를/jco
+4	규정하는	규정+하+는	VERB	_	5	acl	_	_	규정/ncpa+하/xsv+는/etm
+5	분배원리에	분배+원리+에	ADV	_	6	obl	_	_	분배/ncpa+원리/ncn+에/jca
+6	따라	따르+아	SCONJ	_	20	ccomp	_	_	따르/pvg+아/ecs
+7	자신이	자신+이	NOUN	_	8	nsubj	_	_	자신/ncn+이/jcs
+8	수행한	수행+하+ㄴ	VERB	_	9	acl	_	_	수행/ncpa+하/xsv+ㄴ/etm
+9	노동량에	노동량+에	ADV	_	10	obl	_	_	노동량/ncn+에/jca
+10	비례하여	비례+하+어	SCONJ	_	20	ccomp	_	_	비례/ncpa+하/xsv+어/ecs
+11	소비재의	소비재+의	NOUN	_	13	nmod	_	_	소비재/ncn+의/jcm
+12	사회적	사회+적	NOUN	_	13	amod	_	_	사회/ncn+적/xsn
+13	저장분	저장분	NOUN	_	14	compound	_	_	저장분/ncn
+14	중에서	중+에서	ADV	_	20	advcl	_	_	중/ncn+에서/jca
+15	같은	같+ㄴ	ADJ	_	16	amod	_	_	같/paa+ㄴ/etm
+16	양의	양+의	PROPN	_	17	nmod	_	_	양/nq+의/jcm
+17	노동이	노동+이	NOUN	_	18	nsubj	_	_	노동/ncpa+이/jcs
+18	드는	들+는	VERB	_	19	acl	_	_	들/pvg+는/etm
+19	만큼만	만큼+만	ADV	_	20	advcl	_	_	만큼/nbn+만/jxc
+20	돌려받는다	돌려받+는다	VERB	_	0	root	_	_	돌려받/pvg+는다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그는 자신이 일한 형태로 사회에 준 만큼의 노동량을 다른 형태로 돌려받는 것이다 .
+1	그는	그+는	PRON	_	11	dislocated	_	_	그/npp+는/jxt
+2	자신이	자신+이	NOUN	_	3	nsubj	_	_	자신/ncn+이/jcs
+3	일한	일+하+ㄴ	VERB	_	4	acl	_	_	일/ncpa+하/xsv+ㄴ/etm
+4	형태로	형태+로	ADV	_	6	advcl	_	_	형태/ncn+로/jca
+5	사회에	사회+에	ADV	_	6	obl	_	_	사회/ncn+에/jca
+6	준	주+ㄴ	VERB	_	7	acl	_	_	주/pvg+ㄴ/etm
+7	만큼의	만큼+의	NOUN	_	8	nmod	_	_	만큼/nbn+의/jcm
+8	노동량을	노동량+을	NOUN	_	11	obj	_	_	노동량/ncn+을/jco
+9	다른	다르+ㄴ	ADJ	_	10	amod	_	_	다르/paa+ㄴ/etm
+10	형태로	형태+로	ADV	_	11	advcl	_	_	형태/ncn+로/jca
+11	돌려받는	돌려받+는	VERB	_	0	root	_	_	돌려받/pvg+는/etm
+12	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 한편 생산자들 각각의 노동에 비례한 권리기준은 동등한 권리라는 외양에도 불구하고 사실상 여전히 부르조아적 한계를 벗어나지 못하고 있다 .
+1	한편	한편	CCONJ	_	15	cc	_	_	한편/maj
+2	생산자들	생산자+들	NOUN	_	3	compound	_	_	생산자/ncn+들/xsn
+3	각각의	각각+의	NOUN	_	4	nmod	_	_	각각/ncn+의/jcm
+4	노동에	노동+에	ADV	_	5	obl	_	_	노동/ncpa+에/jca
+5	비례한	비례+하+ㄴ	VERB	_	6	acl	_	_	비례/ncpa+하/xsv+ㄴ/etm
+6	권리기준은	권리+기준+은	NOUN	_	8	dislocated	_	_	권리/ncn+기준/ncn+은/jxt
+7	동등한	동등+하+ㄴ	VERB	_	8	amod	_	_	동등/ncps+하/xsm+ㄴ/etm
+8	권리라는	권리+이+라는	VERB	_	9	acl	_	_	권리/ncn+이/jp+라는/etm
+9	외양에도	외양+에도	ADV	_	10	advcl	_	_	외양/ncn+에도/jxc
+10	불구하고	불구+하+고	CCONJ	_	15	conj	_	_	불구/ncpa+하/xsv+고/ecc
+11	사실상	사실상	ADV	_	15	advmod	_	_	사실상/mag
+12	여전히	여전히	ADV	_	15	advmod	_	_	여전히/mag
+13	부르조아적	부르조아+적	NOUN	_	14	amod	_	_	부르조아/f+적/xsn
+14	한계를	한계+를	NOUN	_	15	obj	_	_	한계/ncn+를/jco
+15	벗어나지	벗+어+나+지	AUX	_	0	root	_	_	벗/pvg+어/ecx+나/px+지/ecx
+16	못하고	못하+고	AUX	_	15	aux	_	_	못하/px+고/ecx
+17	있다	있+다	AUX	_	15	aux	_	_	있/px+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 생산자들의 권리는 그가 제공하는 노동에 비례한다 .
+1	생산자들의	생산자+들+의	NOUN	_	2	nmod	_	_	생산자/ncn+들/xsn+의/jcm
+2	권리는	권리+는	NOUN	_	6	dislocated	_	_	권리/ncn+는/jxt
+3	그가	그+가	PRON	_	4	nsubj	_	_	그/npp+가/jcs
+4	제공하는	제공+하+는	VERB	_	5	acl	_	_	제공/ncpa+하/xsv+는/etm
+5	노동에	노동+에	ADV	_	6	obl	_	_	노동/ncpa+에/jca
+6	비례한다	비례+하+ㄴ다	VERB	_	0	root	_	_	비례/ncpa+하/xsv+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 평등은 동등한 척도 즉 , 노동으로 측정된다는 데 있다 .
+1	평등은	평등+은	NOUN	_	7	dislocated	_	_	평등/ncps+은/jxt
+2	동등한	동등+하+ㄴ	VERB	_	3	amod	_	_	동등/ncps+하/xsm+ㄴ/etm
+3	척도	척도	NOUN	_	6	conj	_	_	척도/ncn
+4	즉	즉	CCONJ	_	5	cc	_	_	즉/maj
+5	,	,	PUNCT	_	3	punct	_	_	,/sp
+6	노동으로	노동+으로	ADV	_	7	advcl	_	_	노동/ncpa+으로/jca
+7	측정된다는	측정+되+ㄴ다는	VERB	_	0	root	_	_	측정/ncpa+되/xsv+ㄴ다는/etm
+8	데	데	NOUN	_	9	fixed	_	_	데/nbn
+9	있다	있+다	ADJ	_	7	aux	_	_	있/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그런데 노동이 척도 노릇을 하자면 그 길이와 강도가 일정해야 한다 .
+1	그런데	그런데	CCONJ	_	9	cc	_	_	그런데/maj
+2	노동이	노동+이	NOUN	_	5	nsubj	_	_	노동/ncpa+이/jcs
+3	척도	척도	NOUN	_	4	compound	_	_	척도/ncn
+4	노릇을	노릇+을	NOUN	_	5	obj	_	_	노릇/ncn+을/jco
+5	하자면	하자+면	SCONJ	_	9	conj	_	_	하자/pvg+면/ecs
+6	그	그	DET	_	8	det	_	_	그/mmd
+7	길이와	길이+와	CCONJ	_	8	conj	_	_	길이/ncn+와/jcj
+8	강도가	강도+가	NOUN	_	9	nsubj	_	_	강도/ncn+가/jcs
+9	일정해야	일정+하+어야	VERB	_	0	root	_	_	일정/ncps+하/xsm+어야/ecx
+10	한다	하+ㄴ다	AUX	_	9	aux	_	_	하/px+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그렇지 않으면 그것은 척도가 될 수 없다 .
+1	그렇지	그렇+지	VERB	_	5	amod	_	_	그렇/pad+지/ecx
+2	않으면	않+으면	SCONJ	_	1	aux	_	_	않/px+으면/ecs
+3	그것은	그것+은	PRON	_	5	dislocated	_	_	그것/npd+은/jxt
+4	척도가	척도+가	NOUN	_	5	csubj	_	_	척도/ncn+가/jcc
+5	될	되+ㄹ	VERB	_	0	root	_	_	되/pvg+ㄹ/etm
+6	수	수	NOUN	_	7	fixed	_	_	수/nbn
+7	없다	없+다	ADJ	_	5	aux	_	_	없/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이 동등한 권리가 불평등한 노동에 대해서는 불평등한 권리인 것이다 .
+1	이	이	DET	_	3	det	_	_	이/mmd
+2	동등한	동등+하+ㄴ	VERB	_	3	amod	_	_	동등/ncps+하/xsm+ㄴ/etm
+3	권리가	권리+가	NOUN	_	8	nsubj	_	_	권리/ncn+가/jcs
+4	불평등한	불평등+하+ㄴ	VERB	_	5	amod	_	_	불평등/ncps+하/xsm+ㄴ/etm
+5	노동에	노동+에	ADV	_	6	obl	_	_	노동/ncpa+에/jca
+6	대해서는	대하+어서+는	NOUN	_	7	ccomp	_	_	대하/pvg+어서/ecs+는/jxt
+7	불평등한	불평등+하+ㄴ	VERB	_	8	amod	_	_	불평등/ncps+하/xsm+ㄴ/etm
+8	권리인	권리+이+ㄴ	VERB	_	9	ccomp	_	_	권리/ncn+이/jp+ㄴ/etm
+9	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이 권리는 어떠한 계급적 차이도 인정하지 않는다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	권리는	권리+는	NOUN	_	6	dislocated	_	_	권리/ncn+는/jxt
+3	어떠한	어떠하+ㄴ	VERB	_	5	amod	_	_	어떠하/pad+ㄴ/etm
+4	계급적	계급+적	NOUN	_	5	amod	_	_	계급/ncn+적/xsn
+5	차이도	차이+도	ADV	_	6	advcl	_	_	차이/ncn+도/jxc
+6	인정하지	인정+하+지	VERB	_	0	root	_	_	인정/ncpa+하/xsv+지/ecx
+7	않는다	않+는다	AUX	_	6	aux	_	_	않/px+는다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 왜냐하면 모두가 다 같이 노동자에 지나지 않기 때문이다 .
+1	왜냐하면	왜냐하면	CCONJ	_	6	cc	_	_	왜냐하면/maj
+2	모두가	모두+가	NOUN	_	6	nsubj	_	_	모두/ncn+가/jcs
+3	다	다	ADV	_	6	advmod	_	_	다/mag
+4	같이	같이	ADV	_	3	advmod	_	_	같이/mag
+5	노동자에	노동자+에	ADV	_	6	obl	_	_	노동자/ncn+에/jca
+6	지나지	지나+지	VERB	_	0	root	_	_	지나/pvg+지/ecx
+7	않기	않+기	AUX	_	6	aux	_	_	않/px+기/etn
+8	때문이다	때문+이+다	VERB	_	6	aux	_	_	때문/nbn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그러나 그러한 불평등은 계급적 차이를 인정하지 않는 한에서 , 거꾸로 노동자들이 지니고 있는 노동능력의 차이만을 인정하는 한에서이다 .
+1	그러나	그러나	CCONJ	_	17	cc	_	_	그러나/maj
+2	그러한	그러하+ㄴ	VERB	_	3	amod	_	_	그러하/pad+ㄴ/etm
+3	불평등은	불평등+은	NOUN	_	17	dislocated	_	_	불평등/ncps+은/jxt
+4	계급적	계급+적	NOUN	_	5	amod	_	_	계급/ncn+적/xsn
+5	차이를	차이+를	NOUN	_	6	obj	_	_	차이/ncn+를/jco
+6	인정하지	인정+하+지	VERB	_	8	acl	_	_	인정/ncpa+하/xsv+지/ecx
+7	않는	않+는	AUX	_	6	aux	_	_	않/px+는/etm
+8	한에서	한+에서	ADV	_	17	dep	_	_	한/nbn+에서/jca
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	거꾸로	거꾸로	ADV	_	16	advmod	_	_	거꾸로/mag
+11	노동자들이	노동자+들+이	NOUN	_	12	nsubj	_	_	노동자/ncn+들/xsn+이/jcs
+12	지니고	지니+고	VERB	_	14	acl	_	_	지니/pvg+고/ecx
+13	있는	있+는	AUX	_	12	aux	_	_	있/px+는/etm
+14	노동능력의	노동+능력+의	NOUN	_	15	nmod	_	_	노동/ncpa+능력/ncn+의/jcm
+15	차이만을	차이+만+을	NOUN	_	16	obj	_	_	차이/ncn+만/jxc+을/jco
+16	인정하는	인정+하+는	VERB	_	17	acl	_	_	인정/ncpa+하/xsv+는/etm
+17	한에서이다	한+에서+이+다	VERB	_	0	root	_	_	한/nbn+에서/jca+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 예컨대 여기서는 그들이 단지 노동자로만 간주되고 그 이상의 것은 무시되며 다른 모든 측면은 일체 도외시되는 것이다 .
+1	예컨대	예컨대	CCONJ	_	15	cc	_	_	예컨대/maj
+2	여기서는	여기서+는	PRON	_	6	dislocated	_	_	여기서/npd+는/jxt
+3	그들이	그+들+이	PRON	_	6	nsubj	_	_	그/npp+들/xsn+이/jcs
+4	단지	단지	ADV	_	6	advmod	_	_	단지/mag
+5	노동자로만	노동자+로+만	ADV	_	6	advcl	_	_	노동자/ncn+로/jca+만/jxc
+6	간주되고	간주+되+고	CCONJ	_	15	conj	_	_	간주/ncpa+되/xsv+고/ecc
+7	그	그	DET	_	8	det	_	_	그/mmd
+8	이상의	이상+의	NOUN	_	9	nmod	_	_	이상/ncn+의/jcm
+9	것은	것+은	NOUN	_	10	dislocated	_	_	것/nbn+은/jxt
+10	무시되며	무시+되+며	CCONJ	_	15	conj	_	_	무시/ncpa+되/xsv+며/ecc
+11	다른	다르+ㄴ	ADJ	_	13	amod	_	_	다르/paa+ㄴ/etm
+12	모든	모든	ADJ	_	13	amod	_	_	모든/mma
+13	측면은	측면+은	NOUN	_	15	dislocated	_	_	측면/ncn+은/jxt
+14	일체	일체	NOUN	_	15	compound	_	_	일체/ncn
+15	도외시되는	도외시+되+는	VERB	_	0	root	_	_	도외시/ncpa+되/xsv+는/etm
+16	것이다	것+이+다	VERB	_	15	aux	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 사회주의 단계에서 있을 수 있는 불평등에 관한 맑스의 언급은 우리에게 큰 시사점을 준다 .
+1	사회주의	사회주의	NOUN	_	2	compound	_	_	사회주의/ncn
+2	단계에서	단계+에서	ADV	_	3	advcl	_	_	단계/ncn+에서/jca
+3	있을	있+ㄹ	ADJ	_	4	amod	_	_	있/paa+ㄹ/etm
+4	수	수	NOUN	_	5	mark	_	_	수/nbn
+5	있는	있+는	ADJ	_	6	amod	_	_	있/paa+는/etm
+6	불평등에	불평등+에	ADV	_	7	obl	_	_	불평등/ncpa+에/jca
+7	관한	관하+ㄴ	VERB	_	9	acl	_	_	관하/pvg+ㄴ/etm
+8	맑스의	맑스+의	PROPN	_	9	nmod	_	_	맑스/nq+의/jcm
+9	언급은	언급+은	NOUN	_	13	dislocated	_	_	언급/ncpa+은/jxt
+10	우리에게	우리+에게	ADV	_	13	iobj	_	_	우리/npp+에게/jca
+11	큰	크+ㄴ	ADJ	_	12	amod	_	_	크/paa+ㄴ/etm
+12	시사점을	시사점+을	NOUN	_	13	obj	_	_	시사점/ncn+을/jco
+13	준다	주+ㄴ다	VERB	_	0	root	_	_	주/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 왜냐하면 소비재의 분배는 언제나 생산의 물적조건 그 자체의 분배 결과일 뿐인데 그 생산조건의 분배는 바로 생산양식 자체의 특성이기 때문이다 .
+1	왜냐하면	왜냐하면	CCONJ	_	18	cc	_	_	왜냐하면/maj
+2	소비재의	소비재+의	NOUN	_	3	nmod	_	_	소비재/ncn+의/jcm
+3	분배는	분배+는	NOUN	_	10	dislocated	_	_	분배/ncpa+는/jxt
+4	언제나	언제나	ADV	_	10	advmod	_	_	언제나/mag
+5	생산의	생산+의	NOUN	_	6	nmod	_	_	생산/ncpa+의/jcm
+6	물적조건	물적+조건	NOUN	_	8	compound	_	_	물적/ncn+조건/ncn
+7	그	그	DET	_	8	det	_	_	그/mmd
+8	자체의	자체+의	NOUN	_	9	nmod	_	_	자체/ncn+의/jcm
+9	분배	분배	NOUN	_	10	compound	_	_	분배/ncpa
+10	결과일	결과+이+ㄹ	VERB	_	18	ccomp	_	_	결과/ncpa+이/jp+ㄹ/etm
+11	뿐인데	뿐+이+ㄴ데	SCONJ	_	10	aux	_	_	뿐/nbn+이/jp+ㄴ데/ecs
+12	그	그	DET	_	13	det	_	_	그/mmd
+13	생산조건의	생산+조건+의	NOUN	_	14	nmod	_	_	생산/ncpa+조건/ncn+의/jcm
+14	분배는	분배+는	NOUN	_	18	dislocated	_	_	분배/ncpa+는/jxt
+15	바로	바로	ADV	_	17	advmod	_	_	바로/mag
+16	생산양식	생산+양식	NOUN	_	17	compound	_	_	생산/ncpa+양식/ncn
+17	자체의	자체+의	NOUN	_	18	nmod	_	_	자체/ncn+의/jcm
+18	특성이기	특성+이+기	VERB	_	0	root	_	_	특성/ncn+이/jp+기/etn
+19	때문이다	때문+이+다	VERB	_	18	aux	_	_	때문/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 따라서 이미 생산수단의 사회화가 실현된 공산주의의 낮은 단계는 이미 그 자체내에서 계급사멸의 기초를 달성한 바 국가 역시 사멸된다 .
+1	따라서	따라서	ADV	_	18	advmod	_	_	따라서/mag
+2	이미	이미	ADV	_	5	advmod	_	_	이미/mag
+3	생산수단의	생산+수단+의	NOUN	_	4	nmod	_	_	생산/ncpa+수단/ncn+의/jcm
+4	사회화가	사회화+가	NOUN	_	5	csubj	_	_	사회화/ncn+가/jcc
+5	실현된	실현+되+ㄴ	VERB	_	6	acl	_	_	실현/ncpa+되/xsv+ㄴ/etm
+6	공산주의의	공산주의+의	NOUN	_	8	nmod	_	_	공산주의/ncn+의/jcm
+7	낮은	낮+ㄴ	ADJ	_	8	amod	_	_	낮/paa+ㄴ/etm
+8	단계는	단계+는	NOUN	_	14	dislocated	_	_	단계/ncn+는/jxt
+9	이미	이미	ADV	_	14	advmod	_	_	이미/mag
+10	그	그	DET	_	11	det	_	_	그/mmd
+11	자체내에서	자체+내+에서	ADV	_	14	advcl	_	_	자체/ncn+내/ncn+에서/jca
+12	계급사멸의	계급+사멸+의	NOUN	_	13	nmod	_	_	계급/ncn+사멸/ncpa+의/jcm
+13	기초를	기초+를	NOUN	_	14	obj	_	_	기초/ncn+를/jco
+14	달성한	달성+하+ㄴ	VERB	_	15	acl	_	_	달성/ncpa+하/xsv+ㄴ/etm
+15	바	바	NOUN	_	18	advmod	_	_	바/nbn
+16	국가	국가	NOUN	_	18	advmod	_	_	국가/ncn
+17	역시	역시	ADV	_	18	advmod	_	_	역시/mag
+18	사멸된다	사멸+되+ㄴ다	VERB	_	0	root	_	_	사멸/ncpa+되/xsv+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 사회관계에 대한 국가의 간섭은 한 영역에서 다른 영역으로 차례로 불필요하게 되고 이윽고 사멸해간다 .
+1	사회관계에	사회+관계+에	ADV	_	2	obl	_	_	사회/ncn+관계/ncpa+에/jca
+2	대한	대하+ㄴ	VERB	_	4	acl	_	_	대하/pvg+ㄴ/etm
+3	국가의	국가+의	NOUN	_	4	nmod	_	_	국가/ncn+의/jcm
+4	간섭은	간섭+은	NOUN	_	13	dislocated	_	_	간섭/ncpa+은/jxt
+5	한	한	ADJ	_	6	amod	_	_	한/mma
+6	영역에서	영역+에서	ADV	_	10	advcl	_	_	영역/ncn+에서/jca
+7	다른	다르+ㄴ	ADJ	_	8	amod	_	_	다르/paa+ㄴ/etm
+8	영역으로	영역+으로	ADV	_	10	advcl	_	_	영역/ncn+으로/jca
+9	차례로	차례+로	ADV	_	10	advcl	_	_	차례/ncn+로/jca
+10	불필요하게	불필요+하+게	VERB	_	13	conj	_	_	불필요/ncps+하/xsm+게/ecx
+11	되고	되+고	CCONJ	_	10	aux	_	_	되/px+고/ecc
+12	이윽고	이윽고	ADV	_	13	advmod	_	_	이윽고/mag
+13	사멸해간다	사멸+하+어+가+ㄴ다	AUX	_	0	root	_	_	사멸/ncpa+하/xsv+어/ecx+가/px+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 인간에 대한 지배에 대신하여 사물에 대한 관리 및 생산과정에 대한 지도가 나타난다 .
+1	인간에	인간+에	ADV	_	2	obl	_	_	인간/ncn+에/jca
+2	대한	대하+ㄴ	VERB	_	3	acl	_	_	대하/pvg+ㄴ/etm
+3	지배에	지배+에	ADV	_	4	obl	_	_	지배/ncpa+에/jca
+4	대신하여	대신+하+어	SCONJ	_	12	ccomp	_	_	대신/ncpa+하/xsv+어/ecs
+5	사물에	사물+에	ADV	_	6	obl	_	_	사물/ncn+에/jca
+6	대한	대하+ㄴ	VERB	_	9	acl	_	_	대하/pvg+ㄴ/etm
+7	관리	관리	NOUN	_	9	conj	_	_	관리/ncn
+8	및	및	CCONJ	_	9	cc	_	_	및/maj
+9	생산과정에	생산+과정+에	ADV	_	10	obl	_	_	생산/ncpa+과정/ncn+에/jca
+10	대한	대하+ㄴ	VERB	_	11	acl	_	_	대하/pvg+ㄴ/etm
+11	지도가	지도+가	NOUN	_	12	nsubj	_	_	지도/ncpa+가/jcs
+12	나타난다	나타나+ㄴ다	VERB	_	0	root	_	_	나타나/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 국가는 폐지되는 것이 아니다 .
+1	국가는	국가+는	NOUN	_	2	dislocated	_	_	국가/ncn+는/jxt
+2	폐지되는	폐지+되+는	VERB	_	3	acl	_	_	폐지/ncpa+되/xsv+는/etm
+3	것이	것+이	NOUN	_	4	nsubj	_	_	것/nbn+이/jcs
+4	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 한편 이러한 행위는 실제 공산주의의 낮은 단계에서 마감됨을 우리는 지금까지 살펴왔다 .
+1	한편	한편	CCONJ	_	11	cc	_	_	한편/maj
+2	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+3	행위는	행위+는	NOUN	_	8	dislocated	_	_	행위/ncpa+는/jxt
+4	실제	실제	NOUN	_	8	advmod	_	_	실제/ncn
+5	공산주의의	공산주의+의	NOUN	_	7	nmod	_	_	공산주의/ncn+의/jcm
+6	낮은	낮+ㄴ	ADJ	_	7	amod	_	_	낮/paa+ㄴ/etm
+7	단계에서	단계+에서	ADV	_	8	advcl	_	_	단계/ncn+에서/jca
+8	마감됨을	마감+되+ㅁ+을	NOUN	_	11	obj	_	_	마감/ncpa+되/xsv+ㅁ/etn+을/jco
+9	우리는	우리+는	PRON	_	11	dislocated	_	_	우리/npp+는/jxt
+10	지금까지	지금+까지	ADV	_	11	advcl	_	_	지금/ncn+까지/jxc
+11	살펴왔다	살피+어+오+았+다	AUX	_	0	root	_	_	살피/pvg+어/ecx+오/px+았/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 물론 우리는 국가와 혁명 전체를 통하여 볼 때 레닌이 올바르다는 증거를 많이 가질 수 있음에도 불구하고 그러하다 .
+1	물론	물론	ADV	_	15	advmod	_	_	물론/mag
+2	우리는	우리+는	PRON	_	13	dislocated	_	_	우리/npp+는/jxt
+3	국가와	국가+와	CCONJ	_	4	conj	_	_	국가/ncn+와/jcj
+4	혁명	혁명	NOUN	_	5	compound	_	_	혁명/ncpa
+5	전체를	전체+를	NOUN	_	6	obj	_	_	전체/ncn+를/jco
+6	통하여	통하+어	VERB	_	8	acl	_	_	통하/pvg+어/ecx
+7	볼	보+ㄹ	AUX	_	6	aux	_	_	보/px+ㄹ/etm
+8	때	때	NOUN	_	13	advmod	_	_	때/nbn
+9	레닌이	레닌+이	PROPN	_	10	nsubj	_	_	레닌/nq+이/jcs
+10	올바르다는	올바르+다는	ADJ	_	11	amod	_	_	올바르/paa+다는/etm
+11	증거를	증거+를	NOUN	_	13	obj	_	_	증거/ncpa+를/jco
+12	많이	많+이	SCONJ	_	13	xcomp	_	_	많/paa+이/ecs
+13	가질	가지+ㄹ	VERB	_	14	acl	_	_	가지/pvg+ㄹ/etm
+14	수	수	NOUN	_	15	mark	_	_	수/nbn
+15	있음에도	있+ㅁ+에+도	ADV	_	16	advcl	_	_	있/paa+ㅁ/etn+에/jca+도/jxc
+16	불구하고	불구+하+고	SCONJ	_	17	conj	_	_	불구/ncpa+하/xsv+고/ecs
+17	그러하다	그러하+다	VERB	_	0	root	_	_	그러하/pad+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그러한 문제는 동등한 권리에 기초해 수행한 노동에 따른 소비재의 분배문제에서 파생함을 보여왔다 .
+1	그러한	그러하+ㄴ	VERB	_	2	amod	_	_	그러하/pad+ㄴ/etm
+2	문제는	문제+는	NOUN	_	11	dislocated	_	_	문제/ncn+는/jxt
+3	동등한	동등+하+ㄴ	VERB	_	4	amod	_	_	동등/ncps+하/xsm+ㄴ/etm
+4	권리에	권리+에	ADV	_	5	obl	_	_	권리/ncn+에/jca
+5	기초해	기초+하+어	SCONJ	_	6	ccomp	_	_	기초/ncpa+하/xsv+어/ecs
+6	수행한	수행+하+ㄴ	VERB	_	7	acl	_	_	수행/ncpa+하/xsv+ㄴ/etm
+7	노동에	노동+에	ADV	_	8	obl	_	_	노동/ncpa+에/jca
+8	따른	따르+ㄴ	VERB	_	10	acl	_	_	따르/pvg+ㄴ/etm
+9	소비재의	소비재+의	NOUN	_	10	nmod	_	_	소비재/ncn+의/jcm
+10	분배문제에서	분배+문제+에서	ADV	_	11	advcl	_	_	분배/ncpa+문제/ncn+에서/jca
+11	파생함을	파생+하+ㅁ+을	NOUN	_	12	obj	_	_	파생/ncpa+하/xsv+ㅁ/etn+을/jco
+12	보여왔다	보이+어+오+았+다	AUX	_	0	root	_	_	보이/pvg+어/ecx+오/px+았/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 물론 우리는 자본주의적 생산 그 자체가 노동과 자본의 부등가 교환에 의한 적대성에 의거함을 잘 알고 있다 .
+1	물론	물론	ADV	_	15	advmod	_	_	물론/mag
+2	우리는	우리+는	PRON	_	15	dislocated	_	_	우리/npp+는/jxt
+3	자본주의적	자본주의+적	NOUN	_	4	amod	_	_	자본주의/ncn+적/xsn
+4	생산	생산	NOUN	_	6	compound	_	_	생산/ncpa
+5	그	그	DET	_	6	det	_	_	그/mmd
+6	자체가	자체+가	NOUN	_	13	nsubj	_	_	자체/ncn+가/jcs
+7	노동과	노동+과	CCONJ	_	8	conj	_	_	노동/ncpa+과/jcj
+8	자본의	자본+의	NOUN	_	9	nmod	_	_	자본/ncn+의/jcm
+9	부등가	부등가	NOUN	_	10	compound	_	_	부등가/ncn
+10	교환에	교환+에	ADV	_	11	obl	_	_	교환/ncpa+에/jca
+11	의한	의하+ㄴ	VERB	_	12	acl	_	_	의하/pvg+ㄴ/etm
+12	적대성에	적대성+에	ADV	_	13	obl	_	_	적대성/ncn+에/jca
+13	의거함을	의거+하+ㅁ+을	NOUN	_	15	obj	_	_	의거/ncpa+하/xsv+ㅁ/etn+을/jco
+14	잘	잘	ADV	_	15	advmod	_	_	잘/mag
+15	알고	알+고	VERB	_	0	root	_	_	알/pvg+고/ecx
+16	있다	있+다	AUX	_	15	aux	_	_	있/px+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 정확하다 .
+1	정확하다	정확+하+다	VERB	_	0	root	_	_	정확/ncps+하/xsm+다/ef
+2	.	.	PUNCT	_	1	punct	_	_	./sf
+
+# 편협하고 스콜라적임을 인정한다 .
+1	편협하고	편협+하+고	CCONJ	_	2	conj	_	_	편협/ncps+하/xsm+고/ecc
+2	스콜라적임을	스콜라+적+이+ㅁ+을	PROPN	_	3	obj	_	_	스콜라/nq+적/xsn+이/jp+ㅁ/etn+을/jco
+3	인정한다	인정+하+ㄴ다	VERB	_	0	root	_	_	인정/ncpa+하/xsv+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 또한 스탈린의 도그마는 단지 비판의 무기가 아니라 무기의 비판이 되어 소련인민을 억압하지 않았는가 .
+1	또한	또한	CCONJ	_	12	cc	_	_	또한/maj
+2	스탈린의	스탈린+의	PROPN	_	3	nmod	_	_	스탈린/nq+의/jcm
+3	도그마는	도그마+는	NOUN	_	10	dislocated	_	_	도그마/f+는/jxt
+4	단지	단지	ADV	_	7	advmod	_	_	단지/mag
+5	비판의	비판+의	NOUN	_	6	nmod	_	_	비판/ncpa+의/jcm
+6	무기가	무기+가	NOUN	_	7	csubj	_	_	무기/ncn+가/jcc
+7	아니라	아니+라	SCONJ	_	10	xcomp	_	_	아니/paa+라/ecs
+8	무기의	무기+의	NOUN	_	9	nmod	_	_	무기/ncn+의/jcm
+9	비판이	비판+이	NOUN	_	10	csubj	_	_	비판/ncpa+이/jcc
+10	되어	되+어	SCONJ	_	12	ccomp	_	_	되/pvg+어/ecs
+11	소련인민을	소련+인민+을	PROPN	_	12	obj	_	_	소련/nq+인민/ncn+을/jco
+12	억압하지	억압+하+지	VERB	_	0	root	_	_	억압/ncpa+하/xsv+지/ecx
+13	않았는가	않+았+는가	AUX	_	12	aux	_	_	않/px+았/ep+는가/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 레닌은 러시아 혁명의 가장 탁월한 지도자였으며 , 소련 사회 건설에 필요한 온갖 사상의 원천이었다 .
+1	레닌은	레닌+은	PROPN	_	6	dislocated	_	_	레닌/nq+은/jxt
+2	러시아	러시아	PROPN	_	3	compound	_	_	러시아/nq
+3	혁명의	혁명+의	NOUN	_	6	nmod	_	_	혁명/ncpa+의/jcm
+4	가장	가장	ADV	_	5	advmod	_	_	가장/mag
+5	탁월한	탁월+하+ㄴ	VERB	_	6	amod	_	_	탁월/ncps+하/xsm+ㄴ/etm
+6	지도자였으며	지도자+이+었+으며	SCONJ	_	14	ccomp	_	_	지도자/ncn+이/jp+었/ep+으며/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	소련	소련	PROPN	_	9	compound	_	_	소련/nq
+9	사회	사회	NOUN	_	10	compound	_	_	사회/ncn
+10	건설에	건설+에	ADV	_	11	obl	_	_	건설/ncpa+에/jca
+11	필요한	필요+하+ㄴ	VERB	_	13	amod	_	_	필요/ncps+하/xsm+ㄴ/etm
+12	온갖	온갖	ADJ	_	13	amod	_	_	온갖/mma
+13	사상의	사상+의	NOUN	_	14	nmod	_	_	사상/ncn+의/jcm
+14	원천이었다	원천+이+었+다	VERB	_	0	root	_	_	원천/ncn+이/jp+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 따라서 레닌을 인용하지 않고는 그 어떠한 정치가의 사상도 인정될 수 없었던 게 레닌 사후 권력투쟁기의 현실이었다 .
+1	따라서	따라서	CCONJ	_	16	cc	_	_	따라서/maj
+2	레닌을	레닌+을	PROPN	_	3	obj	_	_	레닌/nq+을/jco
+3	인용하지	인용+하+지	VERB	_	9	ccomp	_	_	인용/ncpa+하/xsv+지/ecx
+4	않고는	않+고+는	NOUN	_	3	aux	_	_	않/px+고/ecc+는/jxt
+5	그	그	DET	_	7	det	_	_	그/mmd
+6	어떠한	어떠하+ㄴ	VERB	_	7	amod	_	_	어떠하/pad+ㄴ/etm
+7	정치가의	정치가+의	NOUN	_	8	nmod	_	_	정치가/ncn+의/jcm
+8	사상도	사상+도	ADV	_	9	advcl	_	_	사상/ncn+도/jxc
+9	인정될	인정+되+ㄹ	VERB	_	12	acl	_	_	인정/ncpa+되/xsv+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	없었던	없+었+던	ADJ	_	9	aux	_	_	없/paa+었/ep+던/etm
+12	게	게	NOUN	_	16	advmod	_	_	게/ncn
+13	레닌	레닌	PROPN	_	14	compound	_	_	레닌/nq
+14	사후	사후	NOUN	_	15	compound	_	_	사후/ncn
+15	권력투쟁기의	권력+투쟁기+의	NOUN	_	16	nmod	_	_	권력/ncn+투쟁기/ncn+의/jcm
+16	현실이었다	현실+이+었+다	VERB	_	0	root	_	_	현실/ncn+이/jp+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 소련사회의 공산주의의 , 무계급 사회의 지상천국으로의 이행을 선언하여 세계만방에 과시하고픈 스탈린의 사고체계에 이들은 얼마나 눈엣가시였겠는가 .
+1	소련사회의	소련+사회+의	PROPN	_	2	nmod	_	_	소련/nq+사회/ncn+의/jcm
+2	공산주의의	공산주의+의	NOUN	_	7	dep	_	_	공산주의/ncn+의/jcm
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	무계급	무계급	NOUN	_	5	compound	_	_	무계급/ncn
+5	사회의	사회+의	NOUN	_	6	nmod	_	_	사회/ncn+의/jcm
+6	지상천국으로의	지상+천국+으로+의	NOUN	_	7	nmod	_	_	지상/ncn+천국/ncn+으로/jca+의/jcm
+7	이행을	이행+을	NOUN	_	8	obj	_	_	이행/ncpa+을/jco
+8	선언하여	선언+하+어	SCONJ	_	10	ccomp	_	_	선언/ncpa+하/xsv+어/ecs
+9	세계만방에	세계+만방+에	ADV	_	10	obl	_	_	세계/ncn+만방/ncn+에/jca
+10	과시하고픈	과시+하+고+프+ㄴ	AUX	_	11	acl	_	_	과시/ncpa+하/xsv+고/ecx+프/px+ㄴ/etm
+11	스탈린의	스탈린+의	PROPN	_	12	nmod	_	_	스탈린/nq+의/jcm
+12	사고체계에	사고+체계+에	ADV	_	15	obl	_	_	사고/ncn+체계/ncn+에/jca
+13	이들은	이+들+은	PRON	_	15	dislocated	_	_	이/npd+들/xsn+은/jxt
+14	얼마나	얼마나	ADV	_	15	advmod	_	_	얼마나/mag
+15	눈엣가시였겠는가	눈엣가시+이+었겠+는가	VERB	_	0	root	_	_	눈엣가시/ncn+이/jp+었겠/ep+는가/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그런데 그들의 존재 자체가 , 그러한 원리와는 양립할 수 없지 않은가 .
+1	그런데	그런데	CCONJ	_	8	cc	_	_	그런데/maj
+2	그들의	그+들+의	PRON	_	3	nmod	_	_	그/npp+들/xsn+의/jcm
+3	존재	존재	NOUN	_	4	compound	_	_	존재/ncn
+4	자체가	자체+가	NOUN	_	8	advmod	_	_	자체/ncn+가/jcs
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	그러한	그러하+ㄴ	VERB	_	7	amod	_	_	그러하/pad+ㄴ/etm
+7	원리와는	원리+와+는	NOUN	_	8	dislocated	_	_	원리/ncn+와/jct+는/jxt
+8	양립할	양립+하+ㄹ	VERB	_	0	root	_	_	양립/ncpa+하/xsv+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	없지	없+지	ADJ	_	8	aux	_	_	없/paa+지/ecx
+11	않은가	않+ㄴ가	AUX	_	8	aux	_	_	않/px+ㄴ가/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 우리가 만화를 그리는 것은 아닌가 .
+1	우리가	우리+가	PRON	_	3	nsubj	_	_	우리/npp+가/jcs
+2	만화를	만화+를	NOUN	_	3	obj	_	_	만화/ncn+를/jco
+3	그리는	그리+는	VERB	_	4	acl	_	_	그리/pvg+는/etm
+4	것은	것+은	NOUN	_	5	dislocated	_	_	것/nbn+은/jxt
+5	아닌가	아니+ㄴ가	ADJ	_	0	root	_	_	아니/paa+ㄴ가/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 인류가 사회주의 사회내에 돌입함에 따라 국가는 그 정치적 베일을 벗어던지고 자유로운 생산자들의 조화로운 연합체인 경제꼼뮨 즉 , 공동체로 전화된다 .
+1	인류가	인류+가	NOUN	_	4	nsubj	_	_	인류/ncn+가/jcs
+2	사회주의	사회주의	NOUN	_	3	compound	_	_	사회주의/ncn
+3	사회내에	사회+내+에	ADV	_	4	obl	_	_	사회/ncn+내/ncn+에/jca
+4	돌입함에	돌입+하+ㅁ+에	ADV	_	5	obl	_	_	돌입/ncpa+하/xsv+ㅁ/etn+에/jca
+5	따라	따르+아	SCONJ	_	19	ccomp	_	_	따르/pvg+아/ecs
+6	국가는	국가+는	NOUN	_	10	dislocated	_	_	국가/ncn+는/jxt
+7	그	그	DET	_	9	det	_	_	그/mmd
+8	정치적	정치+적	NOUN	_	9	amod	_	_	정치/ncpa+적/xsn
+9	베일을	베일+을	NOUN	_	10	obj	_	_	베일/f+을/jco
+10	벗어던지고	벗어던지+고	CCONJ	_	19	conj	_	_	벗어던지/pvg+고/ecc
+11	자유로운	자유+롭+ㄴ	VERB	_	12	amod	_	_	자유/ncps+롭/xsm+ㄴ/etm
+12	생산자들의	생산자+들+의	NOUN	_	14	nmod	_	_	생산자/ncn+들/xsn+의/jcm
+13	조화로운	조화+롭+ㄴ	VERB	_	14	amod	_	_	조화/ncn+롭/xsm+ㄴ/etm
+14	연합체인	연합체+이+ㄴ	VERB	_	15	acl	_	_	연합체/ncn+이/jp+ㄴ/etm
+15	경제꼼뮨	경제꼼뮨	NOUN	_	18	conj	_	_	경제꼼뮨/ncn
+16	즉	즉	CCONJ	_	17	cc	_	_	즉/maj
+17	,	,	PUNCT	_	15	punct	_	_	,/sp
+18	공동체로	공동체+로	ADV	_	19	advcl	_	_	공동체/ncn+로/jca
+19	전화된다	전화+되+ㄴ다	VERB	_	0	root	_	_	전화/ncpa+되/xsv+ㄴ다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 국가란 무엇인가 ?
+1	국가란	국가+란	ADV	_	2	advcl	_	_	국가/ncn+란/jxc
+2	무엇인가	무엇+이+ㄴ가	VERB	_	0	root	_	_	무엇/npd+이/jp+ㄴ가/ef
+3	?	?	PUNCT	_	2	punct	_	_	?/sf
+
+# 또한 국가는 노동분업에 따라 사회로부터 발생하였으나 어느덧 관계가 역전되어 사회에 군림하게 됨과 동시에 그것은 계급지배의 도구로 적절히 활용된다 .
+1	또한	또한	CCONJ	_	18	cc	_	_	또한/maj
+2	국가는	국가+는	NOUN	_	6	dislocated	_	_	국가/ncn+는/jxt
+3	노동분업에	노동+분업+에	ADV	_	4	obl	_	_	노동/ncpa+분업/ncn+에/jca
+4	따라	따르+아	SCONJ	_	6	ccomp	_	_	따르/pvg+아/ecs
+5	사회로부터	사회+로+부터	ADV	_	6	advcl	_	_	사회/ncn+로/jca+부터/jxc
+6	발생하였으나	발생+하+었+으나	SCONJ	_	18	ccomp	_	_	발생/ncpa+하/xsv+었/ep+으나/ecs
+7	어느덧	어느덧	ADV	_	9	advmod	_	_	어느덧/mag
+8	관계가	관계+가	NOUN	_	9	csubj	_	_	관계/ncpa+가/jcc
+9	역전되어	역전+되+어	SCONJ	_	11	conj	_	_	역전/ncpa+되/xsv+어/ecs
+10	사회에	사회+에	ADV	_	11	obl	_	_	사회/ncn+에/jca
+11	군림하게	군림+하+게	VERB	_	13	conj	_	_	군림/ncpa+하/xsv+게/ecx
+12	됨과	되+ㅁ+과	CCONJ	_	11	aux	_	_	되/px+ㅁ/etn+과/jct
+13	동시에	동시+에	ADV	_	18	obl	_	_	동시/ncn+에/jca
+14	그것은	그것+은	PRON	_	18	dislocated	_	_	그것/npd+은/jxt
+15	계급지배의	계급+지배+의	NOUN	_	16	nmod	_	_	계급/ncn+지배/ncpa+의/jcm
+16	도구로	도구+로	ADV	_	18	advcl	_	_	도구/ncn+로/jca
+17	적절히	적절+히	ADV	_	18	advmod	_	_	적절/ncps+히/xsa
+18	활용된다	활용+되+ㄴ다	VERB	_	0	root	_	_	활용/ncpa+되/xsv+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그렇다면 사회주의 단계에서는 어떠한가 ?
+1	그렇다면	그렇다면	CCONJ	_	4	cc	_	_	그렇다면/maj
+2	사회주의	사회주의	NOUN	_	3	compound	_	_	사회주의/ncn
+3	단계에서는	단계+에서+는	NOUN	_	4	dislocated	_	_	단계/ncn+에서/jca+는/jxt
+4	어떠한가	어떠하+ㄴ가	ADJ	_	0	root	_	_	어떠하/paa+ㄴ가/ef
+5	?	?	PUNCT	_	4	punct	_	_	?/sf
+
+# 이제 인간에 대한 지배 즉 , 정치적 관리가 아니라 사물에 대한 관리 및 생산과정에 대한 지도가 나타난다 .
+1	이제	이제	ADV	_	17	advmod	_	_	이제/mag
+2	인간에	인간+에	ADV	_	3	obl	_	_	인간/ncn+에/jca
+3	대한	대하+ㄴ	VERB	_	4	acl	_	_	대하/pvg+ㄴ/etm
+4	지배	지배	NOUN	_	8	conj	_	_	지배/ncn
+5	즉	즉	CCONJ	_	6	cc	_	_	즉/maj
+6	,	,	PUNCT	_	4	punct	_	_	,/sp
+7	정치적	정치+적	NOUN	_	8	amod	_	_	정치/ncpa+적/xsn
+8	관리가	관리+가	NOUN	_	9	csubj	_	_	관리/ncn+가/jcc
+9	아니라	아니+라	SCONJ	_	17	xcomp	_	_	아니/paa+라/ecs
+10	사물에	사물+에	ADV	_	11	obl	_	_	사물/ncn+에/jca
+11	대한	대하+ㄴ	VERB	_	12	acl	_	_	대하/pvg+ㄴ/etm
+12	관리	관리	NOUN	_	16	conj	_	_	관리/ncn
+13	및	및	CCONJ	_	16	cc	_	_	및/maj
+14	생산과정에	생산+과정+에	ADV	_	15	obl	_	_	생산/ncpa+과정/ncn+에/jca
+15	대한	대하+ㄴ	VERB	_	16	acl	_	_	대하/pvg+ㄴ/etm
+16	지도가	지도+가	NOUN	_	17	nsubj	_	_	지도/ncpa+가/jcs
+17	나타난다	나타나+ㄴ다	VERB	_	0	root	_	_	나타나/pvg+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 발리바의 그릇된 사상을 비판할까 한다 .
+1	발리바의	발리바+의	PROPN	_	3	nmod	_	_	발리바/nq+의/jcm
+2	그릇된	그릇되+ㄴ	VERB	_	3	acl	_	_	그릇되/pvg+ㄴ/etm
+3	사상을	사상+을	NOUN	_	4	obj	_	_	사상/ncn+을/jco
+4	비판할까	비판+하+ㄹ까	VERB	_	5	ccomp	_	_	비판/ncpa+하/xsv+ㄹ까/ef
+5	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 발리바는 다음과 같이 말한다 .
+1	발리바는	발리바+는	PROPN	_	4	dislocated	_	_	발리바/nq+는/jxt
+2	다음과	다음+과	CCONJ	_	3	conj	_	_	다음/ncn+과/jct
+3	같이	같+이	SCONJ	_	4	xcomp	_	_	같/paa+이/ecs
+4	말한다	말하+ㄴ다	VERB	_	0	root	_	_	말하/pvg+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 즉 , 그것은 단지 공산주의만이 무계급사회 , 모든 형태의 착취가 소멸한 사회라는 것이다 .
+1	즉	즉	CCONJ	_	13	cc	_	_	즉/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	그것은	그것+은	PRON	_	13	dislocated	_	_	그것/npd+은/jxt
+4	단지	단지	ADV	_	12	advmod	_	_	단지/mag
+5	공산주의만이	공산주의+만+이	NOUN	_	12	nsubj	_	_	공산주의/ncn+만/jxc+이/jcs
+6	무계급사회	무계급+사회	NOUN	_	12	compound	_	_	무계급/ncn+사회/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	모든	모든	ADJ	_	9	amod	_	_	모든/mma
+9	형태의	형태+의	NOUN	_	10	nmod	_	_	형태/ncn+의/jcm
+10	착취가	착취+가	NOUN	_	11	nsubj	_	_	착취/ncpa+가/jcs
+11	소멸한	소멸+하+ㄴ	VERB	_	12	acl	_	_	소멸/ncpa+하/xsv+ㄴ/etm
+12	사회라는	사회+이+라는	VERB	_	13	ccomp	_	_	사회/ncn+이/jp+라는/etm
+13	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 자본주의적 관계는 역사적으로 가능한 최후의 착취형태이므로 이것은 다음과 같은 사실을 의미한다 .
+1	자본주의적	자본주의+적	NOUN	_	2	amod	_	_	자본주의/ncn+적/xsn
+2	관계는	관계+는	NOUN	_	6	dislocated	_	_	관계/ncpa+는/jxt
+3	역사적으로	역사+적+으로	ADV	_	4	advcl	_	_	역사/ncn+적/xsn+으로/jca
+4	가능한	가능+하+ㄴ	VERB	_	6	amod	_	_	가능/ncps+하/xsm+ㄴ/etm
+5	최후의	최후+의	NOUN	_	6	nmod	_	_	최후/ncn+의/jcm
+6	착취형태이므로	착취+형태+이+므로	SCONJ	_	11	ccomp	_	_	착취/ncpa+형태/ncn+이/jp+므로/ecs
+7	이것은	이것+은	PRON	_	11	dislocated	_	_	이것/npd+은/jxt
+8	다음과	다음+과	CCONJ	_	9	conj	_	_	다음/ncn+과/jct
+9	같은	같+ㄴ	ADJ	_	10	amod	_	_	같/paa+ㄴ/etm
+10	사실을	사실+을	NOUN	_	11	obj	_	_	사실/ncn+을/jco
+11	의미한다	의미+하+ㄴ다	VERB	_	0	root	_	_	의미/ncpa+하/xsv+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 특히 실천적 관점의 양면에서 엄청나게 중요한 일련의 결론이 함축되어 있다 .
+1	특히	특히	ADV	_	9	advmod	_	_	특히/mag
+2	실천적	실천+적	NOUN	_	3	amod	_	_	실천/ncpa+적/xsn
+3	관점의	관점+의	NOUN	_	4	nmod	_	_	관점/ncn+의/jcm
+4	양면에서	양면+에서	ADV	_	9	advcl	_	_	양면/ncn+에서/jca
+5	엄청나게	엄청나+게	SCONJ	_	6	xcomp	_	_	엄청나/paa+게/ecs
+6	중요한	중요+하+ㄴ	VERB	_	8	amod	_	_	중요/ncps+하/xsm+ㄴ/etm
+7	일련의	일련+의	NOUN	_	8	nmod	_	_	일련/ncn+의/jcm
+8	결론이	결론+이	NOUN	_	9	csubj	_	_	결론/ncn+이/jcc
+9	함축되어	함축+되+어	VERB	_	0	root	_	_	함축/ncpa+되/xsv+어/ecx
+10	있다	있+다	AUX	_	9	aux	_	_	있/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그것은 사회주의가 다름 아닌 프롤레타리아 독재라는 것을 의미한다 .
+1	그것은	그것+은	PRON	_	8	dislocated	_	_	그것/npd+은/jxt
+2	사회주의가	사회주의+가	NOUN	_	6	nsubj	_	_	사회주의/ncn+가/jcs
+3	다름	다름	NOUN	_	4	dep	_	_	다름/ncn
+4	아닌	아니+ㄴ	ADJ	_	6	amod	_	_	아니/paa+ㄴ/etm
+5	프롤레타리아	프롤레타리아	X	_	6	compound	_	_	프롤레타리아/f
+6	독재라는	독재+이+라는	VERB	_	7	acl	_	_	독재/ncpa+이/jp+라는/etm
+7	것을	것+을	NOUN	_	8	obj	_	_	것/nbn+을/jco
+8	의미한다	의미+하+ㄴ다	VERB	_	0	root	_	_	의미/ncpa+하/xsv+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 먼저 우리는 발리바르가 이해하고 있는 사회주의가 도대체 무엇인가를 알아보도록 하자 .
+1	먼저	먼저	ADV	_	9	advmod	_	_	먼저/mag
+2	우리는	우리+는	PRON	_	9	dislocated	_	_	우리/npp+는/jxt
+3	발리바르가	발리바르+가	PROPN	_	4	nsubj	_	_	발리바르/nq+가/jcs
+4	이해하고	이해+하+고	VERB	_	6	acl	_	_	이해/ncpa+하/xsv+고/ecx
+5	있는	있+는	AUX	_	4	aux	_	_	있/px+는/etm
+6	사회주의가	사회주의+가	NOUN	_	8	nsubj	_	_	사회주의/ncn+가/jcs
+7	도대체	도대체	ADV	_	8	advmod	_	_	도대체/mag
+8	무엇인가를	무엇+이+ㄴ가+를	PRON	_	9	obj	_	_	무엇/npd+이/jp+ㄴ가/ef+를/jco
+9	알아보도록	알+아+보+도록	SCONJ	_	10	ccomp	_	_	알/pvg+아/ecx+보/px+도록/ecs
+10	하자	하+자	VERB	_	0	root	_	_	하/pvg+자/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이 말을 풀어본다면 발리바르도 인정한 공산주의의 낮은 단계인 사회주의라는 첫번째 국면은 높은 단계의 과도기라는 얘기로 밖에 표현되지 않는다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	말을	말+을	NOUN	_	3	obj	_	_	말/ncpa+을/jco
+3	풀어본다면	풀+어+보+ㄴ다면	SCONJ	_	17	ccomp	_	_	풀/pvg+어/ecx+보/px+ㄴ다면/ecs
+4	발리바르도	발리바르+도	ADV	_	5	advcl	_	_	발리바르/nq+도/jxc
+5	인정한	인정+하+ㄴ	VERB	_	9	ccomp	_	_	인정/ncpa+하/xsv+ㄴ/etm
+6	공산주의의	공산주의+의	NOUN	_	8	nmod	_	_	공산주의/ncn+의/jcm
+7	낮은	낮+ㄴ	ADJ	_	8	amod	_	_	낮/paa+ㄴ/etm
+8	단계인	단계+이+ㄴ	VERB	_	9	acl	_	_	단계/ncn+이/jp+ㄴ/etm
+9	사회주의라는	사회주의+이+라는	VERB	_	11	acl	_	_	사회주의/ncn+이/jp+라는/etm
+10	첫번째	첫+번째	NOUN	_	11	compound	_	_	첫/nno+번째/nbu
+11	국면은	국면+은	NOUN	_	14	dislocated	_	_	국면/ncn+은/jxt
+12	높은	높+ㄴ	ADJ	_	13	amod	_	_	높/paa+ㄴ/etm
+13	단계의	단계+의	NOUN	_	14	nmod	_	_	단계/ncn+의/jcm
+14	과도기라는	과도기+이+라는	VERB	_	15	acl	_	_	과도기/ncn+이/jp+라는/etm
+15	얘기로	얘기+로	ADV	_	17	advcl	_	_	얘기/ncpa+로/jca
+16	밖에	밖+에	ADV	_	17	obl	_	_	밖/ncn+에/jca
+17	표현되지	표현+되+지	VERB	_	0	root	_	_	표현/ncpa+되/xsv+지/ecx
+18	않는다	않+는다	AUX	_	17	aux	_	_	않/px+는다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 따라서 공산주의는 공산주의의 과도기인 것이다 .
+1	따라서	따라서	CCONJ	_	5	cc	_	_	따라서/maj
+2	공산주의는	공산주의+는	NOUN	_	4	dislocated	_	_	공산주의/ncn+는/jxt
+3	공산주의의	공산주의+의	NOUN	_	4	nmod	_	_	공산주의/ncn+의/jcm
+4	과도기인	과도기+이+ㄴ	VERB	_	5	ccomp	_	_	과도기/ncn+이/jp+ㄴ/etm
+5	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 이러한 발리바의 언급은 사실상 인식의 박약함을 드러낸 것이며 궁극적으로 신비주의로의 도피이다 .
+1	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+2	발리바의	발리바+의	PROPN	_	3	nmod	_	_	발리바/nq+의/jcm
+3	언급은	언급+은	NOUN	_	11	dislocated	_	_	언급/ncpa+은/jxt
+4	사실상	사실상	ADV	_	7	advmod	_	_	사실상/mag
+5	인식의	인식+의	NOUN	_	6	nmod	_	_	인식/ncpa+의/jcm
+6	박약함을	박약+하+ㅁ+을	NOUN	_	7	obj	_	_	박약/ncps+하/xsm+ㅁ/etn+을/jco
+7	드러낸	드러내+ㄴ	VERB	_	11	conj	_	_	드러내/pvg+ㄴ/etm
+8	것이며	것+이+며	CCONJ	_	7	aux	_	_	것/nbn+이/jp+며/ecc
+9	궁극적으로	궁극+적+으로	ADV	_	11	advcl	_	_	궁극/ncps+적/xsn+으로/jca
+10	신비주의로의	신비주의+로+의	NOUN	_	11	nmod	_	_	신비주의/ncn+로/jca+의/jcm
+11	도피이다	도피+이+다	VERB	_	0	root	_	_	도피/ncpa+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 발리바르의 불합리함은 자본주의 사회내의 제 단계를 비슷한 예로 들어도 명백하게 드러난다 .
+1	발리바르의	발리바르+의	PROPN	_	2	nmod	_	_	발리바르/nq+의/jcm
+2	불합리함은	불합리+하+ㅁ+은	NOUN	_	11	dislocated	_	_	불합리/ncps+하/xsm+ㅁ/etn+은/jxt
+3	자본주의	자본주의	NOUN	_	4	compound	_	_	자본주의/ncn
+4	사회내의	사회+내+의	NOUN	_	6	nmod	_	_	사회/ncn+내/ncn+의/jcm
+5	제	제	ADJ	_	6	amod	_	_	제/mma
+6	단계를	단계+를	NOUN	_	9	obj	_	_	단계/ncn+를/jco
+7	비슷한	비슷+하+ㄴ	VERB	_	8	amod	_	_	비슷/ncps+하/xsm+ㄴ/etm
+8	예로	예+로	ADV	_	9	advcl	_	_	예/ncn+로/jca
+9	들어도	들+어도	SCONJ	_	11	ccomp	_	_	들/pvg+어도/ecs
+10	명백하게	명백+하+게	SCONJ	_	11	xcomp	_	_	명백/ncps+하/xsm+게/ecs
+11	드러난다	드러나+ㄴ다	VERB	_	0	root	_	_	드러나/pvg+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러한 자본주의내의 생산관계의 변용은 사실상 가일층의 생산의 사회화 과정의 표현에 다름 아니다 .
+1	그러한	그러하+ㄴ	VERB	_	3	amod	_	_	그러하/pad+ㄴ/etm
+2	자본주의내의	자본주의+내+의	NOUN	_	3	nmod	_	_	자본주의/ncn+내/ncn+의/jcm
+3	생산관계의	생산+관계+의	NOUN	_	4	nmod	_	_	생산/ncpa+관계/ncpa+의/jcm
+4	변용은	변용+은	NOUN	_	12	dislocated	_	_	변용/ncpa+은/jxt
+5	사실상	사실상	ADV	_	12	advmod	_	_	사실상/mag
+6	가일층의	가일층+의	NOUN	_	7	nmod	_	_	가일층/ncn+의/jcm
+7	생산의	생산+의	NOUN	_	8	nmod	_	_	생산/ncpa+의/jcm
+8	사회화	사회화	NOUN	_	9	compound	_	_	사회화/ncn
+9	과정의	과정+의	NOUN	_	10	nmod	_	_	과정/ncpa+의/jcm
+10	표현에	표현+에	ADV	_	12	obl	_	_	표현/ncpa+에/jca
+11	다름	다르+ㅁ	ADJ	_	12	nmod	_	_	다르/paa+ㅁ/etn
+12	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그러나 그렇다고 해서 자유경쟁자본주의와 독점자본주의를 자본주의의 과도기라 부른다면 이는 아무 것도 애기하지 않는 것이다 .
+1	그러나	그러나	CCONJ	_	12	cc	_	_	그러나/maj
+2	그렇다고	그렇+다+고	VERB	_	3	conj	_	_	그렇/pad+다/ef+고/jcr
+3	해서	하+어서	SCONJ	_	8	ccomp	_	_	하/pvg+어서/ecs
+4	자유경쟁자본주의와	자유+경쟁+자본주의+와	CCONJ	_	5	conj	_	_	자유/ncpa+경쟁/ncpa+자본주의/ncn+와/jcj
+5	독점자본주의를	독점자본주의+를	NOUN	_	7	obj	_	_	독점자본주의/ncn+를/jco
+6	자본주의의	자본주의+의	NOUN	_	7	nmod	_	_	자본주의/ncn+의/jcm
+7	과도기라	과도기+이+라	VERB	_	8	ccomp	_	_	과도기/ncn+이/jp+라/ef
+8	부른다면	부르+ㄴ다면	SCONJ	_	12	ccomp	_	_	부르/pvg+ㄴ다면/ecs
+9	이는	이+는	PRON	_	12	dislocated	_	_	이/npd+는/jxt
+10	아무	아무	ADJ	_	11	amod	_	_	아무/mma
+11	것도	것+도	ADV	_	12	advcl	_	_	것/nbn+도/jxc
+12	애기하지	애기+하+지	VERB	_	0	root	_	_	애기/ncpa+하/xsv+지/ecx
+13	않는	않+는	AUX	_	12	aux	_	_	않/px+는/etm
+14	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 따지고 보면 원시공산제 이래 역사의 제 발전시기 즉 , 고대 노예제 , 봉건제 , 자본제적 사회는 모두 공산주의로 가는 과도기에 불과한 것 아닌가 .
+1	따지고	따지+고	VERB	_	23	conj	_	_	따지/pvg+고/ecx
+2	보면	보+면	SCONJ	_	1	aux	_	_	보/px+면/ecs
+3	원시공산제	원시+공산제	NOUN	_	4	compound	_	_	원시/ncn+공산제/ncn
+4	이래	이래	NOUN	_	21	compound	_	_	이래/ncn
+5	역사의	역사+의	NOUN	_	7	nmod	_	_	역사/ncn+의/jcm
+6	제	제	ADJ	_	7	amod	_	_	제/mma
+7	발전시기	발전+시기	NOUN	_	16	conj	_	_	발전/ncpa+시기/ncn
+8	즉	즉	CCONJ	_	9	cc	_	_	즉/maj
+9	,	,	PUNCT	_	7	punct	_	_	,/sp
+10	고대	고대	NOUN	_	11	compound	_	_	고대/ncn
+11	노예제	노예제	NOUN	_	13	compound	_	_	노예제/ncn
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	봉건제	봉건제	NOUN	_	15	conj	_	_	봉건제/ncn
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	자본제적	자본제+적	NOUN	_	16	amod	_	_	자본제/ncn+적/xsn
+16	사회는	사회+는	NOUN	_	21	dislocated	_	_	사회/ncn+는/jxt
+17	모두	모두	ADV	_	21	advmod	_	_	모두/mag
+18	공산주의로	공산주의+로	ADV	_	19	advcl	_	_	공산주의/ncn+로/jca
+19	가는	가+는	VERB	_	20	acl	_	_	가/pvg+는/etm
+20	과도기에	과도기+에	ADV	_	21	obl	_	_	과도기/ncn+에/jca
+21	불과한	불과+하+ㄴ	VERB	_	22	amod	_	_	불과/ncps+하/xsm+ㄴ/etm
+22	것	것	NOUN	_	23	mark	_	_	것/nbn
+23	아닌가	아니+ㄴ가	ADJ	_	0	root	_	_	아니/paa+ㄴ가/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+
+# 맑스는 사회주의내에서 공산주의적 관계의 보편성과 아직도 그 모반에 남아있는 부르조아적 흔적을 , 그 특수성을 명백히 구분하였다 .
+1	맑스는	맑스+는	PROPN	_	16	dislocated	_	_	맑스/nq+는/jxt
+2	사회주의내에서	사회주의+내+에서	ADV	_	16	advcl	_	_	사회주의/ncn+내/ncn+에서/jca
+3	공산주의적	공산주의+적	NOUN	_	4	amod	_	_	공산주의/ncn+적/xsn
+4	관계의	관계+의	NOUN	_	5	nmod	_	_	관계/ncpa+의/jcm
+5	보편성과	보편성+과	CCONJ	_	11	conj	_	_	보편성/ncn+과/jcj
+6	아직도	아직도	ADV	_	9	advmod	_	_	아직도/mag
+7	그	그	DET	_	8	det	_	_	그/mmd
+8	모반에	모반+에	ADV	_	9	obl	_	_	모반/ncn+에/jca
+9	남아있는	남+아+있+는	AUX	_	11	acl	_	_	남/pvg+아/ecx+있/px+는/etm
+10	부르조아적	부르조아+적	NOUN	_	11	amod	_	_	부르조아/ncn+적/xsn
+11	흔적을	흔적+을	NOUN	_	14	dep	_	_	흔적/ncn+을/jco
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	그	그	DET	_	14	det	_	_	그/mmd
+14	특수성을	특수성+을	NOUN	_	16	obj	_	_	특수성/ncn+을/jco
+15	명백히	명백히	ADV	_	16	advmod	_	_	명백히/mag
+16	구분하였다	구분+하+었+다	VERB	_	0	root	_	_	구분/ncpa+하/xsv+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그 보편성이란 사적소유의 폐지에 따른 생산수단의 사회적 소유이다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	보편성이란	보편성+이란	ADV	_	8	advcl	_	_	보편성/ncn+이란/jxc
+3	사적소유의	사적+소유+의	NOUN	_	4	nmod	_	_	사적/ncn+소유/ncpa+의/jcm
+4	폐지에	폐지+에	ADV	_	5	obl	_	_	폐지/ncpa+에/jca
+5	따른	따르+ㄴ	VERB	_	8	ccomp	_	_	따르/pvg+ㄴ/etm
+6	생산수단의	생산+수단+의	NOUN	_	7	nmod	_	_	생산/ncpa+수단/ncn+의/jcm
+7	사회적	사회+적	NOUN	_	8	amod	_	_	사회/ncn+적/xsn
+8	소유이다	소유+이+다	VERB	_	0	root	_	_	소유/ncpa+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이러한 생산수단과 노동자의 관계가 부르조아법이건 프롤레타리아법이건 법전에 기술될지 아는 일은 발리바에게 맡기도록 하자 .
+1	이러한	이러하+ㄴ	VERB	_	4	amod	_	_	이러하/pad+ㄴ/etm
+2	생산수단과	생산+수단+과	CCONJ	_	3	conj	_	_	생산/ncpa+수단/ncn+과/jcj
+3	노동자의	노동자+의	NOUN	_	4	nmod	_	_	노동자/ncn+의/jcm
+4	관계가	관계+가	NOUN	_	8	nsubj	_	_	관계/ncpa+가/jcs
+5	부르조아법이건	부르조아+법+이+건	CCONJ	_	6	conj	_	_	부르조아/f+법/ncn+이/jp+건/ecc
+6	프롤레타리아법이건	프롤레타리아+법+이+건	CCONJ	_	8	conj	_	_	프롤레타리아/f+법/ncn+이/jp+건/ecc
+7	법전에	법전+에	ADV	_	8	obl	_	_	법전/ncn+에/jca
+8	기술될지	기술+되+ㄹ지	SCONJ	_	9	ccomp	_	_	기술/ncpa+되/xsv+ㄹ지/ecs
+9	아는	알+는	VERB	_	10	acl	_	_	알/pvg+는/etm
+10	일은	일+은	NOUN	_	12	dislocated	_	_	일/ncpa+은/jxt
+11	발리바에게	발리바+에게	ADV	_	12	iobj	_	_	발리바/nq+에게/jca
+12	맡기도록	맡기+도록	SCONJ	_	13	ccomp	_	_	맡기/pvg+도록/ecs
+13	하자	하+자	VERB	_	0	root	_	_	하/pvg+자/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 우리에게는 사회내의 경제적 발전수준이 그러한 조치를 강제하는 단계에 이르렀다는 것이 중요하다 .
+1	우리에게는	우리+에게+는	PRON	_	11	dislocated	_	_	우리/npp+에게/jca+는/jxt
+2	사회내의	사회+내+의	NOUN	_	4	nmod	_	_	사회/ncn+내/ncn+의/jcm
+3	경제적	경제+적	NOUN	_	4	amod	_	_	경제/ncn+적/xsn
+4	발전수준이	발전+수준+이	NOUN	_	9	nsubj	_	_	발전/ncpa+수준/ncn+이/jcs
+5	그러한	그러하+ㄴ	VERB	_	6	amod	_	_	그러하/pad+ㄴ/etm
+6	조치를	조치+를	NOUN	_	7	obj	_	_	조치/ncpa+를/jco
+7	강제하는	강제+하+는	VERB	_	8	acl	_	_	강제/ncpa+하/xsv+는/etm
+8	단계에	단계+에	ADV	_	9	obl	_	_	단계/ncn+에/jca
+9	이르렀다는	이르+었+다는	VERB	_	10	acl	_	_	이르/pvg+었/ep+다는/etm
+10	것이	것+이	NOUN	_	11	nsubj	_	_	것/nbn+이/jcs
+11	중요하다	중요+하+다	VERB	_	0	root	_	_	중요/ncps+하/xsm+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그런데 이것을 규제하기 위해 부르조아법이 여전히 필요하다고 발리바는 말하고 있지 않은가 .
+1	그런데	그런데	CCONJ	_	9	cc	_	_	그런데/maj
+2	이것을	이것+을	PRON	_	3	obj	_	_	이것/npd+을/jco
+3	규제하기	규제+하+기	VERB	_	4	nmod	_	_	규제/ncpa+하/xsv+기/etn
+4	위해	위하+어	SCONJ	_	7	conj	_	_	위하/pvg+어/ecs
+5	부르조아법이	부르조아+법+이	NOUN	_	7	nsubj	_	_	부르조아/f+법/ncn+이/jcs
+6	여전히	여전히	ADV	_	7	advmod	_	_	여전히/mag
+7	필요하다고	필요+하+다+고	VERB	_	9	conj	_	_	필요/ncps+하/xsm+다/ef+고/jcr
+8	발리바는	발리바+는	PROPN	_	9	dislocated	_	_	발리바/nq+는/jxt
+9	말하고	말하+고	VERB	_	0	root	_	_	말하/pvg+고/ecx
+10	있지	있+지	AUX	_	9	aux	_	_	있/px+지/ecx
+11	않은가	않+ㄴ가	AUX	_	9	aux	_	_	않/px+ㄴ가/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 도대체 무엇을 규제한단 말인가 ?
+1	도대체	도대체	ADV	_	3	advmod	_	_	도대체/mag
+2	무엇을	무엇+을	PRON	_	3	obj	_	_	무엇/npd+을/jco
+3	규제한단	규제+하+ㄴ단	VERB	_	4	ccomp	_	_	규제/ncpa+하/xsv+ㄴ단/etm
+4	말인가	말+이+ㄴ가	VERB	_	0	root	_	_	말/ncpa+이/jp+ㄴ가/ef
+5	?	?	PUNCT	_	4	punct	_	_	?/sf
+
+# 아니 , 그 자체가 사회주의내의 부르조아적 권리가 아닌가 .
+1	아니	아니	INTJ	_	8	discourse	_	_	아니/ii
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	자체가	자체+가	NOUN	_	8	nsubj	_	_	자체/ncn+가/jcs
+5	사회주의내의	사회주의+내+의	NOUN	_	7	nmod	_	_	사회주의/ncn+내/ncn+의/jcm
+6	부르조아적	부르조아+적	NOUN	_	7	amod	_	_	부르조아/ncn+적/xsn
+7	권리가	권리+가	NOUN	_	8	nsubj	_	_	권리/ncn+가/jcs
+8	아닌가	아니+ㄴ가	ADJ	_	0	root	_	_	아니/paa+ㄴ가/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 부르조아법이 부르조아적 권리를 지키기 위해 부르조아적 권리를 규제한다 ?
+1	부르조아법이	부르조아+법+이	PRON	_	8	nsubj	_	_	부르조아/f+법/npp+이/jcs
+2	부르조아적	부르조아+적	NOUN	_	3	amod	_	_	부르조아/f+적/xsn
+3	권리를	권리+를	NOUN	_	4	obj	_	_	권리/ncn+를/jco
+4	지키기	지키+기	VERB	_	5	nmod	_	_	지키/pvg+기/etn
+5	위해	위하+어	SCONJ	_	8	ccomp	_	_	위하/pvg+어/ecs
+6	부르조아적	부르조아+적	NOUN	_	7	amod	_	_	부르조아/f+적/xsn
+7	권리를	권리+를	NOUN	_	8	obj	_	_	권리/ncn+를/jco
+8	규제한다	규제+하+ㄴ다	VERB	_	0	root	_	_	규제/ncpa+하/xsv+ㄴ다/ef
+9	?	?	PUNCT	_	8	punct	_	_	?/sf
+
+# 이해할 수 있는 사람은 이해해 보라 .
+1	이해할	이해+하+ㄹ	VERB	_	4	acl	_	_	이해/ncpa+하/xsv+ㄹ/etm
+2	수	수	NOUN	_	3	fixed	_	_	수/nbn
+3	있는	있+는	ADJ	_	1	aux	_	_	있/paa+는/etm
+4	사람은	사람+은	NOUN	_	5	dislocated	_	_	사람/ncn+은/jxt
+5	이해해	이해+하+어	VERB	_	0	root	_	_	이해/ncpa+하/xsv+어/ecx
+6	보라	보+라	AUX	_	5	aux	_	_	보/px+라/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그것은 아무리 규제하려 해도 할 수 없다 .
+1	그것은	그것+은	PRON	_	5	dislocated	_	_	그것/npd+은/jxt
+2	아무리	아무리	ADV	_	3	advmod	_	_	아무리/mag
+3	규제하려	규제+하+려	VERB	_	5	ccomp	_	_	규제/ncpa+하/xsv+려/ecx
+4	해도	하+어도	SCONJ	_	3	aux	_	_	하/px+어도/ecs
+5	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+6	수	수	NOUN	_	7	fixed	_	_	수/nbn
+7	없다	없+다	ADJ	_	5	aux	_	_	없/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그 자체가 사회의 경제제도의 불완전성을 표현하는 자연적인 파생물이 아닌가 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	자체가	자체+가	NOUN	_	9	nsubj	_	_	자체/ncn+가/jcs
+3	사회의	사회+의	NOUN	_	5	nmod	_	_	사회/ncn+의/jcm
+4	경제제도의	경제+제도+의	NOUN	_	5	nmod	_	_	경제/ncn+제도/ncn+의/jcm
+5	불완전성을	불완전성+을	NOUN	_	6	obj	_	_	불완전성/ncn+을/jco
+6	표현하는	표현+하+는	VERB	_	8	acl	_	_	표현/ncpa+하/xsv+는/etm
+7	자연적인	자연+적+이+ㄴ	VERB	_	8	acl	_	_	자연/ncpa+적/xsn+이/jp+ㄴ/etm
+8	파생물이	파생물+이	NOUN	_	9	nsubj	_	_	파생물/ncn+이/jcs
+9	아닌가	아니+ㄴ가	ADJ	_	0	root	_	_	아니/paa+ㄴ가/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 우리의 분석에서 드러났듯이 맑스는 사회주의를 공산주의의 과도기로 규정한 적이 없다 .
+1	우리의	우리+의	PRON	_	2	nmod	_	_	우리/npp+의/jcm
+2	분석에서	분석+에서	ADV	_	3	advcl	_	_	분석/ncpa+에서/jca
+3	드러났듯이	드러나+었+듯이	SCONJ	_	10	conj	_	_	드러나/pvg+었/ep+듯이/ecs
+4	맑스는	맑스+는	PROPN	_	10	dislocated	_	_	맑스/nq+는/jxt
+5	사회주의를	사회주의+를	NOUN	_	8	obj	_	_	사회주의/ncn+를/jco
+6	공산주의의	공산주의+의	NOUN	_	7	nmod	_	_	공산주의/ncn+의/jcm
+7	과도기로	과도기+로	ADV	_	8	advcl	_	_	과도기/ncn+로/jca
+8	규정한	규정+하+ㄴ	VERB	_	9	acl	_	_	규정/ncpa+하/xsv+ㄴ/etm
+9	적이	적+이	NOUN	_	10	nsubj	_	_	적/nbn+이/jcs
+10	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 사회주의 역시 공산주의의 구성부분이다 .
+1	사회주의	사회주의	NOUN	_	2	dep	_	_	사회주의/ncn
+2	역시	역시	ADV	_	4	advmod	_	_	역시/mag
+3	공산주의의	공산주의+의	NOUN	_	4	nmod	_	_	공산주의/ncn+의/jcm
+4	구성부분이다	구성+부분+이+다	VERB	_	0	root	_	_	구성/ncpa+부분/ncn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 사회주의는 공산주의적 사회구성체내의 낮은 단계로서 하나의 생산양식은 아니지만 상대적으로 높은 단계의 그것과는 독자적인 분배양식이다 .
+1	사회주의는	사회주의+는	NOUN	_	14	dislocated	_	_	사회주의/ncn+는/jxt
+2	공산주의적	공산주의+적	NOUN	_	3	amod	_	_	공산주의/ncn+적/xsn
+3	사회구성체내의	사회+구성체+내+의	NOUN	_	5	nmod	_	_	사회/ncn+구성체/ncn+내/ncn+의/jcm
+4	낮은	낮+ㄴ	ADJ	_	5	amod	_	_	낮/paa+ㄴ/etm
+5	단계로서	단계+로서	ADV	_	8	advcl	_	_	단계/ncn+로서/jca
+6	하나의	하나+의	NOUN	_	7	nmod	_	_	하나/ncn+의/jcm
+7	생산양식은	생산+양식+은	NOUN	_	8	dislocated	_	_	생산/ncpa+양식/ncn+은/jxt
+8	아니지만	아니+지만	SCONJ	_	14	xcomp	_	_	아니/paa+지만/ecs
+9	상대적으로	상대+적+으로	ADV	_	10	advcl	_	_	상대/ncn+적/xsn+으로/jca
+10	높은	높+ㄴ	ADJ	_	11	amod	_	_	높/paa+ㄴ/etm
+11	단계의	단계+의	NOUN	_	12	nmod	_	_	단계/ncn+의/jcm
+12	그것과는	그것+과+는	PRON	_	13	dislocated	_	_	그것/npd+과/jct+는/jxt
+13	독자적인	독자+적+이+ㄴ	VERB	_	14	ccomp	_	_	독자/ncn+적/xsn+이/jp+ㄴ/etm
+14	분배양식이다	분배+양식+이+다	VERB	_	0	root	_	_	분배/ncpa+양식/ncn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그렇다면 맑스는 고타강령 비판에서 소위 정치적 과도기라는 의미를 어떻게 가정하고 있는가 ?
+1	그렇다면	그렇다면	CCONJ	_	10	cc	_	_	그렇다면/maj
+2	맑스는	맑스+는	PROPN	_	10	dislocated	_	_	맑스/nq+는/jxt
+3	고타강령	고타강령	PROPN	_	4	compound	_	_	고타강령/nq
+4	비판에서	비판+에서	ADV	_	10	advcl	_	_	비판/ncpa+에서/jca
+5	소위	소위	NOUN	_	7	compound	_	_	소위/ncn
+6	정치적	정치+적	NOUN	_	7	amod	_	_	정치/ncpa+적/xsn
+7	과도기라는	과도기+이+라는	VERB	_	8	acl	_	_	과도기/ncn+이/jp+라는/etm
+8	의미를	의미+를	NOUN	_	10	obj	_	_	의미/ncpa+를/jco
+9	어떻게	어떻+게	SCONJ	_	10	xcomp	_	_	어떻/pad+게/ecs
+10	가정하고	가정+하+고	VERB	_	0	root	_	_	가정/ncpa+하/xsv+고/ecx
+11	있는가	있+는가	AUX	_	10	aux	_	_	있/px+는가/ef
+12	?	?	PUNCT	_	11	punct	_	_	?/sf
+
+# 우리가 구미에 맞게 , 레닌의 사상을 편식하는 것으로 보이는가 .
+1	우리가	우리+가	PRON	_	7	nsubj	_	_	우리/npp+가/jcs
+2	구미에	구미+에	ADV	_	3	obl	_	_	구미/ncn+에/jca
+3	맞게	맞+게	SCONJ	_	7	ccomp	_	_	맞/pvg+게/ecs
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	레닌의	레닌+의	PROPN	_	6	nmod	_	_	레닌/nq+의/jcm
+6	사상을	사상+을	NOUN	_	7	obj	_	_	사상/ncn+을/jco
+7	편식하는	편식+하+는	VERB	_	8	acl	_	_	편식/ncpa+하/xsv+는/etm
+8	것으로	것+으로	ADV	_	9	advcl	_	_	것/nbn+으로/jca
+9	보이는가	보이+는가	VERB	_	0	root	_	_	보이/pvg+는가/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이 목적은 단번에 실현될 수는 없다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	목적은	목적+은	NOUN	_	4	dislocated	_	_	목적/ncn+은/jxt
+3	단번에	단번+에	ADV	_	4	obl	_	_	단번/ncn+에/jca
+4	실현될	실현+되+ㄹ	VERB	_	0	root	_	_	실현/ncpa+되/xsv+ㄹ/etm
+5	수는	수+는	NOUN	_	6	fixed	_	_	수/nbn+는/jxt
+6	없다	없+다	ADJ	_	4	aux	_	_	없/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그것은 자본주의로부터 사회주의로의 상당히 장기적인 과도기를 필요로 한다 .
+1	그것은	그것+은	PRON	_	8	dislocated	_	_	그것/npd+은/jxt
+2	자본주의로부터	자본주의+로+부터	ADV	_	8	advcl	_	_	자본주의/ncn+로/jca+부터/jxc
+3	사회주의로의	사회주의+로+의	NOUN	_	6	nmod	_	_	사회주의/ncn+로/jca+의/jcm
+4	상당히	상당히	ADV	_	5	advmod	_	_	상당히/mag
+5	장기적인	장기+적+이+ㄴ	VERB	_	6	acl	_	_	장기/ncn+적/xsn+이/jp+ㄴ/etm
+6	과도기를	과도기+를	NOUN	_	8	obj	_	_	과도기/ncn+를/jco
+7	필요로	필요+로	ADV	_	8	advcl	_	_	필요/ncps+로/jca
+8	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 왜냐하면 우리 역시 맑스와 레닌의 고전적 문헌의 인용에 주로 의존해 왔기 때문이다 .
+1	왜냐하면	왜냐하면	CCONJ	_	10	cc	_	_	왜냐하면/maj
+2	우리	우리	PRON	_	10	advmod	_	_	우리/npp
+3	역시	역시	ADV	_	10	advmod	_	_	역시/mag
+4	맑스와	맑스+와	CCONJ	_	5	conj	_	_	맑스/nq+와/jcj
+5	레닌의	레닌+의	PROPN	_	7	nmod	_	_	레닌/nq+의/jcm
+6	고전적	고전+적	NOUN	_	7	amod	_	_	고전/ncn+적/xsn
+7	문헌의	문헌+의	NOUN	_	8	nmod	_	_	문헌/ncn+의/jcm
+8	인용에	인용+에	ADV	_	10	obl	_	_	인용/ncpa+에/jca
+9	주로	주로	ADV	_	10	advmod	_	_	주로/mag
+10	의존해	의존+하+어	VERB	_	0	root	_	_	의존/ncpa+하/xsv+어/ecx
+11	왔기	오+았+기	AUX	_	10	aux	_	_	오/px+았/ep+기/etn
+12	때문이다	때문+이+다	VERB	_	10	aux	_	_	때문/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 따라서 우리는 지금까지 제기된 적도 없었고 그럴 수도 없었던 국가로서 프롤레타리리트 독재에까지 역사적 유물론을 수미일관되게 적용해야한다 .
+1	따라서	따라서	CCONJ	_	16	cc	_	_	따라서/maj
+2	우리는	우리+는	PRON	_	16	dislocated	_	_	우리/npp+는/jxt
+3	지금까지	지금+까지	ADV	_	4	advcl	_	_	지금/ncn+까지/jxc
+4	제기된	제기+되+ㄴ	VERB	_	5	acl	_	_	제기/ncpa+되/xsv+ㄴ/etm
+5	적도	적+도	ADV	_	6	advcl	_	_	적/nbn+도/jxc
+6	없었고	없+었+고	CCONJ	_	7	conj	_	_	없/paa+었/ep+고/ecc
+7	그럴	그렇+ㄹ	VERB	_	10	amod	_	_	그렇/pad+ㄹ/etm
+8	수도	수+도	ADV	_	9	fixed	_	_	수/nbn+도/jxc
+9	없었던	없+었+던	ADJ	_	7	aux	_	_	없/paa+었/ep+던/etm
+10	국가로서	국가+로서	ADV	_	16	advcl	_	_	국가/ncn+로서/jca
+11	프롤레타리리트	프롤레타리리트	X	_	12	compound	_	_	프롤레타리리트/f
+12	독재에까지	독재+에+까지	ADV	_	16	advcl	_	_	독재/ncpa+에/jca+까지/jxc
+13	역사적	역사+적	NOUN	_	14	amod	_	_	역사/ncn+적/xsn
+14	유물론을	유물론+을	NOUN	_	16	obj	_	_	유물론/ncn+을/jco
+15	수미일관되게	수미일관+되+게	SCONJ	_	16	ccomp	_	_	수미일관/ncpa+되/xsv+게/ecs
+16	적용해야한다	적용+하+어야+하+ㄴ다	AUX	_	0	root	_	_	적용/ncpa+하/xsv+어야/ecx+하/px+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 유물론자는 관념으로의 역사를 주장하지 않는다 .
+1	유물론자는	유물론자+는	NOUN	_	4	dislocated	_	_	유물론자/ncn+는/jxt
+2	관념으로의	관념+으로+의	NOUN	_	3	nmod	_	_	관념/ncn+으로/jca+의/jcm
+3	역사를	역사+를	NOUN	_	4	obj	_	_	역사/ncn+를/jco
+4	주장하지	주장+하+지	VERB	_	0	root	_	_	주장/ncpa+하/xsv+지/ecx
+5	않는다	않+는다	AUX	_	4	aux	_	_	않/px+는다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 먼저 프롤레타리아 독재란 무엇인가 ?
+1	먼저	먼저	ADV	_	4	advmod	_	_	먼저/mag
+2	프롤레타리아	프롤레타리아	X	_	3	compound	_	_	프롤레타리아/f
+3	독재란	독재+란	ADV	_	4	advcl	_	_	독재/ncpa+란/jxc
+4	무엇인가	무엇+이+ㄴ가	VERB	_	0	root	_	_	무엇/npd+이/jp+ㄴ가/ef
+5	?	?	PUNCT	_	4	punct	_	_	?/sf
+
+# 따라서 프롤레타리아 독재 역시 국가인 이상 다기한 형태를 띨지라도 어느 한 계급의 지배권력 , 지배도구의 규정성을 지니다 .
+1	따라서	따라서	CCONJ	_	17	cc	_	_	따라서/maj
+2	프롤레타리아	프롤레타리아	X	_	3	compound	_	_	프롤레타리아/f
+3	독재	독재	NOUN	_	5	advmod	_	_	독재/ncpa
+4	역시	역시	ADV	_	5	advmod	_	_	역시/mag
+5	국가인	국가+이+ㄴ	VERB	_	6	acl	_	_	국가/ncn+이/jp+ㄴ/etm
+6	이상	이상	NOUN	_	17	advmod	_	_	이상/ncn
+7	다기한	다기+하+ㄴ	VERB	_	8	amod	_	_	다기/ncps+하/xsm+ㄴ/etm
+8	형태를	형태+를	NOUN	_	9	obj	_	_	형태/ncn+를/jco
+9	띨지라도	띠+ㄹ지라도	SCONJ	_	17	ccomp	_	_	띠/pvg+ㄹ지라도/ecs
+10	어느	어느	DET	_	12	det	_	_	어느/mmd
+11	한	한	NUM	_	12	nummod	_	_	한/nnc
+12	계급의	계급+의	NOUN	_	15	nmod	_	_	계급/ncn+의/jcm
+13	지배권력	지배+권력	NOUN	_	15	conj	_	_	지배/ncpa+권력/ncn
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	지배도구의	지배+도구+의	NOUN	_	16	nmod	_	_	지배/ncpa+도구/ncn+의/jcm
+16	규정성을	규정성+을	NOUN	_	17	obj	_	_	규정성/ncn+을/jco
+17	지니다	지니+다	VERB	_	0	root	_	_	지니/pvg+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그런데 국가란 무엇인가 ?
+1	그런데	그런데	CCONJ	_	3	cc	_	_	그런데/maj
+2	국가란	국가+란	ADV	_	3	advcl	_	_	국가/ncn+란/jxc
+3	무엇인가	무엇+이+ㄴ가	VERB	_	0	root	_	_	무엇/npd+이/jp+ㄴ가/ef
+4	?	?	PUNCT	_	3	punct	_	_	?/sf
+
+# 그것은 사회의 공적 기관으로서 사회로부터 발생하였으나 그 위에 올라서서 사회와는 더욱 더 멀어져 가는 권력이 아니던가 ?
+1	그것은	그것+은	PRON	_	6	dislocated	_	_	그것/npd+은/jxt
+2	사회의	사회+의	NOUN	_	4	nmod	_	_	사회/ncn+의/jcm
+3	공적	공적	NOUN	_	4	compound	_	_	공적/ncn
+4	기관으로서	기관+으로서	ADV	_	6	advcl	_	_	기관/ncn+으로서/jca
+5	사회로부터	사회+로+부터	ADV	_	6	advcl	_	_	사회/ncn+로/jca+부터/jxc
+6	발생하였으나	발생+하+었+으나	SCONJ	_	13	conj	_	_	발생/ncpa+하/xsv+었/ep+으나/ecs
+7	그	그	DET	_	8	det	_	_	그/mmd
+8	위에	위+에	ADV	_	9	obl	_	_	위/ncn+에/jca
+9	올라서서	올라서+서	SCONJ	_	13	conj	_	_	올라서/pvg+서/ecs
+10	사회와는	사회+와+는	NOUN	_	13	dislocated	_	_	사회/ncn+와/jct+는/jxt
+11	더욱	더욱	ADV	_	13	advmod	_	_	더욱/mag
+12	더	더	ADV	_	11	advmod	_	_	더/mag
+13	멀어져	멀+어+지+어	AUX	_	15	amod	_	_	멀/paa+어/ecx+지/px+어/ecx
+14	가는	가+는	AUX	_	13	aux	_	_	가/px+는/etm
+15	권력이	권력+이	NOUN	_	16	nsubj	_	_	권력/ncn+이/jcs
+16	아니던가	아니+던가	ADJ	_	0	root	_	_	아니/paa+던가/ef
+17	?	?	PUNCT	_	16	punct	_	_	?/sf
+
+# 모든 사물의 삶이 그러하듯이 프롤레타리아 독재 국가 역시 그 과거와 미래를 간직한다 .
+1	모든	모든	ADJ	_	2	amod	_	_	모든/mma
+2	사물의	사물+의	NOUN	_	3	nmod	_	_	사물/ncn+의/jcm
+3	삶이	삶+이	NOUN	_	4	nsubj	_	_	삶/ncn+이/jcs
+4	그러하듯이	그러하+듯이	SCONJ	_	12	xcomp	_	_	그러하/pad+듯이/ecs
+5	프롤레타리아	프롤레타리아	X	_	6	compound	_	_	프롤레타리아/f
+6	독재	독재	NOUN	_	7	compound	_	_	독재/ncpa
+7	국가	국가	NOUN	_	12	advmod	_	_	국가/ncn
+8	역시	역시	ADV	_	12	advmod	_	_	역시/mag
+9	그	그	DET	_	11	det	_	_	그/mmd
+10	과거와	과거+와	CCONJ	_	11	conj	_	_	과거/ncn+와/jcj
+11	미래를	미래+를	NOUN	_	12	obj	_	_	미래/ncn+를/jco
+12	간직한다	간직+하+ㄴ다	VERB	_	0	root	_	_	간직/ncpa+하/xsv+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 상술한 내용이 바로 그것의 과거이다 .
+1	상술한	상술+하+ㄴ	VERB	_	2	acl	_	_	상술/ncpa+하/xsv+ㄴ/etm
+2	내용이	내용+이	NOUN	_	5	nsubj	_	_	내용/ncn+이/jcs
+3	바로	바로	ADV	_	5	advmod	_	_	바로/mag
+4	그것의	그것+의	PRON	_	5	nmod	_	_	그것/npd+의/jcm
+5	과거이다	과거+이+다	VERB	_	0	root	_	_	과거/ncn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그의 과거를 자세히 들여다보자 .
+1	그의	그+의	PRON	_	2	nmod	_	_	그/npp+의/jcm
+2	과거를	과거+를	NOUN	_	4	obj	_	_	과거/ncn+를/jco
+3	자세히	자세히	ADV	_	4	advmod	_	_	자세히/mag
+4	들여다보자	들여다보+자	VERB	_	0	root	_	_	들여다보/pvg+자/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 국가 권력의 주된 도구인 상비군과 경찰은 정복욕에 사로 잡힌 그의 보폭을 빠르게 하는 양다리이다 .
+1	국가	국가	NOUN	_	2	compound	_	_	국가/ncn
+2	권력의	권력+의	NOUN	_	4	nmod	_	_	권력/ncn+의/jcm
+3	주된	주되+ㄴ	VERB	_	4	acl	_	_	주되/pvg+ㄴ/etm
+4	도구인	도구+이+ㄴ	VERB	_	6	acl	_	_	도구/ncn+이/jp+ㄴ/etm
+5	상비군과	상비군+과	CCONJ	_	6	conj	_	_	상비군/ncn+과/jcj
+6	경찰은	경찰+은	NOUN	_	14	dislocated	_	_	경찰/ncn+은/jxt
+7	정복욕에	정복욕+에	ADV	_	9	obl	_	_	정복욕/ncn+에/jca
+8	사로	사로	ADV	_	9	advmod	_	_	사로/mag
+9	잡힌	잡히+ㄴ	VERB	_	10	acl	_	_	잡히/pvg+ㄴ/etm
+10	그의	그+의	PRON	_	11	nmod	_	_	그/npp+의/jcm
+11	보폭을	보폭+을	NOUN	_	13	obj	_	_	보폭/ncn+을/jco
+12	빠르게	빠르+게	SCONJ	_	13	xcomp	_	_	빠르/paa+게/ecs
+13	하는	하+는	VERB	_	14	ccomp	_	_	하/pvg+는/etm
+14	양다리이다	양다리+이+다	VERB	_	0	root	_	_	양다리/ncn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그런데 이것을 총괄하며 일사불란한 지휘를 담당하는 사령탑 , 그의 두뇌 , 바로 관료제이다 .
+1	그런데	그런데	CCONJ	_	13	cc	_	_	그런데/maj
+2	이것을	이것+을	PRON	_	3	obj	_	_	이것/npd+을/jco
+3	총괄하며	총괄+하+며	CCONJ	_	6	conj	_	_	총괄/ncpa+하/xsv+며/ecc
+4	일사불란한	일사불란+하+ㄴ	VERB	_	5	amod	_	_	일사불란/ncps+하/xsm+ㄴ/etm
+5	지휘를	지휘+를	NOUN	_	6	obj	_	_	지휘/ncpa+를/jco
+6	담당하는	담당+하+는	VERB	_	7	acl	_	_	담당/ncpa+하/xsv+는/etm
+7	사령탑	사령탑	NOUN	_	10	compound	_	_	사령탑/ncn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	그의	그+의	PRON	_	10	nmod	_	_	그/npp+의/jcm
+10	두뇌	두뇌	NOUN	_	13	advmod	_	_	두뇌/ncn
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	바로	바로	ADV	_	13	advmod	_	_	바로/mag
+13	관료제이다	관료제+이+다	VERB	_	0	root	_	_	관료제/ncn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이러한 과거는 프롤레타리아 독재 국가의 모반에도 각인되어 나타난다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	과거는	과거+는	NOUN	_	8	dislocated	_	_	과거/ncn+는/jxt
+3	프롤레타리아	프롤레타리아	X	_	4	compound	_	_	프롤레타리아/f
+4	독재	독재	NOUN	_	5	compound	_	_	독재/ncpa
+5	국가의	국가+의	NOUN	_	6	nmod	_	_	국가/ncn+의/jcm
+6	모반에도	모반+에+도	ADV	_	8	advcl	_	_	모반/ncn+에/jca+도/jxc
+7	각인되어	각인+되+어	SCONJ	_	8	ccomp	_	_	각인/ncpa+되/xsv+어/ecs
+8	나타난다	나타나+ㄴ다	VERB	_	0	root	_	_	나타나/pvg+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 안타깝지만 바로 그러한 역사적 현실이 스탈린적 사회주의다 .
+1	안타깝지만	안타깝+지만	SCONJ	_	7	xcomp	_	_	안타깝/paa+지만/ecs
+2	바로	바로	ADV	_	3	advmod	_	_	바로/mag
+3	그러한	그러하+ㄴ	VERB	_	5	amod	_	_	그러하/pad+ㄴ/etm
+4	역사적	역사+적	NOUN	_	5	amod	_	_	역사/ncn+적/xsn
+5	현실이	현실+이	NOUN	_	7	nsubj	_	_	현실/ncn+이/jcs
+6	스탈린적	스탈린+적	NOUN	_	7	amod	_	_	스탈린/nq+적/xsn
+7	사회주의다	사회주의+이+다	VERB	_	0	root	_	_	사회주의/ncn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이러한 관료제의 번영의 위험성은 역사적 유물론에 있어서도 지적될 수 있는데 국가가 그렇듯이 관료제 역시 노동의 사회적 분업에 따른 귀결이기 때문이다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	관료제의	관료제+의	NOUN	_	3	nmod	_	_	관료제/ncn+의/jcm
+3	번영의	번영+의	NOUN	_	4	nmod	_	_	번영/ncpa+의/jcm
+4	위험성은	위험성+은	NOUN	_	8	dislocated	_	_	위험성/ncn+은/jxt
+5	역사적	역사+적	NOUN	_	6	amod	_	_	역사/ncn+적/xsn
+6	유물론에	유물론+에	ADV	_	7	obl	_	_	유물론/ncn+에/jca
+7	있어서도	있+어서+도	ADV	_	8	amod	_	_	있/paa+어서/ecs+도/jxc
+8	지적될	지적+되+ㄹ	VERB	_	9	acl	_	_	지적/ncpa+되/xsv+ㄹ/etm
+9	수	수	NOUN	_	10	mark	_	_	수/nbn
+10	있는데	있+는데	SCONJ	_	19	xcomp	_	_	있/paa+는데/ecs
+11	국가가	국가+가	NOUN	_	12	nsubj	_	_	국가/ncn+가/jcs
+12	그렇듯이	그렇+듯이	SCONJ	_	19	xcomp	_	_	그렇/pad+듯이/ecs
+13	관료제	관료제	NOUN	_	19	advmod	_	_	관료제/ncn
+14	역시	역시	ADV	_	19	advmod	_	_	역시/mag
+15	노동의	노동+의	NOUN	_	17	nmod	_	_	노동/ncpa+의/jcm
+16	사회적	사회+적	NOUN	_	17	amod	_	_	사회/ncn+적/xsn
+17	분업에	분업+에	ADV	_	18	obl	_	_	분업/ncpa+에/jca
+18	따른	따르+ㄴ	VERB	_	19	ccomp	_	_	따르/pvg+ㄴ/etm
+19	귀결이기	귀결+이+기	VERB	_	0	root	_	_	귀결/ncpa+이/jp+기/etn
+20	때문이다	때문+이+다	VERB	_	19	aux	_	_	때문/nbn+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그러므로 사회적 노동분업에 예속된 정신노동과 육체노동의 분업은 공산주의의 낮은 단계에서야 극단으로 치달아 분업 그 자체의 폐지의 토대를 만든다 .
+1	그러므로	그러므로	CCONJ	_	18	cc	_	_	그러므로/maj
+2	사회적	사회+적	NOUN	_	3	amod	_	_	사회/ncn+적/xsn
+3	노동분업에	노동+분업+에	ADV	_	4	obl	_	_	노동/ncpa+분업/ncpa+에/jca
+4	예속된	예속+되+ㄴ	VERB	_	6	acl	_	_	예속/ncpa+되/xsv+ㄴ/etm
+5	정신노동과	정신+노동+과	CCONJ	_	6	conj	_	_	정신/ncn+노동/ncpa+과/jcj
+6	육체노동의	육체+노동+의	NOUN	_	7	nmod	_	_	육체/ncn+노동/ncpa+의/jcm
+7	분업은	분업+은	NOUN	_	12	dislocated	_	_	분업/ncpa+은/jxt
+8	공산주의의	공산주의+의	NOUN	_	10	nmod	_	_	공산주의/ncn+의/jcm
+9	낮은	낮+ㄴ	ADJ	_	10	amod	_	_	낮/paa+ㄴ/etm
+10	단계에서야	단계+에서+야	ADV	_	12	advcl	_	_	단계/ncn+에서/jca+야/jxc
+11	극단으로	극단+으로	ADV	_	12	advcl	_	_	극단/ncn+으로/jca
+12	치달아	치닫+아	SCONJ	_	18	ccomp	_	_	치닫/pvg+아/ecs
+13	분업	분업	NOUN	_	15	compound	_	_	분업/ncn
+14	그	그	DET	_	15	det	_	_	그/mmd
+15	자체의	자체+의	NOUN	_	16	nmod	_	_	자체/ncn+의/jcm
+16	폐지의	폐지+의	NOUN	_	17	nmod	_	_	폐지/ncpa+의/jcm
+17	토대를	토대+를	NOUN	_	18	obj	_	_	토대/ncn+를/jco
+18	만든다	만들+ㄴ다	VERB	_	0	root	_	_	만들/pvg+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그러나 프롤레타리아의 독재 즉 , 이행기의 국가는 종래의 국가와 그 본질에 있어 달리한다 .
+1	그러나	그러나	CCONJ	_	13	cc	_	_	그러나/maj
+2	프롤레타리아의	프롤레타리아+의	NOUN	_	3	nmod	_	_	프롤레타리아/f+의/jcm
+3	독재	독재	NOUN	_	7	conj	_	_	독재/ncpa
+4	즉	즉	CCONJ	_	5	cc	_	_	즉/maj
+5	,	,	PUNCT	_	3	punct	_	_	,/sp
+6	이행기의	이행기+의	NOUN	_	7	nmod	_	_	이행기/ncn+의/jcm
+7	국가는	국가+는	NOUN	_	13	dislocated	_	_	국가/ncn+는/jxt
+8	종래의	종래+의	NOUN	_	9	nmod	_	_	종래/ncn+의/jcm
+9	국가와	국가+와	CCONJ	_	13	conj	_	_	국가/ncn+와/jct
+10	그	그	DET	_	11	det	_	_	그/mmd
+11	본질에	본질+에	ADV	_	12	obl	_	_	본질/ncn+에/jca
+12	있어	있+어	SCONJ	_	13	xcomp	_	_	있/paa+어/ecs
+13	달리한다	달리하+ㄴ다	VERB	_	0	root	_	_	달리하/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그것이 바로 그의 미래이다 .
+1	그것이	그것+이	PRON	_	4	nsubj	_	_	그것/npd+이/jcs
+2	바로	바로	ADV	_	4	advmod	_	_	바로/mag
+3	그의	그+의	PRON	_	4	nmod	_	_	그/npp+의/jcm
+4	미래이다	미래+이+다	VERB	_	0	root	_	_	미래/ncn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 이러한 미래는 사회주의사회 건설을 행한 혁명적 계급의 지행과 밀접한 관련이 있다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	미래는	미래+는	NOUN	_	11	dislocated	_	_	미래/ncn+는/jxt
+3	사회주의사회	사회주의+사회	NOUN	_	4	compound	_	_	사회주의/ncn+사회/ncn
+4	건설을	건설+을	NOUN	_	5	obj	_	_	건설/ncpa+을/jco
+5	행한	행하+ㄴ	VERB	_	7	acl	_	_	행하/pvg+ㄴ/etm
+6	혁명적	혁명+적	NOUN	_	7	amod	_	_	혁명/ncpa+적/xsn
+7	계급의	계급+의	NOUN	_	8	nmod	_	_	계급/ncn+의/jcm
+8	지행과	지행+과	CCONJ	_	11	conj	_	_	지행/ncn+과/jct
+9	밀접한	밀접+하+ㄴ	VERB	_	10	amod	_	_	밀접/ncps+하/xsm+ㄴ/etm
+10	관련이	관련+이	NOUN	_	11	nsubj	_	_	관련/ncpa+이/jcs
+11	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 지금까지 혁명을 통해 자신들의 지배를 달성한 계급은 예외 없이 지배에서 자신의 미래를 보았다 .
+1	지금까지	지금+까지	ADV	_	13	advcl	_	_	지금/ncn+까지/jxc
+2	혁명을	혁명+을	NOUN	_	3	obj	_	_	혁명/ncpa+을/jco
+3	통해	통하+어	SCONJ	_	6	ccomp	_	_	통하/pvg+어/ecs
+4	자신들의	자신+들+의	NOUN	_	5	nmod	_	_	자신/ncn+들/xsn+의/jcm
+5	지배를	지배+를	NOUN	_	6	obj	_	_	지배/ncpa+를/jco
+6	달성한	달성+하+ㄴ	VERB	_	7	acl	_	_	달성/ncpa+하/xsv+ㄴ/etm
+7	계급은	계급+은	NOUN	_	13	dislocated	_	_	계급/ncn+은/jxt
+8	예외	예외	NOUN	_	9	dep	_	_	예외/ncn
+9	없이	없+이	SCONJ	_	13	xcomp	_	_	없/paa+이/ecs
+10	지배에서	지배+에서	ADV	_	13	advcl	_	_	지배/ncpa+에서/jca
+11	자신의	자신+의	NOUN	_	12	nmod	_	_	자신/ncn+의/jcm
+12	미래를	미래+를	NOUN	_	13	obj	_	_	미래/ncn+를/jco
+13	보았다	보+았+다	VERB	_	0	root	_	_	보/pvg+았/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 부르조아국가의 쌍두마차인 관료제와 상비군 , 그 역시 봉건제 말기 절대 왕정의 적자가 아니던가 .
+1	부르조아국가의	부르조아+국가+의	NOUN	_	2	nmod	_	_	부르조아/ncn+국가/ncn+의/jcm
+2	쌍두마차인	쌍두마차+이+ㄴ	VERB	_	4	acl	_	_	쌍두마차/ncn+이/jp+ㄴ/etm
+3	관료제와	관료제+와	CCONJ	_	4	conj	_	_	관료제/ncn+와/jcj
+4	상비군	상비군	NOUN	_	13	dep	_	_	상비군/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	그	그	PRON	_	7	dep	_	_	그/npd
+7	역시	역시	ADV	_	13	advmod	_	_	역시/mag
+8	봉건제	봉건제	NOUN	_	9	compound	_	_	봉건제/ncn
+9	말기	말기	NOUN	_	11	compound	_	_	말기/ncn
+10	절대	절대	NOUN	_	11	compound	_	_	절대/ncn
+11	왕정의	왕정+의	NOUN	_	12	nmod	_	_	왕정/ncn+의/jcm
+12	적자가	적자+가	NOUN	_	13	nsubj	_	_	적자/ncn+가/jcs
+13	아니던가	아니+던가	ADJ	_	0	root	_	_	아니/paa+던가/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 레닌은 이러한 문제에 대해 다음과 같이 결론 짓는다 .
+1	레닌은	레닌+은	PROPN	_	8	dislocated	_	_	레닌/nq+은/jxt
+2	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+3	문제에	문제+에	ADV	_	4	obl	_	_	문제/ncn+에/jca
+4	대해	대하+어	SCONJ	_	8	ccomp	_	_	대하/pvg+어/ecs
+5	다음과	다음+과	CCONJ	_	6	conj	_	_	다음/ncn+과/jct
+6	같이	같+이	SCONJ	_	8	xcomp	_	_	같/paa+이/ecs
+7	결론	결론	NOUN	_	8	dep	_	_	결론/ncn
+8	짓는다	짓+는다	VERB	_	0	root	_	_	짓/pvg+는다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그러한 역사적 교훈은 파리꼼뮨에서 찾아졌다 .
+1	그러한	그러하+ㄴ	VERB	_	3	amod	_	_	그러하/pad+ㄴ/etm
+2	역사적	역사+적	NOUN	_	3	amod	_	_	역사/ncn+적/xsn
+3	교훈은	교훈+은	NOUN	_	5	dislocated	_	_	교훈/ncpa+은/jxt
+4	파리꼼뮨에서	파리꼼뮨+에서	ADV	_	5	advcl	_	_	파리꼼뮨/nq+에서/jca
+5	찾아졌다	찾+아+지+었+다	AUX	_	0	root	_	_	찾/pvg+아/ecx+지/px+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 파리꼼뮨에 의하여 무엇이 타도된 국가기구를 대체하였는가 .
+1	파리꼼뮨에	파리꼼뮨+에	ADV	_	2	obl	_	_	파리꼼뮨/nq+에/jca
+2	의하여	의하+어	SCONJ	_	6	ccomp	_	_	의하/pvg+어/ecs
+3	무엇이	무엇+이	PRON	_	6	nsubj	_	_	무엇/npd+이/jcs
+4	타도된	타도+되+ㄴ	VERB	_	5	acl	_	_	타도/ncpa+되/xsv+ㄴ/etm
+5	국가기구를	국가+기구+를	NOUN	_	6	obj	_	_	국가/ncn+기구/ncn+를/jco
+6	대체하였는가	대체+하+었+는가	VERB	_	0	root	_	_	대체/ncpa+하/xsv+었/ep+는가/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그 구성원의 다수는 당연히 노동자들이었으며 또는 노동계급의 공인된 대표들이었습니다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	구성원의	구성원+의	NOUN	_	3	nmod	_	_	구성원/ncn+의/jcm
+3	다수는	다수+는	NOUN	_	5	dislocated	_	_	다수/ncpa+는/jxt
+4	당연히	당연히	ADV	_	5	advmod	_	_	당연히/mag
+5	노동자들이었으며	노동자+들+이+었+으며	SCONJ	_	9	ccomp	_	_	노동자/ncn+들/xsn+이/jp+었/ep+으며/ecs
+6	또는	또는	ADV	_	9	advmod	_	_	또는/mag
+7	노동계급의	노동+계급+의	NOUN	_	9	nmod	_	_	노동/ncpa+계급/ncn+의/jcm
+8	공인된	공인+되+ㄴ	VERB	_	9	acl	_	_	공인/ncpa+되/xsv+ㄴ/etm
+9	대표들이었습니다	대표+들+이+었+습니다	VERB	_	0	root	_	_	대표/ncpa+들/xsn+이/jp+었/ep+습니다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그것은 어떤 고용주가 자기 사업을 위해 노동자와 지배인을 구하는데 있어서 개인적 선택권이 자신에게 있는 것과 마찬가지입니다 .
+1	그것은	그것+은	PRON	_	16	dislocated	_	_	그것/npd+은/jxt
+2	어떤	어떻+ㄴ	VERB	_	3	amod	_	_	어떻/pad+ㄴ/etm
+3	고용주가	고용주+가	NOUN	_	9	nsubj	_	_	고용주/ncn+가/jcs
+4	자기	자기	PRON	_	5	compound	_	_	자기/npp
+5	사업을	사업+을	NOUN	_	6	obj	_	_	사업/ncn+을/jco
+6	위해	위하+어	SCONJ	_	9	ccomp	_	_	위하/pvg+어/ecs
+7	노동자와	노동자+와	CCONJ	_	8	conj	_	_	노동자/ncn+와/jcj
+8	지배인을	지배인+을	NOUN	_	9	obj	_	_	지배인/ncn+을/jco
+9	구하는데	구하+는데	SCONJ	_	10	conj	_	_	구하/pvg+는데/ecs
+10	있어서	있+어서	SCONJ	_	14	xcomp	_	_	있/paa+어서/ecs
+11	개인적	개인+적	NOUN	_	12	amod	_	_	개인/ncn+적/xsn
+12	선택권이	선택권+이	NOUN	_	14	nsubj	_	_	선택권/ncn+이/jcs
+13	자신에게	자신+에게	ADV	_	14	iobj	_	_	자신/ncn+에게/jca
+14	있는	있+는	ADJ	_	15	amod	_	_	있/paa+는/etm
+15	것과	것+과	CCONJ	_	16	conj	_	_	것/nbn+과/jct
+16	마찬가지입니다	마찬가지+이+ㅂ니다	VERB	_	0	root	_	_	마찬가지/ncn+이/jp+ㅂ니다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그러나 이런 관료제와 그 기구는 사회적 노동분업의 존재만큼이나 끈질기게 사회에 기생한다 .
+1	그러나	그러나	CCONJ	_	11	cc	_	_	그러나/maj
+2	이런	이렇+ㄴ	VERB	_	5	amod	_	_	이렇/pad+ㄴ/etm
+3	관료제와	관료제+와	CCONJ	_	5	conj	_	_	관료제/ncn+와/jcj
+4	그	그	DET	_	5	det	_	_	그/mmd
+5	기구는	기구+는	NOUN	_	11	dislocated	_	_	기구/ncn+는/jxt
+6	사회적	사회+적	NOUN	_	7	amod	_	_	사회/ncn+적/xsn
+7	노동분업의	노동+분업+의	NOUN	_	8	nmod	_	_	노동/ncpa+분업/ncpa+의/jcm
+8	존재만큼이나	존재+만큼+이나	ADV	_	11	advcl	_	_	존재/ncps+만큼/nbn+이나/jxc
+9	끈질기게	끈질기+게	SCONJ	_	11	xcomp	_	_	끈질기/paa+게/ecs
+10	사회에	사회+에	ADV	_	11	obl	_	_	사회/ncn+에/jca
+11	기생한다	기생+하+ㄴ다	VERB	_	0	root	_	_	기생/ncpa+하/xsv+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러나 인류의 대외를 위해 그 어떠한 어려움도 감수하려는 노동자의 정부는 이를 사회에서 제거하고 , 절단낼 수 있어야 한다 .
+1	그러나	그러나	CCONJ	_	15	cc	_	_	그러나/maj
+2	인류의	인류+의	NOUN	_	3	nmod	_	_	인류/ncn+의/jcm
+3	대외를	대외+를	NOUN	_	4	obj	_	_	대외/ncn+를/jco
+4	위해	위하+어	SCONJ	_	8	ccomp	_	_	위하/pvg+어/ecs
+5	그	그	DET	_	7	det	_	_	그/mmd
+6	어떠한	어떠하+ㄴ	VERB	_	7	amod	_	_	어떠하/pad+ㄴ/etm
+7	어려움도	어렵+ㅁ+도	ADV	_	8	advcl	_	_	어렵/paa+ㅁ/etn+도/jxc
+8	감수하려는	감수+하+려는	VERB	_	10	acl	_	_	감수/ncpa+하/xsv+려는/etm
+9	노동자의	노동자+의	NOUN	_	10	nmod	_	_	노동자/ncn+의/jcm
+10	정부는	정부+는	NOUN	_	15	dislocated	_	_	정부/ncn+는/jxt
+11	이를	이+를	PRON	_	15	obj	_	_	이/npd+를/jco
+12	사회에서	사회+에서	ADV	_	15	advcl	_	_	사회/ncn+에서/jca
+13	제거하고	제거+하+고	CCONJ	_	14	conj	_	_	제거/ncpa+하/xsv+고/ecc
+14	,	,	PUNCT	_	15	conj	_	_	,/sp
+15	절단낼	절단내+ㄹ	VERB	_	0	root	_	_	절단내/pvg+ㄹ/etm
+16	수	수	NOUN	_	17	fixed	_	_	수/nbn
+17	있어야	있+어야	ADJ	_	15	aux	_	_	있/paa+어야/ecx
+18	한다	하+ㄴ다	AUX	_	15	aux	_	_	하/px+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그것은 유토피아일 뿐이다 .
+1	그것은	그것+은	PRON	_	2	dislocated	_	_	그것/npd+은/jxt
+2	유토피아일	유토피아+이+ㄹ	VERB	_	0	root	_	_	유토피아/nq+이/jp+ㄹ/etm
+3	뿐이다	뿐+이+다	VERB	_	2	aux	_	_	뿐/nbn+이/jp+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 그들은 꼼뮨에서 노동자국가의 미래와 그 성격 그리고 , 있을 수 있는 한계까지 정확히 바라보았다 .
+1	그들은	그+들+은	PRON	_	14	dislocated	_	_	그/npp+들/xsn+은/jxt
+2	꼼뮨에서	꼼뮨+에서	ADV	_	14	advcl	_	_	꼼뮨/nq+에서/jca
+3	노동자국가의	노동자+국가+의	NOUN	_	12	nmod	_	_	노동자/ncn+국가/ncn+의/jcm
+4	미래와	미래+와	CCONJ	_	6	conj	_	_	미래/ncn+와/jcj
+5	그	그	DET	_	6	det	_	_	그/mmd
+6	성격	성격	NOUN	_	12	conj	_	_	성격/ncn
+7	그리고	그리고	CCONJ	_	8	cc	_	_	그리고/maj
+8	,	,	PUNCT	_	6	punct	_	_	,/sp
+9	있을	있+ㄹ	ADJ	_	12	amod	_	_	있/paa+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있는	있+는	ADJ	_	9	aux	_	_	있/paa+는/etm
+12	한계까지	한계+까지	ADV	_	14	advcl	_	_	한계/ncn+까지/jxc
+13	정확히	정확+히	ADV	_	14	advmod	_	_	정확/ncps+히/xsa
+14	바라보았다	바라보+았+다	VERB	_	0	root	_	_	바라보/pvg+았/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 국가의 통일성은 파괴되도록 되어 있었던 것이 아니라 , 오히려 꼼뮨헙법에 의해 조직되고 국가권력의 파괴를 통하여 하나의 실체가 되게끔 되어 있었습니다 .
+1	국가의	국가+의	NOUN	_	2	nmod	_	_	국가/ncn+의/jcm
+2	통일성은	통일성+은	NOUN	_	4	dislocated	_	_	통일성/ncn+은/jxt
+3	파괴되도록	파괴+되+도록	SCONJ	_	4	ccomp	_	_	파괴/ncpa+되/xsv+도록/ecs
+4	되어	되+어	VERB	_	6	acl	_	_	되/pvg+어/ecx
+5	있었던	있+었+던	AUX	_	4	aux	_	_	있/px+었/ep+던/etm
+6	것이	것+이	NOUN	_	7	csubj	_	_	것/nbn+이/jcc
+7	아니라	아니+라	SCONJ	_	18	xcomp	_	_	아니/paa+라/ecs
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	오히려	오히려	ADV	_	18	advmod	_	_	오히려/mag
+10	꼼뮨헙법에	꼼뮨헙법+에	ADV	_	11	obl	_	_	꼼뮨헙법/nq+에/jca
+11	의해	의하+어	SCONJ	_	12	ccomp	_	_	의하/pvg+어/ecs
+12	조직되고	조직+되+고	CCONJ	_	18	conj	_	_	조직/ncpa+되/xsv+고/ecc
+13	국가권력의	국가+권력+의	NOUN	_	14	nmod	_	_	국가/ncn+권력/ncn+의/jcm
+14	파괴를	파괴+를	NOUN	_	15	obj	_	_	파괴/ncpa+를/jco
+15	통하여	통하+어	SCONJ	_	18	ccomp	_	_	통하/pvg+어/ecs
+16	하나의	하나+의	NOUN	_	17	nmod	_	_	하나/ncn+의/jcm
+17	실체가	실체+가	NOUN	_	18	nsubj	_	_	실체/ncn+가/jcs
+18	되게끔	되+게끔	VERB	_	0	root	_	_	되/pvg+게끔/ecx
+19	되어	되+어	AUX	_	18	aux	_	_	되/px+어/ecx
+20	있었습니다	있+었+습니다	AUX	_	18	aux	_	_	있/px+었/ep+습니다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 꼼뮨의 진정한 비밀은 이것이었습니다 .
+1	꼼뮨의	꼼뮨+의	PROPN	_	3	nmod	_	_	꼼뮨/nq+의/jcm
+2	진정한	진정+하+ㄴ	VERB	_	3	amod	_	_	진정/ncps+하/xsm+ㄴ/etm
+3	비밀은	비밀+은	NOUN	_	4	dislocated	_	_	비밀/ncpa+은/jxt
+4	이것이었습니다	이것+이+었+습니다	VERB	_	0	root	_	_	이것/npd+이/jp+었/ep+습니다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 꼼뮨은 본질적으로 노동계급의 정부였으며 , 생산계급의 착취계급에 대한 투쟁의 성과였으며 노동에 대한 경제적 해방이 이루어질 최종적으로 발전된 정부형태였던 것입니다 .
+1	꼼뮨은	꼼뮨+은	PROPN	_	18	dislocated	_	_	꼼뮨/nq+은/jxt
+2	본질적으로	본질+적+으로	ADV	_	4	advcl	_	_	본질/ncn+적/xsn+으로/jca
+3	노동계급의	노동+계급+의	NOUN	_	4	nmod	_	_	노동/ncpa+계급/ncn+의/jcm
+4	정부였으며	정부+이+었+으며	SCONJ	_	18	ccomp	_	_	정부/ncn+이/jp+었/ep+으며/ecs
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	생산계급의	생산+계급+의	NOUN	_	7	nmod	_	_	생산/ncpa+계급/ncn+의/jcm
+7	착취계급에	착취+계급+에	ADV	_	8	obl	_	_	착취/ncpa+계급/ncn+에/jca
+8	대한	대하+ㄴ	VERB	_	9	acl	_	_	대하/pvg+ㄴ/etm
+9	투쟁의	투쟁+의	NOUN	_	10	nmod	_	_	투쟁/ncpa+의/jcm
+10	성과였으며	성과+이+었+으며	SCONJ	_	18	ccomp	_	_	성과/ncn+이/jp+었/ep+으며/ecs
+11	노동에	노동+에	ADV	_	12	obl	_	_	노동/ncpa+에/jca
+12	대한	대하+ㄴ	VERB	_	14	acl	_	_	대하/pvg+ㄴ/etm
+13	경제적	경제+적	NOUN	_	14	amod	_	_	경제/ncn+적/xsn
+14	해방이	해방+이	NOUN	_	15	nsubj	_	_	해방/ncpa+이/jcs
+15	이루어질	이루+어+지+ㄹ	AUX	_	18	ccomp	_	_	이루/pvg+어/ecx+지/px+ㄹ/etm
+16	최종적으로	최종+적+으로	ADV	_	17	advcl	_	_	최종/ncn+적/xsn+으로/jca
+17	발전된	발전+되+ㄴ	VERB	_	18	acl	_	_	발전/ncpa+되/xsv+ㄴ/etm
+18	정부형태였던	정부+형태+이+었+던	VERB	_	0	root	_	_	정부/ncn+형태/ncn+이/jp+었/ep+던/etm
+19	것입니다	것+이+ㅂ니다	VERB	_	18	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 이 마지막 조건을 제외한다면 꼼뮨제도는 불가능과 망상이었을 것입니다 .
+1	이	이	DET	_	3	det	_	_	이/mmd
+2	마지막	마지막	NOUN	_	3	compound	_	_	마지막/ncn
+3	조건을	조건+을	NOUN	_	4	obj	_	_	조건/ncn+을/jco
+4	제외한다면	제외+하+ㄴ다면	SCONJ	_	7	ccomp	_	_	제외/ncpa+하/xsv+ㄴ다면/ecs
+5	꼼뮨제도는	꼼뮨제도+는	PROPN	_	7	dislocated	_	_	꼼뮨제도/nq+는/jxt
+6	불가능과	불가능+과	CCONJ	_	7	dep	_	_	불가능/ncpa+과/jcj
+7	망상이었을	망상+이+었+ㄹ	VERB	_	0	root	_	_	망상/ncn+이/jp+었/ep+ㄹ/etm
+8	것입니다	것+이+ㅂ니다	VERB	_	7	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 생산자의 정치적 지배는 생산자에 대한 사회적 노예제의 영속화와는 병존할 수 없는 것입니다 .
+1	생산자의	생산자+의	NOUN	_	3	nmod	_	_	생산자/ncn+의/jcm
+2	정치적	정치+적	NOUN	_	3	amod	_	_	정치/ncpa+적/xsn
+3	지배는	지배+는	NOUN	_	9	dislocated	_	_	지배/ncpa+는/jxt
+4	생산자에	생산자+에	ADV	_	5	obl	_	_	생산자/ncn+에/jca
+5	대한	대하+ㄴ	VERB	_	7	acl	_	_	대하/pvg+ㄴ/etm
+6	사회적	사회+적	NOUN	_	7	amod	_	_	사회/ncn+적/xsn
+7	노예제의	노예제+의	NOUN	_	8	nmod	_	_	노예제/ncn+의/jcm
+8	영속화와는	영속화+와+는	NOUN	_	9	dislocated	_	_	영속화/ncn+와/jct+는/jxt
+9	병존할	병존+하+ㄹ	VERB	_	0	root	_	_	병존/ncpa+하/xsv+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	없는	없+는	ADJ	_	9	aux	_	_	없/paa+는/etm
+12	것입니다	것+이+ㅂ니다	VERB	_	9	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그런고로 꼼뮨은 제 게급의 존재에 근거하는 따라서 계급지배의 존재에 근거하는 경제적 기반을 뿌리뽑기 위한 지렛대 역할을 담당하였던 것입니다 .
+1	그런고로	그런고로	CCONJ	_	17	cc	_	_	그런고로/maj
+2	꼼뮨은	꼼뮨+은	PROPN	_	17	dislocated	_	_	꼼뮨/nq+은/jxt
+3	제	제	ADJ	_	4	amod	_	_	제/mma
+4	게급의	계급+의	NOUN	_	5	nmod	_	_	계급/ncn+의/jcm
+5	존재에	존재+에	ADV	_	6	obl	_	_	존재/ncpa+에/jca
+6	근거하는	근거+하+는	VERB	_	10	acl	_	_	근거/ncpa+하/xsv+는/etm
+7	따라서	따라서	ADV	_	10	advmod	_	_	따라서/mag
+8	계급지배의	계급+지배+의	NOUN	_	9	nmod	_	_	계급/ncn+지배/ncpa+의/jcm
+9	존재에	존재+에	ADV	_	10	obl	_	_	존재/ncpa+에/jca
+10	근거하는	근거+하+는	VERB	_	12	dep	_	_	근거/ncpa+하/xsv+는/etm
+11	경제적	경제+적	NOUN	_	12	amod	_	_	경제/ncn+적/xsn
+12	기반을	기반+을	NOUN	_	13	obj	_	_	기반/ncn+을/jco
+13	뿌리뽑기	뿌리뽑+기	VERB	_	14	nmod	_	_	뿌리뽑/pvg+기/etn
+14	위한	위하+ㄴ	VERB	_	15	acl	_	_	위하/pvg+ㄴ/etm
+15	지렛대	지렛대	NOUN	_	16	compound	_	_	지렛대/ncn
+16	역할을	역할+을	NOUN	_	17	obj	_	_	역할/ncn+을/jco
+17	담당하였던	담당+하+었+던	VERB	_	0	root	_	_	담당/ncpa+하/xsv+었/ep+던/etm
+18	것입니다	것+이+ㅂ니다	VERB	_	17	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 꼼뮨은 다수의 노동을 소수의 재산으로 만드는 바로 그 계급재산을 철폐하고자 의도하였던 것입니다 .
+1	꼼뮨은	꼼뮨+은	PROPN	_	11	dislocated	_	_	꼼뮨/nq+은/jxt
+2	다수의	다수+의	NOUN	_	3	nmod	_	_	다수/ncn+의/jcm
+3	노동을	노동+을	NOUN	_	6	obj	_	_	노동/ncpa+을/jco
+4	소수의	소수+의	NOUN	_	5	nmod	_	_	소수/ncpa+의/jcm
+5	재산으로	재산+으로	ADV	_	6	advcl	_	_	재산/ncn+으로/jca
+6	만드는	만들+는	VERB	_	9	acl	_	_	만들/pvg+는/etm
+7	바로	바로	ADV	_	9	advmod	_	_	바로/mag
+8	그	그	DET	_	9	det	_	_	그/mmd
+9	계급재산을	계급+재산+을	NOUN	_	10	obj	_	_	계급/ncn+재산/ncn+을/jco
+10	철폐하고자	철폐+하+고자	SCONJ	_	11	ccomp	_	_	철폐/ncpa+하/xsv+고자/ecs
+11	의도하였던	의도+하+었+던	VERB	_	0	root	_	_	의도/ncpa+하/xsv+었/ep+던/etm
+12	것입니다	것+이+ㅂ니다	VERB	_	11	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 우리는 프롤레타리아 독재와 사회주의라는 말을 수천 번 조합해봤자 아무런 대답도 들을 수 없다 .
+1	우리는	우리+는	PRON	_	11	dislocated	_	_	우리/npp+는/jxt
+2	프롤레타리아	프롤레타리아	X	_	3	compound	_	_	프롤레타리아/f
+3	독재와	독재+와	CCONJ	_	4	conj	_	_	독재/ncpa+와/jcj
+4	사회주의라는	사회주의+이+라는	VERB	_	5	acl	_	_	사회주의/ncn+이/jp+라는/etm
+5	말을	말+을	NOUN	_	8	obj	_	_	말/ncpa+을/jco
+6	수천	수천	NUM	_	7	nummod	_	_	수천/nnc
+7	번	번	NOUN	_	8	compound	_	_	번/nbu
+8	조합해봤자	조합+하+어+보+았+자	SCONJ	_	11	ccomp	_	_	조합/ncpa+하/xsv+어/ecx+보/px+았/ep+자/ecs
+9	아무런	아무렇+ㄴ	VERB	_	10	amod	_	_	아무렇/pad+ㄴ/etm
+10	대답도	대답+도	ADV	_	11	advcl	_	_	대답/ncpa+도/jxc
+11	들을	듣+ㄹ	VERB	_	0	root	_	_	듣/pvg+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	없다	없+다	ADJ	_	11	aux	_	_	없/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이것은 인류역사상 제기된 적도 없었던 최초의 정치적 실천행위이다 .
+1	이것은	이것+은	PRON	_	8	dislocated	_	_	이것/npd+은/jxt
+2	인류역사상	인류+역사상	NOUN	_	5	dep	_	_	인류/ncn+역사상/ncn
+3	제기된	제기+되+ㄴ	VERB	_	4	acl	_	_	제기/ncpa+되/xsv+ㄴ/etm
+4	적도	적+도	ADV	_	5	advcl	_	_	적/nbn+도/jxc
+5	없었던	없+었+던	ADJ	_	8	amod	_	_	없/paa+었/ep+던/etm
+6	최초의	최초+의	NOUN	_	8	nmod	_	_	최초/ncn+의/jcm
+7	정치적	정치+적	NOUN	_	8	amod	_	_	정치/ncpa+적/xsn
+8	실천행위이다	실천+행위+이+다	VERB	_	0	root	_	_	실천/ncpa+행위/ncpa+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 왜냐하면 계급의 폐절을 성사시킬 수 있는 제 경제적 여건과 그러한 주체 즉 , 혁명적 계급이 존재하지 않았기 때문이다 .
+1	왜냐하면	왜냐하면	CCONJ	_	16	cc	_	_	왜냐하면/maj
+2	계급의	계급+의	NOUN	_	3	nmod	_	_	계급/ncn+의/jcm
+3	폐절을	폐절+을	NOUN	_	4	obj	_	_	폐절/ncpa+을/jco
+4	성사시킬	성사+시키+ㄹ	VERB	_	9	acl	_	_	성사/ncpa+시키/xsv+ㄹ/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	있는	있+는	ADJ	_	4	aux	_	_	있/paa+는/etm
+7	제	제	NOUN	_	9	compound	_	_	제/ncn
+8	경제적	경제+적	NOUN	_	9	amod	_	_	경제/ncn+적/xsn
+9	여건과	여건+과	CCONJ	_	15	conj	_	_	여건/ncn+과/jcj
+10	그러한	그러하+ㄴ	VERB	_	11	amod	_	_	그러하/pad+ㄴ/etm
+11	주체	주체	NOUN	_	15	conj	_	_	주체/ncn
+12	즉	즉	CCONJ	_	13	cc	_	_	즉/maj
+13	,	,	PUNCT	_	11	punct	_	_	,/sp
+14	혁명적	혁명+적	NOUN	_	15	amod	_	_	혁명/ncpa+적/xsn
+15	계급이	계급+이	NOUN	_	16	nsubj	_	_	계급/ncn+이/jcs
+16	존재하지	존재+하+지	VERB	_	0	root	_	_	존재/ncpa+하/xsv+지/ecx
+17	않았기	않+았+기	AUX	_	16	aux	_	_	않/px+았/ep+기/etn
+18	때문이다	때문+이+다	VERB	_	16	aux	_	_	때문/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이 문제에 있어 엥겔스와 레닌은 정확히 일치한다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	문제에	문제+에	ADV	_	3	obl	_	_	문제/ncn+에/jca
+3	있어	있+어	SCONJ	_	7	xcomp	_	_	있/paa+어/ecs
+4	엥겔스와	엥겔스+와	CCONJ	_	5	conj	_	_	엥겔스/nq+와/jcj
+5	레닌은	레닌+은	PROPN	_	7	dislocated	_	_	레닌/nq+은/jxt
+6	정확히	정확+히	ADV	_	7	advmod	_	_	정확/ncps+히/xsa
+7	일치한다	일치+하+ㄴ다	VERB	_	0	root	_	_	일치/ncpa+하/xsv+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그것들을 분리시킨다면 그 어떠한 종류의 민주주의도 사회주의를 가져오지 않을 것이다 .
+1	그것들을	그것+들+을	PRON	_	2	obj	_	_	그것/npd+들/xsn+을/jco
+2	분리시킨다면	분리+시키+ㄴ다면	SCONJ	_	8	ccomp	_	_	분리/ncpa+시키/xsv+ㄴ다면/ecs
+3	그	그	DET	_	6	det	_	_	그/mmd
+4	어떠한	어떠하+ㄴ	VERB	_	5	amod	_	_	어떠하/pad+ㄴ/etm
+5	종류의	종류+의	NOUN	_	6	nmod	_	_	종류/ncn+의/jcm
+6	민주주의도	민주주의+도	ADV	_	8	advcl	_	_	민주주의/ncn+도/jxc
+7	사회주의를	사회주의+를	NOUN	_	8	obj	_	_	사회주의/ncn+를/jco
+8	가져오지	가지+어+오+지	AUX	_	0	root	_	_	가지/pvg+어/ecx+오/px+지/ecx
+9	않을	않+ㄹ	AUX	_	8	aux	_	_	않/px+ㄹ/etm
+10	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그리고 그 다음으로 그것은 경제적 발전 등에도 영향을 받게 될 것이다 .
+1	그리고	그리고	CCONJ	_	9	cc	_	_	그리고/maj
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	다음으로	다음+으로	ADV	_	9	advcl	_	_	다음/ncn+으로/jca
+4	그것은	그것+은	PRON	_	9	dislocated	_	_	그것/npd+은/jxt
+5	경제적	경제+적	NOUN	_	6	amod	_	_	경제/ncn+적/xsn
+6	발전	발전	NOUN	_	7	compound	_	_	발전/ncn
+7	등에도	등+에+도	ADV	_	9	advcl	_	_	등/nbn+에/jca+도/jxc
+8	영향을	영향+을	NOUN	_	9	obj	_	_	영향/ncn+을/jco
+9	받게	받+게	VERB	_	0	root	_	_	받/pvg+게/ecx
+10	될	되+ㄹ	AUX	_	9	aux	_	_	되/px+ㄹ/etm
+11	것이다	것+이+다	VERB	_	9	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 하지만 과학적 사회주의는 부르조아적 관계가 그 사회를 규정한 이래 , 모든 혁명의 문제는 프롤레타리아 혁명임을 가르친다 .
+1	하지만	하지만	CCONJ	_	16	cc	_	_	하지만/maj
+2	과학적	과학+적	NOUN	_	3	amod	_	_	과학/ncn+적/xsn
+3	사회주의는	사회주의+는	NOUN	_	16	dislocated	_	_	사회주의/ncn+는/jxt
+4	부르조아적	부르조아+적	NOUN	_	5	amod	_	_	부르조아/f+적/xsn
+5	관계가	관계+가	NOUN	_	8	nsubj	_	_	관계/ncpa+가/jcs
+6	그	그	DET	_	7	det	_	_	그/mmd
+7	사회를	사회+를	NOUN	_	8	obj	_	_	사회/ncn+를/jco
+8	규정한	규정+하+ㄴ	VERB	_	9	acl	_	_	규정/ncpa+하/xsv+ㄴ/etm
+9	이래	이래	NOUN	_	15	advmod	_	_	이래/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	모든	모든	ADJ	_	13	amod	_	_	모든/mma
+12	혁명의	혁명+의	NOUN	_	13	nmod	_	_	혁명/ncpa+의/jcm
+13	문제는	문제+는	NOUN	_	15	dislocated	_	_	문제/ncn+는/jxt
+14	프롤레타리아	프롤레타리아	X	_	15	dep	_	_	프롤레타리아/f
+15	혁명임을	혁명+이+ㅁ+을	NOUN	_	16	obj	_	_	혁명/ncpa+이/jp+ㅁ/etn+을/jco
+16	가르친다	가르치+ㄴ다	VERB	_	0	root	_	_	가르치/pvg+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 왜냐하면 우리가 혁명의 근본문제라고 할 수 있는 것은 한 사회내의 경제적 적대관계의 높고 낮음에 규정되지 않기 때문이다 .
+1	왜냐하면	왜냐하면	CCONJ	_	15	cc	_	_	왜냐하면/maj
+2	우리가	우리+가	PRON	_	5	nsubj	_	_	우리/npp+가/jcs
+3	혁명의	혁명+의	NOUN	_	4	nmod	_	_	혁명/ncpa+의/jcm
+4	근본문제라고	근본+문제+라고	VERB	_	5	conj	_	_	근본/ncn+문제/ncn+라고/jcr
+5	할	하+ㄹ	VERB	_	8	acl	_	_	하/pvg+ㄹ/etm
+6	수	수	NOUN	_	7	fixed	_	_	수/nbn
+7	있는	있+는	ADJ	_	5	aux	_	_	있/paa+는/etm
+8	것은	것+은	NOUN	_	15	dislocated	_	_	것/nbn+은/jxt
+9	한	한	ADJ	_	10	amod	_	_	한/mma
+10	사회내의	사회+내+의	NOUN	_	12	nmod	_	_	사회/ncn+내/ncn+의/jcm
+11	경제적	경제+적	NOUN	_	12	amod	_	_	경제/ncn+적/xsn
+12	적대관계의	적대+관계+의	NOUN	_	14	nmod	_	_	적대/ncn+관계/ncpa+의/jcm
+13	높고	높+고	CCONJ	_	14	conj	_	_	높/paa+고/ecc
+14	낮음에	낮+ㅁ+에	ADV	_	15	obl	_	_	낮/paa+ㅁ/etn+에/jca
+15	규정되지	규정+되+지	VERB	_	0	root	_	_	규정/ncpa+되/xsv+지/ecx
+16	않기	않+기	AUX	_	15	aux	_	_	않/px+기/etn
+17	때문이다	때문+이+다	VERB	_	15	aux	_	_	때문/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이러한 문제는 역사적으로 혁명에 참여하는 세력을 혼란에 빠뜨렸다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	문제는	문제+는	NOUN	_	8	dislocated	_	_	문제/ncn+는/jxt
+3	역사적으로	역사+적+으로	ADV	_	5	advcl	_	_	역사/ncn+적/xsn+으로/jca
+4	혁명에	혁명+에	ADV	_	5	obl	_	_	혁명/ncpa+에/jca
+5	참여하는	참여+하+는	VERB	_	6	acl	_	_	참여/ncpa+하/xsv+는/etm
+6	세력을	세력+을	NOUN	_	8	obj	_	_	세력/ncn+을/jco
+7	혼란에	혼란+에	ADV	_	8	obl	_	_	혼란/ncps+에/jca
+8	빠뜨렸다	빠뜨리+었+다	VERB	_	0	root	_	_	빠뜨리/pvg+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그들과 조우하게 했다 .
+1	그들과	그+들+과	CCONJ	_	2	conj	_	_	그/npp+들/xsn+과/jct
+2	조우하게	조우+하+게	VERB	_	0	root	_	_	조우/ncpa+하/xsv+게/ecx
+3	했다	하+었+다	AUX	_	2	aux	_	_	하/px+었/ep+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 파리꼼뮨을 보자 .
+1	파리꼼뮨을	파리꼼뮨+을	PROPN	_	2	obj	_	_	파리꼼뮨/nq+을/jco
+2	보자	보+자	VERB	_	0	root	_	_	보/pvg+자/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 파리꼼뮨을 보라 .
+1	파리꼼뮨을	파리꼼뮨+을	PROPN	_	2	obj	_	_	파리꼼뮨/nq+을/jco
+2	보라	보+라	VERB	_	0	root	_	_	보/pvg+라/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 그들은 인민의 명령을 통해 도입하게 될 아무런 기성 유토피아를 갖고 있지 않습니다 .
+1	그들은	그+들+은	PRON	_	10	dislocated	_	_	그/npp+들/xsn+은/jxt
+2	인민의	인민+의	NOUN	_	3	nmod	_	_	인민/ncn+의/jcm
+3	명령을	명령+을	NOUN	_	4	obj	_	_	명령/ncpa+을/jco
+4	통해	통하+어	SCONJ	_	5	ccomp	_	_	통하/pvg+어/ecs
+5	도입하게	도입+하+게	VERB	_	9	acl	_	_	도입/ncpa+하/xsv+게/ecx
+6	될	되+ㄹ	AUX	_	5	aux	_	_	되/px+ㄹ/etm
+7	아무런	아무렇+ㄴ	VERB	_	9	amod	_	_	아무렇/pad+ㄴ/etm
+8	기성	기성	NOUN	_	9	dep	_	_	기성/ncn
+9	유토피아를	유토피아+를	NOUN	_	10	obj	_	_	유토피아/f+를/jco
+10	갖고	갖+고	VERB	_	0	root	_	_	갖/pvg+고/ecx
+11	있지	있+지	AUX	_	10	aux	_	_	있/px+지/ecx
+12	않습니다	않+습니다	AUX	_	10	aux	_	_	않/px+습니다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 꼼뮨의 개개 조치들은 인민에 의한 인민정부의 성향을 예시하지 않을 수 없었읍니다 .
+1	꼼뮨의	꼼뮨+의	PROPN	_	3	nmod	_	_	꼼뮨/nq+의/jcm
+2	개개	개개	NOUN	_	3	compound	_	_	개개/ncn
+3	조치들은	조치+들+은	NOUN	_	8	dislocated	_	_	조치/ncpa+들/xsn+은/jxt
+4	인민에	인민+에	ADV	_	5	obl	_	_	인민/ncn+에/jca
+5	의한	의하+ㄴ	VERB	_	6	acl	_	_	의하/pvg+ㄴ/etm
+6	인민정부의	인민+정부+의	NOUN	_	7	nmod	_	_	인민/ncn+정부/ncn+의/jcm
+7	성향을	성향+을	NOUN	_	8	obj	_	_	성향/ncn+을/jco
+8	예시하지	예시+하+지	VERB	_	0	root	_	_	예시/ncpa+하/xsv+지/ecx
+9	않을	않+ㄹ	AUX	_	8	aux	_	_	않/px+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	없었읍니다	없+었+ㅂ니다	ADJ	_	8	aux	_	_	없/paa+었/ep+ㅂ니다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 프롤레타리아 혁명의 견지에서 본다면 민중민주적 조치들은 단순한 개량이다 .
+1	프롤레타리아	프롤레타리아	X	_	2	compound	_	_	프롤레타리아/f
+2	혁명의	혁명+의	NOUN	_	3	nmod	_	_	혁명/ncpa+의/jcm
+3	견지에서	견지+에서	ADV	_	4	advcl	_	_	견지/ncn+에서/jca
+4	본다면	보+ㄴ다면	SCONJ	_	8	ccomp	_	_	보/pvg+ㄴ다면/ecs
+5	민중민주적	민중+민주+적	NOUN	_	6	amod	_	_	민중/ncn+민주/ncn+적/xsn
+6	조치들은	조치+들+은	NOUN	_	8	dislocated	_	_	조치/ncpa+들/xsn+은/jxt
+7	단순한	단순+하+ㄴ	VERB	_	8	amod	_	_	단순/ncps+하/xsm+ㄴ/etm
+8	개량이다	개량+이+다	VERB	_	0	root	_	_	개량/ncpa+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 소위 남한의 PDR이란 무엇인가 ?
+1	소위	소위	ADV	_	4	advmod	_	_	소위/mag
+2	남한의	남한+의	PROPN	_	3	nmod	_	_	남한/nq+의/jcm
+3	PDR이란	PDR+이란	ADV	_	4	advcl	_	_	PDR/f+이란/jxc
+4	무엇인가	무엇+이+ㄴ가	VERB	_	0	root	_	_	무엇/npd+이/jp+ㄴ가/ef
+5	?	?	PUNCT	_	4	punct	_	_	?/sf
+
+# 우리의 강령에는 사회주의로 성장전화를 담보하는 금융과두제의 종식과 콘체른 및 기간산업의 국유화도 있단 말이야 .
+1	우리의	우리+의	PRON	_	2	nmod	_	_	우리/npp+의/jcm
+2	강령에는	강령+에+는	NOUN	_	12	dislocated	_	_	강령/ncn+에/jca+는/jxt
+3	사회주의로	사회주의+로	ADV	_	5	advcl	_	_	사회주의/ncn+로/jca
+4	성장전화를	성장+전화+를	NOUN	_	5	obj	_	_	성장/ncpa+전화/ncpa+를/jco
+5	담보하는	담보+하+는	VERB	_	11	acl	_	_	담보/ncpa+하/xsv+는/etm
+6	금융과두제의	금융과두제+의	NOUN	_	7	nmod	_	_	금융과두제/ncn+의/jcm
+7	종식과	종식+과	CCONJ	_	8	conj	_	_	종식/ncpa+과/jcj
+8	콘체른	콘체른	X	_	11	conj	_	_	콘체른/f
+9	및	및	CCONJ	_	11	cc	_	_	및/maj
+10	기간산업의	기간+산업+의	NOUN	_	11	nmod	_	_	기간/ncn+산업/ncn+의/jcm
+11	국유화도	국유화+도	ADV	_	12	advcl	_	_	국유화/ncn+도/jxc
+12	있단	있+단	ADJ	_	13	amod	_	_	있/paa+단/etm
+13	말이야	말+이+야	VERB	_	0	root	_	_	말/ncpa+이/jp+야/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그것이 바로 사회주의라고 해도 별반 모순이 없는 구체적 조처라네 .
+1	그것이	그것+이	PRON	_	3	nsubj	_	_	그것/npd+이/jcs
+2	바로	바로	ADV	_	3	advmod	_	_	바로/mag
+3	사회주의라고	사회주의+이+라+고	VERB	_	4	conj	_	_	사회주의/ncn+이/jp+라/ef+고/jcr
+4	해도	하+어도	SCONJ	_	9	ccomp	_	_	하/pvg+어도/ecs
+5	별반	별반	ADV	_	7	advmod	_	_	별반/mag
+6	모순이	모순+이	NOUN	_	7	nsubj	_	_	모순/ncpa+이/jcs
+7	없는	없+는	ADJ	_	9	amod	_	_	없/paa+는/etm
+8	구체적	구체+적	NOUN	_	9	amod	_	_	구체/ncn+적/xsn
+9	조처라네	조처+이+라네	VERB	_	0	root	_	_	조처/ncn+이/jp+라네/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 우리는 이 문제에 대해 따로 논할 기회를 가질 것이다 .
+1	우리는	우리+는	PRON	_	8	dislocated	_	_	우리/npp+는/jxt
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	문제에	문제+에	ADV	_	4	obl	_	_	문제/ncn+에/jca
+4	대해	대하+어	SCONJ	_	8	ccomp	_	_	대하/pvg+어/ecs
+5	따로	따로	ADV	_	6	advmod	_	_	따로/mag
+6	논할	논하+ㄹ	VERB	_	7	acl	_	_	논하/pvg+ㄹ/etm
+7	기회를	기회+를	NOUN	_	8	obj	_	_	기회/ncn+를/jco
+8	가질	가지+ㄹ	VERB	_	0	root	_	_	가지/pvg+ㄹ/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 다시 꼼뮨이 민주 공화국 정체를 취하였다는 논의로 돌아가자 .
+1	다시	다시	ADV	_	8	advmod	_	_	다시/mag
+2	꼼뮨이	꼼뮨+이	PROPN	_	6	nsubj	_	_	꼼뮨/nq+이/jcs
+3	민주	민주	NOUN	_	4	compound	_	_	민주/ncn
+4	공화국	공화국	NOUN	_	5	compound	_	_	공화국/ncn
+5	정체를	정체+를	NOUN	_	6	obj	_	_	정체/ncn+를/jco
+6	취하였다는	취하+었+다는	VERB	_	7	acl	_	_	취하/pvg+었/ep+다는/etm
+7	논의로	논의+로	ADV	_	8	advcl	_	_	논의/ncpa+로/jca
+8	돌아가자	돌+아+가+자	AUX	_	0	root	_	_	돌/pvg+아/ecx+가/px+자/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 프롤레타리아는 국가의 최악 측면들을 마치 꼼뮨이 꼭 그렇게 하였듯이 , 가능한 가장 빠른 시기에 절단시키지 않으면 안된다 .
+1	프롤레타리아는	프롤레타리아+는	NOUN	_	15	dislocated	_	_	프롤레타리아/f+는/jxt
+2	국가의	국가+의	NOUN	_	4	nmod	_	_	국가/ncn+의/jcm
+3	최악	최악	NOUN	_	4	compound	_	_	최악/ncn
+4	측면들을	측면+들+을	NOUN	_	15	obj	_	_	측면/ncn+들/xsn+을/jco
+5	마치	마치	ADV	_	9	advmod	_	_	마치/mag
+6	꼼뮨이	꼼뮨+이	PROPN	_	9	nsubj	_	_	꼼뮨/nq+이/jcs
+7	꼭	꼭	ADV	_	9	advmod	_	_	꼭/mag
+8	그렇게	그렇+게	SCONJ	_	9	xcomp	_	_	그렇/pad+게/ecs
+9	하였듯이	하+었+듯이	SCONJ	_	15	ccomp	_	_	하/pvg+었/ep+듯이/ecs
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	가능한	가능+하+ㄴ	VERB	_	14	amod	_	_	가능/ncps+하/xsm+ㄴ/etm
+12	가장	가장	ADV	_	13	advmod	_	_	가장/mag
+13	빠른	빠르+ㄴ	ADJ	_	14	amod	_	_	빠르/paa+ㄴ/etm
+14	시기에	시기+에	ADV	_	15	obl	_	_	시기/ncn+에/jca
+15	절단시키지	절단+시키+지	VERB	_	17	ccomp	_	_	절단/ncpa+시키/xsv+지/ecx
+16	않으면	않+으면	SCONJ	_	15	aux	_	_	않/px+으면/ecs
+17	안된다	안되+ㄴ다	VERB	_	0	root	_	_	안되/pvg+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 프롤레타리아 국가는 사회주의로의 이행을 자동적으로 보증하는 무임승차권이 아니며 무오류의 화신은 더더욱 아니다 .
+1	프롤레타리아	프롤레타리아	X	_	2	compound	_	_	프롤레타리아/f
+2	국가는	국가+는	NOUN	_	12	dislocated	_	_	국가/ncn+는/jxt
+3	사회주의로의	사회주의+로+의	NOUN	_	4	nmod	_	_	사회주의/ncn+로/jca+의/jcm
+4	이행을	이행+을	NOUN	_	6	obj	_	_	이행/ncpa+을/jco
+5	자동적으로	자동+적+으로	ADV	_	6	advcl	_	_	자동/ncn+적/xsn+으로/jca
+6	보증하는	보증+하+는	VERB	_	7	acl	_	_	보증/ncpa+하/xsv+는/etm
+7	무임승차권이	무임+승차권+이	NOUN	_	8	csubj	_	_	무임/ncn+승차권/ncn+이/jcc
+8	아니며	아니+며	CCONJ	_	12	conj	_	_	아니/paa+며/ecc
+9	무오류의	무오류+의	NOUN	_	10	nmod	_	_	무오류/ncn+의/jcm
+10	화신은	화신+은	NOUN	_	12	dislocated	_	_	화신/ncn+은/jxt
+11	더더욱	더더욱	ADV	_	12	advmod	_	_	더더욱/mag
+12	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그러한 것을 가장하는 것은 국가에의 물신숭배로 귀결되며 스탈린주의는 그 대명사격이다 .
+1	그러한	그러하+ㄴ	VERB	_	2	amod	_	_	그러하/pad+ㄴ/etm
+2	것을	것+을	NOUN	_	3	obj	_	_	것/nbn+을/jco
+3	가장하는	가장+하+는	VERB	_	4	acl	_	_	가장/ncpa+하/xsv+는/etm
+4	것은	것+은	NOUN	_	7	dislocated	_	_	것/nbn+은/jxt
+5	국가에의	국가+에+의	NOUN	_	6	nmod	_	_	국가/ncn+에/jca+의/jcm
+6	물신숭배로	물신+숭배+로	ADV	_	7	advcl	_	_	물신/ncn+숭배/ncpa+로/jca
+7	귀결되며	귀결+되+며	CCONJ	_	10	conj	_	_	귀결/ncpa+되/xsv+며/ecc
+8	스탈린주의는	스탈린주의+는	NOUN	_	10	dislocated	_	_	스탈린주의/ncn+는/jxt
+9	그	그	DET	_	10	det	_	_	그/mmd
+10	대명사격이다	대명사+격+이+다	VERB	_	0	root	_	_	대명사/ncn+격/ncn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 한마디로 우리는 프롤레타리아 국가와도 궁극적으로 국가의 사멸의 조건을 만들기 위해 투쟁해야 한다 .
+1	한마디로	한마디+로	ADV	_	11	advcl	_	_	한마디/ncn+로/jca
+2	우리는	우리+는	PRON	_	11	dislocated	_	_	우리/npp+는/jxt
+3	프롤레타리아	프롤레타리아	NOUN	_	4	compound	_	_	프롤레타리아/ncn
+4	국가와도	국가+와도	ADV	_	11	advcl	_	_	국가/ncn+와도/jxc
+5	궁극적으로	궁극+적+으로	ADV	_	9	advcl	_	_	궁극/ncps+적/xsn+으로/jca
+6	국가의	국가+의	NOUN	_	7	nmod	_	_	국가/ncn+의/jcm
+7	사멸의	사멸+의	NOUN	_	8	nmod	_	_	사멸/ncpa+의/jcm
+8	조건을	조건+을	NOUN	_	9	obj	_	_	조건/ncn+을/jco
+9	만들기	만들+기	VERB	_	10	nmod	_	_	만들/pvg+기/etn
+10	위해	위하+어	SCONJ	_	11	ccomp	_	_	위하/pvg+어/ecs
+11	투쟁해야	투쟁+하+어야	VERB	_	0	root	_	_	투쟁/ncpa+하/xsv+어야/ecx
+12	한다	하+ㄴ다	AUX	_	11	aux	_	_	하/px+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 곧 두개의 길이 서로 교차한다 .
+1	곧	곧	CCONJ	_	5	cc	_	_	곧/maj
+2	두개의	두+개+의	NUM	_	3	nmod	_	_	두/nnc+개/nbn+의/jcm
+3	길이	길+이	NOUN	_	5	nsubj	_	_	길/ncn+이/jcs
+4	서로	서로	ADV	_	5	advmod	_	_	서로/mag
+5	교차한다	교차+하+ㄴ다	VERB	_	0	root	_	_	교차/ncpa+하/xsv+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 사유재산에 맞서 투쟁하는 임금노동은 전제정 아래서도 존재하며 심지어 농노제 아래에서도 생겨난다 .
+1	사유재산에	사유+재산+에	ADV	_	2	obl	_	_	사유/ncn+재산/ncn+에/jca
+2	맞서	맞+서	SCONJ	_	3	ccomp	_	_	맞/pvg+서/ecs
+3	투쟁하는	투쟁+하+는	VERB	_	4	acl	_	_	투쟁/ncpa+하/xsv+는/etm
+4	임금노동은	임금+노동+은	NOUN	_	11	dislocated	_	_	임금/ncn+노동/ncpa+은/jxt
+5	전제정	전제정	DET	_	6	det	_	_	전제정/mmd
+6	아래서도	아래+서도	ADV	_	7	advcl	_	_	아래/ncn+서도/jxc
+7	존재하며	존재+하+며	CCONJ	_	11	conj	_	_	존재/ncpa+하/xsv+며/ecc
+8	심지어	심지어	ADV	_	11	advmod	_	_	심지어/mag
+9	농노제	농노제	NOUN	_	10	compound	_	_	농노제/ncn
+10	아래에서도	아래+에서+도	ADV	_	11	advcl	_	_	아래/ncn+에서/jca+도/jxc
+11	생겨난다	생기+어+나+ㄴ다	AUX	_	0	root	_	_	생기/pvg+어/ecx+나/px+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러나 그로 인해 우리가 주요 발전단계들을 부르조아 혁명과 사회주의 혁명을 대비시키고 양자를 엄격히 구별해야할 절대적인 필요성을 주장한다 .
+1	그러나	그러나	CCONJ	_	17	cc	_	_	그러나/maj
+2	그로	그+로	ADV	_	3	advcl	_	_	그/npp+로/jca
+3	인해	인하+어	SCONJ	_	17	ccomp	_	_	인하/pvg+어/ecs
+4	우리가	우리+가	PRON	_	14	nsubj	_	_	우리/npp+가/jcs
+5	주요	주요	NOUN	_	6	compound	_	_	주요/ncn
+6	발전단계들을	발전+단계+들+을	NOUN	_	11	obj	_	_	발전/ncpa+단계/ncn+들/xsn+을/jco
+7	부르조아	부르조아	X	_	8	compound	_	_	부르조아/f
+8	혁명과	혁명+과	CCONJ	_	10	conj	_	_	혁명/ncpa+과/jcj
+9	사회주의	사회주의	NOUN	_	10	compound	_	_	사회주의/ncn
+10	혁명을	혁명+을	NOUN	_	11	obj	_	_	혁명/ncpa+을/jco
+11	대비시키고	대비+시키+고	CCONJ	_	14	conj	_	_	대비/ncpa+시키/xsv+고/ecc
+12	양자를	양자+를	NOUN	_	14	obj	_	_	양자/ncn+를/jco
+13	엄격히	엄격+히	ADV	_	14	advmod	_	_	엄격/ncps+히/xsa
+14	구별해야할	구별+하+어야+하+ㄹ	AUX	_	16	acl	_	_	구별/ncpa+하/xsv+어야/ecx+하/px+ㄹ/etm
+15	절대적인	절대+적+이+ㄴ	VERB	_	16	acl	_	_	절대/ncn+적/xsn+이/jp+ㄴ/etm
+16	필요성을	필요성+을	NOUN	_	17	obj	_	_	필요성/ncn+을/jco
+17	주장한다	주장+하+ㄴ다	VERB	_	0	root	_	_	주장/ncpa+하/xsv+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그러나 역사과정 속에서 두가지 혁명의 개별적이고 특수한 요소들이 서로 뒤엉키게 된다는 것을 부정할 수 있겠는가 ?
+1	그러나	그러나	CCONJ	_	13	cc	_	_	그러나/maj
+2	역사과정	역사+과정	NOUN	_	3	compound	_	_	역사/ncn+과정/ncn
+3	속에서	속+에서	ADV	_	11	advcl	_	_	속/ncn+에서/jca
+4	두가지	두+가지	NOUN	_	5	compound	_	_	두/nnc+가지/nbn
+5	혁명의	혁명+의	NOUN	_	8	nmod	_	_	혁명/ncpa+의/jcm
+6	개별적이고	개별+적+이+고	CCONJ	_	7	conj	_	_	개별/ncn+적/xsn+이/jp+고/ecc
+7	특수한	특수+하+ㄴ	VERB	_	8	amod	_	_	특수/ncps+하/xsm+ㄴ/etm
+8	요소들이	요소+들+이	NOUN	_	11	nsubj	_	_	요소/ncn+들/xsn+이/jcs
+9	서로	서로	ADV	_	10	advmod	_	_	서로/mag
+10	뒤엉키게	뒤엉키+게	SCONJ	_	11	ccomp	_	_	뒤엉키/pvg+게/ecs
+11	된다는	되+ㄴ다는	VERB	_	12	acl	_	_	되/pvg+ㄴ다는/etm
+12	것을	것+을	NOUN	_	13	obj	_	_	것/nbn+을/jco
+13	부정할	부정+하+ㄹ	VERB	_	0	root	_	_	부정/ncpa+하/xsv+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있겠는가	있+겠+는가	ADJ	_	13	aux	_	_	있/paa+겠/ep+는가/ef
+16	?	?	PUNCT	_	15	punct	_	_	?/sf
+
+# 유럽에서는 민주주의 혁명의 시기에 사회주의를 수립하려는 수 많은 사회주의 운동 및 기도들이 있지 않았는가 ?
+1	유럽에서는	유럽+에서+는	PROPN	_	13	dislocated	_	_	유럽/nq+에서/jca+는/jxt
+2	민주주의	민주주의	NOUN	_	3	compound	_	_	민주주의/ncn
+3	혁명의	혁명+의	NOUN	_	4	nmod	_	_	혁명/ncpa+의/jcm
+4	시기에	시기+에	ADV	_	6	obl	_	_	시기/ncn+에/jca
+5	사회주의를	사회주의+를	NOUN	_	6	obj	_	_	사회주의/ncn+를/jco
+6	수립하려는	수립+하+려는	VERB	_	12	acl	_	_	수립/ncpa+하/xsv+려는/etm
+7	수	수	NOUN	_	8	dep	_	_	수/ncn
+8	많은	많+ㄴ	ADJ	_	12	amod	_	_	많/paa+ㄴ/etm
+9	사회주의	사회주의	NOUN	_	10	compound	_	_	사회주의/ncn
+10	운동	운동	NOUN	_	12	conj	_	_	운동/ncn
+11	및	및	CCONJ	_	12	cc	_	_	및/maj
+12	기도들이	기도+들+이	NOUN	_	13	nsubj	_	_	기도/ncpa+들/xsn+이/jcs
+13	있지	있+지	ADJ	_	0	root	_	_	있/paa+지/ecx
+14	않았는가	않+았+는가	AUX	_	13	aux	_	_	않/px+았/ep+는가/ef
+15	?	?	PUNCT	_	14	punct	_	_	?/sf
+
+# 우리가 이론적으로 부르조아 혁명과 사회주의 혁명을 대비시키고 양자를 업격히 구별해야 할 절대적인 필요성을 주장하는 것은 결코 자의적이거나 실용적 관점에서가 아니다 .
+1	우리가	우리+가	PRON	_	14	nsubj	_	_	우리/npp+가/jcs
+2	이론적으로	이론+적+으로	ADV	_	14	advcl	_	_	이론/ncn+적/xsn+으로/jca
+3	부르조아	부르조아	X	_	4	compound	_	_	부르조아/f
+4	혁명과	혁명+과	CCONJ	_	6	conj	_	_	혁명/ncpa+과/jcj
+5	사회주의	사회주의	NOUN	_	6	compound	_	_	사회주의/ncn
+6	혁명을	혁명+을	NOUN	_	7	obj	_	_	혁명/ncpa+을/jco
+7	대비시키고	대비+시키+고	CCONJ	_	10	conj	_	_	대비/ncpa+시키/xsv+고/ecc
+8	양자를	양자+를	NOUN	_	10	obj	_	_	양자/ncn+를/jco
+9	업격히	업격+히	ADV	_	10	advmod	_	_	업격/ncps+히/xsa
+10	구별해야	구별+하+어야	VERB	_	13	acl	_	_	구별/ncpa+하/xsv+어야/ecx
+11	할	하+ㄹ	AUX	_	10	aux	_	_	하/px+ㄹ/etm
+12	절대적인	절대+적+이+ㄴ	VERB	_	13	acl	_	_	절대/ncn+적/xsn+이/jp+ㄴ/etm
+13	필요성을	필요성+을	NOUN	_	14	obj	_	_	필요성/ncn+을/jco
+14	주장하는	주장+하+는	VERB	_	15	acl	_	_	주장/ncpa+하/xsv+는/etm
+15	것은	것+은	NOUN	_	20	dislocated	_	_	것/nbn+은/jxt
+16	결코	결코	ADV	_	20	advmod	_	_	결코/mag
+17	자의적이거나	자의+적+이거나	CCONJ	_	18	conj	_	_	자의/ncn+적/xsn+이거나/jcj
+18	실용적	실용+적	NOUN	_	19	amod	_	_	실용/ncpa+적/xsn
+19	관점에서가	관점+에서+가	NOUN	_	20	csubj	_	_	관점/ncn+에서/jca+가/jcc
+20	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 여기에 독자적인 민중민주혁명이란 없다 .
+1	여기에	여기+에	ADV	_	4	obl	_	_	여기/npd+에/jca
+2	독자적인	독자+적+이+ㄴ	VERB	_	3	acl	_	_	독자/ncn+적/xsn+이/jp+ㄴ/etm
+3	민중민주혁명이란	민중+민주+혁명+이란	ADV	_	4	advcl	_	_	민중/ncn+민주/ncn+혁명/ncpa+이란/jxc
+4	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 그러기에 레닌은 역사과정속에서 두가지 혁명 즉 , 부르조아 혁명과 사회주의 혁명의 개별적이고 특수한 요소들이 서로 뒤엉키게 된다는 것을 부정하지 않는다 .
+1	그러기에	그러+기+에	ADV	_	19	obl	_	_	그러/pvd+기/etn+에/jca
+2	레닌은	레닌+은	PROPN	_	19	dislocated	_	_	레닌/nq+은/jxt
+3	역사과정속에서	역사+과정+속+에서	ADV	_	17	advcl	_	_	역사/ncn+과정/ncn+속/ncn+에서/jca
+4	두가지	두+가지	NOUN	_	5	compound	_	_	두/nnc+가지/nbn
+5	혁명	혁명	NOUN	_	11	conj	_	_	혁명/ncpa
+6	즉	즉	CCONJ	_	7	cc	_	_	즉/maj
+7	,	,	PUNCT	_	5	punct	_	_	,/sp
+8	부르조아	부르조아	X	_	9	compound	_	_	부르조아/f
+9	혁명과	혁명+과	CCONJ	_	11	conj	_	_	혁명/ncpa+과/jcj
+10	사회주의	사회주의	NOUN	_	11	compound	_	_	사회주의/ncn
+11	혁명의	혁명+의	NOUN	_	14	nmod	_	_	혁명/ncpa+의/jcm
+12	개별적이고	개별+적+이+고	CCONJ	_	13	conj	_	_	개별/ncn+적/xsn+이/jp+고/ecc
+13	특수한	특수+하+ㄴ	VERB	_	14	amod	_	_	특수/ncps+하/xsm+ㄴ/etm
+14	요소들이	요소+들+이	NOUN	_	17	nsubj	_	_	요소/ncn+들/xsn+이/jcs
+15	서로	서로	ADV	_	16	advmod	_	_	서로/mag
+16	뒤엉키게	뒤엉키+게	SCONJ	_	17	ccomp	_	_	뒤엉키/pvg+게/ecs
+17	된다는	되+ㄴ다는	VERB	_	18	acl	_	_	되/pvg+ㄴ다는/etm
+18	것을	것+을	NOUN	_	19	obj	_	_	것/nbn+을/jco
+19	부정하지	부정+하+지	VERB	_	0	root	_	_	부정/ncpa+하/xsv+지/ecx
+20	않는다	않+는다	AUX	_	19	aux	_	_	않/px+는다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 민중이니 민중민주주의 혁명에는 어떠한 과학적 근거도 없다 .
+1	민중이니	민중+이니	CCONJ	_	3	conj	_	_	민중/ncn+이니/jcj
+2	민중민주주의	민중+민주주의	NOUN	_	3	compound	_	_	민중/ncn+민주주의/ncn
+3	혁명에는	혁명+에+는	NOUN	_	7	dislocated	_	_	혁명/ncpa+에/jca+는/jxt
+4	어떠한	어떠하+ㄴ	VERB	_	6	amod	_	_	어떠하/pad+ㄴ/etm
+5	과학적	과학+적	NOUN	_	6	amod	_	_	과학/ncn+적/xsn
+6	근거도	근거+도	ADV	_	7	advcl	_	_	근거/ncpa+도/jxc
+7	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그러한 개념이 다음에서 제기했던 의미가 전제되지 않는 이상 그것은 노동자계급이 수행해야 할 혁명의 과제를 얼버무리며 , 기회주의적 실천을 낳는다 .
+1	그러한	그러하+ㄴ	VERB	_	2	amod	_	_	그러하/pad+ㄴ/etm
+2	개념이	개념+이	NOUN	_	4	nsubj	_	_	개념/ncn+이/jcs
+3	다음에서	다음+에서	ADV	_	4	advcl	_	_	다음/ncn+에서/jca
+4	제기했던	제기+하+었+던	VERB	_	5	acl	_	_	제기/ncpa+하/xsv+었/ep+던/etm
+5	의미가	의미+가	NOUN	_	6	csubj	_	_	의미/ncpa+가/jcc
+6	전제되지	전제+되+지	VERB	_	8	acl	_	_	전제/ncpa+되/xsv+지/ecx
+7	않는	않+는	AUX	_	6	aux	_	_	않/px+는/etm
+8	이상	이상	NOUN	_	19	advmod	_	_	이상/ncn
+9	그것은	그것+은	PRON	_	19	dislocated	_	_	그것/npd+은/jxt
+10	노동자계급이	노동자+계급+이	NOUN	_	11	nsubj	_	_	노동자/ncn+계급/ncn+이/jcs
+11	수행해야	수행+하+어야	VERB	_	13	acl	_	_	수행/ncpa+하/xsv+어야/ecx
+12	할	하+ㄹ	AUX	_	11	aux	_	_	하/px+ㄹ/etm
+13	혁명의	혁명+의	NOUN	_	14	nmod	_	_	혁명/ncpa+의/jcm
+14	과제를	과제+를	NOUN	_	15	obj	_	_	과제/ncn+를/jco
+15	얼버무리며	얼버무리+며	CCONJ	_	19	conj	_	_	얼버무리/pvg+며/ecc
+16	,	,	PUNCT	_	15	punct	_	_	,/sp
+17	기회주의적	기회주의+적	NOUN	_	18	amod	_	_	기회주의/ncn+적/xsn
+18	실천을	실천+을	NOUN	_	19	obj	_	_	실천/ncpa+을/jco
+19	낳는다	낳+는다	VERB	_	0	root	_	_	낳/pvg+는다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 그것은 다름 아닌 혁명적 민주주의 독재이다 .
+1	그것은	그것+은	PRON	_	6	dislocated	_	_	그것/npd+은/jxt
+2	다름	다르+ㅁ	ADJ	_	3	nmod	_	_	다르/paa+ㅁ/etn
+3	아닌	아니+ㄴ	ADJ	_	6	amod	_	_	아니/paa+ㄴ/etm
+4	혁명적	혁명+적	NOUN	_	5	amod	_	_	혁명/ncpa+적/xsn
+5	민주주의	민주주의	NOUN	_	6	compound	_	_	민주주의/ncn
+6	독재이다	독재+이+다	VERB	_	0	root	_	_	독재/ncpa+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 계속 나아가 보자 .
+1	계속	계속	ADV	_	2	advmod	_	_	계속/mag
+2	나아가	나아가+아	VERB	_	0	root	_	_	나아가/pvg+아/ecx
+3	보자	보+자	AUX	_	2	aux	_	_	보/px+자/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 프롤레타리아 혁명의 단계에서는 이미 민주주의 혁명의 요소를 그 자체로 포괄하기 때문에 굳이 드러낼 필요조차 없다 .
+1	프롤레타리아	프롤레타리아	X	_	2	compound	_	_	프롤레타리아/f
+2	혁명의	혁명+의	NOUN	_	3	nmod	_	_	혁명/ncpa+의/jcm
+3	단계에서는	단계+에서+는	NOUN	_	10	dislocated	_	_	단계/ncn+에서/jca+는/jxt
+4	이미	이미	ADV	_	10	advmod	_	_	이미/mag
+5	민주주의	민주주의	NOUN	_	6	compound	_	_	민주주의/ncn
+6	혁명의	혁명+의	NOUN	_	7	nmod	_	_	혁명/ncpa+의/jcm
+7	요소를	요소+를	NOUN	_	10	obj	_	_	요소/ncn+를/jco
+8	그	그	DET	_	9	det	_	_	그/mmd
+9	자체로	자체+로	ADV	_	10	advcl	_	_	자체/ncn+로/jca
+10	포괄하기	포괄+하+기	VERB	_	11	nmod	_	_	포괄/ncpa+하/xsv+기/etn
+11	때문에	때문+에	ADV	_	15	obl	_	_	때문/nbn+에/jca
+12	굳이	굳이	ADV	_	13	advmod	_	_	굳이/mag
+13	드러낼	드러내+ㄹ	VERB	_	14	acl	_	_	드러내/pvg+ㄹ/etm
+14	필요조차	필요+조차	ADV	_	15	advcl	_	_	필요/ncps+조차/jxc
+15	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 왜냐하면 당연하니까 .
+1	왜냐하면	왜냐하면	CCONJ	_	2	cc	_	_	왜냐하면/maj
+2	당연하니까	당연+하+니까	VERB	_	0	root	_	_	당연/ncps+하/xsm+니까/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 하지만 이러한 사실이 사회주의적 과제를 민주주의 혁명의 과제로 혼동하거나 종속시킬 수 있는 논고가 될 여지는 조금도 없지 않은가 ?
+1	하지만	하지만	CCONJ	_	17	cc	_	_	하지만/maj
+2	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+3	사실이	사실+이	NOUN	_	10	nsubj	_	_	사실/ncn+이/jcs
+4	사회주의적	사회주의+적	NOUN	_	5	amod	_	_	사회주의/ncn+적/xsn
+5	과제를	과제+를	NOUN	_	9	obj	_	_	과제/ncn+를/jco
+6	민주주의	민주주의	NOUN	_	7	compound	_	_	민주주의/ncn
+7	혁명의	혁명+의	NOUN	_	8	nmod	_	_	혁명/ncpa+의/jcm
+8	과제로	과제+로	ADV	_	9	advcl	_	_	과제/ncn+로/jca
+9	혼동하거나	혼동+하+거나	CCONJ	_	10	conj	_	_	혼동/ncpa+하/xsv+거나/ecc
+10	종속시킬	종속+시키+ㄹ	VERB	_	13	acl	_	_	종속/ncpa+시키/xsv+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있는	있+는	ADJ	_	10	aux	_	_	있/paa+는/etm
+13	논고가	논고+가	NOUN	_	14	csubj	_	_	논고/ncn+가/jcc
+14	될	되+ㄹ	VERB	_	15	acl	_	_	되/pvg+ㄹ/etm
+15	여지는	여지+는	NOUN	_	17	dislocated	_	_	여지/ncn+는/jxt
+16	조금도	조금+도	ADV	_	17	advcl	_	_	조금/ncn+도/jxc
+17	없지	없+지	ADJ	_	0	root	_	_	없/paa+지/ecx
+18	않은가	않+ㄴ가	AUX	_	17	aux	_	_	않/px+ㄴ가/ef
+19	?	?	PUNCT	_	18	punct	_	_	?/sf
+
+# 우리는 지금까지 할 수 있는 한에서 민주공화국이 프롤레타리아 독재를 위한 특수한 형태라는 사실을 풍부히 이해하려 하였다 .
+1	우리는	우리+는	PRON	_	15	dislocated	_	_	우리/npp+는/jxt
+2	지금까지	지금+까지	ADV	_	3	advcl	_	_	지금/ncn+까지/jxc
+3	할	하+ㄹ	VERB	_	6	acl	_	_	하/pvg+ㄹ/etm
+4	수	수	NOUN	_	5	fixed	_	_	수/nbn
+5	있는	있+는	ADJ	_	3	aux	_	_	있/paa+는/etm
+6	한에서	한+에서	ADV	_	15	advcl	_	_	한/nbn+에서/jca
+7	민주공화국이	민주+공화국+이	NOUN	_	12	nsubj	_	_	민주/ncn+공화국/ncn+이/jcs
+8	프롤레타리아	프롤레타리아	X	_	9	compound	_	_	프롤레타리아/f
+9	독재를	독재+를	NOUN	_	10	obj	_	_	독재/ncpa+를/jco
+10	위한	위하+ㄴ	VERB	_	12	ccomp	_	_	위하/pvg+ㄴ/etm
+11	특수한	특수+하+ㄴ	VERB	_	12	amod	_	_	특수/ncps+하/xsm+ㄴ/etm
+12	형태라는	형태+이+라는	VERB	_	13	acl	_	_	형태/ncn+이/jp+라는/etm
+13	사실을	사실+을	NOUN	_	15	obj	_	_	사실/ncn+을/jco
+14	풍부히	풍부+히	ADV	_	15	advmod	_	_	풍부/ncps+히/xsa
+15	이해하려	이해+하+려	VERB	_	0	root	_	_	이해/ncpa+하/xsv+려/ecx
+16	하였다	하+었+다	AUX	_	15	aux	_	_	하/px+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 즉 , 모든 부르조아 국가는 그들의 형태가 아무리 다양하더라도 끝까지 그 본질을 분석해보면 부르조아지의 독재라는 동일한 본질이 드러난다 .
+1	즉	즉	CCONJ	_	18	cc	_	_	즉/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	모든	모든	ADJ	_	5	amod	_	_	모든/mma
+4	부르조아	부르조아	NOUN	_	5	compound	_	_	부르조아/ncn
+5	국가는	국가+는	NOUN	_	18	dislocated	_	_	국가/ncn+는/jxt
+6	그들의	그+들+의	PRON	_	7	nmod	_	_	그/npp+들/xsn+의/jcm
+7	형태가	형태+가	NOUN	_	9	nsubj	_	_	형태/ncn+가/jcs
+8	아무리	아무리	ADV	_	9	advmod	_	_	아무리/mag
+9	다양하더라도	다양+하+더라+도	ADV	_	18	amod	_	_	다양/ncps+하/xsm+더라/ecs+도/jxc
+10	끝까지	끝+까지	ADV	_	13	advcl	_	_	끝/ncn+까지/jxc
+11	그	그	DET	_	12	det	_	_	그/mmd
+12	본질을	본질+을	NOUN	_	13	obj	_	_	본질/ncn+을/jco
+13	분석해보면	분석+하+어+보+면	SCONJ	_	18	ccomp	_	_	분석/ncpa+하/xsv+어/ecx+보/px+면/ecs
+14	부르조아지의	부르조아지+의	NOUN	_	15	nmod	_	_	부르조아지/f+의/jcm
+15	독재라는	독재+라는	NOUN	_	17	nmod	_	_	독재/ncpa+라는/jcm
+16	동일한	동일+하+ㄴ	VERB	_	17	amod	_	_	동일/ncps+하/xsm+ㄴ/etm
+17	본질이	본질+이	NOUN	_	18	nsubj	_	_	본질/ncn+이/jcs
+18	드러난다	드러나+ㄴ다	VERB	_	0	root	_	_	드러나/pvg+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 자본주의에서 공산주의로의 이행은 풍부하고 아주 다양한 정치적 형태들을 창출하는 것과 밀접하게 관련되어 있지만 그 본질은 필연적으로 동일하게 될 것이다 .
+1	자본주의에서	자본주의+에서	ADV	_	2	advcl	_	_	자본주의/ncn+에서/jca
+2	공산주의로의	공산주의+로+의	NOUN	_	3	nmod	_	_	공산주의/ncn+로/jca+의/jcm
+3	이행은	이행+은	NOUN	_	12	dislocated	_	_	이행/ncpa+은/jxt
+4	풍부하고	풍부+하+고	CCONJ	_	6	conj	_	_	풍부/ncps+하/xsm+고/ecc
+5	아주	아주	ADV	_	6	advmod	_	_	아주/mag
+6	다양한	다양+하+ㄴ	VERB	_	8	amod	_	_	다양/ncps+하/xsm+ㄴ/etm
+7	정치적	정치+적	NOUN	_	8	amod	_	_	정치/ncpa+적/xsn
+8	형태들을	형태+들+을	NOUN	_	9	obj	_	_	형태/ncn+들/xsn+을/jco
+9	창출하는	창출+하+는	VERB	_	10	acl	_	_	창출/ncpa+하/xsv+는/etm
+10	것과	것+과	CCONJ	_	12	conj	_	_	것/nbn+과/jct
+11	밀접하게	밀접+하+게	SCONJ	_	12	xcomp	_	_	밀접/ncps+하/xsm+게/ecs
+12	관련되어	관련+되+어	VERB	_	17	conj	_	_	관련/ncpa+되/xsv+어/ecx
+13	있지만	있+지만	SCONJ	_	12	aux	_	_	있/px+지만/ecs
+14	그	그	DET	_	15	det	_	_	그/mmd
+15	본질은	본질+은	NOUN	_	17	dislocated	_	_	본질/ncn+은/jxt
+16	필연적으로	필연+적+으로	ADV	_	17	advcl	_	_	필연/ncn+적/xsn+으로/jca
+17	동일하게	동일+하+게	VERB	_	0	root	_	_	동일/ncps+하/xsm+게/ecx
+18	될	되+ㄹ	AUX	_	17	aux	_	_	되/px+ㄹ/etm
+19	것이다	것+이+다	VERB	_	17	aux	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 프롤레타리아 독재의 주요 본질은 근로대중의 선봉대이며 그들의 전위대이며 그들의 유일한 지도자인 프롤레타리아의 조직성과 규율성에 있다 .
+1	프롤레타리아	프롤레타리아	X	_	2	compound	_	_	프롤레타리아/f
+2	독재의	독재+의	NOUN	_	4	nmod	_	_	독재/ncpa+의/jcm
+3	주요	주요	NOUN	_	4	compound	_	_	주요/ncn
+4	본질은	본질+은	NOUN	_	8	dislocated	_	_	본질/ncn+은/jxt
+5	근로대중의	근로+대중+의	NOUN	_	6	nmod	_	_	근로/ncn+대중/ncn+의/jcm
+6	선봉대이며	선봉대+이+며	CCONJ	_	8	conj	_	_	선봉대/ncn+이/jp+며/ecc
+7	그들의	그+들+의	PRON	_	8	nmod	_	_	그/npp+들/xsn+의/jcm
+8	전위대이며	전위대+이+며	CCONJ	_	15	conj	_	_	전위대/ncn+이/jp+며/ecc
+9	그들의	그+들+의	PRON	_	11	nmod	_	_	그/npp+들/xsn+의/jcm
+10	유일한	유일+하+ㄴ	VERB	_	11	amod	_	_	유일/ncps+하/xsm+ㄴ/etm
+11	지도자인	지도자+이+ㄴ	VERB	_	14	acl	_	_	지도자/ncn+이/jp+ㄴ/etm
+12	프롤레타리아의	프롤레타리아+의	NOUN	_	14	nmod	_	_	프롤레타리아/f+의/jcm
+13	조직성과	조직성+과	CCONJ	_	14	conj	_	_	조직성/ncn+과/jcj
+14	규율성에	규율성+에	ADV	_	15	obl	_	_	규율성/ncn+에/jca
+15	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이 목적은 단번에 실현될 수는 없다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	목적은	목적+은	NOUN	_	4	dislocated	_	_	목적/ncn+은/jxt
+3	단번에	단번+에	ADV	_	4	obl	_	_	단번/ncn+에/jca
+4	실현될	실현+되+ㄹ	VERB	_	0	root	_	_	실현/ncpa+되/xsv+ㄹ/etm
+5	수는	수+는	NOUN	_	6	fixed	_	_	수/nbn+는/jxt
+6	없다	없+다	ADJ	_	4	aux	_	_	없/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이 점에 있어 엥겔스와 레닌은 일치하고 있다 .
+1	이	이	PRON	_	2	compound	_	_	이/npd
+2	점에	점+에	ADV	_	3	obl	_	_	점/nbu+에/jca
+3	있어	있+어	SCONJ	_	6	xcomp	_	_	있/paa+어/ecs
+4	엥겔스와	엥겔스+와	CCONJ	_	5	conj	_	_	엥겔스/nq+와/jcj
+5	레닌은	레닌+은	PROPN	_	6	dislocated	_	_	레닌/nq+은/jxt
+6	일치하고	일치+하+고	VERB	_	0	root	_	_	일치/ncpa+하/xsv+고/ecx
+7	있다	있+다	AUX	_	6	aux	_	_	있/px+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그 경우 우리는 이것이 유익하다는 것을 소농에게 보여줄 수단을 물론 충분히 가지고 있다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	경우	경우	NOUN	_	12	advmod	_	_	경우/ncn
+3	우리는	우리+는	PRON	_	12	dislocated	_	_	우리/npp+는/jxt
+4	이것이	이것+이	PRON	_	5	nsubj	_	_	이것/npd+이/jcs
+5	유익하다는	유익+하+다는	VERB	_	6	amod	_	_	유익/ncps+하/xsm+다는/etm
+6	것을	것+을	NOUN	_	8	obj	_	_	것/nbn+을/jco
+7	소농에게	소농+에게	ADV	_	8	iobj	_	_	소농/ncn+에게/jca
+8	보여줄	보이+어+주+ㄹ	AUX	_	9	acl	_	_	보이/pvg+어/ecx+주/px+ㄹ/etm
+9	수단을	수단+을	NOUN	_	12	obj	_	_	수단/ncn+을/jco
+10	물론	물론	ADV	_	12	advmod	_	_	물론/mag
+11	충분히	충분+히	ADV	_	12	advmod	_	_	충분/ncps+히/xsa
+12	가지고	가지+고	VERB	_	0	root	_	_	가지/pvg+고/ecx
+13	있다	있+다	AUX	_	12	aux	_	_	있/px+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 계급이 존재하는 한 민주주의는 불가피하다 .
+1	계급이	계급+이	NOUN	_	2	nsubj	_	_	계급/ncn+이/jcs
+2	존재하는	존재+하+는	VERB	_	3	acl	_	_	존재/ncpa+하/xsv+는/etm
+3	한	한	NOUN	_	5	mark	_	_	한/nbn
+4	민주주의는	민주주의+는	NOUN	_	5	dislocated	_	_	민주주의/ncn+는/jxt
+5	불가피하다	불가피+하+다	VERB	_	0	root	_	_	불가피/ncps+하/xsm+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그러한 민주주의가 어떤 계급에 의해서 , 어떤 사회적 지반에 의해서 제시되는가 그것이 본질적 차이다 .
+1	그러한	그러하+ㄴ	VERB	_	2	amod	_	_	그러하/pad+ㄴ/etm
+2	민주주의가	민주주의+가	NOUN	_	11	nsubj	_	_	민주주의/ncn+가/jcs
+3	어떤	어떻+ㄴ	VERB	_	4	amod	_	_	어떻/pad+ㄴ/etm
+4	계급에	계급+에	ADV	_	5	obl	_	_	계급/ncn+에/jca
+5	의해서	의하+어서	SCONJ	_	10	ccomp	_	_	의하/pvg+어서/ecs
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	어떤	어떻+ㄴ	VERB	_	9	amod	_	_	어떻/pad+ㄴ/etm
+8	사회적	사회+적	NOUN	_	9	amod	_	_	사회/ncn+적/xsn
+9	지반에	지반+에	ADV	_	10	obl	_	_	지반/ncn+에/jca
+10	의해서	의하+어서	SCONJ	_	11	ccomp	_	_	의하/pvg+어서/ecs
+11	제시되는가	제시+되+는가	VERB	_	12	dep	_	_	제시/ncpa+되/xsv+는가/ef
+12	그것이	그것+이	PRON	_	14	nsubj	_	_	그것/npd+이/jcs
+13	본질적	본질+적	NOUN	_	14	amod	_	_	본질/ncn+적/xsn
+14	차이다	차이+이+다	VERB	_	0	root	_	_	차이/ncn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 따라서 계급은 프롤레타리아 독재의 시기에도 남아있으며 또 남아있을 것이다 .
+1	따라서	따라서	CCONJ	_	8	cc	_	_	따라서/maj
+2	계급은	계급+은	NOUN	_	8	dislocated	_	_	계급/ncn+은/jxt
+3	프롤레타리아	프롤레타리아	X	_	4	compound	_	_	프롤레타리아/f
+4	독재의	독재+의	NOUN	_	5	nmod	_	_	독재/ncpa+의/jcm
+5	시기에도	시기+에+도	ADV	_	6	advcl	_	_	시기/ncn+에/jca+도/jxc
+6	남아있으며	남+아+있+으며	SCONJ	_	8	ccomp	_	_	남/pvg+아/ecx+있/px+으며/ecs
+7	또	또	ADV	_	8	advmod	_	_	또/mag
+8	남아있을	남+아+있+ㄹ	AUX	_	0	root	_	_	남/pvg+아/ecx+있/px+ㄹ/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 계급이 없어지는 때면 독재는 필요하지 않을 것이다 .
+1	계급이	계급+이	NOUN	_	2	nsubj	_	_	계급/ncn+이/jcs
+2	없어지는	없+어+지+는	AUX	_	3	amod	_	_	없/paa+어/ecx+지/px+는/etm
+3	때면	때+면	ADV	_	5	advcl	_	_	때/nbn+면/jxc
+4	독재는	독재+는	NOUN	_	5	dislocated	_	_	독재/ncpa+는/jxt
+5	필요하지	필요+하+지	VERB	_	0	root	_	_	필요/ncps+하/xsm+지/ecx
+6	않을	않+ㄹ	AUX	_	5	aux	_	_	않/px+ㄹ/etm
+7	것이다	것+이+다	VERB	_	5	aux	_	_	것/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 계급은 프롤레타리아 독재 없이는 없어지지 않을 것이다 .
+1	계급은	계급+은	NOUN	_	5	dislocated	_	_	계급/ncn+은/jxt
+2	프롤레타리아	프롤레타리아	X	_	3	compound	_	_	프롤레타리아/f
+3	독재	독재	NOUN	_	4	dep	_	_	독재/ncpa
+4	없이는	없+이+는	NOUN	_	5	amod	_	_	없/paa+이/ecs+는/jxt
+5	없어지지	없+어+지+지	AUX	_	0	root	_	_	없/paa+어/ecx+지/px+지/ecx
+6	않을	않+ㄹ	AUX	_	5	aux	_	_	않/px+ㄹ/etm
+7	것이다	것+이+다	VERB	_	5	aux	_	_	것/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 계급은 남아있다 .
+1	계급은	계급+은	NOUN	_	2	dislocated	_	_	계급/ncn+은/jxt
+2	남아있다	남+아+있+다	AUX	_	0	root	_	_	남/pvg+아/ecx+있/px+다/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 그러나 각 계급은 프롤레타리아 독재시기에 와서 변형하였으며 , 그들의 상호관계도 변하였다 .
+1	그러나	그러나	CCONJ	_	11	cc	_	_	그러나/maj
+2	각	각	ADJ	_	3	amod	_	_	각/mma
+3	계급은	계급+은	NOUN	_	7	dislocated	_	_	계급/ncn+은/jxt
+4	프롤레타리아	프롤레타리아	X	_	5	compound	_	_	프롤레타리아/f
+5	독재시기에	독재+시기+에	ADV	_	6	obl	_	_	독재/ncpa+시기/ncn+에/jca
+6	와서	오+아서	SCONJ	_	7	ccomp	_	_	오/pvg+아서/ecs
+7	변형하였으며	변형+하+었+으며	SCONJ	_	11	ccomp	_	_	변형/ncpa+하/xsv+었/ep+으며/ecs
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	그들의	그+들+의	PRON	_	10	nmod	_	_	그/npp+들/xsn+의/jcm
+10	상호관계도	상호+관계+도	ADV	_	11	advcl	_	_	상호/ncn+관계/ncpa+도/jxc
+11	변하였다	변하+었+다	VERB	_	0	root	_	_	변하/pvg+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 즉 어떠한 계급의 압박으로부터의 해방이야 ?
+1	즉	즉	CCONJ	_	5	cc	_	_	즉/maj
+2	어떠한	어떠하+ㄴ	VERB	_	3	amod	_	_	어떠하/pad+ㄴ/etm
+3	계급의	계급+의	NOUN	_	4	nmod	_	_	계급/ncn+의/jcm
+4	압박으로부터의	압박+으로+부터+의	NOUN	_	5	nmod	_	_	압박/ncpa+으로/jca+부터/jxc+의/jcm
+5	해방이야	해방+이+야	VERB	_	0	root	_	_	해방/ncpa+이/jp+야/ef
+6	?	?	PUNCT	_	5	punct	_	_	?/sf
+
+# 어떠한 계급과 어떠한 계급과의 평등이냐 ?
+1	어떠한	어떠하+ㄴ	VERB	_	2	amod	_	_	어떠하/pad+ㄴ/etm
+2	계급과	계급+과	CCONJ	_	4	conj	_	_	계급/ncn+과/jcj
+3	어떠한	어떠하+ㄴ	VERB	_	4	amod	_	_	어떠하/pad+ㄴ/etm
+4	계급과의	계급+과+의	NOUN	_	5	nmod	_	_	계급/ncn+과/jct+의/jcm
+5	평등이냐	평등+이+냐	VERB	_	0	root	_	_	평등/ncps+이/jp+냐/ef
+6	?	?	PUNCT	_	5	punct	_	_	?/sf
+
+# 그러나 그것은 사적소유를 폐지하기 위한 투쟁의 토대위에 선 민주주의다 .
+1	그러나	그러나	CCONJ	_	9	cc	_	_	그러나/maj
+2	그것은	그것+은	PRON	_	9	dislocated	_	_	그것/npd+은/jxt
+3	사적소유를	사적+소유+를	NOUN	_	4	obj	_	_	사적/ncn+소유/ncpa+를/jco
+4	폐지하기	폐지+하+기	VERB	_	5	nmod	_	_	폐지/ncpa+하/xsv+기/etn
+5	위한	위하+ㄴ	VERB	_	6	acl	_	_	위하/pvg+ㄴ/etm
+6	투쟁의	투쟁+의	NOUN	_	7	nmod	_	_	투쟁/ncpa+의/jcm
+7	토대위에	토대+위+에	ADV	_	8	obl	_	_	토대/ncn+위/ncn+에/jca
+8	선	서+ㄴ	VERB	_	9	ccomp	_	_	서/pvg+ㄴ/etm
+9	민주주의다	민주주의+이+다	VERB	_	0	root	_	_	민주주의/ncn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 때문에 현재의 시점에서 우리는 결코 파업투쟁을 방기할 수 업스며 , 파업을 강제적인 국가 조정으로 대체하는 법률을 원칙적으로 인정할 수 없는 것이다 .
+1	때문에	때문에	CCONJ	_	18	cc	_	_	때문에/maj
+2	현재의	현재+의	NOUN	_	3	nmod	_	_	현재/ncn+의/jcm
+3	시점에서	시점+에서	ADV	_	18	advcl	_	_	시점/ncn+에서/jca
+4	우리는	우리+는	PRON	_	18	dislocated	_	_	우리/npp+는/jxt
+5	결코	결코	ADV	_	7	advmod	_	_	결코/mag
+6	파업투쟁을	파업+투쟁+을	NOUN	_	7	obj	_	_	파업/ncpa+투쟁/ncpa+을/jco
+7	방기할	방기+하+ㄹ	VERB	_	18	ccomp	_	_	방기/ncpa+하/xsv+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	업스며	없+으며	SCONJ	_	7	aux	_	_	없/paa+으며/ecs
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	파업을	파업+을	NOUN	_	15	obj	_	_	파업/ncpa+을/jco
+12	강제적인	강제+적+이+ㄴ	VERB	_	14	acl	_	_	강제/ncpa+적/xsn+이/jp+ㄴ/etm
+13	국가	국가	NOUN	_	14	compound	_	_	국가/ncn
+14	조정으로	조정+으로	ADV	_	15	advcl	_	_	조정/ncn+으로/jca
+15	대체하는	대체+하+는	VERB	_	16	acl	_	_	대체/ncpa+하/xsv+는/etm
+16	법률을	법률+을	NOUN	_	18	obj	_	_	법률/ncn+을/jco
+17	원칙적으로	원칙+적+으로	ADV	_	18	advcl	_	_	원칙/ncn+적/xsn+으로/jca
+18	인정할	인정+하+ㄹ	VERB	_	0	root	_	_	인정/ncpa+하/xsv+ㄹ/etm
+19	수	수	NOUN	_	20	fixed	_	_	수/nbn
+20	없는	없+는	ADJ	_	18	aux	_	_	없/paa+는/etm
+21	것이다	것+이+다	VERB	_	18	aux	_	_	것/nbn+이/jp+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 다른 한편 자본주의 하에서는 파업투쟁의 최종목표가 국가기구의 파괴와 기존의 계급적 국가권력의 타도라는 것이 분명하다 .
+1	다른	다르+ㄴ	ADJ	_	2	amod	_	_	다르/paa+ㄴ/etm
+2	한편	한편	NOUN	_	14	compound	_	_	한편/ncn
+3	자본주의	자본주의	NOUN	_	4	compound	_	_	자본주의/ncn
+4	하에서는	하+에서+는	NOUN	_	12	dislocated	_	_	하/nbn+에서/jca+는/jxt
+5	파업투쟁의	파업+투쟁+의	NOUN	_	6	nmod	_	_	파업/ncpa+투쟁/ncpa+의/jcm
+6	최종목표가	최종+목표+가	NOUN	_	12	nsubj	_	_	최종/ncn+목표/ncn+가/jcs
+7	국가기구의	국가+기구+의	NOUN	_	8	nmod	_	_	국가/ncn+기구/ncn+의/jcm
+8	파괴와	파괴+와	CCONJ	_	12	conj	_	_	파괴/ncpa+와/jcj
+9	기존의	기존+의	NOUN	_	11	nmod	_	_	기존/ncpa+의/jcm
+10	계급적	계급+적	NOUN	_	11	amod	_	_	계급/ncn+적/xsn
+11	국가권력의	국가+권력+의	NOUN	_	12	nmod	_	_	국가/ncn+권력/ncn+의/jcm
+12	타도라는	타도+이+라는	VERB	_	13	acl	_	_	타도/ncpa+이/jp+라는/etm
+13	것이	것+이	NOUN	_	14	nsubj	_	_	것/nbn+이/jcs
+14	분명하다	분명+하+다	VERB	_	0	root	_	_	분명/ncps+하/xsm+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그러나 레닌은 현실의 변화에 눈감은 채 독단적으로 관념을 사실에 끼워넣으므로써 허위의식을 조장하는 이데올로그는 아니었다 .
+1	그러나	그러나	CCONJ	_	14	cc	_	_	그러나/maj
+2	레닌은	레닌+은	PROPN	_	5	dislocated	_	_	레닌/nq+은/jxt
+3	현실의	현실+의	NOUN	_	4	nmod	_	_	현실/ncn+의/jcm
+4	변화에	변화+에	ADV	_	5	obl	_	_	변화/ncpa+에/jca
+5	눈감은	눈감+ㄴ	VERB	_	6	acl	_	_	눈감/pvg+ㄴ/etm
+6	채	채	NOUN	_	10	advmod	_	_	채/nbn
+7	독단적으로	독단+적+으로	ADV	_	10	advcl	_	_	독단/ncpa+적/xsn+으로/jca
+8	관념을	관념+을	NOUN	_	10	obj	_	_	관념/ncpa+을/jco
+9	사실에	사실+에	ADV	_	10	obl	_	_	사실/ncn+에/jca
+10	끼워넣으므로써	끼워넣+으므로써	SCONJ	_	14	conj	_	_	끼워넣/pvg+으므로써/ecs
+11	허위의식을	허위+의식+을	NOUN	_	12	obj	_	_	허위/ncn+의식/ncn+을/jco
+12	조장하는	조장+하+는	VERB	_	13	dep	_	_	조장/ncpa+하/xsv+는/etm
+13	이데올로그는	이데올로그+는	NOUN	_	14	dislocated	_	_	이데올로그/f+는/jxt
+14	아니었다	아니+었+다	ADJ	_	0	root	_	_	아니/paa+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 따라서 그의 관심은 정세가 어디에서 어떤 방향으로 흘러가고 있으며 , 그 가운데 제기되는 프롤레타리아와 그 당의 독특한 임무는 무엇인가를 밝히는데 있었다 .
+1	따라서	따라서	CCONJ	_	21	cc	_	_	따라서/maj
+2	그의	그+의	PRON	_	3	nmod	_	_	그/npp+의/jcm
+3	관심은	관심+은	NOUN	_	21	dislocated	_	_	관심/ncpa+은/jxt
+4	정세가	정세+가	NOUN	_	8	nsubj	_	_	정세/ncn+가/jcs
+5	어디에서	어디+에서	ADV	_	8	advcl	_	_	어디/npd+에서/jca
+6	어떤	어떻+ㄴ	VERB	_	7	amod	_	_	어떻/pad+ㄴ/etm
+7	방향으로	방향+으로	ADV	_	8	advcl	_	_	방향/ncn+으로/jca
+8	흘러가고	흐르+어+가+고	AUX	_	19	dep	_	_	흐르/pvg+어/ecx+가/px+고/ecx
+9	있으며	있+으며	SCONJ	_	8	aux	_	_	있/px+으며/ecs
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	그	그	DET	_	12	det	_	_	그/mmd
+12	가운데	가운데	NOUN	_	13	compound	_	_	가운데/ncn
+13	제기되는	제기+되+는	VERB	_	18	acl	_	_	제기/ncpa+되/xsv+는/etm
+14	프롤레타리아와	프롤레타리아+와	CCONJ	_	16	conj	_	_	프롤레타리아/f+와/jcj
+15	그	그	DET	_	16	det	_	_	그/mmd
+16	당의	당+의	NOUN	_	18	nmod	_	_	당/ncn+의/jcm
+17	독특한	독특+하+ㄴ	VERB	_	18	amod	_	_	독특/ncps+하/xsm+ㄴ/etm
+18	임무는	임무+는	NOUN	_	19	dislocated	_	_	임무/ncn+는/jxt
+19	무엇인가를	무엇+이+ㄴ가+를	PRON	_	20	obj	_	_	무엇/npd+이/jp+ㄴ가/ef+를/jco
+20	밝히는데	밝히+는데	SCONJ	_	21	conj	_	_	밝히/pvg+는데/ecs
+21	있었다	있+었+다	ADJ	_	0	root	_	_	있/paa+었/ep+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 이 문제에 대한 해명과 분석을 대단히 중요하다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	문제에	문제+에	ADV	_	3	obl	_	_	문제/ncn+에/jca
+3	대한	대하+ㄴ	VERB	_	5	acl	_	_	대하/pvg+ㄴ/etm
+4	해명과	해명+과	CCONJ	_	5	conj	_	_	해명/ncpa+과/jcj
+5	분석을	분석+은	NOUN	_	7	dislocated	_	_	분석/ncpa+은/jxt
+6	대단히	대단+히	ADV	_	7	advmod	_	_	대단/ncps+히/xsa
+7	중요하다	중요+하+다	VERB	_	0	root	_	_	중요/ncps+하/xsm+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이러한 것들이 현재 러시아에 적용되고 있는 민주주의의 주요하고 뚜렷한 특징들이다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	것들이	것+들+이	NOUN	_	10	nsubj	_	_	것/nbn+들/xsn+이/jcs
+3	현재	현재	NOUN	_	4	compound	_	_	현재/ncn
+4	러시아에	러시아+에	ADV	_	5	obl	_	_	러시아/nq+에/jca
+5	적용되고	적용+되+고	VERB	_	7	acl	_	_	적용/ncpa+되/xsv+고/ecx
+6	있는	있+는	AUX	_	5	aux	_	_	있/px+는/etm
+7	민주주의의	민주주의+의	NOUN	_	10	nmod	_	_	민주주의/ncn+의/jcm
+8	주요하고	주요+하+고	CCONJ	_	9	conj	_	_	주요/ncps+하/xsm+고/ecc
+9	뚜렷한	뚜렷+하+ㄴ	VERB	_	10	amod	_	_	뚜렷/ncps+하/xsm+ㄴ/etm
+10	특징들이다	특징+들+이+다	VERB	_	0	root	_	_	특징/ncn+들/xsn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 소비에트를 얼어붙고 폐쇄적인 것으로 만드는 것보다 더 어리석은 일은 없을 것이다 .
+1	소비에트를	소비에트+를	PROPN	_	5	obj	_	_	소비에트/nq+를/jco
+2	얼어붙고	얼어붙+고	CCONJ	_	3	conj	_	_	얼어붙/pvg+고/ecc
+3	폐쇄적인	폐쇄+적+이+ㄴ	VERB	_	4	acl	_	_	폐쇄/ncpa+적/xsn+이/jp+ㄴ/etm
+4	것으로	것+으로	ADV	_	5	advcl	_	_	것/nbn+으로/jca
+5	만드는	만들+는	VERB	_	6	acl	_	_	만들/pvg+는/etm
+6	것보다	것+보다	ADV	_	8	advcl	_	_	것/nbn+보다/jca
+7	더	더	ADV	_	8	advmod	_	_	더/mag
+8	어리석은	어리석+ㄴ	ADJ	_	9	amod	_	_	어리석/paa+ㄴ/etm
+9	일은	일+은	NOUN	_	10	dislocated	_	_	일/ncn+은/jxt
+10	없을	없+ㄹ	ADJ	_	0	root	_	_	없/paa+ㄹ/etm
+11	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 한편 이 문건이 제출된 뒤 정확히 5년 후인 1923년 1월 신경제 노선시기에 레닌은 다음과 같이 쓰고 있다 .
+1	한편	한편	CCONJ	_	16	cc	_	_	한편/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	문건이	문건+이	NOUN	_	4	nsubj	_	_	문건/ncn+이/jcs
+4	제출된	제출+되+ㄴ	VERB	_	5	acl	_	_	제출/ncpa+되/xsv+ㄴ/etm
+5	뒤	뒤	NOUN	_	8	advmod	_	_	뒤/ncn
+6	정확히	정확+히	ADV	_	8	advmod	_	_	정확/ncps+히/xsa
+7	5년	5+년	NOUN	_	8	compound	_	_	5/nnc+년/nbu
+8	후인	후+이+ㄴ	VERB	_	10	acl	_	_	후/ncn+이/jp+ㄴ/etm
+9	1923년	1923+년	NOUN	_	10	compound	_	_	1923/nno+년/nbu
+10	1월	1+월	NOUN	_	16	advmod	_	_	1/nno+월/nbu
+11	신경제	신경제	PROPN	_	12	compound	_	_	신경제/nq
+12	노선시기에	노선+시기+에	ADV	_	16	obl	_	_	노선/ncn+시기/ncn+에/jca
+13	레닌은	레닌+은	PROPN	_	16	dislocated	_	_	레닌/nq+은/jxt
+14	다음과	다음+과	CCONJ	_	15	conj	_	_	다음/ncn+과/jct
+15	같이	같+이	SCONJ	_	16	xcomp	_	_	같/paa+이/ecs
+16	쓰고	쓰+고	VERB	_	0	root	_	_	쓰/pvg+고/ecx
+17	있다	있+다	AUX	_	16	aux	_	_	있/px+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 우리는 전에는 정치투쟁에 , 혁명에 , 정치권력을 획득하는 것 등등에 중점을 두어 왔으며 , 또 그렇게 할 수밖에 없었다 .
+1	우리는	우리+는	PRON	_	12	dislocated	_	_	우리/npp+는/jxt
+2	전에는	전+에+는	NOUN	_	12	dislocated	_	_	전/ncn+에/jca+는/jxt
+3	정치투쟁에	정치+투쟁+에	CCONJ	_	5	conj	_	_	정치/ncpa+투쟁/ncpa+에/jcj
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	혁명에	혁명+에	CCONJ	_	7	conj	_	_	혁명/ncpa+에/jcj
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	정치권력을	정치+권력+을	NOUN	_	8	obj	_	_	정치/ncpa+권력/ncn+을/jco
+8	획득하는	획득+하+는	VERB	_	9	acl	_	_	획득/ncpa+하/xsv+는/etm
+9	것	것	NOUN	_	10	mark	_	_	것/nbn
+10	등등에	등등+에	ADV	_	12	obl	_	_	등등/ncn+에/jca
+11	중점을	중점+을	NOUN	_	12	obj	_	_	중점/ncn+을/jco
+12	두어	두+어	VERB	_	19	dep	_	_	두/pvg+어/ecx
+13	왔으며	오+았+으며	SCONJ	_	12	aux	_	_	오/px+았/ep+으며/ecs
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	또	또	ADV	_	17	advmod	_	_	또/mag
+16	그렇게	그렇+게	SCONJ	_	17	xcomp	_	_	그렇/pad+게/ecs
+17	할	하+ㄹ	VERB	_	18	acl	_	_	하/pvg+ㄹ/etm
+18	수밖에	수+밖에	ADV	_	19	advcl	_	_	수/nbn+밖에/jxc
+19	없었다	없+었+다	ADJ	_	0	root	_	_	없/paa+었/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 나는 만약 국제적 규모에 걸쳐 우리의 입장을 견지하기 위해 투쟁할 필요만 없더라도 강조점은 교육작업으로 옮겨가고 있을 것이라고 말할 것이다 .
+1	나는	나+는	PRON	_	18	dislocated	_	_	나/npp+는/jxt
+2	만약	만약	ADV	_	12	advmod	_	_	만약/mag
+3	국제적	국제+적	NOUN	_	4	amod	_	_	국제/ncn+적/xsn
+4	규모에	규모+에	ADV	_	5	obl	_	_	규모/ncn+에/jca
+5	걸쳐	걸치+어	SCONJ	_	8	conj	_	_	걸치/pvg+어/ecs
+6	우리의	우리+의	PRON	_	7	nmod	_	_	우리/npp+의/jcm
+7	입장을	입장+을	NOUN	_	8	obj	_	_	입장/ncpa+을/jco
+8	견지하기	견지+하+기	VERB	_	9	nmod	_	_	견지/ncpa+하/xsv+기/etn
+9	위해	위하+어	SCONJ	_	12	conj	_	_	위하/pvg+어/ecs
+10	투쟁할	투쟁+하+ㄹ	VERB	_	11	acl	_	_	투쟁/ncpa+하/xsv+ㄹ/etm
+11	필요만	필요+만	ADV	_	12	advcl	_	_	필요/ncps+만/jxc
+12	없더라도	없+더라+도	ADV	_	15	amod	_	_	없/paa+더라/ecs+도/jxc
+13	강조점은	강조점+은	NOUN	_	15	dislocated	_	_	강조점/ncn+은/jxt
+14	교육작업으로	교육+작업+으로	ADV	_	15	advcl	_	_	교육/ncpa+작업/ncpa+으로/jca
+15	옮겨가고	옮기+어+가+고	AUX	_	18	conj	_	_	옮기/pvg+어/ecx+가/px+고/ecx
+16	있을	있+ㄹ	AUX	_	15	aux	_	_	있/px+ㄹ/etm
+17	것이라고	것+이+라+고	VERB	_	15	aux	_	_	것/nbn+이/jp+라/ef+고/jcr
+18	말할	말하+ㄹ	VERB	_	0	root	_	_	말하/pvg+ㄹ/etm
+19	것이다	것+이+다	VERB	_	18	aux	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 문제는 사회주의적 경제를 조직할 수 있는 실제의 정치적 능력이기 때문이다 .
+1	문제는	문제+는	NOUN	_	9	dislocated	_	_	문제/ncn+는/jxt
+2	사회주의적	사회주의+적	NOUN	_	3	amod	_	_	사회주의/ncn+적/xsn
+3	경제를	경제+를	NOUN	_	4	obj	_	_	경제/ncn+를/jco
+4	조직할	조직+하+ㄹ	VERB	_	9	ccomp	_	_	조직/ncpa+하/xsv+ㄹ/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	있는	있+는	ADJ	_	4	aux	_	_	있/paa+는/etm
+7	실제의	실제+의	NOUN	_	9	nmod	_	_	실제/ncn+의/jcm
+8	정치적	정치+적	NOUN	_	9	amod	_	_	정치/ncpa+적/xsn
+9	능력이기	능력+이+기	VERB	_	0	root	_	_	능력/ncn+이/jp+기/etn
+10	때문이다	때문+이+다	VERB	_	9	aux	_	_	때문/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 시는 시인에게 쓰도록 하는 것이 좋다 .
+1	시는	시+는	NOUN	_	3	dislocated	_	_	시/ncn+는/jxt
+2	시인에게	시인+에게	ADV	_	3	iobj	_	_	시인/ncpa+에게/jca
+3	쓰도록	쓰+도록	SCONJ	_	4	ccomp	_	_	쓰/pvg+도록/ecs
+4	하는	하+는	VERB	_	5	acl	_	_	하/pvg+는/etm
+5	것이	것+이	NOUN	_	6	nsubj	_	_	것/nbn+이/jcs
+6	좋다	좋+다	ADJ	_	0	root	_	_	좋/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그렇기 때문에 그들은 시인인 것이다 .
+1	그렇기	그렇+기	VERB	_	2	nmod	_	_	그렇/pad+기/etn
+2	때문에	때문+에	ADV	_	4	obl	_	_	때문/nbn+에/jca
+3	그들은	그+들+은	PRON	_	4	dislocated	_	_	그/npp+들/xsn+은/jxt
+4	시인인	시인+이+ㄴ	VERB	_	5	ccomp	_	_	시인/ncpa+이/jp+ㄴ/etm
+5	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그러나 경제전문가인 당신들은 신경제 정책에 대하여 논의하는 것을 그만두고 보다 많은 회사를 만들어라 .
+1	그러나	그러나	CCONJ	_	13	cc	_	_	그러나/maj
+2	경제전문가인	경제+전문가+이+ㄴ	VERB	_	3	acl	_	_	경제/ncn+전문가/ncn+이/jp+ㄴ/etm
+3	당신들은	당신+들+은	PRON	_	13	dislocated	_	_	당신/npp+들/xsn+은/jxt
+4	신경제	신경제	NOUN	_	5	compound	_	_	신경제/ncn
+5	정책에	정책+에	ADV	_	6	obl	_	_	정책/ncn+에/jca
+6	대하여	대하+어	SCONJ	_	7	ccomp	_	_	대하/pvg+어/ecs
+7	논의하는	논의+하+는	VERB	_	8	acl	_	_	논의/ncpa+하/xsv+는/etm
+8	것을	것+을	NOUN	_	9	obj	_	_	것/nbn+을/jco
+9	그만두고	그만두+고	CCONJ	_	13	conj	_	_	그만두/pvg+고/ecc
+10	보다	보다	ADV	_	11	advmod	_	_	보다/mag
+11	많은	많+ㄴ	ADJ	_	12	amod	_	_	많/paa+ㄴ/etm
+12	회사를	회사+를	NOUN	_	13	obj	_	_	회사/ncn+를/jco
+13	만들어라	만들+어라	VERB	_	0	root	_	_	만들/pvg+어라/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 철학자인 양 하지마라 .
+1	철학자인	철학자+이+ㄴ	VERB	_	2	acl	_	_	철학자/ncn+이/jp+ㄴ/etm
+2	양	양	NOUN	_	3	mark	_	_	양/nbn
+3	하지마라	하+지마라	VERB	_	0	root	_	_	하/pvg+지마라/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 그런 것은 당신들에게 손해가 될 뿐이다 .
+1	그런	그렇+ㄴ	VERB	_	2	amod	_	_	그렇/pad+ㄴ/etm
+2	것은	것+은	NOUN	_	5	dislocated	_	_	것/nbn+은/jxt
+3	당신들에게	당신+들+에게	ADV	_	5	iobj	_	_	당신/npp+들/xsn+에게/jca
+4	손해가	손해+가	NOUN	_	5	csubj	_	_	손해/ncn+가/jcc
+5	될	되+ㄹ	VERB	_	0	root	_	_	되/pvg+ㄹ/etm
+6	뿐이다	뿐+이+다	VERB	_	5	aux	_	_	뿐/nbn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 실질적으로 노력하여 여러분이 자본가들 못지 않게 효율적으로 일을 할 수 있음을 증명하라 .
+1	실질적으로	실질+적+으로	ADV	_	2	advcl	_	_	실질/ncn+적/xsn+으로/jca
+2	노력하여	노력+하+어	SCONJ	_	12	ccomp	_	_	노력/ncpa+하/xsv+어/ecs
+3	여러분이	여러분+이	PRON	_	5	nsubj	_	_	여러분/npp+이/jcs
+4	자본가들	자본가+들	NOUN	_	5	compound	_	_	자본가/ncn+들/xsn
+5	못지	못+지	ADJ	_	9	amod	_	_	못/paa+지/ecx
+6	않게	않+게	SCONJ	_	5	aux	_	_	않/px+게/ecs
+7	효율적으로	효율+적+으로	ADV	_	9	advcl	_	_	효율/ncn+적/xsn+으로/jca
+8	일을	일+을	NOUN	_	9	obj	_	_	일/ncn+을/jco
+9	할	하+ㄹ	VERB	_	12	obj	_	_	하/pvg+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있음을	있+ㅁ+을	NOUN	_	9	aux	_	_	있/paa+ㅁ/etn+을/jco
+12	증명하라	증명+하+라	VERB	_	0	root	_	_	증명/ncpa+하/xsv+라/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 자본가들은 부를 축적하기 위해 농민들과 경제적인 관계를 창출한다 .
+1	자본가들은	자본가+들+은	NOUN	_	8	dislocated	_	_	자본가/ncn+들/xsn+은/jxt
+2	부를	부+를	NOUN	_	3	obj	_	_	부/ncn+를/jco
+3	축적하기	축적+하+기	VERB	_	4	nmod	_	_	축적/ncpa+하/xsv+기/etn
+4	위해	위하+어	SCONJ	_	8	ccomp	_	_	위하/pvg+어/ecs
+5	농민들과	농민+들+과	CCONJ	_	8	conj	_	_	농민/ncn+들/xsn+과/jct
+6	경제적인	경제+적+이+ㄴ	VERB	_	7	acl	_	_	경제/ncn+적/xsn+이/jp+ㄴ/etm
+7	관계를	관계+를	NOUN	_	8	obj	_	_	관계/ncpa+를/jco
+8	창출한다	창출+하+ㄴ다	VERB	_	0	root	_	_	창출/ncpa+하/xsv+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 여러분은 우리 프롤레타리아 국가의 경제적 역량을 강화하기 위하여 농민경제와의 관계를 창출하지 않으면 안된다 .
+1	여러분은	여러분+은	PRON	_	11	dislocated	_	_	여러분/npp+은/jxt
+2	우리	우리	PRON	_	4	compound	_	_	우리/npp
+3	프롤레타리아	프롤레타리아	X	_	4	compound	_	_	프롤레타리아/f
+4	국가의	국가+의	NOUN	_	6	nmod	_	_	국가/ncn+의/jcm
+5	경제적	경제+적	NOUN	_	6	amod	_	_	경제/ncn+적/xsn
+6	역량을	역량+을	NOUN	_	7	obj	_	_	역량/ncn+을/jco
+7	강화하기	강화+하+기	VERB	_	8	nmod	_	_	강화/ncpa+하/xsv+기/etn
+8	위하여	위하+어	SCONJ	_	11	ccomp	_	_	위하/pvg+어/ecs
+9	농민경제와의	농민+경제+와+의	NOUN	_	10	nmod	_	_	농민/ncn+경제/ncn+와/jct+의/jcm
+10	관계를	관계+를	NOUN	_	11	obj	_	_	관계/ncpa+를/jco
+11	창출하지	창출+하+지	VERB	_	13	ccomp	_	_	창출/ncpa+하/xsv+지/ecx
+12	않으면	않+으면	SCONJ	_	11	aux	_	_	않/px+으면/ecs
+13	안된다	안되+ㄴ다	VERB	_	0	root	_	_	안되/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 정치권력이 당신들의 손에 있고 수많은 경제적인 무기가 당신들의 손에 있으므로 당신들은 자본가들보다 이점을 가지고 있다 .
+1	정치권력이	정치+권력+이	NOUN	_	4	nsubj	_	_	정치/ncpa+권력/ncn+이/jcs
+2	당신들의	당신+들+의	PRON	_	3	nmod	_	_	당신/npp+들/xsn+의/jcm
+3	손에	손+에	ADV	_	4	obl	_	_	손/ncn+에/jca
+4	있고	있+고	CCONJ	_	10	conj	_	_	있/paa+고/ecc
+5	수많은	수많+ㄴ	ADJ	_	7	amod	_	_	수많/paa+ㄴ/etm
+6	경제적인	경제+적+이+ㄴ	VERB	_	7	acl	_	_	경제/ncn+적/xsn+이/jp+ㄴ/etm
+7	무기가	무기+가	NOUN	_	10	nsubj	_	_	무기/ncn+가/jcs
+8	당신들의	당신+들+의	PRON	_	9	nmod	_	_	당신/npp+들/xsn+의/jcm
+9	손에	손+에	ADV	_	10	obl	_	_	손/ncn+에/jca
+10	있으므로	있+으므로	SCONJ	_	14	xcomp	_	_	있/paa+으므로/ecs
+11	당신들은	당신+들+은	PRON	_	14	dislocated	_	_	당신/npp+들/xsn+은/jxt
+12	자본가들보다	자본가+들+보다	ADV	_	14	advcl	_	_	자본가/ncn+들/xsn+보다/jca
+13	이점을	이점+을	NOUN	_	14	obj	_	_	이점/ncn+을/jco
+14	가지고	가지+고	VERB	_	0	root	_	_	가지/pvg+고/ecx
+15	있다	있+다	AUX	_	14	aux	_	_	있/px+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 오직 문제가 되는 것은 당신들에게 그것들을 적절히 이용할 능력이 없다는 것이다 .
+1	오직	오직	ADV	_	3	advmod	_	_	오직/mag
+2	문제가	문제+가	NOUN	_	3	csubj	_	_	문제/ncn+가/jcc
+3	되는	되+는	VERB	_	4	acl	_	_	되/pvg+는/etm
+4	것은	것+은	NOUN	_	10	dislocated	_	_	것/nbn+은/jxt
+5	당신들에게	당신+들+에게	ADV	_	10	iobj	_	_	당신/npp+들/xsn+에게/jca
+6	그것들을	그것+들+을	PRON	_	8	obj	_	_	그것/npd+들/xsn+을/jco
+7	적절히	적절+히	ADV	_	8	advmod	_	_	적절/ncps+히/xsa
+8	이용할	이용+하+ㄹ	VERB	_	9	acl	_	_	이용/ncpa+하/xsv+ㄹ/etm
+9	능력이	능력+이	NOUN	_	10	nsubj	_	_	능력/ncn+이/jcs
+10	없다는	없+다는	ADJ	_	0	root	_	_	없/paa+다는/etm
+11	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 보다 냉정하게 사물을 바라보라 .
+1	보다	보다	ADV	_	2	advmod	_	_	보다/mag
+2	냉정하게	냉정+하+게	SCONJ	_	4	xcomp	_	_	냉정/ncps+하/xsm+게/ecs
+3	사물을	사물+을	NOUN	_	4	obj	_	_	사물/ncn+을/jco
+4	바라보라	바라보+라	VERB	_	0	root	_	_	바라보/pvg+라/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 허울 좋은 공산주의자라는 껍질을 벗어 던져 버리고 단순한 것을 단순히 배우라 .
+1	허울	허울	NOUN	_	2	dep	_	_	허울/ncn
+2	좋은	좋+ㄴ	ADJ	_	4	amod	_	_	좋/paa+ㄴ/etm
+3	공산주의자라는	공산주의자+이+라는	VERB	_	4	acl	_	_	공산주의자/ncn+이/jp+라는/etm
+4	껍질을	껍질+을	NOUN	_	6	obj	_	_	껍질/ncn+을/jco
+5	벗어	벗+어	SCONJ	_	6	ccomp	_	_	벗/pvg+어/ecs
+6	던져	던지+어	VERB	_	11	conj	_	_	던지/pvg+어/ecx
+7	버리고	버리+고	CCONJ	_	6	aux	_	_	버리/px+고/ecc
+8	단순한	단순+하+ㄴ	VERB	_	9	amod	_	_	단순/ncps+하/xsm+ㄴ/etm
+9	것을	것+을	NOUN	_	11	obj	_	_	것/nbn+을/jco
+10	단순히	단순+히	ADV	_	11	advmod	_	_	단순/ncpa+히/xsa
+11	배우라	배우+라	VERB	_	0	root	_	_	배우/pvg+라/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러면 우리는 사적 자본가들을 이길 수 있을 것이다 .
+1	그러면	그러면	CCONJ	_	5	cc	_	_	그러면/maj
+2	우리는	우리+는	PRON	_	5	dislocated	_	_	우리/npp+는/jxt
+3	사적	사적	NOUN	_	4	compound	_	_	사적/ncn
+4	자본가들을	자본가+들+을	NOUN	_	5	obj	_	_	자본가/ncn+들/xsn+을/jco
+5	이길	이기+ㄹ	VERB	_	0	root	_	_	이기/pvg+ㄹ/etm
+6	수	수	NOUN	_	7	fixed	_	_	수/nbn
+7	있을	있+ㄹ	ADJ	_	5	aux	_	_	있/paa+ㄹ/etm
+8	것이다	것+이+다	VERB	_	5	aux	_	_	것/nbn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 우리는 정치권력을 가지고 있으며 수많은 경제적인 무기를 가지고 있다 .
+1	우리는	우리+는	PRON	_	8	dislocated	_	_	우리/npp+는/jxt
+2	정치권력을	청치+권력+을	NOUN	_	3	obj	_	_	청치/ncpa+권력/ncn+을/jco
+3	가지고	가지+고	VERB	_	8	ccomp	_	_	가지/pvg+고/ecx
+4	있으며	있+으며	SCONJ	_	3	aux	_	_	있/px+으며/ecs
+5	수많은	수많+ㄴ	ADJ	_	7	amod	_	_	수많/paa+ㄴ/etm
+6	경제적인	경제+적+이+ㄴ	VERB	_	7	acl	_	_	경제/ncn+적/xsn+이/jp+ㄴ/etm
+7	무기를	무기+를	NOUN	_	8	obj	_	_	무기/ncn+를/jco
+8	가지고	가지+고	VERB	_	0	root	_	_	가지/pvg+고/ecx
+9	있다	있+다	AUX	_	8	aux	_	_	있/px+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 만일 우리가 자본주의를 패배시키고 농민경영과의 결합을 창출한다면 우리는 절대로 패배하지 않는 세력이 될 수 있을 것이다 .
+1	만일	만일	ADV	_	7	advmod	_	_	만일/mag
+2	우리가	우리+가	PRON	_	7	nsubj	_	_	우리/npp+가/jcs
+3	자본주의를	자본주의+를	NOUN	_	4	obj	_	_	자본주의/ncn+를/jco
+4	패배시키고	패배+시키+고	CCONJ	_	7	conj	_	_	패배/ncpa+시키/xsv+고/ecc
+5	농민경영과의	농민+경영+과+의	NOUN	_	6	nmod	_	_	농민/ncn+경영/ncpa+과/jct+의/jcm
+6	결합을	결합+을	NOUN	_	7	obj	_	_	결합/ncpa+을/jco
+7	창출한다면	창출+하+ㄴ다면	SCONJ	_	13	ccomp	_	_	창출/ncpa+하/xsv+ㄴ다면/ecs
+8	우리는	우리+는	PRON	_	13	dislocated	_	_	우리/npp+는/jxt
+9	절대로	절대+로	ADV	_	10	advcl	_	_	절대/ncn+로/jca
+10	패배하지	패배+하+지	VERB	_	12	acl	_	_	패배/ncpa+하/xsv+지/ecx
+11	않는	않+는	AUX	_	10	aux	_	_	않/px+는/etm
+12	세력이	세력+이	NOUN	_	13	csubj	_	_	세력/ncn+이/jcc
+13	될	되+ㄹ	VERB	_	0	root	_	_	되/pvg+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있을	있+ㄹ	ADJ	_	13	aux	_	_	있/paa+ㄹ/etm
+16	것이다	것+이+다	VERB	_	13	aux	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그렇게 되면 사회주의의 건설은 , 대양의 공산당이라 불리는 물 한방울의 임무가 아니라 전체 근로대중의 암무가 될 것이다 .
+1	그렇게	그렇+게	SCONJ	_	2	xcomp	_	_	그렇/pad+게/ecs
+2	되면	되+면	SCONJ	_	16	ccomp	_	_	되/pvg+면/ecs
+3	사회주의의	사회주의+의	NOUN	_	4	nmod	_	_	사회주의/ncn+의/jcm
+4	건설은	건설+은	NOUN	_	16	advmod	_	_	건설/ncpa+은/jxt
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	대양의	대양+의	NOUN	_	7	nmod	_	_	대양/ncn+의/jcm
+7	공산당이라	공산당+이+라	VERB	_	8	ccomp	_	_	공산당/ncn+이/jp+라/ef
+8	불리는	불리+는	VERB	_	11	acl	_	_	불리/pvg+는/etm
+9	물	물	NOUN	_	10	compound	_	_	물/ncn
+10	한방울의	한방울+의	NOUN	_	11	nmod	_	_	한방울/ncn+의/jcm
+11	임무가	임무+가	NOUN	_	12	csubj	_	_	임무/ncn+가/jcc
+12	아니라	아니+라	SCONJ	_	16	xcomp	_	_	아니/paa+라/ecs
+13	전체	전체	NOUN	_	14	compound	_	_	전체/ncn
+14	근로대중의	근로+대중+의	NOUN	_	15	nmod	_	_	근로/ncn+대중/ncn+의/jcm
+15	암무가	암무+가	NOUN	_	16	csubj	_	_	암무/ncn+가/jcc
+16	될	되+ㄹ	VERB	_	0	root	_	_	되/pvg+ㄹ/etm
+17	것이다	것+이+다	VERB	_	16	aux	_	_	것/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이 경우에는 농민대중은 우리가 자신들을 돕는다는 것을 알게되고 우리의 지도를 따를 것이다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	경우에는	경우+에+는	NOUN	_	11	dislocated	_	_	경우/ncn+에/jca+는/jxt
+3	농민대중은	농민+대중+은	NOUN	_	8	dislocated	_	_	농민/ncn+대중/ncn+은/jxt
+4	우리가	우리+가	PRON	_	6	nsubj	_	_	우리/npp+가/jcs
+5	자신들을	자신+들+을	NOUN	_	6	obj	_	_	자신/ncn+들/xsn+을/jco
+6	돕는다는	돕+는다는	VERB	_	7	acl	_	_	돕/pvg+는다는/etm
+7	것을	것+을	NOUN	_	8	obj	_	_	것/nbn+을/jco
+8	알게되고	알+게+되+고	CCONJ	_	11	conj	_	_	알/pvg+게/ecx+되/px+고/ecc
+9	우리의	우리+의	PRON	_	10	nmod	_	_	우리/npp+의/jcm
+10	지도를	지도+를	NOUN	_	11	obj	_	_	지도/ncpa+를/jco
+11	따를	따르+ㄹ	VERB	_	0	root	_	_	따르/pvg+ㄹ/etm
+12	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 문화사업과 교육 , 그리고 광범위한 근로인민의 권리와 자유의 신장을 통하여 , 레닌은 상황의 변화에 따라 유물론을 변증법적으로 적용시킬 수 있는 탁월한 정치가였다 .
+1	문화사업과	문화+사업+과	CCONJ	_	2	conj	_	_	문화/ncn+사업/ncpa+과/jcj
+2	교육	교육	NOUN	_	9	conj	_	_	교육/ncpa
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	그리고	그리고	CCONJ	_	9	cc	_	_	그리고/maj
+5	광범위한	광범위+하+ㄴ	VERB	_	9	amod	_	_	광범위/ncps+하/xsm+ㄴ/etm
+6	근로인민의	근로+인민+의	NOUN	_	8	nmod	_	_	근로/ncn+인민/ncn+의/jcm
+7	권리와	권리+와	CCONJ	_	8	conj	_	_	권리/ncn+와/jcj
+8	자유의	자유+의	NOUN	_	9	nmod	_	_	자유/ncps+의/jcm
+9	신장을	신장+을	NOUN	_	10	obj	_	_	신장/ncn+을/jco
+10	통하여	통하+어	SCONJ	_	22	ccomp	_	_	통하/pvg+어/ecs
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	레닌은	레닌+은	PROPN	_	22	dislocated	_	_	레닌/nq+은/jxt
+13	상황의	상황+의	NOUN	_	14	nmod	_	_	상황/ncn+의/jcm
+14	변화에	변화+에	ADV	_	15	obl	_	_	변화/ncpa+에/jca
+15	따라	따르+아	SCONJ	_	18	ccomp	_	_	따르/pvg+아/ecs
+16	유물론을	유물론+을	NOUN	_	18	obj	_	_	유물론/ncn+을/jco
+17	변증법적으로	변증법+적+으로	ADV	_	18	advcl	_	_	변증법/ncn+적/xsn+으로/jca
+18	적용시킬	적용+시키+ㄹ	VERB	_	22	ccomp	_	_	적용/ncpa+시키/xsv+ㄹ/etm
+19	수	수	NOUN	_	20	fixed	_	_	수/nbn
+20	있는	있+는	ADJ	_	18	aux	_	_	있/paa+는/etm
+21	탁월한	탁월+하+ㄴ	VERB	_	22	amod	_	_	탁월/ncps+하/xsm+ㄴ/etm
+22	정치가였다	정치가+이+었+다	VERB	_	0	root	_	_	정치가/ncn+이/jp+었/ep+다/ef
+23	.	.	PUNCT	_	22	punct	_	_	./sf
+
+# 현재 중농은 이전보다 훨씬 많아졌고 모순은 완화되어 가고 있으며 , 토지는 용도에 따라 훨씬 더 균등하게 분배되어 있다 .
+1	현재	현재	NOUN	_	2	compound	_	_	현재/ncn
+2	중농은	중농+은	NOUN	_	5	dislocated	_	_	중농/ncn+은/jxt
+3	이전보다	이전+보다	ADV	_	5	advcl	_	_	이전/ncn+보다/jca
+4	훨씬	훨씬	ADV	_	5	advmod	_	_	훨씬/mag
+5	많아졌고	많+아+지+었+고	CCONJ	_	7	conj	_	_	많/paa+아/ecx+지/px+었/ep+고/ecc
+6	모순은	모순+은	NOUN	_	7	dislocated	_	_	모순/ncpa+은/jxt
+7	완화되어	완화+되+어	VERB	_	17	ccomp	_	_	완화/ncpa+되/xsv+어/ecx
+8	가고	가+고	AUX	_	7	aux	_	_	가/px+고/ecx
+9	있으며	있+으며	SCONJ	_	7	aux	_	_	있/px+으며/ecs
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	토지는	토지+는	NOUN	_	17	dislocated	_	_	토지/ncn+는/jxt
+12	용도에	용도+에	ADV	_	13	obl	_	_	용도/ncn+에/jca
+13	따라	따르+아	SCONJ	_	17	ccomp	_	_	따르/pvg+아/ecs
+14	훨씬	훨씬	ADV	_	16	advmod	_	_	훨씬/mag
+15	더	더	ADV	_	14	advmod	_	_	더/mag
+16	균등하게	균등+하+게	SCONJ	_	17	xcomp	_	_	균등/ncps+하/xsm+게/ecs
+17	분배되어	분배+되+어	VERB	_	0	root	_	_	분배/ncpa+되/xsv+어/ecx
+18	있다	있+다	AUX	_	17	aux	_	_	있/px+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 모든 것은 보다 평등해졌으며 , 농민은 대체로 중농의 지위를 획득했다 .
+1	모든	모든	ADJ	_	2	amod	_	_	모든/mma
+2	것은	것+은	NOUN	_	4	dislocated	_	_	것/nbn+은/jxt
+3	보다	보다	ADV	_	4	advmod	_	_	보다/mag
+4	평등해졌으며	평등+하+어+지+었+으며	SCONJ	_	10	xcomp	_	_	평등/ncps+하/xsm+어/ecx+지/px+었/ep+으며/ecs
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	농민은	농민+은	NOUN	_	10	dislocated	_	_	농민/ncn+은/jxt
+7	대체로	대체+로	ADV	_	10	advcl	_	_	대체/ncn+로/jca
+8	중농의	중농+의	NOUN	_	9	nmod	_	_	중농/ncn+의/jcm
+9	지위를	지위+를	NOUN	_	10	obj	_	_	지위/ncn+를/jco
+10	획득했다	획득+하+었+다	VERB	_	0	root	_	_	획득/ncpa+하/xsv+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 반복해서 말하건대 이것은 놀라운 일이 아니다 .
+1	반복해서	반복+하+어서	SCONJ	_	2	ccomp	_	_	반복/ncpa+하/xsv+어서/ecs
+2	말하건대	말하+건대	SCONJ	_	6	conj	_	_	말하/pvg+건대/ecs
+3	이것은	이것+은	PRON	_	6	dislocated	_	_	이것/npd+은/jxt
+4	놀라운	놀랍+ㄴ	ADJ	_	5	amod	_	_	놀랍/paa+ㄴ/etm
+5	일이	일+이	NOUN	_	6	csubj	_	_	일/ncn+이/jcc
+6	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 왜냐하면 소농을 개조하고 그들의 심리와 습관을 바꾸는 데는 여러 세대가 걸릴 것이기 때문이다 .
+1	왜냐하면	왜냐하면	CCONJ	_	11	cc	_	_	왜냐하면/maj
+2	소농을	소농+을	NOUN	_	3	obj	_	_	소농/ncn+을/jco
+3	개조하고	개조+하+고	CCONJ	_	7	conj	_	_	개조/ncpa+하/xsv+고/ecc
+4	그들의	그+들+의	PRON	_	6	nmod	_	_	그/npp+들/xsn+의/jcm
+5	심리와	심리+와	CCONJ	_	6	conj	_	_	심리/ncn+와/jcj
+6	습관을	습관+을	NOUN	_	7	obj	_	_	습관/ncn+을/jco
+7	바꾸는	바꾸+는	VERB	_	8	acl	_	_	바꾸/pvg+는/etm
+8	데는	데+는	NOUN	_	11	dislocated	_	_	데/nbn+는/jxt
+9	여러	여러	ADJ	_	10	amod	_	_	여러/mma
+10	세대가	세대+가	NOUN	_	11	nsubj	_	_	세대/ncn+가/jcs
+11	걸릴	걸리+ㄹ	VERB	_	0	root	_	_	걸리/pvg+ㄹ/etm
+12	것이기	것+이+기	VERB	_	11	aux	_	_	것/nbn+이/jp+기/etn
+13	때문이다	때문+이+다	VERB	_	11	aux	_	_	때문/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이러한 작업은 소농을 근본적으로 그리고 엄청난 속도로 개조할 것이다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	작업은	작업+은	NOUN	_	8	dislocated	_	_	작업/ncpa+은/jxt
+3	소농을	소농+을	NOUN	_	8	obj	_	_	소농/ncn+을/jco
+4	근본적으로	근본+적+으로	ADV	_	5	advcl	_	_	근본/ncn+적/xsn+으로/jca
+5	그리고	그리고	CCONJ	_	8	cc	_	_	그리고/maj
+6	엄청난	엄청나+ㄴ	ADJ	_	7	amod	_	_	엄청나/paa+ㄴ/etm
+7	속도로	속도+로	ADV	_	5	advcl	_	_	속도/ncn+로/jca
+8	개조할	개조+하+ㄹ	VERB	_	0	root	_	_	개조/ncpa+하/xsv+ㄹ/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이것은 여러 세대가 걸리는 일이라고 할 때 , 그것이 여러 세기를 의미하는 것은 아니다 .
+1	이것은	이것+은	PRON	_	5	dislocated	_	_	이것/npd+은/jxt
+2	여러	여러	ADJ	_	3	amod	_	_	여러/mma
+3	세대가	세대+가	NOUN	_	4	nsubj	_	_	세대/ncn+가/jcs
+4	걸리는	걸리+는	VERB	_	5	ccomp	_	_	걸리/pvg+는/etm
+5	일이라고	일+이+라+고	VERB	_	6	conj	_	_	일/ncn+이/jp+라/ef+고/jcr
+6	할	하+ㄹ	VERB	_	7	acl	_	_	하/pvg+ㄹ/etm
+7	때	때	NOUN	_	14	dep	_	_	때/nbn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	그것이	그것+이	PRON	_	14	nsubj	_	_	그것/npd+이/jcs
+10	여러	여러	ADJ	_	11	amod	_	_	여러/mma
+11	세기를	세기+를	NOUN	_	12	obj	_	_	세기/ncn+를/jco
+12	의미하는	의미+하+는	VERB	_	13	acl	_	_	의미/ncpa+하/xsv+는/etm
+13	것은	것+은	NOUN	_	14	dislocated	_	_	것/nbn+은/jxt
+14	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이러한 조건은 노동능력의 거의 완전한 상실상태라고 할 수 있다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	조건은	조건+은	NOUN	_	6	dislocated	_	_	조건/ncn+은/jxt
+3	노동능력의	노동+능력+의	NOUN	_	6	nmod	_	_	노동/ncpa+능력/ncn+의/jcm
+4	거의	거의	ADV	_	5	advmod	_	_	거의/mag
+5	완전한	완전+하+ㄴ	VERB	_	6	amod	_	_	완전/ncps+하/xsm+ㄴ/etm
+6	상실상태라고	상실+상태+이+라+고	VERB	_	7	conj	_	_	상실/ncpa+상태/ncn+이/jp+라/ef+고/jcr
+7	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있다	있+다	ADJ	_	7	aux	_	_	있/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 정치란 본디 계급 간의 힘관계이다 .
+1	정치란	정치+란	ADV	_	5	advcl	_	_	정치/ncn+란/jxc
+2	본디	본디	ADV	_	5	advmod	_	_	본디/mag
+3	계급	계급	NOUN	_	4	compound	_	_	계급/ncn
+4	간의	간+의	NOUN	_	5	nmod	_	_	간/nbn+의/jcm
+5	힘관계이다	힘+관계+이+다	VERB	_	0	root	_	_	힘/ncn+관계/ncpa+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 계급이 남아있는 이상 , 형태는 바뀌어도 그 투쟁은 계속되기에 정치적으로 계급 간의 갈등 , 힘겨루기는 필연적이다 .
+1	계급이	계급+이	NOUN	_	2	nsubj	_	_	계급/ncn+이/jcs
+2	남아있는	남+아+있+는	AUX	_	3	acl	_	_	남/pvg+아/ecx+있/px+는/etm
+3	이상	이상	NOUN	_	9	advmod	_	_	이상/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	형태는	형태+는	NOUN	_	6	dislocated	_	_	형태/ncn+는/jxt
+6	바뀌어도	바뀌+어도	SCONJ	_	9	ccomp	_	_	바뀌/pvg+어도/ecs
+7	그	그	DET	_	8	det	_	_	그/mmd
+8	투쟁은	투쟁+은	NOUN	_	9	dislocated	_	_	투쟁/ncpa+은/jxt
+9	계속되기에	계속+되+기+에	ADV	_	16	obl	_	_	계속/ncpa+되/xsv+기/etn+에/jca
+10	정치적으로	정치+적+으로	ADV	_	16	advcl	_	_	정치/ncpa+적/xsn+으로/jca
+11	계급	계급	NOUN	_	12	compound	_	_	계급/ncn
+12	간의	간+의	NOUN	_	15	nmod	_	_	간/nbn+의/jcm
+13	갈등	갈등	NOUN	_	15	conj	_	_	갈등/ncpa
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	힘겨루기는	힘겨루기+는	NOUN	_	16	dislocated	_	_	힘겨루기/ncpa+는/jxt
+16	필연적이다	필연+적+이+다	VERB	_	0	root	_	_	필연/ncn+적/xsn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 하지만 소부르조아계급은 독자적인 정치적 길을 개진할 수 없다 .
+1	하지만	하지만	CCONJ	_	6	cc	_	_	하지만/maj
+2	소부르조아계급은	소부르조아+계급+은	NOUN	_	6	dislocated	_	_	소부르조아/f+계급/ncn+은/jxt
+3	독자적인	독자+적+이+ㄴ	VERB	_	5	acl	_	_	독자/ncn+적/xsn+이/jp+ㄴ/etm
+4	정치적	정치+적	NOUN	_	5	amod	_	_	정치/ncpa+적/xsn
+5	길을	길+을	NOUN	_	6	obj	_	_	길/ncn+을/jco
+6	개진할	개진+하+ㄹ	VERB	_	0	root	_	_	개진/ncpa+하/xsv+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	없다	없+다	ADJ	_	6	aux	_	_	없/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 제 3의 길이란 있을 수 없다 .
+1	제	제	NOUN	_	2	compound	_	_	제/ncn
+2	3의	3+의	NUM	_	3	nmod	_	_	3/nnc+의/jcm
+3	길이란	길+이란	ADV	_	4	advcl	_	_	길/ncn+이란/jxc
+4	있을	있+ㄹ	ADJ	_	0	root	_	_	있/paa+ㄹ/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	없다	없+다	ADJ	_	4	aux	_	_	없/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그런데 노동자의 정치적 승리의 필연성이 곰팡내 나는 이론서적에 묻혀있지 않으려면 , 단지 가능성에 머무르지 않으려면 , 현실 속에서 올바른 정책을 내와야 한다 .
+1	그런데	그런데	CCONJ	_	21	cc	_	_	그런데/maj
+2	노동자의	노동자+의	NOUN	_	4	nmod	_	_	노동자/ncn+의/jcm
+3	정치적	정치+적	NOUN	_	4	amod	_	_	정치/ncpa+적/xsn
+4	승리의	승리+의	NOUN	_	5	nmod	_	_	승리/ncpa+의/jcm
+5	필연성이	필연성+이	NOUN	_	14	nsubj	_	_	필연성/ncn+이/jcs
+6	곰팡내	곰팡내	NOUN	_	7	dep	_	_	곰팡내/ncn
+7	나는	나+는	VERB	_	8	acl	_	_	나/pvg+는/etm
+8	이론서적에	이론+서적+에	ADV	_	9	obl	_	_	이론/ncn+서적/ncn+에/jca
+9	묻혀있지	묻히+어+있+지	AUX	_	14	ccomp	_	_	묻히/pvg+어/ecx+있/px+지/ecx
+10	않으려면	않+으려면	SCONJ	_	9	aux	_	_	않/px+으려면/ecs
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	단지	단지	ADV	_	14	advmod	_	_	단지/mag
+13	가능성에	가능성+에	ADV	_	14	obl	_	_	가능성/ncn+에/jca
+14	머무르지	머무르+지	VERB	_	21	ccomp	_	_	머무르/pvg+지/ecx
+15	않으려면	않+으려면	SCONJ	_	14	aux	_	_	않/px+으려면/ecs
+16	,	,	PUNCT	_	15	punct	_	_	,/sp
+17	현실	현실	NOUN	_	18	compound	_	_	현실/ncn
+18	속에서	속+에서	ADV	_	21	advcl	_	_	속/ncn+에서/jca
+19	올바른	올바르+ㄴ	ADJ	_	20	amod	_	_	올바르/paa+ㄴ/etm
+20	정책을	정책+을	NOUN	_	21	obj	_	_	정책/ncn+을/jco
+21	내와야	내+어+오+아야	AUX	_	0	root	_	_	내/pvg+어/ecx+오/px+아야/ecx
+22	한다	하+ㄴ다	AUX	_	21	aux	_	_	하/px+ㄴ다/ef
+23	.	.	PUNCT	_	22	punct	_	_	./sf
+
+# 특히 혁명을 성취한 노동계급 즉 , 소위 혁명적 여당으로 권력을 이끌어야 하는 그러한 계급의 정치적 , 역사적 책임은 막중하다 .
+1	특히	특히	ADV	_	14	advmod	_	_	특히/mag
+2	혁명을	혁명+을	NOUN	_	3	obj	_	_	혁명/ncpa+을/jco
+3	성취한	성취+하+ㄴ	VERB	_	4	acl	_	_	성취/ncpa+하/xsv+ㄴ/etm
+4	노동계급	노동+계급	NOUN	_	14	conj	_	_	노동/ncpa+계급/ncn
+5	즉	즉	CCONJ	_	6	cc	_	_	즉/maj
+6	,	,	PUNCT	_	4	punct	_	_	,/sp
+7	소위	소위	ADV	_	11	advmod	_	_	소위/mag
+8	혁명적	혁명+적	NOUN	_	9	amod	_	_	혁명/ncpa+적/xsn
+9	여당으로	여당+으로	ADV	_	11	advcl	_	_	여당/ncn+으로/jca
+10	권력을	권력+을	NOUN	_	11	obj	_	_	권력/ncn+을/jco
+11	이끌어야	이끌+어야	VERB	_	14	acl	_	_	이끌/pvg+어야/ecx
+12	하는	하+는	AUX	_	11	aux	_	_	하/px+는/etm
+13	그러한	그러하+ㄴ	VERB	_	14	amod	_	_	그러하/pad+ㄴ/etm
+14	계급의	계급+의	NOUN	_	18	nmod	_	_	계급/ncn+의/jcm
+15	정치적	정치+적	NOUN	_	17	conj	_	_	정치/ncpa+적/xsn
+16	,	,	PUNCT	_	15	punct	_	_	,/sp
+17	역사적	역사+적	NOUN	_	18	amod	_	_	역사/ncn+적/xsn
+18	책임은	책임+은	NOUN	_	19	dislocated	_	_	책임/ncn+은/jxt
+19	막중하다	막중+하+다	VERB	_	0	root	_	_	막중/ncps+하/xsm+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 우리가 오류를 최소화하고 , 객관적 조건에 기반한 정책이라면 , 그러한 정책은 구체적이어야만 한다 .
+1	우리가	우리+가	PRON	_	3	nsubj	_	_	우리/npp+가/jcs
+2	오류를	오류+를	NOUN	_	3	obj	_	_	오류/ncn+를/jco
+3	최소화하고	최소화+하+고	CCONJ	_	8	conj	_	_	최소화/ncpa+하/xsv+고/ecc
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	객관적	객관+적	NOUN	_	6	amod	_	_	객관/ncn+적/xsn
+6	조건에	조건+에	ADV	_	7	obl	_	_	조건/ncn+에/jca
+7	기반한	기반+하+ㄴ	VERB	_	8	ccomp	_	_	기반/ncpa+하/xsv+ㄴ/etm
+8	정책이라면	정책+이+라면	SCONJ	_	13	ccomp	_	_	정책/ncn+이/jp+라면/ecs
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	그러한	그러하+ㄴ	VERB	_	11	amod	_	_	그러하/pad+ㄴ/etm
+11	정책은	정책+은	NOUN	_	13	dislocated	_	_	정책/ncn+은/jxt
+12	구체적이어야만	구체+적+이+어야+만	ADV	_	13	ccomp	_	_	구체/ncn+적/xsn+이/jp+어야/ecs+만/jxc
+13	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 현재 가장 긴급한 문제는 농민 경제의 생산력을 즉각적으로 증대시킬 방책을 취하는 것이다 .
+1	현재	현재	ADV	_	3	advmod	_	_	현재/mag
+2	가장	가장	ADV	_	3	advmod	_	_	가장/mag
+3	긴급한	긴급+하+ㄴ	VERB	_	4	amod	_	_	긴급/ncps+하/xsm+ㄴ/etm
+4	문제는	문제+는	NOUN	_	11	dislocated	_	_	문제/ncn+는/jxt
+5	농민	농민	NOUN	_	6	compound	_	_	농민/ncn
+6	경제의	경제+의	NOUN	_	7	nmod	_	_	경제/ncn+의/jcm
+7	생산력을	생산력+을	NOUN	_	9	obj	_	_	생산력/ncn+을/jco
+8	즉각적으로	즉각+적+으로	ADV	_	9	advcl	_	_	즉각/ncn+적/xsn+으로/jca
+9	증대시킬	증대+시키+ㄹ	VERB	_	10	acl	_	_	증대/ncpa+시키/xsv+ㄹ/etm
+10	방책을	방책+을	NOUN	_	11	obj	_	_	방책/ncn+을/jco
+11	취하는	취하+는	VERB	_	0	root	_	_	취하/pvg+는/etm
+12	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 전시공산주의는 프롤레타리아의 견제거 임무에 상응하는 정책이 아니었으며 그럴 수도 없었다 .
+1	전시공산주의는	전시+공산주의+는	NOUN	_	8	dislocated	_	_	전시/ncpa+공산주의/ncn+는/jxt
+2	프롤레타리아의	프롤레타리아+의	NOUN	_	4	nmod	_	_	프롤레타리아/f+의/jcm
+3	견제거	견제+적	NOUN	_	4	amod	_	_	견제/ncpa+적/xsn
+4	임무에	임무+에	ADV	_	5	obl	_	_	임무/ncn+에/jca
+5	상응하는	상응+하+는	VERB	_	6	acl	_	_	상응/ncpa+하/xsv+는/etm
+6	정책이	정책+이	NOUN	_	7	csubj	_	_	정책/ncn+이/jcc
+7	아니었으며	아니+었+으며	SCONJ	_	8	xcomp	_	_	아니/paa+었/ep+으며/ecs
+8	그럴	그렇+ㄹ	VERB	_	0	root	_	_	그렇/pad+ㄹ/etm
+9	수도	수+도	ADV	_	10	fixed	_	_	수/nbn+도/jxc
+10	없었다	없+었+다	ADJ	_	8	aux	_	_	없/paa+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그것은 임시의 방책이었다 .
+1	그것은	그것+은	PRON	_	3	dislocated	_	_	그것/npd+은/jxt
+2	임시의	임시+의	NOUN	_	3	nmod	_	_	임시/ncn+의/jcm
+3	방책이었다	방책+이+었+다	VERB	_	0	root	_	_	방책/ncn+이/jp+었/ep+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 프롤레타리아 독재를 실행하고 있는 모든 나라에서 프롤레타리아의 올바른 정책은 농민이 필요로 하는 공업제품과의 교환으로 곡물을 획득하는 것이다 .
+1	프롤레타리아	프롤레타리아	X	_	2	compound	_	_	프롤레타리아/f
+2	독재를	독재+를	NOUN	_	3	obj	_	_	독재/ncpa+를/jco
+3	실행하고	실행+하+고	VERB	_	6	acl	_	_	실행/ncpa+하/xsv+고/ecx
+4	있는	있+는	AUX	_	3	aux	_	_	있/px+는/etm
+5	모든	모든	ADJ	_	6	amod	_	_	모든/mma
+6	나라에서	나라+에서	ADV	_	16	advcl	_	_	나라/ncn+에서/jca
+7	프롤레타리아의	프롤레타리아+의	NOUN	_	9	nmod	_	_	프롤레타리아/f+의/jcm
+8	올바른	올바르+ㄴ	ADJ	_	9	amod	_	_	올바르/paa+ㄴ/etm
+9	정책은	정책+은	NOUN	_	16	dislocated	_	_	정책/ncn+은/jxt
+10	농민이	농민+이	NOUN	_	12	nsubj	_	_	농민/ncn+이/jcs
+11	필요로	필요+로	ADV	_	12	advcl	_	_	필요/ncps+로/jca
+12	하는	하+는	VERB	_	13	acl	_	_	하/pvg+는/etm
+13	공업제품과의	공업+제품+과+의	NOUN	_	14	nmod	_	_	공업/ncn+제품/ncn+과/jct+의/jcm
+14	교환으로	교환+으로	ADV	_	16	advcl	_	_	교환/ncpa+으로/jca
+15	곡물을	곡물+을	NOUN	_	16	obj	_	_	곡물/ncn+을/jco
+16	획득하는	획득+하+는	VERB	_	0	root	_	_	획득/ncpa+하/xsv+는/etm
+17	것이다	것+이+다	VERB	_	16	aux	_	_	것/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이것이 프롤레타리아의 임무에 상응하는 , 그리고 사회주의의 기초를 강화하고 , 사회주의의 완전한 승리에 이르게 할 수 있는 유일한 종류의 식량정책이다 .
+1	이것이	이것+이	PRON	_	20	nsubj	_	_	이것/npd+이/jcs
+2	프롤레타리아의	프롤레타리아+의	NOUN	_	3	nmod	_	_	프롤레타리아/ncn+의/jcm
+3	임무에	임무+에	ADV	_	4	obl	_	_	임무/ncn+에/jca
+4	상응하는	상응+하+는	VERB	_	15	dep	_	_	상응/ncpa+하/xsv+는/etm
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	그리고	그리고	CCONJ	_	15	cc	_	_	그리고/maj
+7	사회주의의	사회주의+의	NOUN	_	8	nmod	_	_	사회주의/ncn+의/jcm
+8	기초를	기초+를	NOUN	_	9	obj	_	_	기초/ncn+를/jco
+9	강화하고	강화+하+고	CCONJ	_	15	conj	_	_	강화/ncpa+하/xsv+고/ecc
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	사회주의의	사회주의+의	NOUN	_	13	nmod	_	_	사회주의/ncn+의/jcm
+12	완전한	완전+하+ㄴ	VERB	_	13	amod	_	_	완전/ncps+하/xsm+ㄴ/etm
+13	승리에	승리+에	ADV	_	14	obl	_	_	승리/ncpa+에/jca
+14	이르게	이르+게	SCONJ	_	15	ccomp	_	_	이르/pvg+게/ecs
+15	할	하+ㄹ	VERB	_	20	dep	_	_	하/pvg+ㄹ/etm
+16	수	수	NOUN	_	17	fixed	_	_	수/nbn
+17	있는	있+는	ADJ	_	15	aux	_	_	있/paa+는/etm
+18	유일한	유일+하+ㄴ	VERB	_	19	amod	_	_	유일/ncps+하/xsm+ㄴ/etm
+19	종류의	종류+의	NOUN	_	20	nmod	_	_	종류/ncn+의/jcm
+20	식량정책이다	식량+정책+이+다	VERB	_	0	root	_	_	식량/ncn+정책/ncn+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 이는 경제적으로 가능하다 .
+1	이는	이+는	PRON	_	3	dislocated	_	_	이/npd+는/jxt
+2	경제적으로	경제+적+으로	ADV	_	3	advcl	_	_	경제/ncn+적/xsn+으로/jca
+3	가능하다	가능+하+다	VERB	_	0	root	_	_	가능/ncps+하/xsm+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 그것은 우리가 비록 사회혁명을 이미 성취하기는 했지만 사회주의 경제의 맹아도 원리도 과대평가하지 않는다는 것을 의미한다 .
+1	그것은	그것+은	PRON	_	15	dislocated	_	_	그것/npd+은/jxt
+2	우리가	우리+가	PRON	_	6	nsubj	_	_	우리/npp+가/jcs
+3	비록	비록	ADV	_	6	advmod	_	_	비록/mag
+4	사회혁명을	사회+혁명+을	NOUN	_	6	obj	_	_	사회/ncn+혁명/ncpa+을/jco
+5	이미	이미	ADV	_	6	advmod	_	_	이미/mag
+6	성취하기는	성취+하+기+는	NOUN	_	7	dislocated	_	_	성취/ncpa+하/xsv+기/etn+는/jxt
+7	했지만	하+었+지만	SCONJ	_	12	ccomp	_	_	하/pvg+었/ep+지만/ecs
+8	사회주의	사회주의	NOUN	_	9	compound	_	_	사회주의/ncn
+9	경제의	경제+의	NOUN	_	11	nmod	_	_	경제/ncn+의/jcm
+10	맹아도	맹아+도	CCONJ	_	11	conj	_	_	맹아/ncn+도/jcj
+11	원리도	원리+도	ADV	_	12	advcl	_	_	원리/ncn+도/jxc
+12	과대평가하지	과대+평가+하+지	VERB	_	14	acl	_	_	과대/ncn+평가/ncpa+하/xsv+지/ecx
+13	않는다는	않+는다는	AUX	_	12	aux	_	_	않/px+는다는/etm
+14	것을	것+을	NOUN	_	15	obj	_	_	것/nbn+을/jco
+15	의미한다	의미+하+ㄴ다	VERB	_	0	root	_	_	의미/ncpa+하/xsv+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 반대로 , 그 당시 이미 우리는 우선 먼저 국가자본주의에 도달하고 그 후에 비로소 사회주의에 도달하는 것이 더 좋으리라는 것을 어느 정도 이해하고 있었다 .
+1	반대로	반대+로	ADV	_	22	advmod	_	_	반대/ncpa+로/jca
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	당시	당시	NOUN	_	22	advmod	_	_	당시/ncn
+5	이미	이미	ADV	_	22	advmod	_	_	이미/mag
+6	우리는	우리+는	PRON	_	22	dislocated	_	_	우리/npp+는/jxt
+7	우선	우선	ADV	_	10	advmod	_	_	우선/mag
+8	먼저	먼저	ADV	_	7	advmod	_	_	먼저/mag
+9	국가자본주의에	국가+자본주의+에	ADV	_	10	obl	_	_	국가/ncn+자본주의/ncn+에/jca
+10	도달하고	도달+하+고	CCONJ	_	15	conj	_	_	도달/ncpa+하/xsv+고/ecc
+11	그	그	DET	_	12	det	_	_	그/mmd
+12	후에	후+에	ADV	_	15	obl	_	_	후/ncn+에/jca
+13	비로소	비로소	ADV	_	15	advmod	_	_	비로소/mag
+14	사회주의에	사회주의+에	ADV	_	15	obl	_	_	사회주의/ncn+에/jca
+15	도달하는	도달+하+는	VERB	_	16	acl	_	_	도달/ncpa+하/xsv+는/etm
+16	것이	것+이	NOUN	_	18	nsubj	_	_	것/nbn+이/jcs
+17	더	더	ADV	_	18	advmod	_	_	더/mag
+18	좋으리라는	좋+으리라는	ADJ	_	19	amod	_	_	좋/paa+으리라는/etm
+19	것을	것+을	NOUN	_	22	obj	_	_	것/nbn+을/jco
+20	어느	어느	DET	_	21	det	_	_	어느/mmd
+21	정도	정도	NOUN	_	22	compound	_	_	정도/ncn
+22	이해하고	이해+하+고	VERB	_	0	root	_	_	이해/ncpa+하/xsv+고/ecx
+23	있었다	있+었+다	AUX	_	22	aux	_	_	있/px+었/ep+다/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+
+# 그것의 핵심은 농민의 중시 , 농민의 상태 개선 따라서 , 농민경제의 생산력을 즉각적으로 증대시킬 방책윽 취하는 것이다 .
+1	그것의	그것+의	PRON	_	2	nmod	_	_	그것/npd+의/jcm
+2	핵심은	핵심+은	NOUN	_	16	dislocated	_	_	핵심/ncn+은/jxt
+3	농민의	농민+의	NOUN	_	4	nmod	_	_	농민/ncn+의/jcm
+4	중시	중시	NOUN	_	8	compound	_	_	중시/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	농민의	농민+의	NOUN	_	7	nmod	_	_	농민/ncn+의/jcm
+7	상태	상태	NOUN	_	8	compound	_	_	상태/ncn
+8	개선	개선	NOUN	_	14	advmod	_	_	개선/ncn
+9	따라서	따라서	ADV	_	14	advmod	_	_	따라서/mag
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	농민경제의	농민+경제+의	NOUN	_	12	nmod	_	_	농민/ncn+경제/ncn+의/jcm
+12	생산력을	생산력+을	NOUN	_	14	obj	_	_	생산력/ncn+을/jco
+13	즉각적으로	즉각+적+으로	ADV	_	14	advcl	_	_	즉각/ncn+적/xsn+으로/jca
+14	증대시킬	증대+시키+ㄹ	VERB	_	15	acl	_	_	증대/ncpa+시키/xsv+ㄹ/etm
+15	방책윽	방책+을	NOUN	_	16	obj	_	_	방책/ncn+을/jco
+16	취하는	취하+는	VERB	_	0	root	_	_	취하/pvg+는/etm
+17	것이다	것+이+다	VERB	_	16	aux	_	_	것/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 왜 노동자의 꾸가에서 노동자의 상태개선이 아니라 농민의 상태개선인가 ?
+1	왜	왜	ADV	_	8	advmod	_	_	왜/mag
+2	노동자의	노동자+의	NOUN	_	3	nmod	_	_	노동자/ncn+의/jcm
+3	꾸가에서	꾸가+에서	ADV	_	6	advcl	_	_	꾸가/f+에서/jca
+4	노동자의	노동자+의	NOUN	_	5	nmod	_	_	노동자/ncn+의/jcm
+5	상태개선이	상태+개선+이	NOUN	_	6	csubj	_	_	상태/ncn+개선/ncpa+이/jcc
+6	아니라	아니+라	SCONJ	_	8	xcomp	_	_	아니/paa+라/ecs
+7	농민의	농민+의	NOUN	_	8	nmod	_	_	농민/ncn+의/jcm
+8	상태개선인가	상태+개선+이+ㄴ가	VERB	_	0	root	_	_	상태/ncn+개선/ncpa+이/jp+ㄴ가/ef
+9	?	?	PUNCT	_	8	punct	_	_	?/sf
+
+# 경제적 연관이라는 입장에서 볼 때 농민의 상태개선은 노동자의 상태개선을 가져온다 .
+1	경제적	경제+적	NOUN	_	2	amod	_	_	경제/ncn+적/xsn
+2	연관이라는	연관+이+라는	VERB	_	3	acl	_	_	연관/ncpa+이/jp+라는/etm
+3	입장에서	입장+에서	ADV	_	4	advcl	_	_	입장/ncpa+에서/jca
+4	볼	보+ㄹ	VERB	_	5	acl	_	_	보/pvg+ㄹ/etm
+5	때	때	NOUN	_	10	advmod	_	_	때/nbn
+6	농민의	농민+의	NOUN	_	7	nmod	_	_	농민/ncn+의/jcm
+7	상태개선은	상태+개선+은	NOUN	_	10	dislocated	_	_	상태/ncn+개선/ncpa+은/jxt
+8	노동자의	노동자+의	NOUN	_	9	nmod	_	_	노동자/ncn+의/jcm
+9	상태개선을	상태+개선+을	NOUN	_	10	obj	_	_	상태/ncn+개선/ncpa+을/jco
+10	가져온다	가지+어+오+ㄴ다	AUX	_	0	root	_	_	가지/pvg+어/ecx+오/px+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 왜냐하면 노동자의 상태를 개선하기 위해서는 곡물과 연료가 필요하기 때문이다 .
+1	왜냐하면	왜냐하면	CCONJ	_	8	cc	_	_	왜냐하면/maj
+2	노동자의	노동자+의	NOUN	_	3	nmod	_	_	노동자/ncn+의/jcm
+3	상태를	상태+를	NOUN	_	4	obj	_	_	상태/ncn+를/jco
+4	개선하기	개선+하+기	VERB	_	5	nmod	_	_	개선/ncpa+하/xsv+기/etn
+5	위해서는	위하+어서+는	NOUN	_	8	dep	_	_	위하/pvg+어서/ecs+는/jxt
+6	곡물과	곡물+과	CCONJ	_	7	conj	_	_	곡물/ncn+과/jcj
+7	연료가	연료+가	NOUN	_	8	nsubj	_	_	연료/ncn+가/jcs
+8	필요하기	필요+하+기	VERB	_	0	root	_	_	필요/ncps+하/xsm+기/etn
+9	때문이다	때문+이+다	VERB	_	8	aux	_	_	때문/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 한편 레닌은 자신의 농민의 상태개선을 통해 노동자의 상태개선을 도모하는 노선에 대한 반대에 단호히 경고하였다 .
+1	한편	한편	CCONJ	_	14	cc	_	_	한편/maj
+2	레닌은	레닌+은	PROPN	_	14	dislocated	_	_	레닌/nq+은/jxt
+3	자신의	자신+의	NOUN	_	10	nmod	_	_	자신/ncn+의/jcm
+4	농민의	농민+의	NOUN	_	5	nmod	_	_	농민/ncn+의/jcm
+5	상태개선을	상태+개선+을	NOUN	_	6	obj	_	_	상태/ncn+개선/ncpa+을/jco
+6	통해	통하+어	SCONJ	_	9	ccomp	_	_	통하/pvg+어/ecs
+7	노동자의	노동자+의	NOUN	_	8	nmod	_	_	노동자/ncn+의/jcm
+8	상태개선을	상태+개선+을	NOUN	_	9	obj	_	_	상태/ncn+개선/ncpa+을/jco
+9	도모하는	도모+하+는	VERB	_	10	acl	_	_	도모/ncpa+하/xsv+는/etm
+10	노선에	노선+에	ADV	_	11	obl	_	_	노선/ncn+에/jca
+11	대한	대하+ㄴ	VERB	_	12	acl	_	_	대하/pvg+ㄴ/etm
+12	반대에	반대+에	ADV	_	14	obl	_	_	반대/ncpa+에/jca
+13	단호히	단호+히	ADV	_	14	advmod	_	_	단호/ncps+히/xsa
+14	경고하였다	경고+하+었+다	VERB	_	0	root	_	_	경고/ncpa+하/xsv+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이러한 방식으로 노동자의 상태를 개선하는 것은 노동자의 계급적 이해보다도 노동자의 동업조합적 이해를 우위에 놓는다는 것을 의미한다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	방식으로	방식+으로	ADV	_	5	advcl	_	_	방식/ncn+으로/jca
+3	노동자의	노동자+의	NOUN	_	4	nmod	_	_	노동자/ncn+의/jcm
+4	상태를	상태+를	NOUN	_	5	obj	_	_	상태/ncn+를/jco
+5	개선하는	개선+하+는	VERB	_	6	acl	_	_	개선/ncpa+하/xsv+는/etm
+6	것은	것+은	NOUN	_	16	dislocated	_	_	것/nbn+은/jxt
+7	노동자의	노동자+의	NOUN	_	9	nmod	_	_	노동자/ncn+의/jcm
+8	계급적	계급+적	NOUN	_	9	amod	_	_	계급/ncn+적/xsn
+9	이해보다도	이해+보다+도	ADV	_	14	advcl	_	_	이해/ncpa+보다/jca+도/jxc
+10	노동자의	노동자+의	NOUN	_	12	nmod	_	_	노동자/ncn+의/jcm
+11	동업조합적	동업+조합+적	NOUN	_	12	amod	_	_	동업/ncpa+조합/ncpa+적/xsn
+12	이해를	이해+를	NOUN	_	14	obj	_	_	이해/ncpa+를/jco
+13	우위에	우위+에	ADV	_	14	obl	_	_	우위/ncn+에/jca
+14	놓는다는	놓+는다는	VERB	_	15	acl	_	_	놓/pvg+는다는/etm
+15	것을	것+을	NOUN	_	16	obj	_	_	것/nbn+을/jco
+16	의미한다	의미+하+ㄴ다	VERB	_	0	root	_	_	의미/ncpa+하/xsv+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그러므로 레닌과 면담한 후 웰즈는 이렇게 기술할 수 있었다 .
+1	그러므로	그러므로	CCONJ	_	7	cc	_	_	그러므로/maj
+2	레닌과	레닌+과	CCONJ	_	3	conj	_	_	레닌/nq+과/jct
+3	면담한	면담+하+ㄴ	VERB	_	4	acl	_	_	면담/ncpa+하/xsv+ㄴ/etm
+4	후	후	NOUN	_	7	advmod	_	_	후/ncn
+5	웰즈는	웰즈+는	PROPN	_	7	dislocated	_	_	웰즈/nq+는/jxt
+6	이렇게	이렇+게	SCONJ	_	7	xcomp	_	_	이렇/pad+게/ecs
+7	기술할	기술+하+ㄹ	VERB	_	0	root	_	_	기술/ncpa+하/xsv+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있었다	있+었+다	ADJ	_	7	aux	_	_	있/paa+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그는 최근에 다음과 같이 쓴 적이 있다 .
+1	그는	그+는	PRON	_	7	dislocated	_	_	그/npp+는/jxt
+2	최근에	최근+에	ADV	_	5	obl	_	_	최근/ncn+에/jca
+3	다음과	다음+과	CCONJ	_	4	conj	_	_	다음/ncn+과/jct
+4	같이	같+이	SCONJ	_	5	xcomp	_	_	같/paa+이/ecs
+5	쓴	쓰+ㄴ	VERB	_	6	acl	_	_	쓰/pvg+ㄴ/etm
+6	적이	적+이	NOUN	_	7	nsubj	_	_	적/nbn+이/jcs
+7	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이러한 논자들의 마지막 남은 가면을 우리는 낱낱이 밝히겠지만 , 스탈린적 사회주의는 엄연한 객관적으로 실재했던 역사적 현실이다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	논자들의	논자+들+의	NOUN	_	5	nmod	_	_	논자/ncn+들/xsn+의/jcm
+3	마지막	마지막	NOUN	_	4	dep	_	_	마지막/ncn
+4	남은	남+은	VERB	_	5	acl	_	_	남/pvg+은/etm
+5	가면을	가면+을	NOUN	_	8	obj	_	_	가면/ncn+을/jco
+6	우리는	우리+는	PRON	_	8	dislocated	_	_	우리/npp+는/jxt
+7	낱낱이	낱낱이	ADV	_	8	advmod	_	_	낱낱이/mag
+8	밝히겠지만	밝히+겠+지만	SCONJ	_	16	ccomp	_	_	밝히/pvg+겠/ep+지만/ecs
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	스탈린적	스탈린+적	NOUN	_	11	amod	_	_	스탈린/nq+적/xsn
+11	사회주의는	사회주의+는	NOUN	_	16	dislocated	_	_	사회주의/ncn+는/jxt
+12	엄연한	엄연+하+ㄴ	VERB	_	16	amod	_	_	엄연/ncps+하/xsm+ㄴ/etm
+13	객관적으로	객관+적+으로	ADV	_	14	advcl	_	_	객관/ncn+적/xsn+으로/jca
+14	실재했던	실재+하+었+던	VERB	_	16	acl	_	_	실재/ncpa+하/xsv+었/ep+던/etm
+15	역사적	역사+적	NOUN	_	16	amod	_	_	역사/ncn+적/xsn
+16	현실이다	현실+이+다	VERB	_	0	root	_	_	현실/ncn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 우리는 이러한 사상을 국가에 대한 물신숭배의 이데올로기로서 , 과학적 사회주의 사상과 전혀 인연이 없는 범죄적 사상으로 규정한다 .
+1	우리는	우리+는	PRON	_	17	dislocated	_	_	우리/npp+는/jxt
+2	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+3	사상을	사상+을	NOUN	_	17	obj	_	_	사상/ncn+을/jco
+4	국가에	국가+에	ADV	_	5	obl	_	_	국가/ncn+에/jca
+5	대한	대하+ㄴ	VERB	_	6	acl	_	_	대하/pvg+ㄴ/etm
+6	물신숭배의	물신+숭배+의	NOUN	_	7	nmod	_	_	물신/ncn+숭배/ncpa+의/jcm
+7	이데올로기로서	이데올로기+로서	ADV	_	16	dep	_	_	이데올로기/ncn+로서/jca
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	과학적	과학+적	NOUN	_	10	amod	_	_	과학/ncn+적/xsn
+10	사회주의	사회주의	NOUN	_	11	compound	_	_	사회주의/ncn
+11	사상과	사상+과	CCONJ	_	14	conj	_	_	사상/ncn+과/jct
+12	전혀	전혀	ADV	_	14	advmod	_	_	전혀/mag
+13	인연이	인연+이	NOUN	_	14	nsubj	_	_	인연/ncn+이/jcs
+14	없는	없+는	ADJ	_	16	amod	_	_	없/paa+는/etm
+15	범죄적	범죄+적	NOUN	_	16	amod	_	_	범죄/ncpa+적/xsn
+16	사상으로	사상+으로	ADV	_	17	advmod	_	_	사상/ncn+으로/jca
+17	규정한다	규정+하+ㄴ다	VERB	_	0	root	_	_	규정/ncpa+하/xsv+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 한편 스탈린은 그의 독특한 이데올로기에 입각하여 , 현실 역사에 있어서 대테러독재를 단행하였다 .
+1	한편	한편	CCONJ	_	12	cc	_	_	한편/maj
+2	스탈린은	스탈린+은	PROPN	_	12	dislocated	_	_	스탈린/nq+은/jxt
+3	그의	그+의	PRON	_	5	nmod	_	_	그/npp+의/jcm
+4	독특한	독특+하+ㄴ	VERB	_	5	amod	_	_	독특/ncps+하/xsm+ㄴ/etm
+5	이데올로기에	이데올로기+에	ADV	_	6	obl	_	_	이데올로기/f+에/jca
+6	입각하여	입각+하+어	SCONJ	_	12	ccomp	_	_	입각/ncpa+하/xsv+어/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	현실	현실	NOUN	_	9	compound	_	_	현실/ncn
+9	역사에	역사+에	ADV	_	10	obl	_	_	역사/ncn+에/jca
+10	있어서	있+어서	SCONJ	_	12	xcomp	_	_	있/paa+어서/ecs
+11	대테러독재를	대+테러+독재+를	NOUN	_	12	obj	_	_	대/ncn+테러/f+독재/ncpa+를/jco
+12	단행하였다	단행+하+었+다	VERB	_	0	root	_	_	단행/ncpa+하/xsv+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그 후 레닌이 구상한 정책은 NEP 초기에는 꽤 일관되게 수행되었다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	후	후	NOUN	_	10	advmod	_	_	후/ncn
+3	레닌이	레닌+이	PROPN	_	4	nsubj	_	_	레닌/nq+이/jcs
+4	구상한	구상+하+ㄴ	VERB	_	5	acl	_	_	구상/ncpa+하/xsv+ㄴ/etm
+5	정책은	정책+은	NOUN	_	10	dislocated	_	_	정책/ncn+은/jxt
+6	NEP	NEP	X	_	7	compound	_	_	NEP/f
+7	초기에는	초기+에+는	NOUN	_	10	dislocated	_	_	초기/ncn+에/jca+는/jxt
+8	꽤	꽤	ADV	_	9	advmod	_	_	꽤/mag
+9	일관되게	일관+되+게	SCONJ	_	10	ccomp	_	_	일관/ncpa+되/xsv+게/ecs
+10	수행되었다	수행+되+었+다	VERB	_	0	root	_	_	수행/ncpa+되/xsv+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그렇다면 스탈린의 범죄행위와 사회주의 노선의 왜곡과 포기는 구체적으로 어떠한 것이었는가 ?
+1	그렇다면	그렇다면	CCONJ	_	9	cc	_	_	그렇다면/maj
+2	스탈린의	스탈린+의	PROPN	_	3	nmod	_	_	스탈린/nq+의/jcm
+3	범죄행위와	범죄+행위+와	CCONJ	_	7	conj	_	_	범죄/ncpa+행위/ncn+와/jcj
+4	사회주의	사회주의	NOUN	_	5	compound	_	_	사회주의/ncn
+5	노선의	노선+의	NOUN	_	7	nmod	_	_	노선/ncn+의/jcm
+6	왜곡과	왜곡+과	CCONJ	_	7	conj	_	_	왜곡/ncpa+과/jcj
+7	포기는	포기+는	NOUN	_	9	dislocated	_	_	포기/ncpa+는/jxt
+8	구체적으로	구체+적+으로	ADV	_	9	advcl	_	_	구체/ncn+적/xsn+으로/jca
+9	어떠한	어떠하+ㄴ	VERB	_	0	root	_	_	어떠하/pad+ㄴ/etm
+10	것이었는가	것+이+었+는가	VERB	_	9	aux	_	_	것/nbn+이/jp+었/ep+는가/ef
+11	?	?	PUNCT	_	10	punct	_	_	?/sf
+
+# 스탈린은 오류가 없는가 ?
+1	스탈린은	스탈린+은	PROPN	_	3	dislocated	_	_	스탈린/nq+은/jxt
+2	오류가	오류+가	NOUN	_	3	nsubj	_	_	오류/ncn+가/jcs
+3	없는가	없+는가	ADJ	_	0	root	_	_	없/paa+는가/ef
+4	?	?	PUNCT	_	3	punct	_	_	?/sf
+
+# 인민은 오류가 없는가 ?
+1	인민은	인민+은	NOUN	_	3	dislocated	_	_	인민/ncn+은/jxt
+2	오류가	오류+가	NOUN	_	3	nsubj	_	_	오류/ncn+가/jcs
+3	없는가	없+는가	ADJ	_	0	root	_	_	없/paa+는가/ef
+4	?	?	PUNCT	_	3	punct	_	_	?/sf
+
+# 그의 이름은 저주의 대상이 되었다 .
+1	그의	그+의	PRON	_	2	nmod	_	_	그/npp+의/jcm
+2	이름은	이름+은	NOUN	_	5	dislocated	_	_	이름/ncn+은/jxt
+3	저주의	저주+의	NOUN	_	4	nmod	_	_	저주/ncpa+의/jcm
+4	대상이	대상+이	NOUN	_	5	csubj	_	_	대상/ncn+이/jcc
+5	되었다	되+었+다	VERB	_	0	root	_	_	되/pvg+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그의 책은 파기되었다 .
+1	그의	그+의	PRON	_	2	nmod	_	_	그/npp+의/jcm
+2	책은	책+은	NOUN	_	3	dislocated	_	_	책/ncn+은/jxt
+3	파기되었다	파기+되+었+다	VERB	_	0	root	_	_	파기/ncpa+되/xsv+었/ep+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 그에 대해 이야기하는 것은 의심을 살 만한 짓이며 따라서 입다물고 있을 일이다 .
+1	그에	그+에	ADV	_	2	obl	_	_	그/npp+에/jca
+2	대해	대하+어	SCONJ	_	3	ccomp	_	_	대하/pvg+어/ecs
+3	이야기하는	이야기+하+는	VERB	_	4	acl	_	_	이야기/ncpa+하/xsv+는/etm
+4	것은	것+은	NOUN	_	8	dislocated	_	_	것/nbn+은/jxt
+5	의심을	의심+을	NOUN	_	6	obj	_	_	의심/ncpa+을/jco
+6	살	사+ㄹ	VERB	_	7	acl	_	_	사/pvg+ㄹ/etm
+7	만한	만+하+ㄴ	VERB	_	8	amod	_	_	만/nbn+하/xsm+ㄴ/etm
+8	짓이며	짓+이+며	CCONJ	_	12	conj	_	_	짓/nbn+이/jp+며/ecc
+9	따라서	따라서	ADV	_	12	advmod	_	_	따라서/mag
+10	입다물고	입다물+고	VERB	_	12	ccomp	_	_	입다물/pvg+고/ecx
+11	있을	있+ㄹ	AUX	_	10	aux	_	_	있/px+ㄹ/etm
+12	일이다	일+이+다	VERB	_	0	root	_	_	일/ncpa+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 인민의 아들들은 그에게 유죄판결을 내렸다 .
+1	인민의	인민+의	NOUN	_	2	nmod	_	_	인민/ncn+의/jcm
+2	아들들은	아들+들+은	NOUN	_	5	dislocated	_	_	아들/ncn+들/xsn+은/jxt
+3	그에게	그+에게	ADV	_	5	iobj	_	_	그/npp+에게/jca
+4	유죄판결을	유죄+판결+을	NOUN	_	5	obj	_	_	유죄/ncn+판결/ncpa+을/jco
+5	내렸다	내리+었+다	VERB	_	0	root	_	_	내리/pvg+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 흑색을 백색이라 우기는 식으로 유죄가 입증된 문서들을 달라는 것은 , 어리석은 짓이다 .
+1	흑색을	흑색+을	NOUN	_	2	obj	_	_	흑색/ncn+을/jco
+2	백색이라	백색+이+라	VERB	_	3	ccomp	_	_	백색/ncn+이/jp+라/ef
+3	우기는	우기+는	VERB	_	4	acl	_	_	우기/pvg+는/etm
+4	식으로	식+으로	ADV	_	8	advcl	_	_	식/ncn+으로/jca
+5	유죄가	유죄+가	NOUN	_	6	nsubj	_	_	유죄/ncn+가/jcs
+6	입증된	입증+되+ㄴ	VERB	_	7	acl	_	_	입증/ncpa+되/xsv+ㄴ/etm
+7	문서들을	문서+들+을	NOUN	_	8	obj	_	_	문서/ncn+들/xsn+을/jco
+8	달라는	달+라는	VERB	_	9	acl	_	_	달/pvg+라는/etm
+9	것은	것+은	NOUN	_	12	advmod	_	_	것/nbn+은/jxt
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	어리석은	어리석+ㄴ	ADJ	_	12	amod	_	_	어리석/paa+ㄴ/etm
+12	짓이다	짓+이+다	VERB	_	0	root	_	_	짓/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 범죄자들은 그들은 무죄이라는 증거를 손에 쥐고 있다 .
+1	범죄자들은	범죄자+들+은	NOUN	_	6	dislocated	_	_	범죄자/ncn+들/xsn+은/jxt
+2	그들은	그+들+은	PRON	_	3	dislocated	_	_	그/npp+들/xsn+은/jxt
+3	무죄이라는	무죄+이+라는	VERB	_	4	acl	_	_	무죄/ncn+이/jp+라는/etm
+4	증거를	증거+를	NOUN	_	6	obj	_	_	증거/ncpa+를/jco
+5	손에	손+에	ADV	_	6	obl	_	_	손/ncn+에/jca
+6	쥐고	쥐+고	VERB	_	0	root	_	_	쥐/pvg+고/ecx
+7	있다	있+다	AUX	_	6	aux	_	_	있/px+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 죄를 짓지 않은 사람들은 때때로 아무 증거도 가지고 있지 않다 .
+1	죄를	죄+를	NOUN	_	2	obj	_	_	죄/ncn+를/jco
+2	짓지	짓+지	VERB	_	4	acl	_	_	짓/pvg+지/ecx
+3	않은	않+ㄴ	AUX	_	2	aux	_	_	않/px+ㄴ/etm
+4	사람들은	사람+들+은	NOUN	_	8	dislocated	_	_	사람/ncn+들/xsn+은/jxt
+5	때때로	때때로	ADV	_	8	advmod	_	_	때때로/mag
+6	아무	아무	DET	_	7	det	_	_	아무/mmd
+7	증거도	증거+도	ADV	_	8	advcl	_	_	증거/ncpa+도/jxc
+8	가지고	가지+고	VERB	_	0	root	_	_	가지/pvg+고/ecx
+9	있지	있+지	AUX	_	8	aux	_	_	있/px+지/ecx
+10	않다	않+다	AUX	_	8	aux	_	_	않/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 5천명이 건설한 것을 단 한명이 망가뜨릴 수 있다 .
+1	5천명이	5+천+명+이	NUM	_	2	nsubj	_	_	5/nnc+천/nnc+명/nbu+이/jcs
+2	건설한	건설+하+ㄴ	VERB	_	3	acl	_	_	건설/ncpa+하/xsv+ㄴ/etm
+3	것을	것+을	NOUN	_	6	obj	_	_	것/nbn+을/jco
+4	단	단	ADJ	_	5	amod	_	_	단/mma
+5	한명이	한+명+이	NUM	_	6	nsubj	_	_	한/nnc+명/nbu+이/jcs
+6	망가뜨릴	망가뜨리+ㄹ	VERB	_	0	root	_	_	망가뜨리/pvg+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	있다	있+다	ADJ	_	6	aux	_	_	있/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 유죄판결을 받은 50 명의 사람들 중 한명 정도는 무죄일 수 있다 .
+1	유죄판결을	유죄+판결+을	NOUN	_	2	obj	_	_	유죄/ncn+판결/ncpa+을/jco
+2	받은	받+ㄴ	VERB	_	5	acl	_	_	받/pvg+ㄴ/etm
+3	50	50	NUM	_	4	nummod	_	_	50/nnc
+4	명의	명+의	NOUN	_	5	nmod	_	_	명/nbu+의/jcm
+5	사람들	사람+들	NOUN	_	6	compound	_	_	사람/ncn+들/xsn
+6	중	중	NOUN	_	7	compound	_	_	중/ncn
+7	한명	한+명	NOUN	_	8	compound	_	_	한/nnc+명/nbu
+8	정도는	정도+는	NOUN	_	9	dislocated	_	_	정도/ncn+는/jxt
+9	무죄일	무죄+이+ㄹ	VERB	_	0	root	_	_	무죄/ncn+이/jp+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있다	있+다	ADJ	_	9	aux	_	_	있/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 도대체 그는 어떻게 죽음을 맞이할 수 있었을까 ?
+1	도대체	도대체	ADV	_	5	advmod	_	_	도대체/mag
+2	그는	그+는	PRON	_	5	dislocated	_	_	그/npp+는/jxt
+3	어떻게	어떻+게	SCONJ	_	5	xcomp	_	_	어떻/pad+게/ecs
+4	죽음을	죽음+을	NOUN	_	5	obj	_	_	죽음/ncn+을/jco
+5	맞이할	맞이하+ㄹ	VERB	_	0	root	_	_	맞이하/pvg+ㄹ/etm
+6	수	수	NOUN	_	7	fixed	_	_	수/nbn
+7	있었을까	있+었+ㄹ까	ADJ	_	5	aux	_	_	있/paa+었/ep+ㄹ까/ef
+8	?	?	PUNCT	_	7	punct	_	_	?/sf
+
+# 그러나 브레히트는 오유가 없는가 ?
+1	그러나	그러나	CCONJ	_	4	cc	_	_	그러나/maj
+2	브레히트는	브레히트+는	PROPN	_	4	dislocated	_	_	브레히트/nq+는/jxt
+3	오유가	오유+가	NOUN	_	4	nsubj	_	_	오유/ncn+가/jcs
+4	없는가	없+는가	ADJ	_	0	root	_	_	없/paa+는가/ef
+5	?	?	PUNCT	_	4	punct	_	_	?/sf
+
+# 그러나 사실을 알리기 위한 상징적인 오류이다 .
+1	그러나	그러나	CCONJ	_	6	cc	_	_	그러나/maj
+2	사실을	사실+을	NOUN	_	3	obj	_	_	사실/ncn+을/jco
+3	알리기	알리+기	VERB	_	4	nmod	_	_	알리/pvg+기/etn
+4	위한	위하+ㄴ	VERB	_	6	ccomp	_	_	위하/pvg+ㄴ/etm
+5	상징적인	상징+적+이+ㄴ	VERB	_	6	acl	_	_	상징/ncpa+적/xsn+이/jp+ㄴ/etm
+6	오류이다	오류+이+다	VERB	_	0	root	_	_	오류/ncn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 나는 단언컨데 50 명들 중 한명 정도가 아니라 거꾸로 49 명이 무죄였음을 감히 주장한다 .
+1	나는	나+는	PRON	_	14	dislocated	_	_	나/npp+는/jxt
+2	단언컨데	단언+이+컨데	SCONJ	_	12	conj	_	_	단언/ncpa+이/jp+컨데/ecs
+3	50	50	NUM	_	4	nummod	_	_	50/nnc
+4	명들	명+들	NOUN	_	5	compound	_	_	명/nbu+들/xsn
+5	중	중	NOUN	_	6	compound	_	_	중/ncn
+6	한명	한+명	NOUN	_	7	compound	_	_	한/nnc+명/nbu
+7	정도가	정도+가	NOUN	_	8	nsubj	_	_	정도/ncn+가/jcs
+8	아니라	아니+라	SCONJ	_	12	xcomp	_	_	아니/paa+라/ecs
+9	거꾸로	거꾸로	ADV	_	12	advmod	_	_	거꾸로/mag
+10	49	49	NUM	_	11	nummod	_	_	49/nnc
+11	명이	명+이	NOUN	_	12	nsubj	_	_	명/nbu+이/jcs
+12	무죄였음을	무죄+이+었+ㅁ+을	NOUN	_	14	obj	_	_	무죄/ncn+이/jp+었/ep+ㅁ/etn+을/jco
+13	감히	감히	ADV	_	14	advmod	_	_	감히/mag
+14	주장한다	주장+하+ㄴ다	VERB	_	0	root	_	_	주장/ncpa+하/xsv+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 1941년 도대체 어떤 해인가 ?
+1	1941년	1941+년	NOUN	_	4	advmod	_	_	1941/nno+년/nbu
+2	도대체	도대체	ADV	_	4	advmod	_	_	도대체/mag
+3	어떤	어떻+ㄴ	VERB	_	4	amod	_	_	어떻/pad+ㄴ/etm
+4	해인가	해+이+ㄴ가	VERB	_	0	root	_	_	해/ncn+이/jp+ㄴ가/ef
+5	?	?	PUNCT	_	4	punct	_	_	?/sf
+
+# 사회주의가 성취됨에 따라서 국가 역시 계급의 국가 , 즉 프롤레타리아 독재가 아니라 전인민의 국가로 화한다 .
+1	사회주의가	사회주의+가	NOUN	_	2	nsubj	_	_	사회주의/ncn+가/jcs
+2	성취됨에	성취+되+ㅁ+에	ADV	_	3	obl	_	_	성취/ncpa+되/xsv+ㅁ/etn+에/jca
+3	따라서	따르+아서	SCONJ	_	15	ccomp	_	_	따르/pvg+아서/ecs
+4	국가	국가	NOUN	_	15	advmod	_	_	국가/ncn
+5	역시	역시	ADV	_	15	advmod	_	_	역시/mag
+6	계급의	계급+의	NOUN	_	7	nmod	_	_	계급/ncn+의/jcm
+7	국가	국가	NOUN	_	11	conj	_	_	국가/ncn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	즉	즉	CCONJ	_	11	cc	_	_	즉/maj
+10	프롤레타리아	프롤레타리아	NOUN	_	11	compound	_	_	프롤레타리아/ncn
+11	독재가	독재+가	NOUN	_	12	nsubj	_	_	독재/ncpa+가/jcs
+12	아니라	아니+라	SCONJ	_	15	xcomp	_	_	아니/paa+라/ecs
+13	전인민의	전인민+의	NOUN	_	14	nmod	_	_	전인민/ncn+의/jcm
+14	국가로	국가+로	ADV	_	15	advcl	_	_	국가/ncn+로/jca
+15	화한다	화하+ㄴ다	VERB	_	0	root	_	_	화하/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 계급존재가 사멸되어 그 투쟁이 없어진 이상 정치적 지배가 무슨 필요가 있는가 ?
+1	계급존재가	계급+존재+가	NOUN	_	2	nsubj	_	_	계급/ncn+존재/ncpa+가/jcs
+2	사멸되어	사멸+되+어	SCONJ	_	5	conj	_	_	사멸/ncpa+되/xsv+어/ecs
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	투쟁이	투쟁+이	NOUN	_	5	nsubj	_	_	투쟁/ncpa+이/jcs
+5	없어진	없+어+지+ㄴ	AUX	_	6	amod	_	_	없/paa+어/ecx+지/px+ㄴ/etm
+6	이상	이상	NOUN	_	11	dep	_	_	이상/ncn
+7	정치적	정치+적	NOUN	_	8	amod	_	_	정치/ncpa+적/xsn
+8	지배가	지배+가	NOUN	_	11	nsubj	_	_	지배/ncpa+가/jcs
+9	무슨	무슨	DET	_	10	det	_	_	무슨/mmd
+10	필요가	필요+가	NOUN	_	11	nsubj	_	_	필요/ncps+가/jcs
+11	있는가	있+는가	ADJ	_	0	root	_	_	있/paa+는가/ef
+12	?	?	PUNCT	_	11	punct	_	_	?/sf
+
+# 그런데 그렇게 선언된 지 4년이 지난 1941년 브레히트는 소련의 유혈테러 통치에 대해 시를 쓰고 있지 않은가 ?
+1	그런데	그런데	CCONJ	_	14	cc	_	_	그런데/maj
+2	그렇게	그렇+게	SCONJ	_	3	xcomp	_	_	그렇/pad+게/ecs
+3	선언된	선언+되+ㄴ	VERB	_	4	acl	_	_	선언/ncpa+되/xsv+ㄴ/etm
+4	지	지	NOUN	_	6	advmod	_	_	지/nbn
+5	4년이	4+년+이	NUM	_	6	nsubj	_	_	4/nnc+년/nbu+이/jcs
+6	지난	지나+ㄴ	VERB	_	7	acl	_	_	지나/pvg+ㄴ/etm
+7	1941년	1941+년	NOUN	_	14	advmod	_	_	1941/nno+년/nbu
+8	브레히트는	브레히트+는	PROPN	_	14	dislocated	_	_	브레히트/nq+는/jxt
+9	소련의	소련+의	PROPN	_	10	nmod	_	_	소련/nq+의/jcm
+10	유혈테러	유혈+테러	NOUN	_	11	compound	_	_	유혈/ncn+테러/ncn
+11	통치에	통치+에	ADV	_	12	obl	_	_	통치/ncpa+에/jca
+12	대해	대하+어	SCONJ	_	14	ccomp	_	_	대하/pvg+어/ecs
+13	시를	시+를	NOUN	_	14	obj	_	_	시/ncn+를/jco
+14	쓰고	쓰+고	VERB	_	0	root	_	_	쓰/pvg+고/ecx
+15	있지	있+지	AUX	_	14	aux	_	_	있/px+지/ecx
+16	않은가	않+ㄴ가	AUX	_	14	aux	_	_	않/px+ㄴ가/ef
+17	?	?	PUNCT	_	16	punct	_	_	?/sf
+
+# 틀림없이 소비에트 사회에서 사회주의는 성취되었다 .
+1	틀림없이	틀림없이	ADV	_	5	advmod	_	_	틀림없이/mag
+2	소비에트	소비에트	PROPN	_	3	compound	_	_	소비에트/nq
+3	사회에서	사회+에서	ADV	_	5	advcl	_	_	사회/ncn+에서/jca
+4	사회주의는	사회주의+는	NOUN	_	5	dislocated	_	_	사회주의/ncn+는/jxt
+5	성취되었다	성취+되+었+다	VERB	_	0	root	_	_	성취/ncpa+되/xsv+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그러나 그것은 과학적 사회주의 사상에 입각한 , 경제적 물적 수준에 규정되는 그러한 사회주의가 아니라 , 스탈린식 사회주의 , 이데올로기적 공상적 사회주의가 성취된 것이다 .
+1	그러나	그러나	CCONJ	_	22	cc	_	_	그러나/maj
+2	그것은	그것+은	PRON	_	14	dislocated	_	_	그것/npd+은/jxt
+3	과학적	과학+적	NOUN	_	4	amod	_	_	과학/ncn+적/xsn
+4	사회주의	사회주의	NOUN	_	5	compound	_	_	사회주의/ncn
+5	사상에	사상+에	ADV	_	6	obl	_	_	사상/ncn+에/jca
+6	입각한	입각+하+ㄴ	VERB	_	13	dep	_	_	입각/ncpa+하/xsv+ㄴ/etm
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	경제적	경제+적	NOUN	_	9	dep	_	_	경제/ncn+적/xsn
+9	물적	물+적	NOUN	_	10	amod	_	_	물/ncn+적/xsn
+10	수준에	수준+에	ADV	_	11	obl	_	_	수준/ncn+에/jca
+11	규정되는	규정+되+는	VERB	_	13	acl	_	_	규정/ncpa+되/xsv+는/etm
+12	그러한	그러하+ㄴ	VERB	_	13	amod	_	_	그러하/pad+ㄴ/etm
+13	사회주의가	사회주의+가	NOUN	_	14	nsubj	_	_	사회주의/ncn+가/jcs
+14	아니라	아니+라	SCONJ	_	22	xcomp	_	_	아니/paa+라/ecs
+15	,	,	PUNCT	_	14	punct	_	_	,/sp
+16	스탈린식	스탈린식	PROPN	_	17	compound	_	_	스탈린식/nq
+17	사회주의	사회주의	NOUN	_	21	compound	_	_	사회주의/ncn
+18	,	,	PUNCT	_	17	punct	_	_	,/sp
+19	이데올로기적	이데올로기+적	NOUN	_	20	amod	_	_	이데올로기/ncn+적/xsn
+20	공상적	공상+적	NOUN	_	21	amod	_	_	공상/ncpa+적/xsn
+21	사회주의가	사회주의+가	NOUN	_	22	nsubj	_	_	사회주의/ncn+가/jcs
+22	성취된	성취+되+ㄴ	VERB	_	0	root	_	_	성취/ncpa+되/xsv+ㄴ/etm
+23	것이다	것+이+다	VERB	_	22	aux	_	_	것/nbn+이/jp+다/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+
+# 사정이 이러할 때 1941년 이전에는 스탈린의 테러통치가 어느 정도였겠는가는 물으나마나 한 얘기이다 .
+1	사정이	사정+이	NOUN	_	2	nsubj	_	_	사정/ncn+이/jcs
+2	이러할	이러하+ㄹ	VERB	_	3	amod	_	_	이러하/pad+ㄹ/etm
+3	때	때	NOUN	_	12	advmod	_	_	때/ncn
+4	1941년	1941+년	NOUN	_	5	compound	_	_	1941/nno+년/nbu
+5	이전에는	이전+에+는	NOUN	_	9	dislocated	_	_	이전/ncn+에/jca+는/jxt
+6	스탈린의	스탈린+의	PROPN	_	7	nmod	_	_	스탈린/nq+의/jcm
+7	테러통치가	테러+통치+가	NOUN	_	9	nsubj	_	_	테러/ncn+통치/ncpa+가/jcs
+8	어느	어느	DET	_	9	det	_	_	어느/mmd
+9	정도였겠는가는	정도+이+었+겠+는가는	VERB	_	12	ccomp	_	_	정도/ncn+이/jp+었/ep+겠/ep+는가는/etm
+10	물으나마나	물으나마나	ADV	_	11	advmod	_	_	물으나마나/mag
+11	한	하+ㄴ	VERB	_	12	acl	_	_	하/pvg+ㄴ/etm
+12	얘기이다	얘기+이+다	VERB	_	0	root	_	_	얘기/ncpa+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 술라부터 네로까지의 전제군주적인 황제가 통치하고 있던 동안 수십만명이나 되는 로마인들이 목숨을 잃었다 .
+1	술라부터	술라+부터	ADV	_	2	dep	_	_	술라/nq+부터/jxc
+2	네로까지의	네로+까지+의	PROPN	_	7	nmod	_	_	네로/nq+까지/jxc+의/jcm
+3	전제군주적인	전제군주+적+이+ㄴ	VERB	_	4	acl	_	_	전제군주/ncn+적/xsn+이/jp+ㄴ/etm
+4	황제가	황제+가	NOUN	_	5	nsubj	_	_	황제/ncn+가/jcs
+5	통치하고	통치+하+고	VERB	_	7	acl	_	_	통치/ncpa+하/xsv+고/ecx
+6	있던	있+던	AUX	_	5	aux	_	_	있/px+던/etm
+7	동안	동안	NOUN	_	12	advmod	_	_	동안/nbn
+8	수십만명이나	수십만+명+이나	ADV	_	9	advcl	_	_	수십만/nnc+명/nbu+이나/jxc
+9	되는	되+는	VERB	_	10	acl	_	_	되/pvg+는/etm
+10	로마인들이	로마인+들+이	NOUN	_	12	nsubj	_	_	로마인/ncn+들/xsn+이/jcs
+11	목숨을	목숨+을	NOUN	_	12	obj	_	_	목숨/ncn+을/jco
+12	잃었다	잃+었+다	VERB	_	0	root	_	_	잃/pvg+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 스페인의 종교재판소는 약 35 만명이나 되는 사람들을 살해하였는데 그 중 3 만명이나 되는 사람이 산 채로 화장 당했다 .
+1	스페인의	스페인+의	PROPN	_	2	nmod	_	_	스페인/nq+의/jcm
+2	종교재판소는	종교+재판소+는	NOUN	_	8	dislocated	_	_	종교/ncn+재판소/ncn+는/jxt
+3	약	약	ADJ	_	5	amod	_	_	약/mma
+4	35	35	NUM	_	5	nummod	_	_	35/nnc
+5	만명이나	만+명+이나	ADV	_	6	advcl	_	_	만/ncn+명/nbu+이나/jxc
+6	되는	되+는	VERB	_	7	acl	_	_	되/pvg+는/etm
+7	사람들을	사람+들+을	NOUN	_	8	obj	_	_	사람/ncn+들/xsn+을/jco
+8	살해하였는데	살해+하+었+는데	SCONJ	_	18	ccomp	_	_	살해/ncpa+하/xsv+었/ep+는데/ecs
+9	그	그	DET	_	10	det	_	_	그/mmd
+10	중	중	NOUN	_	12	mark	_	_	중/nbn
+11	3	3	NUM	_	12	nummod	_	_	3/nnc
+12	만명이나	만+명+이나	ADV	_	13	advcl	_	_	만/nnc+명/nbu+이나/jxc
+13	되는	되+는	VERB	_	14	acl	_	_	되/pvg+는/etm
+14	사람이	사람+이	NOUN	_	18	nsubj	_	_	사람/ncn+이/jcs
+15	산	살+ㄴ	VERB	_	16	acl	_	_	살/pvg+ㄴ/etm
+16	채로	채+로	ADV	_	18	advcl	_	_	채/nbn+로/jca
+17	화장	화장	NOUN	_	18	dep	_	_	화장/ncpa
+18	당했다	당하+었+다	VERB	_	0	root	_	_	당하/pvg+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 러시아에서 1905년 혁명이 진압되고 난 후 수만명이 특별군사 법정에 의해 총살에 처해졌다 .
+1	러시아에서	러시아+에서	ADV	_	4	advcl	_	_	러시아/nq+에서/jca
+2	1905년	1905+년	NOUN	_	4	advmod	_	_	1905/nno+년/nbu
+3	혁명이	혁명+이	NOUN	_	4	nsubj	_	_	혁명/ncpa+이/jcs
+4	진압되고	진압+되+고	VERB	_	6	acl	_	_	진압/ncpa+되/xsv+고/ecx
+5	난	나+ㄴ	AUX	_	4	aux	_	_	나/px+ㄴ/etm
+6	후	후	NOUN	_	12	advmod	_	_	후/ncn
+7	수만명이	수만+명+이	NUM	_	12	nsubj	_	_	수만/nnc+명/nbu+이/jcs
+8	특별군사	특별+군사	NOUN	_	9	compound	_	_	특별/ncps+군사/ncn
+9	법정에	법정+에	ADV	_	10	obl	_	_	법정/ncn+에/jca
+10	의해	의하+어	SCONJ	_	12	ccomp	_	_	의하/pvg+어/ecs
+11	총살에	총살+에	ADV	_	12	obl	_	_	총살/ncpa+에/jca
+12	처해졌다	처하+어+지+었+다	AUX	_	0	root	_	_	처하/pvg+어/ecx+지/px+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 스탈린주의자들이 저지른 테러의 규모는 도저히 헤아릴 수 없을 정도로 엄청나다 .
+1	스탈린주의자들이	스탈린주의자+들+이	NOUN	_	2	nsubj	_	_	스탈린주의자/ncn+들/xsn+이/jcs
+2	저지른	저지르+ㄴ	VERB	_	3	acl	_	_	저지르/pvg+ㄴ/etm
+3	테러의	테러+의	NOUN	_	4	nmod	_	_	테러/ncn+의/jcm
+4	규모는	규모+는	NOUN	_	6	dislocated	_	_	규모/ncn+는/jxt
+5	도저히	도저히	ADV	_	6	advmod	_	_	도저히/mag
+6	헤아릴	헤아리+ㄹ	VERB	_	9	acl	_	_	헤아리/pvg+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	없을	없+ㄹ	ADJ	_	6	aux	_	_	없/paa+ㄹ/etm
+9	정도로	정도+로	ADV	_	10	advcl	_	_	정도/ncn+로/jca
+10	엄청나다	엄청나+다	ADJ	_	0	root	_	_	엄청나/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 1937년에 이 수는 35만 3천 680명으로 증가한다 .
+1	1937년에	1937+년+에	ADV	_	7	obl	_	_	1937/nno+년/nbu+에/jca
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	수는	수+는	NOUN	_	7	dislocated	_	_	수/ncn+는/jxt
+4	35만	35+만	NUM	_	6	compound	_	_	35/nnc+만/nnc
+5	3천	3+천	NOUN	_	6	compound	_	_	3/nnc+천/ncn
+6	680명으로	680+명+으로	ADV	_	7	advcl	_	_	680/nnc+명/nbu+으로/jca
+7	증가한다	증가+하+ㄴ다	VERB	_	0	root	_	_	증가/ncpa+하/xsv+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 1938년의 수치를 알 수는 없지만 약 20만명에서 30만명 정도로 가해 보는 것도 거의 틀리지 않을 것이다 .
+1	1938년의	1938+년+의	NUM	_	2	nmod	_	_	1938/nno+년/nbu+의/jcm
+2	수치를	수치+를	NOUN	_	3	obj	_	_	수치/ncn+를/jco
+3	알	알+ㄹ	VERB	_	14	ccomp	_	_	알/pvg+ㄹ/etm
+4	수는	수+는	NOUN	_	5	fixed	_	_	수/nbn+는/jxt
+5	없지만	없+지만	SCONJ	_	3	aux	_	_	없/paa+지만/ecs
+6	약	약	ADJ	_	9	amod	_	_	약/mma
+7	20만명에서	20+만+명+에서	ADV	_	8	advcl	_	_	20/nnc+만/nnc+명/nbu+에서/jca
+8	30만명	30+만+명	NOUN	_	9	compound	_	_	30/nnc+만/nnc+명/nbu
+9	정도로	정도+로	ADV	_	10	advcl	_	_	정도/ncn+로/jca
+10	가해	가하+어	VERB	_	12	acl	_	_	가하/pvg+어/ecx
+11	보는	보+는	AUX	_	10	aux	_	_	보/px+는/etm
+12	것도	것+도	ADV	_	14	advcl	_	_	것/nbn+도/jxc
+13	거의	거의	ADV	_	14	advmod	_	_	거의/mag
+14	틀리지	틀리+지	VERB	_	0	root	_	_	틀리/pvg+지/ecx
+15	않을	않+ㄹ	AUX	_	14	aux	_	_	않/px+ㄹ/etm
+16	것이다	것+이+다	VERB	_	14	aux	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이 3년 동안에 적어도 총 5백만 명이나 되는 사람들이 정치적인 이유로 체포 당했다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	3년	3+년	NOUN	_	3	compound	_	_	3/nnc+년/nbu
+3	동안에	동안+에	ADV	_	13	obl	_	_	동안/nbn+에/jca
+4	적어도	적어도	ADV	_	7	advmod	_	_	적어도/mag
+5	총	총	ADJ	_	7	amod	_	_	총/mma
+6	5백만	5+백만	NUM	_	7	compound	_	_	5/nnc+백만/nnc
+7	명이나	명+이나	ADV	_	8	advcl	_	_	명/nbu+이나/jxc
+8	되는	되+는	VERB	_	9	acl	_	_	되/pvg+는/etm
+9	사람들이	사람+들+이	NOUN	_	13	nsubj	_	_	사람/ncn+들/xsn+이/jcs
+10	정치적인	정치+적+이+ㄴ	VERB	_	11	acl	_	_	정치/ncpa+적/xsn+이/jp+ㄴ/etm
+11	이유로	이유+로	ADV	_	13	advcl	_	_	이유/ncn+로/jca
+12	체포	체포	NOUN	_	13	dep	_	_	체포/ncpa
+13	당했다	당하+었+다	VERB	_	0	root	_	_	당하/pvg+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 기록을 조사해 보면 NKVD의 중앙 형무소인 루비얀까만을 보더라도 하루당 2 백이 넘는 사람들이 처형된 것을 알 수 있었다 .
+1	기록을	기록+을	NOUN	_	2	obj	_	_	기록/ncpa+을/jco
+2	조사해	조사+하+어	VERB	_	16	ccomp	_	_	조사/ncpa+하/xsv+어/ecx
+3	보면	보+면	SCONJ	_	2	aux	_	_	보/px+면/ecs
+4	NKVD의	NKVD+의	NOUN	_	6	nmod	_	_	NKVD/f+의/jcm
+5	중앙	중앙	NOUN	_	6	compound	_	_	중앙/ncn
+6	형무소인	형무소+이+ㄴ	VERB	_	7	acl	_	_	형무소/ncn+이/jp+ㄴ/etm
+7	루비얀까만을	루비얀까만+을	PROPN	_	8	obj	_	_	루비얀까만/nq+을/jco
+8	보더라도	보+더라+도	ADV	_	14	ccomp	_	_	보/pvg+더라/ecs+도/jxc
+9	하루당	하루+당	NOUN	_	13	advmod	_	_	하루/ncn+당/xsn
+10	2	2	NUM	_	11	nummod	_	_	2/nnc
+11	백이	백+이	NUM	_	12	nsubj	_	_	백/nnc+이/jcs
+12	넘는	넘+는	VERB	_	13	acl	_	_	넘/pvg+는/etm
+13	사람들이	사람+들+이	NOUN	_	14	nsubj	_	_	사람/ncn+들/xsn+이/jcs
+14	처형된	처형+되+ㄴ	VERB	_	15	acl	_	_	처형/ncpa+되/xsv+ㄴ/etm
+15	것을	것+을	NOUN	_	16	obj	_	_	것/nbn+을/jco
+16	알	알+ㄹ	VERB	_	0	root	_	_	알/pvg+ㄹ/etm
+17	수	수	NOUN	_	18	fixed	_	_	수/nbn
+18	있었다	있+었+다	ADJ	_	16	aux	_	_	있/paa+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이것은 단순한 개울이 아니다 .
+1	이것은	이것+은	PRON	_	4	dislocated	_	_	이것/npd+은/jxt
+2	단순한	단순+하+ㄴ	VERB	_	3	amod	_	_	단순/ncps+하/xsm+ㄴ/etm
+3	개울이	개울+이	NOUN	_	4	nsubj	_	_	개울/ncn+이/jcs
+4	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 피 , 그것도 소비에트 시민들의 피가 흐르는 강물인 것이다 .
+1	피	피	NOUN	_	6	compound	_	_	피/ncn
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	그것도	그것+도	ADV	_	6	advcl	_	_	그것/npd+도/jxc
+4	소비에트	소비에트	PROPN	_	5	compound	_	_	소비에트/nq
+5	시민들의	시민+들+의	NOUN	_	6	nmod	_	_	시민/ncn+들/xsn+의/jcm
+6	피가	피+가	NOUN	_	7	nsubj	_	_	피/ncn+가/jcs
+7	흐르는	흐르+는	VERB	_	8	ccomp	_	_	흐르/pvg+는/etm
+8	강물인	강물+이+ㄴ	VERB	_	9	ccomp	_	_	강물/ncn+이/jp+ㄴ/etm
+9	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 역사적 현실을 통해 배우지 않는다면 이론의 할 일이란 도대체 무엇이란 말인가 ?
+1	역사적	역사+적	NOUN	_	2	amod	_	_	역사/ncn+적/xsn
+2	현실을	현실+을	NOUN	_	3	obj	_	_	현실/ncn+을/jco
+3	통해	통하+어	SCONJ	_	4	ccomp	_	_	통하/pvg+어/ecs
+4	배우지	배우+지	VERB	_	10	ccomp	_	_	배우/pvg+지/ecx
+5	않는다면	않+는다면	SCONJ	_	4	aux	_	_	않/px+는다면/ecs
+6	이론의	이론+의	NOUN	_	8	nmod	_	_	이론/ncn+의/jcm
+7	할	하+ㄹ	VERB	_	8	acl	_	_	하/pvg+ㄹ/etm
+8	일이란	일+이란	ADV	_	10	advcl	_	_	일/ncpa+이란/jxc
+9	도대체	도대체	ADV	_	10	advmod	_	_	도대체/mag
+10	무엇이란	무엇+이+란	VERB	_	11	ccomp	_	_	무엇/npd+이/jp+란/etm
+11	말인가	말+이+ㄴ가	VERB	_	0	root	_	_	말/ncpa+이/jp+ㄴ가/ef
+12	?	?	PUNCT	_	11	punct	_	_	?/sf
+
+# 한편으로 스탈린은 자신의 이러한 범죄행위를 합리화하고 허위의식화 즉 , 이데올로기를 조장하였다 .
+1	한편으로	한편+으로	ADV	_	11	advcl	_	_	한편/ncn+으로/jca
+2	스탈린은	스탈린+은	PROPN	_	11	dislocated	_	_	스탈린/nq+은/jxt
+3	자신의	자신+의	NOUN	_	5	nmod	_	_	자신/ncn+의/jcm
+4	이러한	이러하+ㄴ	VERB	_	5	amod	_	_	이러하/pad+ㄴ/etm
+5	범죄행위를	범죄+행위+를	NOUN	_	6	obj	_	_	범죄/ncpa+행위/ncn+를/jco
+6	합리화하고	합리화+하+고	CCONJ	_	11	conj	_	_	합리화/ncpa+하/xsv+고/ecc
+7	허위의식화	허위의식화	NOUN	_	10	conj	_	_	허위의식화/ncn
+8	즉	즉	CCONJ	_	9	cc	_	_	즉/maj
+9	,	,	PUNCT	_	7	punct	_	_	,/sp
+10	이데올로기를	이데올로기+를	NOUN	_	11	obj	_	_	이데올로기/ncn+를/jco
+11	조장하였다	조장+하+었+다	VERB	_	0	root	_	_	조장/ncpa+하/xsv+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 스탈린의 이러한 과학적 사회주의의 이데올로기화는 이미 그의 성장과정과 당에 대한 그의 독특한 견해에서 그 배경을 발견할 수 있다 .
+1	스탈린의	스탈린+의	PROPN	_	5	nmod	_	_	스탈린/nq+의/jcm
+2	이러한	이러하+ㄴ	VERB	_	5	amod	_	_	이러하/pad+ㄴ/etm
+3	과학적	과학+적	NOUN	_	4	amod	_	_	과학/ncn+적/xsn
+4	사회주의의	사회주의+의	NOUN	_	5	nmod	_	_	사회주의/ncn+의/jcm
+5	이데올로기화는	이데올로기화+는	NOUN	_	16	dislocated	_	_	이데올로기화/ncn+는/jxt
+6	이미	이미	ADV	_	16	advmod	_	_	이미/mag
+7	그의	그+의	PRON	_	8	nmod	_	_	그/npp+의/jcm
+8	성장과정과	성장+과정+과	CCONJ	_	13	conj	_	_	성장/ncpa+과정/ncn+과/jcj
+9	당에	당+에	ADV	_	10	obl	_	_	당/ncn+에/jca
+10	대한	대하+ㄴ	VERB	_	13	acl	_	_	대하/pvg+ㄴ/etm
+11	그의	그+의	PRON	_	13	nmod	_	_	그/npp+의/jcm
+12	독특한	독특+하+ㄴ	VERB	_	13	amod	_	_	독특/ncps+하/xsm+ㄴ/etm
+13	견해에서	견해+에서	ADV	_	16	advcl	_	_	견해/ncn+에서/jca
+14	그	그	DET	_	15	det	_	_	그/mmd
+15	배경을	배경+을	NOUN	_	16	obj	_	_	배경/ncn+을/jco
+16	발견할	발견+하+ㄹ	VERB	_	0	root	_	_	발견/ncpa+하/xsv+ㄹ/etm
+17	수	수	NOUN	_	18	fixed	_	_	수/nbn
+18	있다	있+다	ADJ	_	16	aux	_	_	있/paa+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 아버지는 종교에 대하여 어떠한 호의적인 태도도 보이지 않았다 .
+1	아버지는	아버지+는	NOUN	_	7	dislocated	_	_	아버지/ncn+는/jxt
+2	종교에	종교+에	ADV	_	3	obl	_	_	종교/ncn+에/jca
+3	대하여	대하+어	SCONJ	_	7	ccomp	_	_	대하/pvg+어/ecs
+4	어떠한	어떠하+ㄴ	VERB	_	6	amod	_	_	어떠하/pad+ㄴ/etm
+5	호의적인	호의+적+이+ㄴ	VERB	_	6	acl	_	_	호의/ncn+적/xsn+이/jp+ㄴ/etm
+6	태도도	태도+도	ADV	_	7	advcl	_	_	태도/ncn+도/jxc
+7	보이지	보이+지	VERB	_	0	root	_	_	보이/pvg+지/ecx
+8	않았다	않+았+다	AUX	_	7	aux	_	_	않/px+았/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 스탈린이 검기사의 엄격한 위계질서 즉 , 네가지 층위로 엄격하게 구분되어 생활하는 그들의 생활방식에 큰 감명을 받았으리라는 것은 의문의 여지가 없다 .
+1	스탈린이	스탈린+이	PROPN	_	16	nsubj	_	_	스탈린/nq+이/jcs
+2	검기사의	검기사+의	NOUN	_	4	nmod	_	_	검기사/ncn+의/jcm
+3	엄격한	엄격+하+ㄴ	VERB	_	4	amod	_	_	엄격/ncps+하/xsm+ㄴ/etm
+4	위계질서	위계+질서	NOUN	_	13	conj	_	_	위계/ncn+질서/ncn
+5	즉	즉	CCONJ	_	6	cc	_	_	즉/maj
+6	,	,	PUNCT	_	4	punct	_	_	,/sp
+7	네가지	네+가지	NOUN	_	8	compound	_	_	네/nnc+가지/nbu
+8	층위로	층위+로	ADV	_	10	advcl	_	_	층위/ncn+로/jca
+9	엄격하게	엄격+하+게	SCONJ	_	10	xcomp	_	_	엄격/ncps+하/xsm+게/ecs
+10	구분되어	구분+되+어	SCONJ	_	11	ccomp	_	_	구분/ncpa+되/xsv+어/ecs
+11	생활하는	생활+하+는	VERB	_	13	acl	_	_	생활/ncpa+하/xsv+는/etm
+12	그들의	그+들+의	PRON	_	13	nmod	_	_	그/npp+들/xsn+의/jcm
+13	생활방식에	생활+방식+에	ADV	_	16	obl	_	_	생활/ncpa+방식/ncn+에/jca
+14	큰	크+ㄴ	ADJ	_	15	amod	_	_	크/paa+ㄴ/etm
+15	감명을	감명+을	NOUN	_	16	obj	_	_	감명/ncpa+을/jco
+16	받았으리라는	받+았+으리라는	VERB	_	17	acl	_	_	받/pvg+았/ep+으리라는/etm
+17	것은	것+은	NOUN	_	20	dislocated	_	_	것/nbn+은/jxt
+18	의문의	의문+의	NOUN	_	19	nmod	_	_	의문/ncn+의/jcm
+19	여지가	여지+가	NOUN	_	20	nsubj	_	_	여지/ncn+가/jcs
+20	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그는 30년대 말에도 이와 비슷한 생각을 친구들에게 털어놓은 적이 있다 .
+1	그는	그+는	PRON	_	10	dislocated	_	_	그/npp+는/jxt
+2	30년대	30+년대	NOUN	_	3	compound	_	_	30/nno+년대/nbu
+3	말에도	말+에+도	ADV	_	10	advcl	_	_	말/ncn+에/jca+도/jxc
+4	이와	이+와	CCONJ	_	5	conj	_	_	이/npd+와/jct
+5	비슷한	비슷하+ㄴ	ADJ	_	6	amod	_	_	비슷하/paa+ㄴ/etm
+6	생각을	생각+을	NOUN	_	8	obj	_	_	생각/ncpa+을/jco
+7	친구들에게	친구+들+에게	ADV	_	8	iobj	_	_	친구/ncn+들/xsn+에게/jca
+8	털어놓은	털+어+놓+ㄴ	AUX	_	9	acl	_	_	털/pvg+어/ecx+놓/px+ㄴ/etm
+9	적이	적+이	NOUN	_	10	nsubj	_	_	적/nbn+이/jcs
+10	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+

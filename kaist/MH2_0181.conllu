@@ -1,0 +1,3795 @@
+# 그러나 그중에서 가장 중심이 되는 것은 무엇일까 ?
+1	그러나	그러나	CCONJ	_	7	cc	_	_	그러나/maj
+2	그중에서	그+중+에서	ADV	_	5	advcl	_	_	그/npd+중/xsn+에서/jca
+3	가장	가장	ADV	_	5	advmod	_	_	가장/mag
+4	중심이	중심+이	NOUN	_	5	csubj	_	_	중심/ncn+이/jcc
+5	되는	되+는	VERB	_	6	acl	_	_	되/pvg+는/etm
+6	것은	것+은	NOUN	_	7	dislocated	_	_	것/nbn+은/jxt
+7	무엇일까	무엇+이+ㄹ까	VERB	_	0	root	_	_	무엇/npd+이/jp+ㄹ까/ef
+8	?	?	PUNCT	_	7	punct	_	_	?/sf
+
+# 분명한 것은 이젠 자본주의나 사회주의를 불문하고 국제정치의 역학관계가 경제력을 배경으로 새롭게 결정되는 시대가 되었다는 것이다 .
+1	분명한	분명하+ㄴ	ADJ	_	2	amod	_	_	분명하/paa+ㄴ/etm
+2	것은	것+은	NOUN	_	14	dislocated	_	_	것/nbn+은/jxt
+3	이젠	이제+ㄴ	NOUN	_	14	advmod	_	_	이제/mag+ㄴ/jxt
+4	자본주의나	자본주의+나	CCONJ	_	5	conj	_	_	자본주의/ncn+나/jcj
+5	사회주의를	사회주의+를	NOUN	_	6	obj	_	_	사회주의/ncn+를/jco
+6	불문하고	불문+하+고	CCONJ	_	14	conj	_	_	불문/ncpa+하/xsv+고/ecc
+7	국제정치의	국제+정치+의	NOUN	_	8	nmod	_	_	국제/ncn+정치/ncpa+의/jcm
+8	역학관계가	역학+관계+가	NOUN	_	10	nsubj	_	_	역학/ncn+관계/ncpa+가/jcs
+9	경제력을	경제력+을	NOUN	_	10	obj	_	_	경제력/ncn+을/jco
+10	배경으로	배경+으로	ADV	_	12	advcl	_	_	배경/ncn+으로/jca
+11	새롭게	새롭+게	SCONJ	_	12	xcomp	_	_	새롭/paa+게/ecs
+12	결정되는	결정+되+는	VERB	_	13	acl	_	_	결정/ncpa+되/xsv+는/etm
+13	시대가	시대+가	NOUN	_	14	csubj	_	_	시대/ncn+가/jcc
+14	되었다는	되+었+다는	VERB	_	0	root	_	_	되/pvg+었/ep+다는/etm
+15	것이다	것+이+다	VERB	_	14	aux	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그렇다면 이러한 경제력의 부침을 결정하는 관건은 무엇인가 ?
+1	그렇다면	그렇다면	CCONJ	_	7	cc	_	_	그렇다면/maj
+2	이러한	이러하+ㄴ	VERB	_	4	amod	_	_	이러하/pad+ㄴ/etm
+3	경제력의	경제력+의	NOUN	_	4	nmod	_	_	경제력/ncn+의/jcm
+4	부침을	부침+을	NOUN	_	5	obj	_	_	부침/ncn+을/jco
+5	결정하는	결정+하+는	VERB	_	6	acl	_	_	결정/ncpa+하/xsv+는/etm
+6	관건은	관건+은	NOUN	_	7	dislocated	_	_	관건/ncn+은/jxt
+7	무엇인가	무엇+이+ㄴ가	VERB	_	0	root	_	_	무엇/npd+이/jp+ㄴ가/ef
+8	?	?	PUNCT	_	7	punct	_	_	?/sf
+
+# 그것은 다름아닌 ' 기술력 ' 이다 .
+1	그것은	그것+은	PRON	_	4	dislocated	_	_	그것/npd+은/jxt
+2	다름아닌	다름아니+ㄴ	ADJ	_	4	amod	_	_	다름아니/paa+ㄴ/etm
+3	'	'	PUNCT	_	4	punct	_	_	'/sl
+4	기술력	기술력	NOUN	_	0	root	_	_	기술력/ncn
+5	'	'	PUNCT	_	4	punct	_	_	'/sr
+6	이다	이+다	ADP	_	4	cop	_	_	이/jp+다/ef
+7	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 이는 경제대국으로 부상한 일본의 예에서도 찾아볼 수 있는 것이다 .
+1	이는	이+는	PRON	_	6	dislocated	_	_	이/npd+는/jxt
+2	경제대국으로	경제+대국+으로	ADV	_	3	advcl	_	_	경제/ncn+대국/ncn+으로/jca
+3	부상한	부상+하+ㄴ	VERB	_	4	acl	_	_	부상/ncpa+하/xsv+ㄴ/etm
+4	일본의	일본+의	PROPN	_	5	nmod	_	_	일본/nq+의/jcm
+5	예에서도	예+에서+도	ADV	_	6	advcl	_	_	예/ncn+에서/jca+도/jxc
+6	찾아볼	찾+아+보+ㄹ	AUX	_	0	root	_	_	찾/pvg+아/ecx+보/px+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	있는	있+는	ADJ	_	6	aux	_	_	있/paa+는/etm
+9	것이다	것+이+다	VERB	_	6	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러나 기술이라는 관점을 통해 역사를 파악하는 이러한 인식이 사실 오늘날에만 적용될 수 있는 것은 아니다 .
+1	그러나	그러나	CCONJ	_	11	cc	_	_	그러나/maj
+2	기술이라는	기술+이+라는	VERB	_	3	acl	_	_	기술/ncpa+이/jp+라는/etm
+3	관점을	관점+을	NOUN	_	4	obj	_	_	관점/ncn+을/jco
+4	통해	통하+어	SCONJ	_	6	ccomp	_	_	통하/pvg+어/ecs
+5	역사를	역사+를	NOUN	_	6	obj	_	_	역사/ncn+를/jco
+6	파악하는	파악+하+는	VERB	_	8	acl	_	_	파악/ncpa+하/xsv+는/etm
+7	이러한	이러하+ㄴ	VERB	_	8	amod	_	_	이러하/pad+ㄴ/etm
+8	인식이	인식+이	NOUN	_	11	nsubj	_	_	인식/ncpa+이/jcs
+9	사실	사실	ADV	_	11	advmod	_	_	사실/mag
+10	오늘날에만	오늘날+에+만	ADV	_	11	advcl	_	_	오늘날/ncn+에/jca+만/jxc
+11	적용될	적용+되+ㄹ	VERB	_	0	root	_	_	적용/ncpa+되/xsv+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있는	있+는	ADJ	_	11	aux	_	_	있/paa+는/etm
+14	것은	것+은	NOUN	_	15	fixed	_	_	것/nbn+은/jxt
+15	아니다	아니+다	ADJ	_	11	aux	_	_	아니/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 역사적으로 강국의 부상은 수많은 전쟁을 통해 결정되어졌다 .
+1	역사적으로	역사+적+으로	ADV	_	7	advcl	_	_	역사/ncn+적/xsn+으로/jca
+2	강국의	강국+의	NOUN	_	3	nmod	_	_	강국/ncn+의/jcm
+3	부상은	부상+은	NOUN	_	7	dislocated	_	_	부상/ncpa+은/jxt
+4	수많은	수많+ㄴ	ADJ	_	5	amod	_	_	수많/paa+ㄴ/etm
+5	전쟁을	전쟁+을	NOUN	_	6	obj	_	_	전쟁/ncpa+을/jco
+6	통해	통하+어	SCONJ	_	7	ccomp	_	_	통하/pvg+어/ecs
+7	결정되어졌다	결정+되+어+지+었+다	AUX	_	0	root	_	_	결정/ncpa+되/xsv+어/ecx+지/px+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 표면적으로 볼 때 , 전쟁의 승패를 결정하는 것은 무력 , 즉 군사력이었으며 그것을 유지 증강시키는 것은 경제력이었다 .
+1	표면적으로	표면+적+으로	ADV	_	2	advcl	_	_	표면/ncn+적/xsn+으로/jca
+2	볼	보+ㄹ	VERB	_	3	acl	_	_	보/pvg+ㄹ/etm
+3	때	때	NOUN	_	17	advmod	_	_	때/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	전쟁의	전쟁+의	NOUN	_	6	nmod	_	_	전쟁/ncpa+의/jcm
+6	승패를	승패+를	NOUN	_	7	obj	_	_	승패/ncn+를/jco
+7	결정하는	결정+하+는	VERB	_	8	acl	_	_	결정/ncpa+하/xsv+는/etm
+8	것은	것+은	NOUN	_	12	dislocated	_	_	것/nbn+은/jxt
+9	무력	무력	NOUN	_	12	compound	_	_	무력/ncn
+10	,	,	PUNCT	_	12	punct	_	_	,/sp
+11	즉	즉	CCONJ	_	12	cc	_	_	즉/maj
+12	군사력이었으며	군사력+이+었+으며	CCONJ	_	17	conj	_	_	군사력/ncn+이/jp+었/ep+으며/ecc
+13	그것을	그것+을	PRON	_	15	obj	_	_	그것/npd+을/jco
+14	유지	유지	NOUN	_	15	compound	_	_	유지/ncpa
+15	증강시키는	증강+시키+는	VERB	_	16	acl	_	_	증강/ncpa+시키/xsv+는/etm
+16	것은	것+은	NOUN	_	17	dislocated	_	_	것/nbn+은/jxt
+17	경제력이었다	경제력+이+었+다	VERB	_	0	root	_	_	경제력/ncn+이/jp+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그러나 그 밑바탕을 형성하는 것은 바로 기술력의 격차라고 할 수 있다 .
+1	그러나	그러나	CCONJ	_	9	cc	_	_	그러나/maj
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	밑바탕을	밑바탕+을	NOUN	_	4	obj	_	_	밑바탕/ncn+을/jco
+4	형성하는	형성+하+는	VERB	_	5	acl	_	_	형성/ncpa+하/xsv+는/etm
+5	것은	것+은	NOUN	_	8	dislocated	_	_	것/nbn+은/jxt
+6	바로	바로	ADV	_	8	advmod	_	_	바로/mag
+7	기술력의	기술력+의	NOUN	_	8	nmod	_	_	기술력/ncn+의/jcm
+8	격차라고	격차+이+라+고	VERB	_	9	conj	_	_	격차/ncn+이/jp+라/ef+고/jcr
+9	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있다	있+다	ADJ	_	9	aux	_	_	있/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그것은 그전까지 선진지역이었던 중국이 정체하고 영국이 크게 일어나기 시작한 전환의 시기였다 .
+1	그것은	그것+은	PRON	_	11	dislocated	_	_	그것/npd+은/jxt
+2	그전까지	그전+까지	ADV	_	3	advcl	_	_	그전/ncn+까지/jxc
+3	선진지역이었던	선진+지역+이+었+던	VERB	_	4	acl	_	_	선진/ncn+지역/ncn+이/jp+었/ep+던/etm
+4	중국이	중국+이	PROPN	_	5	nsubj	_	_	중국/nq+이/jcs
+5	정체하고	정체+하+고	CCONJ	_	8	conj	_	_	정체/ncpa+하/xsv+고/ecc
+6	영국이	영국+이	PROPN	_	8	nsubj	_	_	영국/nq+이/jcs
+7	크게	크+게	SCONJ	_	8	xcomp	_	_	크/paa+게/ecs
+8	일어나기	일어나+기	VERB	_	9	nmod	_	_	일어나/pvg+기/etn
+9	시작한	시작+하+ㄴ	VERB	_	10	acl	_	_	시작/ncpa+하/xsv+ㄴ/etm
+10	전환의	전환+의	NOUN	_	11	nmod	_	_	전환/ncpa+의/jcm
+11	시기였다	시기+이+었+다	VERB	_	0	root	_	_	시기/ncn+이/jp+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그렇다면 어떻게 자그마한 섬나라에 불과한 영국이 해가 지지 않는 나라를 만들며 ' 팩스 브리태니카시대 ' 를 이끌 수 있었을까 ?
+1	그렇다면	그렇다면	CCONJ	_	17	cc	_	_	그렇다면/maj
+2	어떻게	어떻+게	SCONJ	_	17	xcomp	_	_	어떻/pad+게/ecs
+3	자그마한	자그마하+ㄴ	ADJ	_	4	amod	_	_	자그마하/paa+ㄴ/etm
+4	섬나라에	섬나라+에	ADV	_	5	obl	_	_	섬나라/ncn+에/jca
+5	불과한	불과하+ㄴ	ADJ	_	6	amod	_	_	불과하/paa+ㄴ/etm
+6	영국이	영국+이	PROPN	_	17	nsubj	_	_	영국/nq+이/jcs
+7	해가	해+가	NOUN	_	8	nsubj	_	_	해/ncn+가/jcs
+8	지지	지+지	VERB	_	10	acl	_	_	지/pvg+지/ecx
+9	않는	않+는	AUX	_	8	aux	_	_	않/px+는/etm
+10	나라를	나라+를	NOUN	_	11	obj	_	_	나라/ncn+를/jco
+11	만들며	만들+며	CCONJ	_	17	conj	_	_	만들/pvg+며/ecc
+12	'	'	PUNCT	_	14	punct	_	_	'/sl
+13	팩스	팩스	PROPN	_	14	flat	_	_	팩스/nq
+14	브리태니카시대	브리태니카+시대	NOUN	_	17	obj	_	_	브리태니카/nq+시대/ncn
+15	'	'	PUNCT	_	14	punct	_	_	'/sr
+16	를	를	ADP	_	14	case	_	_	를/jco
+17	이끌	이끌+ㄹ	VERB	_	0	root	_	_	이끌/pvg+ㄹ/etm
+18	수	수	NOUN	_	19	fixed	_	_	수/nbn
+19	있었을까	있+었+ㄹ까	ADJ	_	17	aux	_	_	있/paa+었/ep+ㄹ까/ef
+20	?	?	PUNCT	_	19	punct	_	_	?/sf
+
+# 그것은 바로 인류역사상 최대의 전환점이며 현대문명의 원동력이 된 산업혁명 때문이었다 .
+1	그것은	그것+은	PRON	_	10	dislocated	_	_	그것/npd+은/jxt
+2	바로	바로	ADV	_	10	advmod	_	_	바로/mag
+3	인류역사상	인류+역사상	NOUN	_	4	compound	_	_	인류/ncn+역사상/ncn
+4	최대의	최대+의	NOUN	_	5	nmod	_	_	최대/ncn+의/jcm
+5	전환점이며	전환점+이+며	CCONJ	_	8	conj	_	_	전환점/ncn+이/jp+며/ecc
+6	현대문명의	현대+문명+의	NOUN	_	7	nmod	_	_	현대/ncn+문명/ncn+의/jcm
+7	원동력이	원동력+이	NOUN	_	8	csubj	_	_	원동력/ncn+이/jcc
+8	된	되+ㄴ	VERB	_	9	acl	_	_	되/pvg+ㄴ/etm
+9	산업혁명	산업혁명	PROPN	_	10	compound	_	_	산업혁명/nq
+10	때문이었다	때문+이+었+다	VERB	_	0	root	_	_	때문/nbn+이/jp+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 영국은 당시 기술자 계층이랄 수 있는 위그노 ( 프랑스의 신교도 ) 이민을 받아들이면서 배양된 기술력 등을 축적하여 마침내 산업혁명을 이루어냈던 것이다 .
+1	영국은	영국+은	PROPN	_	20	dislocated	_	_	영국/nq+은/jxt
+2	당시	당시	NOUN	_	4	advmod	_	_	당시/ncn
+3	기술자	기술자	NOUN	_	4	compound	_	_	기술자/ncn
+4	계층이랄	계층+이+랄	VERB	_	7	acl	_	_	계층/ncn+이/jp+랄/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	있는	있+는	ADJ	_	4	aux	_	_	있/paa+는/etm
+7	위그노	위그노	PROPN	_	12	compound	_	_	위그노/nq
+8	(	(	PUNCT	_	10	punct	_	_	(/sl
+9	프랑스의	프랑스+의	PROPN	_	10	nmod	_	_	프랑스/nq+의/jcm
+10	신교도	신교도	NOUN	_	7	appos	_	_	신교도/ncn
+11	)	)	PUNCT	_	10	punct	_	_	)/sr
+12	이민을	이민+을	NOUN	_	13	obj	_	_	이민/ncpa+을/jco
+13	받아들이면서	받아들이+면서	CCONJ	_	14	conj	_	_	받아들이/pvg+면서/ecc
+14	배양된	배양+되+ㄴ	VERB	_	15	acl	_	_	배양/ncpa+되/xsv+ㄴ/etm
+15	기술력	기술력	NOUN	_	16	compound	_	_	기술력/ncn
+16	등을	등+을	NOUN	_	17	obj	_	_	등/nbn+을/jco
+17	축적하여	축적+하+어	SCONJ	_	20	ccomp	_	_	축적/ncpa+하/xsv+어/ecs
+18	마침내	마침내	ADV	_	20	advmod	_	_	마침내/mag
+19	산업혁명을	산업혁명+을	PROPN	_	20	obj	_	_	산업혁명/nq+을/jco
+20	이루어냈던	이루+어+내+ㅆ+던	AUX	_	0	root	_	_	이루/pvg+어/ecx+내/px+ㅆ/ep+던/etm
+21	것이다	것+이+다	VERB	_	20	aux	_	_	것/nbn+이/jp+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 산업혁명에 있어서 근본적인 기술혁신은 ' 증기기관의 발명 ' 이었다 .
+1	산업혁명에	산업혁명+에	ADV	_	2	obl	_	_	산업혁명/nq+에/jca
+2	있어서	있+어서	SCONJ	_	7	xcomp	_	_	있/paa+어서/ecs
+3	근본적인	근본+적+이+ㄴ	VERB	_	4	acl	_	_	근본/ncn+적/xsn+이/jp+ㄴ/etm
+4	기술혁신은	기술+혁신+은	NOUN	_	7	dislocated	_	_	기술/ncn+혁신/ncn+은/jxt
+5	'	'	PUNCT	_	6	punct	_	_	'/sl
+6	증기기관의	증기+기관+의	NOUN	_	7	nmod	_	_	증기/ncn+기관/ncn+의/jcm
+7	발명	발명	NOUN	_	0	root	_	_	발명/ncpa
+8	'	'	PUNCT	_	7	punct	_	_	'/sr
+9	이었다	이+었+다	ADP	_	7	cop	_	_	이/jp+었/ep+다/ef
+10	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 거기에는 두 가지의 기술혁명적 요소가 들어있는데 , 하나는 에너지 혁명이며 다른 하나는 교통혁명이다 .
+1	거기에는	거기+에+는	PRON	_	6	dislocated	_	_	거기/npd+에/jca+는/jxt
+2	두	두	NUM	_	3	nummod	_	_	두/nnc
+3	가지의	가지+의	NOUN	_	5	nmod	_	_	가지/nbu+의/jcm
+4	기술혁명적	기술+혁명+적	NOUN	_	5	amod	_	_	기술/ncn+혁명/ncn+적/xsn
+5	요소가	요소+가	NOUN	_	6	nsubj	_	_	요소/ncn+가/jcs
+6	들어있는데	들어있+는데	SCONJ	_	13	ccomp	_	_	들어있/pvg+는데/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	하나는	하나+는	NUM	_	10	dislocated	_	_	하나/nnc+는/jxt
+9	에너지	에너지	NOUN	_	10	compound	_	_	에너지/ncn
+10	혁명이며	혁명+이+며	CCONJ	_	13	conj	_	_	혁명/ncn+이/jp+며/ecc
+11	다른	다른	ADJ	_	12	amod	_	_	다른/mma
+12	하나는	하나+는	NUM	_	13	dislocated	_	_	하나/nnc+는/jxt
+13	교통혁명이다	교통+혁명+이+다	VERB	_	0	root	_	_	교통/ncn+혁명/ncn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 즉 , 그때까지 자연에 존재하는 에너지를 이용해 오던 방식에서 운반 가능한 인위적인 에너지 , 즉 전력을 얻을 수 있게 된 것이다 .
+1	즉	즉	CCONJ	_	17	cc	_	_	즉/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	그때까지	그때+까지	ADV	_	5	advcl	_	_	그때/ncn+까지/jxc
+4	자연에	자연+에	ADV	_	5	obl	_	_	자연/ncps+에/jca
+5	존재하는	존재+하+는	VERB	_	6	acl	_	_	존재/ncpa+하/xsv+는/etm
+6	에너지를	에너지+를	NOUN	_	7	obj	_	_	에너지/ncn+를/jco
+7	이용해	이용+하+어	VERB	_	9	acl	_	_	이용/ncpa+하/xsv+어/ecx
+8	오던	오+던	AUX	_	7	aux	_	_	오/px+던/etm
+9	방식에서	방식+에서	ADV	_	17	advcl	_	_	방식/ncn+에서/jca
+10	운반	운반	NOUN	_	11	compound	_	_	운반/ncpa
+11	가능한	가능+하+ㄴ	VERB	_	16	amod	_	_	가능/ncps+하/xsm+ㄴ/etm
+12	인위적인	인위+적+이+ㄴ	VERB	_	13	acl	_	_	인위/ncn+적/xsn+이/jp+ㄴ/etm
+13	에너지	에너지	NOUN	_	16	conj	_	_	에너지/ncn
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	즉	즉	CCONJ	_	16	cc	_	_	즉/maj
+16	전력을	전력+을	NOUN	_	17	obj	_	_	전력/ncn+을/jco
+17	얻을	얻+ㄹ	VERB	_	0	root	_	_	얻/pvg+ㄹ/etm
+18	수	수	NOUN	_	19	fixed	_	_	수/nbn
+19	있게	있+게	ADJ	_	17	aux	_	_	있/paa+게/ecx
+20	된	되+ㄴ	AUX	_	17	aux	_	_	되/px+ㄴ/etm
+21	것이다	것+이+다	VERB	_	17	aux	_	_	것/nbn+이/jp+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 이와 함께 증기기관을 이용한 철도 , 운하 및 증기선을 통해 스케줄을 가진 정기항로를 가질 수 있게 되었다 .
+1	이와	이+와	CCONJ	_	2	conj	_	_	이/npd+와/jct
+2	함께	함께	ADV	_	14	advmod	_	_	함께/mag
+3	증기기관을	증기+기관+을	NOUN	_	4	obj	_	_	증기/ncn+기관/ncn+을/jco
+4	이용한	이용+하+ㄴ	VERB	_	9	acl	_	_	이용/ncpa+하/xsv+ㄴ/etm
+5	철도	철도	NOUN	_	7	conj	_	_	철도/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	운하	운하	NOUN	_	9	conj	_	_	운하/ncn
+8	및	및	CCONJ	_	9	cc	_	_	및/maj
+9	증기선을	증기선+을	NOUN	_	10	obj	_	_	증기선/ncn+을/jco
+10	통해	통하+어	SCONJ	_	14	ccomp	_	_	통하/pvg+어/ecs
+11	스케줄을	스케줄+을	NOUN	_	12	obj	_	_	스케줄/ncn+을/jco
+12	가진	가지+ㄴ	VERB	_	13	acl	_	_	가지/pvg+ㄴ/etm
+13	정기항로를	정기+항로+를	NOUN	_	14	obj	_	_	정기/ncn+항로/ncn+를/jco
+14	가질	가지+ㄹ	VERB	_	0	root	_	_	가지/pvg+ㄹ/etm
+15	수	수	NOUN	_	16	fixed	_	_	수/nbn
+16	있게	있+게	ADJ	_	14	aux	_	_	있/paa+게/ecx
+17	되었다	되+었+다	AUX	_	14	aux	_	_	되/px+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 미국의 부흥 또한 같은 맥락에서 이해될 수 있다 .
+1	미국의	미국+의	PROPN	_	2	nmod	_	_	미국/nq+의/jcm
+2	부흥	부흥	NOUN	_	3	dep	_	_	부흥/ncpa
+3	또한	또한	ADV	_	6	advmod	_	_	또한/mag
+4	같은	같+ㄴ	ADJ	_	5	amod	_	_	같/paa+ㄴ/etm
+5	맥락에서	맥락+에서	ADV	_	6	advcl	_	_	맥락/ncn+에서/jca
+6	이해될	이해+되+ㄹ	VERB	_	0	root	_	_	이해/ncpa+되/xsv+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	있다	있+다	ADJ	_	6	aux	_	_	있/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 미국이 가져온 변화는 전신과 전화 등의 통신기술 .
+1	미국이	미국+이	PROPN	_	2	nsubj	_	_	미국/nq+이/jcs
+2	가져온	가져오+ㄴ	VERB	_	3	acl	_	_	가져오/pvg+ㄴ/etm
+3	변화는	변화+는	NOUN	_	7	dislocated	_	_	변화/ncpa+는/jxt
+4	전신과	전신+과	CCONJ	_	5	conj	_	_	전신/ncn+과/jcj
+5	전화	전화	NOUN	_	6	compound	_	_	전화/ncn
+6	등의	등+의	NOUN	_	7	nmod	_	_	등/nbn+의/jcm
+7	통신기술	통신+기술	NOUN	_	0	root	_	_	통신/ncpa+기술/ncn
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이것이 바로 그 유명한 ' T 형 포드 ' 이다 .
+1	이것이	이것+이	PRON	_	8	nsubj	_	_	이것/npd+이/jcs
+2	바로	바로	ADV	_	3	advmod	_	_	바로/mag
+3	그	그	DET	_	8	det	_	_	그/mmd
+4	유명한	유명+하+ㄴ	VERB	_	8	amod	_	_	유명/ncps+하/xsm+ㄴ/etm
+5	'	'	PUNCT	_	7	punct	_	_	'/sl
+6	T	T	X	_	7	compound	_	_	T/f
+7	형	형	NOUN	_	8	compound	_	_	형/ncn
+8	포드	포드	PROPN	_	0	root	_	_	포드/nq
+9	'	'	PUNCT	_	8	punct	_	_	'/sr
+10	이다	이+다	ADP	_	8	cop	_	_	이/jp+다/ef
+11	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이를 계기로 세계제일의 복지국가가 된 미국은 자동차 문화를 전세계로 확산시키고 나아가 광대한 시장을 개척하여 공전 ( 空前 ) 의 황금시대를 구축하였다 .
+1	이를	이+를	PRON	_	2	obj	_	_	이/npd+를/jco
+2	계기로	계기+로	ADV	_	5	advcl	_	_	계기/ncn+로/jca
+3	세계제일의	세계+제일+의	NOUN	_	4	nmod	_	_	세계/ncn+제일/ncn+의/jcm
+4	복지국가가	복지+국가+가	NOUN	_	5	csubj	_	_	복지/ncn+국가/ncn+가/jcc
+5	된	되+ㄴ	VERB	_	6	acl	_	_	되/pvg+ㄴ/etm
+6	미국은	미국+은	PROPN	_	21	dislocated	_	_	미국/nq+은/jxt
+7	자동차	자동차	NOUN	_	8	compound	_	_	자동차/ncn
+8	문화를	문화+를	NOUN	_	10	obj	_	_	문화/ncn+를/jco
+9	전세계로	전세계+로	ADV	_	10	advcl	_	_	전세계/ncn+로/jca
+10	확산시키고	확산+시키+고	CCONJ	_	21	conj	_	_	확산/ncpa+시키/xsv+고/ecc
+11	나아가	나아가+아	SCONJ	_	21	ccomp	_	_	나아가/pvg+아/ecs
+12	광대한	광대하+ㄴ	ADJ	_	13	amod	_	_	광대하/paa+ㄴ/etm
+13	시장을	시장+을	NOUN	_	14	obj	_	_	시장/ncn+을/jco
+14	개척하여	개척+하+어	SCONJ	_	21	ccomp	_	_	개척/ncpa+하/xsv+어/ecs
+15	공전	공전	NOUN	_	20	nmod	_	_	공전/ncpa
+16	(	(	PUNCT	_	17	punct	_	_	(/sl
+17	空前	空前	PROPN	_	15	appos	_	_	空前/nq
+18	)	)	PUNCT	_	17	punct	_	_	)/sr
+19	의	의	ADP	_	15	case	_	_	의/jcm
+20	황금시대를	황금+시대+를	NOUN	_	21	obj	_	_	황금/ncn+시대/ncn+를/jco
+21	구축하였다	구축+하+었+다	VERB	_	0	root	_	_	구축/ncpa+하/xsv+었/ep+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 그러나 여기서 중요한 것은 이렇게 표면적으로 드러난 화려한 면이 아니라 오히려 ' 황금시대에 있어서 선행투자한 다음 시대에의 포석이 무엇이었는가 ' 하는 것이다 .
+1	그러나	그러나	CCONJ	_	21	cc	_	_	그러나/maj
+2	여기서	여기+서	ADV	_	3	advcl	_	_	여기/npd+서/jca
+3	중요한	중요+하+ㄴ	VERB	_	4	amod	_	_	중요/ncps+하/xsm+ㄴ/etm
+4	것은	것+은	NOUN	_	21	dislocated	_	_	것/nbn+은/jxt
+5	이렇게	이렇+게	SCONJ	_	7	xcomp	_	_	이렇/pad+게/ecs
+6	표면적으로	표면+적+으로	ADV	_	7	advcl	_	_	표면/ncn+적/xsn+으로/jca
+7	드러난	드러나+ㄴ	VERB	_	9	acl	_	_	드러나/pvg+ㄴ/etm
+8	화려한	화려하+ㄴ	ADJ	_	9	amod	_	_	화려하/paa+ㄴ/etm
+9	면이	면+이	NOUN	_	10	nsubj	_	_	면/ncn+이/jcs
+10	아니라	아니+라	SCONJ	_	21	xcomp	_	_	아니/paa+라/ecs
+11	오히려	오히려	ADV	_	21	advmod	_	_	오히려/mag
+12	'	'	PUNCT	_	13	punct	_	_	'/sl
+13	황금시대에	황금+시대+에	ADV	_	14	obl	_	_	황금/ncn+시대/ncn+에/jca
+14	있어서	있+어서	SCONJ	_	15	xcomp	_	_	있/paa+어서/ecs
+15	선행투자한	선행+투자+하+ㄴ	VERB	_	17	acl	_	_	선행/ncpa+투자/ncpa+하/xsv+ㄴ/etm
+16	다음	다음	NOUN	_	17	compound	_	_	다음/ncn
+17	시대에의	시대+에+의	NOUN	_	18	nmod	_	_	시대/ncn+에/jca+의/jcm
+18	포석이	포석+이	NOUN	_	19	nsubj	_	_	포석/ncn+이/jcs
+19	무엇이었는가	무엇+이+었+는가	VERB	_	21	ccomp	_	_	무엇/npd+이/jp+었/ep+는가/ef
+20	'	'	PUNCT	_	19	punct	_	_	'/sr
+21	하는	하+는	VERB	_	0	root	_	_	하/pvg+는/etm
+22	것이다	것+이+다	VERB	_	21	aux	_	_	것/nbn+이/jp+다/ef
+23	.	.	PUNCT	_	22	punct	_	_	./sf
+
+# 오늘날 사회주의국가들이 경제적으로 어려움을 겪고 있는 근본적인 이유 가운데 하나는 컴퓨터의 개발에 대해 국가 차원에서 적극적인 정책을 취하지 않았다는 것이다 .
+1	오늘날	오늘날	NOUN	_	5	advmod	_	_	오늘날/ncn
+2	사회주의국가들이	사회주의+국가+들+이	NOUN	_	5	nsubj	_	_	사회주의/ncn+국가/ncn+들/xsn+이/jcs
+3	경제적으로	경제+적+으로	ADV	_	4	advcl	_	_	경제/ncn+적/xsn+으로/jca
+4	어려움을	어렵+ㅁ+을	NOUN	_	5	obj	_	_	어렵/paa+ㅁ/etn+을/jco
+5	겪고	겪+고	VERB	_	8	acl	_	_	겪/pvg+고/ecx
+6	있는	있+는	AUX	_	5	aux	_	_	있/px+는/etm
+7	근본적인	근본+적+이+ㄴ	VERB	_	8	acl	_	_	근본/ncn+적/xsn+이/jp+ㄴ/etm
+8	이유	이유	NOUN	_	9	compound	_	_	이유/ncn
+9	가운데	가운데	NOUN	_	10	compound	_	_	가운데/ncn
+10	하나는	하나+는	NUM	_	18	dislocated	_	_	하나/nnc+는/jxt
+11	컴퓨터의	컴퓨터+의	NOUN	_	12	nmod	_	_	컴퓨터/ncn+의/jcm
+12	개발에	개발+에	ADV	_	13	obl	_	_	개발/ncpa+에/jca
+13	대해	대하+어	SCONJ	_	18	ccomp	_	_	대하/pvg+어/ecs
+14	국가	국가	NOUN	_	15	compound	_	_	국가/ncn
+15	차원에서	차원+에서	ADV	_	18	advcl	_	_	차원/ncn+에서/jca
+16	적극적인	적극+적+이+ㄴ	VERB	_	17	acl	_	_	적극/ncn+적/xsn+이/jp+ㄴ/etm
+17	정책을	정책+을	NOUN	_	18	obj	_	_	정책/ncn+을/jco
+18	취하지	취하+지	VERB	_	0	root	_	_	취하/pvg+지/ecx
+19	않았다는	않+았+다는	AUX	_	18	aux	_	_	않/px+았/ep+다는/etm
+20	것이다	것+이+다	VERB	_	18	aux	_	_	것/nbn+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 당시 소련과 동구권을 비롯한 사회주의국가들은 컴퓨터를 노동자들로부터 일을 빼앗을 뿐 아니라 관리 강화에 의해 착취를 증대시키는 기계라고 규정지었다 .
+1	당시	당시	NOUN	_	5	compound	_	_	당시/ncn
+2	소련과	소련+과	CCONJ	_	3	conj	_	_	소련/nq+과/jcj
+3	동구권을	동구권+을	NOUN	_	4	obj	_	_	동구권/ncn+을/jco
+4	비롯한	비롯+하+ㄴ	VERB	_	5	acl	_	_	비롯/ncpa+하/xsv+ㄴ/etm
+5	사회주의국가들은	사회주의+국가+들+은	NOUN	_	18	dislocated	_	_	사회주의/ncn+국가/ncn+들/xsn+은/jxt
+6	컴퓨터를	컴퓨터+를	NOUN	_	18	obj	_	_	컴퓨터/ncn+를/jco
+7	노동자들로부터	노동자+들+로+부터	ADV	_	9	advcl	_	_	노동자/ncn+들/xsn+로/jca+부터/jxc
+8	일을	일+을	NOUN	_	9	obj	_	_	일/ncn+을/jco
+9	빼앗을	빼앗+ㄹ	VERB	_	16	ccomp	_	_	빼앗/pvg+ㄹ/etm
+10	뿐	뿐	NOUN	_	11	fixed	_	_	뿐/nbn
+11	아니라	아니+라	SCONJ	_	9	aux	_	_	아니/paa+라/ecs
+12	관리	관리	NOUN	_	13	compound	_	_	관리/ncpa
+13	강화에	강화+에	ADV	_	14	obl	_	_	강화/ncpa+에/jca
+14	의해	의하+어	SCONJ	_	16	ccomp	_	_	의하/pvg+어/ecs
+15	착취를	착취+를	NOUN	_	16	obj	_	_	착취/ncpa+를/jco
+16	증대시키는	증대+시키+는	VERB	_	17	acl	_	_	증대/ncpa+시키/xsv+는/etm
+17	기계라고	기계+라고	VERB	_	18	conj	_	_	기계/ncn+라고/jcr
+18	규정지었다	규정짓+었+다	VERB	_	0	root	_	_	규정짓/pvg+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 결국 ' 컴퓨터는 산업의 핵이다 ' 라고 하는 나라들과 ' 컴퓨터는 노동자의 적이다 ' 라고 하는 나라들의 운명은 바로 여기에서 결정지어졌다고 해도 과언은 아니다 .
+1	결국	결국	ADV	_	21	advmod	_	_	결국/mag
+2	'	'	PUNCT	_	3	punct	_	_	'/sl
+3	컴퓨터는	컴퓨터+는	NOUN	_	5	dislocated	_	_	컴퓨터/ncn+는/jxt
+4	산업의	산업+의	NOUN	_	5	nmod	_	_	산업/ncn+의/jcm
+5	핵이다	핵+이+다	VERB	_	8	conj	_	_	핵/ncn+이/jp+다/ef
+6	'	'	PUNCT	_	5	punct	_	_	'/sr
+7	라고	라고	ADP	_	5	case	_	_	라고/jcr
+8	하는	하+는	VERB	_	9	acl	_	_	하/pvg+는/etm
+9	나라들과	나라+들+과	CCONJ	_	17	conj	_	_	나라/ncn+들/xsn+과/jcj
+10	'	'	PUNCT	_	11	punct	_	_	'/sl
+11	컴퓨터는	컴퓨터+는	NOUN	_	13	dislocated	_	_	컴퓨터/ncn+는/jxt
+12	노동자의	노동자+의	NOUN	_	13	nmod	_	_	노동자/ncn+의/jcm
+13	적이다	적+이+다	VERB	_	16	conj	_	_	적/ncn+이/jp+다/ef
+14	'	'	PUNCT	_	13	punct	_	_	'/sr
+15	라고	라고	ADP	_	13	case	_	_	라고/jcr
+16	하는	하+는	VERB	_	17	acl	_	_	하/pvg+는/etm
+17	나라들의	나라+들+의	NOUN	_	18	nmod	_	_	나라/ncn+들/xsn+의/jcm
+18	운명은	운명+은	NOUN	_	21	dislocated	_	_	운명/ncn+은/jxt
+19	바로	바로	ADV	_	21	advmod	_	_	바로/mag
+20	여기에서	여기+에서	ADV	_	21	advcl	_	_	여기/npd+에서/jca
+21	결정지어졌다고	결정지어지+었+다+고	VERB	_	22	conj	_	_	결정지어지/pvg+었/ep+다/ef+고/jcr
+22	해도	하+어도	SCONJ	_	24	conj	_	_	하/pvg+어도/ecs
+23	과언은	과언+은	NOUN	_	24	dislocated	_	_	과언/ncn+은/jxt
+24	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+25	.	.	PUNCT	_	24	punct	_	_	./sf
+
+# 태평양전쟁이 한창이던 1940 년대 미국은 컴퓨터의 개발에 있어 어느 나라보다도 앞서 있었다 .
+1	태평양전쟁이	태평양전쟁+이	PROPN	_	2	nsubj	_	_	태평양전쟁/nq+이/jcs
+2	한창이던	한창+이+던	VERB	_	4	acl	_	_	한창/ncn+이/jp+던/etm
+3	1940	1940	NUM	_	4	nummod	_	_	1940/nnc
+4	년대	년대	NOUN	_	11	advmod	_	_	년대/nbu
+5	미국은	미국+은	PROPN	_	11	dislocated	_	_	미국/nq+은/jxt
+6	컴퓨터의	컴퓨터+의	NOUN	_	7	nmod	_	_	컴퓨터/ncn+의/jcm
+7	개발에	개발+에	ADV	_	8	obl	_	_	개발/ncpa+에/jca
+8	있어	있+어	SCONJ	_	11	xcomp	_	_	있/paa+어/ecs
+9	어느	어느	DET	_	10	det	_	_	어느/mmd
+10	나라보다도	나라+보다+도	ADV	_	11	advcl	_	_	나라/ncn+보다/jca+도/jxc
+11	앞서	앞서+어	VERB	_	0	root	_	_	앞서/pvg+어/ecx
+12	있었다	있+었+다	AUX	_	11	aux	_	_	있/px+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 당시 시험제작되었던 컴퓨터는 지금의 그것과는 현격한 차이가 있었다 .
+1	당시	당시	NOUN	_	2	compound	_	_	당시/ncn
+2	시험제작되었던	시험+제작+되+었+던	VERB	_	3	acl	_	_	시험/ncpa+제작/ncpa+되/xsv+었/ep+던/etm
+3	컴퓨터는	컴퓨터+는	NOUN	_	8	dislocated	_	_	컴퓨터/ncn+는/jxt
+4	지금의	지금+의	NOUN	_	5	nmod	_	_	지금/ncn+의/jcm
+5	그것과는	그것+과+는	PRON	_	8	dislocated	_	_	그것/npd+과/jct+는/jxt
+6	현격한	현격하+ㄴ	ADJ	_	7	amod	_	_	현격하/paa+ㄴ/etm
+7	차이가	차이+가	NOUN	_	8	nsubj	_	_	차이/ncn+가/jcs
+8	있었다	있+었+다	ADJ	_	0	root	_	_	있/paa+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그 결과로 세계는 자본주의국가들을 중심으로 세계 각국의 구석구석에까지 컴퓨터와 ( computerization ) 의 물결을 불러일으키게 되었다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	결과로	결과+로	ADV	_	15	advcl	_	_	결과/ncn+로/jca
+3	세계는	세계+는	NOUN	_	15	dislocated	_	_	세계/ncn+는/jxt
+4	자본주의국가들을	자본주의+국가+들+을	NOUN	_	5	obj	_	_	자본주의/ncn+국가/ncn+들/xsn+을/jco
+5	중심으로	중심+으로	ADV	_	15	advcl	_	_	중심/ncn+으로/jca
+6	세계	세계	NOUN	_	7	compound	_	_	세계/ncn
+7	각국의	각국+의	NOUN	_	8	nmod	_	_	각국/ncn+의/jcm
+8	구석구석에까지	구석구석+에+까지	ADV	_	15	advcl	_	_	구석구석/ncn+에/jca+까지/jxc
+9	컴퓨터와	컴퓨터+와	CCONJ	_	14	nmod	_	_	컴퓨터/ncn+와/jcj
+10	(	(	PUNCT	_	11	punct	_	_	(/sl
+11	computerization	computerization	X	_	9	appos	_	_	computerization/f
+12	)	)	PUNCT	_	11	punct	_	_	)/sr
+13	의	의	ADP	_	9	case	_	_	의/jcm
+14	물결을	물결+을	NOUN	_	15	obj	_	_	물결/ncn+을/jco
+15	불러일으키게	불러일으키+게	VERB	_	0	root	_	_	불러일으키/pvg+게/ecx
+16	되었다	되+었+다	AUX	_	15	aux	_	_	되/px+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 일본이 이러한 물결에 적극 편승하여 오늘날의 산업기술 대국을 건설한 것은 주지하는 바이다 .
+1	일본이	일본+이	PROPN	_	9	nsubj	_	_	일본/nq+이/jcs
+2	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+3	물결에	물결+에	ADV	_	5	obl	_	_	물결/ncn+에/jca
+4	적극	적극	NOUN	_	5	compound	_	_	적극/ncn
+5	편승하여	편승+하+어	SCONJ	_	9	ccomp	_	_	편승/ncpa+하/xsv+어/ecs
+6	오늘날의	오늘날+의	NOUN	_	8	nmod	_	_	오늘날/ncn+의/jcm
+7	산업기술	산업+기술	NOUN	_	8	compound	_	_	산업/ncn+기술/ncn
+8	대국을	대국+을	NOUN	_	9	obj	_	_	대국/ncn+을/jco
+9	건설한	건설+하+ㄴ	VERB	_	10	acl	_	_	건설/ncpa+하/xsv+ㄴ/etm
+10	것은	것+은	NOUN	_	12	dislocated	_	_	것/nbn+은/jxt
+11	주지하는	주지+하+는	VERB	_	12	ccomp	_	_	주지/ncpa+하/xsv+는/etm
+12	바이다	바+이+다	VERB	_	0	root	_	_	바/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 따라서 앞으로 선진강대국의 기본조건은 군사력이나 경제력이 아니라 높은 과학기술력의 보유를 통해 기술패권을 갖는 것이 될 것이다 .
+1	따라서	따라서	CCONJ	_	15	cc	_	_	따라서/maj
+2	앞으로	앞+으로	ADV	_	15	advcl	_	_	앞/ncn+으로/jca
+3	선진강대국의	선진+강대국+의	NOUN	_	4	nmod	_	_	선진/ncn+강대국/ncn+의/jcm
+4	기본조건은	기본+조건+은	NOUN	_	15	dislocated	_	_	기본/ncn+조건/ncn+은/jxt
+5	군사력이나	군사력+이나	CCONJ	_	6	conj	_	_	군사력/ncn+이나/jcj
+6	경제력이	경제력+이	NOUN	_	7	csubj	_	_	경제력/ncn+이/jcc
+7	아니라	아니+라	SCONJ	_	13	xcomp	_	_	아니/paa+라/ecs
+8	높은	높+ㄴ	ADJ	_	9	amod	_	_	높/paa+ㄴ/etm
+9	과학기술력의	과학+기술력+의	NOUN	_	10	nmod	_	_	과학/ncn+기술력/ncn+의/jcm
+10	보유를	보유+를	NOUN	_	11	obj	_	_	보유/ncpa+를/jco
+11	통해	통하+어	SCONJ	_	13	ccomp	_	_	통하/pvg+어/ecs
+12	기술패권을	기술+패권+을	NOUN	_	13	obj	_	_	기술/ncn+패권/ncn+을/jco
+13	갖는	갖+는	VERB	_	14	acl	_	_	갖/pvg+는/etm
+14	것이	것+이	NOUN	_	15	csubj	_	_	것/nbn+이/jcc
+15	될	되+ㄹ	VERB	_	0	root	_	_	되/pvg+ㄹ/etm
+16	것이다	것+이+다	VERB	_	15	aux	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 최근 몇 년간에 걸친 일본과 미국의 무역분쟁 또한 그 배경에 강대국의 흥망성쇠로 이어지는 이러한 기술연관 메커니즘이 있었다고 볼 수 있다 .
+1	최근	최근	NOUN	_	3	compound	_	_	최근/ncn
+2	몇	몇	ADJ	_	3	amod	_	_	몇/mma
+3	년간에	년+간+에	ADV	_	4	obl	_	_	년/nbu+간/xsn+에/jca
+4	걸친	걸치+ㄴ	VERB	_	7	acl	_	_	걸치/pvg+ㄴ/etm
+5	일본과	일본+과	CCONJ	_	6	conj	_	_	일본/nq+과/jcj
+6	미국의	미국+의	PROPN	_	7	nmod	_	_	미국/nq+의/jcm
+7	무역분쟁	무역+분쟁	NOUN	_	8	dep	_	_	무역/ncn+분쟁/ncpa
+8	또한	또한	ADV	_	17	advmod	_	_	또한/mag
+9	그	그	DET	_	10	det	_	_	그/mmd
+10	배경에	배경+에	ADV	_	17	obl	_	_	배경/ncn+에/jca
+11	강대국의	강대국+의	NOUN	_	12	nmod	_	_	강대국/ncn+의/jcm
+12	흥망성쇠로	흥망성쇠+로	ADV	_	13	advcl	_	_	흥망성쇠/ncn+로/jca
+13	이어지는	이어지+는	VERB	_	16	acl	_	_	이어지/pvg+는/etm
+14	이러한	이러하+ㄴ	VERB	_	16	amod	_	_	이러하/pad+ㄴ/etm
+15	기술연관	기술+연관	NOUN	_	16	compound	_	_	기술/ncn+연관/ncn
+16	메커니즘이	메커니즘+이	NOUN	_	17	nsubj	_	_	메커니즘/ncn+이/jcs
+17	있었다고	있+었+다+고	VERB	_	18	conj	_	_	있/paa+었/ep+다/ef+고/jcr
+18	볼	보+ㄹ	VERB	_	0	root	_	_	보/pvg+ㄹ/etm
+19	수	수	NOUN	_	20	fixed	_	_	수/nbn
+20	있다	있+다	ADJ	_	18	aux	_	_	있/paa+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 이와 같이 세계사의 순환은 기술패권을 확보하기 위한 강대국간의 경쟁으로 점철돼 왔던 것이다 .
+1	이와	이+와	CCONJ	_	2	conj	_	_	이/npd+와/jct
+2	같이	같+이	SCONJ	_	10	xcomp	_	_	같/paa+이/ecs
+3	세계사의	세계사+의	NOUN	_	4	nmod	_	_	세계사/ncn+의/jcm
+4	순환은	순환+은	NOUN	_	10	dislocated	_	_	순환/ncpa+은/jxt
+5	기술패권을	기술+패권+을	NOUN	_	6	obj	_	_	기술/ncn+패권/ncn+을/jco
+6	확보하기	확보+하+기	VERB	_	7	nmod	_	_	확보/ncpa+하/xsv+기/etn
+7	위한	위하+ㄴ	VERB	_	9	acl	_	_	위하/pvg+ㄴ/etm
+8	강대국간의	강대국+간+의	NOUN	_	9	nmod	_	_	강대국/ncn+간/xsn+의/jcm
+9	경쟁으로	경쟁+으로	ADV	_	10	advcl	_	_	경쟁/ncpa+으로/jca
+10	점철돼	점철+되+어	VERB	_	0	root	_	_	점철/ncpa+되/xsv+어/ecx
+11	왔던	오+았+던	AUX	_	10	aux	_	_	오/px+았/ep+던/etm
+12	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 특히 선진국으로의 꿈을 불태우며 여기까지 달려온 우리로서는 기술력의 배양이야말로 그 무엇보다도 중요하게 인식하고 다루어야 할 국가적 과제 가운데서도 핵심인 것이다 .
+1	특히	특히	ADV	_	4	advmod	_	_	특히/mag
+2	선진국으로의	선진국+으로+의	NOUN	_	3	nmod	_	_	선진국/ncn+으로/jca+의/jcm
+3	꿈을	꿈+을	NOUN	_	4	obj	_	_	꿈/ncn+을/jco
+4	불태우며	불태우+며	CCONJ	_	6	conj	_	_	불태우/pvg+며/ecc
+5	여기까지	여기+까지	ADV	_	6	advcl	_	_	여기/npd+까지/jxc
+6	달려온	달려오+ㄴ	VERB	_	7	acl	_	_	달려오/pvg+ㄴ/etm
+7	우리로서는	우리+로서+는	PRON	_	19	dislocated	_	_	우리/npp+로서/jca+는/jxt
+8	기술력의	기술력+의	NOUN	_	9	nmod	_	_	기술력/ncn+의/jcm
+9	배양이야말로	배양+이야말로	ADV	_	19	advcl	_	_	배양/ncpa+이야말로/jxc
+10	그	그	DET	_	11	det	_	_	그/mmd
+11	무엇보다도	무엇+보다+도	ADV	_	12	advcl	_	_	무엇/npd+보다/jca+도/jxc
+12	중요하게	중요+하+게	SCONJ	_	13	xcomp	_	_	중요/ncps+하/xsm+게/ecs
+13	인식하고	인식+하+고	CCONJ	_	14	conj	_	_	인식/ncpa+하/xsv+고/ecc
+14	다루어야	다루+어야	VERB	_	17	acl	_	_	다루/pvg+어야/ecx
+15	할	하+ㄹ	AUX	_	14	aux	_	_	하/px+ㄹ/etm
+16	국가적	국가+적	NOUN	_	17	amod	_	_	국가/ncn+적/xsn
+17	과제	과제	NOUN	_	18	compound	_	_	과제/ncn
+18	가운데서도	가운데+서+도	ADV	_	19	advcl	_	_	가운데/ncn+서/jca+도/jxc
+19	핵심인	핵심+이+ㄴ	VERB	_	0	root	_	_	핵심/ncn+이/jp+ㄴ/etm
+20	것이다	것+이+다	VERB	_	19	aux	_	_	것/nbn+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 고도기술 정보시대로 진입할수록 기술개발의 질은 더욱 고도화되고 복합화되고 있으며 , 기술개발 속도 또한 기하급수적으로 빨라져 최종생산물로서의 제품수명주기 ( PLC ) 도 급격히 단축되고 있다 .
+1	고도기술	고도+기술	NOUN	_	2	compound	_	_	고도/ncn+기술/ncn
+2	정보시대로	정보+시대+로	ADV	_	3	advcl	_	_	정보/ncn+시대/ncn+로/jca
+3	진입할수록	진입+하+ㄹ수록	SCONJ	_	23	ccomp	_	_	진입/ncpa+하/xsv+ㄹ수록/ecs
+4	기술개발의	기술+개발+의	NOUN	_	5	nmod	_	_	기술/ncn+개발/ncpa+의/jcm
+5	질은	질+은	NOUN	_	8	dislocated	_	_	질/ncn+은/jxt
+6	더욱	더욱	ADV	_	8	advmod	_	_	더욱/mag
+7	고도화되고	고도화+되+고	CCONJ	_	8	conj	_	_	고도화/ncpa+되/xsv+고/ecc
+8	복합화되고	복합화+되+고	VERB	_	23	ccomp	_	_	복합화/ncpa+되/xsv+고/ecx
+9	있으며	있+으며	SCONJ	_	8	aux	_	_	있/px+으며/ecs
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	기술개발	기술+개발	NOUN	_	12	compound	_	_	기술/ncn+개발/ncpa
+12	속도	속도	NOUN	_	13	dep	_	_	속도/ncn
+13	또한	또한	ADV	_	15	advmod	_	_	또한/mag
+14	기하급수적으로	기하급수+적+으로	ADV	_	15	advcl	_	_	기하급수/ncn+적/xsn+으로/jca
+15	빨라져	빨라지+어	SCONJ	_	23	ccomp	_	_	빨라지/pvg+어/ecs
+16	최종생산물로서의	최종+생산물+로서+의	NOUN	_	17	nmod	_	_	최종/ncn+생산물/ncn+로서/jca+의/jcm
+17	제품수명주기	제품+수명+주기	NOUN	_	23	advcl	_	_	제품/ncn+수명/ncn+주기/ncn
+18	(	(	PUNCT	_	19	punct	_	_	(/sl
+19	PLC	PLC	X	_	17	appos	_	_	PLC/f
+20	)	)	PUNCT	_	19	punct	_	_	)/sr
+21	도	도	ADP	_	17	case	_	_	도/jxc
+22	급격히	급격+히	ADV	_	23	advmod	_	_	급격/ncps+히/xsa
+23	단축되고	단축+되+고	VERB	_	0	root	_	_	단축/ncpa+되/xsv+고/ecx
+24	있다	있+다	AUX	_	23	aux	_	_	있/px+다/ef
+25	.	.	PUNCT	_	24	punct	_	_	./sf
+
+# 그 결과 기술의 범위 , 구조 , 내용 등의 변형이 크게 진전되어 21세기에는 완전히 새로운 양상의 기술진보가 이룩될 것으로 보인다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	결과	결과	NOUN	_	12	advmod	_	_	결과/ncn
+3	기술의	기술+의	NOUN	_	8	nmod	_	_	기술/ncn+의/jcm
+4	범위	범위	NOUN	_	6	conj	_	_	범위/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	구조	구조	NOUN	_	8	conj	_	_	구조/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	내용	내용	NOUN	_	9	compound	_	_	내용/ncn
+9	등의	등+의	NOUN	_	10	nmod	_	_	등/nbn+의/jcm
+10	변형이	변형+이	NOUN	_	12	nsubj	_	_	변형/ncpa+이/jcs
+11	크게	크+게	SCONJ	_	12	xcomp	_	_	크/paa+게/ecs
+12	진전되어	진전+되+어	SCONJ	_	20	ccomp	_	_	진전/ncpa+되/xsv+어/ecs
+13	21세기에는	21+세기+에+는	NUM	_	18	dislocated	_	_	21/nno+세기/ncn+에/jca+는/jxt
+14	완전히	완전+히	ADV	_	15	advmod	_	_	완전/ncps+히/xsa
+15	새로운	새롭+ㄴ	ADJ	_	16	amod	_	_	새롭/paa+ㄴ/etm
+16	양상의	양상+의	NOUN	_	17	nmod	_	_	양상/ncn+의/jcm
+17	기술진보가	기술+진보+가	NOUN	_	18	nsubj	_	_	기술/ncn+진보/ncpa+가/jcs
+18	이룩될	이룩+되+ㄹ	VERB	_	19	acl	_	_	이룩/ncpa+되/xsv+ㄹ/etm
+19	것으로	것+으로	ADV	_	20	advcl	_	_	것/nbn+으로/jca
+20	보인다	보이+ㄴ다	VERB	_	0	root	_	_	보이/pvg+ㄴ다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 따라서 1990 년대는 특히 격심한 기술혁신의 시대가 될 것이며 , 첨단기술이 새로이 교차되는 신 구 하이테크의 전환기가 될 것이다 .
+1	따라서	따라서	CCONJ	_	18	cc	_	_	따라서/maj
+2	1990	1990	NUM	_	3	nummod	_	_	1990/nnc
+3	년대는	년대+는	NOUN	_	18	dislocated	_	_	년대/nbu+는/jxt
+4	특히	특히	ADV	_	5	advmod	_	_	특히/mag
+5	격심한	격심하+ㄴ	ADJ	_	6	amod	_	_	격심하/paa+ㄴ/etm
+6	기술혁신의	기술+혁신+의	NOUN	_	7	nmod	_	_	기술/ncn+혁신/ncpa+의/jcm
+7	시대가	시대+가	NOUN	_	8	csubj	_	_	시대/ncn+가/jcc
+8	될	되+ㄹ	VERB	_	18	conj	_	_	되/pvg+ㄹ/etm
+9	것이며	것+이+며	CCONJ	_	8	aux	_	_	것/nbn+이/jp+며/ecc
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	첨단기술이	첨단+기술+이	NOUN	_	13	nsubj	_	_	첨단/ncn+기술/ncn+이/jcs
+12	새로이	새로이	ADV	_	13	advmod	_	_	새로이/mag
+13	교차되는	교차+되+는	VERB	_	17	acl	_	_	교차/ncpa+되/xsv+는/etm
+14	신	신	NOUN	_	15	compound	_	_	신/ncn
+15	구	구	NOUN	_	16	compound	_	_	구/ncn
+16	하이테크의	하이테크+의	NOUN	_	17	nmod	_	_	하이테크/ncn+의/jcm
+17	전환기가	전환기+가	NOUN	_	18	csubj	_	_	전환기/ncn+가/jcc
+18	될	되+ㄹ	VERB	_	0	root	_	_	되/pvg+ㄹ/etm
+19	것이다	것+이+다	VERB	_	18	aux	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 기존 기술분야의 구분 방식 또한 앞으로는 크게 달라질 것이다 .
+1	기존	기존	NOUN	_	2	compound	_	_	기존/ncn
+2	기술분야의	기술+분야+의	NOUN	_	3	nmod	_	_	기술/ncn+분야/ncn+의/jcm
+3	구분	구분	NOUN	_	4	compound	_	_	구분/ncpa
+4	방식	방식	NOUN	_	5	dep	_	_	방식/ncn
+5	또한	또한	ADV	_	8	advmod	_	_	또한/mag
+6	앞으로는	앞+으로+는	NOUN	_	8	dislocated	_	_	앞/ncn+으로/jca+는/jxt
+7	크게	크+게	SCONJ	_	8	xcomp	_	_	크/paa+게/ecs
+8	달라질	달라지+ㄹ	VERB	_	0	root	_	_	달라지/pvg+ㄹ/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이와 관련한 대표적인 동향은 바로 ' 기술의 융합현상 ' 이다 .
+1	이와	이+와	CCONJ	_	2	conj	_	_	이/npd+와/jct
+2	관련한	관련+하+ㄴ	VERB	_	4	acl	_	_	관련/ncpa+하/xsv+ㄴ/etm
+3	대표적인	대표+적+이+ㄴ	VERB	_	4	acl	_	_	대표/ncpa+적/xsn+이/jp+ㄴ/etm
+4	동향은	동향+은	NOUN	_	8	dislocated	_	_	동향/ncn+은/jxt
+5	바로	바로	ADV	_	8	advmod	_	_	바로/mag
+6	'	'	PUNCT	_	7	punct	_	_	'/sl
+7	기술의	기술+의	NOUN	_	8	nmod	_	_	기술/ncn+의/jcm
+8	융합현상	융합+현상	NOUN	_	0	root	_	_	융합/ncpa+현상/ncn
+9	'	'	PUNCT	_	8	punct	_	_	'/sr
+10	이다	이+다	ADP	_	8	cop	_	_	이/jp+다/ef
+11	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 여기서 융합화란 과학과 기술의 융합 , 산업기술과 민생기술과의 융합 , 그리고 이종 ( 異種 ) 산업기술간의 융합 등이다 .
+1	여기서	여기+서	ADV	_	18	advcl	_	_	여기/npd+서/jca
+2	융합화란	융합화+이란	ADV	_	18	advcl	_	_	융합화/ncn+이란/jxc
+3	과학과	과학+과	CCONJ	_	4	conj	_	_	과학/ncn+과/jcj
+4	기술의	기술+의	NOUN	_	5	nmod	_	_	기술/ncn+의/jcm
+5	융합	융합	NOUN	_	9	compound	_	_	융합/ncpa
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	산업기술과	산업+기술+과	CCONJ	_	8	conj	_	_	산업/ncn+기술/ncn+과/jcj
+8	민생기술과의	민생+기술+과+의	NOUN	_	9	nmod	_	_	민생/ncn+기술/ncn+과/jct+의/jcm
+9	융합	융합	NOUN	_	17	conj	_	_	융합/ncpa
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	그리고	그리고	CCONJ	_	17	cc	_	_	그리고/maj
+12	이종	이종	PROPN	_	16	compound	_	_	이종/nq
+13	(	(	PUNCT	_	14	punct	_	_	(/sl
+14	異種	異種	PROPN	_	12	appos	_	_	異種/nq
+15	)	)	PUNCT	_	14	punct	_	_	)/sr
+16	산업기술간의	산업+기술+간+의	NOUN	_	17	nmod	_	_	산업/ncn+기술/ncn+간/xsn+의/jcm
+17	융합	융합	NOUN	_	18	compound	_	_	융합/ncpa
+18	등이다	등+이+다	VERB	_	0	root	_	_	등/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그중에서도 대표적인 것은 바로 마이크로일렉크로닉스 ( ME ) 기술을 주축으로 한 전자 정보분야가 다른 산업분야와 결합하여 새로운 기술영역으로 진보하는 방식이다 .
+1	그중에서도	그+중+에서+도	ADV	_	2	advcl	_	_	그/npp+중/xsn+에서/jca+도/jxc
+2	대표적인	대표+적+이+ㄴ	VERB	_	3	acl	_	_	대표/ncpa+적/xsn+이/jp+ㄴ/etm
+3	것은	것+은	NOUN	_	20	dislocated	_	_	것/nbn+은/jxt
+4	바로	바로	ADV	_	20	advmod	_	_	바로/mag
+5	마이크로일렉크로닉스	마이크로일렉크로닉스	PROPN	_	9	compound	_	_	마이크로일렉크로닉스/nq
+6	(	(	PUNCT	_	7	punct	_	_	(/sl
+7	ME	ME	X	_	5	appos	_	_	ME/f
+8	)	)	PUNCT	_	7	punct	_	_	)/sr
+9	기술을	기술+을	NOUN	_	11	obj	_	_	기술/ncn+을/jco
+10	주축으로	주축+으로	ADV	_	11	advcl	_	_	주축/ncn+으로/jca
+11	한	하+ㄴ	VERB	_	13	acl	_	_	하/pvg+ㄴ/etm
+12	전자	전자	NOUN	_	13	compound	_	_	전자/ncn
+13	정보분야가	정보+분야+가	NOUN	_	19	nsubj	_	_	정보/ncn+분야/ncn+가/jcs
+14	다른	다른	ADJ	_	15	amod	_	_	다른/mma
+15	산업분야와	산업+분야+와	CCONJ	_	16	conj	_	_	산업/ncn+분야/ncn+와/jct
+16	결합하여	결합+하+어	SCONJ	_	19	ccomp	_	_	결합/ncpa+하/xsv+어/ecs
+17	새로운	새롭+ㄴ	ADJ	_	18	amod	_	_	새롭/paa+ㄴ/etm
+18	기술영역으로	기술+영역+으로	ADV	_	19	advcl	_	_	기술/ncn+영역/ncn+으로/jca
+19	진보하는	진보+하+는	VERB	_	20	ccomp	_	_	진보/ncpa+하/xsv+는/etm
+20	방식이다	방식+이+다	VERB	_	0	root	_	_	방식/ncn+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 바로 이러한 기술간의 융합에 의한 파급 효과로서 새로운 산업이 출현하고 , 계속해서 새로운 기술 영역이 생겨나고 있는 것이다 .
+1	바로	바로	ADV	_	2	advmod	_	_	바로/mag
+2	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+3	기술간의	기술+간+의	NOUN	_	4	nmod	_	_	기술/ncn+간/xsn+의/jcm
+4	융합에	융합+에	ADV	_	5	obl	_	_	융합/ncpa+에/jca
+5	의한	의하+ㄴ	VERB	_	7	acl	_	_	의하/pvg+ㄴ/etm
+6	파급	파급	NOUN	_	7	compound	_	_	파급/ncpa
+7	효과로서	효과+로서	ADV	_	16	advcl	_	_	효과/ncn+로서/jca
+8	새로운	새롭+ㄴ	ADJ	_	9	amod	_	_	새롭/paa+ㄴ/etm
+9	산업이	산업+이	NOUN	_	10	nsubj	_	_	산업/ncn+이/jcs
+10	출현하고	출현+하+고	CCONJ	_	16	conj	_	_	출현/ncpa+하/xsv+고/ecc
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	계속해서	계속+하+어서	SCONJ	_	16	ccomp	_	_	계속/ncpa+하/xsv+어서/ecs
+13	새로운	새롭+ㄴ	ADJ	_	14	amod	_	_	새롭/paa+ㄴ/etm
+14	기술	기술	NOUN	_	15	compound	_	_	기술/ncn
+15	영역이	영역+이	NOUN	_	16	nsubj	_	_	영역/ncn+이/jcs
+16	생겨나고	생겨나+고	VERB	_	0	root	_	_	생겨나/pvg+고/ecx
+17	있는	있+는	AUX	_	16	aux	_	_	있/px+는/etm
+18	것이다	것+이+다	VERB	_	16	aux	_	_	것/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이외에도 인체에서 생성되는 인슐린을 담배잎에서 배양한다든지 또는 전기를 통하게 하는 전도성 고분자 ( 高分子 ) 를 개발한다든지 하는 것도 이질적인 기술융합화의 예이다 .
+1	이외에도	이외+에+도	ADV	_	22	advcl	_	_	이외/ncn+에/jca+도/jxc
+2	인체에서	인체+에서	ADV	_	3	advcl	_	_	인체/ncn+에서/jca
+3	생성되는	생성+되+는	VERB	_	4	acl	_	_	생성/ncpa+되/xsv+는/etm
+4	인슐린을	인슐린+을	NOUN	_	6	obj	_	_	인슐린/ncn+을/jco
+5	담배잎에서	담배잎+에서	ADV	_	6	advcl	_	_	담배잎/ncn+에서/jca
+6	배양한다든지	배양+하+ㄴ다든지	CCONJ	_	7	conj	_	_	배양/ncpa+하/xsv+ㄴ다든지/ecc
+7	또는	또는	CCONJ	_	17	conj	_	_	또는/maj
+8	전기를	전기+를	NOUN	_	9	obj	_	_	전기/ncn+를/jco
+9	통하게	통하+게	VERB	_	12	acl	_	_	통하/pvg+게/ecx
+10	하는	하+는	AUX	_	9	aux	_	_	하/px+는/etm
+11	전도성	전도성	NOUN	_	12	compound	_	_	전도성/ncn
+12	고분자	고분자	NOUN	_	17	obj	_	_	고분자/ncn
+13	(	(	PUNCT	_	14	punct	_	_	(/sl
+14	高分子	高分子	PROPN	_	12	appos	_	_	高分子/nq
+15	)	)	PUNCT	_	14	punct	_	_	)/sr
+16	를	를	ADP	_	12	case	_	_	를/jco
+17	개발한다든지	개발+하+ㄴ다든지	SCONJ	_	18	ccomp	_	_	개발/ncpa+하/xsv+ㄴ다든지/ecs
+18	하는	하+는	VERB	_	19	acl	_	_	하/pvg+는/etm
+19	것도	것+도	ADV	_	22	advcl	_	_	것/nbn+도/jxc
+20	이질적인	이질+적+이+ㄴ	VERB	_	21	acl	_	_	이질/ncn+적/xsn+이/jp+ㄴ/etm
+21	기술융합화의	기술+융합화+의	NOUN	_	22	nmod	_	_	기술/ncn+융합화/ncn+의/jcm
+22	예이다	예+이+다	VERB	_	0	root	_	_	예/ncn+이/jp+다/ef
+23	.	.	PUNCT	_	22	punct	_	_	./sf
+
+# 이러한 기술융합화의 대표적인 분야로 메카트로닉스 ( Mechatronics ) 가 있다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	기술융합화의	기술+융합화+의	NOUN	_	4	nmod	_	_	기술/ncn+융합화/ncn+의/jcm
+3	대표적인	대표+적+이+ㄴ	VERB	_	4	acl	_	_	대표/ncpa+적/xsn+이/jp+ㄴ/etm
+4	분야로	분야+로	ADV	_	10	advcl	_	_	분야/ncn+로/jca
+5	메카트로닉스	메카트로닉스	PROPN	_	10	nsubj	_	_	메카트로닉스/nq
+6	(	(	PUNCT	_	7	punct	_	_	(/sl
+7	Mechatronics	Mechatronics	X	_	5	appos	_	_	Mechatronics/f
+8	)	)	PUNCT	_	7	punct	_	_	)/sr
+9	가	가	ADP	_	5	case	_	_	가/jcs
+10	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 수치제어는 기계의 운동을 작동자가 생각한 대로 실현할 수 있게 해주는 기술로 , 주로 각종의 가공기에 사용되고 있다 .
+1	수치제어는	수치+제어+는	NOUN	_	16	dislocated	_	_	수치/ncn+제어/ncpa+는/jxt
+2	기계의	기계+의	NOUN	_	3	nmod	_	_	기계/ncn+의/jcm
+3	운동을	운동+을	NOUN	_	7	obj	_	_	운동/ncpa+을/jco
+4	작동자가	작동자+가	NOUN	_	5	nsubj	_	_	작동자/ncn+가/jcs
+5	생각한	생각+하+ㄴ	VERB	_	6	acl	_	_	생각/ncpa+하/xsv+ㄴ/etm
+6	대로	대로	NOUN	_	7	mark	_	_	대로/nbn
+7	실현할	실현+하+ㄹ	VERB	_	10	ccomp	_	_	실현/ncpa+하/xsv+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있게	있+게	SCONJ	_	7	aux	_	_	있/paa+게/ecs
+10	해주는	해주+는	VERB	_	11	acl	_	_	해주/pvg+는/etm
+11	기술로	기술+로	ADV	_	16	advmod	_	_	기술/ncn+로/jca
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	주로	주로	ADV	_	16	advmod	_	_	주로/mag
+14	각종의	각종+의	NOUN	_	15	nmod	_	_	각종/ncn+의/jcm
+15	가공기에	가공기+에	ADV	_	16	obl	_	_	가공기/ncn+에/jca
+16	사용되고	사용+되+고	VERB	_	0	root	_	_	사용/ncpa+되/xsv+고/ecx
+17	있다	있+다	AUX	_	16	aux	_	_	있/px+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 메카트로닉스라는 언어 자체는 지금부터 약 20여 년 전에 어떤 기업의 등록상표로 생긴 것이지만 지금은 일반적인 용어로 정착되고 있다 .
+1	메카트로닉스라는	메카트로닉스+이+라는	VERB	_	2	acl	_	_	메카트로닉스/ncn+이/jp+라는/etm
+2	언어	언어	NOUN	_	3	compound	_	_	언어/ncn
+3	자체는	자체+는	NOUN	_	12	dislocated	_	_	자체/ncn+는/jxt
+4	지금부터	지금+부터	ADV	_	8	advcl	_	_	지금/ncn+부터/jxc
+5	약	약	ADJ	_	7	amod	_	_	약/mma
+6	20여	20+여	NOUN	_	7	advmod	_	_	20/nnc+여/xsn
+7	년	년	NOUN	_	8	compound	_	_	년/nbu
+8	전에	전+에	ADV	_	12	obl	_	_	전/ncn+에/jca
+9	어떤	어떤	DET	_	10	det	_	_	어떤/mmd
+10	기업의	기업+의	NOUN	_	11	nmod	_	_	기업/ncn+의/jcm
+11	등록상표로	등록+상표+로	ADV	_	12	advcl	_	_	등록/ncpa+상표/ncn+로/jca
+12	생긴	생기+ㄴ	VERB	_	17	ccomp	_	_	생기/pvg+ㄴ/etm
+13	것이지만	것+이+지만	SCONJ	_	12	aux	_	_	것/nbn+이/jp+지만/ecs
+14	지금은	지금+은	NOUN	_	17	dislocated	_	_	지금/ncn+은/jxt
+15	일반적인	일반+적+이+ㄴ	VERB	_	16	acl	_	_	일반/ncn+적/xsn+이/jp+ㄴ/etm
+16	용어로	용어+로	ADV	_	17	advcl	_	_	용어/ncn+로/jca
+17	정착되고	정착+되+고	VERB	_	0	root	_	_	정착/ncpa+되/xsv+고/ecx
+18	있다	있+다	AUX	_	17	aux	_	_	있/px+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 유사한 용어로서 기계와 광학기술과의 융합을 나타내는 광기계 ( Optomechanics ) , 전자와 광학기술과의 융합인 광전자 ( Optoelectronics ) 등과 3 자 융합의 광전자기계 ( Optomechatronics ) 등이 있다 .
+1	유사한	유사+하+ㄴ	VERB	_	2	amod	_	_	유사/ncps+하/xsm+ㄴ/etm
+2	용어로서	용어+로서	ADV	_	28	advcl	_	_	용어/ncn+로서/jca
+3	기계와	기계+와	CCONJ	_	4	conj	_	_	기계/ncn+와/jcj
+4	광학기술과의	광학+기술+과+의	NOUN	_	5	nmod	_	_	광학/ncn+기술/ncn+과/jct+의/jcm
+5	융합을	융합+을	NOUN	_	6	obj	_	_	융합/ncpa+을/jco
+6	나타내는	나타내+는	VERB	_	7	acl	_	_	나타내/pvg+는/etm
+7	광기계	광기계	NOUN	_	15	compound	_	_	광기계/ncn
+8	(	(	PUNCT	_	9	punct	_	_	(/sl
+9	Optomechanics	Optomechanics	X	_	7	appos	_	_	Optomechanics/f
+10	)	)	PUNCT	_	9	punct	_	_	)/sr
+11	,	,	PUNCT	_	7	punct	_	_	,/sp
+12	전자와	전자+와	CCONJ	_	13	conj	_	_	전자/ncn+와/jcj
+13	광학기술과의	광학+기술+과+의	NOUN	_	14	nmod	_	_	광학/ncn+기술/ncn+과/jct+의/jcm
+14	융합인	융합+이+ㄴ	VERB	_	15	acl	_	_	융합/ncpa+이/jp+ㄴ/etm
+15	광전자	광전자	NOUN	_	19	compound	_	_	광전자/ncn
+16	(	(	PUNCT	_	17	punct	_	_	(/sl
+17	Optoelectronics	Optoelectronics	X	_	15	appos	_	_	Optoelectronics/f
+18	)	)	PUNCT	_	17	punct	_	_	)/sr
+19	등과	등+과	CCONJ	_	23	conj	_	_	등/nbn+과/jcj
+20	3	3	NUM	_	21	nummod	_	_	3/nnc
+21	자	자	NOUN	_	22	mark	_	_	자/nbn
+22	융합의	융합+의	NOUN	_	23	nmod	_	_	융합/ncpa+의/jcm
+23	광전자기계	광전자+기계	NOUN	_	27	compound	_	_	광전자/ncn+기계/ncn
+24	(	(	PUNCT	_	25	punct	_	_	(/sl
+25	Optomechatronics	Optomechatronics	X	_	23	appos	_	_	Optomechatronics/f
+26	)	)	PUNCT	_	25	punct	_	_	)/sr
+27	등이	등+이	NOUN	_	28	nsubj	_	_	등/nbn+이/jcs
+28	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+29	.	.	PUNCT	_	28	punct	_	_	./sf
+
+# 그러나 메카트로닉스의 진수는 역시 로봇 ( robot ) 이라 할 것이다 .
+1	그러나	그러나	CCONJ	_	10	cc	_	_	그러나/maj
+2	메카트로닉스의	메카트로닉스+의	NOUN	_	3	nmod	_	_	메카트로닉스/ncn+의/jcm
+3	진수는	진수+는	NOUN	_	5	dislocated	_	_	진수/ncn+는/jxt
+4	역시	역시	ADV	_	5	advmod	_	_	역시/mag
+5	로봇	로봇	NOUN	_	10	dep	_	_	로봇/ncn
+6	(	(	PUNCT	_	7	punct	_	_	(/sl
+7	robot	robot	X	_	5	appos	_	_	robot/f
+8	)	)	PUNCT	_	7	punct	_	_	)/sr
+9	이라	이+라	ADP	_	5	cop	_	_	이/jp+라/ef
+10	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+11	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그중 대표적인 것이 산업용 로봇으로 , 이것은 ' 무인공장 ' 의 이상을 실현시켜 주고 있다 .
+1	그중	그+중	NOUN	_	2	advmod	_	_	그/npd+중/xsn
+2	대표적인	대표+적+이+ㄴ	VERB	_	3	acl	_	_	대표/ncpa+적/xsn+이/jp+ㄴ/etm
+3	것이	것+이	NOUN	_	5	nsubj	_	_	것/nbn+이/jcs
+4	산업용	산업용	NOUN	_	5	compound	_	_	산업용/ncn
+5	로봇으로	로봇+으로	ADV	_	13	advmod	_	_	로봇/ncn+으로/jca
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	이것은	이것+은	PRON	_	13	dislocated	_	_	이것/npd+은/jxt
+8	'	'	PUNCT	_	9	punct	_	_	'/sl
+9	무인공장	무인+공장	NOUN	_	12	nmod	_	_	무인/ncn+공장/ncn
+10	'	'	PUNCT	_	9	punct	_	_	'/sr
+11	의	의	ADP	_	9	case	_	_	의/jcm
+12	이상을	이상+을	NOUN	_	13	obj	_	_	이상/ncn+을/jco
+13	실현시켜	실현+시키+어	VERB	_	0	root	_	_	실현/ncpa+시키/xsv+어/ecx
+14	주고	주+고	AUX	_	13	aux	_	_	주/px+고/ecx
+15	있다	있+다	AUX	_	13	aux	_	_	있/px+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 로봇은 이외에도 극한 ( 極限 ) 작업용에서 가정용에 이르기까지 다양한 용도로 발전하고 있다 .
+1	로봇은	로봇+은	NOUN	_	12	dislocated	_	_	로봇/ncn+은/jxt
+2	이외에도	이외+에+도	ADV	_	12	advcl	_	_	이외/ncn+에/jca+도/jxc
+3	극한	극한	NOUN	_	7	compound	_	_	극한/ncn
+4	(	(	PUNCT	_	5	punct	_	_	(/sl
+5	極限	極限	PROPN	_	3	appos	_	_	極限/nq
+6	)	)	PUNCT	_	5	punct	_	_	)/sr
+7	작업용에서	작업용+에서	ADV	_	9	advcl	_	_	작업용/ncn+에서/jca
+8	가정용에	가정용+에	ADV	_	9	obl	_	_	가정용/ncn+에/jca
+9	이르기까지	이르+기+까지	ADV	_	12	advcl	_	_	이르/pvg+기/etn+까지/jxc
+10	다양한	다양하+ㄴ	ADJ	_	11	amod	_	_	다양하/paa+ㄴ/etm
+11	용도로	용도+로	ADV	_	12	advcl	_	_	용도/ncn+로/jca
+12	발전하고	발전+하+고	VERB	_	0	root	_	_	발전/ncpa+하/xsv+고/ecx
+13	있다	있+다	AUX	_	12	aux	_	_	있/px+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 로봇시대가 열리게 된 것도 역시 컴퓨터의 소형화 , 저가격화 , 고신뢰화 , 고성능화를 가져온 일렉트로닉스기술에 의해서이다 .
+1	로봇시대가	로봇+시대+가	NOUN	_	2	nsubj	_	_	로봇/ncn+시대/ncn+가/jcs
+2	열리게	열리+게	VERB	_	4	acl	_	_	열리/pvg+게/ecx
+3	된	되+ㄴ	AUX	_	2	aux	_	_	되/px+ㄴ/etm
+4	것도	것+도	ADV	_	16	advcl	_	_	것/nbn+도/jxc
+5	역시	역시	ADV	_	16	advmod	_	_	역시/mag
+6	컴퓨터의	컴퓨터+의	NOUN	_	13	nmod	_	_	컴퓨터/ncn+의/jcm
+7	소형화	소형화	NOUN	_	9	conj	_	_	소형화/ncn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	저가격화	저가격화	NOUN	_	11	conj	_	_	저가격화/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	고신뢰화	고신뢰화	NOUN	_	13	conj	_	_	고신뢰화/ncn
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	고성능화를	고성능화+를	NOUN	_	14	obj	_	_	고성능화/ncn+를/jco
+14	가져온	가져오+ㄴ	VERB	_	15	acl	_	_	가져오/pvg+ㄴ/etm
+15	일렉트로닉스기술에	일렉트로닉스+기술+에	ADV	_	16	obl	_	_	일렉트로닉스/ncn+기술/ncn+에/jca
+16	의해서이다	의하+어서+이+다	VERB	_	0	root	_	_	의하/pvg+어서/ecs+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 한 예로서 이제는 팔 관절이 하드웨어부분에 장치된 말단컴퓨터의 판단에 따라 민첩하게 동작할 수 있는 분산제어형 로봇이 등장하고 있는 것이다 .
+1	한	한	ADJ	_	2	amod	_	_	한/mma
+2	예로서	예+로서	ADV	_	17	advcl	_	_	예/ncn+로서/jca
+3	이제는	이제+는	NOUN	_	12	dislocated	_	_	이제/ncn+는/jxt
+4	팔	팔	NOUN	_	5	compound	_	_	팔/ncn
+5	관절이	관절+이	NOUN	_	12	nsubj	_	_	관절/ncn+이/jcs
+6	하드웨어부분에	하드웨어+부분+에	ADV	_	7	obl	_	_	하드웨어/ncn+부분/ncn+에/jca
+7	장치된	장치+되+ㄴ	VERB	_	8	acl	_	_	장치/ncpa+되/xsv+ㄴ/etm
+8	말단컴퓨터의	말단+컴퓨터+의	NOUN	_	9	nmod	_	_	말단/ncn+컴퓨터/ncn+의/jcm
+9	판단에	판단+에	ADV	_	10	obl	_	_	판단/ncpa+에/jca
+10	따라	따르+아	SCONJ	_	12	ccomp	_	_	따르/pvg+아/ecs
+11	민첩하게	민첩하+게	SCONJ	_	12	xcomp	_	_	민첩하/paa+게/ecs
+12	동작할	동작+하+ㄹ	VERB	_	16	acl	_	_	동작/ncpa+하/xsv+ㄹ/etm
+13	수	수	NOUN	_	14	fixed	_	_	수/nbn
+14	있는	있+는	ADJ	_	12	aux	_	_	있/paa+는/etm
+15	분산제어형	분산+제어형	NOUN	_	16	compound	_	_	분산/ncpa+제어형/ncn
+16	로봇이	로봇+이	NOUN	_	17	nsubj	_	_	로봇/ncn+이/jcs
+17	등장하고	등장+하+고	VERB	_	0	root	_	_	등장/ncpa+하/xsv+고/ecx
+18	있는	있+는	AUX	_	17	aux	_	_	있/px+는/etm
+19	것이다	것+이+다	VERB	_	17	aux	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 전술한 바와 같이 20 세기 문명의 눈부신 발전은 컴퓨터에 힘입은 바 크다 .
+1	전술한	전술+하+ㄴ	VERB	_	2	acl	_	_	전술/ncpa+하/xsv+ㄴ/etm
+2	바와	바+와	CCONJ	_	3	conj	_	_	바/nbn+와/jct
+3	같이	같+이	SCONJ	_	10	xcomp	_	_	같/paa+이/ecs
+4	20	20	NUM	_	5	nummod	_	_	20/nnc
+5	세기	세기	NOUN	_	6	compound	_	_	세기/ncn
+6	문명의	문명+의	NOUN	_	8	nmod	_	_	문명/ncn+의/jcm
+7	눈부신	눈부시+ㄴ	ADJ	_	8	amod	_	_	눈부시/paa+ㄴ/etm
+8	발전은	발전+은	NOUN	_	10	dislocated	_	_	발전/ncpa+은/jxt
+9	컴퓨터에	컴퓨터+에	ADV	_	10	obl	_	_	컴퓨터/ncn+에/jca
+10	힘입은	힘입+ㄴ	VERB	_	11	acl	_	_	힘입/pvg+ㄴ/etm
+11	바	바	NOUN	_	12	mark	_	_	바/nbn
+12	크다	크+다	ADJ	_	0	root	_	_	크/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 초기의 진공관식 컴퓨터는 호텔의 연회장 정도의 크기였으나 그 성능은 지금의 포켓사이즈의 전자계산기에도 못 미치는 것이었다 .
+1	초기의	초기+의	NOUN	_	3	nmod	_	_	초기/ncn+의/jcm
+2	진공관식	진공관식	NOUN	_	3	compound	_	_	진공관식/ncn
+3	컴퓨터는	컴퓨터+는	NOUN	_	7	dislocated	_	_	컴퓨터/ncn+는/jxt
+4	호텔의	호텔+의	NOUN	_	5	nmod	_	_	호텔/ncn+의/jcm
+5	연회장	연회장	NOUN	_	6	compound	_	_	연회장/ncn
+6	정도의	정도+의	NOUN	_	7	nmod	_	_	정도/ncn+의/jcm
+7	크기였으나	크+기+이+었+으나	SCONJ	_	14	ccomp	_	_	크/paa+기/etn+이/jp+었/ep+으나/ecs
+8	그	그	DET	_	9	det	_	_	그/mmd
+9	성능은	성능+은	NOUN	_	14	dislocated	_	_	성능/ncn+은/jxt
+10	지금의	지금+의	NOUN	_	12	nmod	_	_	지금/ncn+의/jcm
+11	포켓사이즈의	포켓사이즈+의	NOUN	_	12	nmod	_	_	포켓사이즈/ncn+의/jcm
+12	전자계산기에도	전자계산기+에+도	ADV	_	14	advcl	_	_	전자계산기/ncn+에/jca+도/jxc
+13	못	못	ADV	_	14	advmod	_	_	못/mag
+14	미치는	미치+는	VERB	_	0	root	_	_	미치/pvg+는/etm
+15	것이었다	것+이+었+다	VERB	_	14	aux	_	_	것/nbn+이/jp+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그런데 진공관이 트랜지스터 ( TR ) 로 대체되고 더욱이 몇 개의 트랜지스터를 집적하여 한 개의 부품으로 만들어내는 집적회로 ( IC ) 기술을 개발해 내면서부터 컴퓨터는 점점 작아졌다 .
+1	그런데	그런데	CCONJ	_	27	cc	_	_	그런데/maj
+2	진공관이	진공관+이	NOUN	_	8	nsubj	_	_	진공관/ncn+이/jcs
+3	트랜지스터	트랜지스터	NOUN	_	8	advcl	_	_	트랜지스터/ncn
+4	(	(	PUNCT	_	5	punct	_	_	(/sl
+5	TR	TR	X	_	3	appos	_	_	TR/f
+6	)	)	PUNCT	_	5	punct	_	_	)/sr
+7	로	로	ADP	_	3	case	_	_	로/jca
+8	대체되고	대체+되+고	CCONJ	_	23	conj	_	_	대체/ncpa+되/xsv+고/ecc
+9	더욱이	더욱이	ADV	_	23	advmod	_	_	더욱이/mag
+10	몇	몇	ADJ	_	11	amod	_	_	몇/mma
+11	개의	개+의	NOUN	_	12	nmod	_	_	개/nbu+의/jcm
+12	트랜지스터를	트랜지스터+를	NOUN	_	13	obj	_	_	트랜지스터/ncn+를/jco
+13	집적하여	집적+하+어	SCONJ	_	17	ccomp	_	_	집적/ncpa+하/xsv+어/ecs
+14	한	한	ADJ	_	15	amod	_	_	한/mma
+15	개의	개+의	NOUN	_	16	nmod	_	_	개/nbu+의/jcm
+16	부품으로	부품+으로	ADV	_	17	advcl	_	_	부품/ncn+으로/jca
+17	만들어내는	만들+어+내+는	AUX	_	22	acl	_	_	만들/pvg+어/ecx+내/px+는/etm
+18	집적회로	집적+회로	NOUN	_	22	compound	_	_	집적/ncpa+회로/ncn
+19	(	(	PUNCT	_	20	punct	_	_	(/sl
+20	IC	IC	X	_	18	appos	_	_	IC/f
+21	)	)	PUNCT	_	20	punct	_	_	)/sr
+22	기술을	기술+을	NOUN	_	23	obj	_	_	기술/ncn+을/jco
+23	개발해	개발+하+어	VERB	_	27	ccomp	_	_	개발/ncpa+하/xsv+어/ecx
+24	내면서부터	내+면서+부터	ADV	_	23	aux	_	_	내/px+면서/ecs+부터/jxc
+25	컴퓨터는	컴퓨터+는	NOUN	_	27	dislocated	_	_	컴퓨터/ncn+는/jxt
+26	점점	점점	ADV	_	27	advmod	_	_	점점/mag
+27	작아졌다	작아지+었+다	VERB	_	0	root	_	_	작아지/pvg+었/ep+다/ef
+28	.	.	PUNCT	_	27	punct	_	_	./sf
+
+# 만약 비행기가 이러한 속도로 줄어들 수 있었다면 지금은 작은 성냥 심지만해졌을 것이다 .
+1	만약	만약	ADV	_	5	advmod	_	_	만약/mag
+2	비행기가	비행기+가	NOUN	_	5	nsubj	_	_	비행기/ncn+가/jcs
+3	이러한	이러하+ㄴ	VERB	_	4	amod	_	_	이러하/pad+ㄴ/etm
+4	속도로	속도+로	ADV	_	5	advcl	_	_	속도/ncn+로/jca
+5	줄어들	줄어들+ㄹ	VERB	_	11	conj	_	_	줄어들/pvg+ㄹ/etm
+6	수	수	NOUN	_	7	fixed	_	_	수/nbn
+7	있었다면	있+었+다면	SCONJ	_	5	aux	_	_	있/paa+었/ep+다면/ecs
+8	지금은	지금+은	NOUN	_	11	dislocated	_	_	지금/ncn+은/jxt
+9	작은	작+ㄴ	ADJ	_	10	amod	_	_	작/paa+ㄴ/etm
+10	성냥	성냥	NOUN	_	11	compound	_	_	성냥/ncn
+11	심지만해졌을	심지+만하+어+지+었+ㄹ	AUX	_	0	root	_	_	심지/ncn+만하/xsm+어/ecx+지/px+었/ep+ㄹ/etm
+12	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 계산 속도 또한 비약적으로 빨라지고 있는데 , 이미 수퍼컴퓨터의 경우 계산 속도는 나노 ( Nano , 10 억분의 1 ) 초 수준까지 도달하고 있다 .
+1	계산	계산	NOUN	_	2	compound	_	_	계산/ncpa
+2	속도	속도	NOUN	_	3	dep	_	_	속도/ncn
+3	또한	또한	ADV	_	5	advmod	_	_	또한/mag
+4	비약적으로	비약+적+으로	ADV	_	5	advcl	_	_	비약/ncpa+적/xsn+으로/jca
+5	빨라지고	빨라지+고	VERB	_	23	ccomp	_	_	빨라지/pvg+고/ecx
+6	있는데	있+는데	SCONJ	_	5	aux	_	_	있/px+는데/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	이미	이미	ADV	_	23	advmod	_	_	이미/mag
+9	수퍼컴퓨터의	수퍼컴퓨터+의	NOUN	_	10	nmod	_	_	수퍼컴퓨터/ncn+의/jcm
+10	경우	경우	NOUN	_	23	advmod	_	_	경우/ncn
+11	계산	계산	NOUN	_	12	compound	_	_	계산/ncpa
+12	속도는	속도+는	NOUN	_	23	dislocated	_	_	속도/ncn+는/jxt
+13	나노	나노	PROPN	_	21	compound	_	_	나노/nq
+14	(	(	PUNCT	_	15	conj	_	_	(/sl
+15	Nano	Nano	X	_	17	conj	_	_	Nano/f
+16	,	,	PUNCT	_	15	punct	_	_	,/sp
+17	10	10	NUM	_	18	nummod	_	_	10/nnc
+18	억분의	억+분+의	NUM	_	19	nmod	_	_	억/nnc+분/xsn+의/jcm
+19	1	1	NUM	_	13	nummod	_	_	1/nnc
+20	)	)	PUNCT	_	19	punct	_	_	)/sr
+21	초	초	NOUN	_	22	compound	_	_	초/nbu
+22	수준까지	수준+까지	ADV	_	23	advcl	_	_	수준/ncn+까지/jxc
+23	도달하고	도달+하+고	VERB	_	0	root	_	_	도달/ncpa+하/xsv+고/ecx
+24	있다	있+다	AUX	_	23	aux	_	_	있/px+다/ef
+25	.	.	PUNCT	_	24	punct	_	_	./sf
+
+# 이는 일정시간 내에 처리가능한 일 ( 계산 ) 의 양이 비약적으로 증가하고 있다는 것을 의미한다 .
+1	이는	이+는	PRON	_	15	dislocated	_	_	이/npd+는/jxt
+2	일정시간	일정+시간	NOUN	_	3	compound	_	_	일정/ncn+시간/ncn
+3	내에	내+에	ADV	_	4	obl	_	_	내/ncn+에/jca
+4	처리가능한	처리+가능+하+ㄴ	VERB	_	5	amod	_	_	처리/ncpa+가능/ncps+하/xsm+ㄴ/etm
+5	일	일	NOUN	_	10	nmod	_	_	일/ncpa
+6	(	(	PUNCT	_	7	punct	_	_	(/sl
+7	계산	계산	NOUN	_	5	appos	_	_	계산/ncpa
+8	)	)	PUNCT	_	7	punct	_	_	)/sr
+9	의	의	ADP	_	5	case	_	_	의/jcm
+10	양이	양+이	NOUN	_	12	nsubj	_	_	양/ncn+이/jcs
+11	비약적으로	비약+적+으로	ADV	_	12	advcl	_	_	비약/ncpa+적/xsn+으로/jca
+12	증가하고	증가+하+고	VERB	_	14	acl	_	_	증가/ncpa+하/xsv+고/ecx
+13	있다는	있+다는	AUX	_	12	aux	_	_	있/px+다는/etm
+14	것을	것+을	NOUN	_	15	obj	_	_	것/nbn+을/jco
+15	의미한다	의미+하+ㄴ다	VERB	_	0	root	_	_	의미/ncpa+하/xsv+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 나아가 컴퓨터의 세계에서는 학습능력을 지닌 신세대컴퓨터가 실용화 단계로 접어들고 있다 .
+1	나아가	나아가+아	SCONJ	_	9	ccomp	_	_	나아가/pvg+아/ecs
+2	컴퓨터의	컴퓨터+의	NOUN	_	3	nmod	_	_	컴퓨터/ncn+의/jcm
+3	세계에서는	세계+에서+는	NOUN	_	9	dislocated	_	_	세계/ncn+에서/jca+는/jxt
+4	학습능력을	학습+능력+을	NOUN	_	5	obj	_	_	학습/ncpa+능력/ncn+을/jco
+5	지닌	지니+ㄴ	VERB	_	6	acl	_	_	지니/pvg+ㄴ/etm
+6	신세대컴퓨터가	신세대+컴퓨터+가	NOUN	_	9	nsubj	_	_	신세대/ncn+컴퓨터/ncn+가/jcs
+7	실용화	실용화	NOUN	_	8	compound	_	_	실용화/ncn
+8	단계로	단계+로	ADV	_	9	advcl	_	_	단계/ncn+로/jca
+9	접어들고	접어들+고	VERB	_	0	root	_	_	접어들/pvg+고/ecx
+10	있다	있+다	AUX	_	9	aux	_	_	있/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그러던 것이 1947 년 , 벨 연구소의 연구원 3 인에 의해 트랜지스터 ( TR ) 가 발명되면서부터 새로운 전기 ( 轉機 ) 를 맞게 된다 .
+1	그러던	그러+더+ㄴ	VERB	_	2	acl	_	_	그러/pvd+더/ep+ㄴ/etm
+2	것이	것+이	NOUN	_	24	nsubj	_	_	것/nbn+이/jcs
+3	1947	1947	NUM	_	4	nummod	_	_	1947/nnc
+4	년	년	NOUN	_	17	advmod	_	_	년/nbu
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	벨	벨	PROPN	_	7	compound	_	_	벨/nq
+7	연구소의	연구소+의	NOUN	_	8	nmod	_	_	연구소/ncn+의/jcm
+8	연구원	연구원	NOUN	_	10	compound	_	_	연구원/ncn
+9	3	3	NUM	_	10	nummod	_	_	3/nnc
+10	인에	인+에	ADV	_	11	obl	_	_	인/nbu+에/jca
+11	의해	의하+어	SCONJ	_	17	ccomp	_	_	의하/pvg+어/ecs
+12	트랜지스터	트랜지스터	NOUN	_	17	nsubj	_	_	트랜지스터/ncn
+13	(	(	PUNCT	_	14	punct	_	_	(/sl
+14	TR	TR	X	_	12	appos	_	_	TR/f
+15	)	)	PUNCT	_	14	punct	_	_	)/sr
+16	가	가	ADP	_	12	case	_	_	가/jcs
+17	발명되면서부터	발명+되+면서+부터	ADV	_	24	ccomp	_	_	발명/ncpa+되/xsv+면서/ecs+부터/jxc
+18	새로운	새롭+ㄴ	ADJ	_	19	amod	_	_	새롭/paa+ㄴ/etm
+19	전기	전기	NOUN	_	24	obj	_	_	전기/ncn
+20	(	(	PUNCT	_	21	punct	_	_	(/sl
+21	轉機	轉機	PROPN	_	19	appos	_	_	轉機/nq
+22	)	)	PUNCT	_	21	punct	_	_	)/sr
+23	를	를	ADP	_	19	case	_	_	를/jco
+24	맞게	맞+게	VERB	_	0	root	_	_	맞/pvg+게/ecx
+25	된다	되+ㄴ다	AUX	_	24	aux	_	_	되/px+ㄴ다/ef
+26	.	.	PUNCT	_	25	punct	_	_	./sf
+
+# 이는 게르마늄 ( Ge ) 이나 실리콘 ( Si ) 과 같은 물질 , 즉 전기의 양도체 ( 良導體 ) 와 절연체 ( 絶緣體 ) 의 중간에 위치한 반도체 ( 半導體 ) 를 사용하여 전압의 증폭을 가능케 한 것이다 .
+1	이는	이+는	PRON	_	37	dislocated	_	_	이/npd+는/jxt
+2	게르마늄	게르마늄	NOUN	_	7	conj	_	_	게르마늄/ncn
+3	(	(	PUNCT	_	4	punct	_	_	(/sl
+4	Ge	Ge	X	_	2	appos	_	_	Ge/f
+5	)	)	PUNCT	_	4	punct	_	_	)/sr
+6	이나	이나	CCONJ	_	2	case	_	_	이나/jcj
+7	실리콘	실리콘	NOUN	_	12	conj	_	_	실리콘/ncn
+8	(	(	PUNCT	_	9	punct	_	_	(/sl
+9	Si	Si	X	_	7	appos	_	_	Si/f
+10	)	)	PUNCT	_	9	punct	_	_	)/sr
+11	과	과	ADP	_	7	case	_	_	과/jct
+12	같은	같+ㄴ	ADJ	_	13	amod	_	_	같/paa+ㄴ/etm
+13	물질	물질	NOUN	_	29	conj	_	_	물질/ncn
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	즉	즉	CCONJ	_	29	cc	_	_	즉/maj
+16	전기의	전기+의	NOUN	_	22	nmod	_	_	전기/ncn+의/jcm
+17	양도체	양도체	NOUN	_	22	conj	_	_	양도체/ncn
+18	(	(	PUNCT	_	19	punct	_	_	(/sl
+19	良導體	良導體	PROPN	_	17	appos	_	_	良導體/nq
+20	)	)	PUNCT	_	19	punct	_	_	)/sr
+21	와	와	CCONJ	_	17	case	_	_	와/jcj
+22	절연체	절연체	NOUN	_	27	nmod	_	_	절연체/ncn
+23	(	(	PUNCT	_	24	punct	_	_	(/sl
+24	絶緣體	絶緣體	PROPN	_	22	appos	_	_	絶緣體/nq
+25	)	)	PUNCT	_	24	punct	_	_	)/sr
+26	의	의	ADP	_	22	case	_	_	의/jcm
+27	중간에	중간+에	ADV	_	28	obl	_	_	중간/ncn+에/jca
+28	위치한	위치+하+ㄴ	VERB	_	29	acl	_	_	위치/ncpa+하/xsv+ㄴ/etm
+29	반도체	반도체	NOUN	_	34	obj	_	_	반도체/ncn
+30	(	(	PUNCT	_	31	punct	_	_	(/sl
+31	半導體	半導體	PROPN	_	29	appos	_	_	半導體/nq
+32	)	)	PUNCT	_	31	punct	_	_	)/sr
+33	를	를	ADP	_	29	case	_	_	를/jco
+34	사용하여	사용+하+어	SCONJ	_	37	conj	_	_	사용/ncpa+하/xsv+어/ecs
+35	전압의	전압+의	NOUN	_	36	nmod	_	_	전압/ncn+의/jcm
+36	증폭을	증폭+을	NOUN	_	37	obj	_	_	증폭/ncpa+을/jco
+37	가능케	가능+하+게	VERB	_	0	root	_	_	가능/ncps+하/xsm+게/ecx
+38	한	하+ㄴ	AUX	_	37	aux	_	_	하/px+ㄴ/etm
+39	것이다	것+이+다	VERB	_	37	aux	_	_	것/nbn+이/jp+다/ef
+40	.	.	PUNCT	_	39	punct	_	_	./sf
+
+# 그 이후 1970 년대 초반 , 집적회로 ( IC ) 의 발견으로 기계의 크기는 수십분의 일로 축소되었다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	이후	이후	NOUN	_	17	advmod	_	_	이후/ncn
+3	1970	1970	NUM	_	4	nummod	_	_	1970/nnc
+4	년대	년대	NOUN	_	5	compound	_	_	년대/nbu
+5	초반	초반	NOUN	_	12	compound	_	_	초반/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	집적회로	집적+회로	NOUN	_	12	nmod	_	_	집적/ncpa+회로/ncn
+8	(	(	PUNCT	_	9	punct	_	_	(/sl
+9	IC	IC	X	_	7	appos	_	_	IC/f
+10	)	)	PUNCT	_	9	punct	_	_	)/sr
+11	의	의	ADP	_	7	case	_	_	의/jcm
+12	발견으로	발견+으로	ADV	_	17	advcl	_	_	발견/ncpa+으로/jca
+13	기계의	기계+의	NOUN	_	14	nmod	_	_	기계/ncn+의/jcm
+14	크기는	크기+는	NOUN	_	17	dislocated	_	_	크기/ncn+는/jxt
+15	수십분의	수십+분+의	NUM	_	16	nmod	_	_	수십/nnc+분/xsn+의/jcm
+16	일로	일+로	ADV	_	17	advcl	_	_	일/nnc+로/jca
+17	축소되었다	축소+되+었+다	VERB	_	0	root	_	_	축소/ncpa+되/xsv+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이것이 전차를 제어하고 , 원자력 발전소를 움직이고 , 복잡한 기상상황을 계산하며 , 로봇을 인간의 의지대로 움직이게 한다 .
+1	이것이	이것+이	PRON	_	16	nsubj	_	_	이것/npd+이/jcs
+2	전차를	전차+를	NOUN	_	3	obj	_	_	전차/ncn+를/jco
+3	제어하고	제어+하+고	CCONJ	_	7	conj	_	_	제어/ncpa+하/xsv+고/ecc
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	원자력	원자력	NOUN	_	6	compound	_	_	원자력/ncn
+6	발전소를	발전소+를	NOUN	_	7	obj	_	_	발전소/ncn+를/jco
+7	움직이고	움직이+고	CCONJ	_	11	conj	_	_	움직이/pvg+고/ecc
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	복잡한	복잡하+ㄴ	ADJ	_	10	amod	_	_	복잡하/paa+ㄴ/etm
+10	기상상황을	기상+상황+을	NOUN	_	11	obj	_	_	기상/ncn+상황/ncn+을/jco
+11	계산하며	계산+하+며	CCONJ	_	16	conj	_	_	계산/ncpa+하/xsv+며/ecc
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	로봇을	로봇+을	NOUN	_	16	obj	_	_	로봇/ncn+을/jco
+14	인간의	인간+의	NOUN	_	15	nmod	_	_	인간/ncn+의/jcm
+15	의지대로	의지+대로	ADV	_	16	advcl	_	_	의지/ncn+대로/jxc
+16	움직이게	움직이+게	VERB	_	0	root	_	_	움직이/pvg+게/ecx
+17	한다	하+ㄴ다	AUX	_	16	aux	_	_	하/px+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그러나 IC의 집적도 ( 集積度 ) 가 발전할수록 두 가지의 커다란 벽에 부딪힐 수밖에 없게 된다 .
+1	그러나	그러나	CCONJ	_	13	cc	_	_	그러나/maj
+2	IC의	IC+의	NOUN	_	3	nmod	_	_	IC/f+의/jcm
+3	집적도	집적도	NOUN	_	8	nsubj	_	_	집적도/ncn
+4	(	(	PUNCT	_	5	punct	_	_	(/sl
+5	集積度	集積度	PROPN	_	3	appos	_	_	集積度/nq
+6	)	)	PUNCT	_	5	punct	_	_	)/sr
+7	가	가	ADP	_	3	case	_	_	가/jcs
+8	발전할수록	발전+하+ㄹ수록	SCONJ	_	13	ccomp	_	_	발전/ncpa+하/xsv+ㄹ수록/ecs
+9	두	두	ADJ	_	10	amod	_	_	두/mma
+10	가지의	가지+의	NOUN	_	12	nmod	_	_	가지/nbu+의/jcm
+11	커다란	커다랗+ㄴ	ADJ	_	12	amod	_	_	커다랗/paa+ㄴ/etm
+12	벽에	벽+에	ADV	_	13	obl	_	_	벽/ncn+에/jca
+13	부딪힐	부딪히+ㄹ	VERB	_	0	root	_	_	부딪히/pvg+ㄹ/etm
+14	수밖에	수+밖에	ADV	_	15	fixed	_	_	수/nbn+밖에/jxc
+15	없게	없+게	ADJ	_	13	aux	_	_	없/paa+게/ecx
+16	된다	되+ㄴ다	AUX	_	13	aux	_	_	되/px+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 하나는 집적수준을 결정하는 회로선폭의 가공수준이다 .
+1	하나는	하나+는	NUM	_	5	dislocated	_	_	하나/nnc+는/jxt
+2	집적수준을	집적+수준+을	NOUN	_	3	obj	_	_	집적/ncpa+수준/ncn+을/jco
+3	결정하는	결정+하+는	VERB	_	5	ccomp	_	_	결정/ncpa+하/xsv+는/etm
+4	회로선폭의	회로선폭+의	NOUN	_	5	nmod	_	_	회로선폭/ncn+의/jcm
+5	가공수준이다	가공+수준+이+다	VERB	_	0	root	_	_	가공/ncpa+수준/ncn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 요컨대 반도체소자의 집적도 향상이 언제까지나 계속될 수도 없으며 , 그로 인한 컴퓨터 및 정보기술의 발전 또한 무궁할 순 없을 것이다 .
+1	요컨대	요컨대	ADV	_	17	advmod	_	_	요컨대/mag
+2	반도체소자의	반도체+소자+의	NOUN	_	3	nmod	_	_	반도체/ncn+소자/ncn+의/jcm
+3	집적도	집적도	NOUN	_	4	compound	_	_	집적도/ncn
+4	향상이	향상+이	NOUN	_	6	nsubj	_	_	향상/ncpa+이/jcs
+5	언제까지나	언제+까지+나	ADV	_	6	advcl	_	_	언제/npd+까지/jxc+나/jxc
+6	계속될	계속+되+ㄹ	VERB	_	17	ccomp	_	_	계속/ncpa+되/xsv+ㄹ/etm
+7	수도	수+도	ADV	_	8	fixed	_	_	수/nbn+도/jxc
+8	없으며	없+으며	SCONJ	_	6	aux	_	_	없/paa+으며/ecs
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	그로	그+로	ADV	_	11	advcl	_	_	그/npd+로/jca
+11	인한	인하+ㄴ	VERB	_	15	acl	_	_	인하/pvg+ㄴ/etm
+12	컴퓨터	컴퓨터	NOUN	_	14	conj	_	_	컴퓨터/ncn
+13	및	및	CCONJ	_	14	cc	_	_	및/maj
+14	정보기술의	정보+기술+의	NOUN	_	15	nmod	_	_	정보/ncn+기술/ncn+의/jcm
+15	발전	발전	NOUN	_	16	dep	_	_	발전/ncpa
+16	또한	또한	ADV	_	17	advmod	_	_	또한/mag
+17	무궁할	무궁+하+ㄹ	VERB	_	0	root	_	_	무궁/ncpa+하/xsv+ㄹ/etm
+18	순	수+ㄴ	NOUN	_	19	fixed	_	_	수/nbn+ㄴ/jxt
+19	없을	없+ㄹ	ADJ	_	17	aux	_	_	없/paa+ㄹ/etm
+20	것이다	것+이+다	VERB	_	17	aux	_	_	것/nbn+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그렇다면 이러한 디지털혁명에 뒤이은 21 세기의 기술신대륙은 과연 무엇일까 ?
+1	그렇다면	그렇다면	CCONJ	_	9	cc	_	_	그렇다면/maj
+2	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+3	디지털혁명에	디지털+혁명+에	ADV	_	4	obl	_	_	디지털/ncn+혁명/ncn+에/jca
+4	뒤이은	뒤잇+ㄴ	VERB	_	7	acl	_	_	뒤잇/pvg+ㄴ/etm
+5	21	21	NUM	_	6	nummod	_	_	21/nnc
+6	세기의	세기+의	NOUN	_	7	nmod	_	_	세기/ncn+의/jcm
+7	기술신대륙은	기술+신대륙+은	NOUN	_	9	dislocated	_	_	기술/ncn+신대륙/ncn+은/jxt
+8	과연	과연	ADV	_	9	advmod	_	_	과연/mag
+9	무엇일까	무엇+이+ㄹ까	VERB	_	0	root	_	_	무엇/npd+이/jp+ㄹ까/ef
+10	?	?	PUNCT	_	9	punct	_	_	?/sf
+
+# 이와 관련 , 최근 세계의 주목을 끌며 급부상하고 있는 분야가 바로 초소형 미소기계 ( 哨所型微少機械 ) , 즉 ' 마이크로머신 ' ( Micromachine ) 기술이다 .
+1	이와	이+와	CCONJ	_	2	conj	_	_	이/npd+와/jct
+2	관련	관련	NOUN	_	8	advmod	_	_	관련/ncpa
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	최근	최근	NOUN	_	8	advmod	_	_	최근/ncn
+5	세계의	세계+의	NOUN	_	6	nmod	_	_	세계/ncn+의/jcm
+6	주목을	주목+을	NOUN	_	7	obj	_	_	주목/ncpa+을/jco
+7	끌며	끌+며	CCONJ	_	8	conj	_	_	끌/pvg+며/ecc
+8	급부상하고	급부상+하+고	VERB	_	10	acl	_	_	급부상/ncpa+하/xsv+고/ecx
+9	있는	있+는	AUX	_	8	aux	_	_	있/px+는/etm
+10	분야가	분야+가	NOUN	_	25	nsubj	_	_	분야/ncn+가/jcs
+11	바로	바로	ADV	_	25	advmod	_	_	바로/mag
+12	초소형	초소형	NOUN	_	13	compound	_	_	초소형/ncn
+13	미소기계	미소+기계	NOUN	_	25	compound	_	_	미소/ncn+기계/ncn
+14	(	(	PUNCT	_	15	punct	_	_	(/sl
+15	哨所型微少機械	哨所型微少機械	PROPN	_	13	appos	_	_	哨所型微少機械/nq
+16	)	)	PUNCT	_	15	punct	_	_	)/sr
+17	,	,	PUNCT	_	13	punct	_	_	,/sp
+18	즉	즉	CCONJ	_	25	cc	_	_	즉/maj
+19	'	'	PUNCT	_	20	punct	_	_	'/sl
+20	마이크로머신	마이크로+머신	NOUN	_	25	compound	_	_	마이크로/ncn+머신/ncn
+21	'	'	PUNCT	_	20	punct	_	_	'/sr
+22	(	(	PUNCT	_	23	punct	_	_	(/sl
+23	Micromachine	Micromachine	X	_	20	appos	_	_	Micromachine/f
+24	)	)	PUNCT	_	23	punct	_	_	)/sr
+25	기술이다	기술+이+다	VERB	_	0	root	_	_	기술/ncn+이/jp+다/ef
+26	.	.	PUNCT	_	25	punct	_	_	./sf
+
+# 이것은 현재 최고수준의 초고집적반도체의 치밀한 회로를 제작하는 과정에서 파생적으로 생겨났다고도 할 수 있다 .
+1	이것은	이것+은	PRON	_	10	dislocated	_	_	이것/npd+은/jxt
+2	현재	현재	NOUN	_	7	advmod	_	_	현재/ncn
+3	최고수준의	최고+수준+의	NOUN	_	4	nmod	_	_	최고/ncn+수준/ncn+의/jcm
+4	초고집적반도체의	초고집적+반도체+의	NOUN	_	6	nmod	_	_	초고집적/ncpa+반도체/ncn+의/jcm
+5	치밀한	치밀하+ㄴ	ADJ	_	6	amod	_	_	치밀하/paa+ㄴ/etm
+6	회로를	회로+를	NOUN	_	7	obj	_	_	회로/ncn+를/jco
+7	제작하는	제작+하+는	VERB	_	8	acl	_	_	제작/ncpa+하/xsv+는/etm
+8	과정에서	과정+에서	ADV	_	10	advcl	_	_	과정/ncn+에서/jca
+9	파생적으로	파생+적+으로	ADV	_	10	advcl	_	_	파생/ncpa+적/xsn+으로/jca
+10	생겨났다고도	생겨나+ㅆ+다+고+도	ADV	_	11	advcl	_	_	생겨나/pvg+ㅆ/ep+다/ef+고/jcr+도/jxc
+11	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있다	있+다	ADJ	_	11	aux	_	_	있/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 기술 분야에 있어서 선행투자의 중요성을 입증한 셈이다 .
+1	기술	기술	NOUN	_	2	compound	_	_	기술/ncn
+2	분야에	분야+에	ADV	_	3	obl	_	_	분야/ncn+에/jca
+3	있어서	있+어서	SCONJ	_	6	xcomp	_	_	있/paa+어서/ecs
+4	선행투자의	선행+투자+의	NOUN	_	5	nmod	_	_	선행/ncpa+투자/ncpa+의/jcm
+5	중요성을	중요성+을	NOUN	_	6	obj	_	_	중요성/ncn+을/jco
+6	입증한	입증+하+ㄴ	VERB	_	7	ccomp	_	_	입증/ncpa+하/xsv+ㄴ/etm
+7	셈이다	셈+이+다	VERB	_	0	root	_	_	셈/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 따라서 다가올 21 세기의 최첨단 기술영역을 확보하기 위한 선진각국의 물밑 경합은 지금 이 시간에도 치연하게 전개되고 있다 .
+1	따라서	따라서	CCONJ	_	16	cc	_	_	따라서/maj
+2	다가올	다가오+ㄹ	VERB	_	4	acl	_	_	다가오/pvg+ㄹ/etm
+3	21	21	NUM	_	4	nummod	_	_	21/nnc
+4	세기의	세기+의	NOUN	_	6	nmod	_	_	세기/ncn+의/jcm
+5	최첨단	최첨단	NOUN	_	6	compound	_	_	최첨단/ncn
+6	기술영역을	기술+영역+을	NOUN	_	7	obj	_	_	기술/ncn+영역/ncn+을/jco
+7	확보하기	확보+하+기	VERB	_	8	nmod	_	_	확보/ncpa+하/xsv+기/etn
+8	위한	위하+ㄴ	VERB	_	11	acl	_	_	위하/pvg+ㄴ/etm
+9	선진각국의	선진+각국+의	NOUN	_	11	nmod	_	_	선진/ncn+각국/ncn+의/jcm
+10	물밑	물+밑	NOUN	_	11	compound	_	_	물/ncn+밑/ncn
+11	경합은	경합+은	NOUN	_	16	dislocated	_	_	경합/ncpa+은/jxt
+12	지금	지금	NOUN	_	14	compound	_	_	지금/ncn
+13	이	이	DET	_	14	det	_	_	이/mmd
+14	시간에도	시간+에+도	ADV	_	16	advcl	_	_	시간/ncn+에/jca+도/jxc
+15	치연하게	치열+하+게	SCONJ	_	16	xcomp	_	_	치열/ncps+하/xsm+게/ecs
+16	전개되고	전개+되+고	VERB	_	0	root	_	_	전개/ncpa+되/xsv+고/ecx
+17	있다	있+다	AUX	_	16	aux	_	_	있/px+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 지난 1960 년 미국에서 제작된 공상과학 ( SF ) 영화 중에 마이크로결사대 ( Fantastic Voyage ) 라는 영화가 있다 .
+1	지난	지나+ㄴ	VERB	_	3	acl	_	_	지나/pvg+ㄴ/etm
+2	1960	1960	NUM	_	3	nummod	_	_	1960/nnc
+3	년	년	NOUN	_	5	advmod	_	_	년/nbu
+4	미국에서	미국+에서	ADV	_	5	advcl	_	_	미국/nq+에서/jca
+5	제작된	제작+되+ㄴ	VERB	_	10	acl	_	_	제작/ncpa+되/xsv+ㄴ/etm
+6	공상과학	공상+과학	NOUN	_	10	compound	_	_	공상/ncpa+과학/ncn
+7	(	(	PUNCT	_	8	punct	_	_	(/sl
+8	SF	SF	X	_	6	appos	_	_	SF/f
+9	)	)	PUNCT	_	8	punct	_	_	)/sr
+10	영화	영화	NOUN	_	11	compound	_	_	영화/ncn
+11	중에	중+에	ADV	_	19	obl	_	_	중/nbn+에/jca
+12	마이크로결사대	마이크로+결사대	NOUN	_	18	acl	_	_	마이크로/ncn+결사대/ncn
+13	(	(	PUNCT	_	15	punct	_	_	(/sl
+14	Fantastic	Fantastic	X	_	15	flat	_	_	Fantastic/f
+15	Voyage	Voyage	X	_	12	appos	_	_	Voyage/f
+16	)	)	PUNCT	_	15	punct	_	_	)/sr
+17	라는	이+라는	ADP	_	12	cop	_	_	이/jp+라는/etm
+18	영화가	영화+가	NOUN	_	19	nsubj	_	_	영화/ncn+가/jcs
+19	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 이 영화에서는 수술이 불가능한 뇌장애를 지닌 환자를 구하기 위해 인간이 탄 소형잠수정을 세균 크기로 축소하여 환자의 몸에 침투시키는 이야기가 전개된다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	영화에서는	영화+에서+는	NOUN	_	20	dislocated	_	_	영화/ncn+에서/jca+는/jxt
+3	수술이	수술+이	NOUN	_	4	nsubj	_	_	수술/ncn+이/jcs
+4	불가능한	불가능+하+ㄴ	VERB	_	5	amod	_	_	불가능/ncps+하/xsm+ㄴ/etm
+5	뇌장애를	뇌+장애+를	NOUN	_	6	obj	_	_	뇌/ncn+장애/ncn+를/jco
+6	지닌	지니+ㄴ	VERB	_	7	acl	_	_	지니/pvg+ㄴ/etm
+7	환자를	환자+를	NOUN	_	8	obj	_	_	환자/ncn+를/jco
+8	구하기	구하+기	VERB	_	9	nmod	_	_	구하/pvg+기/etn
+9	위해	위하+어	SCONJ	_	18	ccomp	_	_	위하/pvg+어/ecs
+10	인간이	인간+이	NOUN	_	11	nsubj	_	_	인간/ncn+이/jcs
+11	탄	타+ㄴ	VERB	_	12	acl	_	_	타/pvg+ㄴ/etm
+12	소형잠수정을	소형+잠수정+을	NOUN	_	15	obj	_	_	소형/ncn+잠수정/ncn+을/jco
+13	세균	세균	NOUN	_	14	compound	_	_	세균/ncn
+14	크기로	크기+로	ADV	_	15	advcl	_	_	크기/ncn+로/jca
+15	축소하여	축소+하+어	SCONJ	_	18	ccomp	_	_	축소/ncpa+하/xsv+어/ecs
+16	환자의	환자+의	NOUN	_	17	nmod	_	_	환자/ncn+의/jcm
+17	몸에	몸+에	ADV	_	18	obl	_	_	몸/ncn+에/jca
+18	침투시키는	침투+시키+는	VERB	_	19	acl	_	_	침투/ncpa+시키/xsv+는/etm
+19	이야기가	이야기+가	NOUN	_	20	nsubj	_	_	이야기/ncn+가/jcs
+20	전개된다	전개+되+ㄴ다	VERB	_	0	root	_	_	전개/ncpa+되/xsv+ㄴ다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 이 축소된 잠수정은 혈관을 통해 뇌에 도달 , 레이저광선으로 치료를 하게 된다 .
+1	이	이	DET	_	3	det	_	_	이/mmd
+2	축소된	축소+되+ㄴ	VERB	_	3	acl	_	_	축소/ncpa+되/xsv+ㄴ/etm
+3	잠수정은	잠수정+은	NOUN	_	11	dislocated	_	_	잠수정/ncn+은/jxt
+4	혈관을	혈관+을	NOUN	_	5	obj	_	_	혈관/ncn+을/jco
+5	통해	통하+어	SCONJ	_	7	conj	_	_	통하/pvg+어/ecs
+6	뇌에	뇌+에	ADV	_	7	obl	_	_	뇌/ncn+에/jca
+7	도달	도달	NOUN	_	11	advmod	_	_	도달/ncpa
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	레이저광선으로	레이저+광선+으로	ADV	_	11	advcl	_	_	레이저/ncn+광선/ncn+으로/jca
+10	치료를	치료+를	NOUN	_	11	obj	_	_	치료/ncpa+를/jco
+11	하게	하+게	VERB	_	0	root	_	_	하/pvg+게/ecx
+12	된다	되+ㄴ다	AUX	_	11	aux	_	_	되/px+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그리고 나중에는 눈물을 통해 환자의 체외로 나오게 되는 것이다 .
+1	그리고	그리고	CCONJ	_	7	cc	_	_	그리고/maj
+2	나중에는	나중+에+는	NOUN	_	7	dislocated	_	_	나중/ncn+에/jca+는/jxt
+3	눈물을	눈물+을	NOUN	_	4	obj	_	_	눈물/ncn+을/jco
+4	통해	통하+어	SCONJ	_	7	ccomp	_	_	통하/pvg+어/ecs
+5	환자의	환자+의	NOUN	_	6	nmod	_	_	환자/ncn+의/jcm
+6	체외로	체외+로	ADV	_	7	advcl	_	_	체외/ncn+로/jca
+7	나오게	나오+게	VERB	_	0	root	_	_	나오/pvg+게/ecx
+8	되는	되+는	AUX	_	7	aux	_	_	되/px+는/etm
+9	것이다	것+이+다	VERB	_	7	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 당시 이 영화를 본 많은 사람들은 지금까지도 이를 그저 꿈 같은 이야기로나 기억하고 있을 것이다 .
+1	당시	당시	NOUN	_	4	advmod	_	_	당시/ncn
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	영화를	영화+를	NOUN	_	4	obj	_	_	영화/ncn+를/jco
+4	본	보+ㄴ	VERB	_	6	acl	_	_	보/pvg+ㄴ/etm
+5	많은	많+ㄴ	ADJ	_	6	amod	_	_	많/paa+ㄴ/etm
+6	사람들은	사람+들+은	NOUN	_	13	dislocated	_	_	사람/ncn+들/xsn+은/jxt
+7	지금까지도	지금+까지+도	ADV	_	13	advcl	_	_	지금/ncn+까지/jxc+도/jxc
+8	이를	이+를	PRON	_	13	obj	_	_	이/npd+를/jco
+9	그저	그저	ADV	_	11	advmod	_	_	그저/mag
+10	꿈	꿈	NOUN	_	11	dep	_	_	꿈/ncn
+11	같은	같+ㄴ	ADJ	_	12	amod	_	_	같/paa+ㄴ/etm
+12	이야기로나	이야기+로+나	ADV	_	13	advcl	_	_	이야기/ncn+로/jca+나/jxc
+13	기억하고	기억+하+고	VERB	_	0	root	_	_	기억/ncpa+하/xsv+고/ecx
+14	있을	있+ㄹ	AUX	_	13	aux	_	_	있/px+ㄹ/etm
+15	것이다	것+이+다	VERB	_	13	aux	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그러나 마치 만화영화와도 같은 이 일이 가능해진다면 우리 생활은 어떻게 변할까 ?
+1	그러나	그러나	CCONJ	_	11	cc	_	_	그러나/maj
+2	마치	마치	ADV	_	4	advmod	_	_	마치/mag
+3	만화영화와도	만화+영화+와+도	ADV	_	4	advcl	_	_	만화/ncn+영화/ncn+와/jct+도/jxc
+4	같은	같+ㄴ	ADJ	_	6	amod	_	_	같/paa+ㄴ/etm
+5	이	이	DET	_	6	det	_	_	이/mmd
+6	일이	일+이	NOUN	_	7	nsubj	_	_	일/ncn+이/jcs
+7	가능해진다면	가능+하+어+지+ㄴ다면	SCONJ	_	11	xcomp	_	_	가능/ncps+하/xsm+어/ecx+지/px+ㄴ다면/ecs
+8	우리	우리	PRON	_	9	compound	_	_	우리/npp
+9	생활은	생활+은	NOUN	_	11	dislocated	_	_	생활/ncpa+은/jxt
+10	어떻게	어떻+게	SCONJ	_	11	xcomp	_	_	어떻/pad+게/ecs
+11	변할까	변하+ㄹ까	VERB	_	0	root	_	_	변하/pvg+ㄹ까/ef
+12	?	?	PUNCT	_	11	punct	_	_	?/sf
+
+# 물론 인간을 축소하는 것은 현재의 과학기술로는 불가능하다 .
+1	물론	물론	ADV	_	7	advmod	_	_	물론/mag
+2	인간을	인간+을	NOUN	_	3	obj	_	_	인간/ncn+을/jco
+3	축소하는	축소+하+는	VERB	_	4	acl	_	_	축소/ncpa+하/xsv+는/etm
+4	것은	것+은	NOUN	_	7	dislocated	_	_	것/nbn+은/jxt
+5	현재의	현재+의	NOUN	_	6	nmod	_	_	현재/ncn+의/jcm
+6	과학기술로는	과학+기술+로+는	NOUN	_	7	dislocated	_	_	과학/ncn+기술/ncn+로/jca+는/jxt
+7	불가능하다	불가능+하+다	VERB	_	0	root	_	_	불가능/ncps+하/xsm+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 지름 수십 미크론의 가는 혈관 가운데로 이동하여 환부의 검사나 치료를 해주는 마이크로로봇의 개발은 그 좋은 예다 .
+1	지름	지름	NOUN	_	3	compound	_	_	지름/ncn
+2	수십	수십	NUM	_	3	nummod	_	_	수십/nnc
+3	미크론의	미크론+의	NOUN	_	5	nmod	_	_	미크론/nbu+의/jcm
+4	가는	가늘+ㄴ	ADJ	_	5	amod	_	_	가늘/paa+ㄴ/etm
+5	혈관	혈관	NOUN	_	6	compound	_	_	혈관/ncn
+6	가운데로	가운데+로	ADV	_	7	advcl	_	_	가운데/ncn+로/jca
+7	이동하여	이동+하+어	SCONJ	_	11	ccomp	_	_	이동/ncpa+하/xsv+어/ecs
+8	환부의	환부+의	NOUN	_	10	nmod	_	_	환부/ncn+의/jcm
+9	검사나	검사+나	CCONJ	_	10	conj	_	_	검사/ncn+나/jcj
+10	치료를	치료+를	NOUN	_	11	obj	_	_	치료/ncpa+를/jco
+11	해주는	하+어+주+는	AUX	_	12	acl	_	_	하/pvg+어/ecx+주/px+는/etm
+12	마이크로로봇의	마이크로+로봇+의	NOUN	_	13	nmod	_	_	마이크로/ncn+로봇/ncn+의/jcm
+13	개발은	개발+은	NOUN	_	16	dislocated	_	_	개발/ncpa+은/jxt
+14	그	그	DET	_	16	det	_	_	그/mmd
+15	좋은	좋+ㄴ	ADJ	_	16	amod	_	_	좋/paa+ㄴ/etm
+16	예다	예+이+다	VERB	_	0	root	_	_	예/ncn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그러나 이러한 마이크로머신의 응용은 비단 의료분야에 한정되지는 않는다 .
+1	그러나	그러나	CCONJ	_	7	cc	_	_	그러나/maj
+2	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+3	마이크로머신의	마이크로+머신+의	NOUN	_	4	nmod	_	_	마이크로/ncn+머신/ncn+의/jcm
+4	응용은	응용+은	NOUN	_	7	dislocated	_	_	응용/ncpa+은/jxt
+5	비단	비단	ADV	_	7	advmod	_	_	비단/mag
+6	의료분야에	의료+분야+에	ADV	_	7	obl	_	_	의료/ncn+분야/ncn+에/jca
+7	한정되지는	한정+되+지+는	NOUN	_	0	root	_	_	한정/ncpa+되/xsv+지/ecx+는/jxt
+8	않는다	않+는다	AUX	_	7	aux	_	_	않/px+는다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그밖에도 각종 전자 , 기계부품을 마이크로화한 초소형 인공위성도 매력적인 검토대상이 된다 .
+1	그밖에도	그+밖에+도	ADV	_	11	advcl	_	_	그/npd+밖에/jxc+도/jxc
+2	각종	각종	NOUN	_	5	compound	_	_	각종/ncn
+3	전자	전자	NOUN	_	5	conj	_	_	전자/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	기계부품을	기계+부품+을	NOUN	_	6	obj	_	_	기계/ncn+부품/ncn+을/jco
+6	마이크로화한	마이크로화+하+ㄴ	VERB	_	8	acl	_	_	마이크로화/ncpa+하/xsv+ㄴ/etm
+7	초소형	초소형	NOUN	_	8	compound	_	_	초소형/ncn
+8	인공위성도	인공+위성+도	ADV	_	11	advcl	_	_	인공/ncn+위성/ncn+도/jxc
+9	매력적인	매력+적+이+ㄴ	VERB	_	10	acl	_	_	매력/ncn+적/xsn+이/jp+ㄴ/etm
+10	검토대상이	검토+대상+이	NOUN	_	11	csubj	_	_	검토/ncpa+대상/ncn+이/jcc
+11	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 현재의 인공위성은 그 규모상 국가프로젝트가 아니면 어려우나 수십 킬로그램 정도의 초소형이라면 민간인도 가능할 것이기 때문이다 .
+1	현재의	현재+의	NOUN	_	2	nmod	_	_	현재/ncn+의/jcm
+2	인공위성은	인공+위성+은	NOUN	_	7	dislocated	_	_	인공/ncn+위성/ncn+은/jxt
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	규모상	규모+상	NOUN	_	7	advmod	_	_	규모/ncn+상/xsn
+5	국가프로젝트가	국가+프로젝트+가	NOUN	_	6	csubj	_	_	국가/ncn+프로젝트/ncn+가/jcc
+6	아니면	아니+면	SCONJ	_	7	xcomp	_	_	아니/paa+면/ecs
+7	어려우나	어렵+으나	SCONJ	_	13	xcomp	_	_	어렵/paa+으나/ecs
+8	수십	수십	NUM	_	9	nummod	_	_	수십/nnc
+9	킬로그램	킬로그램	NOUN	_	10	compound	_	_	킬로그램/nbu
+10	정도의	정도+의	NOUN	_	11	nmod	_	_	정도/ncn+의/jcm
+11	초소형이라면	초소형+이+라면	SCONJ	_	13	conj	_	_	초소형/ncn+이/jp+라면/ecs
+12	민간인도	민간인+도	ADV	_	13	advcl	_	_	민간인/ncn+도/jxc
+13	가능할	가능+하+ㄹ	VERB	_	0	root	_	_	가능/ncps+하/xsm+ㄹ/etm
+14	것이기	것+이+기	VERB	_	13	aux	_	_	것/nbn+이/jp+기/etn
+15	때문이다	때문+이+다	VERB	_	13	aux	_	_	때문/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 극소 세계 탐구의 첫걸음은 물론 반도체기술이었으나 , 그것은 단지 시작에 불과한 것으로 그 본격적인 탐색은 마이크로머신기술을 통해 열려질 것이다 .
+1	극소	극소	NOUN	_	2	compound	_	_	극소/ncn
+2	세계	세계	NOUN	_	3	compound	_	_	세계/ncn
+3	탐구의	탐구+의	NOUN	_	4	nmod	_	_	탐구/ncpa+의/jcm
+4	첫걸음은	첫걸음+은	NOUN	_	6	dislocated	_	_	첫걸음/ncn+은/jxt
+5	물론	물론	ADV	_	6	advmod	_	_	물론/mag
+6	반도체기술이었으나	반도체+기술+이+었+으나	SCONJ	_	18	ccomp	_	_	반도체/ncn+기술/ncn+이/jp+었/ep+으나/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	그것은	그것+은	PRON	_	11	dislocated	_	_	그것/npd+은/jxt
+9	단지	단지	ADV	_	11	advmod	_	_	단지/mag
+10	시작에	시작+에	ADV	_	11	obl	_	_	시작/ncpa+에/jca
+11	불과한	불과하+ㄴ	ADJ	_	12	amod	_	_	불과하/paa+ㄴ/etm
+12	것으로	것+으로	ADV	_	18	advcl	_	_	것/nbn+으로/jca
+13	그	그	DET	_	15	det	_	_	그/mmd
+14	본격적인	본격+적+이+ㄴ	VERB	_	15	acl	_	_	본격/ncn+적/xsn+이/jp+ㄴ/etm
+15	탐색은	탐색+은	NOUN	_	18	dislocated	_	_	탐색/ncpa+은/jxt
+16	마이크로머신기술을	마이크로+머신+기술+을	NOUN	_	17	obj	_	_	마이크로/ncn+머신/ncn+기술/ncn+을/jco
+17	통해	통하+어	SCONJ	_	18	ccomp	_	_	통하/pvg+어/ecs
+18	열려질	열려지+ㄹ	VERB	_	0	root	_	_	열려지/pvg+ㄹ/etm
+19	것이다	것+이+다	VERB	_	18	aux	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 기계와 컴퓨터의 결합인 메카트로닉스기술은 종래의 기계를 경이적으로 작게 함과 동시에 인텔리전트화를 이룩하였다 .
+1	기계와	기계+와	CCONJ	_	2	conj	_	_	기계/ncn+와/jcj
+2	컴퓨터의	컴퓨터+의	NOUN	_	3	nmod	_	_	컴퓨터/ncn+의/jcm
+3	결합인	결합+이+ㄴ	VERB	_	4	acl	_	_	결합/ncpa+이/jp+ㄴ/etm
+4	메카트로닉스기술은	메카트로닉스+기술+은	NOUN	_	12	dislocated	_	_	메카트로닉스/ncn+기술/ncn+은/jxt
+5	종래의	종래+의	NOUN	_	6	nmod	_	_	종래/ncn+의/jcm
+6	기계를	기계+를	NOUN	_	8	obj	_	_	기계/ncn+를/jco
+7	경이적으로	경이+적+으로	ADV	_	8	advcl	_	_	경이/ncps+적/xsn+으로/jca
+8	작게	작+게	ADJ	_	10	conj	_	_	작/paa+게/ecx
+9	함과	하+ㅁ+과	CCONJ	_	8	aux	_	_	하/px+ㅁ/etn+과/jct
+10	동시에	동시+에	ADV	_	12	obl	_	_	동시/ncn+에/jca
+11	인텔리전트화를	인텔리전트화+를	NOUN	_	12	obj	_	_	인텔리전트화/ncn+를/jco
+12	이룩하였다	이룩하+었+다	VERB	_	0	root	_	_	이룩하/pvg+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 소형화와 인텔리전트화는 서로 달라 보일지 모르나 실제로는 한 쪽이 성립하기 위해선 다른 쪽도 역시 성립해야 하는 불가분의 관계에 있다 .
+1	소형화와	소형화+와	CCONJ	_	2	conj	_	_	소형화/ncn+와/jcj
+2	인텔리전트화는	인텔리전트화+는	NOUN	_	19	dislocated	_	_	인텔리전트화/ncn+는/jxt
+3	서로	서로	NOUN	_	4	dep	_	_	서로/ncn
+4	달라	다르+아	SCONJ	_	5	xcomp	_	_	다르/paa+아/ecs
+5	보일지	보이+ㄹ지	SCONJ	_	6	ccomp	_	_	보이/pvg+ㄹ지/ecs
+6	모르나	모르+나	SCONJ	_	19	conj	_	_	모르/pvg+나/ecs
+7	실제로는	실제로+는	NOUN	_	19	advmod	_	_	실제로/mag+는/jxt
+8	한	한	ADJ	_	9	amod	_	_	한/mma
+9	쪽이	쪽+이	NOUN	_	10	nsubj	_	_	쪽/nbu+이/jcs
+10	성립하기	성립+하+기	VERB	_	11	nmod	_	_	성립/ncpa+하/xsv+기/etn
+11	위해선	위하+어서+ㄴ	NOUN	_	15	ccomp	_	_	위하/pvg+어서/ecs+ㄴ/jxt
+12	다른	다른	ADJ	_	13	amod	_	_	다른/mma
+13	쪽도	쪽+도	ADV	_	15	advcl	_	_	쪽/ncn+도/jxc
+14	역시	역시	ADV	_	15	advmod	_	_	역시/mag
+15	성립해야	성립+하+어야	VERB	_	18	acl	_	_	성립/ncpa+하/xsv+어야/ecx
+16	하는	하+는	AUX	_	15	aux	_	_	하/px+는/etm
+17	불가분의	불가분+의	NOUN	_	18	nmod	_	_	불가분/ncn+의/jcm
+18	관계에	관계+에	ADV	_	19	obl	_	_	관계/ncpa+에/jca
+19	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 즉 , 맘모스와 같이 거대한 기계는 지혜를 갖기가 어렵고 인텔리전트화 없는 소형화는 단순한 왜소함에 불과하기 때문이다 .
+1	즉	즉	CCONJ	_	15	cc	_	_	즉/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	맘모스와	맘모스+와	CCONJ	_	4	conj	_	_	맘모스/ncn+와/jct
+4	같이	같+이	SCONJ	_	5	xcomp	_	_	같/paa+이/ecs
+5	거대한	거대+하+ㄴ	VERB	_	6	amod	_	_	거대/ncps+하/xsm+ㄴ/etm
+6	기계는	기계+는	NOUN	_	9	dislocated	_	_	기계/ncn+는/jxt
+7	지혜를	지혜+를	NOUN	_	8	obj	_	_	지혜/ncps+를/jco
+8	갖기가	갖+기+가	NOUN	_	9	nsubj	_	_	갖/pvg+기/etn+가/jcs
+9	어렵고	어렵+고	CCONJ	_	15	conj	_	_	어렵/paa+고/ecc
+10	인텔리전트화	인텔리전트화	NOUN	_	11	dep	_	_	인텔리전트화/ncn
+11	없는	없+는	ADJ	_	12	amod	_	_	없/paa+는/etm
+12	소형화는	소형화+는	NOUN	_	15	dislocated	_	_	소형화/ncn+는/jxt
+13	단순한	단순+하+ㄴ	VERB	_	14	amod	_	_	단순/ncps+하/xsm+ㄴ/etm
+14	왜소함에	왜소하+ㅁ+에	ADV	_	15	obl	_	_	왜소하/paa+ㅁ/etn+에/jca
+15	불과하기	불과하+기	ADJ	_	0	root	_	_	불과하/paa+기/etn
+16	때문이다	때문+이+다	VERB	_	15	aux	_	_	때문/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그러나 더욱 작은 크기 , 즉 쌀알이나 좁쌀 크기의 기계를 만들고자 하는 것은 종래 기술의 연장선에서는 성공하기가 어렵다 .
+1	그러나	그러나	CCONJ	_	18	cc	_	_	그러나/maj
+2	더욱	더욱	ADV	_	3	advmod	_	_	더욱/mag
+3	작은	작+ㄴ	ADJ	_	4	amod	_	_	작/paa+ㄴ/etm
+4	크기	크기	NOUN	_	9	conj	_	_	크기/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	즉	즉	CCONJ	_	9	cc	_	_	즉/maj
+7	쌀알이나	쌀알+이나	CCONJ	_	8	conj	_	_	쌀알/ncn+이나/jcj
+8	좁쌀	좁쌀	NOUN	_	9	compound	_	_	좁쌀/ncn
+9	크기의	크기+의	NOUN	_	10	nmod	_	_	크기/ncn+의/jcm
+10	기계를	기계+를	NOUN	_	11	obj	_	_	기계/ncn+를/jco
+11	만들고자	만들+고자	VERB	_	13	acl	_	_	만들/pvg+고자/ecx
+12	하는	하+는	AUX	_	11	aux	_	_	하/px+는/etm
+13	것은	것+은	NOUN	_	18	dislocated	_	_	것/nbn+은/jxt
+14	종래	종래	NOUN	_	15	compound	_	_	종래/ncn
+15	기술의	기술+의	NOUN	_	16	nmod	_	_	기술/ncn+의/jcm
+16	연장선에서는	연장선+에서+는	NOUN	_	18	dislocated	_	_	연장선/ncn+에서/jca+는/jxt
+17	성공하기가	성공+하+기+가	NOUN	_	18	nsubj	_	_	성공/ncpa+하/xsv+기/etn+가/jcs
+18	어렵다	어렵+다	ADJ	_	0	root	_	_	어렵/paa+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 왜냐하면 현재 메카트로닉스 제품의 본체부분인 구조나 메커니즘의 소형화는 어느 한계에 도달하고 있기 때문이다 .
+1	왜냐하면	왜냐하면	CCONJ	_	11	cc	_	_	왜냐하면/maj
+2	현재	현재	NOUN	_	11	advmod	_	_	현재/ncn
+3	메카트로닉스	메카트로닉스	NOUN	_	4	compound	_	_	메카트로닉스/ncn
+4	제품의	제품+의	NOUN	_	5	nmod	_	_	제품/ncn+의/jcm
+5	본체부분인	본체+부분+이+ㄴ	VERB	_	7	acl	_	_	본체/ncn+부분/ncn+이/jp+ㄴ/etm
+6	구조나	구조+나	CCONJ	_	7	conj	_	_	구조/ncn+나/jcj
+7	메커니즘의	메커니즘+의	NOUN	_	8	nmod	_	_	메커니즘/ncn+의/jcm
+8	소형화는	소형화+는	NOUN	_	11	dislocated	_	_	소형화/ncn+는/jxt
+9	어느	어느	DET	_	10	det	_	_	어느/mmd
+10	한계에	한계+에	ADV	_	11	obl	_	_	한계/ncn+에/jca
+11	도달하고	도달+하+고	VERB	_	0	root	_	_	도달/ncpa+하/xsv+고/ecx
+12	있기	있+기	AUX	_	11	aux	_	_	있/px+기/etn
+13	때문이다	때문+이+다	VERB	_	11	aux	_	_	때문/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 한편 그런 모든 요소가 합쳐진 종합메카트로닉스라 할 수 있는 로봇 또한 여러 방향에서 발전을 계속해 왔다 .
+1	한편	한편	CCONJ	_	15	cc	_	_	한편/maj
+2	그런	그렇+ㄴ	VERB	_	4	amod	_	_	그렇/pad+ㄴ/etm
+3	모든	모든	ADJ	_	4	amod	_	_	모든/mma
+4	요소가	요소+가	NOUN	_	5	nsubj	_	_	요소/ncn+가/jcs
+5	합쳐진	합쳐지+ㄴ	VERB	_	6	acl	_	_	합쳐지/pvg+ㄴ/etm
+6	종합메카트로닉스라	종합+메카트로닉스+라	VERB	_	7	conj	_	_	종합/ncpa+메카트로닉스/ncn+라/jcr
+7	할	하+ㄹ	VERB	_	10	acl	_	_	하/pvg+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있는	있+는	ADJ	_	7	aux	_	_	있/paa+는/etm
+10	로봇	로봇	NOUN	_	11	dep	_	_	로봇/ncn
+11	또한	또한	ADV	_	15	advmod	_	_	또한/mag
+12	여러	여러	ADJ	_	13	amod	_	_	여러/mma
+13	방향에서	방향+에서	ADV	_	15	advcl	_	_	방향/ncn+에서/jca
+14	발전을	발전+을	NOUN	_	15	obj	_	_	발전/ncpa+을/jco
+15	계속해	계속+하+어	VERB	_	0	root	_	_	계속/ncpa+하/xsv+어/ecx
+16	왔다	오+았+다	AUX	_	15	aux	_	_	오/px+았/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 현재의 로봇 개발의 주요 테마는 제 5 세대의 과학이라고도 하는 인공지능 ( AI ) 을 가진 로봇의 제조이다 .
+1	현재의	현재+의	NOUN	_	3	nmod	_	_	현재/ncn+의/jcm
+2	로봇	로봇	NOUN	_	3	compound	_	_	로봇/ncn
+3	개발의	개발+의	NOUN	_	5	nmod	_	_	개발/ncpa+의/jcm
+4	주요	주요	NOUN	_	5	compound	_	_	주요/ncps
+5	테마는	테마+는	NOUN	_	18	dislocated	_	_	테마/ncn+는/jxt
+6	제	제	ADJ	_	7	amod	_	_	제/mma
+7	5	5	NUM	_	8	nummod	_	_	5/nnc
+8	세대의	세대+의	NOUN	_	9	nmod	_	_	세대/ncn+의/jcm
+9	과학이라고도	과학+이+라+고+도	ADV	_	10	advcl	_	_	과학/ncn+이/jp+라/ef+고/jcr+도/jxc
+10	하는	하+는	VERB	_	11	acl	_	_	하/pvg+는/etm
+11	인공지능	인공+지능	NOUN	_	16	obj	_	_	인공/ncn+지능/ncn
+12	(	(	PUNCT	_	13	punct	_	_	(/sl
+13	AI	AI	X	_	11	appos	_	_	AI/f
+14	)	)	PUNCT	_	13	punct	_	_	)/sr
+15	을	을	ADP	_	11	case	_	_	을/jco
+16	가진	가지+ㄴ	VERB	_	17	acl	_	_	가지/pvg+ㄴ/etm
+17	로봇의	로봇+의	NOUN	_	18	nmod	_	_	로봇/ncn+의/jcm
+18	제조이다	제조+이+다	VERB	_	0	root	_	_	제조/ncpa+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 인간의 뇌와 비슷한 지성 ( intelligence ) 을 가진 로봇의 개발은 컴퓨터기술의 발전으로 이미 상당한 진전을 이루고 있으나 , 문제는 발이나 손을 움직이는 동력 전달부분이다 .
+1	인간의	인간+의	NOUN	_	2	nmod	_	_	인간/ncn+의/jcm
+2	뇌와	뇌+와	CCONJ	_	3	conj	_	_	뇌/ncn+와/jct
+3	비슷한	비슷하+ㄴ	ADJ	_	4	amod	_	_	비슷하/paa+ㄴ/etm
+4	지성	지성	NOUN	_	9	obj	_	_	지성/ncn
+5	(	(	PUNCT	_	6	punct	_	_	(/sl
+6	intelligence	intelligence	X	_	4	appos	_	_	intelligence/f
+7	)	)	PUNCT	_	6	punct	_	_	)/sr
+8	을	을	ADP	_	4	case	_	_	을/jco
+9	가진	가지+ㄴ	VERB	_	10	acl	_	_	가지/pvg+ㄴ/etm
+10	로봇의	로봇+의	NOUN	_	11	nmod	_	_	로봇/ncn+의/jcm
+11	개발은	개발+은	NOUN	_	17	dislocated	_	_	개발/ncpa+은/jxt
+12	컴퓨터기술의	컴퓨터+기술+의	NOUN	_	13	nmod	_	_	컴퓨터/ncn+기술/ncn+의/jcm
+13	발전으로	발전+으로	ADV	_	17	advcl	_	_	발전/ncpa+으로/jca
+14	이미	이미	ADV	_	15	advmod	_	_	이미/mag
+15	상당한	상당하+ㄴ	ADJ	_	16	amod	_	_	상당하/paa+ㄴ/etm
+16	진전을	진전+을	NOUN	_	17	obj	_	_	진전/ncpa+을/jco
+17	이루고	이루+고	VERB	_	25	ccomp	_	_	이루/pvg+고/ecx
+18	있으나	있+으나	SCONJ	_	17	aux	_	_	있/px+으나/ecs
+19	,	,	PUNCT	_	18	punct	_	_	,/sp
+20	문제는	문제+는	NOUN	_	25	dislocated	_	_	문제/ncn+는/jxt
+21	발이나	발+이나	CCONJ	_	22	conj	_	_	발/ncn+이나/jcj
+22	손을	손+을	NOUN	_	23	obj	_	_	손/ncn+을/jco
+23	움직이는	움직이+는	VERB	_	24	acl	_	_	움직이/pvg+는/etm
+24	동력	동력	NOUN	_	25	compound	_	_	동력/ncn
+25	전달부분이다	전달+부분+이+다	VERB	_	0	root	_	_	전달/ncpa+부분/ncn+이/jp+다/ef
+26	.	.	PUNCT	_	25	punct	_	_	./sf
+
+# 무엇보다 인간에게는 부드럽고도 탄력있는 근육이 있다 .
+1	무엇보다	무엇+보다	ADV	_	6	advcl	_	_	무엇/npd+보다/jca
+2	인간에게는	인간+에게+는	NOUN	_	6	dislocated	_	_	인간/ncn+에게/jca+는/jxt
+3	부드럽고도	부드럽+고+도	ADV	_	4	ccomp	_	_	부드럽/paa+고/ecc+도/jxc
+4	탄력있는	탄력있+는	ADJ	_	5	amod	_	_	탄력있/paa+는/etm
+5	근육이	근육+이	NOUN	_	6	nsubj	_	_	근육/ncn+이/jcs
+6	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그러나 현재의 로봇은 다리나 어깨에 기껏해야 몇 개의 관절과 근육에 해당하는 커다란 부분밖에는 없다 .
+1	그러나	그러나	CCONJ	_	14	cc	_	_	그러나/maj
+2	현재의	현재+의	NOUN	_	3	nmod	_	_	현재/ncn+의/jcm
+3	로봇은	로봇+은	NOUN	_	14	dislocated	_	_	로봇/ncn+은/jxt
+4	다리나	다리+나	CCONJ	_	5	conj	_	_	다리/ncn+나/jcj
+5	어깨에	어깨+에	ADV	_	14	obl	_	_	어깨/ncn+에/jca
+6	기껏해야	기껏해야	ADV	_	8	advmod	_	_	기껏해야/mag
+7	몇	몇	ADJ	_	8	amod	_	_	몇/mma
+8	개의	개+의	NOUN	_	9	nmod	_	_	개/nbu+의/jcm
+9	관절과	관절+과	CCONJ	_	13	conj	_	_	관절/ncn+과/jcj
+10	근육에	근육+에	ADV	_	11	obl	_	_	근육/ncn+에/jca
+11	해당하는	해당+하+는	VERB	_	13	acl	_	_	해당/ncpa+하/xsv+는/etm
+12	커다란	커다랗+ㄴ	ADJ	_	13	amod	_	_	커다랗/paa+ㄴ/etm
+13	부분밖에는	부분+밖에+는	NOUN	_	14	dislocated	_	_	부분/ncn+밖에/jxc+는/jxt
+14	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 따라서 두 다리로 걸어다닌다고는 하지만 발끝을 미묘하게 사용하는 인간 수준의 보행운동을 기대하는 것은 무리이다 .
+1	따라서	따라서	CCONJ	_	14	cc	_	_	따라서/maj
+2	두	두	ADJ	_	3	amod	_	_	두/mma
+3	다리로	다리+로	ADV	_	4	advcl	_	_	다리/ncn+로/jca
+4	걸어다닌다고는	걸어다니+ㄴ다+고+는	NOUN	_	5	dislocated	_	_	걸어다니/pvg+ㄴ다/ef+고/jcr+는/jxt
+5	하지만	하+지만	SCONJ	_	14	ccomp	_	_	하/pvg+지만/ecs
+6	발끝을	발끝+을	NOUN	_	8	obj	_	_	발끝/ncn+을/jco
+7	미묘하게	미묘하+게	SCONJ	_	8	xcomp	_	_	미묘하/paa+게/ecs
+8	사용하는	사용+하+는	VERB	_	11	acl	_	_	사용/ncpa+하/xsv+는/etm
+9	인간	인간	NOUN	_	10	compound	_	_	인간/ncn
+10	수준의	수준+의	NOUN	_	11	nmod	_	_	수준/ncn+의/jcm
+11	보행운동을	보행+운동+을	NOUN	_	12	obj	_	_	보행/ncpa+운동/ncpa+을/jco
+12	기대하는	기대+하+는	VERB	_	13	acl	_	_	기대/ncpa+하/xsv+는/etm
+13	것은	것+은	NOUN	_	14	dislocated	_	_	것/nbn+은/jxt
+14	무리이다	무리+이+다	VERB	_	0	root	_	_	무리/ncn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 액츄에이터는 기계에 에너지를 공급하는 동력원으로서 동작을 만들어내는 장치 , 즉 구동 ( 驅動 ) 장치이다 .
+1	액츄에이터는	액츄에이터+는	NOUN	_	15	dislocated	_	_	액츄에이터/ncn+는/jxt
+2	기계에	기계+에	ADV	_	4	obl	_	_	기계/ncn+에/jca
+3	에너지를	에너지+를	NOUN	_	4	obj	_	_	에너지/ncn+를/jco
+4	공급하는	공급+하+는	VERB	_	5	acl	_	_	공급/ncpa+하/xsv+는/etm
+5	동력원으로서	동력원+으로서	ADV	_	7	advcl	_	_	동력원/ncn+으로서/jca
+6	동작을	동작+을	NOUN	_	7	obj	_	_	동작/ncpa+을/jco
+7	만들어내는	만들+어+내+는	AUX	_	8	acl	_	_	만들/pvg+어/ecx+내/px+는/etm
+8	장치	장치	NOUN	_	15	compound	_	_	장치/ncpa
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	즉	즉	CCONJ	_	15	cc	_	_	즉/maj
+11	구동	구동	NOUN	_	15	compound	_	_	구동/ncn
+12	(	(	PUNCT	_	13	punct	_	_	(/sl
+13	驅動	驅動	PROPN	_	11	appos	_	_	驅動/nq
+14	)	)	PUNCT	_	13	punct	_	_	)/sr
+15	장치이다	장치+이+다	VERB	_	0	root	_	_	장치/ncpa+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그렇게 되면 궁극적으로는 인간이나 동물의 신체와 같은 움직임이 모두 재현될 가능성도 있다 .
+1	그렇게	그렇+게	VERB	_	12	amod	_	_	그렇/pad+게/ecx
+2	되면	되+면	SCONJ	_	1	aux	_	_	되/px+면/ecs
+3	궁극적으로는	궁극+적+으로+는	NOUN	_	10	dislocated	_	_	궁극/ncps+적/xsn+으로/jca+는/jxt
+4	인간이나	인간+이나	CCONJ	_	5	conj	_	_	인간/ncn+이나/jcj
+5	동물의	동물+의	NOUN	_	6	nmod	_	_	동물/ncn+의/jcm
+6	신체와	신체+와	CCONJ	_	7	conj	_	_	신체/ncn+와/jct
+7	같은	같+ㄴ	ADJ	_	8	amod	_	_	같/paa+ㄴ/etm
+8	움직임이	움직임+이	NOUN	_	10	nsubj	_	_	움직임/ncn+이/jcs
+9	모두	모두	ADV	_	10	advmod	_	_	모두/mag
+10	재현될	재현+되+ㄹ	VERB	_	11	acl	_	_	재현/ncpa+되/xsv+ㄹ/etm
+11	가능성도	가능성+도	ADV	_	12	advcl	_	_	가능성/ncn+도/jxc
+12	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 즉 , 체중을 이용하여 자세를 제어하는 동시에 전체가 매우 자연스럽고 부드러워지는 생물 같은 로봇이 탄생하게 되는 것이다 .
+1	즉	즉	CCONJ	_	15	cc	_	_	즉/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	체중을	체중+을	NOUN	_	4	obj	_	_	체중/ncn+을/jco
+4	이용하여	이용+하+어	SCONJ	_	6	ccomp	_	_	이용/ncpa+하/xsv+어/ecs
+5	자세를	자세+를	NOUN	_	6	obj	_	_	자세/ncn+를/jco
+6	제어하는	제어+하+는	VERB	_	7	acl	_	_	제어/ncpa+하/xsv+는/etm
+7	동시에	동시+에	ADV	_	13	obl	_	_	동시/ncn+에/jca
+8	전체가	전체+가	NOUN	_	11	nsubj	_	_	전체/ncn+가/jcs
+9	매우	매우	ADV	_	10	advmod	_	_	매우/mag
+10	자연스럽고	자연+스럽+고	CCONJ	_	11	conj	_	_	자연/ncps+스럽/xsm+고/ecc
+11	부드러워지는	부드러워지+는	VERB	_	12	acl	_	_	부드러워지/pvg+는/etm
+12	생물	생물	NOUN	_	13	dep	_	_	생물/ncn
+13	같은	같+ㄴ	ADJ	_	14	amod	_	_	같/paa+ㄴ/etm
+14	로봇이	로봇+이	NOUN	_	15	nsubj	_	_	로봇/ncn+이/jcs
+15	탄생하게	탄생+하+게	VERB	_	0	root	_	_	탄생/ncpa+하/xsv+게/ecx
+16	되는	되+는	AUX	_	15	aux	_	_	되/px+는/etm
+17	것이다	것+이+다	VERB	_	15	aux	_	_	것/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 즉 , 이러한 마이크로머신기술의 진보야말로 진정한 의미의 ' 인간형로봇 ' 탄생의 신화를 가능케 할 것이다 .
+1	즉	즉	CCONJ	_	13	cc	_	_	즉/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	이러한	이러하+ㄴ	VERB	_	4	amod	_	_	이러하/pad+ㄴ/etm
+4	마이크로머신기술의	마이크로+머신+기술+의	NOUN	_	5	nmod	_	_	마이크로/ncn+머신/ncn+기술/ncn+의/jcm
+5	진보야말로	진보+이야말로	ADV	_	13	advcl	_	_	진보/ncpa+이야말로/jxc
+6	진정한	진정하+ㄴ	ADJ	_	7	amod	_	_	진정하/paa+ㄴ/etm
+7	의미의	의미+의	NOUN	_	9	nmod	_	_	의미/ncpa+의/jcm
+8	'	'	PUNCT	_	9	punct	_	_	'/sl
+9	인간형로봇	인간형+로봇	NOUN	_	11	compound	_	_	인간형/ncn+로봇/ncn
+10	'	'	PUNCT	_	9	punct	_	_	'/sr
+11	탄생의	탄생+의	NOUN	_	12	nmod	_	_	탄생/ncpa+의/jcm
+12	신화를	신화+를	NOUN	_	13	obj	_	_	신화/ncn+를/jco
+13	가능케	가능+하+게	VERB	_	0	root	_	_	가능/ncps+하/xsm+게/ecx
+14	할	하+ㄹ	AUX	_	13	aux	_	_	하/px+ㄹ/etm
+15	것이다	것+이+다	VERB	_	13	aux	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이후 MIT 대학에서도 IC 제조용 실리콘프로세스를 이용하여 지름이 100 미크론 정도 되는 마이크로모터를 제작하였다 .
+1	이후	이후	NOUN	_	14	advmod	_	_	이후/ncn
+2	MIT	MIT	X	_	3	compound	_	_	MIT/f
+3	대학에서도	대학+에서+도	ADV	_	14	advcl	_	_	대학/ncn+에서/jca+도/jxc
+4	IC	IC	X	_	5	compound	_	_	IC/f
+5	제조용	제조+용	NOUN	_	6	advmod	_	_	제조/ncpa+용/xsn
+6	실리콘프로세스를	실리콘프로세스+를	NOUN	_	7	obj	_	_	실리콘프로세스/ncn+를/jco
+7	이용하여	이용+하+어	SCONJ	_	14	ccomp	_	_	이용/ncpa+하/xsv+어/ecs
+8	지름이	지름+이	NOUN	_	12	nsubj	_	_	지름/ncn+이/jcs
+9	100	100	NUM	_	10	nummod	_	_	100/nnc
+10	미크론	미크론	NOUN	_	11	compound	_	_	미크론/nbu
+11	정도	정도	NOUN	_	12	dep	_	_	정도/ncn
+12	되는	되+는	VERB	_	13	acl	_	_	되/pvg+는/etm
+13	마이크로모터를	마이크로모터+를	NOUN	_	14	obj	_	_	마이크로모터/ncn+를/jco
+14	제작하였다	제작+하+었+다	VERB	_	0	root	_	_	제작/ncpa+하/xsv+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이것은 머리카락 굵기나 책 종이 두께보다도 작은 것으로 , 1 cm 속에 수백 개의 모터가 늘어서서 일제히 회전하는 실로 경이적인 것이다 .
+1	이것은	이것+은	PRON	_	8	dislocated	_	_	이것/npd+은/jxt
+2	머리카락	머리카락	NOUN	_	3	compound	_	_	머리카락/ncn
+3	굵기나	굵기+나	CCONJ	_	6	conj	_	_	굵기/ncn+나/jcj
+4	책	책	NOUN	_	5	compound	_	_	책/ncn
+5	종이	종이	NOUN	_	6	compound	_	_	종이/ncn
+6	두께보다도	두께+보다+도	ADV	_	7	advcl	_	_	두께/ncn+보다/jca+도/jxc
+7	작은	작+ㄴ	ADJ	_	8	amod	_	_	작/paa+ㄴ/etm
+8	것으로	것+으로	ADV	_	21	advmod	_	_	것/nbn+으로/jca
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	1	1	NUM	_	11	nummod	_	_	1/nnc
+11	cm	cm	X	_	12	compound	_	_	cm/f
+12	속에	속+에	ADV	_	16	obl	_	_	속/ncn+에/jca
+13	수백	수백	NUM	_	14	nummod	_	_	수백/nnc
+14	개의	개+의	NOUN	_	15	nmod	_	_	개/nbu+의/jcm
+15	모터가	모터+가	NOUN	_	16	nsubj	_	_	모터/ncn+가/jcs
+16	늘어서서	늘어서+서	SCONJ	_	18	ccomp	_	_	늘어서/pvg+서/ecs
+17	일제히	일제히	ADV	_	18	advmod	_	_	일제히/mag
+18	회전하는	회전+하+는	VERB	_	21	ccomp	_	_	회전/ncpa+하/xsv+는/etm
+19	실로	실로	ADV	_	20	advmod	_	_	실로/mag
+20	경이적인	경이+적+이+ㄴ	VERB	_	21	acl	_	_	경이/ncps+적/xsn+이/jp+ㄴ/etm
+21	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 이는 산업계는 물론 과학계에도 커다란 충격을 주었다 .
+1	이는	이+는	PRON	_	7	dislocated	_	_	이/npd+는/jxt
+2	산업계는	산업계+는	NOUN	_	3	dislocated	_	_	산업계/ncn+는/jxt
+3	물론	물론	ADV	_	7	advmod	_	_	물론/mag
+4	과학계에도	과학계+에+도	ADV	_	7	advcl	_	_	과학계/ncn+에/jca+도/jxc
+5	커다란	커다랗+ㄴ	ADJ	_	6	amod	_	_	커다랗/paa+ㄴ/etm
+6	충격을	충격+을	NOUN	_	7	obj	_	_	충격/ncn+을/jco
+7	주었다	주+었+다	VERB	_	0	root	_	_	주/pvg+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 오늘날 모터의 대부분은 자석과 코일의 힘 ( 플레밍의 왼손법칙에 의해 작용하는 힘 ) 에 의한 전자력 ( 電磁力 ) 에 의해 회전하는 방식을 채택하고 있다 .
+1	오늘날	오늘날	NOUN	_	24	advmod	_	_	오늘날/ncn
+2	모터의	모터+의	NOUN	_	3	nmod	_	_	모터/ncn+의/jcm
+3	대부분은	대부분+은	NOUN	_	24	dislocated	_	_	대부분/ncn+은/jxt
+4	자석과	자석+과	CCONJ	_	5	conj	_	_	자석/ncn+과/jcj
+5	코일의	코일+의	NOUN	_	6	nmod	_	_	코일/ncn+의/jcm
+6	힘	힘	NOUN	_	15	obl	_	_	힘/ncn
+7	(	(	PUNCT	_	9	punct	_	_	(/sl
+8	플레밍의	플레밍+의	PROPN	_	9	nmod	_	_	플레밍/nq+의/jcm
+9	왼손법칙에	왼손+법칙+에	ADV	_	10	obl	_	_	왼손/ncn+법칙/ncn+에/jca
+10	의해	의하+어	SCONJ	_	11	ccomp	_	_	의하/pvg+어/ecs
+11	작용하는	작용+하+는	VERB	_	12	acl	_	_	작용/ncpa+하/xsv+는/etm
+12	힘	힘	NOUN	_	6	appos	_	_	힘/ncn
+13	)	)	PUNCT	_	12	punct	_	_	)/sr
+14	에	에	ADP	_	6	case	_	_	에/jca
+15	의한	의하+ㄴ	VERB	_	16	acl	_	_	의하/pvg+ㄴ/etm
+16	전자력	전자력	NOUN	_	21	obl	_	_	전자력/ncn
+17	(	(	PUNCT	_	18	punct	_	_	(/sl
+18	電磁力	電磁力	PROPN	_	16	appos	_	_	電磁力/nq
+19	)	)	PUNCT	_	18	punct	_	_	)/sr
+20	에	에	ADP	_	16	case	_	_	에/jca
+21	의해	의하+어	SCONJ	_	22	ccomp	_	_	의하/pvg+어/ecs
+22	회전하는	회전+하+는	VERB	_	23	acl	_	_	회전/ncpa+하/xsv+는/etm
+23	방식을	방식+을	NOUN	_	24	obj	_	_	방식/ncn+을/jco
+24	채택하고	채택+하+고	VERB	_	0	root	_	_	채택/ncpa+하/xsv+고/ecx
+25	있다	있+다	AUX	_	24	aux	_	_	있/px+다/ef
+26	.	.	PUNCT	_	25	punct	_	_	./sf
+
+# 그러나 이런 기존의 방식은 모터의 크기가 미크론 사이즈가 되면 그다지 편리한 방식이 아니며 전자력보다는 정전기 상호간의 흡인력을 이용하는 편이 유리하다 .
+1	그러나	그러나	CCONJ	_	20	cc	_	_	그러나/maj
+2	이런	이런	DET	_	4	det	_	_	이런/mmd
+3	기존의	기존+의	NOUN	_	4	nmod	_	_	기존/ncn+의/jcm
+4	방식은	방식+은	NOUN	_	13	dislocated	_	_	방식/ncn+은/jxt
+5	모터의	모터+의	NOUN	_	6	nmod	_	_	모터/ncn+의/jcm
+6	크기가	크기+가	NOUN	_	9	nsubj	_	_	크기/ncn+가/jcs
+7	미크론	미크론	NOUN	_	8	compound	_	_	미크론/nbu
+8	사이즈가	사이즈+가	NOUN	_	9	csubj	_	_	사이즈/ncn+가/jcc
+9	되면	되+면	SCONJ	_	13	conj	_	_	되/pvg+면/ecs
+10	그다지	그다지	ADV	_	11	advmod	_	_	그다지/mag
+11	편리한	편리하+ㄴ	ADJ	_	12	amod	_	_	편리하/paa+ㄴ/etm
+12	방식이	방식+이	NOUN	_	13	csubj	_	_	방식/ncn+이/jcc
+13	아니며	아니+며	CCONJ	_	20	conj	_	_	아니/paa+며/ecc
+14	전자력보다는	전자력+보다+는	NOUN	_	18	dislocated	_	_	전자력/ncn+보다/jca+는/jxt
+15	정전기	정전기	NOUN	_	16	compound	_	_	정전기/ncn
+16	상호간의	상호+간+의	NOUN	_	17	nmod	_	_	상호/ncn+간/xsn+의/jcm
+17	흡인력을	흡인력+을	NOUN	_	18	obj	_	_	흡인력/ncn+을/jco
+18	이용하는	이용+하+는	VERB	_	19	acl	_	_	이용/ncpa+하/xsv+는/etm
+19	편이	편+이	NOUN	_	20	nsubj	_	_	편/ncn+이/jcs
+20	유리하다	유리+하+다	VERB	_	0	root	_	_	유리/ncps+하/xsm+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그외에 형상기억합금 ( 形狀記憶合金 ) , 열팽창 ( 熱膨脹 ) , 초전도 ( 超傳導 ) 에 의한 마이너스효과 등도 사용될 수 있다 .
+1	그외에	그외+에	ADV	_	20	obl	_	_	그외/ncn+에/jca
+2	형상기억합금	형상기억합금	NOUN	_	12	compound	_	_	형상기억합금/ncn
+3	(	(	PUNCT	_	4	punct	_	_	(/sl
+4	形狀記憶合金	形狀記憶合金	PROPN	_	2	appos	_	_	形狀記憶合金/nq
+5	)	)	PUNCT	_	4	punct	_	_	)/sr
+6	,	,	PUNCT	_	2	punct	_	_	,/sp
+7	열팽창	열팽창	NOUN	_	12	compound	_	_	열팽창/ncn
+8	(	(	PUNCT	_	9	punct	_	_	(/sl
+9	熱膨脹	熱膨脹	PROPN	_	7	appos	_	_	熱膨脹/nq
+10	)	)	PUNCT	_	9	punct	_	_	)/sr
+11	,	,	PUNCT	_	7	punct	_	_	,/sp
+12	초전도	초전도	NOUN	_	17	obl	_	_	초전도/ncn
+13	(	(	PUNCT	_	14	punct	_	_	(/sl
+14	超傳導	超傳導	PROPN	_	12	appos	_	_	超傳導/nq
+15	)	)	PUNCT	_	14	punct	_	_	)/sr
+16	에	에	ADP	_	12	case	_	_	에/jca
+17	의한	의하+ㄴ	VERB	_	18	acl	_	_	의하/pvg+ㄴ/etm
+18	마이너스효과	마이너스+효과	NOUN	_	19	compound	_	_	마이너스/ncpa+효과/ncn
+19	등도	등+도	ADV	_	20	advcl	_	_	등/nbn+도/jxc
+20	사용될	사용+되+ㄹ	VERB	_	0	root	_	_	사용/ncpa+되/xsv+ㄹ/etm
+21	수	수	NOUN	_	22	fixed	_	_	수/nbn
+22	있다	있+다	ADJ	_	20	aux	_	_	있/paa+다/ef
+23	.	.	PUNCT	_	22	punct	_	_	./sf
+
+# 무엇보다 고온초전도자석의 장점은 작은 전자석에 강력한 자기를 만들어 모터의 동력원으로 작용하게 된다는 것이다 .
+1	무엇보다	무엇+보다	ADV	_	13	advcl	_	_	무엇/npd+보다/jca
+2	고온초전도자석의	고온+초전도+자석+의	NOUN	_	3	nmod	_	_	고온/ncn+초전도/ncn+자석/ncn+의/jcm
+3	장점은	장점+은	NOUN	_	13	dislocated	_	_	장점/ncn+은/jxt
+4	작은	작+ㄴ	ADJ	_	5	amod	_	_	작/paa+ㄴ/etm
+5	전자석에	전자석+에	ADV	_	8	obl	_	_	전자석/ncn+에/jca
+6	강력한	강력하+ㄴ	ADJ	_	7	amod	_	_	강력하/paa+ㄴ/etm
+7	자기를	자기+를	NOUN	_	8	obj	_	_	자기/ncn+를/jco
+8	만들어	만들+어	SCONJ	_	11	ccomp	_	_	만들/pvg+어/ecs
+9	모터의	모터+의	NOUN	_	10	nmod	_	_	모터/ncn+의/jcm
+10	동력원으로	동력원+으로	ADV	_	11	advcl	_	_	동력원/ncn+으로/jca
+11	작용하게	작용+하+게	VERB	_	13	ccomp	_	_	작용/ncpa+하/xsv+게/ecx
+12	된다는	되+ㄴ다는	AUX	_	11	aux	_	_	되/px+ㄴ다는/etm
+13	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 바야흐로 마이크로세계의 주도권을 잡기 위한 전면전이 시작된 것이다 .
+1	바야흐로	바야흐로	ADV	_	7	advmod	_	_	바야흐로/mag
+2	마이크로세계의	마이크로+세계+의	NOUN	_	3	nmod	_	_	마이크로/ncn+세계/ncn+의/jcm
+3	주도권을	주도권+을	NOUN	_	4	obj	_	_	주도권/ncn+을/jco
+4	잡기	잡+기	VERB	_	5	nmod	_	_	잡/pvg+기/etn
+5	위한	위하+ㄴ	VERB	_	6	acl	_	_	위하/pvg+ㄴ/etm
+6	전면전이	전면전+이	NOUN	_	7	nsubj	_	_	전면전/ncn+이/jcs
+7	시작된	시작+되+ㄴ	VERB	_	0	root	_	_	시작/ncpa+되/xsv+ㄴ/etm
+8	것이다	것+이+다	VERB	_	7	aux	_	_	것/nbn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그러나 인류가 오늘날과 같은 기계를 사용하게 된 것은 그리 오래 된 일이 아니다 .
+1	그러나	그러나	CCONJ	_	13	cc	_	_	그러나/maj
+2	인류가	인류+가	NOUN	_	6	nsubj	_	_	인류/ncn+가/jcs
+3	오늘날과	오늘날+과	CCONJ	_	4	conj	_	_	오늘날/ncn+과/jct
+4	같은	같+ㄴ	ADJ	_	5	amod	_	_	같/paa+ㄴ/etm
+5	기계를	기계+를	NOUN	_	6	obj	_	_	기계/ncn+를/jco
+6	사용하게	사용+하+게	VERB	_	8	acl	_	_	사용/ncpa+하/xsv+게/ecx
+7	된	되+ㄴ	AUX	_	6	aux	_	_	되/px+ㄴ/etm
+8	것은	것+은	NOUN	_	13	dislocated	_	_	것/nbn+은/jxt
+9	그리	그리	ADV	_	11	advmod	_	_	그리/mag
+10	오래	오래	ADV	_	9	advmod	_	_	오래/mag
+11	된	되+ㄴ	VERB	_	12	acl	_	_	되/pvg+ㄴ/etm
+12	일이	일+이	NOUN	_	13	csubj	_	_	일/ncn+이/jcc
+13	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 다만 원시형 기계라고도 할 수 있는 형태의 도구들은 먼 옛날까지 소급될 수 있다 .
+1	다만	다만	ADV	_	3	advmod	_	_	다만/mag
+2	원시형	원시형	NOUN	_	3	compound	_	_	원시형/ncn
+3	기계라고도	기계+이+라+고+도	ADV	_	4	advcl	_	_	기계/ncn+이/jp+라/ef+고/jcr+도/jxc
+4	할	하+ㄹ	VERB	_	7	acl	_	_	하/pvg+ㄹ/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	있는	있+는	ADJ	_	4	aux	_	_	있/paa+는/etm
+7	형태의	형태+의	NOUN	_	8	nmod	_	_	형태/ncn+의/jcm
+8	도구들은	도구+들+은	NOUN	_	11	dislocated	_	_	도구/ncn+들/xsn+은/jxt
+9	먼	멀+ㄴ	ADJ	_	10	amod	_	_	멀/paa+ㄴ/etm
+10	옛날까지	옛날+까지	ADV	_	11	advcl	_	_	옛날/ncn+까지/jxc
+11	소급될	소급+되+ㄹ	VERB	_	0	root	_	_	소급/ncpa+되/xsv+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있다	있+다	ADJ	_	11	aux	_	_	있/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 여기에 다시 나무막대기에 석기나 금속칼 등을 붙인 한 단계 발전시킨 도구를 사용하게 된 것은 지금으로부터 수만 년 전의 일이다 .
+1	여기에	여기+에	ADV	_	7	obl	_	_	여기/npd+에/jca
+2	다시	다시	ADV	_	7	advmod	_	_	다시/mag
+3	나무막대기에	나무+막대기+에	ADV	_	7	obl	_	_	나무/ncn+막대기/ncn+에/jca
+4	석기나	석기+나	CCONJ	_	5	conj	_	_	석기/ncn+나/jcj
+5	금속칼	금속+칼	NOUN	_	6	compound	_	_	금속/ncn+칼/ncn
+6	등을	등+을	NOUN	_	7	obj	_	_	등/nbn+을/jco
+7	붙인	붙이+ㄴ	VERB	_	11	acl	_	_	붙이/pvg+ㄴ/etm
+8	한	한	ADJ	_	9	amod	_	_	한/mma
+9	단계	단계	NOUN	_	10	compound	_	_	단계/ncn
+10	발전시킨	발전+시키+ㄴ	VERB	_	11	acl	_	_	발전/ncpa+시키/xsv+ㄴ/etm
+11	도구를	도구+를	NOUN	_	12	obj	_	_	도구/ncn+를/jco
+12	사용하게	사용+하+게	VERB	_	14	acl	_	_	사용/ncpa+하/xsv+게/ecx
+13	된	되+ㄴ	AUX	_	12	aux	_	_	되/px+ㄴ/etm
+14	것은	것+은	NOUN	_	19	dislocated	_	_	것/nbn+은/jxt
+15	지금으로부터	지금+으로+부터	ADV	_	18	advcl	_	_	지금/ncn+으로/jca+부터/jxc
+16	수만	수만	NUM	_	17	nummod	_	_	수만/nnc
+17	년	년	NOUN	_	18	compound	_	_	년/nbu
+18	전의	전+의	NOUN	_	19	nmod	_	_	전/ncn+의/jcm
+19	일이다	일+이+다	VERB	_	0	root	_	_	일/ncpa+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 이것이 기계의 시초라고 할 수 있다 .
+1	이것이	이것+이	PRON	_	4	nsubj	_	_	이것/npd+이/jcs
+2	기계의	기계+의	NOUN	_	3	nmod	_	_	기계/ncn+의/jcm
+3	시초라고	시초+라고	VERB	_	4	conj	_	_	시초/ncn+라고/jcr
+4	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	있다	있+다	ADJ	_	4	aux	_	_	있/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이집트의 피라미드는 이러한 기본기술을 사용하여 만들어졌다 .
+1	이집트의	이집트+의	PROPN	_	2	nmod	_	_	이집트/nq+의/jcm
+2	피라미드는	피라미드+는	NOUN	_	6	dislocated	_	_	피라미드/ncn+는/jxt
+3	이러한	이러하+ㄴ	VERB	_	4	amod	_	_	이러하/pad+ㄴ/etm
+4	기본기술을	기본+기술+을	NOUN	_	5	obj	_	_	기본/ncn+기술/ncn+을/jco
+5	사용하여	사용+하+어	SCONJ	_	6	ccomp	_	_	사용/ncpa+하/xsv+어/ecs
+6	만들어졌다	만들어지+었+다	VERB	_	0	root	_	_	만들어지/pvg+었/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그러한 도구로서의 기계를 움직이는 힘으로는 처음에는 인간이나 동물의 힘 , 풍력 , 수력 , 식물의 덩굴이나 가지의 휘는 힘 등이 이용되었다 .
+1	그러한	그러하+ㄴ	VERB	_	2	amod	_	_	그러하/pad+ㄴ/etm
+2	도구로서의	도구+로서+의	NOUN	_	3	nmod	_	_	도구/ncn+로서/jca+의/jcm
+3	기계를	기계+를	NOUN	_	4	obj	_	_	기계/ncn+를/jco
+4	움직이는	움직이+는	VERB	_	5	acl	_	_	움직이/pvg+는/etm
+5	힘으로는	힘+으로+는	NOUN	_	21	dislocated	_	_	힘/ncn+으로/jca+는/jxt
+6	처음에는	처음+에+는	NOUN	_	21	dislocated	_	_	처음/ncn+에/jca+는/jxt
+7	인간이나	인간+이나	CCONJ	_	8	conj	_	_	인간/ncn+이나/jcj
+8	동물의	동물+의	NOUN	_	9	nmod	_	_	동물/ncn+의/jcm
+9	힘	힘	NOUN	_	11	compound	_	_	힘/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	풍력	풍력	NOUN	_	13	conj	_	_	풍력/ncn
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	수력	수력	NOUN	_	19	conj	_	_	수력/ncn
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	식물의	식물+의	NOUN	_	17	nmod	_	_	식물/ncn+의/jcm
+16	덩굴이나	덩굴+이나	CCONJ	_	17	conj	_	_	덩굴/ncn+이나/jcj
+17	가지의	가지+의	NOUN	_	19	nmod	_	_	가지/ncn+의/jcm
+18	휘는	휘+는	VERB	_	19	acl	_	_	휘/pvg+는/etm
+19	힘	힘	NOUN	_	20	compound	_	_	힘/ncn
+20	등이	등+이	NOUN	_	21	nsubj	_	_	등/nbn+이/jcs
+21	이용되었다	이용+되+었+다	VERB	_	0	root	_	_	이용/ncpa+되/xsv+었/ep+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 중세에서 근대에 걸치면서 움직이는 도구를 만드는 기술은 상당히 발달하였다 .
+1	중세에서	중세+에서	ADV	_	3	advcl	_	_	중세/ncn+에서/jca
+2	근대에	근대+에	ADV	_	3	obl	_	_	근대/ncn+에/jca
+3	걸치면서	걸치+면서	SCONJ	_	9	ccomp	_	_	걸치/pvg+면서/ecs
+4	움직이는	움직이+는	VERB	_	5	acl	_	_	움직이/pvg+는/etm
+5	도구를	도구+를	NOUN	_	6	obj	_	_	도구/ncn+를/jco
+6	만드는	만들+는	VERB	_	7	acl	_	_	만들/pvg+는/etm
+7	기술은	기술+은	NOUN	_	9	dislocated	_	_	기술/ncn+은/jxt
+8	상당히	상당히	ADV	_	9	advmod	_	_	상당히/mag
+9	발달하였다	발달+하+었+다	VERB	_	0	root	_	_	발달/ncpa+하/xsv+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 실은 이미 기원전에도 증기의 힘을 이용하여 물체를 움직인 예가 있으며 , 그 비슷한 사례가 이집트 기록에도 나타나 있다 .
+1	실은	실은	ADV	_	10	advmod	_	_	실은/mag
+2	이미	이미	ADV	_	8	advmod	_	_	이미/mag
+3	기원전에도	기원전+에+도	ADV	_	8	advcl	_	_	기원전/ncn+에/jca+도/jxc
+4	증기의	증기+의	NOUN	_	5	nmod	_	_	증기/ncn+의/jcm
+5	힘을	힘+을	NOUN	_	6	obj	_	_	힘/ncn+을/jco
+6	이용하여	이용+하+어	SCONJ	_	8	ccomp	_	_	이용/ncpa+하/xsv+어/ecs
+7	물체를	물체+를	NOUN	_	8	obj	_	_	물체/ncn+를/jco
+8	움직인	움직이+ㄴ	VERB	_	9	acl	_	_	움직이/pvg+ㄴ/etm
+9	예가	예+가	NOUN	_	10	nsubj	_	_	예/ncn+가/jcs
+10	있으며	있+으며	SCONJ	_	17	xcomp	_	_	있/paa+으며/ecs
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	그	그	DET	_	14	det	_	_	그/mmd
+13	비슷한	비슷하+ㄴ	ADJ	_	14	amod	_	_	비슷하/paa+ㄴ/etm
+14	사례가	사례+가	NOUN	_	17	nsubj	_	_	사례/ncn+가/jcs
+15	이집트	이집트	PROPN	_	16	compound	_	_	이집트/nq
+16	기록에도	기록+에+도	ADV	_	17	advcl	_	_	기록/ncpa+에/jca+도/jxc
+17	나타나	나타나+아	VERB	_	0	root	_	_	나타나/pvg+아/ecx
+18	있다	있+다	AUX	_	17	aux	_	_	있/px+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 묘지의 입구를 개폐할 때 제단의 불을 지피면 돌문이 조용히 열리고 , 불이 꺼지면 문이 닫히는 매우 신비한 장치가 있다 .
+1	묘지의	묘지+의	NOUN	_	2	nmod	_	_	묘지/ncn+의/jcm
+2	입구를	입구+를	NOUN	_	3	obj	_	_	입구/ncn+를/jco
+3	개폐할	개폐+하+ㄹ	VERB	_	4	acl	_	_	개폐/ncpa+하/xsv+ㄹ/etm
+4	때	때	NOUN	_	15	advmod	_	_	때/ncn
+5	제단의	제단+의	NOUN	_	6	nmod	_	_	제단/ncn+의/jcm
+6	불을	불+을	NOUN	_	7	obj	_	_	불/ncn+을/jco
+7	지피면	지피+면	SCONJ	_	10	ccomp	_	_	지피/pvg+면/ecs
+8	돌문이	돌+문+이	NOUN	_	10	nsubj	_	_	돌/ncn+문/ncn+이/jcs
+9	조용히	조용히	ADV	_	10	advmod	_	_	조용히/mag
+10	열리고	열리+고	CCONJ	_	15	conj	_	_	열리/pvg+고/ecc
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	불이	불+이	NOUN	_	13	nsubj	_	_	불/ncn+이/jcs
+13	꺼지면	꺼지+면	SCONJ	_	15	ccomp	_	_	꺼지/pvg+면/ecs
+14	문이	문+이	NOUN	_	15	nsubj	_	_	문/ncn+이/jcs
+15	닫히는	닫히+는	VERB	_	18	acl	_	_	닫히/pvg+는/etm
+16	매우	매우	ADV	_	17	advmod	_	_	매우/mag
+17	신비한	신비+하+ㄴ	VERB	_	18	amod	_	_	신비/ncps+하/xsm+ㄴ/etm
+18	장치가	장치+가	NOUN	_	19	nsubj	_	_	장치/ncpa+가/jcs
+19	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 이것은 제단 밑에 물이 들어 있는 솥을 놓고 끓는 물의 수증기압력을 이용한 장치였다 .
+1	이것은	이것+은	PRON	_	13	dislocated	_	_	이것/npd+은/jxt
+2	제단	제단	NOUN	_	3	compound	_	_	제단/ncn
+3	밑에	밑+에	ADV	_	5	obl	_	_	밑/ncn+에/jca
+4	물이	물+이	NOUN	_	5	nsubj	_	_	물/ncn+이/jcs
+5	들어	들+어	VERB	_	7	acl	_	_	들/pvg+어/ecx
+6	있는	있+는	AUX	_	5	aux	_	_	있/px+는/etm
+7	솥을	솥+을	NOUN	_	8	obj	_	_	솥/ncn+을/jco
+8	놓고	놓+고	CCONJ	_	12	conj	_	_	놓/pvg+고/ecc
+9	끓는	끓+는	VERB	_	10	acl	_	_	끓/pvg+는/etm
+10	물의	물+의	NOUN	_	11	nmod	_	_	물/ncn+의/jcm
+11	수증기압력을	수증기+압력+을	NOUN	_	12	obj	_	_	수증기/ncn+압력/ncn+을/jco
+12	이용한	이용+하+ㄴ	VERB	_	13	ccomp	_	_	이용/ncpa+하/xsv+ㄴ/etm
+13	장치였다	장치+이+었+다	VERB	_	0	root	_	_	장치/ncpa+이/jp+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그러나 기계장치의 동력에 일대 전환을 가져온 것은 18 세기 증기기관의 보급에서 동력혁명 이후이다 .
+1	그러나	그러나	CCONJ	_	13	cc	_	_	그러나/maj
+2	기계장치의	기계+장치+의	NOUN	_	3	nmod	_	_	기계/ncn+장치/ncpa+의/jcm
+3	동력에	동력+에	ADV	_	6	obl	_	_	동력/ncn+에/jca
+4	일대	일대	NOUN	_	5	compound	_	_	일대/ncn
+5	전환을	전환+을	NOUN	_	6	obj	_	_	전환/ncpa+을/jco
+6	가져온	가져오+ㄴ	VERB	_	7	acl	_	_	가져오/pvg+ㄴ/etm
+7	것은	것+은	NOUN	_	13	dislocated	_	_	것/nbn+은/jxt
+8	18	18	NUM	_	9	nummod	_	_	18/nnc
+9	세기	세기	NOUN	_	11	compound	_	_	세기/ncn
+10	증기기관의	증기+기관+의	NOUN	_	11	nmod	_	_	증기/ncn+기관/ncn+의/jcm
+11	보급에서	보급+에서	ADV	_	13	advcl	_	_	보급/ncpa+에서/jca
+12	동력혁명	동력+혁명	NOUN	_	13	compound	_	_	동력/ncn+혁명/ncn
+13	이후이다	이후+이+다	VERB	_	0	root	_	_	이후/ncn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이미 중세부터 수차 ( 水車 ) 에서 동력을 얻어 벨트와 톱니바퀴로 연결시킨 기계시스템이 밀가루제조 등에 사용된 적이 있었다 .
+1	이미	이미	ADV	_	16	advmod	_	_	이미/mag
+2	중세부터	중세+부터	ADV	_	16	advcl	_	_	중세/ncn+부터/jxc
+3	수차	수차	NOUN	_	9	advcl	_	_	수차/ncn
+4	(	(	PUNCT	_	5	punct	_	_	(/sl
+5	水車	水車	PROPN	_	3	appos	_	_	水車/nq
+6	)	)	PUNCT	_	5	punct	_	_	)/sr
+7	에서	에서	ADP	_	3	case	_	_	에서/jca
+8	동력을	동력+을	NOUN	_	9	obj	_	_	동력/ncn+을/jco
+9	얻어	얻+어	SCONJ	_	12	ccomp	_	_	얻/pvg+어/ecs
+10	벨트와	벨트+와	CCONJ	_	11	conj	_	_	벨트/ncn+와/jcj
+11	톱니바퀴로	톱니+바퀴+로	ADV	_	12	advcl	_	_	톱니/ncn+바퀴/ncn+로/jca
+12	연결시킨	연결+시키+ㄴ	VERB	_	13	acl	_	_	연결/ncpa+시키/xsv+ㄴ/etm
+13	기계시스템이	기계+시스템+이	NOUN	_	16	nsubj	_	_	기계/ncn+시스템/ncn+이/jcs
+14	밀가루제조	밀가루+제조	NOUN	_	15	compound	_	_	밀가루/ncn+제조/ncpa
+15	등에	등+에	ADV	_	16	obl	_	_	등/nbn+에/jca
+16	사용된	사용+되+ㄴ	VERB	_	17	acl	_	_	사용/ncpa+되/xsv+ㄴ/etm
+17	적이	적+이	NOUN	_	18	nsubj	_	_	적/nbn+이/jcs
+18	있었다	있+었+다	ADJ	_	0	root	_	_	있/paa+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그러나 불로 가열된 증기의 힘을 이용하게 되면 훨씬 커다란 힘을 자유자재로 사용할 수 있게 된다 .
+1	그러나	그러나	CCONJ	_	12	cc	_	_	그러나/maj
+2	불로	불+로	ADV	_	3	advcl	_	_	불/ncn+로/jca
+3	가열된	가열+되+ㄴ	VERB	_	4	acl	_	_	가열/ncpa+되/xsv+ㄴ/etm
+4	증기의	증기+의	NOUN	_	5	nmod	_	_	증기/ncn+의/jcm
+5	힘을	힘+을	NOUN	_	6	obj	_	_	힘/ncn+을/jco
+6	이용하게	이용+하+게	VERB	_	12	ccomp	_	_	이용/ncpa+하/xsv+게/ecx
+7	되면	되+면	SCONJ	_	6	aux	_	_	되/px+면/ecs
+8	훨씬	훨씬	ADV	_	9	advmod	_	_	훨씬/mag
+9	커다란	커다랗+ㄴ	ADJ	_	10	amod	_	_	커다랗/paa+ㄴ/etm
+10	힘을	힘+을	NOUN	_	12	obj	_	_	힘/ncn+을/jco
+11	자유자재로	자유자재+로	ADV	_	12	advcl	_	_	자유자재/ncn+로/jca
+12	사용할	사용+하+ㄹ	VERB	_	0	root	_	_	사용/ncpa+하/xsv+ㄹ/etm
+13	수	수	NOUN	_	14	fixed	_	_	수/nbn
+14	있게	있+게	ADJ	_	12	aux	_	_	있/paa+게/ecx
+15	된다	되+ㄴ다	AUX	_	12	aux	_	_	되/px+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이것으로 인간의 노동력은 크게 절약되고 인간의 일도 변화하여 적은 노동력으로 많은 공업산물을 생산하게 되었다 .
+1	이것으로	이것+으로	ADV	_	8	advcl	_	_	이것/npd+으로/jca
+2	인간의	인간+의	NOUN	_	3	nmod	_	_	인간/ncn+의/jcm
+3	노동력은	노동력+은	NOUN	_	5	dislocated	_	_	노동력/ncn+은/jxt
+4	크게	크+게	SCONJ	_	5	xcomp	_	_	크/paa+게/ecs
+5	절약되고	절약+되+고	CCONJ	_	8	conj	_	_	절약/ncpa+되/xsv+고/ecc
+6	인간의	인간+의	NOUN	_	7	nmod	_	_	인간/ncn+의/jcm
+7	일도	일+도	ADV	_	8	advcl	_	_	일/ncpa+도/jxc
+8	변화하여	변화+하+어	SCONJ	_	13	ccomp	_	_	변화/ncpa+하/xsv+어/ecs
+9	적은	적+ㄴ	ADJ	_	10	amod	_	_	적/paa+ㄴ/etm
+10	노동력으로	노동력+으로	ADV	_	13	advcl	_	_	노동력/ncn+으로/jca
+11	많은	많+ㄴ	ADJ	_	12	amod	_	_	많/paa+ㄴ/etm
+12	공업산물을	공업+산물+을	NOUN	_	13	obj	_	_	공업/ncn+산물/ncn+을/jco
+13	생산하게	생산+하+게	VERB	_	0	root	_	_	생산/ncpa+하/xsv+게/ecx
+14	되었다	되+었+다	AUX	_	13	aux	_	_	되/px+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 또한 그러한 공업산물이 농업이나 기계공업 그 자체를 발달시켜 기계의 진보가 급속히 이루어진 것이다 .
+1	또한	또한	CCONJ	_	12	cc	_	_	또한/maj
+2	그러한	그러하+ㄴ	VERB	_	3	amod	_	_	그러하/pad+ㄴ/etm
+3	공업산물이	공업+산물+이	NOUN	_	8	nsubj	_	_	공업/ncn+산물/ncn+이/jcs
+4	농업이나	농업+이나	CCONJ	_	5	conj	_	_	농업/ncn+이나/jcj
+5	기계공업	기계+공업	NOUN	_	7	compound	_	_	기계/ncn+공업/ncn
+6	그	그	DET	_	7	det	_	_	그/mmd
+7	자체를	자체+를	NOUN	_	8	obj	_	_	자체/ncn+를/jco
+8	발달시켜	발달+시키+어	SCONJ	_	12	ccomp	_	_	발달/ncpa+시키/xsv+어/ecs
+9	기계의	기계+의	NOUN	_	10	nmod	_	_	기계/ncn+의/jcm
+10	진보가	진보+가	NOUN	_	12	nsubj	_	_	진보/ncpa+가/jcs
+11	급속히	급속히	ADV	_	12	advmod	_	_	급속히/mag
+12	이루어진	이루어지+ㄴ	VERB	_	0	root	_	_	이루어지/pvg+ㄴ/etm
+13	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 한편 증기기관의 직선 스트로크운동을 회전운동으로 바꾸는 크랭크와 톱니바퀴 ( gear ) 등도 발달하게 된다 .
+1	한편	한편	CCONJ	_	13	cc	_	_	한편/maj
+2	증기기관의	증기+기관+의	NOUN	_	4	nmod	_	_	증기/ncn+기관/ncn+의/jcm
+3	직선	직선	NOUN	_	4	compound	_	_	직선/ncn
+4	스트로크운동을	스트로크운동+을	NOUN	_	6	obj	_	_	스트로크운동/ncn+을/jco
+5	회전운동으로	회전+운동+으로	ADV	_	6	advcl	_	_	회전/ncpa+운동/ncpa+으로/jca
+6	바꾸는	바꾸+는	VERB	_	8	acl	_	_	바꾸/pvg+는/etm
+7	크랭크와	크랭크+와	CCONJ	_	8	conj	_	_	크랭크/ncn+와/jcj
+8	톱니바퀴	톱니+바퀴	NOUN	_	12	compound	_	_	톱니/ncn+바퀴/ncn
+9	(	(	PUNCT	_	10	punct	_	_	(/sl
+10	gear	gear	X	_	8	appos	_	_	gear/f
+11	)	)	PUNCT	_	10	punct	_	_	)/sr
+12	등도	등+도	ADV	_	13	advcl	_	_	등/nbn+도/jxc
+13	발달하게	발달+하+게	VERB	_	0	root	_	_	발달/ncpa+하/xsv+게/ecx
+14	된다	되+ㄴ다	AUX	_	13	aux	_	_	되/px+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 톱니바퀴는 회전수를 바꾸는 것은 물론 , 방향이나 운동형태를 바꾸는 것 등 다양한 것이 개발되었다 .
+1	톱니바퀴는	톱니+바퀴+는	NOUN	_	14	dislocated	_	_	톱니/ncn+바퀴/ncn+는/jxt
+2	회전수를	회전수+를	NOUN	_	3	obj	_	_	회전수/ncn+를/jco
+3	바꾸는	바꾸+는	VERB	_	4	acl	_	_	바꾸/pvg+는/etm
+4	것은	것+은	NOUN	_	5	dislocated	_	_	것/nbn+은/jxt
+5	물론	물론	ADV	_	9	advmod	_	_	물론/mag
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	방향이나	방향+이나	CCONJ	_	8	conj	_	_	방향/ncn+이나/jcj
+8	운동형태를	운동+형태+를	NOUN	_	9	obj	_	_	운동/ncpa+형태/ncn+를/jco
+9	바꾸는	바꾸+는	VERB	_	10	acl	_	_	바꾸/pvg+는/etm
+10	것	것	NOUN	_	11	mark	_	_	것/nbn
+11	등	등	NOUN	_	13	mark	_	_	등/nbn
+12	다양한	다양하+ㄴ	ADJ	_	13	amod	_	_	다양하/paa+ㄴ/etm
+13	것이	것+이	NOUN	_	14	nsubj	_	_	것/nbn+이/jcs
+14	개발되었다	개발+되+었+다	VERB	_	0	root	_	_	개발/ncpa+되/xsv+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이후 19 세기 후반에는 폭약의 힘을 이용한 동력개발이 이루어졌다 .
+1	이후	이후	NOUN	_	9	advmod	_	_	이후/ncn
+2	19	19	NUM	_	3	nummod	_	_	19/nnc
+3	세기	세기	NOUN	_	4	compound	_	_	세기/ncn
+4	후반에는	후반+에+는	NOUN	_	9	dislocated	_	_	후반/ncn+에/jca+는/jxt
+5	폭약의	폭약+의	NOUN	_	6	nmod	_	_	폭약/ncn+의/jcm
+6	힘을	힘+을	NOUN	_	7	obj	_	_	힘/ncn+을/jco
+7	이용한	이용+하+ㄴ	VERB	_	8	acl	_	_	이용/ncpa+하/xsv+ㄴ/etm
+8	동력개발이	동력+개발+이	NOUN	_	9	nsubj	_	_	동력/ncn+개발/ncpa+이/jcs
+9	이루어졌다	이루어지+었+다	VERB	_	0	root	_	_	이루어지/pvg+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 오토 , 다이뮬러 , 디젤 등이 이런 것인데 , 이것을 개량하여 현재의 내연기관 , 즉 가솔린 , 디젤엔진의 근원을 만들었다 .
+1	오토	오토	NOUN	_	3	conj	_	_	오토/ncn
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	다이뮬러	다이뮬러	NOUN	_	5	conj	_	_	다이뮬러/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	디젤	디젤	NOUN	_	6	compound	_	_	디젤/ncn
+6	등이	등+이	NOUN	_	8	nsubj	_	_	등/nbn+이/jcs
+7	이런	이런	DET	_	8	det	_	_	이런/mmd
+8	것인데	것+이+ㄴ데	SCONJ	_	20	ccomp	_	_	것/nbn+이/jp+ㄴ데/ecs
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	이것을	이것+을	PRON	_	11	obj	_	_	이것/npd+을/jco
+11	개량하여	개량+하+어	SCONJ	_	20	ccomp	_	_	개량/ncpa+하/xsv+어/ecs
+12	현재의	현재+의	NOUN	_	13	nmod	_	_	현재/ncn+의/jcm
+13	내연기관	내연+기관	NOUN	_	18	conj	_	_	내연/ncn+기관/ncn
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	즉	즉	CCONJ	_	18	cc	_	_	즉/maj
+16	가솔린	가솔린	NOUN	_	18	conj	_	_	가솔린/ncn
+17	,	,	PUNCT	_	16	punct	_	_	,/sp
+18	디젤엔진의	디젤+엔진+의	NOUN	_	19	nmod	_	_	디젤/ncn+엔진/ncn+의/jcm
+19	근원을	근원+을	NOUN	_	20	obj	_	_	근원/ncn+을/jco
+20	만들었다	만들+었+다	VERB	_	0	root	_	_	만들/pvg+었/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 또한 터빈의 개량 , 발전은 수차를 대신하여 수력발전을 가능케 했으며 나아가 증기터빈으로 발전하여 열에너지를 전력으로 바꾸는 데에 사용되게 되었다 .
+1	또한	또한	CCONJ	_	18	cc	_	_	또한/maj
+2	터빈의	터빈+의	NOUN	_	5	nmod	_	_	터빈/ncn+의/jcm
+3	개량	개량	NOUN	_	5	conj	_	_	개량/ncpa
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	발전은	발전+은	NOUN	_	9	dislocated	_	_	발전/ncpa+은/jxt
+6	수차를	수차+를	NOUN	_	7	obj	_	_	수차/ncn+를/jco
+7	대신하여	대신+하+어	SCONJ	_	9	conj	_	_	대신/ncpa+하/xsv+어/ecs
+8	수력발전을	수력+발전+을	NOUN	_	9	obj	_	_	수력/ncpa+발전/ncn+을/jco
+9	가능케	가능+하+게	VERB	_	18	amod	_	_	가능/ncps+하/xsm+게/ecx
+10	했으며	하+었+으며	SCONJ	_	9	aux	_	_	하/px+었/ep+으며/ecs
+11	나아가	나아가+아	SCONJ	_	13	ccomp	_	_	나아가/pvg+아/ecs
+12	증기터빈으로	증기+터빈+으로	ADV	_	13	advcl	_	_	증기/ncn+터빈/ncn+으로/jca
+13	발전하여	발전+하+어	SCONJ	_	18	ccomp	_	_	발전/ncpa+하/xsv+어/ecs
+14	열에너지를	열+에너지+를	NOUN	_	16	obj	_	_	열/ncn+에너지/ncn+를/jco
+15	전력으로	전력+으로	ADV	_	16	advcl	_	_	전력/ncn+으로/jca
+16	바꾸는	바꾸+는	VERB	_	17	acl	_	_	바꾸/pvg+는/etm
+17	데에	데+에	ADV	_	18	obl	_	_	데/nbn+에/jca
+18	사용되게	사용+되+게	VERB	_	0	root	_	_	사용/ncpa+되/xsv+게/ecx
+19	되었다	되+었+다	AUX	_	18	aux	_	_	되/px+었/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 그것은 기계장치속에 전기가 들어간 20 세기 전반의 전화 ( 電化 ) 시대를 거쳐 드디어 기계에 전자 ( 電子 ) 가 접목되었기 때문이다 .
+1	그것은	그것+은	PRON	_	21	dislocated	_	_	그것/npd+은/jxt
+2	기계장치속에	기계+장치+속+에	ADV	_	4	obl	_	_	기계/ncn+장치/ncpa+속/ncn+에/jca
+3	전기가	전기+가	NOUN	_	4	nsubj	_	_	전기/ncn+가/jcs
+4	들어간	들어가+ㄴ	VERB	_	12	acl	_	_	들어가/pvg+ㄴ/etm
+5	20	20	NUM	_	6	nummod	_	_	20/nnc
+6	세기	세기	NOUN	_	7	compound	_	_	세기/ncn
+7	전반의	전반+의	NOUN	_	12	nmod	_	_	전반/ncn+의/jcm
+8	전화	전화	NOUN	_	12	compound	_	_	전화/ncpa
+9	(	(	PUNCT	_	10	punct	_	_	(/sl
+10	電化	電化	PROPN	_	8	appos	_	_	電化/nq
+11	)	)	PUNCT	_	10	punct	_	_	)/sr
+12	시대를	시대+를	NOUN	_	13	obj	_	_	시대/ncn+를/jco
+13	거쳐	거치+어	SCONJ	_	21	ccomp	_	_	거치/pvg+어/ecs
+14	드디어	드디어	ADV	_	21	advmod	_	_	드디어/mag
+15	기계에	기계+에	ADV	_	21	obl	_	_	기계/ncn+에/jca
+16	전자	전자	NOUN	_	21	nsubj	_	_	전자/ncn
+17	(	(	PUNCT	_	18	punct	_	_	(/sl
+18	電子	電子	PROPN	_	16	appos	_	_	電子/nq
+19	)	)	PUNCT	_	18	punct	_	_	)/sr
+20	가	가	ADP	_	16	case	_	_	가/jcs
+21	접목되었기	접목+되+었+기	VERB	_	0	root	_	_	접목/ncpa+되/xsv+었/ep+기/etn
+22	때문이다	때문+이+다	VERB	_	21	aux	_	_	때문/nbn+이/jp+다/ef
+23	.	.	PUNCT	_	22	punct	_	_	./sf
+
+# 전지 ( 電池 ) 의 개발 또한 기계를 더욱 작고 휴대하기 간편한 것으로 만들어주었다 .
+1	전지	전지	NOUN	_	6	nmod	_	_	전지/ncn
+2	(	(	PUNCT	_	3	punct	_	_	(/sl
+3	電池	電池	PROPN	_	1	appos	_	_	電池/nq
+4	)	)	PUNCT	_	3	punct	_	_	)/sr
+5	의	의	ADP	_	1	case	_	_	의/jcm
+6	개발	개발	NOUN	_	7	dep	_	_	개발/ncpa
+7	또한	또한	ADV	_	14	advmod	_	_	또한/mag
+8	기계를	기계+를	NOUN	_	14	obj	_	_	기계/ncn+를/jco
+9	더욱	더욱	ADV	_	10	advmod	_	_	더욱/mag
+10	작고	작+고	CCONJ	_	12	conj	_	_	작/paa+고/ecc
+11	휴대하기	휴대+하+기	VERB	_	12	nmod	_	_	휴대/ncpa+하/xsv+기/etn
+12	간편한	간편하+ㄴ	ADJ	_	13	amod	_	_	간편하/paa+ㄴ/etm
+13	것으로	것+으로	ADV	_	14	advcl	_	_	것/nbn+으로/jca
+14	만들어주었다	만들+어+주+었+다	AUX	_	0	root	_	_	만들/pvg+어/ecx+주/px+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 또한 개개의 생물이 생태환경에 적합한 최적의 크기로 되어 있는 것처럼 기계도 그 목적에 맞는 최적의 크기가 있다 .
+1	또한	또한	CCONJ	_	17	cc	_	_	또한/maj
+2	개개의	개개+의	NOUN	_	3	nmod	_	_	개개/ncn+의/jcm
+3	생물이	생물+이	NOUN	_	8	nsubj	_	_	생물/ncn+이/jcs
+4	생태환경에	생태+환경+에	ADV	_	5	obl	_	_	생태/ncn+환경/ncn+에/jca
+5	적합한	적합하+ㄴ	ADJ	_	7	amod	_	_	적합하/paa+ㄴ/etm
+6	최적의	최적+의	NOUN	_	7	nmod	_	_	최적/ncn+의/jcm
+7	크기로	크기+로	ADV	_	8	advcl	_	_	크기/ncn+로/jca
+8	되어	되+어	VERB	_	10	acl	_	_	되/pvg+어/ecx
+9	있는	있+는	AUX	_	8	aux	_	_	있/px+는/etm
+10	것처럼	것+처럼	ADV	_	17	advcl	_	_	것/nbn+처럼/jca
+11	기계도	기계+도	ADV	_	17	advcl	_	_	기계/ncn+도/jxc
+12	그	그	DET	_	13	det	_	_	그/mmd
+13	목적에	목적+에	ADV	_	14	obl	_	_	목적/ncpa+에/jca
+14	맞는	맞+는	VERB	_	16	acl	_	_	맞/pvg+는/etm
+15	최적의	최적+의	NOUN	_	16	nmod	_	_	최적/ncn+의/jcm
+16	크기가	크기+가	NOUN	_	17	nsubj	_	_	크기/ncn+가/jcs
+17	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 아마도 많은 사람들이 안경테의 소형나사가 풀어져서 곤란을 겪었던 경험이 있을 것이다 .
+1	아마도	아마도	ADV	_	10	advmod	_	_	아마도/mag
+2	많은	많+ㄴ	ADJ	_	3	amod	_	_	많/paa+ㄴ/etm
+3	사람들이	사람+들+이	NOUN	_	10	nsubj	_	_	사람/ncn+들/xsn+이/jcs
+4	안경테의	안경테+의	NOUN	_	5	nmod	_	_	안경테/ncn+의/jcm
+5	소형나사가	소형+나사+가	NOUN	_	6	nsubj	_	_	소형/ncn+나사/ncn+가/jcs
+6	풀어져서	풀어지+어서	SCONJ	_	8	ccomp	_	_	풀어지/pvg+어서/ecs
+7	곤란을	곤란+을	NOUN	_	8	obj	_	_	곤란/ncps+을/jco
+8	겪었던	겪+었+던	VERB	_	9	acl	_	_	겪/pvg+었/ep+던/etm
+9	경험이	경험+이	NOUN	_	10	nsubj	_	_	경험/ncpa+이/jcs
+10	있을	있+ㄹ	ADJ	_	0	root	_	_	있/paa+ㄹ/etm
+11	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 따라서 기계의 진화는 더욱더 대형화의 길을 걷게 되었다 .
+1	따라서	따라서	CCONJ	_	7	cc	_	_	따라서/maj
+2	기계의	기계+의	NOUN	_	3	nmod	_	_	기계/ncn+의/jcm
+3	진화는	진화+는	NOUN	_	7	dislocated	_	_	진화/ncpa+는/jxt
+4	더욱더	더욱더	ADV	_	7	advmod	_	_	더욱더/mag
+5	대형화의	대형화+의	NOUN	_	6	nmod	_	_	대형화/ncn+의/jcm
+6	길을	길+을	NOUN	_	7	obj	_	_	길/ncn+을/jco
+7	걷게	걷+게	VERB	_	0	root	_	_	걷/pvg+게/ecx
+8	되었다	되+었+다	AUX	_	7	aux	_	_	되/px+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 우리 주위에서 아주 작은 기계부품을 찾아본다면 아마도 정밀기계인 손목시계의 부품이나 나사 정도가 될 것이다 .
+1	우리	우리	PRON	_	2	compound	_	_	우리/npp
+2	주위에서	주위+에서	ADV	_	6	advcl	_	_	주위/ncn+에서/jca
+3	아주	아주	ADV	_	4	advmod	_	_	아주/mag
+4	작은	작+ㄴ	ADJ	_	5	amod	_	_	작/paa+ㄴ/etm
+5	기계부품을	기계+부품+을	NOUN	_	6	obj	_	_	기계/ncn+부품/ncn+을/jco
+6	찾아본다면	찾+아+보+ㄴ다면	SCONJ	_	13	ccomp	_	_	찾/pvg+아/ecx+보/px+ㄴ다면/ecs
+7	아마도	아마도	ADV	_	13	advmod	_	_	아마도/mag
+8	정밀기계인	정밀+기계+이+ㄴ	VERB	_	9	acl	_	_	정밀/ncpa+기계/ncn+이/jp+ㄴ/etm
+9	손목시계의	손목+시계+의	NOUN	_	11	nmod	_	_	손목/ncn+시계/ncn+의/jcm
+10	부품이나	부품+이나	CCONJ	_	11	conj	_	_	부품/ncn+이나/jcj
+11	나사	나사	NOUN	_	12	compound	_	_	나사/ncn
+12	정도가	정도+가	NOUN	_	13	csubj	_	_	정도/ncn+가/jcc
+13	될	되+ㄹ	VERB	_	0	root	_	_	되/pvg+ㄹ/etm
+14	것이다	것+이+다	VERB	_	13	aux	_	_	것/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그렇다 해도 그 크기는 1 mm 이상이며 더군다나 시스템으로 움직이는 기계가 되면 크기가 1 cm 이하인 것은 거의 없다 .
+1	그렇다	그렇+다	VERB	_	2	dep	_	_	그렇/pad+다/ef
+2	해도	하+어도	SCONJ	_	7	ccomp	_	_	하/pvg+어도/ecs
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	크기는	크기+는	NOUN	_	7	dislocated	_	_	크기/ncn+는/jxt
+5	1	1	NUM	_	6	nummod	_	_	1/nnc
+6	mm	mm	X	_	7	dep	_	_	mm/f
+7	이상이며	이상+이+며	CCONJ	_	19	conj	_	_	이상/ncn+이/jp+며/ecc
+8	더군다나	더군다나	ADV	_	12	advmod	_	_	더군다나/mag
+9	시스템으로	시스템+으로	ADV	_	10	advcl	_	_	시스템/ncn+으로/jca
+10	움직이는	움직이+는	VERB	_	11	acl	_	_	움직이/pvg+는/etm
+11	기계가	기계+가	NOUN	_	12	csubj	_	_	기계/ncn+가/jcc
+12	되면	되+면	SCONJ	_	19	conj	_	_	되/pvg+면/ecs
+13	크기가	크기+가	NOUN	_	16	nsubj	_	_	크기/ncn+가/jcs
+14	1	1	NUM	_	15	nummod	_	_	1/nnc
+15	cm	cm	X	_	16	dep	_	_	cm/f
+16	이하인	이하+이+ㄴ	VERB	_	17	acl	_	_	이하/ncn+이/jp+ㄴ/etm
+17	것은	것+은	NOUN	_	19	dislocated	_	_	것/nbn+은/jxt
+18	거의	거의	ADV	_	19	advmod	_	_	거의/mag
+19	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 즉 , 기계부품에 있어서는 이러한 유인 ( 誘因 ) 이 존재하지 않았던 것이다 .
+1	즉	즉	CCONJ	_	11	cc	_	_	즉/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	기계부품에	기계+부품+에	ADV	_	4	obl	_	_	기계/ncn+부품/ncn+에/jca
+4	있어서는	있+어서+는	NOUN	_	11	amod	_	_	있/paa+어서/ecs+는/jxt
+5	이러한	이러하+ㄴ	VERB	_	6	amod	_	_	이러하/pad+ㄴ/etm
+6	유인	유인	NOUN	_	11	nsubj	_	_	유인/ncpa
+7	(	(	PUNCT	_	8	punct	_	_	(/sl
+8	誘因	誘因	PROPN	_	6	appos	_	_	誘因/nq
+9	)	)	PUNCT	_	8	punct	_	_	)/sr
+10	이	이	ADP	_	6	case	_	_	이/jcs
+11	존재하지	존재+하+지	VERB	_	0	root	_	_	존재/ncpa+하/xsv+지/ecx
+12	않았던	않+았+던	AUX	_	11	aux	_	_	않/px+았/ep+던/etm
+13	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 요컨대 기계분야에서 소형화가 진전되지 않았던 이유는 첫째 , 소형화에 대한 니즈가 많지 않았다는 점이다 .
+1	요컨대	요컨대	CCONJ	_	14	cc	_	_	요컨대/maj
+2	기계분야에서	기계+분야+에서	ADV	_	4	advcl	_	_	기계/ncn+분야/ncn+에서/jca
+3	소형화가	소형화+가	NOUN	_	4	nsubj	_	_	소형화/ncn+가/jcs
+4	진전되지	진전+되+지	VERB	_	6	acl	_	_	진전/ncpa+되/xsv+지/ecx
+5	않았던	않+았+던	AUX	_	4	aux	_	_	않/px+았/ep+던/etm
+6	이유는	이유+는	NOUN	_	14	dislocated	_	_	이유/ncn+는/jxt
+7	첫째	첫째	NUM	_	14	nummod	_	_	첫째/nno
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	소형화에	소형화+에	ADV	_	10	obl	_	_	소형화/ncn+에/jca
+10	대한	대하+ㄴ	VERB	_	11	acl	_	_	대하/pvg+ㄴ/etm
+11	니즈가	니즈+가	NOUN	_	12	nsubj	_	_	니즈/ncn+가/jcs
+12	많지	많+지	ADJ	_	14	amod	_	_	많/paa+지/ecx
+13	않았다는	않+았+다는	AUX	_	12	aux	_	_	않/px+았/ep+다는/etm
+14	점이다	점+이+다	VERB	_	0	root	_	_	점/ncn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 지금까지 정밀기계공학의 세계에서는 주로 가공의 정도 ( 精度 ) 가 화제가 되어 왔으며 기계 부품의 미세화와 소형화는 그다지 중시되지 않았다 .
+1	지금까지	지금+까지	ADV	_	19	advcl	_	_	지금/ncn+까지/jxc
+2	정밀기계공학의	정밀+기계+공학+의	NOUN	_	3	nmod	_	_	정밀/ncps+기계/ncn+공학/ncn+의/jcm
+3	세계에서는	세계+에서+는	NOUN	_	19	dislocated	_	_	세계/ncn+에서/jca+는/jxt
+4	주로	주로	ADV	_	12	advmod	_	_	주로/mag
+5	가공의	가공+의	NOUN	_	6	nmod	_	_	가공/ncn+의/jcm
+6	정도	정도	NOUN	_	12	nsubj	_	_	정도/ncn
+7	(	(	PUNCT	_	8	punct	_	_	(/sl
+8	精度	精度	PROPN	_	6	appos	_	_	精度/nq
+9	)	)	PUNCT	_	8	punct	_	_	)/sr
+10	가	가	ADP	_	6	case	_	_	가/jcs
+11	화제가	화제+가	NOUN	_	12	csubj	_	_	화제/ncn+가/jcc
+12	되어	되+어	VERB	_	19	ccomp	_	_	되/pvg+어/ecx
+13	왔으며	오+았+으며	SCONJ	_	12	aux	_	_	오/px+았/ep+으며/ecs
+14	기계	기계	NOUN	_	15	compound	_	_	기계/ncn
+15	부품의	부품+의	NOUN	_	17	nmod	_	_	부품/ncn+의/jcm
+16	미세화와	미세화+와	CCONJ	_	17	conj	_	_	미세화/ncn+와/jcj
+17	소형화는	소형화+는	NOUN	_	19	dislocated	_	_	소형화/ncn+는/jxt
+18	그다지	그다지	ADV	_	19	advmod	_	_	그다지/mag
+19	중시되지	중시+되+지	VERB	_	0	root	_	_	중시/ncpa+되/xsv+지/ecx
+20	않았다	않+았+다	AUX	_	19	aux	_	_	않/px+았/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 둘째 , 전자부품과 달리 기계에서는 그저 작다고만 하는 것이 능사가 아니라는 것이다 .
+1	둘째	둘째	NUM	_	11	nummod	_	_	둘째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	전자부품과	전자+부품+과	CCONJ	_	4	conj	_	_	전자/ncn+부품/ncn+과/jct
+4	달리	다르+이	SCONJ	_	11	xcomp	_	_	다르/paa+이/ecs
+5	기계에서는	기계+에서+는	NOUN	_	11	dislocated	_	_	기계/ncn+에서/jca+는/jxt
+6	그저	그저	ADV	_	7	advmod	_	_	그저/mag
+7	작다고만	작+다+고+만	ADV	_	8	advcl	_	_	작/paa+다/ef+고/jcr+만/jxc
+8	하는	하+는	VERB	_	9	acl	_	_	하/pvg+는/etm
+9	것이	것+이	NOUN	_	11	nsubj	_	_	것/nbn+이/jcs
+10	능사가	능사+가	NOUN	_	11	csubj	_	_	능사/ncn+가/jcc
+11	아니라는	아니+라는	ADJ	_	0	root	_	_	아니/paa+라는/etm
+12	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 셋째 , 소형화를 가능케 한 혁명적인 기술이 등장하지 않았다는 점으로 , 전자분야의 반도체 집적소자의 가공기술에 필적할 만한 소형화기술이 개발되지 않았다는 것이다 .
+1	셋째	셋째	NUM	_	19	nummod	_	_	셋째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	소형화를	소형화+를	NOUN	_	5	obj	_	_	소형화/ncn+를/jco
+4	가능케	가능+하+게	SCONJ	_	5	xcomp	_	_	가능/ncps+하/xsm+게/ecs
+5	한	하+ㄴ	VERB	_	7	acl	_	_	하/pvg+ㄴ/etm
+6	혁명적인	혁명+적+이+ㄴ	VERB	_	7	acl	_	_	혁명/ncn+적/xsn+이/jp+ㄴ/etm
+7	기술이	기술+이	NOUN	_	8	nsubj	_	_	기술/ncn+이/jcs
+8	등장하지	등장+하+지	VERB	_	10	acl	_	_	등장/ncpa+하/xsv+지/ecx
+9	않았다는	않+았+다는	AUX	_	8	aux	_	_	않/px+았/ep+다는/etm
+10	점으로	점+으로	ADV	_	19	advmod	_	_	점/ncn+으로/jca
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	전자분야의	전자+분야+의	NOUN	_	15	nmod	_	_	전자/ncn+분야/ncn+의/jcm
+13	반도체	반도체	NOUN	_	14	compound	_	_	반도체/ncn
+14	집적소자의	집적+소자+의	NOUN	_	15	nmod	_	_	집적/ncpa+소자/ncn+의/jcm
+15	가공기술에	가공+기술+에	ADV	_	16	obl	_	_	가공/ncpa+기술/ncn+에/jca
+16	필적할	필적+하+ㄹ	VERB	_	18	acl	_	_	필적/ncpa+하/xsv+ㄹ/etm
+17	만한	만하+ㄴ	AUX	_	16	aux	_	_	만하/px+ㄴ/etm
+18	소형화기술이	소형화+기술+이	NOUN	_	19	nsubj	_	_	소형화/ncn+기술/ncn+이/jcs
+19	개발되지	개발+되+지	VERB	_	0	root	_	_	개발/ncpa+되/xsv+지/ecx
+20	않았다는	않+았+다는	AUX	_	19	aux	_	_	않/px+았/ep+다는/etm
+21	것이다	것+이+다	VERB	_	19	aux	_	_	것/nbn+이/jp+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 지금까지 기계설계분야에서는 기계의 소형화가 대형화보다 어렵다고 알려져 왔다 .
+1	지금까지	지금+까지	ADV	_	7	advcl	_	_	지금/ncn+까지/jxc
+2	기계설계분야에서는	기계+설계+분야+에서+는	NOUN	_	7	dislocated	_	_	기계/ncn+설계/ncpa+분야/ncn+에서/jca+는/jxt
+3	기계의	기계+의	NOUN	_	4	nmod	_	_	기계/ncn+의/jcm
+4	소형화가	소형화+가	NOUN	_	6	nsubj	_	_	소형화/ncn+가/jcs
+5	대형화보다	대형화+보다	ADV	_	6	advcl	_	_	대형화/ncn+보다/jca
+6	어렵다고	어렵+다+고	VERB	_	7	conj	_	_	어렵/paa+다/ef+고/jcr
+7	알려져	알려지+어	VERB	_	0	root	_	_	알려지/pvg+어/ecx
+8	왔다	오+았+다	AUX	_	7	aux	_	_	오/px+았/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그러나 이제 기계분야를 둘러싼 환경은 크게 달라지고 있다 .
+1	그러나	그러나	CCONJ	_	7	cc	_	_	그러나/maj
+2	이제	이제	ADV	_	7	advmod	_	_	이제/mag
+3	기계분야를	기계+분야+를	NOUN	_	4	obj	_	_	기계/ncn+분야/ncn+를/jco
+4	둘러싼	둘러싸+ㄴ	VERB	_	5	acl	_	_	둘러싸/pvg+ㄴ/etm
+5	환경은	환경+은	NOUN	_	7	dislocated	_	_	환경/ncn+은/jxt
+6	크게	크+게	SCONJ	_	7	xcomp	_	_	크/paa+게/ecs
+7	달라지고	달라지+고	ADJ	_	0	root	_	_	달라지/paa+고/ecx
+8	있다	있+다	AUX	_	7	aux	_	_	있/px+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 일방적인 대형화로의 진화는 기계분야의 발전에 부자연스러운 것이면서 동시에 그 형평에 있어서도 적절치 않은 것이었다 .
+1	일방적인	일방+적+이+ㄴ	VERB	_	3	acl	_	_	일방/ncn+적/xsn+이/jp+ㄴ/etm
+2	대형화로의	대형화+로+의	NOUN	_	3	nmod	_	_	대형화/ncn+로/jca+의/jcm
+3	진화는	진화+는	NOUN	_	12	dislocated	_	_	진화/ncpa+는/jxt
+4	기계분야의	기계+분야+의	NOUN	_	5	nmod	_	_	기계/ncn+분야/ncn+의/jcm
+5	발전에	발전+에	ADV	_	6	obl	_	_	발전/ncpa+에/jca
+6	부자연스러운	부자연+스럽+ㄴ	VERB	_	12	conj	_	_	부자연/ncps+스럽/xsm+ㄴ/etm
+7	것이면서	것+이+면서	CCONJ	_	6	aux	_	_	것/nbn+이/jp+면서/ecc
+8	동시에	동시+에	ADV	_	12	obl	_	_	동시/ncn+에/jca
+9	그	그	DET	_	10	det	_	_	그/mmd
+10	형평에	형평+에	ADV	_	11	obl	_	_	형평/ncn+에/jca
+11	있어서도	있+어서+도	ADV	_	12	amod	_	_	있/paa+어서/ecs+도/jxc
+12	적절치	적절+하+지	VERB	_	0	root	_	_	적절/ncps+하/xsm+지/ecx
+13	않은	않+ㄴ	AUX	_	12	aux	_	_	않/px+ㄴ/etm
+14	것이었다	것+이+었+다	VERB	_	12	aux	_	_	것/nbn+이/jp+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 따라서 자연스레 그에 대한 반작용으로 소형화에 대한 기대가 다음 과제로 부상하게 된 것이다 .
+1	따라서	따라서	CCONJ	_	11	cc	_	_	따라서/maj
+2	자연스레	자연스레	ADV	_	11	advmod	_	_	자연스레/mag
+3	그에	그+에	ADV	_	4	obl	_	_	그/npd+에/jca
+4	대한	대하+ㄴ	VERB	_	5	acl	_	_	대하/pvg+ㄴ/etm
+5	반작용으로	반작용+으로	ADV	_	11	advcl	_	_	반작용/ncn+으로/jca
+6	소형화에	소형화+에	ADV	_	7	obl	_	_	소형화/ncn+에/jca
+7	대한	대하+ㄴ	VERB	_	8	acl	_	_	대하/pvg+ㄴ/etm
+8	기대가	기대+가	NOUN	_	11	nsubj	_	_	기대/ncpa+가/jcs
+9	다음	다음	NOUN	_	10	compound	_	_	다음/ncn
+10	과제로	과제+로	ADV	_	11	advcl	_	_	과제/ncn+로/jca
+11	부상하게	부상+하+게	VERB	_	0	root	_	_	부상/ncpa+하/xsv+게/ecx
+12	된	되+ㄴ	AUX	_	11	aux	_	_	되/px+ㄴ/etm
+13	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이것이 바로 이 책의 주제인 ' 마이크로머신 ' 이다 .
+1	이것이	이것+이	PRON	_	7	nsubj	_	_	이것/npd+이/jcs
+2	바로	바로	ADV	_	5	advmod	_	_	바로/mag
+3	이	이	DET	_	4	det	_	_	이/mmd
+4	책의	책+의	NOUN	_	5	nmod	_	_	책/ncn+의/jcm
+5	주제인	주제+이+ㄴ	VERB	_	7	ccomp	_	_	주제/ncn+이/jp+ㄴ/etm
+6	'	'	PUNCT	_	7	punct	_	_	'/sl
+7	마이크로머신	마이크로+머신	NOUN	_	0	root	_	_	마이크로/ncn+머신/ncn
+8	'	'	PUNCT	_	7	punct	_	_	'/sr
+9	이다	이+다	ADP	_	7	cop	_	_	이/jp+다/ef
+10	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 물론 마이크로머신 , 혹은 마이크로시스템이라는 용어가 아직 학문적으로 인정된 것은 아니다 .
+1	물론	물론	ADV	_	11	advmod	_	_	물론/mag
+2	마이크로머신	마이크로+머신	NOUN	_	5	compound	_	_	마이크로/ncn+머신/ncn
+3	,	,	PUNCT	_	5	punct	_	_	,/sp
+4	혹은	혹은	CCONJ	_	5	cc	_	_	혹은/maj
+5	마이크로시스템이라는	마이크로+시스템+이+라는	VERB	_	6	acl	_	_	마이크로/ncn+시스템/ncn+이/jp+라는/etm
+6	용어가	용어+가	NOUN	_	9	nsubj	_	_	용어/ncn+가/jcs
+7	아직	아직	ADV	_	9	advmod	_	_	아직/mag
+8	학문적으로	학문+적+으로	ADV	_	9	advcl	_	_	학문/ncpa+적/xsn+으로/jca
+9	인정된	인정+되+ㄴ	VERB	_	10	acl	_	_	인정/ncpa+되/xsv+ㄴ/etm
+10	것은	것+은	NOUN	_	11	dislocated	_	_	것/nbn+은/jxt
+11	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 뿐만 아니라 쓸모없는 에너지를 쓰지도 않고 , 여분의 산업폐기물 등을 배출하지 않아 지금 문제되고 있는 자원이나 환경문제까지도 해결할 수 있다 .
+1	뿐만	뿐+만	ADV	_	2	dep	_	_	뿐/nbn+만/jxc
+2	아니라	아니+라	SCONJ	_	18	cc	_	_	아니/paa+라/ecs
+3	쓸모없는	쓸모없+는	ADJ	_	4	amod	_	_	쓸모없/paa+는/etm
+4	에너지를	에너지+를	NOUN	_	5	obj	_	_	에너지/ncn+를/jco
+5	쓰지도	쓰+지+도	ADV	_	11	conj	_	_	쓰/pvg+지/ecx+도/jxc
+6	않고	않+고	CCONJ	_	5	aux	_	_	않/px+고/ecc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	여분의	여분+의	NOUN	_	9	nmod	_	_	여분/ncn+의/jcm
+9	산업폐기물	산업+폐기물	NOUN	_	10	compound	_	_	산업/ncn+폐기물/ncn
+10	등을	등+을	NOUN	_	11	obj	_	_	등/nbn+을/jco
+11	배출하지	배출+하+지	VERB	_	18	ccomp	_	_	배출/ncpa+하/xsv+지/ecx
+12	않아	않+아	SCONJ	_	11	aux	_	_	않/px+아/ecs
+13	지금	지금	NOUN	_	14	compound	_	_	지금/ncn
+14	문제되고	문제+되+고	VERB	_	17	acl	_	_	문제/ncpa+되/xsv+고/ecx
+15	있는	있+는	AUX	_	14	aux	_	_	있/px+는/etm
+16	자원이나	자원+이나	CCONJ	_	17	conj	_	_	자원/ncn+이나/jcj
+17	환경문제까지도	환경+문제+까지+도	ADV	_	18	advcl	_	_	환경/ncn+문제/ncn+까지/jxc+도/jxc
+18	해결할	해결+하+ㄹ	VERB	_	0	root	_	_	해결/ncpa+하/xsv+ㄹ/etm
+19	수	수	NOUN	_	20	fixed	_	_	수/nbn
+20	있다	있+다	ADJ	_	18	aux	_	_	있/paa+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그렇게 되면 내이세포에 장애가 있는 사람도 외부음을 들을 수 있게 된다 .
+1	그렇게	그렇+게	VERB	_	8	amod	_	_	그렇/pad+게/ecx
+2	되면	되+면	SCONJ	_	1	aux	_	_	되/px+면/ecs
+3	내이세포에	내이+세포+에	ADV	_	5	obl	_	_	내이/ncn+세포/ncn+에/jca
+4	장애가	장애+가	NOUN	_	5	nsubj	_	_	장애/ncn+가/jcs
+5	있는	있+는	ADJ	_	6	amod	_	_	있/paa+는/etm
+6	사람도	사람+도	ADV	_	8	advcl	_	_	사람/ncn+도/jxc
+7	외부음을	외부음+을	NOUN	_	8	obj	_	_	외부음/ncn+을/jco
+8	들을	듣+ㄹ	VERB	_	0	root	_	_	듣/pvg+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	있게	있+게	ADJ	_	8	aux	_	_	있/paa+게/ecx
+11	된다	되+ㄴ다	AUX	_	8	aux	_	_	되/px+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이미 미국에서 시행되는 60만 건의 담낭수술 가운데 40만 건 이상이 내시경에 의한 수술로 바뀌게 되었다 .
+1	이미	이미	ADV	_	3	advmod	_	_	이미/mag
+2	미국에서	미국+에서	ADV	_	3	advcl	_	_	미국/nq+에서/jca
+3	시행되는	시행+되+는	VERB	_	6	acl	_	_	시행/ncpa+되/xsv+는/etm
+4	60만	60+만	NUM	_	5	compound	_	_	60/nnc+만/nnc
+5	건의	건+의	NOUN	_	6	nmod	_	_	건/nbu+의/jcm
+6	담낭수술	담낭+수술	NOUN	_	7	compound	_	_	담낭/ncn+수술/ncpa
+7	가운데	가운데	NOUN	_	10	compound	_	_	가운데/ncn
+8	40만	40+만	NUM	_	9	compound	_	_	40/nnc+만/nnc
+9	건	건	NOUN	_	10	compound	_	_	건/nbu
+10	이상이	이상+이	NOUN	_	14	nsubj	_	_	이상/ncn+이/jcs
+11	내시경에	내시경+에	ADV	_	12	obl	_	_	내시경/ncn+에/jca
+12	의한	의하+ㄴ	VERB	_	13	acl	_	_	의하/pvg+ㄴ/etm
+13	수술로	수술+로	ADV	_	14	advcl	_	_	수술/ncpa+로/jca
+14	바뀌게	바뀌+게	VERB	_	0	root	_	_	바뀌/pvg+게/ecx
+15	되었다	되+었+다	AUX	_	14	aux	_	_	되/px+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그러나 마이크로머신의 실용화를 가장 고대하고 있는 사람들 또한 사실은 의료인들인 것이다 .
+1	그러나	그러나	CCONJ	_	10	cc	_	_	그러나/maj
+2	마이크로머신의	마이크로+머신+의	NOUN	_	3	nmod	_	_	마이크로/ncn+머신/ncn+의/jcm
+3	실용화를	실용화+를	NOUN	_	5	obj	_	_	실용화/ncn+를/jco
+4	가장	가장	ADV	_	5	advmod	_	_	가장/mag
+5	고대하고	고대+하+고	VERB	_	7	acl	_	_	고대/ncpa+하/xsv+고/ecx
+6	있는	있+는	AUX	_	5	aux	_	_	있/px+는/etm
+7	사람들	사람+들	NOUN	_	8	compound	_	_	사람/ncn+들/xsn
+8	또한	또한	ADV	_	10	advmod	_	_	또한/mag
+9	사실은	사실+은	NOUN	_	10	dislocated	_	_	사실/ncn+은/jxt
+10	의료인들인	의료인+들+이+ㄴ	VERB	_	0	root	_	_	의료인/ncn+들/xsn+이/jp+ㄴ/etm
+11	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 여기서 부품의 제작이나 기계의 사용이 수공업적이거나 장인의 기술을 요하는 것 같이 되어서는 산업이라 할 수는 없을 것이다 .
+1	여기서	여기+서	ADV	_	12	advcl	_	_	여기/npd+서/jca
+2	부품의	부품+의	NOUN	_	3	nmod	_	_	부품/ncn+의/jcm
+3	제작이나	제작+이나	CCONJ	_	5	conj	_	_	제작/ncpa+이나/jcj
+4	기계의	기계+의	NOUN	_	5	nmod	_	_	기계/ncn+의/jcm
+5	사용이	사용+이	NOUN	_	12	nsubj	_	_	사용/ncpa+이/jcs
+6	수공업적이거나	수공업+적+이+거나	CCONJ	_	9	conj	_	_	수공업/ncn+적/xsn+이/jp+거나/ecc
+7	장인의	장인+의	NOUN	_	8	nmod	_	_	장인/ncn+의/jcm
+8	기술을	기술+을	NOUN	_	9	obj	_	_	기술/ncn+을/jco
+9	요하는	요하+는	VERB	_	10	acl	_	_	요하/pvg+는/etm
+10	것	것	NOUN	_	11	mark	_	_	것/nbn
+11	같이	같+이	SCONJ	_	12	xcomp	_	_	같/paa+이/ecs
+12	되어서는	되+어서+는	NOUN	_	14	ccomp	_	_	되/pvg+어서/ecs+는/jxt
+13	산업이라	산업+이+라	VERB	_	14	ccomp	_	_	산업/ncn+이/jp+라/ef
+14	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+15	수는	수+는	NOUN	_	16	fixed	_	_	수/nbn+는/jxt
+16	없을	없+ㄹ	ADJ	_	14	aux	_	_	없/paa+ㄹ/etm
+17	것이다	것+이+다	VERB	_	14	aux	_	_	것/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 따라서 부품을 일괄해서 대량생산할 수 있는 핵심이라고 할 것이다 .
+1	따라서	따라서	CCONJ	_	8	cc	_	_	따라서/maj
+2	부품을	부품+을	NOUN	_	3	obj	_	_	부품/ncn+을/jco
+3	일괄해서	일괄+하+어서	SCONJ	_	4	ccomp	_	_	일괄/ncpa+하/xsv+어서/ecs
+4	대량생산할	대량+생산+하+ㄹ	VERB	_	7	acl	_	_	대량/ncn+생산/ncpa+하/xsv+ㄹ/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	있는	있+는	ADJ	_	4	aux	_	_	있/paa+는/etm
+7	핵심이라고	핵심+이+라+고	VERB	_	8	conj	_	_	핵심/ncn+이/jp+라/ef+고/jcr
+8	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 어쨌든 우리는 이제 분명히 ' 미래 기계진화의 입구 ' 에 서 있는 것이다 .
+1	어쨌든	어쨌든	CCONJ	_	11	cc	_	_	어쨌든/maj
+2	우리는	우리+는	PRON	_	11	dislocated	_	_	우리/npp+는/jxt
+3	이제	이제	ADV	_	11	advmod	_	_	이제/mag
+4	분명히	분명히	ADV	_	3	advmod	_	_	분명히/mag
+5	'	'	PUNCT	_	6	punct	_	_	'/sl
+6	미래	미래	NOUN	_	7	compound	_	_	미래/ncn
+7	기계진화의	기계+진화+의	NOUN	_	8	nmod	_	_	기계/ncn+진화/ncpa+의/jcm
+8	입구	입구	NOUN	_	11	obl	_	_	입구/ncn
+9	'	'	PUNCT	_	8	punct	_	_	'/sr
+10	에	에	ADP	_	8	case	_	_	에/jca
+11	서	서+어	VERB	_	0	root	_	_	서/pvg+어/ecx
+12	있는	있+는	AUX	_	11	aux	_	_	있/px+는/etm
+13	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이것은 종래의 기계개념으로 보면 상상을 초월하는 것으로서 극히 최근까지도 그 크기 자체가 영화에서나 나올 법한 것으로 생각되던 것이다 .
+1	이것은	이것+은	PRON	_	7	dislocated	_	_	이것/npd+은/jxt
+2	종래의	종래+의	NOUN	_	3	nmod	_	_	종래/ncn+의/jcm
+3	기계개념으로	기계+개념+으로	ADV	_	4	advcl	_	_	기계/ncn+개념/ncn+으로/jca
+4	보면	보+면	SCONJ	_	6	ccomp	_	_	보/pvg+면/ecs
+5	상상을	상상+을	NOUN	_	6	obj	_	_	상상/ncpa+을/jco
+6	초월하는	초월+하+는	VERB	_	7	acl	_	_	초월/ncpa+하/xsv+는/etm
+7	것으로서	것+으로서	ADV	_	17	advcl	_	_	것/nbn+으로서/jca
+8	극히	극히	ADV	_	9	advmod	_	_	극히/mag
+9	최근까지도	최근+까지+도	ADV	_	17	advcl	_	_	최근/ncn+까지/jxc+도/jxc
+10	그	그	DET	_	11	det	_	_	그/mmd
+11	크기	크기	NOUN	_	12	compound	_	_	크기/ncn
+12	자체가	자체+가	NOUN	_	15	nsubj	_	_	자체/ncn+가/jcs
+13	영화에서나	영화+에서+나	ADV	_	14	advcl	_	_	영화/ncn+에서/jca+나/jxc
+14	나올	나오+ㄹ	VERB	_	15	acl	_	_	나오/pvg+ㄹ/etm
+15	법한	법+하+ㄴ	VERB	_	16	amod	_	_	법/ncps+하/xsm+ㄴ/etm
+16	것으로	것+으로	ADV	_	17	advcl	_	_	것/nbn+으로/jca
+17	생각되던	생각+되+던	VERB	_	0	root	_	_	생각/ncpa+되/xsv+던/etm
+18	것이다	것+이+다	VERB	_	17	aux	_	_	것/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그러면 초소형센서를 갖춘 캡슐형 마이크로머신은 소화기나 혈액의 이상을 탐지하여 무선으로 체외에 송신할 수 있게 된다 .
+1	그러면	그러면	CCONJ	_	12	cc	_	_	그러면/maj
+2	초소형센서를	초소형+센서+를	NOUN	_	3	obj	_	_	초소형/ncn+센서/ncn+를/jco
+3	갖춘	갖추+ㄴ	VERB	_	5	acl	_	_	갖추/pvg+ㄴ/etm
+4	캡슐형	캡슐형	NOUN	_	5	compound	_	_	캡슐형/ncn
+5	마이크로머신은	마이크로+머신+은	NOUN	_	12	dislocated	_	_	마이크로/ncn+머신/ncn+은/jxt
+6	소화기나	소화기+나	CCONJ	_	7	conj	_	_	소화기/ncn+나/jcj
+7	혈액의	혈액+의	NOUN	_	8	nmod	_	_	혈액/ncn+의/jcm
+8	이상을	이상+을	NOUN	_	9	obj	_	_	이상/ncn+을/jco
+9	탐지하여	탐지+하+어	SCONJ	_	12	ccomp	_	_	탐지/ncpa+하/xsv+어/ecs
+10	무선으로	무선+으로	ADV	_	12	advcl	_	_	무선/ncn+으로/jca
+11	체외에	체외+에	ADV	_	12	obl	_	_	체외/ncn+에/jca
+12	송신할	송신+하+ㄹ	VERB	_	0	root	_	_	송신/ncpa+하/xsv+ㄹ/etm
+13	수	수	NOUN	_	14	fixed	_	_	수/nbn
+14	있게	있+게	ADJ	_	12	aux	_	_	있/paa+게/ecx
+15	된다	되+ㄴ다	AUX	_	12	aux	_	_	되/px+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 더욱이 장래에는 이것들이 무리를 형성하여 작업을 한다든가 혹은 신진대사기능을 겸비한다든가 하여 차츰 생물에 가까운 형태를 띠게 될 것이다 .
+1	더욱이	더욱이	ADV	_	16	advmod	_	_	더욱이/mag
+2	장래에는	장래+에+는	NOUN	_	16	dislocated	_	_	장래/ncn+에/jca+는/jxt
+3	이것들이	이것+들+이	PRON	_	10	nsubj	_	_	이것/npd+들/xsn+이/jcs
+4	무리를	무리+를	NOUN	_	5	obj	_	_	무리/ncn+를/jco
+5	형성하여	형성+하+어	SCONJ	_	7	ccomp	_	_	형성/ncpa+하/xsv+어/ecs
+6	작업을	작업+을	NOUN	_	7	obj	_	_	작업/ncpa+을/jco
+7	한다든가	하+ㄴ다든가	CCONJ	_	8	conj	_	_	하/pvg+ㄴ다든가/ecc
+8	혹은	혹은	CCONJ	_	10	conj	_	_	혹은/maj
+9	신진대사기능을	신진대사+기능+을	NOUN	_	10	obj	_	_	신진대사/ncpa+기능/ncn+을/jco
+10	겸비한다든가	겸비+하+ㄴ다든가	SCONJ	_	11	ccomp	_	_	겸비/ncpa+하/xsv+ㄴ다든가/ecs
+11	하여	하+어	SCONJ	_	16	ccomp	_	_	하/pvg+어/ecs
+12	차츰	차츰	ADV	_	16	advmod	_	_	차츰/mag
+13	생물에	생물+에	ADV	_	14	obl	_	_	생물/ncn+에/jca
+14	가까운	가깝+ㄴ	ADJ	_	15	amod	_	_	가깝/paa+ㄴ/etm
+15	형태를	형태+를	NOUN	_	16	obj	_	_	형태/ncn+를/jco
+16	띠게	띠+게	VERB	_	0	root	_	_	띠/pvg+게/ecx
+17	될	되+ㄹ	AUX	_	16	aux	_	_	되/px+ㄹ/etm
+18	것이다	것+이+다	VERB	_	16	aux	_	_	것/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 마이크로머신기술은 1980 년대 후반 갑자기 등장한 이래 1990 년대에 들어서면서부터 급격히 주목되기 시작하였다 .
+1	마이크로머신기술은	마이크로+머신+기술+은	NOUN	_	13	dislocated	_	_	마이크로/ncn+머신/ncn+기술/ncn+은/jxt
+2	1980	1980	NUM	_	3	nummod	_	_	1980/nnc
+3	년대	년대	NOUN	_	4	compound	_	_	년대/nbu
+4	후반	후반	NOUN	_	6	advmod	_	_	후반/ncn
+5	갑자기	갑자기	ADV	_	6	advmod	_	_	갑자기/mag
+6	등장한	등장+하+ㄴ	VERB	_	7	acl	_	_	등장/ncpa+하/xsv+ㄴ/etm
+7	이래	이래	NOUN	_	13	advmod	_	_	이래/ncn
+8	1990	1990	NUM	_	9	nummod	_	_	1990/nnc
+9	년대에	년대+에	ADV	_	10	obl	_	_	년대/nbu+에/jca
+10	들어서면서부터	들어서+면서+부터	ADV	_	13	ccomp	_	_	들어서/pvg+면서/ecs+부터/jxc
+11	급격히	급격+히	ADV	_	12	advmod	_	_	급격/ncps+히/xsa
+12	주목되기	주목+되+기	VERB	_	13	nmod	_	_	주목/ncpa+되/xsv+기/etn
+13	시작하였다	시작+하+었+다	VERB	_	0	root	_	_	시작/ncpa+하/xsv+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 돌이켜보면 마이크로머신이라는 개념조차 불과 5 년 전까지만 해도 SF 영화의 세계에 지나지 않았다 .
+1	돌이켜보면	돌이키+어+보+면	SCONJ	_	12	ccomp	_	_	돌이키/pvg+어/ecx+보/px+면/ecs
+2	마이크로머신이라는	마이크로+머신+이+라는	VERB	_	3	acl	_	_	마이크로/ncn+머신/ncn+이/jp+라는/etm
+3	개념조차	개념+조차	ADV	_	12	advcl	_	_	개념/ncn+조차/jxc
+4	불과	불과	ADV	_	7	advmod	_	_	불과/mag
+5	5	5	NUM	_	6	nummod	_	_	5/nnc
+6	년	년	NOUN	_	7	compound	_	_	년/nbu
+7	전까지만	전+까지+만	ADV	_	8	advcl	_	_	전/ncn+까지/jxc+만/jxc
+8	해도	하+어도	SCONJ	_	12	ccomp	_	_	하/pvg+어도/ecs
+9	SF	SF	X	_	10	compound	_	_	SF/f
+10	영화의	영화+의	NOUN	_	11	nmod	_	_	영화/ncn+의/jcm
+11	세계에	세계+에	ADV	_	12	obl	_	_	세계/ncn+에/jca
+12	지나지	지나+지	VERB	_	0	root	_	_	지나/pvg+지/ecx
+13	않았다	않+았+다	AUX	_	12	aux	_	_	않/px+았/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 단지 기능을 갖춘 극소화된 기계가 탄생할 때 현재까지는 상상 속에서 바라기만 하던 ' 새로운 인간과 기계의 관계 ' 가 출현할 것은 확실하다 .
+1	단지	단지	ADV	_	22	advmod	_	_	단지/mag
+2	기능을	기능+을	NOUN	_	3	obj	_	_	기능/ncn+을/jco
+3	갖춘	갖추+ㄴ	VERB	_	5	acl	_	_	갖추/pvg+ㄴ/etm
+4	극소화된	극소화+되+ㄴ	VERB	_	5	acl	_	_	극소화/ncpa+되/xsv+ㄴ/etm
+5	기계가	기계+가	NOUN	_	6	nsubj	_	_	기계/ncn+가/jcs
+6	탄생할	탄생+하+ㄹ	VERB	_	7	acl	_	_	탄생/ncpa+하/xsv+ㄹ/etm
+7	때	때	NOUN	_	20	advmod	_	_	때/ncn
+8	현재까지는	현재+까지+는	NOUN	_	11	dislocated	_	_	현재/ncn+까지/jxc+는/jxt
+9	상상	상상	NOUN	_	10	compound	_	_	상상/ncpa
+10	속에서	속+에서	ADV	_	11	advcl	_	_	속/ncn+에서/jca
+11	바라기만	바라+기+만	ADV	_	12	advcl	_	_	바라/pvg+기/etn+만/jxc
+12	하던	하+던	VERB	_	17	acl	_	_	하/pvg+던/etm
+13	'	'	PUNCT	_	14	punct	_	_	'/sl
+14	새로운	새롭+ㄴ	ADJ	_	17	amod	_	_	새롭/paa+ㄴ/etm
+15	인간과	인간+과	CCONJ	_	16	conj	_	_	인간/ncn+과/jcj
+16	기계의	기계+의	NOUN	_	17	nmod	_	_	기계/ncn+의/jcm
+17	관계	관계	NOUN	_	20	nsubj	_	_	관계/ncpa
+18	'	'	PUNCT	_	17	punct	_	_	'/sr
+19	가	가	ADP	_	17	case	_	_	가/jcs
+20	출현할	출현+하+ㄹ	VERB	_	21	acl	_	_	출현/ncpa+하/xsv+ㄹ/etm
+21	것은	것+은	NOUN	_	22	dislocated	_	_	것/nbn+은/jxt
+22	확실하다	확실하+다	ADJ	_	0	root	_	_	확실하/paa+다/ef
+23	.	.	PUNCT	_	22	punct	_	_	./sf
+
+# 마이크로머신은 가사 , 의료 , 건축 , 기계공학 , 환경 , 우주 등 그 응용이 한없이 확대되어 갈 것으로 보인다 .
+1	마이크로머신은	마이크로+머신+은	NOUN	_	17	dislocated	_	_	마이크로/ncn+머신/ncn+은/jxt
+2	가사	가사	NOUN	_	4	conj	_	_	가사/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	의료	의료	NOUN	_	6	conj	_	_	의료/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	건축	건축	NOUN	_	8	conj	_	_	건축/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	기계공학	기계+공학	NOUN	_	10	conj	_	_	기계/ncn+공학/ncn
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	환경	환경	NOUN	_	12	conj	_	_	환경/ncn
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	우주	우주	NOUN	_	13	compound	_	_	우주/ncn
+13	등	등	NOUN	_	15	mark	_	_	등/nbn
+14	그	그	DET	_	15	det	_	_	그/mmd
+15	응용이	응용+이	NOUN	_	17	nsubj	_	_	응용/ncpa+이/jcs
+16	한없이	한없이	ADV	_	17	advmod	_	_	한없이/mag
+17	확대되어	확대+되+어	VERB	_	19	acl	_	_	확대/ncpa+되/xsv+어/ecx
+18	갈	가+ㄹ	AUX	_	17	aux	_	_	가/px+ㄹ/etm
+19	것으로	것+으로	ADV	_	20	advcl	_	_	것/nbn+으로/jca
+20	보인다	보이+ㄴ다	VERB	_	0	root	_	_	보이/pvg+ㄴ다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 마이크로머신의 응용분야는 크게 의료용과 산업용으로 나누어지는데 어느 편이 우선인가에 대해서는 전문가 사이에서도 견해가 다르다 .
+1	마이크로머신의	마이크로+머신+의	NOUN	_	2	nmod	_	_	마이크로/ncn+머신/ncn+의/jcm
+2	응용분야는	응용+분야+는	NOUN	_	6	dislocated	_	_	응용/ncpa+분야/ncn+는/jxt
+3	크게	크+게	SCONJ	_	6	xcomp	_	_	크/paa+게/ecs
+4	의료용과	의료용+과	CCONJ	_	5	conj	_	_	의료용/ncn+과/jcj
+5	산업용으로	산업용+으로	ADV	_	6	advcl	_	_	산업용/ncn+으로/jca
+6	나누어지는데	나누어지+는데	SCONJ	_	14	conj	_	_	나누어지/pvg+는데/ecs
+7	어느	어느	DET	_	8	det	_	_	어느/mmd
+8	편이	편+이	NOUN	_	9	nsubj	_	_	편/ncn+이/jcs
+9	우선인가에	우선+이+ㄴ가+에	ADV	_	10	obl	_	_	우선/ncn+이/jp+ㄴ가/ef+에/jca
+10	대해서는	대하+어서+는	NOUN	_	14	dep	_	_	대하/pvg+어서/ecs+는/jxt
+11	전문가	전문가	NOUN	_	12	compound	_	_	전문가/ncn
+12	사이에서도	사이+에서+도	ADV	_	14	advcl	_	_	사이/ncn+에서/jca+도/jxc
+13	견해가	견해+가	NOUN	_	14	nsubj	_	_	견해/ncn+가/jcs
+14	다르다	다르+다	ADJ	_	0	root	_	_	다르/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그러나 전체적으로는 다음과 같은 분야에서 가장 먼저 실용화될 것으로 예상되고 있다 .
+1	그러나	그러나	CCONJ	_	10	cc	_	_	그러나/maj
+2	전체적으로는	전체+적+으로+는	NOUN	_	10	dislocated	_	_	전체/ncn+적/xsn+으로/jca+는/jxt
+3	다음과	다음+과	CCONJ	_	4	conj	_	_	다음/ncn+과/jct
+4	같은	같+ㄴ	ADJ	_	5	amod	_	_	같/paa+ㄴ/etm
+5	분야에서	분야+에서	ADV	_	8	advcl	_	_	분야/ncn+에서/jca
+6	가장	가장	ADV	_	8	advmod	_	_	가장/mag
+7	먼저	먼저	ADV	_	6	advmod	_	_	먼저/mag
+8	실용화될	실용화+되+ㄹ	VERB	_	9	acl	_	_	실용화/ncpa+되/xsv+ㄹ/etm
+9	것으로	것+으로	ADV	_	10	advcl	_	_	것/nbn+으로/jca
+10	예상되고	예상+되+고	VERB	_	0	root	_	_	예상/ncpa+되/xsv+고/ecx
+11	있다	있+다	AUX	_	10	aux	_	_	있/px+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 살아 있는 모기를 만든다 .
+1	살아	살+아	VERB	_	3	acl	_	_	살/pvg+아/ecx
+2	있는	있+는	AUX	_	1	aux	_	_	있/px+는/etm
+3	모기를	모기+를	NOUN	_	4	obj	_	_	모기/ncn+를/jco
+4	만든다	만들+ㄴ다	VERB	_	0	root	_	_	만들/pvg+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 여기서 마이크로머신의 개념에 대해 좀더 쉽게 설명해 보기로 하자 .
+1	여기서	여기+서	ADV	_	7	advcl	_	_	여기/npd+서/jca
+2	마이크로머신의	마이크로+머신+의	NOUN	_	3	nmod	_	_	마이크로/ncn+머신/ncn+의/jcm
+3	개념에	개념+에	ADV	_	4	obl	_	_	개념/ncn+에/jca
+4	대해	대하+어	SCONJ	_	7	ccomp	_	_	대하/pvg+어/ecs
+5	좀더	좀더	ADV	_	6	advmod	_	_	좀더/mag
+6	쉽게	쉽+게	SCONJ	_	7	xcomp	_	_	쉽/paa+게/ecs
+7	설명해	설명+하+어	VERB	_	9	advcl	_	_	설명/ncpa+하/xsv+어/ecx
+8	보기로	보+기+로	ADV	_	7	aux	_	_	보/px+기/etn+로/jca
+9	하자	하+자	VERB	_	0	root	_	_	하/pvg+자/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 현재의 반도체 LSI의 제조기술에서는 ( 招請淨 ) 상태에서 얼마나 미세하게 , 그리고 정확하게 전자회로를 묘사하는가가 기술발전의 척도가 된다 .
+1	현재의	현재+의	NOUN	_	2	nmod	_	_	현재/ncn+의/jcm
+2	반도체	반도체	NOUN	_	3	dep	_	_	반도체/ncn
+3	LSI의	LSI+의	NOUN	_	4	nmod	_	_	LSI/f+의/jcm
+4	제조기술에서는	제조+기술+에서+는	NOUN	_	18	dislocated	_	_	제조/ncpa+기술/ncn+에서/jca+는/jxt
+5	(	(	PUNCT	_	6	punct	_	_	(/sl
+6	招請淨	招請淨	PROPN	_	8	appos	_	_	招請淨/nq
+7	)	)	PUNCT	_	6	punct	_	_	)/sr
+8	상태에서	상태+에서	ADV	_	15	advcl	_	_	상태/ncn+에서/jca
+9	얼마나	얼마나	ADV	_	13	advmod	_	_	얼마나/mag
+10	미세하게	미세+하+게	SCONJ	_	13	xcomp	_	_	미세/ncps+하/xsm+게/ecs
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	그리고	그리고	CCONJ	_	13	cc	_	_	그리고/maj
+13	정확하게	정확+하+게	SCONJ	_	15	xcomp	_	_	정확/ncps+하/xsm+게/ecs
+14	전자회로를	전자+회로+를	NOUN	_	15	obj	_	_	전자/ncn+회로/ncn+를/jco
+15	묘사하는가가	묘사+하+는가+가	NOUN	_	18	nsubj	_	_	묘사/ncpa+하/xsv+는가/ef+가/jcs
+16	기술발전의	기술+발전+의	NOUN	_	17	nmod	_	_	기술/ncn+발전/ncpa+의/jcm
+17	척도가	척도+가	NOUN	_	18	csubj	_	_	척도/ncn+가/jcc
+18	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그 첫 단계로 구체적인 개발이 고려되고 있는 마이크로머신의 부품 치수는 1 밀리에서 100 미크론 정도이다 .
+1	그	그	DET	_	3	det	_	_	그/mmd
+2	첫	첫	ADJ	_	3	amod	_	_	첫/mma
+3	단계로	단계+로	ADV	_	6	advcl	_	_	단계/ncn+로/jca
+4	구체적인	구체+적+이+ㄴ	VERB	_	5	acl	_	_	구체/ncn+적/xsn+이/jp+ㄴ/etm
+5	개발이	개발+이	NOUN	_	6	nsubj	_	_	개발/ncpa+이/jcs
+6	고려되고	고려+되+고	VERB	_	8	acl	_	_	고려/ncpa+되/xsv+고/ecx
+7	있는	있+는	AUX	_	6	aux	_	_	있/px+는/etm
+8	마이크로머신의	마이크로+머신+의	NOUN	_	9	nmod	_	_	마이크로/ncn+머신/ncn+의/jcm
+9	부품	부품	NOUN	_	10	compound	_	_	부품/ncn
+10	치수는	치수+는	NOUN	_	15	dislocated	_	_	치수/ncn+는/jxt
+11	1	1	NUM	_	12	nummod	_	_	1/nnc
+12	밀리에서	밀리+에서	ADV	_	14	advcl	_	_	밀리/nbu+에서/jca
+13	100	100	NUM	_	14	nummod	_	_	100/nnc
+14	미크론	미크론	NOUN	_	15	compound	_	_	미크론/nbu
+15	정도이다	정도+이+다	VERB	_	0	root	_	_	정도/ncn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그런데 여기서 많은 과학자들은 모기나 파리 그리고 개미 등의 미소 곤충에서 그 이미지를 찾고 있는 듯하다 .
+1	그런데	그런데	CCONJ	_	16	cc	_	_	그런데/maj
+2	여기서	여기+서	ADV	_	14	advcl	_	_	여기/npd+서/jca
+3	많은	많+ㄴ	ADJ	_	4	amod	_	_	많/paa+ㄴ/etm
+4	과학자들은	과학자+들+은	NOUN	_	14	dislocated	_	_	과학자/ncn+들/xsn+은/jxt
+5	모기나	모기+나	CCONJ	_	6	conj	_	_	모기/ncn+나/jcj
+6	파리	파리	NOUN	_	8	conj	_	_	파리/ncn
+7	그리고	그리고	CCONJ	_	8	cc	_	_	그리고/maj
+8	개미	개미	NOUN	_	9	compound	_	_	개미/ncn
+9	등의	등+의	NOUN	_	11	nmod	_	_	등/nbn+의/jcm
+10	미소	미소	NOUN	_	11	compound	_	_	미소/ncn
+11	곤충에서	곤충+에서	ADV	_	14	advcl	_	_	곤충/ncn+에서/jca
+12	그	그	DET	_	13	det	_	_	그/mmd
+13	이미지를	이미지+를	NOUN	_	14	obj	_	_	이미지/ncn+를/jco
+14	찾고	찾+고	VERB	_	16	acl	_	_	찾/pvg+고/ecx
+15	있는	있+는	AUX	_	14	aux	_	_	있/px+는/etm
+16	듯하다	듯+하+다	VERB	_	0	root	_	_	듯/nbn+하/xsm+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 상징적으로 말하면 , 마이크로머신의 모델이란 인공적으로 만들어진 모기라고도 할 수 있는 것이다 .
+1	상징적으로	상징+적+으로	ADV	_	2	advcl	_	_	상징/ncpa+적/xsn+으로/jca
+2	말하면	말하+면	SCONJ	_	9	ccomp	_	_	말하/pvg+면/ecs
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	마이크로머신의	마이크로+머신+의	NOUN	_	5	nmod	_	_	마이크로/ncn+머신/ncn+의/jcm
+5	모델이란	모델+이란	ADV	_	9	advcl	_	_	모델/ncn+이란/jxc
+6	인공적으로	인공+적+으로	ADV	_	7	advcl	_	_	인공/ncn+적/xsn+으로/jca
+7	만들어진	만들어지+ㄴ	VERB	_	8	acl	_	_	만들어지/pvg+ㄴ/etm
+8	모기라고도	모기+라고+도	ADV	_	9	advcl	_	_	모기/ncn+라고/jcr+도/jxc
+9	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있는	있+는	ADJ	_	9	aux	_	_	있/paa+는/etm
+12	것이다	것+이+다	VERB	_	9	aux	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 두 다리를 단단히 고정시켜 피부 위에 앉은 다음에 모기는 다리 안쪽에 장비된 미세한 초음파센서를 이용 , 모세혈관의 위치를 찾아낸다 .
+1	두	두	ADJ	_	2	amod	_	_	두/mma
+2	다리를	다리+를	NOUN	_	4	obj	_	_	다리/ncn+를/jco
+3	단단히	단단히	ADV	_	4	advmod	_	_	단단히/mag
+4	고정시켜	고정+시키+어	SCONJ	_	7	ccomp	_	_	고정/ncpa+시키/xsv+어/ecs
+5	피부	피부	NOUN	_	6	compound	_	_	피부/ncn
+6	위에	위+에	ADV	_	7	obl	_	_	위/ncn+에/jca
+7	앉은	앉+ㄴ	VERB	_	8	acl	_	_	앉/pvg+ㄴ/etm
+8	다음에	다음+에	ADV	_	19	obl	_	_	다음/ncn+에/jca
+9	모기는	모기+는	NOUN	_	19	dislocated	_	_	모기/ncn+는/jxt
+10	다리	다리	NOUN	_	11	compound	_	_	다리/ncn
+11	안쪽에	안+쪽+에	ADV	_	12	obl	_	_	안/ncn+쪽/nbn+에/jca
+12	장비된	장비+되+ㄴ	VERB	_	14	acl	_	_	장비/ncpa+되/xsv+ㄴ/etm
+13	미세한	미세+하+ㄴ	VERB	_	14	amod	_	_	미세/ncps+하/xsm+ㄴ/etm
+14	초음파센서를	초음파+센서+를	NOUN	_	15	obj	_	_	초음파/ncn+센서/ncn+를/jco
+15	이용	이용	NOUN	_	19	advmod	_	_	이용/ncpa
+16	,	,	PUNCT	_	15	punct	_	_	,/sp
+17	모세혈관의	모세혈관+의	NOUN	_	18	nmod	_	_	모세혈관/ncn+의/jcm
+18	위치를	위치+를	NOUN	_	19	obj	_	_	위치/ncpa+를/jco
+19	찾아낸다	찾아내+ㄴ다	VERB	_	0	root	_	_	찾아내/pvg+ㄴ다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 또한 모기 몸의 털에는 외부압력의 변화를 알아내는 기압센서가 붙어 있어 기류 변화를 감지하고 적으로부터 도망간다 .
+1	또한	또한	CCONJ	_	15	cc	_	_	또한/maj
+2	모기	모기	NOUN	_	3	compound	_	_	모기/ncn
+3	몸의	몸+의	NOUN	_	4	nmod	_	_	몸/ncn+의/jcm
+4	털에는	털+에+는	NOUN	_	9	dislocated	_	_	털/ncn+에/jca+는/jxt
+5	외부압력의	외부+압력+의	NOUN	_	6	nmod	_	_	외부/ncn+압력/ncn+의/jcm
+6	변화를	변화+를	NOUN	_	7	obj	_	_	변화/ncpa+를/jco
+7	알아내는	알아내+는	VERB	_	8	acl	_	_	알아내/pvg+는/etm
+8	기압센서가	기압+센서+가	NOUN	_	9	nsubj	_	_	기압/ncn+센서/ncn+가/jcs
+9	붙어	붙+어	VERB	_	13	ccomp	_	_	붙/pvg+어/ecx
+10	있어	있+어	SCONJ	_	9	aux	_	_	있/px+어/ecs
+11	기류	기류	NOUN	_	12	compound	_	_	기류/ncn
+12	변화를	변화+를	NOUN	_	13	obj	_	_	변화/ncpa+를/jco
+13	감지하고	감지+하+고	CCONJ	_	15	conj	_	_	감지/ncpa+하/xsv+고/ecc
+14	적으로부터	적+으로+부터	ADV	_	15	advcl	_	_	적/ncn+으로/jca+부터/jxc
+15	도망간다	도망가+ㄴ다	VERB	_	0	root	_	_	도망가/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 모기가 피를 빠는 이러한 일련의 과정은 실로 대단한 작업이 아닐 수 없다 .
+1	모기가	모기+가	NOUN	_	3	nsubj	_	_	모기/ncn+가/jcs
+2	피를	피+를	NOUN	_	3	obj	_	_	피/ncn+를/jco
+3	빠는	빨+는	VERB	_	6	acl	_	_	빨/pvg+는/etm
+4	이러한	이러하+ㄴ	VERB	_	6	amod	_	_	이러하/pad+ㄴ/etm
+5	일련의	일련+의	NOUN	_	6	nmod	_	_	일련/ncn+의/jcm
+6	과정은	과정+은	NOUN	_	10	dislocated	_	_	과정/ncn+은/jxt
+7	실로	실로	ADV	_	8	advmod	_	_	실로/mag
+8	대단한	대단하+ㄴ	ADJ	_	9	amod	_	_	대단하/paa+ㄴ/etm
+9	작업이	작업+이	NOUN	_	10	csubj	_	_	작업/ncpa+이/jcc
+10	아닐	아니+ㄹ	ADJ	_	0	root	_	_	아니/paa+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	없다	없+다	ADJ	_	10	aux	_	_	없/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 원래 과학자들은 사람을 찌르는 모기의 흡혈침이 주사바늘과 같이 한 개의 관 ( 管 ) 으로 이루어져 있다고 생각하고 있었다 .
+1	원래	원래	NOUN	_	18	advmod	_	_	원래/ncn
+2	과학자들은	과학자+들+은	NOUN	_	18	dislocated	_	_	과학자/ncn+들/xsn+은/jxt
+3	사람을	사람+을	NOUN	_	4	obj	_	_	사람/ncn+을/jco
+4	찌르는	찌르+는	VERB	_	5	acl	_	_	찌르/pvg+는/etm
+5	모기의	모기+의	NOUN	_	6	nmod	_	_	모기/ncn+의/jcm
+6	흡혈침이	흡혈침+이	NOUN	_	16	nsubj	_	_	흡혈침/ncn+이/jcs
+7	주사바늘과	주사+바늘+과	CCONJ	_	8	conj	_	_	주사/ncpa+바늘/ncn+과/jct
+8	같이	같+이	SCONJ	_	16	xcomp	_	_	같/paa+이/ecs
+9	한	한	ADJ	_	10	amod	_	_	한/mma
+10	개의	개+의	NOUN	_	11	nmod	_	_	개/nbu+의/jcm
+11	관	관	NOUN	_	16	advcl	_	_	관/ncn
+12	(	(	PUNCT	_	13	punct	_	_	(/sl
+13	管	管	PROPN	_	11	appos	_	_	管/nq
+14	)	)	PUNCT	_	13	punct	_	_	)/sr
+15	으로	으로	ADP	_	11	case	_	_	으로/jca
+16	이루어져	이루어지+어	VERB	_	18	conj	_	_	이루어지/pvg+어/ecx
+17	있다고	있+다+고	VERB	_	16	aux	_	_	있/px+다/ef+고/jcr
+18	생각하고	생각+하+고	VERB	_	0	root	_	_	생각/ncpa+하/xsv+고/ecx
+19	있었다	있+었+다	AUX	_	18	aux	_	_	있/px+었/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 모기의 흡혈침의 지름은 사람의 머리털 정도의 굵기인 60 미크론 정도인데 그 침은 놀랍게도 7 개의 부품으로 이루어져 있다 .
+1	모기의	모기+의	NOUN	_	2	nmod	_	_	모기/ncn+의/jcm
+2	흡혈침의	흡혈침+의	NOUN	_	3	nmod	_	_	흡혈침/ncn+의/jcm
+3	지름은	지름+은	NOUN	_	17	dislocated	_	_	지름/ncn+은/jxt
+4	사람의	사람+의	NOUN	_	5	nmod	_	_	사람/ncn+의/jcm
+5	머리털	머리털	NOUN	_	6	compound	_	_	머리털/ncn
+6	정도의	정도+의	NOUN	_	7	nmod	_	_	정도/ncn+의/jcm
+7	굵기인	굵기+이+ㄴ	VERB	_	10	ccomp	_	_	굵기/ncn+이/jp+ㄴ/etm
+8	60	60	NUM	_	9	nummod	_	_	60/nnc
+9	미크론	미크론	NOUN	_	10	compound	_	_	미크론/nbu
+10	정도인데	정도+이+ㄴ데	SCONJ	_	17	ccomp	_	_	정도/ncn+이/jp+ㄴ데/ecs
+11	그	그	DET	_	12	det	_	_	그/mmd
+12	침은	침+은	NOUN	_	17	dislocated	_	_	침/ncn+은/jxt
+13	놀랍게도	놀랍+게+도	ADV	_	17	amod	_	_	놀랍/paa+게/ecs+도/jxc
+14	7	7	NUM	_	15	nummod	_	_	7/nnc
+15	개의	개+의	NOUN	_	16	nmod	_	_	개/nbu+의/jcm
+16	부품으로	부품+으로	ADV	_	17	advcl	_	_	부품/ncn+으로/jca
+17	이루어져	이루어지+어	VERB	_	0	root	_	_	이루어지/pvg+어/ecx
+18	있다	있+다	AUX	_	17	aux	_	_	있/px+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 비교적 강도가 낮은 키틴질의 가느다랗고 부드러운 침이 어떻게 그처럼 간단하게 피부를 뚫고 혈관으로 들어갈 수 있는가에 대한 의문이 풀린 것이다 .
+1	비교적	비교+적	NOUN	_	3	amod	_	_	비교/ncpa+적/xsn
+2	강도가	강도+가	NOUN	_	3	nsubj	_	_	강도/ncn+가/jcs
+3	낮은	낮+ㄴ	ADJ	_	4	amod	_	_	낮/paa+ㄴ/etm
+4	키틴질의	키틴질+의	NOUN	_	7	nmod	_	_	키틴질/ncn+의/jcm
+5	가느다랗고	가느다랗+고	CCONJ	_	6	conj	_	_	가느다랗/paa+고/ecc
+6	부드러운	부드럽+ㄴ	ADJ	_	7	amod	_	_	부드럽/paa+ㄴ/etm
+7	침이	침+이	NOUN	_	14	nsubj	_	_	침/ncn+이/jcs
+8	어떻게	어떻+게	SCONJ	_	14	xcomp	_	_	어떻/pad+게/ecs
+9	그처럼	그+처럼	ADV	_	10	advcl	_	_	그/npd+처럼/jca
+10	간단하게	간단+하+게	SCONJ	_	12	xcomp	_	_	간단/ncps+하/xsm+게/ecs
+11	피부를	피부+를	NOUN	_	12	obj	_	_	피부/ncn+를/jco
+12	뚫고	뚫+고	CCONJ	_	14	conj	_	_	뚫/pvg+고/ecc
+13	혈관으로	혈관+으로	ADV	_	14	advcl	_	_	혈관/ncn+으로/jca
+14	들어갈	들어가+ㄹ	VERB	_	17	obl	_	_	들어가/pvg+ㄹ/etm
+15	수	수	NOUN	_	16	fixed	_	_	수/nbn
+16	있는가에	있+는가+에	ADV	_	14	aux	_	_	있/paa+는가/ef+에/jca
+17	대한	대하+ㄴ	VERB	_	18	acl	_	_	대하/pvg+ㄴ/etm
+18	의문이	의문+이	NOUN	_	19	nsubj	_	_	의문/ncpa+이/jcs
+19	풀린	풀리+ㄴ	VERB	_	0	root	_	_	풀리/pvg+ㄴ/etm
+20	것이다	것+이+다	VERB	_	19	aux	_	_	것/nbn+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 실제로 그들 부품은 인간이 만든 공작기계와 너무도 유사한 것이다 .
+1	실제로	실제로	ADV	_	8	advmod	_	_	실제로/mag
+2	그들	그+들	NOUN	_	3	compound	_	_	그/npd+들/xsn
+3	부품은	부품+은	NOUN	_	8	dislocated	_	_	부품/ncn+은/jxt
+4	인간이	인간+이	NOUN	_	5	nsubj	_	_	인간/ncn+이/jcs
+5	만든	만들+ㄴ	VERB	_	6	acl	_	_	만들/pvg+ㄴ/etm
+6	공작기계와	공작+기계+와	CCONJ	_	8	conj	_	_	공작/ncpa+기계/ncn+와/jct
+7	너무도	너무+도	ADV	_	8	advmod	_	_	너무/mag+도/jxc
+8	유사한	유사+하+ㄴ	VERB	_	0	root	_	_	유사/ncps+하/xsm+ㄴ/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 예를 들어 이를 전기청소기라는 기계와 비교해 보면 잘 알 수 있다 .
+1	예를	예+를	NOUN	_	2	obj	_	_	예/ncn+를/jco
+2	들어	들+어	SCONJ	_	6	ccomp	_	_	들/pvg+어/ecs
+3	이를	이+를	PRON	_	6	obj	_	_	이/npd+를/jco
+4	전기청소기라는	전기+청소기+이+라는	VERB	_	5	acl	_	_	전기/ncn+청소기/ncn+이/jp+라는/etm
+5	기계와	기계+와	CCONJ	_	6	conj	_	_	기계/ncn+와/jct
+6	비교해	비교+하+어	VERB	_	9	ccomp	_	_	비교/ncpa+하/xsv+어/ecx
+7	보면	보+면	SCONJ	_	6	aux	_	_	보/px+면/ecs
+8	잘	잘	ADV	_	9	advmod	_	_	잘/mag
+9	알	알+ㄹ	VERB	_	0	root	_	_	알/pvg+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있다	있+다	ADJ	_	9	aux	_	_	있/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 또 한 가지 마이크로머신의 중요한 특징 가운데 하나는 그것이 생물 중에서도 동물에 가깝다는 것이다 .
+1	또	또	ADV	_	3	advmod	_	_	또/mag
+2	한	한	NUM	_	3	nummod	_	_	한/nnc
+3	가지	가지	NOUN	_	6	compound	_	_	가지/nbu
+4	마이크로머신의	마이크로+머신+의	NOUN	_	6	nmod	_	_	마이크로/ncn+머신/ncn+의/jcm
+5	중요한	중요+하+ㄴ	VERB	_	6	amod	_	_	중요/ncps+하/xsm+ㄴ/etm
+6	특징	특징	NOUN	_	7	compound	_	_	특징/ncn
+7	가운데	가운데	NOUN	_	8	compound	_	_	가운데/ncn
+8	하나는	하나+는	NUM	_	14	dislocated	_	_	하나/nnc+는/jxt
+9	그것이	그것+이	PRON	_	13	nsubj	_	_	그것/npd+이/jcs
+10	생물	생물	NOUN	_	11	compound	_	_	생물/ncn
+11	중에서도	중+에서+도	ADV	_	13	advcl	_	_	중/nbn+에서/jca+도/jxc
+12	동물에	동물+에	ADV	_	13	obl	_	_	동물/ncn+에/jca
+13	가깝다는	가깝+다는	ADJ	_	14	amod	_	_	가깝/paa+다는/etm
+14	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이것은 마이크로머신의 동작에너지원과 관련해서도 중요한 시사점이 된다 .
+1	이것은	이것+은	PRON	_	7	dislocated	_	_	이것/npd+은/jxt
+2	마이크로머신의	마이크로+머신+의	NOUN	_	3	nmod	_	_	마이크로/ncn+머신/ncn+의/jcm
+3	동작에너지원과	동작+에너지원+과	CCONJ	_	4	conj	_	_	동작/ncpa+에너지원/ncn+과/jct
+4	관련해서도	관련+하+어서+도	ADV	_	7	ccomp	_	_	관련/ncpa+하/xsv+어서/ecs+도/jxc
+5	중요한	중요+하+ㄴ	VERB	_	6	amod	_	_	중요/ncps+하/xsm+ㄴ/etm
+6	시사점이	시사점+이	NOUN	_	7	csubj	_	_	시사점/ncn+이/jcc
+7	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 예를 들어 , 솜털이나 먼지와 같은 정도의 마이크로머신이라면 공중에 둥실둥실 떠다니면서 최소의 에너지로 목적하는 장소에 도달할 수 있을 것이다 .
+1	예를	예+를	NOUN	_	2	obj	_	_	예/ncn+를/jco
+2	들어	들+어	SCONJ	_	16	ccomp	_	_	들/pvg+어/ecs
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	솜털이나	솜털+이나	CCONJ	_	5	conj	_	_	솜털/ncn+이나/jcj
+5	먼지와	먼지+와	CCONJ	_	6	conj	_	_	먼지/ncn+와/jct
+6	같은	같+ㄴ	ADJ	_	7	amod	_	_	같/paa+ㄴ/etm
+7	정도의	정도+의	NOUN	_	8	nmod	_	_	정도/ncn+의/jcm
+8	마이크로머신이라면	마이크로+머신+이+라면	SCONJ	_	16	ccomp	_	_	마이크로/ncn+머신/ncn+이/jp+라면/ecs
+9	공중에	공중+에	ADV	_	11	obl	_	_	공중/ncn+에/jca
+10	둥실둥실	둥실둥실	ADV	_	11	advmod	_	_	둥실둥실/mag
+11	떠다니면서	떠다니+면서	CCONJ	_	16	conj	_	_	떠다니/pvg+면서/ecc
+12	최소의	최소+의	NOUN	_	13	nmod	_	_	최소/ncn+의/jcm
+13	에너지로	에너지+로	ADV	_	16	advcl	_	_	에너지/ncn+로/jca
+14	목적하는	목적+하+는	VERB	_	15	acl	_	_	목적/ncpa+하/xsv+는/etm
+15	장소에	장소+에	ADV	_	16	obl	_	_	장소/ncn+에/jca
+16	도달할	도달+하+ㄹ	VERB	_	0	root	_	_	도달/ncpa+하/xsv+ㄹ/etm
+17	수	수	NOUN	_	18	fixed	_	_	수/nbn
+18	있을	있+ㄹ	ADJ	_	16	aux	_	_	있/paa+ㄹ/etm
+19	것이다	것+이+다	VERB	_	16	aux	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 무착륙 우주일주여행에 성공한 미국의 보이저 ( Voyager ) 호도 실은 이 방법을 응용한 것이다 .
+1	무착륙	무착륙	NOUN	_	2	compound	_	_	무착륙/ncpa
+2	우주일주여행에	우주+일주+여행+에	ADV	_	3	obl	_	_	우주/ncn+일주/ncpa+여행/ncpa+에/jca
+3	성공한	성공+하+ㄴ	VERB	_	9	acl	_	_	성공/ncpa+하/xsv+ㄴ/etm
+4	미국의	미국+의	PROPN	_	9	nmod	_	_	미국/nq+의/jcm
+5	보이저	보이저	NOUN	_	9	compound	_	_	보이저/ncn
+6	(	(	PUNCT	_	7	punct	_	_	(/sl
+7	Voyager	Voyager	X	_	5	appos	_	_	Voyager/f
+8	)	)	PUNCT	_	7	punct	_	_	)/sr
+9	호도	호+도	ADV	_	13	advcl	_	_	호/nbu+도/jxc
+10	실은	실은	ADV	_	13	advmod	_	_	실은/mag
+11	이	이	DET	_	12	det	_	_	이/mmd
+12	방법을	방법+을	NOUN	_	13	obj	_	_	방법/ncn+을/jco
+13	응용한	응용+하+ㄴ	VERB	_	0	root	_	_	응용/ncpa+하/xsv+ㄴ/etm
+14	것이다	것+이+다	VERB	_	13	aux	_	_	것/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 요컨대 , 마이크로머신의 세계에서는 기류 ( 氣流 ) 가 상승하는 힘 , 액체가 대류하는 힘 등을 자체에 탑재한 지능이나 지혜를 잘 이용하여 에너지원으로 하는 시스템이 매우 중요한 문제이다 .
+1	요컨대	요컨대	CCONJ	_	28	cc	_	_	요컨대/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	마이크로머신의	마이크로+머신+의	NOUN	_	4	nmod	_	_	마이크로/ncn+머신/ncn+의/jcm
+4	세계에서는	세계+에서+는	NOUN	_	28	dislocated	_	_	세계/ncn+에서/jca+는/jxt
+5	기류	기류	NOUN	_	10	nsubj	_	_	기류/ncn
+6	(	(	PUNCT	_	7	punct	_	_	(/sl
+7	氣流	氣流	PROPN	_	5	appos	_	_	氣流/nq
+8	)	)	PUNCT	_	7	punct	_	_	)/sr
+9	가	가	ADP	_	5	case	_	_	가/jcs
+10	상승하는	상승+하+는	VERB	_	11	acl	_	_	상승/ncpa+하/xsv+는/etm
+11	힘	힘	NOUN	_	15	compound	_	_	힘/ncn
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	액체가	액체+가	NOUN	_	14	nsubj	_	_	액체/ncn+가/jcs
+14	대류하는	대류+하+는	VERB	_	15	acl	_	_	대류/ncpa+하/xsv+는/etm
+15	힘	힘	NOUN	_	16	compound	_	_	힘/ncn
+16	등을	등+을	NOUN	_	24	obj	_	_	등/nbn+을/jco
+17	자체에	자체+에	ADV	_	18	obl	_	_	자체/ncn+에/jca
+18	탑재한	탑재+하+ㄴ	VERB	_	20	acl	_	_	탑재/ncpa+하/xsv+ㄴ/etm
+19	지능이나	지능+이나	CCONJ	_	20	conj	_	_	지능/ncn+이나/jcj
+20	지혜를	지혜+를	NOUN	_	22	obj	_	_	지혜/ncps+를/jco
+21	잘	잘	ADV	_	22	advmod	_	_	잘/mag
+22	이용하여	이용+하+어	SCONJ	_	24	ccomp	_	_	이용/ncpa+하/xsv+어/ecs
+23	에너지원으로	에너지원+으로	ADV	_	24	advcl	_	_	에너지원/ncn+으로/jca
+24	하는	하+는	VERB	_	25	acl	_	_	하/pvg+는/etm
+25	시스템이	시스템+이	NOUN	_	28	nsubj	_	_	시스템/ncn+이/jcs
+26	매우	매우	ADV	_	27	advmod	_	_	매우/mag
+27	중요한	중요+하+ㄴ	VERB	_	28	amod	_	_	중요/ncps+하/xsm+ㄴ/etm
+28	문제이다	문제+이+다	VERB	_	0	root	_	_	문제/ncn+이/jp+다/ef
+29	.	.	PUNCT	_	28	punct	_	_	./sf
+
+# 그러나 마이크로머신에 거는 기대가 지금까지 이야기한 공학적 또는 무기물 ( 無機物 ) 타입에서 끝나지는 않는다 .
+1	그러나	그러나	CCONJ	_	14	cc	_	_	그러나/maj
+2	마이크로머신에	마이크로+머신+에	ADV	_	3	obl	_	_	마이크로/ncn+머신/ncn+에/jca
+3	거는	걸+는	VERB	_	4	acl	_	_	걸/pvg+는/etm
+4	기대가	기대+가	NOUN	_	14	nsubj	_	_	기대/ncpa+가/jcs
+5	지금까지	지금+까지	ADV	_	6	advcl	_	_	지금/ncn+까지/jxc
+6	이야기한	이야기+하+ㄴ	VERB	_	13	acl	_	_	이야기/ncpa+하/xsv+ㄴ/etm
+7	공학적	공학+적	NOUN	_	9	conj	_	_	공학/ncn+적/xsn
+8	또는	또는	CCONJ	_	9	cc	_	_	또는/maj
+9	무기물	무기물	NOUN	_	13	compound	_	_	무기물/ncn
+10	(	(	PUNCT	_	11	punct	_	_	(/sl
+11	無機物	無機物	PROPN	_	9	appos	_	_	無機物/nq
+12	)	)	PUNCT	_	11	punct	_	_	)/sr
+13	타입에서	타입+에서	ADV	_	14	advcl	_	_	타입/ncn+에서/jca
+14	끝나지는	끝나+지+는	NOUN	_	0	root	_	_	끝나/pvg+지/ecx+는/jxt
+15	않는다	않+는다	AUX	_	14	aux	_	_	않/px+는다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 아무리 정교하게 만든 기계라고 해도 , 결국 기계는 기계일 뿐이며 아주 하찮은 형태의 생물에도 못 미칠 것이기 때문이다 .
+1	아무리	아무리	ADV	_	2	advmod	_	_	아무리/mag
+2	정교하게	정교+하+게	VERB	_	4	amod	_	_	정교/ncps+하/xsm+게/ecx
+3	만든	만들+ㄴ	AUX	_	2	aux	_	_	만들/px+ㄴ/etm
+4	기계라고	기계+라고	VERB	_	5	conj	_	_	기계/ncn+라고/jcr
+5	해도	하+어도	SCONJ	_	16	ccomp	_	_	하/pvg+어도/ecs
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	결국	결국	ADV	_	9	advmod	_	_	결국/mag
+8	기계는	기계+는	NOUN	_	9	dislocated	_	_	기계/ncn+는/jxt
+9	기계일	기계+이+ㄹ	VERB	_	16	conj	_	_	기계/ncn+이/jp+ㄹ/etm
+10	뿐이며	뿐+이+며	CCONJ	_	9	aux	_	_	뿐/nbn+이/jp+며/ecc
+11	아주	아주	ADV	_	12	advmod	_	_	아주/mag
+12	하찮은	하찮+ㄴ	ADJ	_	13	amod	_	_	하찮/paa+ㄴ/etm
+13	형태의	형태+의	NOUN	_	14	nmod	_	_	형태/ncn+의/jcm
+14	생물에도	생물+에+도	ADV	_	16	advcl	_	_	생물/ncn+에/jca+도/jxc
+15	못	못	ADV	_	16	advmod	_	_	못/mag
+16	미칠	미치+ㄹ	VERB	_	0	root	_	_	미치/pvg+ㄹ/etm
+17	것이기	것+이+기	VERB	_	16	aux	_	_	것/nbn+이/jp+기/etn
+18	때문이다	때문+이+다	VERB	_	16	aux	_	_	때문/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 따라서 마이크로머신의 궁극의 목표는 생물메커니즘의 구현에 있다고 하지 않을 수 없다 .
+1	따라서	따라서	CCONJ	_	8	cc	_	_	따라서/maj
+2	마이크로머신의	마이크로+머신+의	NOUN	_	4	nmod	_	_	마이크로/ncn+머신/ncn+의/jcm
+3	궁극의	궁극+의	NOUN	_	4	nmod	_	_	궁극/ncps+의/jcm
+4	목표는	목표+는	NOUN	_	7	dislocated	_	_	목표/ncpa+는/jxt
+5	생물메커니즘의	생물+메커니즘+의	NOUN	_	6	nmod	_	_	생물/ncn+메커니즘/ncn+의/jcm
+6	구현에	구현+에	ADV	_	7	obl	_	_	구현/ncpa+에/jca
+7	있다고	있+다+고	VERB	_	8	conj	_	_	있/paa+다/ef+고/jcr
+8	하지	하+지	VERB	_	0	root	_	_	하/pvg+지/ecx
+9	않을	않+ㄹ	AUX	_	8	aux	_	_	않/px+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	없다	없+다	ADJ	_	8	aux	_	_	없/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 무기의 마이크로머신은 미크론 ( m ) 단위에서 이야기되는 것이 보통이다 .
+1	무기의	무기+의	NOUN	_	2	nmod	_	_	무기/ncn+의/jcm
+2	마이크로머신은	마이크로+머신+은	NOUN	_	8	dislocated	_	_	마이크로/ncn+머신/ncn+은/jxt
+3	미크론	미크론	NOUN	_	7	compound	_	_	미크론/nbu
+4	(	(	PUNCT	_	5	punct	_	_	(/sl
+5	m	m	X	_	3	appos	_	_	m/f
+6	)	)	PUNCT	_	5	punct	_	_	)/sr
+7	단위에서	단위+에서	ADV	_	8	advcl	_	_	단위/ncn+에서/jca
+8	이야기되는	이야기+되+는	VERB	_	9	acl	_	_	이야기/ncpa+되/xsv+는/etm
+9	것이	것+이	NOUN	_	10	nsubj	_	_	것/nbn+이/jcs
+10	보통이다	보통+이+다	VERB	_	0	root	_	_	보통/ncn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그것은 바로 ' 크기에서 오는 차이 ' 인 것이다 .
+1	그것은	그것+은	PRON	_	6	dislocated	_	_	그것/npd+은/jxt
+2	바로	바로	ADV	_	6	advmod	_	_	바로/mag
+3	'	'	PUNCT	_	4	punct	_	_	'/sl
+4	크기에서	크기+에서	ADV	_	5	advcl	_	_	크기/ncn+에서/jca
+5	오는	오+는	VERB	_	6	ccomp	_	_	오/pvg+는/etm
+6	차이	차이	NOUN	_	0	root	_	_	차이/ncn
+7	'	'	PUNCT	_	6	punct	_	_	'/sr
+8	인	이+ㄴ	ADP	_	6	cop	_	_	이/jp+ㄴ/etm
+9	것이다	것+이+다	VERB	_	6	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 참고로 국제적으로 공인된 SI ( System International ) 단위표를 살펴보자 .
+1	참고로	참고+로	ADV	_	10	advcl	_	_	참고/ncpa+로/jca
+2	국제적으로	국제+적+으로	ADV	_	3	advcl	_	_	국제/ncn+적/xsn+으로/jca
+3	공인된	공인+되+ㄴ	VERB	_	9	acl	_	_	공인/ncpa+되/xsv+ㄴ/etm
+4	SI	SI	X	_	9	compound	_	_	SI/f
+5	(	(	PUNCT	_	7	punct	_	_	(/sl
+6	System	System	X	_	7	flat	_	_	System/f
+7	International	International	X	_	4	appos	_	_	International/f
+8	)	)	PUNCT	_	7	punct	_	_	)/sr
+9	단위표를	단위표+를	NOUN	_	10	obj	_	_	단위표/ncn+를/jco
+10	살펴보자	살피+어+보+자	AUX	_	0	root	_	_	살피/pvg+어/ecx+보/px+자/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이것은 수치를 나타내는 데에 접두어로서 일정한 기호를 사용하고 있다 .
+1	이것은	이것+은	PRON	_	3	dislocated	_	_	이것/npd+은/jxt
+2	수치를	수치+를	NOUN	_	3	obj	_	_	수치/ncn+를/jco
+3	나타내는	나타내+는	VERB	_	4	acl	_	_	나타내/pvg+는/etm
+4	데에	데+에	ADV	_	8	obl	_	_	데/nbn+에/jca
+5	접두어로서	접두어+로서	ADV	_	8	advcl	_	_	접두어/ncn+로서/jca
+6	일정한	일정하+ㄴ	ADJ	_	7	amod	_	_	일정하/paa+ㄴ/etm
+7	기호를	기호+를	NOUN	_	8	obj	_	_	기호/ncn+를/jco
+8	사용하고	사용+하+고	VERB	_	0	root	_	_	사용/ncpa+하/xsv+고/ecx
+9	있다	있+다	AUX	_	8	aux	_	_	있/px+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 또한 작은 쪽으로는 천분의 1 단위로서 밀리 이하에 마이크로 ( micro ) , 나노 ( nano ) , 피코 ( pico ) 등이 쓰이고 있다 .
+1	또한	또한	CCONJ	_	24	cc	_	_	또한/maj
+2	작은	작+ㄴ	ADJ	_	3	amod	_	_	작/paa+ㄴ/etm
+3	쪽으로는	쪽+으로+는	NOUN	_	24	dislocated	_	_	쪽/ncn+으로/jca+는/jxt
+4	천분의	천+분+의	NUM	_	5	nmod	_	_	천/nnc+분/xsn+의/jcm
+5	1	1	NUM	_	6	nummod	_	_	1/nnc
+6	단위로서	단위+로서	ADV	_	24	advcl	_	_	단위/ncn+로서/jca
+7	밀리	밀리	NOUN	_	8	compound	_	_	밀리/nbu
+8	이하에	이하+에	ADV	_	24	obl	_	_	이하/ncn+에/jca
+9	마이크로	마이크로	NOUN	_	19	compound	_	_	마이크로/ncn
+10	(	(	PUNCT	_	11	punct	_	_	(/sl
+11	micro	micro	X	_	9	appos	_	_	micro/f
+12	)	)	PUNCT	_	11	punct	_	_	)/sr
+13	,	,	PUNCT	_	9	punct	_	_	,/sp
+14	나노	나노	NOUN	_	19	compound	_	_	나노/nbu
+15	(	(	PUNCT	_	16	punct	_	_	(/sl
+16	nano	nano	X	_	14	appos	_	_	nano/f
+17	)	)	PUNCT	_	16	punct	_	_	)/sr
+18	,	,	PUNCT	_	14	punct	_	_	,/sp
+19	피코	피코	NOUN	_	23	compound	_	_	피코/nbu
+20	(	(	PUNCT	_	21	punct	_	_	(/sl
+21	pico	pico	X	_	19	appos	_	_	pico/f
+22	)	)	PUNCT	_	21	punct	_	_	)/sr
+23	등이	등+이	NOUN	_	24	nsubj	_	_	등/nbn+이/jcs
+24	쓰이고	쓰이+고	VERB	_	0	root	_	_	쓰이/pvg+고/ecx
+25	있다	있+다	AUX	_	24	aux	_	_	있/px+다/ef
+26	.	.	PUNCT	_	25	punct	_	_	./sf
+
+# 그런데 생물기계는 바로 10 억분의 1인 나노 ( nano ) 의 세계이다 .
+1	그런데	그런데	CCONJ	_	12	cc	_	_	그런데/maj
+2	생물기계는	생물+기계+는	NOUN	_	12	dislocated	_	_	생물/ncn+기계/ncn+는/jxt
+3	바로	바로	ADV	_	12	advmod	_	_	바로/mag
+4	10	10	NUM	_	5	nummod	_	_	10/nnc
+5	억분의	억+분+의	NUM	_	6	nmod	_	_	억/nnc+분/xsn+의/jcm
+6	1인	1+이+ㄴ	VERB	_	7	acl	_	_	1/nnc+이/jp+ㄴ/etm
+7	나노	나노	NOUN	_	12	nmod	_	_	나노/nbu
+8	(	(	PUNCT	_	9	punct	_	_	(/sl
+9	nano	nano	X	_	7	appos	_	_	nano/f
+10	)	)	PUNCT	_	9	punct	_	_	)/sr
+11	의	의	ADP	_	7	case	_	_	의/jcm
+12	세계이다	세계+이+다	VERB	_	0	root	_	_	세계/ncn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 잘 알려져 있는 살모넬라균의 모터격인 편모 ( 鞭毛 ) 를 통해 ' 생물나노머신 ' 을 구체적으로 알아보기로 하자 .
+1	잘	잘	ADV	_	2	advmod	_	_	잘/mag
+2	알려져	알려지+어	VERB	_	6	acl	_	_	알려지/pvg+어/ecx
+3	있는	있+는	AUX	_	2	aux	_	_	있/px+는/etm
+4	살모넬라균의	살모넬라균+의	NOUN	_	5	nmod	_	_	살모넬라균/ncn+의/jcm
+5	모터격인	모터+격+이+ㄴ	VERB	_	6	acl	_	_	모터/ncn+격/ncn+이/jp+ㄴ/etm
+6	편모	편모	NOUN	_	11	obj	_	_	편모/ncn
+7	(	(	PUNCT	_	8	punct	_	_	(/sl
+8	鞭毛	鞭毛	PROPN	_	6	appos	_	_	鞭毛/nq
+9	)	)	PUNCT	_	8	punct	_	_	)/sr
+10	를	를	ADP	_	6	case	_	_	를/jco
+11	통해	통하+어	SCONJ	_	17	conj	_	_	통하/pvg+어/ecs
+12	'	'	PUNCT	_	13	punct	_	_	'/sl
+13	생물나노머신	생물+나노+머신	NOUN	_	17	obj	_	_	생물/ncn+나노/nbu+머신/ncn
+14	'	'	PUNCT	_	13	punct	_	_	'/sr
+15	을	을	ADP	_	13	case	_	_	을/jco
+16	구체적으로	구체+적+으로	ADV	_	17	advcl	_	_	구체/ncn+적/xsn+으로/jca
+17	알아보기로	알+아+보+기+로	ADV	_	18	advcl	_	_	알/pvg+아/ecx+보/px+기/etn+로/jca
+18	하자	하+자	VERB	_	0	root	_	_	하/pvg+자/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 우선 이것은 우리들이 사용하고 있는 전동모터와 똑같은 모양과 기수를 갖고 있다 .
+1	우선	우선	ADV	_	10	advmod	_	_	우선/mag
+2	이것은	이것+은	PRON	_	10	dislocated	_	_	이것/npd+은/jxt
+3	우리들이	우리+들+이	PRON	_	4	nsubj	_	_	우리/npp+들/xsn+이/jcs
+4	사용하고	사용+하+고	VERB	_	6	acl	_	_	사용/ncpa+하/xsv+고/ecx
+5	있는	있+는	AUX	_	4	aux	_	_	있/px+는/etm
+6	전동모터와	전동+모터+와	CCONJ	_	7	conj	_	_	전동/ncn+모터/ncn+와/jct
+7	똑같은	똑같+ㄴ	ADJ	_	9	amod	_	_	똑같/paa+ㄴ/etm
+8	모양과	모양+과	CCONJ	_	9	conj	_	_	모양/ncn+과/jcj
+9	기수를	기수+를	NOUN	_	10	obj	_	_	기수/ncn+를/jco
+10	갖고	갖+고	VERB	_	0	root	_	_	갖/pvg+고/ecx
+11	있다	있+다	AUX	_	10	aux	_	_	있/px+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 회전측과 함께 고정자가 있으며 , 베어링에 해당되는 축수 ( 軸受 ) 도 있고 더 나아가서는 유니버설조인트도 있다 .
+1	회전측과	회전+측+과	CCONJ	_	2	conj	_	_	회전/ncpa+측/nbn+과/jct
+2	함께	함께	ADV	_	4	advmod	_	_	함께/mag
+3	고정자가	고정자+가	NOUN	_	4	nsubj	_	_	고정자/ncn+가/jcs
+4	있으며	있+으며	SCONJ	_	13	ccomp	_	_	있/pvg+으며/ecs
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	베어링에	베어링+에	ADV	_	7	obl	_	_	베어링/ncn+에/jca
+7	해당되는	해당+되+는	VERB	_	8	acl	_	_	해당/ncpa+되/xsv+는/etm
+8	축수	축수	NOUN	_	13	advcl	_	_	축수/ncn
+9	(	(	PUNCT	_	10	punct	_	_	(/sl
+10	軸受	軸受	PROPN	_	8	appos	_	_	軸受/nq
+11	)	)	PUNCT	_	10	punct	_	_	)/sr
+12	도	도	ADP	_	8	case	_	_	도/jxc
+13	있고	있+고	CCONJ	_	17	conj	_	_	있/pvg+고/ecc
+14	더	더	ADV	_	15	advmod	_	_	더/mag
+15	나아가서는	나아가+서+는	NOUN	_	17	dep	_	_	나아가/pvg+서/ecs+는/jxt
+16	유니버설조인트도	유니버설+조인트+도	ADV	_	17	advcl	_	_	유니버설/ncn+조인트/ncn+도/jxc
+17	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 편모 ( 鞭毛 ) 는 상당히 길기는 하지만 스크류 ( screw ) 같이 나선형으로 되어 있어 이것이 회전하면 추진력이 발생한다 .
+1	편모	편모	NOUN	_	20	dislocated	_	_	편모/ncn
+2	(	(	PUNCT	_	3	punct	_	_	(/sl
+3	鞭毛	鞭毛	PROPN	_	1	appos	_	_	鞭毛/nq
+4	)	)	PUNCT	_	3	punct	_	_	)/sr
+5	는	는	ADP	_	1	case	_	_	는/jxt
+6	상당히	상당히	ADV	_	7	advmod	_	_	상당히/mag
+7	길기는	길+기+는	NOUN	_	8	dislocated	_	_	길/paa+기/etn+는/jxt
+8	하지만	하+지만	SCONJ	_	15	ccomp	_	_	하/pvg+지만/ecs
+9	스크류	스크류	NOUN	_	13	dep	_	_	스크류/ncn
+10	(	(	PUNCT	_	11	punct	_	_	(/sl
+11	screw	screw	X	_	9	appos	_	_	screw/f
+12	)	)	PUNCT	_	11	punct	_	_	)/sr
+13	같이	같+이	SCONJ	_	15	xcomp	_	_	같/paa+이/ecs
+14	나선형으로	나선형+으로	ADV	_	15	advcl	_	_	나선형/ncn+으로/jca
+15	되어	되+어	VERB	_	20	ccomp	_	_	되/pvg+어/ecx
+16	있어	있+어	SCONJ	_	15	aux	_	_	있/px+어/ecs
+17	이것이	이것+이	PRON	_	18	nsubj	_	_	이것/npd+이/jcs
+18	회전하면	회전+하+면	SCONJ	_	20	ccomp	_	_	회전/ncpa+하/xsv+면/ecs
+19	추진력이	추진력+이	NOUN	_	20	nsubj	_	_	추진력/ncn+이/jcs
+20	발생한다	발생+하+ㄴ다	VERB	_	0	root	_	_	발생/ncpa+하/xsv+ㄴ다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 이 모터의 동력은 이온 ( ion ) 의 흐름이다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	모터의	모터+의	NOUN	_	3	nmod	_	_	모터/ncn+의/jcm
+3	동력은	동력+은	NOUN	_	9	dislocated	_	_	동력/ncn+은/jxt
+4	이온	이온	NOUN	_	9	nmod	_	_	이온/ncn
+5	(	(	PUNCT	_	6	punct	_	_	(/sl
+6	ion	ion	X	_	4	appos	_	_	ion/f
+7	)	)	PUNCT	_	6	punct	_	_	)/sr
+8	의	의	ADP	_	4	case	_	_	의/jcm
+9	흐름이다	흐름+이+다	VERB	_	0	root	_	_	흐름/ncn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이것이 외부에서 균의 체내를 통해 결국 모터의 회전부분으로 흘러들어감으로써 모터가 회전하는 것이다 .
+1	이것이	이것+이	PRON	_	9	nsubj	_	_	이것/npd+이/jcs
+2	외부에서	외부+에서	ADV	_	9	advcl	_	_	외부/ncn+에서/jca
+3	균의	균+의	NOUN	_	4	nmod	_	_	균/ncn+의/jcm
+4	체내를	체내+를	NOUN	_	5	obj	_	_	체내/ncn+를/jco
+5	통해	통하+어	SCONJ	_	9	ccomp	_	_	통하/pvg+어/ecs
+6	결국	결국	ADV	_	9	advmod	_	_	결국/mag
+7	모터의	모터+의	NOUN	_	8	nmod	_	_	모터/ncn+의/jcm
+8	회전부분으로	회전+부분+으로	ADV	_	9	advcl	_	_	회전/ncpa+부분/ncn+으로/jca
+9	흘러들어감으로써	흘러들어가+ㅁ+으로써	ADV	_	11	advcl	_	_	흘러들어가/pvg+ㅁ/etn+으로써/jca
+10	모터가	모터+가	NOUN	_	11	nsubj	_	_	모터/ncn+가/jcs
+11	회전하는	회전+하+는	VERB	_	0	root	_	_	회전/ncpa+하/xsv+는/etm
+12	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 즉 , 에너지 수지 ( 收支 ) 면에서 화학입력에너지보다 기계출력쪽이 더 크다는 것이다 .
+1	즉	즉	CCONJ	_	12	cc	_	_	즉/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	에너지	에너지	NOUN	_	4	compound	_	_	에너지/ncn
+4	수지	수지	NOUN	_	8	compound	_	_	수지/ncn
+5	(	(	PUNCT	_	6	punct	_	_	(/sl
+6	收支	收支	PROPN	_	4	appos	_	_	收支/nq
+7	)	)	PUNCT	_	6	punct	_	_	)/sr
+8	면에서	면+에서	ADV	_	12	advcl	_	_	면/ncn+에서/jca
+9	화학입력에너지보다	화학+입력+에너지+보다	ADV	_	12	advcl	_	_	화학/ncn+입력/ncpa+에너지/ncn+보다/jca
+10	기계출력쪽이	기계+출력+쪽+이	NOUN	_	12	nsubj	_	_	기계/ncn+출력/ncpa+쪽/nbn+이/jcs
+11	더	더	ADV	_	12	advmod	_	_	더/mag
+12	크다는	크+다는	ADJ	_	0	root	_	_	크/paa+다는/etm
+13	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이러한 에너지 획득이나 에너지 변환 메커니즘의 신비를 밝혀낼 때 생체기계의 가능성이 도래할 것이다 .
+1	이러한	이러하+ㄴ	VERB	_	6	amod	_	_	이러하/pad+ㄴ/etm
+2	에너지	에너지	NOUN	_	3	compound	_	_	에너지/ncn
+3	획득이나	획득+이나	CCONJ	_	5	conj	_	_	획득/ncpa+이나/jcj
+4	에너지	에너지	NOUN	_	5	compound	_	_	에너지/ncn
+5	변환	변환	NOUN	_	6	compound	_	_	변환/ncpa
+6	메커니즘의	메커니즘+의	NOUN	_	7	nmod	_	_	메커니즘/ncn+의/jcm
+7	신비를	신비+를	NOUN	_	8	obj	_	_	신비/ncps+를/jco
+8	밝혀낼	밝히+어+내+ㄹ	AUX	_	9	acl	_	_	밝히/pvg+어/ecx+내/px+ㄹ/etm
+9	때	때	NOUN	_	12	advmod	_	_	때/ncn
+10	생체기계의	생체+기계+의	NOUN	_	11	nmod	_	_	생체/ncn+기계/ncn+의/jcm
+11	가능성이	가능성+이	NOUN	_	12	nsubj	_	_	가능성/ncn+이/jcs
+12	도래할	도래+하+ㄹ	VERB	_	0	root	_	_	도래/ncpa+하/xsv+ㄹ/etm
+13	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그러면 머리카락을 새로 나게 하는 것은 매우 간단한 차원이 될 것이며 시력 , 청각 , 치아의 재생 등도 가능하게 될 것이다 .
+1	그러면	그러면	CCONJ	_	19	cc	_	_	그러면/maj
+2	머리카락을	머리카락+을	NOUN	_	4	obj	_	_	머리카락/ncn+을/jco
+3	새로	새로	ADV	_	4	advmod	_	_	새로/mag
+4	나게	나+게	VERB	_	6	acl	_	_	나/pvg+게/ecx
+5	하는	하+는	AUX	_	4	aux	_	_	하/px+는/etm
+6	것은	것+은	NOUN	_	10	dislocated	_	_	것/nbn+은/jxt
+7	매우	매우	ADV	_	8	advmod	_	_	매우/mag
+8	간단한	간단+하+ㄴ	VERB	_	9	acl	_	_	간단/ncpa+하/xsv+ㄴ/etm
+9	차원이	차원+이	NOUN	_	10	csubj	_	_	차원/ncn+이/jcc
+10	될	되+ㄹ	VERB	_	19	conj	_	_	되/pvg+ㄹ/etm
+11	것이며	것+이+며	CCONJ	_	10	aux	_	_	것/nbn+이/jp+며/ecc
+12	시력	시력	NOUN	_	14	conj	_	_	시력/ncn
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	청각	청각	NOUN	_	16	conj	_	_	청각/ncn
+15	,	,	PUNCT	_	14	punct	_	_	,/sp
+16	치아의	치아+의	NOUN	_	17	nmod	_	_	치아/ncn+의/jcm
+17	재생	재생	NOUN	_	18	compound	_	_	재생/ncpa
+18	등도	등+도	ADV	_	19	advcl	_	_	등/nbn+도/jxc
+19	가능하게	가능+하+게	VERB	_	0	root	_	_	가능/ncps+하/xsm+게/ecx
+20	될	되+ㄹ	AUX	_	19	aux	_	_	되/px+ㄹ/etm
+21	것이다	것+이+다	VERB	_	19	aux	_	_	것/nbn+이/jp+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 그러나 이러한 마이크로혁명 , 나아가 나노테크놀러지의 세계는 사실 오늘날의 우리에게 그리 현실감 있는 이야기로 와닿지 않을 것이다 .
+1	그러나	그러나	CCONJ	_	15	cc	_	_	그러나/maj
+2	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+3	마이크로혁명	마이크로+혁명	NOUN	_	6	conj	_	_	마이크로/ncn+혁명/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	나아가	나아가+아	SCONJ	_	6	cc	_	_	나아가/pvg+아/ecs
+6	나노테크놀러지의	나노+테크놀러지+의	NOUN	_	7	nmod	_	_	나노/nbu+테크놀러지/ncn+의/jcm
+7	세계는	세계+는	NOUN	_	15	dislocated	_	_	세계/ncn+는/jxt
+8	사실	사실	NOUN	_	15	advmod	_	_	사실/ncn
+9	오늘날의	오늘날+의	NOUN	_	10	nmod	_	_	오늘날/ncn+의/jcm
+10	우리에게	우리+에게	ADV	_	15	iobj	_	_	우리/npp+에게/jca
+11	그리	그리	ADV	_	13	advmod	_	_	그리/mag
+12	현실감	현실감	NOUN	_	13	dep	_	_	현실감/ncn
+13	있는	있+는	VERB	_	14	acl	_	_	있/pvg+는/etm
+14	이야기로	이야기+로	ADV	_	15	advcl	_	_	이야기/ncn+로/jca
+15	와닿지	와닿+지	VERB	_	0	root	_	_	와닿/pvg+지/ecx
+16	않을	않+ㄹ	AUX	_	15	aux	_	_	않/px+ㄹ/etm
+17	것이다	것+이+다	VERB	_	15	aux	_	_	것/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이제 다시 본론으로 돌아가보자 .
+1	이제	이제	ADV	_	4	advmod	_	_	이제/mag
+2	다시	다시	ADV	_	1	advmod	_	_	다시/mag
+3	본론으로	본론+으로	ADV	_	4	advcl	_	_	본론/ncn+으로/jca
+4	돌아가보자	돌아가+아+보+자	AUX	_	0	root	_	_	돌아가/pvg+아/ecx+보/px+자/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 그렇다면 메카트로닉스의 요소 기술을 계속 발전시켜 나가기만 하면 마이크로머신이 가능할 것인가 ?
+1	그렇다면	그렇다면	CCONJ	_	10	cc	_	_	그렇다면/maj
+2	메카트로닉스의	메카트로닉스+의	NOUN	_	3	nmod	_	_	메카트로닉스/ncn+의/jcm
+3	요소	요소	NOUN	_	4	compound	_	_	요소/ncn
+4	기술을	기술+을	NOUN	_	6	obj	_	_	기술/ncn+을/jco
+5	계속	계속	ADV	_	6	advmod	_	_	계속/mag
+6	발전시켜	발전+시키+어	VERB	_	8	advcl	_	_	발전/ncpa+시키/xsv+어/ecx
+7	나가기만	나가+기+만	ADV	_	6	aux	_	_	나가/px+기/etn+만/jxc
+8	하면	하+면	SCONJ	_	10	conj	_	_	하/pvg+면/ecs
+9	마이크로머신이	마이크로+머신+이	NOUN	_	10	nsubj	_	_	마이크로/ncn+머신/ncn+이/jcs
+10	가능할	가능+하+ㄹ	VERB	_	0	root	_	_	가능/ncps+하/xsm+ㄹ/etm
+11	것인가	것+이+ㄴ가	VERB	_	10	aux	_	_	것/nbn+이/jp+ㄴ가/ef
+12	?	?	PUNCT	_	11	punct	_	_	?/sf
+
+# 실제로 그러한 생각은 커다란 벽에 부딪히게 된다 .
+1	실제로	실제로	ADV	_	6	advmod	_	_	실제로/mag
+2	그러한	그러하+ㄴ	VERB	_	3	amod	_	_	그러하/pad+ㄴ/etm
+3	생각은	생각+은	NOUN	_	6	dislocated	_	_	생각/ncpa+은/jxt
+4	커다란	커다랗+ㄴ	ADJ	_	5	amod	_	_	커다랗/paa+ㄴ/etm
+5	벽에	벽+에	ADV	_	6	obl	_	_	벽/ncn+에/jca
+6	부딪히게	부딪히+게	VERB	_	0	root	_	_	부딪히/pvg+게/ecx
+7	된다	되+ㄴ다	AUX	_	6	aux	_	_	되/px+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그중 하나는 현재의 기술로 기계의 제어기구를 소형화시킬 수는 있지만 기계의 본체부분인 구조나 메커니즘의 소형화는 기대할 수 없다는 점이다 .
+1	그중	그+중	NOUN	_	2	advmod	_	_	그/npd+중/xsn
+2	하나는	하나+는	NUM	_	18	dislocated	_	_	하나/nnc+는/jxt
+3	현재의	현재+의	NOUN	_	4	nmod	_	_	현재/ncn+의/jcm
+4	기술로	기술+로	ADV	_	7	advcl	_	_	기술/ncn+로/jca
+5	기계의	기계+의	NOUN	_	6	nmod	_	_	기계/ncn+의/jcm
+6	제어기구를	제어+기구+를	NOUN	_	7	obj	_	_	제어/ncpa+기구/ncn+를/jco
+7	소형화시킬	소형화+시키+ㄹ	VERB	_	15	ccomp	_	_	소형화/ncpa+시키/xsv+ㄹ/etm
+8	수는	수+는	NOUN	_	9	fixed	_	_	수/nbn+는/jxt
+9	있지만	있+지만	SCONJ	_	7	aux	_	_	있/paa+지만/ecs
+10	기계의	기계+의	NOUN	_	11	nmod	_	_	기계/ncn+의/jcm
+11	본체부분인	본체+부분+이+ㄴ	VERB	_	13	acl	_	_	본체/ncn+부분/ncn+이/jp+ㄴ/etm
+12	구조나	구조+나	CCONJ	_	13	conj	_	_	구조/ncn+나/jcj
+13	메커니즘의	메커니즘+의	NOUN	_	14	nmod	_	_	메커니즘/ncn+의/jcm
+14	소형화는	소형화+는	NOUN	_	15	dislocated	_	_	소형화/ncn+는/jxt
+15	기대할	기대+하+ㄹ	VERB	_	18	ccomp	_	_	기대/ncpa+하/xsv+ㄹ/etm
+16	수	수	NOUN	_	17	fixed	_	_	수/nbn
+17	없다는	없+다는	ADJ	_	15	aux	_	_	없/paa+다는/etm
+18	점이다	점+이+다	VERB	_	0	root	_	_	점/nbu+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 또 한 가지는 미세영역으로 들어가게 되면 우리가 이제까지 접해 온 매크로한 세계와는 전혀 다른 , 상식에서 벗어난 새로운 세계가 전개된다는 점이다 .
+1	또	또	ADV	_	3	advmod	_	_	또/mag
+2	한	한	NUM	_	3	nummod	_	_	한/nnc
+3	가지는	가지+는	NOUN	_	21	dislocated	_	_	가지/nbu+는/jxt
+4	미세영역으로	미세+영역+으로	ADV	_	5	advcl	_	_	미세/ncn+영역/ncn+으로/jca
+5	들어가게	들어가+게	VERB	_	20	ccomp	_	_	들어가/pvg+게/ecx
+6	되면	되+면	SCONJ	_	5	aux	_	_	되/px+면/ecs
+7	우리가	우리+가	PRON	_	9	nsubj	_	_	우리/npp+가/jcs
+8	이제까지	이제+까지	ADV	_	9	advcl	_	_	이제/ncn+까지/jxc
+9	접해	접하+어	VERB	_	12	acl	_	_	접하/pvg+어/ecx
+10	온	오+ㄴ	AUX	_	9	aux	_	_	오/px+ㄴ/etm
+11	매크로한	매크로+하+ㄴ	VERB	_	12	amod	_	_	매크로/ncps+하/xsm+ㄴ/etm
+12	세계와는	세계+와+는	NOUN	_	14	dislocated	_	_	세계/ncn+와/jct+는/jxt
+13	전혀	전혀	ADV	_	14	advmod	_	_	전혀/mag
+14	다른	다르+ㄴ	ADJ	_	19	amod	_	_	다르/paa+ㄴ/etm
+15	,	,	PUNCT	_	14	punct	_	_	,/sp
+16	상식에서	상식+에서	ADV	_	17	advcl	_	_	상식/ncn+에서/jca
+17	벗어난	벗어나+ㄴ	VERB	_	19	acl	_	_	벗어나/pvg+ㄴ/etm
+18	새로운	새롭+ㄴ	ADJ	_	19	amod	_	_	새롭/paa+ㄴ/etm
+19	세계가	세계+가	NOUN	_	20	nsubj	_	_	세계/ncn+가/jcs
+20	전개된다는	전개+되+ㄴ다는	VERB	_	21	ccomp	_	_	전개/ncpa+되/xsv+ㄴ다는/etm
+21	점이다	점+이+다	VERB	_	0	root	_	_	점/ncn+이/jp+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 종래 물리학을 주도해 온 뉴튼법칙에 따르면 공중에서 물체를 손에서 놓으면 따로 떨어지게 될 것이다 .
+1	종래	종래	NOUN	_	2	compound	_	_	종래/ncn
+2	물리학을	물리학+을	NOUN	_	3	obj	_	_	물리학/ncn+을/jco
+3	주도해	주도+하+어	VERB	_	5	acl	_	_	주도/ncpa+하/xsv+어/ecx
+4	온	오+ㄴ	AUX	_	3	aux	_	_	오/px+ㄴ/etm
+5	뉴튼법칙에	뉴튼+법칙+에	ADV	_	6	obl	_	_	뉴튼/nq+법칙/ncn+에/jca
+6	따르면	따르+면	SCONJ	_	12	ccomp	_	_	따르/pvg+면/ecs
+7	공중에서	공중+에서	ADV	_	10	advcl	_	_	공중/ncn+에서/jca
+8	물체를	물체+를	NOUN	_	10	obj	_	_	물체/ncn+를/jco
+9	손에서	손+에서	ADV	_	10	advcl	_	_	손/ncn+에서/jca
+10	놓으면	놓+으면	SCONJ	_	12	ccomp	_	_	놓/pvg+으면/ecs
+11	따로	따로	ADV	_	12	advmod	_	_	따로/mag
+12	떨어지게	떨어지+게	VERB	_	0	root	_	_	떨어지/pvg+게/ecx
+13	될	되+ㄹ	AUX	_	12	aux	_	_	되/px+ㄹ/etm
+14	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그러나 이러한 매크로한 세계의 상식은 눈으로 볼 수 없는 정도의 작은 먼지에 관해선 성립되지 않는다 .
+1	그러나	그러나	CCONJ	_	14	cc	_	_	그러나/maj
+2	이러한	이러하+ㄴ	VERB	_	4	amod	_	_	이러하/pad+ㄴ/etm
+3	매크로한	매크로+하+ㄴ	VERB	_	4	amod	_	_	매크로/ncps+하/xsm+ㄴ/etm
+4	세계의	세계+의	NOUN	_	5	nmod	_	_	세계/ncn+의/jcm
+5	상식은	상식+은	NOUN	_	14	dislocated	_	_	상식/ncn+은/jxt
+6	눈으로	눈+으로	ADV	_	7	advcl	_	_	눈/ncn+으로/jca
+7	볼	보+ㄹ	VERB	_	10	acl	_	_	보/pvg+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	없는	없+는	ADJ	_	7	aux	_	_	없/paa+는/etm
+10	정도의	정도+의	NOUN	_	12	nmod	_	_	정도/ncn+의/jcm
+11	작은	작+ㄴ	ADJ	_	12	amod	_	_	작/paa+ㄴ/etm
+12	먼지에	먼지+에	ADV	_	13	obl	_	_	먼지/ncn+에/jca
+13	관해선	관하+어서+ㄴ	NOUN	_	14	amod	_	_	관하/paa+어서/ecs+ㄴ/jxt
+14	성립되지	성립+되+지	VERB	_	0	root	_	_	성립/ncpa+되/xsv+지/ecx
+15	않는다	않+는다	AUX	_	14	aux	_	_	않/px+는다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 먼지는 극히 가볍고 , 표면에 작용하는 공기의 마찰에 의해 언제까지라도 공중에 떠다닐 수 있다 .
+1	먼지는	먼지+는	NOUN	_	12	dislocated	_	_	먼지/ncn+는/jxt
+2	극히	극히	ADV	_	3	advmod	_	_	극히/mag
+3	가볍고	가볍+고	CCONJ	_	12	conj	_	_	가볍/paa+고/ecc
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	표면에	표면+에	ADV	_	6	obl	_	_	표면/ncn+에/jca
+6	작용하는	작용+하+는	VERB	_	7	acl	_	_	작용/ncpa+하/xsv+는/etm
+7	공기의	공기+의	NOUN	_	8	nmod	_	_	공기/ncn+의/jcm
+8	마찰에	마찰+에	ADV	_	9	obl	_	_	마찰/ncpa+에/jca
+9	의해	의하+어	SCONJ	_	12	ccomp	_	_	의하/pvg+어/ecs
+10	언제까지라도	언제+까지+라도	ADV	_	12	advcl	_	_	언제/npd+까지/jxc+라도/jxc
+11	공중에	공중+에	ADV	_	12	obl	_	_	공중/ncn+에/jca
+12	떠다닐	떠다니+ㄹ	VERB	_	0	root	_	_	떠다니/pvg+ㄹ/etm
+13	수	수	NOUN	_	14	fixed	_	_	수/nbn
+14	있다	있+다	ADJ	_	12	aux	_	_	있/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 또한 컵 속에 든 혈액은 기울이면 흘러내린다 .
+1	또한	또한	CCONJ	_	7	cc	_	_	또한/maj
+2	컵	컵	NOUN	_	3	compound	_	_	컵/ncn
+3	속에	속+에	ADV	_	4	obl	_	_	속/ncn+에/jca
+4	든	들+ㄴ	VERB	_	5	acl	_	_	들/pvg+ㄴ/etm
+5	혈액은	혈액+은	NOUN	_	7	dislocated	_	_	혈액/ncn+은/jxt
+6	기울이면	기울이+면	SCONJ	_	7	ccomp	_	_	기울이/pvg+면/ecs
+7	흘러내린다	흘러내리+ㄴ다	VERB	_	0	root	_	_	흘러내리/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그러나 지름이 몇 십 미크론인 컵에 떨어진 혈액은 컵을 거꾸로 해도 흘러나오지 않는다 .
+1	그러나	그러나	CCONJ	_	12	cc	_	_	그러나/maj
+2	지름이	지름+이	NOUN	_	5	nsubj	_	_	지름/ncn+이/jcs
+3	몇	몇	ADJ	_	5	amod	_	_	몇/mma
+4	십	십	NUM	_	5	nummod	_	_	십/nnc
+5	미크론인	미크론+이+ㄴ	VERB	_	6	acl	_	_	미크론/nbu+이/jp+ㄴ/etm
+6	컵에	컵+에	ADV	_	7	obl	_	_	컵/ncn+에/jca
+7	떨어진	떨어지+ㄴ	VERB	_	8	acl	_	_	떨어지/pvg+ㄴ/etm
+8	혈액은	혈액+은	NOUN	_	12	dislocated	_	_	혈액/ncn+은/jxt
+9	컵을	컵+을	NOUN	_	11	obj	_	_	컵/ncn+을/jco
+10	거꾸로	거꾸로	ADV	_	11	advmod	_	_	거꾸로/mag
+11	해도	하+어도	SCONJ	_	12	ccomp	_	_	하/pvg+어도/ecs
+12	흘러나오지	흘러나오+지	VERB	_	0	root	_	_	흘러나오/pvg+지/ecx
+13	않는다	않+는다	AUX	_	12	aux	_	_	않/px+는다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 요컨대 미세영역 , 즉 마이크로의 세계에서는 여러 가지 물리현상 가운데 몇몇 주요 현상들이 거시영역과는 다르게 나타난다는 것이다 .
+1	요컨대	요컨대	ADV	_	16	advmod	_	_	요컨대/mag
+2	미세영역	미세+영역	NOUN	_	5	conj	_	_	미세/ncn+영역/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	즉	즉	CCONJ	_	5	cc	_	_	즉/maj
+5	마이크로의	마이크로+의	NOUN	_	6	nmod	_	_	마이크로/ncn+의/jcm
+6	세계에서는	세계+에서+는	NOUN	_	16	dislocated	_	_	세계/ncn+에서/jca+는/jxt
+7	여러	여러	ADJ	_	8	amod	_	_	여러/mma
+8	가지	가지	NOUN	_	9	compound	_	_	가지/nbu
+9	물리현상	물리+현상	NOUN	_	10	compound	_	_	물리/ncn+현상/ncn
+10	가운데	가운데	NOUN	_	13	compound	_	_	가운데/ncn
+11	몇몇	몇몇	ADJ	_	13	amod	_	_	몇몇/mma
+12	주요	주요	NOUN	_	13	compound	_	_	주요/ncps
+13	현상들이	현상+들+이	NOUN	_	16	nsubj	_	_	현상/ncn+들/xsn+이/jcs
+14	거시영역과는	거시+영역+과+는	NOUN	_	15	dislocated	_	_	거시/ncn+영역/ncn+과/jct+는/jxt
+15	다르게	다르+게	SCONJ	_	16	xcomp	_	_	다르/paa+게/ecs
+16	나타난다는	나타나+ㄴ다는	VERB	_	0	root	_	_	나타나/pvg+ㄴ다는/etm
+17	것이다	것+이+다	VERB	_	16	aux	_	_	것/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 우선 이 분야의 연구자라면 누구나 지적하는 첫 번째 장애요인은 마찰 ( 摩擦 ) 이다 .
+1	우선	우선	ADV	_	10	advmod	_	_	우선/mag
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	분야의	분야+의	NOUN	_	4	nmod	_	_	분야/ncn+의/jcm
+4	연구자라면	연구자+이+라면	SCONJ	_	6	ccomp	_	_	연구자/ncn+이/jp+라면/ecs
+5	누구나	누구+나	ADV	_	6	advcl	_	_	누구/npp+나/jxc
+6	지적하는	지적+하+는	VERB	_	9	acl	_	_	지적/ncpa+하/xsv+는/etm
+7	첫	첫	ADJ	_	8	amod	_	_	첫/mma
+8	번째	번째	NOUN	_	9	compound	_	_	번째/nbu
+9	장애요인은	장애+요인+은	NOUN	_	10	dislocated	_	_	장애/ncn+요인/ncn+은/jxt
+10	마찰	마찰	NOUN	_	0	root	_	_	마찰/ncpa
+11	(	(	PUNCT	_	12	punct	_	_	(/sl
+12	摩擦	摩擦	PROPN	_	10	appos	_	_	摩擦/nq
+13	)	)	PUNCT	_	12	punct	_	_	)/sr
+14	이다	이+다	ADP	_	10	cop	_	_	이/jp+다/ef
+15	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그런데 마찰력은 접촉면적의 함수인 데 비해 관성력은 질량의 함수이다 .
+1	그런데	그런데	CCONJ	_	9	cc	_	_	그런데/maj
+2	마찰력은	마찰력+은	NOUN	_	4	dislocated	_	_	마찰력/ncn+은/jxt
+3	접촉면적의	접촉+면적+의	NOUN	_	4	nmod	_	_	접촉/ncpa+면적/ncn+의/jcm
+4	함수인	함수+이+ㄴ	VERB	_	5	acl	_	_	함수/ncn+이/jp+ㄴ/etm
+5	데	데	NOUN	_	6	mark	_	_	데/nbn
+6	비해	비하+어	SCONJ	_	9	ccomp	_	_	비하/pvg+어/ecs
+7	관성력은	관성력+은	NOUN	_	9	dislocated	_	_	관성력/ncn+은/jxt
+8	질량의	질량+의	NOUN	_	9	nmod	_	_	질량/ncn+의/jcm
+9	함수이다	함수+이+다	VERB	_	0	root	_	_	함수/ncn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 따라서 치수가 작아지면 상대적으로 마찰에 의한 에너지손실이 커지게 되는 것으로 , 이것이 바로 마이크로머신에 있어 마찰이 문제가 되는 이유이다 .
+1	따라서	따라서	CCONJ	_	19	cc	_	_	따라서/maj
+2	치수가	치수+가	NOUN	_	3	nsubj	_	_	치수/ncn+가/jcs
+3	작아지면	작아지+면	SCONJ	_	8	ccomp	_	_	작아지/pvg+면/ecs
+4	상대적으로	상대+적+으로	ADV	_	8	advcl	_	_	상대/ncpa+적/xsn+으로/jca
+5	마찰에	마찰+에	ADV	_	6	obl	_	_	마찰/ncpa+에/jca
+6	의한	의하+ㄴ	VERB	_	7	acl	_	_	의하/pvg+ㄴ/etm
+7	에너지손실이	에너지+손실+이	NOUN	_	8	nsubj	_	_	에너지/ncn+손실/ncpa+이/jcs
+8	커지게	커지+게	VERB	_	10	acl	_	_	커지/pvg+게/ecx
+9	되는	되+는	AUX	_	8	aux	_	_	되/px+는/etm
+10	것으로	것+으로	ADV	_	19	advmod	_	_	것/nbn+으로/jca
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	이것이	이것+이	PRON	_	19	nsubj	_	_	이것/npd+이/jcs
+13	바로	바로	ADV	_	19	advmod	_	_	바로/mag
+14	마이크로머신에	마이크로+머신+에	ADV	_	15	obl	_	_	마이크로/ncn+머신/ncn+에/jca
+15	있어	있+어	SCONJ	_	18	xcomp	_	_	있/paa+어/ecs
+16	마찰이	마찰+이	NOUN	_	18	nsubj	_	_	마찰/ncpa+이/jcs
+17	문제가	문제+가	NOUN	_	18	nsubj	_	_	문제/ncn+가/jcs
+18	되는	되+는	VERB	_	19	ccomp	_	_	되/pvg+는/etm
+19	이유이다	이유+이+다	VERB	_	0	root	_	_	이유/ncn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 이는 마치 끈적끈적한 물엿을 스푼으로 휘저으려면 큰 힘이 필요한 것과 같은 원리이다 .
+1	이는	이+는	PRON	_	12	dislocated	_	_	이/npd+는/jxt
+2	마치	마치	ADV	_	11	advmod	_	_	마치/mag
+3	끈적끈적한	끈적끈적하+ㄴ	ADJ	_	4	amod	_	_	끈적끈적하/paa+ㄴ/etm
+4	물엿을	물엿+을	NOUN	_	6	obj	_	_	물엿/ncn+을/jco
+5	스푼으로	스푼+으로	ADV	_	6	advcl	_	_	스푼/ncn+으로/jca
+6	휘저으려면	휘젓+으려면	SCONJ	_	9	conj	_	_	휘젓/pvg+으려면/ecs
+7	큰	크+ㄴ	ADJ	_	8	amod	_	_	크/paa+ㄴ/etm
+8	힘이	힘+이	NOUN	_	9	nsubj	_	_	힘/ncn+이/jcs
+9	필요한	필요+하+ㄴ	VERB	_	10	amod	_	_	필요/ncps+하/xsm+ㄴ/etm
+10	것과	것+과	CCONJ	_	11	conj	_	_	것/nbn+과/jct
+11	같은	같+ㄴ	ADJ	_	12	amod	_	_	같/paa+ㄴ/etm
+12	원리이다	원리+이+다	VERB	_	0	root	_	_	원리/ncn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 즉 , 혈관 속을 움직여 다니거나 혈류 속을 헤엄쳐 다니기에는 점성이 지나치게 커지기 때문에 스크류 ( screw ) 가 작동되지 않을 것이라고 생각된다 .
+1	즉	즉	CCONJ	_	23	cc	_	_	즉/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	혈관	혈관	NOUN	_	4	compound	_	_	혈관/ncn
+4	속을	속+을	NOUN	_	5	obj	_	_	속/ncn+을/jco
+5	움직여	움직이+어	SCONJ	_	6	ccomp	_	_	움직이/pvg+어/ecs
+6	다니거나	다니+거나	CCONJ	_	10	conj	_	_	다니/pvg+거나/ecc
+7	혈류	혈류	NOUN	_	8	compound	_	_	혈류/ncn
+8	속을	속+을	NOUN	_	9	obj	_	_	속/ncn+을/jco
+9	헤엄쳐	헤엄치+어	SCONJ	_	10	ccomp	_	_	헤엄치/pvg+어/ecs
+10	다니기에는	다니+기+에+는	NOUN	_	13	dislocated	_	_	다니/pvg+기/etn+에/jca+는/jxt
+11	점성이	점성+이	NOUN	_	13	nsubj	_	_	점성/ncn+이/jcs
+12	지나치게	지나치+게	SCONJ	_	13	xcomp	_	_	지나치/paa+게/ecs
+13	커지기	커지+기	VERB	_	14	nmod	_	_	커지/pvg+기/etn
+14	때문에	때문+에	ADV	_	20	obl	_	_	때문/nbn+에/jca
+15	스크류	스크류	NOUN	_	20	nsubj	_	_	스크류/ncn
+16	(	(	PUNCT	_	17	punct	_	_	(/sl
+17	screw	screw	X	_	15	appos	_	_	screw/f
+18	)	)	PUNCT	_	17	punct	_	_	)/sr
+19	가	가	ADP	_	15	case	_	_	가/jcs
+20	작동되지	작동+되+지	VERB	_	22	acl	_	_	작동/ncpa+되/xsv+지/ecx
+21	않을	않+ㄹ	AUX	_	20	aux	_	_	않/px+ㄹ/etm
+22	것이라고	것+이+라+고	VERB	_	23	conj	_	_	것/nbn+이/jp+라/ef+고/jcr
+23	생각된다	생각+되+ㄴ다	VERB	_	0	root	_	_	생각/ncpa+되/xsv+ㄴ다/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+

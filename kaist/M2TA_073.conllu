@@ -1,0 +1,709 @@
+# 그는 뽀족한 부분의 껍질을 깨뜨려서 달걀을 테이블 위에 마난히 세워 놓았었다 .
+1	그는	그+는	PRON	_	10	dislocated	_	_	그/npp+는/jxt
+2	뽀족한	뽀족+하+ㄴ	VERB	_	3	amod	_	_	뽀족/ncps+하/xsm+ㄴ/etm
+3	부분의	부분+의	NOUN	_	4	nmod	_	_	부분/ncn+의/jcm
+4	껍질을	껍질+을	NOUN	_	5	obj	_	_	껍질/ncn+을/jco
+5	깨뜨려서	깨뜨리+어서	SCONJ	_	10	ccomp	_	_	깨뜨리/pvg+어서/ecs
+6	달걀을	달걀+을	NOUN	_	10	obj	_	_	달걀/ncn+을/jco
+7	테이블	테이블	NOUN	_	8	compound	_	_	테이블/ncn
+8	위에	위+에	ADV	_	10	obl	_	_	위/ncn+에/jca
+9	마난히	마난히	ADV	_	10	advmod	_	_	마난히/mag
+10	세워	세우+어	VERB	_	0	root	_	_	세우/pvg+어/ecx
+11	놓았었다	놓+았었+다	AUX	_	10	aux	_	_	놓/px+았었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그때 그는 말할 것도 없이 달걀의 모양을 바꿔 놓아 버렸던 셈이다 .
+1	그때	그때	ADV	_	8	advmod	_	_	그때/mad
+2	그는	그+는	PRON	_	8	dislocated	_	_	그/npp+는/jxt
+3	말할	말하+ㄹ	VERB	_	4	acl	_	_	말하/pvg+ㄹ/etm
+4	것도	것+도	ADV	_	5	advcl	_	_	것/nbn+도/jxc
+5	없이	없+이	SCONJ	_	8	xcomp	_	_	없/paa+이/ecs
+6	달걀의	달걀+의	NOUN	_	7	nmod	_	_	달걀/ncn+의/jcm
+7	모양을	모양+을	NOUN	_	8	obj	_	_	모양/ncn+을/jco
+8	바꿔	바꾸+어	VERB	_	0	root	_	_	바꾸/pvg+어/ecx
+9	놓아	놓+아	AUX	_	8	aux	_	_	놓/px+아/ecx
+10	버렸던	버리+었더+ㄴ	AUX	_	8	aux	_	_	버리/px+었더/ep+ㄴ/etm
+11	셈이다	셈+이+다	VERB	_	8	aux	_	_	셈/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 날달걀이 되면 이런 흉내는 낼 수 없다 .
+1	날달걀이	날달걀+이	NOUN	_	2	csubj	_	_	날달걀/ncn+이/jcc
+2	되면	되+면	SCONJ	_	5	ccomp	_	_	되/pvg+면/ecs
+3	이런	이런	DET	_	4	det	_	_	이런/mmd
+4	흉내는	흉내+는	NOUN	_	5	dislocated	_	_	흉내/ncn+는/jxt
+5	낼	내+ㄹ	VERB	_	0	root	_	_	내/pvg+ㄹ/etm
+6	수	수	NOUN	_	7	fixed	_	_	수/nbn
+7	없다	없+다	ADJ	_	5	aux	_	_	없/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 날달걀은 아마 당신도 알다시피 잘 돌아가지 않는다 .
+1	날달걀은	날달걀+은	NOUN	_	6	dislocated	_	_	날달걀/ncn+은/jxt
+2	아마	아마	ADV	_	4	advmod	_	_	아마/mag
+3	당신도	당신+도	ADV	_	4	advcl	_	_	당신/npp+도/jxc
+4	알다시피	알+다시피	SCONJ	_	6	ccomp	_	_	알/pvg+다시피/ecs
+5	잘	잘	ADV	_	6	advmod	_	_	잘/mag
+6	돌아가지	돌+아+가+지	AUX	_	0	root	_	_	돌/pvg+아/ecx+가/px+지/ecx
+7	않는다	않+는다	AUX	_	6	aux	_	_	않/px+는다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 껍질을 깨지 않고 삶은 달걀과 날달걀을 어김없이 식별하는 데는 이 방법을 이용하면 된다 .
+1	껍질을	껍질+을	NOUN	_	2	obj	_	_	껍질/ncn+을/jco
+2	깨지	깨+지	VERB	_	8	conj	_	_	깨/pvg+지/ecx
+3	않고	않+고	CCONJ	_	2	aux	_	_	않/px+고/ecc
+4	삶은	삶+은	VERB	_	5	acl	_	_	삶/pvg+은/etm
+5	달걀과	달걀+과	CCONJ	_	6	conj	_	_	달걀/ncn+과/jcj
+6	날달걀을	날달걀+을	NOUN	_	8	obj	_	_	날달걀/ncn+을/jco
+7	어김없이	어김없이	ADV	_	8	advmod	_	_	어김없이/mag
+8	식별하는	식별+하+는	VERB	_	9	acl	_	_	식별/ncpa+하/xsv+는/etm
+9	데는	데+는	NOUN	_	12	dislocated	_	_	데/nbn+는/jxt
+10	이	이	DET	_	11	det	_	_	이/mmd
+11	방법을	방법+을	NOUN	_	12	obj	_	_	방법/ncn+을/jco
+12	이용하면	이용+하+면	SCONJ	_	13	ccomp	_	_	이용/ncpa+하/xsv+면/ecs
+13	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 날달걀을 세우는 다른 방법을 찾지 않으면 안 된다 .
+1	날달걀을	날달걀+을	NOUN	_	2	obj	_	_	날달걀/ncn+을/jco
+2	세우는	세우+는	VERB	_	4	acl	_	_	세우/pvg+는/etm
+3	다른	다른	ADJ	_	4	amod	_	_	다른/mma
+4	방법을	방법+을	NOUN	_	5	obj	_	_	방법/ncn+을/jco
+5	찾지	찾+지	VERB	_	8	ccomp	_	_	찾/pvg+지/ecx
+6	않으면	않+으면	SCONJ	_	5	aux	_	_	않/px+으면/ecs
+7	안	안	ADV	_	8	advmod	_	_	안/mag
+8	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그런 방법이 있다 .
+1	그런	그런	DET	_	2	det	_	_	그런/mmd
+2	방법이	방법+이	NOUN	_	3	nsubj	_	_	방법/ncn+이/jcs
+3	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 먼저 날달걀을 몇 번 세게 흔든다 .
+1	먼저	먼저	ADV	_	6	advmod	_	_	먼저/mag
+2	날달걀을	날달걀+을	NOUN	_	6	obj	_	_	날달걀/ncn+을/jco
+3	몇	몇	ADJ	_	4	amod	_	_	몇/mma
+4	번	번	NOUN	_	6	advmod	_	_	번/nbu
+5	세게	세+게	SCONJ	_	6	xcomp	_	_	세/paa+게/ecs
+6	흔든다	흔들+ㄴ다	VERB	_	0	root	_	_	흔들/pvg+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 거기서 조용히 손을 떼면 날달걀은 서 있게 된다 .
+1	거기서	거기+서	ADV	_	4	advcl	_	_	거기/npd+서/jca
+2	조용히	조용히	ADV	_	4	advmod	_	_	조용히/mag
+3	손을	손+을	NOUN	_	4	obj	_	_	손/ncn+을/jco
+4	떼면	떼+면	SCONJ	_	6	ccomp	_	_	떼/pvg+면/ecs
+5	날달걀은	날달걀+은	NOUN	_	6	dislocated	_	_	날달걀/ncn+은/jxt
+6	서	서+어	VERB	_	0	root	_	_	서/pvg+어/ecx
+7	있게	있+게	AUX	_	6	aux	_	_	있/px+게/ecx
+8	된다	되+ㄴ다	AUX	_	6	aux	_	_	되/px+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이런 장치는 꽤나 안정성이 좋아 , 조심해서만 하면 병을 기울여서 균형이 유지된다 .
+1	이런	이런	DET	_	2	det	_	_	이런/mmd
+2	장치는	장치+는	NOUN	_	5	dislocated	_	_	장치/ncpa+는/jxt
+3	꽤나	꽤+나	ADV	_	5	advmod	_	_	꽤/mag+나/jxc
+4	안정성이	안정성+이	NOUN	_	5	nsubj	_	_	안정성/ncn+이/jcs
+5	좋아	좋+아	SCONJ	_	8	xcomp	_	_	좋/paa+아/ecs
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	조심해서만	조심+하+어서+만	ADV	_	8	ccomp	_	_	조심/ncpa+하/xsv+어서/ecs+만/jxc
+8	하면	하+면	SCONJ	_	10	ccomp	_	_	하/pvg+면/ecs
+9	병을	병+을	NOUN	_	10	obj	_	_	병/ncn+을/jco
+10	기울여서	기울이+어서	SCONJ	_	12	ccomp	_	_	기울이/pvg+어서/ecs
+11	균형이	균형+이	NOUN	_	12	nsubj	_	_	균형/ncn+이/jcs
+12	유지된다	유지+되+ㄴ다	VERB	_	0	root	_	_	유지/ncpa+되/xsv+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 여기 걸린 그림을 주목해 보자 .
+1	여기	여기	ADV	_	2	advmod	_	_	여기/mad
+2	걸린	걸리+ㄴ	VERB	_	3	acl	_	_	걸리/pvg+ㄴ/etm
+3	그림을	그림+을	NOUN	_	4	obj	_	_	그림/ncn+을/jco
+4	주목해	주목+하+어	VERB	_	0	root	_	_	주목/ncpa+하/xsv+어/ecx
+5	보자	보+자	AUX	_	4	aux	_	_	보/px+자/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 우선 생각해보자 .
+1	우선	우선	ADV	_	2	advmod	_	_	우선/mag
+2	생각해보자	생각+하+어+보+자	AUX	_	0	root	_	_	생각/ncpa+하/xsv+어/ecx+보/px+자/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 이것을 다른 예로 생각해 보자 .
+1	이것을	이것+을	PRON	_	4	obj	_	_	이것/npd+을/jco
+2	다른	다른	ADJ	_	3	amod	_	_	다른/mma
+3	예로	예+로	ADV	_	4	advcl	_	_	예/ncn+로/jca
+4	생각해	생각+하+어	VERB	_	0	root	_	_	생각/ncpa+하/xsv+어/ecx
+5	보자	보+자	AUX	_	4	aux	_	_	보/px+자/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 두 청년이 배 갑판에서 공을 던지고 있다 .
+1	두	두	NUM	_	2	nummod	_	_	두/nnc
+2	청년이	청년+이	NOUN	_	6	nsubj	_	_	청년/ncn+이/jcs
+3	배	배	NOUN	_	4	compound	_	_	배/ncn
+4	갑판에서	갑판+에서	ADV	_	6	advcl	_	_	갑판/ncn+에서/jca
+5	공을	공+을	NOUN	_	6	obj	_	_	공/ncn+을/jco
+6	던지고	던지+고	VERB	_	0	root	_	_	던지/pvg+고/ecx
+7	있다	있+다	AUX	_	6	aux	_	_	있/px+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 배의 속도는 던지는 사람에게도 공에게도 똑같이 전달된다 .
+1	배의	배+의	NOUN	_	2	nmod	_	_	배/ncn+의/jcm
+2	속도는	속도+는	NOUN	_	7	dislocated	_	_	속도/ncn+는/jxt
+3	던지는	던지+는	VERB	_	4	acl	_	_	던지/pvg+는/etm
+4	사람에게도	사람+에게+도	ADV	_	7	advcl	_	_	사람/ncn+에게/jca+도/jxc
+5	공에게도	공+에게+도	ADV	_	7	advcl	_	_	공/ncn+에게/jca+도/jxc
+6	똑같이	똑같이	ADV	_	7	advmod	_	_	똑같이/mag
+7	전달된다	전달+되+ㄴ다	VERB	_	0	root	_	_	전달/ncpa+되/xsv+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 배 위에서 결투하고 있는 경우도 같다 .
+1	배	배	NOUN	_	2	compound	_	_	배/ncn
+2	위에서	위+에서	ADV	_	3	advcl	_	_	위/ncn+에서/jca
+3	결투하고	결투+하+고	VERB	_	5	acl	_	_	결투/ncpa+하/xsv+고/ecx
+4	있는	있+는	AUX	_	3	aux	_	_	있/px+는/etm
+5	경우도	경우+도	ADV	_	6	advcl	_	_	경우/ncn+도/jxc
+6	같다	같+다	ADJ	_	0	root	_	_	같/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 양산은 마치 그런 선물이 싫다는 듯이 행동한다 .
+1	양산은	양산+은	NOUN	_	7	dislocated	_	_	양산/ncn+은/jxt
+2	마치	마치	ADV	_	5	advmod	_	_	마치/mag
+3	그런	그런	DET	_	4	det	_	_	그런/mmd
+4	선물이	선물+이	NOUN	_	5	nsubj	_	_	선물/ncpa+이/jcs
+5	싫다는	싫+다는	ADJ	_	6	amod	_	_	싫/paa+다는/etm
+6	듯이	듯이	ADV	_	7	advmod	_	_	듯이/mag
+7	행동한다	행동+하+ㄴ다	VERB	_	0	root	_	_	행동/ncpa+하/xsv+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 즉 공이나 종이뭉치는 스스로 양산 가장자리까지 기어올라 와서는 거기서 곧장 밖으로 튕겨 나간다 .
+1	즉	즉	CCONJ	_	13	cc	_	_	즉/maj
+2	공이나	공+이나	CCONJ	_	3	conj	_	_	공/ncn+이나/jcj
+3	종이뭉치는	종이+뭉치+는	NOUN	_	13	dislocated	_	_	종이/ncn+뭉치/ncn+는/jxt
+4	스스로	스스로	ADV	_	8	advmod	_	_	스스로/mag
+5	양산	양산	NOUN	_	6	compound	_	_	양산/ncn
+6	가장자리까지	가장자리+까지	ADV	_	8	advcl	_	_	가장자리/ncn+까지/jxc
+7	기어올라	기어오르+아	SCONJ	_	8	ccomp	_	_	기어오르/pvg+아/ecs
+8	와서는	오+아서+는	NOUN	_	13	ccomp	_	_	오/pvg+아서/ecs+는/jxt
+9	거기서	거기+서	ADV	_	13	advcl	_	_	거기/npd+서/jca
+10	곧장	곧장	ADV	_	13	advmod	_	_	곧장/mag
+11	밖으로	밖+으로	ADV	_	13	advcl	_	_	밖/ncn+으로/jca
+12	튕겨	튕기+어	SCONJ	_	13	ccomp	_	_	튕기/pvg+어/ecs
+13	나간다	나가+ㄴ다	VERB	_	0	root	_	_	나가/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 물체가 원운동할 경우에는 그 물체도 원궤도로부터 튀어나가지 않게 하려면 늘 중심으로 향하는 힘이 그 물체에 작용하고 있어야 한다 .
+1	물체가	물체+가	NOUN	_	2	nsubj	_	_	물체/ncn+가/jcs
+2	원운동할	원운동+하+ㄹ	VERB	_	3	acl	_	_	원운동/ncpa+하/xsv+ㄹ/etm
+3	경우에는	경우+에+는	NOUN	_	16	dislocated	_	_	경우/ncn+에/jca+는/jxt
+4	그	그	DET	_	5	det	_	_	그/mmd
+5	물체도	물체+도	ADV	_	7	advcl	_	_	물체/ncn+도/jxc
+6	원궤도로부터	원궤도+로+부터	ADV	_	7	advcl	_	_	원궤도/ncn+로/jca+부터/jxc
+7	튀어나가지	튀어나가+지	VERB	_	16	ccomp	_	_	튀어나가/pvg+지/ecx
+8	않게	않+게	AUX	_	7	aux	_	_	않/px+게/ecx
+9	하려면	하+려면	SCONJ	_	7	aux	_	_	하/px+려면/ecs
+10	늘	늘	ADV	_	12	advmod	_	_	늘/mag
+11	중심으로	중심+으로	ADV	_	12	advcl	_	_	중심/ncn+으로/jca
+12	향하는	향하+는	VERB	_	13	acl	_	_	향하/pvg+는/etm
+13	힘이	힘+이	NOUN	_	16	nsubj	_	_	힘/ncn+이/jcs
+14	그	그	DET	_	15	det	_	_	그/mmd
+15	물체에	물체+에	ADV	_	16	obl	_	_	물체/ncn+에/jca
+16	작용하고	작용+하+고	VERB	_	0	root	_	_	작용/ncpa+하/xsv+고/ecx
+17	있어야	있+어야	AUX	_	16	aux	_	_	있/px+어야/ecx
+18	한다	하+ㄴ다	AUX	_	16	aux	_	_	하/px+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이때의 힘을 구심력이라 하고 , 이 힘과 동등하고 방향이 반대인 힘을 가정하여 원심력이라 일컫고 있다 .
+1	이때의	이때+의	PRON	_	2	nmod	_	_	이때/npd+의/jcm
+2	힘을	힘+을	NOUN	_	4	obj	_	_	힘/ncn+을/jco
+3	구심력이라	구심력+이+라	SCONJ	_	4	ccomp	_	_	구심력/ncn+이/jp+라/ecs
+4	하고	하+고	CCONJ	_	14	conj	_	_	하/pvg+고/ecc
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	이	이	DET	_	7	det	_	_	이/mmd
+7	힘과	힘+과	CCONJ	_	8	conj	_	_	힘/ncn+과/jct
+8	동등하고	동등+하+고	CCONJ	_	10	conj	_	_	동등/ncps+하/xsm+고/ecc
+9	방향이	방향+이	NOUN	_	10	nsubj	_	_	방향/ncn+이/jcs
+10	반대인	반대+이+ㄴ	VERB	_	11	acl	_	_	반대/ncpa+이/jp+ㄴ/etm
+11	힘을	힘+을	NOUN	_	12	obj	_	_	힘/ncn+을/jco
+12	가정하여	가정+하+어	SCONJ	_	13	ccomp	_	_	가정/ncpa+하/xsv+어/ecs
+13	원심력이라	원심력+이+라	SCONJ	_	14	ccomp	_	_	원심력/ncn+이/jp+라/ecs
+14	일컫고	일컫+고	VERB	_	0	root	_	_	일컫/pvg+고/ecx
+15	있다	있+다	AUX	_	14	aux	_	_	있/px+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이 원심력은 물체가 원형 궤도를 따라 운동할 때는 늘 나타나는 현상이다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	원심력은	원심력+은	NOUN	_	11	dislocated	_	_	원심력/ncn+은/jxt
+3	물체가	물체+가	NOUN	_	7	nsubj	_	_	물체/ncn+가/jcs
+4	원형	원형	NOUN	_	5	compound	_	_	원형/ncn
+5	궤도를	궤도+를	NOUN	_	6	obj	_	_	궤도/ncn+를/jco
+6	따라	따르+아	SCONJ	_	7	ccomp	_	_	따르/pvg+아/ecs
+7	운동할	운동+하+ㄹ	VERB	_	8	acl	_	_	운동/ncpa+하/xsv+ㄹ/etm
+8	때는	때+는	NOUN	_	10	dislocated	_	_	때/ncn+는/jxt
+9	늘	늘	ADV	_	10	advmod	_	_	늘/mag
+10	나타나는	나타나+는	VERB	_	11	ccomp	_	_	나타나/pvg+는/etm
+11	현상이다	현상+이+다	VERB	_	0	root	_	_	현상/ncn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 돌맹이를 긴 끈에 비끌어매어 돌려보자 .
+1	돌맹이를	돌맹이+를	NOUN	_	5	obj	_	_	돌맹이/ncn+를/jco
+2	긴	길+ㄴ	ADJ	_	3	amod	_	_	길/paa+ㄴ/etm
+3	끈에	끈+에	ADV	_	4	obl	_	_	끈/ncn+에/jca
+4	비끌어매어	비끌어매+어	SCONJ	_	5	ccomp	_	_	비끌어매/pvg+어/ecs
+5	돌려보자	돌리+어+보+자	AUX	_	0	root	_	_	돌리/pvg+어/ecx+보/px+자/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 철도차량이 선로의 커브를 통과할 때 승객들은 원심력을 직접 몸으로 느낀다 .
+1	철도차량이	철도+차량+이	NOUN	_	4	nsubj	_	_	철도/ncn+차량/ncn+이/jcs
+2	선로의	선로+의	NOUN	_	3	nmod	_	_	선로/ncn+의/jcm
+3	커브를	커브+를	NOUN	_	4	obj	_	_	커브/ncn+를/jco
+4	통과할	통과+하+ㄹ	VERB	_	5	acl	_	_	통과/ncpa+하/xsv+ㄹ/etm
+5	때	때	NOUN	_	10	advmod	_	_	때/ncn
+6	승객들은	승객+들+은	NOUN	_	10	dislocated	_	_	승객/ncn+들/xsn+은/jxt
+7	원심력을	원심력+을	NOUN	_	10	obj	_	_	원심력/ncn+을/jco
+8	직접	직접	ADV	_	10	advmod	_	_	직접/mag
+9	몸으로	몸+으로	ADV	_	10	advcl	_	_	몸/ncn+으로/jca
+10	느낀다	느끼+ㄴ다	VERB	_	0	root	_	_	느끼/pvg+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이 힘은 차량 안의 승객들을 커브 바깥쪽으로 밀어붙인다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	힘은	힘+은	NOUN	_	8	dislocated	_	_	힘/ncn+은/jxt
+3	차량	차량	NOUN	_	4	compound	_	_	차량/ncn
+4	안의	안+의	NOUN	_	5	nmod	_	_	안/ncn+의/jcm
+5	승객들을	승객+들+을	NOUN	_	8	obj	_	_	승객/ncn+들/xsn+을/jco
+6	커브	커브	NOUN	_	7	compound	_	_	커브/ncn
+7	바깥쪽으로	바깥쪽+으로	ADV	_	8	advcl	_	_	바깥쪽/ncn+으로/jca
+8	밀어붙인다	밀어붙이+ㄴ다	VERB	_	0	root	_	_	밀어붙이/pvg+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 커브가 있는 곳에서는 바깥쪽 선로가 안쪽 선로보다 높게 만들어져 있기 때문에 차량은 커브가 있는 곳에서 안쪽으로 기울어진다 .
+1	커브가	커브+가	NOUN	_	2	nsubj	_	_	커브/ncn+가/jcs
+2	있는	있+는	ADJ	_	3	amod	_	_	있/paa+는/etm
+3	곳에서는	곳+에서+는	NOUN	_	9	dislocated	_	_	곳/ncn+에서/jca+는/jxt
+4	바깥쪽	바깥쪽	NOUN	_	5	compound	_	_	바깥쪽/ncn
+5	선로가	선로+가	NOUN	_	9	nsubj	_	_	선로/ncn+가/jcs
+6	안쪽	안쪽	NOUN	_	7	compound	_	_	안쪽/ncn
+7	선로보다	선로+보다	ADV	_	9	advcl	_	_	선로/ncn+보다/jca
+8	높게	높+게	SCONJ	_	9	xcomp	_	_	높/paa+게/ecs
+9	만들어져	만들+어+지+어	AUX	_	11	dep	_	_	만들/pvg+어/ecx+지/px+어/ecx
+10	있기	있+기	AUX	_	9	aux	_	_	있/px+기/etn
+11	때문에	때문+에	ADV	_	17	obl	_	_	때문/nbn+에/jca
+12	차량은	차량+은	NOUN	_	17	dislocated	_	_	차량/ncn+은/jxt
+13	커브가	커브+가	NOUN	_	14	nsubj	_	_	커브/ncn+가/jcs
+14	있는	있+는	ADJ	_	15	amod	_	_	있/paa+는/etm
+15	곳에서	곳+에서	ADV	_	17	advcl	_	_	곳/ncn+에서/jca
+16	안쪽으로	안쪽+으로	ADV	_	17	advcl	_	_	안쪽/ncn+으로/jca
+17	기울어진다	기울+어+지+ㄴ다	AUX	_	0	root	_	_	기울/pvg+어/ecx+지/px+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 옆으로 기울어진 차량이 똑바로 있는 것보다 안정성이 높다 .
+1	옆으로	옆+으로	ADV	_	2	advcl	_	_	옆/ncn+으로/jca
+2	기울어진	기울+어+지+ㄴ	AUX	_	3	acl	_	_	기울/pvg+어/ecx+지/px+ㄴ/etm
+3	차량이	차량+이	NOUN	_	8	nsubj	_	_	차량/ncn+이/jcs
+4	똑바로	똑바로	ADV	_	5	advmod	_	_	똑바로/mag
+5	있는	있+는	ADJ	_	6	amod	_	_	있/paa+는/etm
+6	것보다	것+보다	ADV	_	8	advcl	_	_	것/nbn+보다/jca
+7	안정성이	안정성+이	NOUN	_	8	nsubj	_	_	안정성/ncn+이/jcs
+8	높다	높+다	ADJ	_	0	root	_	_	높/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이 주행로가 급커브를 이루고 있는 곳에서는 특히 중심을 향해서 극단히 비스듬하게 만들어져 있는 것을 볼 수 있다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	주행로가	주행로+가	NOUN	_	4	nsubj	_	_	주행로/ncn+가/jcs
+3	급커브를	급커브+를	NOUN	_	4	obj	_	_	급커브/ncn+를/jco
+4	이루고	이루+고	VERB	_	6	acl	_	_	이루/pvg+고/ecx
+5	있는	있+는	AUX	_	4	aux	_	_	있/px+는/etm
+6	곳에서는	곳+에서+는	NOUN	_	12	dislocated	_	_	곳/ncn+에서/jca+는/jxt
+7	특히	특히	ADV	_	9	advmod	_	_	특히/mag
+8	중심을	중심+을	NOUN	_	9	obj	_	_	중심/ncn+을/jco
+9	향해서	향하+어서	SCONJ	_	12	ccomp	_	_	향하/pvg+어서/ecs
+10	극단히	극단히	ADV	_	12	advmod	_	_	극단히/mag
+11	비스듬하게	비스듬+하+게	SCONJ	_	12	xcomp	_	_	비스듬/ncps+하/xsm+게/ecs
+12	만들어져	만들+어+지+어	AUX	_	14	acl	_	_	만들/pvg+어/ecx+지/px+어/ecx
+13	있는	있+는	AUX	_	12	aux	_	_	있/px+는/etm
+14	것을	것+을	NOUN	_	15	obj	_	_	것/nbn+을/jco
+15	볼	보+ㄹ	VERB	_	0	root	_	_	보/pvg+ㄹ/etm
+16	수	수	NOUN	_	17	fixed	_	_	수/nbn
+17	있다	있+다	ADJ	_	15	aux	_	_	있/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 자전거는 크게 기울어진 자세로 그 커브를 따라 달려가는데도 엎어지지 않을 뿐더러 이런 자세일 때가 가장 안정성이 있다 .
+1	자전거는	자전거+는	NOUN	_	17	dislocated	_	_	자전거/ncn+는/jxt
+2	크게	크+게	SCONJ	_	3	xcomp	_	_	크/paa+게/ecs
+3	기울어진	기울+어+지+ㄴ	AUX	_	4	acl	_	_	기울/pvg+어/ecx+지/px+ㄴ/etm
+4	자세로	자세+로	ADV	_	8	advcl	_	_	자세/ncn+로/jca
+5	그	그	DET	_	6	det	_	_	그/mmd
+6	커브를	커브+를	NOUN	_	8	obj	_	_	커브/ncn+를/jco
+7	따라	따르+아	SCONJ	_	8	ccomp	_	_	따르/pvg+아/ecs
+8	달려가는데도	달려가+는데+도	ADV	_	9	ccomp	_	_	달려가/pvg+는데/ecs+도/jxc
+9	엎어지지	엎어지+지	VERB	_	11	acl	_	_	엎어지/pvg+지/ecx
+10	않을	않+ㄹ	AUX	_	9	aux	_	_	않/px+ㄹ/etm
+11	뿐더러	뿐+더러	ADV	_	17	advcl	_	_	뿐/nbn+더러/jca
+12	이런	이런	DET	_	13	det	_	_	이런/mmd
+13	자세일	자세+이+ㄹ	VERB	_	14	acl	_	_	자세/ncpa+이/jp+ㄹ/etm
+14	때가	때+가	NOUN	_	17	nsubj	_	_	때/ncn+가/jcs
+15	가장	가장	ADV	_	17	advmod	_	_	가장/mag
+16	안정성이	안정성+이	NOUN	_	17	nsubj	_	_	안정성/ncn+이/jcs
+17	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 서커스에 있어서는 자전거를 탄 사람이 급경사가 진 원형의 판자면을 달려감으로써 관객들의 마음을 섬뜩하게 만든다 .
+1	서커스에	서커스+에	ADV	_	2	obl	_	_	서커스/ncn+에/jca
+2	있어서는	있+어서+는	NOUN	_	14	amod	_	_	있/paa+어서/ecs+는/jxt
+3	자전거를	자전거+를	NOUN	_	4	obj	_	_	자전거/ncn+를/jco
+4	탄	타+ㄴ	VERB	_	5	acl	_	_	타/pvg+ㄴ/etm
+5	사람이	사람+이	NOUN	_	10	nsubj	_	_	사람/ncn+이/jcs
+6	급경사가	급경사+가	NOUN	_	7	nsubj	_	_	급경사/ncn+가/jcs
+7	진	지+ㄴ	VERB	_	9	acl	_	_	지/pvg+ㄴ/etm
+8	원형의	원형+의	NOUN	_	9	nmod	_	_	원형/ncn+의/jcm
+9	판자면을	판자면+을	NOUN	_	10	obj	_	_	판자면/ncn+을/jco
+10	달려감으로써	달리+어+가+ㅁ+으로써	ADV	_	14	advcl	_	_	달리/pvg+어/ecx+가/px+ㅁ/etn+으로써/jca
+11	관객들의	관객+들+의	NOUN	_	12	nmod	_	_	관객/ncn+들/xsn+의/jcm
+12	마음을	마음+을	NOUN	_	14	obj	_	_	마음/ncn+을/jco
+13	섬뜩하게	섬뜩+하+게	SCONJ	_	14	xcomp	_	_	섬뜩/ncps+하/xsm+게/ecs
+14	만든다	만들+ㄴ다	VERB	_	0	root	_	_	만들/pvg+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 당신도 이미 알고 있듯이 이것은 당연한 일이다 .
+1	당신도	당신+도	ADV	_	3	advcl	_	_	당신/npp+도/jxc
+2	이미	이미	ADV	_	3	advmod	_	_	이미/mag
+3	알고	알+고	VERB	_	6	conj	_	_	알/pvg+고/ecx
+4	있듯이	있+듯이	SCONJ	_	3	aux	_	_	있/px+듯이/ecs
+5	이것은	이것+은	PRON	_	6	dislocated	_	_	이것/npd+은/jxt
+6	당연한	당연+하+ㄴ	VERB	_	7	amod	_	_	당연/ncps+하/xsm+ㄴ/etm
+7	일이다	일+이+다	VERB	_	0	root	_	_	일/ncpa+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 같은 이유로 해서 기수와 말은 급커브인 곳에서는 안쪽으로 기울어진다 .
+1	같은	같+ㄴ	ADJ	_	2	amod	_	_	같/paa+ㄴ/etm
+2	이유로	이유+로	ADV	_	3	advcl	_	_	이유/ncn+로/jca
+3	해서	하+어서	SCONJ	_	9	ccomp	_	_	하/pvg+어서/ecs
+4	기수와	기수+와	CCONJ	_	5	conj	_	_	기수/ncn+와/jcj
+5	말은	말+은	NOUN	_	9	dislocated	_	_	말/ncn+은/jxt
+6	급커브인	급커브+이+ㄴ	VERB	_	7	acl	_	_	급커브/ncn+이/jp+ㄴ/etm
+7	곳에서는	곳+에서+는	NOUN	_	9	dislocated	_	_	곳/ncn+에서/jca+는/jxt
+8	안쪽으로	안쪽+으로	ADV	_	9	advcl	_	_	안쪽/ncn+으로/jca
+9	기울어진다	기울+어+지+ㄴ다	AUX	_	0	root	_	_	기울/pvg+어/ecx+지/px+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이런 사소한 현상에서부터 더 큰 현상으로 눈을 돌려보자 .
+1	이런	이런	DET	_	3	det	_	_	이런/mmd
+2	사소한	사소+하+ㄴ	VERB	_	3	amod	_	_	사소/ncps+하/xsm+ㄴ/etm
+3	현상에서부터	현상+에서+부터	ADV	_	8	advcl	_	_	현상/ncn+에서/jca+부터/jxc
+4	더	더	ADV	_	5	advmod	_	_	더/mag
+5	큰	크+ㄴ	ADJ	_	6	amod	_	_	크/paa+ㄴ/etm
+6	현상으로	현상+으로	ADV	_	8	advcl	_	_	현상/ncn+으로/jca
+7	눈을	눈+을	NOUN	_	8	obj	_	_	눈/ncn+을/jco
+8	돌려보자	돌리+어+보+자	AUX	_	0	root	_	_	돌리/pvg+어/ecx+보/px+자/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 우리가 살고 있는 지구는 회전하고 있는 물체이다 .
+1	우리가	우리+가	PRON	_	2	nsubj	_	_	우리/npp+가/jcs
+2	살고	살+고	VERB	_	4	acl	_	_	살/pvg+고/ecx
+3	있는	있+는	AUX	_	2	aux	_	_	있/px+는/etm
+4	지구는	지구+는	NOUN	_	5	dislocated	_	_	지구/ncn+는/jxt
+5	회전하고	회전+하+고	VERB	_	7	ccomp	_	_	회전/ncpa+하/xsv+고/ecx
+6	있는	있+는	AUX	_	5	aux	_	_	있/px+는/etm
+7	물체이다	물체+이+다	VERB	_	0	root	_	_	물체/ncn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그 차이는 물론 근소한 것이지마는 물체가 무거우면 무거울수록 그만큼 크게 차이나게 된다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	차이는	차이+는	NOUN	_	4	dislocated	_	_	차이/ncn+는/jxt
+3	물론	물론	ADV	_	4	advmod	_	_	물론/mag
+4	근소한	근소+하+ㄴ	VERB	_	8	amod	_	_	근소/ncps+하/xsm+ㄴ/etm
+5	것이지마는	것+이+지마는	SCONJ	_	4	aux	_	_	것/nbn+이/jp+지마는/ecs
+6	물체가	물체+가	NOUN	_	8	nsubj	_	_	물체/ncn+가/jcs
+7	무거우면	무겁+으면	SCONJ	_	8	xcomp	_	_	무겁/paa+으면/ecs
+8	무거울수록	무겁+ㄹ수록	SCONJ	_	11	xcomp	_	_	무겁/paa+ㄹ수록/ecs
+9	그만큼	그+만큼	ADV	_	11	advcl	_	_	그/npd+만큼/jca
+10	크게	크+게	SCONJ	_	11	xcomp	_	_	크/paa+게/ecs
+11	차이나게	차이나+게	VERB	_	0	root	_	_	차이나/pvg+게/ecx
+12	된다	되+ㄴ다	AUX	_	11	aux	_	_	되/px+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그렇기 때문에 물체는 지구의 회전 때문에 근소하게나마 가벼워지는 것이다 .
+1	그렇기	그렇+기	VERB	_	2	nmod	_	_	그렇/pad+기/etn
+2	때문에	때문+에	ADV	_	8	obl	_	_	때문/nbn+에/jca
+3	물체는	물체+는	NOUN	_	8	dislocated	_	_	물체/ncn+는/jxt
+4	지구의	지구+의	NOUN	_	5	nmod	_	_	지구/ncn+의/jcm
+5	회전	회전	NOUN	_	6	compound	_	_	회전/ncpa
+6	때문에	때문+에	ADV	_	8	obl	_	_	때문/nbn+에/jca
+7	근소하게나마	근소+하+게+나마	ADV	_	8	amod	_	_	근소/ncps+하/xsm+게/ecs+나마/jxc
+8	가벼워지는	가볍+어+지+는	AUX	_	0	root	_	_	가볍/paa+어/ecx+지/px+는/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 즉 물체는 무중량이 되어버리는 셈이다 .
+1	즉	즉	CCONJ	_	4	cc	_	_	즉/maj
+2	물체는	물체+는	NOUN	_	4	dislocated	_	_	물체/ncn+는/jxt
+3	무중량이	무중량+이	NOUN	_	4	csubj	_	_	무중량/ncn+이/jcc
+4	되어버리는	되+어+버리+는	AUX	_	0	root	_	_	되/pvg+어/ecx+버리/px+는/etm
+5	셈이다	셈+이+다	VERB	_	4	aux	_	_	셈/nbn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 자 , 이것이 무엇을 의미하는가를 한 번 생각해 보자 .
+1	자	자	INTJ	_	8	discourse	_	_	자/ii
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	이것이	이것+이	PRON	_	8	nsubj	_	_	이것/npd+이/jcs
+4	무엇을	무엇+을	PRON	_	5	obj	_	_	무엇/npd+을/jco
+5	의미하는가를	의미+하+는가+를	NOUN	_	8	obj	_	_	의미/ncpa+하/xsv+는가/ef+를/jco
+6	한	한	NUM	_	7	nummod	_	_	한/nnc
+7	번	번	NOUN	_	8	compound	_	_	번/nbu
+8	생각해	생각+하+어	VERB	_	0	root	_	_	생각/ncpa+하/xsv+어/ecx
+9	보자	보+자	AUX	_	8	aux	_	_	보/px+자/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 기관차 , 바위덩이 , 군함 등을 , 당신은 마치 작은 새의 깃털을 주워 올리듯이 들어올려 버릴 것이다 .
+1	기관차	기관차	NOUN	_	3	conj	_	_	기관차/ncn
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	바위덩이	바위덩이	NOUN	_	5	conj	_	_	바위덩이/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	군함	군함	NOUN	_	6	compound	_	_	군함/ncn
+6	등을	등+을	NOUN	_	15	advmod	_	_	등/nbn+을/jco
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	당신은	당신+은	PRON	_	15	dislocated	_	_	당신/npp+은/jxt
+9	마치	마치	ADV	_	15	advmod	_	_	마치/mag
+10	작은	작+ㄴ	ADJ	_	11	amod	_	_	작/paa+ㄴ/etm
+11	새의	새+의	NOUN	_	12	nmod	_	_	새/ncn+의/jcm
+12	깃털을	깃털+을	NOUN	_	15	obj	_	_	깃털/ncn+을/jco
+13	주워	줍+어	SCONJ	_	14	ccomp	_	_	줍/pvg+어/ecs
+14	올리듯이	올리+듯이	SCONJ	_	15	ccomp	_	_	올리/pvg+듯이/ecs
+15	들어올려	들어올리+어	VERB	_	0	root	_	_	들어올리/pvg+어/ecx
+16	버릴	버리+ㄹ	AUX	_	15	aux	_	_	버리/px+ㄹ/etm
+17	것이다	것+이+다	VERB	_	15	aux	_	_	것/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그것들은 아무 것도 찌그러뜨려 놓지 않을 터이니까 말이다 .
+1	그것들은	그것+들+은	PRON	_	4	dislocated	_	_	그것/npd+들/xsn+은/jxt
+2	아무	아무	DET	_	3	det	_	_	아무/mmd
+3	것도	것+도	ADV	_	4	advcl	_	_	것/nbn+도/jxc
+4	찌그러뜨려	찌그러뜨리+어	VERB	_	7	ccomp	_	_	찌그러뜨리/pvg+어/ecx
+5	놓지	놓+지	AUX	_	4	aux	_	_	놓/px+지/ecx
+6	않을	않+ㄹ	AUX	_	4	aux	_	_	않/px+ㄹ/etm
+7	터이니까	터+이+니까	SCONJ	_	0	root	_	_	터/nbn+이/jp+니까/ecs
+8	말이다	말이다	INTJ	_	7	discourse	_	_	말이다/ii
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이것은 정말 기묘한 세계일 것이다 .
+1	이것은	이것+은	PRON	_	4	dislocated	_	_	이것/npd+은/jxt
+2	정말	정말	ADV	_	3	advmod	_	_	정말/mag
+3	기묘한	기묘+하+ㄴ	VERB	_	4	amod	_	_	기묘/ncps+하/xsm+ㄴ/etm
+4	세계일	세계+이+ㄹ	VERB	_	0	root	_	_	세계/ncn+이/jp+ㄹ/etm
+5	것이다	것+이+다	VERB	_	4	aux	_	_	것/nbn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 중량을 빼앗긴 당신 자신이 지상으로는 떨어지지 않기 때문이다 .
+1	중량을	중량+을	NOUN	_	2	obj	_	_	중량/ncn+을/jco
+2	빼앗긴	빼앗기+ㄴ	VERB	_	4	acl	_	_	빼앗기/pvg+ㄴ/etm
+3	당신	당신	PRON	_	4	compound	_	_	당신/npp
+4	자신이	자신+이	PRON	_	6	nsubj	_	_	자신/npp+이/jcs
+5	지상으로는	지상+으로+는	NOUN	_	6	dislocated	_	_	지상/ncn+으로/jca+는/jxt
+6	떨어지지	떨어지+지	VERB	_	0	root	_	_	떨어지/pvg+지/ecx
+7	않기	않+기	AUX	_	6	aux	_	_	않/px+기/etn
+8	때문이다	때문+이+다	VERB	_	6	aux	_	_	때문/nbn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그것은 압축하는 힘과 그것에 저항하는 힘이 균형을 이루기 때문이다 .
+1	그것은	그것+은	PRON	_	8	dislocated	_	_	그것/npd+은/jxt
+2	압축하는	압축+하+는	VERB	_	3	acl	_	_	압축/ncpa+하/xsv+는/etm
+3	힘과	힘+과	CCONJ	_	6	conj	_	_	힘/ncn+과/jcj
+4	그것에	그것+에	ADV	_	5	obl	_	_	그것/npd+에/jca
+5	저항하는	저항+하+는	VERB	_	6	acl	_	_	저항/ncpa+하/xsv+는/etm
+6	힘이	힘+이	NOUN	_	8	nsubj	_	_	힘/ncn+이/jcs
+7	균형을	균형+을	NOUN	_	8	obj	_	_	균형/ncn+을/jco
+8	이루기	이루+기	VERB	_	0	root	_	_	이루/pvg+기/etn
+9	때문이다	때문+이+다	VERB	_	8	aux	_	_	때문/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 즉 상대방에게 부딪친 물체는 마치 자신이 상대방에게 부딪쳐진 것처럼 된다 .
+1	즉	즉	CCONJ	_	10	cc	_	_	즉/maj
+2	상대방에게	상대방+에게	ADV	_	3	iobj	_	_	상대방/ncn+에게/jca
+3	부딪친	부딪치+ㄴ	VERB	_	4	acl	_	_	부딪치/pvg+ㄴ/etm
+4	물체는	물체+는	NOUN	_	10	dislocated	_	_	물체/ncn+는/jxt
+5	마치	마치	ADV	_	8	advmod	_	_	마치/mag
+6	자신이	자신+이	PRON	_	8	nsubj	_	_	자신/npp+이/jcs
+7	상대방에게	상대방+에게	ADV	_	8	iobj	_	_	상대방/ncn+에게/jca
+8	부딪쳐진	부딪치+어+지+ㄴ	AUX	_	9	acl	_	_	부딪치/pvg+어/ecx+지/px+ㄴ/etm
+9	것처럼	것+처럼	ADV	_	10	advcl	_	_	것/nbn+처럼/jca
+10	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그리고 나서 선두의 말을 손가락으로 누르고 그 말의 가장자리를 나무막대기로 두들겨 보라 .
+1	그리고	그리고	CCONJ	_	2	cc	_	_	그리고/maj
+2	나서	나+아서	SCONJ	_	11	advcl	_	_	나/pvg+아서/ecs
+3	선두의	선두+의	NOUN	_	4	nmod	_	_	선두/ncn+의/jcm
+4	말을	말+을	NOUN	_	6	obj	_	_	말/ncn+을/jco
+5	손가락으로	손가락+으로	ADV	_	6	advcl	_	_	손가락/ncn+으로/jca
+6	누르고	누르+고	CCONJ	_	11	conj	_	_	누르/pvg+고/ecc
+7	그	그	DET	_	8	det	_	_	그/mmd
+8	말의	말+의	NOUN	_	9	nmod	_	_	말/ncn+의/jcm
+9	가장자리를	가장자리+를	NOUN	_	11	obj	_	_	가장자리/ncn+를/jco
+10	나무막대기로	나무+막대기+로	ADV	_	11	advcl	_	_	나무/ncn+막대기/ncn+로/jca
+11	두들겨	두들기+어	VERB	_	0	root	_	_	두들기/pvg+어/ecx
+12	보라	보+라	AUX	_	11	aux	_	_	보/px+라/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 무대 위에서 마술사의 비결은 상당히 간단한데도 불가사의하게 보이는 멋진 재주를 보여 준다 .
+1	무대	무대	NOUN	_	2	compound	_	_	무대/ncn
+2	위에서	위+에서	ADV	_	11	advcl	_	_	위/ncn+에서/jca
+3	마술사의	마술사+의	NOUN	_	4	nmod	_	_	마술사/ncn+의/jcm
+4	비결은	비결+은	NOUN	_	6	dislocated	_	_	비결/ncn+은/jxt
+5	상당히	상당히	ADV	_	6	advmod	_	_	상당히/mag
+6	간단한데도	간단+하+ㄴ데+도	ADV	_	11	amod	_	_	간단/ncps+하/xsm+ㄴ데/ecs+도/jxc
+7	불가사의하게	불가사의+하+게	SCONJ	_	8	xcomp	_	_	불가사의/ncps+하/xsm+게/ecs
+8	보이는	보이+는	VERB	_	10	acl	_	_	보이/pvg+는/etm
+9	멋진	멋지+ㄴ	ADJ	_	10	amod	_	_	멋지/paa+ㄴ/etm
+10	재주를	재주+를	NOUN	_	11	obj	_	_	재주/ncn+를/jco
+11	보여	보이+어	VERB	_	0	root	_	_	보이/pvg+어/ecx
+12	준다	주+ㄴ다	AUX	_	11	aux	_	_	주/px+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그 중의 한 가지를 들어 보기로 하자 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	중의	중+의	NOUN	_	4	nmod	_	_	중/nbn+의/jcm
+3	한	한	NUM	_	4	nummod	_	_	한/nnc
+4	가지를	가지+를	NOUN	_	5	obj	_	_	가지/nbu+를/jco
+5	들어	들+어	VERB	_	7	advcl	_	_	들/pvg+어/ecx
+6	보기로	보+기+로	ADV	_	5	aux	_	_	보/px+기/etn+로/jca
+7	하자	하+자	VERB	_	0	root	_	_	하/pvg+자/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 두 개의 종이고리에 길쭉한 막대가 걸쳐진다 .
+1	두	두	NUM	_	2	nummod	_	_	두/nnc
+2	개의	개+의	NOUN	_	3	nmod	_	_	개/nbu+의/jcm
+3	종이고리에	종이+고리+에	ADV	_	6	obl	_	_	종이/ncn+고리/ncn+에/jca
+4	길쭉한	길쭉+하+ㄴ	VERB	_	5	amod	_	_	길쭉/ncps+하/xsm+ㄴ/etm
+5	막대가	막대+가	NOUN	_	6	nsubj	_	_	막대/ncps+가/jcs
+6	걸쳐진다	걸치+어+지+ㄴ다	AUX	_	0	root	_	_	걸치/pvg+어/ecx+지/px+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이 비결은 간단하다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	비결은	비결+은	NOUN	_	3	dislocated	_	_	비결/ncn+은/jxt
+3	간단하다	간단+하+다	VERB	_	0	root	_	_	간단/ncps+하/xsm+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 속도가 느린 타격으로는 막대기가 부러지지 않을 뿐더러 종이고리도 끊어지고 만다 .
+1	속도가	속도+가	NOUN	_	2	nsubj	_	_	속도/ncn+가/jcs
+2	느린	느리+ㄴ	ADJ	_	3	amod	_	_	느리/paa+ㄴ/etm
+3	타격으로는	타격+으로+는	NOUN	_	9	dislocated	_	_	타격/ncn+으로/jca+는/jxt
+4	막대기가	막대기+가	NOUN	_	5	nsubj	_	_	막대기/ncn+가/jcs
+5	부러지지	부러지+지	VERB	_	7	acl	_	_	부러지/pvg+지/ecx
+6	않을	않+ㄹ	AUX	_	5	aux	_	_	않/px+ㄹ/etm
+7	뿐더러	뿐+더러	ADV	_	9	advcl	_	_	뿐/nbn+더러/jca
+8	종이고리도	종이+고리+도	ADV	_	9	advcl	_	_	종이/ncn+고리/ncn+도/jxc
+9	끊어지고	끊+어+지+고	AUX	_	0	root	_	_	끊/pvg+어/ecx+지/px+고/ecx
+10	만다	말+ㄴ다	AUX	_	9	aux	_	_	말/px+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 밖으로 나온 부분에 가느다란 막대기를 올려 놓는다 .
+1	밖으로	밖+으로	ADV	_	2	advcl	_	_	밖/ncn+으로/jca
+2	나온	나오+ㄴ	VERB	_	3	acl	_	_	나오/pvg+ㄴ/etm
+3	부분에	부분+에	ADV	_	6	obl	_	_	부분/ncn+에/jca
+4	가느다란	가느다랗+ㄴ	ADJ	_	5	amod	_	_	가느다랗/paa+ㄴ/etm
+5	막대기를	막대기+를	NOUN	_	6	obj	_	_	막대기/ncn+를/jco
+6	올려	올리+어	VERB	_	0	root	_	_	올리/pvg+어/ecx
+7	놓는다	놓+는다	AUX	_	6	aux	_	_	놓/px+는다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 같은 이유로 총으로 쏜 총알은 유리창에 작은 구멍을 뚫지만 , 손으로 던진 돌멩이는 유리 전체를 깨고 만다 .
+1	같은	같+ㄴ	ADJ	_	2	amod	_	_	같/paa+ㄴ/etm
+2	이유로	이유+로	ADV	_	16	advcl	_	_	이유/ncn+로/jca
+3	총으로	총+으로	ADV	_	4	advcl	_	_	총/ncn+으로/jca
+4	쏜	쏘+ㄴ	VERB	_	5	acl	_	_	쏘/pvg+ㄴ/etm
+5	총알은	총알+은	NOUN	_	9	dislocated	_	_	총알/ncn+은/jxt
+6	유리창에	유리창+에	ADV	_	9	obl	_	_	유리창/ncn+에/jca
+7	작은	작+ㄴ	ADJ	_	8	amod	_	_	작/paa+ㄴ/etm
+8	구멍을	구멍+을	NOUN	_	9	obj	_	_	구멍/ncn+을/jco
+9	뚫지만	뚫+지만	SCONJ	_	16	ccomp	_	_	뚫/pvg+지만/ecs
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	손으로	손+으로	ADV	_	12	advcl	_	_	손/ncn+으로/jca
+12	던진	던지+ㄴ	VERB	_	13	acl	_	_	던지/pvg+ㄴ/etm
+13	돌멩이는	돌멩이+는	NOUN	_	16	dislocated	_	_	돌멩이/ncn+는/jxt
+14	유리	유리	NOUN	_	15	compound	_	_	유리/ncn
+15	전체를	전체+를	NOUN	_	16	obj	_	_	전체/ncn+를/jco
+16	깨고	깨+고	VERB	_	0	root	_	_	깨/pvg+고/ecx
+17	만다	말+ㄴ다	AUX	_	16	aux	_	_	말/px+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 막대기로 줄기를 천천히 누르면 설사 커다란 힘으로도 줄기를 절단할 수는 없으며 그저 옆으로 밀어붙여질 뿐이다 .
+1	막대기로	막대기+로	ADV	_	4	advcl	_	_	막대기/ncn+로/jca
+2	줄기를	줄기+를	NOUN	_	4	obj	_	_	줄기/ncn+를/jco
+3	천천히	천천히	ADV	_	4	advmod	_	_	천천히/mag
+4	누르면	누르+면	SCONJ	_	9	ccomp	_	_	누르/pvg+면/ecs
+5	설사	설사	ADV	_	9	advmod	_	_	설사/mag
+6	커다란	커다랗+ㄴ	ADJ	_	7	amod	_	_	커다랗/paa+ㄴ/etm
+7	힘으로도	힘+으로+도	ADV	_	9	advcl	_	_	힘/ncn+으로/jca+도/jxc
+8	줄기를	줄기+를	NOUN	_	9	obj	_	_	줄기/ncn+를/jco
+9	절단할	절단+하+ㄹ	VERB	_	14	ccomp	_	_	절단/ncpa+하/xsv+ㄹ/etm
+10	수는	수+는	NOUN	_	11	fixed	_	_	수/nbn+는/jxt
+11	없으며	없+으며	SCONJ	_	9	aux	_	_	없/paa+으며/ecs
+12	그저	그저	ADV	_	14	advmod	_	_	그저/mag
+13	옆으로	옆+으로	ADV	_	14	advcl	_	_	옆/ncn+으로/jca
+14	밀어붙여질	밀어붙이+어+지+ㄹ	AUX	_	0	root	_	_	밀어붙이/pvg+어/ecx+지/px+ㄹ/etm
+15	뿐이다	뿐+이+다	VERB	_	14	aux	_	_	뿐/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이 경우도 먼저의 경우와 마찬가지로 막대기가 급속히 움직이기 때문에 그 타격력이 줄기 전체로 분산되는 일이 없다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	경우도	경우+도	ADV	_	8	advcl	_	_	경우/ncn+도/jxc
+3	먼저의	먼저+의	NOUN	_	4	nmod	_	_	먼저/ncn+의/jcm
+4	경우와	경우+와	CCONJ	_	5	conj	_	_	경우/ncn+와/jct
+5	마찬가지로	마찬가지+로	ADV	_	8	advcl	_	_	마찬가지/ncn+로/jca
+6	막대기가	막대기+가	NOUN	_	8	nsubj	_	_	막대기/ncn+가/jcs
+7	급속히	급속히	ADV	_	8	advmod	_	_	급속히/mag
+8	움직이기	움직이+기	VERB	_	9	nmod	_	_	움직이/pvg+기/etn
+9	때문에	때문+에	ADV	_	14	obl	_	_	때문/nbn+에/jca
+10	그	그	DET	_	11	det	_	_	그/mmd
+11	타격력이	타격력+이	NOUN	_	14	nsubj	_	_	타격력/ncn+이/jcs
+12	줄기	줄기	NOUN	_	13	compound	_	_	줄기/ncn
+13	전체로	전체+로	ADV	_	14	advcl	_	_	전체/ncn+로/jca
+14	분산되는	분산+되+는	VERB	_	15	acl	_	_	분산/ncpa+되/xsv+는/etm
+15	일이	일+이	NOUN	_	16	nsubj	_	_	일/ncpa+이/jcs
+16	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 한 남자가 하늘을 향해 침상 위에 누워있고 그 몸 위에 무거운 보루방을 놓는다 .
+1	한	한	NUM	_	2	nummod	_	_	한/nnc
+2	남자가	남자+가	NOUN	_	13	nsubj	_	_	남자/ncn+가/jcs
+3	하늘을	하늘+을	NOUN	_	4	obj	_	_	하늘/ncn+을/jco
+4	향해	향하+어	SCONJ	_	7	ccomp	_	_	향하/pvg+어/ecs
+5	침상	침상	NOUN	_	6	compound	_	_	침상/ncn
+6	위에	위+에	ADV	_	7	obl	_	_	위/ncn+에/jca
+7	누워있고	눕+어+있+고	CCONJ	_	13	conj	_	_	눕/pvg+어/ecx+있/px+고/ecc
+8	그	그	DET	_	9	det	_	_	그/mmd
+9	몸	몸	NOUN	_	10	compound	_	_	몸/ncn
+10	위에	위+에	ADV	_	13	obl	_	_	위/ncn+에/jca
+11	무거운	무겁+ㄴ	ADJ	_	12	amod	_	_	무겁/paa+ㄴ/etm
+12	보루방을	보루방+을	NOUN	_	13	obj	_	_	보루방/ncn+을/jco
+13	놓는다	놓+는다	VERB	_	0	root	_	_	놓/pvg+는다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 보루방이 햄머와 비교해서 무게가 무거우면 무거울수록 두들겨져 운동하는 보루방의 속도는 그만큼 작게 된다 .
+1	보루방이	보루방+이	NOUN	_	7	nsubj	_	_	보루방/ncn+이/jcs
+2	햄머와	햄머+와	CCONJ	_	3	conj	_	_	햄머/ncn+와/jct
+3	비교해서	비교+하+어서	SCONJ	_	5	conj	_	_	비교/ncpa+하/xsv+어서/ecs
+4	무게가	무게+가	NOUN	_	5	nsubj	_	_	무게/ncn+가/jcs
+5	무거우면	무겁+으면	SCONJ	_	6	xcomp	_	_	무겁/paa+으면/ecs
+6	무거울수록	무겁+ㄹ수록	SCONJ	_	7	xcomp	_	_	무겁/paa+ㄹ수록/ecs
+7	두들겨져	두들기+어+지+어	SCONJ	_	13	ccomp	_	_	두들기/pvg+어/ecx+지/px+어/ecs
+8	운동하는	운동+하+는	VERB	_	9	acl	_	_	운동/ncpa+하/xsv+는/etm
+9	보루방의	보루방+의	NOUN	_	10	nmod	_	_	보루방/ncn+의/jcm
+10	속도는	속도+는	NOUN	_	13	dislocated	_	_	속도/ncn+는/jxt
+11	그만큼	그+만큼	ADV	_	13	advcl	_	_	그/npd+만큼/jca
+12	작게	작+게	SCONJ	_	13	xcomp	_	_	작/paa+게/ecs
+13	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 결국 누워있는 사람이 받는 충격도 그만큼 작아지게 되기 때문이다 .
+1	결국	결국	ADV	_	7	advmod	_	_	결국/mag
+2	누워있는	눕+어+있+는	AUX	_	3	acl	_	_	눕/pvg+어/ecx+있/px+는/etm
+3	사람이	사람+이	NOUN	_	4	nsubj	_	_	사람/ncn+이/jcs
+4	받는	받+는	VERB	_	5	acl	_	_	받/pvg+는/etm
+5	충격도	충격+도	ADV	_	7	advcl	_	_	충격/ncn+도/jxc
+6	그만큼	그+만큼	ADV	_	7	advcl	_	_	그/npd+만큼/jca
+7	작아지게	작+아+지+게	AUX	_	0	root	_	_	작/paa+아/ecx+지/px+게/ecx
+8	되기	되+기	AUX	_	7	aux	_	_	되/px+기/etn
+9	때문이다	때문+이+다	VERB	_	7	aux	_	_	때문/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+

@@ -1,0 +1,516 @@
+# 그러나 모두가 그렇지 않다 .
+1	그러나	그러나	CCONJ	_	3	cc	_	_	그러나/maj
+2	모두가	모두+가	NOUN	_	3	nsubj	_	_	모두/ncn+가/jcs
+3	그렇지	그렇+지	VERB	_	0	root	_	_	그렇/pad+지/ecx
+4	않다	않+다	AUX	_	3	aux	_	_	않/px+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 그런데 이러한 침묵이 어느 정도 말문을 개방한 것은 바로 스즈끼다이세쯔 박사에 의해서다 .
+1	그런데	그런데	CCONJ	_	12	cc	_	_	그런데/maj
+2	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+3	침묵이	침묵+이	NOUN	_	7	nsubj	_	_	침묵/ncpa+이/jcs
+4	어느	어느	DET	_	5	det	_	_	어느/mmd
+5	정도	정도	NOUN	_	7	advmod	_	_	정도/ncn
+6	말문을	말문+을	NOUN	_	7	obj	_	_	말문/ncn+을/jco
+7	개방한	개방+하+ㄴ	VERB	_	8	acl	_	_	개방/ncpa+하/xsv+ㄴ/etm
+8	것은	것+은	NOUN	_	12	dislocated	_	_	것/nbn+은/jxt
+9	바로	바로	ADJ	_	11	amod	_	_	바로/mma
+10	스즈끼다이세쯔	스즈끼다이세쯔	PROPN	_	11	compound	_	_	스즈끼다이세쯔/nq
+11	박사에	박사+에	ADV	_	12	obl	_	_	박사/ncn+에/jca
+12	의해서다	의하+어서+이+다	VERB	_	0	root	_	_	의하/pvg+어서/ecs+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그는 달변의 역설과 유창한 산문으로 그 선의 세계를 표현한다 .
+1	그는	그+는	PRON	_	9	dislocated	_	_	그/npp+는/jxt
+2	달변의	달변+의	NOUN	_	3	nmod	_	_	달변/ncn+의/jcm
+3	역설과	역설+과	CCONJ	_	5	conj	_	_	역설/ncpa+과/jcj
+4	유창한	유창+하+ㄴ	VERB	_	5	amod	_	_	유창/ncps+하/xsm+ㄴ/etm
+5	산문으로	산문+으로	ADV	_	9	advcl	_	_	산문/ncn+으로/jca
+6	그	그	DET	_	7	det	_	_	그/mmd
+7	선의	선+의	NOUN	_	8	nmod	_	_	선/ncn+의/jcm
+8	세계를	세계+를	NOUN	_	9	obj	_	_	세계/ncn+를/jco
+9	표현한다	표현+하+ㄴ다	VERB	_	0	root	_	_	표현/ncpa+하/xsv+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러나 그의 필설에 깨달음과 그 예비적 단계에 대한 현상론적 설명은 나타나지 않는다 .
+1	그러나	그러나	CCONJ	_	11	cc	_	_	그러나/maj
+2	그의	그+의	PRON	_	3	nmod	_	_	그/npp+의/jcm
+3	필설에	필설+에	ADV	_	11	obl	_	_	필설/ncn+에/jca
+4	깨달음과	깨닫+ㅁ+과	CCONJ	_	10	conj	_	_	깨닫/pvg+ㅁ/etn+과/jcj
+5	그	그	DET	_	7	det	_	_	그/mmd
+6	예비적	예비+적	NOUN	_	7	amod	_	_	예비/ncn+적/xsn
+7	단계에	단계+에	ADV	_	8	obl	_	_	단계/ncn+에/jca
+8	대한	대하+ㄴ	VERB	_	10	acl	_	_	대하/pvg+ㄴ/etm
+9	현상론적	현상론+적	NOUN	_	10	amod	_	_	현상론/ncn+적/xsn
+10	설명은	설명+은	NOUN	_	11	dislocated	_	_	설명/ncpa+은/jxt
+11	나타나지	나타나+지	VERB	_	0	root	_	_	나타나/pvg+지/ecx
+12	않는다	않+는다	AUX	_	11	aux	_	_	않/px+는다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 때문에 그의 비평가들에게 결국 그가 깨달음의 최고 순간에 이르렀는가를 물어본다면 그들은 그의 체험의 깊이에 대해서 가설적인 의문을 표현했을 것이다 .
+1	때문에	때문에	CCONJ	_	18	cc	_	_	때문에/maj
+2	그의	그+의	PRON	_	3	nmod	_	_	그/npp+의/jcm
+3	비평가들에게	비평가+들+에게	ADV	_	10	iobj	_	_	비평가/ncn+들/xsn+에게/jca
+4	결국	결국	ADV	_	9	advmod	_	_	결국/mag
+5	그가	그+가	PRON	_	9	nsubj	_	_	그/npp+가/jcs
+6	깨달음의	깨닫+ㅁ+의	NOUN	_	8	nmod	_	_	깨닫/pvg+ㅁ/etn+의/jcm
+7	최고	최고	NOUN	_	8	compound	_	_	최고/ncn
+8	순간에	순간+에	ADV	_	9	obl	_	_	순간/ncn+에/jca
+9	이르렀는가를	이르+었+는가+를	NOUN	_	10	obj	_	_	이르/pvg+었/ep+는가/ef+를/jco
+10	물어본다면	묻+어+보+ㄴ다면	SCONJ	_	18	ccomp	_	_	묻/pvg+어/ecx+보/px+ㄴ다면/ecs
+11	그들은	그+들+은	PRON	_	18	dislocated	_	_	그/npp+들/xsn+은/jxt
+12	그의	그+의	PRON	_	13	nmod	_	_	그/npp+의/jcm
+13	체험의	체험+의	NOUN	_	14	nmod	_	_	체험/ncpa+의/jcm
+14	깊이에	깊이+에	ADV	_	15	obl	_	_	깊이/ncn+에/jca
+15	대해서	대하+어서	SCONJ	_	18	ccomp	_	_	대하/pvg+어서/ecs
+16	가설적인	가설+적+이+ㄴ	VERB	_	17	acl	_	_	가설/ncn+적/xsn+이/jp+ㄴ/etm
+17	의문을	의문+을	NOUN	_	18	obj	_	_	의문/ncn+을/jco
+18	표현했을	표현+하+었+ㄹ	VERB	_	0	root	_	_	표현/ncpa+하/xsv+었/ep+ㄹ/etm
+19	것이다	것+이+다	VERB	_	18	aux	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 그 결과 수많은 서양인들이 불안과 번민을 다스리고 존재의 수수께끼를 풀어 줄 깨달음을 찾아 동양으로 향하는 구도의 행렬을 만들어 내게 되었다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	결과	결과	NOUN	_	18	advmod	_	_	결과/ncn
+3	수많은	수많+ㄴ	ADJ	_	4	amod	_	_	수많/paa+ㄴ/etm
+4	서양인들이	서양인+들+이	NOUN	_	15	nsubj	_	_	서양인/ncn+들/xsn+이/jcs
+5	불안과	불안+과	CCONJ	_	6	conj	_	_	불안/ncps+과/jcj
+6	번민을	번민+을	NOUN	_	7	obj	_	_	번민/ncpa+을/jco
+7	다스리고	다스리+고	CCONJ	_	10	conj	_	_	다스리/pvg+고/ecc
+8	존재의	존재+의	NOUN	_	9	nmod	_	_	존재/ncpa+의/jcm
+9	수수께끼를	수수께끼+를	NOUN	_	10	obj	_	_	수수께끼/ncn+를/jco
+10	풀어	풀+어	VERB	_	12	acl	_	_	풀/pvg+어/ecx
+11	줄	주+ㄹ	AUX	_	10	aux	_	_	주/px+ㄹ/etm
+12	깨달음을	깨닫+ㅁ+을	NOUN	_	13	obj	_	_	깨닫/pvg+ㅁ/etn+을/jco
+13	찾아	찾+아	SCONJ	_	15	ccomp	_	_	찾/pvg+아/ecs
+14	동양으로	동양+으로	ADV	_	15	advcl	_	_	동양/ncn+으로/jca
+15	향하는	향하+는	VERB	_	17	acl	_	_	향하/pvg+는/etm
+16	구도의	구도+의	NOUN	_	17	nmod	_	_	구도/ncpa+의/jcm
+17	행렬을	행렬+을	NOUN	_	18	obj	_	_	행렬/ncn+을/jco
+18	만들어	만들+어	VERB	_	0	root	_	_	만들/pvg+어/ecx
+19	내게	내+게	AUX	_	18	aux	_	_	내/px+게/ecx
+20	되었다	되+었+다	AUX	_	18	aux	_	_	되/px+었/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 이윽고 선에 관한 기사와 선 관계 책들이 쏟아져 나왔다 .
+1	이윽고	이윽고	ADV	_	9	advmod	_	_	이윽고/mag
+2	선에	선+에	ADV	_	3	obl	_	_	선/ncn+에/jca
+3	관한	관하+ㄴ	VERB	_	4	acl	_	_	관하/pvg+ㄴ/etm
+4	기사와	기사+와	CCONJ	_	7	conj	_	_	기사/ncn+와/jcj
+5	선	선	NOUN	_	6	compound	_	_	선/ncn
+6	관계	관계	NOUN	_	7	compound	_	_	관계/ncpa
+7	책들이	책+들+이	NOUN	_	8	nsubj	_	_	책/ncn+들/xsn+이/jcs
+8	쏟아져	쏟+아+지+어	SCONJ	_	9	ccomp	_	_	쏟/pvg+아/ecx+지/px+어/ecs
+9	나왔다	나오+았+다	VERB	_	0	root	_	_	나오/pvg+았/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 동양의 전통적인 선 수행의 나라에서도 특히 일본과 한국의 경우 , 역작용의 모습으로 선에 대한 관심이 일게 되었다 .
+1	동양의	동양+의	NOUN	_	5	nmod	_	_	동양/ncn+의/jcm
+2	전통적인	전통+적+이+ㄴ	VERB	_	3	acl	_	_	전통/ncn+적/xsn+이/jp+ㄴ/etm
+3	선	선	NOUN	_	4	compound	_	_	선/ncn
+4	수행의	수행+의	NOUN	_	5	nmod	_	_	수행/ncpa+의/jcm
+5	나라에서도	나라+에서+도	ADV	_	16	advcl	_	_	나라/ncn+에서/jca+도/jxc
+6	특히	특히	ADV	_	9	advmod	_	_	특히/mag
+7	일본과	일본+과	CCONJ	_	8	conj	_	_	일본/nq+과/jcj
+8	한국의	한국+의	PROPN	_	9	nmod	_	_	한국/nq+의/jcm
+9	경우	경우	NOUN	_	16	advmod	_	_	경우/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	역작용의	역작용+의	NOUN	_	12	nmod	_	_	역작용/ncpa+의/jcm
+12	모습으로	모습+으로	ADV	_	16	advcl	_	_	모습/ncn+으로/jca
+13	선에	선+에	ADV	_	14	obl	_	_	선/ncn+에/jca
+14	대한	대하+ㄴ	VERB	_	15	acl	_	_	대하/pvg+ㄴ/etm
+15	관심이	관심+이	NOUN	_	16	nsubj	_	_	관심/ncn+이/jcs
+16	일게	일+게	VERB	_	0	root	_	_	일/pvg+게/ecx
+17	되었다	되+었+다	AUX	_	16	aux	_	_	되/px+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 선이 그와 같이 크게 사람들의 관심과 붐을 일으킨 또 한가지 원인이 있다 .
+1	선이	선+이	NOUN	_	8	nsubj	_	_	선/ncn+이/jcs
+2	그와	그+와	CCONJ	_	3	conj	_	_	그/npd+와/jct
+3	같이	같+이	SCONJ	_	4	xcomp	_	_	같/paa+이/ecs
+4	크게	크+게	SCONJ	_	8	xcomp	_	_	크/paa+게/ecs
+5	사람들의	사람+들+의	NOUN	_	6	nmod	_	_	사람/ncn+들/xsn+의/jcm
+6	관심과	관심+과	CCONJ	_	7	conj	_	_	관심/ncn+과/jcj
+7	붐을	붐+을	NOUN	_	8	obj	_	_	붐/ncn+을/jco
+8	일으킨	일으키+ㄴ	VERB	_	11	acl	_	_	일으키/pvg+ㄴ/etm
+9	또	또	ADV	_	11	advmod	_	_	또/mag
+10	한가지	한가지	NOUN	_	11	compound	_	_	한가지/ncn
+11	원인이	원인+이	NOUN	_	12	nsubj	_	_	원인/ncn+이/jcs
+12	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 선이 갖는 치료 효과가 정신의학계의 보고를 통하여 사실임이 확인된 것이다 .
+1	선이	선+이	NOUN	_	2	nsubj	_	_	선/ncn+이/jcs
+2	갖는	갖+는	VERB	_	4	acl	_	_	갖/pvg+는/etm
+3	치료	치료	NOUN	_	4	compound	_	_	치료/ncn
+4	효과가	효과+가	NOUN	_	9	nsubj	_	_	효과/ncn+가/jcs
+5	정신의학계의	정신의학계+의	NOUN	_	6	nmod	_	_	정신의학계/ncn+의/jcm
+6	보고를	보고+를	NOUN	_	7	obj	_	_	보고/ncpa+를/jco
+7	통하여	통하+어	SCONJ	_	9	ccomp	_	_	통하/pvg+어/ecs
+8	사실임이	사실+이+ㅁ+이	NOUN	_	9	nsubj	_	_	사실/ncn+이/jp+ㅁ/etn+이/jcs
+9	확인된	확인+되+ㄴ	VERB	_	0	root	_	_	확인/ncpa+되/xsv+ㄴ/etm
+10	것이다	것+이+다	VERB	_	9	aux	_	_	것/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 선은 내면의 평화와 조화에 이르는 수단 내지 방편이라고 말해지며 , 우리에게 집착으로부터의 탈피와 해방감 같은 안정을 가져다 준다고 한다 .
+1	선은	선+은	NOUN	_	9	dislocated	_	_	선/ncn+은/jxt
+2	내면의	내면+의	NOUN	_	4	nmod	_	_	내면/ncn+의/jcm
+3	평화와	평화+와	CCONJ	_	4	conj	_	_	평화/ncn+와/jcj
+4	조화에	조화+에	ADV	_	5	obl	_	_	조화/ncpa+에/jca
+5	이르는	이르+는	VERB	_	8	ccomp	_	_	이르/pvg+는/etm
+6	수단	수단	NOUN	_	8	conj	_	_	수단/ncn
+7	내지	내지	CCONJ	_	8	cc	_	_	내지/maj
+8	방편이라고	방편+이+라고	SCONJ	_	9	ccomp	_	_	방편/ncn+이/jp+라고/ecs
+9	말해지며	말하+어+지+며	CCONJ	_	19	conj	_	_	말하/pvg+어/ecx+지/px+며/ecc
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	우리에게	우리+에게	ADV	_	17	iobj	_	_	우리/npp+에게/jca
+12	집착으로부터의	집착+으로+부터+의	NOUN	_	14	nmod	_	_	집착/ncpa+으로/jca+부터/jxc+의/jcm
+13	탈피와	탈피+와	CCONJ	_	14	conj	_	_	탈피/ncpa+와/jcj
+14	해방감	해방감	NOUN	_	15	dep	_	_	해방감/ncn
+15	같은	같+ㄴ	ADJ	_	16	amod	_	_	같/paa+ㄴ/etm
+16	안정을	안정+을	NOUN	_	17	obj	_	_	안정/ncpa+을/jco
+17	가져다	가지+어다	SCONJ	_	18	ccomp	_	_	가지/pvg+어다/ecs
+18	준다고	주+ㄴ다고	SCONJ	_	19	ccomp	_	_	주/pvg+ㄴ다고/ecs
+19	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 꽃꽃이 그리고 선의 영향을 느끼게 하는 동양문화의 여러 형태를 통해서 우리에게 전달된다 .
+1	꽃꽃이	꽃꽃이	NOUN	_	9	conj	_	_	꽃꽃이/ncn
+2	그리고	그리고	CCONJ	_	9	cc	_	_	그리고/maj
+3	선의	선+의	NOUN	_	4	nmod	_	_	선/ncn+의/jcm
+4	영향을	영향+을	NOUN	_	5	obj	_	_	영향/ncn+을/jco
+5	느끼게	느끼+게	VERB	_	7	acl	_	_	느끼/pvg+게/ecx
+6	하는	하+는	AUX	_	5	aux	_	_	하/px+는/etm
+7	동양문화의	동양+문화+의	NOUN	_	9	nmod	_	_	동양/ncn+문화/ncn+의/jcm
+8	여러	여러	ADJ	_	9	amod	_	_	여러/mma
+9	형태를	형태+를	NOUN	_	10	obj	_	_	형태/ncn+를/jco
+10	통해서	통하+어서	SCONJ	_	12	ccomp	_	_	통하/pvg+어서/ecs
+11	우리에게	우리+에게	ADV	_	12	iobj	_	_	우리/npp+에게/jca
+12	전달된다	전달+되+ㄴ다	VERB	_	0	root	_	_	전달/ncpa+되/xsv+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그러나 선의 치료 효과는 단지 정신과 마음에만 그치는 것이 아니다 .
+1	그러나	그러나	CCONJ	_	10	cc	_	_	그러나/maj
+2	선의	선+의	NOUN	_	4	nmod	_	_	선/ncn+의/jcm
+3	치료	치료	NOUN	_	4	compound	_	_	치료/ncn
+4	효과는	효과+는	NOUN	_	8	dislocated	_	_	효과/ncn+는/jxt
+5	단지	단지	ADV	_	8	advmod	_	_	단지/mag
+6	정신과	정신+과	CCONJ	_	7	conj	_	_	정신/ncn+과/jcj
+7	마음에만	마음+에+만	ADV	_	8	advcl	_	_	마음/ncn+에/jca+만/jxc
+8	그치는	그치+는	VERB	_	9	acl	_	_	그치/pvg+는/etm
+9	것이	것+이	NOUN	_	10	csubj	_	_	것/nbn+이/jcc
+10	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이처럼 선은 장수를 가져다 주며 몸과 마음의 합일에서 초래되는 내면의 명랑한 마음 상태를 일구어 낸다고 한다 .
+1	이처럼	이+처럼	ADV	_	14	advcl	_	_	이/npd+처럼/jca
+2	선은	선+은	NOUN	_	5	dislocated	_	_	선/ncn+은/jxt
+3	장수를	장수+를	NOUN	_	4	obj	_	_	장수/ncn+를/jco
+4	가져다	가지+어다	SCONJ	_	5	ccomp	_	_	가지/pvg+어다/ecs
+5	주며	주+며	CCONJ	_	14	conj	_	_	주/pvg+며/ecc
+6	몸과	몸+과	CCONJ	_	7	conj	_	_	몸/ncn+과/jcj
+7	마음의	마음+의	NOUN	_	8	nmod	_	_	마음/ncn+의/jcm
+8	합일에서	합일+에서	ADV	_	9	advcl	_	_	합일/ncpa+에서/jca
+9	초래되는	초래+되+는	VERB	_	13	acl	_	_	초래/ncpa+되/xsv+는/etm
+10	내면의	내면+의	NOUN	_	13	nmod	_	_	내면/ncn+의/jcm
+11	명랑한	명랑+하+ㄴ	VERB	_	13	amod	_	_	명랑/ncps+하/xsm+ㄴ/etm
+12	마음	마음	NOUN	_	13	compound	_	_	마음/ncn
+13	상태를	상태+를	NOUN	_	14	obj	_	_	상태/ncn+를/jco
+14	일구어	일구+어	VERB	_	16	ccomp	_	_	일구/pvg+어/ecx
+15	낸다고	내+ㄴ다고	SCONJ	_	14	aux	_	_	내/px+ㄴ다고/ecs
+16	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 조사해 보기 위해 일단의 전문가 그룹이 결성되었다 .
+1	조사해	조사+하+어	VERB	_	3	ccomp	_	_	조사/ncpa+하/xsv+어/ecx
+2	보기	보+기	AUX	_	1	aux	_	_	보/px+기/etn
+3	위해	위하+어	SCONJ	_	7	ccomp	_	_	위하/pvg+어/ecs
+4	일단의	일단+의	NOUN	_	6	nmod	_	_	일단/ncn+의/jcm
+5	전문가	전문가	NOUN	_	6	compound	_	_	전문가/ncn
+6	그룹이	그룹+이	NOUN	_	7	nsubj	_	_	그룹/ncn+이/jcs
+7	결성되었다	결성+되+었+다	VERB	_	0	root	_	_	결성/ncpa+되/xsv+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 조사를 하였다 .
+1	조사를	조사+를	NOUN	_	2	obj	_	_	조사/ncpa+를/jco
+2	하였다	하+었+다	VERB	_	0	root	_	_	하/pvg+었/ep+다/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 그들은 여러 사찰을 다니면서 선의 명상에 몰입해 있는 수행자의 의식상태를 기록하고 분석했다 .
+1	그들은	그+들+은	PRON	_	4	dislocated	_	_	그/npp+들/xsn+은/jxt
+2	여러	여러	ADJ	_	3	amod	_	_	여러/mma
+3	사찰을	사찰+을	NOUN	_	4	obj	_	_	사찰/ncn+을/jco
+4	다니면서	다니+면서	SCONJ	_	12	ccomp	_	_	다니/pvg+면서/ecs
+5	선의	선+의	NOUN	_	6	nmod	_	_	선/ncn+의/jcm
+6	명상에	명상+에	ADV	_	7	obl	_	_	명상/ncpa+에/jca
+7	몰입해	몰입+하+어	VERB	_	9	acl	_	_	몰입/ncpa+하/xsv+어/ecx
+8	있는	있+는	AUX	_	7	aux	_	_	있/px+는/etm
+9	수행자의	수행자+의	NOUN	_	10	nmod	_	_	수행자/ncn+의/jcm
+10	의식상태를	의식+상태+를	NOUN	_	12	obj	_	_	의식/ncn+상태/ncn+를/jco
+11	기록하고	기록+하+고	CCONJ	_	12	conj	_	_	기록/ncpa+하/xsv+고/ecc
+12	분석했다	분석+하+었+다	VERB	_	0	root	_	_	분석/ncpa+하/xsv+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 먼저 초심자와 숙달된 자 그리고 승려와 일반불자로 나누고 , 선의 명상 중에 나타나는 그들의 두뇌활동을 뇌파기록장치를 통해 기록해 냈다 .
+1	먼저	먼저	ADV	_	8	advmod	_	_	먼저/mag
+2	초심자와	초심자+와	CCONJ	_	4	conj	_	_	초심자/ncn+와/jcj
+3	숙달된	숙달+되+ㄴ	VERB	_	4	acl	_	_	숙달/ncpa+되/xsv+ㄴ/etm
+4	자	자	NOUN	_	6	conj	_	_	자/nbn
+5	그리고	그리고	CCONJ	_	6	cc	_	_	그리고/maj
+6	승려와	승려+와	CCONJ	_	7	conj	_	_	승려/ncn+와/jcj
+7	일반불자로	일반+불자+로	ADV	_	8	advcl	_	_	일반/ncn+불자/ncn+로/jca
+8	나누고	나누+고	CCONJ	_	18	conj	_	_	나누/pvg+고/ecc
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	선의	선+의	NOUN	_	12	nmod	_	_	선/ncn+의/jcm
+11	명상	명상	NOUN	_	12	compound	_	_	명상/ncpa
+12	중에	중+에	ADV	_	13	obl	_	_	중/nbn+에/jca
+13	나타나는	나타나+는	VERB	_	15	acl	_	_	나타나/pvg+는/etm
+14	그들의	그+들+의	PRON	_	15	nmod	_	_	그/npp+들/xsn+의/jcm
+15	두뇌활동을	두뇌+활동+을	NOUN	_	18	obj	_	_	두뇌/ncn+활동/ncpa+을/jco
+16	뇌파기록장치를	뇌파+기록+장치+를	NOUN	_	17	obj	_	_	뇌파/ncn+기록/ncpa+장치/ncn+를/jco
+17	통해	통하+어	SCONJ	_	18	ccomp	_	_	통하/pvg+어/ecs
+18	기록해	기록+하+어	VERB	_	0	root	_	_	기록/ncpa+하/xsv+어/ecx
+19	냈다	내+ㅆ+다	AUX	_	18	aux	_	_	내/px+ㅆ/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 감소는 물론 시력에 미치는 선의 영향 등을 측정하고 자료화하였다 .
+1	감소는	감소+는	NOUN	_	2	dislocated	_	_	감소/ncpa+는/jxt
+2	물론	물론	ADV	_	10	advmod	_	_	물론/mag
+3	시력에	시력+에	ADV	_	4	obl	_	_	시력/ncn+에/jca
+4	미치는	미치+는	VERB	_	6	acl	_	_	미치/pvg+는/etm
+5	선의	선+의	NOUN	_	6	nmod	_	_	선/ncn+의/jcm
+6	영향	영향	NOUN	_	7	compound	_	_	영향/ncn
+7	등을	등+을	NOUN	_	8	obj	_	_	등/nbn+을/jco
+8	측정하고	측정+하+고	CCONJ	_	9	conj	_	_	측정/ncpa+하/xsv+고/ecc
+9	자료화하였다	자료화+하+었+다	VERB	_	10	conj	_	_	자료화/ncpa+하/xsv+었/ep+다/ef
+10	.	.	PUNCT	_	0	root	_	_	./sf
+
+# 그러므로 내적 평화와 불안으로부터 해방을 갈구하는 우리시대에 선 수행이 선풍적 관심을 불러일으키게 된 것은 결코 놀라운 일이 아니다 .
+1	그러므로	그러므로	CCONJ	_	18	cc	_	_	그러므로/maj
+2	내적	내적	NOUN	_	3	compound	_	_	내적/ncn
+3	평화와	평화+와	CCONJ	_	5	conj	_	_	평화/ncn+와/jcj
+4	불안으로부터	불안+으로+부터	ADV	_	5	advcl	_	_	불안/ncps+으로/jca+부터/jxc
+5	해방을	해방+을	NOUN	_	6	obj	_	_	해방/ncpa+을/jco
+6	갈구하는	갈구+하+는	VERB	_	7	acl	_	_	갈구/ncpa+하/xsv+는/etm
+7	우리시대에	우리+시대+에	ADV	_	12	obl	_	_	우리/npp+시대/ncn+에/jca
+8	선	선	NOUN	_	9	compound	_	_	선/ncn
+9	수행이	수행+이	NOUN	_	12	nsubj	_	_	수행/ncpa+이/jcs
+10	선풍적	선풍+적	NOUN	_	11	amod	_	_	선풍/ncn+적/xsn
+11	관심을	관심+을	NOUN	_	12	obj	_	_	관심/ncn+을/jco
+12	불러일으키게	불러일으키+게	VERB	_	14	acl	_	_	불러일으키/pvg+게/ecx
+13	된	되+ㄴ	AUX	_	12	aux	_	_	되/px+ㄴ/etm
+14	것은	것+은	NOUN	_	18	dislocated	_	_	것/nbn+은/jxt
+15	결코	결코	ADV	_	18	advmod	_	_	결코/mag
+16	놀라운	놀랍+ㄴ	ADJ	_	17	amod	_	_	놀랍/paa+ㄴ/etm
+17	일이	일+이	NOUN	_	18	csubj	_	_	일/ncpa+이/jcc
+18	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이러한 분위기와 작업들이 모아져 서양인의 선에 대한 폭넓은 관심과 동양에서의 선의 부흥이 나타나게 된 것이다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	분위기와	분위기+와	CCONJ	_	3	conj	_	_	분위기/ncn+와/jcj
+3	작업들이	작업+들+이	NOUN	_	4	nsubj	_	_	작업/ncpa+들/xsn+이/jcs
+4	모아져	모으+아+지+어	SCONJ	_	13	ccomp	_	_	모으/pvg+아/ecx+지/px+어/ecs
+5	서양인의	서양인+의	NOUN	_	6	nmod	_	_	서양인/ncn+의/jcm
+6	선에	선+에	ADV	_	7	obl	_	_	선/ncn+에/jca
+7	대한	대하+ㄴ	VERB	_	9	acl	_	_	대하/pvg+ㄴ/etm
+8	폭넓은	폭넓+ㄴ	ADJ	_	9	amod	_	_	폭넓/paa+ㄴ/etm
+9	관심과	관심+과	CCONJ	_	12	conj	_	_	관심/ncn+과/jcj
+10	동양에서의	동양+에서+의	NOUN	_	12	nmod	_	_	동양/ncn+에서/jca+의/jcm
+11	선의	선+의	NOUN	_	12	nmod	_	_	선/ncn+의/jcm
+12	부흥이	부흥+이	NOUN	_	13	nsubj	_	_	부흥/ncpa+이/jcs
+13	나타나게	나타나+게	VERB	_	0	root	_	_	나타나/pvg+게/ecx
+14	된	되+ㄴ	AUX	_	13	aux	_	_	되/px+ㄴ/etm
+15	것이다	것+이+다	VERB	_	13	aux	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그러나 산업화시대를 살고 있는 오늘날 모든 종교적인 요소들이 일반적으로 감소추세에 있는 것과 마찬가지로 선 역시 대중화 되지 못하고 있는 실정이다 .
+1	그러나	그러나	CCONJ	_	20	cc	_	_	그러나/maj
+2	산업화시대를	산업화+시대+를	NOUN	_	3	obj	_	_	산업화/ncpa+시대/ncn+를/jco
+3	살고	살+고	VERB	_	5	acl	_	_	살/pvg+고/ecx
+4	있는	있+는	AUX	_	3	aux	_	_	있/px+는/etm
+5	오늘날	오늘날	NOUN	_	11	dep	_	_	오늘날/ncn
+6	모든	모든	ADJ	_	8	amod	_	_	모든/mma
+7	종교적인	종교+적+이+ㄴ	VERB	_	8	acl	_	_	종교/ncn+적/xsn+이/jp+ㄴ/etm
+8	요소들이	요소+들+이	NOUN	_	11	nsubj	_	_	요소/ncn+들/xsn+이/jcs
+9	일반적으로	일반+적+으로	ADV	_	11	advcl	_	_	일반/ncn+적/xsn+으로/jca
+10	감소추세에	감소+추세+에	ADV	_	11	obl	_	_	감소/ncpa+추세/ncn+에/jca
+11	있는	있+는	ADJ	_	12	amod	_	_	있/paa+는/etm
+12	것과	것+과	CCONJ	_	13	conj	_	_	것/nbn+과/jct
+13	마찬가지로	마찬가지+로	ADV	_	17	advcl	_	_	마찬가지/ncn+로/jca
+14	선	선	NOUN	_	17	advmod	_	_	선/ncn
+15	역시	역시	ADV	_	17	advmod	_	_	역시/mag
+16	대중화	대중화	NOUN	_	17	dep	_	_	대중화/ncpa
+17	되지	되+지	VERB	_	20	ccomp	_	_	되/pvg+지/ecx
+18	못하고	못하+고	AUX	_	17	aux	_	_	못하/px+고/ecx
+19	있는	있+는	AUX	_	17	aux	_	_	있/px+는/etm
+20	실정이다	실정+이+다	VERB	_	0	root	_	_	실정/ncn+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 모든 종교적인 요소란 삶의 어려움을 회피하려는 마약과 같은 것이라는 냉소적인 표현의 대상에 선을 포함시켜 그 학생은 말하고 있었던 것이다 .
+1	모든	모든	ADJ	_	3	amod	_	_	모든/mma
+2	종교적인	종교+적+이+ㄴ	VERB	_	3	acl	_	_	종교/ncn+적/xsn+이/jp+ㄴ/etm
+3	요소란	요소+란	ADV	_	8	advcl	_	_	요소/ncn+란/jxc
+4	삶의	살+ㅁ+의	NOUN	_	5	nmod	_	_	살/pvg+ㅁ/etn+의/jcm
+5	어려움을	어렵+ㅁ+을	NOUN	_	6	obj	_	_	어렵/paa+ㅁ/etn+을/jco
+6	회피하려는	회피+하+려는	VERB	_	7	acl	_	_	회피/ncpa+하/xsv+려는/etm
+7	마약과	마약+과	CCONJ	_	8	conj	_	_	마약/ncn+과/jct
+8	같은	같+ㄴ	ADJ	_	11	amod	_	_	같/paa+ㄴ/etm
+9	것이라는	것+이+라는	VERB	_	8	aux	_	_	것/nbn+이/jp+라는/etm
+10	냉소적인	냉소+적+이+ㄴ	VERB	_	11	acl	_	_	냉소/ncn+적/xsn+이/jp+ㄴ/etm
+11	표현의	표현+의	NOUN	_	12	nmod	_	_	표현/ncpa+의/jcm
+12	대상에	대상+에	ADV	_	14	obl	_	_	대상/ncn+에/jca
+13	선을	선+을	NOUN	_	14	obj	_	_	선/ncn+을/jco
+14	포함시켜	포함+시키+어	SCONJ	_	17	ccomp	_	_	포함/ncpa+시키/xsv+어/ecs
+15	그	그	DET	_	16	det	_	_	그/mmd
+16	학생은	학생+은	NOUN	_	17	dislocated	_	_	학생/ncn+은/jxt
+17	말하고	말하+고	VERB	_	0	root	_	_	말하/pvg+고/ecx
+18	있었던	있+었+던	AUX	_	17	aux	_	_	있/px+었/ep+던/etm
+19	것이다	것+이+다	VERB	_	17	aux	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 그러나 선을 수행해 본 사람들은 선이 갖는 유익한 영향을 분명 확신한다 .
+1	그러나	그러나	CCONJ	_	11	cc	_	_	그러나/maj
+2	선을	선+을	NOUN	_	3	obj	_	_	선/ncn+을/jco
+3	수행해	수행+하+어	VERB	_	5	acl	_	_	수행/ncpa+하/xsv+어/ecx
+4	본	보+ㄴ	AUX	_	3	aux	_	_	보/px+ㄴ/etm
+5	사람들은	사람+들+은	NOUN	_	11	dislocated	_	_	사람/ncn+들/xsn+은/jxt
+6	선이	선+이	NOUN	_	7	nsubj	_	_	선/ncn+이/jcs
+7	갖는	갖+는	VERB	_	9	acl	_	_	갖/pvg+는/etm
+8	유익한	유익+하+ㄴ	VERB	_	9	amod	_	_	유익/ncps+하/xsm+ㄴ/etm
+9	영향을	영향+을	NOUN	_	11	obj	_	_	영향/ncn+을/jco
+10	분명	분명	ADV	_	11	advmod	_	_	분명/mag
+11	확신한다	확신+하+ㄴ다	VERB	_	0	root	_	_	확신/ncpa+하/xsv+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 또 극소수이기는 하지만 일부 사람들은 10년이 걸리기도 하는 수행과정을 끝까지 실행하여 그 최종 목표지점에 이르고자 노력한다 .
+1	또	또	CCONJ	_	16	cc	_	_	또/maj
+2	극소수이기는	극소수+이+기+는	NOUN	_	3	dislocated	_	_	극소수/ncn+이/jp+기/etn+는/jxt
+3	하지만	하+지만	SCONJ	_	16	ccomp	_	_	하/pvg+지만/ecs
+4	일부	일부	NOUN	_	5	compound	_	_	일부/ncn
+5	사람들은	사람+들+은	NOUN	_	16	dislocated	_	_	사람/ncn+들/xsn+은/jxt
+6	10년이	10+년+이	NUM	_	7	nsubj	_	_	10/nnc+년/nbu+이/jcs
+7	걸리기도	걸리+기+도	ADV	_	9	acl	_	_	걸리/pvg+기/etn+도/jxc
+8	하는	하+는	AUX	_	7	aux	_	_	하/px+는/etm
+9	수행과정을	수행+과정+을	NOUN	_	11	obj	_	_	수행/ncpa+과정/ncn+을/jco
+10	끝까지	끝+까지	ADV	_	11	advcl	_	_	끝/ncn+까지/jxc
+11	실행하여	실행+하+어	SCONJ	_	16	ccomp	_	_	실행/ncpa+하/xsv+어/ecs
+12	그	그	DET	_	13	det	_	_	그/mmd
+13	최종	최종	NOUN	_	14	compound	_	_	최종/ncn
+14	목표지점에	목표+지점+에	ADV	_	15	obl	_	_	목표/ncpa+지점/ncn+에/jca
+15	이르고자	이르+고자	SCONJ	_	16	ccomp	_	_	이르/pvg+고자/ecs
+16	노력한다	노력+하+ㄴ다	VERB	_	0	root	_	_	노력/ncpa+하/xsv+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 필자는 그렇다고 확신한다 .
+1	필자는	필자+는	NOUN	_	2	dislocated	_	_	필자/ncn+는/jxt
+2	그렇다고	그렇+다고	SCONJ	_	3	xcomp	_	_	그렇/pad+다고/ecs
+3	확신한다	확신+하+ㄴ다	VERB	_	0	root	_	_	확신/ncpa+하/xsv+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 아무튼 왜 이들은 그렇게도 어려운 수행을 마다하지 않고 하고 있는 것일까 .
+1	아무튼	아무튼	ADV	_	9	advmod	_	_	아무튼/mag
+2	왜	왜	ADV	_	1	advmod	_	_	왜/mag
+3	이들은	이+들+은	PRON	_	7	dislocated	_	_	이/npp+들/xsn+은/jxt
+4	그렇게도	그렇+게도	SCONJ	_	5	xcomp	_	_	그렇/pad+게도/ecs
+5	어려운	어렵+ㄴ	ADJ	_	6	amod	_	_	어렵/paa+ㄴ/etm
+6	수행을	수행+을	NOUN	_	7	obj	_	_	수행/ncpa+을/jco
+7	마다하지	마다하+지	VERB	_	9	conj	_	_	마다하/pvg+지/ecx
+8	않고	않+고	CCONJ	_	7	aux	_	_	않/px+고/ecc
+9	하고	하+고	VERB	_	0	root	_	_	하/pvg+고/ecx
+10	있는	있+는	AUX	_	9	aux	_	_	있/px+는/etm
+11	것일까	것+이+ㄹ까	VERB	_	9	aux	_	_	것/nbn+이/jp+ㄹ까/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 한 승려는 필자에게 지도자의 위치에 있는 사람들은 선 명상이 자신들의 지도자적 품격에 필요한 도덕적 힘을 기르는데 필수적인 요소로 생각한다고 말해주었다 .
+1	한	한	NUM	_	2	nummod	_	_	한/nnc
+2	승려는	승려+는	NOUN	_	20	dislocated	_	_	승려/ncn+는/jxt
+3	필자에게	필자+에게	ADV	_	20	iobj	_	_	필자/ncn+에게/jca
+4	지도자의	지도자+의	NOUN	_	5	nmod	_	_	지도자/ncn+의/jcm
+5	위치에	위치+에	ADV	_	6	obl	_	_	위치/ncn+에/jca
+6	있는	있+는	ADJ	_	7	amod	_	_	있/paa+는/etm
+7	사람들은	사람+들+은	NOUN	_	19	dislocated	_	_	사람/ncn+들/xsn+은/jxt
+8	선	선	NOUN	_	9	compound	_	_	선/ncn
+9	명상이	명상+이	NOUN	_	13	nsubj	_	_	명상/ncpa+이/jcs
+10	자신들의	자신+들+의	NOUN	_	12	nmod	_	_	자신/ncn+들/xsn+의/jcm
+11	지도자적	지도자+적	NOUN	_	12	amod	_	_	지도자/ncn+적/xsn
+12	품격에	품격+에	ADV	_	13	obl	_	_	품격/ncn+에/jca
+13	필요한	필요+하+ㄴ	VERB	_	15	amod	_	_	필요/ncps+하/xsm+ㄴ/etm
+14	도덕적	도덕+적	NOUN	_	15	amod	_	_	도덕/ncn+적/xsn
+15	힘을	힘+을	NOUN	_	16	obj	_	_	힘/ncn+을/jco
+16	기르는데	기르+는데	SCONJ	_	17	ccomp	_	_	기르/pvg+는데/ecs
+17	필수적인	필수+적+이+ㄴ	VERB	_	18	acl	_	_	필수/ncn+적/xsn+이/jp+ㄴ/etm
+18	요소로	요소+로	ADV	_	19	advcl	_	_	요소/ncn+로/jca
+19	생각한다고	생각+하+ㄴ다고	SCONJ	_	20	ccomp	_	_	생각/ncpa+하/xsv+ㄴ다고/ecs
+20	말해주었다	말하+어+주+었+다	AUX	_	0	root	_	_	말하/pvg+어/ecx+주/px+었/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 또 예술가들은 선이 이루어내는 마음의 정화가 글쓰기 , 그림그리기 , 조각은 물론 음악 등에서 뭔가 창조적인 활동을 촉발시켜 준다고 한다 .
+1	또	또	CCONJ	_	20	cc	_	_	또/maj
+2	예술가들은	예술가+들+은	NOUN	_	20	dislocated	_	_	예술가/ncn+들/xsn+은/jxt
+3	선이	선+이	NOUN	_	4	nsubj	_	_	선/ncn+이/jcs
+4	이루어내는	이루+어+내+는	AUX	_	6	acl	_	_	이루/pvg+어/ecx+내/px+는/etm
+5	마음의	마음+의	NOUN	_	6	nmod	_	_	마음/ncn+의/jcm
+6	정화가	정화+가	NOUN	_	18	nsubj	_	_	정화/ncpa+가/jcs
+7	글쓰기	글쓰기	NOUN	_	9	conj	_	_	글쓰기/ncn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	그림그리기	그림그리기	NOUN	_	11	conj	_	_	그림그리기/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	조각은	조각+은	NOUN	_	12	dislocated	_	_	조각/ncn+은/jxt
+12	물론	물론	ADV	_	13	advmod	_	_	물론/mag
+13	음악	음악	NOUN	_	14	compound	_	_	음악/ncn
+14	등에서	등+에서	ADV	_	18	advcl	_	_	등/nbn+에서/jca
+15	뭔가	무엇+이+ㄴ가	VERB	_	16	advmod	_	_	무엇/npd+이/jp+ㄴ가/ef
+16	창조적인	창조+적+이+ㄴ	VERB	_	17	acl	_	_	창조/ncpa+적/xsn+이/jp+ㄴ/etm
+17	활동을	활동+을	NOUN	_	18	obj	_	_	활동/ncpa+을/jco
+18	촉발시켜	촉발+시키+어	VERB	_	20	ccomp	_	_	촉발/ncpa+시키/xsv+어/ecx
+19	준다고	주+ㄴ다고	SCONJ	_	18	aux	_	_	주/px+ㄴ다고/ecs
+20	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그리고 일본의 젊은 신입사원들은 면담과정에서 선 수행 경력을 질문 받는다고 한다 .
+1	그리고	그리고	CCONJ	_	11	cc	_	_	그리고/maj
+2	일본의	일본+의	PROPN	_	4	nmod	_	_	일본/nq+의/jcm
+3	젊은	젊+ㄴ	ADJ	_	4	amod	_	_	젊/paa+ㄴ/etm
+4	신입사원들은	신입사원+들+은	NOUN	_	10	dislocated	_	_	신입사원/ncn+들/xsn+은/jxt
+5	면담과정에서	면담+과정+에서	ADV	_	10	advcl	_	_	면담/ncpa+과정/ncn+에서/jca
+6	선	선	NOUN	_	7	compound	_	_	선/ncn
+7	수행	수행	NOUN	_	8	compound	_	_	수행/ncpa
+8	경력을	경력+을	NOUN	_	10	obj	_	_	경력/ncn+을/jco
+9	질문	질문	NOUN	_	10	dep	_	_	질문/ncpa
+10	받는다고	받+는다고	SCONJ	_	11	ccomp	_	_	받/pvg+는다고/ecs
+11	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그것은 선이 원기와 활력 그리고 일에 대한 몰두능력을 주는 주된 요인으로 평가받고 있기 때문이다 .
+1	그것은	그것+은	PRON	_	12	dislocated	_	_	그것/npd+은/jxt
+2	선이	선+이	NOUN	_	12	nsubj	_	_	선/ncn+이/jcs
+3	원기와	원기+와	CCONJ	_	4	conj	_	_	원기/ncn+와/jcj
+4	활력	활력	NOUN	_	8	conj	_	_	활력/ncn
+5	그리고	그리고	CCONJ	_	8	cc	_	_	그리고/maj
+6	일에	일+에	ADV	_	7	obl	_	_	일/ncpa+에/jca
+7	대한	대하+ㄴ	VERB	_	8	acl	_	_	대하/pvg+ㄴ/etm
+8	몰두능력을	몰두+능력+을	NOUN	_	9	obj	_	_	몰두/ncpa+능력/ncn+을/jco
+9	주는	주+는	VERB	_	11	acl	_	_	주/pvg+는/etm
+10	주된	주되+ㄴ	VERB	_	11	acl	_	_	주되/pvg+ㄴ/etm
+11	요인으로	요인+으로	ADV	_	12	advcl	_	_	요인/ncn+으로/jca
+12	평가받고	평가받+고	VERB	_	0	root	_	_	평가받/pvg+고/ecx
+13	있기	있+기	AUX	_	12	aux	_	_	있/px+기/etn
+14	때문이다	때문+이+다	VERB	_	12	aux	_	_	때문/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 선은 또한 옛날 일본의 무사계급에 의해 수행되었던 것과 같이 스포츠맨들에 의해 활용된다 .
+1	선은	선+은	NOUN	_	12	dislocated	_	_	선/ncn+은/jxt
+2	또한	또한	ADV	_	12	advmod	_	_	또한/mag
+3	옛날	옛날	NOUN	_	7	advmod	_	_	옛날/ncn
+4	일본의	일본+의	PROPN	_	5	nmod	_	_	일본/nq+의/jcm
+5	무사계급에	무사+계급+에	ADV	_	6	obl	_	_	무사/ncn+계급/ncn+에/jca
+6	의해	의하+어	SCONJ	_	7	ccomp	_	_	의하/pvg+어/ecs
+7	수행되었던	수행+되+었+던	VERB	_	8	acl	_	_	수행/ncpa+되/xsv+었/ep+던/etm
+8	것과	것+과	CCONJ	_	9	conj	_	_	것/nbn+과/jct
+9	같이	같+이	SCONJ	_	12	xcomp	_	_	같/paa+이/ecs
+10	스포츠맨들에	스포츠맨+들+에	ADV	_	11	obl	_	_	스포츠맨/ncn+들/xsn+에/jca
+11	의해	의하+어	SCONJ	_	12	ccomp	_	_	의하/pvg+어/ecs
+12	활용된다	활용+되+ㄴ다	VERB	_	0	root	_	_	활용/ncpa+되/xsv+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+

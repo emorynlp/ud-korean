@@ -1,0 +1,1055 @@
+# 체내에 흡수된 대부분의 아미노산을 동원하여 필요한 각종 단백질을 합성한다 .
+1	체내에	체내+에	ADV	_	2	obl	_	_	체내/ncn+에/jca
+2	흡수된	흡수+되+ㄴ	VERB	_	4	acl	_	_	흡수/ncpa+되/xsv+ㄴ/etm
+3	대부분의	대부분+의	NOUN	_	4	nmod	_	_	대부분/ncn+의/jcm
+4	아미노산을	아미노산+을	NOUN	_	5	obj	_	_	아미노산/ncn+을/jco
+5	동원하여	동원+하+어	SCONJ	_	9	ccomp	_	_	동원/ncpa+하/xsv+어/ecs
+6	필요한	필요+하+ㄴ	VERB	_	8	amod	_	_	필요/ncps+하/xsm+ㄴ/etm
+7	각종	각종	NOUN	_	8	compound	_	_	각종/ncn
+8	단백질을	단백질+을	NOUN	_	9	obj	_	_	단백질/ncn+을/jco
+9	합성한다	합성+하+ㄴ다	VERB	_	0	root	_	_	합성/ncpa+하/xsv+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 각종 약제를 복용하면 간에서 분해하여 해독한 후 배설된다 .
+1	각종	각종	NOUN	_	2	compound	_	_	각종/ncn
+2	약제를	약제+를	NOUN	_	3	obj	_	_	약제/ncn+를/jco
+3	복용하면	복용+하+면	SCONJ	_	8	ccomp	_	_	복용/ncpa+하/xsv+면/ecs
+4	간에서	간+에서	ADV	_	6	advcl	_	_	간/ncn+에서/jca
+5	분해하여	분해+하+어	SCONJ	_	6	ccomp	_	_	분해/ncpa+하/xsv+어/ecs
+6	해독한	해독+하+ㄴ	VERB	_	7	acl	_	_	해독/ncpa+하/xsv+ㄴ/etm
+7	후	후	NOUN	_	8	compound	_	_	후/ncn
+8	배설된다	배설+되+ㄴ다	VERB	_	0	root	_	_	배설/ncpa+되/xsv+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 전신피로감이나 무력감은 간의 이상에서 매우 흔하다 .
+1	전신피로감이나	전신피로감+이나	CCONJ	_	2	conj	_	_	전신피로감/ncn+이나/jcj
+2	무력감은	무력감+은	NOUN	_	6	dislocated	_	_	무력감/ncn+은/jxt
+3	간의	간+의	NOUN	_	4	nmod	_	_	간/ncn+의/jcm
+4	이상에서	이상+에서	ADV	_	6	advcl	_	_	이상/ncps+에서/jca
+5	매우	매우	ADV	_	6	advmod	_	_	매우/mag
+6	흔하다	흔하+다	ADJ	_	0	root	_	_	흔하/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 간염이나 암으로 간이 부으면 오른쪽 가슴 밑에 뻐근한 통증이 나타날 수도 있다 .
+1	간염이나	간염+이나	CCONJ	_	2	conj	_	_	간염/ncn+이나/jcj
+2	암으로	암+으로	ADV	_	4	advcl	_	_	암/ncn+으로/jca
+3	간이	간+이	NOUN	_	4	nsubj	_	_	간/ncn+이/jcs
+4	부으면	붓+으면	SCONJ	_	10	ccomp	_	_	붓/pvg+으면/ecs
+5	오른쪽	오른쪽	NOUN	_	6	compound	_	_	오른쪽/ncn
+6	가슴	가슴	NOUN	_	7	compound	_	_	가슴/ncn
+7	밑에	밑+에	ADV	_	10	obl	_	_	밑/ncn+에/jca
+8	뻐근한	뻐근하+ㄴ	ADJ	_	9	amod	_	_	뻐근하/paa+ㄴ/etm
+9	통증이	통증+이	NOUN	_	10	nsubj	_	_	통증/ncn+이/jcs
+10	나타날	나타나+ㄹ	VERB	_	0	root	_	_	나타나/pvg+ㄹ/etm
+11	수도	수+도	ADV	_	12	fixed	_	_	수/nbn+도/jxc
+12	있다	있+다	ADJ	_	10	aux	_	_	있/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 목이나 어깨에 거미줄 모양의 반점이 생기고 손바닥 혈관이 확장되어 뻘겋게 보이기도 한다 .
+1	목이나	목+이나	CCONJ	_	2	conj	_	_	목/ncn+이나/jcj
+2	어깨에	어깨+에	ADV	_	6	obl	_	_	어깨/ncn+에/jca
+3	거미줄	거미줄	NOUN	_	4	compound	_	_	거미줄/ncn
+4	모양의	모양+의	NOUN	_	5	nmod	_	_	모양/ncn+의/jcm
+5	반점이	반점+이	NOUN	_	6	nsubj	_	_	반점/ncn+이/jcs
+6	생기고	생기+고	CCONJ	_	11	conj	_	_	생기/pvg+고/ecc
+7	손바닥	손바닥	NOUN	_	8	compound	_	_	손바닥/ncn
+8	혈관이	혈관+이	NOUN	_	9	nsubj	_	_	혈관/ncn+이/jcs
+9	확장되어	확장+되+어	SCONJ	_	11	ccomp	_	_	확장/ncpa+되/xsv+어/ecs
+10	뻘겋게	뻘겋+게	SCONJ	_	11	xcomp	_	_	뻘겋/paa+게/ecs
+11	보이기도	보이+기+도	ADV	_	0	root	_	_	보이/pvg+기/etn+도/jxc
+12	한다	하+ㄴ다	AUX	_	11	aux	_	_	하/px+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 잇몸이나 코에서 피가 쉽게 나고 멍이 잘 드는 출혈성 경향도 있다 .
+1	잇몸이나	잇몸+이나	CCONJ	_	2	conj	_	_	잇몸/ncn+이나/jcj
+2	코에서	코+에서	ADV	_	5	advcl	_	_	코/ncn+에서/jca
+3	피가	피+가	NOUN	_	5	nsubj	_	_	피/ncn+가/jcs
+4	쉽게	쉽+게	SCONJ	_	5	xcomp	_	_	쉽/paa+게/ecs
+5	나고	나+고	CCONJ	_	8	conj	_	_	나/pvg+고/ecc
+6	멍이	멍+이	NOUN	_	8	nsubj	_	_	멍/ncn+이/jcs
+7	잘	잘	ADV	_	8	advmod	_	_	잘/mag
+8	드는	들+는	VERB	_	10	acl	_	_	들/pvg+는/etm
+9	출혈성	출혈성	NOUN	_	10	compound	_	_	출혈성/ncn
+10	경향도	경향+도	ADV	_	11	advcl	_	_	경향/ncn+도/jxc
+11	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 즉 남자의 유방이 커지고 , 음모가 빠지거나 성욕이 감퇴하며 고환이 위축되기도 한다 .
+1	즉	즉	CCONJ	_	11	cc	_	_	즉/maj
+2	남자의	남자+의	NOUN	_	3	nmod	_	_	남자/ncn+의/jcm
+3	유방이	유방+이	NOUN	_	4	nsubj	_	_	유방/ncn+이/jcs
+4	커지고	커지+고	CCONJ	_	7	conj	_	_	커지/pvg+고/ecc
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	음모가	음모+가	NOUN	_	7	nsubj	_	_	음모/ncn+가/jcs
+7	빠지거나	빠지+거나	CCONJ	_	9	conj	_	_	빠지/pvg+거나/ecc
+8	성욕이	성욕+이	NOUN	_	9	nsubj	_	_	성욕/ncn+이/jcs
+9	감퇴하며	감퇴+하+며	CCONJ	_	11	conj	_	_	감퇴/ncpa+하/xsv+며/ecc
+10	고환이	고환+이	NOUN	_	11	nsubj	_	_	고환/ncn+이/jcs
+11	위축되기도	위축+되+기+도	ADV	_	0	root	_	_	위축/ncpa+되/xsv+기/etn+도/jxc
+12	한다	하+ㄴ다	AUX	_	11	aux	_	_	하/px+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 만성 간질환의 합병증 복수현상이 나타난다 .
+1	만성	만성	NOUN	_	2	compound	_	_	만성/ncn
+2	간질환의	간질환+의	NOUN	_	3	nmod	_	_	간질환/ncn+의/jcm
+3	합병증	합병증	NOUN	_	4	compound	_	_	합병증/ncn
+4	복수현상이	복수+현상+이	NOUN	_	5	nsubj	_	_	복수/ncn+현상/ncn+이/jcs
+5	나타난다	나타나+ㄴ다	VERB	_	0	root	_	_	나타나/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 심하면 배꼽이 빠지기도 한다 .
+1	심하면	심하+면	SCONJ	_	3	xcomp	_	_	심하/paa+면/ecs
+2	배꼽이	배꼽+이	NOUN	_	3	nsubj	_	_	배꼽/ncn+이/jcs
+3	빠지기도	빠지+기+도	ADV	_	0	root	_	_	빠지/pvg+기/etn+도/jxc
+4	한다	하+ㄴ다	AUX	_	3	aux	_	_	하/px+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 다리가 붓는 수도 많다 .
+1	다리가	다리+가	NOUN	_	2	nsubj	_	_	다리/ncn+가/jcs
+2	붓는	붓+는	VERB	_	3	acl	_	_	붓/pvg+는/etm
+3	수도	수+도	ADV	_	4	advcl	_	_	수/ncn+도/jxc
+4	많다	많+다	ADJ	_	0	root	_	_	많/paa+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 간경변증 환자는 간이 굳어 혈류가 제대로 간을 통과하지 못하므로 식도정맥류를 형성하여 흐른다 .
+1	간경변증	간경변증	NOUN	_	2	compound	_	_	간경변증/ncn
+2	환자는	환자+는	NOUN	_	12	dislocated	_	_	환자/ncn+는/jxt
+3	간이	간+이	NOUN	_	4	nsubj	_	_	간/ncn+이/jcs
+4	굳어	굳+어	SCONJ	_	8	ccomp	_	_	굳/pvg+어/ecs
+5	혈류가	혈류+가	NOUN	_	8	nsubj	_	_	혈류/ncn+가/jcs
+6	제대로	제대로	ADV	_	8	advmod	_	_	제대로/mag
+7	간을	간+을	NOUN	_	8	obj	_	_	간/ncn+을/jco
+8	통과하지	통과+하+지	VERB	_	12	ccomp	_	_	통과/ncpa+하/xsv+지/ecx
+9	못하므로	못하+므로	SCONJ	_	8	aux	_	_	못하/px+므로/ecs
+10	식도정맥류를	식도정맥류+를	NOUN	_	11	obj	_	_	식도정맥류/ncn+를/jco
+11	형성하여	형성+하+어	SCONJ	_	12	ccomp	_	_	형성/ncpa+하/xsv+어/ecs
+12	흐른다	흐르+ㄴ다	VERB	_	0	root	_	_	흐르/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 간염바이러스에 의하여 일어나는 급성 간염이다 .
+1	간염바이러스에	간염+바이러스+에	ADV	_	2	obl	_	_	간염/ncn+바이러스/ncn+에/jca
+2	의하여	의하+어	SCONJ	_	3	ccomp	_	_	의하/pvg+어/ecs
+3	일어나는	일어나+는	VERB	_	5	ccomp	_	_	일어나/pvg+는/etm
+4	급성	급성	NOUN	_	5	compound	_	_	급성/ncn
+5	간염이다	간염+이+다	VERB	_	0	root	_	_	간염/ncn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 만성 간염은 증상이 거의 나타나지 않는다 .
+1	만성	만성	NOUN	_	2	compound	_	_	만성/ncn
+2	간염은	간염+은	NOUN	_	5	dislocated	_	_	간염/ncn+은/jxt
+3	증상이	증상+이	NOUN	_	5	nsubj	_	_	증상/ncn+이/jcs
+4	거의	거의	ADV	_	5	advmod	_	_	거의/mag
+5	나타나지	나타나+지	VERB	_	0	root	_	_	나타나/pvg+지/ecx
+6	않는다	않+는다	AUX	_	5	aux	_	_	않/px+는다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이런 현상은 대개 간혈관이 변형돼 장에서 간으로 들어가는 정맥인 문맥의 혈압이 높아져 나타나는 증세들이다 .
+1	이런	이런	DET	_	2	det	_	_	이런/mmd
+2	현상은	현상+은	NOUN	_	14	dislocated	_	_	현상/ncpa+은/jxt
+3	대개	대개	ADV	_	13	advmod	_	_	대개/mag
+4	간혈관이	간혈관+이	NOUN	_	5	nsubj	_	_	간혈관/ncn+이/jcs
+5	변형돼	변형+되+어	SCONJ	_	12	ccomp	_	_	변형/ncpa+되/xsv+어/ecs
+6	장에서	장+에서	ADV	_	8	advcl	_	_	장/ncn+에서/jca
+7	간으로	간+으로	ADV	_	8	advcl	_	_	간/ncn+으로/jca
+8	들어가는	들어가+는	VERB	_	9	ccomp	_	_	들어가/pvg+는/etm
+9	정맥인	정맥+이+ㄴ	VERB	_	10	acl	_	_	정맥/ncn+이/jp+ㄴ/etm
+10	문맥의	문맥+의	NOUN	_	11	nmod	_	_	문맥/ncn+의/jcm
+11	혈압이	혈압+이	NOUN	_	12	nsubj	_	_	혈압/ncn+이/jcs
+12	높아져	높아지+어	SCONJ	_	13	ccomp	_	_	높아지/pvg+어/ecs
+13	나타나는	나타나+는	VERB	_	14	ccomp	_	_	나타나/pvg+는/etm
+14	증세들이다	증세+들+이+다	VERB	_	0	root	_	_	증세/ncn+들/xsn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 당분은 알코올 , 밥 , 빵 , 면류 , 과자 등에 다량 함유되어 있다 .
+1	당분은	당분+은	NOUN	_	13	dislocated	_	_	당분/ncn+은/jxt
+2	알코올	알코올	NOUN	_	4	conj	_	_	알코올/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	밥	밥	NOUN	_	6	conj	_	_	밥/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	빵	빵	NOUN	_	8	conj	_	_	빵/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	면류	면류	NOUN	_	10	conj	_	_	면류/ncn
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	과자	과자	NOUN	_	11	compound	_	_	과자/ncn
+11	등에	등+에	ADV	_	13	obl	_	_	등/nbn+에/jca
+12	다량	다량	NOUN	_	13	compound	_	_	다량/ncn
+13	함유되어	함유+되+어	VERB	_	0	root	_	_	함유/ncpa+되/xsv+어/ecx
+14	있다	있+다	AUX	_	13	aux	_	_	있/px+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이것을 실천하지 않으면 보약도 백해무익하다 .
+1	이것을	이것+을	PRON	_	2	obj	_	_	이것/npd+을/jco
+2	실천하지	실천+하+지	VERB	_	5	conj	_	_	실천/ncpa+하/xsv+지/ecx
+3	않으면	않+으면	SCONJ	_	2	aux	_	_	않/px+으면/ecs
+4	보약도	보약+도	ADV	_	5	advcl	_	_	보약/ncn+도/jxc
+5	백해무익하다	백해무익+하+다	VERB	_	0	root	_	_	백해무익/ncps+하/xsm+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 빌리루빈은 직접형과 간접형 두 종류가 있는데 , 직접형은 간에서 처리되므로 이것이 많으면 간에 장애가 있다 .
+1	빌리루빈은	빌리루빈+은	NOUN	_	6	dislocated	_	_	빌리루빈/ncn+은/jxt
+2	직접형과	직접형+과	CCONJ	_	3	conj	_	_	직접형/ncn+과/jcj
+3	간접형	간접형	NOUN	_	5	compound	_	_	간접형/ncn
+4	두	두	NUM	_	5	nummod	_	_	두/nnc
+5	종류가	종류+가	NOUN	_	6	nsubj	_	_	종류/ncn+가/jcs
+6	있는데	있+는데	SCONJ	_	15	xcomp	_	_	있/paa+는데/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	직접형은	직접형+은	NOUN	_	10	dislocated	_	_	직접형/ncn+은/jxt
+9	간에서	간+에서	ADV	_	10	advcl	_	_	간/ncn+에서/jca
+10	처리되므로	처리+되+므로	SCONJ	_	12	conj	_	_	처리/ncpa+되/xsv+므로/ecs
+11	이것이	이것+이	PRON	_	12	nsubj	_	_	이것/npd+이/jcs
+12	많으면	많+으면	SCONJ	_	15	xcomp	_	_	많/paa+으면/ecs
+13	간에	간+에	ADV	_	15	obl	_	_	간/ncn+에/jca
+14	장애가	장애+가	NOUN	_	15	nsubj	_	_	장애/ncn+가/jcs
+15	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 혈청 단백의 주축은 알부민과 글로불린인데 , 알부민은 간에 장애가 있으면 현저히 감소된다 .
+1	혈청	혈청	NOUN	_	2	compound	_	_	혈청/ncn
+2	단백의	단백+의	NOUN	_	3	nmod	_	_	단백/ncn+의/jcm
+3	주축은	주축+은	NOUN	_	5	dislocated	_	_	주축/ncn+은/jxt
+4	알부민과	알부민+과	CCONJ	_	5	dep	_	_	알부민/ncn+과/jcj
+5	글로불린인데	글로불린+이+ㄴ데	SCONJ	_	12	ccomp	_	_	글로불린/ncn+이/jp+ㄴ데/ecs
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	알부민은	알부민+은	NOUN	_	12	dislocated	_	_	알부민/ncn+은/jxt
+8	간에	간+에	ADV	_	10	obl	_	_	간/ncn+에/jca
+9	장애가	장애+가	NOUN	_	10	nsubj	_	_	장애/ncn+가/jcs
+10	있으면	있+으면	SCONJ	_	12	xcomp	_	_	있/paa+으면/ecs
+11	현저히	현저히	ADV	_	12	advmod	_	_	현저히/mag
+12	감소된다	감소+되+ㄴ다	VERB	_	0	root	_	_	감소/ncpa+되/xsv+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 글로불린은 감마글로불린이라는 종류를 제외하고 간에서 합성되므로 수치가 이상하면 간의 장애가 의심된다 .
+1	글로불린은	글로불린+은	NOUN	_	6	dislocated	_	_	글로불린/ncn+은/jxt
+2	감마글로불린이라는	감마글로불린+이+라는	VERB	_	3	acl	_	_	감마글로불린/ncn+이/jp+라는/etm
+3	종류를	종류+를	NOUN	_	4	obj	_	_	종류/ncn+를/jco
+4	제외하고	제외+하+고	CCONJ	_	6	conj	_	_	제외/ncpa+하/xsv+고/ecc
+5	간에서	간+에서	ADV	_	6	advcl	_	_	간/ncn+에서/jca
+6	합성되므로	합성+되+므로	SCONJ	_	8	conj	_	_	합성/ncpa+되/xsv+므로/ecs
+7	수치가	수치+가	NOUN	_	8	nsubj	_	_	수치/ncps+가/jcs
+8	이상하면	이상+하+면	SCONJ	_	11	xcomp	_	_	이상/ncps+하/xsm+면/ecs
+9	간의	간+의	NOUN	_	10	nmod	_	_	간/ncn+의/jcm
+10	장애가	장애+가	NOUN	_	11	nsubj	_	_	장애/ncn+가/jcs
+11	의심된다	의심+되+ㄴ다	VERB	_	0	root	_	_	의심/ncpa+되/xsv+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이 색소를 정맥에 주사하여 얼마간의 시간이 지난 후에 혈액 속의 양을 조사하는 방법이다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	색소를	색소+를	NOUN	_	4	obj	_	_	색소/ncn+를/jco
+3	정맥에	정맥+에	ADV	_	4	obl	_	_	정맥/ncn+에/jca
+4	주사하여	주사+하+어	SCONJ	_	7	ccomp	_	_	주사/ncpa+하/xsv+어/ecs
+5	얼마간의	얼마간+의	NOUN	_	6	nmod	_	_	얼마간/ncn+의/jcm
+6	시간이	시간+이	NOUN	_	7	nsubj	_	_	시간/ncn+이/jcs
+7	지난	지나+ㄴ	VERB	_	8	acl	_	_	지나/pvg+ㄴ/etm
+8	후에	후+에	ADV	_	12	obl	_	_	후/ncn+에/jca
+9	혈액	혈액	NOUN	_	10	compound	_	_	혈액/ncn
+10	속의	속+의	NOUN	_	11	nmod	_	_	속/ncn+의/jcm
+11	양을	양+을	NOUN	_	12	obj	_	_	양/ncn+을/jco
+12	조사하는	조사+하+는	VERB	_	13	ccomp	_	_	조사/ncpa+하/xsv+는/etm
+13	방법이다	방법+이+다	VERB	_	0	root	_	_	방법/ncn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 셋째 , 한번 쓴 식용유에서 튀긴 음식 , 화학조미료 , 인공색소음료 , 감기약 , 항생제는 금한다 .
+1	셋째	셋째	NUM	_	16	nummod	_	_	셋째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	한번	한번	NOUN	_	4	dep	_	_	한번/ncn
+4	쓴	쓰+ㄴ	VERB	_	5	acl	_	_	쓰/pvg+ㄴ/etm
+5	식용유에서	식용유+에서	ADV	_	6	advcl	_	_	식용유/ncn+에서/jca
+6	튀긴	튀기+ㄴ	VERB	_	7	acl	_	_	튀기/pvg+ㄴ/etm
+7	음식	음식	NOUN	_	15	compound	_	_	음식/ncn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	화학조미료	화학+조미료	NOUN	_	15	compound	_	_	화학/ncn+조미료/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	인공색소음료	인공+색소+음료	NOUN	_	15	compound	_	_	인공/ncn+색소/ncn+음료/ncn
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	감기약	감기약	NOUN	_	15	compound	_	_	감기약/ncn
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	항생제는	항생제+는	NOUN	_	16	dislocated	_	_	항생제/ncn+는/jxt
+16	금한다	금하+ㄴ다	VERB	_	0	root	_	_	금하/pvg+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 활동성 간염일 때는 복수성 종양 , 항암에 큰 효력이 있는 운지버섯 추출물 코리오루스 성분을 첨가하면 더욱 효과적이다 .
+1	활동성	활동성	NOUN	_	2	compound	_	_	활동성/ncn
+2	간염일	간염+이+ㄹ	VERB	_	3	acl	_	_	간염/ncn+이/jp+ㄹ/etm
+3	때는	때+는	NOUN	_	17	dislocated	_	_	때/ncn+는/jxt
+4	복수성	복수성	NOUN	_	5	compound	_	_	복수성/ncn
+5	종양	종양	NOUN	_	7	compound	_	_	종양/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	항암에	항암+에	ADV	_	10	obl	_	_	항암/ncn+에/jca
+8	큰	크+ㄴ	ADJ	_	9	amod	_	_	크/paa+ㄴ/etm
+9	효력이	효력+이	NOUN	_	10	nsubj	_	_	효력/ncn+이/jcs
+10	있는	있+는	ADJ	_	12	amod	_	_	있/paa+는/etm
+11	운지버섯	운지버섯	NOUN	_	12	compound	_	_	운지버섯/ncn
+12	추출물	추출물	NOUN	_	14	compound	_	_	추출물/ncn
+13	코리오루스	코리오루스	NOUN	_	14	compound	_	_	코리오루스/ncn
+14	성분을	성분+을	NOUN	_	15	obj	_	_	성분/ncn+을/jco
+15	첨가하면	첨가+하+면	SCONJ	_	17	ccomp	_	_	첨가/ncpa+하/xsv+면/ecs
+16	더욱	더욱	ADV	_	17	advmod	_	_	더욱/mag
+17	효과적이다	효과+적+이+다	VERB	_	0	root	_	_	효과/ncn+적/xsn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 간경변환자의 경우 복수가 찼을 때에는 절대 무염식을 한다 .
+1	간경변환자의	간경변환자+의	NOUN	_	2	nmod	_	_	간경변환자/ncn+의/jcm
+2	경우	경우	NOUN	_	4	advmod	_	_	경우/ncn
+3	복수가	복수+가	NOUN	_	4	nsubj	_	_	복수/ncn+가/jcs
+4	찼을	차+ㅆ+ㄹ	VERB	_	5	acl	_	_	차/pvg+ㅆ/ep+ㄹ/etm
+5	때에는	때+에+는	NOUN	_	8	dislocated	_	_	때/ncn+에/jca+는/jxt
+6	절대	절대	ADV	_	8	advmod	_	_	절대/mag
+7	무염식을	무염식+을	NOUN	_	8	obj	_	_	무염식/ncn+을/jco
+8	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 육류 , 계란 , 우유를 제한하고 통조림 , 소시지 , 치즈 , 아이스크림 , 빵 , 케익도 금지한다 .
+1	육류	육류	NOUN	_	3	conj	_	_	육류/ncn
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	계란	계란	NOUN	_	5	conj	_	_	계란/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	우유를	우유+를	NOUN	_	6	obj	_	_	우유/ncn+를/jco
+6	제한하고	제한+하+고	CCONJ	_	18	conj	_	_	제한/ncpa+하/xsv+고/ecc
+7	통조림	통조림	NOUN	_	9	conj	_	_	통조림/ncn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	소시지	소시지	NOUN	_	11	conj	_	_	소시지/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	치즈	치즈	NOUN	_	13	conj	_	_	치즈/ncn
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	아이스크림	아이스크림	NOUN	_	15	conj	_	_	아이스크림/ncn
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	빵	빵	NOUN	_	17	conj	_	_	빵/ncn
+16	,	,	PUNCT	_	15	punct	_	_	,/sp
+17	케익도	케익+도	ADV	_	18	advcl	_	_	케익/ncn+도/jxc
+18	금지한다	금지+하+ㄴ다	VERB	_	0	root	_	_	금지/ncpa+하/xsv+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 조미료는 소금 대신 후추 , 겨자 , 마늘 , 식초 , 양파 , 레몬즙으로 대신한다 .
+1	조미료는	조미료+는	NOUN	_	15	dislocated	_	_	조미료/ncn+는/jxt
+2	소금	소금	NOUN	_	3	compound	_	_	소금/ncn
+3	대신	대신	NOUN	_	14	compound	_	_	대신/ncpa
+4	후추	후추	NOUN	_	6	conj	_	_	후추/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	겨자	겨자	NOUN	_	8	conj	_	_	겨자/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	마늘	마늘	NOUN	_	10	conj	_	_	마늘/ncn
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	식초	식초	NOUN	_	12	conj	_	_	식초/ncn
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	양파	양파	NOUN	_	14	conj	_	_	양파/ncn
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	레몬즙으로	레몬즙+으로	ADV	_	15	advcl	_	_	레몬즙/ncn+으로/jca
+15	대신한다	대신+하+ㄴ다	VERB	_	0	root	_	_	대신/ncpa+하/xsv+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 복수나 붓기가 있는 환자는 콩이나 맥주효모를 먹는다 .
+1	복수나	복수+나	CCONJ	_	2	conj	_	_	복수/ncn+나/jcj
+2	붓기가	붓+기+가	NOUN	_	3	nsubj	_	_	붓/pvg+기/etn+가/jcs
+3	있는	있+는	ADJ	_	4	amod	_	_	있/paa+는/etm
+4	환자는	환자+는	NOUN	_	7	dislocated	_	_	환자/ncn+는/jxt
+5	콩이나	콩+이나	CCONJ	_	6	conj	_	_	콩/ncn+이나/jcj
+6	맥주효모를	맥주효모+를	NOUN	_	7	obj	_	_	맥주효모/ncn+를/jco
+7	먹는다	먹+는다	VERB	_	0	root	_	_	먹/pvg+는다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 느티나무한의원의 김봉기 원장은 간만 보는 한의사다 .
+1	느티나무한의원의	느티나무한의원+의	PROPN	_	3	nmod	_	_	느티나무한의원/nq+의/jcm
+2	김봉기	김봉기	PROPN	_	3	compound	_	_	김봉기/nq
+3	원장은	원장+은	NOUN	_	6	dislocated	_	_	원장/ncn+은/jxt
+4	간만	간+만	ADV	_	5	advcl	_	_	간/ncn+만/jxc
+5	보는	보+는	VERB	_	6	ccomp	_	_	보/pvg+는/etm
+6	한의사다	한의사+이+다	VERB	_	0	root	_	_	한의사/ncn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 인간의 오장육부 중 간은 매우 중요하다 .
+1	인간의	인간+의	NOUN	_	2	nmod	_	_	인간/ncn+의/jcm
+2	오장육부	오장육부	NOUN	_	3	compound	_	_	오장육부/ncn
+3	중	중	NOUN	_	6	mark	_	_	중/nbn
+4	간은	간+은	NOUN	_	6	dislocated	_	_	간/ncn+은/jxt
+5	매우	매우	ADV	_	6	advmod	_	_	매우/mag
+6	중요하다	중요+하+다	VERB	_	0	root	_	_	중요/ncps+하/xsm+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 오장은 내부인 팔 안쪽 , 발 안쪽으로 흐르고 있고 , 육부는 바깥으로 흐른다 .
+1	오장은	오장+은	NOUN	_	8	dislocated	_	_	오장/ncn+은/jxt
+2	내부인	내부+이+ㄴ	VERB	_	7	acl	_	_	내부/ncn+이/jp+ㄴ/etm
+3	팔	팔	NOUN	_	4	compound	_	_	팔/ncn
+4	안쪽	안쪽	NOUN	_	7	compound	_	_	안쪽/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	발	발	NOUN	_	7	compound	_	_	발/ncn
+7	안쪽으로	안쪽+으로	ADV	_	8	advcl	_	_	안쪽/ncn+으로/jca
+8	흐르고	흐르+고	VERB	_	13	conj	_	_	흐르/pvg+고/ecx
+9	있고	있+고	CCONJ	_	8	aux	_	_	있/px+고/ecc
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	육부는	육부+는	NOUN	_	13	dislocated	_	_	육부/ncn+는/jxt
+12	바깥으로	바깥+으로	ADV	_	13	advcl	_	_	바깥/ncn+으로/jca
+13	흐른다	흐르+ㄴ다	VERB	_	0	root	_	_	흐르/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 오부의 경락은 음으로 대체로 목 부근에서 끝나며 육부는 양으로 얼굴까지 뻗쳐 있다 .
+1	오부의	오부+의	NOUN	_	2	nmod	_	_	오부/ncn+의/jcm
+2	경락은	경락+은	NOUN	_	3	dislocated	_	_	경락/ncn+은/jxt
+3	음으로	음+으로	ADV	_	7	advcl	_	_	음/ncn+으로/jca
+4	대체로	대체로	ADV	_	7	advmod	_	_	대체로/mag
+5	목	목	NOUN	_	6	compound	_	_	목/ncn
+6	부근에서	부근+에서	ADV	_	7	advcl	_	_	부근/ncn+에서/jca
+7	끝나며	끝나+며	CCONJ	_	11	conj	_	_	끝나/pvg+며/ecc
+8	육부는	육부+는	NOUN	_	9	dislocated	_	_	육부/ncn+는/jxt
+9	양으로	양+으로	ADV	_	11	advcl	_	_	양/ncn+으로/jca
+10	얼굴까지	얼굴+까지	ADV	_	11	advcl	_	_	얼굴/ncn+까지/jxc
+11	뻗쳐	뻗치+어	VERB	_	0	root	_	_	뻗치/pvg+어/ecx
+12	있다	있+다	AUX	_	11	aux	_	_	있/px+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 양볼이 유난히 붉으면 생리불순 , 열감기는 대장 , 기침감기는 폐 , 몸살감기는 쓸개가 나쁨을 나타낸다 .
+1	양볼이	양볼+이	NOUN	_	3	nsubj	_	_	양볼/ncn+이/jcs
+2	유난히	유난히	ADV	_	3	advmod	_	_	유난히/mag
+3	붉으면	붉+으면	SCONJ	_	4	xcomp	_	_	붉/paa+으면/ecs
+4	생리불순	생리불순	NOUN	_	13	compound	_	_	생리불순/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	열감기는	열감기+는	NOUN	_	7	dislocated	_	_	열감기/ncn+는/jxt
+7	대장	대장	NOUN	_	13	compound	_	_	대장/ncn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	기침감기는	기침+감기+는	NOUN	_	10	dislocated	_	_	기침/ncpa+감기/ncn+는/jxt
+10	폐	폐	NOUN	_	13	compound	_	_	폐/ncn
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	몸살감기는	몸살+감기+는	NOUN	_	13	dislocated	_	_	몸살/ncn+감기/ncn+는/jxt
+13	쓸개가	쓸개+가	NOUN	_	14	nsubj	_	_	쓸개/ncn+가/jcs
+14	나쁨을	나쁘+ㅁ+을	NOUN	_	15	obj	_	_	나쁘/paa+ㅁ/etn+을/jco
+15	나타낸다	나타내+ㄴ다	VERB	_	0	root	_	_	나타내/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 환자에게 체력이나 기력이 남아 있다면 어느 정도의 간질환은 손을 볼 수 있는 것이다 .
+1	환자에게	환자+에게	ADV	_	4	iobj	_	_	환자/ncn+에게/jca
+2	체력이나	체력+이나	CCONJ	_	3	conj	_	_	체력/ncn+이나/jcj
+3	기력이	기력+이	NOUN	_	4	nsubj	_	_	기력/ncn+이/jcs
+4	남아	남+아	VERB	_	10	ccomp	_	_	남/pvg+아/ecx
+5	있다면	있+다면	SCONJ	_	4	aux	_	_	있/px+다면/ecs
+6	어느	어느	DET	_	7	det	_	_	어느/mmd
+7	정도의	정도+의	NOUN	_	8	nmod	_	_	정도/ncn+의/jcm
+8	간질환은	간질환+은	NOUN	_	10	dislocated	_	_	간질환/ncn+은/jxt
+9	손을	손+을	NOUN	_	10	obj	_	_	손/ncn+을/jco
+10	볼	보+ㄹ	VERB	_	0	root	_	_	보/pvg+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있는	있+는	ADJ	_	10	aux	_	_	있/paa+는/etm
+13	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 사상의학 중에서 태음인에게 가장 발병률이 높다 하니 주의하기 바란다 .
+1	사상의학	사상+의학	NOUN	_	2	compound	_	_	사상/ncpa+의학/ncn
+2	중에서	중+에서	ADV	_	6	advcl	_	_	중/nbn+에서/jca
+3	태음인에게	태음인+에게	ADV	_	6	iobj	_	_	태음인/ncn+에게/jca
+4	가장	가장	ADV	_	6	advmod	_	_	가장/mag
+5	발병률이	발병률+이	NOUN	_	6	nsubj	_	_	발병률/ncn+이/jcs
+6	높다	높+다	SCONJ	_	7	xcomp	_	_	높/paa+다/ecs
+7	하니	하+니	SCONJ	_	8	conj	_	_	하/pvg+니/ecs
+8	주의하기	주의+하+기	VERB	_	9	nmod	_	_	주의/ncpa+하/xsv+기/etn
+9	바란다	바라+ㄴ다	VERB	_	0	root	_	_	바라/pvg+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 한남동에 위치해 있다 .
+1	한남동에	한남동+에	ADV	_	2	obl	_	_	한남동/nq+에/jca
+2	위치해	위치+하+어	VERB	_	0	root	_	_	위치/ncpa+하/xsv+어/ecx
+3	있다	있+다	AUX	_	2	aux	_	_	있/px+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 아이들 , 특히 여자아이에게 많이 일어난다 .
+1	아이들	아이+들	NOUN	_	4	dep	_	_	아이/ncn+들/xsn
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	특히	특히	ADV	_	4	advmod	_	_	특히/mag
+4	여자아이에게	여자+아이+에게	ADV	_	6	iobj	_	_	여자/ncn+아이/ncn+에게/jca
+5	많이	많이	ADV	_	6	advmod	_	_	많이/mag
+6	일어난다	일어나+ㄴ다	VERB	_	0	root	_	_	일어나/pvg+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 발작 후에는 이 기간을 기억하지 못한다 .
+1	발작	발작	NOUN	_	2	compound	_	_	발작/ncn
+2	후에는	후+에+는	NOUN	_	5	dislocated	_	_	후/ncn+에/jca+는/jxt
+3	이	이	DET	_	4	det	_	_	이/mmd
+4	기간을	기간+을	NOUN	_	5	obj	_	_	기간/ncn+을/jco
+5	기억하지	기억+하+지	VERB	_	0	root	_	_	기억/ncpa+하/xsv+지/ecx
+6	못한다	못하+ㄴ다	AUX	_	5	aux	_	_	못하/px+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 감기는 호흡기계통의 질환 중 가장 일반적이다 .
+1	감기는	감기+는	NOUN	_	6	dislocated	_	_	감기/ncn+는/jxt
+2	호흡기계통의	호흡기+계통+의	NOUN	_	3	nmod	_	_	호흡기/ncn+계통/ncn+의/jcm
+3	질환	질환	NOUN	_	4	compound	_	_	질환/ncn
+4	중	중	NOUN	_	6	advmod	_	_	중/nbn
+5	가장	가장	ADV	_	6	advmod	_	_	가장/mag
+6	일반적이다	일반+적+이+다	VERB	_	0	root	_	_	일반/ncn+적/xsn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 감기의 원인으로 가장 많은 것은 바이러스고 그 외 세균 , 곰팡이 , 알레르기 , 자율신경실조 등의 원인이 있다 .
+1	감기의	감기+의	NOUN	_	2	nmod	_	_	감기/ncn+의/jcm
+2	원인으로	원인+으로	ADV	_	4	advcl	_	_	원인/ncn+으로/jca
+3	가장	가장	ADV	_	4	advmod	_	_	가장/mag
+4	많은	많+ㄴ	ADJ	_	5	amod	_	_	많/paa+ㄴ/etm
+5	것은	것+은	NOUN	_	6	dislocated	_	_	것/nbn+은/jxt
+6	바이러스고	바이러스+이+고	CCONJ	_	18	conj	_	_	바이러스/ncn+이/jp+고/ecc
+7	그	그	DET	_	8	det	_	_	그/mmd
+8	외	외	NOUN	_	18	dep	_	_	외/ncn
+9	세균	세균	NOUN	_	11	conj	_	_	세균/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	곰팡이	곰팡이	NOUN	_	13	conj	_	_	곰팡이/ncn
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	알레르기	알레르기	NOUN	_	15	conj	_	_	알레르기/ncn
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	자율신경실조	자율신경실조	NOUN	_	16	compound	_	_	자율신경실조/ncn
+16	등의	등+의	NOUN	_	17	nmod	_	_	등/nbn+의/jcm
+17	원인이	원인+이	NOUN	_	18	nsubj	_	_	원인/ncn+이/jcs
+18	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그 손으로 다시 코나 입 , 눈 등을 통해 공기 중의 먼지를 흡입해서 전염되는 경우가 가장 흔하다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	손으로	손+으로	ADV	_	9	advcl	_	_	손/ncn+으로/jca
+3	다시	다시	ADV	_	9	advmod	_	_	다시/mag
+4	코나	코+나	CCONJ	_	5	conj	_	_	코/ncn+나/jcj
+5	입	입	NOUN	_	7	conj	_	_	입/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	눈	눈	NOUN	_	8	compound	_	_	눈/ncn
+8	등을	등+을	NOUN	_	9	obj	_	_	등/nbn+을/jco
+9	통해	통하+어	SCONJ	_	14	ccomp	_	_	통하/pvg+어/ecs
+10	공기	공기	NOUN	_	11	compound	_	_	공기/ncn
+11	중의	중+의	NOUN	_	12	nmod	_	_	중/nbn+의/jcm
+12	먼지를	먼지+를	NOUN	_	13	obj	_	_	먼지/ncn+를/jco
+13	흡입해서	흡입+하+어서	SCONJ	_	14	ccomp	_	_	흡입/ncpa+하/xsv+어서/ecs
+14	전염되는	전염+되+는	VERB	_	15	acl	_	_	전염/ncpa+되/xsv+는/etm
+15	경우가	경우+가	NOUN	_	17	nsubj	_	_	경우/ncn+가/jcs
+16	가장	가장	ADV	_	17	advmod	_	_	가장/mag
+17	흔하다	흔하+다	ADJ	_	0	root	_	_	흔하/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그 뒤 기운이 없고 , 허리나 팔다리가 쑤시며 괴롭다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	뒤	뒤	NOUN	_	4	dep	_	_	뒤/ncn
+3	기운이	기운+이	NOUN	_	4	nsubj	_	_	기운/ncn+이/jcs
+4	없고	없+고	CCONJ	_	10	conj	_	_	없/paa+고/ecc
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	허리나	허리+나	CCONJ	_	7	conj	_	_	허리/ncn+나/jcj
+7	팔다리가	팔다리+가	NOUN	_	10	nsubj	_	_	팔다리/ncn+가/jcs
+8	쑤시며	쑤시+며	CCONJ	_	9	conj	_	_	쑤시/pvg+며/ecc
+9	괴롭다	괴롭+다	ADJ	_	10	conj	_	_	괴롭/paa+다/ef
+10	.	.	PUNCT	_	0	root	_	_	./sf
+
+# 대개 감기는 열은 없으나 만성질환자들은 합병증의 원인이 된다 .
+1	대개	대개	ADV	_	8	advmod	_	_	대개/mag
+2	감기는	감기+는	NOUN	_	4	dislocated	_	_	감기/ncn+는/jxt
+3	열은	열+은	NOUN	_	4	dislocated	_	_	열/ncn+은/jxt
+4	없으나	없+으나	SCONJ	_	8	xcomp	_	_	없/paa+으나/ecs
+5	만성질환자들은	만성질환자+들+은	NOUN	_	8	dislocated	_	_	만성질환자/ncn+들/xsn+은/jxt
+6	합병증의	합병증+의	NOUN	_	7	nmod	_	_	합병증/ncn+의/jcm
+7	원인이	원인+이	NOUN	_	8	csubj	_	_	원인/ncn+이/jcc
+8	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 저항력이 약해지면 체온이 상승되어 초기에 두통이 올 수도 있다 .
+1	저항력이	저항력+이	NOUN	_	2	nsubj	_	_	저항력/ncn+이/jcs
+2	약해지면	약하+어+지+면	SCONJ	_	4	xcomp	_	_	약하/paa+어/ecx+지/px+면/ecs
+3	체온이	체온+이	NOUN	_	4	nsubj	_	_	체온/ncn+이/jcs
+4	상승되어	상승+되+어	SCONJ	_	7	ccomp	_	_	상승/ncpa+되/xsv+어/ecs
+5	초기에	초기+에	ADV	_	7	obl	_	_	초기/ncn+에/jca
+6	두통이	두통+이	NOUN	_	7	nsubj	_	_	두통/ncn+이/jcs
+7	올	오+ㄹ	VERB	_	0	root	_	_	오/pvg+ㄹ/etm
+8	수도	수+도	ADV	_	9	fixed	_	_	수/nbn+도/jxc
+9	있다	있+다	ADJ	_	7	aux	_	_	있/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 소금 끊인 물에 생강과 연근 즙을 섞은 물을 마신다 .
+1	소금	소금	NOUN	_	2	dep	_	_	소금/ncn
+2	끊인	끊이+ㄴ	VERB	_	3	acl	_	_	끊이/pvg+ㄴ/etm
+3	물에	물+에	ADV	_	7	obl	_	_	물/ncn+에/jca
+4	생강과	생강+과	CCONJ	_	6	conj	_	_	생강/ncn+과/jcj
+5	연근	연근	NOUN	_	6	compound	_	_	연근/ncn
+6	즙을	즙+을	NOUN	_	7	obj	_	_	즙/ncn+을/jco
+7	섞은	섞+은	VERB	_	8	acl	_	_	섞/pvg+은/etm
+8	물을	물+을	NOUN	_	9	obj	_	_	물/ncn+을/jco
+9	마신다	마시+ㄴ다	VERB	_	0	root	_	_	마시/pvg+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 한 시간 후에 한 번 더 마시면 좋다 .
+1	한	한	NUM	_	2	nummod	_	_	한/nnc
+2	시간	시간	NOUN	_	3	compound	_	_	시간/ncn
+3	후에	후+에	ADV	_	7	obl	_	_	후/ncn+에/jca
+4	한	한	NUM	_	5	nummod	_	_	한/nnc
+5	번	번	NOUN	_	7	advmod	_	_	번/nbu
+6	더	더	ADV	_	7	advmod	_	_	더/mag
+7	마시면	마시+면	SCONJ	_	8	conj	_	_	마시/pvg+면/ecs
+8	좋다	좋+다	ADJ	_	0	root	_	_	좋/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 편도선염 , 입안이 거칠어 잇몸이 부었을 때에도 좋다 .
+1	편도선염	편도선염	NOUN	_	7	compound	_	_	편도선염/ncn
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	입안이	입안+이	NOUN	_	4	nsubj	_	_	입안/ncn+이/jcs
+4	거칠어	거칠+어	SCONJ	_	6	xcomp	_	_	거칠/paa+어/ecs
+5	잇몸이	잇몸+이	NOUN	_	6	nsubj	_	_	잇몸/ncn+이/jcs
+6	부었을	붓+었+ㄹ	VERB	_	7	acl	_	_	붓/pvg+었/ep+ㄹ/etm
+7	때에도	때+에+도	ADV	_	8	advcl	_	_	때/ncn+에/jca+도/jxc
+8	좋다	좋+다	ADJ	_	0	root	_	_	좋/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 무의 마른 잎을 잘게 썰어 욕조에 넣으면 부인병과 대하에도 좋다 .
+1	무의	무+의	NOUN	_	3	nmod	_	_	무/ncn+의/jcm
+2	마른	마르+ㄴ	VERB	_	3	acl	_	_	마르/pvg+ㄴ/etm
+3	잎을	잎+을	NOUN	_	5	obj	_	_	잎/ncn+을/jco
+4	잘게	잘+게	SCONJ	_	5	xcomp	_	_	잘/paa+게/ecs
+5	썰어	썰+어	SCONJ	_	7	ccomp	_	_	썰/pvg+어/ecs
+6	욕조에	욕조+에	ADV	_	7	obl	_	_	욕조/ncn+에/jca
+7	넣으면	넣+으면	SCONJ	_	10	conj	_	_	넣/pvg+으면/ecs
+8	부인병과	부인병+과	CCONJ	_	9	conj	_	_	부인병/ncn+과/jcj
+9	대하에도	대하+에+도	ADV	_	10	advcl	_	_	대하/ncn+에/jca+도/jxc
+10	좋다	좋+다	ADJ	_	0	root	_	_	좋/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 한방에서는 도라지와 귤을 함께 달여 마신다 .
+1	한방에서는	한방+에서+는	NOUN	_	6	dislocated	_	_	한방/ncn+에서/jca+는/jxt
+2	도라지와	도라지+와	CCONJ	_	3	conj	_	_	도라지/ncn+와/jcj
+3	귤을	귤+을	NOUN	_	5	obj	_	_	귤/ncn+을/jco
+4	함께	함께	ADV	_	5	advmod	_	_	함께/mag
+5	달여	달이+어	SCONJ	_	6	ccomp	_	_	달이/pvg+어/ecs
+6	마신다	마시+ㄴ다	VERB	_	0	root	_	_	마시/pvg+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 귤껍질을 끓여 꿀을 타서 먹는다 .
+1	귤껍질을	귤껍질+을	NOUN	_	2	obj	_	_	귤껍질/ncn+을/jco
+2	끓여	끓이+어	SCONJ	_	4	ccomp	_	_	끓이/pvg+어/ecs
+3	꿀을	꿀+을	NOUN	_	4	obj	_	_	꿀/ncn+을/jco
+4	타서	타+서	SCONJ	_	5	ccomp	_	_	타/pvg+서/ecs
+5	먹는다	먹+는다	VERB	_	0	root	_	_	먹/pvg+는다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 이 방법은 오래 된 기관지염에 좋다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	방법은	방법+은	NOUN	_	6	dislocated	_	_	방법/ncn+은/jxt
+3	오래	오래	ADV	_	4	advmod	_	_	오래/mag
+4	된	되+ㄴ	VERB	_	5	acl	_	_	되/pvg+ㄴ/etm
+5	기관지염에	기관지염+에	ADV	_	6	advcl	_	_	기관지염/ncn+에/jxc
+6	좋다	좋+다	ADJ	_	0	root	_	_	좋/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 모두부 가운데 되려내고 거기에 물엿을 넣어 밥솥에 쪄서 매 끼 한 모금씩 빈 속에 먹는다 .
+1	모두부	모두부	NOUN	_	2	compound	_	_	모두부/ncn
+2	가운데	가운데	NOUN	_	3	dep	_	_	가운데/ncn
+3	되려내고	도리+어+내+고	CCONJ	_	6	conj	_	_	도리/pvg+어/ecx+내/px+고/ecc
+4	거기에	거기+에	ADV	_	6	obl	_	_	거기/npd+에/jca
+5	물엿을	물엿+을	NOUN	_	6	obj	_	_	물엿/ncn+을/jco
+6	넣어	넣+어	SCONJ	_	8	ccomp	_	_	넣/pvg+어/ecs
+7	밥솥에	밥솥+에	ADV	_	8	obl	_	_	밥솥/ncn+에/jca
+8	쪄서	찌+어서	SCONJ	_	15	ccomp	_	_	찌/pvg+어서/ecs
+9	매	매	ADJ	_	10	amod	_	_	매/mma
+10	끼	끼	NOUN	_	15	advmod	_	_	끼/nbu
+11	한	한	NUM	_	12	nummod	_	_	한/nnc
+12	모금씩	모금+씩	NOUN	_	15	advmod	_	_	모금/nbu+씩/xsn
+13	빈	비+ㄴ	ADJ	_	14	amod	_	_	비/paa+ㄴ/etm
+14	속에	속+에	ADV	_	15	obl	_	_	속/ncn+에/jca
+15	먹는다	먹+는다	VERB	_	0	root	_	_	먹/pvg+는다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그 외 코가 막혔을 때 파뿌리를 잘라 껍질을 콧등에 놓는다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	외	외	NOUN	_	10	advmod	_	_	외/ncn
+3	코가	코+가	NOUN	_	4	nsubj	_	_	코/ncn+가/jcs
+4	막혔을	막히+었+ㄹ	VERB	_	5	acl	_	_	막히/pvg+었/ep+ㄹ/etm
+5	때	때	NOUN	_	10	advmod	_	_	때/ncn
+6	파뿌리를	파뿌리+를	NOUN	_	7	obj	_	_	파뿌리/ncn+를/jco
+7	잘라	자르+아	SCONJ	_	10	ccomp	_	_	자르/pvg+아/ecs
+8	껍질을	껍질+을	NOUN	_	10	obj	_	_	껍질/ncn+을/jco
+9	콧등에	콧등+에	ADV	_	10	obl	_	_	콧등/ncn+에/jca
+10	놓는다	놓+는다	VERB	_	0	root	_	_	놓/pvg+는다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 특히 신것 , 매운것 , 짠것을 피한다 .
+1	특히	특히	ADV	_	7	advmod	_	_	특히/mag
+2	신것	신것	NOUN	_	4	conj	_	_	신것/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	매운것	매운것	NOUN	_	6	conj	_	_	매운것/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	짠것을	짠것+을	NOUN	_	7	obj	_	_	짠것/ncn+을/jco
+7	피한다	피하+ㄴ다	VERB	_	0	root	_	_	피하/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 인동덩굴을 바짝 말린다 .
+1	인동덩굴을	인동덩굴+을	NOUN	_	3	obj	_	_	인동덩굴/ncn+을/jco
+2	바짝	바짝	ADV	_	3	advmod	_	_	바짝/mag
+3	말린다	말리+ㄴ다	VERB	_	0	root	_	_	말리/pvg+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 감기로 인한 입안 염증도 사라진다 .
+1	감기로	감기+로	ADV	_	5	advcl	_	_	감기/ncn+로/jca
+2	인한	인하+ㄴ	VERB	_	4	acl	_	_	인하/pvg+ㄴ/etm
+3	입안	입안	NOUN	_	4	compound	_	_	입안/ncn
+4	염증도	염증+도	ADV	_	5	advcl	_	_	염증/ncn+도/jxc
+5	사라진다	사라지+ㄴ다	VERB	_	0	root	_	_	사라지/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 껍질을 벗겨 통째로 구운 마늘을 강판에 갈아 같은 분량의 된장과 섞는다 .
+1	껍질을	껍질+을	NOUN	_	2	obj	_	_	껍질/ncn+을/jco
+2	벗겨	벗기+어	SCONJ	_	4	ccomp	_	_	벗기/pvg+어/ecs
+3	통째로	통째로	ADV	_	4	advmod	_	_	통째로/mag
+4	구운	굽+ㄴ	VERB	_	5	acl	_	_	굽/pvg+ㄴ/etm
+5	마늘을	마늘+을	NOUN	_	7	obj	_	_	마늘/ncn+을/jco
+6	강판에	강판+에	ADV	_	7	obl	_	_	강판/ncn+에/jca
+7	갈아	갈+아	SCONJ	_	11	ccomp	_	_	갈/pvg+아/ecs
+8	같은	같+ㄴ	ADJ	_	9	amod	_	_	같/paa+ㄴ/etm
+9	분량의	분량+의	NOUN	_	10	nmod	_	_	분량/ncn+의/jcm
+10	된장과	된장+과	CCONJ	_	11	conj	_	_	된장/ncn+과/jct
+11	섞는다	섞+는다	VERB	_	0	root	_	_	섞/pvg+는다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 마늘 된장 덩이 한 개를 잠자기 전에 찻잔에 넣어 뜨거운 물에 녹여 마신다 .
+1	마늘	마늘	NOUN	_	3	compound	_	_	마늘/ncn
+2	된장	된장	NOUN	_	3	compound	_	_	된장/ncn
+3	덩이	덩이	NOUN	_	5	compound	_	_	덩이/ncn
+4	한	한	NUM	_	5	nummod	_	_	한/nnc
+5	개를	개+를	NOUN	_	13	obj	_	_	개/nbu+를/jco
+6	잠자기	잠자+기	VERB	_	7	nmod	_	_	잠자/pvg+기/etn
+7	전에	전+에	ADV	_	9	obl	_	_	전/ncn+에/jca
+8	찻잔에	찻잔+에	ADV	_	9	obl	_	_	찻잔/ncn+에/jca
+9	넣어	넣+어	SCONJ	_	13	ccomp	_	_	넣/pvg+어/ecs
+10	뜨거운	뜨겁+ㄴ	ADJ	_	11	amod	_	_	뜨겁/paa+ㄴ/etm
+11	물에	물+에	ADV	_	12	obl	_	_	물/ncn+에/jca
+12	녹여	녹이+어	SCONJ	_	13	ccomp	_	_	녹이/pvg+어/ecs
+13	마신다	마시+ㄴ다	VERB	_	0	root	_	_	마시/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 목의 통증에 특히 좋고 초기 감기는 거뜬히 낫는다 .
+1	목의	목+의	NOUN	_	2	nmod	_	_	목/ncn+의/jcm
+2	통증에	통증+에	ADV	_	4	obl	_	_	통증/ncn+에/jca
+3	특히	특히	ADV	_	4	advmod	_	_	특히/mag
+4	좋고	좋+고	CCONJ	_	8	conj	_	_	좋/paa+고/ecc
+5	초기	초기	NOUN	_	6	compound	_	_	초기/ncn
+6	감기는	감기+는	NOUN	_	8	dislocated	_	_	감기/ncn+는/jxt
+7	거뜬히	거뜬히	ADV	_	8	advmod	_	_	거뜬히/mag
+8	낫는다	낫+는다	VERB	_	0	root	_	_	낫/pvg+는다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 무를 얇고 둥글게 썰어 병에 넣고 물엿과 섞는다 .
+1	무를	무+를	NOUN	_	4	obj	_	_	무/ncn+를/jco
+2	얇고	얇+고	CCONJ	_	3	conj	_	_	얇/paa+고/ecc
+3	둥글게	둥글+게	SCONJ	_	4	xcomp	_	_	둥글/paa+게/ecs
+4	썰어	썰+어	SCONJ	_	6	ccomp	_	_	썰/pvg+어/ecs
+5	병에	병+에	ADV	_	6	obl	_	_	병/ncn+에/jca
+6	넣고	넣+고	CCONJ	_	8	conj	_	_	넣/pvg+고/ecc
+7	물엿과	물엿+과	CCONJ	_	8	conj	_	_	물엿/ncn+과/jct
+8	섞는다	섞+는다	VERB	_	0	root	_	_	섞/pvg+는다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 잠시 후 무즙이 나오는데 , 이 무즙과 물엿이 섞인 것은 한 숟가락씩 복용한다 .
+1	잠시	잠시	NOUN	_	2	compound	_	_	잠시/ncn
+2	후	후	NOUN	_	4	advmod	_	_	후/ncn
+3	무즙이	무즙+이	NOUN	_	4	nsubj	_	_	무즙/ncn+이/jcs
+4	나오는데	나오+는데	SCONJ	_	13	ccomp	_	_	나오/pvg+는데/ecs
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	이	이	DET	_	7	det	_	_	이/mmd
+7	무즙과	무즙+과	CCONJ	_	8	conj	_	_	무즙/ncn+과/jcj
+8	물엿이	물엿+이	NOUN	_	9	nsubj	_	_	물엿/ncn+이/jcs
+9	섞인	섞이+ㄴ	VERB	_	10	acl	_	_	섞이/pvg+ㄴ/etm
+10	것은	것+은	NOUN	_	13	dislocated	_	_	것/nbn+은/jxt
+11	한	한	NUM	_	12	nummod	_	_	한/nnc
+12	숟가락씩	숟가락+씩	NOUN	_	13	advmod	_	_	숟가락/ncn+씩/xsn
+13	복용한다	복용+하+ㄴ다	VERB	_	0	root	_	_	복용/ncpa+하/xsv+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 호르몬을 분비하는 기관이다 .
+1	호르몬을	호르몬+을	NOUN	_	2	obj	_	_	호르몬/ncn+을/jco
+2	분비하는	분비+하+는	VERB	_	3	ccomp	_	_	분비/ncpa+하/xsv+는/etm
+3	기관이다	기관+이+다	VERB	_	0	root	_	_	기관/ncn+이/jp+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 식욕이 좋아도 체중이 줄고 기운이 없으며 대변이 묽어지고 갑상선이 커지고 눈이 튀어 나온다 .
+1	식욕이	식욕+이	NOUN	_	2	nsubj	_	_	식욕/ncn+이/jcs
+2	좋아도	좋+아도	SCONJ	_	4	xcomp	_	_	좋/paa+아도/ecs
+3	체중이	체중+이	NOUN	_	4	nsubj	_	_	체중/ncn+이/jcs
+4	줄고	줄+고	CCONJ	_	6	conj	_	_	줄/pvg+고/ecc
+5	기운이	기운+이	NOUN	_	6	nsubj	_	_	기운/ncn+이/jcs
+6	없으며	없+으며	CCONJ	_	8	conj	_	_	없/paa+으며/ecc
+7	대변이	대변+이	NOUN	_	8	nsubj	_	_	대변/ncn+이/jcs
+8	묽어지고	묽어지+고	CCONJ	_	10	conj	_	_	묽어지/pvg+고/ecc
+9	갑상선이	갑상선+이	NOUN	_	10	nsubj	_	_	갑상선/ncn+이/jcs
+10	커지고	커지+고	CCONJ	_	13	conj	_	_	커지/pvg+고/ecc
+11	눈이	눈+이	NOUN	_	13	nsubj	_	_	눈/ncn+이/jcs
+12	튀어	튀+어	SCONJ	_	13	ccomp	_	_	튀/pvg+어/ecs
+13	나온다	나오+ㄴ다	VERB	_	0	root	_	_	나오/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 머리의 대천문은 넓고 닫히는 시기도 늦고 나이가 들면서 더욱 심해진다 .
+1	머리의	머리+의	NOUN	_	2	nmod	_	_	머리/ncn+의/jcm
+2	대천문은	대천문+은	NOUN	_	3	dislocated	_	_	대천문/ncn+은/jxt
+3	넓고	넓+고	CCONJ	_	6	conj	_	_	넓/paa+고/ecc
+4	닫히는	닫히+는	VERB	_	5	acl	_	_	닫히/pvg+는/etm
+5	시기도	시기+도	ADV	_	6	advcl	_	_	시기/ncn+도/jxc
+6	늦고	늦+고	CCONJ	_	10	conj	_	_	늦/pvg+고/ecc
+7	나이가	나이+가	NOUN	_	8	nsubj	_	_	나이/ncn+가/jcs
+8	들면서	들+면서	SCONJ	_	10	conj	_	_	들/pvg+면서/ecs
+9	더욱	더욱	ADV	_	10	advmod	_	_	더욱/mag
+10	심해진다	심하+어+지+ㄴ다	AUX	_	0	root	_	_	심하/paa+어/ecx+지/px+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 굶는 행위는 그 자체가 몸 안의 혈당을 낮추는 까닭에 저혈당 증상을 일으킨다 .
+1	굶는	굶+는	VERB	_	2	acl	_	_	굶/pvg+는/etm
+2	행위는	행위+는	NOUN	_	12	dislocated	_	_	행위/ncn+는/jxt
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	자체가	자체+가	NOUN	_	12	nsubj	_	_	자체/ncn+가/jcs
+5	몸	몸	NOUN	_	6	compound	_	_	몸/ncn
+6	안의	안+의	NOUN	_	7	nmod	_	_	안/ncn+의/jcm
+7	혈당을	혈당+을	NOUN	_	8	obj	_	_	혈당/ncn+을/jco
+8	낮추는	낮추+는	VERB	_	9	acl	_	_	낮추/pvg+는/etm
+9	까닭에	까닭+에	ADV	_	12	obl	_	_	까닭/ncn+에/jca
+10	저혈당	저혈당	NOUN	_	11	compound	_	_	저혈당/ncn
+11	증상을	증상+을	NOUN	_	12	obj	_	_	증상/ncn+을/jco
+12	일으킨다	일으키+ㄴ다	VERB	_	0	root	_	_	일으키/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 아포크린 땀샘이 액취증 환자에 비대해져 있는 것은 유전되는 것이다 .
+1	아포크린	아포크린	NOUN	_	2	compound	_	_	아포크린/ncn
+2	땀샘이	땀샘+이	NOUN	_	5	nsubj	_	_	땀샘/ncn+이/jcs
+3	액취증	액취증	NOUN	_	4	compound	_	_	액취증/ncn
+4	환자에	환자+에	ADV	_	5	obl	_	_	환자/ncn+에/jca
+5	비대해져	비대+하+어+지+어	AUX	_	7	amod	_	_	비대/ncps+하/xsm+어/ecx+지/px+어/ecx
+6	있는	있+는	AUX	_	5	aux	_	_	있/px+는/etm
+7	것은	것+은	NOUN	_	8	dislocated	_	_	것/nbn+은/jxt
+8	유전되는	유전+되+는	VERB	_	0	root	_	_	유전/ncpa+되/xsv+는/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 냄새의 종류는 매우 다양하다 .
+1	냄새의	냄새+의	NOUN	_	2	nmod	_	_	냄새/ncn+의/jcm
+2	종류는	종류+는	NOUN	_	4	dislocated	_	_	종류/ncn+는/jxt
+3	매우	매우	ADV	_	4	advmod	_	_	매우/mag
+4	다양하다	다양+하+다	VERB	_	0	root	_	_	다양/ncps+하/xsm+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 액취증 환자에게는 물귀지가 나타난다 .
+1	액취증	액취증	NOUN	_	2	compound	_	_	액취증/ncn
+2	환자에게는	환자+에게+는	NOUN	_	4	dislocated	_	_	환자/ncn+에게/jca+는/jxt
+3	물귀지가	물귀지+가	NOUN	_	4	nsubj	_	_	물귀지/ncn+가/jcs
+4	나타난다	나타나+ㄴ다	VERB	_	0	root	_	_	나타나/pvg+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 비수술요법 탈취제 , 향수 등을 사용하여 냄새를 위장한다 .
+1	비수술요법	비수술요법	NOUN	_	2	compound	_	_	비수술요법/ncn
+2	탈취제	탈취제	NOUN	_	4	compound	_	_	탈취제/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	향수	향수	NOUN	_	5	compound	_	_	향수/ncn
+5	등을	등+을	NOUN	_	6	obj	_	_	등/nbn+을/jco
+6	사용하여	사용+하+어	SCONJ	_	8	ccomp	_	_	사용/ncpa+하/xsv+어/ecs
+7	냄새를	냄새+를	NOUN	_	8	obj	_	_	냄새/ncn+를/jco
+8	위장한다	위장+하+ㄴ다	VERB	_	0	root	_	_	위장/ncpa+하/xsv+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 땀을 분해하는 세균의 수를 줄이는 목적으로 살균제 , 연고 등을 부분 도포한다 .
+1	땀을	땀+을	NOUN	_	2	obj	_	_	땀/ncn+을/jco
+2	분해하는	분해+하+는	VERB	_	3	acl	_	_	분해/ncpa+하/xsv+는/etm
+3	세균의	세균+의	NOUN	_	4	nmod	_	_	세균/ncn+의/jcm
+4	수를	수+를	NOUN	_	5	obj	_	_	수/ncn+를/jco
+5	줄이는	줄이+는	VERB	_	6	acl	_	_	줄이/pvg+는/etm
+6	목적으로	목적+으로	ADV	_	12	advcl	_	_	목적/ncn+으로/jca
+7	살균제	살균제	NOUN	_	9	conj	_	_	살균제/ncn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	연고	연고	NOUN	_	10	compound	_	_	연고/ncn
+10	등을	등+을	NOUN	_	12	obj	_	_	등/nbn+을/jco
+11	부분	부분	NOUN	_	12	compound	_	_	부분/ncn
+12	도포한다	도포+하+ㄴ다	VERB	_	0	root	_	_	도포/ncpa+하/xsv+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 균형 있는 식생활을 한다 .
+1	균형	균형	NOUN	_	2	dep	_	_	균형/ncn
+2	있는	있+는	ADJ	_	3	amod	_	_	있/paa+는/etm
+3	식생활을	식생활+을	NOUN	_	4	obj	_	_	식생활/ncn+을/jco
+4	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 체조를 한다 .
+1	체조를	체조+를	NOUN	_	2	obj	_	_	체조/ncn+를/jco
+2	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 바른 자세와 편안한 속옷과 신을 고른다 .
+1	바른	바르+ㄴ	ADJ	_	2	amod	_	_	바르/paa+ㄴ/etm
+2	자세와	자세+와	CCONJ	_	4	conj	_	_	자세/ncn+와/jcj
+3	편안한	편안하+ㄴ	ADJ	_	4	amod	_	_	편안하/paa+ㄴ/etm
+4	속옷과	속옷+과	CCONJ	_	5	conj	_	_	속옷/ncn+과/jcj
+5	신을	신+을	NOUN	_	6	obj	_	_	신/ncn+을/jco
+6	고른다	고르+ㄴ다	VERB	_	0	root	_	_	고르/pvg+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이 급소를 이용하면 통증이 사라져 팔을 자유로이 움직일 수 있다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	급소를	급소+를	NOUN	_	3	obj	_	_	급소/ncn+를/jco
+3	이용하면	이용+하+면	SCONJ	_	5	ccomp	_	_	이용/ncpa+하/xsv+면/ecs
+4	통증이	통증+이	NOUN	_	5	nsubj	_	_	통증/ncn+이/jcs
+5	사라져	사라지+어	SCONJ	_	8	ccomp	_	_	사라지/pvg+어/ecs
+6	팔을	팔+을	NOUN	_	8	obj	_	_	팔/ncn+을/jco
+7	자유로이	자유로이	ADV	_	8	advmod	_	_	자유로이/mag
+8	움직일	움직이+ㄹ	VERB	_	0	root	_	_	움직이/pvg+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	있다	있+다	ADJ	_	8	aux	_	_	있/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 통증이 가라앉을 때까지 계속 붙여둔다 .
+1	통증이	통증+이	NOUN	_	2	nsubj	_	_	통증/ncn+이/jcs
+2	가라앉을	가라앉+ㄹ	VERB	_	3	acl	_	_	가라앉/pvg+ㄹ/etm
+3	때까지	때+까지	ADV	_	5	advcl	_	_	때/ncn+까지/jxc
+4	계속	계속	ADV	_	5	advmod	_	_	계속/mag
+5	붙여둔다	붙이+어+두+ㄴ다	AUX	_	0	root	_	_	붙이/pvg+어/ecx+두/px+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 이틀 정도 후에 효과가 나타난다 .
+1	이틀	이틀	NOUN	_	2	compound	_	_	이틀/ncn
+2	정도	정도	NOUN	_	3	compound	_	_	정도/ncn
+3	후에	후+에	ADV	_	5	obl	_	_	후/ncn+에/jca
+4	효과가	효과+가	NOUN	_	5	nsubj	_	_	효과/ncn+가/jcs
+5	나타난다	나타나+ㄴ다	VERB	_	0	root	_	_	나타나/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 발가락에 힘을 주어 굽힌 다음 끝을 고정해 뒤꿈치를 앞쪽으로 이동시키고 그 다음 뒤꿈치를 고정하고 발가락을 뻗는다 .
+1	발가락에	발가락+에	ADV	_	3	obl	_	_	발가락/ncn+에/jca
+2	힘을	힘+을	NOUN	_	3	obj	_	_	힘/ncn+을/jco
+3	주어	주+어	SCONJ	_	4	ccomp	_	_	주/pvg+어/ecs
+4	굽힌	굽히+ㄴ	VERB	_	5	acl	_	_	굽히/pvg+ㄴ/etm
+5	다음	다음	NOUN	_	7	advmod	_	_	다음/ncn
+6	끝을	끝+을	NOUN	_	7	obj	_	_	끝/ncn+을/jco
+7	고정해	고정+하+어	SCONJ	_	10	ccomp	_	_	고정/ncpa+하/xsv+어/ecs
+8	뒤꿈치를	뒤꿈치+를	NOUN	_	10	obj	_	_	뒤꿈치/ncn+를/jco
+9	앞쪽으로	앞쪽+으로	ADV	_	10	advcl	_	_	앞쪽/ncn+으로/jca
+10	이동시키고	이동+시키+고	CCONJ	_	16	conj	_	_	이동/ncpa+시키/xsv+고/ecc
+11	그	그	DET	_	12	det	_	_	그/mmd
+12	다음	다음	NOUN	_	16	advmod	_	_	다음/ncn
+13	뒤꿈치를	뒤꿈치+를	NOUN	_	14	obj	_	_	뒤꿈치/ncn+를/jco
+14	고정하고	고정+하+고	CCONJ	_	16	conj	_	_	고정/ncpa+하/xsv+고/ecc
+15	발가락을	발가락+을	NOUN	_	16	obj	_	_	발가락/ncn+을/jco
+16	뻗는다	뻗+는다	VERB	_	0	root	_	_	뻗/pvg+는다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 빠뜨리지 말고 규칙적으로 약을 복용한다 .
+1	빠뜨리지	빠뜨리+지	VERB	_	5	conj	_	_	빠뜨리/pvg+지/ecx
+2	말고	말+고	CCONJ	_	1	aux	_	_	말/px+고/ecc
+3	규칙적으로	규칙+적+으로	ADV	_	5	advcl	_	_	규칙/ncn+적/xsn+으로/jca
+4	약을	약+을	NOUN	_	5	obj	_	_	약/ncps+을/jco
+5	복용한다	복용+하+ㄴ다	VERB	_	0	root	_	_	복용/ncpa+하/xsv+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 처방된 기간 동안 계속해서 중단하지 말고 약을 복용한다 .
+1	처방된	처방+되+ㄴ	VERB	_	2	acl	_	_	처방/ncpa+되/xsv+ㄴ/etm
+2	기간	기간	NOUN	_	3	compound	_	_	기간/ncn
+3	동안	동안	NOUN	_	4	compound	_	_	동안/ncn
+4	계속해서	계속+하+어서	SCONJ	_	8	ccomp	_	_	계속/ncpa+하/xsv+어서/ecs
+5	중단하지	중단+하+지	VERB	_	8	conj	_	_	중단/ncpa+하/xsv+지/ecx
+6	말고	말+고	CCONJ	_	5	aux	_	_	말/px+고/ecc
+7	약을	약+을	NOUN	_	8	obj	_	_	약/ncps+을/jco
+8	복용한다	복용+하+ㄴ다	VERB	_	0	root	_	_	복용/ncpa+하/xsv+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 급성 폐결핵으로 고열인 경우 다른 열병 환자와 같이 고열량 , 고단백을 액체로 해서 식이요법을 한다 .
+1	급성	급성	NOUN	_	2	compound	_	_	급성/ncn
+2	폐결핵으로	폐결핵+으로	ADV	_	3	advcl	_	_	폐결핵/ncn+으로/jca
+3	고열인	고열+이+ㄴ	VERB	_	4	acl	_	_	고열/ncn+이/jp+ㄴ/etm
+4	경우	경우	NOUN	_	15	advmod	_	_	경우/ncn
+5	다른	다른	ADJ	_	7	amod	_	_	다른/mma
+6	열병	열병	NOUN	_	7	compound	_	_	열병/ncn
+7	환자와	환자+와	CCONJ	_	8	conj	_	_	환자/ncn+와/jct
+8	같이	같+이	SCONJ	_	15	xcomp	_	_	같/paa+이/ecs
+9	고열량	고열량	NOUN	_	11	conj	_	_	고열량/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	고단백을	고단백+을	NOUN	_	13	obj	_	_	고단백/ncn+을/jco
+12	액체로	액체+로	ADV	_	13	advcl	_	_	액체/ncn+로/jca
+13	해서	하+어서	SCONJ	_	15	ccomp	_	_	하/pvg+어서/ecs
+14	식이요법을	식이요법+을	NOUN	_	15	obj	_	_	식이요법/ncn+을/jco
+15	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 차츰 병세가 호전되면 , 우유나 두유 , 크림수프 , 현미깨죽 , 현미잣죽 , 콩죽 , 팥보죽 등이 좋다 .
+1	차츰	차츰	ADV	_	3	advmod	_	_	차츰/mag
+2	병세가	병세+가	NOUN	_	3	nsubj	_	_	병세/ncn+가/jcs
+3	호전되면	호전+되+면	SCONJ	_	18	conj	_	_	호전/ncpa+되/xsv+면/ecs
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	우유나	우유+나	CCONJ	_	6	conj	_	_	우유/ncn+나/jcj
+6	두유	두유	NOUN	_	8	conj	_	_	두유/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	크림수프	크림수프	NOUN	_	10	conj	_	_	크림수프/ncn
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	현미깨죽	현미깨죽	NOUN	_	12	conj	_	_	현미깨죽/ncn
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	현미잣죽	현미잣죽	NOUN	_	14	conj	_	_	현미잣죽/ncn
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	콩죽	콩죽	NOUN	_	16	conj	_	_	콩죽/ncn
+15	,	,	PUNCT	_	14	punct	_	_	,/sp
+16	팥보죽	팥보죽	NOUN	_	17	compound	_	_	팥보죽/ncn
+17	등이	등+이	NOUN	_	18	nsubj	_	_	등/nbn+이/jcs
+18	좋다	좋+다	ADJ	_	0	root	_	_	좋/paa+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 우유를 소스나 수프에 이용하여 정기적으로 먹는 것이 좋다 .
+1	우유를	우유+를	NOUN	_	6	obj	_	_	우유/ncn+를/jco
+2	소스나	소스+나	CCONJ	_	3	conj	_	_	소스/ncn+나/jcj
+3	수프에	수프+에	ADV	_	4	obl	_	_	수프/ncn+에/jca
+4	이용하여	이용+하+어	SCONJ	_	6	ccomp	_	_	이용/ncpa+하/xsv+어/ecs
+5	정기적으로	정기+적+으로	ADV	_	6	advcl	_	_	정기/ncn+적/xsn+으로/jca
+6	먹는	먹+는	VERB	_	7	acl	_	_	먹/pvg+는/etm
+7	것이	것+이	NOUN	_	8	nsubj	_	_	것/nbn+이/jcs
+8	좋다	좋+다	ADJ	_	0	root	_	_	좋/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 어린이 결핵에서 안구건조증 , 망막연화증이 많이 나타나는 것도 이 때문이다 .
+1	어린이	어린이	NOUN	_	2	compound	_	_	어린이/ncn
+2	결핵에서	결핵+에서	ADV	_	7	advcl	_	_	결핵/ncn+에서/jca
+3	안구건조증	안구건조증	NOUN	_	5	conj	_	_	안구건조증/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	망막연화증이	망막연화증+이	NOUN	_	7	nsubj	_	_	망막연화증/ncn+이/jcs
+6	많이	많이	ADV	_	7	advmod	_	_	많이/mag
+7	나타나는	나타나+는	VERB	_	8	acl	_	_	나타나/pvg+는/etm
+8	것도	것+도	ADV	_	10	advcl	_	_	것/nbn+도/jxc
+9	이	이	DET	_	10	det	_	_	이/mmd
+10	때문이다	때문+이+다	VERB	_	0	root	_	_	때문/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 자외선은 살균력이 강해서 모든 병균을 죽일 수 있다 .
+1	자외선은	자외선+은	NOUN	_	6	dislocated	_	_	자외선/ncn+은/jxt
+2	살균력이	살균력+이	NOUN	_	3	nsubj	_	_	살균력/ncn+이/jcs
+3	강해서	강하+어서	SCONJ	_	6	xcomp	_	_	강하/paa+어서/ecs
+4	모든	모든	ADJ	_	5	amod	_	_	모든/mma
+5	병균을	병균+을	NOUN	_	6	obj	_	_	병균/ncn+을/jco
+6	죽일	죽이+ㄹ	VERB	_	0	root	_	_	죽이/pvg+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	있다	있+다	ADJ	_	6	aux	_	_	있/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 봄철은 여러 가지 질병을 앓을 수 있는 가장 괴로운 절기다 .
+1	봄철은	봄철+은	NOUN	_	10	dislocated	_	_	봄철/ncn+은/jxt
+2	여러	여러	ADJ	_	3	amod	_	_	여러/mma
+3	가지	가지	NOUN	_	4	compound	_	_	가지/nbu
+4	질병을	질병+을	NOUN	_	5	obj	_	_	질병/ncn+을/jco
+5	앓을	앓+ㄹ	VERB	_	10	ccomp	_	_	앓/pvg+ㄹ/etm
+6	수	수	NOUN	_	7	fixed	_	_	수/nbn
+7	있는	있+는	ADJ	_	5	aux	_	_	있/paa+는/etm
+8	가장	가장	ADV	_	9	advmod	_	_	가장/mag
+9	괴로운	괴롭+ㄴ	ADJ	_	10	amod	_	_	괴롭/paa+ㄴ/etm
+10	절기다	절기+이+다	VERB	_	0	root	_	_	절기/ncn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 바깥 기온이 올라가면 혈액의 피부집중화 현상이 일어난다 .
+1	바깥	바깥	NOUN	_	2	compound	_	_	바깥/ncn
+2	기온이	기온+이	NOUN	_	3	nsubj	_	_	기온/ncn+이/jcs
+3	올라가면	올라가+면	SCONJ	_	7	ccomp	_	_	올라가/pvg+면/ecs
+4	혈액의	혈액+의	NOUN	_	6	nmod	_	_	혈액/ncn+의/jcm
+5	피부집중화	피부집중화	NOUN	_	6	compound	_	_	피부집중화/ncn
+6	현상이	현상+이	NOUN	_	7	nsubj	_	_	현상/ncn+이/jcs
+7	일어난다	일어나+ㄴ다	VERB	_	0	root	_	_	일어나/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그 밖에 쌓였던 겨우내 스트레스도 춘곤의 원인이 된다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	밖에	밖+에	ADV	_	3	obl	_	_	밖/ncn+에/jca
+3	쌓였던	쌓이+었+던	VERB	_	5	acl	_	_	쌓이/pvg+었/ep+던/etm
+4	겨우내	겨우내	ADV	_	5	advmod	_	_	겨우내/mag
+5	스트레스도	스트레스+도	ADV	_	8	advcl	_	_	스트레스/ncn+도/jxc
+6	춘곤의	춘곤+의	NOUN	_	7	nmod	_	_	춘곤/ncn+의/jcm
+7	원인이	원인+이	NOUN	_	8	csubj	_	_	원인/ncn+이/jcc
+8	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 겨우내 운동부족은 춘곤의 원인이 된다 .
+1	겨우내	겨우내	ADV	_	2	advmod	_	_	겨우내/mag
+2	운동부족은	운동부족+은	NOUN	_	5	dislocated	_	_	운동부족/ncn+은/jxt
+3	춘곤의	춘곤+의	NOUN	_	4	nmod	_	_	춘곤/ncn+의/jcm
+4	원인이	원인+이	NOUN	_	5	csubj	_	_	원인/ncn+이/jcc
+5	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+

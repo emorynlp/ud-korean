@@ -1,0 +1,827 @@
+# 하기야 짐승도 잘 가르치기만 하면 어느 정도는 순치될 수 있다 .
+1	하기야	하기야	CCONJ	_	8	cc	_	_	하기야/maj
+2	짐승도	짐승+도	ADV	_	8	advcl	_	_	짐승/ncn+도/jxc
+3	잘	잘	ADV	_	4	advmod	_	_	잘/mag
+4	가르치기만	가르치+기+만	ADV	_	5	advcl	_	_	가르치/pvg+기/etn+만/jxc
+5	하면	하+면	SCONJ	_	8	ccomp	_	_	하/pvg+면/ecs
+6	어느	어느	DET	_	7	det	_	_	어느/mmd
+7	정도는	정도+는	NOUN	_	8	dislocated	_	_	정도/ncn+는/jxt
+8	순치될	순치+되+ㄹ	VERB	_	0	root	_	_	순치/ncpa+되/xsv+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	있다	있+다	ADJ	_	8	aux	_	_	있/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 사람이 스스로 만물의 영장이라 하고 우쭐대는 까닭이 여기에 있다 .
+1	사람이	사람+이	NOUN	_	6	nsubj	_	_	사람/ncn+이/jcs
+2	스스로	스스로	ADV	_	5	advmod	_	_	스스로/mag
+3	만물의	만물+의	NOUN	_	4	nmod	_	_	만물/ncn+의/jcm
+4	영장이라	영장+이+라	SCONJ	_	5	ccomp	_	_	영장/ncn+이/jp+라/ecs
+5	하고	하+고	SCONJ	_	6	ccomp	_	_	하/pvg+고/ecs
+6	우쭐대는	우쭐대+는	VERB	_	7	acl	_	_	우쭐대/pvg+는/etm
+7	까닭이	까닭+이	NOUN	_	9	nsubj	_	_	까닭/ncn+이/jcs
+8	여기에	여기+에	ADV	_	9	obl	_	_	여기/npd+에/jca
+9	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 뭇 짐승들은 일단 배만 부르면 더 이상의 탐욕을 부리지 않는다 .
+1	뭇	뭇	ADJ	_	2	amod	_	_	뭇/mma
+2	짐승들은	짐승+들+은	NOUN	_	9	dislocated	_	_	짐승/ncn+들/xsn+은/jxt
+3	일단	일단	ADV	_	5	advmod	_	_	일단/mag
+4	배만	배+만	ADV	_	5	advcl	_	_	배/ncn+만/jxc
+5	부르면	부르+면	SCONJ	_	9	xcomp	_	_	부르/paa+면/ecs
+6	더	더	ADV	_	7	advmod	_	_	더/mag
+7	이상의	이상+의	NOUN	_	8	nmod	_	_	이상/ncn+의/jcm
+8	탐욕을	탐욕+을	NOUN	_	9	obj	_	_	탐욕/ncn+을/jco
+9	부리지	부리+지	VERB	_	0	root	_	_	부리/pvg+지/ecx
+10	않는다	않+는다	AUX	_	9	aux	_	_	않/px+는다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 우거진 쑥밭에서 쑥만 뽑아낸다고 곡식이 저절로 자라지 않는 것과 같다 .
+1	우거진	우거지+ㄴ	VERB	_	2	acl	_	_	우거지/pvg+ㄴ/etm
+2	쑥밭에서	쑥밭+에서	ADV	_	4	advcl	_	_	쑥밭/ncn+에서/jca
+3	쑥만	쑥+만	ADV	_	4	advcl	_	_	쑥/ncn+만/jxc
+4	뽑아낸다고	뽑+아+내+ㄴ다고	SCONJ	_	7	ccomp	_	_	뽑/pvg+아/ecx+내/px+ㄴ다고/ecs
+5	곡식이	곡식+이	NOUN	_	7	nsubj	_	_	곡식/ncn+이/jcs
+6	저절로	저절로	ADV	_	7	advmod	_	_	저절로/mag
+7	자라지	자라+지	VERB	_	9	acl	_	_	자라/pvg+지/ecx
+8	않는	않+는	AUX	_	7	aux	_	_	않/px+는/etm
+9	것과	것+과	CCONJ	_	10	conj	_	_	것/nbn+과/jct
+10	같다	같+다	ADJ	_	0	root	_	_	같/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 원래 쑥이나 잡초는 곡식보다 더 강하고 질긴 생명력이 있어서 뽑기만 하고 그냥 두면 더 무성하게 자라기 마련이다 .
+1	원래	원래	ADV	_	16	advmod	_	_	원래/mag
+2	쑥이나	쑥+이나	CCONJ	_	3	conj	_	_	쑥/ncn+이나/jcj
+3	잡초는	잡초+는	NOUN	_	16	dislocated	_	_	잡초/ncn+는/jxt
+4	곡식보다	곡식+보다	ADV	_	7	advcl	_	_	곡식/ncn+보다/jca
+5	더	더	ADV	_	7	advmod	_	_	더/mag
+6	강하고	강하+고	CCONJ	_	7	conj	_	_	강하/paa+고/ecc
+7	질긴	질기+ㄴ	ADJ	_	8	amod	_	_	질기/paa+ㄴ/etm
+8	생명력이	생명력+이	NOUN	_	9	nsubj	_	_	생명력/ncn+이/jcs
+9	있어서	있+어서	SCONJ	_	16	xcomp	_	_	있/paa+어서/ecs
+10	뽑기만	뽑+기+만	ADV	_	13	ccomp	_	_	뽑/pvg+기/etn+만/jxc
+11	하고	하+고	SCONJ	_	10	aux	_	_	하/px+고/ecs
+12	그냥	그냥	ADV	_	13	advmod	_	_	그냥/mag
+13	두면	두+면	SCONJ	_	16	ccomp	_	_	두/pvg+면/ecs
+14	더	더	ADV	_	15	advmod	_	_	더/mag
+15	무성하게	무성하+게	SCONJ	_	16	xcomp	_	_	무성하/paa+게/ecs
+16	자라기	자라+기	VERB	_	0	root	_	_	자라/pvg+기/etn
+17	마련이다	마련+이+다	VERB	_	16	aux	_	_	마련/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 종래 성실치 못한 사람일수록 윗사람에게 아첨하고 뇌물을 갖다바쳐서 승진하고 행세하던 그런 풍토부터 일소해야 한다 .
+1	종래	종래	ADV	_	2	advmod	_	_	종래/mag
+2	성실치	성실하+지	ADJ	_	4	amod	_	_	성실하/paa+지/ecx
+3	못한	못하+ㄴ	AUX	_	2	aux	_	_	못하/px+ㄴ/etm
+4	사람일수록	사람+이+ㄹ수록	SCONJ	_	8	ccomp	_	_	사람/ncn+이/jp+ㄹ수록/ecs
+5	윗사람에게	윗사람+에게	ADV	_	6	iobj	_	_	윗사람/ncn+에게/jca
+6	아첨하고	아첨+하+고	CCONJ	_	8	conj	_	_	아첨/ncpa+하/xsv+고/ecc
+7	뇌물을	뇌물+을	NOUN	_	8	obj	_	_	뇌물/ncn+을/jco
+8	갖다바쳐서	갖다바쳐+어서	SCONJ	_	10	ccomp	_	_	갖다바쳐/pvg+어서/ecs
+9	승진하고	승진+하+고	CCONJ	_	10	conj	_	_	승진/ncpa+하/xsv+고/ecc
+10	행세하던	행세+하+더+ㄴ	VERB	_	12	acl	_	_	행세/ncpa+하/xsv+더/ep+ㄴ/etm
+11	그런	그런	DET	_	12	det	_	_	그런/mmd
+12	풍토부터	풍토+부터	ADV	_	13	advcl	_	_	풍토/ncn+부터/jxc
+13	일소해야	일소+하+어야	VERB	_	0	root	_	_	일소/ncpa+하/xsv+어야/ecx
+14	한다	하+ㄴ다	AUX	_	13	aux	_	_	하/px+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이렇게 되면 이러한 인간형을 다투어 본받으려 할 것이 틀림없다 .
+1	이렇게	이렇게	ADV	_	2	advmod	_	_	이렇게/mad
+2	되면	되+면	SCONJ	_	6	ccomp	_	_	되/pvg+면/ecs
+3	이러한	이러하+ㄴ	VERB	_	4	amod	_	_	이러하/pad+ㄴ/etm
+4	인간형을	인간형+을	NOUN	_	6	obj	_	_	인간형/ncn+을/jco
+5	다투어	다투+어	SCONJ	_	6	ccomp	_	_	다투/pvg+어/ecs
+6	본받으려	본받+으려	VERB	_	8	acl	_	_	본받/pvg+으려/ecx
+7	할	하+ㄹ	AUX	_	6	aux	_	_	하/px+ㄹ/etm
+8	것이	것+이	NOUN	_	9	nsubj	_	_	것/nbn+이/jcs
+9	틀림없다	틀림없+다	ADJ	_	0	root	_	_	틀림없/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 하지만 좀더 안목으로 보면 꼭 그렇지만도 않다 .
+1	하지만	하지만	CCONJ	_	6	cc	_	_	하지만/maj
+2	좀더	좀더	ADV	_	4	advmod	_	_	좀더/mag
+3	안목으로	안목+으로	ADV	_	4	advcl	_	_	안목/ncn+으로/jca
+4	보면	보+면	SCONJ	_	6	conj	_	_	보/pvg+면/ecs
+5	꼭	꼭	ADV	_	6	advmod	_	_	꼭/mag
+6	그렇지만도	그렇+지+만도	ADV	_	0	root	_	_	그렇/pad+지/ecx+만도/jxc
+7	않다	않+다	AUX	_	6	aux	_	_	않/px+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 멀리는 그만두고라도 그 할아버지대까지만 올라가보면 대개는 당시의 부정한 돈과 난폭한 권력에 짓밟히고 시달리던 사람들이다 .
+1	멀리는	멀리+는	NOUN	_	2	dislocated	_	_	멀리/ncpa+는/jxt
+2	그만두고라도	그만두+고+라도	ADV	_	5	ccomp	_	_	그만두/pvg+고/ecs+라도/jxc
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	할아버지대까지만	할아버지대+까지만	ADV	_	5	advcl	_	_	할아버지대/ncn+까지만/jxc
+5	올라가보면	올라가+아+보+면	SCONJ	_	14	ccomp	_	_	올라가/pvg+아/ecx+보/px+면/ecs
+6	대개는	대개+는	NOUN	_	14	dislocated	_	_	대개/ncn+는/jxt
+7	당시의	당시+의	NOUN	_	11	nmod	_	_	당시/ncn+의/jcm
+8	부정한	부정+하+ㄴ	VERB	_	9	amod	_	_	부정/ncps+하/xsm+ㄴ/etm
+9	돈과	돈+과	CCONJ	_	11	conj	_	_	돈/ncn+과/jcj
+10	난폭한	난폭+하+ㄴ	VERB	_	11	amod	_	_	난폭/ncps+하/xsm+ㄴ/etm
+11	권력에	권력+에	ADV	_	13	obl	_	_	권력/ncn+에/jca
+12	짓밟히고	짓밟히+고	CCONJ	_	13	conj	_	_	짓밟히/pvg+고/ecc
+13	시달리던	시달리+던	VERB	_	14	ccomp	_	_	시달리/pvg+던/etm
+14	사람들이다	사람+들+이+다	VERB	_	0	root	_	_	사람/ncn+들/xsn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이 욕망이 또 어느 만큼 달성되면 마지막으로 추구하는 것이 있다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	욕망이	욕망+이	NOUN	_	6	nsubj	_	_	욕망/ncn+이/jcs
+3	또	또	ADV	_	6	advmod	_	_	또/mag
+4	어느	어느	DET	_	5	det	_	_	어느/mmd
+5	만큼	만큼	NOUN	_	6	mark	_	_	만큼/nbn
+6	달성되면	달성+되+면	SCONJ	_	8	ccomp	_	_	달성/ncpa+되/xsv+면/ecs
+7	마지막으로	마지막+으로	ADV	_	8	advcl	_	_	마지막/ncn+으로/jca
+8	추구하는	추구+하+는	VERB	_	9	acl	_	_	추구/ncpa+하/xsv+는/etm
+9	것이	것+이	NOUN	_	10	nsubj	_	_	것/nbn+이/jcs
+10	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 무엇보다도 문화에는 그 도덕성이 절대적인 기준이 되기 때문이다 .
+1	무엇보다도	무엇+보다+도	ADV	_	7	advcl	_	_	무엇/npd+보다/jca+도/jxc
+2	문화에는	문화+에+는	NOUN	_	7	dislocated	_	_	문화/ncn+에/jca+는/jxt
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	도덕성이	도덕성+이	NOUN	_	7	nsubj	_	_	도덕성/ncn+이/jcs
+5	절대적인	절대+적+이+ㄴ	VERB	_	6	acl	_	_	절대/ncn+적/xsn+이/jp+ㄴ/etm
+6	기준이	기준+이	NOUN	_	7	csubj	_	_	기준/ncn+이/jcc
+7	되기	되+기	VERB	_	0	root	_	_	되/pvg+기/etn
+8	때문이다	때문+이+다	VERB	_	7	aux	_	_	때문/nbn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 무분별하게 재물을 모아 자손에게 물려주기만 하면 그 재물로 자손들이 영화를 누리고 살아갈 줄 아는가 .
+1	무분별하게	무분별+하+게	SCONJ	_	3	xcomp	_	_	무분별/ncps+하/xsm+게/ecs
+2	재물을	재물+을	NOUN	_	3	obj	_	_	재물/ncn+을/jco
+3	모아	모으+아	SCONJ	_	5	ccomp	_	_	모으/pvg+아/ecs
+4	자손에게	자손+에게	ADV	_	5	iobj	_	_	자손/ncn+에게/jca
+5	물려주기만	물려주+기+만	ADV	_	12	ccomp	_	_	물려주/pvg+기/etn+만/jxc
+6	하면	하+면	SCONJ	_	5	aux	_	_	하/px+면/ecs
+7	그	그	DET	_	8	det	_	_	그/mmd
+8	재물로	재물+로	ADV	_	12	advcl	_	_	재물/ncn+로/jca
+9	자손들이	자손+들+이	NOUN	_	12	nsubj	_	_	자손/ncn+들/xsn+이/jcs
+10	영화를	영화+를	NOUN	_	11	obj	_	_	영화/ncn+를/jco
+11	누리고	누리+고	SCONJ	_	12	ccomp	_	_	누리/pvg+고/ecs
+12	살아갈	살아가+ㄹ	VERB	_	13	acl	_	_	살아가/pvg+ㄹ/etm
+13	줄	줄	NOUN	_	14	mark	_	_	줄/nbn
+14	아는가	알+는가	VERB	_	0	root	_	_	알/pvg+는가/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이들을 보고 다시 그 손자를 상상하기는 더욱 어렵지 않다 .
+1	이들을	이+들+을	PRON	_	2	obj	_	_	이/npp+들/xsn+을/jco
+2	보고	보+고	SCONJ	_	6	conj	_	_	보/pvg+고/ecs
+3	다시	다시	ADV	_	6	advmod	_	_	다시/mag
+4	그	그	DET	_	5	det	_	_	그/mmd
+5	손자를	손자+를	NOUN	_	6	obj	_	_	손자/ncn+를/jco
+6	상상하기는	상상+하+기+는	NOUN	_	8	dislocated	_	_	상상/ncpa+하/xsv+기/etn+는/jxt
+7	더욱	더욱	ADV	_	8	advmod	_	_	더욱/mag
+8	어렵지	어렵+지	ADJ	_	0	root	_	_	어렵/paa+지/ecx
+9	않다	않+다	AUX	_	8	aux	_	_	않/px+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 여기까지 오기 위해 얼마나 어둡고 긴 터널을 통과해야만 했던가 .
+1	여기까지	여기+까지	ADV	_	2	advcl	_	_	여기/npd+까지/jxc
+2	오기	오+기	VERB	_	3	nmod	_	_	오/pvg+기/etn
+3	위해	위하+어	SCONJ	_	8	ccomp	_	_	위하/pvg+어/ecs
+4	얼마나	얼마나	ADV	_	6	advmod	_	_	얼마나/mag
+5	어둡고	어둡+고	CCONJ	_	6	conj	_	_	어둡/paa+고/ecc
+6	긴	길+ㄴ	ADJ	_	7	amod	_	_	길/paa+ㄴ/etm
+7	터널을	터널+을	NOUN	_	8	obj	_	_	터널/ncn+을/jco
+8	통과해야만	통과+하+어야+만	ADV	_	0	root	_	_	통과/ncpa+하/xsv+어야/ecx+만/jxc
+9	했던가	하+었+던가	AUX	_	8	aux	_	_	하/px+었/ep+던가/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 서로 먼저 달려들어 제 몫을 챙기려고 아우성을 치면 어찌 되겠는가 .
+1	서로	서로	ADV	_	3	advmod	_	_	서로/mag
+2	먼저	먼저	ADV	_	3	advmod	_	_	먼저/mag
+3	달려들어	달려들+어	SCONJ	_	6	ccomp	_	_	달려들/pvg+어/ecs
+4	제	제	PRON	_	5	compound	_	_	제/npp
+5	몫을	몫+을	NOUN	_	6	obj	_	_	몫/ncn+을/jco
+6	챙기려고	챙기+려고	SCONJ	_	8	ccomp	_	_	챙기/pvg+려고/ecs
+7	아우성을	아우성+을	NOUN	_	8	obj	_	_	아우성/ncn+을/jco
+8	치면	치+면	SCONJ	_	10	ccomp	_	_	치/pvg+면/ecs
+9	어찌	어찌	ADV	_	10	advmod	_	_	어찌/mag
+10	되겠는가	되+겠+는가	VERB	_	0	root	_	_	되/pvg+겠/ep+는가/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 민심은 본래 정해져 있는 것이 없다 .
+1	민심은	민심+은	NOUN	_	6	dislocated	_	_	민심/ncn+은/jxt
+2	본래	본래	ADV	_	3	advmod	_	_	본래/mag
+3	정해져	정하+어+지+어	AUX	_	5	acl	_	_	정하/pvg+어/ecx+지/px+어/ecx
+4	있는	있+는	AUX	_	3	aux	_	_	있/px+는/etm
+5	것이	것+이	NOUN	_	6	nsubj	_	_	것/nbn+이/jcs
+6	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 마치 물과 같아서 넓은 대접에 담으면 대접 모양이 되고 , 좁은 밥 공기에 담으면 공기 모양이 된다고 했다 .
+1	마치	마치	ADV	_	3	advmod	_	_	마치/mag
+2	물과	물+과	CCONJ	_	3	conj	_	_	물/ncn+과/jct
+3	같아서	같+아서	SCONJ	_	17	xcomp	_	_	같/paa+아서/ecs
+4	넓은	넓+ㄴ	ADJ	_	5	amod	_	_	넓/paa+ㄴ/etm
+5	대접에	대접+에	ADV	_	6	obl	_	_	대접/ncpa+에/jca
+6	담으면	담+으면	SCONJ	_	9	ccomp	_	_	담/pvg+으면/ecs
+7	대접	대접	NOUN	_	8	compound	_	_	대접/ncn
+8	모양이	모양+이	NOUN	_	9	csubj	_	_	모양/ncn+이/jcc
+9	되고	되+고	CCONJ	_	17	conj	_	_	되/pvg+고/ecc
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	좁은	좁+ㄴ	ADJ	_	13	amod	_	_	좁/paa+ㄴ/etm
+12	밥	밥	NOUN	_	13	compound	_	_	밥/ncn
+13	공기에	공기+에	ADV	_	14	obl	_	_	공기/ncn+에/jca
+14	담으면	담+으면	SCONJ	_	17	ccomp	_	_	담/pvg+으면/ecs
+15	공기	공기	NOUN	_	16	compound	_	_	공기/ncn
+16	모양이	모양+이	NOUN	_	17	csubj	_	_	모양/ncn+이/jcc
+17	된다고	되+ㄴ다고	SCONJ	_	18	ccomp	_	_	되/pvg+ㄴ다고/ecs
+18	했다	하+었+다	VERB	_	0	root	_	_	하/pvg+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 근본을 외면하고 지역적인 것의 변죽만 틀어막아 봤자 아무 소용이 없다 .
+1	근본을	근본+을	NOUN	_	2	obj	_	_	근본/ncn+을/jco
+2	외면하고	외면+하+고	SCONJ	_	6	ccomp	_	_	외면/ncpa+하/xsv+고/ecs
+3	지역적인	지역+적+이+ㄴ	VERB	_	4	acl	_	_	지역/ncn+적/xsn+이/jp+ㄴ/etm
+4	것의	것+의	NOUN	_	5	nmod	_	_	것/nbn+의/jcm
+5	변죽만	변죽+만	ADV	_	6	advcl	_	_	변죽/ncn+만/jxc
+6	틀어막아	틀어막+아	VERB	_	10	conj	_	_	틀어막/pvg+아/ecx
+7	봤자	보+았+자	SCONJ	_	6	aux	_	_	보/px+았/ep+자/ecs
+8	아무	아무	DET	_	9	det	_	_	아무/mmd
+9	소용이	소용+이	NOUN	_	10	nsubj	_	_	소용/ncn+이/jcs
+10	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이제 우리는 개인의 도덕적 차원을 넘어서 우리 사회구성원 전체의 구조적인 의식면으로 시각을 넓혀 볼 때가 되었다 .
+1	이제	이제	ADV	_	13	advmod	_	_	이제/mag
+2	우리는	우리+는	PRON	_	13	dislocated	_	_	우리/npp+는/jxt
+3	개인의	개인+의	NOUN	_	5	nmod	_	_	개인/ncn+의/jcm
+4	도덕적	도덕+적	NOUN	_	5	amod	_	_	도덕/ncn+적/xsn
+5	차원을	차원+을	NOUN	_	6	obj	_	_	차원/ncn+을/jco
+6	넘어서	넘+어서	SCONJ	_	13	ccomp	_	_	넘/pvg+어서/ecs
+7	우리	우리	PRON	_	8	compound	_	_	우리/npp
+8	사회구성원	사회+구성원	NOUN	_	9	compound	_	_	사회/ncn+구성원/ncn
+9	전체의	전체+의	NOUN	_	11	nmod	_	_	전체/ncn+의/jcm
+10	구조적인	구조+적+이+ㄴ	VERB	_	11	acl	_	_	구조/ncpa+적/xsn+이/jp+ㄴ/etm
+11	의식면으로	의식면+으로	ADV	_	13	advcl	_	_	의식면/ncn+으로/jca
+12	시각을	시각+을	NOUN	_	13	obj	_	_	시각/ncn+을/jco
+13	넓혀	넓히+어	VERB	_	15	acl	_	_	넓히/pvg+어/ecx
+14	볼	보+ㄹ	AUX	_	13	aux	_	_	보/px+ㄹ/etm
+15	때가	때+가	NOUN	_	16	csubj	_	_	때/ncn+가/jcc
+16	되었다	되+었+다	VERB	_	0	root	_	_	되/pvg+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 자존심이 없는 사람은 무슨 짓이든 하는 사람이다 .
+1	자존심이	자존심+이	NOUN	_	2	nsubj	_	_	자존심/ncn+이/jcs
+2	없는	없+는	ADJ	_	3	amod	_	_	없/paa+는/etm
+3	사람은	사람+은	NOUN	_	7	dislocated	_	_	사람/ncn+은/jxt
+4	무슨	무슨	DET	_	5	det	_	_	무슨/mmd
+5	짓이든	짓+이든	ADV	_	6	advcl	_	_	짓/ncn+이든/jxc
+6	하는	하+는	VERB	_	7	ccomp	_	_	하/pvg+는/etm
+7	사람이다	사람+이+다	VERB	_	0	root	_	_	사람/ncn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 진정한 국민적 자존심은 여기서부터 비롯되는 것이다 .
+1	진정한	진정+하+ㄴ	VERB	_	3	amod	_	_	진정/ncps+하/xsm+ㄴ/etm
+2	국민적	국민+적	NOUN	_	3	amod	_	_	국민/ncn+적/xsn
+3	자존심은	자존심+은	NOUN	_	5	dislocated	_	_	자존심/ncn+은/jxt
+4	여기서부터	여기+서+부터	ADV	_	5	advcl	_	_	여기/npd+서/jca+부터/jxc
+5	비롯되는	비롯+되+는	VERB	_	0	root	_	_	비롯/ncpa+되/xsv+는/etm
+6	것이다	것+이+다	VERB	_	5	aux	_	_	것/nbn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이것이 구체적으로 눈 앞에 그려져야 우리 모두가 신바람이 나서 힘껏 노를 저어갈 수 있겠기 때문이다 .
+1	이것이	이것+이	PRON	_	5	nsubj	_	_	이것/npd+이/jcs
+2	구체적으로	구체+적+으로	ADV	_	5	advcl	_	_	구체/ncn+적/xsn+으로/jca
+3	눈	눈	NOUN	_	4	compound	_	_	눈/ncn
+4	앞에	앞+에	ADV	_	5	obl	_	_	앞/ncn+에/jca
+5	그려져야	그리+어+지+어야	SCONJ	_	12	ccomp	_	_	그리/pvg+어/ecx+지/px+어야/ecs
+6	우리	우리	PRON	_	7	compound	_	_	우리/npp
+7	모두가	모두+가	NOUN	_	12	nsubj	_	_	모두/ncn+가/jcs
+8	신바람이	신바람+이	NOUN	_	9	nsubj	_	_	신바람/ncn+이/jcs
+9	나서	나+서	SCONJ	_	12	ccomp	_	_	나/pvg+서/ecs
+10	힘껏	힘껏	ADV	_	12	advmod	_	_	힘껏/mag
+11	노를	노+를	NOUN	_	12	obj	_	_	노/ncn+를/jco
+12	저어갈	젓+어+가+ㄹ	AUX	_	0	root	_	_	젓/pvg+어/ecx+가/px+ㄹ/etm
+13	수	수	NOUN	_	14	fixed	_	_	수/nbn
+14	있겠기	있+겠+기	ADJ	_	12	aux	_	_	있/paa+겠/ep+기/etn
+15	때문이다	때문+이+다	VERB	_	12	aux	_	_	때문/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 깨끗한 정부 , 튼튼한 경제 , 건강한 사회 , 통일된 조국이 그것이다 .
+1	깨끗한	깨끗하+ㄴ	ADJ	_	2	amod	_	_	깨끗하/paa+ㄴ/etm
+2	정부	정부	NOUN	_	11	compound	_	_	정부/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	튼튼한	튼튼+하+ㄴ	VERB	_	5	amod	_	_	튼튼/ncps+하/xsm+ㄴ/etm
+5	경제	경제	NOUN	_	11	compound	_	_	경제/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	건강한	건강+하+ㄴ	VERB	_	8	amod	_	_	건강/ncps+하/xsm+ㄴ/etm
+8	사회	사회	NOUN	_	11	compound	_	_	사회/ncn
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	통일된	통일+되+ㄴ	VERB	_	11	acl	_	_	통일/ncpa+되/xsv+ㄴ/etm
+11	조국이	조국+이	NOUN	_	12	nsubj	_	_	조국/ncn+이/jcs
+12	그것이다	그것+이+다	VERB	_	0	root	_	_	그것/npd+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 역사와 문화가 오랜 민족은 이래서 좋은 것이다 .
+1	역사와	역사+와	CCONJ	_	2	conj	_	_	역사/ncn+와/jcj
+2	문화가	문화+가	NOUN	_	3	nsubj	_	_	문화/ncn+가/jcs
+3	오랜	오래+ㄴ	ADJ	_	4	amod	_	_	오래/paa+ㄴ/etm
+4	민족은	민족+은	NOUN	_	6	dislocated	_	_	민족/ncn+은/jxt
+5	이래서	이렇+어서	SCONJ	_	6	xcomp	_	_	이렇/pad+어서/ecs
+6	좋은	좋+ㄴ	ADJ	_	0	root	_	_	좋/paa+ㄴ/etm
+7	것이다	것+이+다	VERB	_	6	aux	_	_	것/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 어떻게 하느냐 하는 방법이 문제다 .
+1	어떻게	어떻게	ADV	_	2	advmod	_	_	어떻게/mad
+2	하느냐	하+느냐	SCONJ	_	3	ccomp	_	_	하/pvg+느냐/ecs
+3	하는	하+는	VERB	_	4	acl	_	_	하/pvg+는/etm
+4	방법이	방법+이	NOUN	_	5	nsubj	_	_	방법/ncn+이/jcs
+5	문제다	문제+이+다	VERB	_	0	root	_	_	문제/ncn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 모든 것은 믿음에서부터 시작되어 믿음으로 끝나는 것이 인간사다 .
+1	모든	모든	ADJ	_	2	amod	_	_	모든/mma
+2	것은	것+은	NOUN	_	6	dislocated	_	_	것/nbn+은/jxt
+3	믿음에서부터	믿음+에서+부터	ADV	_	4	advcl	_	_	믿음/ncn+에서/jca+부터/jxc
+4	시작되어	시작+되+어	SCONJ	_	6	ccomp	_	_	시작/ncpa+되/xsv+어/ecs
+5	믿음으로	믿음+으로	ADV	_	6	advcl	_	_	믿음/ncn+으로/jca
+6	끝나는	끝나+는	VERB	_	7	acl	_	_	끝나/pvg+는/etm
+7	것이	것+이	NOUN	_	8	nsubj	_	_	것/nbn+이/jcs
+8	인간사다	인간사+이+다	VERB	_	0	root	_	_	인간사/ncn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 지난날 군사정권이 경제를 일으켜 이만큼 살게한 것은 분명 그들의 공으로 돌려야 한다 .
+1	지난날	지난날	NOUN	_	6	advmod	_	_	지난날/ncn
+2	군사정권이	군사+정권+이	NOUN	_	6	nsubj	_	_	군사/ncn+정권/ncn+이/jcs
+3	경제를	경제+를	NOUN	_	4	obj	_	_	경제/ncn+를/jco
+4	일으켜	일으키+어	SCONJ	_	6	ccomp	_	_	일으키/pvg+어/ecs
+5	이만큼	이+만큼	ADV	_	6	advcl	_	_	이/npd+만큼/jca
+6	살게한	살+게+하+ㄴ	AUX	_	7	acl	_	_	살/pvg+게/ecx+하/px+ㄴ/etm
+7	것은	것+은	NOUN	_	11	dislocated	_	_	것/nbn+은/jxt
+8	분명	분명	ADV	_	11	advmod	_	_	분명/mag
+9	그들의	그+들+의	PRON	_	10	nmod	_	_	그/npp+들/xsn+의/jcm
+10	공으로	공+으로	ADV	_	11	advcl	_	_	공/ncn+으로/jca
+11	돌려야	돌리+어야	VERB	_	0	root	_	_	돌리/pvg+어야/ecx
+12	한다	하+ㄴ다	AUX	_	11	aux	_	_	하/px+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 믿음을 잃은 것이다 .
+1	믿음을	믿음+을	NOUN	_	2	obj	_	_	믿음/ncn+을/jco
+2	잃은	잃+ㄴ	VERB	_	0	root	_	_	잃/pvg+ㄴ/etm
+3	것이다	것+이+다	VERB	_	2	aux	_	_	것/nbn+이/jp+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 그러기 위해서는 모든 시각을 근시로부터 원시로 바꿔야 한다 .
+1	그러기	그러+기	VERB	_	2	nmod	_	_	그러/pvd+기/etn
+2	위해서는	위하+어서+는	NOUN	_	7	ccomp	_	_	위하/pvg+어서/ecs+는/jxt
+3	모든	모든	ADJ	_	4	amod	_	_	모든/mma
+4	시각을	시각+을	NOUN	_	7	obj	_	_	시각/ncn+을/jco
+5	근시로부터	근시+로+부터	ADV	_	7	advcl	_	_	근시/ncn+로/jca+부터/jxc
+6	원시로	원시+로	ADV	_	7	advcl	_	_	원시/ncn+로/jca
+7	바꿔야	바꾸+어야	VERB	_	0	root	_	_	바꾸/pvg+어야/ecx
+8	한다	하+ㄴ다	AUX	_	7	aux	_	_	하/px+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 권력까지 넘보지 못하게 아예 제도적으로 신분을 최하위에다 묶어놓은 것이다 .
+1	권력까지	권력+까지	ADV	_	2	advcl	_	_	권력/ncn+까지/jxc
+2	넘보지	넘보+지	VERB	_	8	ccomp	_	_	넘보/pvg+지/ecx
+3	못하게	못하+게	SCONJ	_	2	aux	_	_	못하/px+게/ecs
+4	아예	아예	ADV	_	8	advmod	_	_	아예/mag
+5	제도적으로	제도+적+으로	ADV	_	8	advcl	_	_	제도/ncn+적/xsn+으로/jca
+6	신분을	신분+을	NOUN	_	8	obj	_	_	신분/ncn+을/jco
+7	최하위에다	최하위+에다	ADV	_	8	advcl	_	_	최하위/ncn+에다/jca
+8	묶어놓은	묶+어+놓+ㄴ	AUX	_	0	root	_	_	묶/pvg+어/ecx+놓/px+ㄴ/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 한편 무서운 권력을 가진 사람에게 돈까지 갖게 한다면 어떻게 될까 .
+1	한편	한편	CCONJ	_	10	cc	_	_	한편/maj
+2	무서운	무섭+ㄴ	ADJ	_	3	amod	_	_	무섭/paa+ㄴ/etm
+3	권력을	권력+을	NOUN	_	4	obj	_	_	권력/ncn+을/jco
+4	가진	가지+ㄴ	VERB	_	5	acl	_	_	가지/pvg+ㄴ/etm
+5	사람에게	사람+에게	ADV	_	7	iobj	_	_	사람/ncn+에게/jca
+6	돈까지	돈+까지	ADV	_	7	advcl	_	_	돈/ncn+까지/jxc
+7	갖게	갖+게	VERB	_	10	ccomp	_	_	갖/pvg+게/ecx
+8	한다면	하+ㄴ다면	SCONJ	_	7	aux	_	_	하/px+ㄴ다면/ecs
+9	어떻게	어떻+게	SCONJ	_	10	xcomp	_	_	어떻/pad+게/ecs
+10	될까	되+ㄹ까	VERB	_	0	root	_	_	되/pvg+ㄹ까/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 지당한 발상이요 사물의 이치와 본질을 정확히 꿰뚫어본 시각이다 .
+1	지당한	지당+하+ㄴ	VERB	_	2	amod	_	_	지당/ncps+하/xsm+ㄴ/etm
+2	발상이요	발상+이+요	CCONJ	_	8	conj	_	_	발상/ncn+이/jp+요/ecc
+3	사물의	사물+의	NOUN	_	5	nmod	_	_	사물/ncn+의/jcm
+4	이치와	이치+와	CCONJ	_	5	conj	_	_	이치/ncn+와/jcj
+5	본질을	본질+을	NOUN	_	7	obj	_	_	본질/ncn+을/jco
+6	정확히	정확히	ADV	_	7	advmod	_	_	정확히/mag
+7	꿰뚫어본	꿰뚫+어+보+ㄴ	AUX	_	8	ccomp	_	_	꿰뚫/pvg+어/ecx+보/px+ㄴ/etm
+8	시각이다	시각+이+다	VERB	_	0	root	_	_	시각/ncn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 지금이 옛날처럼 그런 계급사회도 아니니 신분으로 가를 수도 없는 일이다 .
+1	지금이	지금+이	NOUN	_	5	nsubj	_	_	지금/ncn+이/jcs
+2	옛날처럼	옛날+처럼	ADV	_	5	advcl	_	_	옛날/ncn+처럼/jca
+3	그런	그런	DET	_	4	det	_	_	그런/mmd
+4	계급사회도	계급+사회+도	ADV	_	5	advcl	_	_	계급/ncn+사회/ncn+도/jxc
+5	아니니	아니+니	SCONJ	_	7	xcomp	_	_	아니/paa+니/ecs
+6	신분으로	신분+으로	ADV	_	7	advcl	_	_	신분/ncn+으로/jca
+7	가를	가르+ㄹ	VERB	_	10	ccomp	_	_	가르/pvg+ㄹ/etm
+8	수도	수+도	ADV	_	9	fixed	_	_	수/nbn+도/jxc
+9	없는	없+는	ADJ	_	7	aux	_	_	없/paa+는/etm
+10	일이다	일+이+다	VERB	_	0	root	_	_	일/ncpa+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 법을 비롯한 각종 물리적 힘만으로는 사람의 마음을 움직일 수 없다 .
+1	법을	법+을	NOUN	_	2	obj	_	_	법/ncn+을/jco
+2	비롯한	비롯+하+ㄴ	VERB	_	5	acl	_	_	비롯/ncpa+하/xsv+ㄴ/etm
+3	각종	각종	NOUN	_	5	compound	_	_	각종/ncn
+4	물리적	물리+적	NOUN	_	5	amod	_	_	물리/ncn+적/xsn
+5	힘만으로는	힘+만+으로+는	NOUN	_	8	dislocated	_	_	힘/ncn+만/jxc+으로/jca+는/jxt
+6	사람의	사람+의	NOUN	_	7	nmod	_	_	사람/ncn+의/jcm
+7	마음을	마음+을	NOUN	_	8	obj	_	_	마음/ncn+을/jco
+8	움직일	움직이+ㄹ	VERB	_	0	root	_	_	움직이/pvg+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	없다	없+다	ADJ	_	8	aux	_	_	없/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이것은 오직 원숙한 문화적 정서로만이 가능하다 .
+1	이것은	이것+은	PRON	_	6	dislocated	_	_	이것/npd+은/jxt
+2	오직	오직	ADV	_	5	advmod	_	_	오직/mag
+3	원숙한	원숙+하+ㄴ	VERB	_	5	amod	_	_	원숙/ncps+하/xsm+ㄴ/etm
+4	문화적	문화+적	NOUN	_	5	amod	_	_	문화/ncn+적/xsn
+5	정서로만이	정서+로만+이	NOUN	_	6	nsubj	_	_	정서/ncn+로만/jxc+이/jcs
+6	가능하다	가능+하+다	VERB	_	0	root	_	_	가능/ncps+하/xsm+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 오늘날 우리 정치인의 교양이나 품성과 얼마나 거리가 먼가를 스스로 자문해 보라 .
+1	오늘날	오늘날	NOUN	_	8	advmod	_	_	오늘날/ncn
+2	우리	우리	PRON	_	3	compound	_	_	우리/npp
+3	정치인의	정치인+의	NOUN	_	5	nmod	_	_	정치인/ncn+의/jcm
+4	교양이나	교양+이나	CCONJ	_	5	conj	_	_	교양/ncn+이나/jcj
+5	품성과	품성+과	CCONJ	_	8	conj	_	_	품성/ncn+과/jct
+6	얼마나	얼마나	ADV	_	8	advmod	_	_	얼마나/mag
+7	거리가	거리+가	NOUN	_	8	nsubj	_	_	거리/ncn+가/jcs
+8	먼가를	멀+ㄴ가+를	NOUN	_	10	obj	_	_	멀/pvg+ㄴ가/ef+를/jco
+9	스스로	스스로	ADV	_	10	advmod	_	_	스스로/mag
+10	자문해	자문+하+어	VERB	_	0	root	_	_	자문/ncpa+하/xsv+어/ecx
+11	보라	보+라	AUX	_	10	aux	_	_	보/px+라/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이것은 보편적인 현대의 서구 경영학적 지식만으로 간단히 대체될 성질의 것이 아니다 .
+1	이것은	이것+은	PRON	_	11	dislocated	_	_	이것/npd+은/jxt
+2	보편적인	보편적+이+ㄴ	VERB	_	6	acl	_	_	보편적/ncn+이/jp+ㄴ/etm
+3	현대의	현대+의	NOUN	_	6	nmod	_	_	현대/ncn+의/jcm
+4	서구	서구	NOUN	_	6	compound	_	_	서구/ncn
+5	경영학적	경영학+적	NOUN	_	6	amod	_	_	경영학/ncn+적/xsn
+6	지식만으로	지식+만+으로	ADV	_	8	advcl	_	_	지식/ncn+만/jxc+으로/jca
+7	간단히	간단+히	ADV	_	8	advmod	_	_	간단/ncps+히/xsa
+8	대체될	대체+되+ㄹ	VERB	_	9	acl	_	_	대체/ncpa+되/xsv+ㄹ/etm
+9	성질의	성질+의	NOUN	_	10	nmod	_	_	성질/ncn+의/jcm
+10	것이	것+이	NOUN	_	11	csubj	_	_	것/nbn+이/jcc
+11	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이제 국민은 자존심 없는 지도자 , 돈과 권력만을 휘두르며 거들먹거리는 천박한 지도자를 따르지도 , 존경하지도 않게 되어 있다 .
+1	이제	이제	ADV	_	15	advmod	_	_	이제/mag
+2	국민은	국민+은	NOUN	_	15	dislocated	_	_	국민/ncn+은/jxt
+3	자존심	자존심	NOUN	_	4	dep	_	_	자존심/ncn
+4	없는	없+는	ADJ	_	5	amod	_	_	없/paa+는/etm
+5	지도자	지도자	NOUN	_	12	compound	_	_	지도자/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	돈과	돈+과	CCONJ	_	8	conj	_	_	돈/ncn+과/jcj
+8	권력만을	권력+만+을	NOUN	_	9	obj	_	_	권력/ncn+만/jxc+을/jco
+9	휘두르며	휘두르+며	SCONJ	_	10	ccomp	_	_	휘두르/pvg+며/ecs
+10	거들먹거리는	거들먹거리+는	VERB	_	12	acl	_	_	거들먹거리/pvg+는/etm
+11	천박한	천박+하+ㄴ	VERB	_	12	amod	_	_	천박/ncps+하/xsm+ㄴ/etm
+12	지도자를	지도자+를	NOUN	_	15	obj	_	_	지도자/ncn+를/jco
+13	따르지도	따르+지+도	ADV	_	15	ccomp	_	_	따르/pvg+지/ecs+도/jxc
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	존경하지도	존경+하+지+도	ADV	_	0	root	_	_	존경/ncpa+하/xsv+지/ecx+도/jxc
+16	않게	않+게	AUX	_	15	aux	_	_	않/px+게/ecx
+17	되어	되+어	AUX	_	15	aux	_	_	되/px+어/ecx
+18	있다	있+다	AUX	_	15	aux	_	_	있/px+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이 길만이 스스로도 살고 나라도 국민도 함께 사는 길임을 명심해야 한다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	길만이	길+만+이	NOUN	_	9	nsubj	_	_	길/ncn+만/jxc+이/jcs
+3	스스로도	스스로+도	ADV	_	4	advcl	_	_	스스로/npp+도/jxc
+4	살고	살+고	CCONJ	_	8	conj	_	_	살/pvg+고/ecc
+5	나라도	나라+도	CCONJ	_	6	conj	_	_	나라/ncn+도/jcj
+6	국민도	국민+도	ADV	_	8	advcl	_	_	국민/ncn+도/jxc
+7	함께	함께	ADV	_	8	advmod	_	_	함께/mag
+8	사는	살+는	VERB	_	9	ccomp	_	_	살/pvg+는/etm
+9	길임을	길+이+ㅁ+을	NOUN	_	10	obj	_	_	길/ncn+이/jp+ㅁ/etn+을/jco
+10	명심해야	명심+하+어야	VERB	_	0	root	_	_	명심/ncpa+하/xsv+어야/ecx
+11	한다	하+ㄴ다	AUX	_	10	aux	_	_	하/px+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 우선 체격과 인물이 월등하다 .
+1	우선	우선	ADV	_	4	advmod	_	_	우선/mag
+2	체격과	체격+과	CCONJ	_	3	conj	_	_	체격/ncn+과/jcj
+3	인물이	인물+이	NOUN	_	4	nsubj	_	_	인물/ncn+이/jcs
+4	월등하다	월등+하+다	VERB	_	0	root	_	_	월등/ncps+하/xsm+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 생각하기가 무섭게 곧바로 행동하는 것이 몹시 민첩하고 기민하다 .
+1	생각하기가	생각+하+기+가	NOUN	_	2	nsubj	_	_	생각/ncpa+하/xsv+기/etn+가/jcs
+2	무섭게	무섭+게	SCONJ	_	4	xcomp	_	_	무섭/paa+게/ecs
+3	곧바로	곧바로	ADV	_	4	advmod	_	_	곧바로/mag
+4	행동하는	행동+하+는	VERB	_	5	acl	_	_	행동/ncpa+하/xsv+는/etm
+5	것이	것+이	NOUN	_	9	nsubj	_	_	것/nbn+이/jcs
+6	몹시	몹시	ADV	_	9	advmod	_	_	몹시/mag
+7	민첩하고	민첩+하+고	CCONJ	_	8	conj	_	_	민첩/ncps+하/xsm+고/ecc
+8	기민하다	기민+하+다	VERB	_	9	conj	_	_	기민/ncps+하/xsm+다/ef
+9	.	.	PUNCT	_	0	root	_	_	./sf
+
+# 따라서 옛 것에 대한 정서 , 다시 말하면 전통이나 관습 따위를 돌아보기보다는 당장의 실리적 실용적 측면에 더 민감하다 .
+1	따라서	따라서	CCONJ	_	18	cc	_	_	따라서/maj
+2	옛	옛	ADJ	_	3	amod	_	_	옛/mma
+3	것에	것+에	ADV	_	4	obl	_	_	것/nbn+에/jca
+4	대한	대하+ㄴ	VERB	_	5	acl	_	_	대하/pvg+ㄴ/etm
+5	정서	정서	NOUN	_	11	conj	_	_	정서/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	다시	다시	ADV	_	8	advmod	_	_	다시/mag
+8	말하면	말하+면	SCONJ	_	11	cc	_	_	말하/pvg+면/ecs
+9	전통이나	전통+이나	CCONJ	_	10	conj	_	_	전통/ncn+이나/jcj
+10	관습	관습	NOUN	_	11	compound	_	_	관습/ncn
+11	따위를	따위+를	NOUN	_	12	obj	_	_	따위/nbn+를/jco
+12	돌아보기보다는	돌아보+기+보다+는	NOUN	_	18	dislocated	_	_	돌아보/pvg+기/etn+보다/jca+는/jxt
+13	당장의	당장+의	NOUN	_	16	nmod	_	_	당장/ncn+의/jcm
+14	실리적	실리+적	NOUN	_	15	dep	_	_	실리/ncn+적/xsn
+15	실용적	실용+적	NOUN	_	16	amod	_	_	실용/ncn+적/xsn
+16	측면에	측면+에	ADV	_	18	obl	_	_	측면/ncn+에/jca
+17	더	더	ADV	_	18	advmod	_	_	더/mag
+18	민감하다	민감+하+다	VERB	_	0	root	_	_	민감/ncps+하/xsm+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 하느님의 아들인 환웅천황도 인간 세상에 내려와 인간으로 살고 싶어 자청해서 인간이 되었다 .
+1	하느님의	하느님+의	PROPN	_	2	nmod	_	_	하느님/nq+의/jcm
+2	아들인	아들+이+ㄴ	VERB	_	3	acl	_	_	아들/ncn+이/jp+ㄴ/etm
+3	환웅천황도	환웅천황+도	ADV	_	12	advcl	_	_	환웅천황/nq+도/jxc
+4	인간	인간	NOUN	_	5	compound	_	_	인간/ncn
+5	세상에	세상+에	ADV	_	6	obl	_	_	세상/ncn+에/jca
+6	내려와	내려오+아	SCONJ	_	8	ccomp	_	_	내려오/pvg+아/ecs
+7	인간으로	인간+으로	ADV	_	8	advcl	_	_	인간/ncn+으로/jca
+8	살고	살+고	VERB	_	12	ccomp	_	_	살/pvg+고/ecx
+9	싶어	싶+어	SCONJ	_	8	aux	_	_	싶/px+어/ecs
+10	자청해서	자청+하+어서	SCONJ	_	12	ccomp	_	_	자청/ncpa+하/xsv+어서/ecs
+11	인간이	인간+이	NOUN	_	12	csubj	_	_	인간/ncn+이/jcc
+12	되었다	되+었+다	VERB	_	0	root	_	_	되/pvg+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 최고의 이상으로 받들고 수천 년을 살아온 것이 바로 우리 겨레요 우리 나라다 .
+1	최고의	최고+의	NOUN	_	2	nmod	_	_	최고/ncn+의/jcm
+2	이상으로	이상+으로	ADV	_	3	advcl	_	_	이상/ncn+으로/jca
+3	받들고	받들+고	SCONJ	_	6	ccomp	_	_	받들/pvg+고/ecs
+4	수천	수천	NUM	_	5	nummod	_	_	수천/nnc
+5	년을	년+을	NOUN	_	6	obj	_	_	년/nbu+을/jco
+6	살아온	살+아+오+ㄴ	AUX	_	7	acl	_	_	살/pvg+아/ecx+오/px+ㄴ/etm
+7	것이	것+이	NOUN	_	12	nsubj	_	_	것/nbn+이/jcs
+8	바로	바로	ADV	_	12	advmod	_	_	바로/mag
+9	우리	우리	PRON	_	10	compound	_	_	우리/npp
+10	겨레요	겨레+이+요	CCONJ	_	12	conj	_	_	겨레/ncn+이/jp+요/ecc
+11	우리	우리	PRON	_	12	compound	_	_	우리/npp
+12	나라다	나라+이+다	VERB	_	0	root	_	_	나라/ncn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 거기에 어서어서 새로운 불을 붙여야 한다 .
+1	거기에	거기+에	ADV	_	5	obl	_	_	거기/npd+에/jca
+2	어서어서	어서어서	ADV	_	5	advmod	_	_	어서어서/mag
+3	새로운	새롭+ㄴ	ADJ	_	4	amod	_	_	새롭/paa+ㄴ/etm
+4	불을	불+을	NOUN	_	5	obj	_	_	불/ncn+을/jco
+5	붙여야	붙이+어야	VERB	_	0	root	_	_	붙이/pvg+어야/ecx
+6	한다	하+ㄴ다	AUX	_	5	aux	_	_	하/px+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그들은 자신의 불완전성까지도 스스럼 없이 받아주는 고향으로 돌아온 것이다 .
+1	그들은	그+들+은	PRON	_	8	dislocated	_	_	그/npp+들/xsn+은/jxt
+2	자신의	자신+의	PRON	_	3	nmod	_	_	자신/npp+의/jcm
+3	불완전성까지도	불완전성+까지도	ADV	_	6	advcl	_	_	불완전성/ncn+까지도/jxc
+4	스스럼	스스럼	NOUN	_	5	dep	_	_	스스럼/ncn
+5	없이	없+이	SCONJ	_	6	xcomp	_	_	없/paa+이/ecs
+6	받아주는	받+아+주+는	AUX	_	7	acl	_	_	받/pvg+아/ecx+주/px+는/etm
+7	고향으로	고향+으로	ADV	_	8	advcl	_	_	고향/ncn+으로/jca
+8	돌아온	돌아오+ㄴ	VERB	_	0	root	_	_	돌아오/pvg+ㄴ/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 마치 인간의 육체가 선과 악을 아무 탈 없이 지니고 다니는 것처럼 .
+1	마치	마치	ADV	_	11	advmod	_	_	마치/mag
+2	인간의	인간+의	NOUN	_	3	nmod	_	_	인간/ncn+의/jcm
+3	육체가	육체+가	NOUN	_	10	nsubj	_	_	육체/ncn+가/jcs
+4	선과	선+과	CCONJ	_	5	conj	_	_	선/ncps+과/jcj
+5	악을	악+을	NOUN	_	10	obj	_	_	악/ncps+을/jco
+6	아무	아무	DET	_	7	det	_	_	아무/mmd
+7	탈	탈	NOUN	_	8	dep	_	_	탈/ncn
+8	없이	없+이	SCONJ	_	10	xcomp	_	_	없/paa+이/ecs
+9	지니고	지니+고	SCONJ	_	10	ccomp	_	_	지니/pvg+고/ecs
+10	다니는	다니+는	VERB	_	11	acl	_	_	다니/pvg+는/etm
+11	것처럼	것+처럼	ADV	_	0	root	_	_	것/nbn+처럼/jca
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 비유해서 설명하자면 , 그것은 숲 속의 모든 새들에게 독수리의 목소리로 노래하라는 것과 같다 .
+1	비유해서	비유+하+어서	SCONJ	_	2	ccomp	_	_	비유/ncpa+하/xsv+어서/ecs
+2	설명하자면	설명+하+자면	SCONJ	_	13	conj	_	_	설명/ncpa+하/xsv+자면/ecs
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	그것은	그것+은	PRON	_	13	dislocated	_	_	그것/npd+은/jxt
+5	숲	숲	NOUN	_	6	compound	_	_	숲/ncn
+6	속의	속+의	NOUN	_	8	nmod	_	_	속/ncn+의/jcm
+7	모든	모든	ADJ	_	8	amod	_	_	모든/mma
+8	새들에게	새+들+에게	ADV	_	11	iobj	_	_	새/ncn+들/xsn+에게/jca
+9	독수리의	독수리+의	NOUN	_	10	nmod	_	_	독수리/ncn+의/jcm
+10	목소리로	목소리+로	ADV	_	11	advcl	_	_	목소리/ncn+로/jca
+11	노래하라는	노래+하+라는	VERB	_	12	acl	_	_	노래/ncpa+하/xsv+라는/etm
+12	것과	것+과	CCONJ	_	13	conj	_	_	것/nbn+과/jct
+13	같다	같+다	ADJ	_	0	root	_	_	같/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 세계성은 평면적 인간에 대한 해석일 뿐이다 .
+1	세계성은	세계성+은	NOUN	_	5	dislocated	_	_	세계성/ncn+은/jxt
+2	평면적	평면+적	NOUN	_	3	amod	_	_	평면/ncn+적/xsn
+3	인간에	인간+에	ADV	_	4	obl	_	_	인간/ncn+에/jca
+4	대한	대하+ㄴ	VERB	_	5	ccomp	_	_	대하/pvg+ㄴ/etm
+5	해석일	해석+이+ㄹ	VERB	_	0	root	_	_	해석/ncpa+이/jp+ㄹ/etm
+6	뿐이다	뿐+이+다	VERB	_	5	aux	_	_	뿐/nbn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그들은 이미 오래 전에 한계를 드러낸 그들의 가치 체계를 강요하면서 단지 물리적 지배권을 연장하려는 것뿐이다 .
+1	그들은	그+들+은	PRON	_	14	dislocated	_	_	그/npp+들/xsn+은/jxt
+2	이미	이미	ADV	_	6	advmod	_	_	이미/mag
+3	오래	오래	ADV	_	4	advmod	_	_	오래/mag
+4	전에	전+에	ADV	_	6	obl	_	_	전/ncn+에/jca
+5	한계를	한계+를	NOUN	_	6	obj	_	_	한계/ncn+를/jco
+6	드러낸	드러내+ㄴ	VERB	_	9	acl	_	_	드러내/pvg+ㄴ/etm
+7	그들의	그+들+의	PRON	_	9	nmod	_	_	그/npp+들/xsn+의/jcm
+8	가치	가치	NOUN	_	9	compound	_	_	가치/ncn
+9	체계를	체계+를	NOUN	_	10	obj	_	_	체계/ncn+를/jco
+10	강요하면서	강요+하+면서	SCONJ	_	14	ccomp	_	_	강요/ncpa+하/xsv+면서/ecs
+11	단지	단지	ADV	_	14	advmod	_	_	단지/mag
+12	물리적	물리+적	NOUN	_	13	dep	_	_	물리/ncn+적/xsn
+13	지배권을	지배권+을	NOUN	_	14	obj	_	_	지배권/ncn+을/jco
+14	연장하려는	연장+하+려는	VERB	_	0	root	_	_	연장/ncpa+하/xsv+려는/etm
+15	것뿐이다	것+뿐+이+다	VERB	_	14	aux	_	_	것/nbn+뿐/xsn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 한국 민족주의가 직면한 가장 큰 딜레마가 바로 여기에 있다 .
+1	한국	한국	PROPN	_	2	compound	_	_	한국/nq
+2	민족주의가	민족+주의+가	NOUN	_	3	nsubj	_	_	민족/ncn+주의/ncn+가/jcs
+3	직면한	직면+하+ㄴ	VERB	_	6	acl	_	_	직면/ncpa+하/xsv+ㄴ/etm
+4	가장	가장	ADV	_	5	advmod	_	_	가장/mag
+5	큰	크+ㄴ	ADJ	_	6	amod	_	_	크/paa+ㄴ/etm
+6	딜레마가	딜레마+가	NOUN	_	9	nsubj	_	_	딜레마/ncn+가/jcs
+7	바로	바로	ADV	_	9	advmod	_	_	바로/mag
+8	여기에	여기+에	ADV	_	9	obl	_	_	여기/npd+에/jca
+9	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 무엇보다도 우리는 세계주의가 갖는 허구성을 직시해야 한다 .
+1	무엇보다도	무엇+보다+도	ADV	_	6	advcl	_	_	무엇/npd+보다/jca+도/jxc
+2	우리는	우리+는	PRON	_	6	dislocated	_	_	우리/npp+는/jxt
+3	세계주의가	세계+주의+가	NOUN	_	4	nsubj	_	_	세계/ncn+주의/ncpa+가/jcs
+4	갖는	갖+는	VERB	_	5	acl	_	_	갖/pvg+는/etm
+5	허구성을	허구성+을	NOUN	_	6	obj	_	_	허구성/ncn+을/jco
+6	직시해야	직시+하+어야	VERB	_	0	root	_	_	직시/ncpa+하/xsv+어야/ecx
+7	한다	하+ㄴ다	AUX	_	6	aux	_	_	하/px+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 민족의 울타리가 완전하게 확보되지 않고서는 인간성의 발양이 제대로 실현될 수 없음을 인식해야 한다 .
+1	민족의	민족+의	NOUN	_	2	nmod	_	_	민족/ncn+의/jcm
+2	울타리가	울타리+가	NOUN	_	4	nsubj	_	_	울타리/ncn+가/jcs
+3	완전하게	완전+하+게	SCONJ	_	4	xcomp	_	_	완전/ncps+하/xsm+게/ecs
+4	확보되지	확보+되+지	VERB	_	9	dislocated	_	_	확보/ncpa+되/xsv+지/ecx
+5	않고서는	않+고서+는	NOUN	_	4	aux	_	_	않/px+고서/ecs+는/jxt
+6	인간성의	인간성+의	NOUN	_	7	nmod	_	_	인간성/ncn+의/jcm
+7	발양이	발양+이	NOUN	_	9	nsubj	_	_	발양/ncn+이/jcs
+8	제대로	제대로	ADV	_	9	advmod	_	_	제대로/mag
+9	실현될	실현+되+ㄹ	VERB	_	12	obj	_	_	실현/ncpa+되/xsv+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	없음을	없+ㅁ+을	NOUN	_	9	aux	_	_	없/paa+ㅁ/etn+을/jco
+12	인식해야	인식+하+어야	VERB	_	0	root	_	_	인식/ncpa+하/xsv+어야/ecx
+13	한다	하+ㄴ다	AUX	_	12	aux	_	_	하/px+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 여기에 기성세대의 적대감까지 덧붙여 그들에게 물려줄 까닭이 없는 것이다 .
+1	여기에	여기+에	ADV	_	4	obl	_	_	여기/npd+에/jca
+2	기성세대의	기성세대+의	NOUN	_	3	nmod	_	_	기성세대/ncn+의/jcm
+3	적대감까지	적대감+까지	ADV	_	4	advcl	_	_	적대감/ncn+까지/jxc
+4	덧붙여	덧붙이+어	SCONJ	_	6	ccomp	_	_	덧붙이/pvg+어/ecs
+5	그들에게	그+들+에게	ADV	_	6	iobj	_	_	그/npp+들/xsn+에게/jca
+6	물려줄	물리+어+주+ㄹ	AUX	_	7	acl	_	_	물리/pvg+어/ecx+주/px+ㄹ/etm
+7	까닭이	까닭+이	NOUN	_	8	nsubj	_	_	까닭/ncn+이/jcs
+8	없는	없+는	ADJ	_	0	root	_	_	없/paa+는/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 민주주의는 본질적으로 민족주의와 경합하는 이념이 아니다 .
+1	민주주의는	민주주의+는	NOUN	_	6	dislocated	_	_	민주주의/ncn+는/jxt
+2	본질적으로	본질+적+으로	ADV	_	6	advcl	_	_	본질/ncn+적/xsn+으로/jca
+3	민족주의와	민족+주의+와	CCONJ	_	4	conj	_	_	민족/ncn+주의/ncpa+와/jct
+4	경합하는	경합+하+는	VERB	_	5	acl	_	_	경합/ncpa+하/xsv+는/etm
+5	이념이	이념+이	NOUN	_	6	csubj	_	_	이념/ncn+이/jcc
+6	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 금세기 나치즘이 독일 민족주의의 실질적인 무덤이었다는 사실은 민주주의가 보장되지 못할 때 민족주의는 아무런 의미도 갖지 못함을 입증하는 것이다 .
+1	금세기	금세기	NOUN	_	2	compound	_	_	금세기/ncn
+2	나치즘이	나치즘+이	NOUN	_	6	nsubj	_	_	나치즘/ncn+이/jcs
+3	독일	독일	PROPN	_	4	compound	_	_	독일/nq
+4	민족주의의	민족+주의+의	NOUN	_	6	nmod	_	_	민족/ncn+주의/ncpa+의/jcm
+5	실질적인	실질+적+이+ㄴ	VERB	_	6	acl	_	_	실질/ncn+적/xsn+이/jp+ㄴ/etm
+6	무덤이었다는	무덤+이+었+다는	VERB	_	7	acl	_	_	무덤/ncn+이/jp+었/ep+다는/etm
+7	사실은	사실+은	NOUN	_	17	dislocated	_	_	사실/ncn+은/jxt
+8	민주주의가	민주주의+가	NOUN	_	9	nsubj	_	_	민주주의/ncn+가/jcs
+9	보장되지	보장+되+지	VERB	_	11	acl	_	_	보장/ncpa+되/xsv+지/ecx
+10	못할	못하+ㄹ	AUX	_	9	aux	_	_	못하/px+ㄹ/etm
+11	때	때	NOUN	_	15	advmod	_	_	때/ncn
+12	민족주의는	민족+주의+는	NOUN	_	15	dislocated	_	_	민족/ncn+주의/ncn+는/jxt
+13	아무런	아무렇+ㄴ	VERB	_	14	amod	_	_	아무렇/pad+ㄴ/etm
+14	의미도	의미+도	ADV	_	15	advcl	_	_	의미/ncpa+도/jxc
+15	갖지	갖+지	VERB	_	17	obj	_	_	갖/pvg+지/ecx
+16	못함을	못하+ㅁ+을	NOUN	_	15	aux	_	_	못하/px+ㅁ/etn+을/jco
+17	입증하는	입증+하+는	VERB	_	0	root	_	_	입증/ncpa+하/xsv+는/etm
+18	것이다	것+이+다	VERB	_	17	aux	_	_	것/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 따라서 그 불규칙하게 일그러진 그림자를 보고 산의 실체를 얘기하는 것은 우스운 일이다 .
+1	따라서	따라서	CCONJ	_	12	cc	_	_	따라서/maj
+2	그	그	DET	_	5	det	_	_	그/mmd
+3	불규칙하게	불규칙+하+게	SCONJ	_	4	xcomp	_	_	불규칙/ncps+하/xsm+게/ecs
+4	일그러진	일그러지+ㄴ	VERB	_	5	acl	_	_	일그러지/pvg+ㄴ/etm
+5	그림자를	그림자+를	NOUN	_	6	obj	_	_	그림자/ncn+를/jco
+6	보고	보+고	CCONJ	_	9	conj	_	_	보/pvg+고/ecc
+7	산의	산+의	NOUN	_	8	nmod	_	_	산/ncn+의/jcm
+8	실체를	실체+를	NOUN	_	9	obj	_	_	실체/ncn+를/jco
+9	얘기하는	얘기+하+는	VERB	_	10	acl	_	_	얘기/ncpa+하/xsv+는/etm
+10	것은	것+은	NOUN	_	12	dislocated	_	_	것/nbn+은/jxt
+11	우스운	우습+ㄴ	ADJ	_	12	amod	_	_	우습/paa+ㄴ/etm
+12	일이다	일+이+다	VERB	_	0	root	_	_	일/ncpa+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 거기에 불안정한 현실 상황까지 곁들여진다면 그것은 더욱 위험한 일이다 .
+1	거기에	거기+에	ADV	_	5	obl	_	_	거기/npd+에/jca
+2	불안정한	불안정+하+ㄴ	VERB	_	4	amod	_	_	불안정/ncps+하/xsm+ㄴ/etm
+3	현실	현실	NOUN	_	4	compound	_	_	현실/ncn
+4	상황까지	상황+까지	ADV	_	5	advcl	_	_	상황/ncn+까지/jxc
+5	곁들여진다면	곁들이+어+지+ㄴ다면	SCONJ	_	9	ccomp	_	_	곁들이/pvg+어/ecx+지/px+ㄴ다면/ecs
+6	그것은	그것+은	PRON	_	9	dislocated	_	_	그것/npd+은/jxt
+7	더욱	더욱	ADV	_	8	advmod	_	_	더욱/mag
+8	위험한	위험+하+ㄴ	VERB	_	9	amod	_	_	위험/ncps+하/xsm+ㄴ/etm
+9	일이다	일+이+다	VERB	_	0	root	_	_	일/ncpa+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그는 경기도 안성 태생으로 순수 민간인 출신이다 .
+1	그는	그+는	PRON	_	7	dislocated	_	_	그/npp+는/jxt
+2	경기도	경기도	PROPN	_	3	flat	_	_	경기도/nq
+3	안성	안성	PROPN	_	4	compound	_	_	안성/nq
+4	태생으로	태생+으로	ADV	_	7	advcl	_	_	태생/ncn+으로/jca
+5	순수	순수	NOUN	_	6	compound	_	_	순수/ncpa
+6	민간인	민간인	NOUN	_	7	compound	_	_	민간인/ncn
+7	출신이다	출신+이+다	VERB	_	0	root	_	_	출신/ncn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 물론 이 책은 홍사익의 전기도 아니고 본격적인 연구서도 아니다 .
+1	물론	물론	ADV	_	9	advmod	_	_	물론/mag
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	책은	책+은	NOUN	_	9	dislocated	_	_	책/ncn+은/jxt
+4	홍사익의	홍사익+의	PROPN	_	5	nmod	_	_	홍사익/nq+의/jcm
+5	전기도	전기+도	ADV	_	6	advcl	_	_	전기/ncn+도/jxc
+6	아니고	아니+고	CCONJ	_	9	conj	_	_	아니/paa+고/ecc
+7	본격적인	본격+적+이+ㄴ	VERB	_	8	acl	_	_	본격/ncn+적/xsn+이/jp+ㄴ/etm
+8	연구서도	연구서+도	ADV	_	9	advcl	_	_	연구서/ncn+도/jxc
+9	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 솔직히 말해서 우리는 지금도 일제 시 친일파의 한 사람으로 으례 홍사익이란 사람을 떠올리곤 한다 .
+1	솔직히	솔직히	ADV	_	2	advmod	_	_	솔직히/mag
+2	말해서	말하+어서	SCONJ	_	13	ccomp	_	_	말하/pvg+어서/ecs
+3	우리는	우리+는	PRON	_	13	dislocated	_	_	우리/npp+는/jxt
+4	지금도	지금+도	ADV	_	13	advcl	_	_	지금/ncn+도/jxc
+5	일제	일제	NOUN	_	6	compound	_	_	일제/ncn
+6	시	시	NOUN	_	9	mark	_	_	시/nbn
+7	친일파의	친일파+의	NOUN	_	9	nmod	_	_	친일파/ncn+의/jcm
+8	한	한	NUM	_	9	nummod	_	_	한/nnc
+9	사람으로	사람+으로	ADV	_	13	advcl	_	_	사람/ncn+으로/jca
+10	으례	으레	ADV	_	13	advmod	_	_	으레/mag
+11	홍사익이란	홍사익+이+란	VERB	_	12	acl	_	_	홍사익/nq+이/jp+란/etm
+12	사람을	사람+을	NOUN	_	13	obj	_	_	사람/ncn+을/jco
+13	떠올리곤	떠올리+곤	VERB	_	0	root	_	_	떠올리/pvg+곤/ecx
+14	한다	하+ㄴ다	AUX	_	13	aux	_	_	하/px+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그것은 그가 당시 조선사람 , 특히 평민으로서는 도저히 상상하기 어려울 만큼 높은 지위에까지 올라갔다는 객관적 사실 때문이다 .
+1	그것은	그것+은	PRON	_	17	dislocated	_	_	그것/npd+은/jxt
+2	그가	그+가	PRON	_	14	nsubj	_	_	그/npp+가/jcs
+3	당시	당시	NOUN	_	4	compound	_	_	당시/ncn
+4	조선사람	조선+사람	NOUN	_	7	compound	_	_	조선/nq+사람/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	특히	특히	ADV	_	7	advmod	_	_	특히/mag
+7	평민으로서는	평민+으로서+는	NOUN	_	10	dislocated	_	_	평민/ncn+으로서/jca+는/jxt
+8	도저히	도저히	ADV	_	10	advmod	_	_	도저히/mag
+9	상상하기	상상+하+기	VERB	_	10	nmod	_	_	상상/ncpa+하/xsv+기/etn
+10	어려울	어렵+ㄹ	ADJ	_	11	amod	_	_	어렵/paa+ㄹ/etm
+11	만큼	만큼	NOUN	_	14	advmod	_	_	만큼/nbn
+12	높은	높+ㄴ	ADJ	_	13	amod	_	_	높/paa+ㄴ/etm
+13	지위에까지	지위+에+까지	ADV	_	14	advcl	_	_	지위/ncn+에/jca+까지/jxc
+14	올라갔다는	올라가+ㅆ+다는	VERB	_	16	acl	_	_	올라가/pvg+ㅆ/ep+다는/etm
+15	객관적	객관+적	NOUN	_	16	amod	_	_	객관/ncn+적/xsn
+16	사실	사실	NOUN	_	17	compound	_	_	사실/ncn
+17	때문이다	때문+이+다	VERB	_	0	root	_	_	때문/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+

@@ -1,0 +1,2318 @@
+# 자연식 세안법으로 싱그러운 피부를 만든다 .
+1	자연식	자연식	NOUN	_	2	compound	_	_	자연식/ncn
+2	세안법으로	세안법+으로	ADV	_	5	advcl	_	_	세안법/ncn+으로/jca
+3	싱그러운	싱그럽+ㄴ	ADJ	_	4	amod	_	_	싱그럽/paa+ㄴ/etm
+4	피부를	피부+를	NOUN	_	5	obj	_	_	피부/ncn+를/jco
+5	만든다	만들+ㄴ다	VERB	_	0	root	_	_	만들/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 자연처럼 좋은 것 , 아름다운 것이 또 있을까 .
+1	자연처럼	자연+처럼	ADV	_	2	advcl	_	_	자연/ncn+처럼/jca
+2	좋은	좋+ㄴ	ADJ	_	3	amod	_	_	좋/paa+ㄴ/etm
+3	것	것	NOUN	_	6	compound	_	_	것/nbn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	아름다운	아름답+ㄴ	ADJ	_	6	amod	_	_	아름답/paa+ㄴ/etm
+6	것이	것+이	NOUN	_	8	nsubj	_	_	것/nbn+이/jcs
+7	또	또	ADV	_	8	advmod	_	_	또/mag
+8	있을까	있+ㄹ까	ADJ	_	0	root	_	_	있/paa+ㄹ까/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 은혜로운 자연을 잘만 활용하면 우리의 피부도 나날이 새롭게 태어난다 .
+1	은혜로운	은혜롭+ㄴ	ADJ	_	2	amod	_	_	은혜롭/paa+ㄴ/etm
+2	자연을	자연+을	NOUN	_	4	obj	_	_	자연/ncn+을/jco
+3	잘만	잘+만	ADV	_	4	advmod	_	_	잘/mag+만/jxc
+4	활용하면	활용+하+면	SCONJ	_	9	ccomp	_	_	활용/ncpa+하/xsv+면/ecs
+5	우리의	우리+의	PRON	_	6	nmod	_	_	우리/npp+의/jcm
+6	피부도	피부+도	ADV	_	9	advcl	_	_	피부/ncn+도/jxc
+7	나날이	나날이	ADV	_	9	advmod	_	_	나날이/mag
+8	새롭게	새롭+게	SCONJ	_	9	xcomp	_	_	새롭/paa+게/ecs
+9	태어난다	태어나+ㄴ다	VERB	_	0	root	_	_	태어나/pvg+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 자연의 향기로 여성의 향기를 간직하게 된다면 그보다 더 아름다운 것은 없을 것이다 .
+1	자연의	자연+의	NOUN	_	2	nmod	_	_	자연/ncn+의/jcm
+2	향기로	향기+로	ADV	_	5	advcl	_	_	향기/ncn+로/jca
+3	여성의	여성+의	NOUN	_	4	nmod	_	_	여성/ncn+의/jcm
+4	향기를	향기+를	NOUN	_	5	obj	_	_	향기/ncn+를/jco
+5	간직하게	간직+하+게	VERB	_	11	conj	_	_	간직/ncpa+하/xsv+게/ecx
+6	된다면	되+ㄴ다면	SCONJ	_	5	aux	_	_	되/px+ㄴ다면/ecs
+7	그보다	그+보다	ADV	_	9	advcl	_	_	그/npd+보다/jca
+8	더	더	ADV	_	9	advmod	_	_	더/mag
+9	아름다운	아름답+ㄴ	ADJ	_	10	amod	_	_	아름답/paa+ㄴ/etm
+10	것은	것+은	NOUN	_	11	dislocated	_	_	것/nbn+은/jxt
+11	없을	없+ㄹ	ADJ	_	0	root	_	_	없/paa+ㄹ/etm
+12	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 얼굴에 하는 팩은 모공 깊숙이 스며 있는 묵은 때나 각질을 피부 표면으로부터 없애 주는 역할을 한다 .
+1	얼굴에	얼굴+에	ADV	_	2	obl	_	_	얼굴/ncn+에/jca
+2	하는	하+는	VERB	_	3	acl	_	_	하/pvg+는/etm
+3	팩은	팩+은	NOUN	_	16	dislocated	_	_	팩/ncn+은/jxt
+4	모공	모공	NOUN	_	6	advmod	_	_	모공/ncn
+5	깊숙이	깊숙이	ADV	_	6	advmod	_	_	깊숙이/mag
+6	스며	스미+어	VERB	_	10	acl	_	_	스미/pvg+어/ecx
+7	있는	있+는	AUX	_	6	aux	_	_	있/px+는/etm
+8	묵은	묵+ㄴ	VERB	_	9	acl	_	_	묵/pvg+ㄴ/etm
+9	때나	때+나	CCONJ	_	10	conj	_	_	때/ncn+나/jcj
+10	각질을	각질+을	NOUN	_	13	obj	_	_	각질/ncn+을/jco
+11	피부	피부	NOUN	_	12	compound	_	_	피부/ncn
+12	표면으로부터	표면+으로+부터	ADV	_	13	advcl	_	_	표면/ncn+으로/jca+부터/jxc
+13	없애	없애+어	VERB	_	15	acl	_	_	없애/pvg+어/ecx
+14	주는	주+는	AUX	_	13	aux	_	_	주/px+는/etm
+15	역할을	역할+을	NOUN	_	16	obj	_	_	역할/ncn+을/jco
+16	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 따라서 투명감이 없고 피곤한 피부에는 팩으로 활기를 줌으로써 윤기 있는 싱싱한 피부를 되찾을 수 있다 .
+1	따라서	따라서	CCONJ	_	13	cc	_	_	따라서/maj
+2	투명감이	투명감+이	NOUN	_	3	nsubj	_	_	투명감/ncn+이/jcs
+3	없고	없+고	CCONJ	_	4	conj	_	_	없/paa+고/ecc
+4	피곤한	피곤+하+ㄴ	VERB	_	5	amod	_	_	피곤/ncps+하/xsm+ㄴ/etm
+5	피부에는	피부+에+는	NOUN	_	8	dislocated	_	_	피부/ncn+에/jca+는/jxt
+6	팩으로	팩+으로	ADV	_	8	advcl	_	_	팩/ncn+으로/jca
+7	활기를	활기+를	NOUN	_	8	obj	_	_	활기/ncn+를/jco
+8	줌으로써	주+ㅁ+으로써	ADV	_	13	advcl	_	_	주/pvg+ㅁ/etn+으로써/jca
+9	윤기	윤기	NOUN	_	10	dep	_	_	윤기/ncn
+10	있는	있+는	ADJ	_	12	amod	_	_	있/paa+는/etm
+11	싱싱한	싱싱+하+ㄴ	VERB	_	12	amod	_	_	싱싱/ncps+하/xsm+ㄴ/etm
+12	피부를	피부+를	NOUN	_	13	obj	_	_	피부/ncn+를/jco
+13	되찾을	되찾+ㄹ	VERB	_	0	root	_	_	되찾/pvg+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있다	있+다	ADJ	_	13	aux	_	_	있/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 햇볕에 탄 얼굴에는 알로에 팩을 한다 .
+1	햇볕에	햇볕+에	ADV	_	2	obl	_	_	햇볕/ncn+에/jca
+2	탄	타+ㄴ	VERB	_	3	acl	_	_	타/pvg+ㄴ/etm
+3	얼굴에는	얼굴+에+는	NOUN	_	6	dislocated	_	_	얼굴/ncn+에/jca+는/jxt
+4	알로에	알로에	NOUN	_	5	compound	_	_	알로에/ncn
+5	팩을	팩+을	NOUN	_	6	obj	_	_	팩/ncn+을/jco
+6	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 알로에는 화상을 입은 데 효과가 높다 .
+1	알로에는	알로에+는	NOUN	_	6	dislocated	_	_	알로에/ncn+는/jxt
+2	화상을	화상+을	NOUN	_	3	obj	_	_	화상/ncn+을/jco
+3	입은	입+ㄴ	VERB	_	4	acl	_	_	입/pvg+ㄴ/etm
+4	데	데	NOUN	_	6	mark	_	_	데/nbn
+5	효과가	효과+가	NOUN	_	6	nsubj	_	_	효과/ncn+가/jcs
+6	높다	높+다	ADJ	_	0	root	_	_	높/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 따라서 피부가 붉게 되어 화끈거릴 때 알로에를 붙여 두면 물집 생기는 것을 예방할 수 있다 .
+1	따라서	따라서	CCONJ	_	13	cc	_	_	따라서/maj
+2	피부가	피부+가	NOUN	_	3	nsubj	_	_	피부/ncn+가/jcs
+3	붉게	붉+게	ADJ	_	5	amod	_	_	붉/paa+게/ecx
+4	되어	되+어	SCONJ	_	3	aux	_	_	되/px+어/ecs
+5	화끈거릴	화끈거리+ㄹ	VERB	_	6	acl	_	_	화끈거리/pvg+ㄹ/etm
+6	때	때	NOUN	_	8	advmod	_	_	때/ncn
+7	알로에를	알로에+를	NOUN	_	8	obj	_	_	알로에/ncn+를/jco
+8	붙여	붙이+어	VERB	_	13	ccomp	_	_	붙이/pvg+어/ecx
+9	두면	두+면	SCONJ	_	8	aux	_	_	두/px+면/ecs
+10	물집	물집	NOUN	_	11	dep	_	_	물집/ncn
+11	생기는	생기+는	VERB	_	12	acl	_	_	생기/pvg+는/etm
+12	것을	것+을	NOUN	_	13	obj	_	_	것/nbn+을/jco
+13	예방할	예방+하+ㄹ	VERB	_	0	root	_	_	예방/ncpa+하/xsv+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있다	있+다	ADJ	_	13	aux	_	_	있/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 방법도 간단하다 .
+1	방법도	방법+도	ADV	_	2	advcl	_	_	방법/ncn+도/jxc
+2	간단하다	간단+하+다	VERB	_	0	root	_	_	간단/ncps+하/xsm+다/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 알로에 젤리 부분을 화끈거리는 부위에 붙이고 , 그 위에 가제나 유지를 대어 놓고 하룻밤 그대로 둔다 .
+1	알로에	알로에	NOUN	_	3	compound	_	_	알로에/ncn
+2	젤리	젤리	NOUN	_	3	compound	_	_	젤리/ncn
+3	부분을	부분+을	NOUN	_	6	obj	_	_	부분/ncn+을/jco
+4	화끈거리는	화끈거리+는	VERB	_	5	acl	_	_	화끈거리/pvg+는/etm
+5	부위에	부위+에	ADV	_	6	obl	_	_	부위/ncn+에/jca
+6	붙이고	붙이+고	CCONJ	_	12	conj	_	_	붙이/pvg+고/ecc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	그	그	DET	_	9	det	_	_	그/mmd
+9	위에	위+에	ADV	_	12	obl	_	_	위/ncn+에/jca
+10	가제나	가제+나	CCONJ	_	11	conj	_	_	가제/ncn+나/jcj
+11	유지를	유지+를	NOUN	_	12	obj	_	_	유지/ncn+를/jco
+12	대어	대+어	VERB	_	16	conj	_	_	대/pvg+어/ecx
+13	놓고	놓+고	CCONJ	_	12	aux	_	_	놓/px+고/ecc
+14	하룻밤	하룻밤	NOUN	_	16	advmod	_	_	하룻밤/ncn
+15	그대로	그대로	ADV	_	16	advmod	_	_	그대로/mag
+16	둔다	두+ㄴ다	VERB	_	0	root	_	_	두/pvg+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 기미 , 주근깨 , 거친 피부 , 잔주름살에도 알로에 팩이 효과적이다 .
+1	기미	기미	NOUN	_	3	compound	_	_	기미/ncn
+2	,	,	PUNCT	_	3	punct	_	_	,/sp
+3	주근깨	주근깨	NOUN	_	8	compound	_	_	주근깨/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	거친	거칠+ㄴ	ADJ	_	6	amod	_	_	거칠/paa+ㄴ/etm
+6	피부	피부	NOUN	_	8	compound	_	_	피부/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	잔주름살에도	잔주름살+에+도	ADV	_	11	advcl	_	_	잔주름살/ncn+에/jca+도/jxc
+9	알로에	알로에	NOUN	_	10	compound	_	_	알로에/ncn
+10	팩이	팩+이	NOUN	_	11	nsubj	_	_	팩/ncn+이/jcs
+11	효과적이다	효과+적+이+다	VERB	_	0	root	_	_	효과/ncn+적/xsn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 나이를 먹어감에 따라 거칠어져 가는 살갖 , 잔주름살 .
+1	나이를	나이+를	NOUN	_	2	obj	_	_	나이/ncn+를/jco
+2	먹어감에	먹+어+가+ㅁ+에	ADV	_	3	obl	_	_	먹/pvg+어/ecx+가/px+ㅁ/etn+에/jca
+3	따라	따르+아	SCONJ	_	4	conj	_	_	따르/pvg+아/ecs
+4	거칠어져	거칠+어+지+어	AUX	_	8	amod	_	_	거칠/paa+어/ecx+지/px+어/ecx
+5	가는	가+는	AUX	_	4	aux	_	_	가/px+는/etm
+6	살갖	살갖	NOUN	_	8	conj	_	_	살갖/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	잔주름살	잔주름살	NOUN	_	0	root	_	_	잔주름살/ncn
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이것은 피부에 수분과 피지분이 부족해 일어나는 현상이다 .
+1	이것은	이것+은	PRON	_	7	dislocated	_	_	이것/npd+은/jxt
+2	피부에	피부+에	ADV	_	5	obl	_	_	피부/ncn+에/jca
+3	수분과	수분+과	CCONJ	_	4	conj	_	_	수분/ncn+과/jcj
+4	피지분이	피지분+이	NOUN	_	5	nsubj	_	_	피지분/ncn+이/jcs
+5	부족해	부족+하+어	SCONJ	_	6	xcomp	_	_	부족/ncps+하/xsm+어/ecs
+6	일어나는	일어나+는	VERB	_	7	ccomp	_	_	일어나/pvg+는/etm
+7	현상이다	현상+이+다	VERB	_	0	root	_	_	현상/ncpa+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 요령은 다음과 같다 .
+1	요령은	요령+은	NOUN	_	3	dislocated	_	_	요령/ncn+은/jxt
+2	다음과	다음+과	CCONJ	_	3	conj	_	_	다음/ncn+과/jct
+3	같다	같+다	ADJ	_	0	root	_	_	같/paa+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 불을 약하게 하고 말린 귤 껍질을 한 주먹 넣는다 .
+1	불을	불+을	NOUN	_	2	obj	_	_	불/ncn+을/jco
+2	약하게	약하+게	ADJ	_	9	conj	_	_	약하/paa+게/ecx
+3	하고	하+고	CCONJ	_	2	aux	_	_	하/px+고/ecc
+4	말린	말리+ㄴ	VERB	_	6	acl	_	_	말리/pvg+ㄴ/etm
+5	귤	귤	NOUN	_	6	compound	_	_	귤/ncn
+6	껍질을	껍질+을	NOUN	_	9	obj	_	_	껍질/ncn+을/jco
+7	한	한	NUM	_	8	nummod	_	_	한/nnc
+8	주먹	주먹	NOUN	_	9	dep	_	_	주먹/ncn
+9	넣는다	넣+는다	VERB	_	0	root	_	_	넣/pvg+는다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이때 불을 끈다 .
+1	이때	이때	ADV	_	3	advmod	_	_	이때/mad
+2	불을	불+을	NOUN	_	3	obj	_	_	불/ncn+을/jco
+3	끈다	끄+ㄴ다	VERB	_	0	root	_	_	끄/pvg+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 세숫대야에 얼굴을 갖다 대고 증기를 쐰다 .
+1	세숫대야에	세숫대야+에	ADV	_	4	obl	_	_	세숫대야/ncn+에/jca
+2	얼굴을	얼굴+을	NOUN	_	4	obj	_	_	얼굴/ncn+을/jco
+3	갖다	갖+다	SCONJ	_	4	ccomp	_	_	갖/pvg+다/ecs
+4	대고	대+고	CCONJ	_	6	conj	_	_	대/pvg+고/ecc
+5	증기를	증기+를	NOUN	_	6	obj	_	_	증기/ncn+를/jco
+6	쐰다	쐬+ㄴ다	VERB	_	0	root	_	_	쐬/pvg+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이때 증기가 새어 나가지 않도록 타월로 머리 위로 덮어 , 세숫대야 가장자리까지 내려오게 한다 .
+1	이때	이때	ADV	_	3	advmod	_	_	이때/mad
+2	증기가	증기+가	NOUN	_	3	nsubj	_	_	증기/ncn+가/jcs
+3	새어	새+어	VERB	_	9	ccomp	_	_	새/pvg+어/ecx
+4	나가지	나가+지	AUX	_	3	aux	_	_	나가/px+지/ecx
+5	않도록	않+도록	SCONJ	_	3	aux	_	_	않/px+도록/ecs
+6	타월로	타월+로	ADV	_	9	advcl	_	_	타월/ncn+로/jca
+7	머리	머리	NOUN	_	8	compound	_	_	머리/ncn
+8	위로	위+로	ADV	_	9	advcl	_	_	위/ncn+로/jca
+9	덮어	덮+어	SCONJ	_	13	ccomp	_	_	덮/pvg+어/ecs
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	세숫대야	세숫대야	NOUN	_	12	compound	_	_	세숫대야/ncn
+12	가장자리까지	가장자리+까지	ADV	_	13	advcl	_	_	가장자리/ncn+까지/jxc
+13	내려오게	내려오+게	VERB	_	0	root	_	_	내려오/pvg+게/ecx
+14	한다	하+ㄴ다	AUX	_	13	aux	_	_	하/px+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 팩을 한 다음에는 미지근한 물로 얼굴을 씻고 , 찬물로 다시 씻어 패팅해 준다 .
+1	팩을	팩+을	NOUN	_	2	obj	_	_	팩/ncn+을/jco
+2	한	하+ㄴ	VERB	_	3	acl	_	_	하/pvg+ㄴ/etm
+3	다음에는	다음+에+는	NOUN	_	7	dislocated	_	_	다음/ncn+에/jca+는/jxt
+4	미지근한	미지근하+ㄴ	ADJ	_	5	amod	_	_	미지근하/paa+ㄴ/etm
+5	물로	물+로	ADV	_	7	advcl	_	_	물/ncn+로/jca
+6	얼굴을	얼굴+을	NOUN	_	7	obj	_	_	얼굴/ncn+을/jco
+7	씻고	씻+고	CCONJ	_	11	conj	_	_	씻/pvg+고/ecc
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	찬물로	찬물+로	ADV	_	11	advcl	_	_	찬물/ncn+로/jca
+10	다시	다시	ADV	_	11	advmod	_	_	다시/mag
+11	씻어	씻+어	SCONJ	_	12	ccomp	_	_	씻/pvg+어/ecs
+12	패팅해	패팅+하+어	VERB	_	0	root	_	_	패팅/ncpa+하/xsv+어/ecx
+13	준다	주+ㄴ다	AUX	_	12	aux	_	_	주/px+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 물기를 닦아낸 다음에는 얼굴에 아무것도 바르지 않는다 .
+1	물기를	물기+를	NOUN	_	2	obj	_	_	물기/ncn+를/jco
+2	닦아낸	닦+아+내+ㄴ	AUX	_	3	acl	_	_	닦/pvg+아/ecx+내/px+ㄴ/etm
+3	다음에는	다음+에+는	NOUN	_	6	dislocated	_	_	다음/ncn+에/jca+는/jxt
+4	얼굴에	얼굴+에	ADV	_	6	obl	_	_	얼굴/ncn+에/jca
+5	아무것도	아무것+도	ADV	_	6	advcl	_	_	아무것/npd+도/jxc
+6	바르지	바르+지	VERB	_	0	root	_	_	바르/pvg+지/ecx
+7	않는다	않+는다	AUX	_	6	aux	_	_	않/px+는다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 변비에는 알로에 주스를 먹는다 .
+1	변비에는	변비+에+는	NOUN	_	4	dislocated	_	_	변비/ncn+에/jca+는/jxt
+2	알로에	알로에	NOUN	_	3	compound	_	_	알로에/ncn
+3	주스를	주스+를	NOUN	_	4	obj	_	_	주스/ncn+를/jco
+4	먹는다	먹+는다	VERB	_	0	root	_	_	먹/pvg+는다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 그 방법의 하나로 알로에 주스를 권한다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	방법의	방법+의	NOUN	_	3	nmod	_	_	방법/ncn+의/jcm
+3	하나로	하나+로	ADV	_	6	advcl	_	_	하나/nnc+로/jca
+4	알로에	알로에	NOUN	_	5	compound	_	_	알로에/ncn
+5	주스를	주스+를	NOUN	_	6	obj	_	_	주스/ncn+를/jco
+6	권한다	권하+ㄴ다	VERB	_	0	root	_	_	권하/pvg+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이것을 잘 섞은 후 마른 행주로 꼭 짠다 .
+1	이것을	이것+을	PRON	_	3	obj	_	_	이것/npd+을/jco
+2	잘	잘	ADV	_	3	advmod	_	_	잘/mag
+3	섞은	섞+은	VERB	_	4	acl	_	_	섞/pvg+은/etm
+4	후	후	NOUN	_	8	advmod	_	_	후/ncn
+5	마른	마르+ㄴ	VERB	_	6	acl	_	_	마르/pvg+ㄴ/etm
+6	행주로	행주+로	ADV	_	8	advcl	_	_	행주/ncn+로/jca
+7	꼭	꼭	ADV	_	8	advmod	_	_	꼭/mag
+8	짠다	짜+ㄴ다	VERB	_	0	root	_	_	짜/pvg+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 기미 , 주근깨를 없앤다 .
+1	기미	기미	NOUN	_	3	conj	_	_	기미/ncn
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	주근깨를	주근깨+를	NOUN	_	4	obj	_	_	주근깨/ncn+를/jco
+4	없앤다	없애+ㄴ다	VERB	_	0	root	_	_	없애/pvg+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 그릇에 알로에 즙 , 오이 즙 , 흑설탕을 넣고 으깬다 .
+1	그릇에	그릇+에	ADV	_	11	obl	_	_	그릇/ncn+에/jca
+2	알로에	알로에	NOUN	_	3	compound	_	_	알로에/ncn
+3	즙	즙	NOUN	_	6	compound	_	_	즙/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	오이	오이	NOUN	_	6	compound	_	_	오이/ncn
+6	즙	즙	NOUN	_	8	compound	_	_	즙/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	흑설탕을	흑설탕+을	NOUN	_	11	obj	_	_	흑설탕/ncn+을/jco
+9	넣고	넣+고	CCONJ	_	10	conj	_	_	넣/pvg+고/ecc
+10	으깬다	으깨+ㄴ다	VERB	_	11	conj	_	_	으깨/pvg+ㄴ다/ef
+11	.	.	PUNCT	_	0	root	_	_	./sf
+
+# 여기에 율무 효소와 꿀을 넣고 갠다 .
+1	여기에	여기+에	ADV	_	7	obl	_	_	여기/npd+에/jca
+2	율무	율무	NOUN	_	3	compound	_	_	율무/ncn
+3	효소와	효소+와	CCONJ	_	4	conj	_	_	효소/ncn+와/jcj
+4	꿀을	꿀+을	NOUN	_	7	obj	_	_	꿀/ncn+을/jco
+5	넣고	넣+고	CCONJ	_	6	conj	_	_	넣/pvg+고/ecc
+6	갠다	개+ㄴ다	VERB	_	7	conj	_	_	개/pvg+ㄴ다/ef
+7	.	.	PUNCT	_	0	root	_	_	./sf
+
+# 흘러 내리지 않을 정도로 밀가루를 넣어 눅진하게 만든다 .
+1	흘러	흐르+어	SCONJ	_	2	ccomp	_	_	흐르/pvg+어/ecs
+2	내리지	내리+지	VERB	_	4	acl	_	_	내리/pvg+지/ecx
+3	않을	않+ㄹ	AUX	_	2	aux	_	_	않/px+ㄹ/etm
+4	정도로	정도+로	ADV	_	6	advcl	_	_	정도/ncn+로/jca
+5	밀가루를	밀가루+를	NOUN	_	6	obj	_	_	밀가루/ncn+를/jco
+6	넣어	넣+어	SCONJ	_	8	ccomp	_	_	넣/pvg+어/ecs
+7	눅진하게	눅진하+게	SCONJ	_	8	xcomp	_	_	눅진하/paa+게/ecs
+8	만든다	만들+ㄴ다	VERB	_	0	root	_	_	만들/pvg+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 피부 트러불이 생긴 볼 , 코 , 이마 턱 부분에 약간 두껍게 팩을 한다 .
+1	피부	피부	NOUN	_	2	compound	_	_	피부/ncn
+2	트러불이	트러불+이	NOUN	_	3	nsubj	_	_	트러불/ncn+이/jcs
+3	생긴	생기+ㄴ	VERB	_	10	acl	_	_	생기/pvg+ㄴ/etm
+4	볼	볼	NOUN	_	6	conj	_	_	볼/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	코	코	NOUN	_	8	conj	_	_	코/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	이마	이마	NOUN	_	9	compound	_	_	이마/ncn
+9	턱	턱	NOUN	_	10	compound	_	_	턱/ncn
+10	부분에	부분+에	ADV	_	14	obl	_	_	부분/ncn+에/jca
+11	약간	약간	ADV	_	12	advmod	_	_	약간/mag
+12	두껍게	두껍+게	SCONJ	_	14	xcomp	_	_	두껍/paa+게/ecs
+13	팩을	팩+을	NOUN	_	14	obj	_	_	팩/ncn+을/jco
+14	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 미지근한 물로 씻어 낸다 .
+1	미지근한	미지근하+ㄴ	ADJ	_	2	amod	_	_	미지근하/paa+ㄴ/etm
+2	물로	물+로	ADV	_	3	advcl	_	_	물/ncn+로/jca
+3	씻어	씻+어	VERB	_	0	root	_	_	씻/pvg+어/ecx
+4	낸다	내+ㄴ다	AUX	_	3	aux	_	_	내/px+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 당근 팩은 지친 피부 , 햇볕에 탄 얼굴에 좋다 .
+1	당근	당근	NOUN	_	2	compound	_	_	당근/ncn
+2	팩은	팩+은	NOUN	_	9	dislocated	_	_	팩/ncn+은/jxt
+3	지친	지치+ㄴ	VERB	_	4	acl	_	_	지치/pvg+ㄴ/etm
+4	피부	피부	NOUN	_	8	compound	_	_	피부/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	햇볕에	햇볕+에	ADV	_	7	obl	_	_	햇볕/ncn+에/jca
+7	탄	타+ㄴ	VERB	_	8	acl	_	_	타/pvg+ㄴ/etm
+8	얼굴에	얼굴+에	ADV	_	9	obl	_	_	얼굴/ncn+에/jca
+9	좋다	좋+다	ADJ	_	0	root	_	_	좋/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 당근 팩을 하는 방법은 다음과 같다 .
+1	당근	당근	NOUN	_	2	compound	_	_	당근/ncn
+2	팩을	팩+을	NOUN	_	3	obj	_	_	팩/ncn+을/jco
+3	하는	하+는	VERB	_	4	acl	_	_	하/pvg+는/etm
+4	방법은	방법+은	NOUN	_	6	dislocated	_	_	방법/ncn+은/jxt
+5	다음과	다음+과	CCONJ	_	6	conj	_	_	다음/ncn+과/jct
+6	같다	같+다	ADJ	_	0	root	_	_	같/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이것을 곱게 펴서 얼굴과 목에 바른다 .
+1	이것을	이것+을	PRON	_	6	obj	_	_	이것/npd+을/jco
+2	곱게	곱+게	SCONJ	_	3	xcomp	_	_	곱/paa+게/ecs
+3	펴서	펴+서	SCONJ	_	6	ccomp	_	_	펴/pvg+서/ecs
+4	얼굴과	얼굴+과	CCONJ	_	5	conj	_	_	얼굴/ncn+과/jcj
+5	목에	목+에	ADV	_	6	obl	_	_	목/ncn+에/jca
+6	바른다	바르+ㄴ다	VERB	_	0	root	_	_	바르/pvg+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 특히 햇볕에 얼굴이 타고 화끈거릴 때 사용하면 곧 진정되고 꾸준히 사용하면 기미 , 주근깨도 없어진다 .
+1	특히	특히	ADV	_	7	advmod	_	_	특히/mag
+2	햇볕에	햇볕+에	ADV	_	4	obl	_	_	햇볕/ncn+에/jca
+3	얼굴이	얼굴+이	NOUN	_	4	nsubj	_	_	얼굴/ncn+이/jcs
+4	타고	타+고	CCONJ	_	5	conj	_	_	타/pvg+고/ecc
+5	화끈거릴	화끈거리+ㄹ	VERB	_	6	acl	_	_	화끈거리/pvg+ㄹ/etm
+6	때	때	NOUN	_	7	compound	_	_	때/ncn
+7	사용하면	사용+하+면	SCONJ	_	9	ccomp	_	_	사용/ncpa+하/xsv+면/ecs
+8	곧	곧	ADV	_	9	advmod	_	_	곧/mag
+9	진정되고	진정+되+고	CCONJ	_	15	conj	_	_	진정/ncpa+되/xsv+고/ecc
+10	꾸준히	꾸준히	ADV	_	11	advmod	_	_	꾸준히/mag
+11	사용하면	사용+하+면	SCONJ	_	15	conj	_	_	사용/ncpa+하/xsv+면/ecs
+12	기미	기미	NOUN	_	14	conj	_	_	기미/ncn
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	주근깨도	주근깨+도	ADV	_	15	advcl	_	_	주근깨/ncn+도/jxc
+15	없어진다	없+어+지+ㄴ다	AUX	_	0	root	_	_	없/paa+어/ecx+지/px+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 알로에 화장수는 피부를 탄력 있게 만들고 촉촉하고 윤기 있게 하는 효과를 낸다 .
+1	알로에	알로에	NOUN	_	2	compound	_	_	알로에/ncn
+2	화장수는	화장수+는	NOUN	_	12	dislocated	_	_	화장수/ncn+는/jxt
+3	피부를	피부+를	NOUN	_	6	obj	_	_	피부/ncn+를/jco
+4	탄력	탄력	NOUN	_	5	dep	_	_	탄력/ncn
+5	있게	있+게	SCONJ	_	6	xcomp	_	_	있/paa+게/ecs
+6	만들고	만들+고	CCONJ	_	9	conj	_	_	만들/pvg+고/ecc
+7	촉촉하고	촉촉하+고	CCONJ	_	9	conj	_	_	촉촉하/paa+고/ecc
+8	윤기	윤기	NOUN	_	9	dep	_	_	윤기/ncn
+9	있게	있+게	ADJ	_	11	amod	_	_	있/paa+게/ecx
+10	하는	하+는	AUX	_	9	aux	_	_	하/px+는/etm
+11	효과를	효과+를	NOUN	_	12	obj	_	_	효과/ncn+를/jco
+12	낸다	내+ㄴ다	VERB	_	0	root	_	_	내/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 싱싱한 맨살을 가꾸는 데는 제일 좋은 방법이다 .
+1	싱싱한	싱싱+하+ㄴ	VERB	_	2	amod	_	_	싱싱/ncps+하/xsm+ㄴ/etm
+2	맨살을	맨살+을	NOUN	_	3	obj	_	_	맨살/ncn+을/jco
+3	가꾸는	가꾸+는	VERB	_	4	acl	_	_	가꾸/pvg+는/etm
+4	데는	데+는	NOUN	_	6	dislocated	_	_	데/nbn+는/jxt
+5	제일	제일	ADV	_	6	advmod	_	_	제일/mag
+6	좋은	좋+ㄴ	ADJ	_	7	amod	_	_	좋/paa+ㄴ/etm
+7	방법이다	방법+이+다	VERB	_	0	root	_	_	방법/ncn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 피부가 과민성인 사람은 알로에 액을 엷게 하여 사용하면 무난하다 .
+1	피부가	피부+가	NOUN	_	2	nsubj	_	_	피부/ncn+가/jcs
+2	과민성인	과민성+이+ㄴ	VERB	_	3	acl	_	_	과민성/ncn+이/jp+ㄴ/etm
+3	사람은	사람+은	NOUN	_	9	dislocated	_	_	사람/ncn+은/jxt
+4	알로에	알로에	NOUN	_	5	compound	_	_	알로에/ncn
+5	액을	액+을	NOUN	_	8	obj	_	_	액/ncn+을/jco
+6	엷게	엷+게	ADJ	_	8	amod	_	_	엷/paa+게/ecx
+7	하여	하+어	SCONJ	_	6	aux	_	_	하/px+어/ecs
+8	사용하면	사용+하+면	SCONJ	_	9	conj	_	_	사용/ncpa+하/xsv+면/ecs
+9	무난하다	무난하+다	ADJ	_	0	root	_	_	무난하/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 또한 알로에는 피부를 가꾸는 재료로 사용해도 효과 만점이다 .
+1	또한	또한	CCONJ	_	8	cc	_	_	또한/maj
+2	알로에는	알로에+는	NOUN	_	8	dislocated	_	_	알로에/ncn+는/jxt
+3	피부를	피부+를	NOUN	_	4	obj	_	_	피부/ncn+를/jco
+4	가꾸는	가꾸+는	VERB	_	5	acl	_	_	가꾸/pvg+는/etm
+5	재료로	재료+로	ADV	_	6	advcl	_	_	재료/ncn+로/jca
+6	사용해도	사용+하+어도	SCONJ	_	8	ccomp	_	_	사용/ncpa+하/xsv+어도/ecs
+7	효과	효과	NOUN	_	8	compound	_	_	효과/ncn
+8	만점이다	만점+이+다	VERB	_	0	root	_	_	만점/ncn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 부드럽고 싱싱한 피부를 가꾸는 데 알로에는 최적의 천연재료라 할 수 있다 .
+1	부드럽고	부드럽+고	CCONJ	_	2	conj	_	_	부드럽/paa+고/ecc
+2	싱싱한	싱싱+하+ㄴ	VERB	_	3	amod	_	_	싱싱/ncps+하/xsm+ㄴ/etm
+3	피부를	피부+를	NOUN	_	4	obj	_	_	피부/ncn+를/jco
+4	가꾸는	가꾸+는	VERB	_	5	acl	_	_	가꾸/pvg+는/etm
+5	데	데	NOUN	_	8	advmod	_	_	데/nbn
+6	알로에는	알로에+는	NOUN	_	8	dislocated	_	_	알로에/ncn+는/jxt
+7	최적의	최적+의	NOUN	_	8	nmod	_	_	최적/ncn+의/jcm
+8	천연재료라	천연+재료+이+라	SCONJ	_	9	ccomp	_	_	천연/ncn+재료/ncn+이/jp+라/ecs
+9	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있다	있+다	ADJ	_	9	aux	_	_	있/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 메마른 가을피부에 율무효소팩으로 윤기와 촉촉함을 갖는다 .
+1	메마른	메마르+ㄴ	ADJ	_	2	amod	_	_	메마르/paa+ㄴ/etm
+2	가을피부에	가을+피부+에	ADV	_	6	obl	_	_	가을/ncn+피부/ncn+에/jca
+3	율무효소팩으로	율무효소팩+으로	ADV	_	6	advcl	_	_	율무효소팩/ncn+으로/jca
+4	윤기와	윤기+와	CCONJ	_	5	conj	_	_	윤기/ncn+와/jcj
+5	촉촉함을	촉촉함+을	NOUN	_	6	obj	_	_	촉촉함/ncn+을/jco
+6	갖는다	갖+는다	VERB	_	0	root	_	_	갖/pvg+는다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 모든 피부에 맞는 천연 미용재이다 .
+1	모든	모든	ADJ	_	2	amod	_	_	모든/mma
+2	피부에	피부+에	ADV	_	3	obl	_	_	피부/ncn+에/jca
+3	맞는	맞+는	VERB	_	5	ccomp	_	_	맞/pvg+는/etm
+4	천연	천연	NOUN	_	5	compound	_	_	천연/ncn
+5	미용재이다	미용재+이+다	VERB	_	0	root	_	_	미용재/ncn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 율무를 꾸준하게 먹으면 기미나 주근깨가 엷어지고 , 피부에 윤기가 생겨 아름다운 피부가 된다는 것은 이미 알려진 사실이다 .
+1	율무를	율무+를	NOUN	_	3	obj	_	_	율무/ncn+를/jco
+2	꾸준하게	꾸준하+게	SCONJ	_	3	xcomp	_	_	꾸준하/paa+게/ecs
+3	먹으면	먹+으면	SCONJ	_	6	conj	_	_	먹/pvg+으면/ecs
+4	기미나	기미+나	CCONJ	_	5	conj	_	_	기미/ncn+나/jcj
+5	주근깨가	주근깨+가	NOUN	_	6	nsubj	_	_	주근깨/ncn+가/jcs
+6	엷어지고	엷+어+지+고	CCONJ	_	13	conj	_	_	엷/paa+어/ecx+지/px+고/ecc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	피부에	피부+에	ADV	_	10	obl	_	_	피부/ncn+에/jca
+9	윤기가	윤기+가	NOUN	_	10	nsubj	_	_	윤기/ncn+가/jcs
+10	생겨	생기+어	SCONJ	_	13	ccomp	_	_	생기/pvg+어/ecs
+11	아름다운	아름답+ㄴ	ADJ	_	12	amod	_	_	아름답/paa+ㄴ/etm
+12	피부가	피부+가	NOUN	_	13	csubj	_	_	피부/ncn+가/jcc
+13	된다는	되+ㄴ다는	VERB	_	14	acl	_	_	되/pvg+ㄴ다는/etm
+14	것은	것+은	NOUN	_	17	dislocated	_	_	것/nbn+은/jxt
+15	이미	이미	ADV	_	16	advmod	_	_	이미/mag
+16	알려진	알리+어+지+ㄴ	AUX	_	17	ccomp	_	_	알리/pvg+어/ecx+지/px+ㄴ/etm
+17	사실이다	사실+이+다	VERB	_	0	root	_	_	사실/ncn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 피부가 약해서 거칠어지기 쉽운 사람은 자신에게 맞는 화장품을 선택하기가 여간 어렵지 않다 .
+1	피부가	피부+가	NOUN	_	3	nsubj	_	_	피부/ncn+가/jcs
+2	약해서	약하+어서	SCONJ	_	3	xcomp	_	_	약하/paa+어서/ecs
+3	거칠어지기	거칠+어+지+기	AUX	_	4	nmod	_	_	거칠/paa+어/ecx+지/px+기/etn
+4	쉽운	쉽+ㄴ	ADJ	_	5	amod	_	_	쉽/paa+ㄴ/etm
+5	사람은	사람+은	NOUN	_	11	dislocated	_	_	사람/ncn+은/jxt
+6	자신에게	자신+에게	ADV	_	7	iobj	_	_	자신/npp+에게/jca
+7	맞는	맞+는	VERB	_	8	acl	_	_	맞/pvg+는/etm
+8	화장품을	화장품+을	NOUN	_	9	obj	_	_	화장품/ncn+을/jco
+9	선택하기가	선택+하+기+가	NOUN	_	11	nsubj	_	_	선택/ncpa+하/xsv+기/etn+가/jcs
+10	여간	여간	ADV	_	11	advmod	_	_	여간/mag
+11	어렵지	어렵+지	ADJ	_	0	root	_	_	어렵/paa+지/ecx
+12	않다	않+다	AUX	_	11	aux	_	_	않/px+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 어느 화장품을 사용하더라도 피부 트러블이 생기기 때문이다 .
+1	어느	어느	DET	_	2	det	_	_	어느/mmd
+2	화장품을	화장품+을	NOUN	_	3	obj	_	_	화장품/ncn+을/jco
+3	사용하더라도	사용+하+더라도	SCONJ	_	6	conj	_	_	사용/ncpa+하/xsv+더라도/ecs
+4	피부	피부	NOUN	_	5	compound	_	_	피부/ncn
+5	트러블이	트러블+이	NOUN	_	6	nsubj	_	_	트러블/ncn+이/jcs
+6	생기기	생기+기	VERB	_	7	nmod	_	_	생기/pvg+기/etn
+7	때문이다	때문+이+다	VERB	_	0	root	_	_	때문/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이런 체질의 사람에게 꼭 맞는 것이 바로 율무다 .
+1	이런	이런	DET	_	2	det	_	_	이런/mmd
+2	체질의	체질+의	NOUN	_	3	nmod	_	_	체질/ncn+의/jcm
+3	사람에게	사람+에게	ADV	_	5	iobj	_	_	사람/ncn+에게/jca
+4	꼭	꼭	ADV	_	5	advmod	_	_	꼭/mag
+5	맞는	맞+는	VERB	_	6	acl	_	_	맞/pvg+는/etm
+6	것이	것+이	NOUN	_	8	nsubj	_	_	것/nbn+이/jcs
+7	바로	바로	ADV	_	8	advmod	_	_	바로/mag
+8	율무다	율무+이+다	VERB	_	0	root	_	_	율무/ncn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 율무 미용법은 그 손질법도 간단하고 효과도 크다 .
+1	율무	율무	NOUN	_	2	compound	_	_	율무/ncn
+2	미용법은	미용법+은	NOUN	_	7	dislocated	_	_	미용법/ncn+은/jxt
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	손질법도	손질법+도	ADV	_	5	advcl	_	_	손질법/ncn+도/jxc
+5	간단하고	간단+하+고	CCONJ	_	7	conj	_	_	간단/ncps+하/xsm+고/ecc
+6	효과도	효과+도	ADV	_	7	advcl	_	_	효과/ncn+도/jxc
+7	크다	크+다	ADJ	_	0	root	_	_	크/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 얼굴은 물론 어깨 , 팔 , 가슴 등을 골고루 마사지해 주는 것이 요령이다 .
+1	얼굴은	얼굴+은	NOUN	_	2	dislocated	_	_	얼굴/ncn+은/jxt
+2	물론	물론	ADV	_	7	advmod	_	_	물론/mag
+3	어깨	어깨	NOUN	_	5	conj	_	_	어깨/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	팔	팔	NOUN	_	7	conj	_	_	팔/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	가슴	가슴	NOUN	_	8	compound	_	_	가슴/ncn
+8	등을	등+을	NOUN	_	10	obj	_	_	등/nbn+을/jco
+9	골고루	골고루	ADV	_	10	advmod	_	_	골고루/mag
+10	마사지해	마사지+하+어	VERB	_	12	acl	_	_	마사지/ncpa+하/xsv+어/ecx
+11	주는	주+는	AUX	_	10	aux	_	_	주/px+는/etm
+12	것이	것+이	NOUN	_	13	nsubj	_	_	것/nbn+이/jcs
+13	요령이다	요령+이+다	VERB	_	0	root	_	_	요령/ncn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 잘 씹어 먹거나 분말로 해서 먹으면 된다 .
+1	잘	잘	ADV	_	3	advmod	_	_	잘/mag
+2	씹어	씹+어	SCONJ	_	3	ccomp	_	_	씹/pvg+어/ecs
+3	먹거나	먹+거나	CCONJ	_	6	conj	_	_	먹/pvg+거나/ecc
+4	분말로	분말+로	ADV	_	5	advcl	_	_	분말/ncn+로/jca
+5	해서	하+어서	SCONJ	_	6	ccomp	_	_	하/pvg+어서/ecs
+6	먹으면	먹+으면	SCONJ	_	7	ccomp	_	_	먹/pvg+으면/ecs
+7	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 율무죽을 끓일 때는 껍질째로 썬 고구마나 강판에 간 당근을 함께 넣어 끓이면 맛도 좋고 효과도 높다 .
+1	율무죽을	율무죽+을	NOUN	_	2	obj	_	_	율무죽/ncn+을/jco
+2	끓일	끓이+ㄹ	VERB	_	3	acl	_	_	끓이/pvg+ㄹ/etm
+3	때는	때+는	NOUN	_	12	dislocated	_	_	때/nbn+는/jxt
+4	껍질째로	껍질+째+로	ADV	_	5	advcl	_	_	껍질/ncn+째/xsn+로/jca
+5	썬	썰+ㄴ	VERB	_	6	acl	_	_	썰/pvg+ㄴ/etm
+6	고구마나	고구마+나	CCONJ	_	9	conj	_	_	고구마/ncn+나/jcj
+7	강판에	강판+에	ADV	_	8	obl	_	_	강판/ncn+에/jca
+8	간	갈+ㄴ	VERB	_	9	acl	_	_	갈/pvg+ㄴ/etm
+9	당근을	당근+을	NOUN	_	12	obj	_	_	당근/ncn+을/jco
+10	함께	함께	ADV	_	12	advmod	_	_	함께/mag
+11	넣어	넣+어	SCONJ	_	12	ccomp	_	_	넣/pvg+어/ecs
+12	끓이면	끓이+면	SCONJ	_	16	conj	_	_	끓이/pvg+면/ecs
+13	맛도	맛+도	ADV	_	14	advcl	_	_	맛/ncn+도/jxc
+14	좋고	좋+고	CCONJ	_	16	conj	_	_	좋/paa+고/ecc
+15	효과도	효과+도	ADV	_	16	advcl	_	_	효과/ncn+도/jxc
+16	높다	높+다	ADJ	_	0	root	_	_	높/paa+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 미지근한 물을 약간 섞어 뭉근하게 되면 스푼 등으로 얼굴에 고루 바른다 .
+1	미지근한	미지근하+ㄴ	ADJ	_	2	amod	_	_	미지근하/paa+ㄴ/etm
+2	물을	물+을	NOUN	_	4	obj	_	_	물/ncn+을/jco
+3	약간	약간	ADV	_	4	advmod	_	_	약간/mag
+4	섞어	섞+어	SCONJ	_	5	conj	_	_	섞/pvg+어/ecs
+5	뭉근하게	뭉근+하+게	VERB	_	11	amod	_	_	뭉근/ncps+하/xsm+게/ecx
+6	되면	되+면	SCONJ	_	5	aux	_	_	되/px+면/ecs
+7	스푼	스푼	NOUN	_	8	compound	_	_	스푼/ncn
+8	등으로	등+으로	ADV	_	11	advcl	_	_	등/nbn+으로/jca
+9	얼굴에	얼굴+에	ADV	_	11	obl	_	_	얼굴/ncn+에/jca
+10	고루	고루	ADV	_	11	advmod	_	_	고루/mag
+11	바른다	바르+ㄴ다	VERB	_	0	root	_	_	바르/pvg+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 얼굴에 랩을 씌운 후 그 위에 뜨거운 타월을 덥는다 .
+1	얼굴에	얼굴+에	ADV	_	3	obl	_	_	얼굴/ncn+에/jca
+2	랩을	랩+을	NOUN	_	3	obj	_	_	랩/ncn+을/jco
+3	씌운	씌우+ㄴ	VERB	_	4	acl	_	_	씌우/pvg+ㄴ/etm
+4	후	후	NOUN	_	9	advmod	_	_	후/ncn
+5	그	그	DET	_	6	det	_	_	그/mmd
+6	위에	위+에	ADV	_	9	obl	_	_	위/ncn+에/jca
+7	뜨거운	뜨겁+ㄴ	ADJ	_	8	amod	_	_	뜨겁/paa+ㄴ/etm
+8	타월을	타월+을	NOUN	_	9	obj	_	_	타월/ncn+을/jco
+9	덥는다	덥+는다	VERB	_	0	root	_	_	덥/pvg+는다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이때 랩은 코밑에 구멍을 뚫어 숨을 쉴 수 있게 한다 .
+1	이때	이때	ADV	_	7	advmod	_	_	이때/mad
+2	랩은	랩+은	NOUN	_	7	dislocated	_	_	랩/ncn+은/jxt
+3	코밑에	코밑+에	ADV	_	5	obl	_	_	코밑/ncn+에/jca
+4	구멍을	구멍+을	NOUN	_	5	obj	_	_	구멍/ncn+을/jco
+5	뚫어	뚫+어	SCONJ	_	7	ccomp	_	_	뚫/pvg+어/ecs
+6	숨을	숨+을	NOUN	_	7	obj	_	_	숨/ncn+을/jco
+7	쉴	쉬+ㄹ	VERB	_	0	root	_	_	쉬/pvg+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있게	있+게	ADJ	_	7	aux	_	_	있/paa+게/ecx
+10	한다	하+ㄴ다	AUX	_	7	aux	_	_	하/px+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 팩을 하고난 후에는 미지근한 물로 깨끗이 씻고 다시 찬물로 두드리면서 마무리한다 .
+1	팩을	팩+을	NOUN	_	2	obj	_	_	팩/ncn+을/jco
+2	하고난	하+고+나+ㄴ	AUX	_	3	acl	_	_	하/pvg+고/ecx+나/px+ㄴ/etm
+3	후에는	후+에+는	NOUN	_	7	dislocated	_	_	후/ncn+에/jca+는/jxt
+4	미지근한	미지근하+ㄴ	ADJ	_	5	amod	_	_	미지근하/paa+ㄴ/etm
+5	물로	물+로	ADV	_	7	advcl	_	_	물/ncn+로/jca
+6	깨끗이	깨끗이	ADV	_	7	advmod	_	_	깨끗이/mag
+7	씻고	씻+고	CCONJ	_	11	conj	_	_	씻/pvg+고/ecc
+8	다시	다시	ADV	_	10	advmod	_	_	다시/mag
+9	찬물로	찬물+로	ADV	_	10	advcl	_	_	찬물/ncn+로/jca
+10	두드리면서	두드리+면서	SCONJ	_	11	ccomp	_	_	두드리/pvg+면서/ecs
+11	마무리한다	마무리+하+ㄴ다	VERB	_	0	root	_	_	마무리/ncpa+하/xsv+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 크림 상태의 율무 효소를 듬뿍 손에 바른고 손목 쪽에서 손가락 쪽으로 마사지한다 .
+1	크림	크림	NOUN	_	2	compound	_	_	크림/ncn
+2	상태의	상태+의	NOUN	_	4	nmod	_	_	상태/ncn+의/jcm
+3	율무	율무	NOUN	_	4	compound	_	_	율무/ncn
+4	효소를	효소+를	NOUN	_	7	obj	_	_	효소/ncn+를/jco
+5	듬뿍	듬뿍	ADV	_	7	advmod	_	_	듬뿍/mag
+6	손에	손+에	ADV	_	7	obl	_	_	손/ncn+에/jca
+7	바른고	바르+고	SCONJ	_	12	ccomp	_	_	바르/pvg+고/ecs
+8	손목	손목	NOUN	_	9	compound	_	_	손목/ncn
+9	쪽에서	쪽+에서	ADV	_	12	advcl	_	_	쪽/ncn+에서/jca
+10	손가락	손가락	NOUN	_	11	compound	_	_	손가락/ncn
+11	쪽으로	쪽+으로	ADV	_	12	advcl	_	_	쪽/ncn+으로/jca
+12	마사지한다	마사지+하+ㄴ다	VERB	_	0	root	_	_	마사지/ncpa+하/xsv+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 양 손톱은 엄지손가락과 집게손가락을 이용해 손가락에서 손톱 쪽으로 약간 강하게 문지른다 .
+1	양	양	ADJ	_	2	amod	_	_	양/mma
+2	손톱은	손톱+은	NOUN	_	11	dislocated	_	_	손톱/ncn+은/jxt
+3	엄지손가락과	엄지손가락+과	CCONJ	_	4	conj	_	_	엄지손가락/ncn+과/jcj
+4	집게손가락을	집게손가락+을	NOUN	_	5	obj	_	_	집게손가락/ncn+을/jco
+5	이용해	이용+하+어	SCONJ	_	11	ccomp	_	_	이용/ncpa+하/xsv+어/ecs
+6	손가락에서	손가락+에서	ADV	_	11	advcl	_	_	손가락/ncn+에서/jca
+7	손톱	손톱	NOUN	_	8	compound	_	_	손톱/ncn
+8	쪽으로	쪽+으로	ADV	_	11	advcl	_	_	쪽/ncn+으로/jca
+9	약간	약간	ADV	_	11	advmod	_	_	약간/mag
+10	강하게	강하+게	SCONJ	_	11	xcomp	_	_	강하/paa+게/ecs
+11	문지른다	문지르+ㄴ다	VERB	_	0	root	_	_	문지르/pvg+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 미지근한 물로 씻어 내고 핸드크림이나 로션을 바른다 .
+1	미지근한	미지근하+ㄴ	ADJ	_	2	amod	_	_	미지근하/paa+ㄴ/etm
+2	물로	물+로	ADV	_	3	advcl	_	_	물/ncn+로/jca
+3	씻어	씻+어	VERB	_	7	conj	_	_	씻/pvg+어/ecx
+4	내고	내+고	CCONJ	_	3	aux	_	_	내/px+고/ecc
+5	핸드크림이나	핸드크림+이나	CCONJ	_	6	conj	_	_	핸드크림/ncn+이나/jcj
+6	로션을	로션+을	NOUN	_	7	obj	_	_	로션/ncn+을/jco
+7	바른다	바르+ㄴ다	VERB	_	0	root	_	_	바르/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 먼저 몸을 깨끗이 씻고 미지근한 물에 들어간다 .
+1	먼저	먼저	ADV	_	4	advmod	_	_	먼저/mag
+2	몸을	몸+을	NOUN	_	4	obj	_	_	몸/ncn+을/jco
+3	깨끗이	깨끗이	ADV	_	4	advmod	_	_	깨끗이/mag
+4	씻고	씻+고	CCONJ	_	7	conj	_	_	씻/pvg+고/ecc
+5	미지근한	미지근하+ㄴ	ADJ	_	6	amod	_	_	미지근하/paa+ㄴ/etm
+6	물에	물+에	ADV	_	7	obl	_	_	물/ncn+에/jca
+7	들어간다	들어가+ㄴ다	VERB	_	0	root	_	_	들어가/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이 방법을 목욕할 때마다 하면 아름다운 몸매 , 고운 살결을 유지할 수 있다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	방법을	방법+을	NOUN	_	5	obj	_	_	방법/ncn+을/jco
+3	목욕할	목욕+하+ㄹ	VERB	_	4	acl	_	_	목욕/ncpa+하/xsv+ㄹ/etm
+4	때마다	때+마다	ADV	_	5	advcl	_	_	때/ncn+마다/jxc
+5	하면	하+면	SCONJ	_	11	ccomp	_	_	하/pvg+면/ecs
+6	아름다운	아름답+ㄴ	ADJ	_	7	amod	_	_	아름답/paa+ㄴ/etm
+7	몸매	몸매	NOUN	_	10	compound	_	_	몸매/ncn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	고운	곱+ㄴ	ADJ	_	10	amod	_	_	곱/paa+ㄴ/etm
+10	살결을	살결+을	NOUN	_	11	obj	_	_	살결/ncn+을/jco
+11	유지할	유지+하+ㄹ	VERB	_	0	root	_	_	유지/ncpa+하/xsv+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있다	있+다	ADJ	_	11	aux	_	_	있/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이것을 목줄기 , 어깨 , 가슴 , 허벅지 , 팔 등에 고루 고루 바른다 .
+1	이것을	이것+을	PRON	_	14	obj	_	_	이것/npd+을/jco
+2	목줄기	목줄기	NOUN	_	4	conj	_	_	목줄기/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	어깨	어깨	NOUN	_	6	conj	_	_	어깨/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	가슴	가슴	NOUN	_	8	conj	_	_	가슴/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	허벅지	허벅지	NOUN	_	10	conj	_	_	허벅지/ncn
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	팔	팔	NOUN	_	11	compound	_	_	팔/ncn
+11	등에	등+에	ADV	_	14	obl	_	_	등/nbn+에/jca
+12	고루	고루	ADV	_	13	advmod	_	_	고루/mag
+13	고루	고루	ADV	_	14	advmod	_	_	고루/mag
+14	바른다	바르+ㄴ다	VERB	_	0	root	_	_	바르/pvg+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 눈 , 입 주변은 피하면서 얼굴에 팩을 골고루 바른다 .
+1	눈	눈	NOUN	_	3	conj	_	_	눈/ncn
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	입	입	NOUN	_	4	compound	_	_	입/ncn
+4	주변은	주변+은	NOUN	_	5	dislocated	_	_	주변/ncn+은/jxt
+5	피하면서	피하+면서	SCONJ	_	9	ccomp	_	_	피하/pvg+면서/ecs
+6	얼굴에	얼굴+에	ADV	_	9	obl	_	_	얼굴/ncn+에/jca
+7	팩을	팩+을	NOUN	_	9	obj	_	_	팩/ncn+을/jco
+8	골고루	골고루	ADV	_	9	advmod	_	_	골고루/mag
+9	바른다	바르+ㄴ다	VERB	_	0	root	_	_	바르/pvg+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 하지만 화학성 화장품에 너무 의존하게 되면 기미 , 잡티 등의 피부 트러불을 피할 수 없다 .
+1	하지만	하지만	CCONJ	_	13	cc	_	_	하지만/maj
+2	화학성	화학성	NOUN	_	3	compound	_	_	화학성/ncn
+3	화장품에	화장품+에	ADV	_	5	obl	_	_	화장품/ncn+에/jca
+4	너무	너무	ADV	_	5	advmod	_	_	너무/mag
+5	의존하게	의존+하+게	VERB	_	13	ccomp	_	_	의존/ncpa+하/xsv+게/ecx
+6	되면	되+면	SCONJ	_	5	aux	_	_	되/px+면/ecs
+7	기미	기미	NOUN	_	9	conj	_	_	기미/ncn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	잡티	잡티	NOUN	_	10	compound	_	_	잡티/ncn
+10	등의	등+의	NOUN	_	12	nmod	_	_	등/nbn+의/jcm
+11	피부	피부	NOUN	_	12	compound	_	_	피부/ncn
+12	트러불을	트러불+을	NOUN	_	13	obj	_	_	트러불/ncn+을/jco
+13	피할	피하+ㄹ	VERB	_	0	root	_	_	피하/pvg+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	없다	없+다	ADJ	_	13	aux	_	_	없/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이 세안법은 맨살을 싱싱하게 되살리며 피부의 갖가지 트러불을 없애준다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	세안법은	세안법+은	NOUN	_	9	dislocated	_	_	세안법/ncn+은/jxt
+3	맨살을	맨살+을	NOUN	_	5	obj	_	_	맨살/ncn+을/jco
+4	싱싱하게	싱싱+하+게	SCONJ	_	5	xcomp	_	_	싱싱/ncps+하/xsm+게/ecs
+5	되살리며	되살리+며	CCONJ	_	9	conj	_	_	되살리/pvg+며/ecc
+6	피부의	피부+의	NOUN	_	8	nmod	_	_	피부/ncn+의/jcm
+7	갖가지	갖가지	ADJ	_	8	amod	_	_	갖가지/mma
+8	트러불을	트러불+을	NOUN	_	9	obj	_	_	트러불/ncn+을/jco
+9	없애준다	없애+어+주+ㄴ다	AUX	_	0	root	_	_	없애/pvg+어/ecx+주/px+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 아름다운 피부를 가꾸는 데는 자연 식품이 이상적이다 .
+1	아름다운	아름답+ㄴ	ADJ	_	2	amod	_	_	아름답/paa+ㄴ/etm
+2	피부를	피부+를	NOUN	_	3	obj	_	_	피부/ncn+를/jco
+3	가꾸는	가꾸+는	VERB	_	4	acl	_	_	가꾸/pvg+는/etm
+4	데는	데+는	NOUN	_	7	dislocated	_	_	데/nbn+는/jxt
+5	자연	자연	NOUN	_	6	compound	_	_	자연/ncn
+6	식품이	식품+이	NOUN	_	7	nsubj	_	_	식품/ncn+이/jcs
+7	이상적이다	이상+적+이+다	VERB	_	0	root	_	_	이상/ncn+적/xsn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 아름다운 피부를 가꾸기 위해서는 얼굴에 바르는 메이크업 기술에만 의존할 게 아니라 피부 그 자체의 탄력을 위해 노력해야 한다 .
+1	아름다운	아름답+ㄴ	ADJ	_	2	amod	_	_	아름답/paa+ㄴ/etm
+2	피부를	피부+를	NOUN	_	3	obj	_	_	피부/ncn+를/jco
+3	가꾸기	가꾸+기	VERB	_	4	nmod	_	_	가꾸/pvg+기/etn
+4	위해서는	위하+어서+는	NOUN	_	17	ccomp	_	_	위하/pvg+어서/ecs+는/jxt
+5	얼굴에	얼굴+에	ADV	_	6	obl	_	_	얼굴/ncn+에/jca
+6	바르는	바르+는	VERB	_	7	acl	_	_	바르/pvg+는/etm
+7	메이크업	메이크업	NOUN	_	8	compound	_	_	메이크업/ncn
+8	기술에만	기술+에+만	ADV	_	9	advcl	_	_	기술/ncpa+에/jca+만/jxc
+9	의존할	의존+하+ㄹ	VERB	_	10	acl	_	_	의존/ncpa+하/xsv+ㄹ/etm
+10	게	거+이	NOUN	_	11	csubj	_	_	거/nbn+이/jcc
+11	아니라	아니+라	SCONJ	_	17	xcomp	_	_	아니/paa+라/ecs
+12	피부	피부	NOUN	_	14	compound	_	_	피부/ncn
+13	그	그	DET	_	14	det	_	_	그/mmd
+14	자체의	자체+의	NOUN	_	15	nmod	_	_	자체/ncn+의/jcm
+15	탄력을	탄력+을	NOUN	_	16	obj	_	_	탄력/ncn+을/jco
+16	위해	위하+어	SCONJ	_	17	ccomp	_	_	위하/pvg+어/ecs
+17	노력해야	노력+하+어야	VERB	_	0	root	_	_	노력/ncpa+하/xsv+어야/ecx
+18	한다	하+ㄴ다	AUX	_	17	aux	_	_	하/px+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 아름다운 피부란 다음과 같은 조건이 갖춰질 때 이루어진다 .
+1	아름다운	아름답+ㄴ	ADJ	_	2	amod	_	_	아름답/paa+ㄴ/etm
+2	피부란	피부+란	ADV	_	8	advcl	_	_	피부/ncn+란/jxc
+3	다음과	다음+과	CCONJ	_	4	conj	_	_	다음/ncn+과/jct
+4	같은	같+ㄴ	ADJ	_	5	amod	_	_	같/paa+ㄴ/etm
+5	조건이	조건+이	NOUN	_	6	nsubj	_	_	조건/ncn+이/jcs
+6	갖춰질	갖추+어+지+ㄹ	AUX	_	7	acl	_	_	갖추/pvg+어/ecx+지/px+ㄹ/etm
+7	때	때	NOUN	_	8	dep	_	_	때/ncn
+8	이루어진다	이루+어+지+ㄴ다	AUX	_	0	root	_	_	이루/pvg+어/ecx+지/px+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 셋째 , 부드러우면서도 탄력이 있어야 한다 .
+1	셋째	셋째	NUM	_	5	nummod	_	_	셋째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	부드러우면서도	부드럽+면서+도	ADV	_	5	dep	_	_	부드럽/paa+면서/ecc+도/jxc
+4	탄력이	탄력+이	NOUN	_	5	nsubj	_	_	탄력/ncn+이/jcs
+5	있어야	있+어야	ADJ	_	0	root	_	_	있/paa+어야/ecx
+6	한다	하+ㄴ다	AUX	_	5	aux	_	_	하/px+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 넷째 , 여드름 같은 피부 트러블이 없이 살결이 고와야 한다 .
+1	넷째	넷째	NUM	_	9	nummod	_	_	넷째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	여드름	여드름	NOUN	_	4	dep	_	_	여드름/ncn
+4	같은	같+ㄴ	ADJ	_	6	amod	_	_	같/paa+ㄴ/etm
+5	피부	피부	NOUN	_	6	compound	_	_	피부/ncn
+6	트러블이	트러블+이	NOUN	_	7	nsubj	_	_	트러블/ncn+이/jcs
+7	없이	없+이	SCONJ	_	9	xcomp	_	_	없/paa+이/ecs
+8	살결이	살결+이	NOUN	_	9	nsubj	_	_	살결/ncn+이/jcs
+9	고와야	곱+아야	ADJ	_	0	root	_	_	곱/paa+아야/ecx
+10	한다	하+ㄴ다	AUX	_	9	aux	_	_	하/px+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 다섯째 , 잔주름살이 없고 살갗이 처지지 않아야 한다 .
+1	다섯째	다섯째	NUM	_	6	nummod	_	_	다섯째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	잔주름살이	잔주름살+이	NOUN	_	4	nsubj	_	_	잔주름살/ncn+이/jcs
+4	없고	없+고	CCONJ	_	6	conj	_	_	없/paa+고/ecc
+5	살갗이	살갗+이	NOUN	_	6	nsubj	_	_	살갗/ncn+이/jcs
+6	처지지	처지+지	VERB	_	0	root	_	_	처지/pvg+지/ecx
+7	않아야	않+아야	AUX	_	6	aux	_	_	않/px+아야/ecx
+8	한다	하+ㄴ다	AUX	_	6	aux	_	_	하/px+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 식후에 습관적으로 마시는 커피 , 홍차는 피부를 망가뜨린다 .
+1	식후에	식후+에	ADV	_	3	obl	_	_	식후/ncn+에/jca
+2	습관적으로	습관+적+으로	ADV	_	3	advcl	_	_	습관/ncn+적/xsn+으로/jca
+3	마시는	마시+는	VERB	_	6	acl	_	_	마시/pvg+는/etm
+4	커피	커피	NOUN	_	6	conj	_	_	커피/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	홍차는	홍차+는	NOUN	_	8	dislocated	_	_	홍차/ncn+는/jxt
+7	피부를	피부+를	NOUN	_	8	obj	_	_	피부/ncn+를/jco
+8	망가뜨린다	망가뜨리+ㄴ다	VERB	_	0	root	_	_	망가뜨리/pvg+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그 속에 들어 있는 카페인 성분은 신경을 흥분시키고 모세 혈관을 확장시킨다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	속에	속+에	ADV	_	3	obl	_	_	속/ncn+에/jca
+3	들어	들+어	VERB	_	6	acl	_	_	들/pvg+어/ecx
+4	있는	있+는	AUX	_	3	aux	_	_	있/px+는/etm
+5	카페인	카페인	NOUN	_	6	compound	_	_	카페인/ncn
+6	성분은	성분+은	NOUN	_	11	dislocated	_	_	성분/ncn+은/jxt
+7	신경을	신경+을	NOUN	_	8	obj	_	_	신경/ncn+을/jco
+8	흥분시키고	흥분+시키+고	CCONJ	_	11	conj	_	_	흥분/ncpa+시키/xsv+고/ecc
+9	모세	모세	NOUN	_	10	compound	_	_	모세/ncn
+10	혈관을	혈관+을	NOUN	_	11	obj	_	_	혈관/ncn+을/jco
+11	확장시킨다	확장+시키+ㄴ다	VERB	_	0	root	_	_	확장/ncpa+시키/xsv+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 커피나 홍차 대신 물을 마셔 보자 .
+1	커피나	커피+나	CCONJ	_	2	conj	_	_	커피/ncn+나/jcj
+2	홍차	홍차	NOUN	_	3	compound	_	_	홍차/ncn
+3	대신	대신	NOUN	_	5	advmod	_	_	대신/ncn
+4	물을	물+을	NOUN	_	5	obj	_	_	물/ncn+을/jco
+5	마셔	마시+어	VERB	_	0	root	_	_	마시/pvg+어/ecx
+6	보자	보+자	AUX	_	5	aux	_	_	보/px+자/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 물은 피부의 주름살을 방지하고 변비에도 좋다 .
+1	물은	물+은	NOUN	_	6	dislocated	_	_	물/ncn+은/jxt
+2	피부의	피부+의	NOUN	_	3	nmod	_	_	피부/ncn+의/jcm
+3	주름살을	주름살+을	NOUN	_	4	obj	_	_	주름살/ncn+을/jco
+4	방지하고	방지+하+고	CCONJ	_	6	conj	_	_	방지/ncpa+하/xsv+고/ecc
+5	변비에도	변비+에+도	ADV	_	6	advcl	_	_	변비/ncn+에/jca+도/jxc
+6	좋다	좋+다	ADJ	_	0	root	_	_	좋/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이때 물은 미지근한 정도가 좋다 .
+1	이때	이때	ADV	_	5	advmod	_	_	이때/mad
+2	물은	물+은	NOUN	_	5	dislocated	_	_	물/ncn+은/jxt
+3	미지근한	미지근하+ㄴ	ADJ	_	4	amod	_	_	미지근하/paa+ㄴ/etm
+4	정도가	정도+가	NOUN	_	5	nsubj	_	_	정도/ncn+가/jcs
+5	좋다	좋+다	ADJ	_	0	root	_	_	좋/paa+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 둘째 , 비누 거품을 많이 만들어 얼굴을 씻는다 .
+1	둘째	둘째	NUM	_	8	nummod	_	_	둘째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	비누	비누	NOUN	_	4	compound	_	_	비누/ncn
+4	거품을	거품+을	NOUN	_	6	obj	_	_	거품/ncn+을/jco
+5	많이	많이	ADV	_	6	advmod	_	_	많이/mag
+6	만들어	만들+어	SCONJ	_	8	ccomp	_	_	만들/pvg+어/ecs
+7	얼굴을	얼굴+을	NOUN	_	8	obj	_	_	얼굴/ncn+을/jco
+8	씻는다	씻+는다	VERB	_	0	root	_	_	씻/pvg+는다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 손바닥과 거품 사이로 얼굴을 씻는다는 기분으로 얼굴 전체를 부드럽게 문지른다 .
+1	손바닥과	손바닥+과	CCONJ	_	2	conj	_	_	손바닥/ncn+과/jcj
+2	거품	거품	NOUN	_	3	compound	_	_	거품/ncn
+3	사이로	사이+로	ADV	_	5	advcl	_	_	사이/ncn+로/jca
+4	얼굴을	얼굴+을	NOUN	_	5	obj	_	_	얼굴/ncn+을/jco
+5	씻는다는	씻+는다는	VERB	_	6	acl	_	_	씻/pvg+는다는/etm
+6	기분으로	기분+으로	ADV	_	10	advcl	_	_	기분/ncn+으로/jca
+7	얼굴	얼굴	NOUN	_	8	compound	_	_	얼굴/ncn
+8	전체를	전체+를	NOUN	_	10	obj	_	_	전체/ncn+를/jco
+9	부드럽게	부드럽+게	SCONJ	_	10	xcomp	_	_	부드럽/paa+게/ecs
+10	문지른다	문지르+ㄴ다	VERB	_	0	root	_	_	문지르/pvg+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 대부분 얼굴을 헹굴 때 물을 끼얹으면서 손을 위 아래로 거칠게 문지르곤 한다 .
+1	대부분	대부분	ADV	_	11	advmod	_	_	대부분/mag
+2	얼굴을	얼굴+을	NOUN	_	3	obj	_	_	얼굴/ncn+을/jco
+3	헹굴	헹구+ㄹ	VERB	_	4	acl	_	_	헹구/pvg+ㄹ/etm
+4	때	때	NOUN	_	11	advmod	_	_	때/ncn
+5	물을	물+을	NOUN	_	6	obj	_	_	물/ncn+을/jco
+6	끼얹으면서	끼얹+으면서	SCONJ	_	11	ccomp	_	_	끼얹/pvg+으면서/ecs
+7	손을	손+을	NOUN	_	11	obj	_	_	손/ncn+을/jco
+8	위	위	NOUN	_	9	compound	_	_	위/ncn
+9	아래로	아래+로	ADV	_	11	advcl	_	_	아래/ncn+로/jca
+10	거칠게	거칠+게	SCONJ	_	11	xcomp	_	_	거칠/paa+게/ecs
+11	문지르곤	문지르+곤	VERB	_	0	root	_	_	문지르/pvg+곤/ecx
+12	한다	하+ㄴ다	AUX	_	11	aux	_	_	하/px+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 아래로 처지게 되면 실제 나이보다 늙어 보이게 된다 .
+1	아래로	아래+로	ADV	_	2	advcl	_	_	아래/ncn+로/jca
+2	처지게	처지+게	VERB	_	7	ccomp	_	_	처지/pvg+게/ecx
+3	되면	되+면	SCONJ	_	2	aux	_	_	되/px+면/ecs
+4	실제	실제	NOUN	_	5	compound	_	_	실제/ncn
+5	나이보다	나이+보다	ADV	_	7	advcl	_	_	나이/ncn+보다/jca
+6	늙어	늙+어	SCONJ	_	7	xcomp	_	_	늙/paa+어/ecs
+7	보이게	보이+게	VERB	_	0	root	_	_	보이/pvg+게/ecx
+8	된다	되+ㄴ다	AUX	_	7	aux	_	_	되/px+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 첫번째 헹굴 때는 미지근한 물을 사용한다 .
+1	첫번째	첫번+째	NOUN	_	2	advmod	_	_	첫번/ncn+째/xsn
+2	헹굴	헹구+ㄹ	VERB	_	3	acl	_	_	헹구/pvg+ㄹ/etm
+3	때는	때+는	NOUN	_	6	dislocated	_	_	때/ncn+는/jxt
+4	미지근한	미지근하+ㄴ	ADJ	_	5	amod	_	_	미지근하/paa+ㄴ/etm
+5	물을	물+을	NOUN	_	6	obj	_	_	물/ncn+을/jco
+6	사용한다	사용+하+ㄴ다	VERB	_	0	root	_	_	사용/ncpa+하/xsv+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 두 손으로 물을 흠뻑 끼얹으면서 양손의 가운데 손가락 끝으로 앞 이마 중심 부분을 살짝 눌러 준다 .
+1	두	두	NUM	_	2	nummod	_	_	두/nnc
+2	손으로	손+으로	ADV	_	5	advcl	_	_	손/ncn+으로/jca
+3	물을	물+을	NOUN	_	5	obj	_	_	물/ncn+을/jco
+4	흠뻑	흠뻑	ADV	_	5	advmod	_	_	흠뻑/mag
+5	끼얹으면서	끼얹+으면서	SCONJ	_	15	ccomp	_	_	끼얹/pvg+으면서/ecs
+6	양손의	양손+의	NOUN	_	9	nmod	_	_	양손/ncn+의/jcm
+7	가운데	가운데	NOUN	_	8	compound	_	_	가운데/ncn
+8	손가락	손가락	NOUN	_	9	compound	_	_	손가락/ncn
+9	끝으로	끝+으로	ADV	_	15	advcl	_	_	끝/ncn+으로/jca
+10	앞	앞	NOUN	_	11	compound	_	_	앞/ncn
+11	이마	이마	NOUN	_	13	compound	_	_	이마/ncn
+12	중심	중심	NOUN	_	13	compound	_	_	중심/ncn
+13	부분을	부분+을	NOUN	_	15	obj	_	_	부분/ncn+을/jco
+14	살짝	살짝	ADV	_	15	advmod	_	_	살짝/mag
+15	눌러	누르+어	VERB	_	0	root	_	_	누르/pvg+어/ecx
+16	준다	주+ㄴ다	AUX	_	15	aux	_	_	주/px+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 세안할 때 세면기보다 세숫대야를 사용하는 것이 편리함 .
+1	세안할	세안+하+ㄹ	VERB	_	2	acl	_	_	세안/ncpa+하/xsv+ㄹ/etm
+2	때	때	NOUN	_	5	advmod	_	_	때/ncn
+3	세면기보다	세면기+보다	ADV	_	5	advcl	_	_	세면기/ncn+보다/jca
+4	세숫대야를	세숫대야+를	NOUN	_	5	obj	_	_	세숫대야/ncn+를/jco
+5	사용하는	사용+하+는	VERB	_	6	acl	_	_	사용/ncpa+하/xsv+는/etm
+6	것이	것+이	NOUN	_	7	nsubj	_	_	것/nbn+이/jcs
+7	편리함	편리+하+ㅁ	VERB	_	0	root	_	_	편리/ncps+하/xsm+ㅁ/etn
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이 두유는 동맥 경화와 비만증을 예방한다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	두유는	두유+는	NOUN	_	6	dislocated	_	_	두유/ncn+는/jxt
+3	동맥	동맥	NOUN	_	4	compound	_	_	동맥/ncn
+4	경화와	경화+와	CCONJ	_	5	conj	_	_	경화/ncn+와/jcj
+5	비만증을	비만증+을	NOUN	_	6	obj	_	_	비만증/ncn+을/jco
+6	예방한다	예방+하+ㄴ다	VERB	_	0	root	_	_	예방/ncpa+하/xsv+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 검게 우러난 물을 버리지 말고 콩을 믹서에 갈 때 이용하도록 한다 .
+1	검게	검+게	SCONJ	_	2	xcomp	_	_	검/paa+게/ecs
+2	우러난	우러나+ㄴ	VERB	_	3	acl	_	_	우러나/pvg+ㄴ/etm
+3	물을	물+을	NOUN	_	4	obj	_	_	물/ncn+을/jco
+4	버리지	버리+지	VERB	_	11	ccomp	_	_	버리/pvg+지/ecx
+5	말고	말+고	SCONJ	_	4	aux	_	_	말/px+고/ecs
+6	콩을	콩+을	NOUN	_	8	obj	_	_	콩/ncn+을/jco
+7	믹서에	믹서+에	ADV	_	8	obl	_	_	믹서/ncn+에/jca
+8	갈	갈+ㄹ	VERB	_	9	acl	_	_	갈/pvg+ㄹ/etm
+9	때	때	NOUN	_	10	compound	_	_	때/ncn
+10	이용하도록	이용+하+도록	SCONJ	_	11	ccomp	_	_	이용/ncpa+하/xsv+도록/ecs
+11	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 믹서에 간 콩물을 냄비에 넣고 주걱으로 천천히 저으면서 한소끔 끓인다 .
+1	믹서에	믹서+에	ADV	_	2	obl	_	_	믹서/ncn+에/jca
+2	간	갈+ㄴ	VERB	_	3	acl	_	_	갈/pvg+ㄴ/etm
+3	콩물을	콩물+을	NOUN	_	5	obj	_	_	콩물/ncn+을/jco
+4	냄비에	냄비+에	ADV	_	5	obl	_	_	냄비/ncn+에/jca
+5	넣고	넣+고	CCONJ	_	10	conj	_	_	넣/pvg+고/ecc
+6	주걱으로	주걱+으로	ADV	_	8	advcl	_	_	주걱/ncn+으로/jca
+7	천천히	천천히	ADV	_	8	advmod	_	_	천천히/mag
+8	저으면서	젓+으면서	SCONJ	_	10	ccomp	_	_	젓/pvg+으면서/ecs
+9	한소끔	한소끔	ADV	_	10	advmod	_	_	한소끔/mag
+10	끓인다	끓이+ㄴ다	VERB	_	0	root	_	_	끓이/pvg+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 깨끗한 행주로 꼭 짠다 .
+1	깨끗한	깨끗하+ㄴ	ADJ	_	2	amod	_	_	깨끗하/paa+ㄴ/etm
+2	행주로	행주+로	ADV	_	4	advcl	_	_	행주/ncn+로/jca
+3	꼭	꼭	ADV	_	4	advmod	_	_	꼭/mag
+4	짠다	짜+ㄴ다	VERB	_	0	root	_	_	짜/pvg+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 처음 짜낸 두유와 두 번째 짜낸 두유를 합쳐 냄비에 붓고 주걱으로 저으면서 다시 한 번 끓인다 .
+1	처음	처음	ADV	_	2	advmod	_	_	처음/mag
+2	짜낸	짜+아+내+ㄴ	AUX	_	3	acl	_	_	짜/pvg+아/ecx+내/px+ㄴ/etm
+3	두유와	두유+와	CCONJ	_	7	conj	_	_	두유/ncn+와/jcj
+4	두	두	NUM	_	5	nummod	_	_	두/nnc
+5	번째	번째	NOUN	_	6	dep	_	_	번째/nbu
+6	짜낸	짜+아+내+ㄴ	AUX	_	7	acl	_	_	짜/pvg+아/ecx+내/px+ㄴ/etm
+7	두유를	두유+를	NOUN	_	8	obj	_	_	두유/ncn+를/jco
+8	합쳐	합치+어	SCONJ	_	12	ccomp	_	_	합치/pvg+어/ecs
+9	냄비에	냄비+에	ADV	_	10	obl	_	_	냄비/ncn+에/jca
+10	붓고	붓+고	CCONJ	_	12	conj	_	_	붓/pvg+고/ecc
+11	주걱으로	주걱+으로	ADV	_	12	advcl	_	_	주걱/ncn+으로/jca
+12	저으면서	젓+으면서	SCONJ	_	16	ccomp	_	_	젓/pvg+으면서/ecs
+13	다시	다시	ADV	_	16	advmod	_	_	다시/mag
+14	한	한	NUM	_	15	nummod	_	_	한/nnc
+15	번	번	NOUN	_	16	dep	_	_	번/nbu
+16	끓인다	끓이+ㄴ다	VERB	_	0	root	_	_	끓이/pvg+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 거품을 떠내고 소금을 약간 친 후 식힌다 .
+1	거품을	거품+을	NOUN	_	2	obj	_	_	거품/ncn+을/jco
+2	떠내고	떠내+고	CCONJ	_	5	conj	_	_	떠내/pvg+고/ecc
+3	소금을	소금+을	NOUN	_	5	obj	_	_	소금/ncn+을/jco
+4	약간	약간	ADV	_	5	advmod	_	_	약간/mag
+5	친	치+ㄴ	VERB	_	6	acl	_	_	치/pvg+ㄴ/etm
+6	후	후	NOUN	_	7	dep	_	_	후/ncn
+7	식힌다	식히+ㄴ다	VERB	_	0	root	_	_	식히/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 체온 정도의 온도가 되었을 때 마시는 것이 좋다 .
+1	체온	체온	NOUN	_	2	compound	_	_	체온/ncn
+2	정도의	정도+의	NOUN	_	3	nmod	_	_	정도/ncn+의/jcm
+3	온도가	온도+가	NOUN	_	4	csubj	_	_	온도/ncn+가/jcc
+4	되었을	되+었+ㄹ	VERB	_	5	acl	_	_	되/pvg+었/ep+ㄹ/etm
+5	때	때	NOUN	_	6	dep	_	_	때/ncn
+6	마시는	마시+는	VERB	_	7	acl	_	_	마시/pvg+는/etm
+7	것이	것+이	NOUN	_	8	nsubj	_	_	것/nbn+이/jcs
+8	좋다	좋+다	ADJ	_	0	root	_	_	좋/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 닭간과 모래집을 깨끗이 씻어 적당한 크기로 썬다 .
+1	닭간과	닭+간+과	CCONJ	_	2	conj	_	_	닭/ncn+간/ncn+과/jcj
+2	모래집을	모래집+을	NOUN	_	7	obj	_	_	모래집/ncn+을/jco
+3	깨끗이	깨끗이	ADV	_	4	advmod	_	_	깨끗이/mag
+4	씻어	씻+어	SCONJ	_	7	ccomp	_	_	씻/pvg+어/ecs
+5	적당한	적당+하+ㄴ	VERB	_	6	amod	_	_	적당/ncps+하/xsm+ㄴ/etm
+6	크기로	크기+로	ADV	_	7	advcl	_	_	크기/ncn+로/jca
+7	썬다	썰+ㄴ다	VERB	_	0	root	_	_	썰/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 톳은 깨끗이 씻어 헹구고 물에 한 시간쯤 불린다 .
+1	톳은	톳+은	NOUN	_	8	dislocated	_	_	톳/ncn+은/jxt
+2	깨끗이	깨끗이	ADV	_	3	advmod	_	_	깨끗이/mag
+3	씻어	씻+어	SCONJ	_	4	ccomp	_	_	씻/pvg+어/ecs
+4	헹구고	헹구+고	CCONJ	_	8	conj	_	_	헹구/pvg+고/ecc
+5	물에	물+에	ADV	_	8	obl	_	_	물/ncn+에/jca
+6	한	한	NUM	_	7	nummod	_	_	한/nnc
+7	시간쯤	시간+쯤	NOUN	_	8	advmod	_	_	시간/ncn+쯤/xsn
+8	불린다	불리+ㄴ다	VERB	_	0	root	_	_	불리/pvg+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 수돗물에 재빨리 씻어 체에 밭친 다음 물기를 뺀다 .
+1	수돗물에	수돗물+에	ADV	_	3	obl	_	_	수돗물/ncn+에/jca
+2	재빨리	재빨리	ADV	_	3	advmod	_	_	재빨리/mag
+3	씻어	씻+어	SCONJ	_	5	ccomp	_	_	씻/pvg+어/ecs
+4	체에	체+에	ADV	_	5	obl	_	_	체/ncn+에/jca
+5	밭친	밭치+ㄴ	VERB	_	6	acl	_	_	밭치/pvg+ㄴ/etm
+6	다음	다음	NOUN	_	8	advmod	_	_	다음/ncn
+7	물기를	물기+를	NOUN	_	8	obj	_	_	물기/ncn+를/jco
+8	뺀다	빼+ㄴ다	VERB	_	0	root	_	_	빼/pvg+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 톳은 체에 밭쳐 물기를 뺀다 .
+1	톳은	톳+은	NOUN	_	3	dislocated	_	_	톳/ncn+은/jxt
+2	체에	체+에	ADV	_	3	obl	_	_	체/ncn+에/jca
+3	밭쳐	밭치+어	SCONJ	_	5	ccomp	_	_	밭치/pvg+어/ecs
+4	물기를	물기+를	NOUN	_	5	obj	_	_	물기/ncn+를/jco
+5	뺀다	빼+ㄴ다	VERB	_	0	root	_	_	빼/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 윤이 나면 볶아둔 닭간과 모래집을 넣어 고루 섞는다 .
+1	윤이	윤+이	NOUN	_	2	nsubj	_	_	윤/ncn+이/jcs
+2	나면	나+면	SCONJ	_	6	ccomp	_	_	나/pvg+면/ecs
+3	볶아둔	볶+아+두+ㄴ	AUX	_	5	acl	_	_	볶/pvg+아/ecx+두/px+ㄴ/etm
+4	닭간과	닭+간+과	CCONJ	_	5	conj	_	_	닭/ncn+간/ncn+과/jcj
+5	모래집을	모래집+을	NOUN	_	6	obj	_	_	모래집/ncn+을/jco
+6	넣어	넣+어	SCONJ	_	8	ccomp	_	_	넣/pvg+어/ecs
+7	고루	고루	ADV	_	8	advmod	_	_	고루/mag
+8	섞는다	섞+는다	VERB	_	0	root	_	_	섞/pvg+는다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 후춧가루를 적당히 뿌려 준다 .
+1	후춧가루를	후춧가루+를	NOUN	_	3	obj	_	_	후춧가루/ncn+를/jco
+2	적당히	적당히	ADV	_	3	advmod	_	_	적당히/mag
+3	뿌려	뿌리+어	VERB	_	0	root	_	_	뿌리/pvg+어/ecx
+4	준다	주+ㄴ다	AUX	_	3	aux	_	_	주/px+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 얼굴 못지않게 목을 올바르게 씻는 것 역시 중요하다 .
+1	얼굴	얼굴	NOUN	_	2	dep	_	_	얼굴/ncn
+2	못지않게	못지않+게	SCONJ	_	8	xcomp	_	_	못지않/paa+게/ecs
+3	목을	목+을	NOUN	_	5	obj	_	_	목/ncn+을/jco
+4	올바르게	올바르+게	SCONJ	_	5	ccomp	_	_	올바르/pvg+게/ecs
+5	씻는	씻+는	VERB	_	6	acl	_	_	씻/pvg+는/etm
+6	것	것	NOUN	_	8	mark	_	_	것/nbn
+7	역시	역시	ADV	_	8	advmod	_	_	역시/mag
+8	중요하다	중요+하+다	VERB	_	0	root	_	_	중요/ncps+하/xsm+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그 방법은 다음과 같다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	방법은	방법+은	NOUN	_	4	dislocated	_	_	방법/ncn+은/jxt
+3	다음과	다음+과	CCONJ	_	4	conj	_	_	다음/ncn+과/jct
+4	같다	같+다	ADJ	_	0	root	_	_	같/paa+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 먹으면서 , 발라서 아름답게 만드니 묘한 것이다 .
+1	먹으면서	먹+으면서	SCONJ	_	5	ccomp	_	_	먹/pvg+으면서/ecs
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	발라서	바르+아서	SCONJ	_	5	ccomp	_	_	바르/pvg+아서/ecs
+4	아름답게	아름답+게	SCONJ	_	5	xcomp	_	_	아름답/paa+게/ecs
+5	만드니	만들+니	SCONJ	_	6	conj	_	_	만들/pvg+니/ecs
+6	묘한	묘하+ㄴ	ADJ	_	0	root	_	_	묘하/paa+ㄴ/etm
+7	것이다	것+이+다	VERB	_	6	aux	_	_	것/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 꿀은 대단히 강력한 살균력을 갖고 있다 .
+1	꿀은	꿀+은	NOUN	_	5	dislocated	_	_	꿀/ncn+은/jxt
+2	대단히	대단히	ADV	_	3	advmod	_	_	대단히/mag
+3	강력한	강력하+ㄴ	ADJ	_	4	amod	_	_	강력하/paa+ㄴ/etm
+4	살균력을	살균력+을	NOUN	_	5	obj	_	_	살균력/ncn+을/jco
+5	갖고	갖+고	VERB	_	0	root	_	_	갖/pvg+고/ecx
+6	있다	있+다	AUX	_	5	aux	_	_	있/px+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 꿀을 이용한 미용법은 예부터 유명하다 .
+1	꿀을	꿀+을	NOUN	_	2	obj	_	_	꿀/ncn+을/jco
+2	이용한	이용+하+ㄴ	VERB	_	3	acl	_	_	이용/ncpa+하/xsv+ㄴ/etm
+3	미용법은	미용법+은	NOUN	_	5	dislocated	_	_	미용법/ncn+은/jxt
+4	예부터	예+부터	ADV	_	5	advcl	_	_	예/ncn+부터/jxc
+5	유명하다	유명+하+다	VERB	_	0	root	_	_	유명/ncps+하/xsm+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 특히 겨울 피부는 냉해져서 얼굴색이 나빠지기 쉬운데 미지근한 물로 세수하는 것이 좋다 .
+1	특히	특히	ADV	_	7	advmod	_	_	특히/mag
+2	겨울	겨울	NOUN	_	3	compound	_	_	겨울/ncn
+3	피부는	피부+는	NOUN	_	4	dislocated	_	_	피부/ncn+는/jxt
+4	냉해져서	냉하+어+지+어서	SCONJ	_	6	xcomp	_	_	냉하/paa+어/ecx+지/px+어서/ecs
+5	얼굴색이	얼굴색+이	NOUN	_	6	nsubj	_	_	얼굴색/ncn+이/jcs
+6	나빠지기	나쁘+아+지+기	AUX	_	7	nmod	_	_	나쁘/paa+아/ecx+지/px+기/etn
+7	쉬운데	쉽+ㄴ데	SCONJ	_	12	xcomp	_	_	쉽/paa+ㄴ데/ecs
+8	미지근한	미지근하+ㄴ	ADJ	_	9	amod	_	_	미지근하/paa+ㄴ/etm
+9	물로	물+로	ADV	_	10	advcl	_	_	물/ncn+로/jca
+10	세수하는	세수+하+는	VERB	_	11	acl	_	_	세수/ncpa+하/xsv+는/etm
+11	것이	것+이	NOUN	_	12	nsubj	_	_	것/nbn+이/jcs
+12	좋다	좋+다	ADJ	_	0	root	_	_	좋/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이 세안법을 계속하면 피부가 매끄러워지고 윤기가 생긴다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	세안법을	세안법+을	NOUN	_	3	obj	_	_	세안법/ncn+을/jco
+3	계속하면	계속+하+면	SCONJ	_	7	ccomp	_	_	계속/ncpa+하/xsv+면/ecs
+4	피부가	피부+가	NOUN	_	5	nsubj	_	_	피부/ncn+가/jcs
+5	매끄러워지고	매끄럽+어+지+고	CCONJ	_	7	conj	_	_	매끄럽/paa+어/ecx+지/px+고/ecc
+6	윤기가	윤기+가	NOUN	_	7	nsubj	_	_	윤기/ncn+가/jcs
+7	생긴다	생기+ㄴ다	VERB	_	0	root	_	_	생기/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 기름기가 있는 코 양쪽이나 이마는 좀 강하게 씻어도 좋다 .
+1	기름기가	기름기+가	NOUN	_	2	nsubj	_	_	기름기/ncn+가/jcs
+2	있는	있+는	ADJ	_	4	amod	_	_	있/paa+는/etm
+3	코	코	NOUN	_	4	compound	_	_	코/ncn
+4	양쪽이나	양쪽+이나	CCONJ	_	5	conj	_	_	양쪽/ncn+이나/jcj
+5	이마는	이마+는	NOUN	_	8	dislocated	_	_	이마/ncn+는/jxt
+6	좀	좀	ADV	_	7	advmod	_	_	좀/mag
+7	강하게	강하+게	SCONJ	_	8	xcomp	_	_	강하/paa+게/ecs
+8	씻어도	씻+어도	SCONJ	_	9	conj	_	_	씻/pvg+어도/ecs
+9	좋다	좋+다	ADJ	_	0	root	_	_	좋/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 눈 밑은 손가락을 가볍게 얹어 힘을 주지 말고 좌우로 살며시 문지른다 .
+1	눈	눈	NOUN	_	2	compound	_	_	눈/ncn
+2	밑은	밑+은	NOUN	_	11	dislocated	_	_	밑/ncn+은/jxt
+3	손가락을	손가락+을	NOUN	_	5	obj	_	_	손가락/ncn+을/jco
+4	가볍게	가볍+게	SCONJ	_	5	xcomp	_	_	가볍/paa+게/ecs
+5	얹어	얹+어	SCONJ	_	7	ccomp	_	_	얹/pvg+어/ecs
+6	힘을	힘+을	NOUN	_	7	obj	_	_	힘/ncn+을/jco
+7	주지	주+지	VERB	_	11	conj	_	_	주/pvg+지/ecx
+8	말고	말+고	CCONJ	_	7	aux	_	_	말/px+고/ecc
+9	좌우로	좌우+로	ADV	_	11	advcl	_	_	좌우/ncn+로/jca
+10	살며시	살며시	ADV	_	11	advmod	_	_	살며시/mag
+11	문지른다	문지르+ㄴ다	VERB	_	0	root	_	_	문지르/pvg+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 타월로 얼굴을 닦을 때는 밑에서 위로 사용하는 것이 좋은 방법 .
+1	타월로	타월+로	ADV	_	3	advcl	_	_	타월/ncn+로/jca
+2	얼굴을	얼굴+을	NOUN	_	3	obj	_	_	얼굴/ncn+을/jco
+3	닦을	닦+ㄹ	VERB	_	4	acl	_	_	닦/pvg+ㄹ/etm
+4	때는	때+는	NOUN	_	7	dislocated	_	_	때/ncn+는/jxt
+5	밑에서	밑+에서	ADV	_	7	advcl	_	_	밑/ncn+에서/jca
+6	위로	위+로	ADV	_	7	advcl	_	_	위/ncn+로/jca
+7	사용하는	사용+하+는	VERB	_	8	acl	_	_	사용/ncpa+하/xsv+는/etm
+8	것이	것+이	NOUN	_	9	nsubj	_	_	것/nbn+이/jcs
+9	좋은	좋+ㄴ	ADJ	_	10	amod	_	_	좋/paa+ㄴ/etm
+10	방법	방법	NOUN	_	0	root	_	_	방법/ncn
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 피부를 따뜻이 해준 다음 마사지하면 피부의 혈행이 좋아진다 .
+1	피부를	피부+를	NOUN	_	3	obj	_	_	피부/ncn+를/jco
+2	따뜻이	따뜻이	ADV	_	3	advmod	_	_	따뜻이/mag
+3	해준	하+어+주+ㄴ	AUX	_	4	acl	_	_	하/pvg+어/ecx+주/px+ㄴ/etm
+4	다음	다음	NOUN	_	5	compound	_	_	다음/ncn
+5	마사지하면	마사지+하+면	SCONJ	_	8	conj	_	_	마사지/ncpa+하/xsv+면/ecs
+6	피부의	피부+의	NOUN	_	7	nmod	_	_	피부/ncn+의/jcm
+7	혈행이	혈행+이	NOUN	_	8	nsubj	_	_	혈행/ncn+이/jcs
+8	좋아진다	좋+아+지+ㄴ다	AUX	_	0	root	_	_	좋/paa+아/ecx+지/px+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그렇지 못할 때는 스팀 타월로 얼굴을 충분히 덥혀준 후 하는 것이 효과적이다 .
+1	그렇지	그렇+지	VERB	_	3	amod	_	_	그렇/pad+지/ecx
+2	못할	못하+ㄹ	AUX	_	1	aux	_	_	못하/px+ㄹ/etm
+3	때는	때+는	NOUN	_	12	dislocated	_	_	때/ncn+는/jxt
+4	스팀	스팀	NOUN	_	5	compound	_	_	스팀/ncn
+5	타월로	타월+로	ADV	_	8	advcl	_	_	타월/ncn+로/jca
+6	얼굴을	얼굴+을	NOUN	_	8	obj	_	_	얼굴/ncn+을/jco
+7	충분히	충분히	ADV	_	8	advmod	_	_	충분히/mag
+8	덥혀준	덥히+어+주+ㄴ	AUX	_	9	acl	_	_	덥히/pvg+어/ecx+주/px+ㄴ/etm
+9	후	후	NOUN	_	10	dep	_	_	후/ncn
+10	하는	하+는	VERB	_	11	acl	_	_	하/pvg+는/etm
+11	것이	것+이	NOUN	_	12	nsubj	_	_	것/nbn+이/jcs
+12	효과적이다	효과+적+이+다	VERB	_	0	root	_	_	효과/ncn+적/xsn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 레몬을 합치면 꿀 , 오일이 피부에 쉽게 스며든다 .
+1	레몬을	레몬+을	NOUN	_	2	obj	_	_	레몬/ncn+을/jco
+2	합치면	합치+면	SCONJ	_	8	ccomp	_	_	합치/pvg+면/ecs
+3	꿀	꿀	NOUN	_	5	conj	_	_	꿀/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	오일이	오일+이	NOUN	_	8	nsubj	_	_	오일/ncn+이/jcs
+6	피부에	피부+에	ADV	_	8	obl	_	_	피부/ncn+에/jca
+7	쉽게	쉽+게	SCONJ	_	8	xcomp	_	_	쉽/paa+게/ecs
+8	스며든다	스며들+ㄴ다	VERB	_	0	root	_	_	스며들/pvg+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 재료를 손바닥으로 잘 섞어 찜질한 피부에 펴 주고 마사지한다 .
+1	재료를	재료+를	NOUN	_	4	obj	_	_	재료/ncn+를/jco
+2	손바닥으로	손바닥+으로	ADV	_	4	advcl	_	_	손바닥/ncn+으로/jca
+3	잘	잘	ADV	_	4	advmod	_	_	잘/mag
+4	섞어	섞+어	SCONJ	_	7	ccomp	_	_	섞/pvg+어/ecs
+5	찜질한	찜질+하+ㄴ	VERB	_	6	acl	_	_	찜질/ncpa+하/xsv+ㄴ/etm
+6	피부에	피부+에	ADV	_	7	obl	_	_	피부/ncn+에/jca
+7	펴	펴+어	VERB	_	9	conj	_	_	펴/pvg+어/ecx
+8	주고	주+고	CCONJ	_	7	aux	_	_	주/px+고/ecc
+9	마사지한다	마사지+하+ㄴ다	VERB	_	10	conj	_	_	마사지/ncpa+하/xsv+ㄴ다/ef
+10	.	.	PUNCT	_	0	root	_	_	./sf
+
+# 손끝으로 세수하는 요령으로 얼굴 중심부에서 바깥쪽으로 한다 .
+1	손끝으로	손끝+으로	ADV	_	2	advcl	_	_	손끝/ncn+으로/jca
+2	세수하는	세수+하+는	VERB	_	3	acl	_	_	세수/ncpa+하/xsv+는/etm
+3	요령으로	요령+으로	ADV	_	7	advcl	_	_	요령/ncn+으로/jca
+4	얼굴	얼굴	NOUN	_	5	compound	_	_	얼굴/ncn
+5	중심부에서	중심부+에서	ADV	_	7	advcl	_	_	중심부/ncn+에서/jca
+6	바깥쪽으로	바깥쪽+으로	ADV	_	7	advcl	_	_	바깥쪽/ncn+으로/jca
+7	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 끝나면 미지근한 물로 씻어 낸다 .
+1	끝나면	끝나+면	SCONJ	_	4	ccomp	_	_	끝나/pvg+면/ecs
+2	미지근한	미지근하+ㄴ	ADJ	_	3	amod	_	_	미지근하/paa+ㄴ/etm
+3	물로	물+로	ADV	_	4	advcl	_	_	물/ncn+로/jca
+4	씻어	씻+어	VERB	_	0	root	_	_	씻/pvg+어/ecx
+5	낸다	내+ㄴ다	AUX	_	4	aux	_	_	내/px+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 찬물로 패팅한다 .
+1	찬물로	찬물+로	ADV	_	2	advcl	_	_	찬물/ncn+로/jca
+2	패팅한다	패팅+하+ㄴ다	VERB	_	0	root	_	_	패팅/ncpa+하/xsv+ㄴ다/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 꿀은 아무래도 끈적거리기 때문에 탕 안에서 하는 것이 좋다 .
+1	꿀은	꿀+은	NOUN	_	9	dislocated	_	_	꿀/ncn+은/jxt
+2	아무래도	아무래도	ADV	_	3	advmod	_	_	아무래도/mag
+3	끈적거리기	끈적거리+기	VERB	_	4	nmod	_	_	끈적거리/pvg+기/etn
+4	때문에	때문+에	ADV	_	7	obl	_	_	때문/nbn+에/jca
+5	탕	탕	NOUN	_	6	compound	_	_	탕/ncn
+6	안에서	안+에서	ADV	_	7	advcl	_	_	안/ncn+에서/jca
+7	하는	하+는	VERB	_	8	acl	_	_	하/pvg+는/etm
+8	것이	것+이	NOUN	_	9	nsubj	_	_	것/nbn+이/jcs
+9	좋다	좋+다	ADJ	_	0	root	_	_	좋/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 조금 대담한 마사지법 .
+1	조금	조금	ADV	_	2	advmod	_	_	조금/mag
+2	대담한	대담+하+ㄴ	VERB	_	3	amod	_	_	대담/ncps+하/xsm+ㄴ/etm
+3	마사지법	마사지법	NOUN	_	0	root	_	_	마사지법/ncn
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 정종도 화장수로 사용할 만큼 혈행을 좋게 하며 피부를 매끄럽게 한다 .
+1	정종도	정종+도	ADV	_	3	advcl	_	_	정종/ncn+도/jxc
+2	화장수로	화장수+로	ADV	_	3	advcl	_	_	화장수/ncn+로/jca
+3	사용할	사용+하+ㄹ	VERB	_	4	acl	_	_	사용/ncpa+하/xsv+ㄹ/etm
+4	만큼	만큼	NOUN	_	9	mark	_	_	만큼/nbn
+5	혈행을	혈행+을	NOUN	_	6	obj	_	_	혈행/ncn+을/jco
+6	좋게	좋+게	ADJ	_	9	conj	_	_	좋/paa+게/ecx
+7	하며	하+며	CCONJ	_	6	aux	_	_	하/px+며/ecc
+8	피부를	피부+를	NOUN	_	9	obj	_	_	피부/ncn+를/jco
+9	매끄럽게	매끄럽+게	ADJ	_	0	root	_	_	매끄럽/paa+게/ecx
+10	한다	하+ㄴ다	AUX	_	9	aux	_	_	하/px+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 꿀로 묵은 피부를 벗겨 낸다 .
+1	꿀로	꿀+로	ADV	_	4	advcl	_	_	꿀/ncn+로/jca
+2	묵은	묵+ㄴ	VERB	_	3	acl	_	_	묵/pvg+ㄴ/etm
+3	피부를	피부+를	NOUN	_	4	obj	_	_	피부/ncn+를/jco
+4	벗겨	벗기+어	VERB	_	0	root	_	_	벗기/pvg+어/ecx
+5	낸다	내+ㄴ다	AUX	_	4	aux	_	_	내/px+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 꿀은 그 효과가 뛰어나다 .
+1	꿀은	꿀+은	NOUN	_	4	dislocated	_	_	꿀/ncn+은/jxt
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	효과가	효과+가	NOUN	_	4	nsubj	_	_	효과/ncn+가/jcs
+4	뛰어나다	뛰어나+다	VERB	_	0	root	_	_	뛰어나/pvg+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 땟물 벗기는 데 최고다 .
+1	땟물	땟물	NOUN	_	2	dep	_	_	땟물/ncn
+2	벗기는	벗기+는	VERB	_	3	acl	_	_	벗기/pvg+는/etm
+3	데	데	NOUN	_	4	advmod	_	_	데/nbn
+4	최고다	최고+이+다	VERB	_	0	root	_	_	최고/ncn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 아름다운 피부가 되살아난다 .
+1	아름다운	아름답+ㄴ	ADJ	_	2	amod	_	_	아름답/paa+ㄴ/etm
+2	피부가	피부+가	NOUN	_	3	nsubj	_	_	피부/ncn+가/jcs
+3	되살아난다	되살+아+나+ㄴ다	AUX	_	0	root	_	_	되살/pvg+아/ecx+나/px+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 재료를 마요네즈 정도의 끈기가 날 때까지 섞는다 .
+1	재료를	재료+를	NOUN	_	7	obj	_	_	재료/ncn+를/jco
+2	마요네즈	마요네즈	NOUN	_	3	compound	_	_	마요네즈/ncn
+3	정도의	정도+의	NOUN	_	4	nmod	_	_	정도/ncn+의/jcm
+4	끈기가	끈기+가	NOUN	_	5	nsubj	_	_	끈기/ncn+가/jcs
+5	날	나+ㄹ	VERB	_	6	acl	_	_	나/pvg+ㄹ/etm
+6	때까지	때+까지	ADV	_	7	advcl	_	_	때/ncn+까지/jxc
+7	섞는다	섞+는다	VERB	_	0	root	_	_	섞/pvg+는다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이것을 가제에 듬뿍 발라서 얼굴 위에 얹는다 .
+1	이것을	이것+을	PRON	_	7	obj	_	_	이것/npd+을/jco
+2	가제에	가제+에	ADV	_	4	obl	_	_	가제/ncn+에/jca
+3	듬뿍	듬뿍	ADV	_	4	advmod	_	_	듬뿍/mag
+4	발라서	바르+아서	SCONJ	_	7	ccomp	_	_	바르/pvg+아서/ecs
+5	얼굴	얼굴	NOUN	_	6	compound	_	_	얼굴/ncn
+6	위에	위+에	ADV	_	7	obl	_	_	위/ncn+에/jca
+7	얹는다	얹+는다	VERB	_	0	root	_	_	얹/pvg+는다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 미지근한 물로 씻어 내고 영양분을 보급한다 .
+1	미지근한	미지근하+ㄴ	ADJ	_	2	amod	_	_	미지근하/paa+ㄴ/etm
+2	물로	물+로	ADV	_	3	advcl	_	_	물/ncn+로/jca
+3	씻어	씻+어	VERB	_	6	conj	_	_	씻/pvg+어/ecx
+4	내고	내+고	CCONJ	_	3	aux	_	_	내/px+고/ecc
+5	영양분을	영양분+을	NOUN	_	6	obj	_	_	영양분/ncn+을/jco
+6	보급한다	보급+하+ㄴ다	VERB	_	0	root	_	_	보급/ncpa+하/xsv+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 잘 섞어 세안한 얼굴에 바른다 .
+1	잘	잘	ADV	_	2	advmod	_	_	잘/mag
+2	섞어	섞+어	SCONJ	_	5	ccomp	_	_	섞/pvg+어/ecs
+3	세안한	세안+하+ㄴ	VERB	_	4	acl	_	_	세안/ncpa+하/xsv+ㄴ/etm
+4	얼굴에	얼굴+에	ADV	_	5	obl	_	_	얼굴/ncn+에/jca
+5	바른다	바르+ㄴ다	VERB	_	0	root	_	_	바르/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 꿀에도 식초에도 살균력이 강하므로 , 얼굴에 여드름이나 작은 종기 같은 트러블이 있는 사람에게 권한다 .
+1	꿀에도	꿀+에+도	ADV	_	2	advcl	_	_	꿀/ncn+에/jca+도/jxc
+2	식초에도	식초+에+도	ADV	_	4	advmod	_	_	식초/ncn+에/jca+도/jxc
+3	살균력이	살균력+이	NOUN	_	4	nsubj	_	_	살균력/ncn+이/jcs
+4	강하므로	강하+므로	SCONJ	_	14	xcomp	_	_	강하/paa+므로/ecs
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	얼굴에	얼굴+에	ADV	_	12	obl	_	_	얼굴/ncn+에/jca
+7	여드름이나	여드름+이나	CCONJ	_	9	conj	_	_	여드름/ncn+이나/jcj
+8	작은	작+ㄴ	ADJ	_	9	amod	_	_	작/paa+ㄴ/etm
+9	종기	종기	NOUN	_	10	dep	_	_	종기/ncn
+10	같은	같+ㄴ	ADJ	_	11	amod	_	_	같/paa+ㄴ/etm
+11	트러블이	트러블+이	NOUN	_	12	nsubj	_	_	트러블/ncn+이/jcs
+12	있는	있+는	ADJ	_	13	amod	_	_	있/paa+는/etm
+13	사람에게	사람+에게	ADV	_	14	iobj	_	_	사람/ncn+에게/jca
+14	권한다	권하+ㄴ다	VERB	_	0	root	_	_	권하/pvg+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 아보카도는 잘 씻어 으깬다 .
+1	아보카도는	아보카도+는	NOUN	_	4	dislocated	_	_	아보카도/ncn+는/jxt
+2	잘	잘	ADV	_	3	advmod	_	_	잘/mag
+3	씻어	씻+어	SCONJ	_	4	ccomp	_	_	씻/pvg+어/ecs
+4	으깬다	으깨+ㄴ다	VERB	_	0	root	_	_	으깨/pvg+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 꿀을 섞어 얼굴 크기로 자른 가제에 발라서 얼굴에 얹는다 .
+1	꿀을	꿀+을	NOUN	_	2	obj	_	_	꿀/ncn+을/jco
+2	섞어	섞+어	SCONJ	_	7	ccomp	_	_	섞/pvg+어/ecs
+3	얼굴	얼굴	NOUN	_	4	compound	_	_	얼굴/ncn
+4	크기로	크기+로	ADV	_	5	advcl	_	_	크기/ncn+로/jca
+5	자른	자르+ㄴ	VERB	_	6	acl	_	_	자르/pvg+ㄴ/etm
+6	가제에	가제+에	ADV	_	7	obl	_	_	가제/ncn+에/jca
+7	발라서	바르+아서	SCONJ	_	9	ccomp	_	_	바르/pvg+아서/ecs
+8	얼굴에	얼굴+에	ADV	_	9	obl	_	_	얼굴/ncn+에/jca
+9	얹는다	얹+는다	VERB	_	0	root	_	_	얹/pvg+는다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 미지근한 물로 씻는다 .
+1	미지근한	미지근하+ㄴ	ADJ	_	2	amod	_	_	미지근하/paa+ㄴ/etm
+2	물로	물+로	ADV	_	3	advcl	_	_	물/ncn+로/jca
+3	씻는다	씻+는다	VERB	_	0	root	_	_	씻/pvg+는다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 꿀 팩으로 겨울철 피부를 가꾼다 .
+1	꿀	꿀	NOUN	_	2	compound	_	_	꿀/ncn
+2	팩으로	팩+으로	ADV	_	5	advcl	_	_	팩/ncn+으로/jca
+3	겨울철	겨울철	NOUN	_	4	compound	_	_	겨울철/ncn
+4	피부를	피부+를	NOUN	_	5	obj	_	_	피부/ncn+를/jco
+5	가꾼다	가꾸+ㄴ다	VERB	_	0	root	_	_	가꾸/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 겨울철에는 차가운 바람 등으로 피부가 가장 건조해지기 쉽다 .
+1	겨울철에는	겨울철+에+는	NOUN	_	8	dislocated	_	_	겨울철/ncn+에/jca+는/jxt
+2	차가운	차갑+ㄴ	ADJ	_	3	amod	_	_	차갑/paa+ㄴ/etm
+3	바람	바람	NOUN	_	4	compound	_	_	바람/ncn
+4	등으로	등+으로	ADV	_	7	advcl	_	_	등/nbn+으로/jca
+5	피부가	피부+가	NOUN	_	7	nsubj	_	_	피부/ncn+가/jcs
+6	가장	가장	ADV	_	7	advmod	_	_	가장/mag
+7	건조해지기	건조+하+어+지+기	AUX	_	8	nmod	_	_	건조/ncps+하/xsm+어/ecx+지/px+기/etn
+8	쉽다	쉽+다	ADJ	_	0	root	_	_	쉽/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이 팩은 목욕한 후나 스팀 타월로 찜질한 다음 하면 더욱 효과적이다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	팩은	팩+은	NOUN	_	3	dislocated	_	_	팩/ncn+은/jxt
+3	목욕한	목욕+하+ㄴ	VERB	_	4	acl	_	_	목욕/ncpa+하/xsv+ㄴ/etm
+4	후나	후+나	CCONJ	_	8	conj	_	_	후/ncn+나/jcj
+5	스팀	스팀	NOUN	_	6	compound	_	_	스팀/ncn
+6	타월로	타월+로	ADV	_	7	advcl	_	_	타월/ncn+로/jca
+7	찜질한	찜질+하+ㄴ	VERB	_	8	acl	_	_	찜질/ncpa+하/xsv+ㄴ/etm
+8	다음	다음	NOUN	_	9	dep	_	_	다음/ncn
+9	하면	하+면	SCONJ	_	11	ccomp	_	_	하/pvg+면/ecs
+10	더욱	더욱	ADV	_	11	advmod	_	_	더욱/mag
+11	효과적이다	효과+적+이+다	VERB	_	0	root	_	_	효과/ncn+적/xsn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 피곤하여 윤기 없는 피부에 탄력과 활력을 되돌려 준다 .
+1	피곤하여	피곤+하+어	SCONJ	_	3	xcomp	_	_	피곤/ncps+하/xsm+어/ecs
+2	윤기	윤기	NOUN	_	3	dep	_	_	윤기/ncn
+3	없는	없+는	ADJ	_	4	amod	_	_	없/paa+는/etm
+4	피부에	피부+에	ADV	_	7	obl	_	_	피부/ncn+에/jca
+5	탄력과	탄력+과	CCONJ	_	6	conj	_	_	탄력/ncn+과/jcj
+6	활력을	활력+을	NOUN	_	7	obj	_	_	활력/ncn+을/jco
+7	되돌려	되돌리+어	VERB	_	0	root	_	_	되돌리/pvg+어/ecx
+8	준다	주+ㄴ다	AUX	_	7	aux	_	_	주/px+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 지극히 간단한 팩이지만 효과가 놀랍다 .
+1	지극히	지극히	ADV	_	2	advmod	_	_	지극히/mag
+2	간단한	간단+하+ㄴ	VERB	_	3	amod	_	_	간단/ncps+하/xsm+ㄴ/etm
+3	팩이지만	팩+이+지만	SCONJ	_	5	conj	_	_	팩/ncn+이/jp+지만/ecs
+4	효과가	효과+가	NOUN	_	5	nsubj	_	_	효과/ncn+가/jcs
+5	놀랍다	놀랍+다	ADJ	_	0	root	_	_	놀랍/paa+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 꿀과 올리브유를 같은 양으로 화장품 빈 병에 넣은 후 냉장고에 보관하면 된다 .
+1	꿀과	꿀+과	CCONJ	_	2	conj	_	_	꿀/ncn+과/jcj
+2	올리브유를	올리브유+를	NOUN	_	8	obj	_	_	올리브유/ncn+를/jco
+3	같은	같+ㄴ	ADJ	_	4	amod	_	_	같/paa+ㄴ/etm
+4	양으로	양+으로	ADV	_	8	advcl	_	_	양/ncn+으로/jca
+5	화장품	화장품	NOUN	_	7	compound	_	_	화장품/ncn
+6	빈	비+ㄴ	ADJ	_	7	amod	_	_	비/paa+ㄴ/etm
+7	병에	병+에	ADV	_	8	obl	_	_	병/ncn+에/jca
+8	넣은	넣+ㄴ	VERB	_	9	acl	_	_	넣/pvg+ㄴ/etm
+9	후	후	NOUN	_	11	advmod	_	_	후/ncn
+10	냉장고에	냉장고+에	ADV	_	11	obl	_	_	냉장고/ncn+에/jca
+11	보관하면	보관+하+면	SCONJ	_	12	ccomp	_	_	보관/ncpa+하/xsv+면/ecs
+12	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 사용하기 전 흔들어서 내용물이 잘 섞이게 한다 .
+1	사용하기	사용+하+기	VERB	_	2	nmod	_	_	사용/ncpa+하/xsv+기/etn
+2	전	전	NOUN	_	3	dep	_	_	전/ncn
+3	흔들어서	흔들+어서	SCONJ	_	6	ccomp	_	_	흔들/pvg+어서/ecs
+4	내용물이	내용물+이	NOUN	_	6	nsubj	_	_	내용물/ncn+이/jcs
+5	잘	잘	ADV	_	6	advmod	_	_	잘/mag
+6	섞이게	섞이+게	VERB	_	0	root	_	_	섞이/pvg+게/ecx
+7	한다	하+ㄴ다	AUX	_	6	aux	_	_	하/px+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 양질의 단백질과 칼슘 , 꿀의 비타민 , 미네랄이 합쳐진 영양 밸런스가 뛰어난 음료 .
+1	양질의	양질+의	NOUN	_	2	nmod	_	_	양질/ncn+의/jcm
+2	단백질과	단백질+과	CCONJ	_	3	conj	_	_	단백질/ncn+과/jcj
+3	칼슘	칼슘	NOUN	_	6	conj	_	_	칼슘/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	꿀의	꿀+의	NOUN	_	6	nmod	_	_	꿀/ncn+의/jcm
+6	비타민	비타민	NOUN	_	8	conj	_	_	비타민/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	미네랄이	미네랄+이	NOUN	_	9	nsubj	_	_	미네랄/ncn+이/jcs
+9	합쳐진	합치+어+지+ㄴ	AUX	_	13	acl	_	_	합치/pvg+어/ecx+지/px+ㄴ/etm
+10	영양	영양	NOUN	_	11	compound	_	_	영양/ncn
+11	밸런스가	밸런스+가	NOUN	_	12	nsubj	_	_	밸런스/ncn+가/jcs
+12	뛰어난	뛰어나+ㄴ	VERB	_	13	acl	_	_	뛰어나/pvg+ㄴ/etm
+13	음료	음료	NOUN	_	0	root	_	_	음료/ncn
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 재료를 합쳐 믹서에 돌리면 훌륭한 영양 음료가 된다 .
+1	재료를	재료+를	NOUN	_	2	obj	_	_	재료/ncn+를/jco
+2	합쳐	합치+어	SCONJ	_	4	ccomp	_	_	합치/pvg+어/ecs
+3	믹서에	믹서+에	ADV	_	4	obl	_	_	믹서/ncn+에/jca
+4	돌리면	돌리+면	SCONJ	_	8	ccomp	_	_	돌리/pvg+면/ecs
+5	훌륭한	훌륭+하+ㄴ	VERB	_	7	amod	_	_	훌륭/ncps+하/xsm+ㄴ/etm
+6	영양	영양	NOUN	_	7	compound	_	_	영양/ncn
+7	음료가	음료+가	NOUN	_	8	csubj	_	_	음료/ncn+가/jcc
+8	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 감기와 불면증에 효과가 매우 크다 .
+1	감기와	감기+와	CCONJ	_	2	conj	_	_	감기/ncn+와/jcj
+2	불면증에	불면증+에	ADV	_	5	obl	_	_	불면증/ncn+에/jca
+3	효과가	효과+가	NOUN	_	5	nsubj	_	_	효과/ncn+가/jcs
+4	매우	매우	ADV	_	5	advmod	_	_	매우/mag
+5	크다	크+다	ADJ	_	0	root	_	_	크/paa+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 감기나 냉한 증세를 개선시켜 준다 .
+1	감기나	감기+나	CCONJ	_	3	conj	_	_	감기/ncn+나/jcj
+2	냉한	냉하+ㄴ	ADJ	_	3	amod	_	_	냉하/paa+ㄴ/etm
+3	증세를	증세+를	NOUN	_	4	obj	_	_	증세/ncn+를/jco
+4	개선시켜	개선+시키+어	VERB	_	0	root	_	_	개선/ncpa+시키/xsv+어/ecx
+5	준다	주+ㄴ다	AUX	_	4	aux	_	_	주/px+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 생강은 껍질을 벗겨 엷게 저민다 .
+1	생강은	생강+은	NOUN	_	5	dislocated	_	_	생강/ncn+은/jxt
+2	껍질을	껍질+을	NOUN	_	3	obj	_	_	껍질/ncn+을/jco
+3	벗겨	벗기+어	SCONJ	_	5	ccomp	_	_	벗기/pvg+어/ecs
+4	엷게	엷+게	SCONJ	_	5	ccomp	_	_	엷/pvg+게/ecs
+5	저민다	저미+ㄴ다	VERB	_	0	root	_	_	저미/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 열탕으로 엷게 희석해서 마시도록 한다 .
+1	열탕으로	열탕+으로	ADV	_	3	advcl	_	_	열탕/ncn+으로/jca
+2	엷게	엷+게	SCONJ	_	3	ccomp	_	_	엷/pvg+게/ecs
+3	희석해서	희석+하+어서	SCONJ	_	4	ccomp	_	_	희석/ncpa+하/xsv+어서/ecs
+4	마시도록	마시+도록	SCONJ	_	5	ccomp	_	_	마시/pvg+도록/ecs
+5	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 꿀은 침투력이 매우 높다 .
+1	꿀은	꿀+은	NOUN	_	4	dislocated	_	_	꿀/ncn+은/jxt
+2	침투력이	침투력+이	NOUN	_	4	nsubj	_	_	침투력/ncn+이/jcs
+3	매우	매우	ADV	_	4	advmod	_	_	매우/mag
+4	높다	높+다	ADJ	_	0	root	_	_	높/paa+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 과실주를 담글 때 이용하면 매우 좋다 .
+1	과실주를	과실주+를	NOUN	_	2	obj	_	_	과실주/ncn+를/jco
+2	담글	담그+ㄹ	VERB	_	3	acl	_	_	담그/pvg+ㄹ/etm
+3	때	때	NOUN	_	4	compound	_	_	때/ncn
+4	이용하면	이용+하+면	SCONJ	_	6	conj	_	_	이용/ncpa+하/xsv+면/ecs
+5	매우	매우	ADV	_	6	advmod	_	_	매우/mag
+6	좋다	좋+다	ADJ	_	0	root	_	_	좋/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 특히 알로에 꿀술은 위장을 튼튼히 해주며 변비에 효과적이다 .
+1	특히	특히	ADV	_	8	advmod	_	_	특히/mag
+2	알로에	알로에	NOUN	_	3	compound	_	_	알로에/ncn
+3	꿀술은	꿀술+은	NOUN	_	6	dislocated	_	_	꿀술/ncn+은/jxt
+4	위장을	위장+을	NOUN	_	6	obj	_	_	위장/ncpa+을/jco
+5	튼튼히	튼튼히	ADV	_	6	advmod	_	_	튼튼히/mag
+6	해주며	하+어+주+며	CCONJ	_	8	conj	_	_	하/pvg+어/ecx+주/px+며/ecc
+7	변비에	변비+에	ADV	_	8	obl	_	_	변비/ncn+에/jca
+8	효과적이다	효과+적+이+다	VERB	_	0	root	_	_	효과/ncn+적/xsn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 꿀 , 소주를 병에 넣는다 .
+1	꿀	꿀	NOUN	_	3	conj	_	_	꿀/ncn
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	소주를	소주+를	NOUN	_	5	obj	_	_	소주/ncn+를/jco
+4	병에	병+에	ADV	_	5	obl	_	_	병/ncn+에/jca
+5	넣는다	넣+는다	VERB	_	0	root	_	_	넣/pvg+는다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 알로에는 그대로 두고 사용해도 좋다 .
+1	알로에는	알로에+는	NOUN	_	5	dislocated	_	_	알로에/ncn+는/jxt
+2	그대로	그대로	ADV	_	3	advmod	_	_	그대로/mag
+3	두고	두+고	SCONJ	_	4	ccomp	_	_	두/pvg+고/ecs
+4	사용해도	사용+하+어도	SCONJ	_	5	conj	_	_	사용/ncpa+하/xsv+어도/ecs
+5	좋다	좋+다	ADJ	_	0	root	_	_	좋/paa+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 건조한 피부엔 탄력과 윤기를 주는 수세미즙의 천연 보습제를 사용한다 .
+1	건조한	건조+하+ㄴ	VERB	_	2	amod	_	_	건조/ncps+하/xsm+ㄴ/etm
+2	피부엔	피부+에+ㄴ	NOUN	_	9	dislocated	_	_	피부/ncn+에/jca+ㄴ/jxt
+3	탄력과	탄력+과	CCONJ	_	4	conj	_	_	탄력/ncn+과/jcj
+4	윤기를	윤기+를	NOUN	_	5	obj	_	_	윤기/ncn+를/jco
+5	주는	주+는	VERB	_	8	acl	_	_	주/pvg+는/etm
+6	수세미즙의	수세미즙+의	NOUN	_	8	nmod	_	_	수세미즙/ncn+의/jcm
+7	천연	천연	NOUN	_	8	compound	_	_	천연/ncn
+8	보습제를	보습제+를	NOUN	_	9	obj	_	_	보습제/ncn+를/jco
+9	사용한다	사용+하+ㄴ다	VERB	_	0	root	_	_	사용/ncpa+하/xsv+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 수세미 즙은 피부를 부드럽게 만들어 준다 .
+1	수세미	수세미	NOUN	_	2	compound	_	_	수세미/ncn
+2	즙은	즙+은	NOUN	_	5	dislocated	_	_	즙/ncn+은/jxt
+3	피부를	피부+를	NOUN	_	5	obj	_	_	피부/ncn+를/jco
+4	부드럽게	부드럽+게	SCONJ	_	5	xcomp	_	_	부드럽/paa+게/ecs
+5	만들어	만들+어	VERB	_	0	root	_	_	만들/pvg+어/ecx
+6	준다	주+ㄴ다	AUX	_	5	aux	_	_	주/px+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 손바닥에 세안제를 묻힌 다음 수세미 즙으로 잘 섞는다 .
+1	손바닥에	손바닥+에	ADV	_	3	obl	_	_	손바닥/ncn+에/jca
+2	세안제를	세안제+를	NOUN	_	3	obj	_	_	세안제/ncn+를/jco
+3	묻힌	묻히+ㄴ	VERB	_	4	acl	_	_	묻히/pvg+ㄴ/etm
+4	다음	다음	NOUN	_	8	advmod	_	_	다음/ncn
+5	수세미	수세미	NOUN	_	6	compound	_	_	수세미/ncn
+6	즙으로	즙+으로	ADV	_	8	advcl	_	_	즙/ncn+으로/jca
+7	잘	잘	ADV	_	8	advmod	_	_	잘/mag
+8	섞는다	섞+는다	VERB	_	0	root	_	_	섞/pvg+는다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이것을 얼굴에 고루 고루 문질러 주며 씻어 낸다 .
+1	이것을	이것+을	PRON	_	5	obj	_	_	이것/npd+을/jco
+2	얼굴에	얼굴+에	ADV	_	5	obl	_	_	얼굴/ncn+에/jca
+3	고루	고루	ADV	_	5	advmod	_	_	고루/mag
+4	고루	고루	ADV	_	3	advmod	_	_	고루/mag
+5	문질러	문지르+어	VERB	_	7	ccomp	_	_	문지르/pvg+어/ecx
+6	주며	주+며	SCONJ	_	5	aux	_	_	주/px+며/ecs
+7	씻어	씻+어	VERB	_	0	root	_	_	씻/pvg+어/ecx
+8	낸다	내+ㄴ다	AUX	_	7	aux	_	_	내/px+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 물을 듬뿍 사용해 씻어 낸다 .
+1	물을	물+을	NOUN	_	3	obj	_	_	물/ncn+을/jco
+2	듬뿍	듬뿍	ADV	_	3	advmod	_	_	듬뿍/mag
+3	사용해	사용+하+어	SCONJ	_	4	ccomp	_	_	사용/ncpa+하/xsv+어/ecs
+4	씻어	씻+어	VERB	_	0	root	_	_	씻/pvg+어/ecx
+5	낸다	내+ㄴ다	AUX	_	4	aux	_	_	내/px+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 마지막 헹굴 때는 물을 얼굴에 끼얹으면서 톡톡 두드려주는 패팅법을 이용하면 얼굴이 촉촉해지고 탄력 있는 고운 피부가 된다 .
+1	마지막	마지막	NOUN	_	2	dep	_	_	마지막/ncn
+2	헹굴	헹구+ㄹ	VERB	_	3	acl	_	_	헹구/pvg+ㄹ/etm
+3	때는	때+는	NOUN	_	10	dislocated	_	_	때/ncn+는/jxt
+4	물을	물+을	NOUN	_	6	obj	_	_	물/ncn+을/jco
+5	얼굴에	얼굴+에	ADV	_	6	obl	_	_	얼굴/ncn+에/jca
+6	끼얹으면서	끼얹+으면서	SCONJ	_	10	ccomp	_	_	끼얹/pvg+으면서/ecs
+7	톡톡	톡톡	ADV	_	8	advmod	_	_	톡톡/mag
+8	두드려주는	두드리+어+주+는	AUX	_	9	acl	_	_	두드리/pvg+어/ecx+주/px+는/etm
+9	패팅법을	패팅법+을	NOUN	_	10	obj	_	_	패팅법/ncn+을/jco
+10	이용하면	이용+하+면	SCONJ	_	17	ccomp	_	_	이용/ncpa+하/xsv+면/ecs
+11	얼굴이	얼굴+이	NOUN	_	12	nsubj	_	_	얼굴/ncn+이/jcs
+12	촉촉해지고	촉촉+하+어+지+고	CCONJ	_	17	conj	_	_	촉촉/ncps+하/xsm+어/ecx+지/px+고/ecc
+13	탄력	탄력	NOUN	_	14	dep	_	_	탄력/ncn
+14	있는	있+는	ADJ	_	16	amod	_	_	있/paa+는/etm
+15	고운	곱+ㄴ	ADJ	_	16	amod	_	_	곱/paa+ㄴ/etm
+16	피부가	피부+가	NOUN	_	17	csubj	_	_	피부/ncn+가/jcc
+17	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 수세미 즙은 자외선을 차단시켜 손상된 피부를 빠르게 회복시켜 준다 .
+1	수세미	수세미	NOUN	_	2	compound	_	_	수세미/ncn
+2	즙은	즙+은	NOUN	_	8	dislocated	_	_	즙/ncn+은/jxt
+3	자외선을	자외선+을	NOUN	_	4	obj	_	_	자외선/ncn+을/jco
+4	차단시켜	차단+시키+어	SCONJ	_	8	ccomp	_	_	차단/ncpa+시키/xsv+어/ecs
+5	손상된	손상+되+ㄴ	VERB	_	6	acl	_	_	손상/ncpa+되/xsv+ㄴ/etm
+6	피부를	피부+를	NOUN	_	8	obj	_	_	피부/ncn+를/jco
+7	빠르게	빠르+게	SCONJ	_	8	xcomp	_	_	빠르/paa+게/ecs
+8	회복시켜	회복+시키+어	VERB	_	0	root	_	_	회복/ncpa+시키/xsv+어/ecx
+9	준다	주+ㄴ다	AUX	_	8	aux	_	_	주/px+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 샴푸하기 전에 사용한다 .
+1	샴푸하기	샴푸+하+기	VERB	_	2	nmod	_	_	샴푸/ncpa+하/xsv+기/etn
+2	전에	전+에	ADV	_	3	obl	_	_	전/ncn+에/jca
+3	사용한다	사용+하+ㄴ다	VERB	_	0	root	_	_	사용/ncpa+하/xsv+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 위 재료를 머리 밑에 고루 문질러 바르고 욕탕에 들어갔다 .
+1	위	위	NOUN	_	2	compound	_	_	위/ncn
+2	재료를	재료+를	NOUN	_	7	obj	_	_	재료/ncn+를/jco
+3	머리	머리	NOUN	_	4	compound	_	_	머리/ncn
+4	밑에	밑+에	ADV	_	7	obl	_	_	밑/ncn+에/jca
+5	고루	고루	ADV	_	6	advmod	_	_	고루/mag
+6	문질러	문지르+어	SCONJ	_	7	ccomp	_	_	문지르/pvg+어/ecs
+7	바르고	바르+고	CCONJ	_	9	conj	_	_	바르/pvg+고/ecc
+8	욕탕에	욕탕+에	ADV	_	9	obl	_	_	욕탕/ncn+에/jca
+9	들어갔다	들어가+ㅆ+다	VERB	_	0	root	_	_	들어가/pvg+ㅆ/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 나온 후 샴푸한다 .
+1	나온	나오+ㄴ	VERB	_	2	acl	_	_	나오/pvg+ㄴ/etm
+2	후	후	NOUN	_	3	compound	_	_	후/ncn
+3	샴푸한다	샴푸+하+ㄴ다	VERB	_	0	root	_	_	샴푸/ncpa+하/xsv+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 수세미 즙을 냉장고에 넣어 차게 식힌다 .
+1	수세미	수세미	NOUN	_	2	compound	_	_	수세미/ncn
+2	즙을	즙+을	NOUN	_	6	obj	_	_	즙/ncn+을/jco
+3	냉장고에	냉장고+에	ADV	_	4	obl	_	_	냉장고/ncn+에/jca
+4	넣어	넣+어	SCONJ	_	6	ccomp	_	_	넣/pvg+어/ecs
+5	차게	차+게	SCONJ	_	6	xcomp	_	_	차/paa+게/ecs
+6	식힌다	식히+다	VERB	_	0	root	_	_	식히/pvg+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 수세미 즙을 듬뿍 적신 화장 솜을 눈 위에 놓고 가볍게 눌러 준다 .
+1	수세미	수세미	NOUN	_	2	compound	_	_	수세미/ncn
+2	즙을	즙+을	NOUN	_	4	obj	_	_	즙/ncn+을/jco
+3	듬뿍	듬뿍	ADV	_	4	advmod	_	_	듬뿍/mag
+4	적신	적시+ㄴ	VERB	_	6	acl	_	_	적시/pvg+ㄴ/etm
+5	화장	화장	NOUN	_	6	compound	_	_	화장/ncn
+6	솜을	솜+을	NOUN	_	11	obj	_	_	솜/ncn+을/jco
+7	눈	눈	NOUN	_	8	compound	_	_	눈/ncn
+8	위에	위+에	ADV	_	9	obl	_	_	위/ncn+에/jca
+9	놓고	놓+고	CCONJ	_	11	conj	_	_	놓/pvg+고/ecc
+10	가볍게	가볍+게	SCONJ	_	11	xcomp	_	_	가볍/paa+게/ecs
+11	눌러	누르+어	VERB	_	0	root	_	_	누르/pvg+어/ecx
+12	준다	주+ㄴ다	AUX	_	11	aux	_	_	주/px+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 양쪽 볼과 이마 , 턱 등 넓은 부위에는 화장 솜으로 잘 두드린다 .
+1	양쪽	양쪽	NOUN	_	2	compound	_	_	양쪽/ncn
+2	볼과	볼+과	CCONJ	_	5	conj	_	_	볼/ncn+과/jcj
+3	이마	이마	NOUN	_	5	conj	_	_	이마/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	턱	턱	NOUN	_	6	compound	_	_	턱/ncn
+6	등	등	NOUN	_	8	mark	_	_	등/nbn
+7	넓은	넓+ㄴ	ADJ	_	8	amod	_	_	넓/paa+ㄴ/etm
+8	부위에는	부위+에+는	NOUN	_	12	dislocated	_	_	부위/ncn+에/jca+는/jxt
+9	화장	화장	NOUN	_	10	compound	_	_	화장/ncn
+10	솜으로	솜+으로	ADV	_	12	advcl	_	_	솜/ncn+으로/jca
+11	잘	잘	ADV	_	12	advmod	_	_	잘/mag
+12	두드린다	두드리+ㄴ다	VERB	_	0	root	_	_	두드리/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 코 주변은 잘 닦아내듯이 바른다 .
+1	코	코	NOUN	_	2	compound	_	_	코/ncn
+2	주변은	주변+은	NOUN	_	5	dislocated	_	_	주변/ncn+은/jxt
+3	잘	잘	ADV	_	4	advmod	_	_	잘/mag
+4	닦아내듯이	닦+아+내+듯이	SCONJ	_	5	ccomp	_	_	닦/pvg+아/ecx+내/px+듯이/ecs
+5	바른다	바르+ㄴ다	VERB	_	0	root	_	_	바르/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 물이 식으면 따뜻한 물을 부어준다 .
+1	물이	물+이	NOUN	_	2	nsubj	_	_	물/ncn+이/jcs
+2	식으면	식+으면	SCONJ	_	5	ccomp	_	_	식/pvg+으면/ecs
+3	따뜻한	따뜻하+ㄴ	ADJ	_	4	amod	_	_	따뜻하/paa+ㄴ/etm
+4	물을	물+을	NOUN	_	5	obj	_	_	물/ncn+을/jco
+5	부어준다	붓+어+주+ㄴ다	AUX	_	0	root	_	_	붓/pvg+어/ecx+주/px+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 팔의 바깥 쪽 , 발뒤꿈치 , 엉덩이 부분에도 마사지한다 .
+1	팔의	팔+의	NOUN	_	2	nmod	_	_	팔/ncn+의/jcm
+2	바깥	바깥	NOUN	_	3	compound	_	_	바깥/ncn
+3	쪽	쪽	NOUN	_	8	compound	_	_	쪽/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	발뒤꿈치	발뒤꿈치	NOUN	_	8	compound	_	_	발뒤꿈치/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	엉덩이	엉덩이	NOUN	_	8	compound	_	_	엉덩이/ncn
+8	부분에도	부분+에+도	ADV	_	9	advcl	_	_	부분/ncn+에/jca+도/jxc
+9	마사지한다	마사지+하+ㄴ다	VERB	_	0	root	_	_	마사지/ncpa+하/xsv+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 마사지한 후에는 잘 씻어 내고 유액으로 보호한다 .
+1	마사지한	마사지+하+ㄴ	VERB	_	2	acl	_	_	마사지/ncpa+하/xsv+ㄴ/etm
+2	후에는	후+에+는	NOUN	_	7	dislocated	_	_	후/ncn+에/jca+는/jxt
+3	잘	잘	ADV	_	4	advmod	_	_	잘/mag
+4	씻어	씻+어	VERB	_	7	conj	_	_	씻/pvg+어/ecx
+5	내고	내+고	CCONJ	_	4	aux	_	_	내/px+고/ecc
+6	유액으로	유액+으로	ADV	_	7	advcl	_	_	유액/ncn+으로/jca
+7	보호한다	보호+하+ㄴ다	VERB	_	0	root	_	_	보호/ncpa+하/xsv+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 팔꿈치 , 무릎 등 피부가 딱딱해지기 쉬운 부분에는 수세미 즙에다 유액을 섞어 사용하는 것이 효과적이다 .
+1	팔꿈치	팔꿈치	NOUN	_	3	conj	_	_	팔꿈치/ncn
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	무릎	무릎	NOUN	_	4	compound	_	_	무릎/ncn
+4	등	등	NOUN	_	8	mark	_	_	등/nbn
+5	피부가	피부+가	NOUN	_	6	nsubj	_	_	피부/ncn+가/jcs
+6	딱딱해지기	딱딱+하+어+지+기	AUX	_	7	nmod	_	_	딱딱/ncps+하/xsm+어/ecx+지/px+기/etn
+7	쉬운	쉽+ㄴ	ADJ	_	8	amod	_	_	쉽/paa+ㄴ/etm
+8	부분에는	부분+에+는	NOUN	_	13	dislocated	_	_	부분/ncn+에/jca+는/jxt
+9	수세미	수세미	NOUN	_	10	compound	_	_	수세미/ncn
+10	즙에다	즙+에다	ADV	_	12	advcl	_	_	즙/ncn+에다/jca
+11	유액을	유액+을	NOUN	_	12	obj	_	_	유액/ncn+을/jco
+12	섞어	섞+어	SCONJ	_	13	ccomp	_	_	섞/pvg+어/ecs
+13	사용하는	사용+하+는	VERB	_	14	acl	_	_	사용/ncpa+하/xsv+는/etm
+14	것이	것+이	NOUN	_	15	nsubj	_	_	것/nbn+이/jcs
+15	효과적이다	효과+적+이+다	VERB	_	0	root	_	_	효과/ncn+적/xsn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 두 번 하면 효과가 높다 .
+1	두	두	NUM	_	2	nummod	_	_	두/nnc
+2	번	번	NOUN	_	3	dep	_	_	번/nbu
+3	하면	하+면	SCONJ	_	5	conj	_	_	하/pvg+면/ecs
+4	효과가	효과+가	NOUN	_	5	nsubj	_	_	효과/ncn+가/jcs
+5	높다	높+다	ADJ	_	0	root	_	_	높/paa+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 수세미 즙과 미네랄 워터를 반반씩 섞어 냉동실에 넣어 두었다가 가제에 싸서 얼굴에 얹어 팩을 한다 .
+1	수세미	수세미	NOUN	_	2	compound	_	_	수세미/ncn
+2	즙과	즙+과	CCONJ	_	4	conj	_	_	즙/ncn+과/jcj
+3	미네랄	미네랄	NOUN	_	4	compound	_	_	미네랄/ncn
+4	워터를	워터+를	NOUN	_	6	obj	_	_	워터/ncn+를/jco
+5	반반씩	반반+씩	NOUN	_	6	advmod	_	_	반반/ncn+씩/xsn
+6	섞어	섞+어	SCONJ	_	8	ccomp	_	_	섞/pvg+어/ecs
+7	냉동실에	냉동실+에	ADV	_	8	obl	_	_	냉동실/ncn+에/jca
+8	넣어	넣+어	VERB	_	15	conj	_	_	넣/pvg+어/ecx
+9	두었다가	두+었+다가	CCONJ	_	8	aux	_	_	두/px+었/ep+다가/ecc
+10	가제에	가제+에	ADV	_	11	obl	_	_	가제/ncn+에/jca
+11	싸서	싸+서	SCONJ	_	13	ccomp	_	_	싸/pvg+서/ecs
+12	얼굴에	얼굴+에	ADV	_	13	obl	_	_	얼굴/ncn+에/jca
+13	얹어	얹+어	SCONJ	_	15	ccomp	_	_	얹/pvg+어/ecs
+14	팩을	팩+을	NOUN	_	15	obj	_	_	팩/ncn+을/jco
+15	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 찬물에 다시 씻어 내고 가볍게 두드려 준다 .
+1	찬물에	찬물+에	ADV	_	3	obl	_	_	찬물/ncn+에/jca
+2	다시	다시	ADV	_	3	advmod	_	_	다시/mag
+3	씻어	씻+어	VERB	_	6	conj	_	_	씻/pvg+어/ecx
+4	내고	내+고	CCONJ	_	3	aux	_	_	내/px+고/ecc
+5	가볍게	가볍+게	SCONJ	_	6	xcomp	_	_	가볍/paa+게/ecs
+6	두드려	두드리+어	VERB	_	0	root	_	_	두드리/pvg+어/ecx
+7	준다	주+ㄴ다	AUX	_	6	aux	_	_	주/px+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 거기에 밀가루를 섞어 마요네즈보다 약간 진하게 만든다 .
+1	거기에	거기+에	ADV	_	3	obl	_	_	거기/npd+에/jca
+2	밀가루를	밀가루+를	NOUN	_	3	obj	_	_	밀가루/ncn+를/jco
+3	섞어	섞+어	SCONJ	_	7	ccomp	_	_	섞/pvg+어/ecs
+4	마요네즈보다	마요네즈+보다	ADV	_	7	advcl	_	_	마요네즈/ncn+보다/jca
+5	약간	약간	ADV	_	7	advmod	_	_	약간/mag
+6	진하게	진하+게	SCONJ	_	7	xcomp	_	_	진하/paa+게/ecs
+7	만든다	만들+ㄴ다	VERB	_	0	root	_	_	만들/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 눈 , 입 주변을 피해 고루 바른다 .
+1	눈	눈	NOUN	_	3	conj	_	_	눈/ncn
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	입	입	NOUN	_	4	compound	_	_	입/ncn
+4	주변을	주변+을	NOUN	_	5	obj	_	_	주변/ncn+을/jco
+5	피해	피하+어	SCONJ	_	7	ccomp	_	_	피하/pvg+어/ecs
+6	고루	고루	ADV	_	7	advmod	_	_	고루/mag
+7	바른다	바르+ㄴ다	VERB	_	0	root	_	_	바르/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 팩이 마르면 미지근한 물로 씻어 내고 찬물로 다시 헹군다 .
+1	팩이	팩+이	NOUN	_	2	nsubj	_	_	팩/ncn+이/jcs
+2	마르면	마르+면	SCONJ	_	5	ccomp	_	_	마르/pvg+면/ecs
+3	미지근한	미지근하+ㄴ	ADJ	_	4	amod	_	_	미지근하/paa+ㄴ/etm
+4	물로	물+로	ADV	_	5	advcl	_	_	물/ncn+로/jca
+5	씻어	씻+어	VERB	_	9	conj	_	_	씻/pvg+어/ecx
+6	내고	내+고	CCONJ	_	5	aux	_	_	내/px+고/ecc
+7	찬물로	찬물+로	ADV	_	9	advcl	_	_	찬물/ncn+로/jca
+8	다시	다시	ADV	_	9	advmod	_	_	다시/mag
+9	헹군다	헹구+ㄴ다	VERB	_	0	root	_	_	헹구/pvg+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 얼굴만 아니라 목 , 어깨 등도 가볍게 두드려 준다 .
+1	얼굴만	얼굴+만	ADV	_	2	advcl	_	_	얼굴/ncn+만/jxc
+2	아니라	아니+라	SCONJ	_	5	xcomp	_	_	아니/paa+라/ecs
+3	목	목	NOUN	_	5	conj	_	_	목/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	어깨	어깨	NOUN	_	6	compound	_	_	어깨/ncn
+6	등도	등+도	ADV	_	8	advcl	_	_	등/nbn+도/jxc
+7	가볍게	가볍+게	SCONJ	_	8	xcomp	_	_	가볍/paa+게/ecs
+8	두드려	두드리+어	VERB	_	0	root	_	_	두드리/pvg+어/ecx
+9	준다	주+ㄴ다	AUX	_	8	aux	_	_	주/px+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 피부 속으로 스며들어 건조되었다 싶으면 다시 한 번 바르고 패팅하면 효과가 높다 .
+1	피부	피부	NOUN	_	2	compound	_	_	피부/ncn
+2	속으로	속+으로	ADV	_	3	advcl	_	_	속/ncn+으로/jca
+3	스며들어	스며들+어	SCONJ	_	4	ccomp	_	_	스며들/pvg+어/ecs
+4	건조되었다	건조+되+었+다	VERB	_	10	ccomp	_	_	건조/ncpa+되/xsv+었/ep+다/ecx
+5	싶으면	싶+으면	SCONJ	_	4	aux	_	_	싶/px+으면/ecs
+6	다시	다시	ADV	_	9	advmod	_	_	다시/mag
+7	한	한	NUM	_	8	nummod	_	_	한/nnc
+8	번	번	NOUN	_	9	dep	_	_	번/nbu
+9	바르고	바르+고	CCONJ	_	10	conj	_	_	바르/pvg+고/ecc
+10	패팅하면	패팅+하+면	SCONJ	_	12	conj	_	_	패팅/ncpa+하/xsv+면/ecs
+11	효과가	효과+가	NOUN	_	12	nsubj	_	_	효과/ncn+가/jcs
+12	높다	높+다	ADJ	_	0	root	_	_	높/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 우유는 촉촉한 윤기와 희고 고운 살결을 만든다 .
+1	우유는	우유+는	NOUN	_	7	dislocated	_	_	우유/ncn+는/jxt
+2	촉촉한	촉촉+하+ㄴ	VERB	_	3	amod	_	_	촉촉/ncps+하/xsm+ㄴ/etm
+3	윤기와	윤기+와	CCONJ	_	6	conj	_	_	윤기/ncn+와/jcj
+4	희고	희+고	CCONJ	_	5	conj	_	_	희/paa+고/ecc
+5	고운	곱+ㄴ	ADJ	_	6	amod	_	_	곱/paa+ㄴ/etm
+6	살결을	살결+을	NOUN	_	7	obj	_	_	살결/ncn+을/jco
+7	만든다	만들+ㄴ다	VERB	_	0	root	_	_	만들/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 몸의 때와 묵은 각질을 없애준다 .
+1	몸의	몸+의	NOUN	_	2	nmod	_	_	몸/ncn+의/jcm
+2	때와	때+와	CCONJ	_	4	conj	_	_	때/ncn+와/jcj
+3	묵은	묵+ㄴ	VERB	_	4	acl	_	_	묵/pvg+ㄴ/etm
+4	각질을	각질+을	NOUN	_	5	obj	_	_	각질/ncn+을/jco
+5	없애준다	없애+어+주+ㄴ다	AUX	_	0	root	_	_	없애/pvg+어/ecx+주/px+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 절세의 미녀 클레오파트라의 목욕제로 쓰였을 만큼 우유는 효과가 뛰어난 미용액이다 .
+1	절세의	절세+의	NOUN	_	2	nmod	_	_	절세/ncn+의/jcm
+2	미녀	미녀	NOUN	_	3	compound	_	_	미녀/ncn
+3	클레오파트라의	클레오파트라+의	NOUN	_	4	nmod	_	_	클레오파트라/ncn+의/jcm
+4	목욕제로	목욕제+로	ADV	_	5	advcl	_	_	목욕제/ncn+로/jca
+5	쓰였을	쓰이+었+ㄹ	VERB	_	6	acl	_	_	쓰이/pvg+었/ep+ㄹ/etm
+6	만큼	만큼	NOUN	_	9	mark	_	_	만큼/nbn
+7	우유는	우유+는	NOUN	_	9	dislocated	_	_	우유/ncn+는/jxt
+8	효과가	효과+가	NOUN	_	9	nsubj	_	_	효과/ncn+가/jcs
+9	뛰어난	뛰어나+ㄴ	ADJ	_	10	amod	_	_	뛰어나/paa+ㄴ/etm
+10	미용액이다	미용액+이+다	VERB	_	0	root	_	_	미용액/ncn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이처럼 오랫동안 우유가 미용제로 쓰인 까닭은 우유 속에 들어 있는 여러 가지 성분 때문이다 .
+1	이처럼	이+처럼	ADV	_	5	advcl	_	_	이/npd+처럼/jca
+2	오랫동안	오랫동안	ADV	_	5	advmod	_	_	오랫동안/mag
+3	우유가	우유+가	NOUN	_	5	nsubj	_	_	우유/ncn+가/jcs
+4	미용제로	미용제+로	ADV	_	5	advcl	_	_	미용제/ncn+로/jca
+5	쓰인	쓰이+ㄴ	VERB	_	6	acl	_	_	쓰이/pvg+ㄴ/etm
+6	까닭은	까닭+은	NOUN	_	14	dislocated	_	_	까닭/ncn+은/jxt
+7	우유	우유	NOUN	_	8	compound	_	_	우유/ncn
+8	속에	속+에	ADV	_	9	obl	_	_	속/ncn+에/jca
+9	들어	들+어	VERB	_	13	acl	_	_	들/pvg+어/ecx
+10	있는	있+는	AUX	_	9	aux	_	_	있/px+는/etm
+11	여러	여러	ADJ	_	12	amod	_	_	여러/mma
+12	가지	가지	NOUN	_	13	compound	_	_	가지/nbu
+13	성분	성분	NOUN	_	14	compound	_	_	성분/ncn
+14	때문이다	때문+이+다	VERB	_	0	root	_	_	때문/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 우유 속의 단백질을 분해시키는 효소는 몸의 때와 묵은 각질을 제거시켜 준다 .
+1	우유	우유	NOUN	_	2	compound	_	_	우유/ncn
+2	속의	속+의	NOUN	_	5	nmod	_	_	속/ncn+의/jcm
+3	단백질을	단백질+을	NOUN	_	4	obj	_	_	단백질/ncn+을/jco
+4	분해시키는	분해+시키+는	VERB	_	5	acl	_	_	분해/ncpa+시키/xsv+는/etm
+5	효소는	효소+는	NOUN	_	10	dislocated	_	_	효소/ncn+는/jxt
+6	몸의	몸+의	NOUN	_	7	nmod	_	_	몸/ncn+의/jcm
+7	때와	때+와	CCONJ	_	9	conj	_	_	때/ncn+와/jcj
+8	묵은	묵+ㄴ	VERB	_	9	acl	_	_	묵/pvg+ㄴ/etm
+9	각질을	각질+을	NOUN	_	10	obj	_	_	각질/ncn+을/jco
+10	제거시켜	제거+시키+어	VERB	_	0	root	_	_	제거/ncpa+시키/xsv+어/ecx
+11	준다	주+ㄴ다	AUX	_	10	aux	_	_	주/px+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 우유는 지방과 수분의 밸런스가 잘 혼합된 유액이나 크림 같은 상태다 .
+1	우유는	우유+는	NOUN	_	10	dislocated	_	_	우유/ncn+는/jxt
+2	지방과	지방+과	CCONJ	_	3	conj	_	_	지방/ncn+과/jcj
+3	수분의	수분+의	NOUN	_	4	nmod	_	_	수분/ncn+의/jcm
+4	밸런스가	밸런스+가	NOUN	_	6	nsubj	_	_	밸런스/ncn+가/jcs
+5	잘	잘	ADV	_	6	advmod	_	_	잘/mag
+6	혼합된	혼합+되+ㄴ	VERB	_	7	ccomp	_	_	혼합/ncpa+되/xsv+ㄴ/etm
+7	유액이나	유액+이+나	SCONJ	_	10	ccomp	_	_	유액/ncn+이/jp+나/ecs
+8	크림	크림	NOUN	_	9	dep	_	_	크림/ncn
+9	같은	같+ㄴ	ADJ	_	10	amod	_	_	같/paa+ㄴ/etm
+10	상태다	상태+이+다	VERB	_	0	root	_	_	상태/ncn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 때문에 보습성이 높고 피부와의 친화력도 강하다 .
+1	때문에	때문에	CCONJ	_	6	cc	_	_	때문에/maj
+2	보습성이	보습성+이	NOUN	_	3	nsubj	_	_	보습성/ncn+이/jcs
+3	높고	높+고	CCONJ	_	6	conj	_	_	높/paa+고/ecc
+4	피부와의	피부+와+의	NOUN	_	5	nmod	_	_	피부/ncn+와/jct+의/jcm
+5	친화력도	친화력+도	ADV	_	6	advcl	_	_	친화력/ncn+도/jxc
+6	강하다	강하+다	ADJ	_	0	root	_	_	강하/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 다만 주의해야 할 점은 우유를 피부에 발랐을 때 꼭 깨끗이 씻어 내야 한다는 점 .
+1	다만	다만	CCONJ	_	14	cc	_	_	다만/maj
+2	주의해야	주의+하+어야	VERB	_	4	acl	_	_	주의/ncpa+하/xsv+어야/ecx
+3	할	하+ㄹ	AUX	_	2	aux	_	_	하/px+ㄹ/etm
+4	점은	점+은	NOUN	_	14	dislocated	_	_	점/ncn+은/jxt
+5	우유를	우유+를	NOUN	_	7	obj	_	_	우유/ncn+를/jco
+6	피부에	피부+에	ADV	_	7	obl	_	_	피부/ncn+에/jca
+7	발랐을	바르+았+ㄹ	VERB	_	8	acl	_	_	바르/pvg+았/ep+ㄹ/etm
+8	때	때	NOUN	_	11	advmod	_	_	때/ncn
+9	꼭	꼭	ADV	_	11	advmod	_	_	꼭/mag
+10	깨끗이	깨끗이	ADV	_	11	advmod	_	_	깨끗이/mag
+11	씻어	씻+어	VERB	_	14	acl	_	_	씻/pvg+어/ecx
+12	내야	내+어+야	ADV	_	11	aux	_	_	내/px+어/ecx+야/jxc
+13	한다는	하+ㄴ다는	AUX	_	11	aux	_	_	하/px+ㄴ다는/etm
+14	점	점	NOUN	_	0	root	_	_	점/ncn
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이를 소홀히 하면 기미나 잔주름 , 습진 등 피부 트러블의 원인이 된다 .
+1	이를	이+를	PRON	_	3	obj	_	_	이/npd+를/jco
+2	소홀히	소홀히	ADV	_	3	advmod	_	_	소홀히/mag
+3	하면	하+면	SCONJ	_	12	ccomp	_	_	하/pvg+면/ecs
+4	기미나	기미+나	CCONJ	_	5	conj	_	_	기미/ncn+나/jcj
+5	잔주름	잔주름	NOUN	_	7	conj	_	_	잔주름/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	습진	습진	NOUN	_	8	compound	_	_	습진/ncn
+8	등	등	NOUN	_	10	mark	_	_	등/nbn
+9	피부	피부	NOUN	_	10	compound	_	_	피부/ncn
+10	트러블의	트러블+의	NOUN	_	11	nmod	_	_	트러블/ncn+의/jcm
+11	원인이	원인+이	NOUN	_	12	csubj	_	_	원인/ncn+이/jcc
+12	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 피부 온도로 따뜻하게 데운 우유를 면천에 묻혀 가볍게 닦아 내면 피부가 촉촉해진다 .
+1	피부	피부	NOUN	_	2	compound	_	_	피부/ncn
+2	온도로	온도+로	ADV	_	4	advcl	_	_	온도/ncn+로/jca
+3	따뜻하게	따뜻하+게	SCONJ	_	4	xcomp	_	_	따뜻하/paa+게/ecs
+4	데운	데우+ㄴ	VERB	_	5	acl	_	_	데우/pvg+ㄴ/etm
+5	우유를	우유+를	NOUN	_	7	obj	_	_	우유/ncn+를/jco
+6	면천에	면천+에	ADV	_	7	obl	_	_	면천/ncn+에/jca
+7	묻혀	묻히+어	SCONJ	_	9	ccomp	_	_	묻히/pvg+어/ecs
+8	가볍게	가볍+게	SCONJ	_	9	xcomp	_	_	가볍/paa+게/ecs
+9	닦아	닦+아	VERB	_	12	conj	_	_	닦/pvg+아/ecx
+10	내면	내+면	SCONJ	_	9	aux	_	_	내/px+면/ecs
+11	피부가	피부+가	NOUN	_	12	nsubj	_	_	피부/ncn+가/jcs
+12	촉촉해진다	촉촉+하+어+지+ㄴ다	AUX	_	0	root	_	_	촉촉/ncps+하/xsm+어/ecx+지/px+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 피부에 수분이 부족해 항상 건조한 사람에게 효과적이다 .
+1	피부에	피부+에	ADV	_	3	obl	_	_	피부/ncn+에/jca
+2	수분이	수분+이	NOUN	_	3	nsubj	_	_	수분/ncn+이/jcs
+3	부족해	부족+하+어	SCONJ	_	5	xcomp	_	_	부족/ncps+하/xsm+어/ecs
+4	항상	항상	ADV	_	5	advmod	_	_	항상/mag
+5	건조한	건조+하+ㄴ	VERB	_	6	amod	_	_	건조/ncps+하/xsm+ㄴ/etm
+6	사람에게	사람+에게	ADV	_	7	iobj	_	_	사람/ncn+에게/jca
+7	효과적이다	효과+적+이+다	VERB	_	0	root	_	_	효과/ncn+적/xsn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 차가운 우유를 면에 묻혀 얼굴을 톡톡 두드리듯이 마사지하면 얼굴에 윤기를 주어 촉촉한 피부가 된다 .
+1	차가운	차갑+ㄴ	ADJ	_	2	amod	_	_	차갑/paa+ㄴ/etm
+2	우유를	우유+를	NOUN	_	4	obj	_	_	우유/ncn+를/jco
+3	면에	면+에	ADV	_	4	obl	_	_	면/ncn+에/jca
+4	묻혀	묻히+어	SCONJ	_	8	ccomp	_	_	묻히/pvg+어/ecs
+5	얼굴을	얼굴+을	NOUN	_	8	obj	_	_	얼굴/ncn+을/jco
+6	톡톡	톡톡	ADV	_	7	advmod	_	_	톡톡/mag
+7	두드리듯이	두드리+듯이	SCONJ	_	8	ccomp	_	_	두드리/pvg+듯이/ecs
+8	마사지하면	마사지+하+면	SCONJ	_	11	ccomp	_	_	마사지/ncpa+하/xsv+면/ecs
+9	얼굴에	얼굴+에	ADV	_	11	obl	_	_	얼굴/ncn+에/jca
+10	윤기를	윤기+를	NOUN	_	11	obj	_	_	윤기/ncn+를/jco
+11	주어	주+어	SCONJ	_	14	ccomp	_	_	주/pvg+어/ecs
+12	촉촉한	촉촉+하+ㄴ	VERB	_	13	amod	_	_	촉촉/ncps+하/xsm+ㄴ/etm
+13	피부가	피부+가	NOUN	_	14	csubj	_	_	피부/ncn+가/jcc
+14	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 샴푸하기 전에 피부 온도로 데운 우유로 가볍게 문질러 준다 .
+1	샴푸하기	샴푸+하+기	VERB	_	2	nmod	_	_	샴푸/ncpa+하/xsv+기/etn
+2	전에	전+에	ADV	_	8	obl	_	_	전/ncn+에/jca
+3	피부	피부	NOUN	_	4	compound	_	_	피부/ncn
+4	온도로	온도+로	ADV	_	5	advcl	_	_	온도/ncn+로/jca
+5	데운	데우+ㄴ	VERB	_	6	acl	_	_	데우/pvg+ㄴ/etm
+6	우유로	우유+로	ADV	_	8	advcl	_	_	우유/ncn+로/jca
+7	가볍게	가볍+게	SCONJ	_	8	xcomp	_	_	가볍/paa+게/ecs
+8	문질러	문지르+어	VERB	_	0	root	_	_	문지르/pvg+어/ecx
+9	준다	주+ㄴ다	AUX	_	8	aux	_	_	주/px+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 비듬이 많은 사람은 가제에 우유를 적셔 두피를 탁탁 두드려 준다 .
+1	비듬이	비듬+이	NOUN	_	2	nsubj	_	_	비듬/ncn+이/jcs
+2	많은	많+ㄴ	ADJ	_	3	amod	_	_	많/paa+ㄴ/etm
+3	사람은	사람+은	NOUN	_	9	dislocated	_	_	사람/ncn+은/jxt
+4	가제에	가제+에	ADV	_	6	obl	_	_	가제/ncn+에/jca
+5	우유를	우유+를	NOUN	_	6	obj	_	_	우유/ncn+를/jco
+6	적셔	적시+어	SCONJ	_	9	ccomp	_	_	적시/pvg+어/ecs
+7	두피를	두피+를	NOUN	_	9	obj	_	_	두피/ncn+를/jco
+8	탁탁	탁탁	ADV	_	9	advmod	_	_	탁탁/mag
+9	두드려	두드리+어	VERB	_	0	root	_	_	두드리/pvg+어/ecx
+10	준다	주+ㄴ다	AUX	_	9	aux	_	_	주/px+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 두피가 건조되기 쉬우면 헤어 크림을 , 끈적거리면 헤어 토닉을 겸하면 더욱 효과적이다 .
+1	두피가	두피+가	NOUN	_	2	nsubj	_	_	두피/ncn+가/jcs
+2	건조되기	건조+되+기	VERB	_	3	nmod	_	_	건조/ncpa+되/xsv+기/etn
+3	쉬우면	쉽+으면	SCONJ	_	5	xcomp	_	_	쉽/paa+으면/ecs
+4	헤어	헤어	NOUN	_	5	compound	_	_	헤어/ncn
+5	크림을	크림+을	NOUN	_	9	dep	_	_	크림/ncn+을/jco
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	끈적거리면	끈적거리+면	SCONJ	_	9	conj	_	_	끈적거리/pvg+면/ecs
+8	헤어	헤어	NOUN	_	9	compound	_	_	헤어/ncn
+9	토닉을	토닉+을	NOUN	_	10	obj	_	_	토닉/ncn+을/jco
+10	겸하면	겸하+면	SCONJ	_	12	ccomp	_	_	겸하/pvg+면/ecs
+11	더욱	더욱	ADV	_	12	advmod	_	_	더욱/mag
+12	효과적이다	효과+적+이+다	VERB	_	0	root	_	_	효과/ncn+적/xsn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 위 재료를 잘 섞어 모발 자체에 골고루 바르고 마사지한다 .
+1	위	위	NOUN	_	2	compound	_	_	위/ncn
+2	재료를	재료+를	NOUN	_	4	obj	_	_	재료/ncn+를/jco
+3	잘	잘	ADV	_	4	advmod	_	_	잘/mag
+4	섞어	섞+어	SCONJ	_	8	ccomp	_	_	섞/pvg+어/ecs
+5	모발	모발	NOUN	_	6	compound	_	_	모발/ncn
+6	자체에	자체+에	ADV	_	8	obl	_	_	자체/ncn+에/jca
+7	골고루	골고루	ADV	_	8	advmod	_	_	골고루/mag
+8	바르고	바르+고	CCONJ	_	9	conj	_	_	바르/pvg+고/ecc
+9	마사지한다	마사지+하+ㄴ다	VERB	_	10	conj	_	_	마사지/ncpa+하/xsv+ㄴ다/ef
+10	.	.	PUNCT	_	0	root	_	_	./sf
+
+# 햇빛에 타서 화끈거리는 피부에 효과적이다 .
+1	햇빛에	햇빛+에	ADV	_	2	obl	_	_	햇빛/ncn+에/jca
+2	타서	타+서	SCONJ	_	3	ccomp	_	_	타/pvg+서/ecs
+3	화끈거리는	화끈거리+는	VERB	_	4	acl	_	_	화끈거리/pvg+는/etm
+4	피부에	피부+에	ADV	_	5	obl	_	_	피부/ncn+에/jca
+5	효과적이다	효과+적+이+다	VERB	_	0	root	_	_	효과/ncn+적/xsn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 면에 차가운 우유를 적셔 얼굴 전체에 올려 놓거나 커다란 가제나 티슈에 우유를 적셔 얼굴 전체에 올려 놓는다 .
+1	면에	면+에	ADV	_	4	obl	_	_	면/ncn+에/jca
+2	차가운	차갑+ㄴ	ADJ	_	3	amod	_	_	차갑/paa+ㄴ/etm
+3	우유를	우유+를	NOUN	_	4	obj	_	_	우유/ncn+를/jco
+4	적셔	적시+어	SCONJ	_	7	ccomp	_	_	적시/pvg+어/ecs
+5	얼굴	얼굴	NOUN	_	6	compound	_	_	얼굴/ncn
+6	전체에	전체+에	ADV	_	7	obl	_	_	전체/ncn+에/jca
+7	올려	올리+어	VERB	_	16	conj	_	_	올리/pvg+어/ecx
+8	놓거나	놓+거나	CCONJ	_	7	aux	_	_	놓/px+거나/ecc
+9	커다란	커다랗+ㄴ	ADJ	_	11	amod	_	_	커다랗/paa+ㄴ/etm
+10	가제나	가제+나	CCONJ	_	11	conj	_	_	가제/ncn+나/jcj
+11	티슈에	티슈+에	ADV	_	13	obl	_	_	티슈/ncn+에/jca
+12	우유를	우유+를	NOUN	_	13	obj	_	_	우유/ncn+를/jco
+13	적셔	적시+어	SCONJ	_	16	ccomp	_	_	적시/pvg+어/ecs
+14	얼굴	얼굴	NOUN	_	15	compound	_	_	얼굴/ncn
+15	전체에	전체+에	ADV	_	16	obl	_	_	전체/ncn+에/jca
+16	올려	올리+어	VERB	_	0	root	_	_	올리/pvg+어/ecx
+17	놓는다	놓+는다	AUX	_	16	aux	_	_	놓/px+는다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 거무스레하고 칙칙한 피부 , 거칠어진 피부 , 생기를 잃은 피부에 효과적이다 .
+1	거무스레하고	거무스레하+고	CCONJ	_	2	conj	_	_	거무스레하/paa+고/ecc
+2	칙칙한	칙칙+하+ㄴ	VERB	_	3	amod	_	_	칙칙/ncps+하/xsm+ㄴ/etm
+3	피부	피부	NOUN	_	10	compound	_	_	피부/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	거칠어진	거칠+어+지+ㄴ	AUX	_	6	amod	_	_	거칠/paa+어/ecx+지/px+ㄴ/etm
+6	피부	피부	NOUN	_	10	compound	_	_	피부/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	생기를	생기+를	NOUN	_	9	obj	_	_	생기/ncn+를/jco
+9	잃은	잃+ㄴ	VERB	_	10	acl	_	_	잃/pvg+ㄴ/etm
+10	피부에	피부+에	ADV	_	11	obl	_	_	피부/ncn+에/jca
+11	효과적이다	효과+적+이+다	VERB	_	0	root	_	_	효과/ncn+적/xsn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 꿀을 먼저 얼굴에 발라 두고 , 우유를 적셔 얼굴 위에 올려 두어도 좋다 .
+1	꿀을	꿀+을	NOUN	_	4	obj	_	_	꿀/ncn+을/jco
+2	먼저	먼저	ADV	_	4	advmod	_	_	먼저/mag
+3	얼굴에	얼굴+에	ADV	_	4	obl	_	_	얼굴/ncn+에/jca
+4	발라	바르+아	VERB	_	11	conj	_	_	바르/pvg+아/ecx
+5	두고	두+고	CCONJ	_	4	aux	_	_	두/px+고/ecc
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	우유를	우유+를	NOUN	_	8	obj	_	_	우유/ncn+를/jco
+8	적셔	적시+어	SCONJ	_	11	ccomp	_	_	적시/pvg+어/ecs
+9	얼굴	얼굴	NOUN	_	10	compound	_	_	얼굴/ncn
+10	위에	위+에	ADV	_	11	obl	_	_	위/ncn+에/jca
+11	올려	올리+어	VERB	_	13	conj	_	_	올리/pvg+어/ecx
+12	두어도	두+어도	SCONJ	_	11	aux	_	_	두/px+어도/ecs
+13	좋다	좋+다	ADJ	_	0	root	_	_	좋/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 우유 컵에 핫 케이크 정도의 농도가 되도록 밀가루를 넣어 잘 섞는다 .
+1	우유	우유	NOUN	_	2	compound	_	_	우유/ncn
+2	컵에	컵+에	ADV	_	9	obl	_	_	컵/ncn+에/jca
+3	핫	핫	NOUN	_	4	compound	_	_	핫/ncn
+4	케이크	케이크	NOUN	_	5	compound	_	_	케이크/ncn
+5	정도의	정도+의	NOUN	_	6	nmod	_	_	정도/ncn+의/jcm
+6	농도가	농도+가	NOUN	_	7	csubj	_	_	농도/ncn+가/jcc
+7	되도록	되+도록	SCONJ	_	9	ccomp	_	_	되/pvg+도록/ecs
+8	밀가루를	밀가루+를	NOUN	_	9	obj	_	_	밀가루/ncn+를/jco
+9	넣어	넣+어	SCONJ	_	11	ccomp	_	_	넣/pvg+어/ecs
+10	잘	잘	ADV	_	11	advmod	_	_	잘/mag
+11	섞는다	섞+는다	VERB	_	0	root	_	_	섞/pvg+는다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 베이비 오일이나 스쿠알렌 오일 , 올리브 오일 등이 좋다 .
+1	베이비	베이비	NOUN	_	2	compound	_	_	베이비/ncn
+2	오일이나	오일+이나	CCONJ	_	4	conj	_	_	오일/ncn+이나/jcj
+3	스쿠알렌	스쿠알렌	NOUN	_	4	compound	_	_	스쿠알렌/ncn
+4	오일	오일	NOUN	_	7	compound	_	_	오일/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	올리브	올리브	NOUN	_	7	compound	_	_	올리브/ncn
+7	오일	오일	NOUN	_	8	compound	_	_	오일/ncn
+8	등이	등+이	NOUN	_	9	nsubj	_	_	등/nbn+이/jcs
+9	좋다	좋+다	ADJ	_	0	root	_	_	좋/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 우유 컵에 베이비 오일 몇 방울을 넣어 잘 저은 후 얼굴에 바른다 .
+1	우유	우유	NOUN	_	2	compound	_	_	우유/ncn
+2	컵에	컵+에	ADV	_	7	obl	_	_	컵/ncn+에/jca
+3	베이비	베이비	NOUN	_	4	compound	_	_	베이비/ncn
+4	오일	오일	NOUN	_	6	compound	_	_	오일/ncn
+5	몇	몇	ADJ	_	6	amod	_	_	몇/mma
+6	방울을	방울+을	NOUN	_	7	obj	_	_	방울/nbu+을/jco
+7	넣어	넣+어	SCONJ	_	9	ccomp	_	_	넣/pvg+어/ecs
+8	잘	잘	ADV	_	9	advmod	_	_	잘/mag
+9	저은	젓+ㄴ	VERB	_	10	acl	_	_	젓/pvg+ㄴ/etm
+10	후	후	NOUN	_	12	advmod	_	_	후/ncn
+11	얼굴에	얼굴+에	ADV	_	12	obl	_	_	얼굴/ncn+에/jca
+12	바른다	바르+ㄴ다	VERB	_	0	root	_	_	바르/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 목욕제로 사용할 해조는 미역 , 다시마 등 손쉽게 구할 수 있는 재료를 쓰면 된다 .
+1	목욕제로	목욕제+로	ADV	_	2	advcl	_	_	목욕제/ncn+로/jca
+2	사용할	사용+하+ㄹ	VERB	_	3	acl	_	_	사용/ncpa+하/xsv+ㄹ/etm
+3	해조는	해조+는	NOUN	_	13	dislocated	_	_	해조/ncn+는/jxt
+4	미역	미역	NOUN	_	6	conj	_	_	미역/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	다시마	다시마	NOUN	_	7	compound	_	_	다시마/ncn
+7	등	등	NOUN	_	12	mark	_	_	등/nbn
+8	손쉽게	손쉽+게	SCONJ	_	9	xcomp	_	_	손쉽/paa+게/ecs
+9	구할	구하+ㄹ	VERB	_	12	acl	_	_	구하/pvg+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있는	있+는	ADJ	_	9	aux	_	_	있/paa+는/etm
+12	재료를	재료+를	NOUN	_	13	obj	_	_	재료/ncn+를/jco
+13	쓰면	쓰+면	VERB	_	0	root	_	_	쓰/pvg+면/ecx
+14	된다	되+ㄴ다	AUX	_	13	aux	_	_	되/px+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 만약 소금에 절여진 해조라면 염분을 잘 빼고 사용해야 한다 .
+1	만약	만약	ADV	_	4	advmod	_	_	만약/mag
+2	소금에	소금+에	ADV	_	3	obl	_	_	소금/ncn+에/jca
+3	절여진	절이+어+지+ㄴ	AUX	_	4	ccomp	_	_	절이/pvg+어/ecx+지/px+ㄴ/etm
+4	해조라면	해조+이+라면	SCONJ	_	8	ccomp	_	_	해조/ncn+이/jp+라면/ecs
+5	염분을	염분+을	NOUN	_	7	obj	_	_	염분/ncn+을/jco
+6	잘	잘	ADV	_	7	advmod	_	_	잘/mag
+7	빼고	빼+고	SCONJ	_	8	ccomp	_	_	빼/pvg+고/ecs
+8	사용해야	사용+하+어야	VERB	_	0	root	_	_	사용/ncpa+하/xsv+어야/ecx
+9	한다	하+ㄴ다	AUX	_	8	aux	_	_	하/px+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이 온도는 사람이 물 속에 들어갔을 때 가장 기분 좋게 느껴지는 온도다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	온도는	온도+는	NOUN	_	12	dislocated	_	_	온도/ncn+는/jxt
+3	사람이	사람+이	NOUN	_	6	nsubj	_	_	사람/ncn+이/jcs
+4	물	물	NOUN	_	5	compound	_	_	물/ncn
+5	속에	속+에	ADV	_	6	obl	_	_	속/ncn+에/jca
+6	들어갔을	들어가+ㅆ+ㄹ	VERB	_	7	acl	_	_	들어가/pvg+ㅆ/ep+ㄹ/etm
+7	때	때	NOUN	_	10	dep	_	_	때/ncn
+8	가장	가장	ADV	_	10	advmod	_	_	가장/mag
+9	기분	기분	NOUN	_	10	dep	_	_	기분/ncn
+10	좋게	좋+게	SCONJ	_	11	xcomp	_	_	좋/paa+게/ecs
+11	느껴지는	느끼+어+지+는	AUX	_	12	ccomp	_	_	느끼/pvg+어/ecx+지/px+는/etm
+12	온도다	온도+이+다	VERB	_	0	root	_	_	온도/ncn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 욕조 속에 들어가기 전에는 미리 미지근한 물로 몸을 씻는 것이 좋다 .
+1	욕조	욕조	NOUN	_	2	compound	_	_	욕조/ncn
+2	속에	속+에	ADV	_	3	obl	_	_	속/ncn+에/jca
+3	들어가기	들어가+기	VERB	_	4	nmod	_	_	들어가/pvg+기/etn
+4	전에는	전+에+는	NOUN	_	9	dislocated	_	_	전/ncn+에/jca+는/jxt
+5	미리	미리	ADV	_	9	advmod	_	_	미리/mag
+6	미지근한	미지근하+ㄴ	ADJ	_	7	amod	_	_	미지근하/paa+ㄴ/etm
+7	물로	물+로	ADV	_	9	advcl	_	_	물/ncn+로/jca
+8	몸을	몸+을	NOUN	_	9	obj	_	_	몸/ncn+을/jco
+9	씻는	씻+는	VERB	_	10	acl	_	_	씻/pvg+는/etm
+10	것이	것+이	NOUN	_	11	nsubj	_	_	것/nbn+이/jcs
+11	좋다	좋+다	ADJ	_	0	root	_	_	좋/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그 이유는 갑자기 뜨거운 물에 들어가면 혈압이 오르기 때문이다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	이유는	이유+는	NOUN	_	9	dislocated	_	_	이유/ncn+는/jxt
+3	갑자기	갑자기	ADV	_	6	advmod	_	_	갑자기/mag
+4	뜨거운	뜨겁+ㄴ	ADJ	_	5	amod	_	_	뜨겁/paa+ㄴ/etm
+5	물에	물+에	ADV	_	6	obl	_	_	물/ncn+에/jca
+6	들어가면	들어가+면	SCONJ	_	8	conj	_	_	들어가/pvg+면/ecs
+7	혈압이	혈압+이	NOUN	_	8	nsubj	_	_	혈압/ncn+이/jcs
+8	오르기	오르+기	VERB	_	9	nmod	_	_	오르/pvg+기/etn
+9	때문이다	때문+이+다	VERB	_	0	root	_	_	때문/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이런 사람은 욕조 속에서 몸을 충분히 덥히지도 못하고 나오게 된다 .
+1	이런	이런	DET	_	2	det	_	_	이런/mmd
+2	사람은	사람+은	NOUN	_	9	dislocated	_	_	사람/ncn+은/jxt
+3	욕조	욕조	NOUN	_	4	compound	_	_	욕조/ncn
+4	속에서	속+에서	ADV	_	7	advcl	_	_	속/ncn+에서/jca
+5	몸을	몸+을	NOUN	_	7	obj	_	_	몸/ncn+을/jco
+6	충분히	충분히	ADV	_	7	advmod	_	_	충분히/mag
+7	덥히지도	덥히+지+도	ADV	_	9	ccomp	_	_	덥히/pvg+지/ecx+도/jxc
+8	못하고	못하+고	SCONJ	_	7	aux	_	_	못하/px+고/ecs
+9	나오게	나오+게	VERB	_	0	root	_	_	나오/pvg+게/ecx
+10	된다	되+ㄴ다	AUX	_	9	aux	_	_	되/px+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이때는 미지근한 물을 충분히 끼얹어 몸을 따뜻하게 하고 난 후 욕조에 들어가도록 한다 .
+1	이때는	이때+는	PRON	_	13	dislocated	_	_	이때/npd+는/jxt
+2	미지근한	미지근하+ㄴ	ADJ	_	3	amod	_	_	미지근하/paa+ㄴ/etm
+3	물을	물+을	NOUN	_	5	obj	_	_	물/ncn+을/jco
+4	충분히	충분히	ADV	_	5	advmod	_	_	충분히/mag
+5	끼얹어	끼얹+어	SCONJ	_	7	conj	_	_	끼얹/pvg+어/ecs
+6	몸을	몸+을	NOUN	_	7	obj	_	_	몸/ncn+을/jco
+7	따뜻하게	따뜻+하+게	VERB	_	10	amod	_	_	따뜻/ncps+하/xsm+게/ecx
+8	하고	하+고	AUX	_	7	aux	_	_	하/px+고/ecx
+9	난	나+ㄴ	AUX	_	7	aux	_	_	나/px+ㄴ/etm
+10	후	후	NOUN	_	13	advmod	_	_	후/ncn
+11	욕조에	욕조+에	ADV	_	12	obl	_	_	욕조/ncn+에/jca
+12	들어가도록	들어가+도록	SCONJ	_	13	ccomp	_	_	들어가/pvg+도록/ecs
+13	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+

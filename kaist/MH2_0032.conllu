@@ -1,0 +1,3418 @@
+# 문학비평은 멀리는 아리스토텔레스의 시학으로 거슬러 가서 수사학에서 근원을 찾게 된다 .
+1	문학비평은	문학+비평+은	NOUN	_	9	dislocated	_	_	문학/ncpa+비평/ncpa+은/jxt
+2	멀리는	멀리+는	NOUN	_	5	advmod	_	_	멀리/mag+는/jxt
+3	아리스토텔레스의	아리스토텔레스+의	PROPN	_	4	nmod	_	_	아리스토텔레스/nq+의/jcm
+4	시학으로	시학+으로	ADV	_	5	advcl	_	_	시학/nq+으로/jca
+5	거슬러	거스르+어	VERB	_	9	ccomp	_	_	거스르/pvg+어/ecx
+6	가서	가+서	SCONJ	_	5	aux	_	_	가/px+서/ecs
+7	수사학에서	수사학+에서	ADV	_	9	advcl	_	_	수사학/ncn+에서/jca
+8	근원을	근원+을	NOUN	_	9	obj	_	_	근원/ncn+을/jco
+9	찾게	찾+게	VERB	_	0	root	_	_	찾/pvg+게/ecx
+10	된다	되+ㄴ다	AUX	_	9	aux	_	_	되/px+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이러한 규범적인 전통이 고전주의의 브왈로에 와서 더욱 확고하게 자리잡고 , 동시대의 작품들을 비판하고 평가하는 척도를 제시한다 .
+1	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+2	규범적인	규범+적+이+ㄴ	VERB	_	3	acl	_	_	규범/ncn+적/xsn+이/jp+ㄴ/etm
+3	전통이	전통+이	NOUN	_	16	nsubj	_	_	전통/ncn+이/jcs
+4	고전주의의	고전주의+의	NOUN	_	5	nmod	_	_	고전주의/ncn+의/jcm
+5	브왈로에	브왈로+에	ADV	_	6	obl	_	_	브왈로/nq+에/jca
+6	와서	오+아서	SCONJ	_	9	ccomp	_	_	오/pvg+아서/ecs
+7	더욱	더욱	ADV	_	8	advmod	_	_	더욱/mag
+8	확고하게	확고+하+게	SCONJ	_	9	xcomp	_	_	확고/ncps+하/xsm+게/ecs
+9	자리잡고	자리잡+고	CCONJ	_	16	conj	_	_	자리잡/pvg+고/ecc
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	동시대의	동시대+의	NOUN	_	12	nmod	_	_	동시대/ncn+의/jcm
+12	작품들을	작품+들+을	NOUN	_	14	obj	_	_	작품/ncn+들/xsn+을/jco
+13	비판하고	비판+하+고	CCONJ	_	14	conj	_	_	비판/ncpa+하/xsv+고/ecc
+14	평가하는	평가+하+는	VERB	_	15	acl	_	_	평가/ncpa+하/xsv+는/etm
+15	척도를	척도+를	NOUN	_	16	obj	_	_	척도/ncn+를/jco
+16	제시한다	제시+하+ㄴ다	VERB	_	0	root	_	_	제시/ncpa+하/xsv+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 또한 신문 , 잡지에 연속적으로 기고하여 최초의 직업 비평가로 나타난 셍뜨-뵈브에서부터 , 비평은 문학의 한 장르로서의 위치를 굳힌다 .
+1	또한	또한	CCONJ	_	18	cc	_	_	또한/maj
+2	신문	신문	NOUN	_	4	conj	_	_	신문/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	잡지에	잡지+에	ADV	_	6	obl	_	_	잡지/ncn+에/jca
+5	연속적으로	연속+적+으로	ADV	_	6	advcl	_	_	연속/ncpa+적/xsn+으로/jca
+6	기고하여	기고+하+어	SCONJ	_	10	ccomp	_	_	기고/ncpa+하/xsv+어/ecs
+7	최초의	최초+의	NOUN	_	9	nmod	_	_	최초/ncn+의/jcm
+8	직업	직업	NOUN	_	9	compound	_	_	직업/ncn
+9	비평가로	비평가+로	ADV	_	10	advcl	_	_	비평가/ncn+로/jca
+10	나타난	나타나+ㄴ	VERB	_	11	acl	_	_	나타나/pvg+ㄴ/etm
+11	셍뜨-뵈브에서부터	셍뜨-뵈브+에서+부터	ADV	_	18	advmod	_	_	셍뜨-뵈브/nq+에서/jca+부터/jxc
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	비평은	비평+은	NOUN	_	18	dislocated	_	_	비평/ncpa+은/jxt
+14	문학의	문학+의	NOUN	_	16	nmod	_	_	문학/ncpa+의/jcm
+15	한	한	NUM	_	16	nummod	_	_	한/nnc
+16	장르로서의	장르+로서+의	NOUN	_	17	nmod	_	_	장르/ncn+로서/jca+의/jcm
+17	위치를	위치+를	NOUN	_	18	obj	_	_	위치/ncpa+를/jco
+18	굳힌다	굳히+ㄴ다	VERB	_	0	root	_	_	굳히/pvg+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 랑송으로부터 가장 높이 평가 받은 그는 프루스트에게서는 다음과 같이 비판되었다 .
+1	랑송으로부터	랑송+으로+부터	ADV	_	5	advcl	_	_	랑송/nq+으로/jca+부터/jxc
+2	가장	가장	ADV	_	5	advmod	_	_	가장/mag
+3	높이	높이	ADV	_	2	advmod	_	_	높이/mag
+4	평가	평가	NOUN	_	5	dep	_	_	평가/ncpa
+5	받은	받+ㄴ	VERB	_	6	acl	_	_	받/pvg+ㄴ/etm
+6	그는	그+는	PRON	_	10	dislocated	_	_	그/npp+는/jxt
+7	프루스트에게서는	프루스트+에게서+는	PROPN	_	10	dislocated	_	_	프루스트/nq+에게서/jca+는/jxt
+8	다음과	다음+과	CCONJ	_	9	conj	_	_	다음/ncn+과/jct
+9	같이	같+이	SCONJ	_	10	xcomp	_	_	같/paa+이/ecs
+10	비판되었다	비판+되+었+다	VERB	_	0	root	_	_	비판/ncpa+되/xsv+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그는 작품과 인간을 분리시키지 못하고 , 창조적 영감 , 문학적 작업의 특수성을 이해하지 못한다는 것이었다 .
+1	그는	그+는	PRON	_	15	dislocated	_	_	그/npp+는/jxt
+2	작품과	작품+과	CCONJ	_	3	conj	_	_	작품/ncn+과/jcj
+3	인간을	인간+을	NOUN	_	4	obj	_	_	인간/ncn+을/jco
+4	분리시키지	분리+시키+지	VERB	_	13	conj	_	_	분리/ncpa+시키/xsv+지/ecx
+5	못하고	못하+고	CCONJ	_	4	aux	_	_	못하/px+고/ecc
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	창조적	창조+적	NOUN	_	8	amod	_	_	창조/ncpa+적/xsn
+8	영감	영감	NOUN	_	12	compound	_	_	영감/ncn
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	문학적	문학+적	NOUN	_	11	amod	_	_	문학/ncpa+적/xsn
+11	작업의	작업+의	NOUN	_	12	nmod	_	_	작업/ncpa+의/jcm
+12	특수성을	특수성+을	NOUN	_	13	obj	_	_	특수성/ncn+을/jco
+13	이해하지	이해+하+지	VERB	_	15	ccomp	_	_	이해/ncpa+하/xsv+지/ecx
+14	못한다는	못하+ㄴ다는	AUX	_	13	aux	_	_	못하/px+ㄴ다는/etm
+15	것이었다	것+이+었+다	VERB	_	0	root	_	_	것/nbn+이/jp+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그러나 그의 극단적인 자연주의 이론의 전개는 실증적 유물론자라는 비난을 면치 못했다 .
+1	그러나	그러나	CCONJ	_	10	cc	_	_	그러나/maj
+2	그의	그+의	PRON	_	6	nmod	_	_	그/npp+의/jcm
+3	극단적인	극단+적+이+ㄴ	VERB	_	6	acl	_	_	극단/ncps+적/xsn+이/jp+ㄴ/etm
+4	자연주의	자연주의	NOUN	_	5	compound	_	_	자연주의/ncn
+5	이론의	이론+의	NOUN	_	6	nmod	_	_	이론/ncn+의/jcm
+6	전개는	전개+는	NOUN	_	10	dislocated	_	_	전개/ncpa+는/jxt
+7	실증적	실증+적	NOUN	_	8	amod	_	_	실증/ncpa+적/xsn
+8	유물론자라는	유물론자+이+라는	VERB	_	9	acl	_	_	유물론자/ncn+이/jp+라는/etm
+9	비난을	비난+을	NOUN	_	10	obj	_	_	비난/ncpa+을/jco
+10	면치	면하+지	VERB	_	0	root	_	_	면하/pvg+지/ecx
+11	못했다	못하+었+다	AUX	_	10	aux	_	_	못하/px+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그는 문학 작품을 평가하고 분류하기 위해 , 역사적이고 비개인적 요소뿐 아니라 , 작품의 감상과 개인적 요소에도 비중을 두었다 .
+1	그는	그+는	PRON	_	18	dislocated	_	_	그/npp+는/jxt
+2	문학	문학	NOUN	_	3	compound	_	_	문학/ncpa
+3	작품을	작품+을	NOUN	_	4	obj	_	_	작품/ncn+을/jco
+4	평가하고	평가+하+고	CCONJ	_	5	conj	_	_	평가/ncpa+하/xsv+고/ecc
+5	분류하기	분류+하+기	VERB	_	6	nmod	_	_	분류/ncpa+하/xsv+기/etn
+6	위해	위하+어	SCONJ	_	18	ccomp	_	_	위하/pvg+어/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	역사적이고	역사+적+이고	CCONJ	_	9	conj	_	_	역사/ncn+적/xsn+이고/jcj
+9	비개인적	비+개인+적	PART	_	10	amod	_	_	비/xp+개인/ncn+적/xsn
+10	요소뿐	요소+뿐	NOUN	_	11	advmod	_	_	요소/ncn+뿐/xsn
+11	아니라	아니+라	SCONJ	_	18	xcomp	_	_	아니/paa+라/ecs
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	작품의	작품+의	NOUN	_	14	nmod	_	_	작품/ncn+의/jcm
+14	감상과	감상+과	CCONJ	_	16	conj	_	_	감상/ncpa+과/jcj
+15	개인적	개인+적	NOUN	_	16	amod	_	_	개인/ncn+적/xsn
+16	요소에도	요소+에+도	ADV	_	18	advcl	_	_	요소/ncn+에/jca+도/jxc
+17	비중을	비중+을	NOUN	_	18	obj	_	_	비중/ncn+을/jco
+18	두었다	두+었+다	VERB	_	0	root	_	_	두/pvg+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 랑송의 문학사는 기념비적이나 , 내재적인 작품 해석을 지향하는 소위 신비평에 의해 역시 반론이 제기되었다 .
+1	랑송의	랑송+의	PROPN	_	2	nmod	_	_	랑송/nq+의/jcm
+2	문학사는	문학사+는	NOUN	_	3	dislocated	_	_	문학사/ncn+는/jxt
+3	기념비적이나	기념비+적+이+나	SCONJ	_	14	ccomp	_	_	기념비/ncn+적/xsn+이/jp+나/ecs
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	내재적인	내재+적+이+ㄴ	VERB	_	7	acl	_	_	내재/ncpa+적/xsn+이/jp+ㄴ/etm
+6	작품	작품	NOUN	_	7	compound	_	_	작품/ncn
+7	해석을	해석+을	NOUN	_	8	obj	_	_	해석/ncpa+을/jco
+8	지향하는	지향+하+는	VERB	_	10	acl	_	_	지향/ncpa+하/xsv+는/etm
+9	소위	소위	ADV	_	10	advmod	_	_	소위/mag
+10	신비평에	신비평+에	ADV	_	11	obl	_	_	신비평/ncn+에/jca
+11	의해	의하+어	SCONJ	_	14	ccomp	_	_	의하/pvg+어/ecs
+12	역시	역시	ADV	_	14	advmod	_	_	역시/mag
+13	반론이	반론+이	NOUN	_	14	nsubj	_	_	반론/ncpa+이/jcs
+14	제기되었다	제기+되+었+다	VERB	_	0	root	_	_	제기/ncpa+되/xsv+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 뗀느적 비평에 대해 분리를 시도했던 지드 , 발레리는 신비평을 예견하게 해준다고 하겠다 .
+1	뗀느적	뗀느+적	NOUN	_	2	amod	_	_	뗀느/nq+적/xsn
+2	비평에	비평+에	ADV	_	3	obl	_	_	비평/ncpa+에/jca
+3	대해	대하+어	SCONJ	_	5	ccomp	_	_	대하/pvg+어/ecs
+4	분리를	분리+를	NOUN	_	5	obj	_	_	분리/ncpa+를/jco
+5	시도했던	시도+하+었+던	VERB	_	8	acl	_	_	시도/ncpa+하/xsv+었/ep+던/etm
+6	지드	지드	PROPN	_	8	conj	_	_	지드/nq
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	발레리는	발레리+는	PROPN	_	10	dislocated	_	_	발레리/nq+는/jxt
+9	신비평을	신비평+을	NOUN	_	10	obj	_	_	신비평/ncn+을/jco
+10	예견하게	예견+하+게	VERB	_	12	conj	_	_	예견/ncpa+하/xsv+게/ecx
+11	해준다고	하+어+주+ㄴ다+고	VERB	_	10	aux	_	_	하/px+어/ecx+주/px+ㄴ다/ef+고/jcr
+12	하겠다	하+겠+다	VERB	_	0	root	_	_	하/pvg+겠/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 작품과의 접촉이 직관에 의한 직접적인 생명의 접촉이어야 할 것이라고 , 그들은 비평가의 자세를 설명한다 .
+1	작품과의	작품+과+의	NOUN	_	2	nmod	_	_	작품/ncn+과/jct+의/jcm
+2	접촉이	접촉+이	NOUN	_	7	nsubj	_	_	접촉/ncpa+이/jcs
+3	직관에	직관+에	ADV	_	4	obl	_	_	직관/ncpa+에/jca
+4	의한	의하+ㄴ	VERB	_	7	ccomp	_	_	의하/pvg+ㄴ/etm
+5	직접적인	직접+적+이+ㄴ	VERB	_	7	acl	_	_	직접/ncn+적/xsn+이/jp+ㄴ/etm
+6	생명의	생명+의	NOUN	_	7	nmod	_	_	생명/ncn+의/jcm
+7	접촉이어야	접촉+이+어야	SCONJ	_	8	conj	_	_	접촉/ncpa+이/jp+어야/ecs
+8	할	하+ㄹ	VERB	_	14	advmod	_	_	하/pvg+ㄹ/etm
+9	것이라고	것+이+라+고	VERB	_	8	aux	_	_	것/nbn+이/jp+라/ef+고/jcr
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	그들은	그+들+은	PRON	_	14	dislocated	_	_	그/npp+들/xsn+은/jxt
+12	비평가의	비평가+의	NOUN	_	13	nmod	_	_	비평가/ncn+의/jcm
+13	자세를	자세+를	NOUN	_	14	obj	_	_	자세/ncn+를/jco
+14	설명한다	설명+하+ㄴ다	VERB	_	0	root	_	_	설명/ncpa+하/xsv+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그러나 그들은 비평에 대한 어떤 객관적 방법론을 제시하지는 못함으로 인해 , 인상 비평의 범주에 흔히 넣어지고 있다 .
+1	그러나	그러나	CCONJ	_	16	cc	_	_	그러나/maj
+2	그들은	그+들+은	PRON	_	8	dislocated	_	_	그/npp+들/xsn+은/jxt
+3	비평에	비평+에	ADV	_	4	obl	_	_	비평/ncpa+에/jca
+4	대한	대하+ㄴ	VERB	_	7	acl	_	_	대하/pvg+ㄴ/etm
+5	어떤	어떻+ㄴ	VERB	_	7	amod	_	_	어떻/pad+ㄴ/etm
+6	객관적	객관+적	NOUN	_	7	amod	_	_	객관/ncn+적/xsn
+7	방법론을	방법론+을	NOUN	_	8	obj	_	_	방법론/ncn+을/jco
+8	제시하지는	제시+하+지+는	NOUN	_	10	advcl	_	_	제시/ncpa+하/xsv+지/ecx+는/jxt
+9	못함으로	못하+ㅁ+으로	ADV	_	8	aux	_	_	못하/px+ㅁ/etn+으로/jca
+10	인해	인하+어	SCONJ	_	16	ccomp	_	_	인하/pvg+어/ecs
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	인상	인상	NOUN	_	13	compound	_	_	인상/ncn
+13	비평의	비평+의	NOUN	_	14	nmod	_	_	비평/ncpa+의/jcm
+14	범주에	범주+에	ADV	_	16	obl	_	_	범주/ncn+에/jca
+15	흔히	흔히	ADV	_	16	advmod	_	_	흔히/mag
+16	넣어지고	넣+어+지+고	AUX	_	0	root	_	_	넣/pvg+어/ecx+지/px+고/ecx
+17	있다	있+다	AUX	_	16	aux	_	_	있/px+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이러한 다양한 흐름을 포괄하는 신비평의 공통점이란 , 무엇보다도 랑송의 구비평에 대한 결별과 텍스트로의 복귀이다 .
+1	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+2	다양한	다양+하+ㄴ	VERB	_	3	amod	_	_	다양/ncps+하/xsm+ㄴ/etm
+3	흐름을	흐름+을	NOUN	_	4	obj	_	_	흐름/ncn+을/jco
+4	포괄하는	포괄+하+는	VERB	_	5	acl	_	_	포괄/ncpa+하/xsv+는/etm
+5	신비평의	신비평+의	NOUN	_	6	nmod	_	_	신비평/ncn+의/jcm
+6	공통점이란	공통점+이란	ADV	_	14	advmod	_	_	공통점/ncn+이란/jxc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	무엇보다도	무엇+보다+도	ADV	_	14	advcl	_	_	무엇/npd+보다/jca+도/jxc
+9	랑송의	랑송+의	PROPN	_	10	nmod	_	_	랑송/nq+의/jcm
+10	구비평에	구비평+에	ADV	_	11	obl	_	_	구비평/ncn+에/jca
+11	대한	대하+ㄴ	VERB	_	12	acl	_	_	대하/pvg+ㄴ/etm
+12	결별과	결별+과	CCONJ	_	14	conj	_	_	결별/ncpa+과/jcj
+13	텍스트로의	텍스트+로+의	NOUN	_	14	nmod	_	_	텍스트/ncn+로/jca+의/jcm
+14	복귀이다	복귀+이+다	VERB	_	0	root	_	_	복귀/ncpa+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그것은 비평의 중심이 작품의 기원인 작가가 아니라 작품으로 옮겨짐을 의미한다 .
+1	그것은	그것+은	PRON	_	10	dislocated	_	_	그것/npd+은/jxt
+2	비평의	비평+의	NOUN	_	3	nmod	_	_	비평/ncpa+의/jcm
+3	중심이	중심+이	NOUN	_	9	nsubj	_	_	중심/ncn+이/jcs
+4	작품의	작품+의	NOUN	_	5	nmod	_	_	작품/ncn+의/jcm
+5	기원인	기원+이+ㄴ	VERB	_	6	acl	_	_	기원/ncpa+이/jp+ㄴ/etm
+6	작가가	작가+가	NOUN	_	7	csubj	_	_	작가/ncn+가/jcc
+7	아니라	아니+라	SCONJ	_	9	xcomp	_	_	아니/paa+라/ecs
+8	작품으로	작품+으로	ADV	_	9	advcl	_	_	작품/ncn+으로/jca
+9	옮겨짐을	옮기+어+지+ㅁ+을	NOUN	_	10	obj	_	_	옮기/pvg+어/ecx+지/px+ㅁ/etn+을/jco
+10	의미한다	의미+하+ㄴ다	VERB	_	0	root	_	_	의미/ncpa+하/xsv+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 신비평은 오직 작품을 출발점으로 하여서만 작가에게로 되돌아옴을 용납한다 .
+1	신비평은	신비평+은	NOUN	_	8	dislocated	_	_	신비평/ncn+은/jxt
+2	오직	오직	ADV	_	7	advmod	_	_	오직/mag
+3	작품을	작품+을	NOUN	_	5	obj	_	_	작품/ncn+을/jco
+4	출발점으로	출발점+으로	ADV	_	5	advcl	_	_	출발점/ncn+으로/jca
+5	하여서만	하+어서+만	ADV	_	7	ccomp	_	_	하/pvg+어서/ecs+만/jxc
+6	작가에게로	작가+에게로	ADV	_	7	advcl	_	_	작가/ncn+에게로/jca
+7	되돌아옴을	되돌아오+ㅁ+을	NOUN	_	8	obj	_	_	되돌아오/pvg+ㅁ/etn+을/jco
+8	용납한다	용납+하+ㄴ다	VERB	_	0	root	_	_	용납/ncpa+하/xsv+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 또한 작품을 하나의 총체로 인식하고 구조화하는 노력이라 하겠다 .
+1	또한	또한	CCONJ	_	8	cc	_	_	또한/maj
+2	작품을	작품+을	NOUN	_	6	obj	_	_	작품/ncn+을/jco
+3	하나의	하나+의	NUM	_	4	nmod	_	_	하나/nnc+의/jcm
+4	총체로	총체+로	ADV	_	6	advcl	_	_	총체/ncn+로/jca
+5	인식하고	인식+하+고	CCONJ	_	6	conj	_	_	인식/ncpa+하/xsv+고/ecc
+6	구조화하는	구조화+하+는	VERB	_	7	acl	_	_	구조화/ncpa+하/xsv+는/etm
+7	노력이라	노력+이+라	VERB	_	8	ccomp	_	_	노력/ncpa+이/jp+라/ef
+8	하겠다	하+겠+다	VERB	_	0	root	_	_	하/pvg+겠/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그는 이미지 산출 순간의 시적 의식을 탐구한다 .
+1	그는	그+는	PRON	_	7	dislocated	_	_	그/npp+는/jxt
+2	이미지	이미지	NOUN	_	3	compound	_	_	이미지/ncn
+3	산출	산출	NOUN	_	4	compound	_	_	산출/ncpa
+4	순간의	순간+의	NOUN	_	6	nmod	_	_	순간/ncn+의/jcm
+5	시적	시+적	NOUN	_	6	amod	_	_	시/ncn+적/xsn
+6	의식을	의식+을	NOUN	_	7	obj	_	_	의식/ncn+을/jco
+7	탐구한다	탐구+하+ㄴ다	VERB	_	0	root	_	_	탐구/ncpa+하/xsv+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 물 , 불 , 공기 , 대지의 4 원소에 따라 시적 기질을 분류하며 , 상상력에서 현존과 역학적으로 연결된 구조를 찾는다 .
+1	물	물	NOUN	_	3	conj	_	_	물/ncn
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	불	불	NOUN	_	5	conj	_	_	불/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	공기	공기	NOUN	_	7	conj	_	_	공기/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	대지의	대지+의	NOUN	_	9	nmod	_	_	대지/ncn+의/jcm
+8	4	4	NUM	_	9	nummod	_	_	4/nnc
+9	원소에	원소+에	ADV	_	10	obl	_	_	원소/ncn+에/jca
+10	따라	따르+아	SCONJ	_	13	ccomp	_	_	따르/pvg+아/ecs
+11	시적	시+적	NOUN	_	12	amod	_	_	시/ncn+적/xsn
+12	기질을	기질+을	NOUN	_	13	obj	_	_	기질/ncn+을/jco
+13	분류하며	분류+하+며	CCONJ	_	20	conj	_	_	분류/ncpa+하/xsv+며/ecc
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	상상력에서	상상력+에서	ADV	_	20	advcl	_	_	상상력/ncn+에서/jca
+16	현존과	현존+과	CCONJ	_	18	conj	_	_	현존/ncpa+과/jct
+17	역학적으로	역학+적+으로	ADV	_	18	advcl	_	_	역학/ncpa+적/xsn+으로/jca
+18	연결된	연결+되+ㄴ	VERB	_	19	acl	_	_	연결/ncpa+되/xsv+ㄴ/etm
+19	구조를	구조+를	NOUN	_	20	obj	_	_	구조/ncpa+를/jco
+20	찾는다	찾+는다	VERB	_	0	root	_	_	찾/pvg+는다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그에게 있어 상상력은 현실적 기능의 지각과는 다른 , 비현실적 기능이다 .
+1	그에게	그+에게	ADV	_	2	iobj	_	_	그/npp+에게/jca
+2	있어	있+어	SCONJ	_	10	xcomp	_	_	있/paa+어/ecs
+3	상상력은	상상력+은	NOUN	_	10	dislocated	_	_	상상력/ncn+은/jxt
+4	현실적	현실+적	NOUN	_	5	amod	_	_	현실/ncn+적/xsn
+5	기능의	기능+의	NOUN	_	6	nmod	_	_	기능/ncn+의/jcm
+6	지각과는	지각+과+는	NOUN	_	7	dislocated	_	_	지각/ncpa+과/jct+는/jxt
+7	다른	다르+ㄴ	ADJ	_	10	amod	_	_	다르/paa+ㄴ/etm
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	비현실적	비+현실+적	PART	_	10	amod	_	_	비/xp+현실/ncn+적/xsn
+10	기능이다	기능+이+다	VERB	_	0	root	_	_	기능/ncn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 즉 그것은 인간의 심층에서 나오며 , 존재하지 않은 것을 계시할 수 있는 힘이다 .
+1	즉	즉	CCONJ	_	13	cc	_	_	즉/maj
+2	그것은	그것+은	PRON	_	13	dislocated	_	_	그것/npd+은/jxt
+3	인간의	인간+의	NOUN	_	4	nmod	_	_	인간/ncn+의/jcm
+4	심층에서	심층+에서	ADV	_	5	advcl	_	_	심층/ncn+에서/jca
+5	나오며	나오+며	CCONJ	_	13	conj	_	_	나오/pvg+며/ecc
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	존재하지	존재+하+지	VERB	_	9	acl	_	_	존재/ncpa+하/xsv+지/ecx
+8	않은	않+ㄴ	AUX	_	7	aux	_	_	않/px+ㄴ/etm
+9	것을	것+을	NOUN	_	10	obj	_	_	것/nbn+을/jco
+10	계시할	계시+하+ㄹ	VERB	_	13	ccomp	_	_	계시/ncpa+하/xsv+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있는	있+는	ADJ	_	10	aux	_	_	있/paa+는/etm
+13	힘이다	힘+이+다	VERB	_	0	root	_	_	힘/ncn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 창조적 상상력은 재현적 상상력과는 전혀 다르며 오히려 원형의 승화라고 바슐라르는 설명한다 .
+1	창조적	창조+적	NOUN	_	2	amod	_	_	창조/ncpa+적/xsn
+2	상상력은	상상력+은	NOUN	_	11	dislocated	_	_	상상력/ncn+은/jxt
+3	재현적	재현+적	NOUN	_	4	amod	_	_	재현/ncpa+적/xsn
+4	상상력과는	상상력+과+는	NOUN	_	6	dislocated	_	_	상상력/ncn+과/jct+는/jxt
+5	전혀	전혀	ADV	_	6	advmod	_	_	전혀/mag
+6	다르며	다르+며	CCONJ	_	9	conj	_	_	다르/paa+며/ecc
+7	오히려	오히려	ADV	_	9	advmod	_	_	오히려/mag
+8	원형의	원형+의	NOUN	_	9	nmod	_	_	원형/ncn+의/jcm
+9	승화라고	승화+이+라+고	VERB	_	11	conj	_	_	승화/ncpa+이/jp+라/ef+고/jcr
+10	바슐라르는	바슐라르+는	PROPN	_	11	dislocated	_	_	바슐라르/nq+는/jxt
+11	설명한다	설명+하+ㄴ다	VERB	_	0	root	_	_	설명/ncpa+하/xsv+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 상상력은 인간 심리 속에서 , 열림의 경험 그 자체 , 새로움의 경험 그 자체라는 것이다 .
+1	상상력은	상상력+은	NOUN	_	15	dislocated	_	_	상상력/ncn+은/jxt
+2	인간	인간	NOUN	_	3	compound	_	_	인간/ncn
+3	심리	심리	NOUN	_	4	compound	_	_	심리/ncn
+4	속에서	속+에서	ADV	_	15	advmod	_	_	속/ncn+에서/jca
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	열림의	열리+ㅁ+의	NOUN	_	7	nmod	_	_	열리/pvg+ㅁ/etn+의/jcm
+7	경험	경험	NOUN	_	9	compound	_	_	경험/ncpa
+8	그	그	DET	_	9	det	_	_	그/mmd
+9	자체	자체	NOUN	_	14	compound	_	_	자체/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	새로움의	새롭+ㅁ+의	NOUN	_	12	nmod	_	_	새롭/paa+ㅁ/etn+의/jcm
+12	경험	경험	NOUN	_	14	compound	_	_	경험/ncpa
+13	그	그	DET	_	14	det	_	_	그/mmd
+14	자체라는	자체+이+라는	VERB	_	15	ccomp	_	_	자체/ncn+이/jp+라는/etm
+15	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그의 상상력 이론은 공간의 시학 이후로는 상상력의 현상학으로 발전해 나간다 .
+1	그의	그+의	PRON	_	3	nmod	_	_	그/npp+의/jcm
+2	상상력	상상력	NOUN	_	3	compound	_	_	상상력/ncn
+3	이론은	이론+은	NOUN	_	10	dislocated	_	_	이론/ncn+은/jxt
+4	공간의	공간+의	NOUN	_	5	nmod	_	_	공간/ncn+의/jcm
+5	시학	시학	NOUN	_	6	compound	_	_	시학/ncn
+6	이후로는	이후+로+는	NOUN	_	10	dislocated	_	_	이후/ncn+로/jca+는/jxt
+7	상상력의	상상력+의	NOUN	_	8	nmod	_	_	상상력/ncn+의/jcm
+8	현상학으로	현상학+으로	ADV	_	9	advcl	_	_	현상학/ncn+으로/jca
+9	발전해	발전+하+어	SCONJ	_	10	ccomp	_	_	발전/ncpa+하/xsv+어/ecs
+10	나간다	나가+ㄴ다	VERB	_	0	root	_	_	나가/pvg+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 바슐라르에 있어서 상상력의 현상학이란 , 이미지가 인간의 영혼 , 내면적 존재에서 직접적으로 의식 속에 솟아오를 때의 이미지의 현상을 연구하는 것이다 .
+1	바슐라르에	바슐라르+에	ADV	_	2	obl	_	_	바슐라르/nq+에/jca
+2	있어서	있+어서	SCONJ	_	19	xcomp	_	_	있/paa+어서/ecs
+3	상상력의	상상력+의	NOUN	_	4	nmod	_	_	상상력/ncn+의/jcm
+4	현상학이란	현상학+이란	ADV	_	19	advmod	_	_	현상학/ncn+이란/jxc
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	이미지가	이미지+가	NOUN	_	15	nsubj	_	_	이미지/ncn+가/jcs
+7	인간의	인간+의	NOUN	_	8	nmod	_	_	인간/ncn+의/jcm
+8	영혼	영혼	NOUN	_	11	compound	_	_	영혼/ncn
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	내면적	내면+적	NOUN	_	11	amod	_	_	내면/ncn+적/xsn
+11	존재에서	존재+에서	ADV	_	15	advcl	_	_	존재/ncpa+에서/jca
+12	직접적으로	직접+적+으로	ADV	_	15	advcl	_	_	직접/ncn+적/xsn+으로/jca
+13	의식	의식	NOUN	_	14	compound	_	_	의식/ncn
+14	속에	속+에	ADV	_	15	obl	_	_	속/ncn+에/jca
+15	솟아오를	솟아오르+ㄹ	VERB	_	16	acl	_	_	솟아오르/pvg+ㄹ/etm
+16	때의	때+의	NOUN	_	17	nmod	_	_	때/ncn+의/jcm
+17	이미지의	이미지+의	NOUN	_	18	nmod	_	_	이미지/ncn+의/jcm
+18	현상을	현상+을	NOUN	_	19	obj	_	_	현상/ncn+을/jco
+19	연구하는	연구+하+는	VERB	_	0	root	_	_	연구/ncpa+하/xsv+는/etm
+20	것이다	것+이+다	VERB	_	19	aux	_	_	것/nbn+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 시는 정신의 현상학이라기보다는 영혼의 현상학이며 이미지의 현상학이다 .
+1	시는	시+는	NOUN	_	7	dislocated	_	_	시/ncn+는/jxt
+2	정신의	정신+의	NOUN	_	3	nmod	_	_	정신/ncn+의/jcm
+3	현상학이라기보다는	현상학+이+라기+보다+는	NOUN	_	7	dislocated	_	_	현상학/ncn+이/jp+라기/etn+보다/jca+는/jxt
+4	영혼의	영혼+의	NOUN	_	5	nmod	_	_	영혼/ncn+의/jcm
+5	현상학이며	현상학+이+며	CCONJ	_	7	conj	_	_	현상학/ncn+이/jp+며/ecc
+6	이미지의	이미지+의	NOUN	_	7	nmod	_	_	이미지/ncn+의/jcm
+7	현상학이다	현상학+이+다	VERB	_	0	root	_	_	현상학/ncn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그의 비평은 상상의 원형과 현상을 기술하는 이미지의 철학을 구성하고 있다 .
+1	그의	그+의	PRON	_	2	nmod	_	_	그/npp+의/jcm
+2	비평은	비평+은	NOUN	_	9	dislocated	_	_	비평/ncpa+은/jxt
+3	상상의	상상+의	NOUN	_	5	nmod	_	_	상상/ncpa+의/jcm
+4	원형과	원형+과	CCONJ	_	5	conj	_	_	원형/ncn+과/jcj
+5	현상을	현상+을	NOUN	_	6	obj	_	_	현상/ncn+을/jco
+6	기술하는	기술+하+는	VERB	_	8	acl	_	_	기술/ncpa+하/xsv+는/etm
+7	이미지의	이미지+의	NOUN	_	8	nmod	_	_	이미지/ncn+의/jcm
+8	철학을	철학+을	NOUN	_	9	obj	_	_	철학/ncn+을/jco
+9	구성하고	구성+하+고	VERB	_	0	root	_	_	구성/ncpa+하/xsv+고/ecx
+10	있다	있+다	AUX	_	9	aux	_	_	있/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그의 비평을 세분해서 분류할 때는 , 정신분석학적 비평의 범주에 넣기보다는 상상력의 비평의 범주에 넣어진다 .
+1	그의	그+의	PRON	_	2	nmod	_	_	그/npp+의/jcm
+2	비평을	비평+을	NOUN	_	4	obj	_	_	비평/ncpa+을/jco
+3	세분해서	세분+하+어서	SCONJ	_	4	ccomp	_	_	세분/ncpa+하/xsv+어서/ecs
+4	분류할	분류+하+ㄹ	VERB	_	5	acl	_	_	분류/ncpa+하/xsv+ㄹ/etm
+5	때는	때+는	NOUN	_	14	advmod	_	_	때/ncn+는/jxt
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	정신분석학적	정신+분석학+적	NOUN	_	8	amod	_	_	정신/ncn+분석학/ncn+적/xsn
+8	비평의	비평+의	NOUN	_	9	nmod	_	_	비평/ncpa+의/jcm
+9	범주에	범주+에	ADV	_	10	obl	_	_	범주/ncn+에/jca
+10	넣기보다는	넣+기+보다+는	NOUN	_	14	dislocated	_	_	넣/pvg+기/etn+보다/jca+는/jxt
+11	상상력의	상상력+의	NOUN	_	12	nmod	_	_	상상력/ncn+의/jcm
+12	비평의	비평+의	NOUN	_	13	nmod	_	_	비평/ncpa+의/jcm
+13	범주에	범주+에	ADV	_	14	obl	_	_	범주/ncn+에/jca
+14	넣어진다	넣+어+지+ㄴ다	AUX	_	0	root	_	_	넣/pvg+어/ecx+지/px+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 비슐라르의 비평은 이미지로부터 출발해서 시인의 영혼이 살고자하는 세계를 발견해가는 몽상의 철학이다 .
+1	비슐라르의	비슐라르+의	PROPN	_	2	nmod	_	_	비슐라르/nq+의/jcm
+2	비평은	비평+은	NOUN	_	11	dislocated	_	_	비평/ncpa+은/jxt
+3	이미지로부터	이미지+로+부터	ADV	_	4	advcl	_	_	이미지/ncn+로/jca+부터/jxc
+4	출발해서	출발+하+어서	SCONJ	_	9	ccomp	_	_	출발/ncpa+하/xsv+어서/ecs
+5	시인의	시인+의	NOUN	_	6	nmod	_	_	시인/ncn+의/jcm
+6	영혼이	영혼+이	NOUN	_	7	nsubj	_	_	영혼/ncn+이/jcs
+7	살고자하는	살+고자+하+는	AUX	_	8	acl	_	_	살/pvg+고자/ecx+하/px+는/etm
+8	세계를	세계+를	NOUN	_	9	obj	_	_	세계/ncn+를/jco
+9	발견해가는	발견+하+어+가+는	AUX	_	11	ccomp	_	_	발견/ncpa+하/xsv+어/ecx+가/px+는/etm
+10	몽상의	몽상+의	NOUN	_	11	nmod	_	_	몽상/ncpa+의/jcm
+11	철학이다	철학+이+다	VERB	_	0	root	_	_	철학/ncn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 모롱은 심리분석적인 문학 비평의 방법을 수립하였다 .
+1	모롱은	모롱+은	PROPN	_	6	dislocated	_	_	모롱/nq+은/jxt
+2	심리분석적인	심리+분석+적+이+ㄴ	VERB	_	5	acl	_	_	심리/ncn+분석/ncpa+적/xsn+이/jp+ㄴ/etm
+3	문학	문학	NOUN	_	4	compound	_	_	문학/ncpa
+4	비평의	비평+의	NOUN	_	5	nmod	_	_	비평/ncpa+의/jcm
+5	방법을	방법+을	NOUN	_	6	obj	_	_	방법/ncn+을/jco
+6	수립하였다	수립+하+었+다	VERB	_	0	root	_	_	수립/ncpa+하/xsv+었/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 거기서 출발해서 작품의 총제적 구조로서의 개인적 신화를 발견한다 .
+1	거기서	거기+서	ADV	_	2	advcl	_	_	거기/npd+서/jca
+2	출발해서	출발+하+어서	SCONJ	_	8	ccomp	_	_	출발/ncpa+하/xsv+어서/ecs
+3	작품의	작품+의	NOUN	_	7	nmod	_	_	작품/ncn+의/jcm
+4	총제적	총제+적	NOUN	_	5	amod	_	_	총제/ncn+적/xsn
+5	구조로서의	구조+로서+의	NOUN	_	7	nmod	_	_	구조/ncpa+로서/jca+의/jcm
+6	개인적	개인+적	NOUN	_	7	amod	_	_	개인/ncn+적/xsn
+7	신화를	신화+를	NOUN	_	8	obj	_	_	신화/ncn+를/jco
+8	발견한다	발견+하+ㄴ다	VERB	_	0	root	_	_	발견/ncpa+하/xsv+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그 신화를 작가의 무의식적 환상의 무대 연출로 보고 정신분석학적으로 해석한다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	신화를	신화+를	NOUN	_	8	obj	_	_	신화/ncn+를/jco
+3	작가의	작가+의	NOUN	_	5	nmod	_	_	작가/ncn+의/jcm
+4	무의식적	무의식+적	NOUN	_	5	amod	_	_	무의식/ncn+적/xsn
+5	환상의	환상+의	NOUN	_	7	nmod	_	_	환상/ncn+의/jcm
+6	무대	무대	NOUN	_	7	compound	_	_	무대/ncn
+7	연출로	연출+로	ADV	_	8	advcl	_	_	연출/ncpa+로/jca
+8	보고	보+고	CCONJ	_	10	conj	_	_	보/pvg+고/ecc
+9	정신분석학적으로	정신+분석학+적+으로	ADV	_	10	advcl	_	_	정신/ncn+분석학/ncn+적/xsn+으로/jca
+10	해석한다	해석+하+ㄴ다	VERB	_	0	root	_	_	해석/ncpa+하/xsv+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 마지막으로 작가의 전기적 요소들을 통하여 연구 결과를 건정하는 방법론이다 .
+1	마지막으로	마지막+으로	ADV	_	8	advcl	_	_	마지막/ncn+으로/jca
+2	작가의	작가+의	NOUN	_	4	nmod	_	_	작가/ncn+의/jcm
+3	전기적	전기+적	NOUN	_	4	amod	_	_	전기/ncn+적/xsn
+4	요소들을	요소+들+을	NOUN	_	5	obj	_	_	요소/ncn+들/xsn+을/jco
+5	통하여	통하+어	SCONJ	_	8	conj	_	_	통하/pvg+어/ecs
+6	연구	연구	NOUN	_	7	compound	_	_	연구/ncpa
+7	결과를	결과+를	NOUN	_	8	obj	_	_	결과/ncn+를/jco
+8	건정하는	건정+하+는	VERB	_	9	amod	_	_	건정/ncps+하/xsm+는/etm
+9	방법론이다	방법론+이+다	VERB	_	0	root	_	_	방법론/ncn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그는 말라르메에 대해서 그의 심리분석적 방법을 적용하면서 , 말라르메의 전기를 중요시한다 .
+1	그는	그+는	PRON	_	11	dislocated	_	_	그/npp+는/jxt
+2	말라르메에	말라르메+에	ADV	_	3	obl	_	_	말라르메/nq+에/jca
+3	대해서	대하+어서	SCONJ	_	7	ccomp	_	_	대하/pvg+어서/ecs
+4	그의	그+의	PRON	_	6	nmod	_	_	그/npp+의/jcm
+5	심리분석적	심리+분석+적	NOUN	_	6	amod	_	_	심리/ncn+분석/ncpa+적/xsn
+6	방법을	방법+을	NOUN	_	7	obj	_	_	방법/ncn+을/jco
+7	적용하면서	적용+하+면서	CCONJ	_	11	conj	_	_	적용/ncpa+하/xsv+면서/ecc
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	말라르메의	말라르메+의	PROPN	_	10	nmod	_	_	말라르메/nq+의/jcm
+10	전기를	전기+를	NOUN	_	11	obj	_	_	전기/ncn+를/jco
+11	중요시한다	중요시+하+ㄴ다	VERB	_	0	root	_	_	중요시/ncpa+하/xsv+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 즉 누이의 죽음이 중심적 진원이 된 감정의 복합적인 망과 그 표현을 분석해야 할 것이다라고 그는 설명한다 .
+1	즉	즉	CCONJ	_	16	cc	_	_	즉/maj
+2	누이의	누이+의	NOUN	_	3	nmod	_	_	누이/ncn+의/jcm
+3	죽음이	죽음+이	NOUN	_	6	nsubj	_	_	죽음/ncn+이/jcs
+4	중심적	중심+적	NOUN	_	5	amod	_	_	중심/ncn+적/xsn
+5	진원이	진원+이	NOUN	_	6	csubj	_	_	진원/ncn+이/jcc
+6	된	되+ㄴ	VERB	_	9	acl	_	_	되/pvg+ㄴ/etm
+7	감정의	감정+의	NOUN	_	9	nmod	_	_	감정/ncn+의/jcm
+8	복합적인	복합+적+이+ㄴ	VERB	_	9	acl	_	_	복합/ncpa+적/xsn+이/jp+ㄴ/etm
+9	망과	망+과	CCONJ	_	11	conj	_	_	망/ncn+과/jcj
+10	그	그	DET	_	11	det	_	_	그/mmd
+11	표현을	표현+을	NOUN	_	12	obj	_	_	표현/ncpa+을/jco
+12	분석해야	분석+하+어야	VERB	_	16	conj	_	_	분석/ncpa+하/xsv+어야/ecx
+13	할	하+ㄹ	AUX	_	12	aux	_	_	하/px+ㄹ/etm
+14	것이다라고	것+이+다+라고	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef+라고/jcr
+15	그는	그+는	PRON	_	16	dislocated	_	_	그/npp+는/jxt
+16	설명한다	설명+하+ㄴ다	VERB	_	0	root	_	_	설명/ncpa+하/xsv+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이러한 심리분석적 접근으로 한편으로는 심한 충격에 의한 병적 상태를 , 또 한편으로는 작품에 공통적인 이미지의 연합적 망을 설명한다 .
+1	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+2	심리분석적	심리+분석+적	NOUN	_	3	amod	_	_	심리/ncn+분석/ncpa+적/xsn
+3	접근으로	접근+으로	ADV	_	18	advcl	_	_	접근/ncpa+으로/jca
+4	한편으로는	한편+으로+는	NOUN	_	9	dislocated	_	_	한편/ncn+으로/jca+는/jxt
+5	심한	심하+ㄴ	ADJ	_	6	amod	_	_	심하/paa+ㄴ/etm
+6	충격에	충격+에	ADV	_	7	obl	_	_	충격/ncn+에/jca
+7	의한	의하+ㄴ	VERB	_	9	acl	_	_	의하/pvg+ㄴ/etm
+8	병적	병+적	NOUN	_	9	amod	_	_	병/ncn+적/xsn
+9	상태를	상태+를	NOUN	_	17	dep	_	_	상태/ncn+를/jco
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	또	또	ADV	_	12	advmod	_	_	또/mag
+12	한편으로는	한편+으로+는	NOUN	_	17	dislocated	_	_	한편/ncn+으로/jca+는/jxt
+13	작품에	작품+에	ADV	_	14	obl	_	_	작품/ncn+에/jca
+14	공통적인	공통+적+이+ㄴ	VERB	_	15	acl	_	_	공통/ncpa+적/xsn+이/jp+ㄴ/etm
+15	이미지의	이미지+의	NOUN	_	17	nmod	_	_	이미지/ncn+의/jcm
+16	연합적	연합+적	NOUN	_	17	amod	_	_	연합/ncpa+적/xsn
+17	망을	망+을	NOUN	_	18	obj	_	_	망/ncn+을/jco
+18	설명한다	설명+하+ㄴ다	VERB	_	0	root	_	_	설명/ncpa+하/xsv+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이미지는 개인의 항구적인 강박관념에 의해 창출된다는 것이다 .
+1	이미지는	이미지+는	NOUN	_	6	dislocated	_	_	이미지/ncn+는/jxt
+2	개인의	개인+의	NOUN	_	4	nmod	_	_	개인/ncn+의/jcm
+3	항구적인	항구+적+이+ㄴ	VERB	_	4	acl	_	_	항구/ncps+적/xsn+이/jp+ㄴ/etm
+4	강박관념에	강박관념+에	ADV	_	5	obl	_	_	강박관념/ncn+에/jca
+5	의해	의하+어	SCONJ	_	6	ccomp	_	_	의하/pvg+어/ecs
+6	창출된다는	창출+되+ㄴ다는	VERB	_	7	ccomp	_	_	창출/ncpa+되/xsv+ㄴ다는/etm
+7	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그는 심리학적 비평 방법의 적용의 결론으로 다음과 같이 말한다 .
+1	그는	그+는	PRON	_	9	dislocated	_	_	그/npp+는/jxt
+2	심리학적	심리학+적	NOUN	_	3	amod	_	_	심리학/ncn+적/xsn
+3	비평	비평	NOUN	_	4	compound	_	_	비평/ncpa
+4	방법의	방법+의	NOUN	_	5	nmod	_	_	방법/ncn+의/jcm
+5	적용의	적용+의	NOUN	_	6	nmod	_	_	적용/ncpa+의/jcm
+6	결론으로	결론+으로	ADV	_	9	advcl	_	_	결론/ncn+으로/jca
+7	다음과	다음+과	CCONJ	_	8	conj	_	_	다음/ncn+과/jct
+8	같이	같+이	SCONJ	_	9	xcomp	_	_	같/paa+이/ecs
+9	말한다	말하+ㄴ다	VERB	_	0	root	_	_	말하/pvg+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러한 영향 이전의 마음의 평정을 영향 후에도 되찾게 되는데 , 말라르메의 독창적 작품의 진화에서 우리는 그것을 발견하게 된다 .
+1	그러한	그러하+ㄴ	VERB	_	2	amod	_	_	그러하/pad+ㄴ/etm
+2	영향	영향	NOUN	_	3	compound	_	_	영향/ncn
+3	이전의	이전+의	NOUN	_	5	nmod	_	_	이전/ncn+의/jcm
+4	마음의	마음+의	NOUN	_	5	nmod	_	_	마음/ncn+의/jcm
+5	평정을	평정+을	NOUN	_	8	obj	_	_	평정/ncps+을/jco
+6	영향	영향	NOUN	_	7	compound	_	_	영향/ncn
+7	후에도	후+에+도	ADV	_	8	advcl	_	_	후/ncn+에/jca+도/jxc
+8	되찾게	되찾+게	VERB	_	17	ccomp	_	_	되찾/pvg+게/ecx
+9	되는데	되+는데	SCONJ	_	8	aux	_	_	되/px+는데/ecs
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	말라르메의	말라르메+의	PROPN	_	13	nmod	_	_	말라르메/nq+의/jcm
+12	독창적	독창+적	NOUN	_	13	amod	_	_	독창/ncpa+적/xsn
+13	작품의	작품+의	NOUN	_	14	nmod	_	_	작품/ncn+의/jcm
+14	진화에서	진화+에서	ADV	_	17	advcl	_	_	진화/ncpa+에서/jca
+15	우리는	우리+는	PRON	_	17	dislocated	_	_	우리/npp+는/jxt
+16	그것을	그것+을	PRON	_	17	obj	_	_	그것/npd+을/jco
+17	발견하게	발견+하+게	VERB	_	0	root	_	_	발견/ncpa+하/xsv+게/ecx
+18	된다	되+ㄴ다	AUX	_	17	aux	_	_	되/px+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그의 작품이 특징적 이미지 , 상황의 망에 의해 표현되는 것을 훨씬 후에도 찾아볼 수 있다 .
+1	그의	그+의	PRON	_	2	nmod	_	_	그/npp+의/jcm
+2	작품이	작품+이	NOUN	_	9	nsubj	_	_	작품/ncn+이/jcs
+3	특징적	특징+적	NOUN	_	4	amod	_	_	특징/ncpa+적/xsn
+4	이미지	이미지	NOUN	_	7	compound	_	_	이미지/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	상황의	상황+의	NOUN	_	7	nmod	_	_	상황/ncn+의/jcm
+7	망에	망+에	ADV	_	8	obl	_	_	망/ncn+에/jca
+8	의해	의하+어	SCONJ	_	9	ccomp	_	_	의하/pvg+어/ecs
+9	표현되는	표현+되+는	VERB	_	10	acl	_	_	표현/ncpa+되/xsv+는/etm
+10	것을	것+을	NOUN	_	13	obj	_	_	것/nbn+을/jco
+11	훨씬	훨씬	ADV	_	12	advmod	_	_	훨씬/mag
+12	후에도	후+에+도	ADV	_	13	advcl	_	_	후/ncn+에/jca+도/jxc
+13	찾아볼	찾+아+보+ㄹ	AUX	_	0	root	_	_	찾/pvg+아/ecx+보/px+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있다	있+다	ADJ	_	13	aux	_	_	있/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 역동성에 항구성이 대치된다 .
+1	역동성에	역동성+에	ADV	_	3	obl	_	_	역동성/ncn+에/jca
+2	항구성이	항구성+이	NOUN	_	3	nsubj	_	_	항구성/ncn+이/jcs
+3	대치된다	대치+되+ㄴ다	VERB	_	0	root	_	_	대치/ncpa+되/xsv+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 그것은 상상의 심리학에 의해 또한 설명된다 .
+1	그것은	그것+은	PRON	_	6	dislocated	_	_	그것/npd+은/jxt
+2	상상의	상상+의	NOUN	_	3	nmod	_	_	상상/ncpa+의/jcm
+3	심리학에	심리학+에	ADV	_	4	obl	_	_	심리학/ncn+에/jca
+4	의해	의하+어	SCONJ	_	6	ccomp	_	_	의하/pvg+어/ecs
+5	또한	또한	ADV	_	6	advmod	_	_	또한/mag
+6	설명된다	설명+되+ㄴ다	VERB	_	0	root	_	_	설명/ncpa+되/xsv+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 무의식적 투쟁을 분명히 환기시키는 환상은 덜 고통스런 다른 환상을 위해 억제된다 .
+1	무의식적	무의식+적	NOUN	_	2	amod	_	_	무의식/ncn+적/xsn
+2	투쟁을	투쟁+을	NOUN	_	4	obj	_	_	투쟁/ncpa+을/jco
+3	분명히	분명히	ADV	_	4	advmod	_	_	분명히/mag
+4	환기시키는	환기+시키+는	VERB	_	5	acl	_	_	환기/ncpa+시키/xsv+는/etm
+5	환상은	환상+은	NOUN	_	11	dislocated	_	_	환상/ncn+은/jxt
+6	덜	덜	ADV	_	7	advmod	_	_	덜/mag
+7	고통스런	고통+스럽+ㄴ	VERB	_	9	amod	_	_	고통/ncn+스럽/xsm+ㄴ/etm
+8	다른	다르+ㄴ	ADJ	_	9	amod	_	_	다르/paa+ㄴ/etm
+9	환상을	환상+을	NOUN	_	10	obj	_	_	환상/ncn+을/jco
+10	위해	위하+어	SCONJ	_	11	ccomp	_	_	위하/pvg+어/ecs
+11	억제된다	억제+되+ㄴ다	VERB	_	0	root	_	_	억제/ncpa+되/xsv+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러나 그 상호 관계는 주목할 만하다 .
+1	그러나	그러나	CCONJ	_	5	cc	_	_	그러나/maj
+2	그	그	DET	_	4	det	_	_	그/mmd
+3	상호	상호	NOUN	_	4	compound	_	_	상호/ncn
+4	관계는	관계+는	NOUN	_	5	dislocated	_	_	관계/ncpa+는/jxt
+5	주목할	주목+하+ㄹ	VERB	_	0	root	_	_	주목/ncpa+하/xsv+ㄹ/etm
+6	만하다	만하+다	AUX	_	5	aux	_	_	만하/px+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그의 관심사는 무의식의 자아에서 작품의 근원을 캐내는 것이다 .
+1	그의	그+의	PRON	_	2	nmod	_	_	그/npp+의/jcm
+2	관심사는	관심사+는	NOUN	_	7	dislocated	_	_	관심사/ncn+는/jxt
+3	무의식의	무의식+의	NOUN	_	4	nmod	_	_	무의식/ncn+의/jcm
+4	자아에서	자아+에서	ADV	_	7	advcl	_	_	자아/ncn+에서/jca
+5	작품의	작품+의	NOUN	_	6	nmod	_	_	작품/ncn+의/jcm
+6	근원을	근원+을	NOUN	_	7	obj	_	_	근원/ncn+을/jco
+7	캐내는	캐내+는	VERB	_	0	root	_	_	캐내/pvg+는/etm
+8	것이다	것+이+다	VERB	_	7	aux	_	_	것/nbn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그녀가 청념으로 불타 연모하는 이뽀리뜨는 그녀를 멀리하고 딴 여성을 사랑한다 .
+1	그녀가	그녀+가	PRON	_	4	nsubj	_	_	그녀/npp+가/jcs
+2	청념으로	청념+으로	ADV	_	3	advcl	_	_	청념/ncn+으로/jca
+3	불타	불타+어	SCONJ	_	4	ccomp	_	_	불타/pvg+어/ecs
+4	연모하는	연모+하+는	VERB	_	5	acl	_	_	연모/ncpa+하/xsv+는/etm
+5	이뽀리뜨는	이뽀리뜨+는	PROPN	_	10	dislocated	_	_	이뽀리뜨/nq+는/jxt
+6	그녀를	그녀+를	PRON	_	7	obj	_	_	그녀/npp+를/jco
+7	멀리하고	멀리하+고	CCONJ	_	10	conj	_	_	멀리하/pvg+고/ecc
+8	딴	딴	ADJ	_	9	amod	_	_	딴/mma
+9	여성을	여성+을	NOUN	_	10	obj	_	_	여성/ncps+을/jco
+10	사랑한다	사랑+하+ㄴ다	VERB	_	0	root	_	_	사랑/ncpa+하/xsv+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이러한 환영은 지나친 애착에서 벗어나지 못하는 젊은이의 환영으로 해석될 수 있다고 말한다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	환영은	환영+은	NOUN	_	9	dislocated	_	_	환영/ncn+은/jxt
+3	지나친	지나치+ㄴ	VERB	_	4	acl	_	_	지나치/pvg+ㄴ/etm
+4	애착에서	애착+에서	ADV	_	5	advcl	_	_	애착/ncpa+에서/jca
+5	벗어나지	벗어나+지	VERB	_	7	acl	_	_	벗어나/pvg+지/ecx
+6	못하는	못하+는	AUX	_	5	aux	_	_	못하/px+는/etm
+7	젊은이의	젊은이+의	NOUN	_	8	nmod	_	_	젊은이/ncn+의/jcm
+8	환영으로	환영+으로	ADV	_	9	advcl	_	_	환영/ncn+으로/jca
+9	해석될	해석+되+ㄹ	VERB	_	12	conj	_	_	해석/ncpa+되/xsv+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있다고	있+다+고	VERB	_	9	aux	_	_	있/paa+다/ef+고/jcr
+12	말한다	말하+ㄴ다	VERB	_	0	root	_	_	말하/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 라씬느적 아버지는 사랑도 동정심도 없고 , 벌을 주는 수단으로 나타난다 .
+1	라씬느적	라씬느+적	NOUN	_	2	amod	_	_	라씬느/nq+적/xsn
+2	아버지는	아버지+는	NOUN	_	10	dislocated	_	_	아버지/ncn+는/jxt
+3	사랑도	사랑+도	ADV	_	5	advcl	_	_	사랑/ncpa+도/jxc
+4	동정심도	동정심+도	ADV	_	5	advcl	_	_	동정심/ncn+도/jxc
+5	없고	없+고	CCONJ	_	10	conj	_	_	없/paa+고/ecc
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	벌을	벌+을	NOUN	_	8	obj	_	_	벌/ncpa+을/jco
+8	주는	주+는	VERB	_	9	acl	_	_	주/pvg+는/etm
+9	수단으로	수단+으로	ADV	_	10	advcl	_	_	수단/ncn+으로/jca
+10	나타난다	나타나+ㄴ다	VERB	_	0	root	_	_	나타나/pvg+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그는 사랑에 의한 죄의식을 , 버림받는 고통과 고독한 죽음으로 벌한다 .
+1	그는	그+는	PRON	_	10	dislocated	_	_	그/npp+는/jxt
+2	사랑에	사랑+에	ADV	_	3	obl	_	_	사랑/ncpa+에/jca
+3	의한	의하+ㄴ	VERB	_	4	acl	_	_	의하/pvg+ㄴ/etm
+4	죄의식을	죄의식+을	NOUN	_	10	advmod	_	_	죄의식/ncn+을/jco
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	버림받는	버림받+는	VERB	_	7	acl	_	_	버림받/pvg+는/etm
+7	고통과	고통+과	CCONJ	_	9	conj	_	_	고통/ncps+과/jcj
+8	고독한	고독+하+ㄴ	VERB	_	9	amod	_	_	고독/ncps+하/xsm+ㄴ/etm
+9	죽음으로	죽음+으로	ADV	_	10	advcl	_	_	죽음/ncn+으로/jca
+10	벌한다	벌+하+ㄴ다	VERB	_	0	root	_	_	벌/ncpa+하/xsv+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그런데 버림받는 고통은 죄의식보다 성행된다 .
+1	그런데	그런데	CCONJ	_	5	cc	_	_	그런데/maj
+2	버림받는	버림받+는	VERB	_	3	acl	_	_	버림받/pvg+는/etm
+3	고통은	고통+은	NOUN	_	5	dislocated	_	_	고통/ncps+은/jxt
+4	죄의식보다	죄의식+보다	ADV	_	5	advcl	_	_	죄의식/ncn+보다/jca
+5	성행된다	성행+되+ㄴ다	VERB	_	0	root	_	_	성행/ncpa+되/xsv+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그의 심리 비평은 두브로브스치의 왜신비평인가?에서 비판되었다 .
+1	그의	그+의	PRON	_	3	nmod	_	_	그/npp+의/jcm
+2	심리	심리	NOUN	_	3	compound	_	_	심리/ncn
+3	비평은	비평+은	NOUN	_	6	dislocated	_	_	비평/ncpa+은/jxt
+4	두브로브스치의	두브로브스치+의	PROPN	_	5	nmod	_	_	두브로브스치/nq+의/jcm
+5	왜신비평인가?에서	왜신비평인가?+에서	ADV	_	6	advcl	_	_	왜신비평인가?/nq+에서/jca
+6	비판되었다	비판+되+었+다	VERB	_	0	root	_	_	비판/ncpa+되/xsv+었/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그는 말하기를 , 모롱은 작가의 여러 다른 작품을 하나의 유일한 작품인 양 혼동하고 장르를 파괴시킨다는 것이다 .
+1	그는	그+는	PRON	_	2	dislocated	_	_	그/npp+는/jxt
+2	말하기를	말하+기+를	NOUN	_	16	advmod	_	_	말하/pvg+기/etn+를/jco
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	모롱은	모롱+은	PROPN	_	15	dislocated	_	_	모롱/nq+은/jxt
+5	작가의	작가+의	NOUN	_	8	nmod	_	_	작가/ncn+의/jcm
+6	여러	여러	ADJ	_	8	amod	_	_	여러/mma
+7	다른	다르+ㄴ	ADJ	_	8	amod	_	_	다르/paa+ㄴ/etm
+8	작품을	작품+을	NOUN	_	11	obj	_	_	작품/ncn+을/jco
+9	하나의	하나+의	NUM	_	11	nmod	_	_	하나/nnc+의/jcm
+10	유일한	유일+하+ㄴ	VERB	_	11	amod	_	_	유일/ncps+하/xsm+ㄴ/etm
+11	작품인	작품+이+ㄴ	VERB	_	12	acl	_	_	작품/ncn+이/jp+ㄴ/etm
+12	양	양	NOUN	_	13	mark	_	_	양/nbn
+13	혼동하고	혼동+하+고	SCONJ	_	15	ccomp	_	_	혼동/ncpa+하/xsv+고/ecs
+14	장르를	장르+를	NOUN	_	15	obj	_	_	장르/ncn+를/jco
+15	파괴시킨다는	파괴+시키+ㄴ다는	VERB	_	16	ccomp	_	_	파괴/ncpa+시키/xsv+ㄴ다는/etm
+16	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 라씬느의 극은 극으로써 이야기되지 않고 라씬느의 악몽으로 이야기된다 .
+1	라씬느의	라씬느+의	PROPN	_	2	nmod	_	_	라씬느/nq+의/jcm
+2	극은	극+은	NOUN	_	8	dislocated	_	_	극/ncn+은/jxt
+3	극으로써	극+으로써	ADV	_	4	advcl	_	_	극/ncn+으로써/jca
+4	이야기되지	이야기+되+지	VERB	_	8	conj	_	_	이야기/ncpa+되/xsv+지/ecx
+5	않고	않+고	CCONJ	_	4	aux	_	_	않/px+고/ecc
+6	라씬느의	라씬느+의	PROPN	_	7	nmod	_	_	라씬느/nq+의/jcm
+7	악몽으로	악몽+으로	ADV	_	8	advcl	_	_	악몽/ncn+으로/jca
+8	이야기된다	이야기+되+ㄴ다	VERB	_	0	root	_	_	이야기/ncpa+되/xsv+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 또한 작품을 미래지향적 투사로 보지 않고 , 유일한 하나의 주제의 반복으로 받아들인다는 것이다 .
+1	또한	또한	CCONJ	_	13	cc	_	_	또한/maj
+2	작품을	작품+을	NOUN	_	12	obj	_	_	작품/ncn+을/jco
+3	미래지향적	미래+지향+적	NOUN	_	4	amod	_	_	미래/ncn+지향/ncpa+적/xsn
+4	투사로	투사+로	ADV	_	5	advcl	_	_	투사/ncn+로/jca
+5	보지	보+지	VERB	_	12	conj	_	_	보/pvg+지/ecx
+6	않고	않+고	CCONJ	_	5	aux	_	_	않/px+고/ecc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	유일한	유일+하+ㄴ	VERB	_	10	amod	_	_	유일/ncps+하/xsm+ㄴ/etm
+9	하나의	하나+의	NUM	_	10	nmod	_	_	하나/nnc+의/jcm
+10	주제의	주제+의	NOUN	_	11	nmod	_	_	주제/ncn+의/jcm
+11	반복으로	반복+으로	ADV	_	12	advcl	_	_	반복/ncpa+으로/jca
+12	받아들인다는	받아들이+ㄴ다는	VERB	_	13	ccomp	_	_	받아들이/pvg+ㄴ다는/etm
+13	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그가 제시하는 개인적 신화는 주관적인 가설의 성격이 강하지만 , 심리비평을 정립시켰다고 하겠다 .
+1	그가	그+가	PRON	_	2	nsubj	_	_	그/npp+가/jcs
+2	제시하는	제시+하+는	VERB	_	4	acl	_	_	제시/ncpa+하/xsv+는/etm
+3	개인적	개인+적	NOUN	_	4	amod	_	_	개인/ncn+적/xsn
+4	신화는	신화+는	NOUN	_	11	dislocated	_	_	신화/ncn+는/jxt
+5	주관적인	주관+적+이+ㄴ	VERB	_	6	acl	_	_	주관/ncn+적/xsn+이/jp+ㄴ/etm
+6	가설의	가설+의	NOUN	_	7	nmod	_	_	가설/ncn+의/jcm
+7	성격이	성격+이	NOUN	_	8	nsubj	_	_	성격/ncn+이/jcs
+8	강하지만	강하+지만	SCONJ	_	11	xcomp	_	_	강하/paa+지만/ecs
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	심리비평을	심리+비평+을	NOUN	_	11	obj	_	_	심리/ncn+비평/ncpa+을/jco
+11	정립시켰다고	정립+시키+었+다+고	VERB	_	12	conj	_	_	정립/ncpa+시키/xsv+었/ep+다/ef+고/jcr
+12	하겠다	하+겠+다	VERB	_	0	root	_	_	하/pvg+겠/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 싸르트르에 있어서 비평과 철학은 서로 뗄 수 없는 성질의 것이다 .
+1	싸르트르에	싸르트르+에	ADV	_	2	obl	_	_	싸르트르/nq+에/jca
+2	있어서	있+어서	SCONJ	_	10	xcomp	_	_	있/paa+어서/ecs
+3	비평과	비평+과	CCONJ	_	4	conj	_	_	비평/ncpa+과/jcj
+4	철학은	철학+은	NOUN	_	6	dislocated	_	_	철학/ncn+은/jxt
+5	서로	서로	ADV	_	6	advmod	_	_	서로/mag
+6	뗄	떼+ㄹ	VERB	_	9	acl	_	_	떼/pvg+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	없는	없+는	ADJ	_	6	aux	_	_	없/paa+는/etm
+9	성질의	성질+의	NOUN	_	10	nmod	_	_	성질/ncn+의/jcm
+10	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그에 의하면 , 소설 기법은 항상 소설가의 형이상학을 손가락질해 보이므로 , 비평가의 사명은 소설 기법을 평가하기에 앞서 형이상학을 헤아리는 것이라는 것이다 .
+1	그에	그+에	ADV	_	2	obl	_	_	그/npp+에/jca
+2	의하면	의하+면	SCONJ	_	21	ccomp	_	_	의하/pvg+면/ecs
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	소설	소설	NOUN	_	5	compound	_	_	소설/ncn
+5	기법은	기법+은	NOUN	_	9	dislocated	_	_	기법/ncn+은/jxt
+6	항상	항상	ADV	_	9	advmod	_	_	항상/mag
+7	소설가의	소설가+의	NOUN	_	8	nmod	_	_	소설가/ncn+의/jcm
+8	형이상학을	형이상학+을	NOUN	_	9	obj	_	_	형이상학/ncn+을/jco
+9	손가락질해	손가락질+하+어	SCONJ	_	10	ccomp	_	_	손가락질/ncpa+하/xsv+어/ecs
+10	보이므로	보이+므로	SCONJ	_	21	ccomp	_	_	보이/pvg+므로/ecs
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	비평가의	비평가+의	NOUN	_	13	nmod	_	_	비평가/ncn+의/jcm
+13	사명은	사명+은	NOUN	_	19	dislocated	_	_	사명/ncn+은/jxt
+14	소설	소설	NOUN	_	15	compound	_	_	소설/ncn
+15	기법을	기법+을	NOUN	_	16	obj	_	_	기법/ncn+을/jco
+16	평가하기에	평가+하+기+에	ADV	_	17	obl	_	_	평가/ncpa+하/xsv+기/etn+에/jca
+17	앞서	앞서	ADV	_	19	advmod	_	_	앞서/mag
+18	형이상학을	형이상학+을	NOUN	_	19	obj	_	_	형이상학/ncn+을/jco
+19	헤아리는	헤아리+는	VERB	_	21	ccomp	_	_	헤아리/pvg+는/etm
+20	것이라는	것+이+라는	VERB	_	19	aux	_	_	것/nbn+이/jp+라는/etm
+21	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 그가 처음으로 사용한 실존적 정신분석의 용어는 문학 비평의 중요한 용어 중의 하나로 등장하여 영향을 끼친다 .
+1	그가	그+가	PRON	_	3	nsubj	_	_	그/npp+가/jcs
+2	처음으로	처음+으로	ADV	_	3	advcl	_	_	처음/ncn+으로/jca
+3	사용한	사용+하+ㄴ	VERB	_	6	acl	_	_	사용/ncpa+하/xsv+ㄴ/etm
+4	실존적	실존+적	NOUN	_	5	amod	_	_	실존/ncpa+적/xsn
+5	정신분석의	정신+분석+의	NOUN	_	6	nmod	_	_	정신/ncn+분석/ncpa+의/jcm
+6	용어는	용어+는	NOUN	_	15	dislocated	_	_	용어/ncn+는/jxt
+7	문학	문학	NOUN	_	8	compound	_	_	문학/ncpa
+8	비평의	비평+의	NOUN	_	10	nmod	_	_	비평/ncpa+의/jcm
+9	중요한	중요+하+ㄴ	VERB	_	10	amod	_	_	중요/ncps+하/xsm+ㄴ/etm
+10	용어	용어	NOUN	_	11	compound	_	_	용어/ncn
+11	중의	중+의	NOUN	_	12	nmod	_	_	중/nbn+의/jcm
+12	하나로	하나+로	ADV	_	13	advcl	_	_	하나/nnc+로/jca
+13	등장하여	등장+하+어	SCONJ	_	15	ccomp	_	_	등장/ncpa+하/xsv+어/ecs
+14	영향을	영향+을	NOUN	_	15	obj	_	_	영향/ncn+을/jco
+15	끼친다	끼치+ㄴ다	VERB	_	0	root	_	_	끼치/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 실존적 정신 분석의 원칙은 , 인간을 집합적으로 보지 않고 전체성 안에 통일된 존재로 본다 .
+1	실존적	실존+적	NOUN	_	3	amod	_	_	실존/ncpa+적/xsn
+2	정신	정신	NOUN	_	3	compound	_	_	정신/ncn
+3	분석의	분석+의	NOUN	_	4	nmod	_	_	분석/ncpa+의/jcm
+4	원칙은	원칙+은	NOUN	_	14	advmod	_	_	원칙/ncn+은/jxt
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	인간을	인간+을	NOUN	_	8	obj	_	_	인간/ncn+을/jco
+7	집합적으로	집합+적+으로	ADV	_	8	advcl	_	_	집합/ncpa+적/xsn+으로/jca
+8	보지	보+지	VERB	_	14	conj	_	_	보/pvg+지/ecx
+9	않고	않+고	CCONJ	_	8	aux	_	_	않/px+고/ecc
+10	전체성	전체성	NOUN	_	11	compound	_	_	전체성/ncn
+11	안에	안+에	ADV	_	12	obl	_	_	안/ncn+에/jca
+12	통일된	통일+되+ㄴ	VERB	_	13	acl	_	_	통일/ncpa+되/xsv+ㄴ/etm
+13	존재로	존재+로	ADV	_	14	advcl	_	_	존재/ncpa+로/jca
+14	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 따라서 모든 인간의 행동은 , 그 인간성의 근본적인 구조를 읽을 수 있게 해주는 계시적인 기호의 망에 연관된다 .
+1	따라서	따라서	CCONJ	_	17	cc	_	_	따라서/maj
+2	모든	모든	ADJ	_	4	amod	_	_	모든/mma
+3	인간의	인간+의	NOUN	_	4	nmod	_	_	인간/ncn+의/jcm
+4	행동은	행동+은	NOUN	_	17	advmod	_	_	행동/ncpa+은/jxt
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	그	그	DET	_	7	det	_	_	그/mmd
+7	인간성의	인간성+의	NOUN	_	9	nmod	_	_	인간성/ncn+의/jcm
+8	근본적인	근본+적+이+ㄴ	VERB	_	9	acl	_	_	근본/ncn+적/xsn+이/jp+ㄴ/etm
+9	구조를	구조+를	NOUN	_	10	obj	_	_	구조/ncpa+를/jco
+10	읽을	읽+ㄹ	VERB	_	16	acl	_	_	읽/pvg+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있게	있+게	ADJ	_	10	aux	_	_	있/paa+게/ecx
+13	해주는	하+어+주+는	AUX	_	10	aux	_	_	하/px+어/ecx+주/px+는/etm
+14	계시적인	계시+적+이+ㄴ	VERB	_	16	acl	_	_	계시/ncpa+적/xsn+이/jp+ㄴ/etm
+15	기호의	기호+의	NOUN	_	16	nmod	_	_	기호/ncn+의/jcm
+16	망에	망+에	ADV	_	17	obl	_	_	망/ncn+에/jca
+17	연관된다	연관+되+ㄴ다	VERB	_	0	root	_	_	연관/ncpa+되/xsv+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 인간 존재를 , 어떤 상황 속에서 역사화의 과정 속의 존재로 파악한다 .
+1	인간	인간	NOUN	_	2	compound	_	_	인간/ncn
+2	존재를	존재+를	NOUN	_	11	advmod	_	_	존재/ncpa+를/jco
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	어떤	어떤	DET	_	5	det	_	_	어떤/mmd
+5	상황	상황	NOUN	_	6	compound	_	_	상황/ncn
+6	속에서	속+에서	ADV	_	11	advcl	_	_	속/ncn+에서/jca
+7	역사화의	역사화+의	NOUN	_	8	nmod	_	_	역사화/ncn+의/jcm
+8	과정	과정	NOUN	_	9	compound	_	_	과정/ncn
+9	속의	속+의	NOUN	_	10	nmod	_	_	속/ncn+의/jcm
+10	존재로	존재+로	ADV	_	11	advcl	_	_	존재/ncpa+로/jca
+11	파악한다	파악+하+ㄴ다	VERB	_	0	root	_	_	파악/ncpa+하/xsv+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 따라서 환경이 기계적으로 인간에게 작용한다고 보지 않고 , 개인의 자유롭고 의식적인 결정에 의한 선택이 중요시된다 .
+1	따라서	따라서	CCONJ	_	15	cc	_	_	따라서/maj
+2	환경이	환경+이	NOUN	_	5	nsubj	_	_	환경/ncn+이/jcs
+3	기계적으로	기계+적+으로	ADV	_	5	advcl	_	_	기계/ncn+적/xsn+으로/jca
+4	인간에게	인간+에게	ADV	_	5	iobj	_	_	인간/ncn+에게/jca
+5	작용한다고	작용+하+ㄴ다+고	VERB	_	6	conj	_	_	작용/ncpa+하/xsv+ㄴ다/ef+고/jcr
+6	보지	보+지	VERB	_	15	conj	_	_	보/pvg+지/ecx
+7	않고	않+고	CCONJ	_	6	aux	_	_	않/px+고/ecc
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	개인의	개인+의	NOUN	_	12	nmod	_	_	개인/ncn+의/jcm
+10	자유롭고	자유롭+고	CCONJ	_	11	conj	_	_	자유롭/paa+고/ecc
+11	의식적인	의식+적+이+ㄴ	VERB	_	12	acl	_	_	의식/ncn+적/xsn+이/jp+ㄴ/etm
+12	결정에	결정+에	ADV	_	13	obl	_	_	결정/ncpa+에/jca
+13	의한	의하+ㄴ	VERB	_	14	acl	_	_	의하/pvg+ㄴ/etm
+14	선택이	선택+이	NOUN	_	15	nsubj	_	_	선택/ncpa+이/jcs
+15	중요시된다	중요시+되+ㄴ다	VERB	_	0	root	_	_	중요시/ncpa+되/xsv+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 선택은 개인적이고 순간적이다 .
+1	선택은	선택+은	NOUN	_	3	dislocated	_	_	선택/ncpa+은/jxt
+2	개인적이고	개인+적+이+고	CCONJ	_	3	conj	_	_	개인/ncn+적/xsn+이/jp+고/ecc
+3	순간적이다	순간+적+이+다	VERB	_	0	root	_	_	순간/ncn+적/xsn+이/jp+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 따라서 의식적인 선택은 시간성 안에서 행해짐으로 인해서 , 싸르트르에 있어서 인식과 시간은 긴밀한 관계를 갖는다 .
+1	따라서	따라서	CCONJ	_	15	cc	_	_	따라서/maj
+2	의식적인	의식+적+이+ㄴ	VERB	_	3	acl	_	_	의식/ncn+적/xsn+이/jp+ㄴ/etm
+3	선택은	선택+은	NOUN	_	6	dislocated	_	_	선택/ncpa+은/jxt
+4	시간성	시간성	NOUN	_	5	compound	_	_	시간성/ncn
+5	안에서	안+에서	ADV	_	6	advcl	_	_	안/ncn+에서/jca
+6	행해짐으로	행하+어+지+ㅁ+으로	ADV	_	7	advcl	_	_	행하/pvg+어/ecx+지/px+ㅁ/etn+으로/jca
+7	인해서	인하+어서	SCONJ	_	15	ccomp	_	_	인하/pvg+어서/ecs
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	싸르트르에	싸르트르+에	ADV	_	10	obl	_	_	싸르트르/nq+에/jca
+10	있어서	있+어서	SCONJ	_	15	xcomp	_	_	있/paa+어서/ecs
+11	인식과	인식+과	CCONJ	_	12	conj	_	_	인식/ncpa+과/jcj
+12	시간은	시간+은	NOUN	_	15	dislocated	_	_	시간/ncn+은/jxt
+13	긴밀한	긴밀+하+ㄴ	VERB	_	14	amod	_	_	긴밀/ncps+하/xsm+ㄴ/etm
+14	관계를	관계+를	NOUN	_	15	obj	_	_	관계/ncpa+를/jco
+15	갖는다	갖+는다	VERB	_	0	root	_	_	갖/pvg+는다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그러므로 의미는 요소에 나오는 것이 아니라 종합에서 비롯된다는 것이다 .
+1	그러므로	그러므로	CCONJ	_	9	cc	_	_	그러므로/maj
+2	의미는	의미+는	NOUN	_	6	dislocated	_	_	의미/ncpa+는/jxt
+3	요소에	요소+에	ADV	_	4	obl	_	_	요소/ncn+에/jca
+4	나오는	나오+는	VERB	_	5	acl	_	_	나오/pvg+는/etm
+5	것이	것+이	NOUN	_	6	csubj	_	_	것/nbn+이/jcc
+6	아니라	아니+라	SCONJ	_	8	xcomp	_	_	아니/paa+라/ecs
+7	종합에서	종합+에서	ADV	_	8	advcl	_	_	종합/ncpa+에서/jca
+8	비롯된다는	비롯되+ㄴ다는	VERB	_	9	ccomp	_	_	비롯되/pvg+ㄴ다는/etm
+9	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 과거를 분석하는 것은 현재와 미래와의 연대성 안에서이고 , 과거와 미래는 현재와 상관된 것으로서 , 결코 분리될 시간이 아니라는 것이다 .
+1	과거를	과거+를	NOUN	_	2	obj	_	_	과거/ncn+를/jco
+2	분석하는	분석+하+는	VERB	_	3	acl	_	_	분석/ncpa+하/xsv+는/etm
+3	것은	것+은	NOUN	_	7	dislocated	_	_	것/nbn+은/jxt
+4	현재와	현재+와	CCONJ	_	5	conj	_	_	현재/ncn+와/jcj
+5	미래와의	미래+와+의	NOUN	_	6	nmod	_	_	미래/ncn+와/jct+의/jcm
+6	연대성	연대성	NOUN	_	7	compound	_	_	연대성/ncn
+7	안에서이고	안+에서+이+고	CCONJ	_	19	conj	_	_	안/ncn+에서/jca+이/jp+고/ecc
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	과거와	과거+와	CCONJ	_	10	conj	_	_	과거/ncn+와/jcj
+10	미래는	미래+는	NOUN	_	12	dislocated	_	_	미래/ncn+는/jxt
+11	현재와	현재+와	CCONJ	_	12	conj	_	_	현재/ncn+와/jct
+12	상관된	상관+되+ㄴ	VERB	_	13	acl	_	_	상관/ncpa+되/xsv+ㄴ/etm
+13	것으로서	것+으로서	ADV	_	18	dep	_	_	것/nbn+으로서/jca
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	결코	결코	ADV	_	18	advmod	_	_	결코/mag
+16	분리될	분리+되+ㄹ	VERB	_	17	acl	_	_	분리/ncpa+되/xsv+ㄹ/etm
+17	시간이	시간+이	NOUN	_	18	csubj	_	_	시간/ncn+이/jcc
+18	아니라는	아니+라는	ADJ	_	19	amod	_	_	아니/paa+라는/etm
+19	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 즉 과거의 사건은 사실성으로 남아 있으나 , 그 의미는 끊임없이 자유스런 해석의 가능성을 갖는다 .
+1	즉	즉	CCONJ	_	14	cc	_	_	즉/maj
+2	과거의	과거+의	NOUN	_	3	nmod	_	_	과거/ncn+의/jcm
+3	사건은	사건+은	NOUN	_	5	dislocated	_	_	사건/ncn+은/jxt
+4	사실성으로	사실성+으로	ADV	_	5	advcl	_	_	사실성/ncn+으로/jca
+5	남아	남+아	VERB	_	14	ccomp	_	_	남/pvg+아/ecx
+6	있으나	있+으나	SCONJ	_	5	aux	_	_	있/px+으나/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	그	그	DET	_	9	det	_	_	그/mmd
+9	의미는	의미+는	NOUN	_	14	dislocated	_	_	의미/ncpa+는/jxt
+10	끊임없이	끊임없이	ADV	_	14	advmod	_	_	끊임없이/mag
+11	자유스런	자유+스럽+ㄴ	VERB	_	12	amod	_	_	자유/ncps+스럽/xsm+ㄴ/etm
+12	해석의	해석+의	NOUN	_	13	nmod	_	_	해석/ncpa+의/jcm
+13	가능성을	가능성+을	NOUN	_	14	obj	_	_	가능성/ncn+을/jco
+14	갖는다	갖+는다	VERB	_	0	root	_	_	갖/pvg+는다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 편지 , 시작품 , 꿈 , 강박관념 , 행동 등 보들레르에 관한 모든 자료에 근거해서 과거를 분석하고 미래를 통합하여 해석한다 .
+1	편지	편지	NOUN	_	3	conj	_	_	편지/ncn
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	시작품	시작품	NOUN	_	5	conj	_	_	시작품/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	꿈	꿈	NOUN	_	7	conj	_	_	꿈/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	강박관념	강박관념	NOUN	_	9	conj	_	_	강박관념/ncn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	행동	행동	NOUN	_	10	compound	_	_	행동/ncpa
+10	등	등	NOUN	_	14	mark	_	_	등/nbn
+11	보들레르에	보들레르+에	ADV	_	12	obl	_	_	보들레르/nq+에/jca
+12	관한	관하+ㄴ	VERB	_	14	acl	_	_	관하/pvg+ㄴ/etm
+13	모든	모든	ADJ	_	14	amod	_	_	모든/mma
+14	자료에	자료+에	ADV	_	15	obl	_	_	자료/ncn+에/jca
+15	근거해서	근거+하+어서	SCONJ	_	20	ccomp	_	_	근거/ncpa+하/xsv+어서/ecs
+16	과거를	과거+를	NOUN	_	17	obj	_	_	과거/ncn+를/jco
+17	분석하고	분석+하+고	CCONJ	_	19	conj	_	_	분석/ncpa+하/xsv+고/ecc
+18	미래를	미래+를	NOUN	_	19	obj	_	_	미래/ncn+를/jco
+19	통합하여	통합+하+어	SCONJ	_	20	ccomp	_	_	통합/ncpa+하/xsv+어/ecs
+20	해석한다	해석+하+ㄴ다	VERB	_	0	root	_	_	해석/ncpa+하/xsv+ㄴ다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 내던져진 보들레르는 영원히 고독하리라는 운명적 느낌을 갖게 되고 , 자기가 이번에는 그 고독을 다시 취하기로 선택하게 된다 .
+1	내던져진	내던지+어+지+ㄴ	AUX	_	2	acl	_	_	내던지/pvg+어/ecx+지/px+ㄴ/etm
+2	보들레르는	보들레르+는	PROPN	_	16	dislocated	_	_	보들레르/nq+는/jxt
+3	영원히	영원+히	ADV	_	4	advmod	_	_	영원/ncps+히/xsa
+4	고독하리라는	고독+하+리라는	VERB	_	6	amod	_	_	고독/ncps+하/xsm+리라는/etm
+5	운명적	운명+적	NOUN	_	6	amod	_	_	운명/ncn+적/xsn
+6	느낌을	느낌+을	NOUN	_	7	obj	_	_	느낌/ncn+을/jco
+7	갖게	갖+게	VERB	_	16	conj	_	_	갖/pvg+게/ecx
+8	되고	되+고	CCONJ	_	7	aux	_	_	되/px+고/ecc
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	자기가	자기+가	PRON	_	15	nsubj	_	_	자기/npp+가/jcs
+11	이번에는	이번+에+는	NOUN	_	15	dislocated	_	_	이번/ncn+에/jca+는/jxt
+12	그	그	DET	_	13	det	_	_	그/mmd
+13	고독을	고독+을	NOUN	_	15	obj	_	_	고독/ncps+을/jco
+14	다시	다시	ADV	_	15	advmod	_	_	다시/mag
+15	취하기로	취하+기+로	ADV	_	16	advcl	_	_	취하/pvg+기/etn+로/jca
+16	선택하게	선택+하+게	VERB	_	0	root	_	_	선택/ncpa+하/xsv+게/ecx
+17	된다	되+ㄴ다	AUX	_	16	aux	_	_	되/px+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그의 나르시즘 , 자책 , 사탄주의와 같은 특성은 보들레르가 자신의 선택을 운명으로 만들어 버리는 자기 기만과 모순에서 해석된다는 것이다 .
+1	그의	그+의	PRON	_	8	nmod	_	_	그/npp+의/jcm
+2	나르시즘	나르시즘	NOUN	_	4	conj	_	_	나르시즘/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	자책	자책	NOUN	_	6	conj	_	_	자책/ncpa
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	사탄주의와	사탄주의+와	CCONJ	_	7	conj	_	_	사탄주의/ncn+와/jct
+7	같은	같+ㄴ	ADJ	_	8	amod	_	_	같/paa+ㄴ/etm
+8	특성은	특성+은	NOUN	_	18	dislocated	_	_	특성/ncn+은/jxt
+9	보들레르가	보들레르+가	PROPN	_	13	nsubj	_	_	보들레르/nq+가/jcs
+10	자신의	자신+의	NOUN	_	11	nmod	_	_	자신/ncn+의/jcm
+11	선택을	선택+을	NOUN	_	13	obj	_	_	선택/ncpa+을/jco
+12	운명으로	운명+으로	ADV	_	13	advcl	_	_	운명/ncn+으로/jca
+13	만들어	만들+어	VERB	_	17	acl	_	_	만들/pvg+어/ecx
+14	버리는	버리+는	AUX	_	13	aux	_	_	버리/px+는/etm
+15	자기	자기	PRON	_	17	compound	_	_	자기/npp
+16	기만과	기만+과	CCONJ	_	17	conj	_	_	기만/ncpa+과/jcj
+17	모순에서	모순+에서	ADV	_	18	advcl	_	_	모순/ncn+에서/jca
+18	해석된다는	해석+되+ㄴ다는	VERB	_	19	ccomp	_	_	해석/ncpa+되/xsv+ㄴ다는/etm
+19	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 시인은 말이 사물을 위해 존재하는 것인지 , 또는 사물이 말을 위해서 존재하는 것인지를 결정하지 못한다 .
+1	시인은	시인+은	NOUN	_	14	dislocated	_	_	시인/ncn+은/jxt
+2	말이	말+이	NOUN	_	5	nsubj	_	_	말/ncpa+이/jcs
+3	사물을	사물+을	NOUN	_	4	obj	_	_	사물/ncn+을/jco
+4	위해	위하+어	SCONJ	_	5	ccomp	_	_	위하/pvg+어/ecs
+5	존재하는	존재+하+는	VERB	_	12	conj	_	_	존재/ncpa+하/xsv+는/etm
+6	것인지	것+이+ㄴ지	SCONJ	_	5	aux	_	_	것/nbn+이/jp+ㄴ지/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	또는	또는	CCONJ	_	12	cc	_	_	또는/maj
+9	사물이	사물+이	NOUN	_	12	nsubj	_	_	사물/ncn+이/jcs
+10	말을	말+을	NOUN	_	11	obj	_	_	말/ncpa+을/jco
+11	위해서	위하+어서	SCONJ	_	12	ccomp	_	_	위하/pvg+어서/ecs
+12	존재하는	존재+하+는	VERB	_	14	obj	_	_	존재/ncpa+하/xsv+는/etm
+13	것인지를	것+이+ㄴ지+를	NOUN	_	12	aux	_	_	것/nbn+이/jp+ㄴ지/ecs+를/jco
+14	결정하지	결정+하+지	VERB	_	0	root	_	_	결정/ncpa+하/xsv+지/ecx
+15	못한다	못하+ㄴ다	AUX	_	14	aux	_	_	못하/px+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 시인은 말에 봉사하지만 소설가는 말을 사용한다고 설명한다 .
+1	시인은	시인+은	NOUN	_	3	dislocated	_	_	시인/ncn+은/jxt
+2	말에	말+에	ADV	_	3	obl	_	_	말/ncpa+에/jca
+3	봉사하지만	봉사+하+지만	SCONJ	_	6	conj	_	_	봉사/ncpa+하/xsv+지만/ecs
+4	소설가는	소설가+는	NOUN	_	6	dislocated	_	_	소설가/ncn+는/jxt
+5	말을	말+을	NOUN	_	6	obj	_	_	말/ncpa+을/jco
+6	사용한다고	사용+하+ㄴ다+고	VERB	_	7	conj	_	_	사용/ncpa+하/xsv+ㄴ다/ef+고/jcr
+7	설명한다	설명+하+ㄴ다	VERB	_	0	root	_	_	설명/ncpa+하/xsv+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 참여문학의 이론적 근거를 주기 위해 쓰여진 이 책에서 싸르트르의 언어관이 나타난다 .
+1	참여문학의	참여+문학+의	NOUN	_	3	nmod	_	_	참여/ncpa+문학/ncpa+의/jcm
+2	이론적	이론+적	NOUN	_	3	amod	_	_	이론/ncn+적/xsn
+3	근거를	근거+를	NOUN	_	4	obj	_	_	근거/ncpa+를/jco
+4	주기	주+기	VERB	_	5	nmod	_	_	주/pvg+기/etn
+5	위해	위하+어	SCONJ	_	6	ccomp	_	_	위하/pvg+어/ecs
+6	쓰여진	쓰이+어+지+ㄴ	AUX	_	8	acl	_	_	쓰이/pvg+어/ecx+지/px+ㄴ/etm
+7	이	이	DET	_	8	det	_	_	이/mmd
+8	책에서	책+에서	ADV	_	11	advcl	_	_	책/ncn+에서/jca
+9	싸르트르의	싸르트르+의	PROPN	_	10	nmod	_	_	싸르트르/nq+의/jcm
+10	언어관이	언어관+이	NOUN	_	11	nsubj	_	_	언어관/ncn+이/jcs
+11	나타난다	나타나+ㄴ다	VERB	_	0	root	_	_	나타나/pvg+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 쟝삐에르리샤르 그는 개개의 작품에서 일종의 내면언어를 탐색하는데 , 이 언어는 무의식 속에서 사고가 형상을 갖추어가는 과정에 상응한다 .
+1	쟝삐에르리샤르	쟝삐에르리샤르	PROPN	_	2	compound	_	_	쟝삐에르리샤르/nq
+2	그는	그+는	PRON	_	7	dislocated	_	_	그/npp+는/jxt
+3	개개의	개개+의	NOUN	_	4	nmod	_	_	개개/ncn+의/jcm
+4	작품에서	작품+에서	ADV	_	7	advcl	_	_	작품/ncn+에서/jca
+5	일종의	일종+의	NOUN	_	6	nmod	_	_	일종/ncn+의/jcm
+6	내면언어를	내면+언어+를	NOUN	_	7	obj	_	_	내면/ncn+언어/ncn+를/jco
+7	탐색하는데	탐색+하+는데	SCONJ	_	17	ccomp	_	_	탐색/ncpa+하/xsv+는데/ecs
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	이	이	DET	_	10	det	_	_	이/mmd
+10	언어는	언어+는	NOUN	_	17	dislocated	_	_	언어/ncn+는/jxt
+11	무의식	무의식	NOUN	_	12	compound	_	_	무의식/ncn
+12	속에서	속+에서	ADV	_	15	advcl	_	_	속/ncn+에서/jca
+13	사고가	사고+가	NOUN	_	15	nsubj	_	_	사고/ncpa+가/jcs
+14	형상을	형상+을	NOUN	_	15	obj	_	_	형상/ncn+을/jco
+15	갖추어가는	갖추+어+가+는	AUX	_	16	acl	_	_	갖추/pvg+어/ecx+가/px+는/etm
+16	과정에	과정+에	ADV	_	17	obl	_	_	과정/ncn+에/jca
+17	상응한다	상응+하+ㄴ다	VERB	_	0	root	_	_	상응/ncpa+하/xsv+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이리하여 작가의 여러 작품은 총체적으로 재구성되어 , 창조자의 개성을 드러내 보이는 하나의 구조로 간주된다 .
+1	이리하여	이리하+어	SCONJ	_	6	ccomp	_	_	이리하/pvg+어/ecs
+2	작가의	작가+의	NOUN	_	4	nmod	_	_	작가/ncn+의/jcm
+3	여러	여러	ADJ	_	4	amod	_	_	여러/mma
+4	작품은	작품+은	NOUN	_	6	dislocated	_	_	작품/ncn+은/jxt
+5	총체적으로	총체+적+으로	ADV	_	6	advcl	_	_	총체/ncn+적/xsn+으로/jca
+6	재구성되어	재구성+되+어	SCONJ	_	14	ccomp	_	_	재구성/ncpa+되/xsv+어/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	창조자의	창조자+의	NOUN	_	9	nmod	_	_	창조자/ncn+의/jcm
+9	개성을	개성+을	NOUN	_	10	obj	_	_	개성/ncn+을/jco
+10	드러내	드러내+어	SCONJ	_	11	ccomp	_	_	드러내/pvg+어/ecs
+11	보이는	보이+는	VERB	_	13	acl	_	_	보이/pvg+는/etm
+12	하나의	하나+의	NUM	_	13	nmod	_	_	하나/nnc+의/jcm
+13	구조로	구조+로	ADV	_	14	advcl	_	_	구조/ncpa+로/jca
+14	간주된다	간주+되+ㄴ다	VERB	_	0	root	_	_	간주/ncpa+되/xsv+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 비평가는 간단없이 작품으로부터 작가의 심층적 감수성으로 옮아가서 여러 테마를 해석하고 연결하여 , 시인의 자기 모색 과정을 추적한다 .
+1	비평가는	비평가+는	NOUN	_	17	dislocated	_	_	비평가/ncn+는/jxt
+2	간단없이	간단없이	ADV	_	7	advmod	_	_	간단없이/mag
+3	작품으로부터	작품+으로+부터	ADV	_	7	advcl	_	_	작품/ncn+으로/jca+부터/jxc
+4	작가의	작가+의	NOUN	_	6	nmod	_	_	작가/ncn+의/jcm
+5	심층적	심층+적	NOUN	_	6	amod	_	_	심층/ncn+적/xsn
+6	감수성으로	감수성+으로	ADV	_	7	advcl	_	_	감수성/ncn+으로/jca
+7	옮아가서	옮+아+가+서	SCONJ	_	11	ccomp	_	_	옮/pvg+아/ecx+가/px+서/ecs
+8	여러	여러	ADJ	_	9	amod	_	_	여러/mma
+9	테마를	테마+를	NOUN	_	11	obj	_	_	테마/ncn+를/jco
+10	해석하고	해석+하+고	CCONJ	_	11	conj	_	_	해석/ncpa+하/xsv+고/ecc
+11	연결하여	연결+하+어	SCONJ	_	17	ccomp	_	_	연결/ncpa+하/xsv+어/ecs
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	시인의	시인+의	NOUN	_	15	nmod	_	_	시인/ncn+의/jcm
+14	자기	자기	PRON	_	15	compound	_	_	자기/npp
+15	모색	모색	NOUN	_	16	compound	_	_	모색/ncpa
+16	과정을	과정+을	NOUN	_	17	obj	_	_	과정/ncn+을/jco
+17	추적한다	추적+하+ㄴ다	VERB	_	0	root	_	_	추적/ncpa+하/xsv+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 몽상에 의해 내면화된 순수한 감각에 있어서의 중심적 기획을 작가에게서 찾는다 .
+1	몽상에	몽상+에	ADV	_	2	obl	_	_	몽상/ncpa+에/jca
+2	의해	의하+어	SCONJ	_	3	ccomp	_	_	의하/pvg+어/ecs
+3	내면화된	내면화+되+ㄴ	VERB	_	8	acl	_	_	내면화/ncpa+되/xsv+ㄴ/etm
+4	순수한	순수+하+ㄴ	VERB	_	5	amod	_	_	순수/ncps+하/xsm+ㄴ/etm
+5	감각에	감각+에	ADV	_	6	obl	_	_	감각/ncpa+에/jca
+6	있어서의	있+어서+의	NOUN	_	8	nmod	_	_	있/paa+어서/ecs+의/jcm
+7	중심적	중심+적	NOUN	_	8	amod	_	_	중심/ncn+적/xsn
+8	기획을	기획+을	NOUN	_	10	obj	_	_	기획/ncpa+을/jco
+9	작가에게서	작가+에게서	ADV	_	10	advcl	_	_	작가/ncn+에게서/jca
+10	찾는다	찾+는다	VERB	_	0	root	_	_	찾/pvg+는다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 네르발의 부동적 언어 , 렝보의 형태와 분출이 결합된 언어 , 이러한 것들은 감각이 언어에 의해서만 표출됨을 보여준다고 말한다 .
+1	네르발의	네르발+의	PROPN	_	3	nmod	_	_	네르발/nq+의/jcm
+2	부동적	부동+적	NOUN	_	3	amod	_	_	부동/ncpa+적/xsn
+3	언어	언어	NOUN	_	9	compound	_	_	언어/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	렝보의	렝보+의	PROPN	_	9	nmod	_	_	렝보/nq+의/jcm
+6	형태와	형태+와	CCONJ	_	7	conj	_	_	형태/ncn+와/jcj
+7	분출이	분출+이	NOUN	_	8	nsubj	_	_	분출/ncpa+이/jcs
+8	결합된	결합+되+ㄴ	VERB	_	9	acl	_	_	결합/ncpa+되/xsv+ㄴ/etm
+9	언어	언어	NOUN	_	12	compound	_	_	언어/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	이러한	이러하+ㄴ	VERB	_	12	amod	_	_	이러하/pad+ㄴ/etm
+12	것들은	것+들+은	NOUN	_	17	dislocated	_	_	것/nbn+들/xsn+은/jxt
+13	감각이	감각+이	NOUN	_	16	nsubj	_	_	감각/ncpa+이/jcs
+14	언어에	언어+에	ADV	_	15	obl	_	_	언어/ncn+에/jca
+15	의해서만	의하+어서+만	ADV	_	16	ccomp	_	_	의하/pvg+어서/ecs+만/jxc
+16	표출됨을	표출+되+ㅁ+을	NOUN	_	17	obj	_	_	표출/ncpa+되/xsv+ㅁ/etn+을/jco
+17	보여준다고	보이+어+주+ㄴ다+고	VERB	_	18	conj	_	_	보이/pvg+어/ecx+주/px+ㄴ다/ef+고/jcr
+18	말한다	말하+ㄴ다	VERB	_	0	root	_	_	말하/pvg+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 말라르메의 상상적 세계에서 그는 주제 비평의 방법론을 제시한다 .
+1	말라르메의	말라르메+의	PROPN	_	3	nmod	_	_	말라르메/nq+의/jcm
+2	상상적	상상+적	NOUN	_	3	amod	_	_	상상/ncpa+적/xsn
+3	세계에서	세계+에서	ADV	_	8	advcl	_	_	세계/ncn+에서/jca
+4	그는	그+는	PRON	_	8	dislocated	_	_	그/npp+는/jxt
+5	주제	주제	NOUN	_	6	compound	_	_	주제/ncn
+6	비평의	비평+의	NOUN	_	7	nmod	_	_	비평/ncpa+의/jcm
+7	방법론을	방법론+을	NOUN	_	8	obj	_	_	방법론/ncn+을/jco
+8	제시한다	제시+하+ㄴ다	VERB	_	0	root	_	_	제시/ncpa+하/xsv+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 주제란 작가가 그것을 중심으로 세계를 구성하며 전개하는 , 어떤 고정된 대상 , 도식 , 또는 구성의 구체적 원칙이라 설명한다 .
+1	주제란	주제+란	ADV	_	18	advcl	_	_	주제/ncn+란/jxc
+2	작가가	작가+가	NOUN	_	7	nsubj	_	_	작가/ncn+가/jcs
+3	그것을	그것+을	PRON	_	4	obj	_	_	그것/npd+을/jco
+4	중심으로	중심+으로	ADV	_	7	advcl	_	_	중심/ncn+으로/jca
+5	세계를	세계+를	NOUN	_	7	obj	_	_	세계/ncn+를/jco
+6	구성하며	구성+하+며	CCONJ	_	7	conj	_	_	구성/ncpa+하/xsv+며/ecc
+7	전개하는	전개+하+는	VERB	_	18	ccomp	_	_	전개/ncpa+하/xsv+는/etm
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	어떤	어떤	DET	_	16	det	_	_	어떤/mmd
+10	고정된	고정+되+ㄴ	VERB	_	16	acl	_	_	고정/ncpa+되/xsv+ㄴ/etm
+11	대상	대상	NOUN	_	13	conj	_	_	대상/ncn
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	도식	도식	NOUN	_	16	conj	_	_	도식/ncn
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	또는	또는	CCONJ	_	16	cc	_	_	또는/maj
+16	구성의	구성+의	NOUN	_	18	nmod	_	_	구성/ncpa+의/jcm
+17	구체적	구체+적	NOUN	_	18	amod	_	_	구체/ncn+적/xsn
+18	원칙이라	원칙+이+라	VERB	_	19	ccomp	_	_	원칙/ncn+이/jp+라/ef
+19	설명한다	설명+하+ㄴ다	VERB	_	0	root	_	_	설명/ncpa+하/xsv+ㄴ다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 주제는 또한 상징으로 포착될 수 있는데 , 말라르메의 흰색은 순결 , 장애물 , 불감증 , 또는 자유의 상징성을 갖는다 .
+1	주제는	주제+는	NOUN	_	4	dislocated	_	_	주제/ncn+는/jxt
+2	또한	또한	ADV	_	4	advmod	_	_	또한/mag
+3	상징으로	상징+으로	ADV	_	4	advcl	_	_	상징/ncpa+으로/jca
+4	포착될	포착+되+ㄹ	VERB	_	19	ccomp	_	_	포착/ncpa+되/xsv+ㄹ/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	있는데	있+는데	SCONJ	_	4	aux	_	_	있/paa+는데/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	말라르메의	말라르메+의	PROPN	_	9	nmod	_	_	말라르메/nq+의/jcm
+9	흰색은	흰색+은	NOUN	_	19	dislocated	_	_	흰색/ncn+은/jxt
+10	순결	순결	NOUN	_	12	conj	_	_	순결/ncps
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	장애물	장애물	NOUN	_	14	conj	_	_	장애물/ncn
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	불감증	불감증	NOUN	_	17	conj	_	_	불감증/ncn
+15	,	,	PUNCT	_	14	punct	_	_	,/sp
+16	또는	또는	CCONJ	_	17	cc	_	_	또는/maj
+17	자유의	자유+의	NOUN	_	18	nmod	_	_	자유/ncps+의/jcm
+18	상징성을	상징성+을	NOUN	_	19	obj	_	_	상징성/ncn+을/jco
+19	갖는다	갖+는다	VERB	_	0	root	_	_	갖/pvg+는다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 하나의 상징은 다른 상징으로 전염되어 가는데 , 창공에서 유리 , 흰종이 , 눈 덮힌 산정 , 백조 , 날개 , 천정으로의 전이가 이루어진다 .
+1	하나의	하나+의	NUM	_	2	nmod	_	_	하나/nnc+의/jcm
+2	상징은	상징+은	NOUN	_	5	dislocated	_	_	상징/ncpa+은/jxt
+3	다른	다르+ㄴ	ADJ	_	4	amod	_	_	다르/paa+ㄴ/etm
+4	상징으로	상징+으로	ADV	_	5	advcl	_	_	상징/ncpa+으로/jca
+5	전염되어	전염+되+어	VERB	_	23	ccomp	_	_	전염/ncpa+되/xsv+어/ecx
+6	가는데	가+는데	SCONJ	_	5	aux	_	_	가/px+는데/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	창공에서	창공+에서	ADV	_	23	advcl	_	_	창공/ncn+에서/jca
+9	유리	유리	NOUN	_	11	conj	_	_	유리/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	흰종이	흰종이	NOUN	_	15	conj	_	_	흰종이/ncn
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	눈	눈	NOUN	_	14	dep	_	_	눈/ncn
+14	덮힌	덮히+ㄴ	VERB	_	15	acl	_	_	덮히/pvg+ㄴ/etm
+15	산정	산정	NOUN	_	17	compound	_	_	산정/ncn
+16	,	,	PUNCT	_	15	punct	_	_	,/sp
+17	백조	백조	NOUN	_	19	conj	_	_	백조/ncn
+18	,	,	PUNCT	_	17	punct	_	_	,/sp
+19	날개	날개	NOUN	_	21	conj	_	_	날개/ncn
+20	,	,	PUNCT	_	19	punct	_	_	,/sp
+21	천정으로의	천정+으로+의	NOUN	_	22	nmod	_	_	천정/ncn+으로/jca+의/jcm
+22	전이가	전이+가	NOUN	_	23	nsubj	_	_	전이/ncpa+가/jcs
+23	이루어진다	이루+어+지+ㄴ다	AUX	_	0	root	_	_	이루/pvg+어/ecx+지/px+ㄴ다/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+
+# 숨겨진 부분의 이미지는 내밀한 꿈 안에서 혼합되는 섹스 , 나뭇잎 , 거울 , 책 , 무덤의 이미지에 관계된다 .
+1	숨겨진	숨기+어+지+ㄴ	AUX	_	2	acl	_	_	숨기/pvg+어/ecx+지/px+ㄴ/etm
+2	부분의	부분+의	NOUN	_	3	nmod	_	_	부분/ncn+의/jcm
+3	이미지는	이미지+는	NOUN	_	18	dislocated	_	_	이미지/ncn+는/jxt
+4	내밀한	내밀+하+ㄴ	VERB	_	5	amod	_	_	내밀/ncps+하/xsm+ㄴ/etm
+5	꿈	꿈	NOUN	_	6	compound	_	_	꿈/ncn
+6	안에서	안+에서	ADV	_	7	advcl	_	_	안/ncn+에서/jca
+7	혼합되는	혼합+되+는	VERB	_	16	acl	_	_	혼합/ncpa+되/xsv+는/etm
+8	섹스	섹스	NOUN	_	10	conj	_	_	섹스/ncn
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	나뭇잎	나뭇잎	NOUN	_	12	conj	_	_	나뭇잎/ncn
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	거울	거울	NOUN	_	14	conj	_	_	거울/ncn
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	책	책	NOUN	_	16	conj	_	_	책/ncn
+15	,	,	PUNCT	_	14	punct	_	_	,/sp
+16	무덤의	무덤+의	NOUN	_	17	nmod	_	_	무덤/ncn+의/jcm
+17	이미지에	이미지+에	ADV	_	18	obl	_	_	이미지/ncn+에/jca
+18	관계된다	관계+되+ㄴ다	VERB	_	0	root	_	_	관계/ncpa+되/xsv+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그의 말에 의하면 , 시인은 시를 짓는 것이 사명이라기보다는 존재하는 것과 우리로 하여금 존재하게 하는 것을 사명으로 한다 .
+1	그의	그+의	PRON	_	2	nmod	_	_	그/npp+의/jcm
+2	말에	말+에	ADV	_	3	obl	_	_	말/ncpa+에/jca
+3	의하면	의하+면	SCONJ	_	18	ccomp	_	_	의하/pvg+면/ecs
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	시인은	시인+은	NOUN	_	18	dislocated	_	_	시인/ncn+은/jxt
+6	시를	시+를	NOUN	_	7	obj	_	_	시/ncn+를/jco
+7	짓는	짓+는	VERB	_	8	acl	_	_	짓/pvg+는/etm
+8	것이	것+이	NOUN	_	9	nsubj	_	_	것/nbn+이/jcs
+9	사명이라기보다는	사명+이+라기+보다+는	NOUN	_	18	dislocated	_	_	사명/ncn+이/jp+라기/etn+보다/jca+는/jxt
+10	존재하는	존재+하+는	VERB	_	11	acl	_	_	존재/ncpa+하/xsv+는/etm
+11	것과	것+과	CCONJ	_	12	conj	_	_	것/nbn+과/jcj
+12	우리로	우리+로	ADV	_	13	advcl	_	_	우리/npp+로/jca
+13	하여금	하여금	ADV	_	14	advmod	_	_	하여금/mag
+14	존재하게	존재+하+게	VERB	_	16	acl	_	_	존재/ncpa+하/xsv+게/ecx
+15	하는	하+는	AUX	_	14	aux	_	_	하/px+는/etm
+16	것을	것+을	NOUN	_	18	obj	_	_	것/nbn+을/jco
+17	사명으로	사명+으로	ADV	_	18	advcl	_	_	사명/ncn+으로/jca
+18	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그러나 그 존재는 일상적인 존재가 아니라 , 내적인 삶의 절정 , 사상적 세계에 관계된 것이라고 말한다 .
+1	그러나	그러나	CCONJ	_	16	cc	_	_	그러나/maj
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	존재는	존재+는	NOUN	_	14	dislocated	_	_	존재/ncpa+는/jxt
+4	일상적인	일상+적+이+ㄴ	VERB	_	5	acl	_	_	일상/ncn+적/xsn+이/jp+ㄴ/etm
+5	존재가	존재+가	NOUN	_	6	nsubj	_	_	존재/ncpa+가/jcs
+6	아니라	아니+라	SCONJ	_	14	xcomp	_	_	아니/paa+라/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	내적인	내적+이+ㄴ	VERB	_	9	acl	_	_	내적/ncn+이/jp+ㄴ/etm
+9	삶의	삶+의	NOUN	_	10	nmod	_	_	삶/ncn+의/jcm
+10	절정	절정	NOUN	_	13	compound	_	_	절정/ncn
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	사상적	사상+적	NOUN	_	13	amod	_	_	사상/ncn+적/xsn
+13	세계에	세계+에	ADV	_	14	obl	_	_	세계/ncn+에/jca
+14	관계된	관계+되+ㄴ	VERB	_	16	conj	_	_	관계/ncpa+되/xsv+ㄴ/etm
+15	것이라고	것+이+라+고	VERB	_	14	aux	_	_	것/nbn+이/jp+라/ef+고/jcr
+16	말한다	말하+ㄴ다	VERB	_	0	root	_	_	말하/pvg+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 프루스트의 공간에 대한 그의 비평에 의하면 , 잃어버린 시간을 찾아서의 서술자는 잃어버린 공간으로 향하고 있고 , 한 원초적인 장소에 매여 있다 .
+1	프루스트의	프루스트+의	PROPN	_	2	nmod	_	_	프루스트/nq+의/jcm
+2	공간에	공간+에	ADV	_	3	obl	_	_	공간/ncn+에/jca
+3	대한	대하+ㄴ	VERB	_	5	acl	_	_	대하/pvg+ㄴ/etm
+4	그의	그+의	PRON	_	5	nmod	_	_	그/npp+의/jcm
+5	비평에	비평+에	ADV	_	6	obl	_	_	비평/ncpa+에/jca
+6	의하면	의하+면	SCONJ	_	20	ccomp	_	_	의하/pvg+면/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	잃어버린	잃+어+버리+ㄴ	AUX	_	9	acl	_	_	잃/pvg+어/ecx+버리/px+ㄴ/etm
+9	시간을	시간+을	NOUN	_	10	obj	_	_	시간/ncn+을/jco
+10	찾아서의	찾+아서+의	NOUN	_	11	nmod	_	_	찾/pvg+아서/ecs+의/jcm
+11	서술자는	서술자+는	NOUN	_	20	dislocated	_	_	서술자/ncn+는/jxt
+12	잃어버린	잃+어+버리+ㄴ	AUX	_	13	acl	_	_	잃/pvg+어/ecx+버리/px+ㄴ/etm
+13	공간으로	공간+으로	ADV	_	14	advcl	_	_	공간/ncn+으로/jca
+14	향하고	향하+고	VERB	_	20	conj	_	_	향하/pvg+고/ecx
+15	있고	있+고	CCONJ	_	14	aux	_	_	있/px+고/ecc
+16	,	,	PUNCT	_	15	punct	_	_	,/sp
+17	한	한	NUM	_	19	nummod	_	_	한/nnc
+18	원초적인	원초+적+이+ㄴ	VERB	_	19	acl	_	_	원초/ncn+적/xsn+이/jp+ㄴ/etm
+19	장소에	장소+에	ADV	_	20	obl	_	_	장소/ncn+에/jca
+20	매여	매이+어	VERB	_	0	root	_	_	매이/pvg+어/ecx
+21	있다	있+다	AUX	_	20	aux	_	_	있/px+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 비평가가 작품과의 동화의 끈으로 연결되어 작가의 의식을 내적으로 체험하고 재현하는 동화의 비평 , 의식의 비평을 뿔레는 제시했다고 하겠다 .
+1	비평가가	비평가+가	NOUN	_	10	nsubj	_	_	비평가/ncn+가/jcs
+2	작품과의	작품+과+의	NOUN	_	3	nmod	_	_	작품/ncn+과/jct+의/jcm
+3	동화의	동화+의	NOUN	_	4	nmod	_	_	동화/ncpa+의/jcm
+4	끈으로	끈+으로	ADV	_	5	advcl	_	_	끈/ncn+으로/jca
+5	연결되어	연결+되+어	SCONJ	_	10	ccomp	_	_	연결/ncpa+되/xsv+어/ecs
+6	작가의	작가+의	NOUN	_	7	nmod	_	_	작가/ncn+의/jcm
+7	의식을	의식+을	NOUN	_	10	obj	_	_	의식/ncn+을/jco
+8	내적으로	내적+으로	ADV	_	10	advcl	_	_	내적/ncn+으로/jca
+9	체험하고	체험+하+고	CCONJ	_	10	conj	_	_	체험/ncpa+하/xsv+고/ecc
+10	재현하는	재현+하+는	VERB	_	15	acl	_	_	재현/ncpa+하/xsv+는/etm
+11	동화의	동화+의	NOUN	_	12	nmod	_	_	동화/ncpa+의/jcm
+12	비평	비평	NOUN	_	15	compound	_	_	비평/ncpa
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	의식의	의식+의	NOUN	_	15	nmod	_	_	의식/ncpa+의/jcm
+15	비평을	비평+을	NOUN	_	17	obj	_	_	비평/ncpa+을/jco
+16	뿔레는	뿔레+는	PROPN	_	17	dislocated	_	_	뿔레/nq+는/jxt
+17	제시했다고	제시+하+었+다+고	VERB	_	18	conj	_	_	제시/ncpa+하/xsv+었/ep+다/ef+고/jcr
+18	하겠다	하+겠+다	VERB	_	0	root	_	_	하/pvg+겠/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 쟝스타로벵스키는 정신분석적인 접근으로 , 표면적 의미 이면의 잠재적 뜻을 찾으려 한다 .
+1	쟝스타로벵스키는	쟝스타로벵스키+는	PROPN	_	10	dislocated	_	_	쟝스타로벵스키/nq+는/jxt
+2	정신분석적인	정신+분석+적+이+ㄴ	VERB	_	3	acl	_	_	정신/ncn+분석/ncpa+적/xsn+이/jp+ㄴ/etm
+3	접근으로	접근+으로	ADV	_	10	advmod	_	_	접근/ncpa+으로/jca
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	표면적	표면+적	NOUN	_	6	amod	_	_	표면/ncn+적/xsn
+6	의미	의미	NOUN	_	7	compound	_	_	의미/ncpa
+7	이면의	이면+의	NOUN	_	9	nmod	_	_	이면/ncn+의/jcm
+8	잠재적	잠재+적	NOUN	_	9	amod	_	_	잠재/ncpa+적/xsn
+9	뜻을	뜻+을	NOUN	_	10	obj	_	_	뜻/ncpa+을/jco
+10	찾으려	찾+으려	VERB	_	0	root	_	_	찾/pvg+으려/ecx
+11	한다	하+ㄴ다	AUX	_	10	aux	_	_	하/px+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그의 시선의 미학은 시야의 왕국 너머로 정신을 인도하여 의미의 왕국으로 인도한다 .
+1	그의	그+의	PRON	_	3	nmod	_	_	그/npp+의/jcm
+2	시선의	시선+의	NOUN	_	3	nmod	_	_	시선/ncn+의/jcm
+3	미학은	미학+은	NOUN	_	11	dislocated	_	_	미학/ncn+은/jxt
+4	시야의	시야+의	NOUN	_	5	nmod	_	_	시야/ncn+의/jcm
+5	왕국	왕국	NOUN	_	6	compound	_	_	왕국/ncn
+6	너머로	너머+로	ADV	_	8	advcl	_	_	너머/ncn+로/jca
+7	정신을	정신+을	NOUN	_	8	obj	_	_	정신/ncn+을/jco
+8	인도하여	인도+하+어	SCONJ	_	11	ccomp	_	_	인도/ncpa+하/xsv+어/ecs
+9	의미의	의미+의	NOUN	_	10	nmod	_	_	의미/ncpa+의/jcm
+10	왕국으로	왕국+으로	ADV	_	11	advcl	_	_	왕국/ncn+으로/jca
+11	인도한다	인도+하+ㄴ다	VERB	_	0	root	_	_	인도/ncpa+하/xsv+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 창조의 주체와의 내면적인 동화적 관계와 전체를 한꺼번에 보는 시선 , 이 양자가 그의 비평적 시선이다 .
+1	창조의	창조+의	NOUN	_	2	nmod	_	_	창조/ncpa+의/jcm
+2	주체와의	주체+와+의	NOUN	_	5	nmod	_	_	주체/ncn+와/jct+의/jcm
+3	내면적인	내면+적+이+ㄴ	VERB	_	5	acl	_	_	내면/ncn+적/xsn+이/jp+ㄴ/etm
+4	동화적	동화+적	NOUN	_	5	amod	_	_	동화/ncpa+적/xsn
+5	관계와	관계+와	CCONJ	_	9	conj	_	_	관계/ncpa+와/jcj
+6	전체를	전체+를	NOUN	_	8	obj	_	_	전체/ncn+를/jco
+7	한꺼번에	한꺼번에	ADV	_	8	advmod	_	_	한꺼번에/mag
+8	보는	보+는	VERB	_	9	acl	_	_	보/pvg+는/etm
+9	시선	시선	NOUN	_	12	compound	_	_	시선/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	이	이	DET	_	12	det	_	_	이/mmd
+12	양자가	양자+가	NOUN	_	15	nsubj	_	_	양자/ncn+가/jcs
+13	그의	그+의	PRON	_	15	nmod	_	_	그/npp+의/jcm
+14	비평적	비평+적	NOUN	_	15	amod	_	_	비평/ncpa+적/xsn
+15	시선이다	시선+이+다	VERB	_	0	root	_	_	시선/ncn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 살아있는 시선은 여러 작가에 대한 시선의 주제를 연구한다 .
+1	살아있는	살+아+있+는	AUX	_	2	acl	_	_	살/pvg+아/ecx+있/px+는/etm
+2	시선은	시선+은	NOUN	_	8	dislocated	_	_	시선/ncn+은/jxt
+3	여러	여러	ADJ	_	4	amod	_	_	여러/mma
+4	작가에	작가+에	ADV	_	5	obl	_	_	작가/ncn+에/jca
+5	대한	대하+ㄴ	VERB	_	7	acl	_	_	대하/pvg+ㄴ/etm
+6	시선의	시선+의	NOUN	_	7	nmod	_	_	시선/ncn+의/jcm
+7	주제를	주제+를	NOUN	_	8	obj	_	_	주제/ncn+를/jco
+8	연구한다	연구+하+ㄴ다	VERB	_	0	root	_	_	연구/ncpa+하/xsv+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 실명하게된 몽떼스뀨는 사상의 비전을 더욱 고취시키고 빛의 봉사자가 된다고 말한다 .
+1	실명하게된	실명+하+게+되+ㄴ	AUX	_	2	acl	_	_	실명/ncpa+하/xsv+게/ecx+되/px+ㄴ/etm
+2	몽떼스뀨는	몽떼스뀨+는	PROPN	_	10	dislocated	_	_	몽떼스뀨/nq+는/jxt
+3	사상의	사상+의	NOUN	_	4	nmod	_	_	사상/ncn+의/jcm
+4	비전을	비전+을	NOUN	_	6	obj	_	_	비전/ncn+을/jco
+5	더욱	더욱	ADV	_	6	advmod	_	_	더욱/mag
+6	고취시키고	고취+시키+고	CCONJ	_	9	conj	_	_	고취/ncpa+시키/xsv+고/ecc
+7	빛의	빛+의	NOUN	_	8	nmod	_	_	빛/ncn+의/jcm
+8	봉사자가	봉사자+가	NOUN	_	9	csubj	_	_	봉사자/ncn+가/jcc
+9	된다고	되+ㄴ다+고	VERB	_	10	conj	_	_	되/pvg+ㄴ다/ef+고/jcr
+10	말한다	말하+ㄴ다	VERB	_	0	root	_	_	말하/pvg+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 18 세기는 빛 , 명백 , 명확 , 이성에 심취한 세기로서 시선의 즐거움에 관계한다 .
+1	18	18	NUM	_	2	nummod	_	_	18/nno
+2	세기는	세기+는	NOUN	_	14	dislocated	_	_	세기/ncn+는/jxt
+3	빛	빛	NOUN	_	5	conj	_	_	빛/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	명백	명백	NOUN	_	7	conj	_	_	명백/ncps
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	명확	명확	NOUN	_	9	conj	_	_	명확/ncps
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	이성에	이성+에	ADV	_	10	obl	_	_	이성/ncn+에/jca
+10	심취한	심취+하+ㄴ	VERB	_	11	acl	_	_	심취/ncpa+하/xsv+ㄴ/etm
+11	세기로서	세기+로서	ADV	_	14	advcl	_	_	세기/ncn+로서/jca
+12	시선의	시선+의	NOUN	_	13	nmod	_	_	시선/ncn+의/jcm
+13	즐거움에	즐겁+ㅁ+에	ADV	_	14	obl	_	_	즐겁/paa+ㅁ/etn+에/jca
+14	관계한다	관계+하+ㄴ다	VERB	_	0	root	_	_	관계/ncpa+하/xsv+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 시선은 모든 감각 중에서도 가장 확장되며 , 멀리로 승리의 움직임 속으로 주체를 옮겨준다면서 그것이 곧 이성의 성공이라고 한다 .
+1	시선은	시선+은	NOUN	_	13	dislocated	_	_	시선/ncn+은/jxt
+2	모든	모든	ADJ	_	3	amod	_	_	모든/mma
+3	감각	감각	NOUN	_	4	compound	_	_	감각/ncpa
+4	중에서도	중+에서+도	ADV	_	6	advcl	_	_	중/nbn+에서/jca+도/jxc
+5	가장	가장	ADV	_	6	advmod	_	_	가장/mag
+6	확장되며	확장+되+며	CCONJ	_	13	conj	_	_	확장/ncpa+되/xsv+며/ecc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	멀리로	멀리+로	ADV	_	13	advcl	_	_	멀리/ncn+로/jca
+9	승리의	승리+의	NOUN	_	10	nmod	_	_	승리/ncpa+의/jcm
+10	움직임	움직이+ㅁ	VERB	_	11	nmod	_	_	움직이/pvg+ㅁ/etn
+11	속으로	속+으로	ADV	_	13	advcl	_	_	속/ncn+으로/jca
+12	주체를	주체+를	NOUN	_	13	obj	_	_	주체/ncn+를/jco
+13	옮겨준다면서	옮기+어+주+ㄴ다면서	SCONJ	_	18	ccomp	_	_	옮기/pvg+어/ecx+주/px+ㄴ다면서/ecs
+14	그것이	그것+이	PRON	_	17	nsubj	_	_	그것/npd+이/jcs
+15	곧	곧	ADV	_	17	advmod	_	_	곧/mag
+16	이성의	이성+의	NOUN	_	17	nmod	_	_	이성/ncn+의/jcm
+17	성공이라고	성공+이+라+고	VERB	_	18	conj	_	_	성공/ncpa+이/jp+라/ef+고/jcr
+18	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 쟝스타로벵스키는 쟝루쎄와 함께 마르쎌레이몽의 제자로서 제네바대학을 중심으로 주제 비평을 활발히 펼쳤다 .
+1	쟝스타로벵스키는	쟝스타로벵스키+는	PROPN	_	11	dislocated	_	_	쟝스타로벵스키/nq+는/jxt
+2	쟝루쎄와	쟝루쎄+와	CCONJ	_	3	conj	_	_	쟝루쎄/nq+와/jct
+3	함께	함께	ADV	_	11	advmod	_	_	함께/mag
+4	마르쎌레이몽의	마르쎌레이몽+의	PROPN	_	5	nmod	_	_	마르쎌레이몽/nq+의/jcm
+5	제자로서	제자+로서	ADV	_	11	advcl	_	_	제자/ncn+로서/jca
+6	제네바대학을	제네바대학+을	PROPN	_	7	obj	_	_	제네바대학/nq+을/jco
+7	중심으로	중심+으로	ADV	_	11	advcl	_	_	중심/ncn+으로/jca
+8	주제	주제	NOUN	_	9	compound	_	_	주제/ncn
+9	비평을	비평+을	NOUN	_	11	obj	_	_	비평/ncpa+을/jco
+10	활발히	활발+히	ADV	_	11	advmod	_	_	활발/ncps+히/xsa
+11	펼쳤다	펼치+었+다	VERB	_	0	root	_	_	펼치/pvg+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 쟝루쎄 의식의 비평가이면서도 형식에 대한 취미를 아울러 가진 점에서 독특하다 .
+1	쟝루쎄	쟝루쎄	PROPN	_	10	compound	_	_	쟝루쎄/nq
+2	의식의	의식+의	NOUN	_	3	nmod	_	_	의식/ncn+의/jcm
+3	비평가이면서도	비평가+이+면서+도	ADV	_	10	dep	_	_	비평가/ncn+이/jp+면서/ecc+도/jxc
+4	형식에	형식+에	ADV	_	5	obl	_	_	형식/ncn+에/jca
+5	대한	대하+ㄴ	VERB	_	6	acl	_	_	대하/pvg+ㄴ/etm
+6	취미를	취미+를	NOUN	_	10	obj	_	_	취미/ncn+를/jco
+7	아울러	아울러	ADV	_	8	advmod	_	_	아울러/mag
+8	가진	가지+ㄴ	VERB	_	9	acl	_	_	가지/pvg+ㄴ/etm
+9	점에서	점+에서	ADV	_	10	advcl	_	_	점/nbu+에서/jca
+10	독특하다	독특+하+다	VERB	_	0	root	_	_	독특/ncps+하/xsm+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 창조적 상상력의 근본적 구조를 드러내 보여줄 수도 있는 구조를 작품 속에서 포착하려고 그는 노력했다 .
+1	창조적	창조+적	NOUN	_	2	amod	_	_	창조/ncpa+적/xsn
+2	상상력의	상상력+의	NOUN	_	4	nmod	_	_	상상력/ncn+의/jcm
+3	근본적	근본+적	NOUN	_	4	amod	_	_	근본/ncn+적/xsn
+4	구조를	구조+를	NOUN	_	5	obj	_	_	구조/ncpa+를/jco
+5	드러내	드러내+어	SCONJ	_	6	ccomp	_	_	드러내/pvg+어/ecs
+6	보여줄	보이+어+주+ㄹ	AUX	_	9	acl	_	_	보이/pvg+어/ecx+주/px+ㄹ/etm
+7	수도	수+도	ADV	_	8	fixed	_	_	수/nbn+도/jxc
+8	있는	있+는	ADJ	_	6	aux	_	_	있/paa+는/etm
+9	구조를	구조+를	NOUN	_	12	obj	_	_	구조/ncpa+를/jco
+10	작품	작품	NOUN	_	11	compound	_	_	작품/ncn
+11	속에서	속+에서	ADV	_	12	advcl	_	_	속/ncn+에서/jca
+12	포착하려고	포착+하+려고	SCONJ	_	14	ccomp	_	_	포착/ncpa+하/xsv+려고/ecs
+13	그는	그+는	PRON	_	14	dislocated	_	_	그/npp+는/jxt
+14	노력했다	노력+하+었+다	VERB	_	0	root	_	_	노력/ncpa+하/xsv+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 형태와 의미에서는 작품의 형식을 통해서 의미를 파악하는데 비평의 목표를 둔다 .
+1	형태와	형태+와	CCONJ	_	2	conj	_	_	형태/ncn+와/jcj
+2	의미에서는	의미+에서+는	NOUN	_	10	dislocated	_	_	의미/ncpa+에서/jca+는/jxt
+3	작품의	작품+의	NOUN	_	4	nmod	_	_	작품/ncn+의/jcm
+4	형식을	형식+을	NOUN	_	5	obj	_	_	형식/ncn+을/jco
+5	통해서	통하+어서	SCONJ	_	7	ccomp	_	_	통하/pvg+어서/ecs
+6	의미를	의미+를	NOUN	_	7	obj	_	_	의미/ncpa+를/jco
+7	파악하는데	파악+하+는데	SCONJ	_	10	ccomp	_	_	파악/ncpa+하/xsv+는데/ecs
+8	비평의	비평+의	NOUN	_	9	nmod	_	_	비평/ncpa+의/jcm
+9	목표를	목표+를	NOUN	_	10	obj	_	_	목표/ncpa+를/jco
+10	둔다	두+ㄴ다	VERB	_	0	root	_	_	두/pvg+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 경험은 형태에 의해 전개되고 , 형태는 또한 의미를 부여한다고 말한다 .
+1	경험은	경험+은	NOUN	_	4	dislocated	_	_	경험/ncpa+은/jxt
+2	형태에	형태+에	ADV	_	3	obl	_	_	형태/ncn+에/jca
+3	의해	의하+어	SCONJ	_	4	ccomp	_	_	의하/pvg+어/ecs
+4	전개되고	전개+되+고	CCONJ	_	9	conj	_	_	전개/ncpa+되/xsv+고/ecc
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	형태는	형태+는	NOUN	_	9	dislocated	_	_	형태/ncn+는/jxt
+7	또한	또한	ADV	_	9	advmod	_	_	또한/mag
+8	의미를	의미+를	NOUN	_	9	obj	_	_	의미/ncpa+를/jco
+9	부여한다고	부여+하+ㄴ다+고	VERB	_	10	conj	_	_	부여/ncpa+하/xsv+ㄴ다/ef+고/jcr
+10	말한다	말하+ㄴ다	VERB	_	0	root	_	_	말하/pvg+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 형태적 지표들은 일탈로서 계시적 구실을 할 수 있고 , 해석상의 고리를 열어줄 수도 있다 .
+1	형태적	형태+적	NOUN	_	2	amod	_	_	형태/ncn+적/xsn
+2	지표들은	지표+들+은	NOUN	_	12	dislocated	_	_	지표/ncn+들/xsn+은/jxt
+3	일탈로서	일탈+로서	ADV	_	6	advcl	_	_	일탈/ncpa+로서/jca
+4	계시적	계시+적	NOUN	_	5	amod	_	_	계시/ncpa+적/xsn
+5	구실을	구실+을	NOUN	_	6	obj	_	_	구실/ncn+을/jco
+6	할	하+ㄹ	VERB	_	12	conj	_	_	하/pvg+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	있고	있+고	CCONJ	_	6	aux	_	_	있/paa+고/ecc
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	해석상의	해석상+의	NOUN	_	11	nmod	_	_	해석상/ncn+의/jcm
+11	고리를	고리+를	NOUN	_	12	obj	_	_	고리/ncn+를/jco
+12	열어줄	열+어+주+ㄹ	AUX	_	0	root	_	_	열/pvg+어/ecx+주/px+ㄹ/etm
+13	수도	수+도	ADV	_	14	fixed	_	_	수/nbn+도/jxc
+14	있다	있+다	ADJ	_	12	aux	_	_	있/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 미술 , 음악에서처럼 시에 있어서도 형태와 개념은 서로 뒤섞이며 , 예술가는 작품을 통해 살아간다 .
+1	미술	미술	NOUN	_	3	conj	_	_	미술/ncn
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	음악에서처럼	음악+에서+처럼	ADV	_	9	advcl	_	_	음악/ncn+에서/jca+처럼/jca
+4	시에	시+에	ADV	_	5	obl	_	_	시/ncn+에/jca
+5	있어서도	있+어서+도	ADV	_	9	amod	_	_	있/paa+어서/ecs+도/jxc
+6	형태와	형태+와	CCONJ	_	7	conj	_	_	형태/ncn+와/jcj
+7	개념은	개념+은	NOUN	_	9	dislocated	_	_	개념/ncn+은/jxt
+8	서로	서로	ADV	_	9	advmod	_	_	서로/mag
+9	뒤섞이며	뒤섞이+며	CCONJ	_	14	conj	_	_	뒤섞이/pvg+며/ecc
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	예술가는	예술가+는	NOUN	_	14	dislocated	_	_	예술가/ncn+는/jxt
+12	작품을	작품+을	NOUN	_	13	obj	_	_	작품/ncn+을/jco
+13	통해	통하+어	SCONJ	_	14	ccomp	_	_	통하/pvg+어/ecs
+14	살아간다	살+아+가+ㄴ다	AUX	_	0	root	_	_	살/pvg+아/ecx+가/px+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그는 작품 속에서 계지적인 독서의 단서가 되는 지속적 영상이라든지 반향 되는 어떤 힘 , 수렴적인 여러 표현에 주시한다 .
+1	그는	그+는	PRON	_	18	dislocated	_	_	그/npp+는/jxt
+2	작품	작품	NOUN	_	3	compound	_	_	작품/ncn
+3	속에서	속+에서	ADV	_	7	advcl	_	_	속/ncn+에서/jca
+4	계지적인	계지+적+이+ㄴ	VERB	_	5	acl	_	_	계지/ncn+적/xsn+이/jp+ㄴ/etm
+5	독서의	독서+의	NOUN	_	6	nmod	_	_	독서/ncpa+의/jcm
+6	단서가	단서+가	NOUN	_	7	csubj	_	_	단서/ncn+가/jcc
+7	되는	되+는	VERB	_	17	acl	_	_	되/pvg+는/etm
+8	지속적	지속+적	NOUN	_	9	amod	_	_	지속/ncpa+적/xsn
+9	영상이라든지	영상+이라든지	CCONJ	_	13	conj	_	_	영상/ncn+이라든지/jcj
+10	반향	반향	NOUN	_	11	dep	_	_	반향/ncn
+11	되는	되+는	VERB	_	13	acl	_	_	되/pvg+는/etm
+12	어떤	어떤	DET	_	13	det	_	_	어떤/mmd
+13	힘	힘	NOUN	_	17	conj	_	_	힘/ncn
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	수렴적인	수렴+적+이+ㄴ	VERB	_	17	acl	_	_	수렴/ncpa+적/xsn+이/jp+ㄴ/etm
+16	여러	여러	ADJ	_	17	amod	_	_	여러/mma
+17	표현에	표현+에	ADV	_	18	obl	_	_	표현/ncpa+에/jca
+18	주시한다	주시+하+ㄴ다	VERB	_	0	root	_	_	주시/ncpa+하/xsv+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 마담보바리에서 그는 소설가가 사용한 시점에 주목한다 .
+1	마담보바리에서	마담보바리+에서	ADV	_	6	advcl	_	_	마담보바리/nq+에서/jca
+2	그는	그+는	PRON	_	6	dislocated	_	_	그/npp+는/jxt
+3	소설가가	소설가+가	NOUN	_	4	nsubj	_	_	소설가/ncn+가/jcs
+4	사용한	사용+하+ㄴ	VERB	_	5	acl	_	_	사용/ncpa+하/xsv+ㄴ/etm
+5	시점에	시점+에	ADV	_	6	obl	_	_	시점/ncn+에/jca
+6	주목한다	주목+하+ㄴ다	VERB	_	0	root	_	_	주목/ncpa+하/xsv+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 소설의 서두와 종결사에 주인공 보바리 부인은 아예 나타나지 않고 , 보바리 의사의 인물 제시도 , 멀리서 외부적으로 이루어진다 .
+1	소설의	소설+의	NOUN	_	3	nmod	_	_	소설/ncn+의/jcm
+2	서두와	서두+와	CCONJ	_	3	conj	_	_	서두/ncn+와/jcj
+3	종결사에	종결사+에	ADV	_	8	obl	_	_	종결사/ncn+에/jca
+4	주인공	주인공	NOUN	_	6	compound	_	_	주인공/ncn
+5	보바리	보바리	PROPN	_	6	compound	_	_	보바리/nq
+6	부인은	부인+은	NOUN	_	8	dislocated	_	_	부인/ncn+은/jxt
+7	아예	아예	ADV	_	8	advmod	_	_	아예/mag
+8	나타나지	나타나+지	VERB	_	18	conj	_	_	나타나/pvg+지/ecx
+9	않고	않+고	CCONJ	_	8	aux	_	_	않/px+고/ecc
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	보바리	보바리	PROPN	_	12	compound	_	_	보바리/nq
+12	의사의	의사+의	NOUN	_	14	nmod	_	_	의사/ncn+의/jcm
+13	인물	인물	NOUN	_	14	compound	_	_	인물/ncn
+14	제시도	제시+도	ADV	_	18	advmod	_	_	제시/ncpa+도/jxc
+15	,	,	PUNCT	_	14	punct	_	_	,/sp
+16	멀리서	멀리+서	ADV	_	18	advcl	_	_	멀리/ncn+서/jca
+17	외부적으로	외부+적+으로	ADV	_	18	advcl	_	_	외부/ncn+적/xsn+으로/jca
+18	이루어진다	이루+어+지+ㄴ다	AUX	_	0	root	_	_	이루/pvg+어/ecx+지/px+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이러한 고리에서 플로베르의 아이러니와 비꼬음을 읽을 수 있는데 , 왜냐하면 가장 야릇한 시선으로 그가 바라봄이 관계되기 때문이라는 것이다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	고리에서	고리+에서	ADV	_	6	advcl	_	_	고리/ncn+에서/jca
+3	플로베르의	플로베르+의	PROPN	_	5	nmod	_	_	플로베르/nq+의/jcm
+4	아이러니와	아이러니+와	CCONJ	_	5	conj	_	_	아이러니/ncn+와/jcj
+5	비꼬음을	비꼬+ㅁ+을	NOUN	_	6	obj	_	_	비꼬/pvg+ㅁ/etn+을/jco
+6	읽을	읽+ㄹ	VERB	_	18	ccomp	_	_	읽/pvg+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	있는데	있+는데	SCONJ	_	6	aux	_	_	있/paa+는데/ecs
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	왜냐하면	왜냐하면	ADV	_	18	advmod	_	_	왜냐하면/mag
+11	가장	가장	ADV	_	12	advmod	_	_	가장/mag
+12	야릇한	야릇하+ㄴ	ADJ	_	13	amod	_	_	야릇하/paa+ㄴ/etm
+13	시선으로	시선+으로	ADV	_	15	advcl	_	_	시선/ncn+으로/jca
+14	그가	그+가	PRON	_	15	nsubj	_	_	그/npp+가/jcs
+15	바라봄이	바라보+ㅁ+이	NOUN	_	16	nsubj	_	_	바라보/pvg+ㅁ/etn+이/jcs
+16	관계되기	관계+되+기	VERB	_	18	ccomp	_	_	관계/ncpa+되/xsv+기/etn
+17	때문이라는	때문+이+라는	VERB	_	16	aux	_	_	때문/nbn+이/jp+라는/etm
+18	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그리하여 소설은 외부에서 내부로 , 외관에서 의식으로 , 무관심에서 가담으로의 운동으로 배열되며 , 다음으로는 내부에서 주변으로 결미를 이룬다는 것이다 .
+1	그리하여	그리하여	CCONJ	_	18	cc	_	_	그리하여/maj
+2	소설은	소설+은	NOUN	_	18	dislocated	_	_	소설/ncn+은/jxt
+3	외부에서	외부+에서	ADV	_	4	advcl	_	_	외부/ncn+에서/jca
+4	내부로	내부+로	ADV	_	10	dep	_	_	내부/ncn+로/jca
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	외관에서	외관+에서	ADV	_	7	advcl	_	_	외관/ncn+에서/jca
+7	의식으로	의식+으로	ADV	_	10	dep	_	_	의식/ncn+으로/jca
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	무관심에서	무관심+에서	ADV	_	10	advcl	_	_	무관심/ncpa+에서/jca
+10	가담으로의	가담+으로+의	NOUN	_	11	advmod	_	_	가담/ncpa+으로/jca+의/jcm
+11	운동으로	운동+으로	ADV	_	12	advcl	_	_	운동/ncpa+으로/jca
+12	배열되며	배열+되+며	CCONJ	_	18	conj	_	_	배열/ncpa+되/xsv+며/ecc
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	다음으로는	다음+으로+는	NOUN	_	18	dislocated	_	_	다음/ncn+으로/jca+는/jxt
+15	내부에서	내부+에서	ADV	_	18	advcl	_	_	내부/ncn+에서/jca
+16	주변으로	주변+으로	ADV	_	18	advcl	_	_	주변/ncn+으로/jca
+17	결미를	결미+를	NOUN	_	18	obj	_	_	결미/ncpa+를/jco
+18	이룬다는	이루+ㄴ다는	VERB	_	0	root	_	_	이루/pvg+ㄴ다는/etm
+19	것이다	것+이+다	VERB	_	18	aux	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 샤를르보바리는 엠마보바리가 점차적으로 전면에 부상하여 주체로서의 중심에 위치하기까지 엠마를 반영해 주는 자로 기능을 가진다 .
+1	샤를르보바리는	샤를르보바리+는	PROPN	_	14	dislocated	_	_	샤를르보바리/nq+는/jxt
+2	엠마보바리가	엠마보바리+가	PROPN	_	8	nsubj	_	_	엠마보바리/nq+가/jcs
+3	점차적으로	점차+적+으로	ADV	_	5	advcl	_	_	점차/ncn+적/xsn+으로/jca
+4	전면에	전면+에	ADV	_	5	obl	_	_	전면/ncn+에/jca
+5	부상하여	부상+하+어	SCONJ	_	8	ccomp	_	_	부상/ncpa+하/xsv+어/ecs
+6	주체로서의	주체+로서+의	NOUN	_	7	nmod	_	_	주체/ncn+로서/jca+의/jcm
+7	중심에	중심+에	ADV	_	8	obl	_	_	중심/ncn+에/jca
+8	위치하기까지	위치+하+기+까지	ADV	_	10	advcl	_	_	위치/ncpa+하/xsv+기/etn+까지/jxc
+9	엠마를	엠마+를	PROPN	_	10	obj	_	_	엠마/nq+를/jco
+10	반영해	반영+하+어	VERB	_	12	acl	_	_	반영/ncpa+하/xsv+어/ecx
+11	주는	주+는	AUX	_	10	aux	_	_	주/px+는/etm
+12	자로	자+로	ADV	_	14	advcl	_	_	자/nbn+로/jca
+13	기능을	기능+을	NOUN	_	14	obj	_	_	기능/ncn+을/jco
+14	가진다	가지+ㄴ다	VERB	_	0	root	_	_	가지/pvg+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 플로베르의 독창성은 문체의 직물을 허트림 없이 여주인공의 시점과 작가의 시점의 이동을 단절 없이 연결하여 형태에 지속성을 주고 있다고 루쎄는 지적한다 .
+1	플로베르의	플로베르+의	PROPN	_	2	nmod	_	_	플로베르/nq+의/jcm
+2	독창성은	독창성+은	NOUN	_	17	dislocated	_	_	독창성/ncn+은/jxt
+3	문체의	문체+의	NOUN	_	4	nmod	_	_	문체/ncn+의/jcm
+4	직물을	직물+을	NOUN	_	6	obj	_	_	직물/ncn+을/jco
+5	허트림	허트림	NOUN	_	6	dep	_	_	허트림/ncn
+6	없이	없+이	SCONJ	_	14	xcomp	_	_	없/paa+이/ecs
+7	여주인공의	여+주인공+의	NOUN	_	8	nmod	_	_	여/ncn+주인공/ncn+의/jcm
+8	시점과	시점+과	CCONJ	_	10	conj	_	_	시점/ncn+과/jcj
+9	작가의	작가+의	NOUN	_	10	nmod	_	_	작가/ncn+의/jcm
+10	시점의	시점+의	NOUN	_	11	nmod	_	_	시점/ncn+의/jcm
+11	이동을	이동+을	NOUN	_	14	obj	_	_	이동/ncpa+을/jco
+12	단절	단절	NOUN	_	13	dep	_	_	단절/ncpa
+13	없이	없+이	SCONJ	_	14	xcomp	_	_	없/paa+이/ecs
+14	연결하여	연결+하+어	SCONJ	_	17	ccomp	_	_	연결/ncpa+하/xsv+어/ecs
+15	형태에	형태+에	ADV	_	17	obl	_	_	형태/ncn+에/jca
+16	지속성을	지속성+을	NOUN	_	17	obj	_	_	지속성/ncn+을/jco
+17	주고	주+고	VERB	_	20	conj	_	_	주/pvg+고/ecx
+18	있다고	있+다+고	VERB	_	17	aux	_	_	있/px+다/ef+고/jcr
+19	루쎄는	루쎄+는	PROPN	_	20	dislocated	_	_	루쎄/nq+는/jxt
+20	지적한다	지적+하+ㄴ다	VERB	_	0	root	_	_	지적/ncpa+하/xsv+ㄴ다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 또한 창문과 굽어보는 전망 , 플로베르적 몽상의 주제가 시점과 연관되어 작품의 구조를 이끈다고 본다 .
+1	또한	또한	CCONJ	_	14	cc	_	_	또한/maj
+2	창문과	창문+과	CCONJ	_	4	conj	_	_	창문/ncn+과/jcj
+3	굽어보는	굽+어+보+는	AUX	_	4	acl	_	_	굽/pvg+어/ecx+보/px+는/etm
+4	전망	전망	NOUN	_	8	conj	_	_	전망/ncpa
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	플로베르적	플로베르+적	NOUN	_	7	amod	_	_	플로베르/nq+적/xsn
+7	몽상의	몽상+의	NOUN	_	8	nmod	_	_	몽상/ncpa+의/jcm
+8	주제가	주제+가	NOUN	_	10	nsubj	_	_	주제/ncn+가/jcs
+9	시점과	시점+과	CCONJ	_	10	conj	_	_	시점/ncn+과/jct
+10	연관되어	연관+되+어	SCONJ	_	13	conj	_	_	연관/ncpa+되/xsv+어/ecs
+11	작품의	작품+의	NOUN	_	12	nmod	_	_	작품/ncn+의/jcm
+12	구조를	구조+를	NOUN	_	13	obj	_	_	구조/ncpa+를/jco
+13	이끈다고	이끌+ㄴ다+고	VERB	_	14	conj	_	_	이끌/pvg+ㄴ다/ef+고/jcr
+14	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 하쇠와 문학과의 관계에 대한 질문은 뗀느 , 랑송의 비평에서도 나타나긴 했지만 , 사회학적 비평의 선구자로는 루카치와 골드만이 손꼽힌다 .
+1	하쇠와	하쇠+와	CCONJ	_	2	conj	_	_	하쇠/nq+와/jcj
+2	문학과의	문학+과+의	NOUN	_	3	nmod	_	_	문학/ncpa+과/jct+의/jcm
+3	관계에	관계+에	ADV	_	4	obl	_	_	관계/ncpa+에/jca
+4	대한	대하+ㄴ	VERB	_	5	acl	_	_	대하/pvg+ㄴ/etm
+5	질문은	질문+은	NOUN	_	10	dislocated	_	_	질문/ncpa+은/jxt
+6	뗀느	뗀느	PROPN	_	8	conj	_	_	뗀느/nq
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	랑송의	랑송+의	PROPN	_	9	nmod	_	_	랑송/nq+의/jcm
+9	비평에서도	비평+에서+도	ADV	_	10	advcl	_	_	비평/ncpa+에서/jca+도/jxc
+10	나타나긴	나타나+기+는	NOUN	_	11	dislocated	_	_	나타나/pvg+기/etn+는/jxt
+11	했지만	하+었+지만	SCONJ	_	18	ccomp	_	_	하/pvg+었/ep+지만/ecs
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	사회학적	사회학+적	NOUN	_	14	amod	_	_	사회학/ncn+적/xsn
+14	비평의	비평+의	NOUN	_	15	nmod	_	_	비평/ncpa+의/jcm
+15	선구자로는	선구자+로+는	NOUN	_	18	dislocated	_	_	선구자/ncn+로/jca+는/jxt
+16	루카치와	루카치+와	CCONJ	_	17	conj	_	_	루카치/nq+와/jcj
+17	골드만이	골드만+이	PROPN	_	18	nsubj	_	_	골드만/nq+이/jcs
+18	손꼽힌다	손꼽히+ㄴ다	VERB	_	0	root	_	_	손꼽히/pvg+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 루카치는 마르크스주의 철학에 의거한 미학 이론을 수립한다 .
+1	루카치는	루카치+는	PROPN	_	7	dislocated	_	_	루카치/nq+는/jxt
+2	마르크스주의	마르크스주의	NOUN	_	3	compound	_	_	마르크스주의/ncn
+3	철학에	철학+에	ADV	_	4	obl	_	_	철학/ncn+에/jca
+4	의거한	의거+하+ㄴ	VERB	_	6	acl	_	_	의거/ncpa+하/xsv+ㄴ/etm
+5	미학	미학	NOUN	_	6	compound	_	_	미학/ncn
+6	이론을	이론+을	NOUN	_	7	obj	_	_	이론/ncn+을/jco
+7	수립한다	수립+하+ㄴ다	VERB	_	0	root	_	_	수립/ncpa+하/xsv+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그는 소설을 역사의 반영으로 보고 , 이데올로기의 구현의 관점에서 작품을 비평한다 .
+1	그는	그+는	PRON	_	11	dislocated	_	_	그/npp+는/jxt
+2	소설을	소설+을	NOUN	_	5	obj	_	_	소설/ncn+을/jco
+3	역사의	역사+의	NOUN	_	4	nmod	_	_	역사/ncn+의/jcm
+4	반영으로	반영+으로	ADV	_	5	advcl	_	_	반영/ncpa+으로/jca
+5	보고	보+고	CCONJ	_	11	conj	_	_	보/pvg+고/ecc
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	이데올로기의	이데올로기+의	NOUN	_	8	nmod	_	_	이데올로기/ncn+의/jcm
+8	구현의	구현+의	NOUN	_	9	nmod	_	_	구현/ncpa+의/jcm
+9	관점에서	관점+에서	ADV	_	11	advcl	_	_	관점/ncn+에서/jca
+10	작품을	작품+을	NOUN	_	11	obj	_	_	작품/ncn+을/jco
+11	비평한다	비평+하+ㄴ다	VERB	_	0	root	_	_	비평/ncpa+하/xsv+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 예술가는 현실에 충실하고 진정한 반영을 추구함으로써만 자신의 개별성으로부터 미적 일반화에 도달할 수 있다고 하며 , 발작을 이 원리의 탁월한 모범으로 본다 .
+1	예술가는	예술가+는	NOUN	_	11	dislocated	_	_	예술가/ncn+는/jxt
+2	현실에	현실+에	ADV	_	3	obl	_	_	현실/ncn+에/jca
+3	충실하고	충실+하+고	CCONJ	_	6	conj	_	_	충실/ncps+하/xsm+고/ecc
+4	진정한	진정+하+ㄴ	VERB	_	5	amod	_	_	진정/ncps+하/xsm+ㄴ/etm
+5	반영을	반영+을	NOUN	_	6	obj	_	_	반영/ncpa+을/jco
+6	추구함으로써만	추구+하+ㅁ+으로써+만	ADV	_	11	advcl	_	_	추구/ncpa+하/xsv+ㅁ/etn+으로써/jca+만/jxc
+7	자신의	자신+의	NOUN	_	8	nmod	_	_	자신/ncn+의/jcm
+8	개별성으로부터	개별성+으로+부터	ADV	_	11	advcl	_	_	개별성/ncn+으로/jca+부터/jxc
+9	미적	미+적	NOUN	_	10	amod	_	_	미/ncn+적/xsn
+10	일반화에	일반화+에	ADV	_	11	obl	_	_	일반화/ncn+에/jca
+11	도달할	도달+하+ㄹ	VERB	_	14	conj	_	_	도달/ncpa+하/xsv+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있다고	있+다+고	VERB	_	11	aux	_	_	있/paa+다/ef+고/jcr
+14	하며	하+며	CCONJ	_	21	conj	_	_	하/pvg+며/ecc
+15	,	,	PUNCT	_	14	punct	_	_	,/sp
+16	발작을	발작+을	PROPN	_	21	obj	_	_	발작/nq+을/jco
+17	이	이	DET	_	18	det	_	_	이/mmd
+18	원리의	원리+의	NOUN	_	20	nmod	_	_	원리/ncn+의/jcm
+19	탁월한	탁월+하+ㄴ	VERB	_	20	amod	_	_	탁월/ncps+하/xsm+ㄴ/etm
+20	모범으로	모범+으로	ADV	_	21	advcl	_	_	모범/ncn+으로/jca
+21	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 왜냐하면 그의 방대한 인간희극을 이루는 소설은 시대적 현실의 진정한 반영으로 레알리즘의 승리를 이룬 예술이라는 것이다 .
+1	왜냐하면	왜냐하면	CCONJ	_	15	cc	_	_	왜냐하면/maj
+2	그의	그+의	PRON	_	6	nmod	_	_	그/npp+의/jcm
+3	방대한	방대+하+ㄴ	VERB	_	6	amod	_	_	방대/ncps+하/xsm+ㄴ/etm
+4	인간희극을	인간+희극+을	NOUN	_	5	obj	_	_	인간/ncn+희극/ncn+을/jco
+5	이루는	이루+는	VERB	_	6	acl	_	_	이루/pvg+는/etm
+6	소설은	소설+은	NOUN	_	14	dislocated	_	_	소설/ncn+은/jxt
+7	시대적	시대+적	NOUN	_	8	amod	_	_	시대/ncn+적/xsn
+8	현실의	현실+의	NOUN	_	10	nmod	_	_	현실/ncn+의/jcm
+9	진정한	진정+하+ㄴ	VERB	_	10	amod	_	_	진정/ncps+하/xsm+ㄴ/etm
+10	반영으로	반영+으로	ADV	_	14	advcl	_	_	반영/ncpa+으로/jca
+11	레알리즘의	레알리즘+의	NOUN	_	12	nmod	_	_	레알리즘/ncn+의/jcm
+12	승리를	승리+를	NOUN	_	13	obj	_	_	승리/ncpa+를/jco
+13	이룬	이루+ㄴ	VERB	_	14	ccomp	_	_	이루/pvg+ㄴ/etm
+14	예술이라는	예술+이+라는	VERB	_	15	ccomp	_	_	예술/ncn+이/jp+라는/etm
+15	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 소설은 과거의 역사를 표현하면서 미래를 향한 방향을 설정하며 현재에 위치하고 있다고 본다 .
+1	소설은	소설+은	NOUN	_	10	dislocated	_	_	소설/ncn+은/jxt
+2	과거의	과거+의	NOUN	_	3	nmod	_	_	과거/ncn+의/jcm
+3	역사를	역사+를	NOUN	_	4	obj	_	_	역사/ncn+를/jco
+4	표현하면서	표현+하+면서	CCONJ	_	8	conj	_	_	표현/ncpa+하/xsv+면서/ecc
+5	미래를	미래+를	NOUN	_	6	obj	_	_	미래/ncn+를/jco
+6	향한	향하+ㄴ	VERB	_	7	acl	_	_	향하/pvg+ㄴ/etm
+7	방향을	방향+을	NOUN	_	8	obj	_	_	방향/ncn+을/jco
+8	설정하며	설정+하+며	CCONJ	_	10	conj	_	_	설정/ncpa+하/xsv+며/ecc
+9	현재에	현재+에	ADV	_	10	obl	_	_	현재/ncn+에/jca
+10	위치하고	위치+하+고	VERB	_	12	conj	_	_	위치/ncpa+하/xsv+고/ecx
+11	있다고	있+다+고	VERB	_	10	aux	_	_	있/px+다/ef+고/jcr
+12	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 레아리즘은 사건이 어떤 해결점을 향해 극적인 인과관계에 의해 진행되어 통합성으로 인도된다고 말한다 .
+1	레아리즘은	레아리즘+은	NOUN	_	12	dislocated	_	_	레아리즘/ncn+은/jxt
+2	사건이	사건+이	NOUN	_	11	nsubj	_	_	사건/ncn+이/jcs
+3	어떤	어떤	DET	_	4	det	_	_	어떤/mmd
+4	해결점을	해결점+을	NOUN	_	5	obj	_	_	해결점/ncn+을/jco
+5	향해	향하+어	SCONJ	_	9	ccomp	_	_	향하/pvg+어/ecs
+6	극적인	극+적+이+ㄴ	VERB	_	7	acl	_	_	극/ncn+적/xsn+이/jp+ㄴ/etm
+7	인과관계에	인과+관계+에	ADV	_	8	obl	_	_	인과/ncn+관계/ncpa+에/jca
+8	의해	의하+어	SCONJ	_	9	ccomp	_	_	의하/pvg+어/ecs
+9	진행되어	진행+되+어	SCONJ	_	11	ccomp	_	_	진행/ncpa+되/xsv+어/ecs
+10	통합성으로	통합성+으로	ADV	_	11	advcl	_	_	통합성/ncn+으로/jca
+11	인도된다고	인도+되+ㄴ다+고	VERB	_	12	conj	_	_	인도/ncpa+되/xsv+ㄴ다/ef+고/jcr
+12	말한다	말하+ㄴ다	VERB	_	0	root	_	_	말하/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그의 비평은 작품의 발생을 역사적 진화의 산물로 보는 이데올로기적 비평이며 , 마르크스적 문학 사회학이라 지칭되기도 한다 .
+1	그의	그+의	PRON	_	2	nmod	_	_	그/npp+의/jcm
+2	비평은	비평+은	NOUN	_	16	dislocated	_	_	비평/ncpa+은/jxt
+3	작품의	작품+의	NOUN	_	4	nmod	_	_	작품/ncn+의/jcm
+4	발생을	발생+을	NOUN	_	8	obj	_	_	발생/ncpa+을/jco
+5	역사적	역사+적	NOUN	_	6	amod	_	_	역사/ncn+적/xsn
+6	진화의	진화+의	NOUN	_	7	nmod	_	_	진화/ncpa+의/jcm
+7	산물로	산물+로	ADV	_	8	advcl	_	_	산물/ncn+로/jca
+8	보는	보+는	VERB	_	10	ccomp	_	_	보/pvg+는/etm
+9	이데올로기적	이데올로기+적	NOUN	_	10	amod	_	_	이데올로기/ncn+적/xsn
+10	비평이며	비평+이+며	CCONJ	_	16	conj	_	_	비평/ncpa+이/jp+며/ecc
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	마르크스적	마르크스+적	NOUN	_	14	amod	_	_	마르크스/nq+적/xsn
+13	문학	문학	NOUN	_	14	compound	_	_	문학/ncpa
+14	사회학이라	사회학+이+라	VERB	_	15	ccomp	_	_	사회학/ncn+이/jp+라/ef
+15	지칭되기도	지칭+되+기+도	ADV	_	16	advcl	_	_	지칭/ncpa+되/xsv+기/etn+도/jxc
+16	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 골드만은 사회학적 미학 비평의 창시자인 루카치의 영향 하에 문학의 변증법적 사회학이라 일컫는 방법론을 제시했다 .
+1	골드만은	골드만+은	PROPN	_	14	dislocated	_	_	골드만/nq+은/jxt
+2	사회학적	사회학+적	NOUN	_	4	amod	_	_	사회학/ncn+적/xsn
+3	미학	미학	NOUN	_	4	compound	_	_	미학/ncn
+4	비평의	비평+의	NOUN	_	5	nmod	_	_	비평/ncpa+의/jcm
+5	창시자인	창시자+이+ㄴ	VERB	_	6	acl	_	_	창시자/ncn+이/jp+ㄴ/etm
+6	루카치의	루카치+의	PROPN	_	7	nmod	_	_	루카치/nq+의/jcm
+7	영향	영향	NOUN	_	8	compound	_	_	영향/ncn
+8	하에	하+에	ADV	_	14	obl	_	_	하/nbn+에/jca
+9	문학의	문학+의	NOUN	_	11	nmod	_	_	문학/ncpa+의/jcm
+10	변증법적	변증법+적	NOUN	_	11	amod	_	_	변증법/ncn+적/xsn
+11	사회학이라	사회학+이+라	VERB	_	12	ccomp	_	_	사회학/ncn+이/jp+라/ef
+12	일컫는	일컫+는	VERB	_	13	acl	_	_	일컫/pvg+는/etm
+13	방법론을	방법론+을	NOUN	_	14	obj	_	_	방법론/ncn+을/jco
+14	제시했다	제시+하+었+다	VERB	_	0	root	_	_	제시/ncpa+하/xsv+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 문학은 세계에 대한 비전의 표현이며 그 세계에 대한 비전은 개인적이라기보다는 하나의 집단이나 계급에 속하는 사회적 사실이라는 것이다 .
+1	문학은	문학+은	NOUN	_	5	dislocated	_	_	문학/ncpa+은/jxt
+2	세계에	세계+에	ADV	_	3	obl	_	_	세계/ncn+에/jca
+3	대한	대하+ㄴ	VERB	_	5	ccomp	_	_	대하/pvg+ㄴ/etm
+4	비전의	비전+의	NOUN	_	5	nmod	_	_	비전/ncn+의/jcm
+5	표현이며	표현+이+며	CCONJ	_	16	conj	_	_	표현/ncpa+이/jp+며/ecc
+6	그	그	DET	_	7	det	_	_	그/mmd
+7	세계에	세계+에	ADV	_	8	obl	_	_	세계/ncn+에/jca
+8	대한	대하+ㄴ	VERB	_	9	acl	_	_	대하/pvg+ㄴ/etm
+9	비전은	비전+은	NOUN	_	16	dislocated	_	_	비전/ncn+은/jxt
+10	개인적이라기보다는	개인+적+이+라기+보다+는	NOUN	_	16	dislocated	_	_	개인/ncn+적/xsn+이/jp+라기/etn+보다/jca+는/jxt
+11	하나의	하나+의	NUM	_	13	nmod	_	_	하나/nnc+의/jcm
+12	집단이나	집단+이나	CCONJ	_	13	conj	_	_	집단/ncn+이나/jcj
+13	계급에	계급+에	ADV	_	14	obl	_	_	계급/ncn+에/jca
+14	속하는	속하+는	VERB	_	16	ccomp	_	_	속하/pvg+는/etm
+15	사회적	사회+적	NOUN	_	16	amod	_	_	사회/ncn+적/xsn
+16	사실이라는	사실+이+라는	VERB	_	17	ccomp	_	_	사실/ncn+이/jp+라는/etm
+17	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이해는 텍스트에 내재적이라면 , 설명은 작품을 작품외적 현실과 관계 지운다 .
+1	이해는	이해+는	NOUN	_	3	dislocated	_	_	이해/ncpa+는/jxt
+2	텍스트에	텍스트+에	ADV	_	3	obl	_	_	텍스트/ncn+에/jca
+3	내재적이라면	내재+적+이+라면	SCONJ	_	10	ccomp	_	_	내재/ncpa+적/xsn+이/jp+라면/ecs
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	설명은	설명+은	NOUN	_	10	dislocated	_	_	설명/ncpa+은/jxt
+6	작품을	작품+을	NOUN	_	10	obj	_	_	작품/ncn+을/jco
+7	작품외적	작품+외적	NOUN	_	8	compound	_	_	작품/ncn+외적/ncn
+8	현실과	현실+과	CCONJ	_	10	conj	_	_	현실/ncn+과/jct
+9	관계	관계	NOUN	_	10	dep	_	_	관계/ncpa
+10	지운다	지우+ㄴ다	VERB	_	0	root	_	_	지우/pvg+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이렇게 작품과 집단의식 사이의 구조적 상응관계를 밝혀 작품의 발생을 관류하는 세계관을 설명한다 .
+1	이렇게	이렇+게	SCONJ	_	7	xcomp	_	_	이렇/pad+게/ecs
+2	작품과	작품+과	CCONJ	_	3	conj	_	_	작품/ncn+과/jcj
+3	집단의식	집단+의식	NOUN	_	4	compound	_	_	집단/ncn+의식/ncn
+4	사이의	사이+의	NOUN	_	6	nmod	_	_	사이/ncn+의/jcm
+5	구조적	구조+적	NOUN	_	6	amod	_	_	구조/ncpa+적/xsn
+6	상응관계를	상응+관계+를	NOUN	_	7	obj	_	_	상응/ncpa+관계/ncpa+를/jco
+7	밝혀	밝히+어	SCONJ	_	12	ccomp	_	_	밝히/pvg+어/ecs
+8	작품의	작품+의	NOUN	_	9	nmod	_	_	작품/ncn+의/jcm
+9	발생을	발생+을	NOUN	_	10	obj	_	_	발생/ncpa+을/jco
+10	관류하는	관류+하+는	VERB	_	11	acl	_	_	관류/ncpa+하/xsv+는/etm
+11	세계관을	세계관+을	NOUN	_	12	obj	_	_	세계관/ncn+을/jco
+12	설명한다	설명+하+ㄴ다	VERB	_	0	root	_	_	설명/ncpa+하/xsv+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 사회적으로 실망하고 정치에서 밀려난 반작용으로 그들 의식의 심화된 세계관은 쟝세니즘으로 향한다 .
+1	사회적으로	사회+적+으로	ADV	_	2	advcl	_	_	사회/ncn+적/xsn+으로/jca
+2	실망하고	실망+하+고	CCONJ	_	4	conj	_	_	실망/ncpa+하/xsv+고/ecc
+3	정치에서	정치+에서	ADV	_	4	advcl	_	_	정치/ncpa+에서/jca
+4	밀려난	밀려나+ㄴ	VERB	_	5	acl	_	_	밀려나/pvg+ㄴ/etm
+5	반작용으로	반작용+으로	ADV	_	11	advcl	_	_	반작용/ncpa+으로/jca
+6	그들	그+들	NOUN	_	7	compound	_	_	그/npp+들/xsn
+7	의식의	의식+의	NOUN	_	9	nmod	_	_	의식/ncn+의/jcm
+8	심화된	심화+되+ㄴ	VERB	_	9	amod	_	_	심화/ncps+되/xsm+ㄴ/etm
+9	세계관은	세계관+은	NOUN	_	11	dislocated	_	_	세계관/ncn+은/jxt
+10	쟝세니즘으로	쟝세니즘+으로	ADV	_	11	advcl	_	_	쟝세니즘/ncn+으로/jca
+11	향한다	향하+ㄴ다	VERB	_	0	root	_	_	향하/pvg+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 쟝세니스트들은 그들이 정죄하는 세상에서 벗어날 길이 없이 신앙과 양립되지 않는 악의 세상에 살아야 한다는 것이 바로 직면한 딜레마가 된다 .
+1	쟝세니스트들은	쟝세니스트+들+은	NOUN	_	19	dislocated	_	_	쟝세니스트/ncn+들/xsn+은/jxt
+2	그들이	그+들+이	PRON	_	3	nsubj	_	_	그/npp+들/xsn+이/jcs
+3	정죄하는	정죄+하+는	VERB	_	4	acl	_	_	정죄/ncpa+하/xsv+는/etm
+4	세상에서	세상+에서	ADV	_	5	advcl	_	_	세상/ncn+에서/jca
+5	벗어날	벗어나+ㄹ	VERB	_	6	acl	_	_	벗어나/pvg+ㄹ/etm
+6	길이	길+이	NOUN	_	7	nsubj	_	_	길/ncn+이/jcs
+7	없이	없+이	SCONJ	_	13	xcomp	_	_	없/paa+이/ecs
+8	신앙과	신앙+과	CCONJ	_	9	conj	_	_	신앙/ncn+과/jct
+9	양립되지	양립+되+지	VERB	_	12	acl	_	_	양립/ncpa+되/xsv+지/ecx
+10	않는	않+는	AUX	_	9	aux	_	_	않/px+는/etm
+11	악의	악+의	NOUN	_	12	nmod	_	_	악/ncn+의/jcm
+12	세상에	세상+에	ADV	_	13	obl	_	_	세상/ncn+에/jca
+13	살아야	살+아야	VERB	_	15	acl	_	_	살/pvg+아야/ecx
+14	한다는	하+ㄴ다는	AUX	_	13	aux	_	_	하/px+ㄴ다는/etm
+15	것이	것+이	NOUN	_	19	nsubj	_	_	것/nbn+이/jcs
+16	바로	바로	ADV	_	19	advmod	_	_	바로/mag
+17	직면한	직면+하+ㄴ	VERB	_	18	acl	_	_	직면/ncpa+하/xsv+ㄴ/etm
+18	딜레마가	딜레마+가	NOUN	_	19	csubj	_	_	딜레마/ncn+가/jcc
+19	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 빠스깔의 빵세와 라씬느의 비극의 의미적 구조는 바로 쟝세니스트들의 그러한 갈등적 의식의 구조라는 것이다 .
+1	빠스깔의	빠스깔+의	PROPN	_	2	nmod	_	_	빠스깔/nq+의/jcm
+2	빵세와	빵세+와	CCONJ	_	4	conj	_	_	빵세/ncn+와/jcj
+3	라씬느의	라씬느+의	PROPN	_	4	nmod	_	_	라씬느/nq+의/jcm
+4	비극의	비극+의	NOUN	_	6	nmod	_	_	비극/ncn+의/jcm
+5	의미적	의미+적	NOUN	_	6	amod	_	_	의미/ncpa+적/xsn
+6	구조는	구조+는	NOUN	_	13	dislocated	_	_	구조/ncpa+는/jxt
+7	바로	바로	ADV	_	13	advmod	_	_	바로/mag
+8	쟝세니스트들의	쟝세니스트+들+의	NOUN	_	11	nmod	_	_	쟝세니스트/ncn+들/xsn+의/jcm
+9	그러한	그러하+ㄴ	VERB	_	11	amod	_	_	그러하/pad+ㄴ/etm
+10	갈등적	갈등+적	NOUN	_	11	amod	_	_	갈등/ncpa+적/xsn
+11	의식의	의식+의	NOUN	_	12	nmod	_	_	의식/ncn+의/jcm
+12	구조라는	구조+이+라는	VERB	_	13	ccomp	_	_	구조/ncpa+이/jp+라는/etm
+13	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 두번째 국면은 문제성이 있는 주인공의 와해로 특징 지워지는 소설로서 죠이스 , 프루스트 , 카프카 , 싸르트르 , 말로 , 나따리 싸로뜨의 이름을 든다 .
+1	두번째	두+번째	NOUN	_	2	compound	_	_	두/nnc+번째/nbu
+2	국면은	국면+은	NOUN	_	23	dislocated	_	_	국면/ncn+은/jxt
+3	문제성이	문제성+이	NOUN	_	4	nsubj	_	_	문제성/ncn+이/jcs
+4	있는	있+는	ADJ	_	5	amod	_	_	있/paa+는/etm
+5	주인공의	주인공+의	NOUN	_	6	nmod	_	_	주인공/ncn+의/jcm
+6	와해로	와해+로	ADV	_	8	advcl	_	_	와해/ncpa+로/jca
+7	특징	특징	NOUN	_	8	dep	_	_	특징/ncn
+8	지워지는	지우+어+지+는	AUX	_	9	acl	_	_	지우/pvg+어/ecx+지/px+는/etm
+9	소설로서	소설+로서	ADV	_	23	advcl	_	_	소설/ncn+로서/jca
+10	죠이스	죠이스	PROPN	_	12	conj	_	_	죠이스/nq
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	프루스트	프루스트	PROPN	_	14	conj	_	_	프루스트/nq
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	카프카	카프카	PROPN	_	16	conj	_	_	카프카/nq
+15	,	,	PUNCT	_	14	punct	_	_	,/sp
+16	싸르트르	싸르트르	PROPN	_	18	conj	_	_	싸르트르/nq
+17	,	,	PUNCT	_	16	punct	_	_	,/sp
+18	말로	말로	PROPN	_	20	conj	_	_	말로/nq
+19	,	,	PUNCT	_	18	punct	_	_	,/sp
+20	나따리	나따리	PROPN	_	21	conj	_	_	나따리/nq
+21	싸로뜨의	싸로뜨+의	PROPN	_	22	nmod	_	_	싸로뜨/nq+의/jcm
+22	이름을	이름+을	NOUN	_	23	obj	_	_	이름/ncn+을/jco
+23	든다	들+ㄴ다	VERB	_	0	root	_	_	들/pvg+ㄴ다/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+
+# 세번째 국면는 주인공이 사물로 대치되는 사물화된 세계의 특징을 보이는 로비그리예의 누보로망을 예로 든다 .
+1	세번째	세+번째	NOUN	_	2	compound	_	_	세/nnc+번째/nbu
+2	국면는	국면+는	NOUN	_	13	dislocated	_	_	국면/ncn+는/jxt
+3	주인공이	주인공+이	NOUN	_	5	nsubj	_	_	주인공/ncn+이/jcs
+4	사물로	사물+로	ADV	_	5	advcl	_	_	사물/ncn+로/jca
+5	대치되는	대치+되+는	VERB	_	11	acl	_	_	대치/ncpa+되/xsv+는/etm
+6	사물화된	사물화+되+ㄴ	VERB	_	7	acl	_	_	사물화/ncpa+되/xsv+ㄴ/etm
+7	세계의	세계+의	NOUN	_	8	nmod	_	_	세계/ncn+의/jcm
+8	특징을	특징+을	NOUN	_	9	obj	_	_	특징/ncn+을/jco
+9	보이는	보이+는	VERB	_	11	acl	_	_	보이/pvg+는/etm
+10	로비그리예의	로비그리예+의	PROPN	_	11	nmod	_	_	로비그리예/nq+의/jcm
+11	누보로망을	누보로망+을	NOUN	_	13	obj	_	_	누보로망/ncn+을/jco
+12	예로	예+로	ADV	_	13	advcl	_	_	예/ncn+로/jca
+13	든다	들+ㄴ다	VERB	_	0	root	_	_	들/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이와 같이 경제적 구조와 문학적 표현 사이의 상응을 밝히며 골드만은 발생 구조적 방법으로 문학사를 조명한다 .
+1	이와	이+와	CCONJ	_	2	conj	_	_	이/npd+와/jct
+2	같이	같+이	SCONJ	_	9	xcomp	_	_	같/paa+이/ecs
+3	경제적	경제+적	NOUN	_	4	amod	_	_	경제/ncn+적/xsn
+4	구조와	구조+와	CCONJ	_	6	conj	_	_	구조/ncpa+와/jcj
+5	문학적	문학+적	NOUN	_	6	amod	_	_	문학/ncpa+적/xsn
+6	표현	표현	NOUN	_	7	compound	_	_	표현/ncpa
+7	사이의	사이+의	NOUN	_	8	nmod	_	_	사이/ncn+의/jcm
+8	상응을	상응+을	NOUN	_	9	obj	_	_	상응/ncpa+을/jco
+9	밝히며	밝히+며	CCONJ	_	15	conj	_	_	밝히/pvg+며/ecc
+10	골드만은	골드만+은	PROPN	_	15	dislocated	_	_	골드만/nq+은/jxt
+11	발생	발생	NOUN	_	12	compound	_	_	발생/ncpa
+12	구조적	구조+적	NOUN	_	13	amod	_	_	구조/ncpa+적/xsn
+13	방법으로	방법+으로	ADV	_	15	advcl	_	_	방법/ncn+으로/jca
+14	문학사를	문학사+를	NOUN	_	15	obj	_	_	문학사/ncn+를/jco
+15	조명한다	조명+하+ㄴ다	VERB	_	0	root	_	_	조명/ncpa+하/xsv+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그의 원칙에 의하면 위대한 작가란 문학에서 집단적 구조에 상응하는 긴밀한 상상적 세계를 창조해 내는 예외적 개인이다 .
+1	그의	그+의	PRON	_	2	nmod	_	_	그/npp+의/jcm
+2	원칙에	원칙+에	ADV	_	3	obl	_	_	원칙/ncn+에/jca
+3	의하면	의하+면	SCONJ	_	16	ccomp	_	_	의하/pvg+면/ecs
+4	위대한	위대+하+ㄴ	VERB	_	5	amod	_	_	위대/ncps+하/xsm+ㄴ/etm
+5	작가란	작가+란	ADV	_	16	advcl	_	_	작가/ncn+란/jxc
+6	문학에서	문학+에서	ADV	_	13	advcl	_	_	문학/ncn+에서/jca
+7	집단적	집단+적	NOUN	_	8	amod	_	_	집단/ncn+적/xsn
+8	구조에	구조+에	ADV	_	9	obl	_	_	구조/ncpa+에/jca
+9	상응하는	상응+하+는	VERB	_	12	acl	_	_	상응/ncpa+하/xsv+는/etm
+10	긴밀한	긴밀+하+ㄴ	VERB	_	12	amod	_	_	긴밀/ncps+하/xsm+ㄴ/etm
+11	상상적	상상+적	NOUN	_	12	amod	_	_	상상/ncpa+적/xsn
+12	세계를	세계+를	NOUN	_	13	obj	_	_	세계/ncn+를/jco
+13	창조해	창조+하+어	VERB	_	16	ccomp	_	_	창조/ncpa+하/xsv+어/ecx
+14	내는	내+는	AUX	_	13	aux	_	_	내/px+는/etm
+15	예외적	예외+적	NOUN	_	16	amod	_	_	예외/ncn+적/xsn
+16	개인이다	개인+이+다	VERB	_	0	root	_	_	개인/ncn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 골드만은 발생 구조적 관점으로 사회학적 비평을 정립했다 .
+1	골드만은	골드만+은	PROPN	_	7	dislocated	_	_	골드만/nq+은/jxt
+2	발생	발생	NOUN	_	3	compound	_	_	발생/ncpa
+3	구조적	구조+적	NOUN	_	4	amod	_	_	구조/ncpa+적/xsn
+4	관점으로	관점+으로	ADV	_	7	advcl	_	_	관점/ncn+으로/jca
+5	사회학적	사회학+적	NOUN	_	6	amod	_	_	사회학/ncn+적/xsn
+6	비평을	비평+을	NOUN	_	7	obj	_	_	비평/ncpa+을/jco
+7	정립했다	정립+하+었+다	VERB	_	0	root	_	_	정립/ncpa+하/xsv+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그러나 그가 작품의 언어적 측면을 간과함으로 인해 그 의미적 구조는 불완전하지 않을 수 없게 된다 .
+1	그러나	그러나	CCONJ	_	11	cc	_	_	그러나/maj
+2	그가	그+가	PRON	_	6	nsubj	_	_	그/npp+가/jcs
+3	작품의	작품+의	NOUN	_	5	nmod	_	_	작품/ncn+의/jcm
+4	언어적	언어+적	NOUN	_	5	amod	_	_	언어/ncn+적/xsn
+5	측면을	측면+을	NOUN	_	6	obj	_	_	측면/ncn+을/jco
+6	간과함으로	간과+하+ㅁ+으로	ADV	_	7	advcl	_	_	간과/ncpa+하/xsv+ㅁ/etn+으로/jca
+7	인해	인하+어	SCONJ	_	11	conj	_	_	인하/pvg+어/ecs
+8	그	그	DET	_	10	det	_	_	그/mmd
+9	의미적	의미+적	NOUN	_	10	amod	_	_	의미/ncpa+적/xsn
+10	구조는	구조+는	NOUN	_	11	dislocated	_	_	구조/ncpa+는/jxt
+11	불완전하지	불+완전+하+지	PART	_	0	root	_	_	불/xp+완전/ncps+하/xsm+지/ecx
+12	않을	않+ㄹ	AUX	_	11	aux	_	_	않/px+ㄹ/etm
+13	수	수	NOUN	_	14	fixed	_	_	수/nbn
+14	없게	없+게	ADJ	_	11	aux	_	_	없/paa+게/ecx
+15	된다	되+ㄴ다	AUX	_	11	aux	_	_	되/px+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 두브로브스키는 , 골드만은 하나의 세계관을 노출시키기 위하여 작품의 진정한 가치를 지나쳐 버린다고 비판했다 .
+1	두브로브스키는	두브로브스키+는	PROPN	_	13	advmod	_	_	두브로브스키/nq+는/jxt
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	골드만은	골드만+은	PROPN	_	11	dislocated	_	_	골드만/nq+은/jxt
+4	하나의	하나+의	NUM	_	5	nmod	_	_	하나/nnc+의/jcm
+5	세계관을	세계관+을	NOUN	_	6	obj	_	_	세계관/ncn+을/jco
+6	노출시키기	노출+시키+기	VERB	_	7	nmod	_	_	노출/ncpa+시키/xsv+기/etn
+7	위하여	위하+어	SCONJ	_	11	ccomp	_	_	위하/pvg+어/ecs
+8	작품의	작품+의	NOUN	_	10	nmod	_	_	작품/ncn+의/jcm
+9	진정한	진정+하+ㄴ	VERB	_	10	amod	_	_	진정/ncps+하/xsm+ㄴ/etm
+10	가치를	가치+를	NOUN	_	11	obj	_	_	가치/ncn+를/jco
+11	지나쳐	지나치+어	VERB	_	13	conj	_	_	지나치/pvg+어/ecx
+12	버린다고	버리+ㄴ다+고	VERB	_	11	aux	_	_	버리/px+ㄴ다/ef+고/jcr
+13	비판했다	비판+하+었+다	VERB	_	0	root	_	_	비판/ncpa+하/xsv+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 문학 작품은 언어 표현을 통한 작품 형식과 내용의 상호적 상승작용에 의해 문학성을 나타낸다 .
+1	문학	문학	NOUN	_	2	compound	_	_	문학/ncpa
+2	작품은	작품+은	NOUN	_	13	dislocated	_	_	작품/ncn+은/jxt
+3	언어	언어	NOUN	_	4	compound	_	_	언어/ncn
+4	표현을	표현+을	NOUN	_	5	obj	_	_	표현/ncpa+을/jco
+5	통한	통하+ㄴ	VERB	_	10	acl	_	_	통하/pvg+ㄴ/etm
+6	작품	작품	NOUN	_	8	compound	_	_	작품/ncn
+7	형식과	형식+과	CCONJ	_	8	conj	_	_	형식/ncn+과/jcj
+8	내용의	내용+의	NOUN	_	10	nmod	_	_	내용/ncn+의/jcm
+9	상호적	상호+적	NOUN	_	10	amod	_	_	상호/ncn+적/xsn
+10	상승작용에	상승+작용+에	ADV	_	11	obl	_	_	상승/ncpa+작용/ncpa+에/jca
+11	의해	의하+어	SCONJ	_	13	ccomp	_	_	의하/pvg+어/ecs
+12	문학성을	문학성+을	NOUN	_	13	obj	_	_	문학성/ncn+을/jco
+13	나타낸다	나타내+ㄴ다	VERB	_	0	root	_	_	나타내/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 방법론을 언어학에서 찾는 문학 연구의 특성은 구조주의적 관점 , 문제적 접근 , 형대의 조명이라 하겠다 .
+1	방법론을	방법론+을	NOUN	_	3	obj	_	_	방법론/ncn+을/jco
+2	언어학에서	언어학+에서	ADV	_	3	advcl	_	_	언어학/ncn+에서/jca
+3	찾는	찾+는	VERB	_	6	acl	_	_	찾/pvg+는/etm
+4	문학	문학	NOUN	_	5	compound	_	_	문학/ncpa
+5	연구의	연구+의	NOUN	_	6	nmod	_	_	연구/ncpa+의/jcm
+6	특성은	특성+은	NOUN	_	14	dislocated	_	_	특성/ncn+은/jxt
+7	구조주의적	구조주의+적	NOUN	_	8	amod	_	_	구조주의/ncn+적/xsn
+8	관점	관점	NOUN	_	14	compound	_	_	관점/ncn
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	문제적	문제+적	NOUN	_	11	amod	_	_	문제/ncn+적/xsn
+11	접근	접근	NOUN	_	14	compound	_	_	접근/ncpa
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	형대의	형대+의	NOUN	_	14	nmod	_	_	형대/ncn+의/jcm
+14	조명이라	조명+이+라	VERB	_	15	ccomp	_	_	조명/ncpa+이/jp+라/ef
+15	하겠다	하+겠+다	VERB	_	0	root	_	_	하/pvg+겠/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 따라서 과학성의 기치를 든 이러한 흐름의 비평은 그 강조하는 경향에 따라 구조주의 비평 , 문체 비평 또는 비평이란 이름으로 다양하게 불리운다 .
+1	따라서	따라서	CCONJ	_	21	cc	_	_	따라서/maj
+2	과학성의	과학성+의	NOUN	_	3	nmod	_	_	과학성/ncn+의/jcm
+3	기치를	기치+를	NOUN	_	4	obj	_	_	기치/ncn+를/jco
+4	든	들+ㄴ	VERB	_	7	acl	_	_	들/pvg+ㄴ/etm
+5	이러한	이러하+ㄴ	VERB	_	6	amod	_	_	이러하/pad+ㄴ/etm
+6	흐름의	흐름+의	NOUN	_	7	nmod	_	_	흐름/ncn+의/jcm
+7	비평은	비평+은	NOUN	_	21	dislocated	_	_	비평/ncpa+은/jxt
+8	그	그	DET	_	10	det	_	_	그/mmd
+9	강조하는	강조+하+는	VERB	_	10	acl	_	_	강조/ncpa+하/xsv+는/etm
+10	경향에	경향+에	ADV	_	11	obl	_	_	경향/ncn+에/jca
+11	따라	따르+아	SCONJ	_	21	ccomp	_	_	따르/pvg+아/ecs
+12	구조주의	구조주의	NOUN	_	13	compound	_	_	구조주의/ncn
+13	비평	비평	NOUN	_	18	compound	_	_	비평/ncpa
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	문체	문체	NOUN	_	16	compound	_	_	문체/ncn
+16	비평	비평	NOUN	_	18	compound	_	_	비평/ncpa
+17	또는	또는	CCONJ	_	18	cc	_	_	또는/maj
+18	비평이란	비평+이+란	VERB	_	19	acl	_	_	비평/ncpa+이/jp+란/etm
+19	이름으로	이름+으로	ADV	_	21	advcl	_	_	이름/ncn+으로/jca
+20	다양하게	다양+하+게	SCONJ	_	21	xcomp	_	_	다양/ncps+하/xsm+게/ecs
+21	불리운다	불리우+ㄴ다	VERB	_	0	root	_	_	불리우/pvg+ㄴ다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 구조 분석은 이 글쓰기에 , 즉 기표의 유희에 행해져야 하고 , 텍스트의 진실이 아니라 텍스트의 복수적 의미를 찾아야 한다는 것이다 .
+1	구조	구조	NOUN	_	2	compound	_	_	구조/ncpa
+2	분석은	분석+은	NOUN	_	20	dislocated	_	_	분석/ncpa+은/jxt
+3	이	이	DET	_	4	det	_	_	이/mmd
+4	글쓰기에	글쓰+기+에	ADV	_	6	dep	_	_	글쓰/pvg+기/etn+에/jca
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	즉	즉	CCONJ	_	9	cc	_	_	즉/maj
+7	기표의	기표+의	NOUN	_	8	nmod	_	_	기표/ncn+의/jcm
+8	유희에	유희+에	ADV	_	6	obl	_	_	유희/ncpa+에/jca
+9	행해져야	행하+어+지+어야	AUX	_	18	conj	_	_	행하/pvg+어/ecx+지/px+어야/ecx
+10	하고	하+고	CCONJ	_	9	aux	_	_	하/px+고/ecc
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	텍스트의	텍스트+의	NOUN	_	13	nmod	_	_	텍스트/ncn+의/jcm
+13	진실이	진실+이	NOUN	_	14	csubj	_	_	진실/ncps+이/jcc
+14	아니라	아니+라	SCONJ	_	18	xcomp	_	_	아니/paa+라/ecs
+15	텍스트의	텍스트+의	NOUN	_	17	nmod	_	_	텍스트/ncn+의/jcm
+16	복수적	복수+적	NOUN	_	17	amod	_	_	복수/ncn+적/xsn
+17	의미를	의미+를	NOUN	_	18	obj	_	_	의미/ncpa+를/jco
+18	찾아야	찾+아야	VERB	_	20	ccomp	_	_	찾/pvg+아야/ecx
+19	한다는	하+ㄴ다는	AUX	_	18	aux	_	_	하/px+ㄴ다는/etm
+20	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그의 비평은 의미작용의 비평이며 해석 비평이다 .
+1	그의	그+의	PRON	_	2	nmod	_	_	그/npp+의/jcm
+2	비평은	비평+은	NOUN	_	6	dislocated	_	_	비평/ncpa+은/jxt
+3	의미작용의	의미+작용+의	NOUN	_	4	nmod	_	_	의미/ncpa+작용/ncpa+의/jcm
+4	비평이며	비평+이+며	CCONJ	_	6	conj	_	_	비평/ncpa+이/jp+며/ecc
+5	해석	해석	NOUN	_	6	compound	_	_	해석/ncpa
+6	비평이다	비평+이+다	VERB	_	0	root	_	_	비평/ncpa+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이야기의 이 세가지 층위가 점진적 통합의 방식으로 서로 관계됨에 주안점을 두어 , 이야기의 구조를 밝히려 한다 .
+1	이야기의	이야기+의	NOUN	_	4	nmod	_	_	이야기/ncpa+의/jcm
+2	이	이	DET	_	4	det	_	_	이/mmd
+3	세가지	세+가지	NOUN	_	4	compound	_	_	세/nnc+가지/nbu
+4	층위가	층위+가	NOUN	_	9	nsubj	_	_	층위/ncn+가/jcs
+5	점진적	점진+적	NOUN	_	6	amod	_	_	점진/ncpa+적/xsn
+6	통합의	통합+의	NOUN	_	7	nmod	_	_	통합/ncpa+의/jcm
+7	방식으로	방식+으로	ADV	_	9	advcl	_	_	방식/ncn+으로/jca
+8	서로	서로	ADV	_	9	advmod	_	_	서로/mag
+9	관계됨에	관계+되+ㅁ+에	ADV	_	11	obl	_	_	관계/ncpa+되/xsv+ㅁ/etn+에/jca
+10	주안점을	주안점+을	NOUN	_	11	obj	_	_	주안점/ncn+을/jco
+11	두어	두+어	SCONJ	_	15	ccomp	_	_	두/pvg+어/ecs
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	이야기의	이야기+의	NOUN	_	14	nmod	_	_	이야기/ncpa+의/jcm
+14	구조를	구조+를	NOUN	_	15	obj	_	_	구조/ncpa+를/jco
+15	밝히려	밝히+려	VERB	_	0	root	_	_	밝히/pvg+려/ecx
+16	한다	하+ㄴ다	AUX	_	15	aux	_	_	하/px+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그 기능 단위들은 촉매적 단위와 함께 시간적 논리적 계기와 배합에 따라 시퀀스 , 서술적 통합체로 서술행위에 의해 연결된다고 설명한다 .
+1	그	그	DET	_	3	det	_	_	그/mmd
+2	기능	기능	NOUN	_	3	compound	_	_	기능/ncn
+3	단위들은	단위+들+은	NOUN	_	18	dislocated	_	_	단위/ncn+들/xsn+은/jxt
+4	촉매적	촉매+적	NOUN	_	5	amod	_	_	촉매/ncn+적/xsn
+5	단위와	단위+와	CCONJ	_	6	conj	_	_	단위/ncn+와/jct
+6	함께	함께	ADV	_	18	advmod	_	_	함께/mag
+7	시간적	시간+적	NOUN	_	8	amod	_	_	시간/ncn+적/xsn
+8	논리적	논리+적	NOUN	_	10	amod	_	_	논리/ncn+적/xsn
+9	계기와	계기+와	CCONJ	_	10	conj	_	_	계기/ncn+와/jcj
+10	배합에	배합+에	ADV	_	11	obl	_	_	배합/ncpa+에/jca
+11	따라	따르+아	SCONJ	_	18	ccomp	_	_	따르/pvg+아/ecs
+12	시퀀스	시퀀스	NOUN	_	15	conj	_	_	시퀀스/ncn
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	서술적	서술+적	NOUN	_	15	amod	_	_	서술/ncpa+적/xsn
+15	통합체로	통합체+로	ADV	_	18	advcl	_	_	통합체/ncn+로/jca
+16	서술행위에	서술+행위+에	ADV	_	17	obl	_	_	서술/ncpa+행위/ncn+에/jca
+17	의해	의하+어	SCONJ	_	18	ccomp	_	_	의하/pvg+어/ecs
+18	연결된다고	연결+되+ㄴ다+고	VERB	_	19	conj	_	_	연결/ncpa+되/xsv+ㄴ다/ef+고/jcr
+19	설명한다	설명+하+ㄴ다	VERB	_	0	root	_	_	설명/ncpa+하/xsv+ㄴ다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 텍스트의 해석은 하나의 고정된 의미를 찾는 것이 아니라 가능한 복수적 의미를 구성하는 것으로 본다 .
+1	텍스트의	텍스트+의	NOUN	_	2	nmod	_	_	텍스트/ncn+의/jcm
+2	해석은	해석+은	NOUN	_	14	dislocated	_	_	해석/ncpa+은/jxt
+3	하나의	하나+의	NUM	_	5	nmod	_	_	하나/nnc+의/jcm
+4	고정된	고정+되+ㄴ	VERB	_	5	acl	_	_	고정/ncpa+되/xsv+ㄴ/etm
+5	의미를	의미+를	NOUN	_	6	obj	_	_	의미/ncpa+를/jco
+6	찾는	찾+는	VERB	_	7	acl	_	_	찾/pvg+는/etm
+7	것이	것+이	NOUN	_	8	csubj	_	_	것/nbn+이/jcc
+8	아니라	아니+라	SCONJ	_	14	xcomp	_	_	아니/paa+라/ecs
+9	가능한	가능+하+ㄴ	VERB	_	11	amod	_	_	가능/ncps+하/xsm+ㄴ/etm
+10	복수적	복수+적	NOUN	_	11	amod	_	_	복수/ncn+적/xsn
+11	의미를	의미+를	NOUN	_	12	obj	_	_	의미/ncpa+를/jco
+12	구성하는	구성+하+는	VERB	_	13	acl	_	_	구성/ncpa+하/xsv+는/etm
+13	것으로	것+으로	ADV	_	14	advcl	_	_	것/nbn+으로/jca
+14	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 개념적 의미와 함축된 공시의 의미의 두 체계를 넘나들면서 기표에서 출발하여 기의로 향하는 판독의 모델을 제시하고 있다고 하겠다 .
+1	개념적	개념+적	NOUN	_	2	amod	_	_	개념/ncn+적/xsn
+2	의미와	의미+와	CCONJ	_	5	conj	_	_	의미/ncpa+와/jcj
+3	함축된	함축+되+ㄴ	VERB	_	5	acl	_	_	함축/ncpa+되/xsv+ㄴ/etm
+4	공시의	공시+의	NOUN	_	5	nmod	_	_	공시/ncn+의/jcm
+5	의미의	의미+의	NOUN	_	7	nmod	_	_	의미/ncpa+의/jcm
+6	두	두	NUM	_	7	nummod	_	_	두/nnc
+7	체계를	체계+를	NOUN	_	8	obj	_	_	체계/ncn+를/jco
+8	넘나들면서	넘나들+면서	CCONJ	_	15	conj	_	_	넘나들/pvg+면서/ecc
+9	기표에서	기표+에서	ADV	_	10	advcl	_	_	기표/ncn+에서/jca
+10	출발하여	출발+하+어	SCONJ	_	12	ccomp	_	_	출발/ncpa+하/xsv+어/ecs
+11	기의로	기의+로	ADV	_	12	advcl	_	_	기의/ncn+로/jca
+12	향하는	향하+는	VERB	_	14	acl	_	_	향하/pvg+는/etm
+13	판독의	판독+의	NOUN	_	14	nmod	_	_	판독/ncpa+의/jcm
+14	모델을	모델+을	NOUN	_	15	obj	_	_	모델/ncn+을/jco
+15	제시하고	제시+하+고	VERB	_	17	conj	_	_	제시/ncpa+하/xsv+고/ecx
+16	있다고	있+다+고	VERB	_	15	aux	_	_	있/px+다/ef+고/jcr
+17	하겠다	하+겠+다	VERB	_	0	root	_	_	하/pvg+겠/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 바르뜨는 현대 비평에 문학 기호학의 첨탑을 높이 세운 선구자라 하겠다 .
+1	바르뜨는	바르뜨+는	PROPN	_	9	dislocated	_	_	바르뜨/nq+는/jxt
+2	현대	현대	NOUN	_	3	compound	_	_	현대/ncn
+3	비평에	비평+에	ADV	_	8	obl	_	_	비평/ncpa+에/jca
+4	문학	문학	NOUN	_	5	compound	_	_	문학/ncpa
+5	기호학의	기호학+의	NOUN	_	6	nmod	_	_	기호학/ncn+의/jcm
+6	첨탑을	첨탑+을	NOUN	_	8	obj	_	_	첨탑/ncn+을/jco
+7	높이	높이	ADV	_	8	advmod	_	_	높이/mag
+8	세운	세우+ㄴ	VERB	_	9	ccomp	_	_	세우/pvg+ㄴ/etm
+9	선구자라	선구자+이+라	VERB	_	10	ccomp	_	_	선구자/ncn+이/jp+라/ef
+10	하겠다	하+겠+다	VERB	_	0	root	_	_	하/pvg+겠/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그는 바슐라르 , 싸르트르 , 리샤르 등과 함께 바르뜨를 전자에 분류하고 , 후자에는 레오슈피처 , 기로 , 리파테르 등의 이름을 든다 .
+1	그는	그+는	PRON	_	21	dislocated	_	_	그/npp+는/jxt
+2	바슐라르	바슐라르	PROPN	_	4	conj	_	_	바슐라르/nq
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	싸르트르	싸르트르	PROPN	_	6	conj	_	_	싸르트르/nq
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	리샤르	리샤르	PROPN	_	7	compound	_	_	리샤르/nq
+7	등과	등+과	CCONJ	_	8	conj	_	_	등/nbn+과/jct
+8	함께	함께	ADV	_	11	advmod	_	_	함께/mag
+9	바르뜨를	바르뜨+를	NOUN	_	11	obj	_	_	바르뜨/ncn+를/jco
+10	전자에	전자+에	ADV	_	11	obl	_	_	전자/ncn+에/jca
+11	분류하고	분류+하+고	CCONJ	_	21	conj	_	_	분류/ncpa+하/xsv+고/ecc
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	후자에는	후자+에+는	NOUN	_	21	dislocated	_	_	후자/ncn+에/jca+는/jxt
+14	레오슈피처	레오슈피처	PROPN	_	16	conj	_	_	레오슈피처/nq
+15	,	,	PUNCT	_	14	punct	_	_	,/sp
+16	기로	기로	PROPN	_	18	conj	_	_	기로/nq
+17	,	,	PUNCT	_	16	punct	_	_	,/sp
+18	리파테르	리파테르	PROPN	_	19	compound	_	_	리파테르/nq
+19	등의	등+의	NOUN	_	20	nmod	_	_	등/nbn+의/jcm
+20	이름을	이름+을	NOUN	_	21	obj	_	_	이름/ncn+을/jco
+21	든다	들+ㄴ다	VERB	_	0	root	_	_	들/pvg+ㄴ다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 앙뜨완느는 문페 비평에 주제 비평까지를 포함시켰다고 보겠다 .
+1	앙뜨완느는	앙뜨완느+는	PROPN	_	6	dislocated	_	_	앙뜨완느/nq+는/jxt
+2	문페	문페	NOUN	_	3	compound	_	_	문페/ncn
+3	비평에	비평+에	ADV	_	6	obl	_	_	비평/ncpa+에/jca
+4	주제	주제	NOUN	_	5	compound	_	_	주제/ncn
+5	비평까지를	비평+까지+를	NOUN	_	6	obj	_	_	비평/ncpa+까지/jxc+를/jco
+6	포함시켰다고	포함+시키+었+다+고	VERB	_	7	conj	_	_	포함/ncpa+시키/xsv+었/ep+다/ef+고/jcr
+7	보겠다	보+겠+다	VERB	_	0	root	_	_	보/pvg+겠/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 문페 비평에 가장 근접한 문체론이 언어학적 방법론을 모색하며 독립된 학문으로 출범한 것은 소쉬르의 제자 바이부터라 하겠다 .
+1	문페	문페	NOUN	_	2	compound	_	_	문페/ncn
+2	비평에	비평+에	ADV	_	4	obl	_	_	비평/ncpa+에/jca
+3	가장	가장	ADV	_	4	advmod	_	_	가장/mag
+4	근접한	근접+하+ㄴ	VERB	_	5	acl	_	_	근접/ncpa+하/xsv+ㄴ/etm
+5	문체론이	문체론+이	NOUN	_	11	nsubj	_	_	문체론/ncn+이/jcs
+6	언어학적	언어학+적	NOUN	_	7	amod	_	_	언어학/ncn+적/xsn
+7	방법론을	방법론+을	NOUN	_	8	obj	_	_	방법론/ncn+을/jco
+8	모색하며	모색+하+며	CCONJ	_	11	conj	_	_	모색/ncpa+하/xsv+며/ecc
+9	독립된	독립+되+ㄴ	VERB	_	10	acl	_	_	독립/ncpa+되/xsv+ㄴ/etm
+10	학문으로	학문+으로	ADV	_	11	advcl	_	_	학문/ncpa+으로/jca
+11	출범한	출범+하+ㄴ	VERB	_	12	acl	_	_	출범/ncpa+하/xsv+ㄴ/etm
+12	것은	것+은	NOUN	_	15	dislocated	_	_	것/nbn+은/jxt
+13	소쉬르의	소쉬르+의	PROPN	_	14	nmod	_	_	소쉬르/nq+의/jcm
+14	제자	제자	NOUN	_	15	compound	_	_	제자/ncn
+15	바이부터라	바이+부터+이+라	VERB	_	16	ccomp	_	_	바이/nq+부터/jxc+이/jp+라/ef
+16	하겠다	하+겠+다	VERB	_	0	root	_	_	하/pvg+겠/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 표현 문체론의 이러한 언어학적 엄격성을 고수하는 유파와는 대조적으로 독일의 문체학자 레오슈피처는 문체의 연구에서 작가의 정신 , 시대 정신까지 깊이 접근한다 .
+1	표현	표현	NOUN	_	2	compound	_	_	표현/ncpa
+2	문체론의	문체론+의	NOUN	_	5	nmod	_	_	문체론/ncn+의/jcm
+3	이러한	이러하+ㄴ	VERB	_	5	amod	_	_	이러하/pad+ㄴ/etm
+4	언어학적	언어학+적	NOUN	_	5	amod	_	_	언어학/ncn+적/xsn
+5	엄격성을	엄격성+을	NOUN	_	6	obj	_	_	엄격성/ncn+을/jco
+6	고수하는	고수+하+는	VERB	_	7	acl	_	_	고수/ncpa+하/xsv+는/etm
+7	유파와는	유파+와+는	NOUN	_	8	dislocated	_	_	유파/ncn+와/jct+는/jxt
+8	대조적으로	대조+적+으로	ADV	_	20	advcl	_	_	대조/ncpa+적/xsn+으로/jca
+9	독일의	독일+의	PROPN	_	11	nmod	_	_	독일/nq+의/jcm
+10	문체학자	문체+학자	NOUN	_	11	compound	_	_	문체/ncn+학자/ncn
+11	레오슈피처는	레오슈피처+는	PROPN	_	20	dislocated	_	_	레오슈피처/nq+는/jxt
+12	문체의	문체+의	NOUN	_	13	nmod	_	_	문체/ncn+의/jcm
+13	연구에서	연구+에서	ADV	_	20	advcl	_	_	연구/ncpa+에서/jca
+14	작가의	작가+의	NOUN	_	15	nmod	_	_	작가/ncn+의/jcm
+15	정신	정신	NOUN	_	18	compound	_	_	정신/ncn
+16	,	,	PUNCT	_	15	punct	_	_	,/sp
+17	시대	시대	NOUN	_	18	compound	_	_	시대/ncn
+18	정신까지	정신+까지	ADV	_	20	advcl	_	_	정신/ncn+까지/jxc
+19	깊이	깊이	ADV	_	20	advmod	_	_	깊이/mag
+20	접근한다	접근+하+ㄴ다	VERB	_	0	root	_	_	접근/ncpa+하/xsv+ㄴ다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그는 탁월한 직관으로 문체 비평을 정립시킨다 .
+1	그는	그+는	PRON	_	6	dislocated	_	_	그/npp+는/jxt
+2	탁월한	탁월+하+ㄴ	VERB	_	3	amod	_	_	탁월/ncps+하/xsm+ㄴ/etm
+3	직관으로	직관+으로	ADV	_	6	advcl	_	_	직관/ncpa+으로/jca
+4	문체	문체	NOUN	_	5	compound	_	_	문체/ncn
+5	비평을	비평+을	NOUN	_	6	obj	_	_	비평/ncpa+을/jco
+6	정립시킨다	정립+시키+ㄴ다	VERB	_	0	root	_	_	정립/ncpa+시키/xsv+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 슈피처는 어떤 방법론의 제시보다는 직관에 더욱 의지함으로 인해 , 해석이 주관적으로 흐른다는 비판도 받았다 .
+1	슈피처는	슈피처+는	PROPN	_	7	dislocated	_	_	슈피처/nq+는/jxt
+2	어떤	어떤	DET	_	3	det	_	_	어떤/mmd
+3	방법론의	방법론+의	NOUN	_	4	nmod	_	_	방법론/ncn+의/jcm
+4	제시보다는	제시+보다+는	NOUN	_	7	dislocated	_	_	제시/ncpa+보다/jca+는/jxt
+5	직관에	직관+에	ADV	_	7	obl	_	_	직관/ncpa+에/jca
+6	더욱	더욱	ADV	_	7	advmod	_	_	더욱/mag
+7	의지함으로	의지+하+ㅁ+으로	ADV	_	8	advcl	_	_	의지/ncpa+하/xsv+ㅁ/etn+으로/jca
+8	인해	인하+어	SCONJ	_	12	ccomp	_	_	인하/pvg+어/ecs
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	해석이	해석+이	NOUN	_	12	nsubj	_	_	해석/ncpa+이/jcs
+11	주관적으로	주관+적+으로	ADV	_	12	advcl	_	_	주관/ncn+적/xsn+으로/jca
+12	흐른다는	흐르+ㄴ다는	VERB	_	13	acl	_	_	흐르/pvg+ㄴ다는/etm
+13	비판도	비판+도	ADV	_	14	advcl	_	_	비판/ncpa+도/jxc
+14	받았다	받+았+다	VERB	_	0	root	_	_	받/pvg+았/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 크르쏘가 지적했듯이 문체론과 문체 연구는 구별되는데 , 문체론은 학문으로서의 체계와 방법론을 정립한다면 문체연구는 그러한 방법론을 텍스트에 적용하여 분석하는 문체 비평에 관계된다 .
+1	크르쏘가	크르쏘+가	PROPN	_	2	nsubj	_	_	크르쏘/nq+가/jcs
+2	지적했듯이	지적+하+었+듯이	SCONJ	_	6	ccomp	_	_	지적/ncpa+하/xsv+었/ep+듯이/ecs
+3	문체론과	문체론+과	CCONJ	_	5	conj	_	_	문체론/ncn+과/jcj
+4	문체	문체	NOUN	_	5	compound	_	_	문체/ncn
+5	연구는	연구+는	NOUN	_	6	dislocated	_	_	연구/ncpa+는/jxt
+6	구별되는데	구별+되+는데	SCONJ	_	21	ccomp	_	_	구별/ncpa+되/xsv+는데/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	문체론은	문체론+은	NOUN	_	12	dislocated	_	_	문체론/ncn+은/jxt
+9	학문으로서의	학문+으로서+의	NOUN	_	11	nmod	_	_	학문/ncpa+으로서/jca+의/jcm
+10	체계와	체계+와	CCONJ	_	11	conj	_	_	체계/ncn+와/jcj
+11	방법론을	방법론+을	NOUN	_	12	obj	_	_	방법론/ncn+을/jco
+12	정립한다면	정립+하+ㄴ다면	SCONJ	_	21	ccomp	_	_	정립/ncpa+하/xsv+ㄴ다면/ecs
+13	문체연구는	문체+연구+는	NOUN	_	21	dislocated	_	_	문체/ncn+연구/ncpa+는/jxt
+14	그러한	그러하+ㄴ	VERB	_	15	amod	_	_	그러하/pad+ㄴ/etm
+15	방법론을	방법론+을	NOUN	_	17	obj	_	_	방법론/ncn+을/jco
+16	텍스트에	텍스트+에	ADV	_	17	obl	_	_	텍스트/ncn+에/jca
+17	적용하여	적용+하+어	SCONJ	_	18	ccomp	_	_	적용/ncpa+하/xsv+어/ecs
+18	분석하는	분석+하+는	VERB	_	20	acl	_	_	분석/ncpa+하/xsv+는/etm
+19	문체	문체	NOUN	_	20	compound	_	_	문체/ncn
+20	비평에	비평+에	ADV	_	21	obl	_	_	비평/ncpa+에/jca
+21	관계된다	관계+되+ㄴ다	VERB	_	0	root	_	_	관계/ncpa+되/xsv+ㄴ다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 특히 은유 , 환유와 같은 전의가 문체의 총아로서 다른 일탈과 함께 분석되었다 .
+1	특히	특히	ADV	_	12	advmod	_	_	특히/mag
+2	은유	은유	NOUN	_	4	conj	_	_	은유/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	환유와	환유+와	CCONJ	_	5	conj	_	_	환유/ncn+와/jct
+5	같은	같+ㄴ	ADJ	_	6	amod	_	_	같/paa+ㄴ/etm
+6	전의가	전의+가	NOUN	_	12	nsubj	_	_	전의/ncn+가/jcs
+7	문체의	문체+의	NOUN	_	8	nmod	_	_	문체/ncn+의/jcm
+8	총아로서	총아+로서	ADV	_	12	advcl	_	_	총아/ncn+로서/jca
+9	다른	다르+ㄴ	ADJ	_	10	amod	_	_	다르/paa+ㄴ/etm
+10	일탈과	일탈+과	CCONJ	_	11	conj	_	_	일탈/ncpa+과/jct
+11	함께	함께	ADV	_	12	advmod	_	_	함께/mag
+12	분석되었다	분석+되+었+다	VERB	_	0	root	_	_	분석/ncpa+되/xsv+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 또한 표현과 의미 사이의 상응관계에서 , 잉여적 표현으로 어떤 일관된 독서의 방향을 유도해 주는 동위성의 개념을 제시한다 .
+1	또한	또한	CCONJ	_	17	cc	_	_	또한/maj
+2	표현과	표현+과	CCONJ	_	3	conj	_	_	표현/ncpa+과/jcj
+3	의미	의미	NOUN	_	4	compound	_	_	의미/ncpa
+4	사이의	사이+의	NOUN	_	5	nmod	_	_	사이/ncn+의/jcm
+5	상응관계에서	상응+관계+에서	ADV	_	17	advmod	_	_	상응/ncpa+관계/ncpa+에서/jca
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	잉여적	잉여+적	NOUN	_	8	amod	_	_	잉여/ncn+적/xsn
+8	표현으로	표현+으로	ADV	_	13	advcl	_	_	표현/ncpa+으로/jca
+9	어떤	어떤	DET	_	11	det	_	_	어떤/mmd
+10	일관된	일관+되+ㄴ	VERB	_	11	acl	_	_	일관/ncpa+되/xsv+ㄴ/etm
+11	독서의	독서+의	NOUN	_	12	nmod	_	_	독서/ncpa+의/jcm
+12	방향을	방향+을	NOUN	_	13	obj	_	_	방향/ncn+을/jco
+13	유도해	유도+하+어	VERB	_	16	acl	_	_	유도/ncpa+하/xsv+어/ecx
+14	주는	주+는	AUX	_	13	aux	_	_	주/px+는/etm
+15	동위성의	동위성+의	NOUN	_	16	nmod	_	_	동위성/ncn+의/jcm
+16	개념을	개념+을	NOUN	_	17	obj	_	_	개념/ncn+을/jco
+17	제시한다	제시+하+ㄴ다	VERB	_	0	root	_	_	제시/ncpa+하/xsv+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그의 연구는 담화의 의미작용의 연구에 이론적 근거를 제시해 주는 많은 분석적 개념을 제공해 주었다 .
+1	그의	그+의	PRON	_	2	nmod	_	_	그/npp+의/jcm
+2	연구는	연구+는	NOUN	_	13	dislocated	_	_	연구/ncpa+는/jxt
+3	담화의	담화+의	NOUN	_	4	nmod	_	_	담화/ncpa+의/jcm
+4	의미작용의	의미+작용+의	NOUN	_	5	nmod	_	_	의미/ncpa+작용/ncpa+의/jcm
+5	연구에	연구+에	ADV	_	8	obl	_	_	연구/ncpa+에/jca
+6	이론적	이론+적	NOUN	_	7	amod	_	_	이론/ncn+적/xsn
+7	근거를	근거+를	NOUN	_	8	obj	_	_	근거/ncpa+를/jco
+8	제시해	제시+하+어	VERB	_	12	acl	_	_	제시/ncpa+하/xsv+어/ecx
+9	주는	주+는	AUX	_	8	aux	_	_	주/px+는/etm
+10	많은	많+ㄴ	ADJ	_	12	amod	_	_	많/paa+ㄴ/etm
+11	분석적	분석+적	NOUN	_	12	amod	_	_	분석/ncpa+적/xsn
+12	개념을	개념+을	NOUN	_	13	obj	_	_	개념/ncn+을/jco
+13	제공해	제공+하+어	VERB	_	0	root	_	_	제공/ncpa+하/xsv+어/ecx
+14	주었다	주+었+다	AUX	_	13	aux	_	_	주/px+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그는 시학의 목표를 문학적 담화의 기능을 기술하여 문학사를 밝히는 것으로 보았다 .
+1	그는	그+는	PRON	_	11	dislocated	_	_	그/npp+는/jxt
+2	시학의	시학+의	NOUN	_	3	nmod	_	_	시학/ncn+의/jcm
+3	목표를	목표+를	NOUN	_	11	obj	_	_	목표/ncpa+를/jco
+4	문학적	문학+적	NOUN	_	5	amod	_	_	문학/ncpa+적/xsn
+5	담화의	담화+의	NOUN	_	6	nmod	_	_	담화/ncpa+의/jcm
+6	기능을	기능+을	NOUN	_	7	obj	_	_	기능/ncn+을/jco
+7	기술하여	기술+하+어	SCONJ	_	9	ccomp	_	_	기술/ncpa+하/xsv+어/ecs
+8	문학사를	문학사+를	NOUN	_	9	obj	_	_	문학사/ncn+를/jco
+9	밝히는	밝히+는	VERB	_	10	acl	_	_	밝히/pvg+는/etm
+10	것으로	것+으로	ADV	_	11	advcl	_	_	것/nbn+으로/jca
+11	보았다	보+았+다	VERB	_	0	root	_	_	보/pvg+았/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그가 현대적 의미로 사용했던 시학이란 용어는 , 작시법에 관한 규칙 , 규범을 총칭한 종래의 협의적인 사용과는 다르다 .
+1	그가	그+가	PRON	_	4	nsubj	_	_	그/npp+가/jcs
+2	현대적	현대+적	NOUN	_	3	amod	_	_	현대/ncn+적/xsn
+3	의미로	의미+로	ADV	_	4	advcl	_	_	의미/ncpa+로/jca
+4	사용했던	사용+하+었+던	VERB	_	5	ccomp	_	_	사용/ncpa+하/xsv+었/ep+던/etm
+5	시학이란	시학+이+란	VERB	_	6	acl	_	_	시학/ncn+이/jp+란/etm
+6	용어는	용어+는	NOUN	_	17	dep	_	_	용어/ncn+는/jxt
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	작시법에	작시법+에	ADV	_	9	obl	_	_	작시법/ncn+에/jca
+9	관한	관하+ㄴ	VERB	_	12	acl	_	_	관하/pvg+ㄴ/etm
+10	규칙	규칙	NOUN	_	12	conj	_	_	규칙/ncn
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	규범을	규범+을	NOUN	_	13	obj	_	_	규범/ncn+을/jco
+13	총칭한	총칭+하+ㄴ	VERB	_	16	acl	_	_	총칭/ncpa+하/xsv+ㄴ/etm
+14	종래의	종래+의	NOUN	_	16	nmod	_	_	종래/ncn+의/jcm
+15	협의적인	협의+적+이+ㄴ	VERB	_	16	acl	_	_	협의/ncpa+적/xsn+이/jp+ㄴ/etm
+16	사용과는	사용+과+는	NOUN	_	17	dislocated	_	_	사용/ncpa+과/jct+는/jxt
+17	다르다	다르+다	ADJ	_	0	root	_	_	다르/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 시학의 연구대상은 경험적인 문학작품의 전체가 아니라 , 문학의 특수성을 이루는 어떤 추상적인 구조이므로 , 구조적이고 기호학적인 특성을 함께 갖는다고 설명한다 .
+1	시학의	시학+의	NOUN	_	2	nmod	_	_	시학/ncn+의/jcm
+2	연구대상은	연구+대상+은	NOUN	_	19	dislocated	_	_	연구/ncpa+대상/ncn+은/jxt
+3	경험적인	경험+적+이+ㄴ	VERB	_	5	acl	_	_	경험/ncpa+적/xsn+이/jp+ㄴ/etm
+4	문학작품의	문학+작품+의	NOUN	_	5	nmod	_	_	문학/ncpa+작품/ncn+의/jcm
+5	전체가	전체+가	NOUN	_	6	csubj	_	_	전체/ncn+가/jcc
+6	아니라	아니+라	SCONJ	_	13	xcomp	_	_	아니/paa+라/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	문학의	문학+의	NOUN	_	9	nmod	_	_	문학/ncpa+의/jcm
+9	특수성을	특수성+을	NOUN	_	10	obj	_	_	특수성/ncn+을/jco
+10	이루는	이루+는	VERB	_	13	ccomp	_	_	이루/pvg+는/etm
+11	어떤	어떤	DET	_	13	det	_	_	어떤/mmd
+12	추상적인	추상+적+이+ㄴ	VERB	_	13	acl	_	_	추상/ncn+적/xsn+이/jp+ㄴ/etm
+13	구조이므로	구조+이+므로	SCONJ	_	19	ccomp	_	_	구조/ncpa+이/jp+므로/ecs
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	구조적이고	구조+적+이+고	CCONJ	_	16	conj	_	_	구조/ncpa+적/xsn+이/jp+고/ecc
+16	기호학적인	기호학+적+이+ㄴ	VERB	_	17	acl	_	_	기호학/ncn+적/xsn+이/jp+ㄴ/etm
+17	특성을	특성+을	NOUN	_	19	obj	_	_	특성/ncn+을/jco
+18	함께	함께	ADV	_	19	advmod	_	_	함께/mag
+19	갖는다고	갖+는다+고	VERB	_	20	conj	_	_	갖/pvg+는다/ef+고/jcr
+20	설명한다	설명+하+ㄴ다	VERB	_	0	root	_	_	설명/ncpa+하/xsv+ㄴ다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그리하여 그는 허구적 이야기와 이야기된 현실과의 관계를 시간 , 서술시점 , 서술양태의 세가지 범주로 설명했다 .
+1	그리하여	그리하여	CCONJ	_	15	cc	_	_	그리하여/maj
+2	그는	그+는	PRON	_	15	dislocated	_	_	그/npp+는/jxt
+3	허구적	허구+적	NOUN	_	4	amod	_	_	허구/ncpa+적/xsn
+4	이야기와	이야기+와	CCONJ	_	6	conj	_	_	이야기/ncpa+와/jcj
+5	이야기된	이야기+되+ㄴ	VERB	_	6	acl	_	_	이야기/ncpa+되/xsv+ㄴ/etm
+6	현실과의	현실+과+의	NOUN	_	7	nmod	_	_	현실/ncn+과/jct+의/jcm
+7	관계를	관계+를	NOUN	_	15	obj	_	_	관계/ncn+를/jco
+8	시간	시간	NOUN	_	10	conj	_	_	시간/ncn
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	서술시점	서술+시점	NOUN	_	12	conj	_	_	서술/ncpa+시점/ncn
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	서술양태의	서술+양태+의	NOUN	_	14	nmod	_	_	서술/ncpa+양태/ncn+의/jcm
+13	세가지	세+가지	NOUN	_	14	compound	_	_	세/nnc+가지/nbu
+14	범주로	범주+로	ADV	_	15	advcl	_	_	범주/ncn+로/jca
+15	설명했다	설명+하+었+다	VERB	_	0	root	_	_	설명/ncpa+하/xsv+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그는 이야기와 현실사건과 관계에서 시간의 개념을 더욱 깊이 분석했으며 , 누구의 관점에 의해 서술이 방향 지워지는가 , 즉 누가 보는가에 해당하는 서술법을 분석했다 .
+1	그는	그+는	PRON	_	23	dislocated	_	_	그/npp+는/jxt
+2	이야기와	이야기+와	CCONJ	_	3	conj	_	_	이야기/ncpa+와/jcj
+3	현실사건과	현실+사건+과	CCONJ	_	4	conj	_	_	현실/ncn+사건/ncn+과/jcj
+4	관계에서	관계+에서	ADV	_	9	advcl	_	_	관계/ncpa+에서/jca
+5	시간의	시간+의	NOUN	_	6	nmod	_	_	시간/ncn+의/jcm
+6	개념을	개념+을	NOUN	_	9	obj	_	_	개념/ncn+을/jco
+7	더욱	더욱	ADV	_	9	advmod	_	_	더욱/mag
+8	깊이	깊이	ADV	_	7	advmod	_	_	깊이/mag
+9	분석했으며	분석+하+었+으며	SCONJ	_	23	ccomp	_	_	분석/ncpa+하/xsv+었/ep+으며/ecs
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	누구의	누구+의	PRON	_	12	nmod	_	_	누구/npp+의/jcm
+12	관점에	관점+에	ADV	_	13	obl	_	_	관점/ncn+에/jca
+13	의해	의하+어	SCONJ	_	16	conj	_	_	의하/pvg+어/ecs
+14	서술이	서술+이	NOUN	_	16	nsubj	_	_	서술/ncpa+이/jcs
+15	방향	방향	NOUN	_	16	dep	_	_	방향/ncn
+16	지워지는가	지우+어+지+는가	AUX	_	20	conj	_	_	지우/pvg+어/ecx+지/px+는가/ef
+17	,	,	PUNCT	_	16	punct	_	_	,/sp
+18	즉	즉	CCONJ	_	20	cc	_	_	즉/maj
+19	누가	누+가	PRON	_	20	nsubj	_	_	누/npp+가/jcs
+20	보는가에	보+는가+에	ADV	_	21	obl	_	_	보/pvg+는가/ef+에/jca
+21	해당하는	해당+하+는	VERB	_	22	acl	_	_	해당/ncpa+하/xsv+는/etm
+22	서술법을	서술법+을	NOUN	_	23	obj	_	_	서술법/ncn+을/jco
+23	분석했다	분석+하+었+다	VERB	_	0	root	_	_	분석/ncpa+하/xsv+었/ep+다/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+
+# 또한 서술과 현실사건과의 관계에서는 서술태의 개념으로 누가 서술자인가에 관계되는 분석이다 .
+1	또한	또한	CCONJ	_	10	cc	_	_	또한/maj
+2	서술과	서술+과	CCONJ	_	3	conj	_	_	서술/ncpa+과/jcj
+3	현실사건과의	현실+사건+과+의	NOUN	_	4	nmod	_	_	현실/ncn+사건/ncn+과/jct+의/jcm
+4	관계에서는	관계+에서+는	NOUN	_	10	dislocated	_	_	관계/ncpa+에서/jca+는/jxt
+5	서술태의	서술태+의	NOUN	_	6	nmod	_	_	서술태/ncn+의/jcm
+6	개념으로	개념+으로	ADV	_	10	advcl	_	_	개념/ncn+으로/jca
+7	누가	누+가	PRON	_	8	nsubj	_	_	누/npp+가/jcs
+8	서술자인가에	서술자+이+ㄴ가+에	ADV	_	9	obl	_	_	서술자/ncn+이/jp+ㄴ가/ef+에/jca
+9	관계되는	관계+되+는	VERB	_	10	ccomp	_	_	관계/ncpa+되/xsv+는/etm
+10	분석이다	분석+이+다	VERB	_	0	root	_	_	분석/ncpa+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이러한 점은 , 종래에 현실사건과 이야기의 개념이 구별되지 않은 채 이야기 자체의 형태론에 머물던 언순의 기호학에서 새로운 방향 전환을 보여준다고 하겠다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	점은	점+은	NOUN	_	20	advmod	_	_	점/ncn+은/jxt
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	종래에	종래+의	NOUN	_	16	nmod	_	_	종래/ncn+의/jcm
+5	현실사건과	현실+사건+과	CCONJ	_	6	conj	_	_	현실/ncn+사건/ncn+과/jcj
+6	이야기의	이야기+의	NOUN	_	7	nmod	_	_	이야기/ncpa+의/jcm
+7	개념이	개념+이	NOUN	_	8	nsubj	_	_	개념/ncn+이/jcs
+8	구별되지	구별+되+지	VERB	_	10	acl	_	_	구별/ncpa+되/xsv+지/ecx
+9	않은	않+ㄴ	AUX	_	8	aux	_	_	않/px+ㄴ/etm
+10	채	채	NOUN	_	14	advmod	_	_	채/nbn
+11	이야기	이야기	NOUN	_	12	compound	_	_	이야기/ncpa
+12	자체의	자체+의	NOUN	_	13	nmod	_	_	자체/ncn+의/jcm
+13	형태론에	형태론+에	ADV	_	14	obl	_	_	형태론/ncn+에/jca
+14	머물던	머물+던	VERB	_	16	acl	_	_	머물/pvg+던/etm
+15	언순의	언순+의	NOUN	_	16	nmod	_	_	언순/ncn+의/jcm
+16	기호학에서	기호학+에서	ADV	_	20	advcl	_	_	기호학/ncn+에서/jca
+17	새로운	새롭+ㄴ	ADJ	_	19	amod	_	_	새롭/paa+ㄴ/etm
+18	방향	방향	NOUN	_	19	compound	_	_	방향/ncn
+19	전환을	전환+을	NOUN	_	20	obj	_	_	전환/ncpa+을/jco
+20	보여준다고	보이+어+주+ㄴ다+고	VERB	_	21	conj	_	_	보이/pvg+어/ecx+주/px+ㄴ다/ef+고/jcr
+21	하겠다	하+겠+다	VERB	_	0	root	_	_	하/pvg+겠/ep+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 서술적 담화에 대한 이러한 분석을 쥬네뜨는 서술론이라 명명했는데 , 현대의 문학 연구의 큰 흐름을 이루었다 .
+1	서술적	서술+적	NOUN	_	2	amod	_	_	서술/ncpa+적/xsn
+2	담화에	담화+에	ADV	_	3	obl	_	_	담화/ncpa+에/jca
+3	대한	대하+ㄴ	VERB	_	5	acl	_	_	대하/pvg+ㄴ/etm
+4	이러한	이러하+ㄴ	VERB	_	5	amod	_	_	이러하/pad+ㄴ/etm
+5	분석을	분석+을	NOUN	_	8	obj	_	_	분석/ncpa+을/jco
+6	쥬네뜨는	쥬네뜨+는	PROPN	_	8	dislocated	_	_	쥬네뜨/nq+는/jxt
+7	서술론이라	서술론+이+라	VERB	_	8	ccomp	_	_	서술론/ncn+이/jp+라/ef
+8	명명했는데	명명+하+었+는데	SCONJ	_	15	ccomp	_	_	명명/ncpa+하/xsv+었/ep+는데/ecs
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	현대의	현대+의	NOUN	_	12	nmod	_	_	현대/ncn+의/jcm
+11	문학	문학	NOUN	_	12	compound	_	_	문학/ncpa
+12	연구의	연구+의	NOUN	_	14	nmod	_	_	연구/ncpa+의/jcm
+13	큰	크+ㄴ	ADJ	_	14	amod	_	_	크/paa+ㄴ/etm
+14	흐름을	흐름+을	NOUN	_	15	obj	_	_	흐름/ncn+을/jco
+15	이루었다	이루+었+다	VERB	_	0	root	_	_	이루/pvg+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 토도로프 , 쥬네뜨가 큰 관심을 나타냈을 뿐 아니라 , 신수사학의 기치를든 든 연구팀이 생겼다 .
+1	토도로프	토도로프	PROPN	_	3	conj	_	_	토도로프/nq
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	쥬네뜨가	쥬네뜨+가	PROPN	_	6	nsubj	_	_	쥬네뜨/nq+가/jcs
+4	큰	크+ㄴ	ADJ	_	5	amod	_	_	크/paa+ㄴ/etm
+5	관심을	관심+을	NOUN	_	6	obj	_	_	관심/ncpa+을/jco
+6	나타냈을	나타내+ㅆ+ㄹ	VERB	_	14	ccomp	_	_	나타내/pvg+ㅆ/ep+ㄹ/etm
+7	뿐	뿐	NOUN	_	8	fixed	_	_	뿐/nbn
+8	아니라	아니+라	SCONJ	_	6	aux	_	_	아니/paa+라/ecs
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	신수사학의	신수사학+의	NOUN	_	11	nmod	_	_	신수사학/ncn+의/jcm
+11	기치를든	기치+를	NOUN	_	12	obj	_	_	기치/ncn+를/jco
+12	든	들+ㄴ	VERB	_	13	acl	_	_	들/pvg+ㄴ/etm
+13	연구팀이	연구+팀+이	NOUN	_	14	nsubj	_	_	연구/ncpa+팀/ncn+이/jcs
+14	생겼다	생기+었+다	VERB	_	0	root	_	_	생기/pvg+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 특히 은유와 환유에 대한 연구가 활발했다 .
+1	특히	특히	ADV	_	6	advmod	_	_	특히/mag
+2	은유와	은유+와	CCONJ	_	3	conj	_	_	은유/ncn+와/jcj
+3	환유에	환유+에	ADV	_	4	obl	_	_	환유/ncn+에/jca
+4	대한	대하+ㄴ	VERB	_	5	acl	_	_	대하/pvg+ㄴ/etm
+5	연구가	연구+가	NOUN	_	6	nsubj	_	_	연구/ncpa+가/jcs
+6	활발했다	활발+하+었+다	VERB	_	0	root	_	_	활발/ncps+하/xsm+었/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 바흐찐은 사회학적 비평과 구조주의 비평을 접목한 공로자이다 .
+1	바흐찐은	바흐찐+은	PROPN	_	7	dislocated	_	_	바흐찐/nq+은/jxt
+2	사회학적	사회학+적	NOUN	_	3	amod	_	_	사회학/ncn+적/xsn
+3	비평과	비평+과	CCONJ	_	5	conj	_	_	비평/ncpa+과/jcj
+4	구조주의	구조주의	NOUN	_	5	compound	_	_	구조주의/ncn
+5	비평을	비평+을	NOUN	_	6	obj	_	_	비평/ncpa+을/jco
+6	접목한	접목+하+ㄴ	VERB	_	7	ccomp	_	_	접목/ncpa+하/xsv+ㄴ/etm
+7	공로자이다	공로자+이+다	VERB	_	0	root	_	_	공로자/ncn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 크리스테바는 바흐찐의 이론을 초기 구조주의의 정태적 문학 연구에서 역동적 문학 연구로의 전환점으로 평가한다 .
+1	크리스테바는	크리스테바+는	PROPN	_	13	dislocated	_	_	크리스테바/nq+는/jxt
+2	바흐찐의	바흐찐+의	PROPN	_	3	nmod	_	_	바흐찐/nq+의/jcm
+3	이론을	이론+을	NOUN	_	13	obj	_	_	이론/ncn+을/jco
+4	초기	초기	NOUN	_	5	compound	_	_	초기/ncn
+5	구조주의의	구조주의+의	NOUN	_	8	nmod	_	_	구조주의/ncn+의/jcm
+6	정태적	정태+적	NOUN	_	8	amod	_	_	정태/ncn+적/xsn
+7	문학	문학	NOUN	_	8	compound	_	_	문학/ncpa
+8	연구에서	연구+에서	ADV	_	11	advcl	_	_	연구/ncpa+에서/jca
+9	역동적	역동+적	NOUN	_	11	amod	_	_	역동/ncn+적/xsn
+10	문학	문학	NOUN	_	11	compound	_	_	문학/ncpa
+11	연구로의	연구+로+의	NOUN	_	12	advmod	_	_	연구/ncpa+로/jca+의/jcm
+12	전환점으로	전환점+으로	ADV	_	13	advcl	_	_	전환점/ncn+으로/jca
+13	평가한다	평가+하+ㄴ다	VERB	_	0	root	_	_	평가/ncpa+하/xsv+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 문학은 어떤 고정된 의미를 주는 것이 아니라 , 복수적 글쓰기의 대화성으로 나타난다 .
+1	문학은	문학+은	NOUN	_	12	dislocated	_	_	문학/ncpa+은/jxt
+2	어떤	어떤	DET	_	4	det	_	_	어떤/mmd
+3	고정된	고정+되+ㄴ	VERB	_	4	acl	_	_	고정/ncpa+되/xsv+ㄴ/etm
+4	의미를	의미+를	NOUN	_	5	obj	_	_	의미/ncpa+를/jco
+5	주는	주+는	VERB	_	6	acl	_	_	주/pvg+는/etm
+6	것이	것+이	NOUN	_	7	csubj	_	_	것/nbn+이/jcc
+7	아니라	아니+라	SCONJ	_	12	xcomp	_	_	아니/paa+라/ecs
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	복수적	복수+적	NOUN	_	10	amod	_	_	복수/ncn+적/xsn
+10	글쓰기의	글쓰+기+의	NOUN	_	11	nmod	_	_	글쓰/pvg+기/etn+의/jcm
+11	대화성으로	대화성+으로	ADV	_	12	advcl	_	_	대화성/ncn+으로/jca
+12	나타난다	나타나+ㄴ다	VERB	_	0	root	_	_	나타나/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 소설을 구성하는 서술은 작가와 독자와의 대화성에 의해서 구성되며 , 동시에 언술의 주체와 언술행위의 주체가 중첩된다는 것이다 .
+1	소설을	소설+을	NOUN	_	2	obj	_	_	소설/ncn+을/jco
+2	구성하는	구성+하+는	VERB	_	3	acl	_	_	구성/ncpa+하/xsv+는/etm
+3	서술은	서술+은	NOUN	_	8	dislocated	_	_	서술/ncpa+은/jxt
+4	작가와	작가+와	CCONJ	_	5	conj	_	_	작가/ncn+와/jcj
+5	독자와의	독자+와+의	NOUN	_	6	nmod	_	_	독자/ncn+와/jct+의/jcm
+6	대화성에	대화성+에	ADV	_	7	obl	_	_	대화성/ncn+에/jca
+7	의해서	의하+어서	SCONJ	_	8	ccomp	_	_	의하/pvg+어서/ecs
+8	구성되며	구성+되+며	CCONJ	_	15	conj	_	_	구성/ncpa+되/xsv+며/ecc
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	동시에	동시+에	ADV	_	15	obl	_	_	동시/ncn+에/jca
+11	언술의	언술+의	NOUN	_	12	nmod	_	_	언술/ncn+의/jcm
+12	주체와	주체+와	CCONJ	_	14	conj	_	_	주체/ncn+와/jcj
+13	언술행위의	언술+행위+의	NOUN	_	14	nmod	_	_	언술/ncn+행위/ncn+의/jcm
+14	주체가	주체+가	NOUN	_	15	nsubj	_	_	주체/ncn+가/jcs
+15	중첩된다는	중첩+되+ㄴ다는	VERB	_	16	ccomp	_	_	중첩/ncpa+되/xsv+ㄴ다는/etm
+16	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 벤브니스트의 언술행위 이론은 이와 같이 쥬네뜨의 서술론과 대화성 이론에 접목이 되어 문학연구에 주요한 개념이 된다 .
+1	벤브니스트의	벤브니스트+의	PROPN	_	3	nmod	_	_	벤브니스트/nq+의/jcm
+2	언술행위	언술+행위	NOUN	_	3	compound	_	_	언술/ncn+행위/ncn
+3	이론은	이론+은	NOUN	_	15	dislocated	_	_	이론/ncn+은/jxt
+4	이와	이+와	CCONJ	_	5	conj	_	_	이/npd+와/jct
+5	같이	같+이	SCONJ	_	11	xcomp	_	_	같/paa+이/ecs
+6	쥬네뜨의	쥬네뜨+의	PROPN	_	9	nmod	_	_	쥬네뜨/nq+의/jcm
+7	서술론과	서술론+과	CCONJ	_	9	conj	_	_	서술론/ncn+과/jcj
+8	대화성	대화성	NOUN	_	9	compound	_	_	대화성/ncn
+9	이론에	이론+에	ADV	_	11	obl	_	_	이론/ncn+에/jca
+10	접목이	접목+이	NOUN	_	11	csubj	_	_	접목/ncpa+이/jcc
+11	되어	되+어	SCONJ	_	15	ccomp	_	_	되/pvg+어/ecs
+12	문학연구에	문학+연구+에	ADV	_	15	obl	_	_	문학/ncpa+연구/ncpa+에/jca
+13	주요한	주요+하+ㄴ	VERB	_	14	amod	_	_	주요/ncps+하/xsm+ㄴ/etm
+14	개념이	개념+이	NOUN	_	15	csubj	_	_	개념/ncn+이/jcc
+15	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 언술행위 , 다음성적 개념은 화용론 학자인 뒤크로에 의해 언어학적으로 더욱 체계화된다 .
+1	언술행위	언술+행위	NOUN	_	4	conj	_	_	언술/ncn+행위/ncn
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	다음성적	다음성+적	NOUN	_	4	amod	_	_	다음성/ncn+적/xsn
+4	개념은	개념+은	NOUN	_	11	dislocated	_	_	개념/ncn+은/jxt
+5	화용론	화용론	NOUN	_	6	compound	_	_	화용론/ncn
+6	학자인	학자+이+ㄴ	VERB	_	7	acl	_	_	학자/ncn+이/jp+ㄴ/etm
+7	뒤크로에	뒤크로+에	ADV	_	8	obl	_	_	뒤크로/nq+에/jca
+8	의해	의하+어	SCONJ	_	11	ccomp	_	_	의하/pvg+어/ecs
+9	언어학적으로	언어학+적+으로	ADV	_	11	advcl	_	_	언어학/ncn+적/xsn+으로/jca
+10	더욱	더욱	ADV	_	11	advmod	_	_	더욱/mag
+11	체계화된다	체계화+되+ㄴ다	VERB	_	0	root	_	_	체계화/ncpa+되/xsv+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 뒤크로는 다음성 현상이 두드러진 언술을 분석하며 분석적 개념을 더욱 전문화시킨다 .
+1	뒤크로는	뒤크로+는	PROPN	_	10	dislocated	_	_	뒤크로/nq+는/jxt
+2	다음성	다음성	NOUN	_	3	compound	_	_	다음성/ncn
+3	현상이	현상+이	NOUN	_	4	nsubj	_	_	현상/ncn+이/jcs
+4	두드러진	두드러지+ㄴ	ADJ	_	5	amod	_	_	두드러지/paa+ㄴ/etm
+5	언술을	언술+을	NOUN	_	6	obj	_	_	언술/ncn+을/jco
+6	분석하며	분석+하+며	CCONJ	_	10	conj	_	_	분석/ncpa+하/xsv+며/ecc
+7	분석적	분석+적	NOUN	_	8	amod	_	_	분석/ncpa+적/xsn
+8	개념을	개념+을	NOUN	_	10	obj	_	_	개념/ncn+을/jco
+9	더욱	더욱	ADV	_	10	advmod	_	_	더욱/mag
+10	전문화시킨다	전문화+시키+ㄴ다	VERB	_	0	root	_	_	전문화/ncpa+시키/xsv+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 함의 , 언표내적 가치 등의 개념에 의한 텍스트 분석에의 적용이 최근에 학계에서 시도되고 있다 .
+1	함의	함의	NOUN	_	4	conj	_	_	함의/ncpa
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	언표내적	언표+내적	NOUN	_	4	compound	_	_	언표/ncpa+내적/ncn
+4	가치	가치	NOUN	_	5	compound	_	_	가치/ncn
+5	등의	등+의	NOUN	_	6	nmod	_	_	등/nbn+의/jcm
+6	개념에	개념+에	ADV	_	7	obl	_	_	개념/ncn+에/jca
+7	의한	의하+ㄴ	VERB	_	10	acl	_	_	의하/pvg+ㄴ/etm
+8	텍스트	텍스트	NOUN	_	9	compound	_	_	텍스트/ncn
+9	분석에의	분석+에+의	NOUN	_	10	nmod	_	_	분석/ncpa+에/jca+의/jcm
+10	적용이	적용+이	NOUN	_	13	nsubj	_	_	적용/ncpa+이/jcs
+11	최근에	최근+에	ADV	_	13	obl	_	_	최근/ncn+에/jca
+12	학계에서	학계+에서	ADV	_	13	advcl	_	_	학계/ncn+에서/jca
+13	시도되고	시도+되+고	VERB	_	0	root	_	_	시도/ncpa+되/xsv+고/ecx
+14	있다	있+다	AUX	_	13	aux	_	_	있/px+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 지금까지 프랑스의 현대 문학 비평의 발자취를 개괄하여 보았다 .
+1	지금까지	지금+까지	ADV	_	7	advcl	_	_	지금/ncn+까지/jxc
+2	프랑스의	프랑스+의	PROPN	_	6	nmod	_	_	프랑스/nq+의/jcm
+3	현대	현대	NOUN	_	4	compound	_	_	현대/ncn
+4	문학	문학	NOUN	_	5	compound	_	_	문학/ncpa
+5	비평의	비평+의	NOUN	_	6	nmod	_	_	비평/ncpa+의/jcm
+6	발자취를	발자취+를	NOUN	_	7	obj	_	_	발자취/ncn+를/jco
+7	개괄하여	개괄+하+어	VERB	_	0	root	_	_	개괄/ncpa+하/xsv+어/ecx
+8	보았다	보+았+다	AUX	_	7	aux	_	_	보/px+았/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 신비평은 다양한 방향에서 방법론을 달리하나 , 작품을 하나의 총체로 보고 비평은 작품에 내재적이어야 한다는 공통적인 원칙을 보여준다 .
+1	신비평은	신비평+은	NOUN	_	17	dislocated	_	_	신비평/ncn+은/jxt
+2	다양한	다양+하+ㄴ	VERB	_	3	amod	_	_	다양/ncps+하/xsm+ㄴ/etm
+3	방향에서	방향+에서	ADV	_	5	advcl	_	_	방향/ncn+에서/jca
+4	방법론을	방법론+을	NOUN	_	5	obj	_	_	방법론/ncn+을/jco
+5	달리하나	달리하+나	SCONJ	_	17	ccomp	_	_	달리하/pvg+나/ecs
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	작품을	작품+을	NOUN	_	10	obj	_	_	작품/ncn+을/jco
+8	하나의	하나+의	NUM	_	9	nmod	_	_	하나/nnc+의/jcm
+9	총체로	총체+로	ADV	_	10	advcl	_	_	총체/ncn+로/jca
+10	보고	보+고	CCONJ	_	13	conj	_	_	보/pvg+고/ecc
+11	비평은	비평+은	NOUN	_	13	dislocated	_	_	비평/ncpa+은/jxt
+12	작품에	작품+에	ADV	_	13	obl	_	_	작품/ncn+에/jca
+13	내재적이어야	내재+적+이+어야	VERB	_	16	acl	_	_	내재/ncpa+적/xsn+이/jp+어야/ecx
+14	한다는	하+ㄴ다는	AUX	_	13	aux	_	_	하/px+ㄴ다는/etm
+15	공통적인	공통+적+이+ㄴ	VERB	_	16	acl	_	_	공통/ncpa+적/xsn+이/jp+ㄴ/etm
+16	원칙을	원칙+을	NOUN	_	17	obj	_	_	원칙/ncn+을/jco
+17	보여준다	보이+어+주+ㄴ다	AUX	_	0	root	_	_	보이/pvg+어/ecx+주/px+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 구조주의 비평은 작품의 내재적을 강조한 나머지 작품을 하나의 닫혀진 총체로 보고 그 구조를 파악한다 .
+1	구조주의	구조주의	NOUN	_	2	compound	_	_	구조주의/ncn
+2	비평은	비평+은	NOUN	_	14	dislocated	_	_	비평/ncpa+은/jxt
+3	작품의	작품+의	NOUN	_	4	nmod	_	_	작품/ncn+의/jcm
+4	내재적을	내재+적+을	NOUN	_	5	obj	_	_	내재/ncpa+적/xsn+을/jco
+5	강조한	강조+하+ㄴ	VERB	_	6	acl	_	_	강조/ncpa+하/xsv+ㄴ/etm
+6	나머지	나머지	NOUN	_	14	advmod	_	_	나머지/ncn
+7	작품을	작품+을	NOUN	_	11	obj	_	_	작품/ncn+을/jco
+8	하나의	하나+의	NUM	_	10	nmod	_	_	하나/nnc+의/jcm
+9	닫혀진	닫히+어+지+ㄴ	AUX	_	10	acl	_	_	닫히/pvg+어/ecx+지/px+ㄴ/etm
+10	총체로	총체+로	ADV	_	11	advcl	_	_	총체/ncn+로/jca
+11	보고	보+고	CCONJ	_	14	conj	_	_	보/pvg+고/ecc
+12	그	그	DET	_	13	det	_	_	그/mmd
+13	구조를	구조+를	NOUN	_	14	obj	_	_	구조/ncpa+를/jco
+14	파악한다	파악+하+ㄴ다	VERB	_	0	root	_	_	파악/ncpa+하/xsv+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 특히 러시아 형식주의자들은 모든 이야기에 내재되어 있다고 가정하는 보편적이고도 논리적인 구조와 그 기능을 밝히는데 주력하였다 .
+1	특히	특히	ADV	_	15	advmod	_	_	특히/mag
+2	러시아	러시아	PROPN	_	3	compound	_	_	러시아/nq
+3	형식주의자들은	형식주의자+들+은	NOUN	_	15	dislocated	_	_	형식주의자/ncn+들/xsn+은/jxt
+4	모든	모든	ADJ	_	5	amod	_	_	모든/mma
+5	이야기에	이야기+에	ADV	_	6	obl	_	_	이야기/ncpa+에/jca
+6	내재되어	내재+되+어	VERB	_	8	conj	_	_	내재/ncpa+되/xsv+어/ecx
+7	있다고	있+다+고	VERB	_	6	aux	_	_	있/px+다/ef+고/jcr
+8	가정하는	가정+하+는	VERB	_	11	acl	_	_	가정/ncpa+하/xsv+는/etm
+9	보편적이고도	보편+적+이+고+도	ADV	_	10	ccomp	_	_	보편/ncn+적/xsn+이/jp+고/ecc+도/jxc
+10	논리적인	논리+적+이+ㄴ	VERB	_	11	acl	_	_	논리/ncn+적/xsn+이/jp+ㄴ/etm
+11	구조와	구조+와	CCONJ	_	13	conj	_	_	구조/ncpa+와/jcj
+12	그	그	DET	_	13	det	_	_	그/mmd
+13	기능을	기능+을	NOUN	_	14	obj	_	_	기능/ncn+을/jco
+14	밝히는데	밝히+는데	SCONJ	_	15	ccomp	_	_	밝히/pvg+는데/ecs
+15	주력하였다	주력+하+었+다	VERB	_	0	root	_	_	주력/ncpa+하/xsv+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 문예 과학에 참여하는 방대하리만큼 다양한 이론과 개념을 현대 비평이 잘 소화하여 흡수함으로써 , 방법론적인 측명에서 큰 기여를 받을 수 있으리라 본다 .
+1	문예	문예	NOUN	_	2	compound	_	_	문예/ncn
+2	과학에	과학+에	ADV	_	3	obl	_	_	과학/ncn+에/jca
+3	참여하는	참여+하+는	VERB	_	7	acl	_	_	참여/ncpa+하/xsv+는/etm
+4	방대하리만큼	방대+하+리만큼	SCONJ	_	5	xcomp	_	_	방대/ncps+하/xsm+리만큼/ecs
+5	다양한	다양+하+ㄴ	VERB	_	7	amod	_	_	다양/ncps+하/xsm+ㄴ/etm
+6	이론과	이론+과	CCONJ	_	7	conj	_	_	이론/ncn+과/jcj
+7	개념을	개념+을	NOUN	_	12	obj	_	_	개념/ncn+을/jco
+8	현대	현대	NOUN	_	9	compound	_	_	현대/ncn
+9	비평이	비평+이	NOUN	_	12	nsubj	_	_	비평/ncpa+이/jcs
+10	잘	잘	ADV	_	11	advmod	_	_	잘/mag
+11	소화하여	소화+하+어	SCONJ	_	12	ccomp	_	_	소화/ncpa+하/xsv+어/ecs
+12	흡수함으로써	흡수+하+ㅁ+으로써	ADV	_	18	advmod	_	_	흡수/ncpa+하/xsv+ㅁ/etn+으로써/jca
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	방법론적인	방법론+적+이+ㄴ	VERB	_	15	acl	_	_	방법론/ncn+적/xsn+이/jp+ㄴ/etm
+15	측명에서	측명+에서	ADV	_	18	advcl	_	_	측명/ncn+에서/jca
+16	큰	크+ㄴ	ADJ	_	17	amod	_	_	크/paa+ㄴ/etm
+17	기여를	기여+를	NOUN	_	18	obj	_	_	기여/ncpa+를/jco
+18	받을	받+ㄹ	VERB	_	21	ccomp	_	_	받/pvg+ㄹ/etm
+19	수	수	NOUN	_	20	fixed	_	_	수/nbn
+20	있으리라	있+으리라	ADJ	_	18	aux	_	_	있/paa+으리라/ef
+21	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 그러나 문학에서는 소쉬르가 말한 대로의 언어 기호의 자의성의 관점이 아니라 , 기호의 유연성의 관점에 위치한다 .
+1	그러나	그러나	CCONJ	_	15	cc	_	_	그러나/maj
+2	문학에서는	문학+에서+는	NOUN	_	15	dislocated	_	_	문학/ncpa+에서/jca+는/jxt
+3	소쉬르가	소쉬르+가	PROPN	_	4	nsubj	_	_	소쉬르/nq+가/jcs
+4	말한	말하+ㄴ	VERB	_	5	acl	_	_	말하/pvg+ㄴ/etm
+5	대로의	대로+의	NOUN	_	9	nmod	_	_	대로/nbn+의/jcm
+6	언어	언어	NOUN	_	7	compound	_	_	언어/ncn
+7	기호의	기호+의	NOUN	_	8	nmod	_	_	기호/ncn+의/jcm
+8	자의성의	자의성+의	NOUN	_	9	nmod	_	_	자의성/ncn+의/jcm
+9	관점이	관점+이	NOUN	_	10	csubj	_	_	관점/ncn+이/jcc
+10	아니라	아니+라	SCONJ	_	15	xcomp	_	_	아니/paa+라/ecs
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	기호의	기호+의	NOUN	_	13	nmod	_	_	기호/ncn+의/jcm
+13	유연성의	유연성+의	NOUN	_	14	nmod	_	_	유연성/ncn+의/jcm
+14	관점에	관점+에	ADV	_	15	obl	_	_	관점/ncn+에/jca
+15	위치한다	위치+하+ㄴ다	VERB	_	0	root	_	_	위치/ncpa+하/xsv+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 신화에 있어서 기호는 동시에 의미와 형태를 갖는 기표로써 의미작용을 한다 .
+1	신화에	신화+에	ADV	_	2	obl	_	_	신화/ncn+에/jca
+2	있어서	있+어서	SCONJ	_	10	xcomp	_	_	있/paa+어서/ecs
+3	기호는	기호+는	NOUN	_	10	dislocated	_	_	기호/ncn+는/jxt
+4	동시에	동시+에	ADV	_	7	obl	_	_	동시/ncn+에/jca
+5	의미와	의미+와	CCONJ	_	6	conj	_	_	의미/ncpa+와/jcj
+6	형태를	형태+를	NOUN	_	7	obj	_	_	형태/ncn+를/jco
+7	갖는	갖+는	VERB	_	8	acl	_	_	갖/pvg+는/etm
+8	기표로써	기표+로써	ADV	_	10	advcl	_	_	기표/ncn+로써/jca
+9	의미작용을	의미+작용+을	NOUN	_	10	obj	_	_	의미/ncpa+작용/ncpa+을/jco
+10	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 언어의 공시적 기능으로 함축적인 의미 작용을 하는 문채야말로 문학적 신화의 기표라는 것이다 .
+1	언어의	언어+의	NOUN	_	3	nmod	_	_	언어/ncn+의/jcm
+2	공시적	공시+적	NOUN	_	3	amod	_	_	공시/ncn+적/xsn
+3	기능으로	기능+으로	ADV	_	7	advcl	_	_	기능/ncn+으로/jca
+4	함축적인	함축+적+이+ㄴ	VERB	_	6	acl	_	_	함축/ncpa+적/xsn+이/jp+ㄴ/etm
+5	의미	의미	NOUN	_	6	compound	_	_	의미/ncpa
+6	작용을	작용+을	NOUN	_	7	obj	_	_	작용/ncpa+을/jco
+7	하는	하+는	VERB	_	8	acl	_	_	하/pvg+는/etm
+8	문채야말로	문채+야말로	ADV	_	11	advcl	_	_	문채/ncn+야말로/jxc
+9	문학적	문학+적	NOUN	_	10	amod	_	_	문학/ncn+적/xsn
+10	신화의	신화+의	NOUN	_	11	nmod	_	_	신화/ncn+의/jcm
+11	기표라는	기표+이+라는	VERB	_	12	ccomp	_	_	기표/ncn+이/jp+라는/etm
+12	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 언어의 공시적 기능은 랑그의 개념적 의미 즉 정보에 덧붙여진 채색된 의미의 함축이라 하겠다 .
+1	언어의	언어+의	NOUN	_	3	nmod	_	_	언어/ncn+의/jcm
+2	공시적	공시+적	NOUN	_	3	amod	_	_	공시/ncn+적/xsn
+3	기능은	기능+은	NOUN	_	12	dislocated	_	_	기능/ncn+은/jxt
+4	랑그의	랑그+의	NOUN	_	6	nmod	_	_	랑그/ncn+의/jcm
+5	개념적	개념+적	NOUN	_	6	amod	_	_	개념/ncn+적/xsn
+6	의미	의미	NOUN	_	12	compound	_	_	의미/ncn
+7	즉	즉	CCONJ	_	12	cc	_	_	즉/maj
+8	정보에	정보+에	ADV	_	9	obl	_	_	정보/ncn+에/jca
+9	덧붙여진	덧붙이+어+지+ㄴ	AUX	_	12	acl	_	_	덧붙이/pvg+어/ecx+지/px+ㄴ/etm
+10	채색된	채색+되+ㄴ	VERB	_	12	acl	_	_	채색/ncpa+되/xsv+ㄴ/etm
+11	의미의	의미+의	NOUN	_	12	nmod	_	_	의미/ncpa+의/jcm
+12	함축이라	함축+이+라	VERB	_	13	ccomp	_	_	함축/ncpa+이/jp+라/ef
+13	하겠다	하+겠+다	VERB	_	0	root	_	_	하/pvg+겠/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그러한 함축 의미는 언어 공동체의 문화적 , 이념적 , 정의적 채색이며 , 기표와 기의에 모두 관여된다 .
+1	그러한	그러하+ㄴ	VERB	_	3	amod	_	_	그러하/pad+ㄴ/etm
+2	함축	함축	NOUN	_	3	compound	_	_	함축/ncpa
+3	의미는	의미+는	NOUN	_	16	dislocated	_	_	의미/ncpa+는/jxt
+4	언어	언어	NOUN	_	5	compound	_	_	언어/ncn
+5	공동체의	공동체+의	NOUN	_	11	nmod	_	_	공동체/ncn+의/jcm
+6	문화적	문화+적	NOUN	_	8	conj	_	_	문화/ncn+적/xsn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	이념적	이념+적	NOUN	_	10	conj	_	_	이념/ncn+적/xsn
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	정의적	정의+적	NOUN	_	11	amod	_	_	정의/ncn+적/xsn
+11	채색이며	채색+이+며	CCONJ	_	16	conj	_	_	채색/ncpa+이/jp+며/ecc
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	기표와	기표+와	CCONJ	_	14	conj	_	_	기표/ncn+와/jcj
+14	기의에	기의+에	ADV	_	16	obl	_	_	기의/ncn+에/jca
+15	모두	모두	ADV	_	16	advmod	_	_	모두/mag
+16	관여된다	관여+되+ㄴ다	VERB	_	0	root	_	_	관여/ncpa+되/xsv+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 민주 , 평등과 같은 어휘가 이념이 다른 양쪽 진영에서 쓰일 때의 공시가 차이 지는 것은 기의에 의한 공시일 것이다 .
+1	민주	민주	NOUN	_	3	conj	_	_	민주/ncn
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	평등과	평등+과	CCONJ	_	4	conj	_	_	평등/ncps+과/jct
+4	같은	같+은	ADJ	_	5	amod	_	_	같/paa+은/etm
+5	어휘가	어휘+가	NOUN	_	10	nsubj	_	_	어휘/ncn+가/jcs
+6	이념이	이념+이	NOUN	_	7	nsubj	_	_	이념/ncn+이/jcs
+7	다른	다르+ㄴ	ADJ	_	9	amod	_	_	다르/paa+ㄴ/etm
+8	양쪽	양쪽	NOUN	_	9	compound	_	_	양쪽/ncn
+9	진영에서	진영+에서	ADV	_	10	advcl	_	_	진영/ncn+에서/jca
+10	쓰일	쓰이+ㄹ	VERB	_	11	acl	_	_	쓰이/pvg+ㄹ/etm
+11	때의	때+의	NOUN	_	12	nmod	_	_	때/ncn+의/jcm
+12	공시가	공시+가	NOUN	_	14	nsubj	_	_	공시/ncn+가/jcs
+13	차이	차이	NOUN	_	14	dep	_	_	차이/ncn
+14	지는	지+는	VERB	_	15	acl	_	_	지/pvg+는/etm
+15	것은	것+은	NOUN	_	18	dislocated	_	_	것/nbn+은/jxt
+16	기의에	기의+에	ADV	_	17	obl	_	_	기의/ncn+에/jca
+17	의한	의하+ㄴ	VERB	_	18	ccomp	_	_	의하/pvg+ㄴ/etm
+18	공시일	공시+이+ㄹ	VERB	_	0	root	_	_	공시/ncn+이/jp+ㄹ/etm
+19	것이다	것+이+다	VERB	_	18	aux	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 따라서 정확한 정보를 전달하기 위해서는 지시대상에 대한 기호의 투명성이 요청된다 .
+1	따라서	따라서	CCONJ	_	10	cc	_	_	따라서/maj
+2	정확한	정확+하+ㄴ	VERB	_	3	acl	_	_	정확/ncpa+하/xsv+ㄴ/etm
+3	정보를	정보+를	NOUN	_	4	obj	_	_	정보/ncn+를/jco
+4	전달하기	전달+하+기	VERB	_	5	nmod	_	_	전달/ncpa+하/xsv+기/etn
+5	위해서는	위하+어서+는	NOUN	_	10	ccomp	_	_	위하/pvg+어서/ecs+는/jxt
+6	지시대상에	지시+대상+에	ADV	_	7	obl	_	_	지시/ncpa+대상/ncn+에/jca
+7	대한	대하+ㄴ	VERB	_	9	acl	_	_	대하/pvg+ㄴ/etm
+8	기호의	기호+의	NOUN	_	9	nmod	_	_	기호/ncn+의/jcm
+9	투명성이	투명성+이	NOUN	_	10	nsubj	_	_	투명성/ncn+이/jcs
+10	요청된다	요청+되+ㄴ다	VERB	_	0	root	_	_	요청/ncpa+되/xsv+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 소쉬르 이래 꼬드 혹은 체게로서의 랑그에 관한 연구는 항상 이러한 언어기호의 투명성이 전제되어 있다고 하겠다 .
+1	소쉬르	소쉬르	PROPN	_	2	compound	_	_	소쉬르/nq
+2	이래	이래	NOUN	_	13	advmod	_	_	이래/ncn
+3	꼬드	꼬드	NOUN	_	5	conj	_	_	꼬드/ncn
+4	혹은	혹은	CCONJ	_	5	cc	_	_	혹은/maj
+5	체게로서의	체게+로서+의	NOUN	_	6	nmod	_	_	체게/ncn+로서/jca+의/jcm
+6	랑그에	랑그+에	ADV	_	7	obl	_	_	랑그/ncn+에/jca
+7	관한	관하+ㄴ	VERB	_	8	acl	_	_	관하/pvg+ㄴ/etm
+8	연구는	연구+는	NOUN	_	13	dislocated	_	_	연구/ncpa+는/jxt
+9	항상	항상	ADV	_	13	advmod	_	_	항상/mag
+10	이러한	이러하+ㄴ	VERB	_	12	amod	_	_	이러하/pad+ㄴ/etm
+11	언어기호의	언어+기호+의	NOUN	_	12	nmod	_	_	언어/ncn+기호/ncn+의/jcm
+12	투명성이	투명성+이	NOUN	_	13	nsubj	_	_	투명성/ncn+이/jcs
+13	전제되어	전제+되+어	VERB	_	15	conj	_	_	전제/ncpa+되/xsv+어/ecx
+14	있다고	있+다+고	VERB	_	13	aux	_	_	있/px+다/ef+고/jcr
+15	하겠다	하+겠+다	VERB	_	0	root	_	_	하/pvg+겠/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그러나 언어 현상에 있어서 우리는 꼬드의 이질성 , 기호의 불투명성을 간과할 수는 없다 .
+1	그러나	그러나	CCONJ	_	11	cc	_	_	그러나/maj
+2	언어	언어	NOUN	_	3	compound	_	_	언어/ncn
+3	현상에	현상+에	ADV	_	4	obl	_	_	현상/ncn+에/jca
+4	있어서	있+어서	SCONJ	_	11	xcomp	_	_	있/paa+어서/ecs
+5	우리는	우리+는	PRON	_	11	dislocated	_	_	우리/npp+는/jxt
+6	꼬드의	꼬드+의	NOUN	_	7	nmod	_	_	꼬드/ncn+의/jcm
+7	이질성	이질성	NOUN	_	10	compound	_	_	이질성/ncn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	기호의	기호+의	NOUN	_	10	nmod	_	_	기호/ncn+의/jcm
+10	불투명성을	불투명성+을	NOUN	_	11	obj	_	_	불투명성/ncn+을/jco
+11	간과할	간과+하+ㄹ	VERB	_	0	root	_	_	간과/ncpa+하/xsv+ㄹ/etm
+12	수는	수+는	NOUN	_	13	fixed	_	_	수/nbn+는/jxt
+13	없다	없+다	ADJ	_	11	aux	_	_	없/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 최근에 뒤크로를 비롯하여 학자들이 주장하는 바에 의하면 , 언어를 순전히 커뮤니케이션의 수단으로서의 꼬드로서만 정의하는 것은 수정되어야 한다는 것이다 .
+1	최근에	최근+에	ADV	_	5	obl	_	_	최근/ncn+에/jca
+2	뒤크로를	뒤크로+를	PROPN	_	3	obj	_	_	뒤크로/nq+를/jco
+3	비롯하여	비롯+하+어	SCONJ	_	5	ccomp	_	_	비롯/ncpa+하/xsv+어/ecs
+4	학자들이	학자+들+이	NOUN	_	5	nsubj	_	_	학자/ncn+들/xsn+이/jcs
+5	주장하는	주장+하+는	VERB	_	6	acl	_	_	주장/ncpa+하/xsv+는/etm
+6	바에	바+에	ADV	_	7	obl	_	_	바/nbn+에/jca
+7	의하면	의하+면	SCONJ	_	16	ccomp	_	_	의하/pvg+면/ecs
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	언어를	언어+를	NOUN	_	14	obj	_	_	언어/ncn+를/jco
+10	순전히	순전+히	ADV	_	13	advmod	_	_	순전/ncps+히/xsa
+11	커뮤니케이션의	커뮤니케이션+의	NOUN	_	12	nmod	_	_	커뮤니케이션/ncn+의/jcm
+12	수단으로서의	수단+으로서+의	NOUN	_	13	nmod	_	_	수단/ncn+으로서/jca+의/jcm
+13	꼬드로서만	꼬드+로서+만	ADV	_	14	advcl	_	_	꼬드/ncn+로서/jca+만/jxc
+14	정의하는	정의+하+는	VERB	_	15	acl	_	_	정의/ncpa+하/xsv+는/etm
+15	것은	것+은	NOUN	_	16	dislocated	_	_	것/nbn+은/jxt
+16	수정되어야	수정+되+어야	VERB	_	18	ccomp	_	_	수정/ncpa+되/xsv+어야/ecx
+17	한다는	하+ㄴ다는	AUX	_	16	aux	_	_	하/px+ㄴ다는/etm
+18	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 고전화된 야콥슨의 커뮤니케이션의 기능별 도표를 오르끼오니는 앞과 같이 수정 , 보완하기에 이른다 .
+1	고전화된	고전화+되+ㄴ	VERB	_	5	acl	_	_	고전화/ncpa+되/xsv+ㄴ/etm
+2	야콥슨의	야콥슨+의	PROPN	_	5	nmod	_	_	야콥슨/nq+의/jcm
+3	커뮤니케이션의	커뮤니케이션+의	NOUN	_	5	nmod	_	_	커뮤니케이션/ncn+의/jcm
+4	기능별	기능별	NOUN	_	5	compound	_	_	기능별/ncn
+5	도표를	도표+를	NOUN	_	11	obj	_	_	도표/ncn+를/jco
+6	오르끼오니는	오르끼오닐+는	PROPN	_	11	dislocated	_	_	오르끼오닐/nq+는/jxt
+7	앞과	앞+과	CCONJ	_	8	conj	_	_	앞/ncn+과/jct
+8	같이	같+이	SCONJ	_	11	xcomp	_	_	같/paa+이/ecs
+9	수정	수정	NOUN	_	11	compound	_	_	수정/ncpa
+10	,	,	PUNCT	_	11	punct	_	_	,/sp
+11	보완하기에	보완+하+기+에	ADV	_	12	obl	_	_	보완/ncpa+하/xsv+기/etn+에/jca
+12	이른다	이르+ㄴ다	VERB	_	0	root	_	_	이르/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이와 같이 언어는 꼬드로서의 동질성과 이질성을 동시에 가지며 현실대상에 대한 기호의 투명성과 불투명성을 아울러 갖는 양면성을 띤다 .
+1	이와	이+와	CCONJ	_	2	conj	_	_	이/npd+와/jct
+2	같이	같+이	SCONJ	_	17	xcomp	_	_	같/paa+이/ecs
+3	언어는	언어+는	NOUN	_	17	dislocated	_	_	언어/ncn+는/jxt
+4	꼬드로서의	꼬드+로서+의	NOUN	_	6	nmod	_	_	꼬드/ncn+로서/jca+의/jcm
+5	동질성과	동질성+과	CCONJ	_	6	conj	_	_	동질성/ncn+과/jcj
+6	이질성을	이질성+을	NOUN	_	8	obj	_	_	이질성/ncn+을/jco
+7	동시에	동시+에	ADV	_	8	obl	_	_	동시/ncn+에/jca
+8	가지며	가지+며	CCONJ	_	17	conj	_	_	가지/pvg+며/ecc
+9	현실대상에	현실+대상+에	ADV	_	10	obl	_	_	현실/ncn+대상/ncn+에/jca
+10	대한	대하+ㄴ	VERB	_	13	acl	_	_	대하/pvg+ㄴ/etm
+11	기호의	기호+의	NOUN	_	13	nmod	_	_	기호/ncn+의/jcm
+12	투명성과	투명성+과	CCONJ	_	13	conj	_	_	투명성/ncn+과/jcj
+13	불투명성을	불투명성+을	NOUN	_	15	obj	_	_	불투명성/ncn+을/jco
+14	아울러	아울러	ADV	_	15	advmod	_	_	아울러/mag
+15	갖는	갖+는	VERB	_	16	acl	_	_	갖/pvg+는/etm
+16	양면성을	양면성+을	NOUN	_	17	obj	_	_	양면성/ncn+을/jco
+17	띤다	띠+ㄴ다	VERB	_	0	root	_	_	띠/pvg+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 즉 언어 기호는 지시대상을 나타낼 뿐 아니라 , 언어 행위를 또한 투영한다 .
+1	즉	즉	CCONJ	_	12	cc	_	_	즉/maj
+2	언어	언어	NOUN	_	3	compound	_	_	언어/ncn
+3	기호는	기호+는	NOUN	_	12	dislocated	_	_	기호/ncn+는/jxt
+4	지시대상을	지시+대상+을	NOUN	_	5	obj	_	_	지시/ncpa+대상/ncn+을/jco
+5	나타낼	나타내+ㄹ	VERB	_	12	ccomp	_	_	나타내/pvg+ㄹ/etm
+6	뿐	뿐	NOUN	_	7	fixed	_	_	뿐/nbn
+7	아니라	아니+라	SCONJ	_	5	aux	_	_	아니/paa+라/ecs
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	언어	언어	NOUN	_	10	compound	_	_	언어/ncn
+10	행위를	행위+를	NOUN	_	12	obj	_	_	행위/ncpa+를/jco
+11	또한	또한	ADV	_	12	advmod	_	_	또한/mag
+12	투영한다	투영+하+ㄴ다	VERB	_	0	root	_	_	투영/ncpa+하/xsv+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 같은 표현이라도 어떤 담화 상황에서 이루어지느냐에 따라 , 언어 기호의 불투명성의 정도가 달라지게 된다 .
+1	같은	같+ㄴ	ADJ	_	2	amod	_	_	같/paa+ㄴ/etm
+2	표현이라도	표현+이+라도	SCONJ	_	13	conj	_	_	표현/ncpa+이/jp+라도/ecs
+3	어떤	어떤	ADJ	_	5	amod	_	_	어떤/mma
+4	담화	담화	NOUN	_	5	compound	_	_	담화/ncpa
+5	상황에서	상황+에서	ADV	_	6	advcl	_	_	상황/ncn+에서/jca
+6	이루어지느냐에	이루+어+지+느냐+에	ADV	_	7	obl	_	_	이루/pvg+어/ecx+지/px+느냐/ef+에/jca
+7	따라	따르+아	SCONJ	_	13	conj	_	_	따르/pvg+아/ecs
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	언어	언어	NOUN	_	10	compound	_	_	언어/ncn
+10	기호의	기호+의	NOUN	_	11	nmod	_	_	기호/ncn+의/jcm
+11	불투명성의	불투명성+의	NOUN	_	12	nmod	_	_	불투명성/ncn+의/jcm
+12	정도가	정도+가	NOUN	_	13	nsubj	_	_	정도/ncn+가/jcs
+13	달라지게	다르+아+지+게	AUX	_	0	root	_	_	다르/paa+아/ecx+지/px+게/ecx
+14	된다	되+ㄴ다	AUX	_	13	aux	_	_	되/px+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 예컨대 누보로망의 표현 기법은 이러한 기호의 양면성을 최대한 활용하고 있다고 하겠다 .
+1	예컨대	예컨대	CCONJ	_	11	cc	_	_	예컨대/maj
+2	누보로망의	누보로망+의	NOUN	_	4	nmod	_	_	누보로망/ncn+의/jcm
+3	표현	표현	NOUN	_	4	compound	_	_	표현/ncpa
+4	기법은	기법+은	NOUN	_	9	dislocated	_	_	기법/ncn+은/jxt
+5	이러한	이러하+ㄴ	VERB	_	7	amod	_	_	이러하/pad+ㄴ/etm
+6	기호의	기호+의	NOUN	_	7	nmod	_	_	기호/ncn+의/jcm
+7	양면성을	양면성+을	NOUN	_	9	obj	_	_	양면성/ncn+을/jco
+8	최대한	최대한	ADV	_	9	advmod	_	_	최대한/mag
+9	활용하고	활용+하+고	VERB	_	11	conj	_	_	활용/ncpa+하/xsv+고/ecx
+10	있다고	있+다+고	VERB	_	9	aux	_	_	있/px+다/ef+고/jcr
+11	하겠다	하+겠+다	VERB	_	0	root	_	_	하/pvg+겠/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 일상적이고 표준적인 표현 , 의사전달의 도구로서의 언어의 중성적 상태를 규범이라고 할 수 있다 .
+1	일상적이고	일상+적+이+고	CCONJ	_	2	conj	_	_	일상/ncn+적/xsn+이/jp+고/ecc
+2	표준적인	표준+적+이+ㄴ	VERB	_	3	acl	_	_	표준/ncn+적/xsn+이/jp+ㄴ/etm
+3	표현	표현	NOUN	_	9	compound	_	_	표현/ncpa
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	의사전달의	의사+전달+의	NOUN	_	6	nmod	_	_	의사/ncn+전달/ncpa+의/jcm
+6	도구로서의	도구+로서+의	NOUN	_	9	nmod	_	_	도구/ncn+로서/jca+의/jcm
+7	언어의	언어+의	NOUN	_	9	nmod	_	_	언어/ncn+의/jcm
+8	중성적	중성+적	NOUN	_	9	amod	_	_	중성/ncn+적/xsn
+9	상태를	상태+를	NOUN	_	11	obj	_	_	상태/ncn+를/jco
+10	규범이라고	규범+이+라고	SCONJ	_	11	ccomp	_	_	규범/ncn+이/jp+라고/ecs
+11	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있다	있+다	ADJ	_	11	aux	_	_	있/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 일탈은 그러한 규범이 먼저 확립된 후에야 그 기준에서 벗어난 표현으로 인지될 수 있다 .
+1	일탈은	일탈+은	NOUN	_	11	dislocated	_	_	일탈/ncpa+은/jxt
+2	그러한	그러하+ㄴ	VERB	_	3	amod	_	_	그러하/pad+ㄴ/etm
+3	규범이	규범+이	NOUN	_	5	nsubj	_	_	규범/ncn+이/jcs
+4	먼저	먼저	ADV	_	5	advmod	_	_	먼저/mag
+5	확립된	확립+되+ㄴ	VERB	_	6	acl	_	_	확립/ncpa+되/xsv+ㄴ/etm
+6	후에야	후+에+야	ADV	_	11	advcl	_	_	후/ncn+에/jca+야/jxc
+7	그	그	PRON	_	8	compound	_	_	그/npp
+8	기준에서	기준+에서	ADV	_	9	advcl	_	_	기준/ncpa+에서/jca
+9	벗어난	벗어나+ㄴ	VERB	_	10	acl	_	_	벗어나/pvg+ㄴ/etm
+10	표현으로	표현+으로	ADV	_	11	advcl	_	_	표현/ncpa+으로/jca
+11	인지될	인지+되+ㄹ	VERB	_	0	root	_	_	인지/ncpa+되/xsv+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있다	있+다	ADJ	_	11	aux	_	_	있/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 문체 분석의 기본 개념인 일탈이라는 개념은 문체 분석의 실제에 있어서 몇 가지 문제점을 안고 있음으로 인해 비판되었다 .
+1	문체	문체	NOUN	_	2	compound	_	_	문체/ncn
+2	분석의	분석+의	NOUN	_	4	nmod	_	_	분석/ncpa+의/jcm
+3	기본	기본	NOUN	_	4	compound	_	_	기본/ncn
+4	개념인	개념+이+ㄴ	VERB	_	5	ccomp	_	_	개념/ncn+이/jp+ㄴ/etm
+5	일탈이라는	일탈+이+라는	VERB	_	6	acl	_	_	일탈/ncpa+이/jp+라는/etm
+6	개념은	개념+은	NOUN	_	17	dislocated	_	_	개념/ncn+은/jxt
+7	문체	문체	NOUN	_	8	compound	_	_	문체/ncn
+8	분석의	분석+의	NOUN	_	9	nmod	_	_	분석/ncpa+의/jcm
+9	실제에	실제+에	ADV	_	10	obl	_	_	실제/ncn+에/jca
+10	있어서	있+어서	SCONJ	_	16	xcomp	_	_	있/paa+어서/ecs
+11	몇	몇	ADJ	_	12	amod	_	_	몇/mma
+12	가지	가지	NOUN	_	13	mark	_	_	가지/nbn
+13	문제점을	문제점+을	NOUN	_	14	obj	_	_	문제점/ncn+을/jco
+14	안고	안+고	VERB	_	16	advcl	_	_	안/pvg+고/ecx
+15	있음으로	있+음+으로	ADV	_	14	aux	_	_	있/px+음/etn+으로/jca
+16	인해	인하+어	SCONJ	_	17	ccomp	_	_	인하/pvg+어/ecs
+17	비판되었다	비판+되+었+다	VERB	_	0	root	_	_	비판/ncpa+되/xsv+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 일탈의 표지가 없는 , 다시 말해서 무표지의 표현을 문체로 삼는 경우다 .
+1	일탈의	일탈+의	NOUN	_	2	nmod	_	_	일탈/ncpa+의/jcm
+2	표지가	표지+가	NOUN	_	3	nsubj	_	_	표지/ncn+가/jcs
+3	없는	없+는	ADJ	_	8	nmod	_	_	없/paa+는/etm
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	다시	다시	ADV	_	6	advmod	_	_	다시/mag
+6	말해서	말하+어서	SCONJ	_	3	advcl	_	_	말하/pvg+어서/ecs
+7	무표지의	무표지+의	NOUN	_	3	nmod	_	_	무표지/ncn+의/jcm
+8	표현을	표현+을	NOUN	_	10	obj	_	_	표현/ncpa+을/jco
+9	문체로	문체+로	ADV	_	10	advcl	_	_	문체/ncn+로/jca
+10	삼는	삼+는	VERB	_	11	ccomp	_	_	삼/pvg+는/etm
+11	경우다	경우+이+다	VERB	_	0	root	_	_	경우/ncn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 따라서 시적 기능의 선택이 문체를 형성한다는 결론이 나오게 된다 .
+1	따라서	따라서	CCONJ	_	8	cc	_	_	따라서/maj
+2	시적	시+적	NOUN	_	3	amod	_	_	시/ncn+적/xsn
+3	기능의	기능+의	NOUN	_	4	nmod	_	_	기능/ncn+의/jcm
+4	선택이	선택+이	NOUN	_	6	nsubj	_	_	선택/ncpa+이/jcs
+5	문체를	문체+를	NOUN	_	6	obj	_	_	문체/ncn+를/jco
+6	형성한다는	형성+하+ㄴ다는	VERB	_	7	acl	_	_	형성/ncpa+하/xsv+ㄴ다는/etm
+7	결론이	결론+이	NOUN	_	8	nsubj	_	_	결론/ncn+이/jcs
+8	나오게	나오+게	VERB	_	0	root	_	_	나오/pvg+게/ecx
+9	된다	되+ㄴ다	AUX	_	8	aux	_	_	되/px+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 여기서 시적이란 말은 운율의 문학 장르인 시를 지칭하기보다는 문학성을 지칭한다 .
+1	여기서	여기+서	ADV	_	10	advcl	_	_	여기/npd+서/jca
+2	시적이란	시+적+이+란	VERB	_	3	acl	_	_	시/ncn+적/xsn+이/jp+란/etm
+3	말은	말+은	NOUN	_	10	dislocated	_	_	말/ncpa+은/jxt
+4	운율의	운율+의	NOUN	_	5	nmod	_	_	운율/ncn+의/jcm
+5	문학	문학	NOUN	_	6	compound	_	_	문학/ncn
+6	장르인	장르+이+ㄴ	VERB	_	7	acl	_	_	장르/ncn+이/jp+ㄴ/etm
+7	시를	시+를	NOUN	_	8	obj	_	_	시/ncn+를/jco
+8	지칭하기보다는	지칭+하+기+보다+는	NOUN	_	10	dislocated	_	_	지칭/ncpa+하/xsv+기/etn+보다/jca+는/jxt
+9	문학성을	문학성+을	NOUN	_	10	obj	_	_	문학성/ncn+을/jco
+10	지칭한다	지칭+하+ㄴ다	VERB	_	0	root	_	_	지칭/ncpa+하/xsv+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그런데 문학성이라는 개념은 추상적이고 막연하여 정의하기란 쉽지 않다 .
+1	그런데	그런데	CCONJ	_	7	cc	_	_	그런데/maj
+2	문학성이라는	문학성+이+라는	VERB	_	3	acl	_	_	문학성/ncn+이/jp+라는/etm
+3	개념은	개념+은	NOUN	_	7	dislocated	_	_	개념/ncn+은/jxt
+4	추상적이고	추상+적+이+고	CCONJ	_	5	conj	_	_	추상/ncn+적/xsn+이/jp+고/ecc
+5	막연하여	막연+하+어	SCONJ	_	7	xcomp	_	_	막연/ncps+하/xsm+어/ecs
+6	정의하기란	정의+하+기+란	ADV	_	7	advcl	_	_	정의/ncpa+하/xsv+기/etn+란/jxc
+7	쉽지	쉽+지	ADJ	_	0	root	_	_	쉽/paa+지/ecx
+8	않다	않+다	AUX	_	7	aux	_	_	않/px+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 토도로프는 문학성을 밝히는 학문으로 시학이란 학문을 제시하고 , 그 목표는 문학적 담화의 기능을 기술하는 것이라고 말한다 .
+1	토도로프는	토도로프+는	PROPN	_	16	dislocated	_	_	토도로프/nq+는/jxt
+2	문학성을	문학성+을	NOUN	_	3	obj	_	_	문학성/ncn+을/jco
+3	밝히는	밝히+는	VERB	_	4	acl	_	_	밝히/pvg+는/etm
+4	학문으로	학문+으로	ADV	_	7	advcl	_	_	학문/ncpa+으로/jca
+5	시학이란	시학+이란	ADV	_	7	advcl	_	_	시학/ncn+이란/jxc
+6	학문을	학문+을	NOUN	_	7	obj	_	_	학문/ncpa+을/jco
+7	제시하고	제시+하+고	CCONJ	_	16	conj	_	_	제시/ncpa+하/xsv+고/ecc
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	그	그	DET	_	10	det	_	_	그/mmd
+10	목표는	목표+는	NOUN	_	14	dislocated	_	_	목표/ncpa+는/jxt
+11	문학적	문학+적	NOUN	_	12	amod	_	_	문학/ncn+적/xsn
+12	담화의	담화+의	NOUN	_	13	nmod	_	_	담화/ncpa+의/jcm
+13	기능을	기능+을	NOUN	_	14	obj	_	_	기능/ncn+을/jco
+14	기술하는	기술+하+는	VERB	_	16	conj	_	_	기술/ncpa+하/xsv+는/etm
+15	것이라고	것+이+라+고	VERB	_	14	aux	_	_	것/nbn+이/jp+라/ef+고/jcr
+16	말한다	말하+ㄴ다	VERB	_	0	root	_	_	말하/pvg+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이러한 설명을 종합해 볼 때 , 바르뜨가 말하는 작가의 자동사적 글쓰기와 상통한다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	설명을	설명+을	NOUN	_	3	obj	_	_	설명/ncpa+을/jco
+3	종합해	종합+하+어	VERB	_	5	acl	_	_	종합/ncpa+하/xsv+어/ecx
+4	볼	보+ㄹ	AUX	_	3	aux	_	_	보/px+ㄹ/etm
+5	때	때	NOUN	_	12	advmod	_	_	때/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	바르뜨가	바르뜨+가	PROPN	_	8	nsubj	_	_	바르뜨/nq+가/jcs
+8	말하는	말하+는	VERB	_	11	acl	_	_	말하/pvg+는/etm
+9	작가의	작가+의	NOUN	_	11	nmod	_	_	작가/ncn+의/jcm
+10	자동사적	자동사+적	NOUN	_	11	amod	_	_	자동사/ncn+적/xsn
+11	글쓰기와	글쓰기+와	CCONJ	_	12	conj	_	_	글쓰기/ncn+와/jct
+12	상통한다	상통+하+ㄴ다	VERB	_	0	root	_	_	상통/ncpa+하/xsv+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 꼬앙은 시를 산문으로부터 구별되게 하는 것은 언어의 공시적 기능으로 보았다 .
+1	꼬앙은	꼬앙+은	PROPN	_	10	dislocated	_	_	꼬앙/nq+은/jxt
+2	시를	시+를	NOUN	_	4	obj	_	_	시/ncn+를/jco
+3	산문으로부터	산문+으로+부터	ADV	_	4	advcl	_	_	산문/ncn+으로/jca+부터/jxc
+4	구별되게	구별+되+게	VERB	_	6	acl	_	_	구별/ncpa+되/xsv+게/ecx
+5	하는	하+는	AUX	_	4	aux	_	_	하/px+는/etm
+6	것은	것+은	NOUN	_	10	dislocated	_	_	것/nbn+은/jxt
+7	언어의	언어+의	NOUN	_	9	nmod	_	_	언어/ncn+의/jcm
+8	공시적	공시+적	NOUN	_	9	amod	_	_	공시/ncn+적/xsn
+9	기능으로	기능+으로	ADV	_	10	advcl	_	_	기능/ncn+으로/jca
+10	보았다	보+았+다	VERB	_	0	root	_	_	보/pvg+았/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 푸른 종소리가 평화로운 종소리 대신에 쓰였을 때 푸른에 함축된 의미를 부여해 주는 공시 때문에 시적 언어로 나타난다는 것이다 .
+1	푸른	푸르+ㄴ	ADJ	_	2	amod	_	_	푸르/paa+ㄴ/etm
+2	종소리가	종소리+가	NOUN	_	6	nsubj	_	_	종소리/ncn+가/jcs
+3	평화로운	평화+롭+ㄴ	VERB	_	4	amod	_	_	평화/ncps+롭/xsm+ㄴ/etm
+4	종소리	종소리	NOUN	_	5	compound	_	_	종소리/ncn
+5	대신에	대신+에	ADV	_	6	obl	_	_	대신/ncn+에/jca
+6	쓰였을	쓰이+었+을	VERB	_	7	acl	_	_	쓰이/pvg+었/ep+을/etm
+7	때	때	NOUN	_	17	advmod	_	_	때/nbn
+8	푸른에	푸른+에	ADV	_	9	obl	_	_	푸른/ncn+에/jca
+9	함축된	함축+되+ㄴ	VERB	_	10	acl	_	_	함축/ncpa+되/xsv+ㄴ/etm
+10	의미를	의미+를	NOUN	_	11	obj	_	_	의미/ncpa+를/jco
+11	부여해	부여+하+어	VERB	_	13	acl	_	_	부여/ncpa+하/xsv+어/ecx
+12	주는	주+는	AUX	_	11	aux	_	_	주/px+는/etm
+13	공시	공시	NOUN	_	14	compound	_	_	공시/ncn
+14	때문에	때문+에	ADV	_	17	obl	_	_	때문/nbn+에/jca
+15	시적	시+적	NOUN	_	16	amod	_	_	시/ncn+적/xsn
+16	언어로	언어+로	ADV	_	17	advcl	_	_	언어/ncn+로/jca
+17	나타난다는	나타나+ㄴ다는	VERB	_	18	ccomp	_	_	나타나/pvg+ㄴ다는/etm
+18	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 우리는 문체를 이루는 시적인 기능의 선택이 언어 기호의 공시적 기능 또는 불투명성을 최대한 활용한다고 말할 수 있겠다 .
+1	우리는	우리+는	PRON	_	15	dislocated	_	_	우리/npp+는/jxt
+2	문체를	문체+를	NOUN	_	3	obj	_	_	문체/ncn+를/jco
+3	이루는	이루+는	VERB	_	5	acl	_	_	이루/pvg+는/etm
+4	시적인	시+적+이+ㄴ	VERB	_	5	acl	_	_	시/ncn+적/xsn+이/jp+ㄴ/etm
+5	기능의	기능+의	NOUN	_	6	nmod	_	_	기능/ncn+의/jcm
+6	선택이	선택+이	NOUN	_	14	nsubj	_	_	선택/ncpa+이/jcs
+7	언어	언어	NOUN	_	8	compound	_	_	언어/ncn
+8	기호의	기호+의	NOUN	_	10	nmod	_	_	기호/ncn+의/jcm
+9	공시적	공시+적	NOUN	_	10	amod	_	_	공시/ncn+적/xsn
+10	기능	기능	NOUN	_	12	conj	_	_	기능/ncn
+11	또는	또는	CCONJ	_	12	cc	_	_	또는/maj
+12	불투명성을	불투명성+을	NOUN	_	14	obj	_	_	불투명성/ncn+을/jco
+13	최대한	최대한	ADV	_	14	advmod	_	_	최대한/mag
+14	활용한다고	활용+하+ㄴ다+고	VERB	_	15	conj	_	_	활용/ncpa+하/xsv+ㄴ다/ef+고/jcr
+15	말할	말하+ㄹ	VERB	_	0	root	_	_	말하/pvg+ㄹ/etm
+16	수	수	NOUN	_	17	fixed	_	_	수/nbn
+17	있겠다	있+겠+다	ADJ	_	15	aux	_	_	있/paa+겠/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 콘텍스트란 , 텍스트에서 독자의 예견이 가능한 기조를 이루는 것으로서 , 중성적이고 일탈의 표지가 없는 표현을 지칭한다 .
+1	콘텍스트란	콘텍스트+란	ADV	_	16	advmod	_	_	콘텍스트/ncn+란/jxc
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	텍스트에서	텍스트+에서	ADV	_	8	advcl	_	_	텍스트/ncn+에서/jca
+4	독자의	독자+의	NOUN	_	5	nmod	_	_	독자/ncn+의/jcm
+5	예견이	예견+이	NOUN	_	8	nsubj	_	_	예견/ncpa+이/jcs
+6	가능한	가능+하+ㄴ	VERB	_	7	amod	_	_	가능/ncps+하/xsm+ㄴ/etm
+7	기조를	기조+를	NOUN	_	8	obj	_	_	기조/ncn+를/jco
+8	이루는	이루+는	VERB	_	9	acl	_	_	이루/pvg+는/etm
+9	것으로서	것+으로서	ADV	_	16	advmod	_	_	것/nbn+으로서/jca
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	중성적이고	중성+적+이+고	CCONJ	_	14	conj	_	_	중성/ncn+적/xsn+이/jp+고/ecc
+12	일탈의	일탈+의	NOUN	_	13	nmod	_	_	일탈/ncpa+의/jcm
+13	표지가	표지+가	NOUN	_	14	nsubj	_	_	표지/ncn+가/jcs
+14	없는	없+는	ADJ	_	15	amod	_	_	없/paa+는/etm
+15	표현을	표현+을	NOUN	_	16	obj	_	_	표현/ncpa+을/jco
+16	지칭한다	지칭+하+ㄴ다	VERB	_	0	root	_	_	지칭/ncpa+하/xsv+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 텍스트의 불예측성은 일탈의 표지가 되어 표지가 없는 콘텍스트와 대조 효과를 일으키는데 , 그 때에 문체 효과가 생긴다는 것이다 .
+1	텍스트의	텍스트+의	NOUN	_	2	nmod	_	_	텍스트/ncn+의/jcm
+2	불예측성은	불예측성+은	NOUN	_	11	dislocated	_	_	불예측성/ncn+은/jxt
+3	일탈의	일탈+의	NOUN	_	4	nmod	_	_	일탈/ncpa+의/jcm
+4	표지가	표지+가	NOUN	_	5	csubj	_	_	표지/ncn+가/jcc
+5	되어	되+어	SCONJ	_	11	ccomp	_	_	되/pvg+어/ecs
+6	표지가	표지+가	NOUN	_	7	nsubj	_	_	표지/ncn+가/jcs
+7	없는	없+는	ADJ	_	8	amod	_	_	없/paa+는/etm
+8	콘텍스트와	콘텍스트+와	CCONJ	_	11	conj	_	_	콘텍스트/ncn+와/jct
+9	대조	대조	NOUN	_	10	compound	_	_	대조/ncpa
+10	효과를	효과+를	NOUN	_	11	obj	_	_	효과/ncn+를/jco
+11	일으키는데	일으키+는데	SCONJ	_	17	ccomp	_	_	일으키/pvg+는데/ecs
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	그	그	DET	_	14	det	_	_	그/mmd
+14	때에	때+에	ADV	_	17	obl	_	_	때/ncn+에/jca
+15	문체	문체	NOUN	_	16	compound	_	_	문체/ncn
+16	효과가	효과+가	NOUN	_	17	nsubj	_	_	효과/ncn+가/jcs
+17	생긴다는	생기+ㄴ다는	VERB	_	18	ccomp	_	_	생기/pvg+ㄴ다는/etm
+18	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그가 문체와 구별하여 말하는 문체 효과는 구조라는 개념과 밀접한 관계에 있다 .
+1	그가	그+가	PRON	_	4	nsubj	_	_	그/npp+가/jcs
+2	문체와	문체+와	CCONJ	_	3	conj	_	_	문체/ncn+와/jct
+3	구별하여	구별+하+어	SCONJ	_	4	ccomp	_	_	구별/ncpa+하/xsv+어/ecs
+4	말하는	말하+는	VERB	_	6	acl	_	_	말하/pvg+는/etm
+5	문체	문체	NOUN	_	6	compound	_	_	문체/ncn
+6	효과는	효과+는	NOUN	_	11	dislocated	_	_	효과/ncn+는/jxt
+7	구조라는	구조+이+라는	VERB	_	8	acl	_	_	구조/ncpa+이/jp+라는/etm
+8	개념과	개념+과	CCONJ	_	11	conj	_	_	개념/ncn+과/jct
+9	밀접한	밀접+하+ㄴ	VERB	_	10	acl	_	_	밀접/ncpa+하/xsv+ㄴ/etm
+10	관계에	관계+에	ADV	_	11	obl	_	_	관계/ncn+에/jca
+11	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 따라서 빈도가 강한 일탈적 표현은 大콘텍스트 안에 흡수되어 또 다른 일탈과의 대조를 일으킨다 .
+1	따라서	따라서	CCONJ	_	13	cc	_	_	따라서/maj
+2	빈도가	빈도+가	NOUN	_	3	nsubj	_	_	빈도/ncn+가/jcs
+3	강한	강하+ㄴ	ADJ	_	5	amod	_	_	강하/paa+ㄴ/etm
+4	일탈적	일탈+적	NOUN	_	5	amod	_	_	일탈/ncpa+적/xsn
+5	표현은	표현+은	NOUN	_	13	dislocated	_	_	표현/ncpa+은/jxt
+6	大콘텍스트	大+콘텍스트	NOUN	_	7	compound	_	_	大/ncn+콘텍스트/ncn
+7	안에	안+에	ADV	_	8	obl	_	_	안/ncn+에/jca
+8	흡수되어	흡수+되+어	SCONJ	_	13	ccomp	_	_	흡수/ncpa+되/xsv+어/ecs
+9	또	또	ADV	_	10	advmod	_	_	또/mag
+10	다른	다르+ㄴ	ADJ	_	11	amod	_	_	다르/paa+ㄴ/etm
+11	일탈과의	일탈+과+의	NOUN	_	12	nmod	_	_	일탈/ncpa+과/jct+의/jcm
+12	대조를	대조+를	NOUN	_	13	obj	_	_	대조/ncpa+를/jco
+13	일으킨다	일으키+ㄴ다	VERB	_	0	root	_	_	일으키/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 리파테르는 예측성과 불예측성과의 대조로 문체 효과를 설명함으로써 시적 표현의 근간을 이루는 독착성을 분석적으로 기술할 수 있게 했다 .
+1	리파테르는	리파테르+는	PROPN	_	14	dislocated	_	_	리파테르/nq+는/jxt
+2	예측성과	예측성+과	CCONJ	_	3	conj	_	_	예측성/ncn+과/jcj
+3	불예측성과의	불예측성+과+의	NOUN	_	4	nmod	_	_	불예측성/ncn+과/jct+의/jcm
+4	대조로	대조+로	ADV	_	7	advcl	_	_	대조/ncpa+로/jca
+5	문체	문체	NOUN	_	6	compound	_	_	문체/ncn
+6	효과를	효과+를	NOUN	_	7	obj	_	_	효과/ncn+를/jco
+7	설명함으로써	설명+하+ㅁ+으로써	ADV	_	14	advcl	_	_	설명/ncpa+하/xsv+ㅁ/etn+으로써/jca
+8	시적	시+적	NOUN	_	9	amod	_	_	시/ncn+적/xsn
+9	표현의	표현+의	NOUN	_	10	nmod	_	_	표현/ncpa+의/jcm
+10	근간을	근간+을	NOUN	_	11	obj	_	_	근간/ncn+을/jco
+11	이루는	이루+는	VERB	_	12	acl	_	_	이루/pvg+는/etm
+12	독착성을	독착성+을	NOUN	_	14	obj	_	_	독착성/ncn+을/jco
+13	분석적으로	분석+적+으로	ADV	_	14	advcl	_	_	분석/ncpa+적/xsn+으로/jca
+14	기술할	기술+하+ㄹ	VERB	_	0	root	_	_	기술/ncpa+하/xsv+ㄹ/etm
+15	수	수	NOUN	_	16	fixed	_	_	수/nbn
+16	있게	있+게	ADJ	_	14	aux	_	_	있/paa+게/ecx
+17	했다	하+었+다	AUX	_	14	aux	_	_	하/px+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 야콥슨도 말하기를 문체적 특수성은 메시지 안에서 문체를 구조적으로 파악하려 했다 .
+1	야콥슨도	야콥슨+도	ADV	_	2	advcl	_	_	야콥슨/nq+도/jxc
+2	말하기를	말하+기+를	NOUN	_	10	obj	_	_	말하/pvg+기/etn+를/jco
+3	문체적	문체+적	NOUN	_	4	amod	_	_	문체/ncn+적/xsn
+4	특수성은	특수성+은	NOUN	_	10	dislocated	_	_	특수성/ncn+은/jxt
+5	메시지	메시지	PROPN	_	6	compound	_	_	메시지/nq
+6	안에서	안+에서	ADV	_	9	advcl	_	_	안/ncn+에서/jca
+7	문체를	문체+를	NOUN	_	9	obj	_	_	문체/ncn+를/jco
+8	구조적으로	구조+적+으로	ADV	_	9	advcl	_	_	구조/ncpa+적/xsn+으로/jca
+9	파악하려	파악+하+려	SCONJ	_	10	ccomp	_	_	파악/ncpa+하/xsv+려/ecs
+10	했다	하+었+다	VERB	_	0	root	_	_	하/pvg+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 야콥슨에 의하면 , 은유는 기의의 유사성의 관계에 의해 나타나고 , 환유는 기의의 외적인 인접성에 의해 이루어진다 .
+1	야콥슨에	야콥슨+에	ADV	_	2	obl	_	_	야콥슨/ncn+에/jca
+2	의하면	의하+면	SCONJ	_	16	ccomp	_	_	의하/pvg+면/ecs
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	은유는	은유+는	NOUN	_	9	dislocated	_	_	은유/ncn+는/jxt
+5	기의의	기의+의	NOUN	_	6	nmod	_	_	기의/ncn+의/jcm
+6	유사성의	유사성+의	NOUN	_	7	nmod	_	_	유사성/ncn+의/jcm
+7	관계에	관계+에	ADV	_	8	obl	_	_	관계/ncpa+에/jca
+8	의해	의하+어	SCONJ	_	9	ccomp	_	_	의하/pvg+어/ecs
+9	나타나고	나타나+고	CCONJ	_	16	conj	_	_	나타나/pvg+고/ecc
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	환유는	환유+는	NOUN	_	16	dislocated	_	_	환유/ncn+는/jxt
+12	기의의	기의+의	NOUN	_	14	nmod	_	_	기의/ncn+의/jcm
+13	외적인	외적+이+ㄴ	VERB	_	14	acl	_	_	외적/ncn+이/jp+ㄴ/etm
+14	인접성에	인접성+에	ADV	_	15	obl	_	_	인접성/ncn+에/jca
+15	의해	의하+어	SCONJ	_	16	ccomp	_	_	의하/pvg+어/ecs
+16	이루어진다	이루+어+지+ㄴ다	AUX	_	0	root	_	_	이루/pvg+어/ecx+지/px+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 예컨대 낭만주의 , 상징주의는 은유를 선호하고 사실주의는 환유를 선호한다는 것이다 .
+1	예컨대	예컨대	CCONJ	_	10	cc	_	_	예컨대/maj
+2	낭만주의	낭만주의	NOUN	_	4	conj	_	_	낭만주의/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	상징주의는	상징주의+는	NOUN	_	6	dislocated	_	_	상징주의/ncn+는/jxt
+5	은유를	은유+를	NOUN	_	6	obj	_	_	은유/ncn+를/jco
+6	선호하고	선호+하+고	CCONJ	_	9	conj	_	_	선호/ncpa+하/xsv+고/ecc
+7	사실주의는	사실주의+는	NOUN	_	9	dislocated	_	_	사실주의/ncn+는/jxt
+8	환유를	환유+를	NOUN	_	9	obj	_	_	환유/ncn+를/jco
+9	선호한다는	선호+하+ㄴ다는	VERB	_	10	ccomp	_	_	선호/ncpa+하/xsv+ㄴ다는/etm
+10	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+

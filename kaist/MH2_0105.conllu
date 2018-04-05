@@ -1,0 +1,635 @@
+# 문화의 개념은 문화라는 용어를 사용하는 사람의 수만큼 많다고 말할 수 있을 정도로 복합적이며 다양하다 .
+1	문화의	문화+의	NOUN	_	2	nmod	_	_	문화/ncn+의/jcm
+2	개념은	개념+은	NOUN	_	15	dislocated	_	_	개념/ncn+은/jxt
+3	문화라는	문화+라는	NOUN	_	4	nmod	_	_	문화/ncn+라는/jcm
+4	용어를	용어+를	NOUN	_	5	obj	_	_	용어/ncn+를/jco
+5	사용하는	사용+하+는	VERB	_	6	acl	_	_	사용/ncpa+하/xsv+는/etm
+6	사람의	사람+의	NOUN	_	7	nmod	_	_	사람/ncn+의/jcm
+7	수만큼	수+만큼	ADV	_	8	advcl	_	_	수/nbn+만큼/jca
+8	많다고	많+다고	SCONJ	_	9	xcomp	_	_	많/paa+다고/ecs
+9	말할	말하+ㄹ	VERB	_	12	acl	_	_	말하/pvg+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있을	있+ㄹ	ADJ	_	9	aux	_	_	있/paa+ㄹ/etm
+12	정도로	정도+로	ADV	_	15	advcl	_	_	정도/ncn+로/jca
+13	복합적이며	복합+적+이+며	CCONJ	_	14	conj	_	_	복합/ncpa+적/xsn+이/jp+며/ecc
+14	다양하다	다양+하+다	VERB	_	15	conj	_	_	다양/ncps+하/xsm+다/ef
+15	.	.	PUNCT	_	0	root	_	_	./sf
+
+# 뿐만 아니라 문화의 분류 역시 채택하는 기준에 따라 다양하게 이루어진다 .
+1	뿐만	뿐+만	ADV	_	2	dep	_	_	뿐/nbn+만/jxc
+2	아니라	아니+라	SCONJ	_	10	cc	_	_	아니/paa+라/ecs
+3	문화의	문화+의	NOUN	_	4	nmod	_	_	문화/ncn+의/jcm
+4	분류	분류	NOUN	_	10	advmod	_	_	분류/ncpa
+5	역시	역시	ADV	_	6	advmod	_	_	역시/mag
+6	채택하는	채택+하+는	VERB	_	7	acl	_	_	채택/ncpa+하/xsv+는/etm
+7	기준에	기준+에	ADV	_	8	obl	_	_	기준/ncpa+에/jca
+8	따라	따르+아	SCONJ	_	10	ccomp	_	_	따르/pvg+아/ecs
+9	다양하게	다양+하+게	SCONJ	_	10	xcomp	_	_	다양/ncps+하/xsm+게/ecs
+10	이루어진다	이루+어+지+ㄴ다	AUX	_	0	root	_	_	이루/pvg+어/ecx+지/px+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 대체로 지금까지 문화는 문화의 심미적 , 도덕적 수준이나 또는 문화가 생산되고 수용되는 과정의 특정적 성격에 견주어 분류되어졌다 .
+1	대체로	대체+로	ADV	_	17	advcl	_	_	대체/ncn+로/jca
+2	지금까지	지금+까지	ADV	_	17	advcl	_	_	지금/ncn+까지/jxc
+3	문화는	문화+는	NOUN	_	17	dislocated	_	_	문화/ncn+는/jxt
+4	문화의	문화+의	NOUN	_	8	nmod	_	_	문화/ncn+의/jcm
+5	심미적	심미+적	NOUN	_	7	conj	_	_	심미/ncn+적/xsn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	도덕적	도덕+적	NOUN	_	8	amod	_	_	도덕/ncn+적/xsn
+8	수준이나	수준+이나	CCONJ	_	15	conj	_	_	수준/ncn+이나/jcj
+9	또는	또는	CCONJ	_	15	cc	_	_	또는/maj
+10	문화가	문화+가	NOUN	_	12	nsubj	_	_	문화/ncn+가/jcs
+11	생산되고	생산+되+고	CCONJ	_	12	conj	_	_	생산/ncpa+되/xsv+고/ecc
+12	수용되는	수용+되+는	VERB	_	13	acl	_	_	수용/ncpa+되/xsv+는/etm
+13	과정의	과정+의	NOUN	_	15	nmod	_	_	과정/ncpa+의/jcm
+14	특정적	특정+적	NOUN	_	15	amod	_	_	특정/ncps+적/xsn
+15	성격에	성격+에	ADV	_	16	obl	_	_	성격/ncn+에/jca
+16	견주어	견주+어	SCONJ	_	17	ccomp	_	_	견주/pvg+어/ecs
+17	분류되어졌다	분류+되+어+지+었+다	AUX	_	0	root	_	_	분류/ncpa+되/xsv+어/ecx+지/px+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 문화의 심미적 , 도덕적 수준을 기준으로 삼는 사람들은 문화를 고급문화 , 중급문화 , 하급문화 , 혹은 우수문화 , 봄속문화 , 저속문화 등으로 분류해 왔다 .
+1	문화의	문화+의	NOUN	_	5	nmod	_	_	문화/ncn+의/jcm
+2	심미적	심미+적	NOUN	_	4	conj	_	_	심미/ncn+적/xsn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	도덕적	도덕+적	NOUN	_	5	amod	_	_	도덕/ncn+적/xsn
+5	수준을	수준+을	NOUN	_	7	obj	_	_	수준/ncn+을/jco
+6	기준으로	기준+으로	ADV	_	7	advcl	_	_	기준/ncpa+으로/jca
+7	삼는	삼+는	VERB	_	8	acl	_	_	삼/pvg+는/etm
+8	사람들은	사람+들+은	NOUN	_	23	dislocated	_	_	사람/ncn+들/xsn+은/jxt
+9	문화를	문화+를	NOUN	_	23	obj	_	_	문화/ncn+를/jco
+10	고급문화	고급+문화	NOUN	_	14	compound	_	_	고급/ncpa+문화/ncn
+11	,	,	PUNCT	_	14	punct	_	_	,/sp
+12	중급문화	중급+문화	NOUN	_	14	compound	_	_	중급/ncpa+문화/ncn
+13	,	,	PUNCT	_	14	punct	_	_	,/sp
+14	하급문화	하급+문화	NOUN	_	21	conj	_	_	하급/ncpa+문화/ncn
+15	,	,	PUNCT	_	14	punct	_	_	,/sp
+16	혹은	혹은	CCONJ	_	21	cc	_	_	혹은/maj
+17	우수문화	우수+문화	NOUN	_	19	conj	_	_	우수/ncpa+문화/ncn
+18	,	,	PUNCT	_	17	punct	_	_	,/sp
+19	봄속문화	봄속+문화	NOUN	_	21	conj	_	_	봄속/ncn+문화/ncn
+20	,	,	PUNCT	_	19	punct	_	_	,/sp
+21	저속문화	저속+문화	NOUN	_	22	compound	_	_	저속/ncn+문화/ncn
+22	등으로	등+으로	ADV	_	23	advcl	_	_	등/nbn+으로/jca
+23	분류해	분류+하+어	VERB	_	0	root	_	_	분류/ncpa+하/xsv+어/ecx
+24	왔다	오+았+다	AUX	_	23	aux	_	_	오/px+았/ep+다/ef
+25	.	.	PUNCT	_	24	punct	_	_	./sf
+
+# 민중문화라는 개념은 자주 사용되어 왔지만 아직 명백하게 개념 정의가 이루어진 상태는 아니라고 생각된다 .
+1	민중문화라는	민중+문화+라는	NOUN	_	2	nmod	_	_	민중/ncn+문화/ncn+라는/jcm
+2	개념은	개념+은	NOUN	_	4	dislocated	_	_	개념/ncn+은/jxt
+3	자주	자주	ADV	_	4	advmod	_	_	자주/mag
+4	사용되어	사용+되+어	VERB	_	12	conj	_	_	사용/ncpa+되/xsv+어/ecx
+5	왔지만	오+았+지만	SCONJ	_	4	aux	_	_	오/px+았/ep+지만/ecs
+6	아직	아직	ADV	_	12	advmod	_	_	아직/mag
+7	명백하게	명백+하+게	SCONJ	_	10	xcomp	_	_	명백/ncps+하/xsm+게/ecs
+8	개념	개념	NOUN	_	9	compound	_	_	개념/ncn
+9	정의가	정의+가	NOUN	_	10	nsubj	_	_	정의/ncpa+가/jcs
+10	이루어진	이루+어+지+ㄴ	AUX	_	11	acl	_	_	이루/pvg+어/ecx+지/px+ㄴ/etm
+11	상태는	상태+는	NOUN	_	12	dislocated	_	_	상태/ncn+는/jxt
+12	아니라고	아니+라고	SCONJ	_	13	xcomp	_	_	아니/paa+라고/ecs
+13	생각된다	생각+되+ㄴ다	VERB	_	0	root	_	_	생각/ncpa+되/xsv+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 민중이라는 개념은 70 년대에 들어와 특히 강조되었다 .
+1	민중이라는	민중+이+라는	VERB	_	2	acl	_	_	민중/ncn+이/jp+라는/etm
+2	개념은	개념+은	NOUN	_	7	dislocated	_	_	개념/ncn+은/jxt
+3	70	70	NUM	_	4	nummod	_	_	70/nnc
+4	년대에	년대+에	ADV	_	5	obl	_	_	년대/nbu+에/jca
+5	들어와	들어오+아	SCONJ	_	7	ccomp	_	_	들어오/pvg+아/ecs
+6	특히	특히	ADV	_	7	advmod	_	_	특히/mag
+7	강조되었다	강조+되+었+다	VERB	_	0	root	_	_	강조/ncpa+되/xsv+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 말할 것도 없이 이 시기에 우리 문화의 맥을 민중의 문화 유산 속에서 찾으려 했던 노력 자체가 민중을 의식화하는 작업이었다 .
+1	말할	말하+ㄹ	VERB	_	2	acl	_	_	말하/pvg+ㄹ/etm
+2	것도	것+도	ADV	_	3	advcl	_	_	것/nbn+도/jxc
+3	없이	없+이	SCONJ	_	19	xcomp	_	_	없/paa+이/ecs
+4	이	이	DET	_	5	det	_	_	이/mmd
+5	시기에	시기+에	ADV	_	13	obl	_	_	시기/ncn+에/jca
+6	우리	우리	PRON	_	7	compound	_	_	우리/npp
+7	문화의	문화+의	NOUN	_	8	nmod	_	_	문화/ncn+의/jcm
+8	맥을	맥+을	NOUN	_	13	obj	_	_	맥/ncn+을/jco
+9	민중의	민중+의	NOUN	_	11	nmod	_	_	민중/ncn+의/jcm
+10	문화	문화	NOUN	_	11	compound	_	_	문화/ncn
+11	유산	유산	NOUN	_	12	compound	_	_	유산/ncn
+12	속에서	속+에서	ADV	_	13	advcl	_	_	속/ncn+에서/jca
+13	찾으려	찾+으려	VERB	_	15	acl	_	_	찾/pvg+으려/ecx
+14	했던	하+었+던	AUX	_	13	aux	_	_	하/px+었/ep+던/etm
+15	노력	노력	NOUN	_	16	compound	_	_	노력/ncpa
+16	자체가	자체+가	NOUN	_	19	nsubj	_	_	자체/ncn+가/jcs
+17	민중을	민중+을	NOUN	_	18	obj	_	_	민중/ncn+을/jco
+18	의식화하는	의식화+하+는	VERB	_	19	ccomp	_	_	의식화/ncpa+하/xsv+는/etm
+19	작업이었다	작업+이+었+다	VERB	_	0	root	_	_	작업/ncpa+이/jp+었/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 다시 말해서 민중이 이 사회와 역사의 주인이 되어야 한다는 상황 인식에서 모든 것이 출발되었던 것이다 .
+1	다시	다시	ADV	_	2	advmod	_	_	다시/mag
+2	말해서	말하+어서	SCONJ	_	14	advcl	_	_	말하/pvg+어서/ecs
+3	민중이	민중+이	NOUN	_	8	nsubj	_	_	민중/ncn+이/jcs
+4	이	이	DET	_	5	det	_	_	이/mmd
+5	사회와	사회+와	CCONJ	_	6	conj	_	_	사회/ncn+와/jcj
+6	역사의	역사+의	NOUN	_	7	nmod	_	_	역사/ncn+의/jcm
+7	주인이	주인+이	NOUN	_	8	nsubj	_	_	주인/ncn+이/jcs
+8	되어야	되+어야	VERB	_	11	acl	_	_	되/pvg+어야/ecx
+9	한다는	하+ㄴ다는	AUX	_	8	aux	_	_	하/px+ㄴ다는/etm
+10	상황	상황	NOUN	_	11	compound	_	_	상황/ncn
+11	인식에서	인식+에서	ADV	_	14	advcl	_	_	인식/ncpa+에서/jca
+12	모든	모든	DET	_	13	det	_	_	모든/mmd
+13	것이	것+이	NOUN	_	14	nsubj	_	_	것/nbn+이/jcs
+14	출발되었던	출발+되+었+던	VERB	_	0	root	_	_	출발/ncpa+되/xsv+었/ep+던/etm
+15	것이다	것+이+다	VERB	_	14	aux	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이러한 민중의 개념을 전제로 할 때 민중문화의 성격은 스스로 자명해진다 .
+1	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+2	민중의	민중+의	NOUN	_	3	nmod	_	_	민중/ncn+의/jcm
+3	개념을	개념+을	NOUN	_	5	obj	_	_	개념/ncn+을/jco
+4	전제로	전제+로	ADV	_	5	advcl	_	_	전제/ncpa+로/jca
+5	할	하+ㄹ	VERB	_	6	acl	_	_	하/pvg+ㄹ/etm
+6	때	때	NOUN	_	10	compound	_	_	때/ncn
+7	민중문화의	민중+문화+의	NOUN	_	8	nmod	_	_	민중/ncn+문화/ncn+의/jcm
+8	성격은	성격+은	NOUN	_	10	dislocated	_	_	성격/ncn+은/jxt
+9	스스로	스스로	ADV	_	10	advmod	_	_	스스로/mag
+10	자명해진다	자명+하+어+지+ㄴ다	AUX	_	0	root	_	_	자명/ncps+하/xsm+어/ecx+지/px+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 간단히 말해서 민중문화는 역사적으로 볼 때 피지배 계층의 문화로서 민중에 의해 창조되고 , 민중에 의해 공유되는 문화라고 규정할 수 있다 .
+1	간단히	간단+히	ADV	_	2	advmod	_	_	간단/ncps+히/xsa
+2	말해서	말하+어서	SCONJ	_	18	ccomp	_	_	말하/pvg+어서/ecs
+3	민중문화는	민중+문화+는	NOUN	_	18	dislocated	_	_	민중/ncn+문화/ncn+는/jxt
+4	역사적으로	역사+적+으로	ADV	_	5	advcl	_	_	역사/ncn+적/xsn+으로/jca
+5	볼	보+ㄹ	VERB	_	6	acl	_	_	보/pvg+ㄹ/etm
+6	때	때	NOUN	_	18	advmod	_	_	때/ncn
+7	피지배	피지배	NOUN	_	8	compound	_	_	피지배/ncpa
+8	계층의	계층+의	NOUN	_	9	nmod	_	_	계층/ncn+의/jcm
+9	문화로서	문화+로서	ADV	_	18	advcl	_	_	문화/ncn+로서/jca
+10	민중에	민중+에	ADV	_	11	obl	_	_	민중/ncn+에/jca
+11	의해	의하+어	SCONJ	_	12	ccomp	_	_	의하/pvg+어/ecs
+12	창조되고	창조+되+고	CCONJ	_	16	conj	_	_	창조/ncpa+되/xsv+고/ecc
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	민중에	민중+에	ADV	_	15	obl	_	_	민중/ncn+에/jca
+15	의해	의하+어	SCONJ	_	16	ccomp	_	_	의하/pvg+어/ecs
+16	공유되는	공유+되+는	VERB	_	17	acl	_	_	공유/ncpa+되/xsv+는/etm
+17	문화라고	문화+이+라+고	VERB	_	18	conj	_	_	문화/ncn+이/jp+라/ef+고/jcr
+18	규정할	규정+하+ㄹ	VERB	_	0	root	_	_	규정/ncpa+하/xsv+ㄹ/etm
+19	수	수	NOUN	_	20	fixed	_	_	수/nbn
+20	있다	있+다	ADJ	_	18	aux	_	_	있/paa+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 이에 비해 민중 문화는 민중 스스로의 필요에 알맞게 만들어지고 그들에 의해 향유되는 문화이다 .
+1	이에	이+에	ADV	_	2	obl	_	_	이/npd+에/jca
+2	비해	비하+어	SCONJ	_	13	ccomp	_	_	비하/pvg+어/ecs
+3	민중	민중	NOUN	_	4	compound	_	_	민중/ncn
+4	문화는	문화+는	NOUN	_	13	dislocated	_	_	문화/ncn+는/jxt
+5	민중	민중	NOUN	_	6	compound	_	_	민중/ncn
+6	스스로의	스스로+의	NOUN	_	7	nmod	_	_	스스로/ncn+의/jcm
+7	필요에	필요+에	ADV	_	8	obl	_	_	필요/ncpa+에/jca
+8	알맞게	알맞+게	SCONJ	_	9	xcomp	_	_	알맞/paa+게/ecs
+9	만들어지고	만들+어+지+고	CCONJ	_	12	conj	_	_	만들/pvg+어/ecx+지/px+고/ecc
+10	그들에	그+들+에	ADV	_	11	obl	_	_	그/npp+들/xsn+에/jca
+11	의해	의하+어	SCONJ	_	12	ccomp	_	_	의하/pvg+어/ecs
+12	향유되는	향유+되+는	VERB	_	13	ccomp	_	_	향유/ncpa+되/xsv+는/etm
+13	문화이다	문화+이+다	VERB	_	0	root	_	_	문화/ncn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 따라서 민중문화는 자연발생적이고 토착적 성격을 띠게 되며 , 생활이나 생산 활동과 밀착되어 있거나 , 또는 생활이나 생산 활동 그 자체이기도 하다 .
+1	따라서	따라서	CCONJ	_	20	cc	_	_	따라서/maj
+2	민중문화는	민중+문화+는	NOUN	_	20	dislocated	_	_	민중/ncn+문화/ncn+는/jxt
+3	자연발생적이고	자연+발생+적+이+고	CCONJ	_	6	conj	_	_	자연/ncn+발생/ncpa+적/xsn+이/jp+고/ecc
+4	토착적	토착+적	NOUN	_	5	amod	_	_	토착/ncpa+적/xsn
+5	성격을	성격+을	NOUN	_	6	obj	_	_	성격/ncn+을/jco
+6	띠게	띠+게	VERB	_	20	conj	_	_	띠/pvg+게/ecx
+7	되며	되+며	CCONJ	_	6	aux	_	_	되/px+며/ecc
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	생활이나	생활+이나	CCONJ	_	11	conj	_	_	생활/ncpa+이나/jcj
+10	생산	생산	NOUN	_	11	compound	_	_	생산/ncpa
+11	활동과	활동+과	CCONJ	_	12	conj	_	_	활동/ncpa+과/jct
+12	밀착되어	밀착+되+어	VERB	_	15	conj	_	_	밀착/ncpa+되/xsv+어/ecx
+13	있거나	있+거나	CCONJ	_	12	aux	_	_	있/px+거나/ecc
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	또는	또는	CCONJ	_	20	conj	_	_	또는/maj
+16	생활이나	생활+이나	CCONJ	_	20	conj	_	_	생활/ncpa+이나/jcj
+17	생산	생산	NOUN	_	18	compound	_	_	생산/ncpa
+18	활동	활동	NOUN	_	20	compound	_	_	활동/ncpa
+19	그	그	PRON	_	20	compound	_	_	그/npp
+20	자체이기도	자체+이+기+도	ADV	_	0	root	_	_	자체/ncn+이/jp+기/etn+도/jxc
+21	하다	하+다	AUX	_	20	aux	_	_	하/px+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 이런 뜻에서 민중문화는 이른바 민속문화와 동일한 개념이라 할 수 있을 것이다 .
+1	이런	이렇+ㄴ	VERB	_	2	amod	_	_	이렇/pad+ㄴ/etm
+2	뜻에서	뜻+에서	ADV	_	8	advcl	_	_	뜻/ncpa+에서/jca
+3	민중문화는	민중+문화+는	NOUN	_	8	dislocated	_	_	민중/ncn+문화/ncn+는/jxt
+4	이른바	이른바	ADV	_	5	advmod	_	_	이른바/mag
+5	민속문화와	민속+문화+와	CCONJ	_	6	conj	_	_	민속/ncn+문화/ncn+와/jct
+6	동일한	동일+하+ㄴ	VERB	_	7	amod	_	_	동일/ncps+하/xsm+ㄴ/etm
+7	개념이라	개념+이+라	VERB	_	8	ccomp	_	_	개념/ncn+이/jp+라/ef
+8	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	있을	있+ㄹ	ADJ	_	8	aux	_	_	있/paa+ㄹ/etm
+11	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 민중문화는 대체로 다음과 같은 특성을 지니고 있다 .
+1	민중문화는	민중+문화+는	NOUN	_	6	dislocated	_	_	민중/ncn+문화/ncn+는/jxt
+2	대체로	대체+로	ADV	_	6	advcl	_	_	대체/ncn+로/jca
+3	다음과	다음+과	CCONJ	_	4	conj	_	_	다음/ncn+과/jct
+4	같은	같+ㄴ	ADJ	_	5	amod	_	_	같/paa+ㄴ/etm
+5	특성을	특성+을	NOUN	_	6	obj	_	_	특성/ncn+을/jco
+6	지니고	지니+고	VERB	_	0	root	_	_	지니/pvg+고/ecx
+7	있다	있+다	AUX	_	6	aux	_	_	있/px+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 둘째 , 수용자인 민중들에게 지속적인 적절함을 갖고 있다 .
+1	둘째	둘째	NUM	_	7	nummod	_	_	둘째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	수용자인	수용자+이+ㄴ	VERB	_	4	acl	_	_	수용자/ncn+이/jp+ㄴ/etm
+4	민중들에게	민중+들+에게	ADV	_	7	iobj	_	_	민중/ncn+들/xsn+에게/jca
+5	지속적인	지속+적+이+ㄴ	VERB	_	6	acl	_	_	지속/ncpa+적/xsn+이/jp+ㄴ/etm
+6	적절함을	적절+하+ㅁ+을	NOUN	_	7	obj	_	_	적절/ncps+하/xsm+ㅁ/etn+을/jco
+7	갖고	갖+고	VERB	_	0	root	_	_	갖/pvg+고/ecx
+8	있다	있+다	AUX	_	7	aux	_	_	있/px+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그 까닭은 민중문화를 창조하는 사람과 문화를 소비하는 민중 사이에 직접적으로 높은 신뢰감이 존속하기 때문이다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	까닭은	까닭+은	NOUN	_	14	dislocated	_	_	까닭/ncn+은/jxt
+3	민중문화를	민중+문화+를	NOUN	_	4	obj	_	_	민중/ncn+문화/ncn+를/jco
+4	창조하는	창조+하+는	VERB	_	5	acl	_	_	창조/ncpa+하/xsv+는/etm
+5	사람과	사람+과	CCONJ	_	8	conj	_	_	사람/ncn+과/jcj
+6	문화를	문화+를	NOUN	_	7	obj	_	_	문화/ncn+를/jco
+7	소비하는	소비+하+는	VERB	_	8	acl	_	_	소비/ncpa+하/xsv+는/etm
+8	민중	민중	NOUN	_	9	compound	_	_	민중/ncn
+9	사이에	사이+에	ADV	_	13	obl	_	_	사이/ncn+에/jca
+10	직접적으로	직접+적+으로	ADV	_	13	advcl	_	_	직접/ncn+적/xsn+으로/jca
+11	높은	높+ㄴ	ADJ	_	12	amod	_	_	높/paa+ㄴ/etm
+12	신뢰감이	신뢰감+이	NOUN	_	13	nsubj	_	_	신뢰감/ncn+이/jcs
+13	존속하기	존속+하+기	VERB	_	14	nmod	_	_	존속/ncpa+하/xsv+기/etn
+14	때문이다	때문+이+다	VERB	_	0	root	_	_	때문/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 셋째 , 민중문화는 그것을 향유하는 수용자의 문화적 전통에 꽉 묶여 있다 .
+1	셋째	셋째	NUM	_	10	nummod	_	_	셋째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	민중문화는	민중+문화+는	NOUN	_	10	dislocated	_	_	민중/ncn+문화/ncn+는/jxt
+4	그것을	그것+을	PRON	_	5	obj	_	_	그것/npd+을/jco
+5	향유하는	향유+하+는	VERB	_	6	acl	_	_	향유/ncpa+하/xsv+는/etm
+6	수용자의	수용자+의	NOUN	_	8	nmod	_	_	수용자/ncn+의/jcm
+7	문화적	문화+적	NOUN	_	8	amod	_	_	문화/ncn+적/xsn
+8	전통에	전통+에	ADV	_	10	obl	_	_	전통/ncn+에/jca
+9	꽉	꽉	ADV	_	10	advmod	_	_	꽉/mag
+10	묶여	묶이+어	VERB	_	0	root	_	_	묶이/pvg+어/ecx
+11	있다	있+다	AUX	_	10	aux	_	_	있/px+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이와 같은 성격의 민중문화는 무엇보다도 그것이 수행해 온 기능의 면에서 높이 평가받아야 마땅할 것이다 .
+1	이와	이+와	CCONJ	_	2	conj	_	_	이/npd+와/jct
+2	같은	같+ㄴ	ADJ	_	3	amod	_	_	같/paa+ㄴ/etm
+3	성격의	성격+의	NOUN	_	4	nmod	_	_	성격/ncn+의/jcm
+4	민중문화는	민중+문화+는	NOUN	_	12	dislocated	_	_	민중/ncn+문화/ncn+는/jxt
+5	무엇보다도	무엇+보다+도	ADV	_	12	advcl	_	_	무엇/npd+보다/jca+도/jxc
+6	그것이	그것+이	PRON	_	7	nsubj	_	_	그것/npd+이/jcs
+7	수행해	수행+하+어	VERB	_	9	acl	_	_	수행/ncpa+하/xsv+어/ecx
+8	온	오+ㄴ	AUX	_	7	aux	_	_	오/px+ㄴ/etm
+9	기능의	기능+의	NOUN	_	10	nmod	_	_	기능/ncn+의/jcm
+10	면에서	면+에서	ADV	_	12	advcl	_	_	면/ncn+에서/jca
+11	높이	높이	ADV	_	12	advmod	_	_	높이/mag
+12	평가받아야	평가받+아야	SCONJ	_	13	conj	_	_	평가받/pvg+아야/ecs
+13	마땅할	마땅하+ㄹ	ADJ	_	0	root	_	_	마땅하/paa+ㄹ/etm
+14	것이다	것+이+다	VERB	_	13	aux	_	_	것/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 20 세기 초반 10 년간 전위작가들에게 영향을 미쳤던 것이 바로 이러한 문화적 기능면에 대한 인식이었던 것이다 .
+1	20	20	NUM	_	2	nummod	_	_	20/nnc
+2	세기	세기	NOUN	_	3	compound	_	_	세기/ncn
+3	초반	초반	NOUN	_	5	compound	_	_	초반/ncn
+4	10	10	NUM	_	5	nummod	_	_	10/nnc
+5	년간	년+간	NOUN	_	8	advmod	_	_	년/nbu+간/xsn
+6	전위작가들에게	전위작가+들+에게	ADV	_	8	iobj	_	_	전위작가/ncn+들/xsn+에게/jca
+7	영향을	영향+을	NOUN	_	8	obj	_	_	영향/ncn+을/jco
+8	미쳤던	미치+었+던	VERB	_	9	acl	_	_	미치/pvg+었/ep+던/etm
+9	것이	것+이	NOUN	_	15	nsubj	_	_	것/nbn+이/jcs
+10	바로	바로	ADV	_	15	advmod	_	_	바로/mag
+11	이러한	이러하+ㄴ	VERB	_	13	amod	_	_	이러하/pad+ㄴ/etm
+12	문화적	문화+적	NOUN	_	13	amod	_	_	문화/ncn+적/xsn
+13	기능면에	기능면+에	ADV	_	14	obl	_	_	기능면/ncn+에/jca
+14	대한	대하+ㄴ	VERB	_	15	ccomp	_	_	대하/pvg+ㄴ/etm
+15	인식이었던	인식+이+었+던	VERB	_	0	root	_	_	인식/ncpa+이/jp+었/ep+던/etm
+16	것이다	것+이+다	VERB	_	15	aux	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 사회의 대표 문화의 활기 없는 허세에 반기를 든 창조적인 정신을 가진 전위 작가들은 그 시대의 민중문화에 내재해 있는 신선한 요소를 발견했었다 .
+1	사회의	사회+의	NOUN	_	3	nmod	_	_	사회/ncn+의/jcm
+2	대표	대표	NOUN	_	3	compound	_	_	대표/ncn
+3	문화의	문화+의	NOUN	_	6	nmod	_	_	문화/ncn+의/jcm
+4	활기	활기	NOUN	_	5	dep	_	_	활기/ncn
+5	없는	없+는	ADJ	_	6	amod	_	_	없/paa+는/etm
+6	허세에	허세+에	ADV	_	8	obl	_	_	허세/ncn+에/jca
+7	반기를	반기+를	NOUN	_	8	obj	_	_	반기/ncpa+를/jco
+8	든	들+ㄴ	VERB	_	13	acl	_	_	들/pvg+ㄴ/etm
+9	창조적인	창조+적+이+ㄴ	VERB	_	10	acl	_	_	창조/ncpa+적/xsn+이/jp+ㄴ/etm
+10	정신을	정신+을	NOUN	_	11	obj	_	_	정신/ncn+을/jco
+11	가진	가지+ㄴ	VERB	_	13	acl	_	_	가지/pvg+ㄴ/etm
+12	전위	전위	NOUN	_	13	compound	_	_	전위/ncn
+13	작가들은	작가+들+은	NOUN	_	21	dislocated	_	_	작가/ncn+들/xsn+은/jxt
+14	그	그	DET	_	15	det	_	_	그/mmd
+15	시대의	시대+의	NOUN	_	16	nmod	_	_	시대/ncn+의/jcm
+16	민중문화에	민중+문화+에	ADV	_	17	obl	_	_	민중/ncn+문화/ncn+에/jca
+17	내재해	내재+하+어	VERB	_	20	acl	_	_	내재/ncpa+하/xsv+어/ecx
+18	있는	있+는	AUX	_	17	aux	_	_	있/px+는/etm
+19	신선한	신선+하+ㄴ	VERB	_	20	amod	_	_	신선/ncps+하/xsm+ㄴ/etm
+20	요소를	요소+를	NOUN	_	21	obj	_	_	요소/ncn+를/jco
+21	발견했었다	발견+하+었었+다	VERB	_	0	root	_	_	발견/ncpa+하/xsv+었었/ep+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 그들은 대표 문화의 무력함에 대한 반동으로 민중문화를 이상화시키기도 했다 .
+1	그들은	그+들+은	PRON	_	8	dislocated	_	_	그/npp+들/xsn+은/jxt
+2	대표	대표	NOUN	_	3	compound	_	_	대표/ncpa
+3	문화의	문화+의	NOUN	_	4	nmod	_	_	문화/ncn+의/jcm
+4	무력함에	무력+하+ㅁ+에	ADV	_	5	obl	_	_	무력/ncps+하/xsm+ㅁ/etn+에/jca
+5	대한	대하+ㄴ	VERB	_	6	acl	_	_	대하/pvg+ㄴ/etm
+6	반동으로	반동+으로	ADV	_	8	advcl	_	_	반동/ncpa+으로/jca
+7	민중문화를	민중+문화+를	NOUN	_	8	obj	_	_	민중/ncn+문화/ncn+를/jco
+8	이상화시키기도	이상화+시키+기+도	ADV	_	0	root	_	_	이상화/ncpa+시키/xsv+기/etn+도/jxc
+9	했다	하+었+다	AUX	_	8	aux	_	_	하/px+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이러한 것이 민중문화의 존재 가치를 밝혀주는 것이기도 하다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	것이	것+이	NOUN	_	7	nsubj	_	_	것/nbn+이/jcs
+3	민중문화의	민중+문화+의	NOUN	_	5	nmod	_	_	민중/ncn+문화/ncn+의/jcm
+4	존재	존재	NOUN	_	5	compound	_	_	존재/ncpa
+5	가치를	가치+를	NOUN	_	6	obj	_	_	가치/ncn+를/jco
+6	밝혀주는	밝히+어+주+는	AUX	_	7	ccomp	_	_	밝히/pvg+어/ecx+주/px+는/etm
+7	것이기도	것+이+기+도	ADV	_	0	root	_	_	것/nbn+이/jp+기/etn+도/jxc
+8	하다	하+다	AUX	_	7	aux	_	_	하/px+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 문화의 생산과 수용 과정으로 볼 때 생산과 소비가 일치되어 있는 것이 민중문화라고 한다면 문화의 생산과 소비가 분리된 것이 대중문화라 하겠다 .
+1	문화의	문화+의	NOUN	_	4	nmod	_	_	문화/ncn+의/jcm
+2	생산과	생산+과	CCONJ	_	4	conj	_	_	생산/ncpa+과/jcj
+3	수용	수용	NOUN	_	4	compound	_	_	수용/ncpa
+4	과정으로	과정+으로	ADV	_	5	advcl	_	_	과정/ncpa+으로/jca
+5	볼	보+ㄹ	VERB	_	6	acl	_	_	보/pvg+ㄹ/etm
+6	때	때	NOUN	_	20	advmod	_	_	때/ncn
+7	생산과	생산+과	CCONJ	_	8	conj	_	_	생산/ncpa+과/jcj
+8	소비가	소비+가	NOUN	_	9	nsubj	_	_	소비/ncpa+가/jcs
+9	일치되어	일치+되+어	VERB	_	11	acl	_	_	일치/ncpa+되/xsv+어/ecx
+10	있는	있+는	AUX	_	9	aux	_	_	있/px+는/etm
+11	것이	것+이	NOUN	_	12	nsubj	_	_	것/nbn+이/jcs
+12	민중문화라고	민중+문화+이+라+고	VERB	_	13	conj	_	_	민중/ncn+문화/ncn+이/jp+라/ef+고/jcr
+13	한다면	하+ㄴ다면	SCONJ	_	20	ccomp	_	_	하/pvg+ㄴ다면/ecs
+14	문화의	문화+의	NOUN	_	16	nmod	_	_	문화/ncn+의/jcm
+15	생산과	생산+과	CCONJ	_	16	conj	_	_	생산/ncpa+과/jcj
+16	소비가	소비+가	NOUN	_	17	nsubj	_	_	소비/ncpa+가/jcs
+17	분리된	분리+되+ㄴ	VERB	_	18	acl	_	_	분리/ncpa+되/xsv+ㄴ/etm
+18	것이	것+이	NOUN	_	19	nsubj	_	_	것/nbn+이/jcs
+19	대중문화라	대중+문화+이+라	VERB	_	20	ccomp	_	_	대중/ncn+문화/ncn+이/jp+라/ef
+20	하겠다	하+겠+다	VERB	_	0	root	_	_	하/pvg+겠/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 대중문화는 19 세기말인 1880 년대부터 발전해 왔다고 보는 것이 일반적인 견해이다 .
+1	대중문화는	대중+문화+는	NOUN	_	6	dislocated	_	_	대중/ncn+문화/ncn+는/jxt
+2	19	19	NUM	_	3	nummod	_	_	19/nnc
+3	세기말인	세기말+이+ㄴ	VERB	_	5	acl	_	_	세기말/ncn+이/jp+ㄴ/etm
+4	1880	1880	NUM	_	5	nummod	_	_	1880/nnc
+5	년대부터	년대+부터	ADV	_	6	advcl	_	_	년대/nbu+부터/jxc
+6	발전해	발전+하+어	VERB	_	8	conj	_	_	발전/ncpa+하/xsv+어/ecx
+7	왔다고	오+았+다+고	VERB	_	6	aux	_	_	오/px+았/ep+다/ef+고/jcr
+8	보는	보+는	VERB	_	9	acl	_	_	보/pvg+는/etm
+9	것이	것+이	NOUN	_	11	nsubj	_	_	것/nbn+이/jcs
+10	일반적인	일반+적+이+ㄴ	VERB	_	11	ccomp	_	_	일반/ncn+적/xsn+이/jp+ㄴ/etm
+11	견해이다	견해+이+다	VERB	_	0	root	_	_	견해/ncn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이러한 현상은 현 시대에 특유한 것이며 이제까지 예술 혹은 문화라고 알려졌던 것과는 매우 다른 새로운 문화 현상인 것이다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	현상은	현상+은	NOUN	_	5	dislocated	_	_	현상/ncn+은/jxt
+3	현	현	NOUN	_	4	compound	_	_	현/ncn
+4	시대에	시대+에	ADV	_	5	obl	_	_	시대/ncn+에/jca
+5	특유한	특유+하+ㄴ	VERB	_	17	conj	_	_	특유/ncps+하/xsm+ㄴ/etm
+6	것이며	것+이+며	CCONJ	_	5	aux	_	_	것/nbn+이/jp+며/ecc
+7	이제까지	이제+까지	ADV	_	11	advcl	_	_	이제/ncn+까지/jxc
+8	예술	예술	NOUN	_	10	conj	_	_	예술/ncn
+9	혹은	혹은	CCONJ	_	10	cc	_	_	혹은/maj
+10	문화라고	문화+이+라+고	VERB	_	11	conj	_	_	문화/ncn+이/jp+라/ef+고/jcr
+11	알려졌던	알리+어+지+었+던	AUX	_	12	acl	_	_	알리/pvg+어/ecx+지/px+었/ep+던/etm
+12	것과는	것+과+는	NOUN	_	14	dislocated	_	_	것/nbn+과/jct+는/jxt
+13	매우	매우	ADV	_	14	advmod	_	_	매우/mag
+14	다른	다르+ㄴ	ADJ	_	17	amod	_	_	다르/paa+ㄴ/etm
+15	새로운	새롭+ㄴ	ADJ	_	17	amod	_	_	새롭/paa+ㄴ/etm
+16	문화	문화	NOUN	_	17	compound	_	_	문화/ncn
+17	현상인	현상+이+ㄴ	VERB	_	0	root	_	_	현상/ncn+이/jp+ㄴ/etm
+18	것이다	것+이+다	VERB	_	17	aux	_	_	것/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 따라서 대중문화는 생산 과정 면에서는 기능적 측면에서 파악되고 , 유통 과정 면에서는 일반 소비재 상품과 다름 없이 시장이라는 측면에서 분석되어야 한다 .
+1	따라서	따라서	CCONJ	_	20	cc	_	_	따라서/maj
+2	대중문화는	대중+문화+는	NOUN	_	20	dislocated	_	_	대중/ncn+문화/ncn+는/jxt
+3	생산	생산	NOUN	_	4	compound	_	_	생산/ncpa
+4	과정	과정	NOUN	_	5	compound	_	_	과정/ncn
+5	면에서는	면+에서+는	NOUN	_	8	dislocated	_	_	면/ncn+에서/jca+는/jxt
+6	기능적	기능+적	NOUN	_	7	amod	_	_	기능/ncn+적/xsn
+7	측면에서	측면+에서	ADV	_	8	advcl	_	_	측면/ncn+에서/jca
+8	파악되고	파악+되+고	CCONJ	_	20	conj	_	_	파악/ncpa+되/xsv+고/ecc
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	유통	유통	NOUN	_	11	compound	_	_	유통/ncpa
+11	과정	과정	NOUN	_	12	compound	_	_	과정/ncn
+12	면에서는	면+에서+는	NOUN	_	20	dislocated	_	_	면/ncn+에서/jca+는/jxt
+13	일반	일반	NOUN	_	14	compound	_	_	일반/ncn
+14	소비재	소비재	NOUN	_	15	compound	_	_	소비재/ncn
+15	상품과	상품+과	CCONJ	_	16	conj	_	_	상품/ncn+과/jct
+16	다름	다르+ㅁ	ADJ	_	17	nmod	_	_	다르/paa+ㅁ/etn
+17	없이	없+이	SCONJ	_	20	xcomp	_	_	없/paa+이/ecs
+18	시장이라는	시장+이+라는	VERB	_	19	acl	_	_	시장/ncn+이/jp+라는/etm
+19	측면에서	측면+에서	ADV	_	20	advcl	_	_	측면/ncn+에서/jca
+20	분석되어야	분석+되+어야	VERB	_	0	root	_	_	분석/ncpa+되/xsv+어야/ecx
+21	한다	하+ㄴ다	AUX	_	20	aux	_	_	하/px+ㄴ다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 대중문화는 이윤을 위해 대량으로 생산되고 대량으로 소비되어야 하므로 일반 소비재 상품과 같이 규격품이어야 한다 .
+1	대중문화는	대중+문화+는	NOUN	_	13	dislocated	_	_	대중/ncn+문화/ncn+는/jxt
+2	이윤을	이윤+을	NOUN	_	3	obj	_	_	이윤/ncn+을/jco
+3	위해	위하+어	SCONJ	_	7	ccomp	_	_	위하/pvg+어/ecs
+4	대량으로	대량+으로	ADV	_	5	advcl	_	_	대량/ncn+으로/jca
+5	생산되고	생산+되+고	CCONJ	_	7	conj	_	_	생산/ncpa+되/xsv+고/ecc
+6	대량으로	대량+으로	ADV	_	7	advcl	_	_	대량/ncn+으로/jca
+7	소비되어야	소비+되+어야	VERB	_	13	ccomp	_	_	소비/ncpa+되/xsv+어야/ecx
+8	하므로	하+므로	SCONJ	_	7	aux	_	_	하/px+므로/ecs
+9	일반	일반	NOUN	_	11	compound	_	_	일반/ncn
+10	소비재	소비재	NOUN	_	11	compound	_	_	소비재/ncn
+11	상품과	상품+과	CCONJ	_	12	conj	_	_	상품/ncn+과/jct
+12	같이	같+이	SCONJ	_	13	xcomp	_	_	같/paa+이/ecs
+13	규격품이어야	규격품+이+어야	VERB	_	0	root	_	_	규격품/ncn+이/jp+어야/ecx
+14	한다	하+ㄴ다	AUX	_	13	aux	_	_	하/px+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그러므로 대중문화는 자연히 보편주의적 성격을 띠게 된다 .
+1	그러므로	그러므로	CCONJ	_	6	cc	_	_	그러므로/maj
+2	대중문화는	대중+문화+는	NOUN	_	6	dislocated	_	_	대중/ncn+문화/ncn+는/jxt
+3	자연히	자연+히	ADV	_	6	advmod	_	_	자연/ncps+히/xsa
+4	보편주의적	보편주의+적	NOUN	_	5	amod	_	_	보편주의/ncn+적/xsn
+5	성격을	성격+을	NOUN	_	6	obj	_	_	성격/ncn+을/jco
+6	띠게	띠+게	VERB	_	0	root	_	_	띠/pvg+게/ecx
+7	된다	되+ㄴ다	AUX	_	6	aux	_	_	되/px+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 다시 말해서 상업주의가 대중문화의 성격을 규정하는 것이다 .
+1	다시	다시	ADV	_	2	advmod	_	_	다시/mag
+2	말해서	말하+어서	SCONJ	_	6	advcl	_	_	말하/pvg+어서/ecs
+3	상업주의가	상업주의+가	NOUN	_	6	nsubj	_	_	상업주의/ncn+가/jcs
+4	대중문화의	대중+문화+의	NOUN	_	5	nmod	_	_	대중/ncn+문화/ncn+의/jcm
+5	성격을	성격+을	NOUN	_	6	obj	_	_	성격/ncn+을/jco
+6	규정하는	규정+하+는	VERB	_	0	root	_	_	규정/ncpa+하/xsv+는/etm
+7	것이다	것+이+다	VERB	_	6	aux	_	_	것/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 즉 대중문화는 기업인이 고용한 기술자에 의해 가공된 문화이며 , 문화의 수용자는 수동적이기만 한 소비자에 불과하다 .
+1	즉	즉	CCONJ	_	15	cc	_	_	즉/maj
+2	대중문화는	대중+문화+는	NOUN	_	8	dislocated	_	_	대중/ncn+문화/ncn+는/jxt
+3	기업인이	기업인+이	NOUN	_	4	nsubj	_	_	기업인/ncn+이/jcs
+4	고용한	고용+하+ㄴ	VERB	_	5	acl	_	_	고용/ncpa+하/xsv+ㄴ/etm
+5	기술자에	기술자+에	ADV	_	6	obl	_	_	기술자/ncn+에/jca
+6	의해	의하+어	SCONJ	_	7	ccomp	_	_	의하/pvg+어/ecs
+7	가공된	가공+되+ㄴ	VERB	_	8	ccomp	_	_	가공/ncpa+되/xsv+ㄴ/etm
+8	문화이며	문화+이+며	CCONJ	_	15	conj	_	_	문화/ncn+이/jp+며/ecc
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	문화의	문화+의	NOUN	_	11	nmod	_	_	문화/ncn+의/jcm
+11	수용자는	수용자+는	NOUN	_	15	dislocated	_	_	수용자/ncn+는/jxt
+12	수동적이기만	수동+적+이+기+만	ADV	_	14	acl	_	_	수동/ncn+적/xsn+이/jp+기/etn+만/jxc
+13	한	하+ㄴ	VERB	_	12	aux	_	_	하/pvg+ㄴ/etm
+14	소비자에	소비자+에	ADV	_	15	obl	_	_	소비자/ncn+에/jca
+15	불과하다	불과+하+다	VERB	_	0	root	_	_	불과/ncps+하/xsm+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 공산주의 국가의 경우 대중문화는 오직 상부계층의 지배적인 위치를 고수하는 데 봉사하고 있다 .
+1	공산주의	공산주의	NOUN	_	2	compound	_	_	공산주의/ncn
+2	국가의	국가+의	NOUN	_	3	nmod	_	_	국가/ncn+의/jcm
+3	경우	경우	NOUN	_	11	advmod	_	_	경우/ncn
+4	대중문화는	대중+문화+는	NOUN	_	11	dislocated	_	_	대중/ncn+문화/ncn+는/jxt
+5	오직	오직	ADV	_	11	advmod	_	_	오직/mag
+6	상부계층의	상부+계층+의	NOUN	_	8	nmod	_	_	상부/ncn+계층/ncn+의/jcm
+7	지배적인	지배+적+이+ㄴ	VERB	_	8	acl	_	_	지배/ncpa+적/xsn+이/jp+ㄴ/etm
+8	위치를	위치+를	NOUN	_	9	obj	_	_	위치/ncpa+를/jco
+9	고수하는	고수+하+는	VERB	_	10	acl	_	_	고수/ncpa+하/xsv+는/etm
+10	데	데	NOUN	_	11	mark	_	_	데/nbn
+11	봉사하고	봉사+하+고	VERB	_	0	root	_	_	봉사/ncpa+하/xsv+고/ecx
+12	있다	있+다	AUX	_	11	aux	_	_	있/px+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 대중문화는 자본주의 사회에서나 공산주의 사회에서나 그 사회의 지배 구조를 위해 봉사하고 , 지배 체제의 성격을 반영하는 것이라고 볼 수 있겠다 .
+1	대중문화는	대중+문화+는	NOUN	_	17	dislocated	_	_	대중/ncn+문화/ncn+는/jxt
+2	자본주의	자본주의	NOUN	_	3	compound	_	_	자본주의/ncn
+3	사회에서나	사회+에서+나	CCONJ	_	5	conj	_	_	사회/ncn+에서/jca+나/jcj
+4	공산주의	공산주의	NOUN	_	5	compound	_	_	공산주의/ncn
+5	사회에서나	사회+에서+나	ADV	_	17	advmod	_	_	사회/ncn+에서/jca+나/jxc
+6	그	그	DET	_	7	det	_	_	그/mmd
+7	사회의	사회+의	NOUN	_	9	nmod	_	_	사회/ncn+의/jcm
+8	지배	지배	NOUN	_	9	compound	_	_	지배/ncpa
+9	구조를	구조+를	NOUN	_	10	obj	_	_	구조/ncpa+를/jco
+10	위해	위하+어	SCONJ	_	11	ccomp	_	_	위하/pvg+어/ecs
+11	봉사하고	봉사+하+고	CCONJ	_	16	conj	_	_	봉사/ncpa+하/xsv+고/ecc
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	지배	지배	NOUN	_	14	compound	_	_	지배/ncpa
+14	체제의	체제+의	NOUN	_	15	nmod	_	_	체제/ncn+의/jcm
+15	성격을	성격+을	NOUN	_	16	obj	_	_	성격/ncn+을/jco
+16	반영하는	반영+하+는	VERB	_	17	ccomp	_	_	반영/ncpa+하/xsv+는/etm
+17	것이라고	것+이+라+고	VERB	_	18	conj	_	_	것/nbn+이/jp+라/ef+고/jcr
+18	볼	보+ㄹ	VERB	_	0	root	_	_	보/pvg+ㄹ/etm
+19	수	수	NOUN	_	20	fixed	_	_	수/nbn
+20	있겠다	있+겠+다	ADJ	_	18	aux	_	_	있/paa+겠/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 대중문화에 대한 낙관론과 비관론 , 또는 비판과 옹호는 매우 다양한 입장을 반영하고 있다 .
+1	대중문화에	대중+문화+에	ADV	_	2	obl	_	_	대중/ncn+문화/ncn+에/jca
+2	대한	대하+ㄴ	VERB	_	8	acl	_	_	대하/pvg+ㄴ/etm
+3	낙관론과	낙관론+과	CCONJ	_	4	conj	_	_	낙관론/ncn+과/jcj
+4	비관론	비관론	NOUN	_	8	conj	_	_	비관론/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	또는	또는	CCONJ	_	8	cc	_	_	또는/maj
+7	비판과	비판+과	CCONJ	_	8	conj	_	_	비판/ncpa+과/jcj
+8	옹호는	옹호+는	NOUN	_	12	dislocated	_	_	옹호/ncpa+는/jxt
+9	매우	매우	ADV	_	10	advmod	_	_	매우/mag
+10	다양한	다양+하+ㄴ	VERB	_	11	amod	_	_	다양/ncps+하/xsm+ㄴ/etm
+11	입장을	입장+을	NOUN	_	12	obj	_	_	입장/ncpa+을/jco
+12	반영하고	반영+하+고	VERB	_	0	root	_	_	반영/ncpa+하/xsv+고/ecx
+13	있다	있+다	AUX	_	12	aux	_	_	있/px+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 어떤 학자는 대중문화론자들을 그들의 정치적 노선에 따라 급진적인 개혁주의와 극단적인 보수주의 및 자유주의 하는 세 가지 유형으로 분류해 보고 있다 .
+1	어떤	어떻+ㄴ	VERB	_	2	amod	_	_	어떻/pad+ㄴ/etm
+2	학자는	학자+는	NOUN	_	18	dislocated	_	_	학자/ncn+는/jxt
+3	대중문화론자들을	대중문화론자+들+을	NOUN	_	18	obj	_	_	대중문화론자/ncn+들/xsn+을/jco
+4	그들의	그+들+의	PRON	_	6	nmod	_	_	그/npp+들/xsn+의/jcm
+5	정치적	정치+적	NOUN	_	6	amod	_	_	정치/ncpa+적/xsn
+6	노선에	노선+에	ADV	_	7	obl	_	_	노선/ncn+에/jca
+7	따라	따르+아	SCONJ	_	18	ccomp	_	_	따르/pvg+아/ecs
+8	급진적인	급진+적+이+ㄴ	VERB	_	9	acl	_	_	급진/ncpa+적/xsn+이/jp+ㄴ/etm
+9	개혁주의와	개혁주의+와	CCONJ	_	11	conj	_	_	개혁주의/ncn+와/jcj
+10	극단적인	극단+적+이+ㄴ	VERB	_	11	acl	_	_	극단/ncn+적/xsn+이/jp+ㄴ/etm
+11	보수주의	보수주의	NOUN	_	13	conj	_	_	보수주의/ncn
+12	및	및	CCONJ	_	13	cc	_	_	및/maj
+13	자유주의	자유주의	NOUN	_	14	dep	_	_	자유주의/ncn
+14	하는	하+는	VERB	_	17	acl	_	_	하/pvg+는/etm
+15	세	세	NUM	_	16	nummod	_	_	세/nnc
+16	가지	가지	NOUN	_	17	compound	_	_	가지/nbu
+17	유형으로	유형+으로	ADV	_	18	advcl	_	_	유형/ncn+으로/jca
+18	분류해	분류+하+어	VERB	_	0	root	_	_	분류/ncpa+하/xsv+어/ecx
+19	보고	보+고	AUX	_	18	aux	_	_	보/px+고/ecx
+20	있다	있+다	AUX	_	18	aux	_	_	있/px+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 이처럼 다양한 관점과 입장을 반영하는 대중문화에 대한 비판과 옹호는 대체로 다음과 같이 정리해 볼 수 있겠다 .
+1	이처럼	이+처럼	ADV	_	2	advcl	_	_	이/npd+처럼/jca
+2	다양한	다양+하+ㄴ	VERB	_	4	amod	_	_	다양/ncps+하/xsm+ㄴ/etm
+3	관점과	관점+과	CCONJ	_	4	conj	_	_	관점/ncn+과/jcj
+4	입장을	입장+을	NOUN	_	5	obj	_	_	입장/ncpa+을/jco
+5	반영하는	반영+하+는	VERB	_	9	acl	_	_	반영/ncpa+하/xsv+는/etm
+6	대중문화에	대중+문화+에	ADV	_	7	obl	_	_	대중/ncn+문화/ncn+에/jca
+7	대한	대하+ㄴ	VERB	_	9	acl	_	_	대하/pvg+ㄴ/etm
+8	비판과	비판+과	CCONJ	_	9	conj	_	_	비판/ncpa+과/jcj
+9	옹호는	옹호+는	NOUN	_	13	dislocated	_	_	옹호/ncpa+는/jxt
+10	대체로	대체+로	ADV	_	13	advcl	_	_	대체/ncn+로/jca
+11	다음과	다음+과	CCONJ	_	12	conj	_	_	다음/ncn+과/jct
+12	같이	같+이	SCONJ	_	13	xcomp	_	_	같/paa+이/ecs
+13	정리해	정리+하+어	VERB	_	0	root	_	_	정리/ncpa+하/xsv+어/ecx
+14	볼	보+ㄹ	AUX	_	13	aux	_	_	보/px+ㄹ/etm
+15	수	수	NOUN	_	16	fixed	_	_	수/nbn
+16	있겠다	있+겠+다	ADJ	_	13	aux	_	_	있/paa+겠/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이런 관점에서 제시되고 있는 비판론들은 주로 엘리트주의적 입장이나 보수주의의 입장에 있는 사람들에 의해 제기되고 있다고 할 수 있을 것이다 .
+1	이런	이렇+ㄴ	VERB	_	2	amod	_	_	이렇/pad+ㄴ/etm
+2	관점에서	관점+에서	ADV	_	3	advcl	_	_	관점/ncn+에서/jca
+3	제시되고	제시+되+고	VERB	_	5	acl	_	_	제시/ncpa+되/xsv+고/ecx
+4	있는	있+는	AUX	_	3	aux	_	_	있/px+는/etm
+5	비판론들은	비판론+들+은	NOUN	_	14	dislocated	_	_	비판론/ncn+들/xsn+은/jxt
+6	주로	주로	ADV	_	14	advmod	_	_	주로/mag
+7	엘리트주의적	엘리트주의+적	NOUN	_	8	amod	_	_	엘리트주의/ncn+적/xsn
+8	입장이나	입장+이나	CCONJ	_	10	conj	_	_	입장/ncn+이나/jcj
+9	보수주의의	보수주의+의	NOUN	_	10	nmod	_	_	보수주의/ncn+의/jcm
+10	입장에	입장+에	ADV	_	11	obl	_	_	입장/ncpa+에/jca
+11	있는	있+는	ADJ	_	12	amod	_	_	있/paa+는/etm
+12	사람들에	사람+들+에	ADV	_	13	obl	_	_	사람/ncn+들/xsn+에/jca
+13	의해	의하+어	SCONJ	_	14	ccomp	_	_	의하/pvg+어/ecs
+14	제기되고	제기+되+고	VERB	_	16	conj	_	_	제기/ncpa+되/xsv+고/ecx
+15	있다고	있+다+고	VERB	_	14	aux	_	_	있/px+다/ef+고/jcr
+16	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+17	수	수	NOUN	_	18	fixed	_	_	수/nbn
+18	있을	있+ㄹ	ADJ	_	16	aux	_	_	있/paa+ㄹ/etm
+19	것이다	것+이+다	VERB	_	16	aux	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 그들의 비판은 다음과 같은 주장 속에 잘 드러나 있다 .
+1	그들의	그+들+의	PRON	_	2	nmod	_	_	그/npp+들/xsn+의/jcm
+2	비판은	비판+은	NOUN	_	8	dislocated	_	_	비판/ncpa+은/jxt
+3	다음과	다음+과	CCONJ	_	4	conj	_	_	다음/ncn+과/jct
+4	같은	같+ㄴ	ADJ	_	5	amod	_	_	같/paa+ㄴ/etm
+5	주장	주장	NOUN	_	6	compound	_	_	주장/ncpa
+6	속에	속+에	ADV	_	8	obl	_	_	속/ncn+에/jca
+7	잘	잘	ADV	_	8	advmod	_	_	잘/mag
+8	드러나	드러나+아	VERB	_	0	root	_	_	드러나/pvg+아/ecx
+9	있다	있+다	AUX	_	8	aux	_	_	있/px+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+

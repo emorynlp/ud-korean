@@ -1,0 +1,2330 @@
+# 공연이나 집회를 찾는 대중의 수도 분명 감소 추세에 있다 .
+1	공연이나	공연+이나	CCONJ	_	2	conj	_	_	공연/ncpa+이나/jcj
+2	집회를	집회+를	NOUN	_	3	obj	_	_	집회/ncpa+를/jco
+3	찾는	찾+는	VERB	_	4	acl	_	_	찾/pvg+는/etm
+4	대중의	대중+의	NOUN	_	5	nmod	_	_	대중/ncn+의/jcm
+5	수도	수+도	ADV	_	9	advcl	_	_	수/nbn+도/jxc
+6	분명	분명	ADV	_	9	advmod	_	_	분명/mag
+7	감소	감소	NOUN	_	8	compound	_	_	감소/ncpa
+8	추세에	추세+에	ADV	_	9	obl	_	_	추세/ncn+에/jca
+9	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이는 대중가요계의 유례없는 호황과 비교할 때 더욱 두드러지는 현상이다 .
+1	이는	이+는	PRON	_	9	dislocated	_	_	이/npd+는/jxt
+2	대중가요계의	대중+가요계+의	NOUN	_	4	nmod	_	_	대중/ncn+가요계/ncn+의/jcm
+3	유례없는	유례없+는	ADJ	_	4	amod	_	_	유례없/paa+는/etm
+4	호황과	호황+과	CCONJ	_	5	conj	_	_	호황/ncn+과/jct
+5	비교할	비교+하+ㄹ	VERB	_	6	acl	_	_	비교/ncpa+하/xsv+ㄹ/etm
+6	때	때	NOUN	_	9	advmod	_	_	때/nbn
+7	더욱	더욱	ADV	_	8	advmod	_	_	더욱/mag
+8	두드러지는	두드러지+는	VERB	_	9	ccomp	_	_	두드러지/pvg+는/etm
+9	현상이다	현상+이+다	VERB	_	0	root	_	_	현상/ncn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그런데 노래운동 진영에서는 노래가 안 있고 활력이 사라지고 있는 것이다 .
+1	그런데	그런데	CCONJ	_	8	cc	_	_	그런데/maj
+2	노래운동	노래+운동	NOUN	_	3	compound	_	_	노래/ncpa+운동/ncpa
+3	진영에서는	진영+에서+는	NOUN	_	8	dislocated	_	_	진영/ncn+에서/jca+는/jxt
+4	노래가	노래+가	NOUN	_	6	nsubj	_	_	노래/ncpa+가/jcs
+5	안	안	ADV	_	6	advmod	_	_	안/mag
+6	있고	있+고	CCONJ	_	8	conj	_	_	있/paa+고/ecc
+7	활력이	활력+이	NOUN	_	8	nsubj	_	_	활력/ncn+이/jcs
+8	사라지고	사라지+고	VERB	_	0	root	_	_	사라지/pvg+고/ecx
+9	있는	있+는	AUX	_	8	aux	_	_	있/px+는/etm
+10	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그렇다면 주어진 텍스트를 중심으로 예술의 기능과 의미를 평가하는 문학의 이론이 노래에 일률적으로 적용되기 어려운 것임은 이미 자명해진다 .
+1	그렇다면	그렇다면	CCONJ	_	17	cc	_	_	그렇다면/maj
+2	주어진	주+어+지+ㄴ	AUX	_	3	acl	_	_	주/pvg+어/ecx+지/px+ㄴ/etm
+3	텍스트를	텍스트+를	NOUN	_	4	obj	_	_	텍스트/ncn+를/jco
+4	중심으로	중심+으로	ADV	_	8	advcl	_	_	중심/ncn+으로/jca
+5	예술의	예술+의	NOUN	_	7	nmod	_	_	예술/ncpa+의/jcm
+6	기능과	기능+과	CCONJ	_	7	conj	_	_	기능/ncpa+과/jcj
+7	의미를	의미+를	NOUN	_	8	obj	_	_	의미/ncpa+를/jco
+8	평가하는	평가+하+는	VERB	_	10	acl	_	_	평가/ncpa+하/xsv+는/etm
+9	문학의	문학+의	NOUN	_	10	nmod	_	_	문학/ncn+의/jcm
+10	이론이	이론+이	NOUN	_	13	nsubj	_	_	이론/ncn+이/jcs
+11	노래에	노래+에	ADV	_	13	obl	_	_	노래/ncpa+에/jca
+12	일률적으로	일률+적+으로	ADV	_	13	advcl	_	_	일률/ncn+적/xsn+으로/jca
+13	적용되기	적용+되+기	VERB	_	14	nmod	_	_	적용/ncpa+되/xsv+기/etn
+14	어려운	어렵+ㄴ	ADJ	_	17	dislocated	_	_	어렵/paa+ㄴ/etm
+15	것임은	것+이+ㅁ+은	NOUN	_	14	aux	_	_	것/nbn+이/jp+ㅁ/etn+은/jxt
+16	이미	이미	ADV	_	17	advmod	_	_	이미/mag
+17	자명해진다	자명하+어+지+ㄴ다	AUX	_	0	root	_	_	자명하/paa+어/ecx+지/px+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 여기에는 나 자신도 얼마간 책임이 없지 않으니 변명 삼아라도 다소 설명이 필요할 듯 하다 .
+1	여기에는	여기+에+는	PRON	_	6	dislocated	_	_	여기/npd+에/jca+는/jxt
+2	나	나	PRON	_	3	compound	_	_	나/npp
+3	자신도	자신+도	ADV	_	6	advcl	_	_	자신/npp+도/jxc
+4	얼마간	얼마+간	NOUN	_	5	advmod	_	_	얼마/ncn+간/xsn
+5	책임이	책임+이	NOUN	_	6	nsubj	_	_	책임/ncn+이/jcs
+6	없지	없+지	ADJ	_	14	amod	_	_	없/paa+지/ecx
+7	않으니	않+으니	SCONJ	_	6	aux	_	_	않/px+으니/ecs
+8	변명	변명	NOUN	_	9	dep	_	_	변명/ncpa
+9	삼아라도	삼+아라도	SCONJ	_	14	ccomp	_	_	삼/pvg+아라도/ecs
+10	다소	다소	NOUN	_	11	compound	_	_	다소/ncn
+11	설명이	설명+이	NOUN	_	12	nsubj	_	_	설명/ncpa+이/jcs
+12	필요할	필요+하+ㄹ	VERB	_	13	acl	_	_	필요/ncpa+하/xsv+ㄹ/etm
+13	듯	듯	NOUN	_	14	mark	_	_	듯/nbn
+14	하다	하+다	VERB	_	0	root	_	_	하/pvg+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 대중가요가 지배이데올로기의 반영이라는 인식 자체는 틀린 것이 아니다 .
+1	대중가요가	대중+가요+가	NOUN	_	3	nsubj	_	_	대중/ncn+가요/ncn+가/jcs
+2	지배이데올로기의	지배+이데올로기+의	NOUN	_	3	nmod	_	_	지배/ncpa+이데올로기/ncn+의/jcm
+3	반영이라는	반영+이+라는	VERB	_	4	acl	_	_	반영/ncpa+이/jp+라는/etm
+4	인식	인식	NOUN	_	5	compound	_	_	인식/ncpa
+5	자체는	자체+는	NOUN	_	8	dislocated	_	_	자체/ncn+는/jxt
+6	틀린	틀리+ㄴ	VERB	_	7	acl	_	_	틀리/pvg+ㄴ/etm
+7	것이	것+이	NOUN	_	8	csubj	_	_	것/nbn+이/jcc
+8	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 대중가요는 자본가가 소유한 문화산업에 의해 생산되며 국가의 검열을 받는다 .
+1	대중가요는	대중+가요+는	NOUN	_	9	dislocated	_	_	대중/ncn+가요/ncn+는/jxt
+2	자본가가	자본가+가	NOUN	_	3	nsubj	_	_	자본가/ncn+가/jcs
+3	소유한	소유+하+ㄴ	VERB	_	4	acl	_	_	소유/ncpa+하/xsv+ㄴ/etm
+4	문화산업에	문화+산업+에	ADV	_	5	obl	_	_	문화/ncn+산업/ncn+에/jca
+5	의해	의하+어	SCONJ	_	6	ccomp	_	_	의하/pvg+어/ecs
+6	생산되며	생산+되+며	CCONJ	_	9	conj	_	_	생산/ncpa+되/xsv+며/ecc
+7	국가의	국가+의	NOUN	_	8	nmod	_	_	국가/ncn+의/jcm
+8	검열을	검열+을	NOUN	_	9	obj	_	_	검열/ncpa+을/jco
+9	받는다	받+는다	VERB	_	0	root	_	_	받/pvg+는다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그런 문화산업적 생산메커니즘은 자연히 대중가요의 내용을 규정하며 그것은 노랫말의 현실도피적 , 순응적 세계에서 잘 나타난다 .
+1	그런	그런	DET	_	3	det	_	_	그런/mmd
+2	문화산업적	문화+산업+적	NOUN	_	3	amod	_	_	문화/ncn+산업/ncn+적/xsn
+3	생산메커니즘은	생산+메커니즘+은	NOUN	_	7	dislocated	_	_	생산/ncpa+메커니즘/ncn+은/jxt
+4	자연히	자연+히	ADV	_	7	advmod	_	_	자연/ncn+히/xsa
+5	대중가요의	대중+가요+의	NOUN	_	6	nmod	_	_	대중/ncn+가요/ncn+의/jcm
+6	내용을	내용+을	NOUN	_	7	obj	_	_	내용/ncn+을/jco
+7	규정하며	규정+하+며	CCONJ	_	15	conj	_	_	규정/ncpa+하/xsv+며/ecc
+8	그것은	그것+은	PRON	_	15	dislocated	_	_	그것/npd+은/jxt
+9	노랫말의	노랫말+의	NOUN	_	13	nmod	_	_	노랫말/ncn+의/jcm
+10	현실도피적	현실도피+적	NOUN	_	12	conj	_	_	현실도피/ncpa+적/xsn
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	순응적	순응+적	NOUN	_	13	amod	_	_	순응/ncpa+적/xsn
+13	세계에서	세계+에서	ADV	_	15	advcl	_	_	세계/ncn+에서/jca
+14	잘	잘	ADV	_	15	advmod	_	_	잘/mag
+15	나타난다	나타나+ㄴ다	VERB	_	0	root	_	_	나타나/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 대중이 가요를 수용하는 과정에서 그러한 지배이데올로기가 완전히 관철될 수는 없다 .
+1	대중이	대중+이	NOUN	_	3	nsubj	_	_	대중/ncn+이/jcs
+2	가요를	가요+를	NOUN	_	3	obj	_	_	가요/ncn+를/jco
+3	수용하는	수용+하+는	VERB	_	4	acl	_	_	수용/ncpa+하/xsv+는/etm
+4	과정에서	과정+에서	ADV	_	8	advcl	_	_	과정/ncn+에서/jca
+5	그러한	그러하+ㄴ	VERB	_	6	amod	_	_	그러하/pad+ㄴ/etm
+6	지배이데올로기가	지배+이데올로기+가	NOUN	_	8	nsubj	_	_	지배/ncpa+이데올로기/ncn+가/jcs
+7	완전히	완전+히	ADV	_	8	advmod	_	_	완전/ncps+히/xsa
+8	관철될	관철+되+ㄹ	VERB	_	0	root	_	_	관철/ncpa+되/xsv+ㄹ/etm
+9	수는	수+는	NOUN	_	10	fixed	_	_	수/nbn+는/jxt
+10	없다	없+다	ADJ	_	8	aux	_	_	없/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그간의 우리의 인식은 대중가요의 생산의 층위에만 머물러 있었던 것이다 .
+1	그간의	그+간+의	PRON	_	3	nmod	_	_	그/npd+간/xsn+의/jcm
+2	우리의	우리+의	PRON	_	3	nmod	_	_	우리/npp+의/jcm
+3	인식은	인식+은	NOUN	_	7	dislocated	_	_	인식/ncpa+은/jxt
+4	대중가요의	대중+가요+의	NOUN	_	5	nmod	_	_	대중/ncn+가요/ncn+의/jcm
+5	생산의	생산+의	NOUN	_	6	nmod	_	_	생산/ncpa+의/jcm
+6	층위에만	층위+에+만	ADV	_	7	advcl	_	_	층위/ncn+에/jca+만/jxc
+7	머물러	머무르+어	VERB	_	0	root	_	_	머무르/pvg+어/ecx
+8	있었던	있+었+던	AUX	_	7	aux	_	_	있/px+었/ep+던/etm
+9	것이다	것+이+다	VERB	_	7	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 아도르노를 비롯한 프랑크푸르트학파의 대중문화 인식에서 나타나는 치명적인 맹점이 바로 이것이다 .
+1	아도르노를	아도르노+를	PROPN	_	2	obj	_	_	아도르노/nq+를/jco
+2	비롯한	비롯+하+ㄴ	VERB	_	3	acl	_	_	비롯/ncpa+하/xsv+ㄴ/etm
+3	프랑크푸르트학파의	프랑크푸르트+학파+의	PROPN	_	5	nmod	_	_	프랑크푸르트/nq+학파/ncn+의/jcm
+4	대중문화	대중+문화	NOUN	_	5	compound	_	_	대중/ncn+문화/ncn
+5	인식에서	인식+에서	ADV	_	6	advcl	_	_	인식/ncpa+에서/jca
+6	나타나는	나타나+는	VERB	_	8	acl	_	_	나타나/pvg+는/etm
+7	치명적인	치명+적+이+ㄴ	VERB	_	8	acl	_	_	치명/ncn+적/xsn+이/jp+ㄴ/etm
+8	맹점이	맹점+이	NOUN	_	10	nsubj	_	_	맹점/ncn+이/jcs
+9	바로	바로	ADV	_	10	advmod	_	_	바로/mag
+10	이것이다	이것+이+다	VERB	_	0	root	_	_	이것/npd+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그러나 실제 대중의 문화수용 행위는 그렇게 수동적이지 않다 .
+1	그러나	그러나	CCONJ	_	7	cc	_	_	그러나/maj
+2	실제	실제	NOUN	_	7	advmod	_	_	실제/ncn
+3	대중의	대중+의	NOUN	_	5	nmod	_	_	대중/ncn+의/jcm
+4	문화수용	문화+수용	NOUN	_	5	compound	_	_	문화/ncn+수용/ncpa
+5	행위는	행위+는	NOUN	_	7	dislocated	_	_	행위/ncpa+는/jxt
+6	그렇게	그렇게	ADV	_	7	advmod	_	_	그렇게/mad
+7	수동적이지	수동+적+이+지	VERB	_	0	root	_	_	수동/ncn+적/xsn+이/jp+지/ecx
+8	않다	않+다	AUX	_	7	aux	_	_	않/px+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이러한 변용은 비단 대중가요에만 나타나는 것이 아니다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	변용은	변용+은	NOUN	_	5	dislocated	_	_	변용/ncpa+은/jxt
+3	비단	비단	ADV	_	5	advmod	_	_	비단/mag
+4	대중가요에만	대중+가요+에+만	ADV	_	5	advcl	_	_	대중/ncn+가요/ncn+에/jca+만/jxc
+5	나타나는	나타나+는	VERB	_	6	acl	_	_	나타나/pvg+는/etm
+6	것이	것+이	NOUN	_	7	csubj	_	_	것/nbn+이/jcc
+7	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 민중가요라 불리는 노래에 대하여도 마찬가지이다 .
+1	민중가요라	민중+가요+라	VERB	_	2	conj	_	_	민중/ncn+가요/ncn+라/jcr
+2	불리는	불리+는	VERB	_	3	acl	_	_	불리/pvg+는/etm
+3	노래에	노래+에	ADV	_	4	obl	_	_	노래/ncpa+에/jca
+4	대하여도	대하+어도	SCONJ	_	5	ccomp	_	_	대하/pvg+어도/ecs
+5	마찬가지이다	마찬가지+이+다	VERB	_	0	root	_	_	마찬가지/ncn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 자신이 처한 물질적 조건과 생활방식 등에 따라 다양한 방식으로 문화를 수용하고 해독하는 대중의 문화적 실천에 관심을 기울여야 한다는 의미이다 .
+1	자신이	자신+이	PRON	_	2	nsubj	_	_	자신/npp+이/jcs
+2	처한	처하+ㄴ	VERB	_	6	acl	_	_	처하/pvg+ㄴ/etm
+3	물질적	물질+적	NOUN	_	4	amod	_	_	물질/ncn+적/xsn
+4	조건과	조건+과	CCONJ	_	5	conj	_	_	조건/ncn+과/jcj
+5	생활방식	생활+방식	NOUN	_	6	compound	_	_	생활/ncpa+방식/ncn
+6	등에	등+에	ADV	_	7	obl	_	_	등/nbn+에/jca
+7	따라	따르+아	SCONJ	_	12	ccomp	_	_	따르/pvg+아/ecs
+8	다양한	다양하+ㄴ	ADJ	_	9	amod	_	_	다양하/paa+ㄴ/etm
+9	방식으로	방식+으로	ADV	_	12	advcl	_	_	방식/ncn+으로/jca
+10	문화를	문화+를	NOUN	_	11	obj	_	_	문화/ncn+를/jco
+11	수용하고	수용+하+고	CCONJ	_	12	conj	_	_	수용/ncpa+하/xsv+고/ecc
+12	해독하는	해독+하+는	VERB	_	15	acl	_	_	해독/ncpa+하/xsv+는/etm
+13	대중의	대중+의	NOUN	_	15	nmod	_	_	대중/ncn+의/jcm
+14	문화적	문화+적	NOUN	_	15	amod	_	_	문화/ncn+적/xsn
+15	실천에	실천+에	ADV	_	17	obl	_	_	실천/ncpa+에/jca
+16	관심을	관심+을	NOUN	_	17	obj	_	_	관심/ncpa+을/jco
+17	기울여야	기울이+어야	SCONJ	_	18	ccomp	_	_	기울이/pvg+어야/ecs
+18	한다는	하+ㄴ다는	VERB	_	19	ccomp	_	_	하/pvg+ㄴ다는/etm
+19	의미이다	의미+이+다	VERB	_	0	root	_	_	의미/ncpa+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 우리는 그동안 그러한 다양한 하위문화의 의의를 지나치게 과소평가해 왔다고 볼 수 있다 .
+1	우리는	우리+는	PRON	_	8	dislocated	_	_	우리/npp+는/jxt
+2	그동안	그동안	NOUN	_	8	advmod	_	_	그동안/ncn
+3	그러한	그러하+ㄴ	VERB	_	5	amod	_	_	그러하/pad+ㄴ/etm
+4	다양한	다양하+ㄴ	ADJ	_	5	amod	_	_	다양하/paa+ㄴ/etm
+5	하위문화의	하위+문화+의	NOUN	_	6	nmod	_	_	하위/ncn+문화/ncn+의/jcm
+6	의의를	의의+를	NOUN	_	8	obj	_	_	의의/ncn+를/jco
+7	지나치게	지나치+게	SCONJ	_	8	ccomp	_	_	지나치/pvg+게/ecs
+8	과소평가해	과소평가+하+어	VERB	_	10	conj	_	_	과소평가/ncpa+하/xsv+어/ecx
+9	왔다고	오+았+다+고	VERB	_	8	aux	_	_	오/px+았/ep+다/ef+고/jcr
+10	볼	보+ㄹ	VERB	_	0	root	_	_	보/pvg+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있다	있+다	ADJ	_	10	aux	_	_	있/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 하위문화가 단지 지배문화에 일방적으로 종속된 것으로 보는 것이 우리의 시각이었다면 관점의 획기적인 전환이 요구되는 부분이 바로 이것이다 .
+1	하위문화가	하위+문화+가	NOUN	_	5	nsubj	_	_	하위/ncn+문화/ncn+가/jcs
+2	단지	단지	ADV	_	5	advmod	_	_	단지/mag
+3	지배문화에	지배+문화+에	ADV	_	5	obl	_	_	지배/ncpa+문화/ncn+에/jca
+4	일방적으로	일방+적+으로	ADV	_	5	advcl	_	_	일방/ncn+적/xsn+으로/jca
+5	종속된	종속+되+ㄴ	VERB	_	6	acl	_	_	종속/ncpa+되/xsv+ㄴ/etm
+6	것으로	것+으로	ADV	_	7	advcl	_	_	것/nbn+으로/jca
+7	보는	보+는	VERB	_	8	acl	_	_	보/pvg+는/etm
+8	것이	것+이	NOUN	_	10	nsubj	_	_	것/nbn+이/jcs
+9	우리의	우리+의	PRON	_	10	nmod	_	_	우리/npp+의/jcm
+10	시각이었다면	시각+이+었+다면	SCONJ	_	17	ccomp	_	_	시각/ncn+이/jp+었/ep+다면/ecs
+11	관점의	관점+의	NOUN	_	13	nmod	_	_	관점/ncn+의/jcm
+12	획기적인	획기적+이+ㄴ	VERB	_	13	acl	_	_	획기적/ncn+이/jp+ㄴ/etm
+13	전환이	전환+이	NOUN	_	14	nsubj	_	_	전환/ncpa+이/jcs
+14	요구되는	요구+되+는	VERB	_	15	acl	_	_	요구/ncpa+되/xsv+는/etm
+15	부분이	부분+이	NOUN	_	17	nsubj	_	_	부분/ncn+이/jcs
+16	바로	바로	ADV	_	17	advmod	_	_	바로/mag
+17	이것이다	이것+이+다	VERB	_	0	root	_	_	이것/npd+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그런 의미에서 하위문화는 지배와 저항이 대립 , 경합하는 투쟁의 영역이다 .
+1	그런	그런	DET	_	2	det	_	_	그런/mmd
+2	의미에서	의미+에서	ADV	_	10	advcl	_	_	의미/ncpa+에서/jca
+3	하위문화는	하위+문화+는	NOUN	_	10	dislocated	_	_	하위/ncn+문화/ncn+는/jxt
+4	지배와	지배+와	CCONJ	_	5	conj	_	_	지배/ncpa+와/jcj
+5	저항이	저항+이	NOUN	_	8	nsubj	_	_	저항/ncpa+이/jcs
+6	대립	대립	NOUN	_	8	compound	_	_	대립/ncpa
+7	,	,	PUNCT	_	8	punct	_	_	,/sp
+8	경합하는	경합+하+는	VERB	_	9	acl	_	_	경합/ncpa+하/xsv+는/etm
+9	투쟁의	투쟁+의	NOUN	_	10	nmod	_	_	투쟁/ncpa+의/jcm
+10	영역이다	영역+이+다	VERB	_	0	root	_	_	영역/ncn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이를 예컨대 다음과 같이 도식화시켜 보자 .
+1	이를	이+를	PRON	_	5	obj	_	_	이/npd+를/jco
+2	예컨대	예컨대	ADV	_	5	advmod	_	_	예컨대/mag
+3	다음과	다음+과	CCONJ	_	4	conj	_	_	다음/ncn+과/jct
+4	같이	같+이	SCONJ	_	5	xcomp	_	_	같/paa+이/ecs
+5	도식화시켜	도식화+시키+어	VERB	_	0	root	_	_	도식화/ncpa+시키/xsv+어/ecx
+6	보자	보+자	AUX	_	5	aux	_	_	보/px+자/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 상상적 편입은 지배문화구조에 실제적으로 편입될 수 있는 물질적 조건은 갖추지 못했으면서 지배문화에 이데올로기적으로 순응하며 동조하는 집단에게서 나타난다 .
+1	상상적	상상+적	NOUN	_	2	amod	_	_	상상/ncpa+적/xsn
+2	편입은	편입+은	NOUN	_	17	dislocated	_	_	편입/ncpa+은/jxt
+3	지배문화구조에	지배+문화+구조+에	ADV	_	5	obl	_	_	지배/ncpa+문화/ncn+구조/ncpa+에/jca
+4	실제적으로	실제+적+으로	ADV	_	5	advcl	_	_	실제/ncn+적/xsn+으로/jca
+5	편입될	편입+되+ㄹ	VERB	_	9	acl	_	_	편입/ncpa+되/xsv+ㄹ/etm
+6	수	수	NOUN	_	7	fixed	_	_	수/nbn
+7	있는	있+는	ADJ	_	5	aux	_	_	있/paa+는/etm
+8	물질적	물질+적	NOUN	_	9	amod	_	_	물질/ncn+적/xsn
+9	조건은	조건+은	NOUN	_	10	dislocated	_	_	조건/ncn+은/jxt
+10	갖추지	갖추+지	VERB	_	15	conj	_	_	갖추/pvg+지/ecx
+11	못했으면서	못하+었+으면서	CCONJ	_	10	aux	_	_	못하/px+었/ep+으면서/ecc
+12	지배문화에	지배+문화+에	ADV	_	14	obl	_	_	지배/ncpa+문화/ncn+에/jca
+13	이데올로기적으로	이데올로기+적+으로	ADV	_	14	advcl	_	_	이데올로기/ncn+적/xsn+으로/jca
+14	순응하며	순응+하+며	CCONJ	_	15	conj	_	_	순응/ncpa+하/xsv+며/ecc
+15	동조하는	동조+하+는	VERB	_	16	acl	_	_	동조/ncpa+하/xsv+는/etm
+16	집단에게서	집단+에게서	ADV	_	17	advcl	_	_	집단/ncn+에게서/jca
+17	나타난다	나타나+ㄴ다	VERB	_	0	root	_	_	나타나/pvg+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이들 지배문화집단의 스타일을 모방함으로써 지배 문화로의 편입을 상징적인 수준에서 달성하고자 한다 .
+1	이들	이+들	NOUN	_	2	compound	_	_	이/npd+들/xsn
+2	지배문화집단의	지배+문화+집단+의	NOUN	_	3	nmod	_	_	지배/ncpa+문화/ncn+집단/ncn+의/jcm
+3	스타일을	스타일+을	NOUN	_	4	obj	_	_	스타일/ncn+을/jco
+4	모방함으로써	모방+하+ㅁ+으로써	ADV	_	10	advcl	_	_	모방/ncpa+하/xsv+ㅁ/etn+으로써/jca
+5	지배	지배	NOUN	_	6	compound	_	_	지배/ncpa
+6	문화로의	문화+로+의	NOUN	_	7	nmod	_	_	문화/ncn+로/jca+의/jcm
+7	편입을	편입+을	NOUN	_	10	obj	_	_	편입/ncpa+을/jco
+8	상징적인	상징+적+이+ㄴ	VERB	_	9	acl	_	_	상징/ncpa+적/xsn+이/jp+ㄴ/etm
+9	수준에서	수준+에서	ADV	_	10	advcl	_	_	수준/ncn+에서/jca
+10	달성하고자	달성+하+고자	VERB	_	0	root	_	_	달성/ncpa+하/xsv+고자/ecx
+11	한다	하+ㄴ다	AUX	_	10	aux	_	_	하/px+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러나 상상적 해결은 실저적으로 해결이 될 수 없다 .
+1	그러나	그러나	CCONJ	_	6	cc	_	_	그러나/maj
+2	상상적	상상+적	NOUN	_	3	amod	_	_	상상/ncpa+적/xsn
+3	해결은	해결+은	NOUN	_	6	dislocated	_	_	해결/ncpa+은/jxt
+4	실저적으로	실제+적+으로	ADV	_	6	advcl	_	_	실제/ncn+적/xsn+으로/jca
+5	해결이	해결+이	NOUN	_	6	csubj	_	_	해결/ncpa+이/jcc
+6	될	되+ㄹ	VERB	_	0	root	_	_	되/pvg+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	없다	없+다	ADJ	_	6	aux	_	_	없/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 즉 그것은 실패가 예견된 해결이다 .
+1	즉	즉	CCONJ	_	5	cc	_	_	즉/maj
+2	그것은	그것+은	PRON	_	5	dislocated	_	_	그것/npd+은/jxt
+3	실패가	실패+가	NOUN	_	4	nsubj	_	_	실패/ncpa+가/jcs
+4	예견된	예견+되+ㄴ	VERB	_	5	ccomp	_	_	예견/ncpa+되/xsv+ㄴ/etm
+5	해결이다	해결+이+다	VERB	_	0	root	_	_	해결/ncpa+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그 실패를 극복하는 길은 두 가지가 있다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	실패를	실패+를	NOUN	_	3	obj	_	_	실패/ncpa+를/jco
+3	극복하는	극복+하+는	VERB	_	4	acl	_	_	극복/ncpa+하/xsv+는/etm
+4	길은	길+은	NOUN	_	7	dislocated	_	_	길/ncn+은/jxt
+5	두	두	NUM	_	6	nummod	_	_	두/nnc
+6	가지가	가지+가	NOUN	_	7	nsubj	_	_	가지/nbu+가/jcs
+7	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 상징적 저항은 하위집단 특유의 방식으로 지배문화를 변형함으로써 지배문화와의 간극을 메우는 문화적 실천이다 .
+1	상징적	상징+적	NOUN	_	2	amod	_	_	상징/ncpa+적/xsn
+2	저항은	저항+은	NOUN	_	12	dislocated	_	_	저항/ncpa+은/jxt
+3	하위집단	하위+집단	NOUN	_	4	compound	_	_	하위/ncn+집단/ncn
+4	특유의	특유+의	NOUN	_	5	nmod	_	_	특유/ncpa+의/jcm
+5	방식으로	방식+으로	ADV	_	7	advcl	_	_	방식/ncn+으로/jca
+6	지배문화를	지배+문화+를	NOUN	_	7	obj	_	_	지배/ncpa+문화/ncn+를/jco
+7	변형함으로써	변형+하+ㅁ+으로써	ADV	_	10	advcl	_	_	변형/ncpa+하/xsv+ㅁ/etn+으로써/jca
+8	지배문화와의	지배+문화+와+의	NOUN	_	9	nmod	_	_	지배/ncpa+문화/ncn+와/jct+의/jcm
+9	간극을	간극+을	NOUN	_	10	obj	_	_	간극/ncn+을/jco
+10	메우는	메우+는	VERB	_	12	ccomp	_	_	메우/pvg+는/etm
+11	문화적	문화+적	NOUN	_	12	amod	_	_	문화/ncn+적/xsn
+12	실천이다	실천+이+다	VERB	_	0	root	_	_	실천/ncpa+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 중산층 출신의 10 대 청소년들이 팬클럽을 조직함으로써 또래집단만의 공동체를 구축하는 것이 대표적인 예가 될 수 있다 .
+1	중산층	중산층	NOUN	_	2	compound	_	_	중산층/ncn
+2	출신의	출신+의	NOUN	_	5	nmod	_	_	출신/ncn+의/jcm
+3	10	10	NUM	_	4	nummod	_	_	10/nnc
+4	대	대	NOUN	_	5	compound	_	_	대/nbu
+5	청소년들이	청소년+들+이	NOUN	_	10	nsubj	_	_	청소년/ncn+들/xsn+이/jcs
+6	팬클럽을	팬클럽+을	NOUN	_	7	obj	_	_	팬클럽/ncn+을/jco
+7	조직함으로써	조직+하+ㅁ+으로써	ADV	_	10	advcl	_	_	조직/ncpa+하/xsv+ㅁ/etn+으로써/jca
+8	또래집단만의	또래+집단+만+의	NOUN	_	9	nmod	_	_	또래/ncn+집단/ncn+만/jxc+의/jcm
+9	공동체를	공동체+를	NOUN	_	10	obj	_	_	공동체/ncn+를/jco
+10	구축하는	구축+하+는	VERB	_	11	acl	_	_	구축/ncpa+하/xsv+는/etm
+11	것이	것+이	NOUN	_	14	nsubj	_	_	것/nbn+이/jcs
+12	대표적인	대표+적+이+ㄴ	VERB	_	13	acl	_	_	대표/ncpa+적/xsn+이/jp+ㄴ/etm
+13	예가	예+가	NOUN	_	14	csubj	_	_	예/ncn+가/jcc
+14	될	되+ㄹ	VERB	_	0	root	_	_	되/pvg+ㄹ/etm
+15	수	수	NOUN	_	16	fixed	_	_	수/nbn
+16	있다	있+다	ADJ	_	14	aux	_	_	있/paa+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이른바 뉴키즈 사태에서 드러나듯 기성의 시각으로는 그들의 행동을 도저히 이해할 수 없는 이유가 여기에 있다 .
+1	이른바	이른바	ADV	_	3	advmod	_	_	이른바/mag
+2	뉴키즈	뉴키즈	NOUN	_	3	compound	_	_	뉴키즈/ncn
+3	사태에서	사태+에서	ADV	_	4	advcl	_	_	사태/ncn+에서/jca
+4	드러나듯	드러나+듯	SCONJ	_	10	ccomp	_	_	드러나/pvg+듯/ecs
+5	기성의	기성+의	NOUN	_	6	nmod	_	_	기성/ncn+의/jcm
+6	시각으로는	시각+으로+는	NOUN	_	10	dislocated	_	_	시각/ncn+으로/jca+는/jxt
+7	그들의	그+들+의	PRON	_	8	nmod	_	_	그/npp+들/xsn+의/jcm
+8	행동을	행동+을	NOUN	_	10	obj	_	_	행동/ncpa+을/jco
+9	도저히	도저히	ADV	_	10	advmod	_	_	도저히/mag
+10	이해할	이해+하+ㄹ	VERB	_	13	acl	_	_	이해/ncpa+하/xsv+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	없는	없+는	ADJ	_	10	aux	_	_	없/paa+는/etm
+13	이유가	이유+가	NOUN	_	15	nsubj	_	_	이유/ncn+가/jcs
+14	여기에	여기+에	ADV	_	15	obl	_	_	여기/npd+에/jca
+15	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그러나 그들의 저항은 지배문화의 표상인 스타를 중심으로 구축되었다는 데서 드러나듯 이미 뚜렷한 한계를 가진다 .
+1	그러나	그러나	CCONJ	_	14	cc	_	_	그러나/maj
+2	그들의	그+들+의	PRON	_	3	nmod	_	_	그/npp+들/xsn+의/jcm
+3	저항은	저항+은	NOUN	_	8	dislocated	_	_	저항/ncpa+은/jxt
+4	지배문화의	지배+문화+의	NOUN	_	5	nmod	_	_	지배/ncpa+문화/ncn+의/jcm
+5	표상인	표상+이+ㄴ	VERB	_	6	acl	_	_	표상/ncpa+이/jp+ㄴ/etm
+6	스타를	스타+를	NOUN	_	7	obj	_	_	스타/ncn+를/jco
+7	중심으로	중심+으로	ADV	_	8	advcl	_	_	중심/ncn+으로/jca
+8	구축되었다는	구축+되+었+다는	VERB	_	9	acl	_	_	구축/ncpa+되/xsv+었/ep+다는/etm
+9	데서	데+서	ADV	_	10	advcl	_	_	데/nbn+서/jca
+10	드러나듯	드러나+듯	SCONJ	_	14	ccomp	_	_	드러나/pvg+듯/ecs
+11	이미	이미	ADV	_	14	advmod	_	_	이미/mag
+12	뚜렷한	뚜렷하+ㄴ	ADJ	_	13	amod	_	_	뚜렷하/paa+ㄴ/etm
+13	한계를	한계+를	NOUN	_	14	obj	_	_	한계/ncn+를/jco
+14	가진다	가지+ㄴ다	VERB	_	0	root	_	_	가지/pvg+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그들은 부모세대의 지배적 가치를 거부하지만 현실적으로 그로부터 벗어날 힘은 가지지 못했으며 그로부터의 탈출은 단지 상징적인 수준에서만 가능한 것이다 .
+1	그들은	그+들+은	PRON	_	10	dislocated	_	_	그/npp+들/xsn+은/jxt
+2	부모세대의	부모+세대+의	NOUN	_	4	nmod	_	_	부모/ncn+세대/ncn+의/jcm
+3	지배적	지배+적	NOUN	_	4	amod	_	_	지배/ncpa+적/xsn
+4	가치를	가치+를	NOUN	_	5	obj	_	_	가치/ncn+를/jco
+5	거부하지만	거부+하+지만	SCONJ	_	10	ccomp	_	_	거부/ncpa+하/xsv+지만/ecs
+6	현실적으로	현실+적+으로	ADV	_	10	advcl	_	_	현실/ncn+적/xsn+으로/jca
+7	그로부터	그+로+부터	ADV	_	8	advcl	_	_	그/npd+로/jca+부터/jxc
+8	벗어날	벗어나+ㄹ	VERB	_	9	acl	_	_	벗어나/pvg+ㄹ/etm
+9	힘은	힘+은	NOUN	_	10	dislocated	_	_	힘/ncn+은/jxt
+10	가지지	가지+지	VERB	_	17	conj	_	_	가지/pvg+지/ecx
+11	못했으며	못하+었+으며	CCONJ	_	10	aux	_	_	못하/px+었/ep+으며/ecc
+12	그로부터의	그+로+부터+의	PRON	_	13	nmod	_	_	그/npd+로/jca+부터/jxc+의/jcm
+13	탈출은	탈출+은	NOUN	_	17	dislocated	_	_	탈출/ncpa+은/jxt
+14	단지	단지	ADV	_	17	advmod	_	_	단지/mag
+15	상징적인	상징+적+이+ㄴ	VERB	_	16	acl	_	_	상징/ncpa+적/xsn+이/jp+ㄴ/etm
+16	수준에서만	수준+에서+만	ADV	_	17	advcl	_	_	수준/ncn+에서/jca+만/jxc
+17	가능한	가능+하+ㄴ	VERB	_	0	root	_	_	가능/ncps+하/xsm+ㄴ/etm
+18	것이다	것+이+다	VERB	_	17	aux	_	_	것/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 독특한 아이덴티티를 가진 하위집단에서 유통되는 구전가요들도 상징적 저항의 범주에 넣을 수 있다 .
+1	독특한	독특하+ㄴ	ADJ	_	2	amod	_	_	독특하/paa+ㄴ/etm
+2	아이덴티티를	아이덴티티+를	NOUN	_	3	obj	_	_	아이덴티티/ncn+를/jco
+3	가진	가지+ㄴ	VERB	_	4	acl	_	_	가지/pvg+ㄴ/etm
+4	하위집단에서	하위+집단+에서	ADV	_	5	advcl	_	_	하위/ncn+집단/ncn+에서/jca
+5	유통되는	유통+되+는	VERB	_	6	acl	_	_	유통/ncpa+되/xsv+는/etm
+6	구전가요들도	구전가요+들+도	ADV	_	10	advcl	_	_	구전가요/ncn+들/xsn+도/jxc
+7	상징적	상징+적	NOUN	_	8	amod	_	_	상징/ncpa+적/xsn
+8	저항의	저항+의	NOUN	_	9	nmod	_	_	저항/ncpa+의/jcm
+9	범주에	범주+에	ADV	_	10	obl	_	_	범주/ncn+에/jca
+10	넣을	넣+ㄹ	VERB	_	0	root	_	_	넣/pvg+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있다	있+다	ADJ	_	10	aux	_	_	있/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 구전가욘느 대부분 기존의 선율을 차용하여 자기집단의 욕구를 반영하는 노랬말을 붙이는 방식으로 이루엉진다 .
+1	구전가욘느	구전가요+는	NOUN	_	12	dislocated	_	_	구전가요/ncn+는/jxt
+2	대부분	대부분	NUM	_	12	nummod	_	_	대부분/nnc
+3	기존의	기존+의	NOUN	_	4	nmod	_	_	기존/ncn+의/jcm
+4	선율을	선율+을	NOUN	_	5	obj	_	_	선율/ncn+을/jco
+5	차용하여	차용+하+어	SCONJ	_	10	ccomp	_	_	차용/ncpa+하/xsv+어/ecs
+6	자기집단의	자기집단+의	NOUN	_	7	nmod	_	_	자기집단/ncn+의/jcm
+7	욕구를	욕구+를	NOUN	_	8	obj	_	_	욕구/ncpa+를/jco
+8	반영하는	반영+하+는	VERB	_	9	acl	_	_	반영/ncpa+하/xsv+는/etm
+9	노랬말을	노랫말+을	NOUN	_	10	obj	_	_	노랫말/ncn+을/jco
+10	붙이는	붙이+는	VERB	_	11	acl	_	_	붙이/pvg+는/etm
+11	방식으로	방식+으로	ADV	_	12	advcl	_	_	방식/ncn+으로/jca
+12	이루엉진다	이루어지+ㄴ다	VERB	_	0	root	_	_	이루어지/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 일탈은 지배문화적 질서를 실제적으로 거부하고 그로부터 벗어나는 , 그러나 아직 대안을 갖지는 못한 단계라 할 수 있다 .
+1	일탈은	일탈+은	NOUN	_	14	dislocated	_	_	일탈/ncpa+은/jxt
+2	지배문화적	지배+문화+적	NOUN	_	3	amod	_	_	지배/ncpa+문화/ncn+적/xsn
+3	질서를	질서+를	NOUN	_	5	obj	_	_	질서/ncn+를/jco
+4	실제적으로	실제+적+으로	ADV	_	5	advcl	_	_	실제/ncn+적/xsn+으로/jca
+5	거부하고	거부+하+고	CCONJ	_	7	conj	_	_	거부/ncpa+하/xsv+고/ecc
+6	그로부터	그+로+부터	ADV	_	7	advcl	_	_	그/npd+로/jca+부터/jxc
+7	벗어나는	벗어나+는	VERB	_	12	dep	_	_	벗어나/pvg+는/etm
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	그러나	그러나	CCONJ	_	12	cc	_	_	그러나/maj
+10	아직	아직	ADV	_	12	advmod	_	_	아직/mag
+11	대안을	대안+을	NOUN	_	12	obj	_	_	대안/ncn+을/jco
+12	갖지는	갖+지+는	NOUN	_	14	ccomp	_	_	갖/pvg+지/ecx+는/jxt
+13	못한	못하+ㄴ	AUX	_	12	aux	_	_	못하/px+ㄴ/etm
+14	단계라	단계+이+라	VERB	_	15	ccomp	_	_	단계/ncn+이/jp+라/ef
+15	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+16	수	수	NOUN	_	17	fixed	_	_	수/nbn
+17	있다	있+다	ADJ	_	15	aux	_	_	있/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 지배질서로부터의 일탈은 정당한 출구를 찾지 못할 경우 자칫 기존질서를 파괴하는 공격성이나 자학적인 도피로 귀결될 수 있다 .
+1	지배질서로부터의	지배+질서+로+부터+의	NOUN	_	2	nmod	_	_	지배/ncpa+질서/ncn+로/jca+부터/jxc+의/jcm
+2	일탈은	일탈+은	NOUN	_	14	dislocated	_	_	일탈/ncpa+은/jxt
+3	정당한	정당하+ㄴ	ADJ	_	4	amod	_	_	정당하/paa+ㄴ/etm
+4	출구를	출구+를	NOUN	_	5	obj	_	_	출구/ncn+를/jco
+5	찾지	찾+지	VERB	_	7	acl	_	_	찾/pvg+지/ecx
+6	못할	못하+ㄹ	AUX	_	5	aux	_	_	못하/px+ㄹ/etm
+7	경우	경우	NOUN	_	14	advmod	_	_	경우/ncn
+8	자칫	자칫	ADV	_	14	advmod	_	_	자칫/mag
+9	기존질서를	기존+질서+를	NOUN	_	10	obj	_	_	기존/ncn+질서/ncn+를/jco
+10	파괴하는	파괴+하+는	VERB	_	11	acl	_	_	파괴/ncpa+하/xsv+는/etm
+11	공격성이나	공격성+이나	CCONJ	_	13	conj	_	_	공격성/ncn+이나/jcj
+12	자학적인	자학+적+이+ㄴ	VERB	_	13	acl	_	_	자학/ncpa+적/xsn+이/jp+ㄴ/etm
+13	도피로	도피+로	ADV	_	14	advcl	_	_	도피/ncpa+로/jca
+14	귀결될	귀결+되+ㄹ	VERB	_	0	root	_	_	귀결/ncpa+되/xsv+ㄹ/etm
+15	수	수	NOUN	_	16	fixed	_	_	수/nbn
+16	있다	있+다	ADJ	_	14	aux	_	_	있/paa+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 지배문화적 질서를 거부하고 이에 저항하고자 하는 욕구는 일정한 대안을 추구하고 여기서 정당한 출구를 찾게 된다 .
+1	지배문화적	지배+문화+적	NOUN	_	2	amod	_	_	지배/ncpa+문화/ncn+적/xsn
+2	질서를	질서+를	NOUN	_	3	obj	_	_	질서/ncn+를/jco
+3	거부하고	거부+하+고	CCONJ	_	5	conj	_	_	거부/ncpa+하/xsv+고/ecc
+4	이에	이+에	ADV	_	5	obl	_	_	이/npd+에/jca
+5	저항하고자	저항+하+고자	SCONJ	_	6	ccomp	_	_	저항/ncpa+하/xsv+고자/ecs
+6	하는	하+는	VERB	_	7	acl	_	_	하/pvg+는/etm
+7	욕구는	욕구+는	NOUN	_	14	dislocated	_	_	욕구/ncpa+는/jxt
+8	일정한	일정하+ㄴ	ADJ	_	9	amod	_	_	일정하/paa+ㄴ/etm
+9	대안을	대안+을	NOUN	_	10	obj	_	_	대안/ncn+을/jco
+10	추구하고	추구+하+고	CCONJ	_	14	conj	_	_	추구/ncpa+하/xsv+고/ecc
+11	여기서	여기+서	ADV	_	14	advcl	_	_	여기/npd+서/jca
+12	정당한	정당하+ㄴ	ADJ	_	13	amod	_	_	정당하/paa+ㄴ/etm
+13	출구를	출구+를	NOUN	_	14	obj	_	_	출구/ncn+를/jco
+14	찾게	찾+게	VERB	_	0	root	_	_	찾/pvg+게/ecx
+15	된다	되+ㄴ다	AUX	_	14	aux	_	_	되/px+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이러한 대안과 출구는 의식화된 집단의 조직화된 노력을 통해 마련된다 .
+1	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+2	대안과	대안+과	CCONJ	_	3	conj	_	_	대안/ncn+과/jcj
+3	출구는	출구+는	NOUN	_	9	dislocated	_	_	출구/ncn+는/jxt
+4	의식화된	의식화+되+ㄴ	VERB	_	5	acl	_	_	의식화/ncpa+되/xsv+ㄴ/etm
+5	집단의	집단+의	NOUN	_	7	nmod	_	_	집단/ncn+의/jcm
+6	조직화된	조직화+되+ㄴ	VERB	_	7	acl	_	_	조직화/ncpa+되/xsv+ㄴ/etm
+7	노력을	노력+을	NOUN	_	8	obj	_	_	노력/ncpa+을/jco
+8	통해	통하+어	SCONJ	_	9	ccomp	_	_	통하/pvg+어/ecs
+9	마련된다	마련+되+ㄴ다	VERB	_	0	root	_	_	마련/ncpa+되/xsv+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 노조 노래패의 활동 , 민중가요를 적극적으로 수용하는 의식화된 대중의 문화수용 등은 지배적 질서에 대한 대안적 가치를 실천하는 문화행위라 할 수 있다 .
+1	노조	노조	NOUN	_	2	compound	_	_	노조/ncn
+2	노래패의	노래패+의	NOUN	_	3	nmod	_	_	노래패/ncn+의/jcm
+3	활동	활동	NOUN	_	10	compound	_	_	활동/ncpa
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	민중가요를	민중+가요+를	NOUN	_	7	obj	_	_	민중/ncn+가요/ncn+를/jco
+6	적극적으로	적극+적+으로	ADV	_	7	advcl	_	_	적극/ncn+적/xsn+으로/jca
+7	수용하는	수용+하+는	VERB	_	10	acl	_	_	수용/ncpa+하/xsv+는/etm
+8	의식화된	의식화+되+ㄴ	VERB	_	9	acl	_	_	의식화/ncpa+되/xsv+ㄴ/etm
+9	대중의	대중+의	NOUN	_	10	nmod	_	_	대중/ncn+의/jcm
+10	문화수용	문화+수용	NOUN	_	11	compound	_	_	문화/ncn+수용/ncpa
+11	등은	등+은	NOUN	_	18	dislocated	_	_	등/nbn+은/jxt
+12	지배적	지배+적	NOUN	_	13	amod	_	_	지배/ncpa+적/xsn
+13	질서에	질서+에	ADV	_	14	obl	_	_	질서/ncn+에/jca
+14	대한	대하+ㄴ	VERB	_	16	acl	_	_	대하/pvg+ㄴ/etm
+15	대안적	대안+적	NOUN	_	16	amod	_	_	대안/ncn+적/xsn
+16	가치를	가치+를	NOUN	_	17	obj	_	_	가치/ncn+를/jco
+17	실천하는	실천+하+는	VERB	_	18	ccomp	_	_	실천/ncpa+하/xsv+는/etm
+18	문화행위라	문화+행위+이+라	VERB	_	19	ccomp	_	_	문화/ncn+행위/ncpa+이/jp+라/ef
+19	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+20	수	수	NOUN	_	21	fixed	_	_	수/nbn
+21	있다	있+다	ADJ	_	19	aux	_	_	있/paa+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 이상은 물론 가설적인 것이다 .
+1	이상은	이상+은	NOUN	_	4	dislocated	_	_	이상/ncn+은/jxt
+2	물론	물론	ADV	_	4	advmod	_	_	물론/mag
+3	가설적인	가설+적+이+ㄴ	VERB	_	4	ccomp	_	_	가설/ncn+적/xsn+이/jp+ㄴ/etm
+4	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 대중의 문화수용행위와 의미생산과정에 대한 치밀하고 구체적인 연구에 의해 뒷받침되어야 할 것이다 .
+1	대중의	대중+의	NOUN	_	3	nmod	_	_	대중/ncn+의/jcm
+2	문화수용행위와	문화+수용+행위+와	CCONJ	_	3	conj	_	_	문화/ncn+수용/ncpa+행위/ncpa+와/jcj
+3	의미생산과정에	의미생산과정+에	ADV	_	4	obl	_	_	의미생산과정/ncn+에/jca
+4	대한	대하+ㄴ	VERB	_	7	acl	_	_	대하/pvg+ㄴ/etm
+5	치밀하고	치밀하+고	CCONJ	_	6	conj	_	_	치밀하/paa+고/ecc
+6	구체적인	구체+적+이+ㄴ	VERB	_	7	acl	_	_	구체/ncn+적/xsn+이/jp+ㄴ/etm
+7	연구에	연구+에	ADV	_	8	obl	_	_	연구/ncpa+에/jca
+8	의해	의하+어	SCONJ	_	10	ccomp	_	_	의하/pvg+어/ecs
+9	뒷받침되어야	뒷받침+되+어야	SCONJ	_	10	ccomp	_	_	뒷받침/ncpa+되/xsv+어야/ecs
+10	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+11	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 상상적 편입이나 상징적 저항의 단계가 지배문화가 유지되는 상태임은 틀림이 없다 .
+1	상상적	상상+적	NOUN	_	2	amod	_	_	상상/ncpa+적/xsn
+2	편입이나	편입+이나	CCONJ	_	4	conj	_	_	편입/ncpa+이나/jcj
+3	상징적	상징+적	NOUN	_	4	amod	_	_	상징/ncpa+적/xsn
+4	저항의	저항+의	NOUN	_	5	nmod	_	_	저항/ncpa+의/jcm
+5	단계가	단계+가	NOUN	_	8	nsubj	_	_	단계/ncn+가/jcs
+6	지배문화가	지배+문화+가	NOUN	_	7	nsubj	_	_	지배/ncpa+문화/ncn+가/jcs
+7	유지되는	유지+되+는	VERB	_	8	ccomp	_	_	유지/ncpa+되/xsv+는/etm
+8	상태임은	상태+이+ㅁ+은	NOUN	_	10	dislocated	_	_	상태/ncn+이/jp+ㅁ/etn+은/jxt
+9	틀림이	틀림+이	NOUN	_	10	nsubj	_	_	틀림/ncn+이/jcs
+10	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그것은 이를테면 하위집단의 저항적 에너지를 부분적으로 수용하면서 지배문화의 헤게모니를 유지하는 상태라 할 수 있다 .
+1	그것은	그것+은	PRON	_	12	dislocated	_	_	그것/npd+은/jxt
+2	이를테면	이를테면	ADV	_	12	advmod	_	_	이를테면/mag
+3	하위집단의	하위+집단+의	NOUN	_	5	nmod	_	_	하위/ncn+집단/ncn+의/jcm
+4	저항적	저항+적	NOUN	_	5	amod	_	_	저항/ncpa+적/xsn
+5	에너지를	에너지+를	NOUN	_	7	obj	_	_	에너지/ncn+를/jco
+6	부분적으로	부분+적+으로	ADV	_	7	advcl	_	_	부분/ncn+적/xsn+으로/jca
+7	수용하면서	수용+하+면서	CCONJ	_	10	conj	_	_	수용/ncpa+하/xsv+면서/ecc
+8	지배문화의	지배+문화+의	NOUN	_	9	nmod	_	_	지배/ncpa+문화/ncn+의/jcm
+9	헤게모니를	헤게모니+를	NOUN	_	10	obj	_	_	헤게모니/ncn+를/jco
+10	유지하는	유지+하+는	VERB	_	11	acl	_	_	유지/ncpa+하/xsv+는/etm
+11	상태라	상태+라	VERB	_	12	conj	_	_	상태/ncn+라/jcr
+12	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+13	수	수	NOUN	_	14	fixed	_	_	수/nbn
+14	있다	있+다	ADJ	_	12	aux	_	_	있/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그 저항적 에너지는 하위집단의 물질적 조건과 지배문화의 가치 사이에 현실적으로 존재하는 간극으로부터 나온다 .
+1	그	그	DET	_	3	det	_	_	그/mmd
+2	저항적	저항+적	NOUN	_	3	amod	_	_	저항/ncpa+적/xsn
+3	에너지는	에너지+는	NOUN	_	13	dislocated	_	_	에너지/ncn+는/jxt
+4	하위집단의	하위+집단+의	NOUN	_	6	nmod	_	_	하위/ncn+집단/ncn+의/jcm
+5	물질적	물질+적	NOUN	_	6	amod	_	_	물질/ncn+적/xsn
+6	조건과	조건+과	CCONJ	_	8	conj	_	_	조건/ncn+과/jcj
+7	지배문화의	지배+문화+의	NOUN	_	8	nmod	_	_	지배/ncpa+문화/ncn+의/jcm
+8	가치	가치	NOUN	_	9	compound	_	_	가치/ncn
+9	사이에	사이+에	ADV	_	11	obl	_	_	사이/ncn+에/jca
+10	현실적으로	현실+적+으로	ADV	_	11	advcl	_	_	현실/ncn+적/xsn+으로/jca
+11	존재하는	존재+하+는	VERB	_	12	acl	_	_	존재/ncpa+하/xsv+는/etm
+12	간극으로부터	간극+으로+부터	ADV	_	13	advcl	_	_	간극/ncn+으로/jca+부터/jxc
+13	나온다	나오+ㄴ다	VERB	_	0	root	_	_	나오/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 대중은 대중문화의 수용을 통해 그 간극을 상상적 혹은 상징적 형태로 해소하고자 한다 .
+1	대중은	대중+은	NOUN	_	12	dislocated	_	_	대중/ncn+은/jxt
+2	대중문화의	대중+문화+의	NOUN	_	3	nmod	_	_	대중/ncn+문화/ncn+의/jcm
+3	수용을	수용+을	NOUN	_	4	obj	_	_	수용/ncpa+을/jco
+4	통해	통하+어	SCONJ	_	12	ccomp	_	_	통하/pvg+어/ecs
+5	그	그	DET	_	6	det	_	_	그/mmd
+6	간극을	간극+을	NOUN	_	11	obj	_	_	간극/ncn+을/jco
+7	상상적	상상+적	NOUN	_	9	conj	_	_	상상/ncpa+적/xsn
+8	혹은	혹은	CCONJ	_	9	cc	_	_	혹은/maj
+9	상징적	상징+적	NOUN	_	10	amod	_	_	상징/ncpa+적/xsn
+10	형태로	형태+로	ADV	_	11	advcl	_	_	형태/ncn+로/jca
+11	해소하고자	해소+하+고자	SCONJ	_	12	ccomp	_	_	해소/ncpa+하/xsv+고자/ecs
+12	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이러한 개념은 앞서 말한 대중의 문화실천의 폭넓은 층위 가운데 대안추구의 층위만을 문화운동의 영역으로 상정하는 태도를 낳는다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	개념은	개념+은	NOUN	_	16	dislocated	_	_	개념/ncn+은/jxt
+3	앞서	앞서	ADV	_	4	advmod	_	_	앞서/mag
+4	말한	말하+ㄴ	VERB	_	6	acl	_	_	말하/pvg+ㄴ/etm
+5	대중의	대중+의	NOUN	_	6	nmod	_	_	대중/ncn+의/jcm
+6	문화실천의	문화+실천+의	NOUN	_	8	nmod	_	_	문화/ncn+실천/ncpa+의/jcm
+7	폭넓은	폭넓+ㄴ	ADJ	_	8	amod	_	_	폭넓/paa+ㄴ/etm
+8	층위	층위	NOUN	_	9	compound	_	_	층위/ncn
+9	가운데	가운데	NOUN	_	14	advmod	_	_	가운데/ncn
+10	대안추구의	대안+추구+의	NOUN	_	11	nmod	_	_	대안/ncn+추구/ncpa+의/jcm
+11	층위만을	층위+만+을	NOUN	_	14	obj	_	_	층위/ncn+만/jxc+을/jco
+12	문화운동의	문화운동+의	NOUN	_	13	nmod	_	_	문화운동/ncpa+의/jcm
+13	영역으로	영역+으로	ADV	_	14	advcl	_	_	영역/ncn+으로/jca
+14	상정하는	상정+하+는	VERB	_	15	acl	_	_	상정/ncpa+하/xsv+는/etm
+15	태도를	태도+를	NOUN	_	16	obj	_	_	태도/ncn+를/jco
+16	낳는다	낳+는다	VERB	_	0	root	_	_	낳/pvg+는다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이러한 구분법은 이미 현실적으로 상당 부분 무너지고 있다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	구분법은	구분법+은	NOUN	_	7	dislocated	_	_	구분법/ncn+은/jxt
+3	이미	이미	ADV	_	7	advmod	_	_	이미/mag
+4	현실적으로	현실+적+으로	ADV	_	7	advcl	_	_	현실/ncn+적/xsn+으로/jca
+5	상당	상당	NOUN	_	6	compound	_	_	상당/ncps
+6	부분	부분	NOUN	_	7	dep	_	_	부분/ncn
+7	무너지고	무너지+고	VERB	_	0	root	_	_	무너지/pvg+고/ecx
+8	있다	있+다	AUX	_	7	aux	_	_	있/px+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이러한 문화를 바르게 개념화하기 위해서는 대중문화의 개념을 지금까지와는 다른 방식으로 이해하지 않으면 안 된다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	문화를	문화+를	NOUN	_	4	obj	_	_	문화/ncn+를/jco
+3	바르게	바르+게	SCONJ	_	4	xcomp	_	_	바르/paa+게/ecs
+4	개념화하기	개념화+하+기	VERB	_	5	nmod	_	_	개념화/ncpa+하/xsv+기/etn
+5	위해서는	위하+어서+는	NOUN	_	14	ccomp	_	_	위하/pvg+어서/ecs+는/jxt
+6	대중문화의	대중+문화+의	NOUN	_	7	nmod	_	_	대중/ncn+문화/ncn+의/jcm
+7	개념을	개념+을	NOUN	_	11	obj	_	_	개념/ncn+을/jco
+8	지금까지와는	지금+까지+와+는	NOUN	_	9	dislocated	_	_	지금/ncn+까지/jxc+와/jct+는/jxt
+9	다른	다르+ㄴ	ADJ	_	10	amod	_	_	다르/paa+ㄴ/etm
+10	방식으로	방식+으로	ADV	_	11	advcl	_	_	방식/ncn+으로/jca
+11	이해하지	이해+하+지	VERB	_	14	ccomp	_	_	이해/ncpa+하/xsv+지/ecx
+12	않으면	않+으면	SCONJ	_	11	aux	_	_	않/px+으면/ecs
+13	안	안	ADV	_	14	advmod	_	_	안/mag
+14	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그러한 개념으로는 앞서 가설적으로 검토해 본 대중의 다양한 문화적 실천의 의미를 적극적으로 수용할 수 없다 .
+1	그러한	그러하+ㄴ	VERB	_	2	amod	_	_	그러하/pad+ㄴ/etm
+2	개념으로는	개념+으로+는	NOUN	_	13	dislocated	_	_	개념/ncn+으로/jca+는/jxt
+3	앞서	앞서	ADV	_	5	advmod	_	_	앞서/mag
+4	가설적으로	가설+적+으로	ADV	_	5	advcl	_	_	가설/ncn+적/xsn+으로/jca
+5	검토해	검토+하+어	VERB	_	11	acl	_	_	검토/ncpa+하/xsv+어/ecx
+6	본	보+ㄴ	AUX	_	5	aux	_	_	보/px+ㄴ/etm
+7	대중의	대중+의	NOUN	_	10	nmod	_	_	대중/ncn+의/jcm
+8	다양한	다양하+ㄴ	ADJ	_	10	amod	_	_	다양하/paa+ㄴ/etm
+9	문화적	문화+적	NOUN	_	10	amod	_	_	문화/ncn+적/xsn
+10	실천의	실천+의	NOUN	_	11	nmod	_	_	실천/ncpa+의/jcm
+11	의미를	의미+를	NOUN	_	13	obj	_	_	의미/ncpa+를/jco
+12	적극적으로	적극+적+으로	ADV	_	13	advcl	_	_	적극/ncn+적/xsn+으로/jca
+13	수용할	수용+하+ㄹ	VERB	_	0	root	_	_	수용/ncpa+하/xsv+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	없다	없+다	ADJ	_	13	aux	_	_	없/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그래서 우리는 이제 대중문화를 파퓰러 컬츄럴의 개념으로 이해할 필요가 있다 .
+1	그래서	그래서	CCONJ	_	10	cc	_	_	그래서/maj
+2	우리는	우리+는	PRON	_	8	dislocated	_	_	우리/npp+는/jxt
+3	이제	이제	ADV	_	8	advmod	_	_	이제/mag
+4	대중문화를	대중+문화+를	NOUN	_	8	obj	_	_	대중/ncn+문화/ncn+를/jco
+5	파퓰러	파퓰러	NOUN	_	6	compound	_	_	파퓰러/ncn
+6	컬츄럴의	컬츄럴+의	NOUN	_	7	nmod	_	_	컬츄럴/ncn+의/jcm
+7	개념으로	개념+으로	ADV	_	8	advcl	_	_	개념/ncn+으로/jca
+8	이해할	이해+하+ㄹ	VERB	_	9	acl	_	_	이해/ncpa+하/xsv+ㄹ/etm
+9	필요가	필요+가	NOUN	_	10	nsubj	_	_	필요/ncpa+가/jcs
+10	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 여기서 노래운동은 대중의 일상적인 실천 과정에 존재하는 지배적인 층위를 약화시키고 대항적 층위를 강화하는 일로 규정될 수 있다 .
+1	여기서	여기+서	ADV	_	15	advcl	_	_	여기/npd+서/jca
+2	노래운동은	노래+운동+은	NOUN	_	15	dislocated	_	_	노래/ncpa+운동/ncpa+은/jxt
+3	대중의	대중+의	NOUN	_	6	nmod	_	_	대중/ncn+의/jcm
+4	일상적인	일상+적+이+ㄴ	VERB	_	5	acl	_	_	일상/ncn+적/xsn+이/jp+ㄴ/etm
+5	실천	실천	NOUN	_	6	compound	_	_	실천/ncpa
+6	과정에	과정+에	ADV	_	7	obl	_	_	과정/ncn+에/jca
+7	존재하는	존재+하+는	VERB	_	9	acl	_	_	존재/ncpa+하/xsv+는/etm
+8	지배적인	지배+적+이+ㄴ	VERB	_	9	acl	_	_	지배/ncpa+적/xsn+이/jp+ㄴ/etm
+9	층위를	층위+를	NOUN	_	10	obj	_	_	층위/ncn+를/jco
+10	약화시키고	약화+시키+고	CCONJ	_	13	conj	_	_	약화/ncpa+시키/xsv+고/ecc
+11	대항적	대항+적	NOUN	_	12	amod	_	_	대항/ncpa+적/xsn
+12	층위를	층위+를	NOUN	_	13	obj	_	_	층위/ncn+를/jco
+13	강화하는	강화+하+는	VERB	_	14	acl	_	_	강화/ncpa+하/xsv+는/etm
+14	일로	일+로	ADV	_	15	advcl	_	_	일/ncpa+로/jca
+15	규정될	규정+되+ㄹ	VERB	_	0	root	_	_	규정/ncpa+되/xsv+ㄹ/etm
+16	수	수	NOUN	_	17	fixed	_	_	수/nbn
+17	있다	있+다	ADJ	_	15	aux	_	_	있/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그동안 우리의 관심사는 이미 대안을 추구하는 대중집단에게 대안이 될 만한 노래를 제공해 주는 일에 집중되어 있었다고 할 수 있다 .
+1	그동안	그동안	NOUN	_	15	advmod	_	_	그동안/ncn
+2	우리의	우리+의	PRON	_	3	nmod	_	_	우리/npp+의/jcm
+3	관심사는	관심사+는	NOUN	_	15	dislocated	_	_	관심사/ncn+는/jxt
+4	이미	이미	ADV	_	6	advmod	_	_	이미/mag
+5	대안을	대안+을	NOUN	_	6	obj	_	_	대안/ncn+을/jco
+6	추구하는	추구+하+는	VERB	_	7	acl	_	_	추구/ncpa+하/xsv+는/etm
+7	대중집단에게	대중+집단+에게	ADV	_	9	iobj	_	_	대중/ncn+집단/ncn+에게/jca
+8	대안이	대안+이	NOUN	_	9	csubj	_	_	대안/ncn+이/jcc
+9	될	되+ㄹ	VERB	_	11	acl	_	_	되/pvg+ㄹ/etm
+10	만한	만하+ㄴ	AUX	_	9	aux	_	_	만하/px+ㄴ/etm
+11	노래를	노래+를	NOUN	_	12	obj	_	_	노래/ncpa+를/jco
+12	제공해	제공+하+어	VERB	_	14	acl	_	_	제공/ncpa+하/xsv+어/ecx
+13	주는	주+는	AUX	_	12	aux	_	_	주/px+는/etm
+14	일에	일+에	ADV	_	15	obl	_	_	일/ncpa+에/jca
+15	집중되어	집중+되+어	VERB	_	17	conj	_	_	집중/ncpa+되/xsv+어/ecx
+16	있었다고	있+었+다+고	VERB	_	15	aux	_	_	있/px+었/ep+다/ef+고/jcr
+17	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+18	수	수	NOUN	_	19	fixed	_	_	수/nbn
+19	있다	있+다	ADJ	_	17	aux	_	_	있/paa+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 그리고 그런 일은 하위집단의 다양한 하위문화의 양태를 고려하여 적정한 형식으로 이루어져야 한다 .
+1	그리고	그리고	CCONJ	_	11	cc	_	_	그리고/maj
+2	그런	그런	DET	_	3	det	_	_	그런/mmd
+3	일은	일+은	NOUN	_	11	dislocated	_	_	일/ncpa+은/jxt
+4	하위집단의	하위+집단+의	NOUN	_	7	nmod	_	_	하위/ncn+집단/ncn+의/jcm
+5	다양한	다양하+ㄴ	ADJ	_	6	amod	_	_	다양하/paa+ㄴ/etm
+6	하위문화의	하위+문화+의	NOUN	_	7	nmod	_	_	하위/ncn+문화/ncn+의/jcm
+7	양태를	양태+를	NOUN	_	8	obj	_	_	양태/ncn+를/jco
+8	고려하여	고려+하+어	SCONJ	_	11	ccomp	_	_	고려/ncpa+하/xsv+어/ecs
+9	적정한	적정+하+ㄴ	VERB	_	10	amod	_	_	적정/ncps+하/xsm+ㄴ/etm
+10	형식으로	형식+으로	ADV	_	11	advcl	_	_	형식/ncn+으로/jca
+11	이루어져야	이루+어+지+어야	AUX	_	0	root	_	_	이루/pvg+어/ecx+지/px+어야/ecx
+12	한다	하+ㄴ다	AUX	_	11	aux	_	_	하/px+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이제 리얼리즘의 문제를 생각해 보자 .
+1	이제	이제	ADV	_	4	advmod	_	_	이제/mag
+2	리얼리즘의	리얼리즘+의	NOUN	_	3	nmod	_	_	리얼리즘/ncn+의/jcm
+3	문제를	문제+를	NOUN	_	4	obj	_	_	문제/ncn+를/jco
+4	생각해	생각+하+어	VERB	_	0	root	_	_	생각/ncpa+하/xsv+어/ecx
+5	보자	보+자	AUX	_	4	aux	_	_	보/px+자/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 물론 여기서의 리얼리즘은 , 최근 문학이론에서 리얼리즘을 사실주의와 현실주의로 구분할 때 사실주의가 의미하는 바와 유사한 개념으로 볼 수도 있다 .
+1	물론	물론	ADV	_	17	advmod	_	_	물론/mag
+2	여기서의	여기+서+의	PRON	_	3	nmod	_	_	여기/npd+서/jca+의/jcm
+3	리얼리즘은	리얼리즘+은	NOUN	_	17	advmod	_	_	리얼리즘/ncn+은/jxt
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	최근	최근	NOUN	_	6	compound	_	_	최근/ncn
+6	문학이론에서	문학이론+에서	ADV	_	10	advcl	_	_	문학이론/ncn+에서/jca
+7	리얼리즘을	리얼리즘+을	NOUN	_	10	obj	_	_	리얼리즘/ncn+을/jco
+8	사실주의와	사실주의+와	CCONJ	_	9	conj	_	_	사실주의/ncn+와/jcj
+9	현실주의로	현실주의+로	ADV	_	10	advcl	_	_	현실주의/ncn+로/jca
+10	구분할	구분+하+ㄹ	VERB	_	11	acl	_	_	구분/ncpa+하/xsv+ㄹ/etm
+11	때	때	NOUN	_	13	advmod	_	_	때/nbn
+12	사실주의가	사실주의+가	NOUN	_	13	nsubj	_	_	사실주의/ncn+가/jcs
+13	의미하는	의미+하+는	VERB	_	14	acl	_	_	의미/ncpa+하/xsv+는/etm
+14	바와	바+와	CCONJ	_	15	conj	_	_	바/nbn+와/jct
+15	유사한	유사+하+ㄴ	VERB	_	16	acl	_	_	유사/ncpa+하/xsv+ㄴ/etm
+16	개념으로	개념+으로	ADV	_	17	advcl	_	_	개념/ncn+으로/jca
+17	볼	보+ㄹ	VERB	_	0	root	_	_	보/pvg+ㄹ/etm
+18	수도	수+도	ADV	_	19	fixed	_	_	수/nbn+도/jxc
+19	있다	있+다	ADJ	_	17	aux	_	_	있/paa+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 노래의 경우 이러한 특성은 더욱 두드러진다 .
+1	노래의	노래+의	NOUN	_	2	nmod	_	_	노래/ncpa+의/jcm
+2	경우	경우	NOUN	_	6	dep	_	_	경우/ncn
+3	이러한	이러하+ㄴ	VERB	_	4	amod	_	_	이러하/pad+ㄴ/etm
+4	특성은	특성+은	NOUN	_	6	dislocated	_	_	특성/ncn+은/jxt
+5	더욱	더욱	ADV	_	6	advmod	_	_	더욱/mag
+6	두드러진다	두드러지+ㄴ다	ADJ	_	0	root	_	_	두드러지/paa+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 앞에서 말했듯이 노래의 의미는 텍스트 자체에서가 아니라 텍스트와 수용자의 관게에서 생산되는 것이다 .
+1	앞에서	앞+에서	ADV	_	2	advcl	_	_	앞/ncn+에서/jca
+2	말했듯이	말하+었+듯이	SCONJ	_	11	ccomp	_	_	말하/pvg+었/ep+듯이/ecs
+3	노래의	노래+의	NOUN	_	4	nmod	_	_	노래/ncpa+의/jcm
+4	의미는	의미+는	NOUN	_	11	dislocated	_	_	의미/ncpa+는/jxt
+5	텍스트	텍스트	NOUN	_	6	compound	_	_	텍스트/ncn
+6	자체에서가	자체+에서+가	NOUN	_	7	csubj	_	_	자체/ncn+에서/jca+가/jcc
+7	아니라	아니+라	SCONJ	_	11	xcomp	_	_	아니/paa+라/ecs
+8	텍스트와	텍스트+와	CCONJ	_	9	conj	_	_	텍스트/ncn+와/jcj
+9	수용자의	수용자+의	NOUN	_	10	nmod	_	_	수용자/ncn+의/jcm
+10	관게에서	관계+에서	ADV	_	11	advcl	_	_	관계/ncn+에서/jca
+11	생산되는	생산+되+는	VERB	_	0	root	_	_	생산/ncpa+되/xsv+는/etm
+12	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 노래라는 텍스트의 구성은 여전히 중요하며 어쩌면 가장 중요하다 .
+1	노래라는	노래+이+라는	VERB	_	2	acl	_	_	노래/ncpa+이/jp+라는/etm
+2	텍스트의	텍스트+의	NOUN	_	3	nmod	_	_	텍스트/ncn+의/jcm
+3	구성은	구성+은	NOUN	_	8	dislocated	_	_	구성/ncpa+은/jxt
+4	여전히	여전+히	ADV	_	5	advmod	_	_	여전/ncps+히/xsa
+5	중요하며	중요+하+며	CCONJ	_	8	conj	_	_	중요/ncps+하/xsm+며/ecc
+6	어쩌면	어쩌면	ADV	_	8	advmod	_	_	어쩌면/mag
+7	가장	가장	ADV	_	6	advmod	_	_	가장/mag
+8	중요하다	중요+하+다	VERB	_	0	root	_	_	중요/ncps+하/xsm+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 노동자들의 노래가 대학생이나 지식인 , 진보적 대중에게 불리고 폭넓게 인기를 모았던 80 년대 중반의 예가 그러하다 .
+1	노동자들의	노동자+들+의	NOUN	_	2	nmod	_	_	노동자/ncn+들/xsn+의/jcm
+2	노래가	노래+가	NOUN	_	11	nsubj	_	_	노래/ncpa+가/jcs
+3	대학생이나	대학생+이나	CCONJ	_	4	conj	_	_	대학생/ncn+이나/jcj
+4	지식인	지식인	NOUN	_	7	conj	_	_	지식인/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	진보적	진보+적	NOUN	_	7	amod	_	_	진보/ncpa+적/xsn
+7	대중에게	대중+에게	ADV	_	8	iobj	_	_	대중/ncn+에게/jca
+8	불리고	불리+고	CCONJ	_	11	conj	_	_	불리/pvg+고/ecc
+9	폭넓게	폭넓+게	SCONJ	_	11	xcomp	_	_	폭넓/paa+게/ecs
+10	인기를	인기+를	NOUN	_	11	obj	_	_	인기/ncn+를/jco
+11	모았던	모+았+던	VERB	_	14	acl	_	_	모/pvg+았/ep+던/etm
+12	80	80	NUM	_	13	nummod	_	_	80/nnc
+13	년대	년대	NOUN	_	14	compound	_	_	년대/nbu
+14	중반의	중반+의	NOUN	_	15	nmod	_	_	중반/ncn+의/jcm
+15	예가	예+가	NOUN	_	16	nsubj	_	_	예/ncn+가/jcs
+16	그러하다	그러하+다	VERB	_	0	root	_	_	그러하/pad+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 지금이 바로 그런 때이다 .
+1	지금이	지금+이	NOUN	_	4	nsubj	_	_	지금/ncn+이/jcs
+2	바로	바로	ADV	_	4	advmod	_	_	바로/mag
+3	그런	그런	DET	_	4	det	_	_	그런/mmd
+4	때이다	때+이+다	VERB	_	0	root	_	_	때/nbn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 운동이 침체하면서 두드러지게 된 현상이긴 하지만 문제는 노래라는 것이 원래 그런 특성을 가지고 있다는 점이다 .
+1	운동이	운동+이	NOUN	_	2	nsubj	_	_	운동/ncpa+이/jcs
+2	침체하면서	침체+하+면서	SCONJ	_	3	ccomp	_	_	침체/ncpa+하/xsv+면서/ecs
+3	두드러지게	두드러지+게	VERB	_	5	ccomp	_	_	두드러지/pvg+게/ecx
+4	된	되+ㄴ	AUX	_	3	aux	_	_	되/px+ㄴ/etm
+5	현상이긴	현상+이+기+는	NOUN	_	15	ccomp	_	_	현상/ncn+이/jp+기/etn+는/jxt
+6	하지만	하+지만	SCONJ	_	5	aux	_	_	하/px+지만/ecs
+7	문제는	문제+는	NOUN	_	15	dislocated	_	_	문제/ncn+는/jxt
+8	노래라는	노래+이+라는	VERB	_	9	acl	_	_	노래/ncpa+이/jp+라는/etm
+9	것이	것+이	NOUN	_	13	nsubj	_	_	것/nbn+이/jcs
+10	원래	원래	ADV	_	13	advmod	_	_	원래/mag
+11	그런	그런	DET	_	12	det	_	_	그런/mmd
+12	특성을	특성+을	NOUN	_	13	obj	_	_	특성/ncn+을/jco
+13	가지고	가지+고	VERB	_	15	ccomp	_	_	가지/pvg+고/ecx
+14	있다는	있+다는	AUX	_	13	aux	_	_	있/px+다는/etm
+15	점이다	점+이+다	VERB	_	0	root	_	_	점/ncn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그것은 우리의 사고의 축을 계급이라는 거시적인 범주로부터 집단이라는 미시적인 범주로 옮겨야 한다는 의미일 수 있다 .
+1	그것은	그것+은	PRON	_	13	dislocated	_	_	그것/npd+은/jxt
+2	우리의	우리+의	PRON	_	3	nmod	_	_	우리/npp+의/jcm
+3	사고의	사고+의	NOUN	_	4	nmod	_	_	사고/ncpa+의/jcm
+4	축을	축+을	NOUN	_	11	obj	_	_	축/ncn+을/jco
+5	계급이라는	계급+이+라는	VERB	_	7	acl	_	_	계급/ncn+이/jp+라는/etm
+6	거시적인	거시+적+이+ㄴ	VERB	_	7	acl	_	_	거시/ncn+적/xsn+이/jp+ㄴ/etm
+7	범주로부터	범주+로+부터	ADV	_	11	advcl	_	_	범주/ncn+로/jca+부터/jxc
+8	집단이라는	집단+이+라는	VERB	_	10	acl	_	_	집단/ncn+이/jp+라는/etm
+9	미시적인	미시적+이+ㄴ	VERB	_	10	acl	_	_	미시적/ncn+이/jp+ㄴ/etm
+10	범주로	범주+로	ADV	_	11	advcl	_	_	범주/ncn+로/jca
+11	옮겨야	옮기+어야	VERB	_	13	ccomp	_	_	옮기/pvg+어야/ecx
+12	한다는	하+ㄴ다는	AUX	_	11	aux	_	_	하/px+ㄴ다는/etm
+13	의미일	의미+이+ㄹ	VERB	_	0	root	_	_	의미/ncpa+이/jp+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있다	있+다	ADJ	_	13	aux	_	_	있/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 앞에서 다소 장황하게 이야기한 하위문화의 중요성을 여기서 다시 한번 강조하게 되는 것이다 .
+1	앞에서	앞+에서	ADV	_	4	advcl	_	_	앞/ncn+에서/jca
+2	다소	다소	ADV	_	3	advmod	_	_	다소/mag
+3	장황하게	장황하+게	SCONJ	_	4	xcomp	_	_	장황하/paa+게/ecs
+4	이야기한	이야기+하+ㄴ	VERB	_	6	acl	_	_	이야기/ncpa+하/xsv+ㄴ/etm
+5	하위문화의	하위+문화+의	NOUN	_	6	nmod	_	_	하위/ncn+문화/ncn+의/jcm
+6	중요성을	중요성+을	NOUN	_	10	obj	_	_	중요성/ncn+을/jco
+7	여기서	여기+서	ADV	_	10	advcl	_	_	여기/npd+서/jca
+8	다시	다시	ADV	_	9	advmod	_	_	다시/mag
+9	한번	한번	NOUN	_	10	compound	_	_	한번/ncn
+10	강조하게	강조+하+게	VERB	_	0	root	_	_	강조/ncpa+하/xsv+게/ecx
+11	되는	되+는	AUX	_	10	aux	_	_	되/px+는/etm
+12	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 최근 급격히 높아지고 있는 대중문화에 대한 관심도 이러한 흐름의 일부로 이해될 수 있다 .
+1	최근	최근	NOUN	_	3	dep	_	_	최근/ncn
+2	급격히	급격+히	ADV	_	3	advmod	_	_	급격/ncps+히/xsa
+3	높아지고	높+아+지+고	AUX	_	7	amod	_	_	높/paa+아/ecx+지/px+고/ecx
+4	있는	있+는	AUX	_	3	aux	_	_	있/px+는/etm
+5	대중문화에	대중+문화+에	ADV	_	6	obl	_	_	대중/ncn+문화/ncn+에/jca
+6	대한	대하+ㄴ	VERB	_	7	acl	_	_	대하/pvg+ㄴ/etm
+7	관심도	관심+도	ADV	_	11	advcl	_	_	관심/ncpa+도/jxc
+8	이러한	이러하+ㄴ	VERB	_	9	amod	_	_	이러하/pad+ㄴ/etm
+9	흐름의	흐름+의	NOUN	_	10	nmod	_	_	흐름/ncn+의/jcm
+10	일부로	일부+로	ADV	_	11	advcl	_	_	일부/ncn+로/jca
+11	이해될	이해+되+ㄹ	VERB	_	0	root	_	_	이해/ncpa+되/xsv+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있다	있+다	ADJ	_	11	aux	_	_	있/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이 글 역시 그와 같은 문제의식의 연장에 있는 것이라 할 수 있다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	글	글	NOUN	_	8	dep	_	_	글/ncn
+3	역시	역시	ADV	_	8	advmod	_	_	역시/mag
+4	그와	그+와	CCONJ	_	5	conj	_	_	그/npd+와/jct
+5	같은	같+ㄴ	ADJ	_	6	amod	_	_	같/paa+ㄴ/etm
+6	문제의식의	문제+의식+의	NOUN	_	7	nmod	_	_	문제/ncn+의식/ncpa+의/jcm
+7	연장에	연장+에	ADV	_	8	obl	_	_	연장/ncn+에/jca
+8	있는	있+는	ADJ	_	10	ccomp	_	_	있/paa+는/etm
+9	것이라	것+이+라	VERB	_	8	aux	_	_	것/nbn+이/jp+라/ef
+10	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있다	있+다	ADJ	_	10	aux	_	_	있/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그러나 사람들은 보도블럭을 따라 길을 에돌아가기보다는 잔디를 가로질러 가기를 좋아한다 .
+1	그러나	그러나	CCONJ	_	10	cc	_	_	그러나/maj
+2	사람들은	사람+들+은	NOUN	_	10	dislocated	_	_	사람/ncn+들/xsn+은/jxt
+3	보도블럭을	보도+블럭+을	NOUN	_	4	obj	_	_	보도/ncpa+블럭/ncn+을/jco
+4	따라	따르+아	SCONJ	_	6	conj	_	_	따르/pvg+아/ecs
+5	길을	길+을	NOUN	_	6	obj	_	_	길/ncn+을/jco
+6	에돌아가기보다는	에돌+아+가+기+보다+는	NOUN	_	10	dislocated	_	_	에돌/pvg+아/ecx+가/px+기/etn+보다/jca+는/jxt
+7	잔디를	잔디+를	NOUN	_	8	obj	_	_	잔디/ncn+를/jco
+8	가로질러	가로지르+어	VERB	_	10	obj	_	_	가로지르/pvg+어/ecx
+9	가기를	가+기+를	NOUN	_	8	aux	_	_	가/px+기/etn+를/jco
+10	좋아한다	좋아하+ㄴ다	VERB	_	0	root	_	_	좋아하/pvg+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 사람들이 자꾸 다니다보면 발이 닿는 곳의 잔디가 죽고 조그만 샛길이 생긴다 .
+1	사람들이	사람+들+이	NOUN	_	3	nsubj	_	_	사람/ncn+들/xsn+이/jcs
+2	자꾸	자꾸	ADV	_	3	advmod	_	_	자꾸/mag
+3	다니다보면	다니+다+보+면	SCONJ	_	11	ccomp	_	_	다니/pvg+다/ecx+보/px+면/ecs
+4	발이	발+이	NOUN	_	5	nsubj	_	_	발/ncn+이/jcs
+5	닿는	닿+는	VERB	_	6	acl	_	_	닿/pvg+는/etm
+6	곳의	곳+의	NOUN	_	7	nmod	_	_	곳/ncn+의/jcm
+7	잔디가	잔디+가	NOUN	_	8	nsubj	_	_	잔디/ncn+가/jcs
+8	죽고	죽+고	CCONJ	_	11	conj	_	_	죽/pvg+고/ecc
+9	조그만	조그맣+ㄴ	ADJ	_	10	amod	_	_	조그맣/paa+ㄴ/etm
+10	샛길이	샛길+이	NOUN	_	11	nsubj	_	_	샛길/ncn+이/jcs
+11	생긴다	생기+ㄴ다	VERB	_	0	root	_	_	생기/pvg+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 우리는 그동안 그러한 힘을 보지 못해 왔거나 무시했거나 심지어 그것이 보다 근본적인 변화를 가로막는다고 비난해 왔다 .
+1	우리는	우리+는	PRON	_	15	dislocated	_	_	우리/npp+는/jxt
+2	그동안	그동안	NOUN	_	5	advmod	_	_	그동안/ncn
+3	그러한	그러하+ㄴ	VERB	_	4	amod	_	_	그러하/pad+ㄴ/etm
+4	힘을	힘+을	NOUN	_	5	obj	_	_	힘/ncn+을/jco
+5	보지	보+지	VERB	_	8	conj	_	_	보/pvg+지/ecx
+6	못해	못하+어	AUX	_	5	aux	_	_	못하/px+어/ecx
+7	왔거나	오+았+거나	CCONJ	_	5	aux	_	_	오/px+았/ep+거나/ecc
+8	무시했거나	무시+하+었+거나	CCONJ	_	15	conj	_	_	무시/ncpa+하/xsv+었/ep+거나/ecc
+9	심지어	심지어	ADV	_	15	advmod	_	_	심지어/mag
+10	그것이	그것+이	PRON	_	14	nsubj	_	_	그것/npd+이/jcs
+11	보다	보다	ADV	_	12	advmod	_	_	보다/mag
+12	근본적인	근본+적+이+ㄴ	VERB	_	13	acl	_	_	근본/ncn+적/xsn+이/jp+ㄴ/etm
+13	변화를	변화+를	NOUN	_	14	obj	_	_	변화/ncpa+를/jco
+14	가로막는다고	가로막+는다+고	VERB	_	15	conj	_	_	가로막/pvg+는다/ef+고/jcr
+15	비난해	비난+하+어	VERB	_	0	root	_	_	비난/ncpa+하/xsv+어/ecx
+16	왔다	오+았+다	AUX	_	15	aux	_	_	오/px+았/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이러한 현실 상황을 반영하듯 민중가요의 성과 역시 전반적으로 주춤하고 있다 .
+1	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+2	현실	현실	NOUN	_	3	compound	_	_	현실/ncn
+3	상황을	상황+을	NOUN	_	4	obj	_	_	상황/ncn+을/jco
+4	반영하듯	반영+하+듯	SCONJ	_	9	ccomp	_	_	반영/ncpa+하/xsv+듯/ecs
+5	민중가요의	민중+가요+의	NOUN	_	6	nmod	_	_	민중/ncn+가요/ncn+의/jcm
+6	성과	성과	NOUN	_	9	advmod	_	_	성과/ncn
+7	역시	역시	ADV	_	9	advmod	_	_	역시/mag
+8	전반적으로	전반+적+으로	ADV	_	9	advcl	_	_	전반/ncn+적/xsn+으로/jca
+9	주춤하고	주춤하+고	VERB	_	0	root	_	_	주춤하/pvg+고/ecx
+10	있다	있+다	AUX	_	9	aux	_	_	있/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 초기 노동가요의 급격한 확산과 비교한다면 이러한 침체는 매우 두드러지게 보인다 .
+1	초기	초기	NOUN	_	2	compound	_	_	초기/ncn
+2	노동가요의	노동+가요+의	NOUN	_	4	nmod	_	_	노동/ncpa+가요/ncn+의/jcm
+3	급격한	급격+하+ㄴ	VERB	_	4	amod	_	_	급격/ncps+하/xsm+ㄴ/etm
+4	확산과	확산+과	CCONJ	_	5	conj	_	_	확산/ncpa+과/jct
+5	비교한다면	비교+하+ㄴ다면	SCONJ	_	10	ccomp	_	_	비교/ncpa+하/xsv+ㄴ다면/ecs
+6	이러한	이러하+ㄴ	VERB	_	7	amod	_	_	이러하/pad+ㄴ/etm
+7	침체는	침체+는	NOUN	_	10	dislocated	_	_	침체/ncpa+는/jxt
+8	매우	매우	ADV	_	9	advmod	_	_	매우/mag
+9	두드러지게	두드러지+게	SCONJ	_	10	ccomp	_	_	두드러지/pvg+게/ecs
+10	보인다	보이+ㄴ다	VERB	_	0	root	_	_	보이/pvg+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그러나 변화된 상황하에서 새로운 실천을 모색해야 하는 지금 이것을 더 이상 미루어두기 힘든 상황이다 .
+1	그러나	그러나	CCONJ	_	14	cc	_	_	그러나/maj
+2	변화된	변화+되+ㄴ	VERB	_	3	acl	_	_	변화/ncpa+되/xsv+ㄴ/etm
+3	상황하에서	상황하+에서	ADV	_	6	advcl	_	_	상황하/ncn+에서/jca
+4	새로운	새롭+ㄴ	ADJ	_	5	amod	_	_	새롭/paa+ㄴ/etm
+5	실천을	실천+을	NOUN	_	6	obj	_	_	실천/ncpa+을/jco
+6	모색해야	모색+하+어야	VERB	_	8	acl	_	_	모색/ncpa+하/xsv+어야/ecx
+7	하는	하+는	AUX	_	6	aux	_	_	하/px+는/etm
+8	지금	지금	NOUN	_	12	advmod	_	_	지금/ncn
+9	이것을	이것+을	PRON	_	12	obj	_	_	이것/npd+을/jco
+10	더	더	ADV	_	11	advmod	_	_	더/mag
+11	이상	이상	NOUN	_	12	dep	_	_	이상/ncn
+12	미루어두기	미루+어+두+기	AUX	_	13	nmod	_	_	미루/pvg+어/ecx+두/px+기/etn
+13	힘든	힘들+ㄴ	VERB	_	14	ccomp	_	_	힘들/pvg+ㄴ/etm
+14	상황이다	상황+이+다	VERB	_	0	root	_	_	상황/ncn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 또 이렇게 노동가요의 역사를 살펴봄으로써 88 년 이후 전체 민중가요의 주요한 흐름을 이해할 수 있게 될 것이다 .
+1	또	또	CCONJ	_	13	cc	_	_	또/maj
+2	이렇게	이렇게	ADV	_	5	advmod	_	_	이렇게/mad
+3	노동가요의	노동+가요+의	NOUN	_	4	nmod	_	_	노동/ncpa+가요/ncn+의/jcm
+4	역사를	역사+를	NOUN	_	5	obj	_	_	역사/ncn+를/jco
+5	살펴봄으로써	살피+어+보+ㅁ+으로써	ADV	_	13	advcl	_	_	살피/pvg+어/ecx+보/px+ㅁ/etn+으로써/jca
+6	88	88	NUM	_	7	nummod	_	_	88/nnc
+7	년	년	NOUN	_	8	compound	_	_	년/nbu
+8	이후	이후	NOUN	_	12	compound	_	_	이후/ncn
+9	전체	전체	NOUN	_	10	compound	_	_	전체/ncn
+10	민중가요의	민중+가요+의	NOUN	_	12	nmod	_	_	민중/ncn+가요/ncn+의/jcm
+11	주요한	주요+하+ㄴ	VERB	_	12	acl	_	_	주요/ncpa+하/xsv+ㄴ/etm
+12	흐름을	흐름+을	NOUN	_	13	obj	_	_	흐름/ncn+을/jco
+13	이해할	이해+하+ㄹ	VERB	_	0	root	_	_	이해/ncpa+하/xsv+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있게	있+게	ADJ	_	13	aux	_	_	있/paa+게/ecx
+16	될	되+ㄹ	AUX	_	13	aux	_	_	되/px+ㄹ/etm
+17	것이다	것+이+다	VERB	_	13	aux	_	_	것/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 여기서 노동가요라는 개념은 가치개념으로서의 노동가요가 아니라 실제적으로 노동자 대중을 주 대상으로 삼고 그들에게 향유되는 노래를 의미한다 .
+1	여기서	여기+서	ADV	_	6	advcl	_	_	여기/npd+서/jca
+2	노동가요라는	노동+가요+이+라는	VERB	_	3	acl	_	_	노동/ncpa+가요/ncn+이/jp+라는/etm
+3	개념은	개념+은	NOUN	_	6	dislocated	_	_	개념/ncn+은/jxt
+4	가치개념으로서의	가치개념+으로서+의	NOUN	_	5	nmod	_	_	가치개념/ncn+으로서/jca+의/jcm
+5	노동가요가	노동+가요+가	NOUN	_	6	csubj	_	_	노동/ncpa+가요/ncn+가/jcc
+6	아니라	아니+라	SCONJ	_	16	xcomp	_	_	아니/paa+라/ecs
+7	실제적으로	실제+적+으로	ADV	_	12	advcl	_	_	실제/ncn+적/xsn+으로/jca
+8	노동자	노동자	NOUN	_	9	compound	_	_	노동자/ncn
+9	대중을	대중+을	NOUN	_	12	obj	_	_	대중/ncn+을/jco
+10	주	주	NOUN	_	11	compound	_	_	주/ncn
+11	대상으로	대상+으로	ADV	_	12	advcl	_	_	대상/ncn+으로/jca
+12	삼고	삼+고	CCONJ	_	14	conj	_	_	삼/pvg+고/ecc
+13	그들에게	그+들+에게	ADV	_	14	iobj	_	_	그/npp+들/xsn+에게/jca
+14	향유되는	향유+되+는	VERB	_	15	acl	_	_	향유/ncpa+되/xsv+는/etm
+15	노래를	노래+를	NOUN	_	16	obj	_	_	노래/ncpa+를/jco
+16	의미한다	의미+하+ㄴ다	VERB	_	0	root	_	_	의미/ncpa+하/xsv+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 따라서 학생 , 지식인권의 노래는 논의 대상에서 제외될 것이다 .
+1	따라서	따라서	CCONJ	_	8	cc	_	_	따라서/maj
+2	학생	학생	NOUN	_	4	conj	_	_	학생/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	지식인권의	지식+인권+의	NOUN	_	5	nmod	_	_	지식/ncn+인권/ncn+의/jcm
+5	노래는	노래+는	NOUN	_	8	dislocated	_	_	노래/ncpa+는/jxt
+6	논의	논+의	NOUN	_	7	nmod	_	_	논/ncn+의/jcm
+7	대상에서	대상+에서	ADV	_	8	advcl	_	_	대상/ncn+에서/jca
+8	제외될	제외+되+ㄹ	VERB	_	0	root	_	_	제외/ncpa+되/xsv+ㄹ/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 지금 노동가요의 양상은 매우 다양하게 나타나고 있다 .
+1	지금	지금	ADV	_	6	advmod	_	_	지금/mag
+2	노동가요의	노동+가요+의	NOUN	_	3	nmod	_	_	노동/ncpa+가요/ncn+의/jcm
+3	양상은	양상+은	NOUN	_	6	dislocated	_	_	양상/ncn+은/jxt
+4	매우	매우	ADV	_	5	advmod	_	_	매우/mag
+5	다양하게	다양하+게	SCONJ	_	6	xcomp	_	_	다양하/paa+게/ecs
+6	나타나고	나타나+고	VERB	_	0	root	_	_	나타나/pvg+고/ecx
+7	있다	있+다	AUX	_	6	aux	_	_	있/px+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 비록 파급력이 이전보다 감소되었을지라도 지금의 어려운 현실을 타개해 나가고자 하는 노력은 계속적으로 나타나고 있는 것이다 .
+1	비록	비록	ADV	_	4	advmod	_	_	비록/mag
+2	파급력이	파급력+이	NOUN	_	4	nsubj	_	_	파급력/ncn+이/jcs
+3	이전보다	이전+보다	ADV	_	4	advcl	_	_	이전/ncn+보다/jca
+4	감소되었을지라도	감소+되+었+ㄹ지라도	SCONJ	_	13	ccomp	_	_	감소/ncpa+되/xsv+었/ep+ㄹ지라도/ecs
+5	지금의	지금+의	NOUN	_	7	nmod	_	_	지금/ncn+의/jcm
+6	어려운	어렵+ㄴ	ADJ	_	7	amod	_	_	어렵/paa+ㄴ/etm
+7	현실을	현실+을	NOUN	_	8	obj	_	_	현실/ncn+을/jco
+8	타개해	타개+하+어	VERB	_	11	acl	_	_	타개/ncpa+하/xsv+어/ecx
+9	나가고자	나가+고자	AUX	_	8	aux	_	_	나가/px+고자/ecx
+10	하는	하+는	AUX	_	8	aux	_	_	하/px+는/etm
+11	노력은	노력+은	NOUN	_	13	dislocated	_	_	노력/ncpa+은/jxt
+12	계속적으로	계속+적+으로	ADV	_	13	advcl	_	_	계속/ncpa+적/xsn+으로/jca
+13	나타나고	나타나+고	VERB	_	0	root	_	_	나타나/pvg+고/ecx
+14	있는	있+는	AUX	_	13	aux	_	_	있/px+는/etm
+15	것이다	것+이+다	VERB	_	13	aux	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 현실적으로 다른 문화와 구분되는 독자적인 노래문화가 성립되기 위해서는 그것을 향유할 수 있는 실제적인 수용층과 나름대로의 독자적인 유통구조를 필요로 하는 것이다 .
+1	현실적으로	현실+적+으로	ADV	_	7	advcl	_	_	현실/ncn+적/xsn+으로/jca
+2	다른	다르+ㄴ	ADJ	_	3	amod	_	_	다르/paa+ㄴ/etm
+3	문화와	문화+와	CCONJ	_	4	conj	_	_	문화/ncn+와/jct
+4	구분되는	구분+되+는	VERB	_	6	acl	_	_	구분/ncpa+되/xsv+는/etm
+5	독자적인	독자+적+이+ㄴ	VERB	_	6	acl	_	_	독자/ncn+적/xsn+이/jp+ㄴ/etm
+6	노래문화가	노래+문화+가	NOUN	_	7	nsubj	_	_	노래/ncpa+문화/ncn+가/jcs
+7	성립되기	성립+되+기	VERB	_	8	nmod	_	_	성립/ncpa+되/xsv+기/etn
+8	위해서는	위하+어서+는	NOUN	_	19	ccomp	_	_	위하/pvg+어서/ecs+는/jxt
+9	그것을	그것+을	PRON	_	10	obj	_	_	그것/npd+을/jco
+10	향유할	향유+하+ㄹ	VERB	_	14	acl	_	_	향유/ncpa+하/xsv+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있는	있+는	ADJ	_	10	aux	_	_	있/paa+는/etm
+13	실제적인	실제+적+이+ㄴ	VERB	_	14	acl	_	_	실제/ncn+적/xsn+이/jp+ㄴ/etm
+14	수용층과	수용층+과	CCONJ	_	17	conj	_	_	수용층/ncn+과/jcj
+15	나름대로의	나름대로+의	NOUN	_	17	nmod	_	_	나름대로/ncn+의/jcm
+16	독자적인	독자+적+이+ㄴ	VERB	_	17	acl	_	_	독자/ncn+적/xsn+이/jp+ㄴ/etm
+17	유통구조를	유통+구조+를	NOUN	_	19	obj	_	_	유통/ncpa+구조/ncpa+를/jco
+18	필요로	필요+로	ADV	_	19	advcl	_	_	필요/ncpa+로/jca
+19	하는	하+는	VERB	_	0	root	_	_	하/pvg+는/etm
+20	것이다	것+이+다	VERB	_	19	aux	_	_	것/nbn+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 사실 민중가요가 본격적으로 성립되는 70 년대 중반 이후부터 노도자들의 모습을 형상화한 노래들은 꾸준히 만들어져 왔다 .
+1	사실	사실	ADV	_	14	advmod	_	_	사실/mag
+2	민중가요가	민중+가요+가	NOUN	_	4	nsubj	_	_	민중/ncn+가요/ncn+가/jcs
+3	본격적으로	본격+적+으로	ADV	_	4	advcl	_	_	본격/ncn+적/xsn+으로/jca
+4	성립되는	성립+되+는	VERB	_	8	acl	_	_	성립/ncpa+되/xsv+는/etm
+5	70	70	NUM	_	6	nummod	_	_	70/nnc
+6	년대	년대	NOUN	_	7	compound	_	_	년대/nbu
+7	중반	중반	NOUN	_	8	compound	_	_	중반/ncn
+8	이후부터	이후+부터	ADV	_	14	advcl	_	_	이후/ncn+부터/jxc
+9	노도자들의	노도자+들+의	NOUN	_	10	nmod	_	_	노도자/ncn+들/xsn+의/jcm
+10	모습을	모습+을	NOUN	_	11	obj	_	_	모습/ncn+을/jco
+11	형상화한	형상화+하+ㄴ	VERB	_	12	acl	_	_	형상화/ncpa+하/xsv+ㄴ/etm
+12	노래들은	노래+들+은	NOUN	_	14	dislocated	_	_	노래/ncpa+들/xsn+은/jxt
+13	꾸준히	꾸준+히	ADV	_	14	advmod	_	_	꾸준/ncps+히/xsa
+14	만들어져	만들+어+지+어	AUX	_	0	root	_	_	만들/pvg+어/ecx+지/px+어/ecx
+15	왔다	오+았+다	AUX	_	14	aux	_	_	오/px+았/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이들 노래를 보면 노동자들을 지나치게 대상화하는 노동자 외적인 시각을 가지고 있었고 노동자들의 생활의 어려움을 지나치게 비참하게 동정적으로 그려내고 있다 .
+1	이들	이+들	NOUN	_	2	compound	_	_	이/npd+들/xsn
+2	노래를	노래+를	NOUN	_	3	obj	_	_	노래/ncpa+를/jco
+3	보면	보+면	SCONJ	_	18	ccomp	_	_	보/pvg+면/ecs
+4	노동자들을	노동자+들+을	NOUN	_	5	obj	_	_	노동자/ncn+들/xsn+을/jco
+5	지나치게	지나치+게	SCONJ	_	6	ccomp	_	_	지나치/pvg+게/ecs
+6	대상화하는	대상화+하+는	VERB	_	9	acl	_	_	대상화/ncpa+하/xsv+는/etm
+7	노동자	노동자	NOUN	_	8	compound	_	_	노동자/ncn
+8	외적인	외+적+이+ㄴ	VERB	_	9	acl	_	_	외/ncn+적/xsn+이/jp+ㄴ/etm
+9	시각을	시각+을	NOUN	_	10	obj	_	_	시각/ncn+을/jco
+10	가지고	가지+고	VERB	_	18	conj	_	_	가지/pvg+고/ecx
+11	있었고	있+었+고	CCONJ	_	10	aux	_	_	있/px+었/ep+고/ecc
+12	노동자들의	노동자+들+의	NOUN	_	13	nmod	_	_	노동자/ncn+들/xsn+의/jcm
+13	생활의	생활+의	NOUN	_	14	nmod	_	_	생활/ncpa+의/jcm
+14	어려움을	어려움+을	NOUN	_	18	obj	_	_	어려움/ncn+을/jco
+15	지나치게	지나치+게	SCONJ	_	16	conj	_	_	지나치/pvg+게/ecs
+16	비참하게	비참하+게	SCONJ	_	18	xcomp	_	_	비참하/paa+게/ecs
+17	동정적으로	동정+적+으로	ADV	_	18	advcl	_	_	동정/ncpa+적/xsn+으로/jca
+18	그려내고	그리+어+내+고	AUX	_	0	root	_	_	그리/pvg+어/ecx+내/px+고/ecx
+19	있다	있+다	AUX	_	18	aux	_	_	있/px+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 80 년 이후 작품들은 70 년대 노래의 모습과 조금은 다른 양상을 나타낸다 .
+1	80	80	NUM	_	2	nummod	_	_	80/nnc
+2	년	년	NOUN	_	3	compound	_	_	년/nbu
+3	이후	이후	NOUN	_	4	compound	_	_	이후/ncn
+4	작품들은	작품+들+은	NOUN	_	12	dislocated	_	_	작품/ncn+들/xsn+은/jxt
+5	70	70	NUM	_	6	nummod	_	_	70/nnc
+6	년대	년대	NOUN	_	7	compound	_	_	년대/nbu
+7	노래의	노래+의	NOUN	_	8	nmod	_	_	노래/ncpa+의/jcm
+8	모습과	모습+과	CCONJ	_	10	conj	_	_	모습/ncn+과/jct
+9	조금은	조금+은	NOUN	_	10	dislocated	_	_	조금/ncn+은/jxt
+10	다른	다르+ㄴ	ADJ	_	11	amod	_	_	다르/paa+ㄴ/etm
+11	양상을	양상+을	NOUN	_	12	obj	_	_	양상/ncn+을/jco
+12	나타낸다	나타내+ㄴ다	VERB	_	0	root	_	_	나타내/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그러나 이러한 긍정적 성과에도 불구하고 아직 완전히 지식인적 시각을 벗어났다고 보기는 어렵다 .
+1	그러나	그러나	CCONJ	_	12	cc	_	_	그러나/maj
+2	이러한	이러하+ㄴ	VERB	_	4	amod	_	_	이러하/pad+ㄴ/etm
+3	긍정적	긍정+적	NOUN	_	4	amod	_	_	긍정/ncpa+적/xsn
+4	성과에도	성과+에+도	ADV	_	5	advcl	_	_	성과/ncn+에/jca+도/jxc
+5	불구하고	불구하+고	SCONJ	_	12	conj	_	_	불구하/pvg+고/ecs
+6	아직	아직	ADV	_	12	advmod	_	_	아직/mag
+7	완전히	완전+히	ADV	_	10	advmod	_	_	완전/ncps+히/xsa
+8	지식인적	지식인+적	NOUN	_	9	amod	_	_	지식인/ncn+적/xsn
+9	시각을	시각+을	NOUN	_	10	obj	_	_	시각/ncn+을/jco
+10	벗어났다고	벗어나+ㅆ+다+고	VERB	_	11	conj	_	_	벗어나/pvg+ㅆ/ep+다/ef+고/jcr
+11	보기는	보+기+는	NOUN	_	12	dislocated	_	_	보/pvg+기/etn+는/jxt
+12	어렵다	어렵+다	ADJ	_	0	root	_	_	어렵/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 노동자의 시작에서 사물을 바라보고 당당하면서도 직설적인 노동자적 정서를 완전하게 확보하는 점이 여전히 중요한 과제로 남아 있었다 .
+1	노동자의	노동자+의	NOUN	_	2	nmod	_	_	노동자/ncn+의/jcm
+2	시작에서	시작+에서	ADV	_	4	advcl	_	_	시작/ncpa+에서/jca
+3	사물을	사물+을	NOUN	_	4	obj	_	_	사물/ncn+을/jco
+4	바라보고	바라보+고	CCONJ	_	10	conj	_	_	바라보/pvg+고/ecc
+5	당당하면서도	당당하+면서+도	ADV	_	6	amod	_	_	당당하/paa+면서/ecc+도/jxc
+6	직설적인	직설+적+이+ㄴ	VERB	_	8	acl	_	_	직설/ncpa+적/xsn+이/jp+ㄴ/etm
+7	노동자적	노동자+적	NOUN	_	8	amod	_	_	노동자/ncn+적/xsn
+8	정서를	정서+를	NOUN	_	10	obj	_	_	정서/ncn+를/jco
+9	완전하게	완전+하+게	SCONJ	_	10	xcomp	_	_	완전/ncps+하/xsm+게/ecs
+10	확보하는	확보+하+는	VERB	_	11	acl	_	_	확보/ncpa+하/xsv+는/etm
+11	점이	점+이	NOUN	_	15	nsubj	_	_	점/ncn+이/jcs
+12	여전히	여전+히	ADV	_	15	advmod	_	_	여전/ncps+히/xsa
+13	중요한	중요+하+ㄴ	VERB	_	14	amod	_	_	중요/ncps+하/xsm+ㄴ/etm
+14	과제로	과제+로	ADV	_	15	advcl	_	_	과제/ncn+로/jca
+15	남아	남+아	VERB	_	0	root	_	_	남/pvg+아/ecx
+16	있었다	있+었+다	AUX	_	15	aux	_	_	있/px+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이것은 우연이라기보다 이들 노래가 다른 노래에 비해 노동자들의 정서에 부합되는 면이 많았다는 것을 의미한다 .
+1	이것은	이것+은	PRON	_	14	dislocated	_	_	이것/npd+은/jxt
+2	우연이라기보다	우연+이+라기+보다	ADV	_	14	advcl	_	_	우연/ncn+이/jp+라기/etn+보다/jca
+3	이들	이+들	NOUN	_	4	compound	_	_	이/npd+들/xsn
+4	노래가	노래+가	NOUN	_	12	nsubj	_	_	노래/ncpa+가/jcs
+5	다른	다르+ㄴ	ADJ	_	6	amod	_	_	다르/paa+ㄴ/etm
+6	노래에	노래+에	ADV	_	7	obl	_	_	노래/ncpa+에/jca
+7	비해	비하+어	SCONJ	_	12	conj	_	_	비하/pvg+어/ecs
+8	노동자들의	노동자+들+의	NOUN	_	9	nmod	_	_	노동자/ncn+들/xsn+의/jcm
+9	정서에	정서+에	ADV	_	10	obl	_	_	정서/ncn+에/jca
+10	부합되는	부합+되+는	VERB	_	11	acl	_	_	부합/ncpa+되/xsv+는/etm
+11	면이	면+이	NOUN	_	12	nsubj	_	_	면/ncn+이/jcs
+12	많았다는	많+았+다는	ADJ	_	13	amod	_	_	많/paa+았/ep+다는/etm
+13	것을	것+을	NOUN	_	14	obj	_	_	것/nbn+을/jco
+14	의미한다	의미+하+ㄴ다	VERB	_	0	root	_	_	의미/ncpa+하/xsv+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 구체적으로 살펴보자 .
+1	구체적으로	구체+적+으로	ADV	_	2	advcl	_	_	구체/ncn+적/xsn+으로/jca
+2	살펴보자	살피+어+보+자	AUX	_	0	root	_	_	살피/pvg+어/ecx+보/px+자/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 오히려 고통스러운 삶을 버텨나가는 삶에 대한 낙관적 태도가 두드러진다 .
+1	오히려	오히려	ADV	_	4	advmod	_	_	오히려/mag
+2	고통스러운	고통+스럽+ㄴ	VERB	_	3	amod	_	_	고통/ncps+스럽/xsm+ㄴ/etm
+3	삶을	삶+을	NOUN	_	4	obj	_	_	삶/ncn+을/jco
+4	버텨나가는	버티+어+나+아+가+는	AUX	_	5	acl	_	_	버티/pvg+어/ecx+나/px+아/ecx+가/px+는/etm
+5	삶에	삶+에	ADV	_	6	obl	_	_	삶/ncn+에/jca
+6	대한	대하+ㄴ	VERB	_	8	acl	_	_	대하/pvg+ㄴ/etm
+7	낙관적	낙관+적	NOUN	_	8	amod	_	_	낙관/ncpa+적/xsn
+8	태도가	태도+가	NOUN	_	9	nsubj	_	_	태도/ncn+가/jcs
+9	두드러진다	두드러지+ㄴ다	ADJ	_	0	root	_	_	두드러지/paa+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 아무리 삶이 고통스럽고 힘겨워도 어쨋든 살아가기 위해서는 언젠가는 좋은 날이 온다는 희망을 가지고 위안하며 살아갈 힘을 만들어내는 것이다 .
+1	아무리	아무리	ADV	_	4	advmod	_	_	아무리/mag
+2	삶이	삶+이	NOUN	_	4	nsubj	_	_	삶/ncn+이/jcs
+3	고통스럽고	고통+스럽+고	CCONJ	_	4	conj	_	_	고통/ncps+스럽/xsm+고/ecc
+4	힘겨워도	힘겹+어도	SCONJ	_	7	xcomp	_	_	힘겹/paa+어도/ecs
+5	어쨋든	어쨋든	ADV	_	6	advmod	_	_	어쨋든/mag
+6	살아가기	살+아+가+기	AUX	_	7	nmod	_	_	살/pvg+아/ecx+가/px+기/etn
+7	위해서는	위하+어서+는	NOUN	_	17	ccomp	_	_	위하/pvg+어서/ecs+는/jxt
+8	언젠가는	언제+이+ㄴ가+는	NOUN	_	11	dislocated	_	_	언제/ncn+이/jp+ㄴ가/ef+는/jxt
+9	좋은	좋+ㄴ	ADJ	_	10	amod	_	_	좋/paa+ㄴ/etm
+10	날이	날+이	NOUN	_	11	nsubj	_	_	날/ncn+이/jcs
+11	온다는	오+ㄴ다는	VERB	_	12	acl	_	_	오/pvg+ㄴ다는/etm
+12	희망을	희망+을	NOUN	_	13	obj	_	_	희망/ncpa+을/jco
+13	가지고	가지+고	CCONJ	_	14	conj	_	_	가지/pvg+고/ecc
+14	위안하며	위안+하+며	CCONJ	_	17	conj	_	_	위안/ncpa+하/xsv+며/ecc
+15	살아갈	살+아+가+ㄹ	AUX	_	16	acl	_	_	살/pvg+아/ecx+가/px+ㄹ/etm
+16	힘을	힘+을	NOUN	_	17	obj	_	_	힘/ncn+을/jco
+17	만들어내는	만들+어+내+는	AUX	_	0	root	_	_	만들/pvg+어/ecx+내/px+는/etm
+18	것이다	것+이+다	VERB	_	17	aux	_	_	것/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그런 의미에서 이 작품은 하루하루를 몸으로 부대끼며 살아가는 노동자를 포함한 기층민중이 지니고 있는 낙관성과 역동성을 드러내고 있다고 할 수 있다 .
+1	그런	그런	DET	_	2	det	_	_	그런/mmd
+2	의미에서	의미+에서	ADV	_	18	advcl	_	_	의미/ncpa+에서/jca
+3	이	이	DET	_	4	det	_	_	이/mmd
+4	작품은	작품+은	NOUN	_	16	dislocated	_	_	작품/ncn+은/jxt
+5	하루하루를	하루+하루+를	NOUN	_	7	obj	_	_	하루/ncn+하루/ncn+를/jco
+6	몸으로	몸+으로	ADV	_	7	advcl	_	_	몸/ncn+으로/jca
+7	부대끼며	부대끼+며	CCONJ	_	8	conj	_	_	부대끼/pvg+며/ecc
+8	살아가는	살+아+가+는	AUX	_	11	acl	_	_	살/pvg+아/ecx+가/px+는/etm
+9	노동자를	노동자+를	NOUN	_	10	obj	_	_	노동자/ncn+를/jco
+10	포함한	포함+하+ㄴ	VERB	_	11	acl	_	_	포함/ncpa+하/xsv+ㄴ/etm
+11	기층민중이	기층+민중+이	NOUN	_	12	nsubj	_	_	기층/ncn+민중/ncn+이/jcs
+12	지니고	지니+고	VERB	_	15	acl	_	_	지니/pvg+고/ecx
+13	있는	있+는	AUX	_	12	aux	_	_	있/px+는/etm
+14	낙관성과	낙관성+과	CCONJ	_	15	conj	_	_	낙관성/ncn+과/jcj
+15	역동성을	역동성+을	NOUN	_	16	obj	_	_	역동성/ncn+을/jco
+16	드러내고	드러내+고	VERB	_	18	conj	_	_	드러내/pvg+고/ecx
+17	있다고	있+다+고	VERB	_	16	aux	_	_	있/px+다/ef+고/jcr
+18	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+19	수	수	NOUN	_	20	fixed	_	_	수/nbn
+20	있다	있+다	ADJ	_	18	aux	_	_	있/paa+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 물론 이 작품의 낙관성과 역동성은 지향성이 없는 , 일상적인 무지향적 낙관성이다 .
+1	물론	물론	ADV	_	11	advmod	_	_	물론/mag
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	작품의	작품+의	NOUN	_	5	nmod	_	_	작품/ncn+의/jcm
+4	낙관성과	낙관성+과	CCONJ	_	5	conj	_	_	낙관성/ncn+과/jcj
+5	역동성은	역동성+은	NOUN	_	11	dislocated	_	_	역동성/ncn+은/jxt
+6	지향성이	지향성+이	NOUN	_	7	nsubj	_	_	지향성/ncn+이/jcs
+7	없는	없+는	ADJ	_	11	amod	_	_	없/paa+는/etm
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	일상적인	일상+적+이+ㄴ	VERB	_	11	acl	_	_	일상/ncn+적/xsn+이/jp+ㄴ/etm
+10	무지향적	무지향+적	NOUN	_	11	amod	_	_	무지향/ncn+적/xsn
+11	낙관성이다	낙관성+이+다	VERB	_	0	root	_	_	낙관성/ncn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 즉 무지향적이나마 일상 속에서 드러나는 낙관성과 역동성이 있어야만 , 그것이 지향적인 낙관성과 역동성으로 전화 , 발전할 수 있는 것이다 .
+1	즉	즉	CCONJ	_	16	cc	_	_	즉/maj
+2	무지향적이나마	무지향+적+이+나마	SCONJ	_	8	conj	_	_	무지향/ncn+적/xsn+이/jp+나마/ecs
+3	일상	일상	NOUN	_	4	compound	_	_	일상/ncn
+4	속에서	속+에서	ADV	_	5	advcl	_	_	속/ncn+에서/jca
+5	드러나는	드러나+는	VERB	_	7	acl	_	_	드러나/pvg+는/etm
+6	낙관성과	낙관성+과	CCONJ	_	7	conj	_	_	낙관성/ncn+과/jcj
+7	역동성이	역동성+이	NOUN	_	8	nsubj	_	_	역동성/ncn+이/jcs
+8	있어야만	있+어야+만	ADV	_	16	amod	_	_	있/paa+어야/ecs+만/jxc
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	그것이	그것+이	PRON	_	16	nsubj	_	_	그것/npd+이/jcs
+11	지향적인	지향+적+이+ㄴ	VERB	_	13	acl	_	_	지향/ncpa+적/xsn+이/jp+ㄴ/etm
+12	낙관성과	낙관성+과	CCONJ	_	13	conj	_	_	낙관성/ncn+과/jcj
+13	역동성으로	역동성+으로	ADV	_	16	advcl	_	_	역동성/ncn+으로/jca
+14	전화	전화	NOUN	_	16	compound	_	_	전화/ncn
+15	,	,	PUNCT	_	16	punct	_	_	,/sp
+16	발전할	발전+하+ㄹ	VERB	_	0	root	_	_	발전/ncpa+하/xsv+ㄹ/etm
+17	수	수	NOUN	_	18	fixed	_	_	수/nbn
+18	있는	있+는	ADJ	_	16	aux	_	_	있/paa+는/etm
+19	것이다	것+이+다	VERB	_	16	aux	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 그런 의미에서 이 작품은 노동자 , 기층민중의 삶의 태도와 인식 , 정서을 적실하게 드러내고 있으며 , 따라서 노동자들에게 잘 수용되며 애창되었다 .
+1	그런	그런	DET	_	2	det	_	_	그런/mmd
+2	의미에서	의미+에서	ADV	_	14	advcl	_	_	의미/ncpa+에서/jca
+3	이	이	DET	_	4	det	_	_	이/mmd
+4	작품은	작품+은	NOUN	_	14	dislocated	_	_	작품/ncn+은/jxt
+5	노동자	노동자	NOUN	_	7	conj	_	_	노동자/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	기층민중의	기층+민중+의	NOUN	_	12	nmod	_	_	기층/ncn+민중/ncn+의/jcm
+8	삶의	삶+의	NOUN	_	9	nmod	_	_	삶/ncn+의/jcm
+9	태도와	태도+와	CCONJ	_	10	conj	_	_	태도/ncn+와/jcj
+10	인식	인식	NOUN	_	12	conj	_	_	인식/ncpa
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	정서을	정서+을	NOUN	_	14	obj	_	_	정서/ncn+을/jco
+13	적실하게	적실하+게	SCONJ	_	14	xcomp	_	_	적실하/paa+게/ecs
+14	드러내고	드러내+고	VERB	_	21	ccomp	_	_	드러내/pvg+고/ecx
+15	있으며	있+으며	SCONJ	_	14	aux	_	_	있/px+으며/ecs
+16	,	,	PUNCT	_	15	punct	_	_	,/sp
+17	따라서	따라서	ADV	_	21	advmod	_	_	따라서/mag
+18	노동자들에게	노동자+들+에게	ADV	_	21	iobj	_	_	노동자/ncn+들/xsn+에게/jca
+19	잘	잘	ADV	_	20	advmod	_	_	잘/mag
+20	수용되며	수용+되+며	CCONJ	_	21	conj	_	_	수용/ncpa+되/xsv+며/ecc
+21	애창되었다	애창+되+었+다	VERB	_	0	root	_	_	애창/ncpa+되/xsv+었/ep+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 더구나 그 문제의 해결방식도 자신을 던지는 개인주의적 방식이다 .
+1	더구나	더구나	ADV	_	8	advmod	_	_	더구나/mag
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	문제의	문제+의	NOUN	_	4	nmod	_	_	문제/ncn+의/jcm
+4	해결방식도	해결+방식+도	ADV	_	8	advcl	_	_	해결/ncpa+방식/ncn+도/jxc
+5	자신을	자신+을	PRON	_	6	obj	_	_	자신/npp+을/jco
+6	던지는	던지+는	VERB	_	8	ccomp	_	_	던지/pvg+는/etm
+7	개인주의적	개인주의+적	NOUN	_	8	amod	_	_	개인주의/ncn+적/xsn
+8	방식이다	방식+이+다	VERB	_	0	root	_	_	방식/ncn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이는 당시에 억압되었던 상황을 뚫고 나가고자 하는 노동자들의 심정을 그 한계에서나마 적절하게 표현해주고 있다고 볼 수 있다 .
+1	이는	이+는	PRON	_	13	dislocated	_	_	이/npd+는/jxt
+2	당시에	당시+에	ADV	_	3	obl	_	_	당시/ncn+에/jca
+3	억압되었던	억압+되+었+던	VERB	_	4	acl	_	_	억압/ncpa+되/xsv+었/ep+던/etm
+4	상황을	상황+을	NOUN	_	6	obj	_	_	상황/ncn+을/jco
+5	뚫고	뚫+고	SCONJ	_	6	ccomp	_	_	뚫/pvg+고/ecs
+6	나가고자	나가+고자	VERB	_	9	acl	_	_	나가/pvg+고자/ecx
+7	하는	하+는	AUX	_	6	aux	_	_	하/px+는/etm
+8	노동자들의	노동자+들+의	NOUN	_	9	nmod	_	_	노동자/ncn+들/xsn+의/jcm
+9	심정을	심정+을	NOUN	_	13	obj	_	_	심정/ncn+을/jco
+10	그	그	DET	_	11	det	_	_	그/mmd
+11	한계에서나마	한계+에서+나마	ADV	_	13	advcl	_	_	한계/ncn+에서/jca+나마/jxc
+12	적절하게	적절하+게	SCONJ	_	13	xcomp	_	_	적절하/paa+게/ecs
+13	표현해주고	표현+하+어+주+고	AUX	_	15	conj	_	_	표현/ncpa+하/xsv+어/ecx+주/px+고/ecx
+14	있다고	있+다+고	VERB	_	13	aux	_	_	있/px+다/ef+고/jcr
+15	볼	보+ㄹ	VERB	_	0	root	_	_	보/pvg+ㄹ/etm
+16	수	수	NOUN	_	17	fixed	_	_	수/nbn
+17	있다	있+다	ADJ	_	15	aux	_	_	있/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이처럼 노동자들에게 실제로 수용되었던 노래들은 당시 학생운동권에서 유행하던 노래와 약간은 차별성을 보인다 .
+1	이처럼	이+처럼	ADV	_	4	advcl	_	_	이/npd+처럼/jca
+2	노동자들에게	노동자+들+에게	ADV	_	4	iobj	_	_	노동자/ncn+들/xsn+에게/jca
+3	실제로	실제로	ADV	_	4	advmod	_	_	실제로/mag
+4	수용되었던	수용+되+었+던	VERB	_	5	acl	_	_	수용/ncpa+되/xsv+었/ep+던/etm
+5	노래들은	노래+들+은	NOUN	_	12	dislocated	_	_	노래/ncpa+들/xsn+은/jxt
+6	당시	당시	NOUN	_	8	advmod	_	_	당시/ncn
+7	학생운동권에서	학생+운동권+에서	ADV	_	8	advcl	_	_	학생/ncn+운동권/ncn+에서/jca
+8	유행하던	유행+하+던	VERB	_	9	acl	_	_	유행/ncpa+하/xsv+던/etm
+9	노래와	노래+와	CCONJ	_	12	conj	_	_	노래/ncpa+와/jct
+10	약간은	약간+은	NOUN	_	12	dislocated	_	_	약간/ncn+은/jxt
+11	차별성을	차별성+을	NOUN	_	12	obj	_	_	차별성/ncn+을/jco
+12	보인다	보이+ㄴ다	VERB	_	0	root	_	_	보이/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이러한 노래들은 초기에는 주로 교회나 야학 등 현장 외부의 소모임을 통해 소수의 노동자들에게 전파되었다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	노래들은	노래+들+은	NOUN	_	14	dislocated	_	_	노래/ncpa+들/xsn+은/jxt
+3	초기에는	초기+에+는	NOUN	_	14	dislocated	_	_	초기/ncn+에/jca+는/jxt
+4	주로	주로	ADV	_	11	advmod	_	_	주로/mag
+5	교회나	교회+나	CCONJ	_	6	conj	_	_	교회/ncn+나/jcj
+6	야학	야학	NOUN	_	7	compound	_	_	야학/ncpa
+7	등	등	NOUN	_	10	mark	_	_	등/nbn
+8	현장	현장	NOUN	_	9	compound	_	_	현장/ncn
+9	외부의	외부+의	NOUN	_	10	nmod	_	_	외부/ncn+의/jcm
+10	소모임을	소모임+을	NOUN	_	11	obj	_	_	소모임/ncn+을/jco
+11	통해	통하+어	SCONJ	_	14	ccomp	_	_	통하/pvg+어/ecs
+12	소수의	소수+의	NOUN	_	13	nmod	_	_	소수/ncn+의/jcm
+13	노동자들에게	노동자+들+에게	ADV	_	14	iobj	_	_	노동자/ncn+들/xsn+에게/jca
+14	전파되었다	전파+되+었+다	VERB	_	0	root	_	_	전파/ncpa+되/xsv+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 한편 노동쟁의가 발생해서 노래의 필요성이 높아졌을 때 실제 노동자는 기존 노래의 선율에 가사를 바꾼 개사곡도 많은 양을 차지하고 있었다 .
+1	한편	한편	CCONJ	_	18	cc	_	_	한편/maj
+2	노동쟁의가	노동+쟁의+가	NOUN	_	3	nsubj	_	_	노동/ncpa+쟁의/ncpa+가/jcs
+3	발생해서	발생+하+어서	SCONJ	_	6	conj	_	_	발생/ncpa+하/xsv+어서/ecs
+4	노래의	노래+의	NOUN	_	5	nmod	_	_	노래/ncpa+의/jcm
+5	필요성이	필요성+이	NOUN	_	6	nsubj	_	_	필요성/ncn+이/jcs
+6	높아졌을	높+아+지+었+ㄹ	AUX	_	7	amod	_	_	높/paa+아/ecx+지/px+었/ep+ㄹ/etm
+7	때	때	NOUN	_	18	advmod	_	_	때/nbn
+8	실제	실제	NOUN	_	9	compound	_	_	실제/ncn
+9	노동자는	노동자+는	NOUN	_	18	dislocated	_	_	노동자/ncn+는/jxt
+10	기존	기존	NOUN	_	11	compound	_	_	기존/ncn
+11	노래의	노래+의	NOUN	_	12	nmod	_	_	노래/ncpa+의/jcm
+12	선율에	선율+에	ADV	_	14	obl	_	_	선율/ncn+에/jca
+13	가사를	가사+를	NOUN	_	14	obj	_	_	가사/ncn+를/jco
+14	바꾼	바꾸+ㄴ	VERB	_	15	acl	_	_	바꾸/pvg+ㄴ/etm
+15	개사곡도	개사곡+도	ADV	_	18	advcl	_	_	개사곡/ncn+도/jxc
+16	많은	많+ㄴ	ADJ	_	17	amod	_	_	많/paa+ㄴ/etm
+17	양을	양+을	NOUN	_	18	obj	_	_	양/ncn+을/jco
+18	차지하고	차지+하+고	VERB	_	0	root	_	_	차지/ncpa+하/xsv+고/ecx
+19	있었다	있+었+다	AUX	_	18	aux	_	_	있/px+었/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 87 년 7 , 8 , 9 월 노동자 대파업투쟁은 이 땅의 노동운동사에 획을 긋는 대사건이었다 .
+1	87	87	NUM	_	2	nummod	_	_	87/nnc
+2	년	년	NOUN	_	8	compound	_	_	년/nbu
+3	7	7	NUM	_	5	conj	_	_	7/nnc
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	8	8	NUM	_	7	conj	_	_	8/nnc
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	9	9	NUM	_	8	nummod	_	_	9/nnc
+8	월	월	NOUN	_	10	compound	_	_	월/nbu
+9	노동자	노동자	NOUN	_	10	compound	_	_	노동자/ncn
+10	대파업투쟁은	대파업+투쟁+은	NOUN	_	16	dislocated	_	_	대파업/ncn+투쟁/ncpa+은/jxt
+11	이	이	DET	_	12	det	_	_	이/mmd
+12	땅의	땅+의	NOUN	_	13	nmod	_	_	땅/ncn+의/jcm
+13	노동운동사에	노동+운동사+에	ADV	_	15	obl	_	_	노동/ncpa+운동사/ncn+에/jca
+14	획을	획+을	NOUN	_	15	obj	_	_	획/ncn+을/jco
+15	긋는	긋+는	VERB	_	16	ccomp	_	_	긋/pvg+는/etm
+16	대사건이었다	대사건+이+었+다	VERB	_	0	root	_	_	대사건/ncn+이/jp+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 아무도 예측할 수 없었던 기세로 노동자들은 자신들의 빼앗긴 권리를 되찾고자 하는 투쟁을 대중적으로 벌여나갔다 .
+1	아무도	아무+도	ADV	_	2	advcl	_	_	아무/npd+도/jxc
+2	예측할	예측+하+ㄹ	VERB	_	5	acl	_	_	예측/ncpa+하/xsv+ㄹ/etm
+3	수	수	NOUN	_	4	fixed	_	_	수/nbn
+4	없었던	없+었+던	ADJ	_	2	aux	_	_	없/paa+었/ep+던/etm
+5	기세로	기세+로	ADV	_	14	advcl	_	_	기세/ncn+로/jca
+6	노동자들은	노동자+들+은	NOUN	_	14	dislocated	_	_	노동자/ncn+들/xsn+은/jxt
+7	자신들의	자신+들+의	PRON	_	9	nmod	_	_	자신/npp+들/xsn+의/jcm
+8	빼앗긴	빼앗기+ㄴ	VERB	_	9	acl	_	_	빼앗기/pvg+ㄴ/etm
+9	권리를	권리+를	NOUN	_	10	obj	_	_	권리/ncn+를/jco
+10	되찾고자	되찾+고자	VERB	_	12	acl	_	_	되찾/pvg+고자/ecx
+11	하는	하+는	AUX	_	10	aux	_	_	하/px+는/etm
+12	투쟁을	투쟁+을	NOUN	_	14	obj	_	_	투쟁/ncpa+을/jco
+13	대중적으로	대중+적+으로	ADV	_	14	advcl	_	_	대중/ncpa+적/xsn+으로/jca
+14	벌여나갔다	벌이+어+나+아+가+ㅆ+다	AUX	_	0	root	_	_	벌이/pvg+어/ecx+나/px+아/ecx+가/px+ㅆ/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 전국 각 사업장마다 속속 민주노조가 건설되었고 이 과정 속에서 노동자들은 자신들이 역사의 주인임을 자각하게 되었다 .
+1	전국	전국	NOUN	_	3	compound	_	_	전국/ncn
+2	각	각	ADJ	_	3	amod	_	_	각/mma
+3	사업장마다	사업장+마다	ADV	_	6	advcl	_	_	사업장/ncn+마다/jxc
+4	속속	속속	ADV	_	6	advmod	_	_	속속/mag
+5	민주노조가	민주+노조+가	NOUN	_	6	nsubj	_	_	민주/ncn+노조/ncn+가/jcs
+6	건설되었고	건설+되+었+고	CCONJ	_	14	conj	_	_	건설/ncpa+되/xsv+었/ep+고/ecc
+7	이	이	DET	_	8	det	_	_	이/mmd
+8	과정	과정	NOUN	_	9	compound	_	_	과정/ncn
+9	속에서	속+에서	ADV	_	14	advcl	_	_	속/ncn+에서/jca
+10	노동자들은	노동자+들+은	NOUN	_	14	dislocated	_	_	노동자/ncn+들/xsn+은/jxt
+11	자신들이	자신+들+이	PRON	_	13	nsubj	_	_	자신/npp+들/xsn+이/jcs
+12	역사의	역사+의	NOUN	_	13	nmod	_	_	역사/ncn+의/jcm
+13	주인임을	주인+이+ㅁ+을	NOUN	_	14	obj	_	_	주인/ncn+이/jp+ㅁ/etn+을/jco
+14	자각하게	자각+하+게	VERB	_	0	root	_	_	자각/ncpa+하/xsv+게/ecx
+15	되었다	되+었+다	AUX	_	14	aux	_	_	되/px+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 언제나 이론 속에서만 존재하던 역사의 주인으로서의 노동자가 비로서 거대한 힘으로 현실화된 것이다 .
+1	언제나	언제나	ADV	_	4	advmod	_	_	언제나/mag
+2	이론	이론	NOUN	_	3	compound	_	_	이론/ncn
+3	속에서만	속+에서+만	ADV	_	4	advcl	_	_	속/ncn+에서/jca+만/jxc
+4	존재하던	존재+하+던	VERB	_	6	acl	_	_	존재/ncpa+하/xsv+던/etm
+5	역사의	역사+의	NOUN	_	6	nmod	_	_	역사/ncn+의/jcm
+6	주인으로서의	주인+으로서+의	NOUN	_	7	nmod	_	_	주인/ncn+으로서/jca+의/jcm
+7	노동자가	노동자+가	NOUN	_	11	nsubj	_	_	노동자/ncn+가/jcs
+8	비로서	비로서	ADV	_	11	advmod	_	_	비로서/mag
+9	거대한	거대+하+ㄴ	VERB	_	10	amod	_	_	거대/ncps+하/xsm+ㄴ/etm
+10	힘으로	힘+으로	ADV	_	11	advcl	_	_	힘/ncn+으로/jca
+11	현실화된	현실화+되+ㄴ	VERB	_	0	root	_	_	현실화/ncpa+되/xsv+ㄴ/etm
+12	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이러한 파업투쟁 속에서 새로운 노래들이 나타나기 시작했다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	파업투쟁	파업+투쟁	NOUN	_	3	compound	_	_	파업/ncpa+투쟁/ncpa
+3	속에서	속+에서	ADV	_	7	advcl	_	_	속/ncn+에서/jca
+4	새로운	새롭+ㄴ	ADJ	_	5	amod	_	_	새롭/paa+ㄴ/etm
+5	노래들이	노래+들+이	NOUN	_	7	nsubj	_	_	노래/ncpa+들/xsn+이/jcs
+6	나타나기	나타나+기	VERB	_	7	nmod	_	_	나타나/pvg+기/etn
+7	시작했다	시작+하+었+다	VERB	_	0	root	_	_	시작/ncpa+하/xsv+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그러나 이들 노래는 87 년과 같은 대규모의 대중적 투쟁을 통해 변화된 노동자들의 정서와 요구를 담아내기에는 충분치 못했다 .
+1	그러나	그러나	CCONJ	_	16	cc	_	_	그러나/maj
+2	이들	이+들	NOUN	_	3	compound	_	_	이/npd+들/xsn
+3	노래는	노래+는	NOUN	_	16	dislocated	_	_	노래/ncpa+는/jxt
+4	87	87	NUM	_	5	nummod	_	_	87/nnc
+5	년과	년+과	CCONJ	_	6	conj	_	_	년/nbu+과/jct
+6	같은	같+ㄴ	ADJ	_	9	amod	_	_	같/paa+ㄴ/etm
+7	대규모의	대규모+의	NOUN	_	9	nmod	_	_	대규모/ncn+의/jcm
+8	대중적	대중+적	NOUN	_	9	amod	_	_	대중/ncn+적/xsn
+9	투쟁을	투쟁+을	NOUN	_	10	obj	_	_	투쟁/ncpa+을/jco
+10	통해	통하+어	SCONJ	_	11	ccomp	_	_	통하/pvg+어/ecs
+11	변화된	변화+되+ㄴ	VERB	_	14	acl	_	_	변화/ncpa+되/xsv+ㄴ/etm
+12	노동자들의	노동자+들+의	NOUN	_	14	nmod	_	_	노동자/ncn+들/xsn+의/jcm
+13	정서와	정서+와	CCONJ	_	14	conj	_	_	정서/ncn+와/jcj
+14	요구를	요구+를	NOUN	_	15	obj	_	_	요구/ncpa+를/jco
+15	담아내기에는	담+아+내+기+에+는	NOUN	_	16	dislocated	_	_	담/pvg+아/ecx+내/px+기/etn+에/jca+는/jxt
+16	충분치	충분+하+지	VERB	_	0	root	_	_	충분/ncps+하/xsm+지/ecx
+17	못했다	못하+었+다	AUX	_	16	aux	_	_	못하/px+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 고양되던 노동자들의 토쟁에 걸맞는 노래가 필요했던 것이다 .
+1	고양되던	고양+되+던	VERB	_	3	acl	_	_	고양/ncpa+되/xsv+던/etm
+2	노동자들의	노동자+들+의	NOUN	_	3	nmod	_	_	노동자/ncn+들/xsn+의/jcm
+3	토쟁에	투쟁+에	ADV	_	4	obl	_	_	투쟁/ncpa+에/jca
+4	걸맞는	걸맞+는	ADJ	_	5	amod	_	_	걸맞/paa+는/etm
+5	노래가	노래+가	NOUN	_	6	nsubj	_	_	노래/ncpa+가/jcs
+6	필요했던	필요+하+었+던	VERB	_	0	root	_	_	필요/ncpa+하/xsv+었/ep+던/etm
+7	것이다	것+이+다	VERB	_	6	aux	_	_	것/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 88 년이 되자 새로운 노래가 만들어졌다 .
+1	88	88	NUM	_	2	nummod	_	_	88/nnc
+2	년이	년+이	NOUN	_	3	csubj	_	_	년/nbu+이/jcc
+3	되자	되+자	CCONJ	_	6	conj	_	_	되/pvg+자/ecc
+4	새로운	새롭+ㄴ	ADJ	_	5	amod	_	_	새롭/paa+ㄴ/etm
+5	노래가	노래+가	NOUN	_	6	nsubj	_	_	노래/ncpa+가/jcs
+6	만들어졌다	만들+어+지+었+다	AUX	_	0	root	_	_	만들/pvg+어/ecx+지/px+었/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이 새로운 노래가 가져다 준 파장은 엄청나게 큰 것이었다 .
+1	이	이	DET	_	3	det	_	_	이/mmd
+2	새로운	새롭+ㄴ	ADJ	_	3	amod	_	_	새롭/paa+ㄴ/etm
+3	노래가	노래+가	NOUN	_	5	nsubj	_	_	노래/ncpa+가/jcs
+4	가져다	가지+어다	SCONJ	_	5	ccomp	_	_	가지/pvg+어다/ecs
+5	준	주+ㄴ	VERB	_	6	acl	_	_	주/pvg+ㄴ/etm
+6	파장은	파장+은	NOUN	_	8	dislocated	_	_	파장/ncn+은/jxt
+7	엄청나게	엄청나+게	SCONJ	_	8	xcomp	_	_	엄청나/paa+게/ecs
+8	큰	크+ㄴ	ADJ	_	0	root	_	_	크/paa+ㄴ/etm
+9	것이었다	것+이+었+다	VERB	_	8	aux	_	_	것/nbn+이/jp+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 짧은 시간 안에 전국의 노동자들에게 보급되었을 뿐만 아니라 여타의 계급 계층에게도 광범위하게 확산되었다 .
+1	짧은	짧+ㄴ	ADJ	_	2	amod	_	_	짧/paa+ㄴ/etm
+2	시간	시간	NOUN	_	3	compound	_	_	시간/ncn
+3	안에	안+에	ADV	_	6	obl	_	_	안/ncn+에/jca
+4	전국의	전국+의	NOUN	_	5	nmod	_	_	전국/ncn+의/jcm
+5	노동자들에게	노동자+들+에게	ADV	_	6	iobj	_	_	노동자/ncn+들/xsn+에게/jca
+6	보급되었을	보급+되+었+ㄹ	VERB	_	7	acl	_	_	보급/ncpa+되/xsv+었/ep+ㄹ/etm
+7	뿐만	뿐+만	ADV	_	8	advcl	_	_	뿐/nbn+만/jxc
+8	아니라	아니+라	SCONJ	_	13	xcomp	_	_	아니/paa+라/ecs
+9	여타의	여타+의	NOUN	_	11	nmod	_	_	여타/ncn+의/jcm
+10	계급	계급	NOUN	_	11	compound	_	_	계급/ncn
+11	계층에게도	계층+에게+도	ADV	_	13	advcl	_	_	계층/ncn+에게/jca+도/jxc
+12	광범위하게	광범위+하+게	SCONJ	_	13	xcomp	_	_	광범위/ncps+하/xsm+게/ecs
+13	확산되었다	확산+되+었+다	VERB	_	0	root	_	_	확산/ncpa+되/xsv+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 사실 이 노래는 이전의 노래들과 확연히 구분되는 다른 음악적 양식이 아니다 .
+1	사실	사실	ADV	_	11	advmod	_	_	사실/mag
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	노래는	노래+는	NOUN	_	11	dislocated	_	_	노래/ncpa+는/jxt
+4	이전의	이전+의	NOUN	_	5	nmod	_	_	이전/ncn+의/jcm
+5	노래들과	노래+들+과	CCONJ	_	7	conj	_	_	노래/ncpa+들/xsn+과/jct
+6	확연히	확연+히	ADV	_	7	advmod	_	_	확연/ncps+히/xsa
+7	구분되는	구분+되+는	VERB	_	10	acl	_	_	구분/ncpa+되/xsv+는/etm
+8	다른	다르+ㄴ	ADJ	_	10	amod	_	_	다르/paa+ㄴ/etm
+9	음악적	음악+적	NOUN	_	10	amod	_	_	음악/ncpa+적/xsn
+10	양식이	양식+이	NOUN	_	11	csubj	_	_	양식/ncn+이/jcc
+11	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그렇다면 직설적인 가사 때문인가 ?
+1	그렇다면	그렇다면	CCONJ	_	4	cc	_	_	그렇다면/maj
+2	직설적인	직설+적+이+ㄴ	VERB	_	3	acl	_	_	직설/ncpa+적/xsn+이/jp+ㄴ/etm
+3	가사	가사	NOUN	_	4	compound	_	_	가사/ncn
+4	때문인가	때문+이+ㄴ가	VERB	_	0	root	_	_	때문/nbn+이/jp+ㄴ가/ef
+5	?	?	PUNCT	_	4	punct	_	_	?/sf
+
+# 화성도 가장 단순한 화성을 사용하고 있다 .
+1	화성도	화성+도	ADV	_	5	advcl	_	_	화성/ncn+도/jxc
+2	가장	가장	ADV	_	3	advmod	_	_	가장/mag
+3	단순한	단순+하+ㄴ	VERB	_	4	amod	_	_	단순/ncps+하/xsm+ㄴ/etm
+4	화성을	화성+을	NOUN	_	5	obj	_	_	화성/ncn+을/jco
+5	사용하고	사용+하+고	VERB	_	0	root	_	_	사용/ncpa+하/xsv+고/ecx
+6	있다	있+다	AUX	_	5	aux	_	_	있/px+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이는 필자 개인의 경험이지만 당시 노래운동 속에 있었던 사람이라면 누구나 느낄 수 있었던 일종의 충격이었을 것이다 .
+1	이는	이+는	PRON	_	4	dislocated	_	_	이/npd+는/jxt
+2	필자	필자	NOUN	_	3	compound	_	_	필자/ncn
+3	개인의	개인+의	NOUN	_	4	nmod	_	_	개인/ncn+의/jcm
+4	경험이지만	경험+이+지만	SCONJ	_	15	ccomp	_	_	경험/ncpa+이/jp+지만/ecs
+5	당시	당시	NOUN	_	8	dep	_	_	당시/ncn
+6	노래운동	노래+운동	NOUN	_	7	compound	_	_	노래/ncpa+운동/ncpa
+7	속에	속+에	ADV	_	8	obl	_	_	속/ncn+에/jca
+8	있었던	있+었+던	ADJ	_	9	amod	_	_	있/paa+었/ep+던/etm
+9	사람이라면	사람+이+라면	SCONJ	_	15	ccomp	_	_	사람/ncn+이/jp+라면/ecs
+10	누구나	누구+나	ADV	_	11	advcl	_	_	누구/npp+나/jxc
+11	느낄	느끼+ㄹ	VERB	_	15	ccomp	_	_	느끼/pvg+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있었던	있+었+던	ADJ	_	11	aux	_	_	있/paa+었/ep+던/etm
+14	일종의	일종+의	NOUN	_	15	nmod	_	_	일종/ncn+의/jcm
+15	충격이었을	충격+이+었+ㄹ	VERB	_	0	root	_	_	충격/ncn+이/jp+었/ep+ㄹ/etm
+16	것이다	것+이+다	VERB	_	15	aux	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 90 년대에 들어오면서 노동가요는 새로운 양상을 보인다 .
+1	90	90	NUM	_	2	nummod	_	_	90/nnc
+2	년대에	년대+에	ADV	_	3	obl	_	_	년대/nbu+에/jca
+3	들어오면서	들+어+오+면서	CCONJ	_	7	conj	_	_	들/pvg+어/ecx+오/px+면서/ecc
+4	노동가요는	노동+가요+는	NOUN	_	7	dislocated	_	_	노동/ncpa+가요/ncn+는/jxt
+5	새로운	새롭+ㄴ	ADJ	_	6	amod	_	_	새롭/paa+ㄴ/etm
+6	양상을	양상+을	NOUN	_	7	obj	_	_	양상/ncn+을/jco
+7	보인다	보이+ㄴ다	VERB	_	0	root	_	_	보이/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그러나 90 년 이후는 이러한 행진곡풍 노래의 단일한 성과에서 벗어나 보다 다양한 흐름들이 나타나게 된다 .
+1	그러나	그러나	CCONJ	_	14	cc	_	_	그러나/maj
+2	90	90	NUM	_	3	nummod	_	_	90/nnc
+3	년	년	NOUN	_	4	compound	_	_	년/nbu
+4	이후는	이후+는	NOUN	_	14	dislocated	_	_	이후/ncn+는/jxt
+5	이러한	이러하+ㄴ	VERB	_	7	amod	_	_	이러하/pad+ㄴ/etm
+6	행진곡풍	행진곡풍	NOUN	_	7	compound	_	_	행진곡풍/ncn
+7	노래의	노래+의	NOUN	_	9	nmod	_	_	노래/ncpa+의/jcm
+8	단일한	단일+하+ㄴ	VERB	_	9	amod	_	_	단일/ncps+하/xsm+ㄴ/etm
+9	성과에서	성과+에서	ADV	_	10	advcl	_	_	성과/ncn+에서/jca
+10	벗어나	벗어나+아	SCONJ	_	14	ccomp	_	_	벗어나/pvg+아/ecs
+11	보다	보다	ADV	_	12	advmod	_	_	보다/mag
+12	다양한	다양하+ㄴ	ADJ	_	13	amod	_	_	다양하/paa+ㄴ/etm
+13	흐름들이	흐름+들+이	NOUN	_	14	nsubj	_	_	흐름/ncn+들/xsn+이/jcs
+14	나타나게	나타나+게	VERB	_	0	root	_	_	나타나/pvg+게/ecx
+15	된다	되+ㄴ다	AUX	_	14	aux	_	_	되/px+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 처음부터 이것이 확실하게 인식되었던 것은 아니었다 .
+1	처음부터	처음+부터	ADV	_	4	advcl	_	_	처음/ncn+부터/jxc
+2	이것이	이것+이	PRON	_	4	nsubj	_	_	이것/npd+이/jcs
+3	확실하게	확실하+게	SCONJ	_	4	xcomp	_	_	확실하/paa+게/ecs
+4	인식되었던	인식+되+었+던	VERB	_	5	acl	_	_	인식/ncpa+되/xsv+었/ep+던/etm
+5	것은	것+은	NOUN	_	6	dislocated	_	_	것/nbn+은/jxt
+6	아니었다	아니+었+다	ADJ	_	0	root	_	_	아니/paa+었/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이 변화는 먼저 행진곡풍의 노래와 일상가요에서 두드러지게 나타났고 이후 91 년으로 들어서면서 서정가 쪽에서의 변화도 눈에 띄게 나타났다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	변화는	변화+는	NOUN	_	8	dislocated	_	_	변화/ncpa+는/jxt
+3	먼저	먼저	ADV	_	8	advmod	_	_	먼저/mag
+4	행진곡풍의	행진곡풍+의	NOUN	_	5	nmod	_	_	행진곡풍/ncn+의/jcm
+5	노래와	노래+와	CCONJ	_	6	conj	_	_	노래/ncpa+와/jcj
+6	일상가요에서	일상+가요+에서	ADV	_	8	advcl	_	_	일상/ncn+가요/ncn+에서/jca
+7	두드러지게	두드러지+게	SCONJ	_	8	xcomp	_	_	두드러지/paa+게/ecs
+8	나타났고	나타나+ㅆ+고	CCONJ	_	18	conj	_	_	나타나/pvg+ㅆ/ep+고/ecc
+9	이후	이후	NOUN	_	11	compound	_	_	이후/ncn
+10	91	91	NUM	_	11	nummod	_	_	91/nnc
+11	년으로	년+으로	ADV	_	12	advcl	_	_	년/nbu+으로/jca
+12	들어서면서	들어서+면서	CCONJ	_	18	conj	_	_	들어서/pvg+면서/ecc
+13	서정가	서정가	NOUN	_	14	compound	_	_	서정가/ncn
+14	쪽에서의	쪽+에서+의	NOUN	_	15	nmod	_	_	쪽/nbn+에서/jca+의/jcm
+15	변화도	변화+도	ADV	_	18	advcl	_	_	변화/ncpa+도/jxc
+16	눈에	눈+에	ADV	_	17	obl	_	_	눈/ncn+에/jca
+17	띄게	띄+게	SCONJ	_	18	ccomp	_	_	띄/pvg+게/ecs
+18	나타났다	나타나+았+다	VERB	_	0	root	_	_	나타나/pvg+았/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이를 일단 각 부분별로 나누어서 살펴보도록 하자 .
+1	이를	이+를	PRON	_	6	obj	_	_	이/npd+를/jco
+2	일단	일단	ADV	_	5	advmod	_	_	일단/mag
+3	각	각	ADJ	_	4	amod	_	_	각/mma
+4	부분별로	부분별+로	ADV	_	5	advcl	_	_	부분별/ncn+로/jca
+5	나누어서	나누+어서	SCONJ	_	6	ccomp	_	_	나누/pvg+어서/ecs
+6	살펴보도록	살피+어+보+도록	SCONJ	_	7	ccomp	_	_	살피/pvg+어/ecx+보/px+도록/ecs
+7	하자	하+자	VERB	_	0	root	_	_	하/pvg+자/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이러한 전술적 행진곡의 등장은 노동운동의 전반적인 발전에 따른 것이다 .
+1	이러한	이러하+ㄴ	VERB	_	4	amod	_	_	이러하/pad+ㄴ/etm
+2	전술적	전술+적	NOUN	_	3	amod	_	_	전술/ncn+적/xsn
+3	행진곡의	행진곡+의	NOUN	_	4	nmod	_	_	행진곡/ncn+의/jcm
+4	등장은	등장+은	NOUN	_	8	dislocated	_	_	등장/ncpa+은/jxt
+5	노동운동의	노동운동+의	NOUN	_	7	nmod	_	_	노동운동/ncpa+의/jcm
+6	전반적인	전반+적+이+ㄴ	VERB	_	7	acl	_	_	전반/ncn+적/xsn+이/jp+ㄴ/etm
+7	발전에	발전+에	ADV	_	8	obl	_	_	발전/ncpa+에/jca
+8	따른	따르+ㄴ	VERB	_	0	root	_	_	따르/pvg+ㄴ/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 사실 행진곡은 가장 구호적이기 쉬운 장르이다 .
+1	사실	사실	ADV	_	6	advmod	_	_	사실/mag
+2	행진곡은	행진곡+은	NOUN	_	6	dislocated	_	_	행진곡/ncn+은/jxt
+3	가장	가장	ADV	_	5	advmod	_	_	가장/mag
+4	구호적이기	구호+적+이+기	VERB	_	5	nmod	_	_	구호/ncn+적/xsn+이/jp+기/etn
+5	쉬운	쉽+ㄴ	ADJ	_	6	amod	_	_	쉽/paa+ㄴ/etm
+6	장르이다	장르+이+다	VERB	_	0	root	_	_	장르/ncn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이 노래는 실제적 투쟁의 필요에 의해 많이 불리긴 했지만 그 작품의 질은 이전의 행진곡풍의 노래에 비해 많이 떨어졌다는 것이다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	노래는	노래+는	NOUN	_	8	dislocated	_	_	노래/ncpa+는/jxt
+3	실제적	실제+적	NOUN	_	4	amod	_	_	실제/ncn+적/xsn
+4	투쟁의	투쟁+의	NOUN	_	5	nmod	_	_	투쟁/ncpa+의/jcm
+5	필요에	필요+에	ADV	_	6	obl	_	_	필요/ncpa+에/jca
+6	의해	의하+어	SCONJ	_	8	ccomp	_	_	의하/pvg+어/ecs
+7	많이	많이	ADV	_	8	advmod	_	_	많이/mag
+8	불리긴	불리+기+는	NOUN	_	18	ccomp	_	_	불리/pvg+기/etn+는/jxt
+9	했지만	하+었+지만	SCONJ	_	8	aux	_	_	하/px+었/ep+지만/ecs
+10	그	그	DET	_	11	det	_	_	그/mmd
+11	작품의	작품+의	NOUN	_	12	nmod	_	_	작품/ncn+의/jcm
+12	질은	질+은	NOUN	_	18	dislocated	_	_	질/ncn+은/jxt
+13	이전의	이전+의	NOUN	_	15	nmod	_	_	이전/ncn+의/jcm
+14	행진곡풍의	행진곡풍+의	NOUN	_	15	nmod	_	_	행진곡풍/ncn+의/jcm
+15	노래에	노래+에	ADV	_	16	obl	_	_	노래/ncpa+에/jca
+16	비해	비하+어	SCONJ	_	18	ccomp	_	_	비하/pvg+어/ecs
+17	많이	많이	ADV	_	18	advmod	_	_	많이/mag
+18	떨어졌다는	떨어지+었+다는	VERB	_	19	ccomp	_	_	떨어지/pvg+었/ep+다는/etm
+19	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 창작자가 다양해졌다는 것도 하나의 특징이다 .
+1	창작자가	창작+자+가	NOUN	_	2	nsubj	_	_	창작/ncpa+자/ncn+가/jcs
+2	다양해졌다는	다양하+어+지+었+다는	AUX	_	3	amod	_	_	다양하/paa+어/ecx+지/px+었/ep+다는/etm
+3	것도	것+도	ADV	_	5	advcl	_	_	것/nbn+도/jxc
+4	하나의	하나+의	NUM	_	5	nmod	_	_	하나/nnc+의/jcm
+5	특징이다	특징+이+다	VERB	_	0	root	_	_	특징/ncn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 이 현상의 일차적인 원인은 앞서 말했던 현실 운동상황이 변화에 기인한다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	현상의	현상+의	NOUN	_	4	nmod	_	_	현상/ncn+의/jcm
+3	일차적인	일차+적+이+ㄴ	VERB	_	4	acl	_	_	일차/ncn+적/xsn+이/jp+ㄴ/etm
+4	원인은	원인+은	NOUN	_	10	dislocated	_	_	원인/ncn+은/jxt
+5	앞서	앞서	ADV	_	6	advmod	_	_	앞서/mag
+6	말했던	말하+었+던	VERB	_	9	acl	_	_	말하/pvg+었/ep+던/etm
+7	현실	현실	NOUN	_	8	compound	_	_	현실/ncn
+8	운동상황이	운동+상황+의	NOUN	_	9	nmod	_	_	운동/ncpa+상황/ncn+의/jcm
+9	변화에	변화+에	ADV	_	10	obl	_	_	변화/ncpa+에/jca
+10	기인한다	기인+하+ㄴ다	VERB	_	0	root	_	_	기인/ncpa+하/xsv+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그리고 단조행진곡이라는 음악적 형식이 지금 시기에 대중적인 호응을 얻기 어려운 것이라는 점도 지적되어야 할 것이다 .
+1	그리고	그리고	CCONJ	_	13	cc	_	_	그리고/maj
+2	단조행진곡이라는	단조+행진곡+이+라는	VERB	_	4	acl	_	_	단조/ncn+행진곡/ncn+이/jp+라는/etm
+3	음악적	음악+적	NOUN	_	4	amod	_	_	음악/ncpa+적/xsn
+4	형식이	형식+이	NOUN	_	9	nsubj	_	_	형식/ncn+이/jcs
+5	지금	지금	NOUN	_	6	compound	_	_	지금/ncn
+6	시기에	시기+에	ADV	_	9	obl	_	_	시기/ncn+에/jca
+7	대중적인	대중+적+이+ㄴ	VERB	_	8	acl	_	_	대중/ncn+적/xsn+이/jp+ㄴ/etm
+8	호응을	호응+을	NOUN	_	9	obj	_	_	호응/ncpa+을/jco
+9	얻기	얻+기	VERB	_	10	nmod	_	_	얻/pvg+기/etn
+10	어려운	어렵+ㄴ	ADJ	_	12	amod	_	_	어렵/paa+ㄴ/etm
+11	것이라는	것+이+라는	VERB	_	10	aux	_	_	것/nbn+이/jp+라는/etm
+12	점도	점+도	ADV	_	13	advcl	_	_	점/ncn+도/jxc
+13	지적되어야	지적+되+어야	VERB	_	0	root	_	_	지적/ncpa+되/xsv+어야/ecx
+14	할	하+ㄹ	AUX	_	13	aux	_	_	하/px+ㄹ/etm
+15	것이다	것+이+다	VERB	_	13	aux	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 중요한 것은 새로운 변화를 반영하는 대중정서의 해심을 잡아내어 형상화하는 것이다 .
+1	중요한	중요+하+ㄴ	VERB	_	2	amod	_	_	중요/ncps+하/xsm+ㄴ/etm
+2	것은	것+은	NOUN	_	9	dislocated	_	_	것/nbn+은/jxt
+3	새로운	새롭+ㄴ	ADJ	_	4	amod	_	_	새롭/paa+ㄴ/etm
+4	변화를	변화+를	NOUN	_	5	obj	_	_	변화/ncpa+를/jco
+5	반영하는	반영+하+는	VERB	_	6	acl	_	_	반영/ncpa+하/xsv+는/etm
+6	대중정서의	대중+정서+의	NOUN	_	7	nmod	_	_	대중/ncn+정서/ncn+의/jcm
+7	해심을	핵심+을	NOUN	_	8	obj	_	_	핵심/ncn+을/jco
+8	잡아내어	잡+아+내+어	SCONJ	_	9	ccomp	_	_	잡/pvg+아/ecx+내/px+어/ecs
+9	형상화하는	형상화+하+는	VERB	_	0	root	_	_	형상화/ncpa+하/xsv+는/etm
+10	것이다	것+이+다	VERB	_	9	aux	_	_	것/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이들 일상가요는 이전까지 어쩔 수 없이 대중가요를 불러야만 했던 야유회 , 단합대회 , 그리고 뒷풀이 자리와 같은 일상적인 모임에서 널리 불리게 되었다 .
+1	이들	이+들	NOUN	_	2	compound	_	_	이/npd+들/xsn
+2	일상가요는	일상+가요+는	NOUN	_	21	dislocated	_	_	일상/ncn+가요/ncn+는/jxt
+3	이전까지	이전+까지	ADV	_	8	advcl	_	_	이전/ncn+까지/jxc
+4	어쩔	어찌하+ㄹ	VERB	_	8	ccomp	_	_	어찌하/pvg+ㄹ/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	없이	없+이	SCONJ	_	4	aux	_	_	없/paa+이/ecs
+7	대중가요를	대중+가요+를	NOUN	_	8	obj	_	_	대중/ncn+가요/ncn+를/jco
+8	불러야만	부르+어야+만	ADV	_	19	acl	_	_	부르/pvg+어야/ecx+만/jxc
+9	했던	하+었+던	AUX	_	8	aux	_	_	하/px+었/ep+던/etm
+10	야유회	야유회	NOUN	_	12	conj	_	_	야유회/ncn
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	단합대회	단합+대회	NOUN	_	16	conj	_	_	단합/ncpa+대회/ncn
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	그리고	그리고	CCONJ	_	16	cc	_	_	그리고/maj
+15	뒷풀이	뒷풀이	NOUN	_	16	compound	_	_	뒷풀이/ncn
+16	자리와	자리+와	CCONJ	_	17	conj	_	_	자리/ncn+와/jct
+17	같은	같+ㄴ	ADJ	_	19	amod	_	_	같/paa+ㄴ/etm
+18	일상적인	일상+적+이+ㄴ	VERB	_	19	acl	_	_	일상/ncn+적/xsn+이/jp+ㄴ/etm
+19	모임에서	모임+에서	ADV	_	21	advcl	_	_	모임/ncn+에서/jca
+20	널리	널리	ADV	_	21	advmod	_	_	널리/mag
+21	불리게	불리+게	VERB	_	0	root	_	_	불리/pvg+게/ecx
+22	되었다	되+었+다	AUX	_	21	aux	_	_	되/px+었/ep+다/ef
+23	.	.	PUNCT	_	22	punct	_	_	./sf
+
+# 그러나 이러한 일상가요풍의 노래도 91 년 초를 기점으로 노동운동이 전반적인 침체기로 들어가면서 그 양상이 약간 바뀌게 된다 .
+1	그러나	그러나	CCONJ	_	16	cc	_	_	그러나/maj
+2	이러한	이러하+ㄴ	VERB	_	4	amod	_	_	이러하/pad+ㄴ/etm
+3	일상가요풍의	일상+가요풍+의	NOUN	_	4	nmod	_	_	일상/ncn+가요풍/ncn+의/jcm
+4	노래도	노래+도	ADV	_	16	advcl	_	_	노래/ncpa+도/jxc
+5	91	91	NUM	_	6	nummod	_	_	91/nnc
+6	년	년	NOUN	_	7	compound	_	_	년/nbu
+7	초를	초+를	NOUN	_	8	obj	_	_	초/ncn+를/jco
+8	기점으로	기점+으로	ADV	_	12	advcl	_	_	기점/ncn+으로/jca
+9	노동운동이	노동운동+이	NOUN	_	12	nsubj	_	_	노동운동/ncpa+이/jcs
+10	전반적인	전반+적+이+ㄴ	VERB	_	11	acl	_	_	전반/ncn+적/xsn+이/jp+ㄴ/etm
+11	침체기로	침체기+로	ADV	_	12	advcl	_	_	침체기/ncn+로/jca
+12	들어가면서	들+어+가+면서	CCONJ	_	16	conj	_	_	들/pvg+어/ecx+가/px+면서/ecc
+13	그	그	DET	_	14	det	_	_	그/mmd
+14	양상이	양상+이	NOUN	_	16	nsubj	_	_	양상/ncn+이/jcs
+15	약간	약간	ADV	_	16	advmod	_	_	약간/mag
+16	바뀌게	바뀌+게	VERB	_	0	root	_	_	바뀌/pvg+게/ecx
+17	된다	되+ㄴ다	AUX	_	16	aux	_	_	되/px+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그러나 91년으로 들어오면서 풍자가요가 만들어지지 않고 만들어진 노래도 이전보다 풍자가 잘 안 이루어지는 듯한 모습을 보였다 .
+1	그러나	그러나	CCONJ	_	16	cc	_	_	그러나/maj
+2	91년으로	91+년+으로	ADV	_	3	advcl	_	_	91/nno+년/nbu+으로/jca
+3	들어오면서	들+어+오+면서	SCONJ	_	16	ccomp	_	_	들/pvg+어/ecx+오/px+면서/ecs
+4	풍자가요가	풍자+가요+가	NOUN	_	5	nsubj	_	_	풍자/ncpa+가요/ncn+가/jcs
+5	만들어지지	만들+어+지+지	AUX	_	13	conj	_	_	만들/pvg+어/ecx+지/px+지/ecx
+6	않고	않+고	CCONJ	_	5	aux	_	_	않/px+고/ecc
+7	만들어진	만들+어+지+ㄴ	AUX	_	8	acl	_	_	만들/pvg+어/ecx+지/px+ㄴ/etm
+8	노래도	노래+도	ADV	_	13	advcl	_	_	노래/ncpa+도/jxc
+9	이전보다	이전+보다	ADV	_	13	advcl	_	_	이전/ncn+보다/jca
+10	풍자가	풍자+가	NOUN	_	13	nsubj	_	_	풍자/ncpa+가/jcs
+11	잘	잘	ADV	_	13	advmod	_	_	잘/mag
+12	안	안	ADV	_	11	advmod	_	_	안/mag
+13	이루어지는	이루+어+지+는	AUX	_	15	acl	_	_	이루/pvg+어/ecx+지/px+는/etm
+14	듯한	듯하+ㄴ	AUX	_	13	aux	_	_	듯하/px+ㄴ/etm
+15	모습을	모습+을	NOUN	_	16	obj	_	_	모습/ncn+을/jco
+16	보였다	보이+었+다	VERB	_	0	root	_	_	보이/pvg+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이것은 풍자가요가 가지는 톡특한 성격 때문이기도 하다 .
+1	이것은	이것+은	PRON	_	6	dislocated	_	_	이것/npd+은/jxt
+2	풍자가요가	풍자+가요+가	NOUN	_	3	nsubj	_	_	풍자/ncpa+가요/ncn+가/jcs
+3	가지는	가지+는	VERB	_	5	acl	_	_	가지/pvg+는/etm
+4	톡특한	톡특+하+ㄴ	VERB	_	5	amod	_	_	톡특/ncps+하/xsm+ㄴ/etm
+5	성격	성격	NOUN	_	6	compound	_	_	성격/ncn
+6	때문이기도	때문+이+기+도	ADV	_	0	root	_	_	때문/nbn+이/jp+기/etn+도/jxc
+7	하다	하+다	AUX	_	6	aux	_	_	하/px+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 따라서 이러한 어려운 상황에 걸맞는 조금 차분하면서도 깊은 인간애를 다룬 일상가요들이 필요해지게 되었다 .
+1	따라서	따라서	CCONJ	_	12	cc	_	_	따라서/maj
+2	이러한	이러하+ㄴ	VERB	_	4	amod	_	_	이러하/pad+ㄴ/etm
+3	어려운	어렵+ㄴ	ADJ	_	4	amod	_	_	어렵/paa+ㄴ/etm
+4	상황에	상황+에	ADV	_	5	obl	_	_	상황/ncn+에/jca
+5	걸맞는	걸맞+는	ADJ	_	11	amod	_	_	걸맞/paa+는/etm
+6	조금	조금	ADV	_	7	advmod	_	_	조금/mag
+7	차분하면서도	차분하+면서+도	ADV	_	8	amod	_	_	차분하/paa+면서/ecc+도/jxc
+8	깊은	깊+ㄴ	ADJ	_	9	amod	_	_	깊/paa+ㄴ/etm
+9	인간애를	인간애+를	NOUN	_	10	obj	_	_	인간애/ncn+를/jco
+10	다룬	다루+ㄴ	VERB	_	11	acl	_	_	다루/pvg+ㄴ/etm
+11	일상가요들이	일상+가요+들+이	NOUN	_	12	nsubj	_	_	일상/ncn+가요/ncn+들/xsn+이/jcs
+12	필요해지게	필요+하+어+지+게	AUX	_	0	root	_	_	필요/ncpa+하/xsv+어/ecx+지/px+게/ecx
+13	되었다	되+었+다	AUX	_	12	aux	_	_	되/px+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이들 노래는 89 , 90 년도 일상가요의 맥을 그대로 계승하고 있으면서도 그 기반이 되는 정서가 약간 차이가 나고 있다 .
+1	이들	이+들	NOUN	_	2	compound	_	_	이/npd+들/xsn
+2	노래는	노래+는	NOUN	_	18	dislocated	_	_	노래/ncpa+는/jxt
+3	89	89	NUM	_	5	conj	_	_	89/nnc
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	90	90	NUM	_	6	nummod	_	_	90/nnc
+6	년도	년도	NOUN	_	7	compound	_	_	년도/nbu
+7	일상가요의	일상가요+의	NOUN	_	8	nmod	_	_	일상가요/ncn+의/jcm
+8	맥을	맥+을	NOUN	_	10	obj	_	_	맥/ncn+을/jco
+9	그대로	그대로	ADV	_	10	advmod	_	_	그대로/mag
+10	계승하고	계승+하+고	VERB	_	18	ccomp	_	_	계승/ncpa+하/xsv+고/ecx
+11	있으면서도	있+으면서+도	ADV	_	10	aux	_	_	있/px+으면서/ecc+도/jxc
+12	그	그	DET	_	13	det	_	_	그/mmd
+13	기반이	기반+이	NOUN	_	14	nsubj	_	_	기반/ncpa+이/jcs
+14	되는	되+는	VERB	_	15	acl	_	_	되/pvg+는/etm
+15	정서가	정서+가	NOUN	_	18	nsubj	_	_	정서/ncn+가/jcs
+16	약간	약간	ADV	_	18	advmod	_	_	약간/mag
+17	차이가	차이+가	NOUN	_	18	nsubj	_	_	차이/ncn+가/jcs
+18	나고	나+고	VERB	_	0	root	_	_	나/pvg+고/ecx
+19	있다	있+다	AUX	_	18	aux	_	_	있/px+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 이는 구체적으로 노래들을 비교해보면 더욱 뚜렷하게 나타난다 .
+1	이는	이+는	PRON	_	7	dislocated	_	_	이/npd+는/jxt
+2	구체적으로	구체+적+으로	ADV	_	4	advcl	_	_	구체/ncn+적/xsn+으로/jca
+3	노래들을	노래+들+을	NOUN	_	4	obj	_	_	노래/ncpa+들/xsn+을/jco
+4	비교해보면	비교+하+어+보+면	SCONJ	_	7	ccomp	_	_	비교/ncpa+하/xsv+어/ecx+보/px+면/ecs
+5	더욱	더욱	ADV	_	6	advmod	_	_	더욱/mag
+6	뚜렷하게	뚜렷하+게	SCONJ	_	7	xcomp	_	_	뚜렷하/paa+게/ecs
+7	나타난다	나타나+ㄴ다	VERB	_	0	root	_	_	나타나/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 따라서 일반적으로 개인적 정서를 표현하는 데 적합한 서정가요풍의 노래는 상대적으로 주목받지 못했떤 측면이 있다 .
+1	따라서	따라서	CCONJ	_	14	cc	_	_	따라서/maj
+2	일반적으로	일반+적+으로	ADV	_	7	advcl	_	_	일반/ncn+적/xsn+으로/jca
+3	개인적	개인+적	NOUN	_	4	amod	_	_	개인/ncn+적/xsn
+4	정서를	정서+를	NOUN	_	5	obj	_	_	정서/ncn+를/jco
+5	표현하는	표현+하+는	VERB	_	6	acl	_	_	표현/ncpa+하/xsv+는/etm
+6	데	데	NOUN	_	7	mark	_	_	데/nbn
+7	적합한	적합하+ㄴ	ADJ	_	9	amod	_	_	적합하/paa+ㄴ/etm
+8	서정가요풍의	서정+가요풍+의	NOUN	_	9	nmod	_	_	서정/ncn+가요풍/ncn+의/jcm
+9	노래는	노래+는	NOUN	_	11	dislocated	_	_	노래/ncpa+는/jxt
+10	상대적으로	상대+적+으로	ADV	_	11	advcl	_	_	상대/ncpa+적/xsn+으로/jca
+11	주목받지	주목받+지	VERB	_	13	acl	_	_	주목받/pvg+지/ecx
+12	못했떤	못하+었+던	AUX	_	11	aux	_	_	못하/px+었/ep+던/etm
+13	측면이	측면+이	NOUN	_	14	nsubj	_	_	측면/ncn+이/jcs
+14	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 우선 신곡들에서 다양한 새 리듬이 도입되고 기존 곡은 새롭게 재편곡하는 등 음악적 측면에서의 실험이 두드러진다 .
+1	우선	우선	ADV	_	15	advmod	_	_	우선/mag
+2	신곡들에서	신곡+들+에서	ADV	_	6	advcl	_	_	신곡/ncn+들/xsn+에서/jca
+3	다양한	다양하+ㄴ	ADJ	_	5	amod	_	_	다양하/paa+ㄴ/etm
+4	새	새	ADJ	_	5	amod	_	_	새/mma
+5	리듬이	리듬+이	NOUN	_	6	nsubj	_	_	리듬/ncn+이/jcs
+6	도입되고	도입+되+고	CCONJ	_	10	conj	_	_	도입/ncpa+되/xsv+고/ecc
+7	기존	기존	NOUN	_	8	compound	_	_	기존/ncn
+8	곡은	곡+은	NOUN	_	10	dislocated	_	_	곡/ncn+은/jxt
+9	새롭게	새롭+게	SCONJ	_	10	xcomp	_	_	새롭/paa+게/ecs
+10	재편곡하는	재편곡+하+는	VERB	_	11	acl	_	_	재편곡/ncpa+하/xsv+는/etm
+11	등	등	NOUN	_	14	mark	_	_	등/nbn
+12	음악적	음악+적	NOUN	_	13	amod	_	_	음악/ncpa+적/xsn
+13	측면에서의	측면+에서+의	NOUN	_	14	nmod	_	_	측면/ncn+에서/jca+의/jcm
+14	실험이	실험+이	NOUN	_	15	nsubj	_	_	실험/ncpa+이/jcs
+15	두드러진다	두드러지+ㄴ다	VERB	_	0	root	_	_	두드러지/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 가사에 있어서도 보다 일상적이고 생활에 가까운 내용이 많아지는 등 전반적으로 주목할 만한 변화들이 나타났다 .
+1	가사에	가사+에	ADV	_	2	obl	_	_	가사/ncn+에/jca
+2	있어서도	있+어서+도	ADV	_	14	amod	_	_	있/paa+어서/ecs+도/jxc
+3	보다	보다	ADV	_	4	advmod	_	_	보다/mag
+4	일상적이고	일상+적+이+고	CCONJ	_	6	conj	_	_	일상/ncn+적/xsn+이/jp+고/ecc
+5	생활에	생활+에	ADV	_	6	obl	_	_	생활/ncpa+에/jca
+6	가까운	가깝+ㄴ	ADJ	_	7	amod	_	_	가깝/paa+ㄴ/etm
+7	내용이	내용+이	NOUN	_	8	nsubj	_	_	내용/ncn+이/jcs
+8	많아지는	많+아+지+는	AUX	_	9	amod	_	_	많/paa+아/ecx+지/px+는/etm
+9	등	등	NOUN	_	13	mark	_	_	등/nbn
+10	전반적으로	전반+적+으로	ADV	_	11	advcl	_	_	전반/ncn+적/xsn+으로/jca
+11	주목할	주목+하+ㄹ	VERB	_	13	acl	_	_	주목/ncpa+하/xsv+ㄹ/etm
+12	만한	만하+ㄴ	AUX	_	11	aux	_	_	만하/px+ㄴ/etm
+13	변화들이	변화+들+이	NOUN	_	14	nsubj	_	_	변화/ncpa+들/xsn+이/jcs
+14	나타났다	나타나+ㅆ+다	VERB	_	0	root	_	_	나타나/pvg+ㅆ/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이 시도들을 구체적으로 살펴보자 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	시도들을	시도+들+을	NOUN	_	4	obj	_	_	시도/ncpa+들/xsn+을/jco
+3	구체적으로	구체+적+으로	ADV	_	4	advcl	_	_	구체/ncn+적/xsn+으로/jca
+4	살펴보자	살피+어+보+자	AUX	_	0	root	_	_	살피/pvg+어/ecx+보/px+자/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 먼저 최근의 노동가요에서 눈에 띄는 것은 새로운 리듬의 사용이다 .
+1	먼저	먼저	ADV	_	5	advmod	_	_	먼저/mag
+2	최근의	최근+의	NOUN	_	3	nmod	_	_	최근/ncn+의/jcm
+3	노동가요에서	노동+가요+에서	ADV	_	5	advcl	_	_	노동/ncpa+가요/ncn+에서/jca
+4	눈에	눈+에	ADV	_	5	obl	_	_	눈/ncn+에/jca
+5	띄는	띄+는	VERB	_	6	acl	_	_	띄/pvg+는/etm
+6	것은	것+은	NOUN	_	9	dislocated	_	_	것/nbn+은/jxt
+7	새로운	새롭+ㄴ	ADJ	_	8	amod	_	_	새롭/paa+ㄴ/etm
+8	리듬의	리듬+의	NOUN	_	9	nmod	_	_	리듬/ncn+의/jcm
+9	사용이다	사용+이+다	VERB	_	0	root	_	_	사용/ncpa+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그 이유 중 가장 중요한 것은 그 가사에서의 문제 때문이라 생각된다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	이유	이유	NOUN	_	3	compound	_	_	이유/ncn
+3	중	중	NOUN	_	6	mark	_	_	중/nbn
+4	가장	가장	ADV	_	5	advmod	_	_	가장/mag
+5	중요한	중요+하+ㄴ	VERB	_	6	amod	_	_	중요/ncps+하/xsm+ㄴ/etm
+6	것은	것+은	NOUN	_	10	dislocated	_	_	것/nbn+은/jxt
+7	그	그	DET	_	8	det	_	_	그/mmd
+8	가사에서의	가사+에서+의	NOUN	_	9	nmod	_	_	가사/ncn+에서/jca+의/jcm
+9	문제	문제	NOUN	_	10	compound	_	_	문제/ncn
+10	때문이라	때문+이+라	VERB	_	11	ccomp	_	_	때문/nbn+이/jp+라/ef
+11	생각된다	생각+되+ㄴ다	VERB	_	0	root	_	_	생각/ncpa+되/xsv+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 지금 이러한 새로운 모색의 성과와 한계를 정확히 평가하는 것은 어려운 일이다 .
+1	지금	지금	ADV	_	8	advmod	_	_	지금/mag
+2	이러한	이러하+ㄴ	VERB	_	4	amod	_	_	이러하/pad+ㄴ/etm
+3	새로운	새롭+ㄴ	ADJ	_	4	amod	_	_	새롭/paa+ㄴ/etm
+4	모색의	모색+의	NOUN	_	6	nmod	_	_	모색/ncpa+의/jcm
+5	성과와	성과+와	CCONJ	_	6	conj	_	_	성과/ncn+와/jcj
+6	한계를	한계+를	NOUN	_	8	obj	_	_	한계/ncn+를/jco
+7	정확히	정확+히	ADV	_	8	advmod	_	_	정확/ncps+히/xsa
+8	평가하는	평가+하+는	VERB	_	9	acl	_	_	평가/ncpa+하/xsv+는/etm
+9	것은	것+은	NOUN	_	11	dislocated	_	_	것/nbn+은/jxt
+10	어려운	어렵+ㄴ	ADJ	_	11	amod	_	_	어렵/paa+ㄴ/etm
+11	일이다	일+이+다	VERB	_	0	root	_	_	일/ncpa+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 즉 지금 노동가요의 다양한 시도들은 아직 하나의 큰 성과적 흐름으로 자리잡지는 못하고 있는 것이다 .
+1	즉	즉	ADV	_	11	advmod	_	_	즉/mag
+2	지금	지금	NOUN	_	5	compound	_	_	지금/ncn
+3	노동가요의	노동+가요+의	NOUN	_	5	nmod	_	_	노동/ncpa+가요/ncn+의/jcm
+4	다양한	다양하+ㄴ	ADJ	_	5	amod	_	_	다양하/paa+ㄴ/etm
+5	시도들은	시도+들+은	NOUN	_	11	dislocated	_	_	시도/ncpa+들/xsn+은/jxt
+6	아직	아직	ADV	_	11	advmod	_	_	아직/mag
+7	하나의	하나+의	NUM	_	10	nmod	_	_	하나/nnc+의/jcm
+8	큰	크+ㄴ	ADJ	_	10	amod	_	_	크/paa+ㄴ/etm
+9	성과적	성과+적	NOUN	_	10	amod	_	_	성과/ncn+적/xsn
+10	흐름으로	흐름+으로	ADV	_	11	advcl	_	_	흐름/ncn+으로/jca
+11	자리잡지는	자리잡+지+는	NOUN	_	0	root	_	_	자리잡/pvg+지/ecx+는/jxt
+12	못하고	못하+고	AUX	_	11	aux	_	_	못하/px+고/ecx
+13	있는	있+는	AUX	_	11	aux	_	_	있/px+는/etm
+14	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그러나 이러한 다양한 모색을 통해 앞으로 노동가요가 나아가야 할 방향들이 서서히 드러날 것임을 확신한다 .
+1	그러나	그러나	CCONJ	_	14	cc	_	_	그러나/maj
+2	이러한	이러하+ㄴ	VERB	_	4	amod	_	_	이러하/pad+ㄴ/etm
+3	다양한	다양하+ㄴ	ADJ	_	4	amod	_	_	다양하/paa+ㄴ/etm
+4	모색을	모색+을	NOUN	_	5	obj	_	_	모색/ncpa+을/jco
+5	통해	통하+어	SCONJ	_	12	conj	_	_	통하/pvg+어/ecs
+6	앞으로	앞+으로	ADV	_	8	advcl	_	_	앞/ncn+으로/jca
+7	노동가요가	노동+가요+가	NOUN	_	8	nsubj	_	_	노동/ncpa+가요/ncn+가/jcs
+8	나아가야	나+아+가+아야	AUX	_	10	acl	_	_	나/pvg+아/ecx+가/px+아야/ecx
+9	할	하+ㄹ	AUX	_	8	aux	_	_	하/px+ㄹ/etm
+10	방향들이	방향+들+이	NOUN	_	12	nsubj	_	_	방향/ncn+들/xsn+이/jcs
+11	서서히	서서히	ADV	_	12	advmod	_	_	서서히/mag
+12	드러날	드러나+ㄹ	VERB	_	14	obj	_	_	드러나/pvg+ㄹ/etm
+13	것임을	것+이+ㅁ+을	NOUN	_	12	aux	_	_	것/nbn+이/jp+ㅁ/etn+을/jco
+14	확신한다	확신+하+ㄴ다	VERB	_	0	root	_	_	확신/ncpa+하/xsv+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 대중 속에서의 부단한 실천만이 지금 노동가요가 갈 길을 밝혀 줄 것이다 .
+1	대중	대중	NOUN	_	2	compound	_	_	대중/ncn
+2	속에서의	속+에서+의	NOUN	_	4	nmod	_	_	속/ncn+에서/jca+의/jcm
+3	부단한	부단하+ㄴ	ADJ	_	4	amod	_	_	부단하/paa+ㄴ/etm
+4	실천만이	실천+만+이	NOUN	_	9	nsubj	_	_	실천/ncpa+만/jxc+이/jcs
+5	지금	지금	ADV	_	7	advmod	_	_	지금/mag
+6	노동가요가	노동+가요+가	NOUN	_	7	nsubj	_	_	노동/ncpa+가요/ncn+가/jcs
+7	갈	가+ㄹ	VERB	_	8	acl	_	_	가/pvg+ㄹ/etm
+8	길을	길+을	NOUN	_	9	obj	_	_	길/ncn+을/jco
+9	밝혀	밝히+어	VERB	_	0	root	_	_	밝히/pvg+어/ecx
+10	줄	주+ㄹ	AUX	_	9	aux	_	_	주/px+ㄹ/etm
+11	것이다	것+이+다	VERB	_	9	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 87 년 노동가요가 본격적으로 등장하면서 민중가요는 그 향유층을 실질적인 생산대중에까지 폭을 넓혔다 .
+1	87	87	NUM	_	2	nummod	_	_	87/nnc
+2	년	년	NOUN	_	5	advmod	_	_	년/nbu
+3	노동가요가	노동+가요+가	NOUN	_	5	nsubj	_	_	노동/ncpa+가요/ncn+가/jcs
+4	본격적으로	본격+적+으로	ADV	_	5	advcl	_	_	본격/ncn+적/xsn+으로/jca
+5	등장하면서	등장+하+면서	CCONJ	_	12	conj	_	_	등장/ncpa+하/xsv+면서/ecc
+6	민중가요는	민중+가요+는	NOUN	_	12	dislocated	_	_	민중/ncn+가요/ncn+는/jxt
+7	그	그	DET	_	8	det	_	_	그/mmd
+8	향유층을	향유층+을	NOUN	_	12	obj	_	_	향유층/ncn+을/jco
+9	실질적인	실질+적+이+ㄴ	VERB	_	10	acl	_	_	실질/ncn+적/xsn+이/jp+ㄴ/etm
+10	생산대중에까지	생산+대중+에+까지	ADV	_	12	advcl	_	_	생산/ncpa+대중/ncn+에/jca+까지/jxc
+11	폭을	폭+을	NOUN	_	12	obj	_	_	폭/ncn+을/jco
+12	넓혔다	넓히+었+다	VERB	_	0	root	_	_	넓히/pvg+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 노동가요의 작품적 성과가 이전의 노래가 가지던 투쟁성에 노동자적 삶의 구체성을 결합시킴으로써 가능했던 것이다 .
+1	노동가요의	노동+가요+의	NOUN	_	3	nmod	_	_	노동/ncpa+가요/ncn+의/jcm
+2	작품적	작품+적	NOUN	_	3	amod	_	_	작품/ncn+적/xsn
+3	성과가	성과+가	NOUN	_	12	nsubj	_	_	성과/ncn+가/jcs
+4	이전의	이전+의	NOUN	_	5	nmod	_	_	이전/ncn+의/jcm
+5	노래가	노래+가	NOUN	_	6	nsubj	_	_	노래/ncpa+가/jcs
+6	가지던	가지+던	VERB	_	7	acl	_	_	가지/pvg+던/etm
+7	투쟁성에	투쟁성+에	ADV	_	11	obl	_	_	투쟁성/ncn+에/jca
+8	노동자적	노동자+적	NOUN	_	9	amod	_	_	노동자/ncn+적/xsn
+9	삶의	삶+의	NOUN	_	10	nmod	_	_	삶/ncn+의/jcm
+10	구체성을	구체성+을	NOUN	_	11	obj	_	_	구체성/ncn+을/jco
+11	결합시킴으로써	결합+시키+ㅁ+으로써	ADV	_	12	advcl	_	_	결합/ncpa+시키/xsv+ㅁ/etn+으로써/jca
+12	가능했던	가능+하+었+던	VERB	_	0	root	_	_	가능/ncps+하/xsm+었/ep+던/etm
+13	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그러나 이러한 성과에도 불구하고 뚜렷한 한계도 존재한다 .
+1	그러나	그러나	CCONJ	_	7	cc	_	_	그러나/maj
+2	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+3	성과에도	성과+에+도	ADV	_	4	advcl	_	_	성과/ncn+에/jca+도/jxc
+4	불구하고	불구하+고	SCONJ	_	7	ccomp	_	_	불구하/pvg+고/ecs
+5	뚜렷한	뚜렷하+ㄴ	ADJ	_	6	amod	_	_	뚜렷하/paa+ㄴ/etm
+6	한계도	한계+도	ADV	_	7	advcl	_	_	한계/ncn+도/jxc
+7	존재한다	존재+하+ㄴ다	VERB	_	0	root	_	_	존재/ncpa+하/xsv+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 또 생산적 중심의 정서에 집중되어 상대적으로 사무직을 소홀히했다는 점도 지적할 수 있겠다 .
+1	또	또	CCONJ	_	10	cc	_	_	또/maj
+2	생산적	생산+적	NOUN	_	3	amod	_	_	생산/ncpa+적/xsn
+3	중심의	중심+의	NOUN	_	4	nmod	_	_	중심/ncn+의/jcm
+4	정서에	정서+에	ADV	_	5	obl	_	_	정서/ncn+에/jca
+5	집중되어	집중+되+어	SCONJ	_	8	ccomp	_	_	집중/ncpa+되/xsv+어/ecs
+6	상대적으로	상대+적+으로	ADV	_	8	advcl	_	_	상대/ncpa+적/xsn+으로/jca
+7	사무직을	사무직+을	NOUN	_	8	obj	_	_	사무직/ncn+을/jco
+8	소홀히했다는	소홀히+하+었+다는	VERB	_	9	acl	_	_	소홀히/ncpa+하/xsv+었/ep+다는/etm
+9	점도	점+도	ADV	_	10	advcl	_	_	점/ncn+도/jxc
+10	지적할	지적+하+ㄹ	VERB	_	0	root	_	_	지적/ncpa+하/xsv+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있겠다	있+겠+다	ADJ	_	10	aux	_	_	있/paa+겠/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 92 년 이후 노동가요의 다양한 모색은 이처럼 변화된 대중의 요구를 노래로 담아내려는 노력에 다름이 아니다 .
+1	92	92	NUM	_	2	nummod	_	_	92/nnc
+2	년	년	NOUN	_	3	compound	_	_	년/nbu
+3	이후	이후	NOUN	_	4	compound	_	_	이후/ncn
+4	노동가요의	노동+가요+의	NOUN	_	6	nmod	_	_	노동/ncpa+가요/ncn+의/jcm
+5	다양한	다양하+ㄴ	ADJ	_	6	amod	_	_	다양하/paa+ㄴ/etm
+6	모색은	모색+은	NOUN	_	15	dislocated	_	_	모색/ncpa+은/jxt
+7	이처럼	이+처럼	ADV	_	8	advcl	_	_	이/npd+처럼/jca
+8	변화된	변화+되+ㄴ	VERB	_	10	acl	_	_	변화/ncpa+되/xsv+ㄴ/etm
+9	대중의	대중+의	NOUN	_	10	nmod	_	_	대중/ncn+의/jcm
+10	요구를	요구+를	NOUN	_	12	obj	_	_	요구/ncpa+를/jco
+11	노래로	노래+로	ADV	_	12	advcl	_	_	노래/ncpa+로/jca
+12	담아내려는	담+아+내+려는	AUX	_	13	acl	_	_	담/pvg+아/ecx+내/px+려는/etm
+13	노력에	노력+에	ADV	_	14	obl	_	_	노력/ncpa+에/jca
+14	다름이	다르+ㅁ+이	NOUN	_	15	csubj	_	_	다르/paa+ㅁ/etn+이/jcc
+15	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 지금 이 고통스러운 시대의 경험을 함께 해나가지 않고서 앞으로 노동형제들과 노래로 이야기하는 것은 어려울 것이기 때문이다 .
+1	지금	지금	ADV	_	7	advmod	_	_	지금/mag
+2	이	이	DET	_	4	det	_	_	이/mmd
+3	고통스러운	고통+스럽+ㄴ	VERB	_	4	amod	_	_	고통/ncps+스럽/xsm+ㄴ/etm
+4	시대의	시대+의	NOUN	_	5	nmod	_	_	시대/ncn+의/jcm
+5	경험을	경험+을	NOUN	_	7	obj	_	_	경험/ncpa+을/jco
+6	함께	함께	ADV	_	7	advmod	_	_	함께/mag
+7	해나가지	하+어+나+아+가+지	AUX	_	14	conj	_	_	하/pvg+어/ecx+나/px+아/ecx+가/px+지/ecx
+8	않고서	않+고서	SCONJ	_	7	aux	_	_	않/px+고서/ecs
+9	앞으로	앞+으로	ADV	_	12	advcl	_	_	앞/ncn+으로/jca
+10	노동형제들과	노동+형제+들+과	CCONJ	_	12	conj	_	_	노동/ncpa+형제/ncn+들/xsn+과/jct
+11	노래로	노래+로	ADV	_	12	advcl	_	_	노래/ncpa+로/jca
+12	이야기하는	이야기+하+는	VERB	_	13	acl	_	_	이야기/ncpa+하/xsv+는/etm
+13	것은	것+은	NOUN	_	14	dislocated	_	_	것/nbn+은/jxt
+14	어려울	어렵+ㄹ	ADJ	_	0	root	_	_	어렵/paa+ㄹ/etm
+15	것이기	것+이+기	VERB	_	14	aux	_	_	것/nbn+이/jp+기/etn
+16	때문이다	때문+이+다	VERB	_	14	aux	_	_	때문/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 나의 모자람과 게으름 탓으로 다루어야 할 노동자 노래패와 노동가요 전문단체의 현황과 활동에 대한 부분도 빠졌다 .
+1	나의	나+의	PRON	_	3	nmod	_	_	나/npp+의/jcm
+2	모자람과	모자람+과	CCONJ	_	3	conj	_	_	모자람/ncn+과/jcj
+3	게으름	게으름	NOUN	_	4	compound	_	_	게으름/ncn
+4	탓으로	탓+으로	ADV	_	5	advcl	_	_	탓/ncpa+으로/jca
+5	다루어야	다루+어야	VERB	_	14	acl	_	_	다루/pvg+어야/ecx
+6	할	하+ㄹ	AUX	_	5	aux	_	_	하/px+ㄹ/etm
+7	노동자	노동자	NOUN	_	8	compound	_	_	노동자/ncn
+8	노래패와	노래패+와	CCONJ	_	10	conj	_	_	노래패/ncn+와/jcj
+9	노동가요	노동+가요	NOUN	_	10	compound	_	_	노동/ncpa+가요/ncn
+10	전문단체의	전문+단체+의	NOUN	_	12	nmod	_	_	전문/ncn+단체/ncn+의/jcm
+11	현황과	현황+과	CCONJ	_	12	conj	_	_	현황/ncn+과/jcj
+12	활동에	활동+에	ADV	_	13	obl	_	_	활동/ncpa+에/jca
+13	대한	대하+ㄴ	VERB	_	14	acl	_	_	대하/pvg+ㄴ/etm
+14	부분도	부분+도	ADV	_	15	advcl	_	_	부분/ncn+도/jxc
+15	빠졌다	빠지+었+다	VERB	_	0	root	_	_	빠지/pvg+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 다음 기회를 기양하는 수밖에 없다 .
+1	다음	다음	NOUN	_	2	compound	_	_	다음/ncn
+2	기회를	기회+를	NOUN	_	3	obj	_	_	기회/ncn+를/jco
+3	기양하는	기양+하+는	VERB	_	0	root	_	_	기양/ncpa+하/xsv+는/etm
+4	수밖에	수+밖에	ADV	_	5	fixed	_	_	수/nbn+밖에/jxc
+5	없다	없+다	ADJ	_	3	aux	_	_	없/paa+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 또한 최근에 들어서는 민족음악의 이념을 우리 민족의 주체적인 사상미학적 측면에서 체계화시키고 그 속에서 다시 양식의 문제를 본격적으로 거론할 것으로 보인다 .
+1	또한	또한	CCONJ	_	20	cc	_	_	또한/maj
+2	최근에	최근+에	ADV	_	3	obl	_	_	최근/ncn+에/jca
+3	들어서는	들+어서+는	NOUN	_	20	ccomp	_	_	들/pvg+어서/ecs+는/jxt
+4	민족음악의	민족음악+의	NOUN	_	5	nmod	_	_	민족음악/ncpa+의/jcm
+5	이념을	이념+을	NOUN	_	11	obj	_	_	이념/ncn+을/jco
+6	우리	우리	PRON	_	7	compound	_	_	우리/npp
+7	민족의	민족+의	NOUN	_	10	nmod	_	_	민족/ncn+의/jcm
+8	주체적인	주체+적+이+ㄴ	VERB	_	10	acl	_	_	주체/ncn+적/xsn+이/jp+ㄴ/etm
+9	사상미학적	사상+미학+적	NOUN	_	10	amod	_	_	사상/ncn+미학/ncn+적/xsn
+10	측면에서	측면+에서	ADV	_	11	advcl	_	_	측면/ncn+에서/jca
+11	체계화시키고	체계화+시키+고	CCONJ	_	18	conj	_	_	체계화/ncpa+시키/xsv+고/ecc
+12	그	그	DET	_	13	det	_	_	그/mmd
+13	속에서	속+에서	ADV	_	18	advcl	_	_	속/ncn+에서/jca
+14	다시	다시	ADV	_	18	advmod	_	_	다시/mag
+15	양식의	양식+의	NOUN	_	16	nmod	_	_	양식/ncn+의/jcm
+16	문제를	문제+를	NOUN	_	18	obj	_	_	문제/ncn+를/jco
+17	본격적으로	본격+적+으로	ADV	_	18	advcl	_	_	본격/ncn+적/xsn+으로/jca
+18	거론할	거론+하+ㄹ	VERB	_	19	acl	_	_	거론/ncpa+하/xsv+ㄹ/etm
+19	것으로	것+으로	ADV	_	20	advcl	_	_	것/nbn+으로/jca
+20	보인다	보이+ㄴ다	VERB	_	0	root	_	_	보이/pvg+ㄴ다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 물론 이 둘은 분리된 별개의 논의 구조를 갖는 것이 아니고 본질은 결국 하나인 두 현상이라고 할 수 있다 .
+1	물론	물론	ADV	_	16	advmod	_	_	물론/mag
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	둘은	둘+은	NUM	_	8	dislocated	_	_	둘/nnc+은/jxt
+4	분리된	분리+되+ㄴ	VERB	_	7	acl	_	_	분리/ncpa+되/xsv+ㄴ/etm
+5	별개의	별개+의	NOUN	_	7	nmod	_	_	별개/ncn+의/jcm
+6	논의	논의	NOUN	_	7	compound	_	_	논의/ncpa
+7	구조를	구조+를	NOUN	_	8	obj	_	_	구조/ncpa+를/jco
+8	갖는	갖+는	VERB	_	9	acl	_	_	갖/pvg+는/etm
+9	것이	것+이	NOUN	_	10	csubj	_	_	것/nbn+이/jcc
+10	아니고	아니+고	CCONJ	_	15	conj	_	_	아니/paa+고/ecc
+11	본질은	본질+은	NOUN	_	13	dislocated	_	_	본질/ncn+은/jxt
+12	결국	결국	ADV	_	13	advmod	_	_	결국/mag
+13	하나인	하나+이+ㄴ	VERB	_	15	ccomp	_	_	하나/nnc+이/jp+ㄴ/etm
+14	두	두	NUM	_	15	nummod	_	_	두/nnc
+15	현상이라고	현상+이+라+고	VERB	_	16	conj	_	_	현상/ncn+이/jp+라/ef+고/jcr
+16	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+17	수	수	NOUN	_	18	fixed	_	_	수/nbn
+18	있다	있+다	ADJ	_	16	aux	_	_	있/paa+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이강숙 역시 이 문제를 거론하고 있다 .
+1	이강숙	이강숙	PROPN	_	5	advmod	_	_	이강숙/nq
+2	역시	역시	ADV	_	5	advmod	_	_	역시/mag
+3	이	이	DET	_	4	det	_	_	이/mmd
+4	문제를	문제+를	NOUN	_	5	obj	_	_	문제/ncn+를/jco
+5	거론하고	거론+하+고	VERB	_	0	root	_	_	거론/ncpa+하/xsv+고/ecx
+6	있다	있+다	AUX	_	5	aux	_	_	있/px+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 반성은 곧 현재의 부정이고 이를 통해 우리는 역동성을 갖게 되는 것이다 .
+1	반성은	반성+은	NOUN	_	4	dislocated	_	_	반성/ncpa+은/jxt
+2	곧	곧	ADV	_	4	advmod	_	_	곧/mag
+3	현재의	현재+의	NOUN	_	4	nmod	_	_	현재/ncn+의/jcm
+4	부정이고	부정+이+고	CCONJ	_	9	conj	_	_	부정/ncpa+이/jp+고/ecc
+5	이를	이+를	PRON	_	6	obj	_	_	이/npd+를/jco
+6	통해	통하+어	SCONJ	_	9	ccomp	_	_	통하/pvg+어/ecs
+7	우리는	우리+는	PRON	_	9	dislocated	_	_	우리/npp+는/jxt
+8	역동성을	역동성+을	NOUN	_	9	obj	_	_	역동성/ncn+을/jco
+9	갖게	갖+게	VERB	_	0	root	_	_	갖/pvg+게/ecx
+10	되는	되+는	AUX	_	9	aux	_	_	되/px+는/etm
+11	것이다	것+이+다	VERB	_	9	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이 지점에 이르면 보다 집단적인 실천에 대한 이념이 강해지는 민족음악론으로 전환되는 맹아가 싹트기 시작한다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	지점에	지점+에	ADV	_	3	obl	_	_	지점/ncn+에/jca
+3	이르면	이르+면	SCONJ	_	14	ccomp	_	_	이르/pvg+면/ecs
+4	보다	보다	ADV	_	5	advmod	_	_	보다/mag
+5	집단적인	집단+적+이+ㄴ	VERB	_	6	acl	_	_	집단/ncn+적/xsn+이/jp+ㄴ/etm
+6	실천에	실천+에	ADV	_	7	obl	_	_	실천/ncpa+에/jca
+7	대한	대하+ㄴ	VERB	_	8	acl	_	_	대하/pvg+ㄴ/etm
+8	이념이	이념+이	NOUN	_	9	nsubj	_	_	이념/ncn+이/jcs
+9	강해지는	강하+어+지+는	AUX	_	10	amod	_	_	강하/paa+어/ecx+지/px+는/etm
+10	민족음악론으로	민족+음악론+으로	ADV	_	11	advcl	_	_	민족/ncn+음악론/ncn+으로/jca
+11	전환되는	전환+되+는	VERB	_	12	acl	_	_	전환/ncpa+되/xsv+는/etm
+12	맹아가	맹아+가	NOUN	_	13	nsubj	_	_	맹아/ncn+가/jcs
+13	싹트기	싹트+기	VERB	_	14	nmod	_	_	싹트/pvg+기/etn
+14	시작한다	시작+하+ㄴ다	VERB	_	0	root	_	_	시작/ncpa+하/xsv+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그러나 보다 근본적인 문제는 민족문제에서 비롯된다 .
+1	그러나	그러나	CCONJ	_	6	cc	_	_	그러나/maj
+2	보다	보다	ADV	_	3	advmod	_	_	보다/mag
+3	근본적인	근본+적+이+ㄴ	VERB	_	4	acl	_	_	근본/ncn+적/xsn+이/jp+ㄴ/etm
+4	문제는	문제+는	NOUN	_	6	dislocated	_	_	문제/ncn+는/jxt
+5	민족문제에서	민족+문제+에서	ADV	_	6	advcl	_	_	민족/ncn+문제/ncn+에서/jca
+6	비롯된다	비롯+되+ㄴ다	VERB	_	0	root	_	_	비롯/ncpa+되/xsv+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이러한 까닭에 현재의 민족음악 운동의 뿌리와 전통은 적어도 조선후기부터 의식적으로 형성되었다는 역사적 해석이 가능해졌다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	까닭에	까닭+에	ADV	_	14	obl	_	_	까닭/ncn+에/jca
+3	현재의	현재+의	NOUN	_	5	nmod	_	_	현재/ncn+의/jcm
+4	민족음악	민족+음악	NOUN	_	5	compound	_	_	민족/ncn+음악/ncpa
+5	운동의	운동+의	NOUN	_	7	nmod	_	_	운동/ncpa+의/jcm
+6	뿌리와	뿌리+와	CCONJ	_	7	conj	_	_	뿌리/ncn+와/jcj
+7	전통은	전통+은	NOUN	_	11	dislocated	_	_	전통/ncn+은/jxt
+8	적어도	적어도	ADV	_	9	advmod	_	_	적어도/mag
+9	조선후기부터	조선+후기+부터	ADV	_	11	advcl	_	_	조선/nq+후기/ncn+부터/jxc
+10	의식적으로	의식+적+으로	ADV	_	11	advcl	_	_	의식/ncpa+적/xsn+으로/jca
+11	형성되었다는	형성+되+었+다는	VERB	_	13	acl	_	_	형성/ncpa+되/xsv+었/ep+다는/etm
+12	역사적	역사+적	NOUN	_	13	amod	_	_	역사/ncn+적/xsn
+13	해석이	해석+이	NOUN	_	14	nsubj	_	_	해석/ncpa+이/jcs
+14	가능해졌다	가능+하+어+지+었+다	AUX	_	0	root	_	_	가능/ncps+하/xsm+어/ecx+지/px+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 노등은의 한국음악사 연구작업은 여기서 일단락 지은 듯 보이지만 최근의 연구결과를 보면 다시 시대별로 그 내용을 심화시키고 있음을 알 수 있다 .
+1	노등은의	노등은+의	PROPN	_	3	nmod	_	_	노등은/nq+의/jcm
+2	한국음악사	한국+음악사	NOUN	_	3	compound	_	_	한국/nq+음악사/ncn
+3	연구작업은	연구작업+은	NOUN	_	6	dislocated	_	_	연구작업/ncpa+은/jxt
+4	여기서	여기+서	ADV	_	6	advcl	_	_	여기/npd+서/jca
+5	일단락	일단락	NOUN	_	6	dep	_	_	일단락/ncn
+6	지은	짓+ㄴ	VERB	_	7	acl	_	_	짓/pvg+ㄴ/etm
+7	듯	듯	NOUN	_	8	mark	_	_	듯/nbn
+8	보이지만	보이+지만	SCONJ	_	18	ccomp	_	_	보이/pvg+지만/ecs
+9	최근의	최근+의	NOUN	_	10	nmod	_	_	최근/ncn+의/jcm
+10	연구결과를	연구+결과+를	NOUN	_	11	obj	_	_	연구/ncpa+결과/ncn+를/jco
+11	보면	보+면	SCONJ	_	18	ccomp	_	_	보/pvg+면/ecs
+12	다시	다시	ADV	_	16	advmod	_	_	다시/mag
+13	시대별로	시대별+로	ADV	_	16	advcl	_	_	시대별/ncn+로/jca
+14	그	그	DET	_	15	det	_	_	그/mmd
+15	내용을	내용+을	NOUN	_	16	obj	_	_	내용/ncn+을/jco
+16	심화시키고	심화+시키+고	VERB	_	18	obj	_	_	심화/ncpa+시키/xsv+고/ecx
+17	있음을	있+ㅁ+을	NOUN	_	16	aux	_	_	있/px+ㅁ/etn+을/jco
+18	알	알+ㄹ	VERB	_	0	root	_	_	알/pvg+ㄹ/etm
+19	수	수	NOUN	_	20	fixed	_	_	수/nbn
+20	있다	있+다	ADJ	_	18	aux	_	_	있/paa+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 가장 두드러진 작업은 근현대 한국음악사 정리와 김순남에 대한 작가론을 집필한 것이다 .
+1	가장	가장	ADV	_	2	advmod	_	_	가장/mag
+2	두드러진	두드러지+ㄴ	VERB	_	3	acl	_	_	두드러지/pvg+ㄴ/etm
+3	작업은	작업+은	NOUN	_	11	dislocated	_	_	작업/ncpa+은/jxt
+4	근현대	근현대	NOUN	_	5	compound	_	_	근현대/ncn
+5	한국음악사	한국+음악사	NOUN	_	6	compound	_	_	한국/nq+음악사/ncn
+6	정리와	정리+와	CCONJ	_	9	conj	_	_	정리/ncpa+와/jcj
+7	김순남에	김순남+에	ADV	_	8	obl	_	_	김순남/nq+에/jca
+8	대한	대하+ㄴ	VERB	_	9	acl	_	_	대하/pvg+ㄴ/etm
+9	작가론을	작가론+을	NOUN	_	10	obj	_	_	작가론/ncn+을/jco
+10	집필한	집필+하+ㄴ	VERB	_	11	ccomp	_	_	집필/ncpa+하/xsv+ㄴ/etm
+11	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그렇다면 우리민족의 음악관은 무엇인가 ?
+1	그렇다면	그렇다면	CCONJ	_	4	cc	_	_	그렇다면/maj
+2	우리민족의	우리+민족+의	PRON	_	3	nmod	_	_	우리/npp+민족/ncn+의/jcm
+3	음악관은	음악관+은	NOUN	_	4	dislocated	_	_	음악관/ncn+은/jxt
+4	무엇인가	무엇+이+ㄴ가	VERB	_	0	root	_	_	무엇/npd+이/jp+ㄴ가/ef
+5	?	?	PUNCT	_	4	punct	_	_	?/sf
+

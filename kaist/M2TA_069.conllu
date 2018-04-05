@@ -1,0 +1,685 @@
+# 내 고향은 서울입니다 .
+1	내	내	ADJ	_	2	amod	_	_	내/mma
+2	고향은	고향+은	NOUN	_	3	dislocated	_	_	고향/ncn+은/jxt
+3	서울입니다	서울+이+ㅂ니다	VERB	_	0	root	_	_	서울/nq+이/jp+ㅂ니다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 옛날의 서울의 모습이 몹시 그립습니다 .
+1	옛날의	옛날+의	NOUN	_	2	nmod	_	_	옛날/ncn+의/jcm
+2	서울의	서울+의	PROPN	_	3	nmod	_	_	서울/nq+의/jcm
+3	모습이	모습+이	NOUN	_	5	nsubj	_	_	모습/ncn+이/jcs
+4	몹시	몹시	ADV	_	5	advmod	_	_	몹시/mag
+5	그립습니다	그립+습니다	ADJ	_	0	root	_	_	그립/paa+습니다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 이른 아침과 밤 늦게 종로 보신각의 종소리를 듣고 잠을 자고 잠에서 깨어나던 그 때 그 서울이 그립습니다 .
+1	이른	이르+ㄴ	ADJ	_	2	amod	_	_	이르/paa+ㄴ/etm
+2	아침과	아침+과	CCONJ	_	3	conj	_	_	아침/ncn+과/jcj
+3	밤	밤	NOUN	_	4	dep	_	_	밤/ncn
+4	늦게	늦+게	SCONJ	_	12	xcomp	_	_	늦/paa+게/ecs
+5	종로	종로	PROPN	_	6	flat	_	_	종로/nq
+6	보신각의	보신각+의	PROPN	_	7	nmod	_	_	보신각/nq+의/jcm
+7	종소리를	종소리+를	NOUN	_	8	obj	_	_	종소리/ncn+를/jco
+8	듣고	듣+고	CCONJ	_	10	conj	_	_	듣/pvg+고/ecc
+9	잠을	잠+을	NOUN	_	10	obj	_	_	잠/ncn+을/jco
+10	자고	자+고	CCONJ	_	12	conj	_	_	자/pvg+고/ecc
+11	잠에서	잠+에서	ADV	_	12	advcl	_	_	잠/ncn+에서/jca
+12	깨어나던	깨어나+던	VERB	_	14	acl	_	_	깨어나/pvg+던/etm
+13	그	그	DET	_	14	det	_	_	그/mmd
+14	때	때	NOUN	_	16	compound	_	_	때/ncn
+15	그	그	DET	_	16	det	_	_	그/mmd
+16	서울이	서울+이	PROPN	_	17	nsubj	_	_	서울/nq+이/jcs
+17	그립습니다	그립+습니다	ADJ	_	0	root	_	_	그립/paa+습니다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 서울에는 다리도 많았습니다 .
+1	서울에는	서울+에+는	PROPN	_	3	dislocated	_	_	서울/nq+에/jca+는/jxt
+2	다리도	다리+도	ADV	_	3	advcl	_	_	다리/ncn+도/jxc
+3	많았습니다	많+았+습니다	ADJ	_	0	root	_	_	많/paa+았/ep+습니다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 그 오간수다리에는 쇠창살이 설치되어있어서 장마 때 빗물에 떠내려간 것은 오간수다리에 걸려 있어서 임자가 찾아가곤 했지요 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	오간수다리에는	오간수+다리+에+는	PROPN	_	4	dislocated	_	_	오간수/nq+다리/ncn+에/jca+는/jxt
+3	쇠창살이	쇠창살+이	NOUN	_	4	nsubj	_	_	쇠창살/ncn+이/jcs
+4	설치되어있어서	설치+되+어+있+어서	SCONJ	_	11	ccomp	_	_	설치/ncpa+되/xsv+어/ecx+있/px+어서/ecs
+5	장마	장마	NOUN	_	6	compound	_	_	장마/ncn
+6	때	때	NOUN	_	8	advmod	_	_	때/ncn
+7	빗물에	빗물+에	ADV	_	8	obl	_	_	빗물/ncn+에/jca
+8	떠내려간	떠내려가+ㄴ	VERB	_	9	acl	_	_	떠내려가/pvg+ㄴ/etm
+9	것은	것+은	NOUN	_	11	dislocated	_	_	것/nbn+은/jxt
+10	오간수다리에	오간수+다리+에	ADV	_	11	obl	_	_	오간수/nq+다리/ncn+에/jca
+11	걸려	걸리+어	VERB	_	14	ccomp	_	_	걸리/pvg+어/ecx
+12	있어서	있+어서	SCONJ	_	11	aux	_	_	있/px+어서/ecs
+13	임자가	임자+가	NOUN	_	14	nsubj	_	_	임자/ncn+가/jcs
+14	찾아가곤	찾+아+가+곤	AUX	_	0	root	_	_	찾/pvg+아/ecx+가/px+곤/ecx
+15	했지요	하+었+지요	AUX	_	14	aux	_	_	하/px+었/ep+지요/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 본래 한양 근처는 처녀림 밀림지대였으므로 목재는 얼마든지 있었지만 기와가 없어 기와는 송도에서 구워서 한양으로 운반하기로 하였습니다 .
+1	본래	본래	ADV	_	5	advmod	_	_	본래/mag
+2	한양	한양	PROPN	_	3	compound	_	_	한양/nq
+3	근처는	근처+는	NOUN	_	5	dislocated	_	_	근처/ncn+는/jxt
+4	처녀림	처녀림	NOUN	_	5	compound	_	_	처녀림/ncn
+5	밀림지대였으므로	밀림+지대+이+었+으므로	SCONJ	_	8	conj	_	_	밀림/ncn+지대/ncn+이/jp+었/ep+으므로/ecs
+6	목재는	목재+는	NOUN	_	8	dislocated	_	_	목재/ncn+는/jxt
+7	얼마든지	얼마든지	ADV	_	8	advmod	_	_	얼마든지/mag
+8	있었지만	있+었+지만	SCONJ	_	10	xcomp	_	_	있/paa+었/ep+지만/ecs
+9	기와가	기와+가	NOUN	_	10	nsubj	_	_	기와/ncn+가/jcs
+10	없어	없+어	SCONJ	_	13	xcomp	_	_	없/paa+어/ecs
+11	기와는	기와+는	NOUN	_	13	dislocated	_	_	기와/ncn+는/jxt
+12	송도에서	송도+에서	ADV	_	13	advcl	_	_	송도/nq+에서/jca
+13	구워서	굽+어서	SCONJ	_	16	ccomp	_	_	굽/pvg+어서/ecs
+14	한양으로	한양+으로	ADV	_	15	advcl	_	_	한양/nq+으로/jca
+15	운반하기로	운반+하+기+로	ADV	_	16	advcl	_	_	운반/ncpa+하/xsv+기/etn+로/jca
+16	하였습니다	하+었+습니다	VERB	_	0	root	_	_	하/pvg+었/ep+습니다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 어쨌든 경북궁을 짓고 성을 쌓고 성 주위에는 문을 여덟 개나 세웠지요 .
+1	어쨌든	어쨌든	CCONJ	_	11	cc	_	_	어쨌든/maj
+2	경북궁을	경북궁+을	PROPN	_	3	obj	_	_	경북궁/nq+을/jco
+3	짓고	짓+고	CCONJ	_	5	conj	_	_	짓/pvg+고/ecc
+4	성을	성+을	NOUN	_	5	obj	_	_	성/ncn+을/jco
+5	쌓고	쌓+고	CCONJ	_	11	conj	_	_	쌓/pvg+고/ecc
+6	성	성	NOUN	_	7	compound	_	_	성/ncn
+7	주위에는	주위+에+는	NOUN	_	11	dislocated	_	_	주위/ncn+에/jca+는/jxt
+8	문을	문+을	NOUN	_	11	obj	_	_	문/ncn+을/jco
+9	여덟	여덟	NUM	_	10	nummod	_	_	여덟/nnc
+10	개나	개+나	ADV	_	11	advcl	_	_	개/nbu+나/jxc
+11	세웠지요	세우+었+지요	VERB	_	0	root	_	_	세우/pvg+었/ep+지요/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그때는 서울 장안에 소음이 없어서 보신각에서 아침 저녁으로 울려 나오는 종소리가 어디서나 다 들렸습니다 .
+1	그때는	그때+는	PRON	_	14	dislocated	_	_	그때/npd+는/jxt
+2	서울	서울	PROPN	_	3	compound	_	_	서울/nq
+3	장안에	장안+에	ADV	_	5	obl	_	_	장안/ncn+에/jca
+4	소음이	소음+이	NOUN	_	5	nsubj	_	_	소음/ncn+이/jcs
+5	없어서	없+어서	SCONJ	_	14	xcomp	_	_	없/paa+어서/ecs
+6	보신각에서	보신각+에서	ADV	_	9	advcl	_	_	보신각/nq+에서/jca
+7	아침	아침	NOUN	_	8	compound	_	_	아침/ncn
+8	저녁으로	저녁+으로	ADV	_	9	advcl	_	_	저녁/ncn+으로/jca
+9	울려	울리+어	VERB	_	11	acl	_	_	울리/pvg+어/ecx
+10	나오는	나오+는	AUX	_	9	aux	_	_	나오/px+는/etm
+11	종소리가	종소리+가	NOUN	_	14	nsubj	_	_	종소리/ncn+가/jcs
+12	어디서나	어디+서나	ADV	_	14	advcl	_	_	어디/npd+서나/jxc
+13	다	다	ADV	_	14	advmod	_	_	다/mag
+14	들렸습니다	들리+었+습니다	VERB	_	0	root	_	_	들리/pvg+었/ep+습니다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그 절을 짓고 나서 흥화문 대궐문을 헐어다가 박문사 정문으로 세웠습니다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	절을	절+을	NOUN	_	3	obj	_	_	절/ncn+을/jco
+3	짓고	짓+고	VERB	_	7	ccomp	_	_	짓/pvg+고/ecx
+4	나서	나+서	SCONJ	_	3	aux	_	_	나/px+서/ecs
+5	흥화문	흥화문	PROPN	_	6	compound	_	_	흥화문/nq
+6	대궐문을	대궐문+을	NOUN	_	7	obj	_	_	대궐문/ncn+을/jco
+7	헐어다가	헐+어다가	SCONJ	_	10	ccomp	_	_	헐/pvg+어다가/ecs
+8	박문사	박문사	PROPN	_	9	compound	_	_	박문사/nq
+9	정문으로	정문+으로	ADV	_	10	advcl	_	_	정문/ncn+으로/jca
+10	세웠습니다	세우+었+습니다	VERB	_	0	root	_	_	세우/pvg+었/ep+습니다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 흥화문이라는 현판은 어디로인지 간 곳이 없어지고 삼문 한가운데 문 위에는 박문사라는 현판이 달려 있었습니다 .
+1	흥화문이라는	흥화문+이+라는	VERB	_	2	acl	_	_	흥화문/nq+이/jp+라는/etm
+2	현판은	현판+은	NOUN	_	6	dislocated	_	_	현판/ncn+은/jxt
+3	어디로인지	어디+로+이+ㄴ지	SCONJ	_	4	ccomp	_	_	어디/npd+로/jca+이/jp+ㄴ지/ecs
+4	간	가+ㄴ	VERB	_	5	acl	_	_	가/pvg+ㄴ/etm
+5	곳이	곳+이	NOUN	_	6	nsubj	_	_	곳/ncn+이/jcs
+6	없어지고	없+어+지+고	CCONJ	_	13	conj	_	_	없/paa+어/ecx+지/px+고/ecc
+7	삼문	삼문	NOUN	_	8	compound	_	_	삼문/ncn
+8	한가운데	한가운데	NOUN	_	9	compound	_	_	한가운데/ncn
+9	문	문	NOUN	_	10	compound	_	_	문/ncn
+10	위에는	위+에+는	NOUN	_	13	dislocated	_	_	위/ncn+에/jca+는/jxt
+11	박문사라는	박문사+이+라는	VERB	_	12	acl	_	_	박문사/nq+이/jp+라는/etm
+12	현판이	현판+이	NOUN	_	13	nsubj	_	_	현판/ncn+이/jcs
+13	달려	달리+어	VERB	_	0	root	_	_	달리/pvg+어/ecx
+14	있었습니다	있+었+습니다	AUX	_	13	aux	_	_	있/px+었/ep+습니다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 나는 특히 장손이기 때문에 우리 조부께서 성묘 때 아들을 잘 데리고 가질 않아도 예닐곱 살 먹은 저를 꼭 데리고 갔습니다 .
+1	나는	나+는	PRON	_	3	dislocated	_	_	나/npp+는/jxt
+2	특히	특히	ADV	_	3	advmod	_	_	특히/mag
+3	장손이기	장손+이+기	VERB	_	4	nmod	_	_	장손/ncn+이/jp+기/etn
+4	때문에	때문+에	ADV	_	20	obl	_	_	때문/nbn+에/jca
+5	우리	우리	PRON	_	6	compound	_	_	우리/npp
+6	조부께서	조부+께서	NOUN	_	20	nsubj	_	_	조부/ncn+께서/jcs
+7	성묘	성묘	NOUN	_	8	compound	_	_	성묘/ncn
+8	때	때	NOUN	_	12	advmod	_	_	때/ncn
+9	아들을	아들+을	NOUN	_	12	obj	_	_	아들/ncn+을/jco
+10	잘	잘	ADV	_	12	advmod	_	_	잘/mag
+11	데리고	데리+고	SCONJ	_	12	ccomp	_	_	데리/pvg+고/ecs
+12	가질	가+지+ㄹ	NOUN	_	20	ccomp	_	_	가/pvg+지/ecx+ㄹ/jco
+13	않아도	않+아도	SCONJ	_	12	aux	_	_	않/px+아도/ecs
+14	예닐곱	예닐곱	NUM	_	15	nummod	_	_	예닐곱/nnc
+15	살	살	NOUN	_	16	dep	_	_	살/nbu
+16	먹은	먹+ㄴ	VERB	_	17	acl	_	_	먹/pvg+ㄴ/etm
+17	저를	저+를	PRON	_	20	obj	_	_	저/npp+를/jco
+18	꼭	꼭	ADV	_	20	advmod	_	_	꼭/mag
+19	데리고	데리+고	SCONJ	_	20	ccomp	_	_	데리/pvg+고/ecs
+20	갔습니다	가+ㅆ+습니다	VERB	_	0	root	_	_	가/pvg+ㅆ/ep+습니다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그 마장이란 곳은 미나리 밭이 많았고 그 옆으로는 청계천 하류가 있었어요 .
+1	그	그	DET	_	3	det	_	_	그/mmd
+2	마장이란	마장+이+란	VERB	_	3	acl	_	_	마장/nq+이/jp+란/etm
+3	곳은	곳+은	NOUN	_	6	dislocated	_	_	곳/ncn+은/jxt
+4	미나리	미나리	NOUN	_	5	compound	_	_	미나리/ncn
+5	밭이	밭+이	NOUN	_	6	nsubj	_	_	밭/ncn+이/jcs
+6	많았고	많+았+고	CCONJ	_	11	conj	_	_	많/paa+았/ep+고/ecc
+7	그	그	DET	_	8	det	_	_	그/mmd
+8	옆으로는	옆+으로+는	NOUN	_	11	dislocated	_	_	옆/ncn+으로/jca+는/jxt
+9	청계천	청계천	PROPN	_	10	compound	_	_	청계천/nq
+10	하류가	하류+가	NOUN	_	11	nsubj	_	_	하류/ncn+가/jcs
+11	있었어요	있+었+어+요	VERB	_	0	root	_	_	있/paa+었/ep+어/ef+요/jxf
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 아주 잘 꾸며 놨었지요 .
+1	아주	아주	ADV	_	3	advmod	_	_	아주/mag
+2	잘	잘	ADV	_	3	advmod	_	_	잘/mag
+3	꾸며	꾸미+어	VERB	_	0	root	_	_	꾸미/pvg+어/ecx
+4	놨었지요	놓+았었+지요	AUX	_	3	aux	_	_	놓/px+았었/ep+지요/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 아마 땅이 좋았던 모양이지요 .
+1	아마	아마	ADV	_	3	advmod	_	_	아마/mag
+2	땅이	땅+이	NOUN	_	3	nsubj	_	_	땅/ncn+이/jcs
+3	좋았던	좋+았+던	ADJ	_	4	amod	_	_	좋/paa+았/ep+던/etm
+4	모양이지요	모양+이+지요	VERB	_	0	root	_	_	모양/ncn+이/jp+지요/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 다 볶으면 바가지에 담아서 온 식구가 둘러 앉아서 씹어 먹는데 , 아작아작 씹어 먹지요 .
+1	다	다	ADV	_	2	advmod	_	_	다/mag
+2	볶으면	볶+으면	SCONJ	_	4	ccomp	_	_	볶/pvg+으면/ecs
+3	바가지에	바가지+에	ADV	_	4	obl	_	_	바가지/ncn+에/jca
+4	담아서	담+아서	SCONJ	_	8	ccomp	_	_	담/pvg+아서/ecs
+5	온	온	ADJ	_	6	amod	_	_	온/mma
+6	식구가	식구+가	NOUN	_	8	nsubj	_	_	식구/ncn+가/jcs
+7	둘러	두르+어	SCONJ	_	8	ccomp	_	_	두르/pvg+어/ecs
+8	앉아서	앉+아서	SCONJ	_	10	ccomp	_	_	앉/pvg+아서/ecs
+9	씹어	씹+어	SCONJ	_	10	ccomp	_	_	씹/pvg+어/ecs
+10	먹는데	먹+는데	SCONJ	_	14	ccomp	_	_	먹/pvg+는데/ecs
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	아작아작	아작아작	ADV	_	14	advmod	_	_	아작아작/mag
+13	씹어	씹+어	SCONJ	_	14	ccomp	_	_	씹/pvg+어/ecs
+14	먹지요	먹+지요	VERB	_	0	root	_	_	먹/pvg+지요/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 왜놈들을 잡아 먹는 겁니다 .
+1	왜놈들을	왜놈+들+을	NOUN	_	3	obj	_	_	왜놈/ncn+들/xsn+을/jco
+2	잡아	잡+아	SCONJ	_	3	ccomp	_	_	잡/pvg+아/ecs
+3	먹는	먹+는	VERB	_	0	root	_	_	먹/pvg+는/etm
+4	겁니다	거+이+ㅂ니다	VERB	_	3	aux	_	_	거/nbn+이/jp+ㅂ니다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 먹을 때 다 먹지 않고 반쯤 남기지요 .
+1	먹을	먹+ㄹ	VERB	_	2	acl	_	_	먹/pvg+ㄹ/etm
+2	때	때	NOUN	_	7	advmod	_	_	때/ncn
+3	다	다	ADV	_	4	advmod	_	_	다/mag
+4	먹지	먹+지	VERB	_	7	conj	_	_	먹/pvg+지/ecx
+5	않고	않+고	CCONJ	_	4	aux	_	_	않/px+고/ecc
+6	반쯤	반+쯤	NOUN	_	7	advmod	_	_	반/ncn+쯤/xsn
+7	남기지요	남기+지요	VERB	_	0	root	_	_	남기/pvg+지요/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 하며 소리치지요 .
+1	하며	하+며	CCONJ	_	2	conj	_	_	하/pvg+며/ecc
+2	소리치지요	소리치+지+요	VERB	_	3	conj	_	_	소리치/pvg+지/ef+요/jxf
+3	.	.	PUNCT	_	0	root	_	_	./sf
+
+# 이와 같이 콩을 볶고 나서는 잡아 먹고 , 그것으로 부족하니까 파묻고 밟습니다 .
+1	이와	이+와	CCONJ	_	2	conj	_	_	이/npd+와/jct
+2	같이	같+이	SCONJ	_	7	xcomp	_	_	같/paa+이/ecs
+3	콩을	콩+을	NOUN	_	4	obj	_	_	콩/ncn+을/jco
+4	볶고	볶+고	VERB	_	7	ccomp	_	_	볶/pvg+고/ecx
+5	나서는	나+서+는	NOUN	_	4	aux	_	_	나/px+서/ecs+는/jxt
+6	잡아	잡+아	SCONJ	_	7	ccomp	_	_	잡/pvg+아/ecs
+7	먹고	먹+고	CCONJ	_	13	conj	_	_	먹/pvg+고/ecc
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	그것으로	그것+으로	ADV	_	10	advcl	_	_	그것/npd+으로/jca
+10	부족하니까	부족+하+니까	SCONJ	_	13	xcomp	_	_	부족/ncps+하/xsm+니까/ecs
+11	파묻고	파묻+고	CCONJ	_	12	conj	_	_	파묻/pvg+고/ecc
+12	밟습니다	밟+습니다	VERB	_	13	conj	_	_	밟/pvg+습니다/ef
+13	.	.	PUNCT	_	0	root	_	_	./sf
+
+# 즉 부산 동래부를 거쳐서 언양으로 , 울산으로 경주로 해서는 문경새재를 넘었답니다 .
+1	즉	즉	CCONJ	_	11	cc	_	_	즉/maj
+2	부산	부산	PROPN	_	3	flat	_	_	부산/nq
+3	동래부를	동래부+를	PROPN	_	4	obj	_	_	동래부/nq+를/jco
+4	거쳐서	거치+어서	SCONJ	_	9	ccomp	_	_	거치/pvg+어서/ecs
+5	언양으로	언양+으로	ADV	_	8	dep	_	_	언양/nq+으로/jca
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	울산으로	울산+으로	ADV	_	8	advcl	_	_	울산/nq+으로/jca
+8	경주로	경주+로	ADV	_	9	advmod	_	_	경주/nq+로/jca
+9	해서는	하+어서+는	NOUN	_	11	ccomp	_	_	하/pvg+어서/ecs+는/jxt
+10	문경새재를	문경+새재+를	PROPN	_	11	obj	_	_	문경/nq+새재/nq+를/jco
+11	넘었답니다	넘+었+답니다	VERB	_	0	root	_	_	넘/pvg+었/ep+답니다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그 살곶이다리는 그 당시 남쪽으로 통하는 제일 큰 다리였습니다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	살곶이다리는	살곶이+다리+는	PROPN	_	9	dislocated	_	_	살곶이/nq+다리/ncn+는/jxt
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	당시	당시	NOUN	_	9	advmod	_	_	당시/ncn
+5	남쪽으로	남쪽+으로	ADV	_	6	advcl	_	_	남쪽/ncn+으로/jca
+6	통하는	통하+는	VERB	_	9	ccomp	_	_	통하/pvg+는/etm
+7	제일	제일	ADV	_	8	advmod	_	_	제일/mag
+8	큰	크+ㄴ	ADJ	_	9	amod	_	_	크/paa+ㄴ/etm
+9	다리였습니다	다리+이+었+습니다	VERB	_	0	root	_	_	다리/ncn+이/jp+었/ep+습니다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그 다리를 건너서 증포리 , 사근리 , 왕십리 , 마장리로 쳐들어왔습니다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	다리를	다리+를	NOUN	_	3	obj	_	_	다리/ncn+를/jco
+3	건너서	건너+서	SCONJ	_	11	ccomp	_	_	건너/pvg+서/ecs
+4	증포리	증포리	PROPN	_	6	conj	_	_	증포리/nq
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	사근리	사근리	PROPN	_	8	conj	_	_	사근리/nq
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	왕십리	왕십리	PROPN	_	10	conj	_	_	왕십리/nq
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	마장리로	마장리+로	ADV	_	11	advcl	_	_	마장리/nq+로/jca
+11	쳐들어왔습니다	쳐들+어+오+았+습니다	AUX	_	0	root	_	_	쳐들/pvg+어/ecx+오/px+았/ep+습니다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 하여튼 왜놈들이 이곳에 와서 진을 쳤습니다 .
+1	하여튼	하여튼	ADV	_	6	advmod	_	_	하여튼/mag
+2	왜놈들이	왜놈+들+이	NOUN	_	6	nsubj	_	_	왜놈/ncn+들/xsn+이/jcs
+3	이곳에	이곳+에	ADV	_	4	obl	_	_	이곳/npd+에/jca
+4	와서	오+아서	SCONJ	_	6	ccomp	_	_	오/pvg+아서/ecs
+5	진을	진+을	NOUN	_	6	obj	_	_	진/ncn+을/jco
+6	쳤습니다	치+었+습니다	VERB	_	0	root	_	_	치/pvg+었/ep+습니다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 처음에는 귀를 소금에 절이다가 결국은 코를 소금에 절여 가지고 갔습니다 .
+1	처음에는	처음+에+는	NOUN	_	4	dislocated	_	_	처음/ncn+에/jca+는/jxt
+2	귀를	귀+를	NOUN	_	4	obj	_	_	귀/ncn+를/jco
+3	소금에	소금+에	ADV	_	4	obl	_	_	소금/ncn+에/jca
+4	절이다가	절이+다가	SCONJ	_	11	ccomp	_	_	절이/pvg+다가/ecs
+5	결국은	결국+은	NOUN	_	8	dislocated	_	_	결국/ncn+은/jxt
+6	코를	코+를	NOUN	_	8	obj	_	_	코/ncn+를/jco
+7	소금에	소금+에	ADV	_	8	obl	_	_	소금/ncn+에/jca
+8	절여	절이+어	VERB	_	10	conj	_	_	절이/pvg+어/ecx
+9	가지고	가지+고	CCONJ	_	8	aux	_	_	가지/px+고/ecc
+10	갔습니다	가+ㅆ+습니다	VERB	_	11	conj	_	_	가/pvg+ㅆ/ep+습니다/ef
+11	.	.	PUNCT	_	0	root	_	_	./sf
+
+# 너무 착하다보니 말입니다 .
+1	너무	너무	ADV	_	2	advmod	_	_	너무/mag
+2	착하다보니	착하+다+보+니	SCONJ	_	0	root	_	_	착하/paa+다/ecx+보/px+니/ecs
+3	말입니다	말입니다	INTJ	_	2	discourse	_	_	말입니다/ii
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 소금에 절인 코를 가져간 왜놈들은 코 하나에 사람 하나 , 대가리 하나다 하고 전공을 세었겠지요 .
+1	소금에	소금+에	ADV	_	2	obl	_	_	소금/ncn+에/jca
+2	절인	절이+ㄴ	VERB	_	3	acl	_	_	절이/pvg+ㄴ/etm
+3	코를	코+를	NOUN	_	4	obj	_	_	코/ncn+를/jco
+4	가져간	가지+어+가+ㄴ	AUX	_	5	acl	_	_	가지/pvg+어/ecx+가/px+ㄴ/etm
+5	왜놈들은	왜놈+들+은	NOUN	_	15	dislocated	_	_	왜놈/ncn+들/xsn+은/jxt
+6	코	코	NOUN	_	7	compound	_	_	코/ncn
+7	하나에	하나+에	ADV	_	12	obl	_	_	하나/nnc+에/jca
+8	사람	사람	NOUN	_	9	compound	_	_	사람/ncn
+9	하나	하나	NUM	_	12	nummod	_	_	하나/nnc
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	대가리	대가리	NOUN	_	12	compound	_	_	대가리/ncn
+12	하나다	하나+이+다	SCONJ	_	13	ccomp	_	_	하나/nnc+이/jp+다/ecs
+13	하고	하+고	CCONJ	_	15	conj	_	_	하/pvg+고/ecc
+14	전공을	전공+을	NOUN	_	15	obj	_	_	전공/ncn+을/jco
+15	세었겠지요	세+었겠+지+요	VERB	_	0	root	_	_	세/pvg+었겠/ep+지/ef+요/jxf
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그것이 경도에 있는 풍국신사인데 , 그 입구에 큰 대갓집 행랑채처럼 돼있는 그곳에 코를 묻었답니다 .
+1	그것이	그것+이	PRON	_	3	nsubj	_	_	그것/npd+이/jcs
+2	경도에	경도+에	ADV	_	3	obl	_	_	경도/nq+에/jca
+3	있는	있+는	ADJ	_	4	amod	_	_	있/paa+는/etm
+4	풍국신사인데	풍국신사+이+ㄴ데	SCONJ	_	14	ccomp	_	_	풍국신사/nq+이/jp+ㄴ데/ecs
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	그	그	DET	_	7	det	_	_	그/mmd
+7	입구에	입구+에	ADV	_	11	obl	_	_	입구/ncn+에/jca
+8	큰	크+ㄴ	ADJ	_	10	amod	_	_	크/paa+ㄴ/etm
+9	대갓집	대갓집	NOUN	_	10	compound	_	_	대갓집/ncn
+10	행랑채처럼	행랑채+처럼	ADV	_	11	advcl	_	_	행랑채/ncn+처럼/jca
+11	돼있는	되+어+있+는	AUX	_	12	acl	_	_	되/pvg+어/ecx+있/px+는/etm
+12	그곳에	그곳+에	ADV	_	14	obl	_	_	그곳/npd+에/jca
+13	코를	코+를	NOUN	_	14	obj	_	_	코/ncn+를/jco
+14	묻었답니다	묻+었+답니다	VERB	_	0	root	_	_	묻/pvg+었/ep+답니다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 임진왜란 때 왜놈들이 쳐들어오는 바람에 우리는 많은 인명 피해와 재산 피해를 입었습니다 .
+1	임진왜란	임진왜란	PROPN	_	2	compound	_	_	임진왜란/nq
+2	때	때	NOUN	_	12	advmod	_	_	때/ncn
+3	왜놈들이	왜놈+들+이	NOUN	_	4	nsubj	_	_	왜놈/ncn+들/xsn+이/jcs
+4	쳐들어오는	쳐들어오+는	VERB	_	5	acl	_	_	쳐들어오/pvg+는/etm
+5	바람에	바람+에	ADV	_	12	obl	_	_	바람/nbn+에/jca
+6	우리는	우리+는	PRON	_	12	dislocated	_	_	우리/npp+는/jxt
+7	많은	많+ㄴ	ADJ	_	9	amod	_	_	많/paa+ㄴ/etm
+8	인명	인명	NOUN	_	9	compound	_	_	인명/ncn
+9	피해와	피해+와	CCONJ	_	11	conj	_	_	피해/ncn+와/jcj
+10	재산	재산	NOUN	_	11	compound	_	_	재산/ncn
+11	피해를	피해+를	NOUN	_	12	obj	_	_	피해/ncn+를/jco
+12	입었습니다	입+었+습니다	VERB	_	0	root	_	_	입/pvg+었/ep+습니다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 옛 서울의 아름답던 기와집들은 모두 불에 타 없어지고 초가집으로 바뀔 수밖에 없었습니다 .
+1	옛	옛	ADJ	_	2	amod	_	_	옛/mma
+2	서울의	서울+의	PROPN	_	4	nmod	_	_	서울/nq+의/jcm
+3	아름답던	아름답+던	ADJ	_	4	amod	_	_	아름답/paa+던/etm
+4	기와집들은	기와집+들+은	NOUN	_	10	dislocated	_	_	기와집/ncn+들/xsn+은/jxt
+5	모두	모두	ADV	_	7	advmod	_	_	모두/mag
+6	불에	불+에	ADV	_	7	obl	_	_	불/ncn+에/jca
+7	타	타+아	SCONJ	_	8	conj	_	_	타/pvg+아/ecs
+8	없어지고	없+어+지+고	CCONJ	_	10	conj	_	_	없/paa+어/ecx+지/px+고/ecc
+9	초가집으로	초가집+으로	ADV	_	10	advcl	_	_	초가집/ncn+으로/jca
+10	바뀔	바뀌+ㄹ	VERB	_	0	root	_	_	바뀌/pvg+ㄹ/etm
+11	수밖에	수+밖에	ADV	_	12	fixed	_	_	수/nbn+밖에/jxc
+12	없었습니다	없+었+습니다	ADJ	_	10	aux	_	_	없/paa+었/ep+습니다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 한인은 성냥 , 연필 , 공책 , 비누 같은 일용품도 만들지 못하도록 하고 토지를 빼앗아 간도로 밀려나가게 되었다 .
+1	한인은	한인+은	NOUN	_	17	dislocated	_	_	한인/ncn+은/jxt
+2	성냥	성냥	NOUN	_	4	conj	_	_	성냥/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	연필	연필	NOUN	_	6	conj	_	_	연필/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	공책	공책	NOUN	_	8	conj	_	_	공책/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	비누	비누	NOUN	_	9	dep	_	_	비누/ncn
+9	같은	같+ㄴ	ADJ	_	10	amod	_	_	같/paa+ㄴ/etm
+10	일용품도	일용품+도	ADV	_	11	advcl	_	_	일용품/ncn+도/jxc
+11	만들지	만들+지	VERB	_	13	ccomp	_	_	만들/pvg+지/ecx
+12	못하도록	못하+도록	SCONJ	_	11	aux	_	_	못하/px+도록/ecs
+13	하고	하+고	CCONJ	_	17	conj	_	_	하/pvg+고/ecc
+14	토지를	토지+를	NOUN	_	15	obj	_	_	토지/ncn+를/jco
+15	빼앗아	빼앗+아	SCONJ	_	17	ccomp	_	_	빼앗/pvg+아/ecs
+16	간도로	간도+로	ADV	_	17	advcl	_	_	간도/nq+로/jca
+17	밀려나가게	밀리+어+나+아+가+게	AUX	_	0	root	_	_	밀리/pvg+어/ecx+나/px+아/ecx+가/px+게/ecx
+18	되었다	되+었+다	AUX	_	17	aux	_	_	되/px+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 언더우드 목사는 서울에 와서 미국 공관 곁의 정동에 자리를 잡았다 .
+1	언더우드	언더우드	PROPN	_	2	compound	_	_	언더우드/nq
+2	목사는	목사+는	NOUN	_	10	dislocated	_	_	목사/ncn+는/jxt
+3	서울에	서울+에	ADV	_	4	obl	_	_	서울/nq+에/jca
+4	와서	오+아서	SCONJ	_	10	ccomp	_	_	오/pvg+아서/ecs
+5	미국	미국	PROPN	_	6	compound	_	_	미국/nq
+6	공관	공관	NOUN	_	7	compound	_	_	공관/ncn
+7	곁의	곁+의	NOUN	_	8	nmod	_	_	곁/ncn+의/jcm
+8	정동에	정동+에	ADV	_	10	obl	_	_	정동/nq+에/jca
+9	자리를	자리+를	NOUN	_	10	obj	_	_	자리/ncpa+를/jco
+10	잡았다	잡+았+다	VERB	_	0	root	_	_	잡/pvg+았/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 서대문 안의 본래의 정능 자리에는 후에 영국 대사관이 세워졌다 .
+1	서대문	서대문	PROPN	_	2	compound	_	_	서대문/nq
+2	안의	안+의	NOUN	_	4	nmod	_	_	안/ncn+의/jcm
+3	본래의	본래+의	NOUN	_	4	nmod	_	_	본래/ncn+의/jcm
+4	정능	정능	PROPN	_	5	compound	_	_	정능/nq
+5	자리에는	자리+에+는	NOUN	_	9	dislocated	_	_	자리/ncn+에/jca+는/jxt
+6	후에	후+에	ADV	_	9	obl	_	_	후/ncn+에/jca
+7	영국	영국	PROPN	_	8	compound	_	_	영국/nq
+8	대사관이	대사관+이	NOUN	_	9	nsubj	_	_	대사관/ncn+이/jcs
+9	세워졌다	세우+어+지+었+다	AUX	_	0	root	_	_	세우/pvg+어/ecx+지/px+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 정동이 한국의 신문화 신교육의 발상지가 된 내력을 말했으니 , 이제는 서양식 신교육이 본격적으로 전래하던 시초를 말해야겠다 .
+1	정동이	정동+이	PROPN	_	6	nsubj	_	_	정동/nq+이/jcs
+2	한국의	한국+의	PROPN	_	4	nmod	_	_	한국/nq+의/jcm
+3	신문화	신문화	NOUN	_	4	compound	_	_	신문화/ncn
+4	신교육의	신교육+의	NOUN	_	5	nmod	_	_	신교육/ncn+의/jcm
+5	발상지가	발상지+가	NOUN	_	6	csubj	_	_	발상지/ncn+가/jcc
+6	된	되+ㄴ	VERB	_	7	acl	_	_	되/pvg+ㄴ/etm
+7	내력을	내력+을	NOUN	_	8	obj	_	_	내력/ncn+을/jco
+8	말했으니	말하+었+으니	SCONJ	_	16	ccomp	_	_	말하/pvg+었/ep+으니/ecs
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	이제는	이제+는	NOUN	_	16	dislocated	_	_	이제/ncn+는/jxt
+11	서양식	서양식	NOUN	_	12	compound	_	_	서양식/ncn
+12	신교육이	신교육+이	NOUN	_	14	nsubj	_	_	신교육/ncn+이/jcs
+13	본격적으로	본격+적+으로	ADV	_	14	advcl	_	_	본격/ncn+적/xsn+으로/jca
+14	전래하던	전래+하+던	VERB	_	15	acl	_	_	전래/ncpa+하/xsv+던/etm
+15	시초를	시초+를	NOUN	_	16	obj	_	_	시초/ncn+를/jco
+16	말해야겠다	말하+어야겠+다	VERB	_	0	root	_	_	말하/pvg+어야겠/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 마침내 장로교회의 한국 선교사로 파송되어 오는 길에 일본에서 감리교의 선교사 아펜젤러 부부와 함께 배를 타고 인천에 도착하였다 .
+1	마침내	마침내	ADV	_	5	advmod	_	_	마침내/mag
+2	장로교회의	장로교회+의	NOUN	_	4	nmod	_	_	장로교회/ncn+의/jcm
+3	한국	한국	PROPN	_	4	compound	_	_	한국/nq
+4	선교사로	선교사+로	ADV	_	5	advcl	_	_	선교사/ncn+로/jca
+5	파송되어	파송+되+어	VERB	_	7	acl	_	_	파송/ncpa+되/xsv+어/ecx
+6	오는	오+는	AUX	_	5	aux	_	_	오/px+는/etm
+7	길에	길+에	ADV	_	15	obl	_	_	길/ncn+에/jca
+8	일본에서	일본+에서	ADV	_	15	advcl	_	_	일본/nq+에서/jca
+9	감리교의	감리교+의	NOUN	_	10	nmod	_	_	감리교/ncn+의/jcm
+10	선교사	선교사	NOUN	_	12	compound	_	_	선교사/ncn
+11	아펜젤러	아펜젤러	PROPN	_	12	compound	_	_	아펜젤러/nq
+12	부부와	부부+와	CCONJ	_	13	conj	_	_	부부/ncn+와/jct
+13	함께	함께	ADV	_	15	advmod	_	_	함께/mag
+14	배를	배+를	NOUN	_	15	obj	_	_	배/ncn+를/jco
+15	타고	타+고	CCONJ	_	17	conj	_	_	타/pvg+고/ecc
+16	인천에	인천+에	ADV	_	17	obl	_	_	인천/nq+에/jca
+17	도착하였다	도착+하+었+다	VERB	_	0	root	_	_	도착/ncpa+하/xsv+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그는 영어를 가르친 뒤에 정동에 고아원을 창설하고 이어서 주간학교를 개설하였다 .
+1	그는	그+는	PRON	_	10	dislocated	_	_	그/npp+는/jxt
+2	영어를	영어+를	PROPN	_	3	obj	_	_	영어/nq+를/jco
+3	가르친	가르치+ㄴ	VERB	_	4	acl	_	_	가르치/pvg+ㄴ/etm
+4	뒤에	뒤+에	ADV	_	7	obl	_	_	뒤/ncn+에/jca
+5	정동에	정동+에	ADV	_	7	obl	_	_	정동/nq+에/jca
+6	고아원을	고아원+을	NOUN	_	7	obj	_	_	고아원/ncn+을/jco
+7	창설하고	창설+하+고	CCONJ	_	10	conj	_	_	창설/ncpa+하/xsv+고/ecc
+8	이어서	잇+어서	SCONJ	_	10	ccomp	_	_	잇/pvg+어서/ecs
+9	주간학교를	주간+학교+를	NOUN	_	10	obj	_	_	주간/ncn+학교/ncn+를/jco
+10	개설하였다	개설+하+었+다	VERB	_	0	root	_	_	개설/ncpa+하/xsv+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 초기의 학생은 송순명 , 안창석 , 김유순 , 김규식 등이었다 .
+1	초기의	초기+의	NOUN	_	2	nmod	_	_	초기/ncn+의/jcm
+2	학생은	학생+은	NOUN	_	10	dislocated	_	_	학생/ncn+은/jxt
+3	송순명	송순명	PROPN	_	5	conj	_	_	송순명/nq
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	안창석	안창석	PROPN	_	7	conj	_	_	안창석/nq
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	김유순	김유순	PROPN	_	9	conj	_	_	김유순/nq
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	김규식	김규식	PROPN	_	10	compound	_	_	김규식/nq
+10	등이었다	등+이+었+다	VERB	_	0	root	_	_	등/nbn+이/jp+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 김규식 선생도 그런 고아의 한 예이다 .
+1	김규식	김규식	PROPN	_	2	compound	_	_	김규식/nq
+2	선생도	선생+도	ADV	_	6	advcl	_	_	선생/ncn+도/jxc
+3	그런	그런	DET	_	4	det	_	_	그런/mmd
+4	고아의	고아+의	NOUN	_	6	nmod	_	_	고아/ncn+의/jcm
+5	한	한	NUM	_	6	nummod	_	_	한/nnc
+6	예이다	예+이+다	VERB	_	0	root	_	_	예/ncn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 도산 안창호 선생은 고아는 아니지만 그 학당의 출신으로 그 학당의 선생이 된 분이다 .
+1	도산	도산	PROPN	_	3	compound	_	_	도산/nq
+2	안창호	안창호	PROPN	_	3	compound	_	_	안창호/nq
+3	선생은	선생+은	NOUN	_	13	dislocated	_	_	선생/ncn+은/jxt
+4	고아는	고아+는	NOUN	_	5	dislocated	_	_	고아/ncn+는/jxt
+5	아니지만	아니+지만	SCONJ	_	13	xcomp	_	_	아니/paa+지만/ecs
+6	그	그	DET	_	7	det	_	_	그/mmd
+7	학당의	학당+의	NOUN	_	8	nmod	_	_	학당/ncn+의/jcm
+8	출신으로	출신+으로	ADV	_	12	advcl	_	_	출신/ncn+으로/jca
+9	그	그	DET	_	10	det	_	_	그/mmd
+10	학당의	학당+의	NOUN	_	11	nmod	_	_	학당/ncn+의/jcm
+11	선생이	선생+이	NOUN	_	12	csubj	_	_	선생/ncn+이/jcc
+12	된	되+ㄴ	VERB	_	13	ccomp	_	_	되/pvg+ㄴ/etm
+13	분이다	분+이+다	VERB	_	0	root	_	_	분/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 정신여학교의 내력은 이러하다 .
+1	정신여학교의	정신+여학교+의	PROPN	_	2	nmod	_	_	정신/nq+여학교/ncn+의/jcm
+2	내력은	내력+은	NOUN	_	3	dislocated	_	_	내력/ncn+은/jxt
+3	이러하다	이러하+다	VERB	_	0	root	_	_	이러하/pad+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 어느날 고학당에 새로운 사례가 생겼다 .
+1	어느날	어느날	NOUN	_	5	advmod	_	_	어느날/ncn
+2	고학당에	고학당+에	ADV	_	5	obl	_	_	고학당/nq+에/jca
+3	새로운	새롭+ㄴ	ADJ	_	4	amod	_	_	새롭/paa+ㄴ/etm
+4	사례가	사례+가	NOUN	_	5	nsubj	_	_	사례/ncn+가/jcs
+5	생겼다	생기+었+다	VERB	_	0	root	_	_	생기/pvg+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그는 원두우 학당의 주일 학교를 지도하게 되었다 .
+1	그는	그+는	PRON	_	6	dislocated	_	_	그/npp+는/jxt
+2	원두우	원두우	PROPN	_	3	compound	_	_	원두우/nq
+3	학당의	학당+의	NOUN	_	5	nmod	_	_	학당/ncn+의/jcm
+4	주일	주일	NOUN	_	5	compound	_	_	주일/ncn
+5	학교를	학교+를	NOUN	_	6	obj	_	_	학교/ncn+를/jco
+6	지도하게	지도+하+게	VERB	_	0	root	_	_	지도/ncpa+하/xsv+게/ecx
+7	되었다	되+었+다	AUX	_	6	aux	_	_	되/px+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그는 여러 대학에서 많이 공부하고 외교관 자격까지 획득한 유식하고 유능한 인물이었다 .
+1	그는	그+는	PRON	_	11	dislocated	_	_	그/npp+는/jxt
+2	여러	여러	ADJ	_	3	amod	_	_	여러/mma
+3	대학에서	대학+에서	ADV	_	5	advcl	_	_	대학/ncn+에서/jca
+4	많이	많이	ADV	_	5	advmod	_	_	많이/mag
+5	공부하고	공부+하+고	CCONJ	_	11	conj	_	_	공부/ncpa+하/xsv+고/ecc
+6	외교관	외교관	NOUN	_	7	compound	_	_	외교관/ncn
+7	자격까지	자격+까지	ADV	_	8	advcl	_	_	자격/ncn+까지/jxc
+8	획득한	획득+하+ㄴ	VERB	_	11	ccomp	_	_	획득/ncpa+하/xsv+ㄴ/etm
+9	유식하고	유식+하+고	CCONJ	_	10	conj	_	_	유식/ncps+하/xsm+고/ecc
+10	유능한	유능+하+ㄴ	VERB	_	11	amod	_	_	유능/ncps+하/xsm+ㄴ/etm
+11	인물이었다	인물+이+었+다	VERB	_	0	root	_	_	인물/ncn+이/jp+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러던 중 배위량은 선교회에서 평양지부로 이임시켜서 마펫 목사를 도와 그의 소신을 펴서 숭실학당을 설립하고 다년간 학당장을 역임했다 .
+1	그러던	그러+더+ㄴ	VERB	_	2	acl	_	_	그러/pvd+더/ep+ㄴ/etm
+2	중	중	NOUN	_	17	advmod	_	_	중/nbn
+3	배위량은	배위량+은	PROPN	_	17	dislocated	_	_	배위량/nq+은/jxt
+4	선교회에서	선교회+에서	ADV	_	6	advcl	_	_	선교회/ncn+에서/jca
+5	평양지부로	평양+지부+로	ADV	_	6	advcl	_	_	평양/nq+지부/ncn+로/jca
+6	이임시켜서	이임+시키+어서	SCONJ	_	9	ccomp	_	_	이임/ncpa+시키/xsv+어서/ecs
+7	마펫	마펫	PROPN	_	8	compound	_	_	마펫/nq
+8	목사를	목사+를	NOUN	_	9	obj	_	_	목사/ncn+를/jco
+9	도와	돕+아	SCONJ	_	12	ccomp	_	_	돕/pvg+아/ecs
+10	그의	그+의	PRON	_	11	nmod	_	_	그/npp+의/jcm
+11	소신을	소신+을	NOUN	_	12	obj	_	_	소신/ncn+을/jco
+12	펴서	펴+서	SCONJ	_	14	ccomp	_	_	펴/pvg+서/ecs
+13	숭실학당을	숭실+학당+을	PROPN	_	14	obj	_	_	숭실/nq+학당/ncn+을/jco
+14	설립하고	설립+하+고	CCONJ	_	17	conj	_	_	설립/ncpa+하/xsv+고/ecc
+15	다년간	다년간	ADV	_	17	advmod	_	_	다년간/mag
+16	학당장을	학당장+을	NOUN	_	17	obj	_	_	학당장/ncn+을/jco
+17	역임했다	역임+하+었+다	VERB	_	0	root	_	_	역임/ncpa+하/xsv+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이제 경신학교와 정신여학교가 연동 선교사 언덕에 자리를 잡게 된 연유를 이야기해야겠다 .
+1	이제	이제	ADV	_	11	advmod	_	_	이제/mag
+2	경신학교와	경신+학교+와	CCONJ	_	3	conj	_	_	경신/nq+학교/ncn+와/jcj
+3	정신여학교가	정신+여학교+가	PROPN	_	8	nsubj	_	_	정신/nq+여학교/ncn+가/jcs
+4	연동	연동	PROPN	_	5	compound	_	_	연동/nq
+5	선교사	선교사	NOUN	_	6	compound	_	_	선교사/ncn
+6	언덕에	언덕+에	ADV	_	8	obl	_	_	언덕/ncn+에/jca
+7	자리를	자리+를	NOUN	_	8	obj	_	_	자리/ncpa+를/jco
+8	잡게	잡+게	VERB	_	10	acl	_	_	잡/pvg+게/ecx
+9	된	되+ㄴ	AUX	_	8	aux	_	_	되/px+ㄴ/etm
+10	연유를	연유+를	NOUN	_	11	obj	_	_	연유/ncpa+를/jco
+11	이야기해야겠다	이야기+하+어야겠+다	VERB	_	0	root	_	_	이야기/ncpa+하/xsv+어야겠/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이리하여 게일 목사에 의하여 남녀 두 학교가 연못골에서 밀러 학교의 맥을 이어 다시 일어난 것이다 .
+1	이리하여	이리하+어	SCONJ	_	4	xcomp	_	_	이리하/pad+어/ecs
+2	게일	게일	PROPN	_	3	compound	_	_	게일/nq
+3	목사에	목사+에	ADV	_	4	obl	_	_	목사/ncn+에/jca
+4	의하여	의하+어	SCONJ	_	14	ccomp	_	_	의하/pvg+어/ecs
+5	남녀	남녀	NOUN	_	7	compound	_	_	남녀/ncn
+6	두	두	NUM	_	7	nummod	_	_	두/nnc
+7	학교가	학교+가	NOUN	_	14	nsubj	_	_	학교/ncn+가/jcs
+8	연못골에서	연못골+에서	ADV	_	14	advcl	_	_	연못골/nq+에서/jca
+9	밀러	밀러	PROPN	_	10	compound	_	_	밀러/nq
+10	학교의	학교+의	NOUN	_	11	nmod	_	_	학교/ncn+의/jcm
+11	맥을	맥+을	NOUN	_	12	obj	_	_	맥/ncn+을/jco
+12	이어	잇+어	SCONJ	_	14	ccomp	_	_	잇/pvg+어/ecs
+13	다시	다시	ADV	_	14	advmod	_	_	다시/mag
+14	일어난	일어나+ㄴ	VERB	_	0	root	_	_	일어나/pvg+ㄴ/etm
+15	것이다	것+이+다	VERB	_	14	aux	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이화동 충신동 효제동에는 오래도록 배추밭이 많았고 , 연지동은 남북으로 깊게 뻗힌 산언덕이 그 중심이다 .
+1	이화동	이화동	PROPN	_	3	flat	_	_	이화동/nq
+2	충신동	충신동	PROPN	_	3	flat	_	_	충신동/nq
+3	효제동에는	효제동+에+는	PROPN	_	6	dislocated	_	_	효제동/nq+에/jca+는/jxt
+4	오래도록	오래도록	ADV	_	6	advmod	_	_	오래도록/mag
+5	배추밭이	배추밭+이	NOUN	_	6	nsubj	_	_	배추밭/ncn+이/jcs
+6	많았고	많+았+고	CCONJ	_	14	conj	_	_	많/paa+았/ep+고/ecc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	연지동은	연지동+은	PROPN	_	14	dislocated	_	_	연지동/nq+은/jxt
+9	남북으로	남북+으로	ADV	_	11	advcl	_	_	남북/ncn+으로/jca
+10	깊게	깊+게	SCONJ	_	11	xcomp	_	_	깊/paa+게/ecs
+11	뻗힌	뻗히+ㄴ	VERB	_	12	acl	_	_	뻗히/pvg+ㄴ/etm
+12	산언덕이	산언덕+이	NOUN	_	14	nsubj	_	_	산언덕/ncn+이/jcs
+13	그	그	DET	_	14	det	_	_	그/mmd
+14	중심이다	중심+이+다	VERB	_	0	root	_	_	중심/ncn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 대체로 사람들이 욕심 내지 않는 값싼 땅이었다 .
+1	대체로	대체로	ADV	_	7	advmod	_	_	대체로/mag
+2	사람들이	사람+들+이	NOUN	_	4	nsubj	_	_	사람/ncn+들/xsn+이/jcs
+3	욕심	욕심	NOUN	_	4	dep	_	_	욕심/ncn
+4	내지	내+지	VERB	_	7	ccomp	_	_	내/pvg+지/ecx
+5	않는	않+는	AUX	_	4	aux	_	_	않/px+는/etm
+6	값싼	값싸+ㄴ	ADJ	_	7	amod	_	_	값싸/paa+ㄴ/etm
+7	땅이었다	땅+이+었+다	VERB	_	0	root	_	_	땅/ncn+이/jp+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 다만 그 중 이승만은 배재 출신이므로 감리교회 선교사에게 보내서 세례를 받게 했다 .
+1	다만	다만	CCONJ	_	11	cc	_	_	다만/maj
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	중	중	NOUN	_	4	mark	_	_	중/nbn
+4	이승만은	이승만+은	PROPN	_	11	dislocated	_	_	이승만/nq+은/jxt
+5	배재	배재	PROPN	_	6	compound	_	_	배재/nq
+6	출신이므로	출신+이+므로	SCONJ	_	9	ccomp	_	_	출신/ncn+이/jp+므로/ecs
+7	감리교회	감리교회	NOUN	_	8	compound	_	_	감리교회/ncn
+8	선교사에게	선교사+에게	ADV	_	9	iobj	_	_	선교사/ncn+에게/jca
+9	보내서	보내+서	SCONJ	_	11	ccomp	_	_	보내/pvg+서/ecs
+10	세례를	세례+를	NOUN	_	11	obj	_	_	세례/ncpa+를/jco
+11	받게	받+게	VERB	_	0	root	_	_	받/pvg+게/ecx
+12	했다	하+었+다	AUX	_	11	aux	_	_	하/px+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 서울 선교사들은 밀의두가 앞으로 이상적 교장이 되리라고 기대했다 .
+1	서울	서울	PROPN	_	2	compound	_	_	서울/nq
+2	선교사들은	선교사+들+은	NOUN	_	8	dislocated	_	_	선교사/ncn+들/xsn+은/jxt
+3	밀의두가	밀의두+가	PROPN	_	7	nsubj	_	_	밀의두/nq+가/jcs
+4	앞으로	앞+으로	ADV	_	7	advcl	_	_	앞/ncn+으로/jca
+5	이상적	이상+적	NOUN	_	6	amod	_	_	이상/ncps+적/xsn
+6	교장이	교장+이	NOUN	_	7	csubj	_	_	교장/ncn+이/jcc
+7	되리라고	되+리라고	SCONJ	_	8	ccomp	_	_	되/pvg+리라고/ecs
+8	기대했다	기대+하+었+다	VERB	_	0	root	_	_	기대/ncpa+하/xsv+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이때 연동의 개신교 선교사들은 조심스럽게 가운데에 휘장을 치고 여학생들도 오른편에서 예배하는 법을 창안했다 .
+1	이때	이때	ADV	_	13	advmod	_	_	이때/mad
+2	연동의	연동+의	PROPN	_	4	nmod	_	_	연동/nq+의/jcm
+3	개신교	개신교	NOUN	_	4	compound	_	_	개신교/ncn
+4	선교사들은	선교사+들+은	NOUN	_	13	dislocated	_	_	선교사/ncn+들/xsn+은/jxt
+5	조심스럽게	조심스럽+게	SCONJ	_	8	xcomp	_	_	조심스럽/paa+게/ecs
+6	가운데에	가운데+에	ADV	_	8	obl	_	_	가운데/ncn+에/jca
+7	휘장을	휘장+을	NOUN	_	8	obj	_	_	휘장/ncn+을/jco
+8	치고	치+고	SCONJ	_	11	ccomp	_	_	치/pvg+고/ecs
+9	여학생들도	여학생+들+도	ADV	_	11	advcl	_	_	여학생/ncn+들/xsn+도/jxc
+10	오른편에서	오른편+에서	ADV	_	11	advcl	_	_	오른편/ncn+에서/jca
+11	예배하는	예배+하+는	VERB	_	12	acl	_	_	예배/ncpa+하/xsv+는/etm
+12	법을	법+을	NOUN	_	13	obj	_	_	법/ncn+을/jco
+13	창안했다	창안+하+었+다	VERB	_	0	root	_	_	창안/ncpa+하/xsv+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 밀의두 교장은 경신학생들을 이끌고 배재학당으로 갔다 .
+1	밀의두	밀의두	PROPN	_	2	compound	_	_	밀의두/nq
+2	교장은	교장+은	NOUN	_	6	dislocated	_	_	교장/ncn+은/jxt
+3	경신학생들을	경신+학생+들+을	PROPN	_	4	obj	_	_	경신/nq+학생/ncn+들/xsn+을/jco
+4	이끌고	이끌+고	SCONJ	_	6	ccomp	_	_	이끌/pvg+고/ecs
+5	배재학당으로	배재+학당+으로	ADV	_	6	advcl	_	_	배재/nq+학당/ncn+으로/jca
+6	갔다	가+ㅆ+다	VERB	_	0	root	_	_	가/pvg+ㅆ/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 교기를 제정했다 .
+1	교기를	교기+를	NOUN	_	2	obj	_	_	교기/ncn+를/jco
+2	제정했다	제정+하+었+다	VERB	_	0	root	_	_	제정/ncpa+하/xsv+었/ep+다/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+

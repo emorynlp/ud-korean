@@ -1,0 +1,339 @@
+# 역사를 떠나 사회가 존재할 수 없듯이 역사적 이해의 토대가 없는 학문 또한 불가능한 것은 엄연한 사실이기 때문이다 .
+1	역사를	역사+를	NOUN	_	2	obj	_	_	역사/ncn+를/jco
+2	떠나	떠나+아	SCONJ	_	4	ccomp	_	_	떠나/pvg+아/ecs
+3	사회가	사회+가	NOUN	_	4	nsubj	_	_	사회/ncn+가/jcs
+4	존재할	존재+하+ㄹ	VERB	_	13	conj	_	_	존재/ncpa+하/xsv+ㄹ/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	없듯이	없+듯이	SCONJ	_	4	aux	_	_	없/paa+듯이/ecs
+7	역사적	역사+적	NOUN	_	8	amod	_	_	역사/ncn+적/xsn
+8	이해의	이해+의	NOUN	_	9	nmod	_	_	이해/ncpa+의/jcm
+9	토대가	토대+가	NOUN	_	10	nsubj	_	_	토대/ncn+가/jcs
+10	없는	없+는	ADJ	_	11	amod	_	_	없/paa+는/etm
+11	학문	학문	NOUN	_	13	compound	_	_	학문/ncn
+12	또한	또한	ADV	_	13	advmod	_	_	또한/mag
+13	불가능한	불가능+하+ㄴ	VERB	_	14	amod	_	_	불가능/ncps+하/xsm+ㄴ/etm
+14	것은	것+은	NOUN	_	16	dislocated	_	_	것/nbn+은/jxt
+15	엄연한	엄연+하+ㄴ	VERB	_	16	amod	_	_	엄연/ncps+하/xsm+ㄴ/etm
+16	사실이기	사실+이+기	VERB	_	0	root	_	_	사실/ncn+이/jp+기/etn
+17	때문이다	때문+이+다	VERB	_	16	aux	_	_	때문/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이러한 문제의식 하에 , 필자는 몇 가지 인식론적 준거를 바탕으로 근대 한국외교사 연구의 현황과 과제를 분석하고자 한다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	문제의식	문제+의식	NOUN	_	3	compound	_	_	문제/ncn+의식/ncpa
+3	하에	하+에	ADV	_	16	advmod	_	_	하/nbn+에/jca
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	필자는	필자+는	NOUN	_	16	dislocated	_	_	필자/ncn+는/jxt
+6	몇	몇	ADJ	_	7	amod	_	_	몇/mma
+7	가지	가지	NOUN	_	9	compound	_	_	가지/nbu
+8	인식론적	인식론+적	NOUN	_	9	amod	_	_	인식론/ncn+적/xsn
+9	준거를	준거+를	NOUN	_	10	obj	_	_	준거/ncpa+를/jco
+10	바탕으로	바탕+으로	ADV	_	16	advcl	_	_	바탕/ncpa+으로/jca
+11	근대	근대	NOUN	_	12	compound	_	_	근대/ncn
+12	한국외교사	한국+외교사	NOUN	_	13	compound	_	_	한국/nq+외교사/ncn
+13	연구의	연구+의	NOUN	_	15	nmod	_	_	연구/ncpa+의/jcm
+14	현황과	현황+과	CCONJ	_	15	conj	_	_	현황/ncn+과/jcj
+15	과제를	과제+를	NOUN	_	16	obj	_	_	과제/ncn+를/jco
+16	분석하고자	분석+하+고자	VERB	_	0	root	_	_	분석/ncpa+하/xsv+고자/ecx
+17	한다	하+ㄴ다	AUX	_	16	aux	_	_	하/px+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이를 위해 , 외교사 연구자들은 인식론적 준거바탕을 둔 연구 자세를 재확립할 필요가 있다 .
+1	이를	이+를	PRON	_	2	obj	_	_	이/npd+를/jco
+2	위해	위하+어	SCONJ	_	13	conj	_	_	위하/pvg+어/ecs
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	외교사	외교사	NOUN	_	5	compound	_	_	외교사/ncn
+5	연구자들은	연구자+들+은	NOUN	_	13	dislocated	_	_	연구자/ncn+들/xsn+은/jxt
+6	인식론적	인식론+적	NOUN	_	7	amod	_	_	인식론/ncn+적/xsn
+7	준거바탕을	준거+바탕+을	NOUN	_	8	obj	_	_	준거/ncpa+바탕/ncpa+을/jco
+8	둔	두+ㄴ	VERB	_	10	acl	_	_	두/pvg+ㄴ/etm
+9	연구	연구	NOUN	_	10	compound	_	_	연구/ncpa
+10	자세를	자세+를	NOUN	_	11	obj	_	_	자세/ncn+를/jco
+11	재확립할	재확립+하+ㄹ	VERB	_	12	acl	_	_	재확립/ncpa+하/xsv+ㄹ/etm
+12	필요가	필요+가	NOUN	_	13	nsubj	_	_	필요/ncpa+가/jcs
+13	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 교착된 사고에 대한 획기적 전환이 전제되지 않고는 또다시 똑같은 학문적 오류를 답습할 수밖에 없기 때문이다 .
+1	교착된	교착+되+ㄴ	VERB	_	2	acl	_	_	교착/ncpa+되/xsv+ㄴ/etm
+2	사고에	사고+에	ADV	_	3	obl	_	_	사고/ncpa+에/jca
+3	대한	대하+ㄴ	VERB	_	5	acl	_	_	대하/pvg+ㄴ/etm
+4	획기적	획기적	NOUN	_	5	compound	_	_	획기적/ncn
+5	전환이	전환+이	NOUN	_	6	nsubj	_	_	전환/ncpa+이/jcs
+6	전제되지	전제+되+지	VERB	_	12	ccomp	_	_	전제/ncpa+되/xsv+지/ecx
+7	않고는	않+고+는	NOUN	_	6	aux	_	_	않/px+고/ecc+는/jxt
+8	또다시	또다시	ADV	_	12	advmod	_	_	또다시/mag
+9	똑같은	똑같+ㄴ	ADJ	_	11	amod	_	_	똑같/paa+ㄴ/etm
+10	학문적	학문+적	NOUN	_	11	amod	_	_	학문/ncpa+적/xsn
+11	오류를	오류+를	NOUN	_	12	obj	_	_	오류/ncn+를/jco
+12	답습할	답습+하+ㄹ	VERB	_	0	root	_	_	답습/ncpa+하/xsv+ㄹ/etm
+13	수밖에	수+밖에	ADV	_	14	fixed	_	_	수/nbn+밖에/jxc
+14	없기	없+기	ADJ	_	12	aux	_	_	없/paa+기/etn
+15	때문이다	때문+이+다	VERB	_	12	aux	_	_	때문/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 따라서 필자는 인식의 전환이 학문의 객관성과 과학성의 유지에도 필수적일 뿐만 아니라 한국 외교사의 체계적 이해에도 필요하다고 믿는다 .
+1	따라서	따라서	CCONJ	_	17	cc	_	_	따라서/maj
+2	필자는	필자+는	NOUN	_	17	dislocated	_	_	필자/ncn+는/jxt
+3	인식의	인식+의	NOUN	_	4	nmod	_	_	인식/ncpa+의/jcm
+4	전환이	전환+이	NOUN	_	16	nsubj	_	_	전환/ncpa+이/jcs
+5	학문의	학문+의	NOUN	_	7	nmod	_	_	학문/ncpa+의/jcm
+6	객관성과	객관성+과	CCONJ	_	7	conj	_	_	객관성/ncn+과/jcj
+7	과학성의	과학성+의	NOUN	_	8	nmod	_	_	과학성/ncn+의/jcm
+8	유지에도	유지+에+도	ADV	_	9	advcl	_	_	유지/ncpa+에/jca+도/jxc
+9	필수적일	필수+적+이+ㄹ	VERB	_	16	ccomp	_	_	필수/ncn+적/xsn+이/jp+ㄹ/etm
+10	뿐만	뿐+만	ADV	_	11	fixed	_	_	뿐/nbn+만/jxc
+11	아니라	아니+라	SCONJ	_	9	aux	_	_	아니/paa+라/ecs
+12	한국	한국	PROPN	_	13	compound	_	_	한국/nq
+13	외교사의	외교사+의	NOUN	_	15	nmod	_	_	외교사/ncn+의/jcm
+14	체계적	체계+적	NOUN	_	15	amod	_	_	체계/ncn+적/xsn
+15	이해에도	이해+에+도	ADV	_	16	advcl	_	_	이해/ncpa+에/jca+도/jxc
+16	필요하다고	필요+하+다+고	VERB	_	17	conj	_	_	필요/ncpa+하/xsv+다/ef+고/jcr
+17	믿는다	믿+는다	VERB	_	0	root	_	_	믿/pvg+는다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 우선 , 연구대상이 주로 서구 열강들의 외교형태에 집중되어 있으며 동양권에서는 기껏해야 일본 , 중국 등으로 연구대상이 한정된 점을 지적할 수 있겠다 .
+1	우선	우선	ADV	_	19	advmod	_	_	우선/mag
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	연구대상이	연구+대상+이	NOUN	_	8	nsubj	_	_	연구/ncpa+대상/ncn+이/jcs
+4	주로	주로	ADV	_	8	advmod	_	_	주로/mag
+5	서구	서구	NOUN	_	6	compound	_	_	서구/ncn
+6	열강들의	열강+들+의	NOUN	_	7	nmod	_	_	열강/ncn+들/xsn+의/jcm
+7	외교형태에	외교+형태+에	ADV	_	8	obl	_	_	외교/ncpa+형태/ncn+에/jca
+8	집중되어	집중+되+어	VERB	_	19	conj	_	_	집중/ncpa+되/xsv+어/ecx
+9	있으며	있+으며	CCONJ	_	8	aux	_	_	있/px+으며/ecc
+10	동양권에서는	동양권+에서+는	NOUN	_	17	dislocated	_	_	동양권/ncn+에서/jca+는/jxt
+11	기껏해야	기껏해야	ADV	_	15	advmod	_	_	기껏해야/mag
+12	일본	일본	PROPN	_	14	conj	_	_	일본/nq
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	중국	중국	PROPN	_	15	compound	_	_	중국/nq
+15	등으로	등+으로	ADV	_	17	advcl	_	_	등/nbn+으로/jca
+16	연구대상이	연구+대상+이	NOUN	_	17	nsubj	_	_	연구/ncpa+대상/ncn+이/jcs
+17	한정된	한정+되+ㄴ	VERB	_	18	acl	_	_	한정/ncpa+되/xsv+ㄴ/etm
+18	점을	점+을	NOUN	_	19	obj	_	_	점/ncn+을/jco
+19	지적할	지적+하+ㄹ	VERB	_	0	root	_	_	지적/ncpa+하/xsv+ㄹ/etm
+20	수	수	NOUN	_	21	fixed	_	_	수/nbn
+21	있겠다	있+겠+다	ADJ	_	19	aux	_	_	있/paa+겠/ep+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 외교사의 연구가 강대국의 논리를 중심으로 역사를 제단함으로써 약소국의 모습을 왜곡시키고 있다는 비판도 이와 무관하지 않다 .
+1	외교사의	외교사+의	NOUN	_	2	nmod	_	_	외교사/ncn+의/jcm
+2	연구가	연구+가	NOUN	_	7	nsubj	_	_	연구/ncpa+가/jcs
+3	강대국의	강대국+의	NOUN	_	4	nmod	_	_	강대국/ncn+의/jcm
+4	논리를	논리+를	NOUN	_	5	obj	_	_	논리/ncn+를/jco
+5	중심으로	중심+으로	ADV	_	7	advcl	_	_	중심/ncn+으로/jca
+6	역사를	역사+를	NOUN	_	7	obj	_	_	역사/ncn+를/jco
+7	제단함으로써	제단+하+ㅁ+으로써	ADV	_	10	advcl	_	_	제단/ncpa+하/xsv+ㅁ/etn+으로써/jca
+8	약소국의	약소국+의	NOUN	_	9	nmod	_	_	약소국/ncn+의/jcm
+9	모습을	모습+을	NOUN	_	10	obj	_	_	모습/ncn+을/jco
+10	왜곡시키고	왜곡+시키+고	VERB	_	12	acl	_	_	왜곡/ncpa+시키/xsv+고/ecx
+11	있다는	있+다는	AUX	_	10	aux	_	_	있/px+다는/etm
+12	비판도	비판+도	ADV	_	14	advcl	_	_	비판/ncpa+도/jxc
+13	이와	이+와	CCONJ	_	14	conj	_	_	이/npd+와/jct
+14	무관하지	무관+하+지	VERB	_	0	root	_	_	무관/ncps+하/xsm+지/ecx
+15	않다	않+다	AUX	_	14	aux	_	_	않/px+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 따라서 외교사 연구의 대상도 강대국 논리의 한계를 극복하고 약소국의 삶의 모습을 엮어낼 수 있는 데까지 그 범위가 확대되어야 한다 .
+1	따라서	따라서	CCONJ	_	18	cc	_	_	따라서/maj
+2	외교사	외교사	NOUN	_	3	compound	_	_	외교사/ncn
+3	연구의	연구+의	NOUN	_	4	nmod	_	_	연구/ncpa+의/jcm
+4	대상도	대상+도	ADV	_	18	advcl	_	_	대상/ncn+도/jxc
+5	강대국	강대국	NOUN	_	6	compound	_	_	강대국/ncn
+6	논리의	논리+의	NOUN	_	7	nmod	_	_	논리/ncn+의/jcm
+7	한계를	한계+를	NOUN	_	8	obj	_	_	한계/ncn+를/jco
+8	극복하고	극복+하+고	CCONJ	_	12	conj	_	_	극복/ncpa+하/xsv+고/ecc
+9	약소국의	약소국+의	NOUN	_	10	nmod	_	_	약소국/ncn+의/jcm
+10	삶의	삶+의	NOUN	_	11	nmod	_	_	삶/ncn+의/jcm
+11	모습을	모습+을	NOUN	_	12	obj	_	_	모습/ncn+을/jco
+12	엮어낼	엮+어+내+ㄹ	AUX	_	15	acl	_	_	엮/pvg+어/ecx+내/px+ㄹ/etm
+13	수	수	NOUN	_	14	fixed	_	_	수/nbn
+14	있는	있+는	ADJ	_	12	aux	_	_	있/paa+는/etm
+15	데까지	데+까지	ADV	_	18	advcl	_	_	데/nbn+까지/jxc
+16	그	그	DET	_	17	det	_	_	그/mmd
+17	범위가	범위+가	NOUN	_	18	nsubj	_	_	범위/ncn+가/jcs
+18	확대되어야	확대+되+어야	VERB	_	0	root	_	_	확대/ncpa+되/xsv+어야/ecx
+19	한다	하+ㄴ다	AUX	_	18	aux	_	_	하/px+ㄴ다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 셋째 , 외교사 연구의 방법론이 재조명되어야 한다 .
+1	셋째	셋째	NUM	_	6	nummod	_	_	셋째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	외교사	외교사	NOUN	_	4	compound	_	_	외교사/ncn
+4	연구의	연구+의	NOUN	_	5	nmod	_	_	연구/ncpa+의/jcm
+5	방법론이	방법론+이	NOUN	_	6	nsubj	_	_	방법론/ncn+이/jcs
+6	재조명되어야	재조명+되+어야	VERB	_	0	root	_	_	재조명/ncpa+되/xsv+어야/ecx
+7	한다	하+ㄴ다	AUX	_	6	aux	_	_	하/px+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 대부분의 외교사 연구는 역사의 편년적 , 사건적 기술을 크게 탈피하지 못하는 한계점을 보여 왔다 .
+1	대부분의	대부분+의	NOUN	_	3	nmod	_	_	대부분/ncn+의/jcm
+2	외교사	외교사	NOUN	_	3	compound	_	_	외교사/ncn
+3	연구는	연구+는	NOUN	_	13	dislocated	_	_	연구/ncpa+는/jxt
+4	역사의	역사+의	NOUN	_	8	nmod	_	_	역사/ncn+의/jcm
+5	편년적	편년+적	NOUN	_	7	conj	_	_	편년/ncn+적/xsn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	사건적	사건+적	NOUN	_	8	amod	_	_	사건/ncn+적/xsn
+8	기술을	기술+을	NOUN	_	10	obj	_	_	기술/ncpa+을/jco
+9	크게	크+게	SCONJ	_	10	xcomp	_	_	크/paa+게/ecs
+10	탈피하지	탈피+하+지	VERB	_	12	acl	_	_	탈피/ncpa+하/xsv+지/ecx
+11	못하는	못하+는	AUX	_	10	aux	_	_	못하/px+는/etm
+12	한계점을	한계점+을	NOUN	_	13	obj	_	_	한계점/ncn+을/jco
+13	보여	보이+어	VERB	_	0	root	_	_	보이/pvg+어/ecx
+14	왔다	오+았+다	AUX	_	13	aux	_	_	오/px+았/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이는 정치 , 경제 , 사회적 제조건 속에서 입체적 , 동태적으로 외교사를 바라보는 스펙트럼을 제공한다 .
+1	이는	이+는	PRON	_	15	dislocated	_	_	이/npd+는/jxt
+2	정치	정치	NOUN	_	4	conj	_	_	정치/ncpa
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	경제	경제	NOUN	_	6	conj	_	_	경제/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	사회적	사회+적	NOUN	_	7	amod	_	_	사회/ncn+적/xsn
+7	제조건	제조건	NOUN	_	8	compound	_	_	제조건/ncn
+8	속에서	속+에서	ADV	_	13	advcl	_	_	속/ncn+에서/jca
+9	입체적	입체+적	NOUN	_	11	conj	_	_	입체/ncn+적/xsn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	동태적으로	동태+적+으로	ADV	_	13	advcl	_	_	동태/ncn+적/xsn+으로/jca
+12	외교사를	외교사+를	NOUN	_	13	obj	_	_	외교사/ncn+를/jco
+13	바라보는	바라보+는	VERB	_	14	acl	_	_	바라보/pvg+는/etm
+14	스펙트럼을	스펙트럼+을	NOUN	_	15	obj	_	_	스펙트럼/ncn+을/jco
+15	제공한다	제공+하+ㄴ다	VERB	_	0	root	_	_	제공/ncpa+하/xsv+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 따라서 역사적 서술방법이 내포하는 정태성의 극복을 통해 새로운 패러다임을 추구할 필요가 있다 .
+1	따라서	따라서	CCONJ	_	12	cc	_	_	따라서/maj
+2	역사적	역사+적	NOUN	_	3	amod	_	_	역사/ncn+적/xsn
+3	서술방법이	서술+방법+이	NOUN	_	4	nsubj	_	_	서술/ncpa+방법/ncn+이/jcs
+4	내포하는	내포+하+는	VERB	_	5	acl	_	_	내포/ncpa+하/xsv+는/etm
+5	정태성의	정태성+의	NOUN	_	6	nmod	_	_	정태성/ncn+의/jcm
+6	극복을	극복+을	NOUN	_	7	obj	_	_	극복/ncpa+을/jco
+7	통해	통+하+어	SCONJ	_	10	ccomp	_	_	통/ncpa+하/xsv+어/ecs
+8	새로운	새롭+ㄴ	ADJ	_	9	amod	_	_	새롭/paa+ㄴ/etm
+9	패러다임을	패러다임+을	NOUN	_	10	obj	_	_	패러다임/ncn+을/jco
+10	추구할	추구+하+ㄹ	VERB	_	11	acl	_	_	추구/ncpa+하/xsv+ㄹ/etm
+11	필요가	필요+가	NOUN	_	12	nsubj	_	_	필요/ncpa+가/jcs
+12	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 끝으로 , 역사의 기록은 사실에 근거하지만 여기에는 역사가의 가치체계와 신념체계가 직접 , 간접적으로 영항을 미칠 수밖에 없다 .
+1	끝으로	끝+으로	ADV	_	15	advmod	_	_	끝/ncn+으로/jca
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	역사의	역사+의	NOUN	_	4	nmod	_	_	역사/ncn+의/jcm
+4	기록은	기록+은	NOUN	_	6	dislocated	_	_	기록/ncpa+은/jxt
+5	사실에	사실+에	ADV	_	6	obl	_	_	사실/ncn+에/jca
+6	근거하지만	근거+하+지만	SCONJ	_	15	ccomp	_	_	근거/ncpa+하/xsv+지만/ecs
+7	여기에는	여기+에+는	PRON	_	15	dislocated	_	_	여기/npd+에/jca+는/jxt
+8	역사가의	역사가+의	NOUN	_	10	nmod	_	_	역사가/ncn+의/jcm
+9	가치체계와	가치+체계+와	CCONJ	_	10	conj	_	_	가치/ncn+체계/ncn+와/jcj
+10	신념체계가	신념+체계+가	NOUN	_	15	nsubj	_	_	신념/ncn+체계/ncn+가/jcs
+11	직접	직접	NOUN	_	13	conj	_	_	직접/ncn
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	간접적으로	간접+적+으로	ADV	_	15	advcl	_	_	간접/ncn+적/xsn+으로/jca
+14	영항을	영항+을	NOUN	_	15	obj	_	_	영항/ncn+을/jco
+15	미칠	미치+ㄹ	VERB	_	0	root	_	_	미치/pvg+ㄹ/etm
+16	수밖에	수+밖에	ADV	_	17	fixed	_	_	수/nbn+밖에/jxc
+17	없다	없+다	ADJ	_	15	aux	_	_	없/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 년표나 연대기에 지나지 않는 역사의 해석은 미래에 대한 혜안을 제공하지 못한다 .
+1	년표나	년표+나	CCONJ	_	2	conj	_	_	년표/ncn+나/jcj
+2	연대기에	연대기+에	ADV	_	3	obl	_	_	연대기/ncn+에/jca
+3	지나지	지나+지	VERB	_	6	acl	_	_	지나/pvg+지/ecx
+4	않는	않+는	AUX	_	3	aux	_	_	않/px+는/etm
+5	역사의	역사+의	NOUN	_	6	nmod	_	_	역사/ncn+의/jcm
+6	해석은	해석+은	NOUN	_	10	dislocated	_	_	해석/ncpa+은/jxt
+7	미래에	미래+에	ADV	_	8	obl	_	_	미래/ncn+에/jca
+8	대한	대하+ㄴ	VERB	_	9	acl	_	_	대하/pvg+ㄴ/etm
+9	혜안을	혜안+을	NOUN	_	10	obj	_	_	혜안/ncn+을/jco
+10	제공하지	제공+하+지	VERB	_	0	root	_	_	제공/ncpa+하/xsv+지/ecx
+11	못한다	못하+ㄴ다	AUX	_	10	aux	_	_	못하/px+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 또한 시대별로도 현대 이후는 국제관계 혹은 외교정책에 편중되어 있는 실정이다 .
+1	또한	또한	CCONJ	_	10	cc	_	_	또한/maj
+2	시대별로도	시대별+로도	ADV	_	8	advcl	_	_	시대별/ncn+로도/jxc
+3	현대	현대	NOUN	_	4	compound	_	_	현대/ncn
+4	이후는	이후+는	NOUN	_	8	dislocated	_	_	이후/ncn+는/jxt
+5	국제관계	국제+관계	NOUN	_	7	conj	_	_	국제/ncn+관계/ncpa
+6	혹은	혹은	CCONJ	_	7	cc	_	_	혹은/maj
+7	외교정책에	외교+정책+에	ADV	_	8	obl	_	_	외교/ncpa+정책/ncn+에/jca
+8	편중되어	편중+되+어	VERB	_	10	ccomp	_	_	편중/ncpa+되/xsv+어/ecx
+9	있는	있+는	AUX	_	8	aux	_	_	있/px+는/etm
+10	실정이다	실정+이+다	VERB	_	0	root	_	_	실정/ncn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 한국외교사의 연구동향은 광복 이후 현재에 이르기까지 , 개척기 , 탐색기 , 정비기 , 반성기 등을 거쳐 발전해 왔다고 할 수 있다 .
+1	한국외교사의	한국+외교사+의	PROPN	_	2	nmod	_	_	한국/nq+외교사/ncn+의/jcm
+2	연구동향은	연구+동향+은	NOUN	_	17	dislocated	_	_	연구/ncpa+동향/ncn+은/jxt
+3	광복	광복	NOUN	_	4	compound	_	_	광복/ncpa
+4	이후	이후	NOUN	_	5	compound	_	_	이후/ncn
+5	현재에	현재+에	ADV	_	6	obl	_	_	현재/ncn+에/jca
+6	이르기까지	이르+기+까지	ADV	_	17	advmod	_	_	이르/pvg+기/etn+까지/jxc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	개척기	개척기	NOUN	_	10	conj	_	_	개척기/ncn
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	탐색기	탐색기	NOUN	_	12	conj	_	_	탐색기/ncn
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	정비기	정비기	NOUN	_	14	conj	_	_	정비기/ncn
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	반성기	반성기	NOUN	_	15	compound	_	_	반성기/ncn
+15	등을	등+을	NOUN	_	16	obj	_	_	등/nbn+을/jco
+16	거쳐	거치+어	SCONJ	_	17	ccomp	_	_	거치/pvg+어/ecs
+17	발전해	발전+하+어	VERB	_	19	conj	_	_	발전/ncpa+하/xsv+어/ecx
+18	왔다고	오+았+다+고	VERB	_	17	aux	_	_	오/px+았/ep+다/ef+고/jcr
+19	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+20	수	수	NOUN	_	21	fixed	_	_	수/nbn
+21	있다	있+다	ADJ	_	19	aux	_	_	있/paa+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 또한 문회수 , 이창훈 박사 등 소장 교수들에 의한 연구도 활발하다 .
+1	또한	또한	CCONJ	_	11	cc	_	_	또한/maj
+2	문회수	문회수	PROPN	_	4	conj	_	_	문회수/nq
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	이창훈	이창훈	PROPN	_	5	compound	_	_	이창훈/nq
+5	박사	박사	NOUN	_	6	compound	_	_	박사/ncn
+6	등	등	NOUN	_	8	mark	_	_	등/nbn
+7	소장	소장	NOUN	_	8	compound	_	_	소장/ncn
+8	교수들에	교수+들+에	ADV	_	9	obl	_	_	교수/ncpa+들/xsn+에/jca
+9	의한	의하+ㄴ	VERB	_	10	acl	_	_	의하/pvg+ㄴ/etm
+10	연구도	연구+도	ADV	_	11	advcl	_	_	연구/ncpa+도/jxc
+11	활발하다	활발+하+다	VERB	_	0	root	_	_	활발/ncps+하/xsm+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 또한 한국외교사 저술의 축면에서 보면 지극히 부끄러운 형편이라고 할 수 있다 .
+1	또한	또한	CCONJ	_	9	cc	_	_	또한/maj
+2	한국외교사	한국+외교사	NOUN	_	3	compound	_	_	한국/nq+외교사/ncn
+3	저술의	저술+의	NOUN	_	4	nmod	_	_	저술/ncpa+의/jcm
+4	축면에서	축면+에서	ADV	_	5	advcl	_	_	축면/ncn+에서/jca
+5	보면	보+면	SCONJ	_	8	conj	_	_	보/pvg+면/ecs
+6	지극히	지극+히	ADV	_	7	advmod	_	_	지극/ncps+히/xsa
+7	부끄러운	부끄럽+ㄴ	ADJ	_	8	amod	_	_	부끄럽/paa+ㄴ/etm
+8	형편이라고	형편+이+라+고	VERB	_	9	conj	_	_	형편/ncn+이/jp+라/ef+고/jcr
+9	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있다	있+다	ADJ	_	9	aux	_	_	있/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 따라서 , 정치학의 특수분과로서 외교사 연구 특히 한국외교사 연구는 기존의 인식틀이나 접근방법의 재조명을 통해 새로운 활로를 찾아야 할 입장이다 .
+1	따라서	따라서	CCONJ	_	19	cc	_	_	따라서/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	정치학의	정치학+의	NOUN	_	4	nmod	_	_	정치학/ncn+의/jcm
+4	특수분과로서	특수+분과+로서	ADV	_	9	advcl	_	_	특수/ncpa+분과/ncpa+로서/jca
+5	외교사	외교사	NOUN	_	6	compound	_	_	외교사/ncn
+6	연구	연구	NOUN	_	9	compound	_	_	연구/ncpa
+7	특히	특히	ADV	_	9	advmod	_	_	특히/mag
+8	한국외교사	한국+외교사	NOUN	_	9	compound	_	_	한국/nq+외교사/ncn
+9	연구는	연구+는	NOUN	_	17	dislocated	_	_	연구/ncpa+는/jxt
+10	기존의	기존+의	NOUN	_	12	nmod	_	_	기존/ncpa+의/jcm
+11	인식틀이나	인식틀+이나	CCONJ	_	12	conj	_	_	인식틀/ncn+이나/jcj
+12	접근방법의	접근+방법+의	NOUN	_	13	nmod	_	_	접근/ncpa+방법/ncn+의/jcm
+13	재조명을	재조명+을	NOUN	_	14	obj	_	_	재조명/ncn+을/jco
+14	통해	통하+어	SCONJ	_	17	ccomp	_	_	통하/pvg+어/ecs
+15	새로운	새롭+ㄴ	ADJ	_	16	amod	_	_	새롭/paa+ㄴ/etm
+16	활로를	활로+를	NOUN	_	17	obj	_	_	활로/ncn+를/jco
+17	찾아야	찾+아야	VERB	_	19	ccomp	_	_	찾/pvg+아야/ecx
+18	할	하+ㄹ	AUX	_	17	aux	_	_	하/px+ㄹ/etm
+19	입장이다	입장+이+다	VERB	_	0	root	_	_	입장/ncpa+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+

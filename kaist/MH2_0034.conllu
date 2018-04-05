@@ -1,0 +1,3104 @@
+# 오늘날 적지 않은 교회와 신자들이 예수님의 복음을 부분적으로 이해하고 있다 .
+1	오늘날	오늘날	NOUN	_	9	advmod	_	_	오늘날/ncn
+2	적지	적+지	VERB	_	5	acl	_	_	적/pvg+지/ecx
+3	않은	않+은	AUX	_	2	aux	_	_	않/px+은/etm
+4	교회와	교회+와	CCONJ	_	5	conj	_	_	교회/ncn+와/jcj
+5	신자들이	신자+들+이	NOUN	_	9	nsubj	_	_	신자/ncn+들/xsn+이/jcs
+6	예수님의	예수+님+의	PROPN	_	7	nmod	_	_	예수/nq+님/xsn+의/jcm
+7	복음을	복음+을	NOUN	_	9	obj	_	_	복음/ncn+을/jco
+8	부분적으로	부분+적+으로	ADV	_	9	advcl	_	_	부분/ncn+적/xsn+으로/jca
+9	이해하고	이해+하+고	VERB	_	0	root	_	_	이해/ncpa+하/xsv+고/ecx
+10	있다	있+다	AUX	_	9	aux	_	_	있/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 물론 기독교의 신앙 가운데에는 이러한 윤리 , 도덕적 내용들이 포함되어 있다 .
+1	물론	물론	ADV	_	10	advmod	_	_	물론/mag
+2	기독교의	기독교+의	NOUN	_	3	nmod	_	_	기독교/ncn+의/jcm
+3	신앙	신앙	NOUN	_	4	compound	_	_	신앙/ncpa
+4	가운데에는	가운데+에+는	NOUN	_	10	dislocated	_	_	가운데/ncn+에/jca+는/jxt
+5	이러한	이러하+ㄴ	VERB	_	9	amod	_	_	이러하/pad+ㄴ/etm
+6	윤리	윤리	NOUN	_	8	conj	_	_	윤리/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	도덕적	도덕+적	NOUN	_	9	amod	_	_	도덕/ncn+적/xsn
+9	내용들이	내용+들+이	NOUN	_	10	nsubj	_	_	내용/ncn+들/xsn+이/jcs
+10	포함되어	포함+되+어	VERB	_	0	root	_	_	포함/ncpa+되/xsv+어/ecx
+11	있다	있+다	AUX	_	10	aux	_	_	있/px+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 나아가 성경 말씀이 신앙 생활의 유일한 근거요 , 절대적이며 최고의 권위를 갖고 있음을 고백한다 .
+1	나아가	나아가+아	SCONJ	_	14	ccomp	_	_	나아가/pvg+아/ecs
+2	성경	성경	NOUN	_	3	compound	_	_	성경/ncn
+3	말씀이	말씀+이	NOUN	_	12	nsubj	_	_	말씀/ncpa+이/jcs
+4	신앙	신앙	NOUN	_	5	compound	_	_	신앙/ncpa
+5	생활의	생활+의	NOUN	_	7	nmod	_	_	생활/ncpa+의/jcm
+6	유일한	유일+하+ㄴ	VERB	_	7	acl	_	_	유일/ncpa+하/xsv+ㄴ/etm
+7	근거요	근거+이+요	CCONJ	_	9	conj	_	_	근거/ncpa+이/jp+요/ecc
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	절대적이며	절대+적+이+며	CCONJ	_	12	conj	_	_	절대/ncn+적/xsn+이/jp+며/ecc
+10	최고의	최고+의	NOUN	_	11	nmod	_	_	최고/ncn+의/jcm
+11	권위를	권위+를	NOUN	_	12	obj	_	_	권위/ncn+를/jco
+12	갖고	갖+고	VERB	_	14	obj	_	_	갖/pvg+고/ecx
+13	있음을	있+음+을	NOUN	_	12	aux	_	_	있/px+음/etn+을/jco
+14	고백한다	고백+하+ㄴ다	VERB	_	0	root	_	_	고백/ncpa+하/xsv+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 복음적이란 말은 순복음 운동이 종교 개혁적인 기반에서 출발하였고 더 깊게는 사도 교회의 신앙 , 곧 십자가의 복음에 뿌리를 내리고 있다는 뜻이다 .
+1	복음적이란	복음+적+이+란	VERB	_	2	acl	_	_	복음/ncn+적/xsn+이/jp+란/etm
+2	말은	말+은	NOUN	_	21	dislocated	_	_	말/ncpa+은/jxt
+3	순복음	순복음	NOUN	_	4	compound	_	_	순복음/ncn
+4	운동이	운동+이	NOUN	_	8	nsubj	_	_	운동/ncpa+이/jcs
+5	종교	종교	NOUN	_	6	compound	_	_	종교/ncn
+6	개혁적인	개혁+적+이+ㄴ	VERB	_	7	acl	_	_	개혁/ncpa+적/xsn+이/jp+ㄴ/etm
+7	기반에서	기반+에서	ADV	_	8	advcl	_	_	기반/ncn+에서/jca
+8	출발하였고	출발+하+었+고	CCONJ	_	19	conj	_	_	출발/ncpa+하/xsv+었/ep+고/ecc
+9	더	더	ADV	_	19	advmod	_	_	더/mag
+10	깊게는	깊게+는	NOUN	_	9	advmod	_	_	깊게/mag+는/jxt
+11	사도	사도	NOUN	_	12	compound	_	_	사도/ncn
+12	교회의	교회+의	NOUN	_	13	nmod	_	_	교회/ncn+의/jcm
+13	신앙	신앙	NOUN	_	17	conj	_	_	신앙/ncpa
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	곧	곧	CCONJ	_	17	cc	_	_	곧/maj
+16	십자가의	십자가+의	NOUN	_	17	nmod	_	_	십자가/ncn+의/jcm
+17	복음에	복음+에	ADV	_	19	obl	_	_	복음/ncn+에/jca
+18	뿌리를	뿌리+를	NOUN	_	19	obj	_	_	뿌리/ncn+를/jco
+19	내리고	내리+고	VERB	_	21	ccomp	_	_	내리/pvg+고/ecx
+20	있다는	있+다는	AUX	_	19	aux	_	_	있/px+다는/etm
+21	뜻이다	뜻+이+다	VERB	_	0	root	_	_	뜻/ncn+이/jp+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 인간은 오직 믿음에 의해서만 하나님께로부터 의롭다 하심을 받을 수 있음을 확신하는 것이다 .
+1	인간은	인간+은	NOUN	_	8	dislocated	_	_	인간/ncn+은/jxt
+2	오직	오직	ADV	_	4	advmod	_	_	오직/mag
+3	믿음에	믿음+에	ADV	_	4	obl	_	_	믿음/ncn+에/jca
+4	의해서만	의하+어서+만	ADV	_	8	ccomp	_	_	의하/pvg+어서/ecs+만/jxc
+5	하나님께로부터	하나님+께+로+부터	ADV	_	6	advcl	_	_	하나님/nq+께/jca+로/jca+부터/jxc
+6	의롭다	의롭+다	ADJ	_	7	ccomp	_	_	의롭/paa+다/ef
+7	하심을	하+시+ㅁ+을	NOUN	_	8	obj	_	_	하/pvg+시/ep+ㅁ/etn+을/jco
+8	받을	받+을	VERB	_	11	obj	_	_	받/pvg+을/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	있음을	있+음+을	NOUN	_	8	aux	_	_	있/paa+음/etn+을/jco
+11	확신하는	확신+하+는	VERB	_	0	root	_	_	확신/ncpa+하/xsv+는/etm
+12	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 나아가서 기적과 표적이 나타나는 것을 믿고 바라며 간구한다 .
+1	나아가서	나아가+서	SCONJ	_	9	ccomp	_	_	나아가/pvg+서/ecs
+2	기적과	기적+과	CCONJ	_	3	conj	_	_	기적/ncn+과/jcj
+3	표적이	표적+이	NOUN	_	4	nsubj	_	_	표적/ncn+이/jcs
+4	나타나는	나타나+는	VERB	_	5	acl	_	_	나타나/pvg+는/etm
+5	것을	것+을	NOUN	_	6	obj	_	_	것/nbn+을/jco
+6	믿고	믿+고	CCONJ	_	7	conj	_	_	믿/pvg+고/ecc
+7	바라며	바라+며	CCONJ	_	8	conj	_	_	바라/pvg+며/ecc
+8	간구한다	간구+하+ㄴ다	VERB	_	9	conj	_	_	간구/ncpa+하/xsv+ㄴ다/ef
+9	.	.	PUNCT	_	0	root	_	_	./sf
+
+# 또한 모이기를 힘쓰며 많은 예배를 통하여 하나님을 찬양하고 , 서로 복을 나누어 주기를 힘쓴다 .
+1	또한	또한	CCONJ	_	14	cc	_	_	또한/maj
+2	모이기를	모이+기+를	NOUN	_	3	obj	_	_	모이/pvg+기/etn+를/jco
+3	힘쓰며	힘쓰+며	CCONJ	_	8	conj	_	_	힘쓰/pvg+며/ecc
+4	많은	많+은	ADJ	_	5	amod	_	_	많/paa+은/etm
+5	예배를	예배+를	NOUN	_	6	obj	_	_	예배/ncpa+를/jco
+6	통하여	통하+어	SCONJ	_	8	ccomp	_	_	통하/pvg+어/ecs
+7	하나님을	하나님+을	PROPN	_	8	obj	_	_	하나님/nq+을/jco
+8	찬양하고	찬양+하+고	CCONJ	_	14	conj	_	_	찬양/ncpa+하/xsv+고/ecc
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	서로	서로	ADV	_	12	advmod	_	_	서로/mag
+11	복을	복+을	NOUN	_	12	obj	_	_	복/ncn+을/jco
+12	나누어	나누+어	VERB	_	14	obj	_	_	나누/pvg+어/ecx
+13	주기를	주+기+를	NOUN	_	12	aux	_	_	주/px+기/etn+를/jco
+14	힘쓴다	힘쓰+ㄴ다	VERB	_	0	root	_	_	힘쓰/pvg+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 성령 하나님의 도우심이 없이는 개인 신앙 생활의 성장이나 교회의 부흥의 역사는 불가능하다 .
+1	성령	성령	NOUN	_	2	compound	_	_	성령/ncn
+2	하나님의	하나님+의	PROPN	_	3	nmod	_	_	하나님/nq+의/jcm
+3	도우심이	돕+으시+ㅁ+이	NOUN	_	4	nsubj	_	_	돕/pvg+으시/ep+ㅁ/etn+이/jcs
+4	없이는	없+이+는	NOUN	_	12	amod	_	_	없/paa+이/ecs+는/jxt
+5	개인	개인	NOUN	_	6	compound	_	_	개인/ncpa
+6	신앙	신앙	NOUN	_	7	compound	_	_	신앙/ncn
+7	생활의	생활+의	NOUN	_	8	nmod	_	_	생활/ncpa+의/jcm
+8	성장이나	성장+이나	CCONJ	_	11	conj	_	_	성장/ncpa+이나/jcj
+9	교회의	교회+의	NOUN	_	10	nmod	_	_	교회/ncn+의/jcm
+10	부흥의	부흥+의	NOUN	_	11	nmod	_	_	부흥/ncpa+의/jcm
+11	역사는	역사+는	NOUN	_	12	dislocated	_	_	역사/ncn+는/jxt
+12	불가능하다	불가능+하+다	VERB	_	0	root	_	_	불가능/ncps+하/xsm+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 순복음 운동은 이러한 잘못된 관념을 바로잡고 , 성령의 은혜로운 역사를 통하여 하나님의 나라를 크게 확장시키고자 하는 운동이다 .
+1	순복음	순복음	NOUN	_	2	compound	_	_	순복음/ncn
+2	운동은	운동+은	NOUN	_	17	dislocated	_	_	운동/ncpa+은/jxt
+3	이러한	이러하+ㄴ	VERB	_	5	amod	_	_	이러하/pad+ㄴ/etm
+4	잘못된	잘못+되+ㄴ	VERB	_	5	acl	_	_	잘못/ncpa+되/xsv+ㄴ/etm
+5	관념을	관념+을	NOUN	_	6	obj	_	_	관념/ncpa+을/jco
+6	바로잡고	바로잡+고	CCONJ	_	15	conj	_	_	바로잡/pvg+고/ecc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	성령의	성령+의	NOUN	_	10	nmod	_	_	성령/ncn+의/jcm
+9	은혜로운	은혜+롭+ㄴ	VERB	_	10	amod	_	_	은혜/ncn+롭/xsm+ㄴ/etm
+10	역사를	역사+를	NOUN	_	11	obj	_	_	역사/ncn+를/jco
+11	통하여	통하+어	SCONJ	_	15	ccomp	_	_	통하/pvg+어/ecs
+12	하나님의	하나님+의	PROPN	_	13	nmod	_	_	하나님/nq+의/jcm
+13	나라를	나라+를	NOUN	_	15	obj	_	_	나라/ncn+를/jco
+14	크게	크+게	SCONJ	_	15	xcomp	_	_	크/paa+게/ecs
+15	확장시키고자	확장+시키+고자	VERB	_	17	ccomp	_	_	확장/ncpa+시키/xsv+고자/ecx
+16	하는	하+는	AUX	_	15	aux	_	_	하/px+는/etm
+17	운동이다	운동+이+다	VERB	_	0	root	_	_	운동/ncpa+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 예수 그리스도가 없는 복음은 복음이 아니요 , 예수님의 죽음과 부활이 없는 신앙은 참신앙이 아니다 .
+1	예수	예수	PROPN	_	2	flat	_	_	예수/nq
+2	그리스도가	그리스도+가	PROPN	_	3	nsubj	_	_	그리스도/nq+가/jcs
+3	없는	없+는	ADJ	_	4	amod	_	_	없/paa+는/etm
+4	복음은	복음+은	NOUN	_	6	dislocated	_	_	복음/ncn+은/jxt
+5	복음이	복음+이	NOUN	_	6	csubj	_	_	복음/ncn+이/jcc
+6	아니요	아니+요	CCONJ	_	14	conj	_	_	아니/paa+요/ecc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	예수님의	예수+님+의	PROPN	_	10	nmod	_	_	예수/nq+님/xsn+의/jcm
+9	죽음과	죽음+과	CCONJ	_	10	conj	_	_	죽음/ncn+과/jcj
+10	부활이	부활+이	NOUN	_	11	nsubj	_	_	부활/ncpa+이/jcs
+11	없는	없+는	ADJ	_	12	amod	_	_	없/paa+는/etm
+12	신앙은	신앙+은	NOUN	_	14	dislocated	_	_	신앙/ncpa+은/jxt
+13	참신앙이	참신앙+이	NOUN	_	14	nsubj	_	_	참신앙/ncn+이/jcs
+14	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 왜냐하면 예수 그리스도만이 인간이 구원 받을 수 있는 유일한 길이요 , 진리요 , 생명이기 때문이다 .
+1	왜냐하면	왜냐하면	CCONJ	_	14	cc	_	_	왜냐하면/maj
+2	예수	예수	PROPN	_	3	flat	_	_	예수/nq
+3	그리스도만이	그리스도+만+이	PROPN	_	10	nsubj	_	_	그리스도/nq+만/jxc+이/jcs
+4	인간이	인간+이	NOUN	_	6	nsubj	_	_	인간/ncn+이/jcs
+5	구원	구원	NOUN	_	6	dep	_	_	구원/ncpa
+6	받을	받+ㄹ	VERB	_	10	ccomp	_	_	받/pvg+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	있는	있+는	ADJ	_	6	aux	_	_	있/paa+는/etm
+9	유일한	유일+하+ㄴ	VERB	_	10	acl	_	_	유일/ncpa+하/xsv+ㄴ/etm
+10	길이요	길+이+요	CCONJ	_	12	conj	_	_	길/ncn+이/jp+요/ecc
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	진리요	진리+이+요	CCONJ	_	14	conj	_	_	진리/ncn+이/jp+요/ecc
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	생명이기	생명+이+기	VERB	_	0	root	_	_	생명/ncn+이/jp+기/etn
+15	때문이다	때문+이+다	VERB	_	14	aux	_	_	때문/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 하나님께서는 아담과 하와를 위하여 에덴동산을 지으시고 그 가운데 온갖 필요한 것을 다 예비해 두셨다 .
+1	하나님께서는	하나님+께서+는	PROPN	_	13	dislocated	_	_	하나님/nq+께서/jcs+는/jxt
+2	아담과	아담+과	CCONJ	_	3	conj	_	_	아담/nq+과/jcj
+3	하와를	하와+를	PROPN	_	4	obj	_	_	하와/nq+를/jco
+4	위하여	위하+어	SCONJ	_	6	ccomp	_	_	위하/pvg+어/ecs
+5	에덴동산을	에덴동산+을	PROPN	_	6	obj	_	_	에덴동산/nq+을/jco
+6	지으시고	짓+으시+고	CCONJ	_	13	conj	_	_	짓/pvg+으시/ep+고/ecc
+7	그	그	DET	_	8	det	_	_	그/mmd
+8	가운데	가운데	NOUN	_	13	advmod	_	_	가운데/ncn
+9	온갖	온갖	ADJ	_	11	amod	_	_	온갖/mma
+10	필요한	필요+하+ㄴ	VERB	_	11	acl	_	_	필요/ncpa+하/xsv+ㄴ/etm
+11	것을	것+을	NOUN	_	13	obj	_	_	것/nbn+을/jco
+12	다	다	ADV	_	13	advmod	_	_	다/mag
+13	예비해	예비+하+어	VERB	_	0	root	_	_	예비/ncpa+하/xsv+어/ecx
+14	두셨다	두+셨+다	AUX	_	13	aux	_	_	두/px+셨/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 인류가 이 같은 비참한 상태에서 벗어나기 위해서는 죄 값을 청산하고 하나님과의 올바른 관계를 다시 확립하는 길밖에 없었다 .
+1	인류가	인류+가	NOUN	_	6	nsubj	_	_	인류/ncn+가/jcs
+2	이	이	PRON	_	3	dep	_	_	이/npd
+3	같은	같+은	ADJ	_	5	amod	_	_	같/paa+은/etm
+4	비참한	비참+하+ㄴ	VERB	_	5	amod	_	_	비참/ncps+하/xsm+ㄴ/etm
+5	상태에서	상태+에서	ADV	_	6	advcl	_	_	상태/ncn+에서/jca
+6	벗어나기	벗+어+나+기	AUX	_	7	nmod	_	_	벗/pvg+어/ecx+나/px+기/etn
+7	위해서는	위하+어서+는	NOUN	_	17	dep	_	_	위하/pvg+어서/ecs+는/jxt
+8	죄	죄	NOUN	_	9	compound	_	_	죄/ncn
+9	값을	값+을	NOUN	_	10	obj	_	_	값/ncn+을/jco
+10	청산하고	청산+하+고	CCONJ	_	15	conj	_	_	청산/ncpa+하/xsv+고/ecc
+11	하나님과의	하나님+과+의	PROPN	_	13	nmod	_	_	하나님/nq+과/jct+의/jcm
+12	올바른	올바르+ㄴ	ADJ	_	13	amod	_	_	올바르/paa+ㄴ/etm
+13	관계를	관계+를	NOUN	_	15	obj	_	_	관계/ncpa+를/jco
+14	다시	다시	ADV	_	15	advmod	_	_	다시/mag
+15	확립하는	확립+하+는	VERB	_	16	acl	_	_	확립/ncpa+하/xsv+는/etm
+16	길밖에	길+밖에	ADV	_	17	advcl	_	_	길/ncn+밖에/jxc
+17	없었다	없+었+다	ADJ	_	0	root	_	_	없/paa+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그러나 아담의 후손들은 모두 죄 가운데 태어났으므로 그 누구도 죄 값을 지불할 수 없었다 .
+1	그러나	그러나	CCONJ	_	12	cc	_	_	그러나/maj
+2	아담의	아담+의	PROPN	_	3	nmod	_	_	아담/nq+의/jcm
+3	후손들은	후손+들+은	NOUN	_	12	dislocated	_	_	후손/ncn+들/xsn+은/jxt
+4	모두	모두	ADV	_	7	advmod	_	_	모두/mag
+5	죄	죄	NOUN	_	6	compound	_	_	죄/ncn
+6	가운데	가운데	NOUN	_	7	dep	_	_	가운데/ncn
+7	태어났으므로	태어나+ㅆ+으므로	SCONJ	_	12	ccomp	_	_	태어나/pvg+ㅆ/ep+으므로/ecs
+8	그	그	DET	_	9	det	_	_	그/mmd
+9	누구도	누구+도	ADV	_	12	advcl	_	_	누구/npp+도/jxc
+10	죄	죄	NOUN	_	11	compound	_	_	죄/ncn
+11	값을	값+을	NOUN	_	12	obj	_	_	값/ncn+을/jco
+12	지불할	지불+하+ㄹ	VERB	_	0	root	_	_	지불/ncpa+하/xsv+ㄹ/etm
+13	수	수	NOUN	_	14	fixed	_	_	수/nbn
+14	없었다	없+었+다	ADJ	_	12	aux	_	_	없/paa+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이 갈보리 십자가의 신앙은 복음의 중심이요 , 핵이며 순복음 신앙의 기반이요 , 출발이다 .
+1	이	이	DET	_	4	det	_	_	이/mmd
+2	갈보리	갈보리	PROPN	_	3	compound	_	_	갈보리/nq
+3	십자가의	십자가+의	NOUN	_	4	nmod	_	_	십자가/ncn+의/jcm
+4	신앙은	신앙+은	NOUN	_	13	dislocated	_	_	신앙/ncpa+은/jxt
+5	복음의	복음+의	NOUN	_	6	nmod	_	_	복음/ncn+의/jcm
+6	중심이요	중심+이+요	CCONJ	_	8	conj	_	_	중심/ncn+이/jp+요/ecc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	핵이며	핵+이+며	CCONJ	_	11	conj	_	_	핵/ncn+이/jp+며/ecc
+9	순복음	순복음	NOUN	_	10	compound	_	_	순복음/ncn
+10	신앙의	신앙+의	NOUN	_	11	nmod	_	_	신앙/ncpa+의/jcm
+11	기반이요	기반+이+요	CCONJ	_	13	conj	_	_	기반/ncn+이/jp+요/ecc
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	출발이다	출발+이+다	VERB	_	0	root	_	_	출발/ncpa+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 오순절 다락방의 사건은 또 다른 면에서 순복음 신앙의 중심이 된다 .
+1	오순절	오순절	NOUN	_	2	compound	_	_	오순절/ncn
+2	다락방의	다락방+의	NOUN	_	3	nmod	_	_	다락방/ncn+의/jcm
+3	사건은	사건+은	NOUN	_	10	dislocated	_	_	사건/ncn+은/jxt
+4	또	또	ADV	_	5	advmod	_	_	또/mag
+5	다른	다르+ㄴ	ADJ	_	6	amod	_	_	다르/paa+ㄴ/etm
+6	면에서	면+에서	ADV	_	10	advcl	_	_	면/ncn+에서/jca
+7	순복음	순복음	NOUN	_	8	compound	_	_	순복음/ncn
+8	신앙의	신앙+의	NOUN	_	9	nmod	_	_	신앙/ncpa+의/jcm
+9	중심이	중심+이	NOUN	_	10	csubj	_	_	중심/ncn+이/jcc
+10	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 예수님께서 십자가에 못 박혀 죽으시고 부활 승천하신 후 예수님의 제자들은 낙심천만이었다 .
+1	예수님께서	예수+님+께서	PROPN	_	7	nsubj	_	_	예수/nq+님/xsn+께서/jcs
+2	십자가에	십자가+에	ADV	_	4	obl	_	_	십자가/ncn+에/jca
+3	못	못	NOUN	_	4	dep	_	_	못/ncn
+4	박혀	박히+어	SCONJ	_	5	ccomp	_	_	박히/pvg+어/ecs
+5	죽으시고	죽+으시+고	CCONJ	_	7	conj	_	_	죽/pvg+으시/ep+고/ecc
+6	부활	부활	NOUN	_	7	compound	_	_	부활/ncpa
+7	승천하신	승천+하+시+ㄴ	VERB	_	8	acl	_	_	승천/ncpa+하/xsv+시/ep+ㄴ/etm
+8	후	후	NOUN	_	11	advmod	_	_	후/ncn
+9	예수님의	예수+님+의	PROPN	_	10	nmod	_	_	예수/nq+님/xsn+의/jcm
+10	제자들은	제자+들+은	NOUN	_	11	dislocated	_	_	제자/ncn+들/xsn+은/jxt
+11	낙심천만이었다	낙심천만+이+었+다	VERB	_	0	root	_	_	낙심천만/ncpa+이/jp+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그들은 예수님께서 다시 오신다는 약속의 말씀을 들었지만 부모를 잃은 고아와 같이 그들의 마음은 공포심과 불안으로 가득 차 있었다 .
+1	그들은	그+들+은	PRON	_	17	dislocated	_	_	그/npp+들/xsn+은/jxt
+2	예수님께서	예수+님+께서	PROPN	_	4	nsubj	_	_	예수/nq+님/xsn+께서/jcs
+3	다시	다시	ADV	_	4	advmod	_	_	다시/mag
+4	오신다는	오+시+ㄴ다는	VERB	_	6	acl	_	_	오/pvg+시/ep+ㄴ다는/etm
+5	약속의	약속+의	NOUN	_	6	nmod	_	_	약속/ncpa+의/jcm
+6	말씀을	말씀+을	NOUN	_	7	obj	_	_	말씀/ncpa+을/jco
+7	들었지만	듣+었+지만	SCONJ	_	17	conj	_	_	듣/pvg+었/ep+지만/ecs
+8	부모를	부모+를	NOUN	_	9	obj	_	_	부모/ncn+를/jco
+9	잃은	잃+은	VERB	_	10	acl	_	_	잃/pvg+은/etm
+10	고아와	고아+와	CCONJ	_	11	conj	_	_	고아/ncn+와/jct
+11	같이	같+이	SCONJ	_	17	xcomp	_	_	같/paa+이/ecs
+12	그들의	그+들+의	PRON	_	13	nmod	_	_	그/npp+들/xsn+의/jcm
+13	마음은	마음+은	NOUN	_	17	dislocated	_	_	마음/ncn+은/jxt
+14	공포심과	공포심+과	CCONJ	_	15	conj	_	_	공포심/ncn+과/jcj
+15	불안으로	불안+으로	ADV	_	17	advcl	_	_	불안/ncpa+으로/jca
+16	가득	가득	ADV	_	17	advmod	_	_	가득/mag
+17	차	차+아	ADJ	_	0	root	_	_	차/paa+아/ecx
+18	있었다	있+었+다	AUX	_	17	aux	_	_	있/px+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 성령충만으로 불안과 공포는 깨끗이 사라지고 용기백배하여 밖으로 뛰쳐나가 복음을 전파하기 시작했다 .
+1	성령충만으로	성령+충만+으로	ADV	_	5	advcl	_	_	성령/ncn+충만/ncpa+으로/jca
+2	불안과	불안+과	CCONJ	_	3	conj	_	_	불안/ncpa+과/jcj
+3	공포는	공포+는	NOUN	_	5	dislocated	_	_	공포/ncn+는/jxt
+4	깨끗이	깨끗이	ADV	_	5	advmod	_	_	깨끗이/mag
+5	사라지고	사라지+고	CCONJ	_	6	conj	_	_	사라지/pvg+고/ecc
+6	용기백배하여	용기백배+하+어	SCONJ	_	8	ccomp	_	_	용기백배/ncpa+하/xsv+어/ecs
+7	밖으로	밖+으로	ADV	_	8	advcl	_	_	밖/ncn+으로/jca
+8	뛰쳐나가	뛰쳐나가+아	SCONJ	_	11	ccomp	_	_	뛰쳐나가/pvg+아/ecs
+9	복음을	복음+을	NOUN	_	10	obj	_	_	복음/ncn+을/jco
+10	전파하기	전파+하+기	VERB	_	11	nmod	_	_	전파/ncpa+하/xsv+기/etn
+11	시작했다	시작+하+었+다	VERB	_	0	root	_	_	시작/ncpa+하/xsv+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그리하여 그리스도의 복음은 유대와 사마리아와 로마를 거쳐 오늘날 전세계로 전파되었다 .
+1	그리하여	그리하여	CCONJ	_	10	cc	_	_	그리하여/maj
+2	그리스도의	그리스도+의	PROPN	_	3	nmod	_	_	그리스도/nq+의/jcm
+3	복음은	복음+은	NOUN	_	10	dislocated	_	_	복음/ncn+은/jxt
+4	유대와	유대+와	CCONJ	_	5	conj	_	_	유대/nq+와/jcj
+5	사마리아와	사마리아+와	CCONJ	_	6	conj	_	_	사마리아/nq+와/jcj
+6	로마를	로마+를	PROPN	_	7	obj	_	_	로마/nq+를/jco
+7	거쳐	거치+어	SCONJ	_	10	ccomp	_	_	거치/pvg+어/ecs
+8	오늘날	오늘날	NOUN	_	10	advmod	_	_	오늘날/ncn
+9	전세계로	전세계+로	ADV	_	10	advcl	_	_	전세계/ncn+로/jca
+10	전파되었다	전파+되+었+다	VERB	_	0	root	_	_	전파/ncpa+되/xsv+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그것은 오순절 다락방의 신앙을 가질 때 , 곧 성령 충만함을 받을 때 가능하다 .
+1	그것은	그것+은	PRON	_	13	dislocated	_	_	그것/npd+은/jxt
+2	오순절	오순절	NOUN	_	3	compound	_	_	오순절/ncn
+3	다락방의	다락방+의	NOUN	_	4	nmod	_	_	다락방/ncn+의/jcm
+4	신앙을	신앙+을	NOUN	_	5	obj	_	_	신앙/ncpa+을/jco
+5	가질	가지+ㄹ	VERB	_	6	acl	_	_	가지/pvg+ㄹ/etm
+6	때	때	NOUN	_	12	conj	_	_	때/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	곧	곧	CCONJ	_	12	cc	_	_	곧/maj
+9	성령	성령	NOUN	_	10	compound	_	_	성령/ncn
+10	충만함을	충만+하+ㅁ+을	NOUN	_	11	obj	_	_	충만/ncpa+하/xsv+ㅁ/etn+을/jco
+11	받을	받+을	VERB	_	12	acl	_	_	받/pvg+을/etm
+12	때	때	NOUN	_	13	compound	_	_	때/ncn
+13	가능하다	가능+하+다	VERB	_	0	root	_	_	가능/ncps+하/xsm+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 교회사를 통해서 볼 때 오순절 다락방에서 성령충만함을 받은 예수님의 제자들은 예루살렘으로부터 세계 각처로 복음을 전파했다 .
+1	교회사를	교회사+를	NOUN	_	2	obj	_	_	교회사/ncn+를/jco
+2	통해서	통하+어서	SCONJ	_	3	ccomp	_	_	통하/pvg+어서/ecs
+3	볼	보+ㄹ	VERB	_	4	acl	_	_	보/pvg+ㄹ/etm
+4	때	때	NOUN	_	15	advmod	_	_	때/ncn
+5	오순절	오순절	NOUN	_	6	compound	_	_	오순절/ncn
+6	다락방에서	다락방+에서	ADV	_	8	advcl	_	_	다락방/ncn+에서/jca
+7	성령충만함을	성령+충만+하+ㅁ+을	NOUN	_	8	obj	_	_	성령/ncn+충만/ncpa+하/xsv+ㅁ/etn+을/jco
+8	받은	받+은	VERB	_	10	acl	_	_	받/pvg+은/etm
+9	예수님의	예수+님+의	PROPN	_	10	nmod	_	_	예수/nq+님/xsn+의/jcm
+10	제자들은	제자+들+은	NOUN	_	15	dislocated	_	_	제자/ncn+들/xsn+은/jxt
+11	예루살렘으로부터	예루살렘+으로+부터	ADV	_	15	advcl	_	_	예루살렘/nq+으로/jca+부터/jxc
+12	세계	세계	NOUN	_	13	compound	_	_	세계/ncn
+13	각처로	각처+로	ADV	_	15	advcl	_	_	각처/ncn+로/jca
+14	복음을	복음+을	NOUN	_	15	obj	_	_	복음/ncn+을/jco
+15	전파했다	전파+하+었+다	VERB	_	0	root	_	_	전파/ncpa+하/xsv+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 복음은 계속 팽창되어 로마에서 다시 독일로 , 독일에서 영국으로 , 영국에서 미국으로 건너가 20세기에는 전 아시아에까지 전파되었다 .
+1	복음은	복음+은	NOUN	_	17	dislocated	_	_	복음/ncn+은/jxt
+2	계속	계속	ADV	_	3	advmod	_	_	계속/mag
+3	팽창되어	팽창+되+어	SCONJ	_	13	ccomp	_	_	팽창/ncpa+되/xsv+어/ecs
+4	로마에서	로마+에서	ADV	_	6	advcl	_	_	로마/nq+에서/jca
+5	다시	다시	ADV	_	6	advmod	_	_	다시/mag
+6	독일로	독일+로	ADV	_	12	dep	_	_	독일/nq+로/jca
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	독일에서	독일+에서	ADV	_	9	advcl	_	_	독일/nq+에서/jca
+9	영국으로	영국+으로	ADV	_	12	dep	_	_	영국/nq+으로/jca
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	영국에서	영국+에서	ADV	_	12	advcl	_	_	영국/nq+에서/jca
+12	미국으로	미국+으로	ADV	_	13	advmod	_	_	미국/nq+으로/jca
+13	건너가	건너가+아	SCONJ	_	17	ccomp	_	_	건너가/pvg+아/ecs
+14	20세기에는	20+세기+에+는	NUM	_	17	dislocated	_	_	20/nno+세기/ncn+에/jca+는/jxt
+15	전	전	ADJ	_	16	amod	_	_	전/mma
+16	아시아에까지	아시아+에+까지	ADV	_	17	advcl	_	_	아시아/nq+에/jca+까지/jxc
+17	전파되었다	전파+되+었+다	VERB	_	0	root	_	_	전파/ncpa+되/xsv+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 오늘날 아시아에서 한국만큼 성령께서 강하게 역사하시는 곳이 없으며 , 또한 교회와 교인들도 다른 나라에 비해 폭발적으로 증가하고 있다 .
+1	오늘날	오늘날	NOUN	_	8	dep	_	_	오늘날/ncn
+2	아시아에서	아시아+에서	ADV	_	6	advcl	_	_	아시아/nq+에서/jca
+3	한국만큼	한국+만큼	ADV	_	6	advcl	_	_	한국/nq+만큼/jca
+4	성령께서	성령+께서	NOUN	_	6	nsubj	_	_	성령/ncn+께서/jcs
+5	강하게	강하+게	SCONJ	_	6	xcomp	_	_	강하/paa+게/ecs
+6	역사하시는	역사+하+시+는	VERB	_	7	acl	_	_	역사/ncpa+하/xsv+시/ep+는/etm
+7	곳이	곳+이	NOUN	_	8	nsubj	_	_	곳/ncn+이/jcs
+8	없으며	없+으며	SCONJ	_	17	xcomp	_	_	없/paa+으며/ecs
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	또한	또한	ADV	_	17	advmod	_	_	또한/mag
+11	교회와	교회+와	CCONJ	_	12	conj	_	_	교회/ncn+와/jcj
+12	교인들도	교인+들+도	ADV	_	17	advcl	_	_	교인/ncn+들/xsn+도/jxc
+13	다른	다르+ㄴ	ADJ	_	14	amod	_	_	다르/paa+ㄴ/etm
+14	나라에	나라+에	ADV	_	15	obl	_	_	나라/ncn+에/jca
+15	비해	비하+어	SCONJ	_	17	ccomp	_	_	비하/pvg+어/ecs
+16	폭발적으로	폭발+적+으로	ADV	_	17	advcl	_	_	폭발/ncpa+적/xsn+으로/jca
+17	증가하고	증가+하+고	VERB	_	0	root	_	_	증가/ncpa+하/xsv+고/ecx
+18	있다	있+다	AUX	_	17	aux	_	_	있/px+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이렇게 볼 때 한국이 마지막 때에 선교의 막중한 사명을 짊어진 것으로 여겨진다 .
+1	이렇게	이렇게	ADV	_	2	advmod	_	_	이렇게/mad
+2	볼	보+ㄹ	VERB	_	3	acl	_	_	보/pvg+ㄹ/etm
+3	때	때	NOUN	_	12	advmod	_	_	때/ncn
+4	한국이	한국+이	PROPN	_	10	nsubj	_	_	한국/nq+이/jcs
+5	마지막	마지막	NOUN	_	6	compound	_	_	마지막/ncn
+6	때에	때+에	ADV	_	10	obl	_	_	때/ncn+에/jca
+7	선교의	선교+의	NOUN	_	9	nmod	_	_	선교/ncn+의/jcm
+8	막중한	막중+하+ㄴ	VERB	_	9	amod	_	_	막중/ncps+하/xsm+ㄴ/etm
+9	사명을	사명+을	NOUN	_	10	obj	_	_	사명/ncn+을/jco
+10	짊어진	짊+어+지+ㄴ	AUX	_	11	acl	_	_	짊/pvg+어/ecx+지/px+ㄴ/etm
+11	것으로	것+으로	ADV	_	12	advcl	_	_	것/nbn+으로/jca
+12	여겨진다	여기+어+지+ㄴ다	AUX	_	0	root	_	_	여기/pvg+어/ecx+지/px+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 순복음의 신앙은 땅끝까지 복음을 전파하는 것을 목표로 삼는다 .
+1	순복음의	순복음+의	NOUN	_	2	nmod	_	_	순복음/ncn+의/jcm
+2	신앙은	신앙+은	NOUN	_	8	dislocated	_	_	신앙/ncpa+은/jxt
+3	땅끝까지	땅+끝+까지	ADV	_	5	advcl	_	_	땅/ncn+끝/ncn+까지/jxc
+4	복음을	복음+을	NOUN	_	5	obj	_	_	복음/ncn+을/jco
+5	전파하는	전파+하+는	VERB	_	6	acl	_	_	전파/ncpa+하/xsv+는/etm
+6	것을	것+을	NOUN	_	8	obj	_	_	것/nbn+을/jco
+7	목표로	목표+로	ADV	_	8	advcl	_	_	목표/ncpa+로/jca
+8	삼는다	삼+는다	VERB	_	0	root	_	_	삼/pvg+는다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 복음을 땅끝까지 전하는 순복음 신앙을 가진 사람이며 누구나 끊임없이 전도에 힘을 쓰게 된다 .
+1	복음을	복음+을	NOUN	_	3	obj	_	_	복음/ncn+을/jco
+2	땅끝까지	땅+끝+까지	ADV	_	3	advcl	_	_	땅/ncn+끝/ncpa+까지/jxc
+3	전하는	전하+는	VERB	_	5	acl	_	_	전하/pvg+는/etm
+4	순복음	순복음	NOUN	_	5	compound	_	_	순복음/ncn
+5	신앙을	신앙+을	NOUN	_	6	obj	_	_	신앙/ncpa+을/jco
+6	가진	가지+ㄴ	VERB	_	7	ccomp	_	_	가지/pvg+ㄴ/etm
+7	사람이며	사람+이+며	CCONJ	_	12	conj	_	_	사람/ncn+이/jp+며/ecc
+8	누구나	누구+나	ADV	_	12	advcl	_	_	누구/npp+나/jxc
+9	끊임없이	끊임없이	ADV	_	12	advmod	_	_	끊임없이/mag
+10	전도에	전도+에	ADV	_	12	obl	_	_	전도/ncpa+에/jca
+11	힘을	힘+을	NOUN	_	12	obj	_	_	힘/ncn+을/jco
+12	쓰게	쓰+게	VERB	_	0	root	_	_	쓰/pvg+게/ecx
+13	된다	되+ㄴ다	AUX	_	12	aux	_	_	되/px+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 세계 선교의 비전을 개개인 성도의 전도하는 신앙에서 비롯되어야 한다 .
+1	세계	세계	NOUN	_	2	compound	_	_	세계/ncn
+2	선교의	선교+의	NOUN	_	3	nmod	_	_	선교/ncn+의/jcm
+3	비전을	비전+을	NOUN	_	8	obj	_	_	비전/ncn+을/jco
+4	개개인	개개인	NOUN	_	5	compound	_	_	개개인/ncn
+5	성도의	성도+의	NOUN	_	7	nmod	_	_	성도/ncn+의/jcm
+6	전도하는	전도+하+는	VERB	_	7	acl	_	_	전도/ncpa+하/xsv+는/etm
+7	신앙에서	신앙+에서	ADV	_	8	advcl	_	_	신앙/ncpa+에서/jca
+8	비롯되어야	비롯+되+어야	VERB	_	0	root	_	_	비롯/ncpa+되/xsv+어야/ecx
+9	한다	하+ㄴ다	AUX	_	8	aux	_	_	하/px+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러면 무엇을 전하는 신앙인가 ?
+1	그러면	그러면	CCONJ	_	4	cc	_	_	그러면/maj
+2	무엇을	무엇+을	PRON	_	3	obj	_	_	무엇/npd+을/jco
+3	전하는	전하+는	VERB	_	4	ccomp	_	_	전하/pvg+는/etm
+4	신앙인가	신앙+이+ㄴ가	VERB	_	0	root	_	_	신앙/ncpa+이/jp+ㄴ가/ef
+5	?	?	PUNCT	_	4	punct	_	_	?/sf
+
+# 먼저 순복음 신앙은 좋으신 하나님을 전한다 .
+1	먼저	먼저	ADV	_	6	advmod	_	_	먼저/mag
+2	순복음	순복음	NOUN	_	3	compound	_	_	순복음/ncn
+3	신앙은	신앙+은	NOUN	_	6	dislocated	_	_	신앙/ncpa+은/jxt
+4	좋으신	좋+으시+ㄴ	ADJ	_	5	amod	_	_	좋/paa+으시/ep+ㄴ/etm
+5	하나님을	하나님+을	PROPN	_	6	obj	_	_	하나님/nq+을/jco
+6	전한다	전하+ㄴ다	VERB	_	0	root	_	_	전하/pvg+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 예수님께서는 하나님 아버지의 뜻을 좇아 죄를 미워하심으로 병자를 치료하셨으며 , 귀신 들린 자를 불쌍히 여기사 귀신을 쫓아내셨다 .
+1	예수님께서는	예수+님+께서+는	PROPN	_	17	dislocated	_	_	예수/nq+님/xsn+께서/jcs+는/jxt
+2	하나님	하나님	PROPN	_	3	compound	_	_	하나님/nq
+3	아버지의	아버지+의	NOUN	_	4	nmod	_	_	아버지/ncn+의/jcm
+4	뜻을	뜻+을	NOUN	_	5	obj	_	_	뜻/ncn+을/jco
+5	좇아	좇+아	SCONJ	_	7	conj	_	_	좇/pvg+아/ecs
+6	죄를	죄+를	NOUN	_	7	obj	_	_	죄/ncn+를/jco
+7	미워하심으로	미워하+시+ㅁ+으로	ADV	_	9	advcl	_	_	미워하/pvg+시/ep+ㅁ/etn+으로/jca
+8	병자를	병자+를	NOUN	_	9	obj	_	_	병자/ncn+를/jco
+9	치료하셨으며	치료+하+셨+으며	SCONJ	_	17	ccomp	_	_	치료/ncpa+하/xsv+셨/ep+으며/ecs
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	귀신	귀신	NOUN	_	12	dep	_	_	귀신/ncn
+12	들린	들리+ㄴ	VERB	_	13	acl	_	_	들리/pvg+ㄴ/etm
+13	자를	자+를	NOUN	_	15	obj	_	_	자/nbn+를/jco
+14	불쌍히	불쌍히	ADV	_	15	advmod	_	_	불쌍히/mag
+15	여기사	여기+시+아	SCONJ	_	17	ccomp	_	_	여기/pvg+시/ep+아/ecs
+16	귀신을	귀신+을	NOUN	_	17	obj	_	_	귀신/ncn+을/jco
+17	쫓아내셨다	쫓+아+내+셨+다	AUX	_	0	root	_	_	쫓/pvg+아/ecx+내/px+셨/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그리고는 십자가에 못 박혀 피를 흘리심으로 인생들의 최와 질병과 저주와 죽음을 깨끗이 청산하셨다 .
+1	그리고는	그리고+는	NOUN	_	13	cc	_	_	그리고/maj+는/jxt
+2	십자가에	십자가+에	ADV	_	4	obl	_	_	십자가/ncn+에/jca
+3	못	못	NOUN	_	4	dep	_	_	못/ncn
+4	박혀	박히+어	SCONJ	_	6	conj	_	_	박히/pvg+어/ecs
+5	피를	피+를	NOUN	_	6	obj	_	_	피/ncn+를/jco
+6	흘리심으로	흘리+시+ㅁ+으로	ADV	_	13	advcl	_	_	흘리/pvg+시/ep+ㅁ/etn+으로/jca
+7	인생들의	인생+들+의	NOUN	_	11	nmod	_	_	인생/ncn+들/xsn+의/jcm
+8	최와	최+와	CCONJ	_	9	conj	_	_	최/ncn+와/jcj
+9	질병과	질병+과	CCONJ	_	10	conj	_	_	질병/ncn+과/jcj
+10	저주와	저주+와	CCONJ	_	11	conj	_	_	저주/ncpa+와/jcj
+11	죽음을	죽음+을	NOUN	_	13	obj	_	_	죽음/ncn+을/jco
+12	깨끗이	깨끗이	ADV	_	13	advmod	_	_	깨끗이/mag
+13	청산하셨다	청산+하+셨+다	VERB	_	0	root	_	_	청산/ncpa+하/xsv+셨/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이 모든 것이 좋으신 하나님의 역사임을 성경을 통해 알 수 있다 .
+1	이	이	DET	_	3	det	_	_	이/mmd
+2	모든	모든	ADJ	_	3	amod	_	_	모든/mma
+3	것이	것+이	NOUN	_	6	nsubj	_	_	것/nbn+이/jcs
+4	좋으신	좋+으시+ㄴ	ADJ	_	5	amod	_	_	좋/paa+으시/ep+ㄴ/etm
+5	하나님의	하나님+의	PROPN	_	6	nmod	_	_	하나님/nq+의/jcm
+6	역사임을	역사+이+ㅁ+을	NOUN	_	9	obj	_	_	역사/ncn+이/jp+ㅁ/etn+을/jco
+7	성경을	성경+을	NOUN	_	8	obj	_	_	성경/ncn+을/jco
+8	통해	통하+어	SCONJ	_	9	ccomp	_	_	통하/pvg+어/ecs
+9	알	알+ㄹ	VERB	_	0	root	_	_	알/pvg+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있다	있+다	ADJ	_	9	aux	_	_	있/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 구원이란 말에는 치료의 개념도 포함되어 있다 .
+1	구원이란	구원+이+란	VERB	_	2	acl	_	_	구원/ncpa+이/jp+란/etm
+2	말에는	말+에+는	NOUN	_	5	dislocated	_	_	말/ncpa+에/jca+는/jxt
+3	치료의	치료+의	NOUN	_	4	nmod	_	_	치료/ncpa+의/jcm
+4	개념도	개념+도	ADV	_	5	advcl	_	_	개념/ncn+도/jxc
+5	포함되어	포함+되+어	VERB	_	0	root	_	_	포함/ncpa+되/xsv+어/ecx
+6	있다	있+다	AUX	_	5	aux	_	_	있/px+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 예수님을 믿고 구원 받는 것은 단지 죽은 후에 천국에 가는 것만을 의미하지 않는다 .
+1	예수님을	예수+님+을	PROPN	_	2	obj	_	_	예수/nq+님/xsn+을/jco
+2	믿고	믿+고	CCONJ	_	4	conj	_	_	믿/pvg+고/ecc
+3	구원	구원	NOUN	_	4	dep	_	_	구원/ncpa
+4	받는	받+는	VERB	_	5	acl	_	_	받/pvg+는/etm
+5	것은	것+은	NOUN	_	12	dislocated	_	_	것/nbn+은/jxt
+6	단지	단지	ADV	_	12	advmod	_	_	단지/mag
+7	죽은	죽+은	VERB	_	8	acl	_	_	죽/pvg+은/etm
+8	후에	후+에	ADV	_	10	obl	_	_	후/ncn+에/jca
+9	천국에	천국+에	ADV	_	10	obl	_	_	천국/ncn+에/jca
+10	가는	가+는	VERB	_	11	acl	_	_	가/pvg+는/etm
+11	것만을	것+만+을	NOUN	_	12	obj	_	_	것/nbn+만/jxc+을/jco
+12	의미하지	의미+하+지	VERB	_	0	root	_	_	의미/ncpa+하/xsv+지/ecx
+13	않는다	않+는다	AUX	_	12	aux	_	_	않/px+는다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 오늘날 일부 사람들이 기독교 신앙으로 병을 치료하는 것을 이단시하거나 샤머니즘으로 몰아 붙이는 경우가 있다 .
+1	오늘날	오늘날	NOUN	_	14	dep	_	_	오늘날/ncn
+2	일부	일부	NOUN	_	3	compound	_	_	일부/ncn
+3	사람들이	사람+들+이	NOUN	_	12	nsubj	_	_	사람/ncn+들/xsn+이/jcs
+4	기독교	기독교	NOUN	_	5	compound	_	_	기독교/ncn
+5	신앙으로	신앙+으로	ADV	_	7	advcl	_	_	신앙/ncpa+으로/jca
+6	병을	병+을	NOUN	_	7	obj	_	_	병/ncn+을/jco
+7	치료하는	치료+하+는	VERB	_	8	acl	_	_	치료/ncpa+하/xsv+는/etm
+8	것을	것+을	NOUN	_	9	obj	_	_	것/nbn+을/jco
+9	이단시하거나	이단시+하+거나	CCONJ	_	12	conj	_	_	이단시/ncpa+하/xsv+거나/ecc
+10	샤머니즘으로	샤머니즘+으로	ADV	_	12	advcl	_	_	샤머니즘/ncn+으로/jca
+11	몰아	몰+아	SCONJ	_	12	ccomp	_	_	몰/pvg+아/ecs
+12	붙이는	붙이+는	VERB	_	13	acl	_	_	붙이/pvg+는/etm
+13	경우가	경우+가	NOUN	_	14	nsubj	_	_	경우/ncn+가/jcs
+14	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 또한 이사야 53장에 보면 하나님의 고난의 종이 이루신 죄의 대속과 질병의 대속이 같은 낱말로 쓰여 있다 .
+1	또한	또한	CCONJ	_	15	cc	_	_	또한/maj
+2	이사야	이사야	PROPN	_	3	compound	_	_	이사야/nq
+3	53장에	53+장+에	ADV	_	4	obl	_	_	53/nnc+장/nbu+에/jca
+4	보면	보+면	SCONJ	_	15	ccomp	_	_	보/pvg+면/ecs
+5	하나님의	하나님+의	PROPN	_	6	nmod	_	_	하나님/nq+의/jcm
+6	고난의	고난+의	NOUN	_	7	nmod	_	_	고난/ncn+의/jcm
+7	종이	종+이	NOUN	_	8	nsubj	_	_	종/ncn+이/jcs
+8	이루신	이루+시+ㄴ	VERB	_	12	acl	_	_	이루/pvg+시/ep+ㄴ/etm
+9	죄의	죄+의	NOUN	_	10	nmod	_	_	죄/ncn+의/jcm
+10	대속과	대속+과	CCONJ	_	12	conj	_	_	대속/ncpa+과/jcj
+11	질병의	질병+의	NOUN	_	12	nmod	_	_	질병/ncn+의/jcm
+12	대속이	대속+이	NOUN	_	15	nsubj	_	_	대속/ncpa+이/jcs
+13	같은	같+은	ADJ	_	14	amod	_	_	같/paa+은/etm
+14	낱말로	낱말+로	ADV	_	15	advcl	_	_	낱말/ncn+로/jca
+15	쓰여	쓰이+어	VERB	_	0	root	_	_	쓰이/pvg+어/ecx
+16	있다	있+다	AUX	_	15	aux	_	_	있/px+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그들은 재림 신앙을 부인함으로써 택한 자들이라도 미혹시켜 타락의 길로 이끌려 하고 있는 것이다 .
+1	그들은	그+들+은	PRON	_	4	dislocated	_	_	그/npp+들/xsn+은/jxt
+2	재림	재림	NOUN	_	3	compound	_	_	재림/ncpa
+3	신앙을	신앙+을	NOUN	_	4	obj	_	_	신앙/ncpa+을/jco
+4	부인함으로써	부인+하+ㅁ+으로써	ADV	_	10	advcl	_	_	부인/ncpa+하/xsv+ㅁ/etn+으로써/jca
+5	택한	택하+ㄴ	VERB	_	6	ccomp	_	_	택하/pvg+ㄴ/etm
+6	자들이라도	자+들+이+라도	SCONJ	_	7	ccomp	_	_	자/nbn+들/xsn+이/jp+라도/ecs
+7	미혹시켜	미혹+시키+어	SCONJ	_	10	ccomp	_	_	미혹/ncpa+시키/xsv+어/ecs
+8	타락의	타락+의	NOUN	_	9	nmod	_	_	타락/ncpa+의/jcm
+9	길로	길+로	ADV	_	10	advcl	_	_	길/ncn+로/jca
+10	이끌려	이끌+려	VERB	_	0	root	_	_	이끌/pvg+려/ecx
+11	하고	하+고	AUX	_	10	aux	_	_	하/px+고/ecx
+12	있는	있+는	AUX	_	10	aux	_	_	있/px+는/etm
+13	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 또한 어느 날 , 어느 시를 임의로 정한 뒤 사람들을 미혹하기도 한다 .
+1	또한	또한	CCONJ	_	12	cc	_	_	또한/maj
+2	어느	어느	DET	_	3	det	_	_	어느/mmd
+3	날	날	NOUN	_	6	compound	_	_	날/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	어느	어느	DET	_	6	det	_	_	어느/mmd
+6	시를	시+를	NOUN	_	8	obj	_	_	시/ncn+를/jco
+7	임의로	임의+로	ADV	_	8	advcl	_	_	임의/ncn+로/jca
+8	정한	정하+ㄴ	VERB	_	9	acl	_	_	정하/pvg+ㄴ/etm
+9	뒤	뒤	NOUN	_	11	advmod	_	_	뒤/ncn
+10	사람들을	사람+들+을	NOUN	_	11	obj	_	_	사람/ncn+들/xsn+을/jco
+11	미혹하기도	미혹+하+기+도	ADV	_	12	advcl	_	_	미혹/ncpa+하/xsv+기/etn+도/jxc
+12	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 순복음의 신앙은 이처럼 성경이 말하는 신천신지와 영원한 나라를 소망하며 이 땅에 사는 동안 최선을 다하여 주를 섬기겠다는 종말론적 신앙이다 .
+1	순복음의	순복음+의	NOUN	_	2	nmod	_	_	순복음/ncn+의/jcm
+2	신앙은	신앙+은	NOUN	_	19	dislocated	_	_	신앙/ncpa+은/jxt
+3	이처럼	이+처럼	ADV	_	9	advcl	_	_	이/npd+처럼/jca
+4	성경이	성경+이	NOUN	_	5	nsubj	_	_	성경/ncn+이/jcs
+5	말하는	말하+는	VERB	_	6	acl	_	_	말하/pvg+는/etm
+6	신천신지와	신천신지+와	CCONJ	_	8	conj	_	_	신천신지/ncn+와/jcj
+7	영원한	영원+하+ㄴ	VERB	_	8	acl	_	_	영원/ncpa+하/xsv+ㄴ/etm
+8	나라를	나라+를	NOUN	_	9	obj	_	_	나라/ncn+를/jco
+9	소망하며	소망+하+며	CCONJ	_	17	conj	_	_	소망/ncpa+하/xsv+며/ecc
+10	이	이	DET	_	11	det	_	_	이/mmd
+11	땅에	땅+에	ADV	_	12	obl	_	_	땅/ncn+에/jca
+12	사는	살+는	VERB	_	13	acl	_	_	살/pvg+는/etm
+13	동안	동안	NOUN	_	17	advmod	_	_	동안/ncn
+14	최선을	최선+을	NOUN	_	15	obj	_	_	최선/ncn+을/jco
+15	다하여	다하+어	SCONJ	_	17	ccomp	_	_	다하/pvg+어/ecs
+16	주를	주+를	NOUN	_	17	obj	_	_	주/ncn+를/jco
+17	섬기겠다는	섬기+겠+다는	VERB	_	19	ccomp	_	_	섬기/pvg+겠/ep+다는/etm
+18	종말론적	종말론+적	NOUN	_	19	amod	_	_	종말론/ncn+적/xsn
+19	신앙이다	신앙+이+다	VERB	_	0	root	_	_	신앙/ncpa+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 순복음 신앙은 하나님 중심의 신앙이며 , 다른 사람을 위한 이타주의의 신앙이다 .
+1	순복음	순복음	NOUN	_	2	compound	_	_	순복음/ncn
+2	신앙은	신앙+은	NOUN	_	11	dislocated	_	_	신앙/ncpa+은/jxt
+3	하나님	하나님	PROPN	_	4	compound	_	_	하나님/nq
+4	중심의	중심+의	NOUN	_	5	nmod	_	_	중심/ncn+의/jcm
+5	신앙이며	신앙+이+며	CCONJ	_	11	conj	_	_	신앙/ncpa+이/jp+며/ecc
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	다른	다르+ㄴ	ADJ	_	8	amod	_	_	다르/paa+ㄴ/etm
+8	사람을	사람+을	NOUN	_	9	obj	_	_	사람/ncn+을/jco
+9	위한	위하+ㄴ	VERB	_	10	acl	_	_	위하/pvg+ㄴ/etm
+10	이타주의의	이타주의+의	NOUN	_	11	nmod	_	_	이타주의/ncn+의/jcm
+11	신앙이다	신앙+이+다	VERB	_	0	root	_	_	신앙/ncpa+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이런 점에서 보면 나누어 주는 신앙이 순복음 신앙의 정점이라고 할 수 있다 .
+1	이런	이렇+ㄴ	VERB	_	2	amod	_	_	이렇/pad+ㄴ/etm
+2	점에서	점+에서	ADV	_	3	advcl	_	_	점/nbu+에서/jca
+3	보면	보+면	SCONJ	_	10	ccomp	_	_	보/pvg+면/ecs
+4	나누어	나누+어	VERB	_	6	acl	_	_	나누/pvg+어/ecx
+5	주는	주+는	AUX	_	4	aux	_	_	주/px+는/etm
+6	신앙이	신앙+이	NOUN	_	9	nsubj	_	_	신앙/ncpa+이/jcs
+7	순복음	순복음	NOUN	_	8	compound	_	_	순복음/ncn
+8	신앙의	신앙+의	NOUN	_	9	nmod	_	_	신앙/ncpa+의/jcm
+9	정점이라고	정점+이+라+고	VERB	_	10	conj	_	_	정점/ncn+이/jp+라/ef+고/jcr
+10	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있다	있+다	ADJ	_	10	aux	_	_	있/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 나누어 주는 신앙이란 하나님께로부터 받은 복을 먼저 하나님께 드리며 또 이웃에게 나누어 구제하는 신앙을 말한다 .
+1	나누어	나누+어	VERB	_	3	acl	_	_	나누/pvg+어/ecx
+2	주는	주+는	AUX	_	1	aux	_	_	주/px+는/etm
+3	신앙이란	신앙+이란	ADV	_	15	advcl	_	_	신앙/ncpa+이란/jxc
+4	하나님께로부터	하나님+께+로+부터	ADV	_	5	advcl	_	_	하나님/nq+께/jcs+로/jca+부터/jxc
+5	받은	받+은	VERB	_	6	acl	_	_	받/pvg+은/etm
+6	복을	복+을	NOUN	_	12	obj	_	_	복/ncn+을/jco
+7	먼저	먼저	ADV	_	9	advmod	_	_	먼저/mag
+8	하나님께	하나님+께	ADV	_	9	advcl	_	_	하나님/nq+께/jca
+9	드리며	드리+며	CCONJ	_	12	conj	_	_	드리/pvg+며/ecc
+10	또	또	ADV	_	12	advmod	_	_	또/mag
+11	이웃에게	이웃+에게	ADV	_	12	iobj	_	_	이웃/ncn+에게/jca
+12	나누어	나누+어	SCONJ	_	13	ccomp	_	_	나누/pvg+어/ecs
+13	구제하는	구제+하+는	VERB	_	14	acl	_	_	구제/ncpa+하/xsv+는/etm
+14	신앙을	신앙+을	NOUN	_	15	obj	_	_	신앙/ncpa+을/jco
+15	말한다	말하+ㄴ다	VERB	_	0	root	_	_	말하/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 구제하는 신앙의 중요성에 대하여는 마태복음 25장 31 46절에서 찾아 볼 수 있다 .
+1	구제하는	구제+하+는	VERB	_	2	acl	_	_	구제/ncpa+하/xsv+는/etm
+2	신앙의	신앙+의	NOUN	_	3	nmod	_	_	신앙/ncpa+의/jcm
+3	중요성에	중요성+에	ADV	_	4	obl	_	_	중요성/ncn+에/jca
+4	대하여는	대하+여+는	NOUN	_	9	ccomp	_	_	대하/pvg+여/ecs+는/jxt
+5	마태복음	마태복음	PROPN	_	8	compound	_	_	마태복음/nq
+6	25장	25+장	NOUN	_	8	compound	_	_	25/nnc+장/nbu
+7	31	31	NUM	_	8	nummod	_	_	31/nnc
+8	46절에서	46+절+에서	ADV	_	9	advcl	_	_	46/nnc+절/nbu+에서/jca
+9	찾아	찾+아	VERB	_	0	root	_	_	찾/pvg+아/ecx
+10	볼	보+ㄹ	AUX	_	9	aux	_	_	보/px+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있다	있+다	ADJ	_	9	aux	_	_	있/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 하나님께서는 구제하는 개인과 사회와 국가에 함께하시기 때문이다 .
+1	하나님께서는	하나님+께서+는	PROPN	_	6	dislocated	_	_	하나님/nq+께서/jca+는/jxt
+2	구제하는	구제+하+는	VERB	_	5	acl	_	_	구제/ncpa+하/xsv+는/etm
+3	개인과	개인+과	CCONJ	_	4	conj	_	_	개인/ncn+과/jcj
+4	사회와	사회+와	CCONJ	_	5	conj	_	_	사회/ncn+와/jcj
+5	국가에	국가+에	ADV	_	6	obl	_	_	국가/ncn+에/jca
+6	함께하시기	함께+하+시+기	VERB	_	0	root	_	_	함께/ncpa+하/xsv+시/ep+기/etn
+7	때문이다	때문+이+다	VERB	_	6	aux	_	_	때문/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 받기만 하고 나눠줄 줄을 몰라 죽어 버린 사해와 같이 생명력 없는 신앙이 된다 .
+1	받기만	받+기+만	ADV	_	2	advcl	_	_	받/pvg+기/etn+만/jxc
+2	하고	하+고	CCONJ	_	5	conj	_	_	하/pvg+고/ecc
+3	나눠줄	나누+어+주+ㄹ	AUX	_	4	acl	_	_	나누/pvg+어/ecx+주/px+ㄹ/etm
+4	줄을	줄+을	NOUN	_	5	obj	_	_	줄/nbn+을/jco
+5	몰라	모르+아	SCONJ	_	13	ccomp	_	_	모르/pvg+아/ecs
+6	죽어	죽+어	VERB	_	8	acl	_	_	죽/pvg+어/ecx
+7	버린	버리+ㄴ	AUX	_	6	aux	_	_	버리/px+ㄴ/etm
+8	사해와	사해+와	CCONJ	_	9	conj	_	_	사해/ncn+와/jct
+9	같이	같+이	SCONJ	_	11	xcomp	_	_	같/paa+이/ecs
+10	생명력	생명력	NOUN	_	11	dep	_	_	생명력/ncn
+11	없는	없+는	ADJ	_	12	amod	_	_	없/paa+는/etm
+12	신앙이	신앙+이	NOUN	_	13	nsubj	_	_	신앙/ncpa+이/jcs
+13	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이와 같이 순복음 신앙은 하나님의 복을 받아 먼저 하나님께 드리고 나아가 이웃에게 나누어 주는 신앙이다 .
+1	이와	이+와	CCONJ	_	2	conj	_	_	이/npd+와/jct
+2	같이	같+이	SCONJ	_	15	xcomp	_	_	같/paa+이/ecs
+3	순복음	순복음	NOUN	_	4	compound	_	_	순복음/ncn
+4	신앙은	신앙+은	NOUN	_	15	dislocated	_	_	신앙/ncpa+은/jxt
+5	하나님의	하나님+의	PROPN	_	6	nmod	_	_	하나님/nq+의/jcm
+6	복을	복+을	NOUN	_	7	obj	_	_	복/ncn+을/jco
+7	받아	받+아	SCONJ	_	13	ccomp	_	_	받/pvg+아/ecs
+8	먼저	먼저	ADV	_	10	advmod	_	_	먼저/mag
+9	하나님께	하나님+께	ADV	_	10	advcl	_	_	하나님/nq+께/jca
+10	드리고	드리+고	CCONJ	_	13	conj	_	_	드리/pvg+고/ecc
+11	나아가	나아가+아	SCONJ	_	13	ccomp	_	_	나아가/pvg+아/ecs
+12	이웃에게	이웃+에게	ADV	_	13	iobj	_	_	이웃/ncn+에게/jca
+13	나누어	나누+어	VERB	_	15	ccomp	_	_	나누/pvg+어/ecx
+14	주는	주+는	AUX	_	13	aux	_	_	주/px+는/etm
+15	신앙이다	신앙+이+다	VERB	_	0	root	_	_	신앙/ncpa+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그러므로 복음이란 예수 그리스도를 통해서 이루어지는 하나님의 구원에 대한 기쁜 소식을 의미한다 .
+1	그러므로	그러므로	CCONJ	_	12	cc	_	_	그러므로/maj
+2	복음이란	복음+이란	ADV	_	12	advcl	_	_	복음/ncn+이란/jxc
+3	예수	예수	PROPN	_	4	flat	_	_	예수/nq
+4	그리스도를	그리스도+를	PROPN	_	5	obj	_	_	그리스도/nq+를/jco
+5	통해서	통하+어서	SCONJ	_	6	ccomp	_	_	통하/pvg+어서/ecs
+6	이루어지는	이루+어+지+는	AUX	_	11	acl	_	_	이루/pvg+어/ecx+지/px+는/etm
+7	하나님의	하나님+의	PROPN	_	11	nmod	_	_	하나님/nq+의/jcm
+8	구원에	구원+에	ADV	_	9	obl	_	_	구원/ncpa+에/jca
+9	대한	대하+ㄴ	VERB	_	11	acl	_	_	대하/pvg+ㄴ/etm
+10	기쁜	기쁘+ㄴ	ADJ	_	11	amod	_	_	기쁘/paa+ㄴ/etm
+11	소식을	소식+을	NOUN	_	12	obj	_	_	소식/ncn+을/jco
+12	의미한다	의미+하+ㄴ다	VERB	_	0	root	_	_	의미/ncpa+하/xsv+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그러므로 복음의 내용은 사도들이 성령을 통하여 예수님에 대해 기록한 말씀이라고 할 수 있다 .
+1	그러므로	그러므로	CCONJ	_	11	cc	_	_	그러므로/maj
+2	복음의	복음+의	NOUN	_	3	nmod	_	_	복음/ncn+의/jcm
+3	내용은	내용+은	NOUN	_	10	dislocated	_	_	내용/ncn+은/jxt
+4	사도들이	사도+들+이	NOUN	_	9	nsubj	_	_	사도/ncn+들/xsn+이/jcs
+5	성령을	성령+을	NOUN	_	6	obj	_	_	성령/ncn+을/jco
+6	통하여	통하+어	SCONJ	_	9	ccomp	_	_	통하/pvg+어/ecs
+7	예수님에	예수+님+에	ADV	_	8	obl	_	_	예수/nq+님/xsn+에/jca
+8	대해	대하+어	SCONJ	_	9	ccomp	_	_	대하/pvg+어/ecs
+9	기록한	기록+하+ㄴ	VERB	_	10	ccomp	_	_	기록/ncpa+하/xsv+ㄴ/etm
+10	말씀이라고	말씀+이+라+고	VERB	_	11	conj	_	_	말씀/ncpa+이/jp+라/ef+고/jcr
+11	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있다	있+다	ADJ	_	11	aux	_	_	있/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 사도행전에 나타난 베드로의 설교와 서신서에 나타나는 사도바울의 케리그마의 내용은 다음과 같이 요약될 수 있다 .
+1	사도행전에	사도행전+에	ADV	_	2	obl	_	_	사도행전/nq+에/jca
+2	나타난	나타나+ㄴ	VERB	_	4	acl	_	_	나타나/pvg+ㄴ/etm
+3	베드로의	베드로+의	PROPN	_	4	nmod	_	_	베드로/nq+의/jcm
+4	설교와	설교+와	CCONJ	_	9	conj	_	_	설교/ncpa+와/jcj
+5	서신서에	서신서+에	ADV	_	6	obl	_	_	서신서/ncn+에/jca
+6	나타나는	나타나+는	VERB	_	9	acl	_	_	나타나/pvg+는/etm
+7	사도바울의	사도바울+의	PROPN	_	8	nmod	_	_	사도바울/nq+의/jcm
+8	케리그마의	케리그마+의	NOUN	_	9	nmod	_	_	케리그마/ncn+의/jcm
+9	내용은	내용+은	NOUN	_	12	dislocated	_	_	내용/ncn+은/jxt
+10	다음과	다음+과	CCONJ	_	11	conj	_	_	다음/ncn+과/jct
+11	같이	같+이	SCONJ	_	12	xcomp	_	_	같/paa+이/ecs
+12	요약될	요약+되+ㄹ	VERB	_	0	root	_	_	요약/ncpa+되/xsv+ㄹ/etm
+13	수	수	NOUN	_	14	fixed	_	_	수/nbn
+14	있다	있+다	ADJ	_	12	aux	_	_	있/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 첫째 , 구약의 예언은 예수 그리스도로 성취되었다 .
+1	첫째	첫째	NUM	_	7	nummod	_	_	첫째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	구약의	구약+의	PROPN	_	4	nmod	_	_	구약/nq+의/jcm
+4	예언은	예언+은	NOUN	_	7	dislocated	_	_	예언/ncpa+은/jxt
+5	예수	예수	PROPN	_	6	flat	_	_	예수/nq
+6	그리스도로	그리스도+로	ADV	_	7	advcl	_	_	그리스도/nq+로/jca
+7	성취되었다	성취+되+었+다	VERB	_	0	root	_	_	성취/ncpa+되/xsv+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 둘째 , 하나님 나라가 예수 그리스도께서 높이 받으심으로 인하여 성령이 이 땅에 강림하셨다 .
+1	둘째	둘째	NUM	_	13	nummod	_	_	둘째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	하나님	하나님	PROPN	_	4	compound	_	_	하나님/nq
+4	나라가	나라+가	NOUN	_	8	nsubj	_	_	나라/ncn+가/jcs
+5	예수	예수	PROPN	_	6	flat	_	_	예수/nq
+6	그리스도께서	그리스도+께서	ADV	_	8	advcl	_	_	그리스도/nq+께서/jca
+7	높이	높이	ADV	_	8	advmod	_	_	높이/mag
+8	받으심으로	받+으시+ㅁ+으로	ADV	_	9	advcl	_	_	받/pvg+으시/ep+ㅁ/etn+으로/jca
+9	인하여	인하+어	SCONJ	_	13	ccomp	_	_	인하/pvg+어/ecs
+10	성령이	성령+이	NOUN	_	13	nsubj	_	_	성령/ncn+이/jcs
+11	이	이	DET	_	12	det	_	_	이/mmd
+12	땅에	땅+에	ADV	_	13	obl	_	_	땅/ncn+에/jca
+13	강림하셨다	강림+하+셨+다	VERB	_	0	root	_	_	강림/ncpa+하/xsv+셨/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 넷째 , 예수 그리스도를 믿음으로 하나님의 구원의 역사인 중생과 믿음과 평화와 새 생명을 소유하게 되며 심판에 이르지 않게 된다 .
+1	넷째	넷째	NUM	_	17	nummod	_	_	넷째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	예수	예수	PROPN	_	4	flat	_	_	예수/nq
+4	그리스도를	그리스도+를	PROPN	_	5	obj	_	_	그리스도/nq+를/jco
+5	믿음으로	믿+음+으로	ADV	_	17	advcl	_	_	믿/pvg+음/etn+으로/jca
+6	하나님의	하나님+의	PROPN	_	7	nmod	_	_	하나님/nq+의/jcm
+7	구원의	구원+의	NOUN	_	8	nmod	_	_	구원/ncpa+의/jcm
+8	역사인	역사+이+ㄴ	VERB	_	13	acl	_	_	역사/ncn+이/jp+ㄴ/etm
+9	중생과	중생+과	CCONJ	_	10	conj	_	_	중생/ncn+과/jcj
+10	믿음과	믿음+과	CCONJ	_	11	conj	_	_	믿음/ncn+과/jcj
+11	평화와	평화+와	CCONJ	_	13	conj	_	_	평화/ncps+와/jcj
+12	새	새	ADJ	_	13	amod	_	_	새/mma
+13	생명을	생명+을	NOUN	_	14	obj	_	_	생명/ncn+을/jco
+14	소유하게	소유+하+게	VERB	_	17	conj	_	_	소유/ncpa+하/xsv+게/ecx
+15	되며	되+며	CCONJ	_	14	aux	_	_	되/px+며/ecc
+16	심판에	심판+에	ADV	_	17	obl	_	_	심판/ncpa+에/jca
+17	이르지	이르+지	VERB	_	0	root	_	_	이르/pvg+지/ecx
+18	않게	않+게	AUX	_	17	aux	_	_	않/px+게/ecx
+19	된다	되+ㄴ다	AUX	_	17	aux	_	_	되/px+ㄴ다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 다섯째 , 예수님의 재림으로 이 땅에는 완전한 하나님 나라가 이루어지게 된다 .
+1	다섯째	다섯째	NUM	_	10	nummod	_	_	다섯째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	예수님의	예수+님+의	PROPN	_	4	nmod	_	_	예수/nq+님/xsn+의/jcm
+4	재림으로	재림+으로	ADV	_	10	advcl	_	_	재림/ncpa+으로/jca
+5	이	이	DET	_	6	det	_	_	이/mmd
+6	땅에는	땅+에+는	NOUN	_	10	dislocated	_	_	땅/ncn+에/jca+는/jxt
+7	완전한	완전+하+ㄴ	VERB	_	9	acl	_	_	완전/ncpa+하/xsv+ㄴ/etm
+8	하나님	하나님	PROPN	_	9	compound	_	_	하나님/nq
+9	나라가	나라+가	NOUN	_	10	nsubj	_	_	나라/ncn+가/jcs
+10	이루어지게	이루+어+지+게	AUX	_	0	root	_	_	이루/pvg+어/ecx+지/px+게/ecx
+11	된다	되+ㄴ다	AUX	_	10	aux	_	_	되/px+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 예수님께서는 이 땅에 오셔서 천국을 체험하도록 은혜를 인간들에게 베풀어 주셨다 .
+1	예수님께서는	예수+님+께서+는	PROPN	_	9	dislocated	_	_	예수/nq+님/xsn+께서/jcs+는/jxt
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	땅에	땅+에	ADV	_	4	obl	_	_	땅/ncn+에/jca
+4	오셔서	오+시+어서	SCONJ	_	9	ccomp	_	_	오/pvg+시/ep+어서/ecs
+5	천국을	천국+을	NOUN	_	6	obj	_	_	천국/ncn+을/jco
+6	체험하도록	체험+하+도록	SCONJ	_	9	ccomp	_	_	체험/ncpa+하/xsv+도록/ecs
+7	은혜를	은혜+를	NOUN	_	9	obj	_	_	은혜/ncps+를/jco
+8	인간들에게	인간+들+에게	ADV	_	9	iobj	_	_	인간/ncn+들/xsn+에게/jca
+9	베풀어	베풀+어	VERB	_	0	root	_	_	베풀/pvg+어/ecx
+10	주셨다	주+셨+다	AUX	_	9	aux	_	_	주/px+셨/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 즉 죄인의 죄를 용서해 주심으로 죄가 없는 천국을 미리 맛보게 해주셨다 .
+1	즉	즉	CCONJ	_	10	cc	_	_	즉/maj
+2	죄인의	죄인+의	NOUN	_	3	nmod	_	_	죄인/ncn+의/jcm
+3	죄를	죄+를	NOUN	_	4	obj	_	_	죄/ncn+를/jco
+4	용서해	용서+하+어	VERB	_	10	advcl	_	_	용서/ncpa+하/xsv+어/ecx
+5	주심으로	주+시+ㅁ+으로	ADV	_	4	aux	_	_	주/px+시/ep+ㅁ/etn+으로/jca
+6	죄가	죄+가	NOUN	_	7	nsubj	_	_	죄/ncn+가/jcs
+7	없는	없+는	ADJ	_	8	amod	_	_	없/paa+는/etm
+8	천국을	천국+을	NOUN	_	10	obj	_	_	천국/ncn+을/jco
+9	미리	미리	ADV	_	10	advmod	_	_	미리/mag
+10	맛보게	맛보+게	VERB	_	0	root	_	_	맛보/pvg+게/ecx
+11	해주셨다	하+어+주+셨+다	AUX	_	10	aux	_	_	하/px+어/ecx+주/px+셨/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 또한 각색 병자들을 고쳐 주심으로 장차 병이 없는 부활의 천국이 다가올 것을 미리 보여 주셨다 .
+1	또한	또한	CCONJ	_	14	cc	_	_	또한/maj
+2	각색	각색	NOUN	_	3	compound	_	_	각색/ncn
+3	병자들을	병자+들+을	NOUN	_	4	obj	_	_	병자/ncn+들/xsn+을/jco
+4	고쳐	고치+어	VERB	_	14	advcl	_	_	고치/pvg+어/ecx
+5	주심으로	주+시+ㅁ+으로	ADV	_	4	aux	_	_	주/px+시/ep+ㅁ/etn+으로/jca
+6	장차	장차	ADV	_	11	advmod	_	_	장차/mag
+7	병이	병+이	NOUN	_	8	nsubj	_	_	병/ncn+이/jcs
+8	없는	없+는	ADJ	_	10	amod	_	_	없/paa+는/etm
+9	부활의	부활+의	NOUN	_	10	nmod	_	_	부활/ncpa+의/jcm
+10	천국이	천국+이	NOUN	_	11	nsubj	_	_	천국/ncn+이/jcs
+11	다가올	다가오+ㄹ	VERB	_	12	acl	_	_	다가오/pvg+ㄹ/etm
+12	것을	것+을	NOUN	_	14	obj	_	_	것/nbn+을/jco
+13	미리	미리	ADV	_	14	advmod	_	_	미리/mag
+14	보여	보이+어	VERB	_	0	root	_	_	보이/pvg+어/ecx
+15	주셨다	주+셨+다	AUX	_	14	aux	_	_	주/px+셨/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그리고 귀신을 쫓아내심으로 귀신의 압박이 없는 천국을 체험시켜 주셨다 .
+1	그리고	그리고	CCONJ	_	8	cc	_	_	그리고/maj
+2	귀신을	귀신+을	NOUN	_	3	obj	_	_	귀신/ncn+을/jco
+3	쫓아내심으로	쫓+아+내+시+ㅁ+으로	ADV	_	8	advcl	_	_	쫓/pvg+아/ecx+내/px+시/ep+ㅁ/etn+으로/jca
+4	귀신의	귀신+의	NOUN	_	5	nmod	_	_	귀신/ncn+의/jcm
+5	압박이	압박+이	NOUN	_	6	nsubj	_	_	압박/ncpa+이/jcs
+6	없는	없+는	ADJ	_	7	amod	_	_	없/paa+는/etm
+7	천국을	천국+을	NOUN	_	8	obj	_	_	천국/ncn+을/jco
+8	체험시켜	체험+시키+어	VERB	_	0	root	_	_	체험/ncpa+시키/xsv+어/ecx
+9	주셨다	주+셨+다	AUX	_	8	aux	_	_	주/px+셨/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이와 같이 예수 그리스도의 복음은 죄 사함의 은총과 종말론적 구원의 복과 의와 희락과 평강이 가득한 천국 복음이다 .
+1	이와	이+와	CCONJ	_	2	conj	_	_	이/npd+와/jct
+2	같이	같+이	SCONJ	_	17	xcomp	_	_	같/paa+이/ecs
+3	예수	예수	PROPN	_	4	flat	_	_	예수/nq
+4	그리스도의	그리스도+의	PROPN	_	5	nmod	_	_	그리스도/nq+의/jcm
+5	복음은	복음+은	NOUN	_	17	dislocated	_	_	복음/ncn+은/jxt
+6	죄	죄	NOUN	_	7	dep	_	_	죄/ncn
+7	사함의	사하+ㅁ+의	NOUN	_	8	nmod	_	_	사하/pvg+ㅁ/etn+의/jcm
+8	은총과	은총+과	CCONJ	_	11	conj	_	_	은총/ncn+과/jcj
+9	종말론적	종말론+적	NOUN	_	10	amod	_	_	종말론/ncn+적/xsn
+10	구원의	구원+의	NOUN	_	11	nmod	_	_	구원/ncpa+의/jcm
+11	복과	복+과	CCONJ	_	12	conj	_	_	복/ncn+과/jcj
+12	의와	의+와	CCONJ	_	13	conj	_	_	의/ncn+와/jcj
+13	희락과	희락+과	CCONJ	_	14	conj	_	_	희락/ncn+과/jcj
+14	평강이	평강+이	NOUN	_	15	nsubj	_	_	평강/ncn+이/jcs
+15	가득한	가득하+ㄴ	ADJ	_	17	amod	_	_	가득하/paa+ㄴ/etm
+16	천국	천국	NOUN	_	17	compound	_	_	천국/ncn
+17	복음이다	복음+이+다	VERB	_	0	root	_	_	복음/ncn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그것은 심판의 메시지가 아니라 구원의 메시지이다 .
+1	그것은	그것+은	PRON	_	6	dislocated	_	_	그것/npd+은/jxt
+2	심판의	심판+의	NOUN	_	3	nmod	_	_	심판/ncpa+의/jcm
+3	메시지가	메시지+가	NOUN	_	4	nsubj	_	_	메시지/ncn+가/jcs
+4	아니라	아니+라	SCONJ	_	6	xcomp	_	_	아니/paa+라/ecs
+5	구원의	구원+의	NOUN	_	6	nmod	_	_	구원/ncpa+의/jcm
+6	메시지이다	메시지+이+다	VERB	_	0	root	_	_	메시지/ncn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그렇기 때문에 복음은 기쁜 소식이다 .
+1	그렇기	그렇+기	VERB	_	2	nmod	_	_	그렇/pad+기/etn
+2	때문에	때문+에	ADV	_	5	obl	_	_	때문/nbn+에/jca
+3	복음은	복음+은	NOUN	_	5	dislocated	_	_	복음/ncn+은/jxt
+4	기쁜	기쁘+ㄴ	ADJ	_	5	amod	_	_	기쁘/paa+ㄴ/etm
+5	소식이다	소식+이+다	VERB	_	0	root	_	_	소식/ncn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그런데 오늘날 적지 않은 사람들이 이 위대한 복음을 온전하게 이해하지 못하고 있다 .
+1	그런데	그런데	CCONJ	_	10	cc	_	_	그런데/maj
+2	오늘날	오늘날	NOUN	_	10	advmod	_	_	오늘날/ncn
+3	적지	적+지	VERB	_	5	acl	_	_	적/pvg+지/ecx
+4	않은	않+은	AUX	_	3	aux	_	_	않/px+은/etm
+5	사람들이	사람+들+이	NOUN	_	10	nsubj	_	_	사람/ncn+들/xsn+이/jcs
+6	이	이	DET	_	8	det	_	_	이/mmd
+7	위대한	위대+하+ㄴ	VERB	_	8	amod	_	_	위대/ncps+하/xsm+ㄴ/etm
+8	복음을	복음+을	NOUN	_	10	obj	_	_	복음/ncn+을/jco
+9	온전하게	온전+하+게	SCONJ	_	10	xcomp	_	_	온전/ncps+하/xsm+게/ecs
+10	이해하지	이해+하+지	VERB	_	0	root	_	_	이해/ncpa+하/xsv+지/ecx
+11	못하고	못하+고	AUX	_	10	aux	_	_	못하/px+고/ecx
+12	있다	있+다	AUX	_	10	aux	_	_	있/px+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 심지어 교회에서조차도 부분적인 , 혹은 왜곡된 인본주의적인 복음을 선포함으로써 주님의 십자가의 사역을 평가절하 하고 있다 .
+1	심지어	심지어	ADV	_	2	advmod	_	_	심지어/mag
+2	교회에서조차도	교회+에서+조차+도	ADV	_	9	advcl	_	_	교회/ncn+에서/jca+조차/jxc+도/jxc
+3	부분적인	부분+적+이+ㄴ	VERB	_	6	dep	_	_	부분/ncn+적/xsn+이/jp+ㄴ/etm
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	혹은	혹은	CCONJ	_	6	cc	_	_	혹은/maj
+6	왜곡된	왜곡+되+ㄴ	VERB	_	8	dep	_	_	왜곡/ncpa+되/xsv+ㄴ/etm
+7	인본주의적인	인본주의+적+이+ㄴ	VERB	_	8	acl	_	_	인본주의/ncn+적/xsn+이/jp+ㄴ/etm
+8	복음을	복음+을	NOUN	_	9	obj	_	_	복음/ncn+을/jco
+9	선포함으로써	선포+하+ㅁ+으로써	ADV	_	14	advcl	_	_	선포/ncpa+하/xsv+ㅁ/etn+으로써/jca
+10	주님의	주님+의	NOUN	_	12	nmod	_	_	주님/ncn+의/jcm
+11	십자가의	십자가+의	NOUN	_	12	nmod	_	_	십자가/ncn+의/jcm
+12	사역을	사역+을	NOUN	_	14	obj	_	_	사역/ncpa+을/jco
+13	평가절하	평가절하	NOUN	_	14	dep	_	_	평가절하/ncn
+14	하고	하+고	VERB	_	0	root	_	_	하/pvg+고/ecx
+15	있다	있+다	AUX	_	14	aux	_	_	있/px+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 즉 예수 믿으면 죽은 후에 천당 가는 것이 중요한 문제일 뿐 다른 것은 중요하지 않다는 주장이다 .
+1	즉	즉	CCONJ	_	16	cc	_	_	즉/maj
+2	예수	예수	PROPN	_	3	dep	_	_	예수/nq
+3	믿으면	믿+으면	SCONJ	_	7	ccomp	_	_	믿/pvg+으면/ecs
+4	죽은	죽+은	VERB	_	5	acl	_	_	죽/pvg+은/etm
+5	후에	후+에	ADV	_	7	obl	_	_	후/ncn+에/jca
+6	천당	천당	NOUN	_	7	dep	_	_	천당/ncn
+7	가는	가+는	VERB	_	8	acl	_	_	가/pvg+는/etm
+8	것이	것+이	NOUN	_	10	nsubj	_	_	것/nbn+이/jcs
+9	중요한	중요+하+ㄴ	VERB	_	10	amod	_	_	중요/ncps+하/xsm+ㄴ/etm
+10	문제일	문제+이+ㄹ	VERB	_	11	acl	_	_	문제/ncn+이/jp+ㄹ/etm
+11	뿐	뿐	NOUN	_	14	mark	_	_	뿐/nbn
+12	다른	다르+ㄴ	ADJ	_	13	amod	_	_	다르/paa+ㄴ/etm
+13	것은	것+은	NOUN	_	14	dislocated	_	_	것/nbn+은/jxt
+14	중요하지	중요+하+지	VERB	_	16	amod	_	_	중요/ncps+하/xsm+지/ecx
+15	않다는	않+다는	AUX	_	14	aux	_	_	않/px+다는/etm
+16	주장이다	주장+이+다	VERB	_	0	root	_	_	주장/ncpa+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그러나 이것은 편파적이며 내세지향적이고 복음의 일부분만을 바라본 결과이다 .
+1	그러나	그러나	CCONJ	_	8	cc	_	_	그러나/maj
+2	이것은	이것+은	PRON	_	8	dislocated	_	_	이것/npd+은/jxt
+3	편파적이며	편파+적+이+며	CCONJ	_	4	conj	_	_	편파/ncps+적/xsn+이/jp+며/ecc
+4	내세지향적이고	내세+지향+적+이+고	CCONJ	_	8	conj	_	_	내세/ncn+지향/ncpa+적/xsn+이/jp+고/ecc
+5	복음의	복음+의	NOUN	_	6	nmod	_	_	복음/ncn+의/jcm
+6	일부분만을	일부분+만+을	NOUN	_	7	obj	_	_	일부분/ncn+만/jxc+을/jco
+7	바라본	바라보+ㄴ	VERB	_	8	ccomp	_	_	바라보/pvg+ㄴ/etm
+8	결과이다	결과+이+다	VERB	_	0	root	_	_	결과/ncpa+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 육신을 입고 이 세상을 살아가는 한 , 우리는 가정과 사회와 경제생활을 무시하고 살 수는 없다 .
+1	육신을	육신+을	NOUN	_	2	obj	_	_	육신/ncn+을/jco
+2	입고	입+고	CCONJ	_	5	conj	_	_	입/pvg+고/ecc
+3	이	이	DET	_	4	det	_	_	이/mmd
+4	세상을	세상+을	NOUN	_	5	obj	_	_	세상/ncn+을/jco
+5	살아가는	살+아+가+는	AUX	_	6	acl	_	_	살/pvg+아/ecx+가/px+는/etm
+6	한	한	NOUN	_	13	advmod	_	_	한/ncps
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	우리는	우리+는	PRON	_	13	dislocated	_	_	우리/npp+는/jxt
+9	가정과	가정+과	CCONJ	_	10	conj	_	_	가정/ncn+과/jcj
+10	사회와	사회+와	CCONJ	_	11	conj	_	_	사회/ncn+와/jcj
+11	경제생활을	경제+생활+을	NOUN	_	12	obj	_	_	경제/ncn+생활/ncpa+을/jco
+12	무시하고	무시+하+고	CCONJ	_	13	conj	_	_	무시/ncpa+하/xsv+고/ecc
+13	살	살+ㄹ	VERB	_	0	root	_	_	살/pvg+ㄹ/etm
+14	수는	수+는	NOUN	_	15	fixed	_	_	수/nbn+는/jxt
+15	없다	없+다	ADJ	_	13	aux	_	_	없/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 즉 환경과 물질 면에서도 남과 나눌 수 있도록 하시고 정신적으로도 삶의 의미와 보람을 가지도록 하시는 것이다 .
+1	즉	즉	CCONJ	_	15	cc	_	_	즉/maj
+2	환경과	환경+과	CCONJ	_	3	conj	_	_	환경/ncn+과/jcj
+3	물질	물질	NOUN	_	4	compound	_	_	물질/ncn
+4	면에서도	면+에서+도	ADV	_	6	advcl	_	_	면/ncn+에서/jca+도/jxc
+5	남과	남+과	CCONJ	_	6	conj	_	_	남/npp+과/jct
+6	나눌	나누+ㄹ	VERB	_	9	ccomp	_	_	나누/pvg+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	있도록	있+도록	SCONJ	_	6	aux	_	_	있/paa+도록/ecs
+9	하시고	하+시+고	CCONJ	_	15	conj	_	_	하/pvg+시/ep+고/ecc
+10	정신적으로도	정신+적+으로+도	ADV	_	14	advcl	_	_	정신/ncn+적/xsn+으로/jca+도/jxc
+11	삶의	삶+의	NOUN	_	13	nmod	_	_	삶/ncn+의/jcm
+12	의미와	의미+와	CCONJ	_	13	conj	_	_	의미/ncpa+와/jcj
+13	보람을	보람+을	NOUN	_	14	obj	_	_	보람/ncpa+을/jco
+14	가지도록	가지+도록	SCONJ	_	15	ccomp	_	_	가지/pvg+도록/ecs
+15	하시는	하+시+는	VERB	_	0	root	_	_	하/pvg+시/ep+는/etm
+16	것이다	것+이+다	VERB	_	15	aux	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그들은 자신의 선행을 지나치게 강조하며 자신의 노력과 의를 내세움으로써 하나님의 의를 거부하고 무시하는 경향이 있다 .
+1	그들은	그+들+은	PRON	_	13	dislocated	_	_	그/npp+들/xsn+은/jxt
+2	자신의	자신+의	NOUN	_	3	nmod	_	_	자신/ncn+의/jcm
+3	선행을	선행+을	NOUN	_	5	obj	_	_	선행/ncn+을/jco
+4	지나치게	지나치+게	SCONJ	_	5	ccomp	_	_	지나치/pvg+게/ecs
+5	강조하며	강조+하+며	CCONJ	_	9	conj	_	_	강조/ncpa+하/xsv+며/ecc
+6	자신의	자신+의	NOUN	_	8	nmod	_	_	자신/ncn+의/jcm
+7	노력과	노력+과	CCONJ	_	8	conj	_	_	노력/ncpa+과/jcj
+8	의를	의+를	NOUN	_	9	obj	_	_	의/ncn+를/jco
+9	내세움으로써	내세우+ㅁ+으로써	ADV	_	13	advcl	_	_	내세우/pvg+ㅁ/etn+으로써/jca
+10	하나님의	하나님+의	PROPN	_	11	nmod	_	_	하나님/nq+의/jcm
+11	의를	의+를	NOUN	_	13	obj	_	_	의/ncn+를/jco
+12	거부하고	거부+하+고	CCONJ	_	13	conj	_	_	거부/ncpa+하/xsv+고/ecc
+13	무시하는	무시+하+는	VERB	_	14	acl	_	_	무시/ncpa+하/xsv+는/etm
+14	경향이	경향+이	NOUN	_	15	nsubj	_	_	경향/ncn+이/jcs
+15	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 복음은 윤리 이상이요 , 도덕 이상인 생명의 메시지이다 .
+1	복음은	복음+은	NOUN	_	8	dislocated	_	_	복음/ncn+은/jxt
+2	윤리	윤리	NOUN	_	3	compound	_	_	윤리/ncn
+3	이상이요	이상+이+요	CCONJ	_	8	conj	_	_	이상/ncn+이/jp+요/ecc
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	도덕	도덕	NOUN	_	6	compound	_	_	도덕/ncn
+6	이상인	이상+이+ㄴ	VERB	_	8	ccomp	_	_	이상/ncn+이/jp+ㄴ/etm
+7	생명의	생명+의	NOUN	_	8	nmod	_	_	생명/ncn+의/jcm
+8	메시지이다	메시지+이+다	VERB	_	0	root	_	_	메시지/ncn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그들은 복음이라는 교리적 사실을 지식적으로 이해하고 그것을 인간적인 노력을 통해 지켜나가는 것이 기독교 신앙을 갖는 것으로 잘못 생각하고 있다 .
+1	그들은	그+들+은	PRON	_	18	dislocated	_	_	그/npp+들/xsn+은/jxt
+2	복음이라는	복음+이+라는	VERB	_	4	acl	_	_	복음/ncn+이/jp+라는/etm
+3	교리적	교리+적	NOUN	_	4	amod	_	_	교리/ncn+적/xsn
+4	사실을	사실+을	NOUN	_	6	obj	_	_	사실/ncn+을/jco
+5	지식적으로	지식+적+으로	ADV	_	6	advcl	_	_	지식/ncn+적/xsn+으로/jca
+6	이해하고	이해+하+고	CCONJ	_	11	conj	_	_	이해/ncpa+하/xsv+고/ecc
+7	그것을	그것+을	PRON	_	11	obj	_	_	그것/npd+을/jco
+8	인간적인	인간+적+이+ㄴ	VERB	_	9	acl	_	_	인간/ncn+적/xsn+이/jp+ㄴ/etm
+9	노력을	노력+을	NOUN	_	10	obj	_	_	노력/ncpa+을/jco
+10	통해	통하+어	SCONJ	_	11	ccomp	_	_	통하/pvg+어/ecs
+11	지켜나가는	지키+어+나+아+가+는	AUX	_	12	acl	_	_	지키/pvg+어/ecx+나/px+아/ecx+가/px+는/etm
+12	것이	것+이	NOUN	_	18	nsubj	_	_	것/nbn+이/jcs
+13	기독교	기독교	NOUN	_	14	compound	_	_	기독교/ncn
+14	신앙을	신앙+을	NOUN	_	15	obj	_	_	신앙/ncpa+을/jco
+15	갖는	갖+는	VERB	_	16	acl	_	_	갖/pvg+는/etm
+16	것으로	것+으로	ADV	_	18	advcl	_	_	것/nbn+으로/jca
+17	잘못	잘못	ADV	_	18	advmod	_	_	잘못/mag
+18	생각하고	생각+하+고	VERB	_	0	root	_	_	생각/ncpa+하/xsv+고/ecx
+19	있다	있+다	AUX	_	18	aux	_	_	있/px+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 예를 들어 주일에 교회에 나가고 예배에 참석하고 헌금을 드리는 것이 곧 예수를 믿는 전부로 착각하는 것이다 .
+1	예를	예+를	NOUN	_	2	obj	_	_	예/ncn+를/jco
+2	들어	들+어	SCONJ	_	15	ccomp	_	_	들/pvg+어/ecs
+3	주일에	주일+에	ADV	_	5	obl	_	_	주일/ncn+에/jca
+4	교회에	교회+에	ADV	_	5	obl	_	_	교회/ncn+에/jca
+5	나가고	나가+고	CCONJ	_	7	conj	_	_	나가/pvg+고/ecc
+6	예배에	예배+에	ADV	_	7	obl	_	_	예배/ncpa+에/jca
+7	참석하고	참석+하+고	CCONJ	_	9	conj	_	_	참석/ncpa+하/xsv+고/ecc
+8	헌금을	헌금+을	NOUN	_	9	obj	_	_	헌금/ncpa+을/jco
+9	드리는	드리+는	VERB	_	10	acl	_	_	드리/pvg+는/etm
+10	것이	것+이	NOUN	_	15	nsubj	_	_	것/nbn+이/jcs
+11	곧	곧	ADV	_	14	advmod	_	_	곧/mag
+12	예수를	예수+를	PROPN	_	13	obj	_	_	예수/nq+를/jco
+13	믿는	믿+는	VERB	_	14	acl	_	_	믿/pvg+는/etm
+14	전부로	전부+로	ADV	_	15	advcl	_	_	전부/ncn+로/jca
+15	착각하는	착각+하+는	VERB	_	0	root	_	_	착각/ncpa+하/xsv+는/etm
+16	것이다	것+이+다	VERB	_	15	aux	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이런 점에서 복음은 율법을 완성시키며 율법의 진정한 정신을 성취하는 것이다 .
+1	이런	이런	DET	_	2	det	_	_	이런/mmd
+2	점에서	점+에서	ADV	_	9	advcl	_	_	점/nbu+에서/jca
+3	복음은	복음+은	NOUN	_	9	dislocated	_	_	복음/ncn+은/jxt
+4	율법을	율법+을	NOUN	_	5	obj	_	_	율법/ncn+을/jco
+5	완성시키며	완성+시키+며	CCONJ	_	9	conj	_	_	완성/ncpa+시키/xsv+며/ecc
+6	율법의	율법+의	NOUN	_	8	nmod	_	_	율법/ncn+의/jcm
+7	진정한	진정+하+ㄴ	VERB	_	8	acl	_	_	진정/ncpa+하/xsv+ㄴ/etm
+8	정신을	정신+을	NOUN	_	9	obj	_	_	정신/ncn+을/jco
+9	성취하는	성취+하+는	VERB	_	0	root	_	_	성취/ncpa+하/xsv+는/etm
+10	것이다	것+이+다	VERB	_	9	aux	_	_	것/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 반율법주의는 율법에 대해 이러한 복음적 입장을 거부하고 방종하는 행동을 정당시하는 잘못된 견해이다 .
+1	반율법주의는	반율법주의+는	NOUN	_	12	dislocated	_	_	반율법주의/ncn+는/jxt
+2	율법에	율법+에	ADV	_	3	obl	_	_	율법/ncn+에/jca
+3	대해	대하+어	SCONJ	_	7	ccomp	_	_	대하/pvg+어/ecs
+4	이러한	이러하+ㄴ	VERB	_	6	amod	_	_	이러하/pad+ㄴ/etm
+5	복음적	복음+적	NOUN	_	6	amod	_	_	복음/ncn+적/xsn
+6	입장을	입장+을	NOUN	_	7	obj	_	_	입장/ncn+을/jco
+7	거부하고	거부+하+고	CCONJ	_	10	conj	_	_	거부/ncpa+하/xsv+고/ecc
+8	방종하는	방종+하+는	VERB	_	9	acl	_	_	방종/ncpa+하/xsv+는/etm
+9	행동을	행동+을	NOUN	_	10	obj	_	_	행동/ncpa+을/jco
+10	정당시하는	정당시+하+는	VERB	_	12	ccomp	_	_	정당시/ncpa+하/xsv+는/etm
+11	잘못된	잘못+되+ㄴ	VERB	_	12	acl	_	_	잘못/ncpa+되/xsv+ㄴ/etm
+12	견해이다	견해+이+다	VERB	_	0	root	_	_	견해/ncn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그들은 복음을 이성 아래 두고 합리적 이론이나 과학적 지식으로 이해할 수 없는 내용은 삭제하거나 설화로 무시해 버린다 .
+1	그들은	그+들+은	PRON	_	16	dislocated	_	_	그/npp+들/xsn+은/jxt
+2	복음을	복음+을	NOUN	_	5	obj	_	_	복음/ncn+을/jco
+3	이성	이성	NOUN	_	4	compound	_	_	이성/ncn
+4	아래	아래	NOUN	_	5	dep	_	_	아래/ncn
+5	두고	두+고	CCONJ	_	16	conj	_	_	두/pvg+고/ecc
+6	합리적	합리+적	NOUN	_	7	amod	_	_	합리/ncn+적/xsn
+7	이론이나	이론+이나	CCONJ	_	9	conj	_	_	이론/ncn+이나/jcj
+8	과학적	과학+적	NOUN	_	9	amod	_	_	과학/ncn+적/xsn
+9	지식으로	지식+으로	ADV	_	10	advcl	_	_	지식/ncn+으로/jca
+10	이해할	이해+하+ㄹ	VERB	_	13	acl	_	_	이해/ncpa+하/xsv+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	없는	없+는	ADJ	_	10	aux	_	_	없/paa+는/etm
+13	내용은	내용+은	NOUN	_	16	dislocated	_	_	내용/ncn+은/jxt
+14	삭제하거나	삭제+하+거나	CCONJ	_	16	conj	_	_	삭제/ncpa+하/xsv+거나/ecc
+15	설화로	설화+로	ADV	_	16	advcl	_	_	설화/ncn+로/jca
+16	무시해	무시+하+어	VERB	_	0	root	_	_	무시/ncpa+하/xsv+어/ecx
+17	버린다	버리+ㄴ다	AUX	_	16	aux	_	_	버리/px+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그 결과 그들은 복음의 계시나 기적괴 이사를 통한 하나님의 섭리를 부정한다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	결과	결과	NOUN	_	11	advmod	_	_	결과/ncn
+3	그들은	그+들+은	PRON	_	11	dislocated	_	_	그/npp+들/xsn+은/jxt
+4	복음의	복음+의	NOUN	_	5	nmod	_	_	복음/ncn+의/jcm
+5	계시나	계시+나	CCONJ	_	10	conj	_	_	계시/ncpa+나/jcj
+6	기적괴	기적+과	CCONJ	_	7	conj	_	_	기적/ncn+과/jcj
+7	이사를	이사+를	NOUN	_	8	obj	_	_	이사/ncn+를/jco
+8	통한	통하+ㄴ	VERB	_	10	acl	_	_	통하/pvg+ㄴ/etm
+9	하나님의	하나님+의	PROPN	_	10	nmod	_	_	하나님/nq+의/jcm
+10	섭리를	섭리+를	NOUN	_	11	obj	_	_	섭리/ncn+를/jco
+11	부정한다	부정+하+ㄴ다	VERB	_	0	root	_	_	부정/ncpa+하/xsv+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 일부 사회 개혁자들 중에는 예수 그리스도의 복음을 사회의 질서와 제도를 개혁하는 원리로 이용하는 사람들이 있다 .
+1	일부	일부	NOUN	_	3	compound	_	_	일부/ncn
+2	사회	사회	NOUN	_	3	compound	_	_	사회/ncn
+3	개혁자들	개혁자+들	NOUN	_	4	compound	_	_	개혁자/ncn+들/xsn
+4	중에는	중+에+는	NOUN	_	15	dislocated	_	_	중/ncn+에/jca+는/jxt
+5	예수	예수	PROPN	_	6	flat	_	_	예수/nq
+6	그리스도의	그리스도+의	PROPN	_	7	nmod	_	_	그리스도/nq+의/jcm
+7	복음을	복음+을	NOUN	_	13	obj	_	_	복음/ncn+을/jco
+8	사회의	사회+의	NOUN	_	10	nmod	_	_	사회/ncn+의/jcm
+9	질서와	질서+와	CCONJ	_	10	conj	_	_	질서/ncn+와/jcj
+10	제도를	제도+를	NOUN	_	11	obj	_	_	제도/ncn+를/jco
+11	개혁하는	개혁+하+는	VERB	_	12	acl	_	_	개혁/ncpa+하/xsv+는/etm
+12	원리로	원리+로	ADV	_	13	advcl	_	_	원리/ncn+로/jca
+13	이용하는	이용+하+는	VERB	_	14	acl	_	_	이용/ncpa+하/xsv+는/etm
+14	사람들이	사람+들+이	NOUN	_	15	nsubj	_	_	사람/ncn+들/xsn+이/jcs
+15	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그들은 그리스도의 복음을 이용하여 이 땅에 이상적인 사회를 건설할 수 있다고 주장한다 .
+1	그들은	그+들+은	PRON	_	12	dislocated	_	_	그/npp+들/xsn+은/jxt
+2	그리스도의	그리스도+의	PROPN	_	3	nmod	_	_	그리스도/nq+의/jcm
+3	복음을	복음+을	NOUN	_	4	obj	_	_	복음/ncn+을/jco
+4	이용하여	이용+하+어	SCONJ	_	9	conj	_	_	이용/ncpa+하/xsv+어/ecs
+5	이	이	DET	_	6	det	_	_	이/mmd
+6	땅에	땅+에	ADV	_	9	obl	_	_	땅/ncn+에/jca
+7	이상적인	이상+적+이+ㄴ	VERB	_	8	acl	_	_	이상/ncn+적/xsn+이/jp+ㄴ/etm
+8	사회를	사회+를	NOUN	_	9	obj	_	_	사회/ncn+를/jco
+9	건설할	건설+하+ㄹ	VERB	_	12	conj	_	_	건설/ncpa+하/xsv+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있다고	있+다+고	VERB	_	9	aux	_	_	있/paa+다/ef+고/jcr
+12	주장한다	주장+하+ㄴ다	VERB	_	0	root	_	_	주장/ncpa+하/xsv+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그러나 복음의 초점이 단지 사회의 질서나 제도를 변화시키는 데 있는 것만은 아니다 .
+1	그러나	그러나	CCONJ	_	12	cc	_	_	그러나/maj
+2	복음의	복음+의	NOUN	_	3	nmod	_	_	복음/ncn+의/jcm
+3	초점이	초점+이	NOUN	_	10	nsubj	_	_	초점/ncn+이/jcs
+4	단지	단지	ADV	_	8	advmod	_	_	단지/mag
+5	사회의	사회+의	NOUN	_	7	nmod	_	_	사회/ncn+의/jcm
+6	질서나	질서+나	CCONJ	_	7	conj	_	_	질서/ncn+나/jcj
+7	제도를	제도+를	NOUN	_	8	obj	_	_	제도/ncn+를/jco
+8	변화시키는	변화+시키+는	VERB	_	9	acl	_	_	변화/ncpa+시키/xsv+는/etm
+9	데	데	NOUN	_	10	mark	_	_	데/nbn
+10	있는	있+는	ADJ	_	11	amod	_	_	있/paa+는/etm
+11	것만은	것+만+은	NOUN	_	12	dislocated	_	_	것/nbn+만/jxc+은/jxt
+12	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 복음은 인간을 근원적으로 변화시켜서 변화된 사람으로 하여금 새롭게 변화된 사회와 제도를 이룩하게 하는 것이다 .
+1	복음은	복음+은	NOUN	_	12	dislocated	_	_	복음/ncn+은/jxt
+2	인간을	인간+을	NOUN	_	4	obj	_	_	인간/ncn+을/jco
+3	근원적으로	근원+적+으로	ADV	_	4	advcl	_	_	근원/ncn+적/xsn+으로/jca
+4	변화시켜서	변화+시키+어서	SCONJ	_	12	ccomp	_	_	변화/ncpa+시키/xsv+어서/ecs
+5	변화된	변화+되+ㄴ	VERB	_	6	acl	_	_	변화/ncpa+되/xsv+ㄴ/etm
+6	사람으로	사람+으로	ADV	_	7	advcl	_	_	사람/ncn+으로/jca
+7	하여금	하여금	ADV	_	12	advmod	_	_	하여금/mag
+8	새롭게	새롭+게	SCONJ	_	9	xcomp	_	_	새롭/paa+게/ecs
+9	변화된	변화+되+ㄴ	VERB	_	11	acl	_	_	변화/ncpa+되/xsv+ㄴ/etm
+10	사회와	사회+와	CCONJ	_	11	conj	_	_	사회/ncn+와/jcj
+11	제도를	제도+를	NOUN	_	12	obj	_	_	제도/ncn+를/jco
+12	이룩하게	이룩하+게	VERB	_	0	root	_	_	이룩하/pvg+게/ecx
+13	하는	하+는	AUX	_	12	aux	_	_	하/px+는/etm
+14	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 적지 않은 신자들이 예수 그리스도의 복음을 믿는 것이 곧 인생의 모든 일에 만사형통하기 위해 하나님께 비는 것으로 생각하고 있다 .
+1	적지	적+지	VERB	_	3	acl	_	_	적/pvg+지/ecx
+2	않은	않+은	AUX	_	1	aux	_	_	않/px+은/etm
+3	신자들이	신자+들+이	NOUN	_	18	nsubj	_	_	신자/ncn+들/xsn+이/jcs
+4	예수	예수	PROPN	_	5	flat	_	_	예수/nq
+5	그리스도의	그리스도+의	PROPN	_	6	nmod	_	_	그리스도/nq+의/jcm
+6	복음을	복음+을	NOUN	_	7	obj	_	_	복음/ncn+을/jco
+7	믿는	믿+는	VERB	_	8	acl	_	_	믿/pvg+는/etm
+8	것이	것+이	NOUN	_	18	nsubj	_	_	것/nbn+이/jcs
+9	곧	곧	ADV	_	18	advmod	_	_	곧/mag
+10	인생의	인생+의	NOUN	_	12	nmod	_	_	인생/ncn+의/jcm
+11	모든	모든	ADJ	_	12	amod	_	_	모든/mma
+12	일에	일+에	ADV	_	13	obl	_	_	일/ncn+에/jca
+13	만사형통하기	만사+형통+하+기	VERB	_	14	nmod	_	_	만사/ncn+형통/ncpa+하/xsv+기/etn
+14	위해	위하+어	SCONJ	_	16	ccomp	_	_	위하/pvg+어/ecs
+15	하나님께	하나님+께	ADV	_	16	advcl	_	_	하나님/nq+께/jca
+16	비는	빌+는	VERB	_	17	acl	_	_	빌/pvg+는/etm
+17	것으로	것+으로	ADV	_	18	advcl	_	_	것/nbn+으로/jca
+18	생각하고	생각+하+고	VERB	_	0	root	_	_	생각/ncpa+하/xsv+고/ecx
+19	있다	있+다	AUX	_	18	aux	_	_	있/px+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 즉 하나님이나 그리스도의 복음을 복 받기 위한 수단으로 이용하려는 것이다 .
+1	즉	즉	CCONJ	_	10	cc	_	_	즉/maj
+2	하나님이나	하나님+이나	CCONJ	_	3	conj	_	_	하나님/nq+이나/jcj
+3	그리스도의	그리스도+의	PROPN	_	4	nmod	_	_	그리스도/nq+의/jcm
+4	복음을	복음+을	NOUN	_	6	obj	_	_	복음/ncn+을/jco
+5	복	복	NOUN	_	6	dep	_	_	복/ncn
+6	받기	받+기	VERB	_	7	nmod	_	_	받/pvg+기/etn
+7	위한	위하+ㄴ	VERB	_	8	acl	_	_	위하/pvg+ㄴ/etm
+8	수단으로	수단+으로	ADV	_	9	advcl	_	_	수단/ncn+으로/jca
+9	이용하려는	이용+하+려는	VERB	_	10	ccomp	_	_	이용/ncpa+하/xsv+려는/etm
+10	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 순복음교회의 5중 복음과 성결교회의 4중 복음은 각각의 특색을 지니며 강조점이 다를 수 있다 .
+1	순복음교회의	순복음교회+의	PROPN	_	3	nmod	_	_	순복음교회/nq+의/jcm
+2	5중	5+중	NOUN	_	3	compound	_	_	5/nnc+중/ncn
+3	복음과	복음+과	CCONJ	_	6	conj	_	_	복음/ncn+과/jcj
+4	성결교회의	성결교회+의	NOUN	_	6	nmod	_	_	성결교회/ncn+의/jcm
+5	4중	4+중	NOUN	_	6	compound	_	_	4/nnc+중/ncn
+6	복음은	복음+은	NOUN	_	11	dislocated	_	_	복음/ncn+은/jxt
+7	각각의	각각+의	NOUN	_	8	nmod	_	_	각각/ncn+의/jcm
+8	특색을	특색+을	NOUN	_	9	obj	_	_	특색/ncn+을/jco
+9	지니며	지니+며	CCONJ	_	11	conj	_	_	지니/pvg+며/ecc
+10	강조점이	강조점+이	NOUN	_	11	nsubj	_	_	강조점/ncn+이/jcs
+11	다를	다르+ㄹ	ADJ	_	0	root	_	_	다르/paa+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있다	있+다	ADJ	_	11	aux	_	_	있/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그러나 성경적인 복음에 기초를 하고 있다는 점은 다르지 않을 것이다 .
+1	그러나	그러나	CCONJ	_	8	cc	_	_	그러나/maj
+2	성경적인	성경+적+이+ㄴ	VERB	_	3	acl	_	_	성경/ncn+적/xsn+이/jp+ㄴ/etm
+3	복음에	복음+에	ADV	_	5	obl	_	_	복음/ncn+에/jca
+4	기초를	기초+를	NOUN	_	5	obj	_	_	기초/ncpa+를/jco
+5	하고	하+고	VERB	_	7	acl	_	_	하/pvg+고/ecx
+6	있다는	있+다는	AUX	_	5	aux	_	_	있/px+다는/etm
+7	점은	점+은	NOUN	_	8	dislocated	_	_	점/nbu+은/jxt
+8	다르지	다르+지	ADJ	_	0	root	_	_	다르/paa+지/ecx
+9	않을	않+을	AUX	_	8	aux	_	_	않/px+을/etm
+10	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그리고 성령의 인치심과 인도하심으로 성결의 생활을 시작하게 된다 .
+1	그리고	그리고	CCONJ	_	7	cc	_	_	그리고/maj
+2	성령의	성령+의	NOUN	_	3	nmod	_	_	성령/ncn+의/jcm
+3	인치심과	인치심+과	CCONJ	_	4	conj	_	_	인치심/ncn+과/jcj
+4	인도하심으로	인도+하+시+ㅁ+으로	ADV	_	7	advcl	_	_	인도/ncpa+하/xsv+시/ep+ㅁ/etn+으로/jca
+5	성결의	성결+의	PROPN	_	6	nmod	_	_	성결/nq+의/jcm
+6	생활을	생활+을	NOUN	_	7	obj	_	_	생활/ncpa+을/jco
+7	시작하게	시작+하+게	VERB	_	0	root	_	_	시작/ncpa+하/xsv+게/ecx
+8	된다	되+ㄴ다	AUX	_	7	aux	_	_	되/px+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 성령충만의 복음 예수님을 믿고 나서 성령으로 충만해야 하나님의 말씀에 대한 깊은 신앙속으로 들어갈 수 있다 .
+1	성령충만의	성령+충만+의	NOUN	_	3	nmod	_	_	성령/ncn+충만/ncpa+의/jcm
+2	복음	복음	NOUN	_	3	compound	_	_	복음/ncn
+3	예수님을	예수+님+을	PROPN	_	4	obj	_	_	예수/nq+님/xsn+을/jco
+4	믿고	믿+고	VERB	_	7	ccomp	_	_	믿/pvg+고/ecx
+5	나서	나+서	SCONJ	_	4	aux	_	_	나/px+서/ecs
+6	성령으로	성령+으로	ADV	_	7	advcl	_	_	성령/ncn+으로/jca
+7	충만해야	충만+하+어야	SCONJ	_	13	ccomp	_	_	충만/ncpa+하/xsv+어야/ecs
+8	하나님의	하나님+의	PROPN	_	9	nmod	_	_	하나님/nq+의/jcm
+9	말씀에	말씀+에	ADV	_	10	obl	_	_	말씀/ncpa+에/jca
+10	대한	대하+ㄴ	VERB	_	12	acl	_	_	대하/pvg+ㄴ/etm
+11	깊은	깊+은	ADJ	_	12	amod	_	_	깊/paa+은/etm
+12	신앙속으로	신앙+속+으로	ADV	_	13	advcl	_	_	신앙/ncps+속/ncn+으로/jca
+13	들어갈	들+어+가+ㄹ	AUX	_	0	root	_	_	들/pvg+어/ecx+가/px+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있다	있+다	ADJ	_	13	aux	_	_	있/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이 약속은 오늘날 모든 사람들에게 주는 약속의 말씀이다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	약속은	약속+은	NOUN	_	8	dislocated	_	_	약속/ncpa+은/jxt
+3	오늘날	오늘날	NOUN	_	6	advmod	_	_	오늘날/ncn
+4	모든	모든	ADJ	_	5	amod	_	_	모든/mma
+5	사람들에게	사람+들+에게	ADV	_	6	iobj	_	_	사람/ncn+들/xsn+에게/jca
+6	주는	주+는	VERB	_	8	ccomp	_	_	주/pvg+는/etm
+7	약속의	약속+의	NOUN	_	8	nmod	_	_	약속/ncpa+의/jcm
+8	말씀이다	말씀+이+다	VERB	_	0	root	_	_	말씀/ncpa+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 때문에 우리는 신유 기도하기를 힘써야 한다 .
+1	때문에	때문에	CCONJ	_	5	cc	_	_	때문에/maj
+2	우리는	우리+는	PRON	_	5	dislocated	_	_	우리/npp+는/jxt
+3	신유	신유	PROPN	_	4	compound	_	_	신유/nq
+4	기도하기를	기도+하+기+를	NOUN	_	5	obj	_	_	기도/ncpa+하/xsv+기/etn+를/jco
+5	힘써야	힘쓰+어야	VERB	_	0	root	_	_	힘쓰/pvg+어야/ecx
+6	한다	하+ㄴ다	AUX	_	5	aux	_	_	하/px+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 오랜 세월 동안 교회는 신유에 대해 오해하고 무시한 관계로 하나님의 위대하신 능력이 나타나지 않았다 .
+1	오랜	오래+ㄴ	ADJ	_	2	amod	_	_	오래/paa+ㄴ/etm
+2	세월	세월	NOUN	_	3	compound	_	_	세월/ncn
+3	동안	동안	NOUN	_	8	advmod	_	_	동안/ncn
+4	교회는	교회+는	NOUN	_	8	dislocated	_	_	교회/ncn+는/jxt
+5	신유에	신유+에	ADV	_	6	obl	_	_	신유/nq+에/jca
+6	대해	대하+어	SCONJ	_	8	ccomp	_	_	대하/pvg+어/ecs
+7	오해하고	오해+하+고	CCONJ	_	8	conj	_	_	오해/ncpa+하/xsv+고/ecc
+8	무시한	무시+하+ㄴ	VERB	_	9	acl	_	_	무시/ncpa+하/xsv+ㄴ/etm
+9	관계로	관계+로	ADV	_	13	advcl	_	_	관계/ncn+로/jca
+10	하나님의	하나님+의	PROPN	_	12	nmod	_	_	하나님/nq+의/jcm
+11	위대하신	위대+하+시+ㄴ	VERB	_	12	amod	_	_	위대/ncps+하/xsm+시/ep+ㄴ/etm
+12	능력이	능력+이	NOUN	_	13	nsubj	_	_	능력/ncn+이/jcs
+13	나타나지	나타나+지	VERB	_	0	root	_	_	나타나/pvg+지/ecx
+14	않았다	않+았+다	AUX	_	13	aux	_	_	않/px+았/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이런 사람들은 저주 받아서 낭패하게 된 것 등을 모두 경건한 생활을 하기 위한 하나의 수단이라고 합리화시키고 있다 .
+1	이런	이렇+ㄴ	VERB	_	2	amod	_	_	이렇/pad+ㄴ/etm
+2	사람들은	사람+들+은	NOUN	_	16	dislocated	_	_	사람/ncn+들/xsn+은/jxt
+3	저주	저주	NOUN	_	4	dep	_	_	저주/ncpa
+4	받아서	받+아서	SCONJ	_	5	ccomp	_	_	받/pvg+아서/ecs
+5	낭패하게	낭패+하+게	VERB	_	7	acl	_	_	낭패/ncpa+하/xsv+게/ecx
+6	된	되+ㄴ	AUX	_	5	aux	_	_	되/px+ㄴ/etm
+7	것	것	NOUN	_	8	mark	_	_	것/nbn
+8	등을	등+을	NOUN	_	15	obj	_	_	등/nbn+을/jco
+9	모두	모두	ADV	_	15	advmod	_	_	모두/mag
+10	경건한	경건+하+ㄴ	VERB	_	11	acl	_	_	경건/ncpa+하/xsv+ㄴ/etm
+11	생활을	생활+을	NOUN	_	12	obj	_	_	생활/ncpa+을/jco
+12	하기	하+기	VERB	_	13	nmod	_	_	하/pvg+기/etn
+13	위한	위하+ㄴ	VERB	_	15	ccomp	_	_	위하/pvg+ㄴ/etm
+14	하나의	하나+의	NUM	_	15	nmod	_	_	하나/nnc+의/jcm
+15	수단이라고	수단+이+라+고	VERB	_	16	conj	_	_	수단/ncn+이/jp+라/ef+고/jcr
+16	합리화시키고	합리화+시키+고	VERB	_	0	root	_	_	합리화/ncpa+시키/xsv+고/ecx
+17	있다	있+다	AUX	_	16	aux	_	_	있/px+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그러나 성경은 예수님께서 분명히 모든 저주를 십자가에서 속량하셨다고 기록하고 있다 .
+1	그러나	그러나	CCONJ	_	9	cc	_	_	그러나/maj
+2	성경은	성경+은	NOUN	_	9	dislocated	_	_	성경/ncn+은/jxt
+3	예수님께서	예수+님+께서	PROPN	_	8	nsubj	_	_	예수/nq+님/xsn+께서/jcs
+4	분명히	분명히	ADV	_	8	advmod	_	_	분명히/mag
+5	모든	모든	ADJ	_	6	amod	_	_	모든/mma
+6	저주를	저주+를	NOUN	_	8	obj	_	_	저주/ncpa+를/jco
+7	십자가에서	십자가+에서	ADV	_	8	advcl	_	_	십자가/ncn+에서/jca
+8	속량하셨다고	속량+하+셨+다+고	VERB	_	9	conj	_	_	속량/ncpa+하/xsv+셨/ep+다/ef+고/jcr
+9	기록하고	기록+하+고	VERB	_	0	root	_	_	기록/ncpa+하/xsv+고/ecx
+10	있다	있+다	AUX	_	9	aux	_	_	있/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그것은 하나님께서 그의 백성들을 위하여 준비해 두신 영원한 본향이 있음을 믿기 때문이다 .
+1	그것은	그것+은	PRON	_	11	dislocated	_	_	그것/npd+은/jxt
+2	하나님께서	하나님+께서	PROPN	_	6	nsubj	_	_	하나님/nq+께서/jcs
+3	그의	그+의	PRON	_	4	nmod	_	_	그/npp+의/jcm
+4	백성들을	백성+들+을	NOUN	_	5	obj	_	_	백성/ncn+들/xsn+을/jco
+5	위하여	위하+어	SCONJ	_	6	ccomp	_	_	위하/pvg+어/ecs
+6	준비해	준비+하+어	VERB	_	9	acl	_	_	준비/ncpa+하/xsv+어/ecx
+7	두신	두+시+ㄴ	AUX	_	6	aux	_	_	두/px+시/ep+ㄴ/etm
+8	영원한	영원+하+ㄴ	VERB	_	9	acl	_	_	영원/ncpa+하/xsv+ㄴ/etm
+9	본향이	본향+이	NOUN	_	10	nsubj	_	_	본향/ncn+이/jcs
+10	있음을	있+음+을	NOUN	_	11	obj	_	_	있/paa+음/etn+을/jco
+11	믿기	믿+기	VERB	_	0	root	_	_	믿/pvg+기/etn
+12	때문이다	때문+이+다	VERB	_	11	aux	_	_	때문/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그러므로 그리스도인의 삶은 미래 지향적이요 , 천국 지향적이다 .
+1	그러므로	그러므로	CCONJ	_	8	cc	_	_	그러므로/maj
+2	그리스도인의	그리스도인+의	NOUN	_	3	nmod	_	_	그리스도인/ncn+의/jcm
+3	삶은	삶+은	NOUN	_	8	dislocated	_	_	삶/ncn+은/jxt
+4	미래	미래	NOUN	_	5	compound	_	_	미래/ncn
+5	지향적이요	지향+적+이+요	CCONJ	_	8	conj	_	_	지향/ncpa+적/xsn+이/jp+요/ecc
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	천국	천국	NOUN	_	8	compound	_	_	천국/ncn
+8	지향적이다	지향+적+이+다	VERB	_	0	root	_	_	지향/ncpa+적/xsn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 또한 말세를 사는 그리스도인은 구주 예수님께서 이 땅에 다시 재림하실 것을 믿고 소망한다 .
+1	또한	또한	CCONJ	_	14	cc	_	_	또한/maj
+2	말세를	말세+를	NOUN	_	3	obj	_	_	말세/ncn+를/jco
+3	사는	살+는	VERB	_	4	acl	_	_	살/pvg+는/etm
+4	그리스도인은	그리스도인+은	NOUN	_	14	dislocated	_	_	그리스도인/ncn+은/jxt
+5	구주	구주	NOUN	_	6	compound	_	_	구주/ncn
+6	예수님께서	예수+님+께서	PROPN	_	10	nsubj	_	_	예수/nq+님/xsn+께서/jcs
+7	이	이	DET	_	8	det	_	_	이/mmd
+8	땅에	땅+에	ADV	_	10	obl	_	_	땅/ncn+에/jca
+9	다시	다시	ADV	_	10	advmod	_	_	다시/mag
+10	재림하실	재림+하+시+ㄹ	VERB	_	11	acl	_	_	재림/ncpa+하/xsv+시/ep+ㄹ/etm
+11	것을	것+을	NOUN	_	14	obj	_	_	것/nbn+을/jco
+12	믿고	믿+고	CCONJ	_	13	conj	_	_	믿/pvg+고/ecc
+13	소망한다	소망+하+ㄴ다	VERB	_	14	conj	_	_	소망/ncpa+하/xsv+ㄴ다/ef
+14	.	.	PUNCT	_	0	root	_	_	./sf
+
+# 그리스도인은 천국이 존재하는 것과 예수님의 공중재림과 지상 재림을 믿는 자들이다 .
+1	그리스도인은	그리스도인+은	NOUN	_	10	dislocated	_	_	그리스도인/ncn+은/jxt
+2	천국이	천국+이	NOUN	_	3	nsubj	_	_	천국/ncn+이/jcs
+3	존재하는	존재+하+는	VERB	_	4	acl	_	_	존재/ncpa+하/xsv+는/etm
+4	것과	것+과	CCONJ	_	8	conj	_	_	것/nbn+과/jcj
+5	예수님의	예수+님+의	PROPN	_	8	nmod	_	_	예수/nq+님/xsn+의/jcm
+6	공중재림과	공중재림+과	CCONJ	_	8	conj	_	_	공중재림/ncpa+과/jcj
+7	지상	지상	NOUN	_	8	compound	_	_	지상/ncn
+8	재림을	재림+을	NOUN	_	9	obj	_	_	재림/ncpa+을/jco
+9	믿는	믿+는	VERB	_	10	ccomp	_	_	믿/pvg+는/etm
+10	자들이다	자+들+이+다	VERB	_	0	root	_	_	자/nbn+들/xsn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 당시의 신자들은 가난하였고 , 교육을 받지 못한 사람들이었다 .
+1	당시의	당시+의	NOUN	_	2	nmod	_	_	당시/ncn+의/jcm
+2	신자들은	신자+들+은	NOUN	_	3	dislocated	_	_	신자/ncn+들/xsn+은/jxt
+3	가난하였고	가난+하+었+고	CCONJ	_	8	conj	_	_	가난/ncpa+하/xsv+었/ep+고/ecc
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	교육을	교육+을	NOUN	_	6	obj	_	_	교육/ncpa+을/jco
+6	받지	받+지	VERB	_	8	ccomp	_	_	받/pvg+지/ecx
+7	못한	못하+ㄴ	AUX	_	6	aux	_	_	못하/px+ㄴ/etm
+8	사람들이었다	사람+들+이+었+다	VERB	_	0	root	_	_	사람/ncn+들/xsn+이/jp+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그러므로 그들에게는 예수님의 십자가 사역에 대한 논리적이고 지식적인 설교가 쉽게 이해될 수 없었다 .
+1	그러므로	그러므로	CCONJ	_	11	cc	_	_	그러므로/maj
+2	그들에게는	그+들+에게+는	PRON	_	11	dislocated	_	_	그/npp+들/xsn+에게/jxc+는/jxt
+3	예수님의	예수+님+의	PROPN	_	4	nmod	_	_	예수/nq+님/xsn+의/jcm
+4	십자가	십자가	NOUN	_	5	compound	_	_	십자가/ncn
+5	사역에	사역+에	ADV	_	6	obl	_	_	사역/ncpa+에/jca
+6	대한	대하+ㄴ	VERB	_	9	acl	_	_	대하/pvg+ㄴ/etm
+7	논리적이고	논리+적+이+고	CCONJ	_	8	conj	_	_	논리/ncn+적/xsn+이/jp+고/ecc
+8	지식적인	지식+적+이+ㄴ	VERB	_	9	acl	_	_	지식/ncn+적/xsn+이/jp+ㄴ/etm
+9	설교가	설교+가	NOUN	_	11	nsubj	_	_	설교/ncpa+가/jcs
+10	쉽게	쉽+게	SCONJ	_	11	xcomp	_	_	쉽/paa+게/ecs
+11	이해될	이해+되+ㄹ	VERB	_	0	root	_	_	이해/ncpa+되/xsv+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	없었다	없+었+다	ADJ	_	11	aux	_	_	없/paa+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그러나 오늘날에 와서는 성도들의 지적성장으로 인하여 삼박자라는 용어를 고집할 이유가 없다고 판단 되어 삼중 축복이란 용어를 사용한다 .
+1	그러나	그러나	CCONJ	_	17	cc	_	_	그러나/maj
+2	오늘날에	오늘날+에	ADV	_	3	obl	_	_	오늘날/ncn+에/jca
+3	와서는	오+아서+는	NOUN	_	17	ccomp	_	_	오/pvg+아서/ecs+는/jxt
+4	성도들의	성도+들+의	NOUN	_	5	nmod	_	_	성도/ncn+들/xsn+의/jcm
+5	지적성장으로	지+적+성장+으로	ADV	_	6	advcl	_	_	지/ncn+적/xsn+성장/ncpa+으로/jca
+6	인하여	인하+어	SCONJ	_	11	conj	_	_	인하/pvg+어/ecs
+7	삼박자라는	삼+박자+이+라는	VERB	_	8	acl	_	_	삼/nnc+박자/ncn+이/jp+라는/etm
+8	용어를	용어+를	NOUN	_	9	obj	_	_	용어/ncn+를/jco
+9	고집할	고집+하+ㄹ	VERB	_	10	acl	_	_	고집/ncpa+하/xsv+ㄹ/etm
+10	이유가	이유+가	NOUN	_	11	nsubj	_	_	이유/ncn+가/jcs
+11	없다고	없+다+고	VERB	_	13	conj	_	_	없/paa+다/ef+고/jcr
+12	판단	판단	NOUN	_	13	dep	_	_	판단/ncpa
+13	되어	되+어	SCONJ	_	17	ccomp	_	_	되/pvg+어/ecs
+14	삼중	삼중	NOUN	_	15	compound	_	_	삼중/ncn
+15	축복이란	축복+이+란	VERB	_	16	acl	_	_	축복/ncpa+이/jp+란/etm
+16	용어를	용어+를	NOUN	_	17	obj	_	_	용어/ncn+를/jco
+17	사용한다	사용+하+ㄴ다	VERB	_	0	root	_	_	사용/ncpa+하/xsv+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그것이 바로 삼중 축복이다 .
+1	그것이	그것+이	PRON	_	4	nsubj	_	_	그것/npd+이/jcs
+2	바로	바로	ADV	_	4	advmod	_	_	바로/mag
+3	삼중	삼중	NOUN	_	4	compound	_	_	삼중/ncn
+4	축복이다	축복+이+다	VERB	_	0	root	_	_	축복/ncpa+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 주님의 메시지는 천국을 선포하신 메시지일 뿐 아니라 또한 천국을 이 땅에 이루도록 하신 메시지이다 .
+1	주님의	주님+의	NOUN	_	2	nmod	_	_	주님/ncn+의/jcm
+2	메시지는	메시지+는	NOUN	_	14	dislocated	_	_	메시지/ncn+는/jxt
+3	천국을	천국+을	NOUN	_	4	obj	_	_	천국/ncn+을/jco
+4	선포하신	선포+하+시+ㄴ	VERB	_	5	ccomp	_	_	선포/ncpa+하/xsv+시/ep+ㄴ/etm
+5	메시지일	메시지+이+ㄹ	VERB	_	14	ccomp	_	_	메시지/ncn+이/jp+ㄹ/etm
+6	뿐	뿐	NOUN	_	7	fixed	_	_	뿐/nbn
+7	아니라	아니+라	SCONJ	_	5	aux	_	_	아니/paa+라/ecs
+8	또한	또한	ADV	_	14	advmod	_	_	또한/mag
+9	천국을	천국+을	NOUN	_	12	obj	_	_	천국/ncn+을/jco
+10	이	이	DET	_	11	det	_	_	이/mmd
+11	땅에	땅+에	ADV	_	12	obl	_	_	땅/ncpa+에/jca
+12	이루도록	이루+도록	SCONJ	_	13	ccomp	_	_	이루/pvg+도록/ecs
+13	하신	하+시+ㄴ	VERB	_	14	ccomp	_	_	하/pvg+시/ep+ㄴ/etm
+14	메시지이다	메시지+이+다	VERB	_	0	root	_	_	메시지/ncn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 주님은 영혼의 문제와 아울러 현실적인 문제도 간과하지 않았던 것이다 .
+1	주님은	주+님+은	NOUN	_	7	dislocated	_	_	주/ncn+님/xsn+은/jxt
+2	영혼의	영혼+의	NOUN	_	3	nmod	_	_	영혼/ncn+의/jcm
+3	문제와	문제+와	CCONJ	_	4	conj	_	_	문제/ncn+와/jct
+4	아울러	아우르+어	SCONJ	_	7	ccomp	_	_	아우르/pvg+어/ecs
+5	현실적인	현실+적+이+ㄴ	VERB	_	6	acl	_	_	현실/ncn+적/xsn+이/jp+ㄴ/etm
+6	문제도	문제+도	ADV	_	7	advcl	_	_	문제/ncn+도/jxc
+7	간과하지	간과+하+지	VERB	_	0	root	_	_	간과/ncpa+하/xsv+지/ecx
+8	않았던	않+았+던	AUX	_	7	aux	_	_	않/px+았/ep+던/etm
+9	것이다	것+이+다	VERB	_	7	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 서신서에 보면 구원은 삶의 전체를 포함하고 있다 .
+1	서신서에	서신서+에	ADV	_	2	obl	_	_	서신서/ncn+에/jca
+2	보면	보+면	SCONJ	_	6	ccomp	_	_	보/pvg+면/ecs
+3	구원은	구원+은	NOUN	_	6	dislocated	_	_	구원/ncpa+은/jxt
+4	삶의	삶+의	NOUN	_	5	nmod	_	_	삶/ncn+의/jcm
+5	전체를	전체+를	NOUN	_	6	obj	_	_	전체/ncn+를/jco
+6	포함하고	포함+하+고	VERB	_	0	root	_	_	포함/ncpa+하/xsv+고/ecx
+7	있다	있+다	AUX	_	6	aux	_	_	있/px+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 영이 죽었다는 것은 하나님으로부터 분리되었다는 뜻이다 .
+1	영이	영+이	NOUN	_	2	nsubj	_	_	영/ncn+이/jcs
+2	죽었다는	죽+었+다는	VERB	_	3	acl	_	_	죽/pvg+었/ep+다는/etm
+3	것은	것+은	NOUN	_	6	dislocated	_	_	것/nbn+은/jxt
+4	하나님으로부터	하나님+으로+부터	ADV	_	5	advcl	_	_	하나님/nq+으로/jca+부터/jxc
+5	분리되었다는	분리+되+었+다는	VERB	_	6	ccomp	_	_	분리/ncpa+되/xsv+었/ep+다는/etm
+6	뜻이다	뜻+이+다	VERB	_	0	root	_	_	뜻/ncn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 영이 죽기 전에 인간은 하나님과 교제하고 대화하면서 하나님의 지혜와 분별력과 은총을 받으면서 살 수 있었다 .
+1	영이	영+이	NOUN	_	2	nsubj	_	_	영/ncn+이/jcs
+2	죽기	죽+기	VERB	_	3	nmod	_	_	죽/pvg+기/etn
+3	전에	전+에	ADV	_	13	obl	_	_	전/ncn+에/jca
+4	인간은	인간+은	NOUN	_	7	dislocated	_	_	인간/ncn+은/jxt
+5	하나님과	하나님+과	CCONJ	_	7	conj	_	_	하나님/nq+과/jct
+6	교제하고	교제+하+고	CCONJ	_	7	conj	_	_	교제/ncpa+하/xsv+고/ecc
+7	대화하면서	대화+하+면서	CCONJ	_	13	conj	_	_	대화/ncpa+하/xsv+면서/ecc
+8	하나님의	하나님+의	PROPN	_	11	nmod	_	_	하나님/nq+의/jcm
+9	지혜와	지혜+와	CCONJ	_	10	conj	_	_	지혜/ncps+와/jcj
+10	분별력과	분별력+과	CCONJ	_	11	conj	_	_	분별력/ncn+과/jcj
+11	은총을	은총+을	NOUN	_	12	obj	_	_	은총/ncn+을/jco
+12	받으면서	받+으면서	SCONJ	_	13	ccomp	_	_	받/pvg+으면서/ecs
+13	살	살+ㄹ	VERB	_	0	root	_	_	살/pvg+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있었다	있+었+다	ADJ	_	13	aux	_	_	있/paa+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그러나 하나님과 분리됨으로 인간은 스스로의 힘으로 살 수밖에 없었다 .
+1	그러나	그러나	CCONJ	_	7	cc	_	_	그러나/maj
+2	하나님과	하나님+과	CCONJ	_	3	conj	_	_	하나님/nq+과/jct
+3	분리됨으로	분리+되+ㅁ+으로	ADV	_	7	advcl	_	_	분리/ncpa+되/xsv+ㅁ/etn+으로/jca
+4	인간은	인간+은	NOUN	_	7	dislocated	_	_	인간/ncn+은/jxt
+5	스스로의	스스로+의	NOUN	_	6	nmod	_	_	스스로/ncn+의/jcm
+6	힘으로	힘+으로	ADV	_	7	advcl	_	_	힘/ncn+으로/jca
+7	살	살+ㄹ	VERB	_	0	root	_	_	살/pvg+ㄹ/etm
+8	수밖에	수+밖에	ADV	_	9	fixed	_	_	수/nbn+밖에/jxc
+9	없었다	없+었+다	ADJ	_	7	aux	_	_	없/paa+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이것이 타락의 처음 결과로서 인간에게 다가온 영적 죽음인 것이다 .
+1	이것이	이것+이	PRON	_	8	nsubj	_	_	이것/npd+이/jcs
+2	타락의	타락+의	NOUN	_	4	nmod	_	_	타락/ncpa+의/jcm
+3	처음	처음	NOUN	_	4	compound	_	_	처음/ncn
+4	결과로서	결과+로서	ADV	_	8	advcl	_	_	결과/ncpa+로서/jca
+5	인간에게	인간+에게	ADV	_	6	iobj	_	_	인간/ncn+에게/jca
+6	다가온	다가오+ㄴ	VERB	_	8	ccomp	_	_	다가오/pvg+ㄴ/etm
+7	영적	영+적	NOUN	_	8	amod	_	_	영/ncn+적/xsn
+8	죽음인	죽음+이+ㄴ	VERB	_	0	root	_	_	죽음/ncn+이/jp+ㄴ/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이 가시와 엉겅퀴는 현실적인 물질 사회뿐만 아니라 정신 사회속에도 있다 .
+1	이	이	DET	_	3	det	_	_	이/mmd
+2	가시와	가시+와	CCONJ	_	3	conj	_	_	가시/ncn+와/jcj
+3	엉겅퀴는	엉겅퀴+는	NOUN	_	10	dislocated	_	_	엉겅퀴/ncn+는/jxt
+4	현실적인	현실+적+이+ㄴ	VERB	_	6	acl	_	_	현실/ncn+적/xsn+이/jp+ㄴ/etm
+5	물질	물질	NOUN	_	6	compound	_	_	물질/ncn
+6	사회뿐만	사회+뿐+만	ADV	_	7	advcl	_	_	사회/ncn+뿐/xsn+만/jxc
+7	아니라	아니+라	SCONJ	_	10	xcomp	_	_	아니/paa+라/ecs
+8	정신	정신	NOUN	_	9	compound	_	_	정신/ncn
+9	사회속에도	사회+속+에+도	ADV	_	10	advcl	_	_	사회/ncn+속/ncn+에/jca+도/jxc
+10	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 오늘날은 옛날보다 물질적으로 풍요를 누리고 있을지도 몰라도 실제 생활에서 행복을 누리며 사는 사람은 별로 많지 않다 .
+1	오늘날은	오늘날+은	NOUN	_	5	dislocated	_	_	오늘날/ncn+은/jxt
+2	옛날보다	옛날+보다	ADV	_	5	advcl	_	_	옛날/ncn+보다/jca
+3	물질적으로	물질+적+으로	ADV	_	5	advcl	_	_	물질/ncn+적/xsn+으로/jca
+4	풍요를	풍요+를	NOUN	_	5	obj	_	_	풍요/ncps+를/jco
+5	누리고	누리+고	VERB	_	7	ccomp	_	_	누리/pvg+고/ecx
+6	있을지도	있+을지도	SCONJ	_	5	aux	_	_	있/px+을지도/ecs
+7	몰라도	모르+아+도	ADV	_	15	dep	_	_	모르/pvg+아/ecs+도/jxc
+8	실제	실제	NOUN	_	9	compound	_	_	실제/ncn
+9	생활에서	생활+에서	ADV	_	12	advcl	_	_	생활/ncpa+에서/jca
+10	행복을	행복+을	NOUN	_	11	obj	_	_	행복/ncpa+을/jco
+11	누리며	누리+며	CCONJ	_	12	conj	_	_	누리/pvg+며/ecc
+12	사는	살+는	VERB	_	13	acl	_	_	살/pvg+는/etm
+13	사람은	사람+은	NOUN	_	15	dislocated	_	_	사람/ncn+은/jxt
+14	별로	별로	ADV	_	15	advmod	_	_	별로/mag
+15	많지	많+지	ADJ	_	0	root	_	_	많/paa+지/ecx
+16	않다	않+다	AUX	_	15	aux	_	_	않/px+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 왜냐하면 세월이 흘러갈수록 가시와 엉겅퀴가 더 돋아나 인간을 찌르고 피 흘리게 하기 때문이다 .
+1	왜냐하면	왜냐하면	CCONJ	_	11	cc	_	_	왜냐하면/maj
+2	세월이	세월+이	NOUN	_	3	nsubj	_	_	세월/ncn+이/jcs
+3	흘러갈수록	흘러가+ㄹ수록	SCONJ	_	7	ccomp	_	_	흘러가/pvg+ㄹ수록/ecs
+4	가시와	가시+와	CCONJ	_	5	conj	_	_	가시/ncn+와/jcj
+5	엉겅퀴가	엉겅퀴+가	NOUN	_	7	nsubj	_	_	엉겅퀴/ncn+가/jcs
+6	더	더	ADV	_	7	advmod	_	_	더/mag
+7	돋아나	돋+아+나+아	SCONJ	_	11	ccomp	_	_	돋/pvg+아/ecx+나/px+아/ecs
+8	인간을	인간+을	NOUN	_	9	obj	_	_	인간/ncn+을/jco
+9	찌르고	찌르+고	CCONJ	_	11	conj	_	_	찌르/pvg+고/ecc
+10	피	피	NOUN	_	11	dep	_	_	피/ncn
+11	흘리게	흘리+게	VERB	_	0	root	_	_	흘리/pvg+게/ecx
+12	하기	하+기	AUX	_	11	aux	_	_	하/px+기/etn
+13	때문이다	때문+이+다	VERB	_	11	aux	_	_	때문/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그래서 갖가지 비극적인 질병이 인간의 육체에 붙어 인간의 삶을 도적질하고 파괴시켜 끝내는 흙으로 돌아가게 하고 있다 .
+1	그래서	그래서	CCONJ	_	14	cc	_	_	그래서/maj
+2	갖가지	갖가지	NOUN	_	4	compound	_	_	갖가지/ncn
+3	비극적인	비극+적+이+ㄴ	VERB	_	4	acl	_	_	비극/ncn+적/xsn+이/jp+ㄴ/etm
+4	질병이	질병+이	NOUN	_	11	nsubj	_	_	질병/ncn+이/jcs
+5	인간의	인간+의	NOUN	_	6	nmod	_	_	인간/ncn+의/jcm
+6	육체에	육체+에	ADV	_	7	obl	_	_	육체/ncn+에/jca
+7	붙어	붙+어	SCONJ	_	11	ccomp	_	_	붙/pvg+어/ecs
+8	인간의	인간+의	NOUN	_	9	nmod	_	_	인간/ncn+의/jcm
+9	삶을	삶+을	NOUN	_	11	obj	_	_	삶/ncn+을/jco
+10	도적질하고	도적질+하+고	CCONJ	_	11	conj	_	_	도적질/ncpa+하/xsv+고/ecc
+11	파괴시켜	파괴+시키+어	SCONJ	_	14	ccomp	_	_	파괴/ncpa+시키/xsv+어/ecs
+12	끝내는	끝나+어+는	NOUN	_	14	ccomp	_	_	끝나/pvg+어/ecs+는/jxt
+13	흙으로	흙+으로	ADV	_	14	advcl	_	_	흙/ncn+으로/jca
+14	돌아가게	돌+아+가+게	AUX	_	0	root	_	_	돌/pvg+아/ecx+가/px+게/ecx
+15	하고	하+고	AUX	_	14	aux	_	_	하/px+고/ecx
+16	있다	있+다	AUX	_	14	aux	_	_	있/px+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 오늘날 인류는 이 절망과 슬픔을 안고 있다 .
+1	오늘날	오늘날	NOUN	_	6	advmod	_	_	오늘날/ncn
+2	인류는	인류+는	NOUN	_	6	dislocated	_	_	인류/ncn+는/jxt
+3	이	이	DET	_	5	det	_	_	이/mmd
+4	절망과	절망+과	CCONJ	_	5	conj	_	_	절망/ncpa+과/jcj
+5	슬픔을	슬픔+을	NOUN	_	6	obj	_	_	슬픔/ncn+을/jco
+6	안고	안+고	VERB	_	0	root	_	_	안/pvg+고/ecx
+7	있다	있+다	AUX	_	6	aux	_	_	있/px+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 인간이 그토록 의학을 발전시켜 육체의 건강을 도모하려고 하지만 , 사람은 반드시 죽는 것이다 .
+1	인간이	인간+이	NOUN	_	8	nsubj	_	_	인간/ncn+이/jcs
+2	그토록	그토록	ADV	_	4	advmod	_	_	그토록/mad
+3	의학을	의학+을	NOUN	_	4	obj	_	_	의학/ncn+을/jco
+4	발전시켜	발전+시키+어	SCONJ	_	7	ccomp	_	_	발전/ncpa+시키/xsv+어/ecs
+5	육체의	육체+의	NOUN	_	6	nmod	_	_	육체/ncn+의/jcm
+6	건강을	건강+을	NOUN	_	7	obj	_	_	건강/ncpa+을/jco
+7	도모하려고	도모+하+려고	SCONJ	_	8	ccomp	_	_	도모/ncpa+하/xsv+려고/ecs
+8	하지만	하+지만	SCONJ	_	12	ccomp	_	_	하/pvg+지만/ecs
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	사람은	사람+은	NOUN	_	12	dislocated	_	_	사람/ncn+은/jxt
+11	반드시	반드시	ADV	_	12	advmod	_	_	반드시/mag
+12	죽는	죽+는	VERB	_	0	root	_	_	죽/pvg+는/etm
+13	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그 누구도 피할 수 없는 육체적 죽음의 강이 인류 역사속에 흐르게 된 것이다 .
+1	그	그	PRON	_	2	compound	_	_	그/npd
+2	누구도	누구+도	ADV	_	3	advcl	_	_	누구/npp+도/jxc
+3	피할	피하+ㄹ	VERB	_	8	acl	_	_	피하/pvg+ㄹ/etm
+4	수	수	NOUN	_	5	fixed	_	_	수/nbn
+5	없는	없+는	ADJ	_	3	aux	_	_	없/paa+는/etm
+6	육체적	육체+적	NOUN	_	7	amod	_	_	육체/ncn+적/xsn
+7	죽음의	죽음+의	NOUN	_	8	nmod	_	_	죽음/ncn+의/jcm
+8	강이	강+이	NOUN	_	11	nsubj	_	_	강/ncn+이/jcs
+9	인류	인류	NOUN	_	10	compound	_	_	인류/ncn
+10	역사속에	역사+속+에	ADV	_	11	obl	_	_	역사/ncn+속/ncn+에/jca
+11	흐르게	흐르+게	VERB	_	0	root	_	_	흐르/pvg+게/ecx
+12	된	되+ㄴ	AUX	_	11	aux	_	_	되/px+ㄴ/etm
+13	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 예수님이 첫번째로 흘리신 보혈은 겟세마네 동산에서 흘리신 피이다 .
+1	예수님이	예수+님+이	PROPN	_	3	nsubj	_	_	예수/nq+님/xsn+이/jcs
+2	첫번째로	첫번+째+로	ADV	_	3	advcl	_	_	첫번/ncn+째/xsn+로/jca
+3	흘리신	흘리+시+ㄴ	VERB	_	4	acl	_	_	흘리/pvg+시/ep+ㄴ/etm
+4	보혈은	보혈+은	NOUN	_	8	dislocated	_	_	보혈/ncn+은/jxt
+5	겟세마네	겟세마네	PROPN	_	6	compound	_	_	겟세마네/nq
+6	동산에서	동산+에서	ADV	_	7	advcl	_	_	동산/ncn+에서/jca
+7	흘리신	흘리+시+ㄴ	VERB	_	8	ccomp	_	_	흘리/pvg+시/ep+ㄴ/etm
+8	피이다	피+이+다	VERB	_	0	root	_	_	피/ncn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 할 수만 있다면 예수님은 그 잔을 마시지 않기를 원하셨다 .
+1	할	하+ㄹ	VERB	_	2	acl	_	_	하/pvg+ㄹ/etm
+2	수만	수+만	ADV	_	3	advcl	_	_	수/nbn+만/jxc
+3	있다면	있+다면	SCONJ	_	9	xcomp	_	_	있/paa+다면/ecs
+4	예수님은	예수+님+은	PROPN	_	9	dislocated	_	_	예수/nq+님/xsn+은/jxt
+5	그	그	DET	_	6	det	_	_	그/mmd
+6	잔을	잔+을	NOUN	_	7	obj	_	_	잔/ncn+을/jco
+7	마시지	마시+지	VERB	_	9	obj	_	_	마시/pvg+지/ecx
+8	않기를	않+기+를	NOUN	_	7	aux	_	_	않/px+기/etn+를/jco
+9	원하셨다	원하+셨+다	VERB	_	0	root	_	_	원하/pvg+셨/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 우리가 이 보혈을 의지할 때 아담 이후로 내려오는 인간 마음 속의 불순종이 깨어지는 것이다 .
+1	우리가	우리+가	PRON	_	4	nsubj	_	_	우리/npp+가/jcs
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	보혈을	보혈+을	NOUN	_	4	obj	_	_	보혈/ncn+을/jco
+4	의지할	의지+하+ㄹ	VERB	_	5	acl	_	_	의지/ncpa+하/xsv+ㄹ/etm
+5	때	때	NOUN	_	13	advmod	_	_	때/ncn
+6	아담	아담	PROPN	_	7	compound	_	_	아담/nq
+7	이후로	이후+로	ADV	_	8	advcl	_	_	이후/ncn+로/jca
+8	내려오는	내리+어+오+는	AUX	_	12	acl	_	_	내리/pvg+어/ecx+오/px+는/etm
+9	인간	인간	NOUN	_	10	compound	_	_	인간/ncn
+10	마음	마음	NOUN	_	11	compound	_	_	마음/ncn
+11	속의	속+의	NOUN	_	12	nmod	_	_	속/ncn+의/jcm
+12	불순종이	불순종+이	NOUN	_	13	nsubj	_	_	불순종/ncpa+이/jcs
+13	깨어지는	깨+어+지+는	AUX	_	0	root	_	_	깨/pvg+어/ecx+지/px+는/etm
+14	것이다	것+이+다	VERB	_	13	aux	_	_	것/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 두번째로 , 예수님께서 빌라도의 뜰에서 보혈을 흘리셨다 .
+1	두번째로	두번째+로	ADV	_	7	advmod	_	_	두번째/nno+로/jca
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	예수님께서	예수+님+께서	PROPN	_	7	nsubj	_	_	예수/nq+님/xsn+께서/jcs
+4	빌라도의	빌라도+의	PROPN	_	5	nmod	_	_	빌라도/nq+의/jcm
+5	뜰에서	뜰+에서	ADV	_	7	advcl	_	_	뜰/ncn+에서/jca
+6	보혈을	보혈+을	NOUN	_	7	obj	_	_	보혈/ncn+을/jco
+7	흘리셨다	흘리+셨+다	VERB	_	0	root	_	_	흘리/pvg+셨/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 예수님께서는 빌라도에게 사형선고를 받으신 후 로마 군인들에게 이끌려가 채찍을 맞으셨다 .
+1	예수님께서는	예수+님+께서+는	PROPN	_	10	dislocated	_	_	예수/nq+님/xsn+께서/jcs+는/jxt
+2	빌라도에게	빌라도+에게	ADV	_	4	iobj	_	_	빌라도/nq+에게/jca
+3	사형선고를	사형+선고+를	NOUN	_	4	obj	_	_	사형/ncn+선고/ncpa+를/jco
+4	받으신	받+으시+ㄴ	VERB	_	5	acl	_	_	받/pvg+으시/ep+ㄴ/etm
+5	후	후	NOUN	_	10	advmod	_	_	후/ncn
+6	로마	로마	PROPN	_	7	compound	_	_	로마/nq
+7	군인들에게	군인+들+에게	ADV	_	8	iobj	_	_	군인/ncn+들/xsn+에게/jca
+8	이끌려가	이끌리+어+가+아	SCONJ	_	10	ccomp	_	_	이끌리/pvg+어/ecx+가/px+아/ecs
+9	채찍을	채찍+을	NOUN	_	10	obj	_	_	채찍/ncn+을/jco
+10	맞으셨다	맞+으셨+다	VERB	_	0	root	_	_	맞/pvg+으셨/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 예수님을 향해 가죽 채찍을 내리칠 때마다 채찍끝의 쇠갈고리가 예수님의 살을 파고 들어갔다 .
+1	예수님을	예수+님+을	PROPN	_	2	obj	_	_	예수/nq+님/xsn+을/jco
+2	향해	향하+어	SCONJ	_	5	ccomp	_	_	향하/pvg+어/ecs
+3	가죽	가죽	NOUN	_	4	compound	_	_	가죽/ncn
+4	채찍을	채찍+을	NOUN	_	5	obj	_	_	채찍/ncn+을/jco
+5	내리칠	내리치+ㄹ	VERB	_	6	acl	_	_	내리치/pvg+ㄹ/etm
+6	때마다	때+마다	ADV	_	12	advcl	_	_	때/nbn+마다/jxc
+7	채찍끝의	채찍+끝+의	NOUN	_	8	nmod	_	_	채찍/ncn+끝/ncn+의/jcm
+8	쇠갈고리가	쇠갈고리+가	NOUN	_	12	nsubj	_	_	쇠갈고리/ncn+가/jcs
+9	예수님의	예수+님+의	PROPN	_	10	nmod	_	_	예수/nq+님/xsn+의/jcm
+10	살을	살+을	NOUN	_	12	obj	_	_	살/ncn+을/jco
+11	파고	파+고	SCONJ	_	12	ccomp	_	_	파/pvg+고/ecs
+12	들어갔다	들+어+가+ㅆ+다	AUX	_	0	root	_	_	들/pvg+어/ecx+가/px+ㅆ/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 예수님의 가슴과 등에는 골이 패이고 그 곳에서 피가 솟구쳤던 것이다 .
+1	예수님의	예수+님+의	PROPN	_	3	nmod	_	_	예수/nq+님/xsn+의/jcm
+2	가슴과	가슴+과	CCONJ	_	3	conj	_	_	가슴/ncn+과/jcj
+3	등에는	등+에+는	NOUN	_	5	dislocated	_	_	등/ncn+에/jca+는/jxt
+4	골이	골+이	NOUN	_	5	nsubj	_	_	골/ncn+이/jcs
+5	패이고	패이+고	SCONJ	_	9	ccomp	_	_	패이/pvg+고/ecs
+6	그	그	PRON	_	7	compound	_	_	그/npp
+7	곳에서	곳+에서	ADV	_	9	advcl	_	_	곳/ncn+에서/jca
+8	피가	피+가	NOUN	_	9	nsubj	_	_	피/ncn+가/jcs
+9	솟구쳤던	솟구치+었+던	VERB	_	0	root	_	_	솟구치/pvg+었/ep+던/etm
+10	것이다	것+이+다	VERB	_	9	aux	_	_	것/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 여기서 흘리신 보혈이 우리의 질병의 대속을 위하여 흘리신 보혈이다 .
+1	여기서	여기+서	ADV	_	2	advcl	_	_	여기/npd+서/jca
+2	흘리신	흘리+시+ㄴ	VERB	_	3	acl	_	_	흘리/pvg+시/ep+ㄴ/etm
+3	보혈이	보혈+이	NOUN	_	9	nsubj	_	_	보혈/ncn+이/jcs
+4	우리의	우리+의	PRON	_	5	nmod	_	_	우리/npp+의/jcm
+5	질병의	질병+의	NOUN	_	6	nmod	_	_	질병/ncn+의/jcm
+6	대속을	대속+을	NOUN	_	7	obj	_	_	대속/ncpa+을/jco
+7	위하여	위하+어	SCONJ	_	8	ccomp	_	_	위하/pvg+어/ecs
+8	흘리신	흘리+시+ㄴ	VERB	_	9	ccomp	_	_	흘리/pvg+시/ep+ㄴ/etm
+9	보혈이다	보혈+이+다	VERB	_	0	root	_	_	보혈/ncn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 억센 가시가 예수님의 머리를 찌르자 보혈이 흘러내리기 시작했다 .
+1	억센	억세+ㄴ	ADJ	_	2	amod	_	_	억세/paa+ㄴ/etm
+2	가시가	가시+가	NOUN	_	5	nsubj	_	_	가시/ncn+가/jcs
+3	예수님의	예수+님+의	PROPN	_	4	nmod	_	_	예수/nq+님/xsn+의/jcm
+4	머리를	머리+를	NOUN	_	5	obj	_	_	머리/ncpa+를/jco
+5	찌르자	찌르+자	CCONJ	_	8	conj	_	_	찌르/pvg+자/ecc
+6	보혈이	보혈+이	NOUN	_	7	nsubj	_	_	보혈/ncn+이/jcs
+7	흘러내리기	흘러내리+기	VERB	_	8	nmod	_	_	흘러내리/pvg+기/etn
+8	시작했다	시작+하+었+다	VERB	_	0	root	_	_	시작/ncpa+하/xsv+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 예수님께서 가시 면류관을 쓰신 것은 이러한 저주를 상징적으로 나타낸다 .
+1	예수님께서	예수+님+께서	PROPN	_	4	nsubj	_	_	예수/nq+님/xsn+께서/jcs
+2	가시	가시	NOUN	_	3	compound	_	_	가시/ncn
+3	면류관을	면류관+을	NOUN	_	4	obj	_	_	면류관/ncn+을/jco
+4	쓰신	쓰+시+ㄴ	VERB	_	5	acl	_	_	쓰/pvg+시/ep+ㄴ/etm
+5	것은	것+은	NOUN	_	9	dislocated	_	_	것/nbn+은/jxt
+6	이러한	이러하+ㄴ	VERB	_	7	amod	_	_	이러하/pad+ㄴ/etm
+7	저주를	저주+를	NOUN	_	9	obj	_	_	저주/ncpa+를/jco
+8	상징적으로	상징+적+으로	ADV	_	9	advcl	_	_	상징/ncpa+적/xsn+으로/jca
+9	나타낸다	나타내+ㄴ다	VERB	_	0	root	_	_	나타내/pvg+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 마지막으로 예수님께서는 십자가에 못 박히시고 물과 피를 다 쏟으셨다 .
+1	마지막으로	마지막+으로	ADV	_	9	advcl	_	_	마지막/ncn+으로/jca
+2	예수님께서는	예수+님+께서+는	PROPN	_	9	dislocated	_	_	예수/nq+님/xsn+께서/jcs+는/jxt
+3	십자가에	십자가+에	ADV	_	5	obl	_	_	십자가/ncn+에/jca
+4	못	못	NOUN	_	5	dep	_	_	못/ncn
+5	박히시고	박히+시+고	CCONJ	_	9	conj	_	_	박히/pvg+시/ep+고/ecc
+6	물과	물+과	CCONJ	_	7	conj	_	_	물/ncn+과/jcj
+7	피를	피+를	NOUN	_	9	obj	_	_	피/ncn+를/jco
+8	다	다	ADV	_	9	advmod	_	_	다/mag
+9	쏟으셨다	쏟+셨+다	VERB	_	0	root	_	_	쏟/pvg+셨/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 예수님께서 십자가 위에서 흘리신 피는 버림 받는 자리에서 구원 받게 하는 피이다 .
+1	예수님께서	예수+님+께서	PROPN	_	4	nsubj	_	_	예수/nq+님/xsn+께서/jcs
+2	십자가	십자가	NOUN	_	3	compound	_	_	십자가/ncn
+3	위에서	위+에서	ADV	_	4	advcl	_	_	위/ncn+에서/jca
+4	흘리신	흘리+시+ㄴ	VERB	_	5	acl	_	_	흘리/pvg+시/ep+ㄴ/etm
+5	피는	피+는	NOUN	_	12	dislocated	_	_	피/ncn+는/jxt
+6	버림	버리+ㅁ	VERB	_	7	nmod	_	_	버리/pvg+ㅁ/etn
+7	받는	받+는	VERB	_	8	acl	_	_	받/pvg+는/etm
+8	자리에서	자리+에서	ADV	_	10	advcl	_	_	자리/ncn+에서/jca
+9	구원	구원	NOUN	_	10	dep	_	_	구원/ncpa
+10	받게	받+게	VERB	_	12	ccomp	_	_	받/pvg+게/ecx
+11	하는	하+는	AUX	_	10	aux	_	_	하/px+는/etm
+12	피이다	피+이+다	VERB	_	0	root	_	_	피/ncn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 영원히 멸망 받아 지옥 불에 던져질 수밖에 없는 우리의 영혼을 구원하기 위한 대속의 피인 것이다 .
+1	영원히	영원히	ADV	_	3	advmod	_	_	영원히/mag
+2	멸망	멸망	NOUN	_	3	dep	_	_	멸망/ncpa
+3	받아	받+아	SCONJ	_	6	ccomp	_	_	받/pvg+아/ecs
+4	지옥	지옥	NOUN	_	5	compound	_	_	지옥/ncn
+5	불에	불+에	ADV	_	6	obl	_	_	불/ncn+에/jca
+6	던져질	던지+어+지+ㄹ	AUX	_	10	acl	_	_	던지/pvg+어/ecx+지/px+ㄹ/etm
+7	수밖에	수+밖에	ADV	_	8	fixed	_	_	수/nbn+밖에/jxc
+8	없는	없+는	ADJ	_	6	aux	_	_	없/paa+는/etm
+9	우리의	우리+의	PRON	_	10	nmod	_	_	우리/npp+의/jcm
+10	영혼을	영혼+을	NOUN	_	11	obj	_	_	영혼/ncn+을/jco
+11	구원하기	구원+하+기	VERB	_	12	nmod	_	_	구원/ncpa+하/xsv+기/etn
+12	위한	위하+ㄴ	VERB	_	14	ccomp	_	_	위하/pvg+ㄴ/etm
+13	대속의	대속+의	NOUN	_	14	nmod	_	_	대속/ncpa+의/jcm
+14	피인	피+이+ㄴ	VERB	_	0	root	_	_	피/ncn+이/jp+ㄴ/etm
+15	것이다	것+이+다	VERB	_	14	aux	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 곧 우리의 원죄와 자범죄 일체를 손수 속량하셨다는 것이다 .
+1	곧	곧	CCONJ	_	8	cc	_	_	곧/maj
+2	우리의	우리+의	PRON	_	4	nmod	_	_	우리/npp+의/jcm
+3	원죄와	원죄+와	CCONJ	_	4	conj	_	_	원죄/ncn+와/jcj
+4	자범죄	자범죄	NOUN	_	5	compound	_	_	자범죄/ncn
+5	일체를	일체+를	NOUN	_	7	obj	_	_	일체/ncn+를/jco
+6	손수	손수	ADV	_	7	advmod	_	_	손수/mag
+7	속량하셨다는	속량+하+셨+다는	VERB	_	8	ccomp	_	_	속량/ncpa+하/xsv+셨/ep+다는/etm
+8	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이로써 인류의 구원을 위한 하나님의 역사는 완벽하게 성취되었던 것이다 .
+1	이로써	이+로써	ADV	_	8	advcl	_	_	이/npd+로써/jca
+2	인류의	인류+의	NOUN	_	3	nmod	_	_	인류/ncn+의/jcm
+3	구원을	구원+을	NOUN	_	4	obj	_	_	구원/ncpa+을/jco
+4	위한	위하+ㄴ	VERB	_	6	acl	_	_	위하/pvg+ㄴ/etm
+5	하나님의	하나님+의	PROPN	_	6	nmod	_	_	하나님/nq+의/jcm
+6	역사는	역사+는	NOUN	_	8	dislocated	_	_	역사/ncn+는/jxt
+7	완벽하게	완벽+하+게	SCONJ	_	8	xcomp	_	_	완벽/ncps+하/xsm+게/ecs
+8	성취되었던	성취+되+었+던	VERB	_	0	root	_	_	성취/ncpa+되/xsv+었/ep+던/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 하나님과 인간 사이의 원수되었던 관계가 청산되고 올바른 관계로 회복된 것이다 .
+1	하나님과	하나님+과	CCONJ	_	2	conj	_	_	하나님/nq+과/jcj
+2	인간	인간	NOUN	_	3	compound	_	_	인간/ncn
+3	사이의	사이+의	NOUN	_	5	nmod	_	_	사이/ncn+의/jcm
+4	원수되었던	원수+되+었+던	VERB	_	5	acl	_	_	원수/ncn+되/xsv+었/ep+던/etm
+5	관계가	관계+가	NOUN	_	6	nsubj	_	_	관계/ncpa+가/jcs
+6	청산되고	청산+되+고	SCONJ	_	9	ccomp	_	_	청산/ncpa+되/xsv+고/ecs
+7	올바른	올바르+ㄴ	ADJ	_	8	amod	_	_	올바르/paa+ㄴ/etm
+8	관계로	관계+로	ADV	_	9	advcl	_	_	관계/ncpa+로/jca
+9	회복된	회복+되+ㄴ	VERB	_	0	root	_	_	회복/ncpa+되/xsv+ㄴ/etm
+10	것이다	것+이+다	VERB	_	9	aux	_	_	것/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이로써 인간은 상실되었던 관계가 청산되고 올바른 관계로 회복된 것이다 .
+1	이로써	이+로써	ADV	_	8	advcl	_	_	이/npd+로써/jca
+2	인간은	인간+은	NOUN	_	8	dislocated	_	_	인간/ncn+은/jxt
+3	상실되었던	상실+되+었+던	VERB	_	4	acl	_	_	상실/ncpa+되/xsv+었/ep+던/etm
+4	관계가	관계+가	NOUN	_	5	nsubj	_	_	관계/ncpa+가/jcs
+5	청산되고	청산+되+고	CCONJ	_	8	conj	_	_	청산/ncpa+되/xsv+고/ecc
+6	올바른	올바르+ㄴ	ADJ	_	7	amod	_	_	올바르/paa+ㄴ/etm
+7	관계로	관계+로	ADV	_	8	advcl	_	_	관계/ncpa+로/jca
+8	회복된	회복+되+ㄴ	VERB	_	0	root	_	_	회복/ncpa+되/xsv+ㄴ/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이로써 인간은 상실되었던 하나님과의 교제를 다시 시작할 수 있게 되었다 .
+1	이로써	이+로써	ADV	_	7	advcl	_	_	이/npd+로써/jca
+2	인간은	인간+은	NOUN	_	7	dislocated	_	_	인간/ncn+은/jxt
+3	상실되었던	상실+되+었+던	VERB	_	5	acl	_	_	상실/ncpa+되/xsv+었/ep+던/etm
+4	하나님과의	하나님+과+의	PROPN	_	5	nmod	_	_	하나님/nq+과/jct+의/jcm
+5	교제를	교제+를	NOUN	_	7	obj	_	_	교제/ncpa+를/jco
+6	다시	다시	ADV	_	7	advmod	_	_	다시/mag
+7	시작할	시작+하+ㄹ	VERB	_	0	root	_	_	시작/ncpa+하/xsv+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있게	있+게	ADJ	_	7	aux	_	_	있/paa+게/ecx
+10	되었다	되+었+다	AUX	_	7	aux	_	_	되/px+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이러한 교제가 지속되도록 성도는 기도 , 말씀 , 그리고 하나님께 예배 드리기를 힘써야 한다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	교제가	교제+가	NOUN	_	3	nsubj	_	_	교제/ncpa+가/jcs
+3	지속되도록	지속+되+도록	SCONJ	_	13	ccomp	_	_	지속/ncpa+되/xsv+도록/ecs
+4	성도는	성도+는	NOUN	_	13	dislocated	_	_	성도/ncn+는/jxt
+5	기도	기도	NOUN	_	7	conj	_	_	기도/ncpa
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	말씀	말씀	NOUN	_	12	conj	_	_	말씀/ncpa
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	그리고	그리고	CCONJ	_	12	cc	_	_	그리고/maj
+10	하나님께	하나님+께	ADV	_	12	advcl	_	_	하나님/nq+께/jca
+11	예배	예배	NOUN	_	12	dep	_	_	예배/ncpa
+12	드리기를	드리+기+를	NOUN	_	13	obj	_	_	드리/pvg+기/etn+를/jco
+13	힘써야	힘쓰+어야	VERB	_	0	root	_	_	힘쓰/pvg+어야/ecx
+14	한다	하+ㄴ다	AUX	_	13	aux	_	_	하/px+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 아담이 받은 징계는 에덴에서 쫓겨난 것이었다 .
+1	아담이	아담+이	PROPN	_	2	nsubj	_	_	아담/nq+이/jcs
+2	받은	받+ㄴ	VERB	_	3	acl	_	_	받/pvg+ㄴ/etm
+3	징계는	징계+는	NOUN	_	5	dislocated	_	_	징계/ncn+는/jxt
+4	에덴에서	에덴+에서	ADV	_	5	advcl	_	_	에덴/nq+에서/jca
+5	쫓겨난	쫓기+어+나+ㄴ	AUX	_	0	root	_	_	쫓기/pvg+어/ecx+나/px+ㄴ/etm
+6	것이었다	것+이+었+다	VERB	_	5	aux	_	_	것/nbn+이/jp+었/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그 이후로 오랫동안 하나님께서는 인간에게 분노하시고 심판하시는 분으로 계셨다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	이후로	이후+로	ADV	_	9	advcl	_	_	이후/ncn+로/jca
+3	오랫동안	오랫동안	NOUN	_	4	compound	_	_	오랫동안/ncn
+4	하나님께서는	하나님+께서+는	PROPN	_	9	dislocated	_	_	하나님/nq+께서/jca+는/jxt
+5	인간에게	인간+에게	ADV	_	9	iobj	_	_	인간/ncn+에게/jca
+6	분노하시고	분노+하+시+고	CCONJ	_	7	conj	_	_	분노/ncpa+하/xsv+시/ep+고/ecc
+7	심판하시는	심판+하+시+는	VERB	_	8	acl	_	_	심판/ncpa+하/xsv+시/ep+는/etm
+8	분으로	분+으로	ADV	_	9	advcl	_	_	분/ncn+으로/jca
+9	계셨다	계시+었+다	VERB	_	0	root	_	_	계시/pvg+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그래서 예수님을 믿으면 미움 , 불안과 초조 , 공포와 절망 , 좌절감과 죽음 , 죄책 , 정죄 이 모든 가시들은 제거된다 .
+1	그래서	그래서	CCONJ	_	21	cc	_	_	그래서/maj
+2	예수님을	예수+님+을	PROPN	_	3	obj	_	_	예수/nq+님/xsn+을/jco
+3	믿으면	믿+으면	SCONJ	_	21	ccomp	_	_	믿/pvg+으면/ecs
+4	미움	미움	NOUN	_	6	conj	_	_	미움/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	불안과	불안+과	CCONJ	_	7	conj	_	_	불안/ncps+과/jcj
+7	초조	초조	NOUN	_	9	conj	_	_	초조/ncps
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	공포와	공포+와	CCONJ	_	10	conj	_	_	공포/ncn+와/jcj
+10	절망	절망	NOUN	_	12	conj	_	_	절망/ncpa
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	좌절감과	좌절감+과	CCONJ	_	13	conj	_	_	좌절감/ncn+과/jcj
+13	죽음	죽음	NOUN	_	15	conj	_	_	죽음/ncn
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	죄책	죄책	NOUN	_	17	conj	_	_	죄책/ncn
+16	,	,	PUNCT	_	15	punct	_	_	,/sp
+17	정죄	정죄	NOUN	_	20	compound	_	_	정죄/ncn
+18	이	이	DET	_	20	det	_	_	이/mmd
+19	모든	모든	ADJ	_	20	amod	_	_	모든/mma
+20	가시들은	가시+들+은	NOUN	_	21	dislocated	_	_	가시/ncn+들/xsn+은/jxt
+21	제거된다	제거+되+ㄴ다	VERB	_	0	root	_	_	제거/ncpa+되/xsv+ㄴ다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 그리고 가슴속에 평화의 강물이 흐르고 , 삶의 전반에 평화의 강물이 흐르는 그리스도의 복이 주어지게 된다 .
+1	그리고	그리고	CCONJ	_	14	cc	_	_	그리고/maj
+2	가슴속에	가슴+속+에	ADV	_	5	obl	_	_	가슴/ncn+속/ncn+에/jca
+3	평화의	평화+의	NOUN	_	4	nmod	_	_	평화/ncn+의/jcm
+4	강물이	강물+이	NOUN	_	5	nsubj	_	_	강물/ncn+이/jcs
+5	흐르고	흐르+고	CCONJ	_	11	conj	_	_	흐르/pvg+고/ecc
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	삶의	삶+의	NOUN	_	8	nmod	_	_	삶/ncn+의/jcm
+8	전반에	전반+에	ADV	_	11	obl	_	_	전반/ncn+에/jca
+9	평화의	평화+의	NOUN	_	10	nmod	_	_	평화/ncn+의/jcm
+10	강물이	강물+이	NOUN	_	11	nsubj	_	_	강물/ncn+이/jcs
+11	흐르는	흐르+는	VERB	_	13	acl	_	_	흐르/pvg+는/etm
+12	그리스도의	그리스도+의	PROPN	_	13	nmod	_	_	그리스도/nq+의/jcm
+13	복이	복+이	NOUN	_	14	nsubj	_	_	복/ncn+이/jcs
+14	주어지게	주+어+지+게	AUX	_	0	root	_	_	주/pvg+어/ecx+지/px+게/ecx
+15	된다	되+ㄴ다	AUX	_	14	aux	_	_	되/px+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 아담의 타락으로 다가온 육체적 죽음은 예수님의 대속으로 완전하게 회복되었다 .
+1	아담의	아담+의	PROPN	_	2	nmod	_	_	아담/nq+의/jcm
+2	타락으로	타락+으로	ADV	_	3	advcl	_	_	타락/ncps+으로/jca
+3	다가온	다가오+ㄴ	VERB	_	5	acl	_	_	다가오/pvg+ㄴ/etm
+4	육체적	육체+적	NOUN	_	5	amod	_	_	육체/ncn+적/xsn
+5	죽음은	죽음+은	NOUN	_	9	dislocated	_	_	죽음/ncn+은/jxt
+6	예수님의	예수+님+의	PROPN	_	7	nmod	_	_	예수/nq+님/xsn+의/jcm
+7	대속으로	대속+으로	ADV	_	9	advcl	_	_	대속/ncpa+으로/jca
+8	완전하게	완전+하+게	SCONJ	_	9	xcomp	_	_	완전/ncps+하/xsm+게/ecs
+9	회복되었다	회복+되+었+다	VERB	_	0	root	_	_	회복/ncpa+되/xsv+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그뿐만 아니라 죽음을 이기고 부활하신 그리스도 안에서 우리는 연약함과 죽음을 완전히 극복하고 영생의 복을 누리게 된다 .
+1	그뿐만	그+뿐+만	ADV	_	2	advcl	_	_	그/npd+뿐/xsn+만/jxc
+2	아니라	아니+라	SCONJ	_	15	xcomp	_	_	아니/paa+라/ecs
+3	죽음을	죽음+을	NOUN	_	4	obj	_	_	죽음/ncn+을/jco
+4	이기고	이기+고	CCONJ	_	5	conj	_	_	이기/pvg+고/ecc
+5	부활하신	부활+하+시+ㄴ	VERB	_	6	acl	_	_	부활/ncpa+하/xsv+시/ep+ㄴ/etm
+6	그리스도	그리스도	PROPN	_	7	compound	_	_	그리스도/nq
+7	안에서	안+에서	ADV	_	15	advcl	_	_	안/ncn+에서/jca
+8	우리는	우리+는	PRON	_	15	dislocated	_	_	우리/npp+는/jxt
+9	연약함과	연약+하+ㅁ+과	CCONJ	_	10	conj	_	_	연약/ncps+하/xsm+ㅁ/etn+과/jcj
+10	죽음을	죽음+을	NOUN	_	12	obj	_	_	죽음/ncn+을/jco
+11	완전히	완전히	ADV	_	12	advmod	_	_	완전히/mag
+12	극복하고	극복+하+고	CCONJ	_	15	conj	_	_	극복/ncpa+하/xsv+고/ecc
+13	영생의	영생+의	NOUN	_	14	nmod	_	_	영생/ncpa+의/jcm
+14	복을	복+을	NOUN	_	15	obj	_	_	복/ncn+을/jco
+15	누리게	누리+게	VERB	_	0	root	_	_	누리/pvg+게/ecx
+16	된다	되+ㄴ다	AUX	_	15	aux	_	_	되/px+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 우리는 미움 받는 자가 아니고 사랑 받는 자이다 .
+1	우리는	우리+는	PRON	_	8	dislocated	_	_	우리/npp+는/jxt
+2	미움	미움	NOUN	_	3	dep	_	_	미움/ncn
+3	받는	받+는	VERB	_	4	acl	_	_	받/pvg+는/etm
+4	자가	자+가	NOUN	_	5	nsubj	_	_	자/ncn+가/jcs
+5	아니고	아니+고	SCONJ	_	8	xcomp	_	_	아니/paa+고/ecs
+6	사랑	사랑	NOUN	_	7	dep	_	_	사랑/ncpa
+7	받는	받+는	VERB	_	8	ccomp	_	_	받/pvg+는/etm
+8	자이다	자+이+다	VERB	_	0	root	_	_	자/ncn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그리스도 안에서 택함 받은 사람들이다 .
+1	그리스도	그리스도	PROPN	_	2	compound	_	_	그리스도/nq
+2	안에서	안+에서	ADV	_	5	advcl	_	_	안/ncn+에서/jca
+3	택함	택하+ㅁ	VERB	_	4	nmod	_	_	택하/pvg+ㅁ/etn
+4	받은	받+은	VERB	_	5	ccomp	_	_	받/pvg+은/etm
+5	사람들이다	사람+들+이+다	VERB	_	0	root	_	_	사람/ncn+들/xsn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 네 영혼이 잘됨같이 인간의 생명과 생활의 모든 근원이 영혼에 있으므로 먼저 영혼이 잘 되어야 한다 .
+1	네	네	PRON	_	2	compound	_	_	네/npp
+2	영혼이	영혼+이	NOUN	_	3	nsubj	_	_	영혼/ncn+이/jcs
+3	잘됨같이	잘되+ㅁ+같이	ADV	_	10	advcl	_	_	잘되/pvg+ㅁ/etn+같이/jca
+4	인간의	인간+의	NOUN	_	5	nmod	_	_	인간/ncn+의/jcm
+5	생명과	생명+과	CCONJ	_	8	conj	_	_	생명/ncn+과/jcj
+6	생활의	생활+의	NOUN	_	8	nmod	_	_	생활/ncpa+의/jcm
+7	모든	모든	ADJ	_	8	amod	_	_	모든/mma
+8	근원이	근원+이	NOUN	_	10	nsubj	_	_	근원/ncn+이/jcs
+9	영혼에	영혼+에	ADV	_	10	obl	_	_	영혼/ncn+에/jca
+10	있으므로	있+으므로	SCONJ	_	14	xcomp	_	_	있/paa+으므로/ecs
+11	먼저	먼저	ADV	_	14	advmod	_	_	먼저/mag
+12	영혼이	영혼+이	NOUN	_	14	nsubj	_	_	영혼/ncn+이/jcs
+13	잘	잘	ADV	_	14	advmod	_	_	잘/mag
+14	되어야	되+어야	VERB	_	0	root	_	_	되/pvg+어야/ecx
+15	한다	하+ㄴ다	AUX	_	14	aux	_	_	하/px+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 영혼이 잘 되고 나면 , 타락하고 죄악 된 성격을 개조하고 변화시켜 풍성한 삶을 이룰 수 있다 .
+1	영혼이	영혼+이	NOUN	_	3	nsubj	_	_	영혼/ncn+이/jcs
+2	잘	잘	ADV	_	3	advmod	_	_	잘/mag
+3	되고	되+고	VERB	_	14	ccomp	_	_	되/pvg+고/ecx
+4	나면	나+면	SCONJ	_	3	aux	_	_	나/px+면/ecs
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	타락하고	타락+하+고	CCONJ	_	8	conj	_	_	타락/ncpa+하/xsv+고/ecc
+7	죄악	죄악	NOUN	_	8	dep	_	_	죄악/ncn
+8	된	되+ㄴ	VERB	_	9	acl	_	_	되/pvg+ㄴ/etm
+9	성격을	성격+을	NOUN	_	11	obj	_	_	성격/ncn+을/jco
+10	개조하고	개조+하+고	CCONJ	_	11	conj	_	_	개조/ncpa+하/xsv+고/ecc
+11	변화시켜	변화+시키+어	SCONJ	_	14	ccomp	_	_	변화/ncpa+시키/xsv+어/ecs
+12	풍성한	풍성+하+ㄴ	VERB	_	13	amod	_	_	풍성/ncps+하/xsm+ㄴ/etm
+13	삶을	삶+을	NOUN	_	14	obj	_	_	삶/ncn+을/jco
+14	이룰	이루+ㄹ	VERB	_	0	root	_	_	이루/pvg+ㄹ/etm
+15	수	수	NOUN	_	16	fixed	_	_	수/nbn
+16	있다	있+다	ADJ	_	14	aux	_	_	있/paa+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 영혼이 잘 되기 위해서는 먼저 그의 나라와 그의 의를 구해야 한다 .
+1	영혼이	영혼+이	NOUN	_	3	nsubj	_	_	영혼/ncn+이/jcs
+2	잘	잘	ADV	_	3	advmod	_	_	잘/mag
+3	되기	되+기	VERB	_	4	nmod	_	_	되/pvg+기/etn
+4	위해서는	위하+어서+는	NOUN	_	10	ccomp	_	_	위하/pvg+어서/ecs+는/jxt
+5	먼저	먼저	ADV	_	10	advmod	_	_	먼저/mag
+6	그의	그+의	PRON	_	7	nmod	_	_	그/npp+의/jcm
+7	나라와	나라+와	CCONJ	_	9	conj	_	_	나라/ncn+와/jcj
+8	그의	그+의	PRON	_	9	nmod	_	_	그/npp+의/jcm
+9	의를	의+를	NOUN	_	10	obj	_	_	의/ncn+를/jco
+10	구해야	구하+어야	VERB	_	0	root	_	_	구하/pvg+어야/ecx
+11	한다	하+ㄴ다	AUX	_	10	aux	_	_	하/px+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이렇게 순서가 틀리게 되면 하나님께서 역사해 주시지 않는다 .
+1	이렇게	이렇+게	SCONJ	_	3	xcomp	_	_	이렇/pad+게/ecs
+2	순서가	순서+가	NOUN	_	3	nsubj	_	_	순서/ncn+가/jcs
+3	틀리게	틀리+게	VERB	_	6	ccomp	_	_	틀리/pvg+게/ecx
+4	되면	되+면	SCONJ	_	3	aux	_	_	되/px+면/ecs
+5	하나님께서	하나님+께서	ADV	_	6	advcl	_	_	하나님/nq+께서/jca
+6	역사해	역사+하+어	VERB	_	0	root	_	_	역사/ncpa+하/xsv+어/ecx
+7	주시지	주+시+지	AUX	_	6	aux	_	_	주/px+시/ep+지/ecx
+8	않는다	않+는다	AUX	_	6	aux	_	_	않/px+는다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 우리는 먼저 구할 것과 나중 구할 것의 순서를 반드시 지켜야 한다 .
+1	우리는	우리+는	PRON	_	10	dislocated	_	_	우리/npp+는/jxt
+2	먼저	먼저	ADV	_	3	advmod	_	_	먼저/mag
+3	구할	구하+ㄹ	VERB	_	4	acl	_	_	구하/pvg+ㄹ/etm
+4	것과	것+과	CCONJ	_	7	conj	_	_	것/nbn+과/jcj
+5	나중	나중	NOUN	_	6	dep	_	_	나중/ncn
+6	구할	구하+ㄹ	VERB	_	7	acl	_	_	구하/pvg+ㄹ/etm
+7	것의	것+의	NOUN	_	8	nmod	_	_	것/nbn+의/jcm
+8	순서를	순서+를	NOUN	_	10	obj	_	_	순서/ncn+를/jco
+9	반드시	반드시	ADV	_	10	advmod	_	_	반드시/mag
+10	지켜야	지키+어야	VERB	_	0	root	_	_	지키/pvg+어야/ecx
+11	한다	하+ㄴ다	AUX	_	10	aux	_	_	하/px+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러므로 우리 그리스도인들은 무엇보다도 먼저 영혼이 잘 되기를 힘써야 한다 .
+1	그러므로	그러므로	CCONJ	_	9	cc	_	_	그러므로/maj
+2	우리	우리	PRON	_	3	compound	_	_	우리/npp
+3	그리스도인들은	그리스도인+들+은	NOUN	_	9	dislocated	_	_	그리스도인/ncn+들/xsn+은/jxt
+4	무엇보다도	무엇+보다+도	ADV	_	9	advcl	_	_	무엇/npd+보다/jca+도/jxc
+5	먼저	먼저	ADV	_	9	advmod	_	_	먼저/mag
+6	영혼이	영혼+이	NOUN	_	8	nsubj	_	_	영혼/ncn+이/jcs
+7	잘	잘	ADV	_	8	advmod	_	_	잘/mag
+8	되기를	되+기+를	NOUN	_	9	obj	_	_	되/pvg+기/etn+를/jco
+9	힘써야	힘쓰+어야	VERB	_	0	root	_	_	힘쓰/pvg+어야/ecx
+10	한다	하+ㄴ다	AUX	_	9	aux	_	_	하/px+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 범사에 잘 되고 여기서 범사는 살기 위한 모든 활동과 노력을 총칭하며 생명체를 둘러싼 모든 환경과 조건 , 상태를 모두 포괄한다 .
+1	범사에	범사+에	ADV	_	3	obl	_	_	범사/ncn+에/jca
+2	잘	잘	ADV	_	3	advmod	_	_	잘/mag
+3	되고	되+고	CCONJ	_	20	conj	_	_	되/pvg+고/ecc
+4	여기서	여기+서	ADV	_	20	advcl	_	_	여기/npd+서/jca
+5	범사는	범사+는	NOUN	_	20	dislocated	_	_	범사/ncn+는/jxt
+6	살기	살+기	VERB	_	7	nmod	_	_	살/pvg+기/etn
+7	위한	위하+ㄴ	VERB	_	10	acl	_	_	위하/pvg+ㄴ/etm
+8	모든	모든	ADJ	_	10	amod	_	_	모든/mma
+9	활동과	활동+과	CCONJ	_	10	conj	_	_	활동/ncpa+과/jcj
+10	노력을	노력+을	NOUN	_	11	obj	_	_	노력/ncpa+을/jco
+11	총칭하며	총칭+하+며	CCONJ	_	20	conj	_	_	총칭/ncpa+하/xsv+며/ecc
+12	생명체를	생명체+를	NOUN	_	13	obj	_	_	생명체/ncn+를/jco
+13	둘러싼	둘러싸+ㄴ	VERB	_	18	acl	_	_	둘러싸/pvg+ㄴ/etm
+14	모든	모든	ADJ	_	18	amod	_	_	모든/mma
+15	환경과	환경+과	CCONJ	_	16	conj	_	_	환경/ncn+과/jcj
+16	조건	조건	NOUN	_	18	conj	_	_	조건/ncn
+17	,	,	PUNCT	_	16	punct	_	_	,/sp
+18	상태를	상태+를	NOUN	_	20	obj	_	_	상태/ncn+를/jco
+19	모두	모두	ADV	_	20	advmod	_	_	모두/mag
+20	포괄한다	포괄+하+ㄴ다	VERB	_	0	root	_	_	포괄/ncpa+하/xsv+ㄴ다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 우리의 영혼이 잘 되면 하나님의 복이 우리와 같이 있기 때문에 범사에도 잘 된다 .
+1	우리의	우리+의	PRON	_	2	nmod	_	_	우리/npp+의/jcm
+2	영혼이	영혼+이	NOUN	_	4	nsubj	_	_	영혼/ncn+이/jcs
+3	잘	잘	ADV	_	4	advmod	_	_	잘/mag
+4	되면	되+면	SCONJ	_	9	conj	_	_	되/pvg+면/ecs
+5	하나님의	하나님+의	PROPN	_	6	nmod	_	_	하나님/nq+의/jcm
+6	복이	복+이	NOUN	_	9	nsubj	_	_	복/ncn+이/jcs
+7	우리와	우리+와	CCONJ	_	8	conj	_	_	우리/npp+와/jct
+8	같이	같+이	SCONJ	_	9	xcomp	_	_	같/paa+이/ecs
+9	있기	있+기	ADJ	_	10	nmod	_	_	있/paa+기/etn
+10	때문에	때문+에	ADV	_	13	obl	_	_	때문/nbn+에/jca
+11	범사에도	범사+에+도	ADV	_	13	advcl	_	_	범사/ncn+에/jca+도/jxc
+12	잘	잘	ADV	_	13	advmod	_	_	잘/mag
+13	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 강건하기 위해서는 먼저 병을 고침 받아야 한다 .
+1	강건하기	강건하+기	ADJ	_	2	nmod	_	_	강건하/paa+기/etn
+2	위해서는	위하+어서+는	NOUN	_	6	ccomp	_	_	위하/pvg+어서/ecs+는/jxt
+3	먼저	먼저	ADV	_	6	advmod	_	_	먼저/mag
+4	병을	병+을	NOUN	_	5	obj	_	_	병/ncn+을/jco
+5	고침	고치+ㅁ	VERB	_	6	nmod	_	_	고치/pvg+ㅁ/etn
+6	받아야	받+아야	VERB	_	0	root	_	_	받/pvg+아야/ecx
+7	한다	하+ㄴ다	AUX	_	6	aux	_	_	하/px+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 여기서 치병을 위한 기도가 절실히 필요하다 .
+1	여기서	여기+서	ADV	_	6	advcl	_	_	여기/npd+서/jca
+2	치병을	치병+을	NOUN	_	3	obj	_	_	치병/ncpa+을/jco
+3	위한	위하+ㄴ	VERB	_	4	acl	_	_	위하/pvg+ㄴ/etm
+4	기도가	기도+가	NOUN	_	6	nsubj	_	_	기도/ncpa+가/jcs
+5	절실히	절실히	ADV	_	6	advmod	_	_	절실히/mag
+6	필요하다	필요+하+다	VERB	_	0	root	_	_	필요/ncpa+하/xsv+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 질병이 인간 생활에 있어 기본적인 고통이요 , 죽음의 전 단계라는 점에서 모든 인간은 병을 두려워한다 .
+1	질병이	질병+이	NOUN	_	10	nsubj	_	_	질병/ncn+이/jcs
+2	인간	인간	NOUN	_	3	compound	_	_	인간/ncn
+3	생활에	생활+에	ADV	_	4	obl	_	_	생활/ncpa+에/jca
+4	있어	있+어	SCONJ	_	6	xcomp	_	_	있/paa+어/ecs
+5	기본적인	기본+적+이+ㄴ	VERB	_	6	ccomp	_	_	기본/ncn+적/xsn+이/jp+ㄴ/etm
+6	고통이요	고통+이+요	CCONJ	_	10	conj	_	_	고통/ncn+이/jp+요/ecc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	죽음의	죽음+의	NOUN	_	10	nmod	_	_	죽음/ncn+의/jcm
+9	전	전	NOUN	_	10	compound	_	_	전/ncn
+10	단계라는	단계+이+라는	VERB	_	11	acl	_	_	단계/ncn+이/jp+라는/etm
+11	점에서	점+에서	ADV	_	15	advcl	_	_	점/ncn+에서/jca
+12	모든	모든	ADJ	_	13	amod	_	_	모든/mma
+13	인간은	인간+은	NOUN	_	15	dislocated	_	_	인간/ncn+은/jxt
+14	병을	병+을	NOUN	_	15	obj	_	_	병/ncn+을/jco
+15	두려워한다	두려워하+ㄴ다	VERB	_	0	root	_	_	두려워하/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그러므로 병 낫기를 위해 기도하고 , 하나님의 치료하심과 건강해지기를 간구하는 것이다 .
+1	그러므로	그러므로	CCONJ	_	10	cc	_	_	그러므로/maj
+2	병	병	NOUN	_	3	dep	_	_	병/ncn
+3	낫기를	낫+기+를	NOUN	_	4	obj	_	_	낫/pvg+기/etn+를/jco
+4	위해	위하+어	SCONJ	_	5	ccomp	_	_	위하/pvg+어/ecs
+5	기도하고	기도+하+고	CCONJ	_	10	conj	_	_	기도/ncpa+하/xsv+고/ecc
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	하나님의	하나님+의	PROPN	_	8	nmod	_	_	하나님/nq+의/jcm
+8	치료하심과	치료+하+시+ㅁ+과	CCONJ	_	9	conj	_	_	치료/ncpa+하/xsv+시/ep+ㅁ/etn+과/jcj
+9	건강해지기를	건강+하+어+지+기+를	NOUN	_	10	obj	_	_	건강/ncpa+하/xsv+어/ecx+지/px+기/etn+를/jco
+10	간구하는	간구+하+는	VERB	_	0	root	_	_	간구/ncpa+하/xsv+는/etm
+11	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러므로 교회는 신유 기도를 계속해야 한다 .
+1	그러므로	그러므로	CCONJ	_	5	cc	_	_	그러므로/maj
+2	교회는	교회+는	NOUN	_	5	dislocated	_	_	교회/ncn+는/jxt
+3	신유	신유	PROPN	_	4	compound	_	_	신유/nq
+4	기도를	기도+를	NOUN	_	5	obj	_	_	기도/ncpa+를/jco
+5	계속해야	계속+하+어야	VERB	_	0	root	_	_	계속/ncpa+하/xsv+어야/ecx
+6	한다	하+ㄴ다	AUX	_	5	aux	_	_	하/px+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 예수님께서는 위대한 치료자이시다 .
+1	예수님께서는	예수+님+께서+는	PROPN	_	3	dislocated	_	_	예수/nq+님/xsn+께서/jcs+는/jxt
+2	위대한	위대하+ㄴ	ADJ	_	3	amod	_	_	위대하/paa+ㄴ/etm
+3	치료자이시다	치료자+이+시+다	VERB	_	0	root	_	_	치료자/ncn+이/jp+시/ep+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 그 때문에 우리가 예수님의 보혈을 의지하고 믿음으로 기도할 때 , 우리는 질병의 결박에서 놓여날 수 있다 .
+1	그	그	PRON	_	2	compound	_	_	그/npd
+2	때문에	때문+에	ADV	_	14	obl	_	_	때문/nbn+에/jca
+3	우리가	우리+가	PRON	_	8	nsubj	_	_	우리/npp+가/jcs
+4	예수님의	예수+님+의	PROPN	_	5	nmod	_	_	예수/nq+님/xsn+의/jcm
+5	보혈을	보혈+을	NOUN	_	6	obj	_	_	보혈/ncn+을/jco
+6	의지하고	의지+하+고	CCONJ	_	8	conj	_	_	의지/ncpa+하/xsv+고/ecc
+7	믿음으로	믿음+으로	ADV	_	8	advcl	_	_	믿음/ncn+으로/jca
+8	기도할	기도+하+ㄹ	VERB	_	9	acl	_	_	기도/ncpa+하/xsv+ㄹ/etm
+9	때	때	NOUN	_	14	advmod	_	_	때/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	우리는	우리+는	PRON	_	14	dislocated	_	_	우리/npp+는/jxt
+12	질병의	질병+의	NOUN	_	13	nmod	_	_	질병/ncn+의/jcm
+13	결박에서	결박+에서	ADV	_	14	advcl	_	_	결박/ncpa+에서/jca
+14	놓여날	놓이+어+나+ㄹ	AUX	_	0	root	_	_	놓이/pvg+어/ecx+나/px+ㄹ/etm
+15	수	수	NOUN	_	16	fixed	_	_	수/nbn
+16	있다	있+다	ADJ	_	14	aux	_	_	있/paa+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 전 장에서 살펴 보았듯이 순복음이란 새로운 복음이 아니다 .
+1	전	전	NOUN	_	2	compound	_	_	전/ncn
+2	장에서	장+에서	ADV	_	3	advcl	_	_	장/nbu+에서/jca
+3	살펴	살피+어	VERB	_	8	conj	_	_	살피/pvg+어/ecx
+4	보았듯이	보+았+듯이	SCONJ	_	3	aux	_	_	보/px+았/ep+듯이/ecs
+5	순복음이란	순복음+이란	ADV	_	8	advcl	_	_	순복음/ncn+이란/jxc
+6	새로운	새롭+ㄴ	ADJ	_	7	amod	_	_	새롭/paa+ㄴ/etm
+7	복음이	복음+이	NOUN	_	8	csubj	_	_	복음/ncn+이/jcc
+8	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 새로운 이론도 아니다 .
+1	새로운	새롭+ㄴ	ADJ	_	2	amod	_	_	새롭/paa+ㄴ/etm
+2	이론도	이론+도	ADV	_	3	advcl	_	_	이론/ncn+도/jxc
+3	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 그것은 사람의 언어를 통해 우리에게 들려주시는 하나님의 은혜의 말씀 그 자체이다 .
+1	그것은	그것+은	PRON	_	11	dislocated	_	_	그것/npd+은/jxt
+2	사람의	사람+의	NOUN	_	3	nmod	_	_	사람/ncn+의/jcm
+3	언어를	언어+를	NOUN	_	4	obj	_	_	언어/ncn+를/jco
+4	통해	통하+어	SCONJ	_	6	ccomp	_	_	통하/pvg+어/ecs
+5	우리에게	우리+에게	ADV	_	6	iobj	_	_	우리/npp+에게/jca
+6	들려주시는	들려주+시+는	VERB	_	11	ccomp	_	_	들려주/pvg+시/ep+는/etm
+7	하나님의	하나님+의	PROPN	_	8	nmod	_	_	하나님/nq+의/jcm
+8	은혜의	은혜+의	NOUN	_	9	nmod	_	_	은혜/ncn+의/jcm
+9	말씀	말씀	NOUN	_	11	compound	_	_	말씀/ncpa
+10	그	그	PRON	_	11	compound	_	_	그/npd
+11	자체이다	자체+이+다	VERB	_	0	root	_	_	자체/ncn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러므로 본장에서는 오중 복음을 성경적 측면에서 살펴봄으로써 하나님의 말씀에 굳게 서 있는 복음임을 밝히고자 한다 .
+1	그러므로	그러므로	CCONJ	_	15	cc	_	_	그러므로/maj
+2	본장에서는	본장+에서+는	NOUN	_	15	dislocated	_	_	본장/ncn+에서/jca+는/jxt
+3	오중	오+중	NOUN	_	4	advmod	_	_	오/ncn+중/xsn
+4	복음을	복음+을	NOUN	_	7	obj	_	_	복음/ncn+을/jco
+5	성경적	성경+적	NOUN	_	6	amod	_	_	성경/ncn+적/xsn
+6	측면에서	측면+에서	ADV	_	7	advcl	_	_	측면/ncn+에서/jca
+7	살펴봄으로써	살펴보+ㅁ+으로써	ADV	_	14	advcl	_	_	살펴보/pvg+ㅁ/etn+으로써/jca
+8	하나님의	하나님+의	PROPN	_	9	nmod	_	_	하나님/nq+의/jcm
+9	말씀에	말씀+에	ADV	_	11	obl	_	_	말씀/ncpa+에/jca
+10	굳게	굳+게	SCONJ	_	11	ccomp	_	_	굳/pvg+게/ecs
+11	서	서+어	VERB	_	13	acl	_	_	서/pvg+어/ecx
+12	있는	있+는	AUX	_	11	aux	_	_	있/px+는/etm
+13	복음임을	복음+이+ㅁ+을	NOUN	_	14	obj	_	_	복음/ncn+이/jp+ㅁ/etn+을/jco
+14	밝히고자	밝히+고자	SCONJ	_	15	ccomp	_	_	밝히/pvg+고자/ecs
+15	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그러므로 구원의 복음은 곧 중생의 복음이라고 말할 수 있다 .
+1	그러므로	그러므로	CCONJ	_	7	cc	_	_	그러므로/maj
+2	구원의	구원+의	NOUN	_	3	nmod	_	_	구원/ncpa+의/jcm
+3	복음은	복음+은	NOUN	_	6	dislocated	_	_	복음/ncn+은/jxt
+4	곧	곧	ADV	_	6	advmod	_	_	곧/mag
+5	중생의	중생+의	NOUN	_	6	nmod	_	_	중생/ncn+의/jcm
+6	복음이라고	복음+이+라+고	VERB	_	7	conj	_	_	복음/ncn+이/jp+라/ef+고/jcr
+7	말할	말하+ㄹ	VERB	_	0	root	_	_	말하/pvg+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있다	있+다	ADJ	_	7	aux	_	_	있/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러나 인간이 타락하자 영은 죽었고 그 결과 창조의 질서는 뒤집어져 육은 혼을 , 혼은 영을 지배하게 되었다 .
+1	그러나	그러나	CCONJ	_	16	cc	_	_	그러나/maj
+2	인간이	인간+이	NOUN	_	3	nsubj	_	_	인간/ncn+이/jcs
+3	타락하자	타락+하+자	SCONJ	_	5	ccomp	_	_	타락/ncpa+하/xsv+자/ecs
+4	영은	영+은	NOUN	_	5	dislocated	_	_	영/ncn+은/jxt
+5	죽었고	죽+었+고	CCONJ	_	16	conj	_	_	죽/pvg+었/ep+고/ecc
+6	그	그	DET	_	7	det	_	_	그/mmd
+7	결과	결과	NOUN	_	10	advmod	_	_	결과/ncn
+8	창조의	창조+의	NOUN	_	9	nmod	_	_	창조/ncpa+의/jcm
+9	질서는	질서+는	NOUN	_	10	dislocated	_	_	질서/ncn+는/jxt
+10	뒤집어져	뒤집+어+지+어	SCONJ	_	16	ccomp	_	_	뒤집/pvg+어/ecx+지/px+어/ecs
+11	육은	육+은	NOUN	_	12	dislocated	_	_	육/ncn+은/jxt
+12	혼을	혼+을	NOUN	_	15	dep	_	_	혼/ncn+을/jco
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	혼은	혼+은	NOUN	_	15	dislocated	_	_	혼/ncn+은/jxt
+15	영을	영+을	NOUN	_	16	obj	_	_	영/ncn+을/jco
+16	지배하게	지배+하+게	VERB	_	0	root	_	_	지배/ncpa+하/xsv+게/ecx
+17	되었다	되+었+다	AUX	_	16	aux	_	_	되/px+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 하나님께서는 아담을 지으실 때부터 그를 통하여 영광 받으시기를 원하셨던 것이다 .
+1	하나님께서는	하나님+께서+는	PROPN	_	9	dislocated	_	_	하나님/nq+께서/jcs+는/jxt
+2	아담을	아담+을	PROPN	_	3	obj	_	_	아담/nq+을/jco
+3	지으실	짓+으시+ㄹ	VERB	_	4	acl	_	_	짓/pvg+으시/ep+ㄹ/etm
+4	때부터	때+부터	ADV	_	9	advcl	_	_	때/ncn+부터/jxc
+5	그를	그+를	PRON	_	6	obj	_	_	그/npp+를/jco
+6	통하여	통하+어	SCONJ	_	8	conj	_	_	통하/pvg+어/ecs
+7	영광	영광	NOUN	_	8	dep	_	_	영광/ncn
+8	받으시기를	받+으시+기+를	NOUN	_	9	obj	_	_	받/pvg+으시/ep+기/etn+를/jco
+9	원하셨던	원하+셨+던	VERB	_	0	root	_	_	원하/pvg+셨/ep+던/etm
+10	것이다	것+이+다	VERB	_	9	aux	_	_	것/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 하나님께서는 아담에게 미완성이라고는 찾아 볼 수 없는 완전한 세상을 선물로 주셨다 .
+1	하나님께서는	하나님+께서+는	PROPN	_	11	dislocated	_	_	하나님/nq+께서/jcs+는/jxt
+2	아담에게	아담+에게	ADV	_	11	iobj	_	_	아담/nq+에게/jca
+3	미완성이라고는	미완성+이+라고+는	NOUN	_	4	ccomp	_	_	미완성/ncps+이/jp+라고/ecs+는/jxt
+4	찾아	찾+아	VERB	_	9	acl	_	_	찾/pvg+아/ecx
+5	볼	보+ㄹ	AUX	_	4	aux	_	_	보/px+ㄹ/etm
+6	수	수	NOUN	_	7	fixed	_	_	수/nbn
+7	없는	없+는	ADJ	_	4	aux	_	_	없/paa+는/etm
+8	완전한	완전+하+ㄴ	VERB	_	9	amod	_	_	완전/ncps+하/xsm+ㄴ/etm
+9	세상을	세상+을	NOUN	_	11	obj	_	_	세상/ncn+을/jco
+10	선물로	선물+로	ADV	_	11	advcl	_	_	선물/ncn+로/jca
+11	주셨다	주+셨+다	VERB	_	0	root	_	_	주/pvg+셨/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러므로 인간이 해야 할 유일한 일은 기쁨으로 하나님을 신뢰하고 감사하고 찬양하는 것뿐이다 .
+1	그러므로	그러므로	CCONJ	_	12	cc	_	_	그러므로/maj
+2	인간이	인간+이	NOUN	_	3	nsubj	_	_	인간/ncn+이/jcs
+3	해야	하+어야	VERB	_	6	acl	_	_	하/pvg+어야/ecx
+4	할	하+ㄹ	AUX	_	3	aux	_	_	하/px+ㄹ/etm
+5	유일한	유일+하+ㄴ	VERB	_	6	amod	_	_	유일/ncps+하/xsm+ㄴ/etm
+6	일은	일+은	NOUN	_	12	dislocated	_	_	일/ncn+은/jxt
+7	기쁨으로	기쁨+으로	ADV	_	9	advcl	_	_	기쁨/ncn+으로/jca
+8	하나님을	하나님+을	PROPN	_	9	obj	_	_	하나님/nq+을/jco
+9	신뢰하고	신뢰+하+고	CCONJ	_	10	conj	_	_	신뢰/ncpa+하/xsv+고/ecc
+10	감사하고	감사+하+고	CCONJ	_	11	conj	_	_	감사/ncps+하/xsm+고/ecc
+11	찬양하는	찬양+하+는	VERB	_	12	amod	_	_	찬양/ncps+하/xsm+는/etm
+12	것뿐이다	것+뿐+이+다	VERB	_	0	root	_	_	것/nbn+뿐/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이러한 하나님의 정법과 뜻대로 살아갈 때 인간은 참 삶을 누릴 수가 있다는 것이다 .
+1	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+2	하나님의	하나님+의	PROPN	_	3	nmod	_	_	하나님/nq+의/jcm
+3	정법과	정법+과	CCONJ	_	4	conj	_	_	정법/ncn+과/jcj
+4	뜻대로	뜻+대로	ADV	_	5	advcl	_	_	뜻/ncn+대로/jca
+5	살아갈	살+아+가+ㄹ	AUX	_	6	acl	_	_	살/pvg+아/ecx+가/px+ㄹ/etm
+6	때	때	NOUN	_	10	advmod	_	_	때/ncn
+7	인간은	인간+은	NOUN	_	10	dislocated	_	_	인간/ncn+은/jxt
+8	참	참	ADJ	_	9	amod	_	_	참/mma
+9	삶을	삶+을	NOUN	_	10	obj	_	_	삶/ncn+을/jco
+10	누릴	누리+ㄹ	VERB	_	13	ccomp	_	_	누리/pvg+ㄹ/etm
+11	수가	수+가	NOUN	_	12	fixed	_	_	수/nbn+가/jcs
+12	있다는	있+다는	ADJ	_	10	aux	_	_	있/paa+다는/etm
+13	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그러나 뱀을 통하여 아담과 하와에게 접근한 사탄으로 말미암아 인간은 하나님의 말씀보다 인간적 생각을 중심에 두게 되었다 .
+1	그러나	그러나	CCONJ	_	15	cc	_	_	그러나/maj
+2	뱀을	뱀+을	NOUN	_	3	obj	_	_	뱀/ncn+을/jco
+3	통하여	통하+어	SCONJ	_	6	ccomp	_	_	통하/pvg+어/ecs
+4	아담과	아담+과	CCONJ	_	5	conj	_	_	아담/nq+과/jcj
+5	하와에게	하와+에게	ADV	_	6	iobj	_	_	하와/nq+에게/jca
+6	접근한	접근+하+ㄴ	VERB	_	7	acl	_	_	접근/ncpa+하/xsv+ㄴ/etm
+7	사탄으로	사탄+으로	ADV	_	8	advcl	_	_	사탄/ncn+으로/jca
+8	말미암아	말미암+아	SCONJ	_	15	ccomp	_	_	말미암/pvg+아/ecs
+9	인간은	인간+은	NOUN	_	15	dislocated	_	_	인간/ncn+은/jxt
+10	하나님의	하나님+의	PROPN	_	11	nmod	_	_	하나님/nq+의/jcm
+11	말씀보다	말씀+보다	ADV	_	15	advcl	_	_	말씀/ncpa+보다/jca
+12	인간적	인간+적	NOUN	_	13	amod	_	_	인간/ncn+적/xsn
+13	생각을	생각+을	NOUN	_	15	obj	_	_	생각/ncpa+을/jco
+14	중심에	중심+에	ADV	_	15	obl	_	_	중심/ncn+에/jca
+15	두게	두+게	VERB	_	0	root	_	_	두/pvg+게/ecx
+16	되었다	되+었+다	AUX	_	15	aux	_	_	되/px+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 사탄과 하와의 대화에서 인간이 타락하게 된 동기를 볼 수 있다 .
+1	사탄과	사탄+과	CCONJ	_	2	conj	_	_	사탄/ncn+과/jcj
+2	하와의	하와+의	PROPN	_	3	nmod	_	_	하와/nq+의/jcm
+3	대화에서	대화+에서	ADV	_	8	advcl	_	_	대화/ncpa+에서/jca
+4	인간이	인간+이	NOUN	_	5	nsubj	_	_	인간/ncn+이/jcs
+5	타락하게	타락+하+게	VERB	_	7	acl	_	_	타락/ncpa+하/xsv+게/ecx
+6	된	되+ㄴ	AUX	_	5	aux	_	_	되/px+ㄴ/etm
+7	동기를	동기+를	NOUN	_	8	obj	_	_	동기/ncn+를/jco
+8	볼	보+ㄹ	VERB	_	0	root	_	_	보/pvg+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	있다	있+다	ADJ	_	8	aux	_	_	있/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 의심이 들어온 하와의 마음 속엔 하나님에 대한 순종이 사라지고 이제 불신앙과 불순종만 남게 되었다 .
+1	의심이	의심+이	NOUN	_	2	nsubj	_	_	의심/ncpa+이/jcs
+2	들어온	듣+어+오+ㄴ	AUX	_	3	acl	_	_	듣/pvg+어/ecx+오/px+ㄴ/etm
+3	하와의	하와+의	PROPN	_	4	nmod	_	_	하와/nq+의/jcm
+4	마음	마음	NOUN	_	5	compound	_	_	마음/ncn
+5	속엔	속+엔	ADV	_	13	advcl	_	_	속/ncn+엔/jca
+6	하나님에	하나님+에	ADV	_	7	obl	_	_	하나님/nq+에/jca
+7	대한	대하+ㄴ	VERB	_	8	acl	_	_	대하/pvg+ㄴ/etm
+8	순종이	순종+이	NOUN	_	9	nsubj	_	_	순종/ncpa+이/jcs
+9	사라지고	사라지+고	CCONJ	_	13	conj	_	_	사라지/pvg+고/ecc
+10	이제	이제	ADV	_	13	advmod	_	_	이제/mag
+11	불신앙과	불신앙+과	CCONJ	_	12	conj	_	_	불신앙/ncn+과/jcj
+12	불순종만	불순종+만	ADV	_	13	advcl	_	_	불순종/ncn+만/jxc
+13	남게	남+게	VERB	_	0	root	_	_	남/pvg+게/ecx
+14	되었다	되+었+다	AUX	_	13	aux	_	_	되/px+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 영이 죽고 죄가 들어오자 하나님과 인간 , 인간과 인간 , 인간과 자연과의 관계가 파괴되는 처참한 결과를 가져왔다 .
+1	영이	영+이	NOUN	_	2	nsubj	_	_	영/ncn+이/jcs
+2	죽고	죽+고	CCONJ	_	4	conj	_	_	죽/pvg+고/ecc
+3	죄가	죄+가	NOUN	_	4	nsubj	_	_	죄/ncn+가/jcs
+4	들어오자	듣+어+오+자	CCONJ	_	17	conj	_	_	듣/pvg+어/ecx+오/px+자/ecc
+5	하나님과	하나님+과	CCONJ	_	6	conj	_	_	하나님/nq+과/jcj
+6	인간	인간	NOUN	_	12	compound	_	_	인간/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	인간과	인간+과	CCONJ	_	9	conj	_	_	인간/ncn+과/jcj
+9	인간	인간	NOUN	_	12	compound	_	_	인간/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	인간과	인간+과	CCONJ	_	12	conj	_	_	인간/ncn+과/jcj
+12	자연과의	자연+과+의	NOUN	_	13	nmod	_	_	자연/ncpa+과/jct+의/jcm
+13	관계가	관계+가	NOUN	_	14	nsubj	_	_	관계/ncpa+가/jcs
+14	파괴되는	파괴+되+는	VERB	_	16	acl	_	_	파괴/ncpa+되/xsv+는/etm
+15	처참한	처참+하+ㄴ	VERB	_	16	amod	_	_	처참/ncps+하/xsm+ㄴ/etm
+16	결과를	결과+를	NOUN	_	17	obj	_	_	결과/ncn+를/jco
+17	가져왔다	가지+어+오+았+다	AUX	_	0	root	_	_	가지/pvg+어/ecx+오/px+았/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이와 같이 아담과 하와의 타락은 인간의 모든 면에 영향을 주는 완전한 타락이다 .
+1	이와	이+와	CCONJ	_	2	conj	_	_	이/npd+와/jct
+2	같이	같+이	SCONJ	_	12	xcomp	_	_	같/paa+이/ecs
+3	아담과	아담+과	CCONJ	_	4	conj	_	_	아담/nq+과/jcj
+4	하와의	하와+의	PROPN	_	5	nmod	_	_	하와/nq+의/jcm
+5	타락은	타락+은	NOUN	_	12	dislocated	_	_	타락/ncpa+은/jxt
+6	인간의	인간+의	NOUN	_	8	nmod	_	_	인간/ncn+의/jcm
+7	모든	모든	ADJ	_	8	amod	_	_	모든/mma
+8	면에	면+에	ADV	_	10	obl	_	_	면/ncn+에/jca
+9	영향을	영향+을	NOUN	_	10	obj	_	_	영향/ncn+을/jco
+10	주는	주+는	VERB	_	12	ccomp	_	_	주/pvg+는/etm
+11	완전한	완전+하+ㄴ	VERB	_	12	amod	_	_	완전/ncps+하/xsm+ㄴ/etm
+12	타락이다	타락+이+다	VERB	_	0	root	_	_	타락/ncpa+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 인간 편에서 볼 때 아담의 타락은 철저한 절망뿐이다 .
+1	인간	인간	NOUN	_	2	compound	_	_	인간/ncn
+2	편에서	편+에서	ADV	_	3	advcl	_	_	편/ncn+에서/jca
+3	볼	보+ㄹ	VERB	_	4	acl	_	_	보/pvg+ㄹ/etm
+4	때	때	NOUN	_	8	advmod	_	_	때/ncn
+5	아담의	아담+의	PROPN	_	6	nmod	_	_	아담/nq+의/jcm
+6	타락은	타락+은	NOUN	_	8	dislocated	_	_	타락/ncpa+은/jxt
+7	철저한	철저+하+ㄴ	VERB	_	8	amod	_	_	철저/ncps+하/xsm+ㄴ/etm
+8	절망뿐이다	절망+뿐+이+다	VERB	_	0	root	_	_	절망/ncpa+뿐/nbn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 인류에게 질병과 고난이 다가왔고 자연은 사기와 어겅퀴를 내었다 .
+1	인류에게	인류+에게	ADV	_	4	iobj	_	_	인류/ncn+에게/jca
+2	질병과	질병+과	CCONJ	_	3	conj	_	_	질병/ncn+과/jcj
+3	고난이	고난+이	NOUN	_	4	nsubj	_	_	고난/ncn+이/jcs
+4	다가왔고	다가오+았+고	CCONJ	_	8	conj	_	_	다가오/pvg+았/ep+고/ecc
+5	자연은	자연+은	NOUN	_	8	dislocated	_	_	자연/ncn+은/jxt
+6	사기와	사기+와	CCONJ	_	7	conj	_	_	사기/ncn+와/jcj
+7	어겅퀴를	어겅퀴+를	NOUN	_	8	obj	_	_	어겅퀴/ncn+를/jco
+8	내었다	내+었+다	VERB	_	0	root	_	_	내/pvg+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 아담과 하와와 뱀과 자연에 대한 이와 같은 하나님의 심판은 형벌로써 나타난 것이다 .
+1	아담과	아담+과	CCONJ	_	2	conj	_	_	아담/nq+과/jcj
+2	하와와	하와+와	CCONJ	_	3	conj	_	_	하와/nq+와/jcj
+3	뱀과	뱀+과	CCONJ	_	4	conj	_	_	뱀/ncn+과/jcj
+4	자연에	자연+에	ADV	_	5	obl	_	_	자연/ncn+에/jca
+5	대한	대하+ㄴ	VERB	_	9	acl	_	_	대하/pvg+ㄴ/etm
+6	이와	이+와	CCONJ	_	7	conj	_	_	이/npd+와/jct
+7	같은	같+ㄴ	ADJ	_	9	amod	_	_	같/paa+ㄴ/etm
+8	하나님의	하나님+의	PROPN	_	9	nmod	_	_	하나님/nq+의/jcm
+9	심판은	심판+은	NOUN	_	11	dislocated	_	_	심판/ncpa+은/jxt
+10	형벌로써	형벌+로써	ADV	_	11	advcl	_	_	형벌/ncpa+로써/jca
+11	나타난	나타나+ㄴ	VERB	_	0	root	_	_	나타나/pvg+ㄴ/etm
+12	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이렇게 아담과 하와를 통해 , 아브라함을 통해 예시하신 구원의 약속을 하나님께서는 또한 서지자의 입술을 통해서도 계속하여 보여주셨다 .
+1	이렇게	이렇+게	SCONJ	_	8	xcomp	_	_	이렇/pad+게/ecs
+2	아담과	아담+과	CCONJ	_	3	conj	_	_	아담/nq+과/jcj
+3	하와를	하와+를	PROPN	_	4	obj	_	_	하와/nq+를/jco
+4	통해	통하+어	SCONJ	_	8	ccomp	_	_	통하/pvg+어/ecs
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	아브라함을	아브라함+을	PROPN	_	7	obj	_	_	아브라함/nq+을/jco
+7	통해	통하+어	SCONJ	_	8	ccomp	_	_	통하/pvg+어/ecs
+8	예시하신	예시+하+시+ㄴ	VERB	_	10	acl	_	_	예시/ncpa+하/xsv+시/ep+ㄴ/etm
+9	구원의	구원+의	NOUN	_	10	nmod	_	_	구원/ncpa+의/jcm
+10	약속을	약속+을	NOUN	_	17	obj	_	_	약속/ncpa+을/jco
+11	하나님께서는	하나님+께서+는	PROPN	_	17	dislocated	_	_	하나님/nq+께서/jcs+는/jxt
+12	또한	또한	ADV	_	17	advmod	_	_	또한/mag
+13	서지자의	서지자+의	NOUN	_	14	nmod	_	_	서지자/ncn+의/jcm
+14	입술을	입술+을	NOUN	_	15	obj	_	_	입술/ncn+을/jco
+15	통해서도	통하+어서+도	ADV	_	17	ccomp	_	_	통하/pvg+어서/ecs+도/jxc
+16	계속하여	계속+하+어	SCONJ	_	17	ccomp	_	_	계속/ncpa+하/xsv+어/ecs
+17	보여주셨다	보이+어+주+셨+다	AUX	_	0	root	_	_	보이/pvg+어/ecx+주/px+셨/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이러한 십자가의 고난과 죽음을 통한 구원은 우리에게 네 가지 측면에서 의미를 준다 .
+1	이러한	이러하+ㄴ	VERB	_	6	amod	_	_	이러하/pad+ㄴ/etm
+2	십자가의	십자가+의	NOUN	_	3	nmod	_	_	십자가/ncn+의/jcm
+3	고난과	고난+과	CCONJ	_	6	conj	_	_	고난/ncn+과/jcj
+4	죽음을	죽음+을	NOUN	_	5	obj	_	_	죽음/ncn+을/jco
+5	통한	통하+ㄴ	VERB	_	6	acl	_	_	통하/pvg+ㄴ/etm
+6	구원은	구원+은	NOUN	_	12	dislocated	_	_	구원/ncpa+은/jxt
+7	우리에게	우리+에게	ADV	_	12	iobj	_	_	우리/npp+에게/jca
+8	네	네	NUM	_	9	nummod	_	_	네/nnc
+9	가지	가지	NOUN	_	10	compound	_	_	가지/nbu
+10	측면에서	측면+에서	ADV	_	12	advcl	_	_	측면/ncn+에서/jca
+11	의미를	의미+를	NOUN	_	12	obj	_	_	의미/ncpa+를/jco
+12	준다	주+ㄴ다	VERB	_	0	root	_	_	주/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그러면 이제 하나님의 은혜를 받는 방법에 대해서 구체적으로 살펴 보도록 한다 .
+1	그러면	그러면	CCONJ	_	11	cc	_	_	그러면/maj
+2	이제	이제	ADV	_	11	advmod	_	_	이제/mag
+3	하나님의	하나님+의	PROPN	_	4	nmod	_	_	하나님/nq+의/jcm
+4	은혜를	은혜+를	NOUN	_	5	obj	_	_	은혜/ncn+를/jco
+5	받는	받+는	VERB	_	6	acl	_	_	받/pvg+는/etm
+6	방법에	방법+에	ADV	_	7	obl	_	_	방법/ncn+에/jca
+7	대해서	대하+어서	SCONJ	_	9	ccomp	_	_	대하/pvg+어서/ecs
+8	구체적으로	구체+적+으로	ADV	_	9	advcl	_	_	구체/ncn+적/xsn+으로/jca
+9	살펴	살피+어	VERB	_	11	ccomp	_	_	살피/pvg+어/ecx
+10	보도록	보+도록	SCONJ	_	9	aux	_	_	보/px+도록/ecs
+11	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그것은 바로 회개와 믿음이다 .
+1	그것은	그것+은	PRON	_	4	dislocated	_	_	그것/npd+은/jxt
+2	바로	바로	ADV	_	4	advmod	_	_	바로/mag
+3	회개와	회개+와	CCONJ	_	4	dep	_	_	회개/ncpa+와/jcj
+4	믿음이다	믿음+이+다	VERB	_	0	root	_	_	믿음/ncn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 회개와 믿은은 동시에 일어나는 한 사건의 양면성이다 .
+1	회개와	회개+와	CCONJ	_	2	conj	_	_	회개/ncpa+와/jcj
+2	믿은은	믿은+은	NOUN	_	7	dislocated	_	_	믿은/ncn+은/jxt
+3	동시에	동시+에	ADV	_	4	obl	_	_	동시/ncn+에/jca
+4	일어나는	일어나+는	VERB	_	7	ccomp	_	_	일어나/pvg+는/etm
+5	한	한	NUM	_	6	nummod	_	_	한/nnc
+6	사건의	사건+의	NOUN	_	7	nmod	_	_	사건/ncn+의/jcm
+7	양면성이다	양면성+이+다	VERB	_	0	root	_	_	양면성/ncn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그것은 또한 성령을 통해 우리에게 주시는 은사이기도 하다 .
+1	그것은	그것+은	PRON	_	8	dislocated	_	_	그것/npd+은/jxt
+2	또한	또한	ADV	_	8	advmod	_	_	또한/mag
+3	성령을	성령+을	NOUN	_	4	obj	_	_	성령/ncn+을/jco
+4	통해	통하+어	SCONJ	_	6	ccomp	_	_	통하/pvg+어/ecs
+5	우리에게	우리+에게	ADV	_	6	iobj	_	_	우리/npp+에게/jca
+6	주시는	주+시+는	VERB	_	7	acl	_	_	주/pvg+시/ep+는/etm
+7	은사이기도	은사+이+기+도	ADV	_	8	advcl	_	_	은사/ncn+이/jp+기/etn+도/jxc
+8	하다	하+다	VERB	_	0	root	_	_	하/pvg+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그러므로 구원에 이르기 위해서는 하나님께서 은혜로 주시는 믿음을 받아야 한다 .
+1	그러므로	그러므로	CCONJ	_	9	cc	_	_	그러므로/maj
+2	구원에	구원+에	ADV	_	3	obl	_	_	구원/ncpa+에/jca
+3	이르기	이르+기	VERB	_	4	nmod	_	_	이르/pvg+기/etn
+4	위해서는	위하+어서+는	NOUN	_	9	ccomp	_	_	위하/pvg+어서/ecs+는/jxt
+5	하나님께서	하나님+께서	PROPN	_	7	nsubj	_	_	하나님/nq+께서/jcs
+6	은혜로	은혜+로	ADV	_	7	advcl	_	_	은혜/ncn+로/jca
+7	주시는	주+시+는	VERB	_	8	acl	_	_	주/pvg+시/ep+는/etm
+8	믿음을	믿음+을	NOUN	_	9	obj	_	_	믿음/ncn+을/jco
+9	받아야	받+아야	VERB	_	0	root	_	_	받/pvg+아야/ecx
+10	한다	하+ㄴ다	AUX	_	9	aux	_	_	하/px+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이는 믿음을 만들어 내시고 또 우리에게 믿음을 완전하게 만들어 주시는 예수를 바라보자는 뜻이다 .
+1	이는	이+는	PRON	_	13	dislocated	_	_	이/npd+는/jxt
+2	믿음을	믿음+을	NOUN	_	3	obj	_	_	믿음/ncn+을/jco
+3	만들어	만들+어	VERB	_	9	conj	_	_	만들/pvg+어/ecx
+4	내시고	내+시+고	CCONJ	_	3	aux	_	_	내/px+시/ep+고/ecc
+5	또	또	ADV	_	9	advmod	_	_	또/mag
+6	우리에게	우리+에게	ADV	_	9	iobj	_	_	우리/npp+에게/jca
+7	믿음을	믿음+을	NOUN	_	9	obj	_	_	믿음/ncn+을/jco
+8	완전하게	완전+하+게	SCONJ	_	9	xcomp	_	_	완전/ncps+하/xsm+게/ecs
+9	만들어	만들+어	VERB	_	11	acl	_	_	만들/pvg+어/ecx
+10	주시는	주+시+는	AUX	_	9	aux	_	_	주/px+시/ep+는/etm
+11	예수를	예수+를	PROPN	_	12	obj	_	_	예수/nq+를/jco
+12	바라보자는	바라보+자는	VERB	_	13	ccomp	_	_	바라보/pvg+자는/etm
+13	뜻이다	뜻+이+다	VERB	_	0	root	_	_	뜻/ncn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이러므로 구원의 믿음은 예수께서 그 말씀으로 우리 마음 속에 주시는 은혜요 선물인 것이다 .
+1	이러므로	이러므로	CCONJ	_	12	cc	_	_	이러므로/maj
+2	구원의	구원+의	NOUN	_	3	nmod	_	_	구원/ncpa+의/jcm
+3	믿음은	믿음+은	NOUN	_	12	dislocated	_	_	믿음/ncn+은/jxt
+4	예수께서	예수+께서	PROPN	_	10	nsubj	_	_	예수/nq+께서/jcs
+5	그	그	PRON	_	6	compound	_	_	그/npp
+6	말씀으로	말씀+으로	ADV	_	10	advcl	_	_	말씀/ncpa+으로/jca
+7	우리	우리	PRON	_	8	compound	_	_	우리/npp
+8	마음	마음	NOUN	_	9	compound	_	_	마음/ncn
+9	속에	속+에	ADV	_	10	obl	_	_	속/ncn+에/jca
+10	주시는	주+시+는	VERB	_	11	ccomp	_	_	주/pvg+시/ep+는/etm
+11	은혜요	은혜+이+요	CCONJ	_	12	conj	_	_	은혜/ncn+이/jp+요/ecc
+12	선물인	선물+이+ㄴ	VERB	_	0	root	_	_	선물/ncn+이/jp+ㄴ/etm
+13	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 심판에 대해 책망하심으로 예수 그리스도의 십자가를 통하여 이미 이 세상 마귀가 심판을 받았다는 사실을 깨닫게 하신다 .
+1	심판에	심판+에	ADV	_	2	obl	_	_	심판/ncpa+에/jca
+2	대해	대하+어	SCONJ	_	3	conj	_	_	대하/pvg+어/ecs
+3	책망하심으로	책망+하+시+ㅁ+으로	ADV	_	15	advcl	_	_	책망/ncpa+하/xsv+시/ep+ㅁ/etn+으로/jca
+4	예수	예수	PROPN	_	5	flat	_	_	예수/nq
+5	그리스도의	그리스도+의	PROPN	_	6	nmod	_	_	그리스도/nq+의/jcm
+6	십자가를	십자가+를	NOUN	_	7	obj	_	_	십자가/ncn+를/jco
+7	통하여	통하+어	SCONJ	_	13	ccomp	_	_	통하/pvg+어/ecs
+8	이미	이미	ADV	_	13	advmod	_	_	이미/mag
+9	이	이	DET	_	10	det	_	_	이/mmd
+10	세상	세상	NOUN	_	11	compound	_	_	세상/ncn
+11	마귀가	마귀+가	NOUN	_	13	nsubj	_	_	마귀/ncn+가/jcs
+12	심판을	심판+을	NOUN	_	13	obj	_	_	심판/ncpa+을/jco
+13	받았다는	받+았+다는	VERB	_	14	acl	_	_	받/pvg+았/ep+다는/etm
+14	사실을	사실+을	NOUN	_	15	obj	_	_	사실/ncn+을/jco
+15	깨닫게	깨닫+게	VERB	_	0	root	_	_	깨닫/pvg+게/ecx
+16	하신다	하+시+ㄴ다	AUX	_	15	aux	_	_	하/px+시/ep+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 성령으로 거듭난다는 것은 성령이 우리 속에 들어와 주인이 되심을 말한다 .
+1	성령으로	성령+으로	ADV	_	2	advcl	_	_	성령/ncn+으로/jca
+2	거듭난다는	거듭나+ㄴ다는	VERB	_	3	acl	_	_	거듭나/pvg+ㄴ다는/etm
+3	것은	것+은	NOUN	_	10	dislocated	_	_	것/nbn+은/jxt
+4	성령이	성령+이	NOUN	_	7	nsubj	_	_	성령/ncn+이/jcs
+5	우리	우리	PRON	_	6	compound	_	_	우리/npp
+6	속에	속+에	ADV	_	7	obl	_	_	속/ncn+에/jca
+7	들어와	들어오+아	SCONJ	_	9	conj	_	_	들어오/pvg+아/ecs
+8	주인이	주인+이	NOUN	_	9	nsubj	_	_	주인/ncn+이/jcs
+9	되심을	되+시+ㅁ+을	NOUN	_	10	obj	_	_	되/pvg+시/ep+ㅁ/etn+을/jco
+10	말한다	말하+ㄴ다	VERB	_	0	root	_	_	말하/pvg+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 즉 사탄의 자식에서 하나님의 자녀로 다시 태어난다는 말이다 .
+1	즉	즉	CCONJ	_	8	cc	_	_	즉/maj
+2	사탄의	사탄+의	NOUN	_	3	nmod	_	_	사탄/ncn+의/jcm
+3	자식에서	자식+에서	ADV	_	7	advcl	_	_	자식/ncn+에서/jca
+4	하나님의	하나님+의	PROPN	_	5	nmod	_	_	하나님/nq+의/jcm
+5	자녀로	자녀+로	ADV	_	7	advcl	_	_	자녀/ncn+로/jca
+6	다시	다시	ADV	_	7	advmod	_	_	다시/mag
+7	태어난다는	태어나+ㄴ다는	VERB	_	8	ccomp	_	_	태어나/pvg+ㄴ다는/etm
+8	말이다	말+이+다	VERB	_	0	root	_	_	말/ncpa+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 첫째로 , 보혜사 성령께서 우리의 마음 속에 들어와 거하신다 .
+1	첫째로	첫째+로	ADV	_	9	advmod	_	_	첫째/nno+로/jca
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	보혜사	보혜사	NOUN	_	4	compound	_	_	보혜사/ncn
+4	성령께서	성령+께서	NOUN	_	8	nsubj	_	_	성령/ncn+께서/jcs
+5	우리의	우리+의	PRON	_	6	nmod	_	_	우리/npp+의/jcm
+6	마음	마음	NOUN	_	7	compound	_	_	마음/ncn
+7	속에	속+에	ADV	_	8	obl	_	_	속/ncn+에/jca
+8	들어와	들어오+아	SCONJ	_	9	ccomp	_	_	들어오/pvg+아/ecs
+9	거하신다	거하+시+ㄴ다	VERB	_	0	root	_	_	거하/pvg+시/ep+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 셋째로 , 하나님의 자녀가 되는 권세를 가지게 된다 .
+1	셋째로	셋째+로	ADV	_	7	advmod	_	_	셋째/nno+로/jca
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	하나님의	하나님+의	PROPN	_	4	nmod	_	_	하나님/nq+의/jcm
+4	자녀가	자녀+가	NOUN	_	5	csubj	_	_	자녀/ncn+가/jcc
+5	되는	되+는	VERB	_	6	acl	_	_	되/pvg+는/etm
+6	권세를	권세+를	NOUN	_	7	obj	_	_	권세/ncn+를/jco
+7	가지게	가지+게	VERB	_	0	root	_	_	가지/pvg+게/ecx
+8	된다	되+ㄴ다	AUX	_	7	aux	_	_	되/px+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 넷째로 , 하나님이 예비하신 놀라운 복을 누리는 삶이 된다 .
+1	넷째로	넷째+로	ADV	_	9	advmod	_	_	넷째/nno+로/jca
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	하나님이	하나님+이	PROPN	_	4	nsubj	_	_	하나님/nq+이/jcs
+4	예비하신	예비+하+시+ㄴ	VERB	_	6	acl	_	_	예비/ncpa+하/xsv+시/ep+ㄴ/etm
+5	놀라운	놀랍+ㄴ	ADJ	_	6	amod	_	_	놀랍/paa+ㄴ/etm
+6	복을	복+을	NOUN	_	7	obj	_	_	복/ncn+을/jco
+7	누리는	누리+는	VERB	_	8	acl	_	_	누리/pvg+는/etm
+8	삶이	삶+이	NOUN	_	9	csubj	_	_	삶/ncn+이/jcc
+9	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이러한 새로운 피조물의 복은 무엇보다도 영혼이 잘 되는 복이다 .
+1	이러한	이러하+ㄴ	VERB	_	4	amod	_	_	이러하/pad+ㄴ/etm
+2	새로운	새롭+ㄴ	ADJ	_	4	amod	_	_	새롭/paa+ㄴ/etm
+3	피조물의	피조물+의	NOUN	_	4	nmod	_	_	피조물/ncn+의/jcm
+4	복은	복+은	NOUN	_	9	dislocated	_	_	복/ncn+은/jxt
+5	무엇보다도	무엇+보다+도	ADV	_	8	advcl	_	_	무엇/npd+보다/jca+도/jxc
+6	영혼이	영혼+이	NOUN	_	8	nsubj	_	_	영혼/ncn+이/jcs
+7	잘	잘	ADV	_	8	advmod	_	_	잘/mag
+8	되는	되+는	VERB	_	9	ccomp	_	_	되/pvg+는/etm
+9	복이다	복+이+다	VERB	_	0	root	_	_	복/ncn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이와 같이 예수 그리스도를 구주로 모셔 들이는 모든 새로운 피조물은 영과 육과 범사가 잘 되는 삼중 축복을 누릴 수가 있다 .
+1	이와	이+와	CCONJ	_	2	conj	_	_	이/npd+와/jct
+2	같이	같+이	SCONJ	_	18	xcomp	_	_	같/paa+이/ecs
+3	예수	예수	PROPN	_	4	flat	_	_	예수/nq
+4	그리스도를	그리스도+를	PROPN	_	7	obj	_	_	그리스도/nq+를/jco
+5	구주로	구주+로	ADV	_	7	advcl	_	_	구주/ncn+로/jca
+6	모셔	모시+어	SCONJ	_	7	ccomp	_	_	모시/pvg+어/ecs
+7	들이는	들이+는	VERB	_	10	acl	_	_	들이/pvg+는/etm
+8	모든	모든	ADJ	_	10	amod	_	_	모든/mma
+9	새로운	새롭+ㄴ	ADJ	_	10	amod	_	_	새롭/paa+ㄴ/etm
+10	피조물은	피조물+은	NOUN	_	18	dislocated	_	_	피조물/ncn+은/jxt
+11	영과	영+과	CCONJ	_	12	conj	_	_	영/ncn+과/jcj
+12	육과	육+과	CCONJ	_	13	conj	_	_	육/ncn+과/jcj
+13	범사가	범사+가	NOUN	_	15	nsubj	_	_	범사/ncn+가/jcs
+14	잘	잘	ADV	_	15	advmod	_	_	잘/mag
+15	되는	되+는	VERB	_	17	acl	_	_	되/pvg+는/etm
+16	삼중	삼중	NOUN	_	17	compound	_	_	삼중/ncn
+17	축복을	축복+을	NOUN	_	18	obj	_	_	축복/ncpa+을/jco
+18	누릴	누리+ㄹ	VERB	_	0	root	_	_	누리/pvg+ㄹ/etm
+19	수가	수+가	NOUN	_	20	fixed	_	_	수/nbn+가/jcs
+20	있다	있+다	ADJ	_	18	aux	_	_	있/paa+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 중생한 그리스도인들은 누구든지 성령 세례를 받고 성령 충만함을 입어야 한다 .
+1	중생한	중생하+ㄴ	VERB	_	2	acl	_	_	중생하/pvg+ㄴ/etm
+2	그리스도인들은	그리스도인+들+은	NOUN	_	9	dislocated	_	_	그리스도인/ncn+들/xsn+은/jxt
+3	누구든지	누구+든지	ADV	_	9	advcl	_	_	누구/npp+든지/jxc
+4	성령	성령	NOUN	_	5	compound	_	_	성령/ncn
+5	세례를	세례+를	NOUN	_	6	obj	_	_	세례/ncpa+를/jco
+6	받고	받+고	CCONJ	_	9	conj	_	_	받/pvg+고/ecc
+7	성령	성령	NOUN	_	8	compound	_	_	성령/ncn
+8	충만함을	충만+하+ㅁ+을	NOUN	_	9	obj	_	_	충만/ncps+하/xsm+ㅁ/etn+을/jco
+9	입어야	입+어야	VERB	_	0	root	_	_	입/pvg+어야/ecx
+10	한다	하+ㄴ다	AUX	_	9	aux	_	_	하/px+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 성령은 영원하신 분이다 .
+1	성령은	성령+은	NOUN	_	3	dislocated	_	_	성령/ncn+은/jxt
+2	영원하신	영원+하+시+ㄴ	VERB	_	3	amod	_	_	영원/ncps+하/xsm+시/ep+ㄴ/etm
+3	분이다	분+이+다	VERB	_	0	root	_	_	분/nbn+이/jp+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 성부 하나님이 영원하듯이 성령 또한 영원하신 분이다 .
+1	성부	성부	NOUN	_	2	compound	_	_	성부/ncn
+2	하나님이	하나님+이	PROPN	_	3	nsubj	_	_	하나님/nq+이/jcs
+3	영원하듯이	영원+하+듯이	SCONJ	_	7	xcomp	_	_	영원/ncps+하/xsm+듯이/ecs
+4	성령	성령	NOUN	_	5	dep	_	_	성령/ncn
+5	또한	또한	ADV	_	7	advmod	_	_	또한/mag
+6	영원하신	영원+하+시+ㄴ	VERB	_	7	amod	_	_	영원/ncps+하/xsm+시/ep+ㄴ/etm
+7	분이다	분+이+다	VERB	_	0	root	_	_	분/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 성령은 어디에나 계시는 분이다 .
+1	성령은	성령+은	NOUN	_	4	dislocated	_	_	성령/ncn+은/jxt
+2	어디에나	어디+에+나	ADV	_	3	advcl	_	_	어디/npd+에/jca+나/jxc
+3	계시는	계시+는	ADJ	_	4	amod	_	_	계시/paa+는/etm
+4	분이다	분+이+다	VERB	_	0	root	_	_	분/nbn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 성령은 지성을 가지고 계신다 .
+1	성령은	성령+은	NOUN	_	3	dislocated	_	_	성령/ncn+은/jxt
+2	지성을	지성+을	NOUN	_	3	obj	_	_	지성/ncn+을/jco
+3	가지고	가지+고	VERB	_	0	root	_	_	가지/pvg+고/ecx
+4	계신다	계시+ㄴ다	AUX	_	3	aux	_	_	계시/px+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 성령은 감성을 가지고 계신다 .
+1	성령은	성령+은	NOUN	_	3	dislocated	_	_	성령/ncn+은/jxt
+2	감성을	감성+을	NOUN	_	3	obj	_	_	감성/ncn+을/jco
+3	가지고	가지+고	VERB	_	0	root	_	_	가지/pvg+고/ecx
+4	계신다	계시+ㄴ다	AUX	_	3	aux	_	_	계시/px+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 성령은 의지를 갖고 계신다 .
+1	성령은	성령+은	NOUN	_	3	dislocated	_	_	성령/ncn+은/jxt
+2	의지를	의지+를	NOUN	_	3	obj	_	_	의지/ncpa+를/jco
+3	갖고	갖+고	VERB	_	0	root	_	_	갖/pvg+고/ecx
+4	계신다	계시+ㄴ다	AUX	_	3	aux	_	_	계시/px+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 성경이 성령을 인칭대명사로 지칭하고 있다 .
+1	성경이	성경+이	PROPN	_	4	nsubj	_	_	성경/nq+이/jcs
+2	성령을	성령+을	NOUN	_	4	obj	_	_	성령/ncn+을/jco
+3	인칭대명사로	인칭대명사+로	ADV	_	4	advcl	_	_	인칭대명사/ncn+로/jca
+4	지칭하고	지칭+하+고	VERB	_	0	root	_	_	지칭/ncpa+하/xsv+고/ecx
+5	있다	있+다	AUX	_	4	aux	_	_	있/px+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 성령은 인격적인 존재만이 행할 수 있는 활동을 하신다 .
+1	성령은	성령+은	NOUN	_	8	dislocated	_	_	성령/ncn+은/jxt
+2	인격적인	인격+적+이+ㄴ	VERB	_	3	acl	_	_	인격/ncn+적/xsn+이/jp+ㄴ/etm
+3	존재만이	존재+만+이	NOUN	_	4	nsubj	_	_	존재/ncpa+만/jxc+이/jcs
+4	행할	행하+ㄹ	VERB	_	7	acl	_	_	행하/pvg+ㄹ/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	있는	있+는	ADJ	_	4	aux	_	_	있/paa+는/etm
+7	활동을	활동+을	NOUN	_	8	obj	_	_	활동/ncpa+을/jco
+8	하신다	하+시+ㄴ다	VERB	_	0	root	_	_	하/pvg+시/ep+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 성경에는 중생의 체험을 가진 성도들이 성령 세례를 받지 못한 예가 기록되어 있다 .
+1	성경에는	성경+에+는	NOUN	_	11	dislocated	_	_	성경/ncn+에/jca+는/jxt
+2	중생의	중생+의	NOUN	_	3	nmod	_	_	중생/ncn+의/jcm
+3	체험을	체험+을	NOUN	_	4	obj	_	_	체험/ncpa+을/jco
+4	가진	가지+ㄴ	VERB	_	5	acl	_	_	가지/pvg+ㄴ/etm
+5	성도들이	성도+들+이	NOUN	_	8	nsubj	_	_	성도/ncn+들/xsn+이/jcs
+6	성령	성령	NOUN	_	7	compound	_	_	성령/ncn
+7	세례를	세례+를	NOUN	_	8	obj	_	_	세례/ncpa+를/jco
+8	받지	받+지	VERB	_	10	acl	_	_	받/pvg+지/ecx
+9	못한	못하+ㄴ	AUX	_	8	aux	_	_	못하/px+ㄴ/etm
+10	예가	예+가	NOUN	_	11	nsubj	_	_	예/ncn+가/jcs
+11	기록되어	기록+되+어	VERB	_	0	root	_	_	기록/ncpa+되/xsv+어/ecx
+12	있다	있+다	AUX	_	11	aux	_	_	있/px+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이때 수많은 사람들이 복음을 믿고 세례를 받은 기록이 있다 .
+1	이때	이때	PRON	_	7	advmod	_	_	이때/npd
+2	수많은	수많+ㄴ	ADJ	_	3	amod	_	_	수많/paa+ㄴ/etm
+3	사람들이	사람+들+이	NOUN	_	7	nsubj	_	_	사람/ncn+들/xsn+이/jcs
+4	복음을	복음+을	NOUN	_	5	obj	_	_	복음/ncn+을/jco
+5	믿고	믿+고	CCONJ	_	7	conj	_	_	믿/pvg+고/ecc
+6	세례를	세례+를	NOUN	_	7	obj	_	_	세례/ncpa+를/jco
+7	받은	받+ㄴ	VERB	_	8	acl	_	_	받/pvg+ㄴ/etm
+8	기록이	기록+이	NOUN	_	9	nsubj	_	_	기록/ncpa+이/jcs
+9	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이와 같은 성경의 증거를 볼 때 중생과 성령 세례는 확연히 다른 별개의 체험임을 알 수 있다 .
+1	이와	이+와	CCONJ	_	2	conj	_	_	이/npd+와/jct
+2	같은	같+ㄴ	ADJ	_	4	amod	_	_	같/paa+ㄴ/etm
+3	성경의	성경+의	NOUN	_	4	nmod	_	_	성경/ncn+의/jcm
+4	증거를	증거+를	NOUN	_	5	obj	_	_	증거/ncpa+를/jco
+5	볼	보+ㄹ	VERB	_	6	acl	_	_	보/pvg+ㄹ/etm
+6	때	때	NOUN	_	14	advmod	_	_	때/ncn
+7	중생과	중생+과	CCONJ	_	9	conj	_	_	중생/ncn+과/jcj
+8	성령	성령	NOUN	_	9	compound	_	_	성령/ncn
+9	세례는	세례+는	NOUN	_	13	dislocated	_	_	세례/ncpa+는/jxt
+10	확연히	확연히	ADV	_	11	advmod	_	_	확연히/mag
+11	다른	다르+ㄴ	ADJ	_	13	amod	_	_	다르/paa+ㄴ/etm
+12	별개의	별개+의	NOUN	_	13	nmod	_	_	별개/ncn+의/jcm
+13	체험임을	체험+이+ㅁ+을	NOUN	_	14	obj	_	_	체험/ncpa+이/jp+ㅁ/etn+을/jco
+14	알	알+ㄹ	VERB	_	0	root	_	_	알/pvg+ㄹ/etm
+15	수	수	NOUN	_	16	fixed	_	_	수/nbn
+16	있다	있+다	ADJ	_	14	aux	_	_	있/paa+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 첫째 , 성령 세례의 증거는 다양하나 그 대표적인 외적 표현으로 방언을 들 수 있다 .
+1	첫째	첫째	NUM	_	12	nummod	_	_	첫째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	성령	성령	NOUN	_	4	compound	_	_	성령/ncn
+4	세례의	세례+의	NOUN	_	5	nmod	_	_	세례/ncpa+의/jcm
+5	증거는	증거+는	NOUN	_	6	dislocated	_	_	증거/ncpa+는/jxt
+6	다양하나	다양하+나	SCONJ	_	12	xcomp	_	_	다양하/paa+나/ecs
+7	그	그	DET	_	10	det	_	_	그/mmd
+8	대표적인	대표+적+이+ㄴ	VERB	_	10	acl	_	_	대표/ncpa+적/xsn+이/jp+ㄴ/etm
+9	외적	외+적	NOUN	_	10	amod	_	_	외/ncn+적/xsn
+10	표현으로	표현+으로	ADV	_	12	advcl	_	_	표현/ncn+으로/jca
+11	방언을	방언+을	NOUN	_	12	obj	_	_	방언/ncpa+을/jco
+12	들	들+ㄹ	VERB	_	0	root	_	_	들/pvg+ㄹ/etm
+13	수	수	NOUN	_	14	fixed	_	_	수/nbn
+14	있다	있+다	ADJ	_	12	aux	_	_	있/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이 점으로 볼 때 성령 세례의 표적 중의 하나는 방언이라 할 수 있다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	점으로	점+으로	ADV	_	3	advcl	_	_	점/nbu+으로/jca
+3	볼	보+ㄹ	VERB	_	4	acl	_	_	보/pvg+ㄹ/etm
+4	때	때	NOUN	_	11	advmod	_	_	때/ncn
+5	성령	성령	NOUN	_	6	compound	_	_	성령/ncn
+6	세례의	세례+의	NOUN	_	7	nmod	_	_	세례/ncpa+의/jcm
+7	표적	표적	NOUN	_	8	compound	_	_	표적/ncn
+8	중의	중+의	NOUN	_	9	nmod	_	_	중/ncn+의/jcm
+9	하나는	하나+는	NOUN	_	11	dislocated	_	_	하나/ncn+는/jxt
+10	방언이라	방언+이라	ADV	_	11	advcl	_	_	방언/ncn+이라/jca
+11	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있다	있+다	ADJ	_	11	aux	_	_	있/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 둘째 , 무엇보다도 확실한 성령 세례의 증거는 강력한 복음 전파에 있다 .
+1	둘째	둘째	NUM	_	11	nummod	_	_	둘째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	무엇보다도	무엇+보다+도	ADV	_	4	advcl	_	_	무엇/npd+보다/jca+도/jxc
+4	확실한	확실+하+ㄴ	VERB	_	7	amod	_	_	확실/ncps+하/xsm+ㄴ/etm
+5	성령	성령	NOUN	_	6	compound	_	_	성령/ncn
+6	세례의	세례+의	NOUN	_	7	nmod	_	_	세례/ncpa+의/jcm
+7	증거는	증거+는	NOUN	_	11	dislocated	_	_	증거/ncpa+는/jxt
+8	강력한	강력+하+ㄴ	VERB	_	10	amod	_	_	강력/ncps+하/xsm+ㄴ/etm
+9	복음	복음	NOUN	_	10	compound	_	_	복음/ncn
+10	전파에	전파+에	ADV	_	11	obl	_	_	전파/ncpa+에/jca
+11	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 성령의 세례를 받은 자는 그 결과로써 자신에게 허락된 성령의 은사를 발견하고 그리스도의 복음과 교회를 위해 활용해야 한다 .
+1	성령의	성령+의	NOUN	_	2	nmod	_	_	성령/ncn+의/jcm
+2	세례를	세례+를	NOUN	_	3	obj	_	_	세례/ncpa+를/jco
+3	받은	받+ㄴ	VERB	_	4	acl	_	_	받/pvg+ㄴ/etm
+4	자는	자+는	NOUN	_	16	dislocated	_	_	자/ncn+는/jxt
+5	그	그	DET	_	6	det	_	_	그/mmd
+6	결과로써	결과+로써	ADV	_	8	advcl	_	_	결과/ncn+로써/jca
+7	자신에게	자신+에게	ADV	_	8	iobj	_	_	자신/ncn+에게/jca
+8	허락된	허락+되+ㄴ	VERB	_	10	acl	_	_	허락/ncpa+되/xsv+ㄴ/etm
+9	성령의	성령+의	NOUN	_	10	nmod	_	_	성령/ncn+의/jcm
+10	은사를	은사+를	NOUN	_	16	obj	_	_	은사/ncn+를/jco
+11	발견하고	발견+하+고	CCONJ	_	16	conj	_	_	발견/ncpa+하/xsv+고/ecc
+12	그리스도의	그리스도+의	PROPN	_	14	nmod	_	_	그리스도/nq+의/jcm
+13	복음과	복음+과	CCONJ	_	14	conj	_	_	복음/ncn+과/jcj
+14	교회를	교회+를	NOUN	_	15	obj	_	_	교회/ncn+를/jco
+15	위해	위하+어	SCONJ	_	16	ccomp	_	_	위하/pvg+어/ecs
+16	활용해야	활용+하+어야	VERB	_	0	root	_	_	활용/ncpa+하/xsv+어야/ecx
+17	한다	하+ㄴ다	AUX	_	16	aux	_	_	하/px+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 성령의 은사는 성령을 떠나 독립적으로 존재할 수 없다 .
+1	성령의	성령+의	NOUN	_	2	nmod	_	_	성령/ncn+의/jcm
+2	은사는	은사+는	NOUN	_	6	dislocated	_	_	은사/ncn+는/jxt
+3	성령을	성령+을	NOUN	_	4	obj	_	_	성령/ncn+을/jco
+4	떠나	떠나+아	SCONJ	_	6	ccomp	_	_	떠나/pvg+아/ecs
+5	독립적으로	독립+적+으로	ADV	_	6	advcl	_	_	독립/ncpa+적/xsn+으로/jca
+6	존재할	존재+하+ㄹ	VERB	_	0	root	_	_	존재/ncpa+하/xsv+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	없다	없+다	ADJ	_	6	aux	_	_	없/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 겸손하게 성령의 뜻을 따라 교회의 유익을 위해 사용해야 한다 .
+1	겸손하게	겸손+하+게	SCONJ	_	4	xcomp	_	_	겸손/ncps+하/xsm+게/ecs
+2	성령의	성령+의	NOUN	_	3	nmod	_	_	성령/ncn+의/jcm
+3	뜻을	뜻+을	NOUN	_	4	obj	_	_	뜻/ncn+을/jco
+4	따라	따르+아	SCONJ	_	8	ccomp	_	_	따르/pvg+아/ecs
+5	교회의	교회+의	NOUN	_	6	nmod	_	_	교회/ncn+의/jcm
+6	유익을	유익+을	NOUN	_	7	obj	_	_	유익/ncps+을/jco
+7	위해	위하+어	SCONJ	_	8	ccomp	_	_	위하/pvg+어/ecs
+8	사용해야	사용+하+어야	VERB	_	0	root	_	_	사용/ncpa+하/xsv+어야/ecx
+9	한다	하+ㄴ다	AUX	_	8	aux	_	_	하/px+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 대표적인 성령의 은사로는 고린도전 12장에 기록된 9가지 은사이다 .
+1	대표적인	대표+적+이+ㄴ	VERB	_	3	acl	_	_	대표/ncpa+적/xsn+이/jp+ㄴ/etm
+2	성령의	성령+의	NOUN	_	3	nmod	_	_	성령/ncn+의/jcm
+3	은사로는	은사+로+는	NOUN	_	8	dislocated	_	_	은사/ncn+로/jca+는/jxt
+4	고린도전	고린도전서	PROPN	_	5	compound	_	_	고린도전서/nq
+5	12장에	12+장+에	ADV	_	6	obl	_	_	12/nno+장/nbu+에/jca
+6	기록된	기록+되+ㄴ	VERB	_	8	ccomp	_	_	기록/ncpa+되/xsv+ㄴ/etm
+7	9가지	9+가지	NOUN	_	8	compound	_	_	9/nno+가지/nbu
+8	은사이다	은사+이+다	VERB	_	0	root	_	_	은사/ncn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 더불어 , 내적 성품이 그리스도의 형상을 닮아가게 하는 성령의 열매를 맺게 된다 .
+1	더불어	더불+어	SCONJ	_	11	ccomp	_	_	더불/pvg+어/ecs
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	내적	내+적	NOUN	_	4	amod	_	_	내/ncn+적/xsn
+4	성품이	성품+이	NOUN	_	7	nsubj	_	_	성품/ncn+이/jcs
+5	그리스도의	그리스도+의	PROPN	_	6	nmod	_	_	그리스도/nq+의/jcm
+6	형상을	형상+을	NOUN	_	7	obj	_	_	형상/ncn+을/jco
+7	닮아가게	닮+아+가+게	AUX	_	10	acl	_	_	닮/pvg+아/ecx+가/px+게/ecx
+8	하는	하+는	AUX	_	7	aux	_	_	하/px+는/etm
+9	성령의	성령+의	NOUN	_	10	nmod	_	_	성령/ncn+의/jcm
+10	열매를	열매+를	NOUN	_	11	obj	_	_	열매/ncn+를/jco
+11	맺게	맺+게	VERB	_	0	root	_	_	맺/pvg+게/ecx
+12	된다	되+ㄴ다	AUX	_	11	aux	_	_	되/px+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 성령의 열매는 우리들 속에 내주하시는 예수 그리스도의 인격의 표현이다 .
+1	성령의	성령+의	NOUN	_	2	nmod	_	_	성령/ncn+의/jcm
+2	열매는	열매+는	NOUN	_	9	dislocated	_	_	열매/ncn+는/jxt
+3	우리들	우리+들	NOUN	_	4	compound	_	_	우리/npp+들/xsn
+4	속에	속+에	ADV	_	5	obl	_	_	속/ncn+에/jca
+5	내주하시는	내주+하+시+는	VERB	_	7	acl	_	_	내주/ncpa+하/xsv+시/ep+는/etm
+6	예수	예수	PROPN	_	7	flat	_	_	예수/nq
+7	그리스도의	그리스도+의	PROPN	_	8	nmod	_	_	그리스도/nq+의/jcm
+8	인격의	인격+의	NOUN	_	9	nmod	_	_	인격/ncn+의/jcm
+9	표현이다	표현+이+다	VERB	_	0	root	_	_	표현/ncpa+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 바울은 이러한 성령의 거룩한 열매를 9가지로 제시해 주고 있다 .
+1	바울은	바울+은	PROPN	_	7	dislocated	_	_	바울/nq+은/jxt
+2	이러한	이러하+ㄴ	VERB	_	5	amod	_	_	이러하/pad+ㄴ/etm
+3	성령의	성령+의	NOUN	_	5	nmod	_	_	성령/ncn+의/jcm
+4	거룩한	거룩+하+ㄴ	VERB	_	5	amod	_	_	거룩/ncps+하/xsm+ㄴ/etm
+5	열매를	열매+를	NOUN	_	7	obj	_	_	열매/ncn+를/jco
+6	9가지로	9+가지+로	ADV	_	7	advcl	_	_	9/nnc+가지/nbu+로/jca
+7	제시해	제시+하+어	VERB	_	0	root	_	_	제시/ncpa+하/xsv+어/ecx
+8	주고	주+고	AUX	_	7	aux	_	_	주/px+고/ecx
+9	있다	있+다	AUX	_	7	aux	_	_	있/px+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 중생은 죄로 말미암아 죽었던 영이 다시 살아나는 영적 변화로써 성령의 기본 사역이다 .
+1	중생은	중생+은	NOUN	_	12	dislocated	_	_	중생/ncn+은/jxt
+2	죄로	죄+로	ADV	_	3	advcl	_	_	죄/ncn+로/jca
+3	말미암아	말미암+아	SCONJ	_	4	ccomp	_	_	말미암/pvg+아/ecs
+4	죽었던	죽+었+던	VERB	_	5	acl	_	_	죽/pvg+었/ep+던/etm
+5	영이	영+이	NOUN	_	7	nsubj	_	_	영/ncn+이/jcs
+6	다시	다시	ADV	_	7	advmod	_	_	다시/mag
+7	살아나는	살+아+나+는	AUX	_	9	acl	_	_	살/pvg+아/ecx+나/px+는/etm
+8	영적	영+적	NOUN	_	9	amod	_	_	영/ncn+적/xsn
+9	변화로써	변화+로써	ADV	_	12	advcl	_	_	변화/ncpa+로써/jca
+10	성령의	성령+의	NOUN	_	12	nmod	_	_	성령/ncn+의/jcm
+11	기본	기본	NOUN	_	12	compound	_	_	기본/ncn
+12	사역이다	사역+이+다	VERB	_	0	root	_	_	사역/ncpa+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 성령의 은사는 주의 일을 부족함 없이 하기 위해 하나님께서 그 뜻대로 성도들에게 나누어 주시는 선물이요 , 능력이다 .
+1	성령의	성령+의	NOUN	_	2	nmod	_	_	성령/ncn+의/jcm
+2	은사는	은사+는	NOUN	_	17	dislocated	_	_	은사/ncn+는/jxt
+3	주의	주+의	PROPN	_	4	nmod	_	_	주/nq+의/jcm
+4	일을	일+을	NOUN	_	7	obj	_	_	일/ncn+을/jco
+5	부족함	부족+하+ㅁ	VERB	_	6	nmod	_	_	부족/ncps+하/xsm+ㅁ/etn
+6	없이	없+이	SCONJ	_	7	xcomp	_	_	없/paa+이/ecs
+7	하기	하+기	VERB	_	8	nmod	_	_	하/pvg+기/etn
+8	위해	위하+어	SCONJ	_	13	ccomp	_	_	위하/pvg+어/ecs
+9	하나님께서	하나님+께서	PROPN	_	13	nsubj	_	_	하나님/nq+께서/jcs
+10	그	그	DET	_	11	det	_	_	그/mmd
+11	뜻대로	뜻+대로	ADV	_	13	advcl	_	_	뜻/ncn+대로/jca
+12	성도들에게	성도+들+에게	ADV	_	13	iobj	_	_	성도/ncn+들/xsn+에게/jca
+13	나누어	나누+어	VERB	_	15	ccomp	_	_	나누/pvg+어/ecx
+14	주시는	주+시+는	AUX	_	13	aux	_	_	주/px+시/ep+는/etm
+15	선물이요	선물+이+요	CCONJ	_	17	conj	_	_	선물/ncn+이/jp+요/ecc
+16	,	,	PUNCT	_	15	punct	_	_	,/sp
+17	능력이다	능력+이+다	VERB	_	0	root	_	_	능력/ncn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 성령의 열매는 신앙이 성숙되어감으로써 내적 성품이 그리스도의 형상으로 닮아 가는 과정이다 .
+1	성령의	성령+의	NOUN	_	2	nmod	_	_	성령/ncn+의/jcm
+2	열매는	열매+는	NOUN	_	11	dislocated	_	_	열매/ncn+는/jxt
+3	신앙이	신앙+이	NOUN	_	4	nsubj	_	_	신앙/ncn+이/jcs
+4	성숙되어감으로써	성숙+되+어+가+ㅁ+으로써	ADV	_	11	advcl	_	_	성숙/ncpa+되/xsv+어/ecx+가/px+ㅁ/etn+으로써/jca
+5	내적	내+적	NOUN	_	6	amod	_	_	내/ncn+적/xsn
+6	성품이	성품+이	NOUN	_	9	nsubj	_	_	성품/ncn+이/jcs
+7	그리스도의	그리스도+의	PROPN	_	8	nmod	_	_	그리스도/nq+의/jcm
+8	형상으로	형상+으로	ADV	_	9	advcl	_	_	형상/ncn+으로/jca
+9	닮아	닮+아	VERB	_	11	ccomp	_	_	닮/pvg+아/ecx
+10	가는	가+는	AUX	_	9	aux	_	_	가/px+는/etm
+11	과정이다	과정+이+다	VERB	_	0	root	_	_	과정/ncn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 성경은 이러한 하나님의 치료에 대해 증거하고 있다 .
+1	성경은	성경+은	NOUN	_	6	dislocated	_	_	성경/ncn+은/jxt
+2	이러한	이러하+ㄴ	VERB	_	4	amod	_	_	이러하/pad+ㄴ/etm
+3	하나님의	하나님+의	PROPN	_	4	nmod	_	_	하나님/nq+의/jcm
+4	치료에	치료+에	ADV	_	5	obl	_	_	치료/ncpa+에/jca
+5	대해	대하+어	SCONJ	_	6	ccomp	_	_	대하/pvg+어/ecs
+6	증거하고	증거+하+고	VERB	_	0	root	_	_	증거/ncpa+하/xsv+고/ecx
+7	있다	있+다	AUX	_	6	aux	_	_	있/px+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+

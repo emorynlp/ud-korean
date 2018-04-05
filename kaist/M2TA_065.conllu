@@ -1,0 +1,1733 @@
+# 어떤 것이 인간의 올바른 먹거리인가 .
+1	어떤	어떤	DET	_	2	det	_	_	어떤/mmd
+2	것이	것+이	NOUN	_	5	nsubj	_	_	것/nbn+이/jcs
+3	인간의	인간+의	NOUN	_	5	nmod	_	_	인간/ncn+의/jcm
+4	올바른	올바르+ㄴ	VERB	_	5	acl	_	_	올바르/pvg+ㄴ/etm
+5	먹거리인가	먹거리+이+ㄴ가	VERB	_	0	root	_	_	먹거리/ncn+이/jp+ㄴ가/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 맨 먼저 생각할 수 있는 것이 곡식이다 .
+1	맨	맨	ADJ	_	2	amod	_	_	맨/mma
+2	먼저	먼저	NOUN	_	3	compound	_	_	먼저/ncn
+3	생각할	생각+하+ㄹ	VERB	_	6	acl	_	_	생각/ncpa+하/xsv+ㄹ/etm
+4	수	수	NOUN	_	5	fixed	_	_	수/nbn
+5	있는	있+는	ADJ	_	3	aux	_	_	있/paa+는/etm
+6	것이	것+이	NOUN	_	7	nsubj	_	_	것/nbn+이/jcs
+7	곡식이다	곡식+이+다	VERB	_	0	root	_	_	곡식/ncn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 다음이 야채이다 .
+1	다음이	다음+이	NOUN	_	2	nsubj	_	_	다음/ncn+이/jcs
+2	야채이다	야채+이+다	VERB	_	0	root	_	_	야채/ncn+이/jp+다/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 그것이 바로 쌀이 모자라며 밀이 모자란다는 것을 뜻한다는 것은 누구나 알고 있다 .
+1	그것이	그것+이	PRON	_	8	nsubj	_	_	그것/npd+이/jcs
+2	바로	바로	ADV	_	8	advmod	_	_	바로/mag
+3	쌀이	쌀+이	NOUN	_	4	nsubj	_	_	쌀/ncn+이/jcs
+4	모자라며	모자라+며	CCONJ	_	6	conj	_	_	모자라/pvg+며/ecc
+5	밀이	밀+이	NOUN	_	6	nsubj	_	_	밀/ncn+이/jcs
+6	모자란다는	모자라+ㄴ다는	VERB	_	7	acl	_	_	모자라/pvg+ㄴ다는/etm
+7	것을	것+을	NOUN	_	8	obj	_	_	것/nbn+을/jco
+8	뜻한다는	뜻+하+ㄴ다는	VERB	_	9	acl	_	_	뜻/ncpa+하/xsv+ㄴ다는/etm
+9	것은	것+은	NOUN	_	11	dislocated	_	_	것/nbn+은/jxt
+10	누구나	누구+나	ADV	_	11	advcl	_	_	누구/npp+나/jxc
+11	알고	알+고	VERB	_	0	root	_	_	알/pvg+고/ecx
+12	있다	있+다	AUX	_	11	aux	_	_	있/px+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 인간은 곡식 없이 살아갈 수 없는 것이다 .
+1	인간은	인간+은	NOUN	_	4	dislocated	_	_	인간/ncn+은/jxt
+2	곡식	곡식	NOUN	_	3	dep	_	_	곡식/ncn
+3	없이	없+이	SCONJ	_	4	xcomp	_	_	없/paa+이/ecs
+4	살아갈	살+아+가+ㄹ	AUX	_	0	root	_	_	살/pvg+아/ecx+가/px+ㄹ/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	없는	없+는	ADJ	_	4	aux	_	_	없/paa+는/etm
+7	것이다	것+이+다	VERB	_	4	aux	_	_	것/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이같이 모자라는 곡식을 해마다 미국이나 캐나다 , 오스트레일리아에서 사들이지 않으면 안 되게 되어 있다 .
+1	이같이	이같이	ADV	_	9	advmod	_	_	이같이/mag
+2	모자라는	모자라+는	VERB	_	3	acl	_	_	모자라/pvg+는/etm
+3	곡식을	곡식+을	NOUN	_	9	obj	_	_	곡식/ncn+을/jco
+4	해마다	해마다	ADV	_	9	advmod	_	_	해마다/mag
+5	미국이나	미국+이나	CCONJ	_	6	conj	_	_	미국/nq+이나/jcj
+6	캐나다	캐나다	PROPN	_	8	conj	_	_	캐나다/nq
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	오스트레일리아에서	오스트레일리아+에서	ADV	_	9	advcl	_	_	오스트레일리아/nq+에서/jca
+9	사들이지	사들이+지	VERB	_	12	ccomp	_	_	사들이/pvg+지/ecx
+10	않으면	않+으면	SCONJ	_	9	aux	_	_	않/px+으면/ecs
+11	안	안	ADV	_	12	advmod	_	_	안/mag
+12	되게	되+게	VERB	_	0	root	_	_	되/pvg+게/ecx
+13	되어	되+어	AUX	_	12	aux	_	_	되/px+어/ecx
+14	있다	있+다	AUX	_	12	aux	_	_	있/px+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그와 같은 사실은 여러 동물들의 입 모양으로도 알 수 있다 .
+1	그와	그+와	CCONJ	_	2	conj	_	_	그/npp+와/jct
+2	같은	같+ㄴ	ADJ	_	3	amod	_	_	같/paa+ㄴ/etm
+3	사실은	사실+은	NOUN	_	8	dislocated	_	_	사실/ncn+은/jxt
+4	여러	여러	ADJ	_	5	amod	_	_	여러/mma
+5	동물들의	동물+들+의	NOUN	_	7	nmod	_	_	동물/ncn+들/xsn+의/jcm
+6	입	입	NOUN	_	7	compound	_	_	입/ncn
+7	모양으로도	모양+으로+도	ADV	_	8	advcl	_	_	모양/ncn+으로/jca+도/jxc
+8	알	알+ㄹ	VERB	_	0	root	_	_	알/pvg+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	있다	있+다	ADJ	_	8	aux	_	_	있/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 육식동물인 사자나 호랑이 , 늑대 등의 이를 보면 하나같이 송곳니이다 .
+1	육식동물인	육식동물+이+ㄴ	VERB	_	5	acl	_	_	육식동물/ncn+이/jp+ㄴ/etm
+2	사자나	사자+나	CCONJ	_	3	conj	_	_	사자/ncn+나/jcj
+3	호랑이	호랑이	NOUN	_	5	conj	_	_	호랑이/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	늑대	늑대	NOUN	_	6	compound	_	_	늑대/ncn
+6	등의	등+의	NOUN	_	7	nmod	_	_	등/nbn+의/jcm
+7	이를	이+를	NOUN	_	8	obj	_	_	이/ncn+를/jco
+8	보면	보+면	SCONJ	_	10	ccomp	_	_	보/pvg+면/ecs
+9	하나같이	하나같이	ADV	_	10	advmod	_	_	하나같이/mag
+10	송곳니이다	송곳니+이+다	VERB	_	0	root	_	_	송곳니/ncn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그것은 동물을 물어 죽이거나 뼈를 씹기에 편리하게 되어 있다 .
+1	그것은	그것+은	PRON	_	7	dislocated	_	_	그것/npd+은/jxt
+2	동물을	동물+을	NOUN	_	4	obj	_	_	동물/ncn+을/jco
+3	물어	물+어	SCONJ	_	4	ccomp	_	_	물/pvg+어/ecs
+4	죽이거나	죽이+거나	CCONJ	_	6	conj	_	_	죽이/pvg+거나/ecc
+5	뼈를	뼈+를	NOUN	_	6	obj	_	_	뼈/ncn+를/jco
+6	씹기에	씹+기+에	ADV	_	7	obl	_	_	씹/pvg+기/etn+에/jca
+7	편리하게	편리+하+게	VERB	_	0	root	_	_	편리/ncpa+하/xsv+게/ecx
+8	되어	되+어	AUX	_	7	aux	_	_	되/px+어/ecx
+9	있다	있+다	AUX	_	7	aux	_	_	있/px+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 풀만 먹고 살아가는 그들에게 동물을 죽이기 위한 송곳니를 자연의 섭리가 주었을 까닭이 없는 것이다 .
+1	풀만	풀+만	ADV	_	2	advcl	_	_	풀/ncn+만/jxc
+2	먹고	먹+고	SCONJ	_	3	ccomp	_	_	먹/pvg+고/ecs
+3	살아가는	살+아+가+는	AUX	_	4	acl	_	_	살/pvg+아/ecx+가/px+는/etm
+4	그들에게	그+들+에게	ADV	_	11	iobj	_	_	그/npp+들/xsn+에게/jca
+5	동물을	동물+을	NOUN	_	6	obj	_	_	동물/ncn+을/jco
+6	죽이기	죽이+기	VERB	_	7	nmod	_	_	죽이/pvg+기/etn
+7	위한	위하+ㄴ	VERB	_	8	acl	_	_	위하/pvg+ㄴ/etm
+8	송곳니를	송곳니+를	NOUN	_	11	obj	_	_	송곳니/ncn+를/jco
+9	자연의	자연+의	NOUN	_	10	nmod	_	_	자연/ncn+의/jcm
+10	섭리가	섭리+가	NOUN	_	11	nsubj	_	_	섭리/ncn+가/jcs
+11	주었을	주+었+ㄹ	VERB	_	12	acl	_	_	주/pvg+었/ep+ㄹ/etm
+12	까닭이	까닭+이	NOUN	_	13	nsubj	_	_	까닭/ncn+이/jcs
+13	없는	없+는	ADJ	_	0	root	_	_	없/paa+는/etm
+14	것이다	것+이+다	VERB	_	13	aux	_	_	것/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이와 같이 형태학적으로 보아도 모든 동물은 그에 알맞는 먹거리를 섭취하게 되어 있음이 분명해진다 .
+1	이와	이+와	CCONJ	_	2	conj	_	_	이/npd+와/jct
+2	같이	같+이	SCONJ	_	4	xcomp	_	_	같/paa+이/ecs
+3	형태학적으로	형태학+적+으로	ADV	_	4	advcl	_	_	형태학/ncn+적/xsn+으로/jca
+4	보아도	보+아도	SCONJ	_	10	conj	_	_	보/pvg+아도/ecs
+5	모든	모든	ADJ	_	6	amod	_	_	모든/mma
+6	동물은	동물+은	NOUN	_	10	dislocated	_	_	동물/ncn+은/jxt
+7	그에	그+에	ADV	_	8	obl	_	_	그/npd+에/jca
+8	알맞는	알맞+는	ADJ	_	9	amod	_	_	알맞/paa+는/etm
+9	먹거리를	먹거리+를	NOUN	_	10	obj	_	_	먹거리/ncn+를/jco
+10	섭취하게	섭취+하+게	VERB	_	13	nsubj	_	_	섭취/ncpa+하/xsv+게/ecx
+11	되어	되+어	AUX	_	10	aux	_	_	되/px+어/ecx
+12	있음이	있+ㅁ+이	NOUN	_	10	aux	_	_	있/px+ㅁ/etn+이/jcs
+13	분명해진다	분명+하+어+지+ㄴ다	AUX	_	0	root	_	_	분명/ncpa+하/xsv+어/ecx+지/px+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 인간은 어김없는 곡채식 동물인 것이다 .
+1	인간은	인간+은	NOUN	_	4	dislocated	_	_	인간/ncn+은/jxt
+2	어김없는	어김없+는	ADJ	_	4	amod	_	_	어김없/paa+는/etm
+3	곡채식	곡채식	NOUN	_	4	compound	_	_	곡채식/ncn
+4	동물인	동물+이+ㄴ	VERB	_	0	root	_	_	동물/ncn+이/jp+ㄴ/etm
+5	것이다	것+이+다	VERB	_	4	aux	_	_	것/nbn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 제 땅에서 난 것을 먹어야 한다 .
+1	제	제	ADJ	_	2	amod	_	_	제/mma
+2	땅에서	땅+에서	ADV	_	3	advcl	_	_	땅/ncn+에서/jca
+3	난	나+ㄴ	VERB	_	4	acl	_	_	나/pvg+ㄴ/etm
+4	것을	것+을	NOUN	_	5	obj	_	_	것/nbn+을/jco
+5	먹어야	먹+어야	VERB	_	0	root	_	_	먹/pvg+어야/ecx
+6	한다	하+ㄴ다	AUX	_	5	aux	_	_	하/px+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 모든 동물은 환경의 산물이다 .
+1	모든	모든	ADJ	_	2	amod	_	_	모든/mma
+2	동물은	동물+은	NOUN	_	4	dislocated	_	_	동물/ncn+은/jxt
+3	환경의	환경+의	NOUN	_	4	nmod	_	_	환경/ncn+의/jcm
+4	산물이다	산물+이+다	VERB	_	0	root	_	_	산물/ncn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 어떤 동물도 환경을 무시하면서 살아갈 수는 없다 .
+1	어떤	어떤	DET	_	2	det	_	_	어떤/mmd
+2	동물도	동물+도	ADV	_	5	advcl	_	_	동물/ncn+도/jxc
+3	환경을	환경+을	NOUN	_	4	obj	_	_	환경/ncn+을/jco
+4	무시하면서	무시+하+면서	SCONJ	_	5	ccomp	_	_	무시/ncpa+하/xsv+면서/ecs
+5	살아갈	살아가+ㄹ	VERB	_	0	root	_	_	살아가/pvg+ㄹ/etm
+6	수는	수+는	NOUN	_	7	fixed	_	_	수/nbn+는/jxt
+7	없다	없+다	ADJ	_	5	aux	_	_	없/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 인간이라 해서 그 예외가 될 수 있는 것은 아니다 .
+1	인간이라	인간+이+라	SCONJ	_	2	ccomp	_	_	인간/ncn+이/jp+라/ecs
+2	해서	하+어서	SCONJ	_	5	ccomp	_	_	하/pvg+어서/ecs
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	예외가	예외+가	NOUN	_	5	csubj	_	_	예외/ncn+가/jcc
+5	될	되+ㄹ	VERB	_	8	acl	_	_	되/pvg+ㄹ/etm
+6	수	수	NOUN	_	7	fixed	_	_	수/nbn
+7	있는	있+는	ADJ	_	5	aux	_	_	있/paa+는/etm
+8	것은	것+은	NOUN	_	9	dislocated	_	_	것/nbn+은/jxt
+9	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그런 먹거리는 환경에 맞지 않기 때문에 추위에 대한 저항력을 잃게 만들고 , 손발에 동상을 일으키게 될 것이다 .
+1	그런	그런	DET	_	2	det	_	_	그런/mmd
+2	먹거리는	먹거리+는	NOUN	_	4	dislocated	_	_	먹거리/ncn+는/jxt
+3	환경에	환경+에	ADV	_	4	obl	_	_	환경/ncn+에/jca
+4	맞지	맞+지	VERB	_	6	dep	_	_	맞/pvg+지/ecx
+5	않기	않+기	AUX	_	4	aux	_	_	않/px+기/etn
+6	때문에	때문+에	ADV	_	15	obl	_	_	때문/nbn+에/jca
+7	추위에	추위+에	ADV	_	8	obl	_	_	추위/ncn+에/jca
+8	대한	대하+ㄴ	VERB	_	9	acl	_	_	대하/pvg+ㄴ/etm
+9	저항력을	저항력+을	NOUN	_	10	obj	_	_	저항력/ncn+을/jco
+10	잃게	잃+게	SCONJ	_	11	ccomp	_	_	잃/pvg+게/ecs
+11	만들고	만들+고	CCONJ	_	15	conj	_	_	만들/pvg+고/ecc
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	손발에	손발+에	ADV	_	15	obl	_	_	손발/ncn+에/jca
+14	동상을	동상+을	NOUN	_	15	obj	_	_	동상/ncn+을/jco
+15	일으키게	일으키+게	VERB	_	0	root	_	_	일으키/pvg+게/ecx
+16	될	되+ㄹ	AUX	_	15	aux	_	_	되/px+ㄹ/etm
+17	것이다	것+이+다	VERB	_	15	aux	_	_	것/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 과일을 멀리하는 대신 그들은 몸을 따뜻하게 해주는 먹거리가 무엇인가를 알고 있다 .
+1	과일을	과일+을	NOUN	_	2	obj	_	_	과일/ncn+을/jco
+2	멀리하는	멀리+하+는	VERB	_	3	acl	_	_	멀리/ncpa+하/xsv+는/etm
+3	대신	대신	NOUN	_	10	advmod	_	_	대신/ncn
+4	그들은	그+들+은	PRON	_	10	dislocated	_	_	그/npp+들/xsn+은/jxt
+5	몸을	몸+을	NOUN	_	6	obj	_	_	몸/ncn+을/jco
+6	따뜻하게	따뜻하+게	ADJ	_	8	amod	_	_	따뜻하/paa+게/ecx
+7	해주는	하+어+주+는	AUX	_	6	aux	_	_	하/px+어/ecx+주/px+는/etm
+8	먹거리가	먹거리+가	NOUN	_	9	nsubj	_	_	먹거리/ncn+가/jcs
+9	무엇인가를	무엇+이+ㄴ가+를	PRON	_	10	obj	_	_	무엇/npd+이/jp+ㄴ가/ecs+를/jco
+10	알고	알+고	VERB	_	0	root	_	_	알/pvg+고/ecx
+11	있다	있+다	AUX	_	10	aux	_	_	있/px+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그 먹거리를 먹어야 하는 것이다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	먹거리를	먹거리+를	NOUN	_	3	obj	_	_	먹거리/ncn+를/jco
+3	먹어야	먹+어야	VERB	_	0	root	_	_	먹/pvg+어야/ecx
+4	하는	하+는	AUX	_	3	aux	_	_	하/px+는/etm
+5	것이다	것+이+다	VERB	_	3	aux	_	_	것/nbn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 시베리아의 경우를 보자 .
+1	시베리아의	시베리아+의	PROPN	_	2	nmod	_	_	시베리아/nq+의/jcm
+2	경우를	경우+를	NOUN	_	3	obj	_	_	경우/ncn+를/jco
+3	보자	보+자	VERB	_	0	root	_	_	보/pvg+자/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 그곳에서 나는 식물은 고작 이끼 정도이다 .
+1	그곳에서	그곳+에서	ADV	_	2	advcl	_	_	그곳/npd+에서/jca
+2	나는	나+는	VERB	_	3	acl	_	_	나/pvg+는/etm
+3	식물은	식물+은	NOUN	_	6	dislocated	_	_	식물/ncn+은/jxt
+4	고작	고작	ADV	_	6	advmod	_	_	고작/mag
+5	이끼	이끼	NOUN	_	6	compound	_	_	이끼/ncn
+6	정도이다	정도+이+다	VERB	_	0	root	_	_	정도/ncn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 거기에다 바다표범이나 고래를 비롯한 바다에서 잡히는 온갖 물고기를 먹는다 .
+1	거기에다	거기+에다	ADV	_	9	advcl	_	_	거기/npd+에다/jca
+2	바다표범이나	바다표범+이나	CCONJ	_	3	conj	_	_	바다표범/ncn+이나/jcj
+3	고래를	고래+를	NOUN	_	4	obj	_	_	고래/ncn+를/jco
+4	비롯한	비롯+하+ㄴ	VERB	_	8	acl	_	_	비롯/ncpa+하/xsv+ㄴ/etm
+5	바다에서	바다+에서	ADV	_	6	advcl	_	_	바다/ncn+에서/jca
+6	잡히는	잡히+는	VERB	_	8	acl	_	_	잡히/pvg+는/etm
+7	온갖	온갖	ADJ	_	8	amod	_	_	온갖/mma
+8	물고기를	물고기+를	NOUN	_	9	obj	_	_	물고기/ncn+를/jco
+9	먹는다	먹+는다	VERB	_	0	root	_	_	먹/pvg+는다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그들은 그와 같은 육식생활을 하지 않으면 안 된다 .
+1	그들은	그+들+은	PRON	_	8	dislocated	_	_	그/npp+들/xsn+은/jxt
+2	그와	그+와	CCONJ	_	3	conj	_	_	그/npp+와/jct
+3	같은	같+ㄴ	ADJ	_	4	amod	_	_	같/paa+ㄴ/etm
+4	육식생활을	육식생활+을	NOUN	_	5	obj	_	_	육식생활/ncn+을/jco
+5	하지	하+지	VERB	_	8	ccomp	_	_	하/pvg+지/ecx
+6	않으면	않+으면	SCONJ	_	5	aux	_	_	않/px+으면/ecs
+7	안	안	ADV	_	8	advmod	_	_	안/mag
+8	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 추위를 이겨내는 데 있어서 육식은 절대적인 것이다 .
+1	추위를	추위+를	NOUN	_	2	obj	_	_	추위/ncn+를/jco
+2	이겨내는	이기+어+내+는	AUX	_	3	acl	_	_	이기/pvg+어/ecx+내/px+는/etm
+3	데	데	NOUN	_	4	mark	_	_	데/nbn
+4	있어서	있+어서	SCONJ	_	6	xcomp	_	_	있/paa+어서/ecs
+5	육식은	육식+은	NOUN	_	6	dislocated	_	_	육식/ncn+은/jxt
+6	절대적인	절대+적+이+ㄴ	VERB	_	0	root	_	_	절대/ncn+적/xsn+이/jp+ㄴ/etm
+7	것이다	것+이+다	VERB	_	6	aux	_	_	것/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 가령 인도나 인도네시아 등 열대지방에 사는 사람들이 이런 식생활을 한다면 어찌 될까 .
+1	가령	가령	ADV	_	10	advmod	_	_	가령/mag
+2	인도나	인도+나	CCONJ	_	3	conj	_	_	인도/nq+나/jcj
+3	인도네시아	인도네시아	PROPN	_	4	compound	_	_	인도네시아/nq
+4	등	등	NOUN	_	5	mark	_	_	등/nbn
+5	열대지방에	열대+지방+에	ADV	_	6	obl	_	_	열대/ncn+지방/ncn+에/jca
+6	사는	살+는	VERB	_	7	acl	_	_	살/pvg+는/etm
+7	사람들이	사람+들+이	NOUN	_	10	nsubj	_	_	사람/ncn+들/xsn+이/jcs
+8	이런	이런	DET	_	9	det	_	_	이런/mmd
+9	식생활을	식생활+을	NOUN	_	10	obj	_	_	식생활/ncn+을/jco
+10	한다면	하+ㄴ다면	SCONJ	_	12	ccomp	_	_	하/pvg+ㄴ다면/ecs
+11	어찌	어찌	ADV	_	12	advmod	_	_	어찌/mag
+12	될까	되+ㄹ까	VERB	_	0	root	_	_	되/pvg+ㄹ까/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그 부자연성 때문에 금방 신체에 변조를 일으키면서 병에 걸리고 말 것이다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	부자연성	부자연성	NOUN	_	3	compound	_	_	부자연성/ncn
+3	때문에	때문+에	ADV	_	9	obl	_	_	때문/nbn+에/jca
+4	금방	금방	ADV	_	7	advmod	_	_	금방/mag
+5	신체에	신체+에	ADV	_	7	obl	_	_	신체/ncn+에/jca
+6	변조를	변조+를	NOUN	_	7	obj	_	_	변조/ncpa+를/jco
+7	일으키면서	일으키+면서	SCONJ	_	9	ccomp	_	_	일으키/pvg+면서/ecs
+8	병에	병+에	ADV	_	9	obl	_	_	병/ncn+에/jca
+9	걸리고	걸리+고	VERB	_	0	root	_	_	걸리/pvg+고/ecx
+10	말	말+ㄹ	AUX	_	9	aux	_	_	말/px+ㄹ/etm
+11	것이다	것+이+다	VERB	_	9	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그는 남방의 식생활에 육류가 끼어서는 안 된다는 것을 알고 있었다 .
+1	그는	그+는	PRON	_	9	dislocated	_	_	그/npp+는/jxt
+2	남방의	남방+의	NOUN	_	3	nmod	_	_	남방/ncn+의/jcm
+3	식생활에	식생활+에	ADV	_	5	obl	_	_	식생활/ncn+에/jca
+4	육류가	육류+가	NOUN	_	5	nsubj	_	_	육류/ncn+가/jcs
+5	끼어서는	끼+어서+는	NOUN	_	7	ccomp	_	_	끼/pvg+어서/ecs+는/jxt
+6	안	안	ADV	_	7	advmod	_	_	안/mag
+7	된다는	되+ㄴ다는	VERB	_	8	acl	_	_	되/pvg+ㄴ다는/etm
+8	것을	것+을	NOUN	_	9	obj	_	_	것/nbn+을/jco
+9	알고	알+고	VERB	_	0	root	_	_	알/pvg+고/ecx
+10	있었다	있+었+다	AUX	_	9	aux	_	_	있/px+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그것들이 몸을 식혀주는 먹거리임은 두말할 것이 없다 .
+1	그것들이	그것+들+이	PRON	_	3	nsubj	_	_	그것/npd+들/xsn+이/jcs
+2	몸을	몸+을	NOUN	_	3	obj	_	_	몸/ncn+을/jco
+3	식혀주는	식히+어+주+는	AUX	_	4	acl	_	_	식히/pvg+어/ecx+주/px+는/etm
+4	먹거리임은	먹거리+이+ㅁ+은	NOUN	_	7	dislocated	_	_	먹거리/ncn+이/jp+ㅁ/etn+은/jxt
+5	두말할	두말+하+ㄹ	VERB	_	6	acl	_	_	두말/ncpa+하/xsv+ㄹ/etm
+6	것이	것+이	NOUN	_	7	nsubj	_	_	것/nbn+이/jcs
+7	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 현재 인도에서 불교는 거의 없어진 상태에 있다 .
+1	현재	현재	NOUN	_	5	dep	_	_	현재/ncn
+2	인도에서	인도+에서	ADV	_	5	advcl	_	_	인도/nq+에서/jca
+3	불교는	불교+는	NOUN	_	5	dislocated	_	_	불교/ncn+는/jxt
+4	거의	거의	ADV	_	5	advmod	_	_	거의/mag
+5	없어진	없+어+지+ㄴ	AUX	_	6	amod	_	_	없/paa+어/ecx+지/px+ㄴ/etm
+6	상태에	상태+에	ADV	_	7	obl	_	_	상태/ncn+에/jca
+7	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 우리도 흔히 그런 현상을 목격하게 되기 때문이다 .
+1	우리도	우리+도	ADV	_	5	advcl	_	_	우리/npp+도/jxc
+2	흔히	흔히	ADV	_	5	advmod	_	_	흔히/mag
+3	그런	그런	DET	_	4	det	_	_	그런/mmd
+4	현상을	현상+을	NOUN	_	5	obj	_	_	현상/ncn+을/jco
+5	목격하게	목격+하+게	VERB	_	0	root	_	_	목격/ncpa+하/xsv+게/ecx
+6	되기	되+기	AUX	_	5	aux	_	_	되/px+기/etn
+7	때문이다	때문+이+다	VERB	_	5	aux	_	_	때문/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 가령 털이 부드러운 아라비아산 말을 우리 나라에 들여왔다 치자 .
+1	가령	가령	ADV	_	9	advmod	_	_	가령/mag
+2	털이	털+이	NOUN	_	3	nsubj	_	_	털/ncn+이/jcs
+3	부드러운	부드럽+ㄴ	ADJ	_	5	amod	_	_	부드럽/paa+ㄴ/etm
+4	아라비아산	아라비아산	NOUN	_	5	compound	_	_	아라비아산/ncn
+5	말을	말+을	NOUN	_	8	obj	_	_	말/ncn+을/jco
+6	우리	우리	PRON	_	7	compound	_	_	우리/npp
+7	나라에	나라+에	ADV	_	8	obl	_	_	나라/ncn+에/jca
+8	들여왔다	들이+어+오+았+다	SCONJ	_	9	ccomp	_	_	들이/pvg+어/ecx+오/px+았/ep+다/ecs
+9	치자	치+자	VERB	_	0	root	_	_	치/pvg+자/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 오스트레일리아의 면양이나 네덜란드의 홀스타인도 그렇다 .
+1	오스트레일리아의	오스트레일리아+의	PROPN	_	2	nmod	_	_	오스트레일리아/nq+의/jcm
+2	면양이나	면양+이나	CCONJ	_	4	conj	_	_	면양/ncn+이나/jcj
+3	네덜란드의	네덜란드+의	PROPN	_	4	nmod	_	_	네덜란드/nq+의/jcm
+4	홀스타인도	홀스타인+도	ADV	_	5	advcl	_	_	홀스타인/ncn+도/jxc
+5	그렇다	그렇+다	VERB	_	0	root	_	_	그렇/pad+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 한국이란 나라와 프랑스 , 브라질 같은 나라의 환경은 제각기 다르다 .
+1	한국이란	한국+이+란	VERB	_	2	acl	_	_	한국/nq+이/jp+란/etm
+2	나라와	나라+와	CCONJ	_	7	conj	_	_	나라/ncn+와/jcj
+3	프랑스	프랑스	PROPN	_	5	conj	_	_	프랑스/nq
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	브라질	브라질	PROPN	_	6	dep	_	_	브라질/nq
+6	같은	같+ㄴ	ADJ	_	7	amod	_	_	같/paa+ㄴ/etm
+7	나라의	나라+의	NOUN	_	8	nmod	_	_	나라/ncn+의/jcm
+8	환경은	환경+은	NOUN	_	10	dislocated	_	_	환경/ncn+은/jxt
+9	제각기	제각기	ADV	_	10	advmod	_	_	제각기/mag
+10	다르다	다르+다	ADJ	_	0	root	_	_	다르/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 대만에서 온 바나나를 먹는다든지 열대지방에서 들여온 파인애플이나 망고 따위를 먹는 것은 환경에 맞지 않는 식생활이다 .
+1	대만에서	대만+에서	ADV	_	2	advcl	_	_	대만/nq+에서/jca
+2	온	오+ㄴ	VERB	_	3	acl	_	_	오/pvg+ㄴ/etm
+3	바나나를	바나나+를	NOUN	_	4	obj	_	_	바나나/ncn+를/jco
+4	먹는다든지	먹+는다든지	CCONJ	_	10	conj	_	_	먹/pvg+는다든지/ecc
+5	열대지방에서	열대+지방+에서	ADV	_	6	advcl	_	_	열대/ncn+지방/ncn+에서/jca
+6	들여온	들이+어+오+ㄴ	AUX	_	8	acl	_	_	들이/pvg+어/ecx+오/px+ㄴ/etm
+7	파인애플이나	파인애플+이나	CCONJ	_	8	conj	_	_	파인애플/ncn+이나/jcj
+8	망고	망고	NOUN	_	9	compound	_	_	망고/ncn
+9	따위를	따위+를	NOUN	_	10	obj	_	_	따위/nbn+를/jco
+10	먹는	먹+는	VERB	_	11	acl	_	_	먹/pvg+는/etm
+11	것은	것+은	NOUN	_	13	dislocated	_	_	것/nbn+은/jxt
+12	환경에	환경+에	ADV	_	13	obl	_	_	환경/ncn+에/jca
+13	맞지	맞+지	VERB	_	15	ccomp	_	_	맞/pvg+지/ecx
+14	않는	않+는	AUX	_	13	aux	_	_	않/px+는/etm
+15	식생활이다	식생활+이+다	VERB	_	0	root	_	_	식생활/ncn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 예컨대 바나나 , 파인애플 등을 많이 먹으면 겨울에 동상에 잘 걸리는 체질이 되며 추위를 타게 된다 .
+1	예컨대	예컨대	CCONJ	_	15	cc	_	_	예컨대/maj
+2	바나나	바나나	NOUN	_	4	conj	_	_	바나나/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	파인애플	파인애플	NOUN	_	5	compound	_	_	파인애플/ncn
+5	등을	등+을	NOUN	_	7	obj	_	_	등/nbn+을/jco
+6	많이	많이	ADV	_	7	advmod	_	_	많이/mag
+7	먹으면	먹+으면	SCONJ	_	15	ccomp	_	_	먹/pvg+으면/ecs
+8	겨울에	겨울+에	ADV	_	11	obl	_	_	겨울/ncn+에/jca
+9	동상에	동상+에	ADV	_	11	advcl	_	_	동상/ncn+에/jxc
+10	잘	잘	ADV	_	11	advmod	_	_	잘/mag
+11	걸리는	걸리+는	VERB	_	12	acl	_	_	걸리/pvg+는/etm
+12	체질이	체질+이	NOUN	_	13	csubj	_	_	체질/ncn+이/jcc
+13	되며	되+며	CCONJ	_	15	conj	_	_	되/pvg+며/ecc
+14	추위를	추위+를	NOUN	_	15	obj	_	_	추위/ncn+를/jco
+15	타게	타+게	VERB	_	0	root	_	_	타/pvg+게/ecx
+16	된다	되+ㄴ다	AUX	_	15	aux	_	_	되/px+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 냉이 , 달래가 나고 조금 있으면 죽순이 돋아난다 .
+1	냉이	냉이	NOUN	_	3	conj	_	_	냉이/ncn
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	달래가	달래+가	NOUN	_	4	nsubj	_	_	달래/ncn+가/jcs
+4	나고	나+고	CCONJ	_	8	conj	_	_	나/pvg+고/ecc
+5	조금	조금	ADV	_	6	advmod	_	_	조금/mag
+6	있으면	있+으면	SCONJ	_	8	xcomp	_	_	있/paa+으면/ecs
+7	죽순이	죽순+이	NOUN	_	8	nsubj	_	_	죽순/ncn+이/jcs
+8	돋아난다	돋아나+ㄴ다	VERB	_	0	root	_	_	돋아나/pvg+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 여름이 되면 양파와 호박 , 오이가 나온다 .
+1	여름이	여름+이	NOUN	_	2	csubj	_	_	여름/ncn+이/jcc
+2	되면	되+면	SCONJ	_	7	ccomp	_	_	되/pvg+면/ecs
+3	양파와	양파+와	CCONJ	_	4	conj	_	_	양파/ncn+와/jcj
+4	호박	호박	NOUN	_	6	conj	_	_	호박/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	오이가	오이+가	NOUN	_	7	nsubj	_	_	오이/ncn+가/jcs
+7	나온다	나오+ㄴ다	VERB	_	0	root	_	_	나오/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이와 같은 여름 야채는 몸을 식혀 준다 .
+1	이와	이+와	CCONJ	_	2	conj	_	_	이/npd+와/jct
+2	같은	같+ㄴ	ADJ	_	4	amod	_	_	같/paa+ㄴ/etm
+3	여름	여름	NOUN	_	4	compound	_	_	여름/ncn
+4	야채는	야채+는	NOUN	_	6	dislocated	_	_	야채/ncn+는/jxt
+5	몸을	몸+을	NOUN	_	6	obj	_	_	몸/ncn+을/jco
+6	식혀	식히+어	VERB	_	0	root	_	_	식히/pvg+어/ecx
+7	준다	주+ㄴ다	AUX	_	6	aux	_	_	주/px+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 설이 되면 떡을 해먹는다 .
+1	설이	설+이	NOUN	_	2	csubj	_	_	설/ncn+이/jcc
+2	되면	되+면	SCONJ	_	4	ccomp	_	_	되/pvg+면/ecs
+3	떡을	떡+을	NOUN	_	4	obj	_	_	떡/ncn+을/jco
+4	해먹는다	해먹+는다	VERB	_	0	root	_	_	해먹/pvg+는다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 이것 또한 우리 조상들의 삶의 지혜이다 .
+1	이것	이것	PRON	_	6	advmod	_	_	이것/npd
+2	또한	또한	ADV	_	6	advmod	_	_	또한/mag
+3	우리	우리	PRON	_	4	compound	_	_	우리/npp
+4	조상들의	조상+들+의	NOUN	_	6	nmod	_	_	조상/ncn+들/xsn+의/jcm
+5	삶의	삶+의	NOUN	_	6	nmod	_	_	삶/ncn+의/jcm
+6	지혜이다	지혜+이+다	VERB	_	0	root	_	_	지혜/ncn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 찹쌀로 떡을 빚기도 하지만 팥과 함께 찰밥을 만들어 먹기도 한다 .
+1	찹쌀로	찹쌀+로	ADV	_	3	advcl	_	_	찹쌀/ncn+로/jca
+2	떡을	떡+을	NOUN	_	3	obj	_	_	떡/ncn+을/jco
+3	빚기도	빚+기+도	ADV	_	9	ccomp	_	_	빚/pvg+기/etn+도/jxc
+4	하지만	하+지만	SCONJ	_	3	aux	_	_	하/px+지만/ecs
+5	팥과	팥+과	CCONJ	_	6	conj	_	_	팥/ncn+과/jct
+6	함께	함께	ADV	_	9	advmod	_	_	함께/mag
+7	찰밥을	찰밥+을	NOUN	_	9	obj	_	_	찰밥/ncn+을/jco
+8	만들어	만들+어	SCONJ	_	9	ccomp	_	_	만들/pvg+어/ecs
+9	먹기도	먹+기+도	ADV	_	0	root	_	_	먹/pvg+기/etn+도/jxc
+10	한다	하+ㄴ다	AUX	_	9	aux	_	_	하/px+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 떡은 그런 힘을 갖는다 .
+1	떡은	떡+은	NOUN	_	4	dislocated	_	_	떡/ncn+은/jxt
+2	그런	그런	DET	_	3	det	_	_	그런/mmd
+3	힘을	힘+을	NOUN	_	4	obj	_	_	힘/ncn+을/jco
+4	갖는다	갖+는다	VERB	_	0	root	_	_	갖/pvg+는다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 손이 트거나 했을 때도 날마다 찰떡을 먹으면 낫고 , 동상 같은 것을 예방하는 체질을 만들어 주기도 한다 .
+1	손이	손+이	NOUN	_	2	nsubj	_	_	손/ncn+이/jcs
+2	트거나	트+거나	CCONJ	_	3	conj	_	_	트/pvg+거나/ecc
+3	했을	하+었+ㄹ	VERB	_	4	acl	_	_	하/pvg+었/ep+ㄹ/etm
+4	때도	때+도	ADV	_	8	advcl	_	_	때/ncn+도/jxc
+5	날마다	날마다	ADV	_	8	advmod	_	_	날마다/mag
+6	찰떡을	찰떡+을	NOUN	_	7	obj	_	_	찰떡/ncn+을/jco
+7	먹으면	먹+으면	SCONJ	_	8	ccomp	_	_	먹/pvg+으면/ecs
+8	낫고	낫+고	CCONJ	_	15	conj	_	_	낫/pvg+고/ecc
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	동상	동상	NOUN	_	11	dep	_	_	동상/ncn
+11	같은	같+ㄴ	ADJ	_	12	amod	_	_	같/paa+ㄴ/etm
+12	것을	것+을	NOUN	_	13	obj	_	_	것/nbn+을/jco
+13	예방하는	예방+하+는	VERB	_	14	acl	_	_	예방/ncpa+하/xsv+는/etm
+14	체질을	체질+을	NOUN	_	15	obj	_	_	체질/ncn+을/jco
+15	만들어	만들+어	VERB	_	0	root	_	_	만들/pvg+어/ecx
+16	주기도	주+기+도	ADV	_	15	aux	_	_	주/px+기/etn+도/jxc
+17	한다	하+ㄴ다	AUX	_	15	aux	_	_	하/px+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 찰떡은 내한성 먹거리이기 때문이다 .
+1	찰떡은	찰떡+은	NOUN	_	3	dislocated	_	_	찰떡/ncn+은/jxt
+2	내한성	내한성	NOUN	_	3	compound	_	_	내한성/ncn
+3	먹거리이기	먹거리+이+기	VERB	_	0	root	_	_	먹거리/ncn+이/jp+기/etn
+4	때문이다	때문+이+다	VERB	_	3	aux	_	_	때문/nbn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 찹쌀을 절구에 넣어 떡메로 쿵쿵 찧을 때 생기는 압력 에너지가 몸을 따뜻하게 해주는 것이다 .
+1	찹쌀을	찹쌀+을	NOUN	_	3	obj	_	_	찹쌀/ncn+을/jco
+2	절구에	절구+에	ADV	_	3	obl	_	_	절구/ncn+에/jca
+3	넣어	넣+어	SCONJ	_	6	ccomp	_	_	넣/pvg+어/ecs
+4	떡메로	떡메+로	ADV	_	6	advcl	_	_	떡메/ncn+로/jca
+5	쿵쿵	쿵쿵	ADV	_	6	advmod	_	_	쿵쿵/mag
+6	찧을	찧+을	VERB	_	7	acl	_	_	찧/pvg+을/etm
+7	때	때	NOUN	_	8	dep	_	_	때/ncn
+8	생기는	생기+는	VERB	_	10	acl	_	_	생기/pvg+는/etm
+9	압력	압력	NOUN	_	10	compound	_	_	압력/ncn
+10	에너지가	에너지+가	NOUN	_	12	nsubj	_	_	에너지/ncn+가/jcs
+11	몸을	몸+을	NOUN	_	12	obj	_	_	몸/ncn+을/jco
+12	따뜻하게	따뜻하+게	ADJ	_	0	root	_	_	따뜻하/paa+게/ecx
+13	해주는	하+어+주+는	AUX	_	12	aux	_	_	하/px+어/ecx+주/px+는/etm
+14	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 추운 계절과 어울리기 때문이다 .
+1	추운	춥+ㄴ	ADJ	_	2	amod	_	_	춥/paa+ㄴ/etm
+2	계절과	계절+과	CCONJ	_	3	conj	_	_	계절/ncn+과/jct
+3	어울리기	어울리+기	VERB	_	0	root	_	_	어울리/pvg+기/etn
+4	때문이다	때문+이+다	VERB	_	3	aux	_	_	때문/nbn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 이처럼 계절에 맞는 음식을 중요시해야 한다 .
+1	이처럼	이+처럼	ADV	_	5	advcl	_	_	이/npd+처럼/jca
+2	계절에	계절+에	ADV	_	3	obl	_	_	계절/ncn+에/jca
+3	맞는	맞+는	VERB	_	4	acl	_	_	맞/pvg+는/etm
+4	음식을	음식+을	NOUN	_	5	obj	_	_	음식/ncn+을/jco
+5	중요시해야	중요시+하+어야	VERB	_	0	root	_	_	중요시/ncpa+하/xsv+어야/ecx
+6	한다	하+ㄴ다	AUX	_	5	aux	_	_	하/px+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 제 철에 난 것만이 대자연의 기를 듬뿍 지니고 있으며 , 그것이 우리들의 피와 살이 되기 때문이다 .
+1	제	제	ADJ	_	2	amod	_	_	제/mma
+2	철에	철+에	ADV	_	3	obl	_	_	철/ncn+에/jca
+3	난	나+ㄴ	VERB	_	4	acl	_	_	나/pvg+ㄴ/etm
+4	것만이	것+만+이	NOUN	_	8	nsubj	_	_	것/nbn+만/jxc+이/jcs
+5	대자연의	대자연+의	NOUN	_	6	nmod	_	_	대자연/ncn+의/jcm
+6	기를	기+를	NOUN	_	8	obj	_	_	기/ncn+를/jco
+7	듬뿍	듬뿍	ADV	_	8	advmod	_	_	듬뿍/mag
+8	지니고	지니+고	VERB	_	15	ccomp	_	_	지니/pvg+고/ecx
+9	있으며	있+으며	SCONJ	_	8	aux	_	_	있/px+으며/ecs
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	그것이	그것+이	PRON	_	15	nsubj	_	_	그것/npd+이/jcs
+12	우리들의	우리+들+의	PRON	_	14	nmod	_	_	우리/npp+들/xsn+의/jcm
+13	피와	피+와	CCONJ	_	14	conj	_	_	피/ncn+와/jcj
+14	살이	살+이	NOUN	_	15	csubj	_	_	살/ncn+이/jcc
+15	되기	되+기	VERB	_	0	root	_	_	되/pvg+기/etn
+16	때문이다	때문+이+다	VERB	_	15	aux	_	_	때문/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그렇건만 지금은 온실재배니 비닐하우스니 하는 것들 때문에 계절식이라는 것이 없어지고 말았다 .
+1	그렇건만	그렇건만	CCONJ	_	10	cc	_	_	그렇건만/maj
+2	지금은	지금+은	NOUN	_	10	dislocated	_	_	지금/ncn+은/jxt
+3	온실재배니	온실재배+니	CCONJ	_	4	conj	_	_	온실재배/ncn+니/jcj
+4	비닐하우스니	비닐하우스+니	ADV	_	5	advcl	_	_	비닐하우스/ncn+니/jca
+5	하는	하+는	VERB	_	6	acl	_	_	하/pvg+는/etm
+6	것들	것+들	NOUN	_	7	compound	_	_	것/nbn+들/xsn
+7	때문에	때문+에	ADV	_	10	obl	_	_	때문/nbn+에/jca
+8	계절식이라는	계절식+이+라는	VERB	_	9	acl	_	_	계절식/ncn+이/jp+라는/etm
+9	것이	것+이	NOUN	_	10	nsubj	_	_	것/nbn+이/jcs
+10	없어지고	없+어+지+고	AUX	_	0	root	_	_	없/paa+어/ecx+지/px+고/ecx
+11	말았다	말+았+다	AUX	_	10	aux	_	_	말/px+았/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 북녘땅에서는 여름에나 볼 수 있었던 것들을 추운 계절에 보았기 때문이다 .
+1	북녘땅에서는	북녘땅+에서+는	NOUN	_	3	dislocated	_	_	북녘땅/ncn+에서/jca+는/jxt
+2	여름에나	여름+에+나	ADV	_	3	advcl	_	_	여름/ncn+에/jca+나/jxc
+3	볼	보+ㄹ	VERB	_	6	acl	_	_	보/pvg+ㄹ/etm
+4	수	수	NOUN	_	5	fixed	_	_	수/nbn
+5	있었던	있+었+던	ADJ	_	3	aux	_	_	있/paa+었/ep+던/etm
+6	것들을	것+들+을	NOUN	_	9	obj	_	_	것/nbn+들/xsn+을/jco
+7	추운	춥+ㄴ	ADJ	_	8	amod	_	_	춥/paa+ㄴ/etm
+8	계절에	계절+에	ADV	_	9	obl	_	_	계절/ncn+에/jca
+9	보았기	보+았+기	VERB	_	0	root	_	_	보/pvg+았/ep+기/etn
+10	때문이다	때문+이+다	VERB	_	9	aux	_	_	때문/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 한 학자가 화학비료와 농약으로 재배한 가지 .
+1	한	한	NUM	_	2	nummod	_	_	한/nnc
+2	학자가	학자+가	NOUN	_	5	nsubj	_	_	학자/ncn+가/jcs
+3	화학비료와	화학+비료+와	CCONJ	_	4	conj	_	_	화학/ncn+비료/ncn+와/jcj
+4	농약으로	농약+으로	ADV	_	5	advcl	_	_	농약/ncn+으로/jca
+5	재배한	재배+하+ㄴ	VERB	_	6	acl	_	_	재배/ncpa+하/xsv+ㄴ/etm
+6	가지	가지	NOUN	_	0	root	_	_	가지/ncn
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 토마토와 자연재배한 가지 .
+1	토마토와	토마토+와	CCONJ	_	3	conj	_	_	토마토/ncn+와/jcj
+2	자연재배한	자연+재배+하+ㄴ	VERB	_	3	acl	_	_	자연/ncps+재배/ncpa+하/xsv+ㄴ/etm
+3	가지	가지	NOUN	_	0	root	_	_	가지/ncn
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 이 한 가지 사실만으로도 그 차이를 분명하게 알 수 있는 것이다 .
+1	이	이	DET	_	4	det	_	_	이/mmd
+2	한	한	NUM	_	3	nummod	_	_	한/nnc
+3	가지	가지	NOUN	_	4	compound	_	_	가지/nbu
+4	사실만으로도	사실+만+으로+도	ADV	_	8	advcl	_	_	사실/ncn+만/jxc+으로/jca+도/jxc
+5	그	그	DET	_	6	det	_	_	그/mmd
+6	차이를	차이+를	NOUN	_	8	obj	_	_	차이/ncn+를/jco
+7	분명하게	분명+하+게	SCONJ	_	8	ccomp	_	_	분명/ncpa+하/xsv+게/ecs
+8	알	알+ㄹ	VERB	_	0	root	_	_	알/pvg+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	있는	있+는	ADJ	_	8	aux	_	_	있/paa+는/etm
+11	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 전통 먹거리를 중시해야 한다 .
+1	전통	전통	NOUN	_	2	compound	_	_	전통/ncn
+2	먹거리를	먹거리+를	NOUN	_	3	obj	_	_	먹거리/ncn+를/jco
+3	중시해야	중시+하+어야	VERB	_	0	root	_	_	중시/ncpa+하/xsv+어야/ecx
+4	한다	하+ㄴ다	AUX	_	3	aux	_	_	하/px+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 전통이란 예로부터 그 고장에 전해 내려오는 좋은 습관을 이른다 .
+1	전통이란	전통+이란	ADV	_	9	advcl	_	_	전통/ncn+이란/jxc
+2	예로부터	예+로+부터	ADV	_	6	advcl	_	_	예/ncn+로/jca+부터/jxc
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	고장에	고장+에	ADV	_	6	obl	_	_	고장/ncn+에/jca
+5	전해	전하+어	SCONJ	_	6	ccomp	_	_	전하/pvg+어/ecs
+6	내려오는	내려오+는	VERB	_	8	acl	_	_	내려오/pvg+는/etm
+7	좋은	좋+ㄴ	ADJ	_	8	amod	_	_	좋/paa+ㄴ/etm
+8	습관을	습관+을	NOUN	_	9	obj	_	_	습관/ncn+을/jco
+9	이른다	이르+ㄴ다	VERB	_	0	root	_	_	이르/pvg+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 우리의 전통음식으로는 장 , 된장 , 고추장 , 청국장 , 김치 등등을 들 수 있다 .
+1	우리의	우리+의	PRON	_	2	nmod	_	_	우리/npp+의/jcm
+2	전통음식으로는	전통+음식+으로+는	NOUN	_	13	dislocated	_	_	전통/ncn+음식/ncn+으로/jca+는/jxt
+3	장	장	NOUN	_	5	conj	_	_	장/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	된장	된장	NOUN	_	7	conj	_	_	된장/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	고추장	고추장	NOUN	_	9	conj	_	_	고추장/ncn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	청국장	청국장	NOUN	_	11	conj	_	_	청국장/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	김치	김치	NOUN	_	12	compound	_	_	김치/ncn
+12	등등을	등등+을	NOUN	_	13	obj	_	_	등등/nbn+을/jco
+13	들	들+ㄹ	VERB	_	0	root	_	_	들/pvg+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있다	있+다	ADJ	_	13	aux	_	_	있/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 김치만 해도 그렇다 .
+1	김치만	김치+만	ADV	_	2	advcl	_	_	김치/ncn+만/jxc
+2	해도	하+어도	SCONJ	_	3	conj	_	_	하/pvg+어도/ecs
+3	그렇다	그렇+다	VERB	_	0	root	_	_	그렇/pad+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 아무튼 영양을 고루 갖춘 발효식품으로서 김치는 한국사람의 대명사처럼 돼 버렸다 .
+1	아무튼	아무튼	ADV	_	9	advmod	_	_	아무튼/mag
+2	영양을	영양+을	NOUN	_	4	obj	_	_	영양/ncn+을/jco
+3	고루	고루	ADV	_	4	advmod	_	_	고루/mag
+4	갖춘	갖추+ㄴ	VERB	_	5	acl	_	_	갖추/pvg+ㄴ/etm
+5	발효식품으로서	발효식품+으로서	ADV	_	9	advcl	_	_	발효식품/ncn+으로서/jca
+6	김치는	김치+는	NOUN	_	9	dislocated	_	_	김치/ncn+는/jxt
+7	한국사람의	한국+사람+의	PROPN	_	8	nmod	_	_	한국/nq+사람/ncn+의/jcm
+8	대명사처럼	대명사+처럼	ADV	_	9	advcl	_	_	대명사/ncn+처럼/jca
+9	돼	되+어	VERB	_	0	root	_	_	되/pvg+어/ecx
+10	버렸다	버리+었+다	AUX	_	9	aux	_	_	버리/px+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 장이나 된장은 일본에서 중시되는 전통식품이기도 하다 .
+1	장이나	장+이나	CCONJ	_	2	conj	_	_	장/ncn+이나/jcj
+2	된장은	된장+은	NOUN	_	4	dislocated	_	_	된장/ncn+은/jxt
+3	일본에서	일본+에서	ADV	_	4	advcl	_	_	일본/nq+에서/jca
+4	중시되는	중시+되+는	VERB	_	5	ccomp	_	_	중시/ncpa+되/xsv+는/etm
+5	전통식품이기도	전통+식품+이+기+도	ADV	_	0	root	_	_	전통/ncn+식품/ncn+이/jp+기/etn+도/jxc
+6	하다	하+다	AUX	_	5	aux	_	_	하/px+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 다꾸앙은 일제시대를 거치면서 우리와 친숙해져 있는 식품이기도 하다 .
+1	다꾸앙은	다꾸앙+은	NOUN	_	7	dislocated	_	_	다꾸앙/ncn+은/jxt
+2	일제시대를	일제+시대+를	NOUN	_	3	obj	_	_	일제/ncn+시대/ncn+를/jco
+3	거치면서	거치+면서	SCONJ	_	5	conj	_	_	거치/pvg+면서/ecs
+4	우리와	우리+와	CCONJ	_	5	conj	_	_	우리/npp+와/jct
+5	친숙해져	친숙+하+어+지+어	AUX	_	7	amod	_	_	친숙/ncps+하/xsm+어/ecx+지/px+어/ecx
+6	있는	있+는	AUX	_	5	aux	_	_	있/px+는/etm
+7	식품이기도	식품+이+기+도	ADV	_	0	root	_	_	식품/ncn+이/jp+기/etn+도/jxc
+8	하다	하+다	AUX	_	7	aux	_	_	하/px+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이 우메보시는 언제부터 일본인들의 식탁에 오르게 되었는지는 분명치 않다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	우메보시는	우메보시+는	NOUN	_	6	dislocated	_	_	우메보시/ncn+는/jxt
+3	언제부터	언제+부터	ADV	_	6	advcl	_	_	언제/npd+부터/jxc
+4	일본인들의	일본인+들+의	PROPN	_	5	nmod	_	_	일본인/nq+들/xsn+의/jcm
+5	식탁에	식탁+에	ADV	_	6	obl	_	_	식탁/ncn+에/jca
+6	오르게	오르+게	VERB	_	8	dep	_	_	오르/pvg+게/ecx
+7	되었는지는	되+었+는지+는	NOUN	_	6	aux	_	_	되/px+었/ep+는지/ecs+는/jxt
+8	분명치	분명+하+지	VERB	_	0	root	_	_	분명/ncps+하/xsm+지/ecx
+9	않다	않+다	AUX	_	8	aux	_	_	않/px+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그것은 우리 김치의 경우도 마찬가지다 .
+1	그것은	그것+은	PRON	_	5	dislocated	_	_	그것/npd+은/jxt
+2	우리	우리	PRON	_	3	compound	_	_	우리/npp
+3	김치의	김치+의	NOUN	_	4	nmod	_	_	김치/ncn+의/jcm
+4	경우도	경우+도	ADV	_	5	advcl	_	_	경우/ncn+도/jxc
+5	마찬가지다	마찬가지+이+다	VERB	_	0	root	_	_	마찬가지/ncn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 아무튼 그 약효가 대단하다는 것을 일본인들은 알고 있는 것이다 .
+1	아무튼	아무튼	ADV	_	7	advmod	_	_	아무튼/mag
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	약효가	약효+가	NOUN	_	4	nsubj	_	_	약효/ncn+가/jcs
+4	대단하다는	대단+하+다는	VERB	_	5	amod	_	_	대단/ncps+하/xsm+다는/etm
+5	것을	것+을	NOUN	_	7	obj	_	_	것/nbn+을/jco
+6	일본인들은	일본인+들+은	PROPN	_	7	dislocated	_	_	일본인/nq+들/xsn+은/jxt
+7	알고	알+고	VERB	_	0	root	_	_	알/pvg+고/ecx
+8	있는	있+는	AUX	_	7	aux	_	_	있/px+는/etm
+9	것이다	것+이+다	VERB	_	7	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 위장의 컨디션이 나빴다가도 우메보시를 먹으면 금방 회복된다 .
+1	위장의	위장+의	NOUN	_	2	nmod	_	_	위장/ncn+의/jcm
+2	컨디션이	컨디션+이	NOUN	_	3	nsubj	_	_	컨디션/ncn+이/jcs
+3	나빴다가도	나쁘+았+다가도	SCONJ	_	5	xcomp	_	_	나쁘/paa+았/ep+다가도/ecs
+4	우메보시를	우메보시+를	NOUN	_	5	obj	_	_	우메보시/ncn+를/jco
+5	먹으면	먹+으면	SCONJ	_	7	ccomp	_	_	먹/pvg+으면/ecs
+6	금방	금방	ADV	_	7	advmod	_	_	금방/mag
+7	회복된다	회복+되+ㄴ다	VERB	_	0	root	_	_	회복/ncpa+되/xsv+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 앞에서 말한 바와 같이 , 전염병이 유행할 경우에는 질병에 대항할 수 있는 체질을 만들어 준다 .
+1	앞에서	앞+에서	ADV	_	2	advcl	_	_	앞/ncn+에서/jca
+2	말한	말하+ㄴ	VERB	_	3	acl	_	_	말하/pvg+ㄴ/etm
+3	바와	바+와	CCONJ	_	4	conj	_	_	바/nbn+와/jct
+4	같이	같+이	SCONJ	_	14	xcomp	_	_	같/paa+이/ecs
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	전염병이	전염병+이	NOUN	_	7	nsubj	_	_	전염병/ncn+이/jcs
+7	유행할	유행+하+ㄹ	VERB	_	8	acl	_	_	유행/ncpa+하/xsv+ㄹ/etm
+8	경우에는	경우+에+는	NOUN	_	10	dislocated	_	_	경우/ncn+에/jca+는/jxt
+9	질병에	질병+에	ADV	_	10	obl	_	_	질병/ncn+에/jca
+10	대항할	대항+하+ㄹ	VERB	_	13	acl	_	_	대항/ncpa+하/xsv+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있는	있+는	ADJ	_	10	aux	_	_	있/paa+는/etm
+13	체질을	체질+을	NOUN	_	14	obj	_	_	체질/ncn+을/jco
+14	만들어	만들+어	VERB	_	0	root	_	_	만들/pvg+어/ecx
+15	준다	주+ㄴ다	AUX	_	14	aux	_	_	주/px+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 예로부터 우엉은 일본 어느 지방에서나 상용되는 식품이다 .
+1	예로부터	예+로+부터	ADV	_	6	advcl	_	_	예/ncn+로/jca+부터/jxc
+2	우엉은	우엉+은	NOUN	_	6	dislocated	_	_	우엉/ncn+은/jxt
+3	일본	일본	PROPN	_	5	compound	_	_	일본/nq
+4	어느	어느	DET	_	5	det	_	_	어느/mmd
+5	지방에서나	지방+에서+나	ADV	_	6	advcl	_	_	지방/ncn+에서/jca+나/jxc
+6	상용되는	상용+되+는	VERB	_	7	ccomp	_	_	상용/ncpa+되/xsv+는/etm
+7	식품이다	식품+이+다	VERB	_	0	root	_	_	식품/ncn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 전통음식을 중시하지 않으면 안 되는 까닭은 과학자나 영양학자의 분석 방법으로는 알 수 없는 이러한 효능 때문이다 .
+1	전통음식을	전통+음식+을	NOUN	_	2	obj	_	_	전통/ncn+음식/ncn+을/jco
+2	중시하지	중시+하+지	VERB	_	5	ccomp	_	_	중시/ncpa+하/xsv+지/ecx
+3	않으면	않+으면	SCONJ	_	2	aux	_	_	않/px+으면/ecs
+4	안	안	ADV	_	5	advmod	_	_	안/mag
+5	되는	되+는	VERB	_	6	acl	_	_	되/pvg+는/etm
+6	까닭은	까닭+은	NOUN	_	16	dislocated	_	_	까닭/ncn+은/jxt
+7	과학자나	과학자+나	CCONJ	_	8	conj	_	_	과학자/ncn+나/jcj
+8	영양학자의	영양+학자+의	NOUN	_	10	nmod	_	_	영양/ncn+학자/ncn+의/jcm
+9	분석	분석	NOUN	_	10	compound	_	_	분석/ncpa
+10	방법으로는	방법+으로+는	NOUN	_	11	dislocated	_	_	방법/ncn+으로/jca+는/jxt
+11	알	알+ㄹ	VERB	_	15	acl	_	_	알/pvg+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	없는	없+는	ADJ	_	11	aux	_	_	없/paa+는/etm
+14	이러한	이러하+ㄴ	VERB	_	15	amod	_	_	이러하/pad+ㄴ/etm
+15	효능	효능	NOUN	_	16	compound	_	_	효능/ncn
+16	때문이다	때문+이+다	VERB	_	0	root	_	_	때문/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그것은 외국에서 건너온 새로운 야채나 과일 등이다 .
+1	그것은	그것+은	PRON	_	7	dislocated	_	_	그것/npd+은/jxt
+2	외국에서	외국+에서	ADV	_	3	advcl	_	_	외국/ncn+에서/jca
+3	건너온	건너오+ㄴ	VERB	_	6	acl	_	_	건너오/pvg+ㄴ/etm
+4	새로운	새롭+ㄴ	ADJ	_	6	amod	_	_	새롭/paa+ㄴ/etm
+5	야채나	야채+나	CCONJ	_	6	conj	_	_	야채/ncn+나/jcj
+6	과일	과일	NOUN	_	7	compound	_	_	과일/ncn
+7	등이다	등+이+다	VERB	_	0	root	_	_	등/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 정식 학자들은 이 같은 식품에 대해 크게 반감을 나타낸다 .
+1	정식	정식	NOUN	_	2	compound	_	_	정식/ncn
+2	학자들은	학자+들+은	NOUN	_	9	dislocated	_	_	학자/ncn+들/xsn+은/jxt
+3	이	이	PRON	_	4	dep	_	_	이/npd
+4	같은	같+ㄴ	ADJ	_	5	amod	_	_	같/paa+ㄴ/etm
+5	식품에	식품+에	ADV	_	6	obl	_	_	식품/ncn+에/jca
+6	대해	대하+어	SCONJ	_	9	ccomp	_	_	대하/pvg+어/ecs
+7	크게	크+게	SCONJ	_	9	xcomp	_	_	크/paa+게/ecs
+8	반감을	반감+을	NOUN	_	9	obj	_	_	반감/ncn+을/jco
+9	나타낸다	나타내+ㄴ다	VERB	_	0	root	_	_	나타내/pvg+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 커리플라워나 파슬리 등 여러 서양 야채가 바로 그런 것들이다 .
+1	커리플라워나	커리플라워+나	CCONJ	_	2	conj	_	_	커리플라워/ncn+나/jcj
+2	파슬리	파슬리	NOUN	_	3	compound	_	_	파슬리/ncn
+3	등	등	NOUN	_	6	mark	_	_	등/nbn
+4	여러	여러	ADJ	_	6	amod	_	_	여러/mma
+5	서양	서양	NOUN	_	6	compound	_	_	서양/ncn
+6	야채가	야채+가	NOUN	_	9	nsubj	_	_	야채/ncn+가/jcs
+7	바로	바로	ADV	_	8	advmod	_	_	바로/mag
+8	그런	그런	DET	_	9	det	_	_	그런/mmd
+9	것들이다	것+들+이+다	VERB	_	0	root	_	_	것/nbn+들/xsn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 알맞은 양을 먹어야 한다 .
+1	알맞은	알맞+ㄴ	ADJ	_	2	amod	_	_	알맞/paa+ㄴ/etm
+2	양을	양+을	NOUN	_	3	obj	_	_	양/ncn+을/jco
+3	먹어야	먹+어야	VERB	_	0	root	_	_	먹/pvg+어야/ecx
+4	한다	하+ㄴ다	AUX	_	3	aux	_	_	하/px+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 해방 전까지만 해도 간장병 환자는 거의 손꼽을 수 있을 정도였다 .
+1	해방	해방	NOUN	_	2	compound	_	_	해방/ncpa
+2	전까지만	전+까지만	ADV	_	3	advcl	_	_	전/ncn+까지만/jxc
+3	해도	하+어도	SCONJ	_	10	ccomp	_	_	하/pvg+어도/ecs
+4	간장병	간장병	NOUN	_	5	compound	_	_	간장병/ncn
+5	환자는	환자+는	NOUN	_	7	dislocated	_	_	환자/ncn+는/jxt
+6	거의	거의	ADV	_	7	advmod	_	_	거의/mag
+7	손꼽을	손꼽+을	VERB	_	10	ccomp	_	_	손꼽/pvg+을/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있을	있+ㄹ	ADJ	_	7	aux	_	_	있/paa+ㄹ/etm
+10	정도였다	정도+이+었+다	VERB	_	0	root	_	_	정도/ncn+이/jp+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 간장이 나빠질 까닭이 없는 환자까지 간질환을 일으켜 죽음에 이르는 경우들이 많은 것이다 .
+1	간장이	간장+이	NOUN	_	2	nsubj	_	_	간장/ncn+이/jcs
+2	나빠질	나쁘+아+지+ㄹ	AUX	_	3	amod	_	_	나쁘/paa+아/ecx+지/px+ㄹ/etm
+3	까닭이	까닭+이	NOUN	_	4	nsubj	_	_	까닭/ncn+이/jcs
+4	없는	없+는	ADJ	_	5	amod	_	_	없/paa+는/etm
+5	환자까지	환자+까지	ADV	_	9	advcl	_	_	환자/ncn+까지/jxc
+6	간질환을	간질환+을	NOUN	_	7	obj	_	_	간질환/ncn+을/jco
+7	일으켜	일으키+어	SCONJ	_	9	ccomp	_	_	일으키/pvg+어/ecs
+8	죽음에	죽음+에	ADV	_	9	obl	_	_	죽음/ncn+에/jca
+9	이르는	이르+는	VERB	_	10	acl	_	_	이르/pvg+는/etm
+10	경우들이	경우+들+이	NOUN	_	11	nsubj	_	_	경우/ncn+들/xsn+이/jcs
+11	많은	많+ㄴ	ADJ	_	0	root	_	_	많/paa+ㄴ/etm
+12	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이는 사람들이 얼마나 간장을 혹사했는가를 말해 준다 .
+1	이는	이+는	PRON	_	6	dislocated	_	_	이/npd+는/jxt
+2	사람들이	사람+들+이	NOUN	_	5	nsubj	_	_	사람/ncn+들/xsn+이/jcs
+3	얼마나	얼마나	ADV	_	5	advmod	_	_	얼마나/mag
+4	간장을	간장+을	NOUN	_	5	obj	_	_	간장/ncn+을/jco
+5	혹사했는가를	혹사+하+었+는가+를	NOUN	_	6	obj	_	_	혹사/ncpa+하/xsv+었/ep+는가/ef+를/jco
+6	말해	말하+어	VERB	_	0	root	_	_	말하/pvg+어/ecx
+7	준다	주+ㄴ다	AUX	_	6	aux	_	_	주/px+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 우리가 매일 마시는 수돗물만 해도 생각해 볼 점은 많다 .
+1	우리가	우리+가	PRON	_	3	nsubj	_	_	우리/npp+가/jcs
+2	매일	매일	ADV	_	3	advmod	_	_	매일/mag
+3	마시는	마시+는	VERB	_	4	acl	_	_	마시/pvg+는/etm
+4	수돗물만	수돗물+만	ADV	_	5	advcl	_	_	수돗물/ncn+만/jxc
+5	해도	하+어도	SCONJ	_	9	conj	_	_	하/pvg+어도/ecs
+6	생각해	생각+하+어	VERB	_	8	acl	_	_	생각/ncpa+하/xsv+어/ecx
+7	볼	보+ㄹ	AUX	_	6	aux	_	_	보/px+ㄹ/etm
+8	점은	점+은	NOUN	_	9	dislocated	_	_	점/ncn+은/jxt
+9	많다	많+다	ADJ	_	0	root	_	_	많/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 수돗물에는 기본적으로 염소와 석회 성분이 들어있다 .
+1	수돗물에는	수돗물+에+는	NOUN	_	6	dislocated	_	_	수돗물/ncn+에/jca+는/jxt
+2	기본적으로	기본+적+으로	ADV	_	6	advcl	_	_	기본/ncn+적/xsn+으로/jca
+3	염소와	염소+와	CCONJ	_	5	conj	_	_	염소/ncn+와/jcj
+4	석회	석회	NOUN	_	5	compound	_	_	석회/ncn
+5	성분이	성분+이	NOUN	_	6	nsubj	_	_	성분/ncn+이/jcs
+6	들어있다	들+어+있+다	AUX	_	0	root	_	_	들/pvg+어/ecx+있/px+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이 염소와 석회가 든 물을 마신다는 것은 말하자면 독을 마신다는 것과 같다 .
+1	이	이	DET	_	3	det	_	_	이/mmd
+2	염소와	염소+와	CCONJ	_	3	conj	_	_	염소/ncn+와/jcj
+3	석회가	석회+가	NOUN	_	4	nsubj	_	_	석회/ncn+가/jcs
+4	든	들+ㄴ	VERB	_	5	acl	_	_	들/pvg+ㄴ/etm
+5	물을	물+을	NOUN	_	6	obj	_	_	물/ncn+을/jco
+6	마신다는	마시+ㄴ다는	VERB	_	7	acl	_	_	마시/pvg+ㄴ다는/etm
+7	것은	것+은	NOUN	_	12	dislocated	_	_	것/nbn+은/jxt
+8	말하자면	말하자면	ADV	_	12	advmod	_	_	말하자면/mag
+9	독을	독+을	NOUN	_	10	obj	_	_	독/ncn+을/jco
+10	마신다는	마시+ㄴ다는	VERB	_	11	acl	_	_	마시/pvg+ㄴ다는/etm
+11	것과	것+과	CCONJ	_	12	conj	_	_	것/nbn+과/jct
+12	같다	같+다	ADJ	_	0	root	_	_	같/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 수돗물은 그렇다 치더라도 더 나쁜 것이 콜라 , 주스 , 사이다 같은 청량음료들이다 .
+1	수돗물은	수돗물+은	NOUN	_	2	dislocated	_	_	수돗물/ncn+은/jxt
+2	그렇다	그렇+다	SCONJ	_	3	xcomp	_	_	그렇/pad+다/ecs
+3	치더라도	치+더라+도	ADV	_	13	ccomp	_	_	치/pvg+더라/ecs+도/jxc
+4	더	더	ADV	_	5	advmod	_	_	더/mag
+5	나쁜	나쁘+ㄴ	ADJ	_	6	amod	_	_	나쁘/paa+ㄴ/etm
+6	것이	것+이	NOUN	_	13	nsubj	_	_	것/nbn+이/jcs
+7	콜라	콜라	NOUN	_	9	conj	_	_	콜라/ncn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	주스	주스	NOUN	_	11	conj	_	_	주스/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	사이다	사이다	NOUN	_	12	dep	_	_	사이다/ncn
+12	같은	같+ㄴ	ADJ	_	13	amod	_	_	같/paa+ㄴ/etm
+13	청량음료들이다	청량음료+들+이+다	VERB	_	0	root	_	_	청량음료/ncn+들/xsn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 물론 적당히 마실 때는 약이 된다 .
+1	물론	물론	ADV	_	6	advmod	_	_	물론/mag
+2	적당히	적당히	ADV	_	3	advmod	_	_	적당히/mag
+3	마실	마시+ㄹ	VERB	_	4	acl	_	_	마시/pvg+ㄹ/etm
+4	때는	때+는	NOUN	_	6	dislocated	_	_	때/ncn+는/jxt
+5	약이	약+이	NOUN	_	6	csubj	_	_	약/ncps+이/jcc
+6	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그건 모조리 독이 되고 만다 .
+1	그건	그거+은	PRON	_	4	dislocated	_	_	그거/npd+은/jxt
+2	모조리	모조리	ADV	_	4	advmod	_	_	모조리/mag
+3	독이	독+이	NOUN	_	4	csubj	_	_	독/ncn+이/jcc
+4	되고	되+고	VERB	_	0	root	_	_	되/pvg+고/ecx
+5	만다	말+ㄴ다	AUX	_	4	aux	_	_	말/px+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 맛을 지나치게 즐기면 병이 생긴다 .
+1	맛을	맛+을	NOUN	_	3	obj	_	_	맛/ncn+을/jco
+2	지나치게	지나치+게	SCONJ	_	3	ccomp	_	_	지나치/pvg+게/ecs
+3	즐기면	즐기+면	SCONJ	_	5	ccomp	_	_	즐기/pvg+면/ecs
+4	병이	병+이	NOUN	_	5	nsubj	_	_	병/ncn+이/jcs
+5	생긴다	생기+ㄴ다	VERB	_	0	root	_	_	생기/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 인공조미료 또한 섭취하지 않는 것이 현명하다 .
+1	인공조미료	인공+조미료	NOUN	_	3	advmod	_	_	인공/ncn+조미료/ncn
+2	또한	또한	ADV	_	3	advmod	_	_	또한/mag
+3	섭취하지	섭취+하+지	VERB	_	5	acl	_	_	섭취/ncpa+하/xsv+지/ecx
+4	않는	않+는	AUX	_	3	aux	_	_	않/px+는/etm
+5	것이	것+이	NOUN	_	6	nsubj	_	_	것/nbn+이/jcs
+6	현명하다	현명+하+다	VERB	_	0	root	_	_	현명/ncps+하/xsm+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 만약 그것들이 맛이 없었다면 지금처럼 엄청나게 먹어대지는 않을 것이다 .
+1	만약	만약	ADV	_	4	advmod	_	_	만약/mag
+2	그것들이	그것+들+이	PRON	_	4	nsubj	_	_	그것/npd+들/xsn+이/jcs
+3	맛이	맛+이	NOUN	_	4	nsubj	_	_	맛/ncn+이/jcs
+4	없었다면	없+었+다면	SCONJ	_	7	xcomp	_	_	없/paa+었/ep+다면/ecs
+5	지금처럼	지금+처럼	ADV	_	7	advcl	_	_	지금/ncn+처럼/jca
+6	엄청나게	엄청나+게	SCONJ	_	7	ccomp	_	_	엄청나/pvg+게/ecs
+7	먹어대지는	먹+어+대+지+는	NOUN	_	0	root	_	_	먹/pvg+어/ecx+대/px+지/ecx+는/jxt
+8	않을	않+ㄹ	AUX	_	7	aux	_	_	않/px+ㄹ/etm
+9	것이다	것+이+다	VERB	_	7	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 맛이 있기 때문에 먹어대는 것인데 , 과연 인체에 그와 같이 많은 동물성 단백질이 필요한 것인가에 대해서는 생각하지 않는다 .
+1	맛이	맛+이	NOUN	_	2	nsubj	_	_	맛/ncn+이/jcs
+2	있기	있+기	ADJ	_	3	nmod	_	_	있/paa+기/etn
+3	때문에	때문+에	ADV	_	4	obl	_	_	때문/nbn+에/jca
+4	먹어대는	먹+어+대+는	AUX	_	5	ccomp	_	_	먹/pvg+어/ecx+대/px+는/etm
+5	것인데	것+이+ㄴ데	SCONJ	_	14	conj	_	_	것/nbn+이/jp+ㄴ데/ecs
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	과연	과연	ADV	_	14	advmod	_	_	과연/mag
+8	인체에	인체+에	ADV	_	14	obl	_	_	인체/ncn+에/jca
+9	그와	그+와	CCONJ	_	10	conj	_	_	그/npd+와/jct
+10	같이	같+이	SCONJ	_	11	xcomp	_	_	같/paa+이/ecs
+11	많은	많+ㄴ	ADJ	_	13	amod	_	_	많/paa+ㄴ/etm
+12	동물성	동물성	NOUN	_	13	compound	_	_	동물성/ncn
+13	단백질이	단백질+이	NOUN	_	14	nsubj	_	_	단백질/ncn+이/jcs
+14	필요한	필요+하+ㄴ	VERB	_	15	amod	_	_	필요/ncps+하/xsm+ㄴ/etm
+15	것인가에	것+이+ㄴ가+에	ADV	_	16	obl	_	_	것/nbn+이/jp+ㄴ가/ef+에/jca
+16	대해서는	대하+어서+는	NOUN	_	17	ccomp	_	_	대하/pvg+어서/ecs+는/jxt
+17	생각하지	생각+하+지	VERB	_	0	root	_	_	생각/ncpa+하/xsv+지/ecx
+18	않는다	않+는다	AUX	_	17	aux	_	_	않/px+는다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 동물성 단백질은 어쩌다 가끔씩 먹는 것으로 족하다 .
+1	동물성	동물성	NOUN	_	2	compound	_	_	동물성/ncn
+2	단백질은	단백질+은	NOUN	_	7	dislocated	_	_	단백질/ncn+은/jxt
+3	어쩌다	어쩌다	ADV	_	5	advmod	_	_	어쩌다/mag
+4	가끔씩	가끔씩	ADV	_	5	advmod	_	_	가끔씩/mag
+5	먹는	먹+는	VERB	_	6	acl	_	_	먹/pvg+는/etm
+6	것으로	것+으로	ADV	_	7	advcl	_	_	것/nbn+으로/jca
+7	족하다	족하+다	VERB	_	0	root	_	_	족하/pvg+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 생각해 보자 .
+1	생각해	생각+하+어	VERB	_	0	root	_	_	생각/ncpa+하/xsv+어/ecx
+2	보자	보+자	AUX	_	1	aux	_	_	보/px+자/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 말이나 소 , 토끼 같은 동물이 언제 고기를 먹던가 .
+1	말이나	말+이나	CCONJ	_	2	conj	_	_	말/ncpa+이나/jcj
+2	소	소	NOUN	_	4	conj	_	_	소/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	토끼	토끼	NOUN	_	5	dep	_	_	토끼/ncn
+5	같은	같+ㄴ	ADJ	_	6	amod	_	_	같/paa+ㄴ/etm
+6	동물이	동물+이	NOUN	_	9	nsubj	_	_	동물/ncn+이/jcs
+7	언제	언제	ADV	_	9	advmod	_	_	언제/mad
+8	고기를	고기+를	NOUN	_	9	obj	_	_	고기/ncn+를/jco
+9	먹던가	먹+던가	VERB	_	0	root	_	_	먹/pvg+던가/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그렇건만 그 동물들은 스스로 체내에 단백질을 쌓아 두고 있다 .
+1	그렇건만	그렇건만	CCONJ	_	7	cc	_	_	그렇건만/maj
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	동물들은	동물+들+은	NOUN	_	7	dislocated	_	_	동물/ncn+들/xsn+은/jxt
+4	스스로	스스로	ADV	_	7	advmod	_	_	스스로/mag
+5	체내에	체내+에	ADV	_	7	obl	_	_	체내/ncn+에/jca
+6	단백질을	단백질+을	NOUN	_	7	obj	_	_	단백질/ncn+을/jco
+7	쌓아	쌓+아	VERB	_	0	root	_	_	쌓/pvg+아/ecx
+8	두고	두+고	AUX	_	7	aux	_	_	두/px+고/ecx
+9	있다	있+다	AUX	_	7	aux	_	_	있/px+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 사람에게도 그런 능력이 주어져 있는 것이다 .
+1	사람에게도	사람+에게+도	ADV	_	4	advcl	_	_	사람/ncn+에게/jca+도/jxc
+2	그런	그런	DET	_	3	det	_	_	그런/mmd
+3	능력이	능력+이	NOUN	_	4	nsubj	_	_	능력/ncn+이/jcs
+4	주어져	주+어+지+어	AUX	_	0	root	_	_	주/pvg+어/ecx+지/px+어/ecx
+5	있는	있+는	AUX	_	4	aux	_	_	있/px+는/etm
+6	것이다	것+이+다	VERB	_	4	aux	_	_	것/nbn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 우주의 질서에 따라야 한다 .
+1	우주의	우주+의	NOUN	_	2	nmod	_	_	우주/ncn+의/jcm
+2	질서에	질서+에	ADV	_	3	obl	_	_	질서/ncn+에/jca
+3	따라야	따르+아야	VERB	_	0	root	_	_	따르/pvg+아야/ecx
+4	한다	하+ㄴ다	AUX	_	3	aux	_	_	하/px+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 우주의 원리는 조화에 있다 .
+1	우주의	우주+의	NOUN	_	2	nmod	_	_	우주/ncn+의/jcm
+2	원리는	원리+는	NOUN	_	4	dislocated	_	_	원리/ncn+는/jxt
+3	조화에	조화+에	ADV	_	4	obl	_	_	조화/ncpa+에/jca
+4	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 조화가 깨어지면 어디론가 기울기 마련이다 .
+1	조화가	조화+가	NOUN	_	2	nsubj	_	_	조화/ncpa+가/jcs
+2	깨어지면	깨+어+지+면	SCONJ	_	4	ccomp	_	_	깨/pvg+어/ecx+지/px+면/ecs
+3	어디론가	어디론가	ADV	_	4	advmod	_	_	어디론가/mag
+4	기울기	기울+기	VERB	_	0	root	_	_	기울/pvg+기/etn
+5	마련이다	마련+이+다	VERB	_	4	aux	_	_	마련/nbn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그것은 파멸을 뜻한다 .
+1	그것은	그것+은	PRON	_	3	dislocated	_	_	그것/npd+은/jxt
+2	파멸을	파멸+을	NOUN	_	3	obj	_	_	파멸/ncn+을/jco
+3	뜻한다	뜻+하+ㄴ다	VERB	_	0	root	_	_	뜻/ncpa+하/xsv+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 끈의 한쪽에 무거운 것을 달고서 빙빙 돌리면 원을 그리면서 돌게 된다 .
+1	끈의	끈+의	NOUN	_	2	nmod	_	_	끈/ncn+의/jcm
+2	한쪽에	한쪽+에	ADV	_	5	obl	_	_	한쪽/ncn+에/jca
+3	무거운	무겁+ㄴ	ADJ	_	4	amod	_	_	무겁/paa+ㄴ/etm
+4	것을	것+을	NOUN	_	5	obj	_	_	것/nbn+을/jco
+5	달고서	달+고서	SCONJ	_	7	ccomp	_	_	달/pvg+고서/ecs
+6	빙빙	빙빙	ADV	_	7	advmod	_	_	빙빙/mag
+7	돌리면	돌리+면	SCONJ	_	10	ccomp	_	_	돌리/pvg+면/ecs
+8	원을	원+을	NOUN	_	9	obj	_	_	원/ncn+을/jco
+9	그리면서	그리+면서	SCONJ	_	10	ccomp	_	_	그리/pvg+면서/ecs
+10	돌게	돌+게	VERB	_	0	root	_	_	돌/pvg+게/ecx
+11	된다	되+ㄴ다	AUX	_	10	aux	_	_	되/px+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그것은 멀리 날아가 버리고 만다 .
+1	그것은	그것+은	PRON	_	3	dislocated	_	_	그것/npd+은/jxt
+2	멀리	멀리	ADV	_	3	advmod	_	_	멀리/mag
+3	날아가	날+아+가+아	AUX	_	0	root	_	_	날/pvg+아/ecx+가/px+아/ecx
+4	버리고	버리+고	AUX	_	3	aux	_	_	버리/px+고/ecx
+5	만다	말+ㄴ다	AUX	_	3	aux	_	_	말/px+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 이른바 원심력 때문이다 .
+1	이른바	이른바	ADV	_	2	advmod	_	_	이른바/mag
+2	원심력	원심력	NOUN	_	3	compound	_	_	원심력/ncn
+3	때문이다	때문+이+다	VERB	_	0	root	_	_	때문/nbn+이/jp+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 이것은 비단 천체에서만 볼 수 있는 것은 아니다 .
+1	이것은	이것+은	PRON	_	8	dislocated	_	_	이것/npd+은/jxt
+2	비단	비단	ADV	_	8	advmod	_	_	비단/mag
+3	천체에서만	천체+에서+만	ADV	_	4	advcl	_	_	천체/ncn+에서/jca+만/jxc
+4	볼	보+ㄹ	VERB	_	7	acl	_	_	보/pvg+ㄹ/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	있는	있+는	ADJ	_	4	aux	_	_	있/paa+는/etm
+7	것은	것+은	NOUN	_	8	dislocated	_	_	것/nbn+은/jxt
+8	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 지구상에서도 얼마든지 볼 수 있는 현상이다 .
+1	지구상에서도	지구상+에서+도	ADV	_	3	advcl	_	_	지구상/ncn+에서/jca+도/jxc
+2	얼마든지	얼마든지	ADV	_	3	advmod	_	_	얼마든지/mag
+3	볼	보+ㄹ	VERB	_	6	ccomp	_	_	보/pvg+ㄹ/etm
+4	수	수	NOUN	_	5	fixed	_	_	수/nbn
+5	있는	있+는	ADJ	_	3	aux	_	_	있/paa+는/etm
+6	현상이다	현상+이+다	VERB	_	0	root	_	_	현상/ncn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 부엌에서는 수채 구멍으로 빨려들어가는 허드렛물의 소용돌이가 있다 .
+1	부엌에서는	부엌+에서+는	NOUN	_	7	dislocated	_	_	부엌/ncn+에서/jca+는/jxt
+2	수채	수채	NOUN	_	3	compound	_	_	수채/ncn
+3	구멍으로	구멍+으로	ADV	_	4	advcl	_	_	구멍/ncn+으로/jca
+4	빨려들어가는	빨려들어가+는	VERB	_	5	acl	_	_	빨려들어가/pvg+는/etm
+5	허드렛물의	허드렛물+의	NOUN	_	6	nmod	_	_	허드렛물/ncn+의/jcm
+6	소용돌이가	소용돌이+가	NOUN	_	7	nsubj	_	_	소용돌이/ncn+가/jcs
+7	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 동물로는 달팽이나 조개류들이 그런 모습을 하고 있다 .
+1	동물로는	동물+로+는	NOUN	_	6	dislocated	_	_	동물/ncn+로/jca+는/jxt
+2	달팽이나	달팽이+나	CCONJ	_	3	conj	_	_	달팽이/ncn+나/jcj
+3	조개류들이	조개류+들+이	NOUN	_	6	nsubj	_	_	조개류/ncn+들/xsn+이/jcs
+4	그런	그런	DET	_	5	det	_	_	그런/mmd
+5	모습을	모습+을	NOUN	_	6	obj	_	_	모습/ncn+을/jco
+6	하고	하+고	VERB	_	0	root	_	_	하/pvg+고/ecx
+7	있다	있+다	AUX	_	6	aux	_	_	있/px+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 식물에 있어서는 나팔꽃이나 강낭콩 , 칡 등의 넝쿨이 그렇다 .
+1	식물에	식물+에	ADV	_	2	obl	_	_	식물/ncn+에/jca
+2	있어서는	있+어서+는	NOUN	_	9	amod	_	_	있/paa+어서/ecs+는/jxt
+3	나팔꽃이나	나팔꽃+이나	CCONJ	_	4	conj	_	_	나팔꽃/ncn+이나/jcj
+4	강낭콩	강낭콩	NOUN	_	6	conj	_	_	강낭콩/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	칡	칡	NOUN	_	7	compound	_	_	칡/ncn
+7	등의	등+의	NOUN	_	8	nmod	_	_	등/nbn+의/jcm
+8	넝쿨이	넝쿨+이	NOUN	_	9	nsubj	_	_	넝쿨/ncn+이/jcs
+9	그렇다	그렇+다	VERB	_	0	root	_	_	그렇/pad+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 인체에 있어서는 머리 가마가 그런가 하면 사람마다의 지문이 그렇다 .
+1	인체에	인체+에	ADV	_	2	obl	_	_	인체/ncn+에/jca
+2	있어서는	있+어서+는	NOUN	_	5	amod	_	_	있/paa+어서/ecs+는/jxt
+3	머리	머리	NOUN	_	4	compound	_	_	머리/ncn
+4	가마가	가마+가	NOUN	_	5	nsubj	_	_	가마/ncn+가/jcs
+5	그런가	그렇+ㄴ가	SCONJ	_	6	xcomp	_	_	그렇/pad+ㄴ가/ecs
+6	하면	하+면	SCONJ	_	9	conj	_	_	하/pvg+면/ecs
+7	사람마다의	사람+마다+의	NOUN	_	8	nmod	_	_	사람/ncn+마다/jxc+의/jcm
+8	지문이	지문+이	NOUN	_	9	nsubj	_	_	지문/ncn+이/jcs
+9	그렇다	그렇+다	VERB	_	0	root	_	_	그렇/pad+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 아기는 태어날 때 돌면서 나온다 .
+1	아기는	아기+는	NOUN	_	2	dislocated	_	_	아기/ncn+는/jxt
+2	태어날	태어나+ㄹ	VERB	_	3	acl	_	_	태어나/pvg+ㄹ/etm
+3	때	때	NOUN	_	5	advmod	_	_	때/ncn
+4	돌면서	돌+면서	SCONJ	_	5	ccomp	_	_	돌/pvg+면서/ecs
+5	나온다	나오+ㄴ다	VERB	_	0	root	_	_	나오/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 발사된 인공위성이 회전하면서 치솟는 것을 누구나 한번쯤 보았을 것이다 .
+1	발사된	발사+되+ㄴ	VERB	_	2	acl	_	_	발사/ncpa+되/xsv+ㄴ/etm
+2	인공위성이	인공위성+이	NOUN	_	3	nsubj	_	_	인공위성/ncn+이/jcs
+3	회전하면서	회전+하+면서	SCONJ	_	4	ccomp	_	_	회전/ncpa+하/xsv+면서/ecs
+4	치솟는	치솟+는	VERB	_	5	acl	_	_	치솟/pvg+는/etm
+5	것을	것+을	NOUN	_	8	obj	_	_	것/nbn+을/jco
+6	누구나	누구+나	ADV	_	8	advcl	_	_	누구/npp+나/jxc
+7	한번쯤	한번+쯤	NOUN	_	8	advmod	_	_	한번/nnc+쯤/xsn
+8	보았을	보+았+ㄹ	VERB	_	0	root	_	_	보/pvg+았/ep+ㄹ/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 우주의 질서에는 일곱 가지 원칙이 있다 .
+1	우주의	우주+의	NOUN	_	2	nmod	_	_	우주/ncn+의/jcm
+2	질서에는	질서+에+는	NOUN	_	6	dislocated	_	_	질서/ncn+에/jca+는/jxt
+3	일곱	일곱	NUM	_	4	nummod	_	_	일곱/nnc
+4	가지	가지	NOUN	_	5	compound	_	_	가지/nbu
+5	원칙이	원칙+이	NOUN	_	6	nsubj	_	_	원칙/ncn+이/jcs
+6	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 질서란 사물의 순서나 이치 , 서열을 뜻한다 .
+1	질서란	질서+란	ADV	_	7	advcl	_	_	질서/ncn+란/jxc
+2	사물의	사물+의	NOUN	_	6	nmod	_	_	사물/ncn+의/jcm
+3	순서나	순서+나	CCONJ	_	4	conj	_	_	순서/ncn+나/jcj
+4	이치	이치	NOUN	_	6	conj	_	_	이치/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	서열을	서열+을	NOUN	_	7	obj	_	_	서열/ncn+을/jco
+7	뜻한다	뜻+하+ㄴ다	VERB	_	0	root	_	_	뜻/ncpa+하/xsv+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이에 대해서는 다음과 같이 나누어 생각해 볼 수가 있겠다 .
+1	이에	이+에	ADV	_	2	obl	_	_	이/npd+에/jca
+2	대해서는	대하+어서+는	NOUN	_	6	ccomp	_	_	대하/pvg+어서/ecs+는/jxt
+3	다음과	다음+과	CCONJ	_	4	conj	_	_	다음/ncn+과/jct
+4	같이	같+이	SCONJ	_	6	xcomp	_	_	같/paa+이/ecs
+5	나누어	나누+어	SCONJ	_	6	ccomp	_	_	나누/pvg+어/ecs
+6	생각해	생각+하+어	VERB	_	0	root	_	_	생각/ncpa+하/xsv+어/ecx
+7	볼	보+ㄹ	AUX	_	6	aux	_	_	보/px+ㄹ/etm
+8	수가	수+가	NOUN	_	9	fixed	_	_	수/nbn+가/jcs
+9	있겠다	있+겠+다	ADJ	_	6	aux	_	_	있/paa+겠/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 첫째 , 옮김이다 .
+1	첫째	첫째	NUM	_	3	nummod	_	_	첫째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	옮김이다	옮기+ㅁ+이+다	VERB	_	0	root	_	_	옮기/pvg+ㅁ/etn+이/jp+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 현상계에 있어서 , 생겨난 것은 반드시 스러진다 .
+1	현상계에	현상계+에	ADV	_	2	obl	_	_	현상계/ncn+에/jca
+2	있어서	있+어서	SCONJ	_	7	xcomp	_	_	있/paa+어서/ecs
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	생겨난	생기+어+나+ㄴ	AUX	_	5	acl	_	_	생기/pvg+어/ecx+나/px+ㄴ/etm
+5	것은	것+은	NOUN	_	7	dislocated	_	_	것/nbn+은/jxt
+6	반드시	반드시	ADV	_	7	advmod	_	_	반드시/mag
+7	스러진다	스러지+ㄴ다	VERB	_	0	root	_	_	스러지/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 사람은 태어나서 반드시 죽지 않으면 안 된다 .
+1	사람은	사람+은	NOUN	_	7	dislocated	_	_	사람/ncn+은/jxt
+2	태어나서	태어나+서	SCONJ	_	7	ccomp	_	_	태어나/pvg+서/ecs
+3	반드시	반드시	ADV	_	4	advmod	_	_	반드시/mag
+4	죽지	죽+지	VERB	_	7	ccomp	_	_	죽/pvg+지/ecx
+5	않으면	않+으면	SCONJ	_	4	aux	_	_	않/px+으면/ecs
+6	안	안	ADV	_	7	advmod	_	_	안/mag
+7	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 둘째 , 바뀜이다 .
+1	둘째	둘째	NUM	_	3	nummod	_	_	둘째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	바뀜이다	바뀌+ㅁ+이+다	VERB	_	0	root	_	_	바뀌/pvg+ㅁ/etn+이/jp+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 셋째 , 균형이다 .
+1	셋째	셋째	NUM	_	3	nummod	_	_	셋째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	균형이다	균형+이+다	VERB	_	0	root	_	_	균형/ncn+이/jp+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 빛이 강하면 그림자도 짙다 .
+1	빛이	빛+이	NOUN	_	2	nsubj	_	_	빛/ncn+이/jcs
+2	강하면	강하+면	SCONJ	_	4	xcomp	_	_	강하/paa+면/ecs
+3	그림자도	그림자+도	ADV	_	4	advcl	_	_	그림자/ncn+도/jxc
+4	짙다	짙+다	ADJ	_	0	root	_	_	짙/paa+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 이상이나 포부가 크면 클수록 성취하지 못했을 때의 절망감 또한 큰 법이다 .
+1	이상이나	이상+이나	CCONJ	_	2	conj	_	_	이상/ncn+이나/jcj
+2	포부가	포부+가	NOUN	_	3	nsubj	_	_	포부/ncn+가/jcs
+3	크면	크+면	SCONJ	_	4	xcomp	_	_	크/paa+면/ecs
+4	클수록	크+ㄹ수록	SCONJ	_	10	xcomp	_	_	크/paa+ㄹ수록/ecs
+5	성취하지	성취+하+지	VERB	_	7	acl	_	_	성취/ncpa+하/xsv+지/ecx
+6	못했을	못하+었+ㄹ	AUX	_	5	aux	_	_	못하/px+었/ep+ㄹ/etm
+7	때의	때+의	NOUN	_	8	nmod	_	_	때/ncn+의/jcm
+8	절망감	절망감	NOUN	_	10	dep	_	_	절망감/ncn
+9	또한	또한	ADV	_	10	advmod	_	_	또한/mag
+10	큰	크+ㄴ	ADJ	_	11	amod	_	_	크/paa+ㄴ/etm
+11	법이다	법+이+다	VERB	_	0	root	_	_	법/ncn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 행복하게 살고 있었던 가정이건만 가장이 갑자기 죽기라도 하게 되면 금방 커다란 슬픔과 경제적인 고통이 엄습해 온다 .
+1	행복하게	행복+하+게	SCONJ	_	2	xcomp	_	_	행복/ncps+하/xsm+게/ecs
+2	살고	살+고	VERB	_	4	ccomp	_	_	살/pvg+고/ecx
+3	있었던	있+었더+ㄴ	AUX	_	2	aux	_	_	있/px+었더/ep+ㄴ/etm
+4	가정이건만	가정+이+건만	SCONJ	_	8	ccomp	_	_	가정/ncn+이/jp+건만/ecs
+5	가장이	가장+이	NOUN	_	7	nsubj	_	_	가장/ncn+이/jcs
+6	갑자기	갑자기	ADV	_	7	advmod	_	_	갑자기/mag
+7	죽기라도	죽+기+라도	ADV	_	8	advcl	_	_	죽/pvg+기/etn+라도/jxc
+8	하게	하+게	VERB	_	15	ccomp	_	_	하/pvg+게/ecx
+9	되면	되+면	SCONJ	_	8	aux	_	_	되/px+면/ecs
+10	금방	금방	ADV	_	15	advmod	_	_	금방/mag
+11	커다란	커다랗+ㄴ	ADJ	_	12	amod	_	_	커다랗/paa+ㄴ/etm
+12	슬픔과	슬픔+과	CCONJ	_	14	conj	_	_	슬픔/ncn+과/jcj
+13	경제적인	경제+적+이+ㄴ	VERB	_	14	acl	_	_	경제/ncn+적/xsn+이/jp+ㄴ/etm
+14	고통이	고통+이	NOUN	_	15	nsubj	_	_	고통/ncn+이/jcs
+15	엄습해	엄습+하+어	VERB	_	0	root	_	_	엄습/ncpa+하/xsv+어/ecx
+16	온다	오+ㄴ다	AUX	_	15	aux	_	_	오/px+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이 겉과 속은 사물이 옮아가고 변하는 가운데서도 균형을 유지하고 있는 것이다 .
+1	이	이	DET	_	3	det	_	_	이/mmd
+2	겉과	겉+과	CCONJ	_	3	conj	_	_	겉/ncn+과/jcj
+3	속은	속+은	NOUN	_	9	dislocated	_	_	속/ncn+은/jxt
+4	사물이	사물+이	NOUN	_	6	nsubj	_	_	사물/ncn+이/jcs
+5	옮아가고	옮아가+고	CCONJ	_	6	conj	_	_	옮아가/pvg+고/ecc
+6	변하는	변하+는	VERB	_	7	acl	_	_	변하/pvg+는/etm
+7	가운데서도	가운데+서+도	ADV	_	9	advcl	_	_	가운데/ncn+서/jca+도/jxc
+8	균형을	균형+을	NOUN	_	9	obj	_	_	균형/ncn+을/jco
+9	유지하고	유지+하+고	VERB	_	0	root	_	_	유지/ncpa+하/xsv+고/ecx
+10	있는	있+는	AUX	_	9	aux	_	_	있/px+는/etm
+11	것이다	것+이+다	VERB	_	9	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 넷째 , 다름이다 .
+1	넷째	넷째	NUM	_	3	nummod	_	_	넷째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	다름이다	다르+ㅁ+이+다	ADJ	_	0	root	_	_	다르/paa+ㅁ/etn+이/jp+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 벚꽃나무에는 수많은 꽃이 피지만 그것이 모두 같지는 않다 .
+1	벚꽃나무에는	벚꽃+나무+에+는	NOUN	_	4	dislocated	_	_	벚꽃/ncn+나무/ncn+에/jca+는/jxt
+2	수많은	수많+ㄴ	ADJ	_	3	amod	_	_	수많/paa+ㄴ/etm
+3	꽃이	꽃+이	NOUN	_	4	nsubj	_	_	꽃/ncn+이/jcs
+4	피지만	피+지만	SCONJ	_	7	conj	_	_	피/pvg+지만/ecs
+5	그것이	그것+이	PRON	_	7	nsubj	_	_	그것/npd+이/jcs
+6	모두	모두	ADV	_	7	advmod	_	_	모두/mag
+7	같지는	같+지+는	NOUN	_	0	root	_	_	같/paa+지/ecx+는/jxt
+8	않다	않+다	AUX	_	7	aux	_	_	않/px+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 같은 공장에서 같은 규격의 제품이 나온다 해도 엄밀하게 볼 때는 다르다 .
+1	같은	같+ㄴ	ADJ	_	2	amod	_	_	같/paa+ㄴ/etm
+2	공장에서	공장+에서	ADV	_	6	advcl	_	_	공장/ncn+에서/jca
+3	같은	같+ㄴ	ADJ	_	4	amod	_	_	같/paa+ㄴ/etm
+4	규격의	규격+의	NOUN	_	5	nmod	_	_	규격/ncn+의/jcm
+5	제품이	제품+이	NOUN	_	6	nsubj	_	_	제품/ncn+이/jcs
+6	나온다	나오+ㄴ다	SCONJ	_	7	ccomp	_	_	나오/pvg+ㄴ다/ecs
+7	해도	하+어도	SCONJ	_	11	conj	_	_	하/pvg+어도/ecs
+8	엄밀하게	엄밀+하+게	SCONJ	_	9	xcomp	_	_	엄밀/ncps+하/xsm+게/ecs
+9	볼	보+ㄹ	VERB	_	10	acl	_	_	보/pvg+ㄹ/etm
+10	때는	때+는	NOUN	_	11	dislocated	_	_	때/ncn+는/jxt
+11	다르다	다르+다	ADJ	_	0	root	_	_	다르/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 팽팽하게 부풀어 오른 풍선은 언젠가는 다시 쭈그러들고 만다 .
+1	팽팽하게	팽팽하+게	SCONJ	_	2	xcomp	_	_	팽팽하/paa+게/ecs
+2	부풀어	부풀+어	SCONJ	_	3	ccomp	_	_	부풀/pvg+어/ecs
+3	오른	오르+ㄴ	VERB	_	4	acl	_	_	오르/pvg+ㄴ/etm
+4	풍선은	풍선+은	NOUN	_	7	dislocated	_	_	풍선/ncn+은/jxt
+5	언젠가는	언젠가+는	NOUN	_	7	advmod	_	_	언젠가/mad+는/jxt
+6	다시	다시	ADV	_	7	advmod	_	_	다시/mag
+7	쭈그러들고	쭈그러들+고	VERB	_	0	root	_	_	쭈그러들/pvg+고/ecx
+8	만다	말+ㄴ다	AUX	_	7	aux	_	_	말/px+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 여섯째 , 맺음이다 .
+1	여섯째	여섯째	NUM	_	3	nummod	_	_	여섯째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	맺음이다	맺+ㅁ+이+다	VERB	_	0	root	_	_	맺/pvg+ㅁ/etn+이/jp+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 쌀을 먹든지 야채를 먹든지 혹은 물고기를 먹든지 사과를 먹든지 전체를 먹어야 할 것을 제창한다 .
+1	쌀을	쌀+을	NOUN	_	2	obj	_	_	쌀/ncn+을/jco
+2	먹든지	먹+든지	CCONJ	_	4	conj	_	_	먹/pvg+든지/ecc
+3	야채를	야채+를	NOUN	_	4	obj	_	_	야채/ncn+를/jco
+4	먹든지	먹+든지	CCONJ	_	5	conj	_	_	먹/pvg+든지/ecc
+5	혹은	혹은	CCONJ	_	7	conj	_	_	혹은/maj
+6	물고기를	물고기+를	NOUN	_	7	obj	_	_	물고기/ncn+를/jco
+7	먹든지	먹+든지	CCONJ	_	9	conj	_	_	먹/pvg+든지/ecc
+8	사과를	사과+를	NOUN	_	9	obj	_	_	사과/ncpa+를/jco
+9	먹든지	먹+든지	CCONJ	_	11	conj	_	_	먹/pvg+든지/ecc
+10	전체를	전체+를	NOUN	_	11	obj	_	_	전체/ncn+를/jco
+11	먹어야	먹+어야	VERB	_	13	acl	_	_	먹/pvg+어야/ecx
+12	할	하+ㄹ	AUX	_	11	aux	_	_	하/px+ㄹ/etm
+13	것을	것+을	NOUN	_	14	obj	_	_	것/nbn+을/jco
+14	제창한다	제창+하+ㄴ다	VERB	_	0	root	_	_	제창/ncpa+하/xsv+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 먹거리에서 균형을 잃으면 그것을 섭취한 몸도 균형을 잃기 때문이다 .
+1	먹거리에서	먹거리+에서	ADV	_	3	advcl	_	_	먹거리/ncn+에서/jca
+2	균형을	균형+을	NOUN	_	3	obj	_	_	균형/ncn+을/jco
+3	잃으면	잃+으면	SCONJ	_	8	ccomp	_	_	잃/pvg+으면/ecs
+4	그것을	그것+을	PRON	_	5	obj	_	_	그것/npd+을/jco
+5	섭취한	섭취+하+ㄴ	VERB	_	6	acl	_	_	섭취/ncpa+하/xsv+ㄴ/etm
+6	몸도	몸+도	ADV	_	8	advcl	_	_	몸/ncn+도/jxc
+7	균형을	균형+을	NOUN	_	8	obj	_	_	균형/ncn+을/jco
+8	잃기	잃+기	VERB	_	0	root	_	_	잃/pvg+기/etn
+9	때문이다	때문+이+다	VERB	_	8	aux	_	_	때문/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 사람이 육식에 편중하게 되면 동물성 단백질만 섭취하는 것이 되므로 단백 과잉증에 빠지게 된다 .
+1	사람이	사람+이	NOUN	_	3	nsubj	_	_	사람/ncn+이/jcs
+2	육식에	육식+에	ADV	_	3	advcl	_	_	육식/ncn+에/jxc
+3	편중하게	편중+하+게	VERB	_	9	ccomp	_	_	편중/ncpa+하/xsv+게/ecx
+4	되면	되+면	SCONJ	_	3	aux	_	_	되/px+면/ecs
+5	동물성	동물성	NOUN	_	6	compound	_	_	동물성/ncn
+6	단백질만	단백질+만	ADV	_	7	advcl	_	_	단백질/ncn+만/jxc
+7	섭취하는	섭취+하+는	VERB	_	8	acl	_	_	섭취/ncpa+하/xsv+는/etm
+8	것이	것+이	NOUN	_	9	csubj	_	_	것/nbn+이/jcc
+9	되므로	되+므로	SCONJ	_	12	ccomp	_	_	되/pvg+므로/ecs
+10	단백	단백	NOUN	_	11	compound	_	_	단백/ncn
+11	과잉증에	과잉증+에	ADV	_	12	advcl	_	_	과잉증/ncn+에/jxc
+12	빠지게	빠지+게	VERB	_	0	root	_	_	빠지/pvg+게/ecx
+13	된다	되+ㄴ다	AUX	_	12	aux	_	_	되/px+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이것이 현미식의 고마운 점이다 .
+1	이것이	이것+이	PRON	_	4	nsubj	_	_	이것/npd+이/jcs
+2	현미식의	현미식+의	NOUN	_	4	nmod	_	_	현미식/ncn+의/jcm
+3	고마운	고맙+ㄴ	ADJ	_	4	amod	_	_	고맙/paa+ㄴ/etm
+4	점이다	점+이+다	VERB	_	0	root	_	_	점/ncn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 앞에서도 말했듯이 현미에는 많은 영양분이 들어 있다 .
+1	앞에서도	앞+에서+도	ADV	_	2	advcl	_	_	앞/ncn+에서/jca+도/jxc
+2	말했듯이	말하+었+듯이	SCONJ	_	6	ccomp	_	_	말하/pvg+었/ep+듯이/ecs
+3	현미에는	현미+에+는	NOUN	_	6	dislocated	_	_	현미/ncn+에/jca+는/jxt
+4	많은	많+ㄴ	ADJ	_	5	amod	_	_	많/paa+ㄴ/etm
+5	영양분이	영양분+이	NOUN	_	6	nsubj	_	_	영양분/ncn+이/jcs
+6	들어	들+어	VERB	_	0	root	_	_	들/pvg+어/ecx
+7	있다	있+다	AUX	_	6	aux	_	_	있/px+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이를 제거해 버릴 때 이른바 백미가 된다 .
+1	이를	이+를	PRON	_	2	obj	_	_	이/npd+를/jco
+2	제거해	제거+하+어	VERB	_	4	acl	_	_	제거/ncpa+하/xsv+어/ecx
+3	버릴	버리+ㄹ	AUX	_	2	aux	_	_	버리/px+ㄹ/etm
+4	때	때	NOUN	_	7	advmod	_	_	때/ncn
+5	이른바	이른바	ADV	_	6	advmod	_	_	이른바/mag
+6	백미가	백미+가	NOUN	_	7	csubj	_	_	백미/ncn+가/jcc
+7	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 인간에게 그럴 수 있는 능력이 있을 리 없다 .
+1	인간에게	인간+에게	ADV	_	6	iobj	_	_	인간/ncn+에게/jca
+2	그럴	그렇+ㄹ	VERB	_	5	amod	_	_	그렇/pad+ㄹ/etm
+3	수	수	NOUN	_	4	fixed	_	_	수/nbn
+4	있는	있+는	ADJ	_	2	aux	_	_	있/paa+는/etm
+5	능력이	능력+이	NOUN	_	6	nsubj	_	_	능력/ncn+이/jcs
+6	있을	있+ㄹ	ADJ	_	0	root	_	_	있/paa+ㄹ/etm
+7	리	리	NOUN	_	8	fixed	_	_	리/nbn
+8	없다	없+다	ADJ	_	6	aux	_	_	없/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 어쨌든 인간은 현미를 먹어야 한다 .
+1	어쨌든	어쨌든	CCONJ	_	4	cc	_	_	어쨌든/maj
+2	인간은	인간+은	NOUN	_	4	dislocated	_	_	인간/ncn+은/jxt
+3	현미를	현미+를	NOUN	_	4	obj	_	_	현미/ncn+를/jco
+4	먹어야	먹+어야	VERB	_	0	root	_	_	먹/pvg+어야/ecx
+5	한다	하+ㄴ다	AUX	_	4	aux	_	_	하/px+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 일물전체의 원칙을 좀더 구체적으로 살펴보자 .
+1	일물전체의	일물전체+의	NOUN	_	2	nmod	_	_	일물전체/ncn+의/jcm
+2	원칙을	원칙+을	NOUN	_	5	obj	_	_	원칙/ncn+을/jco
+3	좀더	좀더	ADV	_	5	advmod	_	_	좀더/mag
+4	구체적으로	구체+적+으로	ADV	_	5	advcl	_	_	구체/ncn+적/xsn+으로/jca
+5	살펴보자	살피+어+보+자	AUX	_	0	root	_	_	살피/pvg+어/ecx+보/px+자/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 주부들은 보통 하얀 뿌리 쪽은 떼어 내 버리곤 하는데 이것은 일물전체에 어긋난다 .
+1	주부들은	주부+들+은	NOUN	_	6	dislocated	_	_	주부/ncn+들/xsn+은/jxt
+2	보통	보통	ADV	_	6	advmod	_	_	보통/mag
+3	하얀	하얗+ㄴ	ADJ	_	4	amod	_	_	하얗/paa+ㄴ/etm
+4	뿌리	뿌리	NOUN	_	5	compound	_	_	뿌리/ncn
+5	쪽은	쪽+은	NOUN	_	6	dislocated	_	_	쪽/ncn+은/jxt
+6	떼어	떼+어	VERB	_	12	ccomp	_	_	떼/pvg+어/ecx
+7	내	내+어	AUX	_	6	aux	_	_	내/px+어/ecx
+8	버리곤	버리+고+ㄴ	NOUN	_	6	aux	_	_	버리/px+고/ecx+ㄴ/jxt
+9	하는데	하+는데	SCONJ	_	6	aux	_	_	하/px+는데/ecs
+10	이것은	이것+은	PRON	_	12	dislocated	_	_	이것/npd+은/jxt
+11	일물전체에	일물전체+에	ADV	_	12	obl	_	_	일물전체/ncn+에/jca
+12	어긋난다	어긋나+ㄴ다	VERB	_	0	root	_	_	어긋나/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 뿌리까지 씻어서 먹어야 한다 .
+1	뿌리까지	뿌리+까지	ADV	_	2	advcl	_	_	뿌리/ncn+까지/jxc
+2	씻어서	씻+어서	SCONJ	_	3	ccomp	_	_	씻/pvg+어서/ecs
+3	먹어야	먹+어야	VERB	_	0	root	_	_	먹/pvg+어야/ecx
+4	한다	하+ㄴ다	AUX	_	3	aux	_	_	하/px+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 그것이 파의 완전한 모습이기 때문이다 .
+1	그것이	그것+이	PRON	_	4	nsubj	_	_	그것/npd+이/jcs
+2	파의	파+의	NOUN	_	4	nmod	_	_	파/ncn+의/jcm
+3	완전한	완전+하+ㄴ	VERB	_	4	amod	_	_	완전/ncps+하/xsm+ㄴ/etm
+4	모습이기	모습+이+기	VERB	_	0	root	_	_	모습/ncn+이/jp+기/etn
+5	때문이다	때문+이+다	VERB	_	4	aux	_	_	때문/nbn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 멸치의 경우도 그렇다 .
+1	멸치의	멸치+의	NOUN	_	2	nmod	_	_	멸치/ncn+의/jcm
+2	경우도	경우+도	ADV	_	3	advcl	_	_	경우/ncn+도/jxc
+3	그렇다	그렇+다	VERB	_	0	root	_	_	그렇/pad+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 멸치야말로 머리 쪽을 중시해야 할 식품이다 .
+1	멸치야말로	멸치+야말로	ADV	_	6	advcl	_	_	멸치/ncn+야말로/jxc
+2	머리	머리	NOUN	_	3	compound	_	_	머리/ncn
+3	쪽을	쪽+을	NOUN	_	4	obj	_	_	쪽/ncn+을/jco
+4	중시해야	중시+하+어야	VERB	_	6	ccomp	_	_	중시/ncpa+하/xsv+어야/ecx
+5	할	하+ㄹ	AUX	_	4	aux	_	_	하/px+ㄹ/etm
+6	식품이다	식품+이+다	VERB	_	0	root	_	_	식품/ncn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 야채를 요리할 때도 껍질이나 뿌리를 버리지 말고 흙만 깨끗이 씻어 낸 후 바로 요리해야 한다 .
+1	야채를	야채+를	NOUN	_	2	obj	_	_	야채/ncn+를/jco
+2	요리할	요리+하+ㄹ	VERB	_	3	acl	_	_	요리/ncpa+하/xsv+ㄹ/etm
+3	때도	때+도	ADV	_	14	advcl	_	_	때/ncn+도/jxc
+4	껍질이나	껍질+이나	CCONJ	_	5	conj	_	_	껍질/ncn+이나/jcj
+5	뿌리를	뿌리+를	NOUN	_	6	obj	_	_	뿌리/ncn+를/jco
+6	버리지	버리+지	VERB	_	10	conj	_	_	버리/pvg+지/ecx
+7	말고	말+고	CCONJ	_	6	aux	_	_	말/px+고/ecc
+8	흙만	흙+만	ADV	_	10	advcl	_	_	흙/ncn+만/jxc
+9	깨끗이	깨끗이	ADV	_	10	advmod	_	_	깨끗이/mag
+10	씻어	씻+어	VERB	_	12	acl	_	_	씻/pvg+어/ecx
+11	낸	내+ㄴ	AUX	_	10	aux	_	_	내/px+ㄴ/etm
+12	후	후	NOUN	_	14	advmod	_	_	후/ncn
+13	바로	바로	ADV	_	14	advmod	_	_	바로/mag
+14	요리해야	요리+하+어야	VERB	_	0	root	_	_	요리/ncpa+하/xsv+어야/ecx
+15	한다	하+ㄴ다	AUX	_	14	aux	_	_	하/px+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 제 계절에 나는 것을 섭취하는 것은 곧 우리의 몸으로 하여금 기후에 대한 적응력을 기르게 하는 것이 된다 .
+1	제	제	ADJ	_	2	amod	_	_	제/mma
+2	계절에	계절+에	ADV	_	3	obl	_	_	계절/ncn+에/jca
+3	나는	나+는	VERB	_	4	acl	_	_	나/pvg+는/etm
+4	것을	것+을	NOUN	_	5	obj	_	_	것/nbn+을/jco
+5	섭취하는	섭취+하+는	VERB	_	6	acl	_	_	섭취/ncpa+하/xsv+는/etm
+6	것은	것+은	NOUN	_	17	dislocated	_	_	것/nbn+은/jxt
+7	곧	곧	ADV	_	17	advmod	_	_	곧/mag
+8	우리의	우리+의	PRON	_	9	nmod	_	_	우리/npp+의/jcm
+9	몸으로	몸+으로	ADV	_	10	advcl	_	_	몸/ncn+으로/jca
+10	하여금	하여금	ADV	_	14	advmod	_	_	하여금/mag
+11	기후에	기후+에	ADV	_	12	obl	_	_	기후/ncn+에/jca
+12	대한	대하+ㄴ	VERB	_	13	acl	_	_	대하/pvg+ㄴ/etm
+13	적응력을	적응력+을	NOUN	_	14	obj	_	_	적응력/ncn+을/jco
+14	기르게	기르+게	VERB	_	16	acl	_	_	기르/pvg+게/ecx
+15	하는	하+는	AUX	_	14	aux	_	_	하/px+는/etm
+16	것이	것+이	NOUN	_	17	csubj	_	_	것/nbn+이/jcc
+17	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 참기름은 식물성 지방으로서 으뜸가는 것일 뿐만 아니라 살충 효과까지 지니고 있는 훌륭한 조미료이다 .
+1	참기름은	참기름+은	NOUN	_	13	dislocated	_	_	참기름/ncn+은/jxt
+2	식물성	식물성	NOUN	_	3	compound	_	_	식물성/ncn
+3	지방으로서	지방+으로서	ADV	_	4	advcl	_	_	지방/ncn+으로서/jca
+4	으뜸가는	으뜸가+는	VERB	_	5	ccomp	_	_	으뜸가/pvg+는/etm
+5	것일	것+이+ㄹ	VERB	_	10	ccomp	_	_	것/nbn+이/jp+ㄹ/etm
+6	뿐만	뿐+만	ADV	_	7	fixed	_	_	뿐/nbn+만/jxc
+7	아니라	아니+라	SCONJ	_	5	aux	_	_	아니/paa+라/ecs
+8	살충	살충	NOUN	_	9	compound	_	_	살충/ncn
+9	효과까지	효과+까지	ADV	_	10	advcl	_	_	효과/ncn+까지/jxc
+10	지니고	지니+고	VERB	_	13	ccomp	_	_	지니/pvg+고/ecx
+11	있는	있+는	AUX	_	10	aux	_	_	있/px+는/etm
+12	훌륭한	훌륭+하+ㄴ	VERB	_	13	amod	_	_	훌륭/ncps+하/xsm+ㄴ/etm
+13	조미료이다	조미료+이+다	VERB	_	0	root	_	_	조미료/ncn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 나물을 무칠 때 참기름이 들어가야 제 맛이 나는 것이 아니던가 .
+1	나물을	나물+을	NOUN	_	2	obj	_	_	나물/ncn+을/jco
+2	무칠	무치+ㄹ	VERB	_	3	acl	_	_	무치/pvg+ㄹ/etm
+3	때	때	NOUN	_	5	advmod	_	_	때/ncn
+4	참기름이	참기름+이	NOUN	_	5	nsubj	_	_	참기름/ncn+이/jcs
+5	들어가야	들어가+야	SCONJ	_	8	ccomp	_	_	들어가/pvg+야/ecs
+6	제	제	ADJ	_	7	amod	_	_	제/mma
+7	맛이	맛+이	NOUN	_	8	nsubj	_	_	맛/ncn+이/jcs
+8	나는	나+는	VERB	_	9	acl	_	_	나/pvg+는/etm
+9	것이	것+이	NOUN	_	10	csubj	_	_	것/nbn+이/jcc
+10	아니던가	아니+던가	ADJ	_	0	root	_	_	아니/paa+던가/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 참기름도 믿을 수 있는 곳에서 짜 먹도록 해야 할 것이다 .
+1	참기름도	참기름+도	ADV	_	7	advcl	_	_	참기름/ncn+도/jxc
+2	믿을	믿+ㄹ	VERB	_	5	acl	_	_	믿/pvg+ㄹ/etm
+3	수	수	NOUN	_	4	fixed	_	_	수/nbn
+4	있는	있+는	ADJ	_	2	aux	_	_	있/paa+는/etm
+5	곳에서	곳+에서	ADV	_	6	advcl	_	_	곳/ncn+에서/jca
+6	짜	짜+아	SCONJ	_	7	ccomp	_	_	짜/pvg+아/ecs
+7	먹도록	먹+도록	SCONJ	_	8	ccomp	_	_	먹/pvg+도록/ecs
+8	해야	하+어야	VERB	_	0	root	_	_	하/pvg+어야/ecx
+9	할	하+ㄹ	AUX	_	8	aux	_	_	하/px+ㄹ/etm
+10	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 인간에게는 대체로 두 가지 반대되는 타입이 있다 .
+1	인간에게는	인간+에게+는	NOUN	_	7	dislocated	_	_	인간/ncn+에게/jca+는/jxt
+2	대체로	대체로	ADV	_	7	advmod	_	_	대체로/mag
+3	두	두	NUM	_	4	nummod	_	_	두/nnc
+4	가지	가지	NOUN	_	6	compound	_	_	가지/nbu
+5	반대되는	반대+되+는	VERB	_	6	acl	_	_	반대/ncpa+되/xsv+는/etm
+6	타입이	타입+이	NOUN	_	7	nsubj	_	_	타입/ncn+이/jcs
+7	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그것은 아이의 경우에서도 볼 수 있다 .
+1	그것은	그것+은	PRON	_	4	dislocated	_	_	그것/npd+은/jxt
+2	아이의	아이+의	NOUN	_	3	nmod	_	_	아이/ncn+의/jcm
+3	경우에서도	경우+에서+도	ADV	_	4	advcl	_	_	경우/ncn+에서/jca+도/jxc
+4	볼	보+ㄹ	VERB	_	0	root	_	_	보/pvg+ㄹ/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	있다	있+다	ADJ	_	4	aux	_	_	있/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 개가 짖어 대면 돌멩이라도 들어 맞서려는 아이가 있는가 하면 두려워하며 뒷걸음질치는 아이도 있다 .
+1	개가	개+가	NOUN	_	2	nsubj	_	_	개/ncn+가/jcs
+2	짖어	짖+어	VERB	_	6	ccomp	_	_	짖/pvg+어/ecx
+3	대면	대+면	SCONJ	_	2	aux	_	_	대/px+면/ecs
+4	돌멩이라도	돌멩이+라도	ADV	_	5	advcl	_	_	돌멩이/ncn+라도/jxc
+5	들어	들+어	SCONJ	_	6	ccomp	_	_	들/pvg+어/ecs
+6	맞서려는	맞서+려는	VERB	_	7	acl	_	_	맞서/pvg+려는/etm
+7	아이가	아이+가	NOUN	_	8	nsubj	_	_	아이/ncn+가/jcs
+8	있는가	있+는가	SCONJ	_	9	xcomp	_	_	있/paa+는가/ecs
+9	하면	하+면	SCONJ	_	13	conj	_	_	하/pvg+면/ecs
+10	두려워하며	두려워하+며	CCONJ	_	11	conj	_	_	두려워하/pvg+며/ecc
+11	뒷걸음질치는	뒷걸음질치+는	VERB	_	12	acl	_	_	뒷걸음질치/pvg+는/etm
+12	아이도	아이+도	ADV	_	13	advcl	_	_	아이/ncn+도/jxc
+13	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 전자 같이 적극적이며 활달한 사람과 후자 같이 소극적이며 매사에 주저하는 사람의 두 유형으로 대별되는 것이다 .
+1	전자	전자	NOUN	_	2	dep	_	_	전자/ncn
+2	같이	같+이	SCONJ	_	4	xcomp	_	_	같/paa+이/ecs
+3	적극적이며	적극+적+이+며	CCONJ	_	4	conj	_	_	적극/ncn+적/xsn+이/jp+며/ecc
+4	활달한	활달+하+ㄴ	VERB	_	5	amod	_	_	활달/ncps+하/xsm+ㄴ/etm
+5	사람과	사람+과	CCONJ	_	11	conj	_	_	사람/ncn+과/jcj
+6	후자	후자	NOUN	_	7	dep	_	_	후자/ncn
+7	같이	같+이	SCONJ	_	10	xcomp	_	_	같/paa+이/ecs
+8	소극적이며	소극+적+이+며	CCONJ	_	10	conj	_	_	소극/ncn+적/xsn+이/jp+며/ecc
+9	매사에	매사+에	ADV	_	10	obl	_	_	매사/ncn+에/jca
+10	주저하는	주저+하+는	VERB	_	11	acl	_	_	주저/ncpa+하/xsv+는/etm
+11	사람의	사람+의	NOUN	_	13	nmod	_	_	사람/ncn+의/jcm
+12	두	두	NUM	_	13	nummod	_	_	두/nnc
+13	유형으로	유형+으로	ADV	_	14	advcl	_	_	유형/ncn+으로/jca
+14	대별되는	대별+되+는	VERB	_	0	root	_	_	대별/ncpa+되/xsv+는/etm
+15	것이다	것+이+다	VERB	_	14	aux	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 사람의 유형이나 특성은 그 생긴 모습에서도 대충 짐작할 수 있다 .
+1	사람의	사람+의	NOUN	_	2	nmod	_	_	사람/ncn+의/jcm
+2	유형이나	유형+이나	CCONJ	_	3	conj	_	_	유형/ncn+이나/jcj
+3	특성은	특성+은	NOUN	_	8	dislocated	_	_	특성/ncn+은/jxt
+4	그	그	DET	_	6	det	_	_	그/mmd
+5	생긴	생기+ㄴ	VERB	_	6	acl	_	_	생기/pvg+ㄴ/etm
+6	모습에서도	모습+에서+도	ADV	_	8	advcl	_	_	모습/ncn+에서/jca+도/jxc
+7	대충	대충	ADV	_	8	advmod	_	_	대충/mag
+8	짐작할	짐작+하+ㄹ	VERB	_	0	root	_	_	짐작/ncpa+하/xsv+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	있다	있+다	ADJ	_	8	aux	_	_	있/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 얼굴을 예로 들어 보자 .
+1	얼굴을	얼굴+을	NOUN	_	3	obj	_	_	얼굴/ncn+을/jco
+2	예로	예+로	ADV	_	3	advcl	_	_	예/ncn+로/jca
+3	들어	들+어	VERB	_	0	root	_	_	들/pvg+어/ecx
+4	보자	보+자	AUX	_	3	aux	_	_	보/px+자/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 이 같은 얼굴 형태가 그 사람의 성격의 특징을 나타낸다 .
+1	이	이	PRON	_	2	dep	_	_	이/npd
+2	같은	같+ㄴ	ADJ	_	4	amod	_	_	같/paa+ㄴ/etm
+3	얼굴	얼굴	NOUN	_	4	compound	_	_	얼굴/ncn
+4	형태가	형태+가	NOUN	_	9	nsubj	_	_	형태/ncn+가/jcs
+5	그	그	DET	_	6	det	_	_	그/mmd
+6	사람의	사람+의	NOUN	_	7	nmod	_	_	사람/ncn+의/jcm
+7	성격의	성격+의	NOUN	_	8	nmod	_	_	성격/ncn+의/jcm
+8	특징을	특징+을	NOUN	_	9	obj	_	_	특징/ncn+을/jco
+9	나타낸다	나타내+ㄴ다	VERB	_	0	root	_	_	나타내/pvg+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 누가 뭐래도 그 사람은 그런 체질이니까 어쩔 수 없다 .
+1	누가	누+가	PRON	_	2	nsubj	_	_	누/npp+가/jcs
+2	뭐래도	뭐+이+래도	SCONJ	_	6	ccomp	_	_	뭐/npd+이/jp+래도/ecs
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	사람은	사람+은	NOUN	_	6	dislocated	_	_	사람/ncn+은/jxt
+5	그런	그런	DET	_	6	det	_	_	그런/mmd
+6	체질이니까	체질+이+니까	SCONJ	_	9	conj	_	_	체질/ncn+이/jp+니까/ecs
+7	어쩔	어쩔	ADJ	_	8	amod	_	_	어쩔/mma
+8	수	수	NOUN	_	9	mark	_	_	수/nbn
+9	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 가령 네거리 신호등의 경우 , 어째서 빨강일 때 서야 하고 파랑일 때 가야 하느냐는 문제를 살펴 보자 .
+1	가령	가령	ADV	_	13	advmod	_	_	가령/mag
+2	네거리	네거리	NOUN	_	3	compound	_	_	네거리/ncn
+3	신호등의	신호등+의	NOUN	_	4	nmod	_	_	신호등/ncn+의/jcm
+4	경우	경우	NOUN	_	13	advmod	_	_	경우/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	어째서	어째서	ADV	_	13	advmod	_	_	어째서/mag
+7	빨강일	빨강+이+ㄹ	VERB	_	8	acl	_	_	빨강/ncn+이/jp+ㄹ/etm
+8	때	때	NOUN	_	9	dep	_	_	때/ncn
+9	서야	서+어야	VERB	_	13	conj	_	_	서/pvg+어야/ecx
+10	하고	하+고	CCONJ	_	9	aux	_	_	하/px+고/ecc
+11	파랑일	파랑+이+ㄹ	VERB	_	12	acl	_	_	파랑/ncn+이/jp+ㄹ/etm
+12	때	때	NOUN	_	13	dep	_	_	때/ncn
+13	가야	가+아야	VERB	_	15	acl	_	_	가/pvg+아야/ecx
+14	하느냐는	하+느냐는	AUX	_	13	aux	_	_	하/px+느냐는/etm
+15	문제를	문제+를	NOUN	_	16	obj	_	_	문제/ncn+를/jco
+16	살펴	살피+어	VERB	_	0	root	_	_	살피/pvg+어/ecx
+17	보자	보+자	AUX	_	16	aux	_	_	보/px+자/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 어둠 속에서 램프의 빛은 유난히 눈에 띈다 .
+1	어둠	어둠	NOUN	_	2	compound	_	_	어둠/ncn
+2	속에서	속+에서	ADV	_	7	advcl	_	_	속/ncn+에서/jca
+3	램프의	램프+의	NOUN	_	4	nmod	_	_	램프/ncn+의/jcm
+4	빛은	빛+은	NOUN	_	7	dislocated	_	_	빛/ncn+은/jxt
+5	유난히	유난히	ADV	_	7	advmod	_	_	유난히/mag
+6	눈에	눈+에	ADV	_	7	obl	_	_	눈/ncn+에/jca
+7	띈다	띄+ㄴ다	VERB	_	0	root	_	_	띄/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그 때문에 철도의 건널목이나 도로의 위험한 곳에 램프를 걸어놓은 때도 있었다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	때문에	때문+에	ADV	_	9	obl	_	_	때문/nbn+에/jca
+3	철도의	철도+의	NOUN	_	4	nmod	_	_	철도/ncn+의/jcm
+4	건널목이나	건널목+이나	CCONJ	_	7	conj	_	_	건널목/ncn+이나/jcj
+5	도로의	도로+의	NOUN	_	7	nmod	_	_	도로/ncn+의/jcm
+6	위험한	위험+하+ㄴ	VERB	_	7	amod	_	_	위험/ncps+하/xsm+ㄴ/etm
+7	곳에	곳+에	ADV	_	9	obl	_	_	곳/ncn+에/jca
+8	램프를	램프+를	NOUN	_	9	obj	_	_	램프/ncn+를/jco
+9	걸어놓은	걸+어+놓+ㄴ	AUX	_	10	acl	_	_	걸/pvg+어/ecx+놓/px+ㄴ/etm
+10	때도	때+도	ADV	_	11	advcl	_	_	때/ncn+도/jxc
+11	있었다	있+었+다	ADJ	_	0	root	_	_	있/paa+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 원심성이라든지 구심성 같은 물리학적인 틀을 가지고도 풀리지 않는 문제이다 .
+1	원심성이라든지	원심성+이+라든지	SCONJ	_	3	conj	_	_	원심성/ncn+이/jp+라든지/ecs
+2	구심성	구심성	NOUN	_	3	dep	_	_	구심성/ncn
+3	같은	같+ㄴ	ADJ	_	5	amod	_	_	같/paa+ㄴ/etm
+4	물리학적인	물리학+적+이+ㄴ	VERB	_	5	acl	_	_	물리학/ncn+적/xsn+이/jp+ㄴ/etm
+5	틀을	틀+을	NOUN	_	6	obj	_	_	틀/ncn+을/jco
+6	가지고도	가지+고도	SCONJ	_	7	ccomp	_	_	가지/pvg+고도/ecs
+7	풀리지	풀리+지	VERB	_	9	ccomp	_	_	풀리/pvg+지/ecx
+8	않는	않+는	AUX	_	7	aux	_	_	않/px+는/etm
+9	문제이다	문제+이+다	VERB	_	0	root	_	_	문제/ncn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 무엇보다도 음과 양은 어디까지나 상대적인 것이기 때문에 절대적인 음성이라든지 절대적인 양성으로 규정할 수는 없다는 사실이다 .
+1	무엇보다도	무엇+보다+도	ADV	_	5	advcl	_	_	무엇/npd+보다/jca+도/jxc
+2	음과	음+과	CCONJ	_	3	conj	_	_	음/ncn+과/jcj
+3	양은	양+은	NOUN	_	5	dislocated	_	_	양/ncn+은/jxt
+4	어디까지나	어디+까지나	ADV	_	5	advcl	_	_	어디/npd+까지나/jxc
+5	상대적인	상대+적+이+ㄴ	VERB	_	7	dep	_	_	상대/ncpa+적/xsn+이/jp+ㄴ/etm
+6	것이기	것+이+기	VERB	_	5	aux	_	_	것/nbn+이/jp+기/etn
+7	때문에	때문+에	ADV	_	12	obl	_	_	때문/nbn+에/jca
+8	절대적인	절대+적+이+ㄴ	VERB	_	9	ccomp	_	_	절대/ncn+적/xsn+이/jp+ㄴ/etm
+9	음성이라든지	음성+이+라든지	CCONJ	_	12	conj	_	_	음성/ncn+이/jp+라든지/ecc
+10	절대적인	절대+적+이+ㄴ	VERB	_	11	acl	_	_	절대/ncn+적/xsn+이/jp+ㄴ/etm
+11	양성으로	양성+으로	ADV	_	12	advcl	_	_	양성/ncn+으로/jca
+12	규정할	규정+하+ㄹ	VERB	_	15	ccomp	_	_	규정/ncpa+하/xsv+ㄹ/etm
+13	수는	수+는	NOUN	_	14	fixed	_	_	수/nbn+는/jxt
+14	없다는	없+다는	ADJ	_	12	aux	_	_	없/paa+다는/etm
+15	사실이다	사실+이+다	VERB	_	0	root	_	_	사실/ncn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+

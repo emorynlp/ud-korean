@@ -1,0 +1,4500 @@
+# 일본에서 검인정 교과서가 등장한 것은 지금으로부터 40여년 전인 쇼와 ( 昭和 ) 24년의 일이다 .
+1	일본에서	일본+에서	ADV	_	4	advcl	_	_	일본/nq+에서/jca
+2	검인정	검인정	NOUN	_	3	compound	_	_	검인정/ncpa
+3	교과서가	교과서+가	NOUN	_	4	nsubj	_	_	교과서/ncn+가/jcs
+4	등장한	등장+하+ㄴ	VERB	_	5	acl	_	_	등장/ncpa+하/xsv+ㄴ/etm
+5	것은	것+은	NOUN	_	14	dislocated	_	_	것/nbn+은/jxt
+6	지금으로부터	지금+으로+부터	ADV	_	8	advcl	_	_	지금/ncn+으로/jca+부터/jxc
+7	40여년	40+여+년	NOUN	_	8	compound	_	_	40/nnc+여/xsn+년/nbu
+8	전인	전+이+ㄴ	VERB	_	13	acl	_	_	전/ncn+이/jp+ㄴ/etm
+9	쇼와	쇼와	PROPN	_	13	compound	_	_	쇼와/nq
+10	(	(	PUNCT	_	11	punct	_	_	(/sl
+11	昭和	昭和	PROPN	_	9	appos	_	_	昭和/nq
+12	)	)	PUNCT	_	11	punct	_	_	)/sr
+13	24년의	24+년+의	NUM	_	14	nmod	_	_	24/nno+년/nbu+의/jcm
+14	일이다	일+이+다	VERB	_	0	root	_	_	일/ncn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그러나 민간 출판사에 의해 제작 , 출간된 교과서라고 하여 그 교과서의 저술에 참여한 학자들의 주장이나 학설이 그대로 교과서에 실리는 것은 아니다 .
+1	그러나	그러나	CCONJ	_	21	cc	_	_	그러나/maj
+2	민간	민간	NOUN	_	3	compound	_	_	민간/ncn
+3	출판사에	출판사+에	ADV	_	4	obl	_	_	출판사/ncn+에/jca
+4	의해	의하+어	SCONJ	_	7	ccomp	_	_	의하/pvg+어/ecs
+5	제작	제작	NOUN	_	7	compound	_	_	제작/ncpa
+6	,	,	PUNCT	_	7	punct	_	_	,/sp
+7	출간된	출간+되+ㄴ	VERB	_	8	acl	_	_	출간/ncpa+되/xsv+ㄴ/etm
+8	교과서라고	교과서+라고	VERB	_	9	conj	_	_	교과서/ncn+라고/jcr
+9	하여	하+어	SCONJ	_	21	conj	_	_	하/pvg+어/ecs
+10	그	그	DET	_	11	det	_	_	그/mmd
+11	교과서의	교과서+의	NOUN	_	12	nmod	_	_	교과서/ncn+의/jcm
+12	저술에	저술+에	ADV	_	13	obl	_	_	저술/ncpa+에/jca
+13	참여한	참여+하+ㄴ	VERB	_	14	acl	_	_	참여/ncpa+하/xsv+ㄴ/etm
+14	학자들의	학자+들+의	NOUN	_	16	nmod	_	_	학자/ncn+들/xsn+의/jcm
+15	주장이나	주장+이나	CCONJ	_	16	conj	_	_	주장/ncpa+이나/jcj
+16	학설이	학설+이	NOUN	_	19	nsubj	_	_	학설/ncn+이/jcs
+17	그대로	그대로	ADV	_	19	advmod	_	_	그대로/mag
+18	교과서에	교과서+에	ADV	_	19	obl	_	_	교과서/ncn+에/jca
+19	실리는	실리+는	VERB	_	20	acl	_	_	실리/pvg+는/etm
+20	것은	것+은	NOUN	_	21	dislocated	_	_	것/nbn+은/jxt
+21	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 이른바 백지표지의 교과서는 문부성文部省의 심의 과정과 검정을 통하면서 원래의 취지와 다르게 변질된다 .
+1	이른바	이른바	ADV	_	3	advmod	_	_	이른바/mag
+2	백지표지의	백지+표지+의	NOUN	_	3	nmod	_	_	백지/ncn+표지/ncn+의/jcm
+3	교과서는	교과서+는	NOUN	_	12	dislocated	_	_	교과서/ncn+는/jxt
+4	문부성文部省의	문부성文部省+의	NOUN	_	7	nmod	_	_	문부성文部省/ncn+의/jcm
+5	심의	심의	NOUN	_	6	compound	_	_	심의/ncpa
+6	과정과	과정+과	CCONJ	_	7	conj	_	_	과정/ncpa+과/jcj
+7	검정을	검정+을	NOUN	_	8	obj	_	_	검정/ncn+을/jco
+8	통하면서	통+하+면서	CCONJ	_	12	conj	_	_	통/ncpa+하/xsv+면서/ecc
+9	원래의	원래+의	NOUN	_	10	nmod	_	_	원래/ncn+의/jcm
+10	취지와	취지+와	CCONJ	_	11	conj	_	_	취지/ncn+와/jct
+11	다르게	다르+게	SCONJ	_	12	xcomp	_	_	다르/paa+게/ecs
+12	변질된다	변질+되+ㄴ다	VERB	_	0	root	_	_	변질/ncpa+되/xsv+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 즉 일본의 교과서는 일본이라는 나라가 지향하는 의도와 궤를 같이 하는 보수 사학의 견해로 변질되기를 강요당해 온 것이 이제까지의 통례였다 .
+1	즉	즉	CCONJ	_	19	cc	_	_	즉/maj
+2	일본의	일본+의	PROPN	_	3	nmod	_	_	일본/nq+의/jcm
+3	교과서는	교과서+는	NOUN	_	14	dislocated	_	_	교과서/ncn+는/jxt
+4	일본이라는	일본+이+라는	VERB	_	5	acl	_	_	일본/nq+이/jp+라는/etm
+5	나라가	나라+가	NOUN	_	6	nsubj	_	_	나라/ncn+가/jcs
+6	지향하는	지향+하+는	VERB	_	8	acl	_	_	지향/ncpa+하/xsv+는/etm
+7	의도와	의도+와	CCONJ	_	8	conj	_	_	의도/ncpa+와/jcj
+8	궤를	궤+를	NOUN	_	10	obj	_	_	궤/ncn+를/jco
+9	같이	같이	ADV	_	10	advmod	_	_	같이/mag
+10	하는	하+는	VERB	_	12	acl	_	_	하/pvg+는/etm
+11	보수	보수	NOUN	_	12	compound	_	_	보수/ncn
+12	사학의	사학+의	NOUN	_	13	nmod	_	_	사학/ncn+의/jcm
+13	견해로	견해+로	ADV	_	14	advcl	_	_	견해/ncn+로/jca
+14	변질되기를	변질+되+기+를	NOUN	_	15	obj	_	_	변질/ncpa+되/xsv+기/etn+를/jco
+15	강요당해	강요+당하+어	VERB	_	17	acl	_	_	강요/ncpa+당하/xsv+어/ecx
+16	온	오+ㄴ	AUX	_	15	aux	_	_	오/px+ㄴ/etm
+17	것이	것+이	NOUN	_	19	nsubj	_	_	것/nbn+이/jcs
+18	이제까지의	이제+까지+의	NOUN	_	19	nmod	_	_	이제/ncn+까지/jxc+의/jcm
+19	통례였다	통례+이+었+다	VERB	_	0	root	_	_	통례/ncn+이/jp+었/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 실제로 일본 사학을 이끌고 있는 이들은 좀더 세련된 감각과 신선한 양식을 지닌 신진 사학에 배타적인 보수 사학자들이 주류를 이루고 있다 .
+1	실제로	실제로	ADV	_	4	advmod	_	_	실제로/mag
+2	일본	일본	PROPN	_	3	compound	_	_	일본/nq
+3	사학을	사학+을	NOUN	_	4	obj	_	_	사학/ncn+을/jco
+4	이끌고	이끌+고	VERB	_	6	acl	_	_	이끌/pvg+고/ecx
+5	있는	있+는	AUX	_	4	aux	_	_	있/px+는/etm
+6	이들은	이+들+은	PRON	_	19	dislocated	_	_	이/npp+들/xsn+은/jxt
+7	좀더	좀더	ADV	_	8	advmod	_	_	좀더/mag
+8	세련된	세련+되+ㄴ	VERB	_	9	acl	_	_	세련/ncpa+되/xsv+ㄴ/etm
+9	감각과	감각+과	CCONJ	_	11	conj	_	_	감각/ncpa+과/jcj
+10	신선한	신선+하+ㄴ	VERB	_	11	amod	_	_	신선/ncps+하/xsm+ㄴ/etm
+11	양식을	양식+을	NOUN	_	12	obj	_	_	양식/ncn+을/jco
+12	지닌	지니+ㄴ	VERB	_	14	acl	_	_	지니/pvg+ㄴ/etm
+13	신진	신진	ADJ	_	14	amod	_	_	신진/mma
+14	사학에	사학+에	ADV	_	15	obl	_	_	사학/ncn+에/jca
+15	배타적인	배타+적+이+ㄴ	VERB	_	17	acl	_	_	배타/ncpa+적/xsn+이/jp+ㄴ/etm
+16	보수	보수	NOUN	_	17	compound	_	_	보수/ncn
+17	사학자들이	사학자+들+이	NOUN	_	19	nsubj	_	_	사학자/ncn+들/xsn+이/jcs
+18	주류를	주류+를	NOUN	_	19	obj	_	_	주류/ncn+를/jco
+19	이루고	이루+고	VERB	_	0	root	_	_	이루/pvg+고/ecx
+20	있다	있+다	AUX	_	19	aux	_	_	있/px+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 대개의 교과서는 이들에 의해 집필되고 , 이들에 의해 만들어지며 , 또한 보수적 견해를 가진 심의관에 의해 검정된다 .
+1	대개의	대개+의	NOUN	_	2	nmod	_	_	대개/ncn+의/jcm
+2	교과서는	교과서+는	NOUN	_	17	dislocated	_	_	교과서/ncn+는/jxt
+3	이들에	이+들+에	ADV	_	4	obl	_	_	이/npp+들/xsn+에/jca
+4	의해	의하+어	SCONJ	_	5	ccomp	_	_	의하/pvg+어/ecs
+5	집필되고	집필+되+고	CCONJ	_	9	conj	_	_	집필/ncpa+되/xsv+고/ecc
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	이들에	이+들+에	ADV	_	8	obl	_	_	이/npp+들/xsn+에/jca
+8	의해	의하+어	SCONJ	_	9	ccomp	_	_	의하/pvg+어/ecs
+9	만들어지며	만들+어+지+며	CCONJ	_	11	conj	_	_	만들/pvg+어/ecx+지/px+며/ecc
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	또한	또한	CCONJ	_	17	conj	_	_	또한/maj
+12	보수적	보수+적	NOUN	_	13	amod	_	_	보수/ncn+적/xsn
+13	견해를	견해+를	NOUN	_	14	obj	_	_	견해/ncn+를/jco
+14	가진	가지+ㄴ	VERB	_	15	acl	_	_	가지/pvg+ㄴ/etm
+15	심의관에	심의관+에	ADV	_	16	obl	_	_	심의관/ncn+에/jca
+16	의해	의하+어	SCONJ	_	17	ccomp	_	_	의하/pvg+어/ecs
+17	검정된다	검정+되+ㄴ다	VERB	_	0	root	_	_	검정/ncpa+되/xsv+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그래서 교과서 왜곡의 이중 삼중의 위험성은 상존할 수밖에 없다 .
+1	그래서	그래서	CCONJ	_	7	cc	_	_	그래서/maj
+2	교과서	교과서	NOUN	_	3	compound	_	_	교과서/ncn
+3	왜곡의	왜곡+의	NOUN	_	6	nmod	_	_	왜곡/ncpa+의/jcm
+4	이중	이중	NOUN	_	5	compound	_	_	이중/ncn
+5	삼중의	삼중+의	NOUN	_	6	nmod	_	_	삼중/ncn+의/jcm
+6	위험성은	위험성+은	NOUN	_	7	dislocated	_	_	위험성/ncn+은/jxt
+7	상존할	상존+하+ㄹ	VERB	_	0	root	_	_	상존/ncpa+하/xsv+ㄹ/etm
+8	수밖에	수+밖에	ADV	_	9	fixed	_	_	수/nbn+밖에/jxc
+9	없다	없+다	ADJ	_	7	aux	_	_	없/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 여기에 상당 기간 문부성 교과서 심의관을 지내고 현재 나루토 ( 嗚門 ) 대학 교수로 있는 사토 고메이 ( 高明 ) 의 주장을 인용해 본다 .
+1	여기에	여기+에	ADV	_	23	obl	_	_	여기/npd+에/jca
+2	상당	상당	ADJ	_	3	amod	_	_	상당/mma
+3	기간	기간	NOUN	_	7	advmod	_	_	기간/ncn
+4	문부성	문부성	NOUN	_	5	compound	_	_	문부성/ncn
+5	교과서	교과서	NOUN	_	6	compound	_	_	교과서/ncn
+6	심의관을	심의관+을	NOUN	_	7	obj	_	_	심의관/ncn+을/jco
+7	지내고	지내+고	CCONJ	_	15	conj	_	_	지내/pvg+고/ecc
+8	현재	현재	NOUN	_	15	dep	_	_	현재/ncn
+9	나루토	나루토	PROPN	_	13	compound	_	_	나루토/nq
+10	(	(	PUNCT	_	11	punct	_	_	(/sl
+11	嗚門	嗚門	PROPN	_	9	appos	_	_	嗚門/nq
+12	)	)	PUNCT	_	11	punct	_	_	)/sr
+13	대학	대학	NOUN	_	14	compound	_	_	대학/ncn
+14	교수로	교수+로	ADV	_	15	advcl	_	_	교수/ncn+로/jca
+15	있는	있+는	ADJ	_	17	amod	_	_	있/paa+는/etm
+16	사토	사토	PROPN	_	17	flat	_	_	사토/nq
+17	고메이	고메이	PROPN	_	22	nmod	_	_	고메이/nq
+18	(	(	PUNCT	_	19	punct	_	_	(/sl
+19	高明	高明	PROPN	_	17	appos	_	_	高明/nq
+20	)	)	PUNCT	_	19	punct	_	_	)/sr
+21	의	의	ADP	_	17	case	_	_	의/jcm
+22	주장을	주장+을	NOUN	_	23	obj	_	_	주장/ncpa+을/jco
+23	인용해	인용+하+어	VERB	_	0	root	_	_	인용/ncpa+하/xsv+어/ecx
+24	본다	보+ㄴ다	AUX	_	23	aux	_	_	보/px+ㄴ다/ef
+25	.	.	PUNCT	_	24	punct	_	_	./sf
+
+# 그러나 소련이나 미국 , 유럽 등 다른 나라의 침략 사실에 대해서는 일체 기술하지 않는다 .
+1	그러나	그러나	CCONJ	_	13	cc	_	_	그러나/maj
+2	소련이나	소련+이나	CCONJ	_	3	conj	_	_	소련/nq+이나/jcj
+3	미국	미국	PROPN	_	5	conj	_	_	미국/nq
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	유럽	유럽	PROPN	_	6	compound	_	_	유럽/nq
+6	등	등	NOUN	_	8	mark	_	_	등/nbn
+7	다른	다르+ㄴ	ADJ	_	8	amod	_	_	다르/paa+ㄴ/etm
+8	나라의	나라+의	NOUN	_	9	nmod	_	_	나라/ncn+의/jcm
+9	침략	침략	NOUN	_	10	compound	_	_	침략/ncpa
+10	사실에	사실+에	ADV	_	11	obl	_	_	사실/ncn+에/jca
+11	대해서는	대하+어서+는	NOUN	_	13	ccomp	_	_	대하/pvg+어서/ecs+는/jxt
+12	일체	일체	NOUN	_	13	compound	_	_	일체/ncn
+13	기술하지	기술+하+지	VERB	_	0	root	_	_	기술/ncpa+하/xsv+지/ecx
+14	않는다	않+는다	AUX	_	13	aux	_	_	않/px+는다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이렇게 해서는 객관적인 자료로의 접근이라 말할 수 없다 .
+1	이렇게	이렇+게	VERB	_	6	amod	_	_	이렇/pad+게/ecx
+2	해서는	하+어서+는	NOUN	_	1	aux	_	_	하/px+어서/ecs+는/jxt
+3	객관적인	객관+적+이+ㄴ	VERB	_	4	acl	_	_	객관/ncn+적/xsn+이/jp+ㄴ/etm
+4	자료로의	자료+로+의	NOUN	_	5	nmod	_	_	자료/ncn+로/jca+의/jcm
+5	접근이라	접근+이+라	VERB	_	6	ccomp	_	_	접근/ncpa+이/jp+라/ef
+6	말할	말하+ㄹ	VERB	_	0	root	_	_	말하/pvg+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	없다	없+다	ADJ	_	6	aux	_	_	없/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그 같은 태도는 무언가 우리 선조의 행위를 자손에게 펼쳐내 모독하고 있다는 느낌이 든다 .
+1	그	그	PRON	_	2	dep	_	_	그/npd
+2	같은	같+ㄴ	ADJ	_	3	amod	_	_	같/paa+ㄴ/etm
+3	태도는	태도+는	NOUN	_	10	dislocated	_	_	태도/ncn+는/jxt
+4	무언가	무어+이+ㄴ가	VERB	_	7	dep	_	_	무어/npd+이/jp+ㄴ가/ef
+5	우리	우리	PRON	_	6	compound	_	_	우리/npp
+6	선조의	선조+의	NOUN	_	7	nmod	_	_	선조/ncn+의/jcm
+7	행위를	행위+를	NOUN	_	10	obj	_	_	행위/ncpa+를/jco
+8	자손에게	자손+에게	ADV	_	9	iobj	_	_	자손/ncn+에게/jca
+9	펼쳐내	펼치+어+내+어	SCONJ	_	10	ccomp	_	_	펼치/pvg+어/ecx+내/px+어/ecs
+10	모독하고	모독+하+고	VERB	_	12	acl	_	_	모독/ncpa+하/xsv+고/ecx
+11	있다는	있+다는	AUX	_	10	aux	_	_	있/px+다는/etm
+12	느낌이	느끼+ㅁ+이	NOUN	_	13	nsubj	_	_	느끼/pvg+ㅁ/etn+이/jcs
+13	든다	들+ㄴ다	VERB	_	0	root	_	_	들/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그들은 일본의 역사가들이 타국에서는 엄두도 못낼 만큼 너무나도 솔직하게 과거의 죄상을 써나가기 때문에 조상을 모독할 지경이라고 믿고 있다 .
+1	그들은	그+들+은	PRON	_	16	dislocated	_	_	그/npd+들/xsn+은/jxt
+2	일본의	일본+의	PROPN	_	3	nmod	_	_	일본/nq+의/jcm
+3	역사가들이	역사가+들+이	NOUN	_	12	nsubj	_	_	역사가/ncn+들/xsn+이/jcs
+4	타국에서는	타국+에서+는	NOUN	_	6	dislocated	_	_	타국/ncn+에서/jca+는/jxt
+5	엄두도	엄두+도	ADV	_	6	advcl	_	_	엄두/ncn+도/jxc
+6	못낼	못내+ㄹ	VERB	_	7	acl	_	_	못내/pvg+ㄹ/etm
+7	만큼	만큼	NOUN	_	12	advmod	_	_	만큼/nbn
+8	너무나도	너무나+도	ADV	_	9	advmod	_	_	너무나/mag+도/jxc
+9	솔직하게	솔직+하+게	SCONJ	_	12	xcomp	_	_	솔직/ncps+하/xsm+게/ecs
+10	과거의	과거+의	NOUN	_	11	nmod	_	_	과거/ncn+의/jcm
+11	죄상을	죄상+을	NOUN	_	12	obj	_	_	죄상/ncn+을/jco
+12	써나가기	쓰+어+나+아+가+기	AUX	_	13	nmod	_	_	쓰/pvg+어/ecx+나/px+아/ecx+가/px+기/etn
+13	때문에	때문+에	ADV	_	16	obl	_	_	때문/nbn+에/jca
+14	조상을	조상+을	NOUN	_	15	obj	_	_	조상/ncn+을/jco
+15	모독할	모독+하+ㄹ	VERB	_	16	ccomp	_	_	모독/ncpa+하/xsv+ㄹ/etm
+16	지경이라고	지경+이+라+고	VERB	_	17	conj	_	_	지경/ncn+이/jp+라/ef+고/jcr
+17	믿고	믿+고	VERB	_	0	root	_	_	믿/pvg+고/ecx
+18	있다	있+다	AUX	_	17	aux	_	_	있/px+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 엄청난 왜곡이 자행되고 있는 현재에도 , 이들 보수 사학은 지나칠 만큼 역사적 진실에 접근했다고 믿고 있다 .
+1	엄청난	엄청나+ㄴ	ADJ	_	2	amod	_	_	엄청나/paa+ㄴ/etm
+2	왜곡이	왜곡+이	NOUN	_	3	nsubj	_	_	왜곡/ncpa+이/jcs
+3	자행되고	자행+되+고	VERB	_	5	acl	_	_	자행/ncpa+되/xsv+고/ecx
+4	있는	있+는	AUX	_	3	aux	_	_	있/px+는/etm
+5	현재에도	현재+에+도	ADV	_	15	advmod	_	_	현재/ncn+에/jca+도/jxc
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	이들	이+들	NOUN	_	9	compound	_	_	이/npp+들/xsn
+8	보수	보수	NOUN	_	9	compound	_	_	보수/ncn
+9	사학은	사학+은	NOUN	_	14	dislocated	_	_	사학/ncn+은/jxt
+10	지나칠	지나치+ㄹ	ADJ	_	11	amod	_	_	지나치/paa+ㄹ/etm
+11	만큼	만큼	NOUN	_	14	advmod	_	_	만큼/nbn
+12	역사적	역사+적	NOUN	_	13	amod	_	_	역사/ncn+적/xsn
+13	진실에	진실+에	ADV	_	14	obl	_	_	진실/ncpa+에/jca
+14	접근했다고	접근+하+었+다+고	VERB	_	15	conj	_	_	접근/ncpa+하/xsv+었/ep+다/ef+고/jcr
+15	믿고	믿+고	VERB	_	0	root	_	_	믿/pvg+고/ecx
+16	있다	있+다	AUX	_	15	aux	_	_	있/px+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그래서 교과서 파동은 일어났고 , 또 앞으로도 계속될 것이다 .
+1	그래서	그래서	CCONJ	_	8	cc	_	_	그래서/maj
+2	교과서	교과서	NOUN	_	3	compound	_	_	교과서/ncn
+3	파동은	파동+은	NOUN	_	4	dislocated	_	_	파동/ncn+은/jxt
+4	일어났고	일어나+ㅆ+고	CCONJ	_	8	conj	_	_	일어나/pvg+ㅆ/ep+고/ecc
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	또	또	ADV	_	8	advmod	_	_	또/mag
+7	앞으로도	앞+으로+도	ADV	_	8	advcl	_	_	앞/ncn+으로/jca+도/jxc
+8	계속될	계속+되+ㄹ	VERB	_	0	root	_	_	계속/ncpa+되/xsv+ㄹ/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러나 사실은 그렇지 못하다 .
+1	그러나	그러나	CCONJ	_	3	cc	_	_	그러나/maj
+2	사실은	사실+은	NOUN	_	3	dislocated	_	_	사실/ncn+은/jxt
+3	그렇지	그렇+지	VERB	_	0	root	_	_	그렇/pad+지/ecx
+4	못하다	못하+다	AUX	_	3	aux	_	_	못하/px+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 그런 면에서 본다면 일본은 교과서 파동에 각별한 경력을 지닌 나라라 하겠다 .
+1	그런	그렇+ㄴ	VERB	_	2	amod	_	_	그렇/pad+ㄴ/etm
+2	면에서	면+에서	ADV	_	3	advcl	_	_	면/ncn+에서/jca
+3	본다면	보+ㄴ다면	SCONJ	_	11	ccomp	_	_	보/pvg+ㄴ다면/ecs
+4	일본은	일본+은	PROPN	_	10	dislocated	_	_	일본/nq+은/jxt
+5	교과서	교과서	NOUN	_	6	compound	_	_	교과서/ncn
+6	파동에	파동+에	ADV	_	9	obl	_	_	파동/ncn+에/jca
+7	각별한	각별+하+ㄴ	VERB	_	8	amod	_	_	각별/ncps+하/xsm+ㄴ/etm
+8	경력을	경력+을	NOUN	_	9	obj	_	_	경력/ncpa+을/jco
+9	지닌	지니+ㄴ	VERB	_	10	ccomp	_	_	지니/pvg+ㄴ/etm
+10	나라라	나라+이+라	VERB	_	11	ccomp	_	_	나라/ncn+이/jp+라/ef
+11	하겠다	하+겠+다	VERB	_	0	root	_	_	하/pvg+겠/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 번거롭지만 여기에 이를 나열해 보자 .
+1	번거롭지만	번거롭+지만	SCONJ	_	4	xcomp	_	_	번거롭/paa+지만/ecs
+2	여기에	여기+에	ADV	_	4	obl	_	_	여기/npd+에/jca
+3	이를	이+를	PRON	_	4	obj	_	_	이/npd+를/jco
+4	나열해	나열+하+어	VERB	_	0	root	_	_	나열/ncpa+하/xsv+어/ecx
+5	보자	보+자	AUX	_	4	aux	_	_	보/px+자/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 이처럼 한국에 관련된 역사 전반에 걸친 왜곡이 10년에 이른 지금 얼마나 시정되었고 , 또 그들은 시정하기 위해 얼마나 노력하였는가 ?
+1	이처럼	이+처럼	ADV	_	9	advcl	_	_	이/npd+처럼/jca
+2	한국에	한국+에	ADV	_	3	obl	_	_	한국/nq+에/jca
+3	관련된	관련+되+ㄴ	VERB	_	4	acl	_	_	관련/ncpa+되/xsv+ㄴ/etm
+4	역사	역사	NOUN	_	5	compound	_	_	역사/ncn
+5	전반에	전반+에	ADV	_	6	obl	_	_	전반/ncn+에/jca
+6	걸친	걸치+ㄴ	VERB	_	7	acl	_	_	걸치/pvg+ㄴ/etm
+7	왜곡이	왜곡+이	NOUN	_	9	nsubj	_	_	왜곡/ncpa+이/jcs
+8	10년에	10+년+에	ADV	_	9	obl	_	_	10/nno+년/nbu+에/jca
+9	이른	이르+ㄴ	VERB	_	10	acl	_	_	이르/pvg+ㄴ/etm
+10	지금	지금	NOUN	_	19	advmod	_	_	지금/ncn
+11	얼마나	얼마나	ADV	_	12	advmod	_	_	얼마나/mag
+12	시정되었고	시정+되+었+고	CCONJ	_	14	conj	_	_	시정/ncpa+되/xsv+었/ep+고/ecc
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	또	또	CCONJ	_	19	conj	_	_	또/maj
+15	그들은	그+들+은	PRON	_	16	dislocated	_	_	그/npp+들/xsn+은/jxt
+16	시정하기	시정+하+기	VERB	_	17	nmod	_	_	시정/ncpa+하/xsv+기/etn
+17	위해	위+하+어	SCONJ	_	19	ccomp	_	_	위/ncpa+하/xsv+어/ecs
+18	얼마나	얼마나	ADV	_	19	advmod	_	_	얼마나/mag
+19	노력하였는가	노력+하+었+는가	VERB	_	0	root	_	_	노력/ncpa+하/xsv+었/ep+는가/ef
+20	?	?	PUNCT	_	19	punct	_	_	?/sf
+
+# 교과서 파동이 일어나던 해인 1982년 8월 당시 관방 장관 미야자와 ( 官澤 ) 는 다음과 같이 일본 정부의 입장을 밝힌 담화를 발표했다 .
+1	교과서	교과서	NOUN	_	2	compound	_	_	교과서/ncn
+2	파동이	파동+이	NOUN	_	3	nsubj	_	_	파동/ncn+이/jcs
+3	일어나던	일어나+던	VERB	_	4	ccomp	_	_	일어나/pvg+던/etm
+4	해인	해+이+ㄴ	VERB	_	7	acl	_	_	해/ncn+이/jp+ㄴ/etm
+5	1982년	1982+년	NOUN	_	6	compound	_	_	1982/nno+년/nbu
+6	8월	8+월	NOUN	_	7	compound	_	_	8/nno+월/nbu
+7	당시	당시	NOUN	_	22	advmod	_	_	당시/ncn
+8	관방	관방	NOUN	_	9	compound	_	_	관방/ncn
+9	장관	장관	NOUN	_	10	compound	_	_	장관/ncn
+10	미야자와	미야자와	PROPN	_	22	dislocated	_	_	미야자와/nq
+11	(	(	PUNCT	_	12	punct	_	_	(/sl
+12	官澤	官澤	PROPN	_	10	appos	_	_	官澤/nq
+13	)	)	PUNCT	_	12	punct	_	_	)/sr
+14	는	는	ADP	_	10	case	_	_	는/jxt
+15	다음과	다음+과	CCONJ	_	16	conj	_	_	다음/ncn+과/jct
+16	같이	같+이	SCONJ	_	20	xcomp	_	_	같/paa+이/ecs
+17	일본	일본	PROPN	_	18	compound	_	_	일본/nq
+18	정부의	정부+의	NOUN	_	19	nmod	_	_	정부/ncn+의/jcm
+19	입장을	입장+을	NOUN	_	20	obj	_	_	입장/ncpa+을/jco
+20	밝힌	밝히+ㄴ	VERB	_	21	acl	_	_	밝히/pvg+ㄴ/etm
+21	담화를	담화+를	NOUN	_	22	obj	_	_	담화/ncpa+를/jco
+22	발표했다	발표+하+었+다	VERB	_	0	root	_	_	발표/ncpa+하/xsv+었/ep+다/ef
+23	.	.	PUNCT	_	22	punct	_	_	./sf
+
+# 이러한 사실에 우리는 다시금 우리의 이웃에 대해 실망과 분노를 삭혀야만 할 것이다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	사실에	사실+에	ADV	_	10	obl	_	_	사실/ncn+에/jca
+3	우리는	우리+는	PRON	_	10	dislocated	_	_	우리/npp+는/jxt
+4	다시금	다시금	ADV	_	10	advmod	_	_	다시금/mag
+5	우리의	우리+의	PRON	_	6	nmod	_	_	우리/npp+의/jcm
+6	이웃에	이웃+에	ADV	_	7	obl	_	_	이웃/ncpa+에/jca
+7	대해	대하+어	SCONJ	_	10	ccomp	_	_	대하/pvg+어/ecs
+8	실망과	실망+과	CCONJ	_	9	conj	_	_	실망/ncpa+과/jcj
+9	분노를	분노+를	NOUN	_	10	obj	_	_	분노/ncpa+를/jco
+10	삭혀야만	삭히+어야+만	ADV	_	0	root	_	_	삭히/pvg+어야/ecx+만/jxc
+11	할	하+ㄹ	AUX	_	10	aux	_	_	하/px+ㄹ/etm
+12	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 오늘날 한일 양국의 역사가들 사이에 논란이 되고 있는 부분은 고대사에서는 ' 임나 일본부 ' 에 관한 것이고 , 근대사에서는 ' 일본 제국주의의 침략 ' 에 국한되어 있다 .
+1	오늘날	오늘날	NOUN	_	7	advmod	_	_	오늘날/ncn
+2	한일	한일	PROPN	_	3	compound	_	_	한일/nq
+3	양국의	양국+의	NOUN	_	4	nmod	_	_	양국/ncn+의/jcm
+4	역사가들	역사가+들	NOUN	_	5	compound	_	_	역사가/ncn+들/xsn
+5	사이에	사이+에	ADV	_	7	obl	_	_	사이/ncn+에/jca
+6	논란이	논란+이	NOUN	_	7	csubj	_	_	논란/ncpa+이/jcc
+7	되고	되+고	VERB	_	9	acl	_	_	되/pvg+고/ecx
+8	있는	있+는	AUX	_	7	aux	_	_	있/px+는/etm
+9	부분은	부분+은	NOUN	_	26	dislocated	_	_	부분/ncn+은/jxt
+10	고대사에서는	고대사+에서+는	NOUN	_	16	dislocated	_	_	고대사/ncn+에서/jca+는/jxt
+11	'	'	PUNCT	_	13	punct	_	_	'/sl
+12	임나	임나	PROPN	_	13	flat	_	_	임나/nq
+13	일본부	일본부	PROPN	_	16	obl	_	_	일본부/nq
+14	'	'	PUNCT	_	13	punct	_	_	'/sr
+15	에	에	ADP	_	13	case	_	_	에/jca
+16	관한	관하+ㄴ	VERB	_	26	conj	_	_	관하/pvg+ㄴ/etm
+17	것이고	것+이+고	CCONJ	_	16	aux	_	_	것/nbn+이/jp+고/ecc
+18	,	,	PUNCT	_	17	punct	_	_	,/sp
+19	근대사에서는	근대사+에서+는	NOUN	_	26	dislocated	_	_	근대사/ncn+에서/jca+는/jxt
+20	'	'	PUNCT	_	21	punct	_	_	'/sl
+21	일본	일본	PROPN	_	22	compound	_	_	일본/nq
+22	제국주의의	제국주의+의	NOUN	_	23	nmod	_	_	제국주의/ncn+의/jcm
+23	침략	침략	NOUN	_	26	obl	_	_	침략/ncpa
+24	'	'	PUNCT	_	23	punct	_	_	'/sr
+25	에	에	ADP	_	23	case	_	_	에/jca
+26	국한되어	국한+되+어	VERB	_	0	root	_	_	국한/ncpa+되/xsv+어/ecx
+27	있다	있+다	AUX	_	26	aux	_	_	있/px+다/ef
+28	.	.	PUNCT	_	27	punct	_	_	./sf
+
+# 그러나 그렇다고 하여 한일 관계사의 왜곡이 이 시대에 한정되어 일어나고 있다고 믿는다면 커다란 착각이 아닐 수 없다 .
+1	그러나	그러나	CCONJ	_	15	cc	_	_	그러나/maj
+2	그렇다고	그렇+다+고	VERB	_	3	conj	_	_	그렇/pad+다/ef+고/jcr
+3	하여	하+어	SCONJ	_	12	ccomp	_	_	하/pvg+어/ecs
+4	한일	한일	PROPN	_	5	compound	_	_	한일/nq
+5	관계사의	관계사+의	NOUN	_	6	nmod	_	_	관계사/ncn+의/jcm
+6	왜곡이	왜곡+이	NOUN	_	10	nsubj	_	_	왜곡/ncpa+이/jcs
+7	이	이	DET	_	8	det	_	_	이/mmd
+8	시대에	시대+에	ADV	_	9	obl	_	_	시대/ncn+에/jca
+9	한정되어	한정+되+어	SCONJ	_	10	ccomp	_	_	한정/ncpa+되/xsv+어/ecs
+10	일어나고	일어나+고	VERB	_	12	conj	_	_	일어나/pvg+고/ecx
+11	있다고	있+다+고	VERB	_	10	aux	_	_	있/px+다/ef+고/jcr
+12	믿는다면	믿+는다면	SCONJ	_	15	conj	_	_	믿/pvg+는다면/ecs
+13	커다란	커다랗+ㄴ	ADJ	_	14	amod	_	_	커다랗/paa+ㄴ/etm
+14	착각이	착각+이	NOUN	_	15	csubj	_	_	착각/ncpa+이/jcc
+15	아닐	아니+ㄹ	ADJ	_	0	root	_	_	아니/paa+ㄹ/etm
+16	수	수	NOUN	_	17	fixed	_	_	수/nbn
+17	없다	없+다	ADJ	_	15	aux	_	_	없/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 따라서 이 자리를 빌어 필자는 이에 대한 한국 사학의 좀더 진지한 노력과 수고를 요구하는 바다 .
+1	따라서	따라서	CCONJ	_	15	cc	_	_	따라서/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	자리를	자리+를	NOUN	_	4	obj	_	_	자리/ncn+를/jco
+4	빌어	빌+어	SCONJ	_	15	ccomp	_	_	빌/pvg+어/ecs
+5	필자는	필자+는	NOUN	_	15	dislocated	_	_	필자/ncn+는/jxt
+6	이에	이+에	ADV	_	7	obl	_	_	이/npd+에/jca
+7	대한	대하+ㄴ	VERB	_	13	acl	_	_	대하/pvg+ㄴ/etm
+8	한국	한국	PROPN	_	9	compound	_	_	한국/nq
+9	사학의	사학+의	NOUN	_	13	nmod	_	_	사학/ncn+의/jcm
+10	좀더	좀더	ADV	_	11	advmod	_	_	좀더/mag
+11	진지한	진지+하+ㄴ	VERB	_	13	amod	_	_	진지/ncps+하/xsm+ㄴ/etm
+12	노력과	노력+과	CCONJ	_	13	conj	_	_	노력/ncpa+과/jcj
+13	수고를	수고+를	NOUN	_	14	obj	_	_	수고/ncpa+를/jco
+14	요구하는	요구+하+는	VERB	_	15	ccomp	_	_	요구/ncpa+하/xsv+는/etm
+15	바다	바+이+다	VERB	_	0	root	_	_	바/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 본문을 전개하는 과정에서 인용 내용은 필요에 따라 의역한 부분도 있으나 가능한 한 직역을 원칙으로 하였다 .
+1	본문을	본문+을	NOUN	_	2	obj	_	_	본문/ncn+을/jco
+2	전개하는	전개+하+는	VERB	_	3	acl	_	_	전개/ncpa+하/xsv+는/etm
+3	과정에서	과정+에서	ADV	_	15	advcl	_	_	과정/ncpa+에서/jca
+4	인용	인용	NOUN	_	5	compound	_	_	인용/ncpa
+5	내용은	내용+은	NOUN	_	15	dislocated	_	_	내용/ncn+은/jxt
+6	필요에	필요+에	ADV	_	7	obl	_	_	필요/ncpa+에/jca
+7	따라	따르+아	SCONJ	_	8	ccomp	_	_	따르/pvg+아/ecs
+8	의역한	의역+하+ㄴ	VERB	_	9	acl	_	_	의역/ncpa+하/xsv+ㄴ/etm
+9	부분도	부분+도	ADV	_	10	advcl	_	_	부분/ncn+도/jxc
+10	있으나	있+으나	SCONJ	_	15	xcomp	_	_	있/paa+으나/ecs
+11	가능한	가능+하+ㄴ	VERB	_	12	amod	_	_	가능/ncps+하/xsm+ㄴ/etm
+12	한	한	NOUN	_	15	advmod	_	_	한/nbn
+13	직역을	직역+을	NOUN	_	15	obj	_	_	직역/ncpa+을/jco
+14	원칙으로	원칙+으로	ADV	_	15	advcl	_	_	원칙/ncn+으로/jca
+15	하였다	하+었+다	VERB	_	0	root	_	_	하/pvg+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그리고 동일한 내용은 간행 출판사가 다르더라도 극히 중요한 사항이 아닌 한 중복 인용을 배제하였다 .
+1	그리고	그리고	CCONJ	_	14	cc	_	_	그리고/maj
+2	동일한	동일+하+ㄴ	VERB	_	3	amod	_	_	동일/ncps+하/xsm+ㄴ/etm
+3	내용은	내용+은	NOUN	_	14	dislocated	_	_	내용/ncn+은/jxt
+4	간행	간행	NOUN	_	5	compound	_	_	간행/ncpa
+5	출판사가	출판사+가	NOUN	_	6	nsubj	_	_	출판사/ncn+가/jcs
+6	다르더라도	다르+더라+도	ADV	_	14	amod	_	_	다르/paa+더라/ecs+도/jxc
+7	극히	극히	ADV	_	8	advmod	_	_	극히/mag
+8	중요한	중요+하+ㄴ	VERB	_	9	amod	_	_	중요/ncps+하/xsm+ㄴ/etm
+9	사항이	사항+이	NOUN	_	10	csubj	_	_	사항/ncn+이/jcc
+10	아닌	아니+ㄴ	ADJ	_	11	amod	_	_	아니/paa+ㄴ/etm
+11	한	한	NOUN	_	14	advmod	_	_	한/nbn
+12	중복	중복	NOUN	_	13	compound	_	_	중복/ncpa
+13	인용을	인용+을	NOUN	_	14	obj	_	_	인용/ncpa+을/jco
+14	배제하였다	배제+하+었+다	VERB	_	0	root	_	_	배제/ncpa+하/xsv+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그리고 일본 교과서 인용 원문은 책 뒷면에 따로 모아 두었다 .
+1	그리고	그리고	CCONJ	_	9	cc	_	_	그리고/maj
+2	일본	일본	PROPN	_	3	compound	_	_	일본/nq
+3	교과서	교과서	NOUN	_	4	compound	_	_	교과서/ncn
+4	인용	인용	NOUN	_	5	compound	_	_	인용/ncpa
+5	원문은	원문+은	NOUN	_	9	dislocated	_	_	원문/ncn+은/jxt
+6	책	책	NOUN	_	7	compound	_	_	책/ncn
+7	뒷면에	뒷면+에	ADV	_	9	obl	_	_	뒷면/ncn+에/jca
+8	따로	따로	ADV	_	9	advmod	_	_	따로/mag
+9	모아	모으+아	VERB	_	0	root	_	_	모으/pvg+아/ecx
+10	두었다	두+었+다	AUX	_	9	aux	_	_	두/px+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 따라서 역사 전문가나 학자들의 참고 도서로서는 적합치 않음도 미리 밝혀둔다 .
+1	따라서	따라서	CCONJ	_	10	cc	_	_	따라서/maj
+2	역사	역사	NOUN	_	3	compound	_	_	역사/ncn
+3	전문가나	전문가+나	CCONJ	_	4	conj	_	_	전문가/ncn+나/jcj
+4	학자들의	학자+들+의	NOUN	_	6	nmod	_	_	학자/ncn+들/xsn+의/jcm
+5	참고	참고	NOUN	_	6	compound	_	_	참고/ncpa
+6	도서로서는	도서+로서+는	NOUN	_	7	dislocated	_	_	도서/ncn+로서/jca+는/jxt
+7	적합치	적합+하+지	VERB	_	10	advcl	_	_	적합/ncps+하/xsm+지/ecx
+8	않음도	않+ㅁ+도	ADV	_	7	aux	_	_	않/px+ㅁ/etn+도/jxc
+9	미리	미리	ADV	_	10	advmod	_	_	미리/mag
+10	밝혀둔다	밝히+어+두+ㄴ다	AUX	_	0	root	_	_	밝히/pvg+어/ecx+두/px+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 고대 일본의 역사가 한국인 역사라고 하는 한국인의 일반적 인식은 결코 과장이 아니다 .
+1	고대	고대	NOUN	_	2	compound	_	_	고대/ncn
+2	일본의	일본+의	PROPN	_	3	nmod	_	_	일본/nq+의/jcm
+3	역사가	역사+가	NOUN	_	5	nsubj	_	_	역사/ncn+가/jcs
+4	한국인	한국인	NOUN	_	5	compound	_	_	한국인/ncn
+5	역사라고	역사+이+라+고	VERB	_	6	conj	_	_	역사/ncn+이/jp+라/ef+고/jcr
+6	하는	하+는	VERB	_	9	acl	_	_	하/pvg+는/etm
+7	한국인의	한국인+의	NOUN	_	9	nmod	_	_	한국인/ncn+의/jcm
+8	일반적	일반+적	NOUN	_	9	amod	_	_	일반/ncn+적/xsn
+9	인식은	인식+은	NOUN	_	12	dislocated	_	_	인식/ncpa+은/jxt
+10	결코	결코	ADV	_	12	advmod	_	_	결코/mag
+11	과장이	과장+이	NOUN	_	12	csubj	_	_	과장/ncpa+이/jcc
+12	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 결국 그들은 문화의 수용을 이른바 도래인에 전적으로 의지할 수밖에 없었고 , 이것은 그들에게 필연적 상황이었다 .
+1	결국	결국	ADV	_	8	advmod	_	_	결국/mag
+2	그들은	그+들+은	PRON	_	8	dislocated	_	_	그/npp+들/xsn+은/jxt
+3	문화의	문화+의	NOUN	_	4	nmod	_	_	문화/ncn+의/jcm
+4	수용을	수용+을	NOUN	_	8	obj	_	_	수용/ncpa+을/jco
+5	이른바	이른바	ADV	_	6	advmod	_	_	이른바/mag
+6	도래인에	도래인+에	ADV	_	8	obl	_	_	도래인/ncn+에/jca
+7	전적으로	전+적+으로	ADV	_	8	advcl	_	_	전/ncn+적/xsn+으로/jca
+8	의지할	의지+하+ㄹ	VERB	_	15	conj	_	_	의지/ncpa+하/xsv+ㄹ/etm
+9	수밖에	수+밖에	ADV	_	10	fixed	_	_	수/nbn+밖에/jxc
+10	없었고	없+었+고	CCONJ	_	8	aux	_	_	없/paa+었/ep+고/ecc
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	이것은	이것+은	PRON	_	15	dislocated	_	_	이것/npd+은/jxt
+13	그들에게	그+들+에게	ADV	_	15	iobj	_	_	그/npp+들/xsn+에게/jca
+14	필연적	필연+적	NOUN	_	15	amod	_	_	필연/ncn+적/xsn
+15	상황이었다	상황+이+었+다	VERB	_	0	root	_	_	상황/ncn+이/jp+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 또한 도래인과의 만남은 그들의 역사 발전에서 최고의 행운이기도 하였다 .
+1	또한	또한	CCONJ	_	8	cc	_	_	또한/maj
+2	도래인과의	도래인+과+의	NOUN	_	3	nmod	_	_	도래인/ncn+과/jct+의/jcm
+3	만남은	만나+ㅁ+은	NOUN	_	8	dislocated	_	_	만나/pvg+ㅁ/etn+은/jxt
+4	그들의	그+들+의	PRON	_	6	nmod	_	_	그/npp+들/xsn+의/jcm
+5	역사	역사	NOUN	_	6	compound	_	_	역사/ncn
+6	발전에서	발전+에서	ADV	_	8	advcl	_	_	발전/ncpa+에서/jca
+7	최고의	최고+의	NOUN	_	8	nmod	_	_	최고/ncn+의/jcm
+8	행운이기도	행운+이+기+도	ADV	_	0	root	_	_	행운/ncn+이/jp+기/etn+도/jxc
+9	하였다	하+었+다	AUX	_	8	aux	_	_	하/px+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 독자적인 문화 형성 능력을 전혀 갖추지 못했던 그들에게 도래인의 출현은 결국 문화의 시작이었고 , 도래인의 기술 능력의 확산은 문화의 발전을 의미했다 .
+1	독자적인	독자+적+이+ㄴ	VERB	_	4	acl	_	_	독자/ncn+적/xsn+이/jp+ㄴ/etm
+2	문화	문화	NOUN	_	3	compound	_	_	문화/ncn
+3	형성	형성	NOUN	_	4	compound	_	_	형성/ncpa
+4	능력을	능력+을	NOUN	_	6	obj	_	_	능력/ncn+을/jco
+5	전혀	전혀	ADV	_	6	advmod	_	_	전혀/mag
+6	갖추지	갖추+지	VERB	_	8	acl	_	_	갖추/pvg+지/ecx
+7	못했던	못하+었+던	AUX	_	6	aux	_	_	못하/px+었/ep+던/etm
+8	그들에게	그+들+에게	ADV	_	21	iobj	_	_	그/npp+들/xsn+에게/jca
+9	도래인의	도래인+의	NOUN	_	10	nmod	_	_	도래인/ncn+의/jcm
+10	출현은	출현+은	NOUN	_	13	dislocated	_	_	출현/ncpa+은/jxt
+11	결국	결국	ADV	_	13	advmod	_	_	결국/mag
+12	문화의	문화+의	NOUN	_	13	nmod	_	_	문화/ncn+의/jcm
+13	시작이었고	시작+이+었+고	CCONJ	_	21	conj	_	_	시작/ncpa+이/jp+었/ep+고/ecc
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	도래인의	도래인+의	NOUN	_	17	nmod	_	_	도래인/ncn+의/jcm
+16	기술	기술	NOUN	_	17	compound	_	_	기술/ncn
+17	능력의	능력+의	NOUN	_	18	nmod	_	_	능력/ncn+의/jcm
+18	확산은	확산+은	NOUN	_	21	dislocated	_	_	확산/ncpa+은/jxt
+19	문화의	문화+의	NOUN	_	20	nmod	_	_	문화/ncn+의/jcm
+20	발전을	발전+을	NOUN	_	21	obj	_	_	발전/ncpa+을/jco
+21	의미했다	의미+하+었+다	VERB	_	0	root	_	_	의미/ncpa+하/xsv+었/ep+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 열도에서는 야요이인 ( 彌生人 ) 으로 밝혀진 십여구의 고대 인골이 발견되었는데 , 이들이 한국 고대인의 인골과 같다는 사실에 주목할 필요가 있다 .
+1	열도에서는	열도+에서+는	NOUN	_	7	dislocated	_	_	열도/ncn+에서/jca+는/jxt
+2	야요이인	야요이+인	NOUN	_	7	advcl	_	_	야요이/nq+인/ncn
+3	(	(	PUNCT	_	4	punct	_	_	(/sl
+4	彌生人	彌生人	PROPN	_	2	appos	_	_	彌生人/nq
+5	)	)	PUNCT	_	4	punct	_	_	)/sr
+6	으로	으로	ADP	_	2	case	_	_	으로/jca
+7	밝혀진	밝히+어+지+ㄴ	AUX	_	10	acl	_	_	밝히/pvg+어/ecx+지/px+ㄴ/etm
+8	십여구의	십+여+구+의	NUM	_	10	nmod	_	_	십/nnc+여/xsn+구/nbu+의/jcm
+9	고대	고대	NOUN	_	10	compound	_	_	고대/ncn
+10	인골이	인골+이	NOUN	_	11	nsubj	_	_	인골/ncn+이/jcs
+11	발견되었는데	발견+되+었+는데	SCONJ	_	17	conj	_	_	발견/ncpa+되/xsv+었/ep+는데/ecs
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	이들이	이+들+이	PRON	_	17	nsubj	_	_	이/npd+들/xsn+이/jcs
+14	한국	한국	PROPN	_	15	compound	_	_	한국/nq
+15	고대인의	고대인+의	NOUN	_	16	nmod	_	_	고대인/ncn+의/jcm
+16	인골과	인골+과	CCONJ	_	17	conj	_	_	인골/ncn+과/jct
+17	같다는	같+다는	ADJ	_	18	amod	_	_	같/paa+다는/etm
+18	사실에	사실+에	ADV	_	19	obl	_	_	사실/ncn+에/jca
+19	주목할	주목+하+ㄹ	VERB	_	20	acl	_	_	주목/ncpa+하/xsv+ㄹ/etm
+20	필요가	필요+가	NOUN	_	21	nsubj	_	_	필요/ncpa+가/jcs
+21	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 이처럼 한국인의 역량과 역할이 배제된 상황에서는 도저히 역사 그 자체를 설명할 수 없는 일본의 고대사를 그들 사학은 어떻게 보고 있는가 ?
+1	이처럼	이+처럼	ADV	_	5	advcl	_	_	이/npd+처럼/jca
+2	한국인의	한국인+의	NOUN	_	4	nmod	_	_	한국인/ncn+의/jcm
+3	역량과	역량+과	CCONJ	_	4	conj	_	_	역량/ncn+과/jcj
+4	역할이	역할+이	NOUN	_	5	nsubj	_	_	역할/ncpa+이/jcs
+5	배제된	배제+되+ㄴ	VERB	_	6	acl	_	_	배제/ncpa+되/xsv+ㄴ/etm
+6	상황에서는	상황+에서+는	NOUN	_	11	dislocated	_	_	상황/ncn+에서/jca+는/jxt
+7	도저히	도저히	ADV	_	11	advmod	_	_	도저히/mag
+8	역사	역사	NOUN	_	10	compound	_	_	역사/ncn
+9	그	그	DET	_	10	det	_	_	그/mmd
+10	자체를	자체+를	NOUN	_	11	obj	_	_	자체/ncn+를/jco
+11	설명할	설명+하+ㄹ	VERB	_	15	acl	_	_	설명/ncpa+하/xsv+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	없는	없+는	ADJ	_	11	aux	_	_	없/paa+는/etm
+14	일본의	일본+의	PROPN	_	15	nmod	_	_	일본/nq+의/jcm
+15	고대사를	고대사+를	NOUN	_	19	obj	_	_	고대사/ncn+를/jco
+16	그들	그+들	NOUN	_	17	compound	_	_	그/npp+들/xsn
+17	사학은	사학+은	NOUN	_	19	dislocated	_	_	사학/ncn+은/jxt
+18	어떻게	어떻+게	SCONJ	_	19	xcomp	_	_	어떻/pad+게/ecs
+19	보고	보+고	VERB	_	0	root	_	_	보/pvg+고/ecx
+20	있는가	있+는가	AUX	_	19	aux	_	_	있/px+는가/ef
+21	?	?	PUNCT	_	20	punct	_	_	?/sf
+
+# 교과서에 수록된 고대 한국 , 중국 , 일본 세 나라의 관계를 정리한 부분을 통해 이들 역사 지식의 단면을 살펴보기로 하자 .
+1	교과서에	교과서+에	ADV	_	2	obl	_	_	교과서/ncn+에/jca
+2	수록된	수록+되+ㄴ	VERB	_	11	acl	_	_	수록/ncpa+되/xsv+ㄴ/etm
+3	고대	고대	NOUN	_	8	compound	_	_	고대/ncn
+4	한국	한국	PROPN	_	6	conj	_	_	한국/nq
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	중국	중국	PROPN	_	8	conj	_	_	중국/nq
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	일본	일본	PROPN	_	10	compound	_	_	일본/nq
+9	세	세	NUM	_	10	nummod	_	_	세/nnc
+10	나라의	나라+의	NOUN	_	11	nmod	_	_	나라/ncn+의/jcm
+11	관계를	관계+를	NOUN	_	12	obj	_	_	관계/ncpa+를/jco
+12	정리한	정리+하+ㄴ	VERB	_	13	acl	_	_	정리/ncpa+하/xsv+ㄴ/etm
+13	부분을	부분+을	NOUN	_	14	obj	_	_	부분/ncn+을/jco
+14	통해	통+하+어	SCONJ	_	19	conj	_	_	통/ncpa+하/xsv+어/ecs
+15	이들	이+들	NOUN	_	17	compound	_	_	이/npd+들/xsn
+16	역사	역사	NOUN	_	17	compound	_	_	역사/ncn
+17	지식의	지식+의	NOUN	_	18	nmod	_	_	지식/ncn+의/jcm
+18	단면을	단면+을	NOUN	_	19	obj	_	_	단면/ncn+을/jco
+19	살펴보기로	살피+어+보+기+로	ADV	_	20	advcl	_	_	살피/pvg+어/ecx+보/px+기/etn+로/jca
+20	하자	하+자	VERB	_	0	root	_	_	하/pvg+자/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 일본과 조선 , 중국 사이에는 중요한 차이가 있다 .
+1	일본과	일본+과	CCONJ	_	2	conj	_	_	일본/nq+과/jcj
+2	조선	조선	PROPN	_	4	conj	_	_	조선/nq
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	중국	중국	PROPN	_	5	compound	_	_	중국/nq
+5	사이에는	사이+에+는	NOUN	_	8	dislocated	_	_	사이/ncn+에/jca+는/jxt
+6	중요한	중요+하+ㄴ	VERB	_	7	amod	_	_	중요/ncps+하/xsm+ㄴ/etm
+7	차이가	차이+가	NOUN	_	8	nsubj	_	_	차이/ncn+가/jcs
+8	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 우선 중국에서는 원시 사회로부터 고대 사회로의 발전이 일찍이 1500년경에 시작되어 독자적으로 문자와 금속기 문명을 창조해 냈고 국가를 세웠다 .
+1	우선	우선	ADV	_	18	advmod	_	_	우선/mag
+2	중국에서는	중국+에서+는	PROPN	_	18	dislocated	_	_	중국/nq+에서/jca+는/jxt
+3	원시	원시	NOUN	_	4	compound	_	_	원시/ncn
+4	사회로부터	사회+로+부터	ADV	_	6	advcl	_	_	사회/ncn+로/jca+부터/jxc
+5	고대	고대	NOUN	_	6	compound	_	_	고대/ncn
+6	사회로의	사회+로+의	NOUN	_	7	nmod	_	_	사회/ncn+로/jca+의/jcm
+7	발전이	발전+이	NOUN	_	10	nsubj	_	_	발전/ncpa+이/jcs
+8	일찍이	일찍이	ADV	_	10	advmod	_	_	일찍이/mag
+9	1500년경에	1500+년+경+에	ADV	_	10	obl	_	_	1500/nno+년/nbu+경/xsn+에/jca
+10	시작되어	시작+되+어	SCONJ	_	18	ccomp	_	_	시작/ncpa+되/xsv+어/ecs
+11	독자적으로	독자+적+으로	ADV	_	15	advcl	_	_	독자/ncn+적/xsn+으로/jca
+12	문자와	문자+와	CCONJ	_	13	conj	_	_	문자/ncn+와/jcj
+13	금속기	금속기	NOUN	_	14	compound	_	_	금속기/ncn
+14	문명을	문명+을	NOUN	_	15	obj	_	_	문명/ncn+을/jco
+15	창조해	창조+하+어	VERB	_	18	conj	_	_	창조/ncpa+하/xsv+어/ecx
+16	냈고	내+ㅆ+고	CCONJ	_	15	aux	_	_	내/px+ㅆ/ep+고/ecc
+17	국가를	국가+를	NOUN	_	18	obj	_	_	국가/ncn+를/jco
+18	세웠다	세우+었+다	VERB	_	0	root	_	_	세우/pvg+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그러나 이에 반해 일본과 조선은 중국 고대 문명의 영향을 받아 기원전 3세기를 전후로 하여 수경 농업과 금속기를 받아들였다 .
+1	그러나	그러나	CCONJ	_	18	cc	_	_	그러나/maj
+2	이에	이+에	ADV	_	3	obl	_	_	이/npd+에/jca
+3	반해	반하+어	SCONJ	_	18	ccomp	_	_	반하/pvg+어/ecs
+4	일본과	일본+과	CCONJ	_	5	conj	_	_	일본/nq+과/jcj
+5	조선은	조선+은	PROPN	_	18	dislocated	_	_	조선/nq+은/jxt
+6	중국	중국	PROPN	_	7	compound	_	_	중국/nq
+7	고대	고대	NOUN	_	8	compound	_	_	고대/ncn
+8	문명의	문명+의	NOUN	_	9	nmod	_	_	문명/ncn+의/jcm
+9	영향을	영향+을	NOUN	_	10	obj	_	_	영향/ncn+을/jco
+10	받아	받+아	SCONJ	_	18	ccomp	_	_	받/pvg+아/ecs
+11	기원전	기원전	NOUN	_	12	compound	_	_	기원전/ncn
+12	3세기를	3+세기+를	NUM	_	14	obj	_	_	3/nno+세기/ncn+를/jco
+13	전후로	전후+로	ADV	_	14	advcl	_	_	전후/ncn+로/jca
+14	하여	하+어	SCONJ	_	18	ccomp	_	_	하/pvg+어/ecs
+15	수경	수경	NOUN	_	16	compound	_	_	수경/ncn
+16	농업과	농업+과	CCONJ	_	17	conj	_	_	농업/ncn+과/jcj
+17	금속기를	금속기+를	NOUN	_	18	obj	_	_	금속기/ncn+를/jco
+18	받아들였다	받아들이+었+다	VERB	_	0	root	_	_	받아들이/pvg+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그러나 이에 비해 일본이나 조선에서는 상공업의 발전도가 낮아 농민 반란은 거의 발생하지 않는 특징을 나타낸다 .
+1	그러나	그러나	CCONJ	_	15	cc	_	_	그러나/maj
+2	이에	이+에	ADV	_	3	obl	_	_	이/npd+에/jca
+3	비해	비+하+어	SCONJ	_	12	ccomp	_	_	비/ncpa+하/xsv+어/ecs
+4	일본이나	일본+이나	CCONJ	_	5	conj	_	_	일본/nq+이나/jcj
+5	조선에서는	조선+에서+는	PROPN	_	12	dislocated	_	_	조선/nq+에서/jca+는/jxt
+6	상공업의	상공업+의	NOUN	_	7	nmod	_	_	상공업/ncn+의/jcm
+7	발전도가	발전도+가	NOUN	_	8	nsubj	_	_	발전도/ncn+가/jcs
+8	낮아	낮+아	SCONJ	_	12	xcomp	_	_	낮/paa+아/ecs
+9	농민	농민	NOUN	_	10	compound	_	_	농민/ncn
+10	반란은	반란+은	NOUN	_	12	dislocated	_	_	반란/ncpa+은/jxt
+11	거의	거의	ADV	_	12	advmod	_	_	거의/mag
+12	발생하지	발생+하+지	VERB	_	14	acl	_	_	발생/ncpa+하/xsv+지/ecx
+13	않는	않+는	AUX	_	12	aux	_	_	않/px+는/etm
+14	특징을	특징+을	NOUN	_	15	obj	_	_	특징/ncn+을/jco
+15	나타낸다	나타내+ㄴ다	VERB	_	0	root	_	_	나타내/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 더욱이 일본과 중국 , 조선을 비교하면 일본에서는 타민족의 침입이나 지배를 거의 체험하지 않았다는 사실을 간과해서는 안될 것이다 .
+1	더욱이	더욱이	ADV	_	6	advmod	_	_	더욱이/mag
+2	일본과	일본+과	CCONJ	_	3	conj	_	_	일본/nq+과/jcj
+3	중국	중국	PROPN	_	5	conj	_	_	중국/nq
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	조선을	조선+을	PROPN	_	6	obj	_	_	조선/nq+을/jco
+6	비교하면	비교+하+면	SCONJ	_	16	ccomp	_	_	비교/ncpa+하/xsv+면/ecs
+7	일본에서는	일본+에서+는	PROPN	_	12	dislocated	_	_	일본/nq+에서/jca+는/jxt
+8	타민족의	타민족+의	NOUN	_	10	nmod	_	_	타민족/ncn+의/jcm
+9	침입이나	침입+이나	CCONJ	_	10	conj	_	_	침입/ncpa+이나/jcj
+10	지배를	지배+를	NOUN	_	12	obj	_	_	지배/ncpa+를/jco
+11	거의	거의	ADV	_	12	advmod	_	_	거의/mag
+12	체험하지	체험+하+지	VERB	_	14	acl	_	_	체험/ncpa+하/xsv+지/ecx
+13	않았다는	않+았+다는	AUX	_	12	aux	_	_	않/px+았/ep+다는/etm
+14	사실을	사실+을	NOUN	_	15	obj	_	_	사실/ncn+을/jco
+15	간과해서는	간과+하+어서+는	NOUN	_	16	ccomp	_	_	간과/ncpa+하/xsv+어서/ecs+는/jxt
+16	안될	안되+ㄹ	VERB	_	0	root	_	_	안되/pvg+ㄹ/etm
+17	것이다	것+이+다	VERB	_	16	aux	_	_	것/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그저 한국의 역사를 용렬하고 편협한 비판 의식으로 조망하고 있는 데서 우리의 놀라움은 큰 것이다 .
+1	그저	그저	ADV	_	8	advmod	_	_	그저/mag
+2	한국의	한국+의	PROPN	_	3	nmod	_	_	한국/nq+의/jcm
+3	역사를	역사+를	NOUN	_	8	obj	_	_	역사/ncn+를/jco
+4	용렬하고	용렬+하+고	CCONJ	_	5	conj	_	_	용렬/ncps+하/xsm+고/ecc
+5	편협한	편협+하+ㄴ	VERB	_	7	amod	_	_	편협/ncps+하/xsm+ㄴ/etm
+6	비판	비판	NOUN	_	7	compound	_	_	비판/ncpa
+7	의식으로	의식+으로	ADV	_	8	advcl	_	_	의식/ncpa+으로/jca
+8	조망하고	조망+하+고	VERB	_	10	acl	_	_	조망/ncpa+하/xsv+고/ecx
+9	있는	있+는	AUX	_	8	aux	_	_	있/px+는/etm
+10	데서	데+서	ADV	_	13	advcl	_	_	데/nbn+서/jca
+11	우리의	우리+의	PRON	_	12	nmod	_	_	우리/npp+의/jcm
+12	놀라움은	놀랍+ㅁ+은	NOUN	_	13	dislocated	_	_	놀랍/paa+ㅁ/etn+은/jxt
+13	큰	크+ㄴ	ADJ	_	0	root	_	_	크/paa+ㄴ/etm
+14	것이다	것+이+다	VERB	_	13	aux	_	_	것/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 위의 인용글에서 나타난 한국 관계 내용은 다음과 같이 정리된다 .
+1	위의	위+의	NOUN	_	2	nmod	_	_	위/ncn+의/jcm
+2	인용글에서	인용글+에서	ADV	_	3	advcl	_	_	인용글/ncn+에서/jca
+3	나타난	나타나+ㄴ	VERB	_	6	acl	_	_	나타나/pvg+ㄴ/etm
+4	한국	한국	PROPN	_	5	compound	_	_	한국/nq
+5	관계	관계	NOUN	_	6	compound	_	_	관계/ncpa
+6	내용은	내용+은	NOUN	_	9	dislocated	_	_	내용/ncn+은/jxt
+7	다음과	다음+과	CCONJ	_	8	conj	_	_	다음/ncn+과/jct
+8	같이	같+이	SCONJ	_	9	xcomp	_	_	같/paa+이/ecs
+9	정리된다	정리+되+ㄴ다	VERB	_	0	root	_	_	정리/ncpa+되/xsv+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 한국과 일본의 고대 문명이 중국을 모태로 발전해 왔다고 하는 것은 주지의 사실로 이견의 여지가 없으리라 본다 .
+1	한국과	한국+과	CCONJ	_	2	conj	_	_	한국/nq+과/jcj
+2	일본의	일본+의	PROPN	_	4	nmod	_	_	일본/nq+의/jcm
+3	고대	고대	NOUN	_	4	compound	_	_	고대/ncn
+4	문명이	문명+이	NOUN	_	7	nsubj	_	_	문명/ncn+이/jcs
+5	중국을	중국+을	PROPN	_	6	obj	_	_	중국/nq+을/jco
+6	모태로	모태+로	ADV	_	7	advcl	_	_	모태/ncn+로/jca
+7	발전해	발전+하+어	VERB	_	9	conj	_	_	발전/ncpa+하/xsv+어/ecx
+8	왔다고	오+았+다+고	VERB	_	7	aux	_	_	오/px+았/ep+다/ef+고/jcr
+9	하는	하+는	VERB	_	10	acl	_	_	하/pvg+는/etm
+10	것은	것+은	NOUN	_	15	dislocated	_	_	것/nbn+은/jxt
+11	주지의	주지+의	NOUN	_	12	nmod	_	_	주지/ncpa+의/jcm
+12	사실로	사실+로	ADV	_	15	advcl	_	_	사실/ncn+로/jca
+13	이견의	이견+의	NOUN	_	14	nmod	_	_	이견/ncn+의/jcm
+14	여지가	여지+가	NOUN	_	15	nsubj	_	_	여지/ncn+가/jcs
+15	없으리라	없+으리라	ADJ	_	16	ccomp	_	_	없/paa+으리라/ef
+16	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그러나 그 수용의 시기가 같은 3세기경이라는 데에서 심각한 의혹이 제기된다 .
+1	그러나	그러나	CCONJ	_	10	cc	_	_	그러나/maj
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	수용의	수용+의	NOUN	_	4	nmod	_	_	수용/ncpa+의/jcm
+4	시기가	시기+가	NOUN	_	6	nsubj	_	_	시기/ncn+가/jcs
+5	같은	같+ㄴ	ADJ	_	6	amod	_	_	같/paa+ㄴ/etm
+6	3세기경이라는	3+세기+경+이+라는	VERB	_	7	acl	_	_	3/nnc+세기/ncn+경/xsn+이/jp+라는/etm
+7	데에서	데+에서	ADV	_	10	advcl	_	_	데/nbn+에서/jca
+8	심각한	심각+하+ㄴ	VERB	_	9	amod	_	_	심각/ncps+하/xsm+ㄴ/etm
+9	의혹이	의혹+이	NOUN	_	10	nsubj	_	_	의혹/ncpa+이/jcs
+10	제기된다	제기+되+ㄴ다	VERB	_	0	root	_	_	제기/ncpa+되/xsv+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 실제로는 이미 기원전 10세기 이전에 한반도와 남만주 일대에 , 고조선의 모태가 되었고 청동기 문화를 배경으로 하는 정치 집단이 융성하고 있었다 .
+1	실제로는	실제로+는	NOUN	_	19	advmod	_	_	실제로/mag+는/jxt
+2	이미	이미	ADV	_	5	advmod	_	_	이미/mag
+3	기원전	기원전	NOUN	_	4	compound	_	_	기원전/ncn
+4	10세기	10+세기	NOUN	_	5	compound	_	_	10/nno+세기/ncn
+5	이전에	이전+에	ADV	_	19	obl	_	_	이전/ncn+에/jca
+6	한반도와	한반도+와	CCONJ	_	7	conj	_	_	한반도/nq+와/jcj
+7	남만주	남만주	PROPN	_	8	compound	_	_	남만주/nq
+8	일대에	일대+에	ADV	_	19	advmod	_	_	일대/ncn+에/jca
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	고조선의	고조선+의	PROPN	_	11	nmod	_	_	고조선/nq+의/jcm
+11	모태가	모태+가	NOUN	_	12	csubj	_	_	모태/ncn+가/jcc
+12	되었고	되+었+고	CCONJ	_	16	conj	_	_	되/pvg+었/ep+고/ecc
+13	청동기	청동기	NOUN	_	14	compound	_	_	청동기/ncn
+14	문화를	문화+를	NOUN	_	16	obj	_	_	문화/ncn+를/jco
+15	배경으로	배경+으로	ADV	_	16	advcl	_	_	배경/ncn+으로/jca
+16	하는	하+는	VERB	_	18	acl	_	_	하/pvg+는/etm
+17	정치	정치	NOUN	_	18	compound	_	_	정치/ncn
+18	집단이	집단+이	NOUN	_	19	nsubj	_	_	집단/ncn+이/jcs
+19	융성하고	융성+하+고	VERB	_	0	root	_	_	융성/ncpa+하/xsv+고/ecx
+20	있었다	있+었+다	AUX	_	19	aux	_	_	있/px+었/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 또한 이들은 기원전 7세기에 이르러 중국의 제薺나라와 교역까지 하게 된다 .
+1	또한	또한	CCONJ	_	9	cc	_	_	또한/maj
+2	이들은	이+들+은	PRON	_	9	dislocated	_	_	이/npp+들/xsn+은/jxt
+3	기원전	기원전	NOUN	_	4	compound	_	_	기원전/ncn
+4	7세기에	7+세기+에	ADV	_	5	obl	_	_	7/nno+세기/ncn+에/jca
+5	이르러	이르+어	SCONJ	_	9	ccomp	_	_	이르/pvg+어/ecs
+6	중국의	중국+의	PROPN	_	7	nmod	_	_	중국/nq+의/jcm
+7	제薺나라와	제薺+나라+와	CCONJ	_	9	conj	_	_	제薺/nq+나라/ncn+와/jct
+8	교역까지	교역+까지	ADV	_	9	advcl	_	_	교역/ncpa+까지/jxc
+9	하게	하+게	VERB	_	0	root	_	_	하/pvg+게/ecx
+10	된다	되+ㄴ다	AUX	_	9	aux	_	_	되/px+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 금속리를 예로 들어보자 .
+1	금속리를	금속리+를	NOUN	_	3	obj	_	_	금속리/ncn+를/jco
+2	예로	예+로	ADV	_	3	advcl	_	_	예/ncn+로/jca
+3	들어보자	들+어+보+자	AUX	_	0	root	_	_	들/pvg+어/ecx+보/px+자/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 한반도에서 출토된 고조선의 유물들은 학자들에 의해 그 제작 연대가 밝혀진 것만도 최소한 기원전 8세기 이상 그 연대가 소급된다 .
+1	한반도에서	한반도+에서	ADV	_	2	advcl	_	_	한반도/nq+에서/jca
+2	출토된	출토+되+ㄴ	VERB	_	4	acl	_	_	출토/ncpa+되/xsv+ㄴ/etm
+3	고조선의	고조선+의	PROPN	_	4	nmod	_	_	고조선/nq+의/jcm
+4	유물들은	유물+들+은	NOUN	_	18	dislocated	_	_	유물/ncn+들/xsn+은/jxt
+5	학자들에	학자+들+에	ADV	_	6	obl	_	_	학자/ncn+들/xsn+에/jca
+6	의해	의하+어	SCONJ	_	10	ccomp	_	_	의하/pvg+어/ecs
+7	그	그	DET	_	8	det	_	_	그/mmd
+8	제작	제작	NOUN	_	9	compound	_	_	제작/ncpa
+9	연대가	연대+가	NOUN	_	10	nsubj	_	_	연대/ncn+가/jcs
+10	밝혀진	밝히+어+지+ㄴ	AUX	_	11	acl	_	_	밝히/pvg+어/ecx+지/px+ㄴ/etm
+11	것만도	것+만+도	ADV	_	18	advcl	_	_	것/nbn+만/jxc+도/jxc
+12	최소한	최소한	NOUN	_	14	compound	_	_	최소한/ncn
+13	기원전	기원전	NOUN	_	14	compound	_	_	기원전/ncn
+14	8세기	8+세기	NOUN	_	15	compound	_	_	8/nno+세기/ncn
+15	이상	이상	NOUN	_	18	advmod	_	_	이상/ncn
+16	그	그	DET	_	17	det	_	_	그/mmd
+17	연대가	연대+가	NOUN	_	18	nsubj	_	_	연대/ncn+가/jcs
+18	소급된다	소급+되+ㄴ다	VERB	_	0	root	_	_	소급/ncpa+되/xsv+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그리고 일본의 유물은 북부 규슈 ( 九州 ) 지방에 야요이 ( 彌生 ) 문화가 성립하는 기원전 3세기의 것으로 알려져 있다 .
+1	그리고	그리고	CCONJ	_	19	cc	_	_	그리고/maj
+2	일본의	일본+의	PROPN	_	3	nmod	_	_	일본/nq+의/jcm
+3	유물은	유물+은	NOUN	_	19	dislocated	_	_	유물/ncn+은/jxt
+4	북부	북부	NOUN	_	5	compound	_	_	북부/ncn
+5	규슈	규슈	PROPN	_	9	compound	_	_	규슈/nq
+6	(	(	PUNCT	_	7	punct	_	_	(/sl
+7	九州	九州	PROPN	_	5	appos	_	_	九州/nq
+8	)	)	PUNCT	_	7	punct	_	_	)/sr
+9	지방에	지방+에	ADV	_	15	obl	_	_	지방/ncn+에/jca
+10	야요이	야요이	PROPN	_	14	compound	_	_	야요이/nq
+11	(	(	PUNCT	_	12	punct	_	_	(/sl
+12	彌生	彌生	PROPN	_	10	appos	_	_	彌生/nq
+13	)	)	PUNCT	_	12	punct	_	_	)/sr
+14	문화가	문화+가	NOUN	_	15	nsubj	_	_	문화/ncn+가/jcs
+15	성립하는	성립+하+는	VERB	_	17	acl	_	_	성립/ncpa+하/xsv+는/etm
+16	기원전	기원전	NOUN	_	17	compound	_	_	기원전/ncn
+17	3세기의	3+세기+의	NUM	_	18	nmod	_	_	3/nno+세기/ncn+의/jcm
+18	것으로	것+으로	ADV	_	19	advcl	_	_	것/nbn+으로/jca
+19	알려져	알리+어+지+어	AUX	_	0	root	_	_	알리/pvg+어/ecx+지/px+어/ecx
+20	있다	있+다	AUX	_	19	aux	_	_	있/px+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 당시 일본에서 외래인은 거의 모두가 한국인이었다 .
+1	당시	당시	NOUN	_	2	compound	_	_	당시/ncn
+2	일본에서	일본+에서	ADV	_	6	advcl	_	_	일본/nq+에서/jca
+3	외래인은	외래인+은	NOUN	_	6	dislocated	_	_	외래인/ncn+은/jxt
+4	거의	거의	ADV	_	5	advmod	_	_	거의/mag
+5	모두가	모두+가	NOUN	_	6	nsubj	_	_	모두/ncn+가/jcs
+6	한국인이었다	한국인+이+었+다	VERB	_	0	root	_	_	한국인/ncn+이/jp+었/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 게다가 이것이 후세 교육에 활용되고 있다는 사실은 놀라움이 넘어 분노를 일으키기에 충분하다 하겠다 .
+1	게다가	게다가	ADV	_	13	advmod	_	_	게다가/mag
+2	이것이	이것+이	PRON	_	5	nsubj	_	_	이것/npd+이/jcs
+3	후세	후세	NOUN	_	4	compound	_	_	후세/ncn
+4	교육에	교육+에	ADV	_	5	obl	_	_	교육/ncpa+에/jca
+5	활용되고	활용+되+고	VERB	_	7	acl	_	_	활용/ncpa+되/xsv+고/ecx
+6	있다는	있+다는	AUX	_	5	aux	_	_	있/px+다는/etm
+7	사실은	사실+은	NOUN	_	12	dislocated	_	_	사실/ncn+은/jxt
+8	놀라움이	놀랍+ㅁ+이	NOUN	_	9	nsubj	_	_	놀랍/paa+ㅁ/etn+이/jcs
+9	넘어	넘+어	SCONJ	_	11	conj	_	_	넘/pvg+어/ecs
+10	분노를	분노+를	NOUN	_	11	obj	_	_	분노/ncpa+를/jco
+11	일으키기에	일으키+기+에	ADV	_	12	obl	_	_	일으키/pvg+기/etn+에/jca
+12	충분하다	충분+하+다	VERB	_	13	ccomp	_	_	충분/ncps+하/xsm+다/ef
+13	하겠다	하+겠+다	VERB	_	0	root	_	_	하/pvg+겠/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 또한 순진무구한 우리의 독자들마저 위 내용에 공감을 표할지도 모르겠다 .
+1	또한	또한	CCONJ	_	9	cc	_	_	또한/maj
+2	순진무구한	순진무구+하+ㄴ	VERB	_	4	amod	_	_	순진무구/ncps+하/xsm+ㄴ/etm
+3	우리의	우리+의	PRON	_	4	nmod	_	_	우리/npp+의/jcm
+4	독자들마저	독자+들+마저	ADV	_	8	advcl	_	_	독자/ncn+들/xsn+마저/jxc
+5	위	위	NOUN	_	6	compound	_	_	위/ncn
+6	내용에	내용+에	ADV	_	8	obl	_	_	내용/ncn+에/jca
+7	공감을	공감+을	NOUN	_	8	obj	_	_	공감/ncpa+을/jco
+8	표할지도	표하+ㄹ지+도	ADV	_	9	advcl	_	_	표하/pvg+ㄹ지/ef+도/jxc
+9	모르겠다	모르+겠+다	VERB	_	0	root	_	_	모르/pvg+겠/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러나 조금만 세심히 들여다보면 그 이면에 숨어 있는 불순한 의도를 찾아내는 일은 그리 어려운 일도 아니다 .
+1	그러나	그러나	CCONJ	_	16	cc	_	_	그러나/maj
+2	조금만	조금+만	ADV	_	4	advcl	_	_	조금/ncn+만/jxc
+3	세심히	세심+히	ADV	_	4	advmod	_	_	세심/ncps+히/xsa
+4	들여다보면	들여다보+면	SCONJ	_	16	conj	_	_	들여다보/pvg+면/ecs
+5	그	그	DET	_	6	det	_	_	그/mmd
+6	이면에	이면+에	ADV	_	7	obl	_	_	이면/ncn+에/jca
+7	숨어	숨+어	VERB	_	10	acl	_	_	숨/pvg+어/ecx
+8	있는	있+는	AUX	_	7	aux	_	_	있/px+는/etm
+9	불순한	불순+하+ㄴ	VERB	_	10	amod	_	_	불순/ncps+하/xsm+ㄴ/etm
+10	의도를	의도+를	NOUN	_	11	obj	_	_	의도/ncpa+를/jco
+11	찾아내는	찾+아+내+는	AUX	_	12	acl	_	_	찾/pvg+아/ecx+내/px+는/etm
+12	일은	일+은	NOUN	_	16	dislocated	_	_	일/ncn+은/jxt
+13	그리	그리	ADV	_	14	advmod	_	_	그리/mag
+14	어려운	어렵+ㄴ	ADJ	_	15	amod	_	_	어렵/paa+ㄴ/etm
+15	일도	일+도	ADV	_	16	advcl	_	_	일/ncn+도/jxc
+16	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 일본이 이민족의 침입을 받지 않았다는 사실과 한국이 오랜 동안 중국의 지배하에 있었다는 사실에서 일본 사학이 궁극적으로 표현하고자 하는 바는 무엇인가 ?
+1	일본이	일본+이	PROPN	_	4	nsubj	_	_	일본/nq+이/jcs
+2	이민족의	이민족+의	NOUN	_	3	nmod	_	_	이민족/ncn+의/jcm
+3	침입을	침입+을	NOUN	_	4	obj	_	_	침입/ncpa+을/jco
+4	받지	받+지	VERB	_	6	acl	_	_	받/pvg+지/ecx
+5	않았다는	않+았+다는	AUX	_	4	aux	_	_	않/px+았/ep+다는/etm
+6	사실과	사실+과	CCONJ	_	13	conj	_	_	사실/ncn+과/jcj
+7	한국이	한국+이	PROPN	_	12	nsubj	_	_	한국/nq+이/jcs
+8	오랜	오래+ㄴ	ADJ	_	9	amod	_	_	오래/paa+ㄴ/etm
+9	동안	동안	NOUN	_	12	dep	_	_	동안/ncn
+10	중국의	중국+의	PROPN	_	11	nmod	_	_	중국/nq+의/jcm
+11	지배하에	지배+하+에	ADV	_	12	obl	_	_	지배/ncpa+하/ncn+에/jca
+12	있었다는	있+었+다는	ADJ	_	13	amod	_	_	있/paa+었/ep+다는/etm
+13	사실에서	사실+에서	ADV	_	20	advcl	_	_	사실/ncn+에서/jca
+14	일본	일본	PROPN	_	15	compound	_	_	일본/nq
+15	사학이	사학+이	NOUN	_	17	nsubj	_	_	사학/ncn+이/jcs
+16	궁극적으로	궁극+적+으로	ADV	_	17	advcl	_	_	궁극/ncps+적/xsn+으로/jca
+17	표현하고자	표현+하+고자	VERB	_	19	acl	_	_	표현/ncpa+하/xsv+고자/ecx
+18	하는	하+는	AUX	_	17	aux	_	_	하/px+는/etm
+19	바는	바+는	NOUN	_	20	dislocated	_	_	바/nbn+는/jxt
+20	무엇인가	무엇+이+ㄴ가	VERB	_	0	root	_	_	무엇/npd+이/jp+ㄴ가/ef
+21	?	?	PUNCT	_	20	punct	_	_	?/sf
+
+# 고대 사회의 문화 수준이란 바로 군사력과 경제력 , 즉 국력을 의미한다 .
+1	고대	고대	NOUN	_	2	compound	_	_	고대/ncn
+2	사회의	사회+의	NOUN	_	4	nmod	_	_	사회/ncn+의/jcm
+3	문화	문화	NOUN	_	4	compound	_	_	문화/ncn
+4	수준이란	수준+이란	ADV	_	11	advcl	_	_	수준/ncn+이란/jxc
+5	바로	바로	ADV	_	11	advmod	_	_	바로/mag
+6	군사력과	군사력+과	CCONJ	_	7	conj	_	_	군사력/ncn+과/jcj
+7	경제력	경제력	NOUN	_	10	conj	_	_	경제력/ncn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	즉	즉	CCONJ	_	10	cc	_	_	즉/maj
+10	국력을	국력+을	NOUN	_	11	obj	_	_	국력/ncn+을/jco
+11	의미한다	의미+하+ㄴ다	VERB	_	0	root	_	_	의미/ncpa+하/xsv+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 따라서 한국 문화의 젖줄이었던 중국과의 접근이 용이했던 한국으로서 문화를 수입하는 과정에서 군사적 충돌을 경험한다는 것은 어쩌면 당연한 일일 것이다 .
+1	따라서	따라서	CCONJ	_	18	cc	_	_	따라서/maj
+2	한국	한국	PROPN	_	3	compound	_	_	한국/nq
+3	문화의	문화+의	NOUN	_	4	nmod	_	_	문화/ncn+의/jcm
+4	젖줄이었던	젖줄+이+었+던	VERB	_	5	acl	_	_	젖줄/ncn+이/jp+었/ep+던/etm
+5	중국과의	중국+과+의	PROPN	_	6	nmod	_	_	중국/nq+과/jct+의/jcm
+6	접근이	접근+이	NOUN	_	7	nsubj	_	_	접근/ncpa+이/jcs
+7	용이했던	용이+하+었+던	VERB	_	8	amod	_	_	용이/ncps+하/xsm+었/ep+던/etm
+8	한국으로서	한국+으로서	ADV	_	18	advcl	_	_	한국/nq+으로서/jca
+9	문화를	문화+를	NOUN	_	10	obj	_	_	문화/ncn+를/jco
+10	수입하는	수입+하+는	VERB	_	11	acl	_	_	수입/ncpa+하/xsv+는/etm
+11	과정에서	과정+에서	ADV	_	14	advcl	_	_	과정/ncpa+에서/jca
+12	군사적	군사+적	NOUN	_	13	amod	_	_	군사/ncn+적/xsn
+13	충돌을	충돌+을	NOUN	_	14	obj	_	_	충돌/ncpa+을/jco
+14	경험한다는	경험+하+ㄴ다는	VERB	_	15	acl	_	_	경험/ncpa+하/xsv+ㄴ다는/etm
+15	것은	것+은	NOUN	_	18	dislocated	_	_	것/nbn+은/jxt
+16	어쩌면	어쩌면	ADV	_	17	advmod	_	_	어쩌면/mag
+17	당연한	당연+하+ㄴ	VERB	_	18	amod	_	_	당연/ncps+하/xsm+ㄴ/etm
+18	일일	일+이+ㄹ	VERB	_	0	root	_	_	일/ncn+이/jp+ㄹ/etm
+19	것이다	것+이+다	VERB	_	18	aux	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 한편 일본의 경우를 보면 , 바다라는 차단막으로 인해 그들은 처음부터 중국과 격리되었던 것이다 .
+1	한편	한편	CCONJ	_	12	cc	_	_	한편/maj
+2	일본의	일본+의	PROPN	_	3	nmod	_	_	일본/nq+의/jcm
+3	경우를	경우+를	NOUN	_	4	obj	_	_	경우/ncn+를/jco
+4	보면	보+면	SCONJ	_	12	ccomp	_	_	보/pvg+면/ecs
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	바다라는	바다+이+라는	VERB	_	7	acl	_	_	바다/ncn+이/jp+라는/etm
+7	차단막으로	차단막+으로	ADV	_	8	advcl	_	_	차단막/ncn+으로/jca
+8	인해	인+하+어	SCONJ	_	12	ccomp	_	_	인/ncpa+하/xsv+어/ecs
+9	그들은	그+들+은	PRON	_	12	dislocated	_	_	그/npp+들/xsn+은/jxt
+10	처음부터	처음+부터	ADV	_	12	advcl	_	_	처음/ncn+부터/jxc
+11	중국과	중국+과	CCONJ	_	12	conj	_	_	중국/nq+과/jct
+12	격리되었던	격리+되+었+던	VERB	_	0	root	_	_	격리/ncpa+되/xsv+었/ep+던/etm
+13	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 또한 중국의 입장에서 보면 , 이동 능력이 취약했던 당시의 여건에서 위험을 무릅쓰고 바다를 건너 일본에까지 진출할 필요성이 없었다 .
+1	또한	또한	CCONJ	_	18	cc	_	_	또한/maj
+2	중국의	중국+의	PROPN	_	3	nmod	_	_	중국/nq+의/jcm
+3	입장에서	입장+에서	ADV	_	4	advcl	_	_	입장/ncpa+에서/jca
+4	보면	보+면	SCONJ	_	18	conj	_	_	보/pvg+면/ecs
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	이동	이동	NOUN	_	7	compound	_	_	이동/ncpa
+7	능력이	능력+이	NOUN	_	8	nsubj	_	_	능력/ncn+이/jcs
+8	취약했던	취약+하+었+던	VERB	_	10	acl	_	_	취약/ncpa+하/xsv+었/ep+던/etm
+9	당시의	당시+의	NOUN	_	10	nmod	_	_	당시/ncn+의/jcm
+10	여건에서	여건+에서	ADV	_	18	advcl	_	_	여건/ncn+에서/jca
+11	위험을	위험+을	NOUN	_	12	obj	_	_	위험/ncpa+을/jco
+12	무릅쓰고	무릅쓰+고	CCONJ	_	14	conj	_	_	무릅쓰/pvg+고/ecc
+13	바다를	바다+를	NOUN	_	14	obj	_	_	바다/ncn+를/jco
+14	건너	건너+어	SCONJ	_	16	ccomp	_	_	건너/pvg+어/ecs
+15	일본에까지	일본+에+까지	ADV	_	16	advcl	_	_	일본/nq+에/jca+까지/jxc
+16	진출할	진출+하+ㄹ	VERB	_	17	acl	_	_	진출/ncpa+하/xsv+ㄹ/etm
+17	필요성이	필요성+이	NOUN	_	18	nsubj	_	_	필요성/ncn+이/jcs
+18	없었다	없+었+다	ADJ	_	0	root	_	_	없/paa+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그뿐 아니라 , 당시의 일본은 중국의 관심을 끌 만한 존재는 못되었기 때문에 애초부터 중국과의 접촉 기회가 없었다 .
+1	그뿐	그+뿐	NOUN	_	2	advmod	_	_	그/npd+뿐/xsn
+2	아니라	아니+라	SCONJ	_	11	xcomp	_	_	아니/paa+라/ecs
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	당시의	당시+의	NOUN	_	5	nmod	_	_	당시/ncn+의/jcm
+5	일본은	일본+은	PROPN	_	11	dislocated	_	_	일본/nq+은/jxt
+6	중국의	중국+의	PROPN	_	7	nmod	_	_	중국/nq+의/jcm
+7	관심을	관심+을	NOUN	_	8	obj	_	_	관심/ncpa+을/jco
+8	끌	끌+ㄹ	VERB	_	10	acl	_	_	끌/pvg+ㄹ/etm
+9	만한	만하+ㄴ	AUX	_	8	aux	_	_	만하/px+ㄴ/etm
+10	존재는	존재+는	NOUN	_	11	dislocated	_	_	존재/ncpa+는/jxt
+11	못되었기	못되+었+기	VERB	_	12	nmod	_	_	못되/pvg+었/ep+기/etn
+12	때문에	때문+에	ADV	_	17	obl	_	_	때문/nbn+에/jca
+13	애초부터	애초+부터	ADV	_	17	advcl	_	_	애초/ncn+부터/jxc
+14	중국과의	중국+과+의	PROPN	_	15	nmod	_	_	중국/nq+과/jct+의/jcm
+15	접촉	접촉	NOUN	_	16	compound	_	_	접촉/ncn
+16	기회가	기회+가	NOUN	_	17	nsubj	_	_	기회/ncn+가/jcs
+17	없었다	없+었+다	ADJ	_	0	root	_	_	없/paa+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이러한 불순한 의도는 한사군의 한국 지배를 서술하는 장면에서 더욱 명백히 드러난다 .
+1	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+2	불순한	불순+하+ㄴ	VERB	_	3	amod	_	_	불순/ncps+하/xsm+ㄴ/etm
+3	의도는	의도+는	NOUN	_	11	dislocated	_	_	의도/ncpa+는/jxt
+4	한사군의	한사군+의	NOUN	_	6	nmod	_	_	한사군/ncn+의/jcm
+5	한국	한국	PROPN	_	6	compound	_	_	한국/nq
+6	지배를	지배+를	NOUN	_	7	obj	_	_	지배/ncpa+를/jco
+7	서술하는	서술+하+는	VERB	_	8	acl	_	_	서술/ncpa+하/xsv+는/etm
+8	장면에서	장면+에서	ADV	_	11	advcl	_	_	장면/ncn+에서/jca
+9	더욱	더욱	ADV	_	11	advmod	_	_	더욱/mag
+10	명백히	명백+히	ADV	_	9	dep	_	_	명백/ncps+히/xsa
+11	드러난다	드러나+ㄴ다	VERB	_	0	root	_	_	드러나/pvg+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 중국에서는 기원전 3세기에 진이 제국을 통일하고 이어 한이 강대한 국가를 확립하여 그 세력을 조선으로 뻗쳐 낙랑 등의 4군을 두었다 .
+1	중국에서는	중국+에서+는	PROPN	_	19	dislocated	_	_	중국/nq+에서/jca+는/jxt
+2	기원전	기원전	NOUN	_	3	compound	_	_	기원전/ncn
+3	3세기에	3+세기+에	ADV	_	6	obl	_	_	3/nno+세기/ncn+에/jca
+4	진이	진+이	PROPN	_	6	nsubj	_	_	진/nq+이/jcs
+5	제국을	제국+을	NOUN	_	6	obj	_	_	제국/ncn+을/jco
+6	통일하고	통일+하+고	SCONJ	_	11	ccomp	_	_	통일/ncpa+하/xsv+고/ecs
+7	이어	잇+어	SCONJ	_	11	ccomp	_	_	잇/pvg+어/ecs
+8	한이	한+이	PROPN	_	11	nsubj	_	_	한/nq+이/jcs
+9	강대한	강대+하+ㄴ	VERB	_	10	amod	_	_	강대/ncps+하/xsm+ㄴ/etm
+10	국가를	국가+를	NOUN	_	11	obj	_	_	국가/ncn+를/jco
+11	확립하여	확립+하+어	SCONJ	_	19	ccomp	_	_	확립/ncpa+하/xsv+어/ecs
+12	그	그	DET	_	13	det	_	_	그/mmd
+13	세력을	세력+을	NOUN	_	15	obj	_	_	세력/ncn+을/jco
+14	조선으로	조선+으로	ADV	_	15	advcl	_	_	조선/nq+으로/jca
+15	뻗쳐	뻗치+어	SCONJ	_	19	ccomp	_	_	뻗치/pvg+어/ecs
+16	낙랑	낙랑	PROPN	_	17	compound	_	_	낙랑/nq
+17	등의	등+의	NOUN	_	18	nmod	_	_	등/nbn+의/jcm
+18	4군을	4+군+을	NUM	_	19	obj	_	_	4/nnc+군/ncn+을/jco
+19	두었다	두+었+다	VERB	_	0	root	_	_	두/pvg+었/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 중국에서는 기원전 1500년경의 은 시대에 청동기 사용이 시작되었고 , 주 시대에는 그 전성기를 맞았다 .
+1	중국에서는	중국+에서+는	PROPN	_	14	dislocated	_	_	중국/nq+에서/jca+는/jxt
+2	기원전	기원전	NOUN	_	3	compound	_	_	기원전/ncn
+3	1500년경의	1500+년+경+의	NUM	_	5	nmod	_	_	1500/nno+년/nbu+경/xsn+의/jcm
+4	은	은	PROPN	_	5	compound	_	_	은/nq
+5	시대에	시대+에	ADV	_	8	obl	_	_	시대/ncn+에/jca
+6	청동기	청동기	NOUN	_	7	compound	_	_	청동기/ncn
+7	사용이	사용+이	NOUN	_	8	nsubj	_	_	사용/ncpa+이/jcs
+8	시작되었고	시작+되+었+고	CCONJ	_	14	conj	_	_	시작/ncpa+되/xsv+었/ep+고/ecc
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	주	주	PROPN	_	11	compound	_	_	주/nq
+11	시대에는	시대+에+는	NOUN	_	14	dislocated	_	_	시대/ncn+에/jca+는/jxt
+12	그	그	DET	_	13	det	_	_	그/mmd
+13	전성기를	전성기+를	NOUN	_	14	obj	_	_	전성기/ncn+를/jco
+14	맞았다	맞+았+다	VERB	_	0	root	_	_	맞/pvg+았/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이 주 시대에는 철기도 출현하여 한 시대에 이것이 급속히 보급되었다 .
+1	이	이	DET	_	3	det	_	_	이/mmd
+2	주	주	PROPN	_	3	compound	_	_	주/nq
+3	시대에는	시대+에+는	NOUN	_	10	dislocated	_	_	시대/ncn+에/jca+는/jxt
+4	철기도	철기+도	ADV	_	5	advcl	_	_	철기/ncn+도/jxc
+5	출현하여	출현+하+어	SCONJ	_	10	ccomp	_	_	출현/ncpa+하/xsv+어/ecs
+6	한	한	PROPN	_	7	compound	_	_	한/nq
+7	시대에	시대+에	ADV	_	10	obl	_	_	시대/ncn+에/jca
+8	이것이	이것+이	PRON	_	10	nsubj	_	_	이것/npd+이/jcs
+9	급속히	급속+히	ADV	_	10	advmod	_	_	급속/ncps+히/xsa
+10	보급되었다	보급+되+었+다	VERB	_	0	root	_	_	보급/ncpa+되/xsv+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 한 무제는 기원전 108년에 조선 반도에 낙랑군 등 4군을 설치한다 .
+1	한	한	PROPN	_	2	flat	_	_	한/nq
+2	무제는	무제+는	PROPN	_	10	dislocated	_	_	무제/nq+는/jxt
+3	기원전	기원전	NOUN	_	4	compound	_	_	기원전/ncn
+4	108년에	108+년+에	ADV	_	10	obl	_	_	108/nno+년/nbu+에/jca
+5	조선	조선	PROPN	_	6	compound	_	_	조선/nq
+6	반도에	반도+에	ADV	_	10	obl	_	_	반도/ncn+에/jca
+7	낙랑군	낙랑군	PROPN	_	8	compound	_	_	낙랑군/nq
+8	등	등	NOUN	_	9	mark	_	_	등/nbn
+9	4군을	4+군+을	NUM	_	10	obj	_	_	4/nnc+군/ncn+을/jco
+10	설치한다	설치+하+ㄴ다	VERB	_	0	root	_	_	설치/ncpa+하/xsv+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그에 따라서 조선 반도에 한의 문화가 발전하여 , 그 영향이 일본에도 미쳤던 것이다 .
+1	그에	그+에	ADV	_	2	obl	_	_	그/npd+에/jca
+2	따라서	따르+아서	SCONJ	_	7	ccomp	_	_	따르/pvg+아서/ecs
+3	조선	조선	PROPN	_	4	compound	_	_	조선/nq
+4	반도에	반도+에	ADV	_	7	obl	_	_	반도/ncn+에/jca
+5	한의	한+의	PROPN	_	6	nmod	_	_	한/nq+의/jcm
+6	문화가	문화+가	NOUN	_	7	nsubj	_	_	문화/ncn+가/jcs
+7	발전하여	발전+하+어	SCONJ	_	12	ccomp	_	_	발전/ncpa+하/xsv+어/ecs
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	그	그	DET	_	10	det	_	_	그/mmd
+10	영향이	영향+이	NOUN	_	12	nsubj	_	_	영향/ncn+이/jcs
+11	일본에도	일본+에+도	ADV	_	12	advcl	_	_	일본/nq+에/jca+도/jxc
+12	미쳤던	미치+었+던	VERB	_	0	root	_	_	미치/pvg+었/ep+던/etm
+13	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그 전후로부터 한의 문화는 우리나라에도 상당한 영향을 끼쳐왔다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	전후로부터	전후+로+부터	ADV	_	8	advcl	_	_	전후/ncn+로/jca+부터/jxc
+3	한의	한+의	PROPN	_	4	nmod	_	_	한/nq+의/jcm
+4	문화는	문화+는	NOUN	_	8	dislocated	_	_	문화/ncn+는/jxt
+5	우리나라에도	우리+나라+에+도	ADV	_	8	advcl	_	_	우리/npp+나라/ncn+에/jca+도/jxc
+6	상당한	상당+하+ㄴ	VERB	_	7	amod	_	_	상당/ncps+하/xsm+ㄴ/etm
+7	영향을	영향+을	NOUN	_	8	obj	_	_	영향/ncn+을/jco
+8	끼쳐왔다	끼+았+다	VERB	_	0	root	_	_	끼/pvg+았/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 일본사 교과서에서 한국의 역사에 관한 첫 기록이 낙랑군의 한국 지배에서부터 시작되어 있음은 위태롭기 짝이 없는 서술방식이다 .
+1	일본사	일본사	NOUN	_	2	compound	_	_	일본사/ncn
+2	교과서에서	교과서+에서	ADV	_	5	advcl	_	_	교과서/ncn+에서/jca
+3	한국의	한국+의	PROPN	_	4	nmod	_	_	한국/nq+의/jcm
+4	역사에	역사+에	ADV	_	5	obl	_	_	역사/ncn+에/jca
+5	관한	관하+ㄴ	VERB	_	7	acl	_	_	관하/pvg+ㄴ/etm
+6	첫	첫	NUM	_	7	nummod	_	_	첫/nno
+7	기록이	기록+이	NOUN	_	11	nsubj	_	_	기록/ncpa+이/jcs
+8	낙랑군의	낙랑군+의	PROPN	_	10	nmod	_	_	낙랑군/nq+의/jcm
+9	한국	한국	PROPN	_	10	compound	_	_	한국/nq
+10	지배에서부터	지배+에서+부터	ADV	_	11	advcl	_	_	지배/ncpa+에서/jca+부터/jxc
+11	시작되어	시작+되+어	VERB	_	16	dislocated	_	_	시작/ncpa+되/xsv+어/ecx
+12	있음은	있+ㅁ+은	NOUN	_	11	aux	_	_	있/px+ㅁ/etn+은/jxt
+13	위태롭기	위태롭+기	ADJ	_	15	nmod	_	_	위태롭/paa+기/etn
+14	짝이	짝+이	NOUN	_	15	nsubj	_	_	짝/ncn+이/jcs
+15	없는	없+는	ADJ	_	16	amod	_	_	없/paa+는/etm
+16	서술방식이다	서술+방식+이+다	VERB	_	0	root	_	_	서술/ncpa+방식/ncn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 한사군이 설치되기 훨씬 전부터 면면한 역사를 자랑해 온 고조선은 때로는 중국을 압도하기까지도 했다 .
+1	한사군이	한사군+이	NOUN	_	2	nsubj	_	_	한사군/ncn+이/jcs
+2	설치되기	설치+되+기	VERB	_	4	nmod	_	_	설치/ncpa+되/xsv+기/etn
+3	훨씬	훨씬	ADV	_	4	advmod	_	_	훨씬/mag
+4	전부터	전+부터	ADV	_	7	advcl	_	_	전/ncn+부터/jxc
+5	면면한	면면+하+ㄴ	VERB	_	6	amod	_	_	면면/ncps+하/xsm+ㄴ/etm
+6	역사를	역사+를	NOUN	_	7	obj	_	_	역사/ncn+를/jco
+7	자랑해	자랑+하+어	VERB	_	9	acl	_	_	자랑/ncpa+하/xsv+어/ecx
+8	온	오+ㄴ	AUX	_	7	aux	_	_	오/px+ㄴ/etm
+9	고조선은	고조선+은	PROPN	_	12	dislocated	_	_	고조선/nq+은/jxt
+10	때로는	때+로+는	NOUN	_	12	dislocated	_	_	때/nbn+로/jca+는/jxt
+11	중국을	중국+을	PROPN	_	12	obj	_	_	중국/nq+을/jco
+12	압도하기까지도	압도+하+기+까지+도	ADV	_	0	root	_	_	압도/ncpa+하/xsv+기/etn+까지/jxc+도/jxc
+13	했다	하+었+다	AUX	_	12	aux	_	_	하/px+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그런데 이런 사실을 무시하고 그들은 야마도 정권을 전국적 정치 결합이라는 과대 포장을 해 놓는다 .
+1	그런데	그런데	CCONJ	_	13	cc	_	_	그런데/maj
+2	이런	이렇+ㄴ	VERB	_	3	amod	_	_	이렇/pad+ㄴ/etm
+3	사실을	사실+을	NOUN	_	4	obj	_	_	사실/ncn+을/jco
+4	무시하고	무시+하+고	CCONJ	_	13	conj	_	_	무시/ncpa+하/xsv+고/ecc
+5	그들은	그+들+은	PRON	_	13	dislocated	_	_	그/npp+들/xsn+은/jxt
+6	야마도	야마도	PROPN	_	7	compound	_	_	야마도/nq
+7	정권을	정권+을	NOUN	_	13	obj	_	_	정권/ncn+을/jco
+8	전국적	전국+적	NOUN	_	10	amod	_	_	전국/ncn+적/xsn
+9	정치	정치	NOUN	_	10	compound	_	_	정치/ncn
+10	결합이라는	결합+이+라는	VERB	_	12	acl	_	_	결합/ncpa+이/jp+라는/etm
+11	과대	과대	NOUN	_	12	compound	_	_	과대/ncn
+12	포장을	포장+을	NOUN	_	13	obj	_	_	포장/ncpa+을/jco
+13	해	하+어	VERB	_	0	root	_	_	하/pvg+어/ecx
+14	놓는다	놓+는다	AUX	_	13	aux	_	_	놓/px+는다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 야마도 정권은 고구려 , 백제 신라 그 어느 나라의 정치 , 문화의 수준과 비교할 수 없는 초라한 국가 조직에 불과했다 .
+1	야마도	야마도	PROPN	_	2	compound	_	_	야마도/nq
+2	정권은	정권+은	NOUN	_	20	dislocated	_	_	정권/ncn+은/jxt
+3	고구려	고구려	PROPN	_	5	conj	_	_	고구려/nq
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	백제	백제	PROPN	_	6	flat	_	_	백제/nq
+6	신라	신라	PROPN	_	9	compound	_	_	신라/nq
+7	그	그	DET	_	9	det	_	_	그/mmd
+8	어느	어느	DET	_	9	det	_	_	어느/mmd
+9	나라의	나라+의	NOUN	_	12	nmod	_	_	나라/ncn+의/jcm
+10	정치	정치	NOUN	_	12	conj	_	_	정치/ncn
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	문화의	문화+의	NOUN	_	13	nmod	_	_	문화/ncn+의/jcm
+13	수준과	수준+과	CCONJ	_	14	conj	_	_	수준/ncn+과/jct
+14	비교할	비교+하+ㄹ	VERB	_	19	acl	_	_	비교/ncpa+하/xsv+ㄹ/etm
+15	수	수	NOUN	_	16	fixed	_	_	수/nbn
+16	없는	없+는	ADJ	_	14	aux	_	_	없/paa+는/etm
+17	초라한	초라+하+ㄴ	VERB	_	19	amod	_	_	초라/ncps+하/xsm+ㄴ/etm
+18	국가	국가	NOUN	_	19	compound	_	_	국가/ncn
+19	조직에	조직+에	ADV	_	20	obl	_	_	조직/ncpa+에/jca
+20	불과했다	불과+하+었+다	VERB	_	0	root	_	_	불과/ncps+하/xsm+었/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 역사 교육의 목적이 다음 세대에 국가의 자부심과 자존심을 일깨우고 미래의 전망을 제시하고자 하는 데 있다고 하자 .
+1	역사	역사	NOUN	_	2	compound	_	_	역사/ncn
+2	교육의	교육+의	NOUN	_	3	nmod	_	_	교육/ncpa+의/jcm
+3	목적이	목적+이	NOUN	_	15	nsubj	_	_	목적/ncpa+이/jcs
+4	다음	다음	NOUN	_	5	compound	_	_	다음/ncn
+5	세대에	세대+에	ADV	_	9	obl	_	_	세대/ncn+에/jca
+6	국가의	국가+의	NOUN	_	8	nmod	_	_	국가/ncn+의/jcm
+7	자부심과	자부심+과	CCONJ	_	8	conj	_	_	자부심/ncn+과/jcj
+8	자존심을	자존심+을	NOUN	_	9	obj	_	_	자존심/ncn+을/jco
+9	일깨우고	일깨우+고	CCONJ	_	12	conj	_	_	일깨우/pvg+고/ecc
+10	미래의	미래+의	NOUN	_	11	nmod	_	_	미래/ncn+의/jcm
+11	전망을	전망+을	NOUN	_	12	obj	_	_	전망/ncpa+을/jco
+12	제시하고자	제시+하+고자	VERB	_	14	acl	_	_	제시/ncpa+하/xsv+고자/ecx
+13	하는	하+는	AUX	_	12	aux	_	_	하/px+는/etm
+14	데	데	NOUN	_	15	mark	_	_	데/nbn
+15	있다고	있+다+고	VERB	_	16	conj	_	_	있/paa+다/ef+고/jcr
+16	하자	하+자	VERB	_	0	root	_	_	하/pvg+자/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 일본 양심 사학의 자각과 일부 보수 사학의 각성을 함께 기대해 본다 .
+1	일본	일본	PROPN	_	3	compound	_	_	일본/nq
+2	양심	양심	NOUN	_	3	compound	_	_	양심/ncn
+3	사학의	사학+의	NOUN	_	4	nmod	_	_	사학/ncn+의/jcm
+4	자각과	자각+과	CCONJ	_	8	conj	_	_	자각/ncpa+과/jcj
+5	일부	일부	NOUN	_	7	compound	_	_	일부/ncn
+6	보수	보수	NOUN	_	7	compound	_	_	보수/ncn
+7	사학의	사학+의	NOUN	_	8	nmod	_	_	사학/ncn+의/jcm
+8	각성을	각성+을	NOUN	_	10	obj	_	_	각성/ncpa+을/jco
+9	함께	함께	ADV	_	10	advmod	_	_	함께/mag
+10	기대해	기대+하+어	VERB	_	0	root	_	_	기대/ncpa+하/xsv+어/ecx
+11	본다	보+ㄴ다	AUX	_	10	aux	_	_	보/px+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그런 교과서에는 그에 대해 단 한 줄도 언급하지 않는 상황을 견지해 왔다 .
+1	그런	그렇+ㄴ	VERB	_	2	amod	_	_	그렇/pad+ㄴ/etm
+2	교과서에는	교과서+에+는	NOUN	_	8	dislocated	_	_	교과서/ncn+에/jca+는/jxt
+3	그에	그+에	ADV	_	4	obl	_	_	그/npd+에/jca
+4	대해	대하+어	SCONJ	_	8	ccomp	_	_	대하/pvg+어/ecs
+5	단	단	ADJ	_	7	amod	_	_	단/mma
+6	한	한	NUM	_	7	nummod	_	_	한/nnc
+7	줄도	줄+도	ADV	_	8	advcl	_	_	줄/nbn+도/jxc
+8	언급하지	언급+하+지	VERB	_	10	acl	_	_	언급/ncpa+하/xsv+지/ecx
+9	않는	않+는	AUX	_	8	aux	_	_	않/px+는/etm
+10	상황을	상황+을	NOUN	_	11	obj	_	_	상황/ncn+을/jco
+11	견지해	견지+하+어	VERB	_	0	root	_	_	견지/ncpa+하/xsv+어/ecx
+12	왔다	오+았+다	AUX	_	11	aux	_	_	오/px+았/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 하나의 사실에 대해 이처럼 완벽하게 상반된 견해를 갖게 한 임나 일본부에 대하여 일본 사학과 한국 사학의 상호 대응은 어떠했는지 알아보자 .
+1	하나의	하나+의	NUM	_	2	nmod	_	_	하나/nnc+의/jcm
+2	사실에	사실+에	ADV	_	3	obl	_	_	사실/ncn+에/jca
+3	대해	대하+어	SCONJ	_	8	ccomp	_	_	대하/pvg+어/ecs
+4	이처럼	이+처럼	ADV	_	6	advcl	_	_	이/npd+처럼/jca
+5	완벽하게	완벽+하+게	SCONJ	_	6	xcomp	_	_	완벽/ncps+하/xsm+게/ecs
+6	상반된	상반+되+ㄴ	VERB	_	7	acl	_	_	상반/ncpa+되/xsv+ㄴ/etm
+7	견해를	견해+를	NOUN	_	8	obj	_	_	견해/ncn+를/jco
+8	갖게	갖+게	VERB	_	11	acl	_	_	갖/pvg+게/ecx
+9	한	하+ㄴ	AUX	_	8	aux	_	_	하/px+ㄴ/etm
+10	임나	임나	PROPN	_	11	flat	_	_	임나/nq
+11	일본부에	일본부+에	ADV	_	12	obl	_	_	일본부/nq+에/jca
+12	대하여	대하+어	SCONJ	_	19	conj	_	_	대하/pvg+어/ecs
+13	일본	일본	PROPN	_	14	compound	_	_	일본/nq
+14	사학과	사학+과	CCONJ	_	16	conj	_	_	사학/ncn+과/jcj
+15	한국	한국	PROPN	_	16	compound	_	_	한국/nq
+16	사학의	사학+의	NOUN	_	18	nmod	_	_	사학/ncn+의/jcm
+17	상호	상호	NOUN	_	18	compound	_	_	상호/ncn
+18	대응은	대응+은	NOUN	_	19	dislocated	_	_	대응/ncpa+은/jxt
+19	어떠했는지	어떠하+었+는지	VERB	_	20	dep	_	_	어떠하/pad+었/ep+는지/ef
+20	알아보자	알+아+보+자	AUX	_	0	root	_	_	알/pvg+아/ecx+보/px+자/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 사실 고대사와 관련해서 일본 사학은 한국 사학에 비해 절대 열세에 처해 있었다 .
+1	사실	사실	NOUN	_	11	advmod	_	_	사실/ncn
+2	고대사와	고대사+와	CCONJ	_	3	conj	_	_	고대사/ncn+와/jct
+3	관련해서	관련+하+어서	SCONJ	_	11	ccomp	_	_	관련/ncpa+하/xsv+어서/ecs
+4	일본	일본	PROPN	_	5	compound	_	_	일본/nq
+5	사학은	사학+은	NOUN	_	11	dislocated	_	_	사학/ncn+은/jxt
+6	한국	한국	PROPN	_	7	compound	_	_	한국/nq
+7	사학에	사학+에	ADV	_	8	obl	_	_	사학/ncn+에/jca
+8	비해	비+하+어	SCONJ	_	11	ccomp	_	_	비/ncpa+하/xsv+어/ecs
+9	절대	절대	ADJ	_	10	amod	_	_	절대/mma
+10	열세에	열세+에	ADV	_	11	obl	_	_	열세/ncpa+에/jca
+11	처해	처하+어	VERB	_	0	root	_	_	처하/pvg+어/ecx
+12	있었다	있+었+다	AUX	_	11	aux	_	_	있/px+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그런 상황에서 그들에게 임나 일본부의 출현은 고대사에서의 일본의 열등감을 만회할 수 있는 더없이 좋은 기회였을 것이다 .
+1	그런	그렇+ㄴ	VERB	_	2	amod	_	_	그렇/pad+ㄴ/etm
+2	상황에서	상황+에서	ADV	_	15	advcl	_	_	상황/ncn+에서/jca
+3	그들에게	그+들+에게	ADV	_	15	iobj	_	_	그/npp+들/xsn+에게/jca
+4	임나	임나	PROPN	_	5	flat	_	_	임나/nq
+5	일본부의	일본부+의	PROPN	_	6	nmod	_	_	일본부/nq+의/jcm
+6	출현은	출현+은	NOUN	_	15	dislocated	_	_	출현/ncpa+은/jxt
+7	고대사에서의	고대사+에서+의	NOUN	_	9	nmod	_	_	고대사/ncn+에서/jca+의/jcm
+8	일본의	일본+의	PROPN	_	9	nmod	_	_	일본/nq+의/jcm
+9	열등감을	열등감+을	NOUN	_	10	obj	_	_	열등감/ncn+을/jco
+10	만회할	만회+하+ㄹ	VERB	_	15	ccomp	_	_	만회/ncpa+하/xsv+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있는	있+는	ADJ	_	10	aux	_	_	있/paa+는/etm
+13	더없이	더없이	ADV	_	14	advmod	_	_	더없이/mag
+14	좋은	좋+ㄴ	ADJ	_	15	amod	_	_	좋/paa+ㄴ/etm
+15	기회였을	기회+이+었+ㄹ	VERB	_	0	root	_	_	기회/ncn+이/jp+었/ep+ㄹ/etm
+16	것이다	것+이+다	VERB	_	15	aux	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 따라서 그들은 이에 관계된 사료들을 정리 , 채집하여 연구하는 데에 총력을 기울여 왔다 .
+1	따라서	따라서	CCONJ	_	12	cc	_	_	따라서/maj
+2	그들은	그+들+은	PRON	_	12	dislocated	_	_	그/npp+들/xsn+은/jxt
+3	이에	이+에	ADV	_	4	obl	_	_	이/npd+에/jca
+4	관계된	관계+되+ㄴ	VERB	_	5	acl	_	_	관계/ncpa+되/xsv+ㄴ/etm
+5	사료들을	사료+들+을	NOUN	_	8	obj	_	_	사료/ncn+들/xsn+을/jco
+6	정리	정리	NOUN	_	8	compound	_	_	정리/ncpa
+7	,	,	PUNCT	_	8	punct	_	_	,/sp
+8	채집하여	채집+하+어	SCONJ	_	9	ccomp	_	_	채집/ncpa+하/xsv+어/ecs
+9	연구하는	연구+하+는	VERB	_	10	acl	_	_	연구/ncpa+하/xsv+는/etm
+10	데에	데+에	ADV	_	12	obl	_	_	데/nbn+에/jca
+11	총력을	총력+을	NOUN	_	12	obj	_	_	총력/ncn+을/jco
+12	기울여	기울이+어	VERB	_	0	root	_	_	기울이/pvg+어/ecx
+13	왔다	오+았+다	AUX	_	12	aux	_	_	오/px+았/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 따라서 일본의 임나 일본부 주장을 학문 연구의 대상으로서 일고의 가치도 없는 것으로 여겨 왔다 .
+1	따라서	따라서	CCONJ	_	13	cc	_	_	따라서/maj
+2	일본의	일본+의	PROPN	_	5	nmod	_	_	일본/nq+의/jcm
+3	임나	임나	PROPN	_	4	flat	_	_	임나/nq
+4	일본부	일본부	PROPN	_	5	compound	_	_	일본부/nq
+5	주장을	주장+을	NOUN	_	13	obj	_	_	주장/ncpa+을/jco
+6	학문	학문	NOUN	_	7	compound	_	_	학문/ncpa
+7	연구의	연구+의	NOUN	_	8	nmod	_	_	연구/ncpa+의/jcm
+8	대상으로서	대상+으로서	ADV	_	11	advcl	_	_	대상/ncn+으로서/jca
+9	일고의	일고+의	NOUN	_	10	nmod	_	_	일고/ncpa+의/jcm
+10	가치도	가치+도	ADV	_	11	advcl	_	_	가치/ncn+도/jxc
+11	없는	없+는	ADJ	_	12	amod	_	_	없/paa+는/etm
+12	것으로	것+으로	ADV	_	13	advcl	_	_	것/nbn+으로/jca
+13	여겨	여기+어	VERB	_	0	root	_	_	여기/pvg+어/ecx
+14	왔다	오+았+다	AUX	_	13	aux	_	_	오/px+았/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 솔직히 그 동안 일본 사학의 확고하고도 끈질긴 주장에 대해 한국 사학의 대응은 침묵으로 일관했다고 해도 좋을 만큼 미온적인 태도를 보여왔다 .
+1	솔직히	솔직+히	ADV	_	20	advmod	_	_	솔직/ncps+히/xsa
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	동안	동안	NOUN	_	8	compound	_	_	동안/ncn
+4	일본	일본	PROPN	_	5	compound	_	_	일본/nq
+5	사학의	사학+의	NOUN	_	8	nmod	_	_	사학/ncn+의/jcm
+6	확고하고도	확고+하+고+도	ADV	_	7	ccomp	_	_	확고/ncps+하/xsm+고/ecc+도/jxc
+7	끈질긴	끈질기+ㄴ	ADJ	_	8	amod	_	_	끈질기/paa+ㄴ/etm
+8	주장에	주장+에	ADV	_	9	obl	_	_	주장/ncpa+에/jca
+9	대해	대하+어	SCONJ	_	20	ccomp	_	_	대하/pvg+어/ecs
+10	한국	한국	PROPN	_	11	compound	_	_	한국/nq
+11	사학의	사학+의	NOUN	_	12	nmod	_	_	사학/ncn+의/jcm
+12	대응은	대응+은	NOUN	_	20	dislocated	_	_	대응/ncpa+은/jxt
+13	침묵으로	침묵+으로	ADV	_	14	advcl	_	_	침묵/ncpa+으로/jca
+14	일관했다고	일관+하+었+다+고	VERB	_	15	conj	_	_	일관/ncpa+하/xsv+었/ep+다/ef+고/jcr
+15	해도	하+어도	SCONJ	_	16	conj	_	_	하/pvg+어도/ecs
+16	좋을	좋+ㄹ	ADJ	_	17	amod	_	_	좋/paa+ㄹ/etm
+17	만큼	만큼	NOUN	_	18	advmod	_	_	만큼/nbn
+18	미온적인	미온+적+이+ㄴ	VERB	_	19	acl	_	_	미온/ncpa+적/xsn+이/jp+ㄴ/etm
+19	태도를	태도+를	NOUN	_	20	obj	_	_	태도/ncn+를/jco
+20	보여왔다	보이+어+오+았+다	AUX	_	0	root	_	_	보이/pvg+어/ecx+오/px+았/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 왜 한국의 역사가 일본 사학에 의해 훼손되고 , 왜곡되는 작폐를 그대로 방치해 둔 것일까 ?
+1	왜	왜	ADV	_	12	advmod	_	_	왜/mag
+2	한국의	한국+의	PROPN	_	3	nmod	_	_	한국/nq+의/jcm
+3	역사가	역사+가	NOUN	_	9	nsubj	_	_	역사/ncn+가/jcs
+4	일본	일본	PROPN	_	5	compound	_	_	일본/nq
+5	사학에	사학+에	ADV	_	6	obl	_	_	사학/ncn+에/jca
+6	의해	의하+어	SCONJ	_	9	ccomp	_	_	의하/pvg+어/ecs
+7	훼손되고	훼손+되+고	CCONJ	_	8	conj	_	_	훼손/ncpa+되/xsv+고/ecc
+8	,	,	PUNCT	_	9	conj	_	_	,/sp
+9	왜곡되는	왜곡+되+는	VERB	_	10	acl	_	_	왜곡/ncpa+되/xsv+는/etm
+10	작폐를	작폐+를	NOUN	_	12	obj	_	_	작폐/ncn+를/jco
+11	그대로	그대로	ADV	_	12	advmod	_	_	그대로/mag
+12	방치해	방치+하+어	VERB	_	0	root	_	_	방치/ncpa+하/xsv+어/ecx
+13	둔	두+ㄴ	AUX	_	12	aux	_	_	두/px+ㄴ/etm
+14	것일까	것+이+ㄹ까	VERB	_	12	aux	_	_	것/nbn+이/jp+ㄹ까/ef
+15	?	?	PUNCT	_	14	punct	_	_	?/sf
+
+# 임나 일본부라는 허구적 역사에 일본인들이 관심을 갖기 시작한 것은 벌써 명치 초기 이전이었다 .
+1	임나	임나	PROPN	_	2	compound	_	_	임나/nq
+2	일본부라는	일본부+이+라는	VERB	_	4	acl	_	_	일본부/nq+이/jp+라는/etm
+3	허구적	허구+적	NOUN	_	4	amod	_	_	허구/ncn+적/xsn
+4	역사에	역사+에	ADV	_	7	obl	_	_	역사/ncn+에/jca
+5	일본인들이	일본인+들+이	NOUN	_	7	nsubj	_	_	일본인/ncn+들/xsn+이/jcs
+6	관심을	관심+을	NOUN	_	7	obj	_	_	관심/ncpa+을/jco
+7	갖기	갖+기	VERB	_	8	nmod	_	_	갖/pvg+기/etn
+8	시작한	시작+하+ㄴ	VERB	_	9	acl	_	_	시작/ncpa+하/xsv+ㄴ/etm
+9	것은	것+은	NOUN	_	13	dislocated	_	_	것/nbn+은/jxt
+10	벌써	벌써	ADV	_	13	advmod	_	_	벌써/mag
+11	명치	명치	NOUN	_	12	compound	_	_	명치/ncn
+12	초기	초기	NOUN	_	13	compound	_	_	초기/ncn
+13	이전이었다	이전+이+었+다	VERB	_	0	root	_	_	이전/ncn+이/jp+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이처럼 열악한 여건 가운데에서도 진실을 밝히려는 선학들의 노고가 끊이지 않은 것은 그나마 다행이 아닌가 싶다 .
+1	이처럼	이+처럼	ADV	_	2	advcl	_	_	이/npd+처럼/jca
+2	열악한	열악+하+ㄴ	VERB	_	3	amod	_	_	열악/ncps+하/xsm+ㄴ/etm
+3	여건	여건	NOUN	_	4	compound	_	_	여건/ncn
+4	가운데에서도	가운데+에서+도	ADV	_	9	advcl	_	_	가운데/ncn+에서/jca+도/jxc
+5	진실을	진실+을	NOUN	_	6	obj	_	_	진실/ncpa+을/jco
+6	밝히려는	밝히+려는	VERB	_	7	acl	_	_	밝히/pvg+려는/etm
+7	선학들의	선학+들+의	NOUN	_	8	nmod	_	_	선학/ncn+들/xsn+의/jcm
+8	노고가	노고+가	NOUN	_	9	nsubj	_	_	노고/ncn+가/jcs
+9	끊이지	끊이+지	VERB	_	11	acl	_	_	끊이/pvg+지/ecx
+10	않은	않+ㄴ	AUX	_	9	aux	_	_	않/px+ㄴ/etm
+11	것은	것+은	NOUN	_	14	dislocated	_	_	것/nbn+은/jxt
+12	그나마	그나마	ADV	_	14	advmod	_	_	그나마/mag
+13	다행이	다행+이	NOUN	_	14	csubj	_	_	다행/ncpa+이/jcc
+14	아닌가	아니+ㄴ가	ADJ	_	0	root	_	_	아니/paa+ㄴ가/ecx
+15	싶다	싶+다	AUX	_	14	aux	_	_	싶/px+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 따라서 그들의 연구를 빌어 일본사 교과서에 담겨 있는 임나 일본부의 허구를 밝혀보기로 하자 .
+1	따라서	따라서	CCONJ	_	13	cc	_	_	따라서/maj
+2	그들의	그+들+의	PRON	_	3	nmod	_	_	그/npp+들/xsn+의/jcm
+3	연구를	연구+를	NOUN	_	4	obj	_	_	연구/ncpa+를/jco
+4	빌어	빌+어	SCONJ	_	12	conj	_	_	빌/pvg+어/ecs
+5	일본사	일본사	NOUN	_	6	compound	_	_	일본사/ncn
+6	교과서에	교과서+에	ADV	_	7	obl	_	_	교과서/ncn+에/jca
+7	담겨	담기+어	VERB	_	10	acl	_	_	담기/pvg+어/ecx
+8	있는	있+는	AUX	_	7	aux	_	_	있/px+는/etm
+9	임나	임나	PROPN	_	10	flat	_	_	임나/nq
+10	일본부의	일본부+의	PROPN	_	11	nmod	_	_	일본부/nq+의/jcm
+11	허구를	허구+를	NOUN	_	12	obj	_	_	허구/ncn+를/jco
+12	밝혀보기로	밝히+어+보+기+로	ADV	_	13	advcl	_	_	밝히/pvg+어/ecx+보/px+기/etn+로/jca
+13	하자	하+자	VERB	_	0	root	_	_	하/pvg+자/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이에 압력을 받던 백제는 낙동강 유역의 가라加羅 ( 임나 ) 와 결속했다 .
+1	이에	이에	CCONJ	_	12	cc	_	_	이에/maj
+2	압력을	압력+을	NOUN	_	3	obj	_	_	압력/ncn+을/jco
+3	받던	받+던	VERB	_	4	acl	_	_	받/pvg+던/etm
+4	백제는	백제+는	PROPN	_	12	dislocated	_	_	백제/nq+는/jxt
+5	낙동강	낙동강	PROPN	_	6	compound	_	_	낙동강/nq
+6	유역의	유역+의	NOUN	_	7	nmod	_	_	유역/ncn+의/jcm
+7	가라加羅	가라加羅	PROPN	_	12	conj	_	_	가라加羅/nq
+8	(	(	PUNCT	_	9	punct	_	_	(/sl
+9	임나	임나	PROPN	_	7	appos	_	_	임나/nq
+10	)	)	PUNCT	_	9	punct	_	_	)/sr
+11	와	와	ADP	_	7	case	_	_	와/jct
+12	결속했다	결속+하+었+다	VERB	_	0	root	_	_	결속/ncpa+하/xsv+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 가라에는 왜인倭人이 기반을 다지고 있었으며 신라를 점차 침범해 들어가고 있었다 .
+1	가라에는	가라+에+는	PROPN	_	4	dislocated	_	_	가라/nq+에/jca+는/jxt
+2	왜인倭人이	왜인倭人+이	NOUN	_	4	nsubj	_	_	왜인倭人/ncn+이/jcs
+3	기반을	기반+을	NOUN	_	4	obj	_	_	기반/ncn+을/jco
+4	다지고	다지+고	VERB	_	9	conj	_	_	다지/pvg+고/ecx
+5	있었으며	있+었+으며	CCONJ	_	4	aux	_	_	있/px+었/ep+으며/ecc
+6	신라를	신라+를	PROPN	_	8	obj	_	_	신라/nq+를/jco
+7	점차	점차	ADV	_	8	advmod	_	_	점차/mag
+8	침범해	침범+하+어	SCONJ	_	9	ccomp	_	_	침범/ncpa+하/xsv+어/ecs
+9	들어가고	들+어+가+고	AUX	_	0	root	_	_	들/pvg+어/ecx+가/px+고/ecx
+10	있었다	있+었+다	AUX	_	9	aux	_	_	있/px+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 4세기에는 바다를 건너온 왜인이 고구려의 광개토왕에 의해 격파되다는 사실을 호태왕 ( 광개토왕 ) 비문에 의해 알 수 있다 .
+1	4세기에는	4+세기+에+는	NUM	_	8	dislocated	_	_	4/nno+세기/ncn+에/jca+는/jxt
+2	바다를	바다+를	NOUN	_	3	obj	_	_	바다/ncn+를/jco
+3	건너온	건너+어+오+ㄴ	AUX	_	4	acl	_	_	건너/pvg+어/ecx+오/px+ㄴ/etm
+4	왜인이	왜인+이	NOUN	_	8	nsubj	_	_	왜인/ncn+이/jcs
+5	고구려의	고구려+의	PROPN	_	6	nmod	_	_	고구려/nq+의/jcm
+6	광개토왕에	광개토왕+에	ADV	_	7	obl	_	_	광개토왕/nq+에/jca
+7	의해	의하+어	SCONJ	_	8	ccomp	_	_	의하/pvg+어/ecs
+8	격파되다는	격파+되+었+다는	VERB	_	9	acl	_	_	격파/ncpa+되/xsv+었/ep+다는/etm
+9	사실을	사실+을	NOUN	_	16	obj	_	_	사실/ncn+을/jco
+10	호태왕	호태왕	PROPN	_	14	compound	_	_	호태왕/nq
+11	(	(	PUNCT	_	12	punct	_	_	(/sl
+12	광개토왕	광개토왕	PROPN	_	10	appos	_	_	광개토왕/nq
+13	)	)	PUNCT	_	12	punct	_	_	)/sr
+14	비문에	비문+에	ADV	_	15	obl	_	_	비문/ncn+에/jca
+15	의해	의하+어	SCONJ	_	16	ccomp	_	_	의하/pvg+어/ecs
+16	알	알+ㄹ	VERB	_	0	root	_	_	알/pvg+ㄹ/etm
+17	수	수	NOUN	_	18	fixed	_	_	수/nbn
+18	있다	있+다	ADJ	_	16	aux	_	_	있/paa+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 여기에서 당시 조선 반도의 복잡한 정세 속에서 왜국의 왕이 국제적 지위를 높이려 했던 것을 알 수 있다 .
+1	여기에서	여기+에서	ADV	_	15	advcl	_	_	여기/npd+에서/jca
+2	당시	당시	NOUN	_	4	compound	_	_	당시/ncn
+3	조선	조선	PROPN	_	4	compound	_	_	조선/nq
+4	반도의	반도+의	NOUN	_	6	nmod	_	_	반도/ncn+의/jcm
+5	복잡한	복잡+하+ㄴ	VERB	_	6	amod	_	_	복잡/ncps+하/xsm+ㄴ/etm
+6	정세	정세	NOUN	_	7	compound	_	_	정세/ncn
+7	속에서	속+에서	ADV	_	12	advcl	_	_	속/ncn+에서/jca
+8	왜국의	왜국+의	PROPN	_	9	nmod	_	_	왜국/nq+의/jcm
+9	왕이	왕+이	NOUN	_	12	nsubj	_	_	왕/ncn+이/jcs
+10	국제적	국제+적	NOUN	_	11	amod	_	_	국제/ncn+적/xsn
+11	지위를	지위+를	NOUN	_	12	obj	_	_	지위/ncn+를/jco
+12	높이려	높이+려	VERB	_	14	acl	_	_	높이/pvg+려/ecx
+13	했던	하+었+던	AUX	_	12	aux	_	_	하/px+었/ep+던/etm
+14	것을	것+을	NOUN	_	15	obj	_	_	것/nbn+을/jco
+15	알	알+ㄹ	VERB	_	0	root	_	_	알/pvg+ㄹ/etm
+16	수	수	NOUN	_	17	fixed	_	_	수/nbn
+17	있다	있+다	ADJ	_	15	aux	_	_	있/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 나라 현 ( 奈 縣 ) 의 이소노가비 ( 石上 ) 신궁에 전해지고 있는 칠지도七支刀의 명문銘文에는 이때 백제와 왜 사이에 교섭이 있었던 사실이 기록되어 있다 .
+1	나라	나라	PROPN	_	2	compound	_	_	나라/nq
+2	현	현	NOUN	_	12	nmod	_	_	현/ncn
+3	(	(	PUNCT	_	5	punct	_	_	(/sl
+4	奈	奈	PROPN	_	5	flat	_	_	奈/nq
+5	縣	縣	PROPN	_	2	appos	_	_	縣/nq
+6	)	)	PUNCT	_	5	punct	_	_	)/sr
+7	의	의	ADP	_	2	case	_	_	의/jcm
+8	이소노가비	이소노가비	PROPN	_	12	compound	_	_	이소노가비/nq
+9	(	(	PUNCT	_	10	punct	_	_	(/sl
+10	石上	石上	PROPN	_	8	appos	_	_	石上/nq
+11	)	)	PUNCT	_	10	punct	_	_	)/sr
+12	신궁에	신궁+에	ADV	_	13	obl	_	_	신궁/ncn+에/jca
+13	전해지고	전+하+어+지+고	AUX	_	15	acl	_	_	전/ncpa+하/xsv+어/ecx+지/px+고/ecx
+14	있는	있+는	AUX	_	13	aux	_	_	있/px+는/etm
+15	칠지도七支刀의	칠지도七支刀+의	NOUN	_	16	nmod	_	_	칠지도七支刀/ncn+의/jcm
+16	명문銘文에는	명문銘文+에+는	NOUN	_	24	dislocated	_	_	명문銘文/ncn+에/jca+는/jxt
+17	이때	이때	PRON	_	22	dep	_	_	이때/npd
+18	백제와	백제+와	CCONJ	_	19	conj	_	_	백제/nq+와/jcj
+19	왜	왜	PROPN	_	20	compound	_	_	왜/nq
+20	사이에	사이+에	ADV	_	22	obl	_	_	사이/ncn+에/jca
+21	교섭이	교섭+이	NOUN	_	22	nsubj	_	_	교섭/ncpa+이/jcs
+22	있었던	있+었+던	ADJ	_	23	amod	_	_	있/paa+었/ep+던/etm
+23	사실이	사실+이	NOUN	_	24	nsubj	_	_	사실/ncn+이/jcs
+24	기록되어	기록+되+어	VERB	_	0	root	_	_	기록/ncpa+되/xsv+어/ecx
+25	있다	있+다	AUX	_	24	aux	_	_	있/px+다/ef
+26	.	.	PUNCT	_	25	punct	_	_	./sf
+
+# 앞에 인용된 내용은 거의 모든 일본사 교과서가 담고 있는 내용이다 .
+1	앞에	앞+에	ADV	_	2	obl	_	_	앞/ncn+에/jca
+2	인용된	인용+되+ㄴ	VERB	_	3	acl	_	_	인용/ncpa+되/xsv+ㄴ/etm
+3	내용은	내용+은	NOUN	_	10	dislocated	_	_	내용/ncn+은/jxt
+4	거의	거의	ADV	_	5	advmod	_	_	거의/mag
+5	모든	모든	ADJ	_	7	amod	_	_	모든/mma
+6	일본사	일본사	NOUN	_	7	compound	_	_	일본사/ncn
+7	교과서가	교과서+가	NOUN	_	8	nsubj	_	_	교과서/ncn+가/jcs
+8	담고	담+고	VERB	_	10	ccomp	_	_	담/pvg+고/ecx
+9	있는	있+는	AUX	_	8	aux	_	_	있/px+는/etm
+10	내용이다	내용+이+다	VERB	_	0	root	_	_	내용/ncn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 결국 일본은 국사 교육 과정을 통해 임나 일본부를 역사적 사실로서 여과 없이 인정하고 교육하고 있는 것이다 .
+1	결국	결국	ADV	_	14	advmod	_	_	결국/mag
+2	일본은	일본+은	PROPN	_	14	dislocated	_	_	일본/nq+은/jxt
+3	국사	국사	NOUN	_	4	compound	_	_	국사/ncn
+4	교육	교육	NOUN	_	5	compound	_	_	교육/ncpa
+5	과정을	과정+을	NOUN	_	6	obj	_	_	과정/ncpa+을/jco
+6	통해	통+하+어	SCONJ	_	14	ccomp	_	_	통/ncpa+하/xsv+어/ecs
+7	임나	임나	PROPN	_	8	flat	_	_	임나/nq
+8	일본부를	일본부+를	PROPN	_	14	obj	_	_	일본부/nq+를/jco
+9	역사적	역사+적	NOUN	_	10	amod	_	_	역사/ncn+적/xsn
+10	사실로서	사실+로서	ADV	_	14	advcl	_	_	사실/ncn+로서/jca
+11	여과	여과	NOUN	_	12	dep	_	_	여과/ncpa
+12	없이	없+이	SCONJ	_	14	xcomp	_	_	없/paa+이/ecs
+13	인정하고	인정+하+고	CCONJ	_	14	conj	_	_	인정/ncpa+하/xsv+고/ecc
+14	교육하고	교육+하+고	VERB	_	0	root	_	_	교육/ncpa+하/xsv+고/ecx
+15	있는	있+는	AUX	_	14	aux	_	_	있/px+는/etm
+16	것이다	것+이+다	VERB	_	14	aux	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그러면 역사적 사실로서의 규정이 애매한 임나 일본부에 대한 주장의 근거로서 채택되고 있는 사료는 무엇인가 ?
+1	그러면	그러면	CCONJ	_	14	cc	_	_	그러면/maj
+2	역사적	역사+적	NOUN	_	3	amod	_	_	역사/ncn+적/xsn
+3	사실로서의	사실+로서+의	NOUN	_	4	nmod	_	_	사실/ncn+로서/jca+의/jcm
+4	규정이	규정+이	NOUN	_	5	nsubj	_	_	규정/ncpa+이/jcs
+5	애매한	애매+하+ㄴ	VERB	_	7	amod	_	_	애매/ncps+하/xsm+ㄴ/etm
+6	임나	임나	PROPN	_	7	flat	_	_	임나/nq
+7	일본부에	일본부+에	ADV	_	8	obl	_	_	일본부/nq+에/jca
+8	대한	대하+ㄴ	VERB	_	9	acl	_	_	대하/pvg+ㄴ/etm
+9	주장의	주장+의	NOUN	_	10	nmod	_	_	주장/ncpa+의/jcm
+10	근거로서	근거+로서	ADV	_	11	advcl	_	_	근거/ncpa+로서/jca
+11	채택되고	채택+되+고	VERB	_	13	acl	_	_	채택/ncpa+되/xsv+고/ecx
+12	있는	있+는	AUX	_	11	aux	_	_	있/px+는/etm
+13	사료는	사료+는	NOUN	_	14	dislocated	_	_	사료/ncn+는/jxt
+14	무엇인가	무엇+이+ㄴ가	VERB	_	0	root	_	_	무엇/npd+이/jp+ㄴ가/ef
+15	?	?	PUNCT	_	14	punct	_	_	?/sf
+
+# 겉으로 언뜻 보아서는 이를 근거로 그럴 듯하게 임나 일본부를 주장할 수 있을 것 같다 .
+1	겉으로	겉+으로	ADV	_	3	advcl	_	_	겉/ncn+으로/jca
+2	언뜻	언뜻	ADV	_	3	advmod	_	_	언뜻/mag
+3	보아서는	보+아서+는	NOUN	_	10	ccomp	_	_	보/pvg+아서/ecs+는/jxt
+4	이를	이+를	PRON	_	5	obj	_	_	이/npd+를/jco
+5	근거로	근거+로	ADV	_	10	advcl	_	_	근거/ncpa+로/jca
+6	그럴	그렇+ㄹ	VERB	_	10	amod	_	_	그렇/pad+ㄹ/etm
+7	듯하게	듯하+게	SCONJ	_	6	aux	_	_	듯하/px+게/ecs
+8	임나	임나	PROPN	_	9	flat	_	_	임나/nq
+9	일본부를	일본부+를	PROPN	_	10	obj	_	_	일본부/nq+를/jco
+10	주장할	주장+하+ㄹ	VERB	_	0	root	_	_	주장/ncpa+하/xsv+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있을	있+ㄹ	ADJ	_	10	aux	_	_	있/paa+ㄹ/etm
+13	것	것	NOUN	_	14	fixed	_	_	것/nbn
+14	같다	같+다	ADJ	_	10	aux	_	_	같/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이러한 모순점에 대해서는 뒷장에서 자세히 알아보겠으나 우선 간략하게 근거 사료의 취약점을 살펴보자 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	모순점에	모순점+에	ADV	_	3	obl	_	_	모순점/ncn+에/jca
+3	대해서는	대하+어서+는	NOUN	_	6	ccomp	_	_	대하/pvg+어서/ecs+는/jxt
+4	뒷장에서	뒷장+에서	ADV	_	6	advcl	_	_	뒷장/ncn+에서/jca
+5	자세히	자세+히	ADV	_	6	advmod	_	_	자세/ncps+히/xsa
+6	알아보겠으나	알+아+보+겠+으나	SCONJ	_	12	ccomp	_	_	알/pvg+아/ecx+보/px+겠/ep+으나/ecs
+7	우선	우선	ADV	_	8	advmod	_	_	우선/mag
+8	간략하게	간략+하+게	SCONJ	_	12	xcomp	_	_	간략/ncps+하/xsm+게/ecs
+9	근거	근거	NOUN	_	10	compound	_	_	근거/ncpa
+10	사료의	사료+의	NOUN	_	11	nmod	_	_	사료/ncn+의/jcm
+11	취약점을	취약점+을	NOUN	_	12	obj	_	_	취약점/ncn+을/jco
+12	살펴보자	살피+어+보+자	AUX	_	0	root	_	_	살피/pvg+어/ecx+보/px+자/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 첫째 , 광개토 대왕 비문은 비석 그 자체가 오랜 동안 자연 상태로 방치되어 있어서 상당히 많은 부분이 훼손당한 상태다 .
+1	첫째	첫째	NUM	_	19	nummod	_	_	첫째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	광개토	광개토	PROPN	_	4	compound	_	_	광개토/nq
+4	대왕	대왕	NOUN	_	5	compound	_	_	대왕/ncn
+5	비문은	비문+은	NOUN	_	19	dislocated	_	_	비문/ncn+은/jxt
+6	비석	비석	NOUN	_	8	compound	_	_	비석/ncn
+7	그	그	DET	_	8	det	_	_	그/mmd
+8	자체가	자체+가	NOUN	_	13	nsubj	_	_	자체/ncn+가/jcs
+9	오랜	오래+ㄴ	ADJ	_	10	amod	_	_	오래/paa+ㄴ/etm
+10	동안	동안	NOUN	_	13	advmod	_	_	동안/ncn
+11	자연	자연	NOUN	_	12	compound	_	_	자연/ncn
+12	상태로	상태+로	ADV	_	13	advcl	_	_	상태/ncn+로/jca
+13	방치되어	방치+되+어	VERB	_	19	ccomp	_	_	방치/ncpa+되/xsv+어/ecx
+14	있어서	있+어서	SCONJ	_	13	aux	_	_	있/px+어서/ecs
+15	상당히	상당+히	ADV	_	16	advmod	_	_	상당/ncps+히/xsa
+16	많은	많+ㄴ	ADJ	_	17	amod	_	_	많/paa+ㄴ/etm
+17	부분이	부분+이	NOUN	_	18	nsubj	_	_	부분/ncn+이/jcs
+18	훼손당한	훼손+당하+ㄴ	VERB	_	19	ccomp	_	_	훼손/ncpa+당하/xsv+ㄴ/etm
+19	상태다	상태+이+다	VERB	_	0	root	_	_	상태/ncn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 그렇기 때문에 중요한 부분 곳곳에 나타난 결자缺字는 본래의 내용을 곡해할 소지를 안고 있다 .
+1	그렇기	그렇+기	VERB	_	2	nmod	_	_	그렇/pad+기/etn
+2	때문에	때문+에	ADV	_	12	obl	_	_	때문/nbn+에/jca
+3	중요한	중요+하+ㄴ	VERB	_	4	amod	_	_	중요/ncps+하/xsm+ㄴ/etm
+4	부분	부분	NOUN	_	5	compound	_	_	부분/ncn
+5	곳곳에	곳곳+에	ADV	_	6	obl	_	_	곳곳/ncn+에/jca
+6	나타난	나타나+ㄴ	VERB	_	7	acl	_	_	나타나/pvg+ㄴ/etm
+7	결자缺字는	결자缺字+는	NOUN	_	10	dislocated	_	_	결자缺字/ncn+는/jxt
+8	본래의	본래+의	NOUN	_	9	nmod	_	_	본래/ncn+의/jcm
+9	내용을	내용+을	NOUN	_	10	obj	_	_	내용/ncn+을/jco
+10	곡해할	곡해+하+ㄹ	VERB	_	11	acl	_	_	곡해/ncpa+하/xsv+ㄹ/etm
+11	소지를	소지+를	NOUN	_	12	obj	_	_	소지/ncn+를/jco
+12	안고	안+고	VERB	_	0	root	_	_	안/pvg+고/ecx
+13	있다	있+다	AUX	_	12	aux	_	_	있/px+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 넷째 , 백제가 왜왕에게 바쳤다는 ' 칠지도 ' 역시 그 내용 전개나 백제와 왜와의 관계로 보아 , 왜왕에게 바쳤다기보다는 하사하였다고 보는 것이 옳을 것이다 .
+1	넷째	넷째	NUM	_	23	nummod	_	_	넷째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	백제가	백제+가	PROPN	_	5	nsubj	_	_	백제/nq+가/jcs
+4	왜왕에게	왜왕+에게	ADV	_	5	iobj	_	_	왜왕/ncn+에게/jca
+5	바쳤다는	바치+었+다는	VERB	_	7	acl	_	_	바치/pvg+었/ep+다는/etm
+6	'	'	PUNCT	_	7	punct	_	_	'/sl
+7	칠지도	칠지도	PROPN	_	9	dep	_	_	칠지도/nq
+8	'	'	PUNCT	_	7	punct	_	_	'/sr
+9	역시	역시	ADV	_	23	advmod	_	_	역시/mag
+10	그	그	DET	_	11	det	_	_	그/mmd
+11	내용	내용	NOUN	_	12	compound	_	_	내용/ncn
+12	전개나	전개+나	CCONJ	_	15	conj	_	_	전개/ncpa+나/jcj
+13	백제와	백제+와	CCONJ	_	14	conj	_	_	백제/nq+와/jcj
+14	왜와의	왜+와+의	PROPN	_	15	nmod	_	_	왜/nq+와/jct+의/jcm
+15	관계로	관계+로	ADV	_	16	advcl	_	_	관계/ncpa+로/jca
+16	보아	보+아	SCONJ	_	23	conj	_	_	보/pvg+아/ecs
+17	,	,	PUNCT	_	16	punct	_	_	,/sp
+18	왜왕에게	왜왕+에게	ADV	_	20	iobj	_	_	왜왕/ncn+에게/jca
+19	바쳤다기보다는	바치+었+다기+보다+는	NOUN	_	20	dislocated	_	_	바치/pvg+었/ep+다기/etn+보다/jca+는/jxt
+20	하사하였다고	하사+하+었+다+고	VERB	_	21	conj	_	_	하사/ncpa+하/xsv+었/ep+다/ef+고/jcr
+21	보는	보+는	VERB	_	22	acl	_	_	보/pvg+는/etm
+22	것이	것+이	NOUN	_	23	nsubj	_	_	것/nbn+이/jcs
+23	옳을	옳+ㄹ	ADJ	_	0	root	_	_	옳/paa+ㄹ/etm
+24	것이다	것+이+다	VERB	_	23	aux	_	_	것/nbn+이/jp+다/ef
+25	.	.	PUNCT	_	24	punct	_	_	./sf
+
+# 이상과 같이 간략하게 살펴본 것만으로도 임나 일본부의 근거 사료가 지니는 취약점은 금방 드러난다 .
+1	이상과	이상+과	CCONJ	_	2	conj	_	_	이상/ncn+과/jct
+2	같이	같+이	SCONJ	_	4	xcomp	_	_	같/paa+이/ecs
+3	간략하게	간략+하+게	SCONJ	_	4	xcomp	_	_	간략/ncps+하/xsm+게/ecs
+4	살펴본	살피+어+보+ㄴ	AUX	_	5	acl	_	_	살피/pvg+어/ecx+보/px+ㄴ/etm
+5	것만으로도	것+만+으로+도	ADV	_	13	advcl	_	_	것/nbn+만/jxc+으로/jca+도/jxc
+6	임나	임나	PROPN	_	7	flat	_	_	임나/nq
+7	일본부의	일본부+의	PROPN	_	9	nmod	_	_	일본부/nq+의/jcm
+8	근거	근거	NOUN	_	9	compound	_	_	근거/ncpa
+9	사료가	사료+가	NOUN	_	10	nsubj	_	_	사료/ncn+가/jcs
+10	지니는	지니+는	VERB	_	11	acl	_	_	지니/pvg+는/etm
+11	취약점은	취약점+은	NOUN	_	13	dislocated	_	_	취약점/ncn+은/jxt
+12	금방	금방	ADV	_	13	advmod	_	_	금방/mag
+13	드러난다	드러나+ㄴ다	VERB	_	0	root	_	_	드러나/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그렇다면 결국 , 임나 일본부를 빌미로 열등한 일본 고대사를 허구로 치장하려던 음모는 이미 밝혀진 것이 아니겠는가 ?
+1	그렇다면	그렇다면	CCONJ	_	16	cc	_	_	그렇다면/maj
+2	결국	결국	ADV	_	14	advmod	_	_	결국/mag
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	임나	임나	PROPN	_	5	flat	_	_	임나/nq
+5	일본부를	일본부+를	PROPN	_	6	obj	_	_	일본부/nq+를/jco
+6	빌미로	빌미+로	ADV	_	11	advcl	_	_	빌미/ncn+로/jca
+7	열등한	열등+하+ㄴ	VERB	_	9	amod	_	_	열등/ncps+하/xsm+ㄴ/etm
+8	일본	일본	PROPN	_	9	compound	_	_	일본/nq
+9	고대사를	고대사+를	NOUN	_	11	obj	_	_	고대사/ncn+를/jco
+10	허구로	허구+로	ADV	_	11	advcl	_	_	허구/ncn+로/jca
+11	치장하려던	치장+하+려던	VERB	_	12	acl	_	_	치장/ncpa+하/xsv+려던/etm
+12	음모는	음모+는	NOUN	_	14	dislocated	_	_	음모/ncn+는/jxt
+13	이미	이미	ADV	_	14	advmod	_	_	이미/mag
+14	밝혀진	밝히+어+지+ㄴ	AUX	_	15	acl	_	_	밝히/pvg+어/ecx+지/px+ㄴ/etm
+15	것이	것+이	NOUN	_	16	csubj	_	_	것/nbn+이/jcc
+16	아니겠는가	아니+겠+는가	ADJ	_	0	root	_	_	아니/paa+겠/ep+는가/ef
+17	?	?	PUNCT	_	16	punct	_	_	?/sf
+
+# 그러나 역사책으로서의 취약성을 안고 있는 일본서기에 대해 일본 사학은 고심해 오고 있었다 .
+1	그러나	그러나	CCONJ	_	10	cc	_	_	그러나/maj
+2	역사책으로서의	역사책+으로서+의	NOUN	_	3	nmod	_	_	역사책/ncn+으로서/jca+의/jcm
+3	취약성을	취약성+을	NOUN	_	4	obj	_	_	취약성/ncn+을/jco
+4	안고	안+고	VERB	_	6	acl	_	_	안/pvg+고/ecx
+5	있는	있+는	AUX	_	4	aux	_	_	있/px+는/etm
+6	일본서기에	일본서기+에	ADV	_	7	obl	_	_	일본서기/nq+에/jca
+7	대해	대하+어	SCONJ	_	10	ccomp	_	_	대하/pvg+어/ecs
+8	일본	일본	PROPN	_	9	compound	_	_	일본/nq
+9	사학은	사학+은	NOUN	_	10	dislocated	_	_	사학/ncn+은/jxt
+10	고심해	고심+하+어	VERB	_	0	root	_	_	고심/ncpa+하/xsv+어/ecx
+11	오고	오+고	AUX	_	10	aux	_	_	오/px+고/ecx
+12	있었다	있+었+다	AUX	_	10	aux	_	_	있/px+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그런 일본 사학에게 광개토 대왕비의 출현은 자신들의 주장에 공신력을 더해주는 더할 나위 없이 좋은 계기가 되었다 .
+1	그런	그렇+ㄴ	VERB	_	3	amod	_	_	그렇/pad+ㄴ/etm
+2	일본	일본	PROPN	_	3	compound	_	_	일본/nq
+3	사학에게	사학+에게	ADV	_	16	iobj	_	_	사학/ncn+에게/jca
+4	광개토	광개토	PROPN	_	5	compound	_	_	광개토/nq
+5	대왕비의	대왕비+의	NOUN	_	6	nmod	_	_	대왕비/ncn+의/jcm
+6	출현은	출현+은	NOUN	_	16	dislocated	_	_	출현/ncpa+은/jxt
+7	자신들의	자신+들+의	NOUN	_	8	nmod	_	_	자신/ncn+들/xsn+의/jcm
+8	주장에	주장+에	ADV	_	10	obl	_	_	주장/ncpa+에/jca
+9	공신력을	공신력+을	NOUN	_	10	obj	_	_	공신력/ncn+을/jco
+10	더해주는	더하+어+주+는	AUX	_	15	acl	_	_	더하/pvg+어/ecx+주/px+는/etm
+11	더할	더하+ㄹ	VERB	_	12	acl	_	_	더하/pvg+ㄹ/etm
+12	나위	나위	NOUN	_	13	mark	_	_	나위/nbn
+13	없이	없+이	SCONJ	_	14	xcomp	_	_	없/paa+이/ecs
+14	좋은	좋+ㄴ	ADJ	_	15	amod	_	_	좋/paa+ㄴ/etm
+15	계기가	계기+가	NOUN	_	16	csubj	_	_	계기/ncn+가/jcc
+16	되었다	되+었+다	VERB	_	0	root	_	_	되/pvg+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이로써 일본 사학은 임나 일본부 연구에 새로운 전기를 맞게 된다 .
+1	이로써	이+로써	ADV	_	9	advcl	_	_	이/npd+로써/jca
+2	일본	일본	PROPN	_	3	compound	_	_	일본/nq
+3	사학은	사학+은	NOUN	_	9	dislocated	_	_	사학/ncn+은/jxt
+4	임나	임나	PROPN	_	5	flat	_	_	임나/nq
+5	일본부	일본부	PROPN	_	6	compound	_	_	일본부/nq
+6	연구에	연구+에	ADV	_	9	obl	_	_	연구/ncpa+에/jca
+7	새로운	새롭+ㄴ	ADJ	_	8	amod	_	_	새롭/paa+ㄴ/etm
+8	전기를	전기+를	NOUN	_	9	obj	_	_	전기/ncn+를/jco
+9	맞게	맞+게	VERB	_	0	root	_	_	맞/pvg+게/ecx
+10	된다	되+ㄴ다	AUX	_	9	aux	_	_	되/px+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이처럼 고대사에서 광개토 대왕 비문이 갖는 역사적 의미는 실로 지대하다 .
+1	이처럼	이+처럼	ADV	_	10	advcl	_	_	이/npd+처럼/jca
+2	고대사에서	고대사+에서	ADV	_	6	advcl	_	_	고대사/ncn+에서/jca
+3	광개토	광개토	PROPN	_	4	compound	_	_	광개토/nq
+4	대왕	대왕	NOUN	_	5	compound	_	_	대왕/ncn
+5	비문이	비문+이	NOUN	_	6	nsubj	_	_	비문/ncn+이/jcs
+6	갖는	갖+는	VERB	_	8	acl	_	_	갖/pvg+는/etm
+7	역사적	역사+적	NOUN	_	8	amod	_	_	역사/ncn+적/xsn
+8	의미는	의미+는	NOUN	_	10	dislocated	_	_	의미/ncpa+는/jxt
+9	실로	실로	ADV	_	10	advmod	_	_	실로/mag
+10	지대하다	지대하+다	VERB	_	0	root	_	_	지대하/pvg+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그러나 이같이 중요한 역사적 의미와 함께 다른 한편으로 광개토 대왕 비문이 우리에게 주는 수수께끼 또한 매우 크다 .
+1	그러나	그러나	CCONJ	_	17	cc	_	_	그러나/maj
+2	이같이	이같이	ADV	_	3	advmod	_	_	이같이/mag
+3	중요한	중요+하+ㄴ	VERB	_	5	amod	_	_	중요/ncps+하/xsm+ㄴ/etm
+4	역사적	역사+적	NOUN	_	5	amod	_	_	역사/ncn+적/xsn
+5	의미와	의미+와	CCONJ	_	6	conj	_	_	의미/ncpa+와/jct
+6	함께	함께	ADV	_	17	advmod	_	_	함께/mag
+7	다른	다르+ㄴ	ADJ	_	8	amod	_	_	다르/paa+ㄴ/etm
+8	한편으로	한편+으로	ADV	_	17	advcl	_	_	한편/ncn+으로/jca
+9	광개토	광개토	PROPN	_	10	compound	_	_	광개토/nq
+10	대왕	대왕	NOUN	_	11	compound	_	_	대왕/ncn
+11	비문이	비문+이	NOUN	_	13	nsubj	_	_	비문/ncn+이/jcs
+12	우리에게	우리+에게	ADV	_	13	iobj	_	_	우리/npp+에게/jca
+13	주는	주+는	VERB	_	14	acl	_	_	주/pvg+는/etm
+14	수수께끼	수수께끼	NOUN	_	15	dep	_	_	수수께끼/ncn
+15	또한	또한	ADV	_	17	advmod	_	_	또한/mag
+16	매우	매우	ADV	_	17	advmod	_	_	매우/mag
+17	크다	크+다	ADJ	_	0	root	_	_	크/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그래서 고대사를 올바로 이해하는 자료로 활용되기보다는 , 일본 사학이 보여주듯이 역사를 곡해하는 사료로 이용되고 있음에 우리는 안타까움을 금할 수가 없다 .
+1	그래서	그래서	CCONJ	_	18	cc	_	_	그래서/maj
+2	고대사를	고대사+를	NOUN	_	4	obj	_	_	고대사/ncn+를/jco
+3	올바로	올바로	ADV	_	4	advmod	_	_	올바로/mag
+4	이해하는	이해+하+는	VERB	_	5	acl	_	_	이해/ncpa+하/xsv+는/etm
+5	자료로	자료+로	ADV	_	6	advcl	_	_	자료/ncn+로/jca
+6	활용되기보다는	활용+되+기+보다+는	NOUN	_	14	advmod	_	_	활용/ncpa+되/xsv+기/etn+보다/jca+는/jxt
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	일본	일본	PROPN	_	9	compound	_	_	일본/nq
+9	사학이	사학+이	NOUN	_	10	nsubj	_	_	사학/ncn+이/jcs
+10	보여주듯이	보이+어+주+듯이	SCONJ	_	14	ccomp	_	_	보이/pvg+어/ecx+주/px+듯이/ecs
+11	역사를	역사+를	NOUN	_	12	obj	_	_	역사/ncn+를/jco
+12	곡해하는	곡해+하+는	VERB	_	13	acl	_	_	곡해/ncpa+하/xsv+는/etm
+13	사료로	사료+로	ADV	_	14	advcl	_	_	사료/ncn+로/jca
+14	이용되고	이용+되+고	VERB	_	18	obl	_	_	이용/ncpa+되/xsv+고/ecx
+15	있음에	있+ㅁ+에	ADV	_	14	aux	_	_	있/px+ㅁ/etn+에/jca
+16	우리는	우리+는	PRON	_	18	dislocated	_	_	우리/npp+는/jxt
+17	안타까움을	안타깝+ㅁ+을	NOUN	_	18	obj	_	_	안타깝/paa+ㅁ/etn+을/jco
+18	금할	금하+ㄹ	VERB	_	0	root	_	_	금하/pvg+ㄹ/etm
+19	수가	수+가	NOUN	_	20	fixed	_	_	수/nbn+가/jcs
+20	없다	없+다	ADJ	_	18	aux	_	_	없/paa+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 무게는 37톤 , 사면에 음각한 글자 수가 총 1,775자나 된다 .
+1	무게는	무게+는	NOUN	_	2	dislocated	_	_	무게/ncn+는/jxt
+2	37톤	37+톤	NOUN	_	9	compound	_	_	37/nnc+톤/nbu
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	사면에	사면+에	ADV	_	5	obl	_	_	사면/ncn+에/jca
+5	음각한	음각+하+ㄴ	VERB	_	6	acl	_	_	음각/ncpa+하/xsv+ㄴ/etm
+6	글자	글자	NOUN	_	7	compound	_	_	글자/ncn
+7	수가	수+가	NOUN	_	9	nsubj	_	_	수/nbn+가/jcs
+8	총	총	NOUN	_	9	compound	_	_	총/ncn
+9	1,775자나	1,775+자+나	ADV	_	10	advcl	_	_	1,775/nnc+자/nbu+나/jxc
+10	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이 같은 훼손의 배경에는 비석 그 자체가 오랫동안 자연 상태에 방치되어 온 까닭에 비바람에 의한 자연 마모가 그 첫째 이유가 되겠다 .
+1	이	이	PRON	_	2	dep	_	_	이/npd
+2	같은	같+ㄴ	ADJ	_	3	amod	_	_	같/paa+ㄴ/etm
+3	훼손의	훼손+의	NOUN	_	4	nmod	_	_	훼손/ncpa+의/jcm
+4	배경에는	배경+에+는	NOUN	_	21	dislocated	_	_	배경/ncn+에/jca+는/jxt
+5	비석	비석	NOUN	_	7	compound	_	_	비석/ncn
+6	그	그	DET	_	7	det	_	_	그/mmd
+7	자체가	자체+가	NOUN	_	11	nsubj	_	_	자체/ncn+가/jcs
+8	오랫동안	오랫동안	NOUN	_	11	advmod	_	_	오랫동안/ncn
+9	자연	자연	NOUN	_	10	compound	_	_	자연/ncn
+10	상태에	상태+에	ADV	_	11	obl	_	_	상태/ncn+에/jca
+11	방치되어	방치+되+어	VERB	_	13	acl	_	_	방치/ncpa+되/xsv+어/ecx
+12	온	오+ㄴ	AUX	_	11	aux	_	_	오/px+ㄴ/etm
+13	까닭에	까닭+에	ADV	_	21	obl	_	_	까닭/ncn+에/jca
+14	비바람에	비바람+에	ADV	_	15	obl	_	_	비바람/ncn+에/jca
+15	의한	의하+ㄴ	VERB	_	17	acl	_	_	의하/pvg+ㄴ/etm
+16	자연	자연	NOUN	_	17	compound	_	_	자연/ncn
+17	마모가	마모+가	NOUN	_	21	nsubj	_	_	마모/ncpa+가/jcs
+18	그	그	DET	_	20	det	_	_	그/mmd
+19	첫째	첫째	NUM	_	20	nummod	_	_	첫째/nno
+20	이유가	이유+가	NOUN	_	21	csubj	_	_	이유/ncn+가/jcc
+21	되겠다	되+겠+다	VERB	_	0	root	_	_	되/pvg+겠/ep+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 이것은 일본 제국주의의에 의도한 의도적 훼손에 대한 의혹이다 .
+1	이것은	이것+은	PRON	_	8	dislocated	_	_	이것/npd+은/jxt
+2	일본	일본	PROPN	_	3	compound	_	_	일본/nq
+3	제국주의의에	제국주의의+에	ADV	_	4	obl	_	_	제국주의의/ncn+에/jca
+4	의도한	의도+하+ㄴ	VERB	_	6	acl	_	_	의도/ncpa+하/xsv+ㄴ/etm
+5	의도적	의도+적	NOUN	_	6	amod	_	_	의도/ncpa+적/xsn
+6	훼손에	훼손+에	ADV	_	7	obl	_	_	훼손/ncpa+에/jca
+7	대한	대하+ㄴ	VERB	_	8	ccomp	_	_	대하/pvg+ㄴ/etm
+8	의혹이다	의혹+이+다	VERB	_	0	root	_	_	의혹/ncpa+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 애초 일본이 광개토 대왕 비문에 관심을 갖게 된 것은 탁본의 입수가 이루어진 1884년의 일이다 .
+1	애초	애초	ADV	_	7	advmod	_	_	애초/mag
+2	일본이	일본+이	PROPN	_	7	nsubj	_	_	일본/nq+이/jcs
+3	광개토	광개토	PROPN	_	4	compound	_	_	광개토/nq
+4	대왕	대왕	NOUN	_	5	compound	_	_	대왕/ncn
+5	비문에	비문+에	ADV	_	7	obl	_	_	비문/ncn+에/jca
+6	관심을	관심+을	NOUN	_	7	obj	_	_	관심/ncpa+을/jco
+7	갖게	갖+게	VERB	_	9	acl	_	_	갖/pvg+게/ecx
+8	된	되+ㄴ	AUX	_	7	aux	_	_	되/px+ㄴ/etm
+9	것은	것+은	NOUN	_	14	dislocated	_	_	것/nbn+은/jxt
+10	탁본의	탁본+의	NOUN	_	11	nmod	_	_	탁본/ncpa+의/jcm
+11	입수가	입수+가	NOUN	_	12	nsubj	_	_	입수/ncpa+가/jcs
+12	이루어진	이루+어+지+ㄴ	AUX	_	13	acl	_	_	이루/pvg+어/ecx+지/px+ㄴ/etm
+13	1884년의	1884+년+의	NUM	_	14	nmod	_	_	1884/nno+년/nbu+의/jcm
+14	일이다	일+이+다	VERB	_	0	root	_	_	일/ncn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 아울러 탁본의 해석 작업이 학자가 아닌 육군 참모 본부의 군인에 의해 착수 , 시행된 점 또한 주목해 두어야 한다 .
+1	아울러	아울러	ADV	_	14	advmod	_	_	아울러/mag
+2	탁본의	탁본+의	NOUN	_	4	nmod	_	_	탁본/ncpa+의/jcm
+3	해석	해석	NOUN	_	4	compound	_	_	해석/ncpa
+4	작업이	작업+이	NOUN	_	14	nsubj	_	_	작업/ncpa+이/jcs
+5	학자가	학자+가	NOUN	_	6	csubj	_	_	학자/ncn+가/jcc
+6	아닌	아니+ㄴ	ADJ	_	10	amod	_	_	아니/paa+ㄴ/etm
+7	육군	육군	NOUN	_	8	compound	_	_	육군/ncn
+8	참모	참모	NOUN	_	9	compound	_	_	참모/ncn
+9	본부의	본부+의	NOUN	_	10	nmod	_	_	본부/ncn+의/jcm
+10	군인에	군인+에	ADV	_	11	obl	_	_	군인/ncn+에/jca
+11	의해	의하+어	SCONJ	_	14	ccomp	_	_	의하/pvg+어/ecs
+12	착수	착수	NOUN	_	14	compound	_	_	착수/ncpa
+13	,	,	PUNCT	_	14	punct	_	_	,/sp
+14	시행된	시행+되+ㄴ	VERB	_	15	acl	_	_	시행/ncpa+되/xsv+ㄴ/etm
+15	점	점	NOUN	_	16	dep	_	_	점/ncn
+16	또한	또한	ADV	_	17	advmod	_	_	또한/mag
+17	주목해	주목+하+어	VERB	_	0	root	_	_	주목/ncpa+하/xsv+어/ecx
+18	두어야	두+어야	AUX	_	17	aux	_	_	두/px+어야/ecx
+19	한다	하+ㄴ다	AUX	_	17	aux	_	_	하/px+ㄴ다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 이처럼 많은 문제점을 접어두고라도 광개토 대왕 비문의 해석에 많은 무리가 내포되어 있는 것이다 .
+1	이처럼	이+처럼	ADV	_	2	advcl	_	_	이/npd+처럼/jca
+2	많은	많+ㄴ	ADJ	_	3	amod	_	_	많/paa+ㄴ/etm
+3	문제점을	문제점+을	NOUN	_	4	obj	_	_	문제점/ncn+을/jco
+4	접어두고라도	접+어+두+고+라도	ADV	_	11	ccomp	_	_	접/pvg+어/ecx+두/px+고/ecs+라도/jxc
+5	광개토	광개토	PROPN	_	6	compound	_	_	광개토/nq
+6	대왕	대왕	NOUN	_	7	compound	_	_	대왕/ncn
+7	비문의	비문+의	NOUN	_	8	nmod	_	_	비문/ncn+의/jcm
+8	해석에	해석+에	ADV	_	11	obl	_	_	해석/ncpa+에/jca
+9	많은	많+ㄴ	ADJ	_	10	amod	_	_	많/paa+ㄴ/etm
+10	무리가	무리+가	NOUN	_	11	nsubj	_	_	무리/ncn+가/jcs
+11	내포되어	내포+되+어	VERB	_	0	root	_	_	내포/ncpa+되/xsv+어/ecx
+12	있는	있+는	AUX	_	11	aux	_	_	있/px+는/etm
+13	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 일본 사학의 해석 방법이다 .
+1	일본	일본	PROPN	_	2	compound	_	_	일본/nq
+2	사학의	사학+의	NOUN	_	4	nmod	_	_	사학/ncn+의/jcm
+3	해석	해석	NOUN	_	4	compound	_	_	해석/ncpa
+4	방법이다	방법+이+다	VERB	_	0	root	_	_	방법/ncn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 여기서는 지면 관계상 가장 크게 제기되고 있는 신묘년 기사만을 제시해 보겠다 .
+1	여기서는	여기+서는	ADV	_	10	advcl	_	_	여기/npd+서는/jxc
+2	지면	지면	NOUN	_	3	compound	_	_	지면/ncn
+3	관계상	관계상	NOUN	_	10	advmod	_	_	관계상/ncn
+4	가장	가장	ADV	_	5	advmod	_	_	가장/mag
+5	크게	크+게	SCONJ	_	6	xcomp	_	_	크/paa+게/ecs
+6	제기되고	제기+되+고	VERB	_	9	acl	_	_	제기/ncpa+되/xsv+고/ecx
+7	있는	있+는	AUX	_	6	aux	_	_	있/px+는/etm
+8	신묘년	신묘년	NOUN	_	9	compound	_	_	신묘년/ncn
+9	기사만을	기사+만+을	NOUN	_	10	obj	_	_	기사/ncn+만/jxc+을/jco
+10	제시해	제시+하+어	VERB	_	0	root	_	_	제시/ncpa+하/xsv+어/ecx
+11	보겠다	보+겠+다	AUX	_	10	aux	_	_	보/px+겠/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 양국의 사학이 문제로 삼고 있는 것이 ' 渡海 ' 의 주어에 관한 것이다 .
+1	양국의	양국+의	NOUN	_	2	nmod	_	_	양국/ncn+의/jcm
+2	사학이	사학+이	NOUN	_	4	nsubj	_	_	사학/ncn+이/jcs
+3	문제로	문제+로	ADV	_	4	advcl	_	_	문제/ncn+로/jca
+4	삼고	삼+고	VERB	_	6	acl	_	_	삼/pvg+고/ecx
+5	있는	있+는	AUX	_	4	aux	_	_	있/px+는/etm
+6	것이	것+이	NOUN	_	13	nsubj	_	_	것/nbn+이/jcs
+7	'	'	PUNCT	_	8	punct	_	_	'/sl
+8	渡海	渡海	PROPN	_	11	nmod	_	_	渡海/nq
+9	'	'	PUNCT	_	8	punct	_	_	'/sr
+10	의	의	ADP	_	8	case	_	_	의/jcm
+11	주어에	주어+에	ADV	_	12	obl	_	_	주어/ncn+에/jca
+12	관한	관하+ㄴ	VERB	_	13	ccomp	_	_	관하/pvg+ㄴ/etm
+13	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 독자들은 ' 渡海 ' 의 주어에 지나치리만큼 집착하고 있는 양국의 사학에 대해 의아해 할지도 모르겠다 .
+1	독자들은	독자+들+은	NOUN	_	14	dislocated	_	_	독자/ncn+들/xsn+은/jxt
+2	'	'	PUNCT	_	3	punct	_	_	'/sl
+3	渡海	渡海	PROPN	_	6	nmod	_	_	渡海/nq
+4	'	'	PUNCT	_	3	punct	_	_	'/sr
+5	의	의	ADP	_	3	case	_	_	의/jcm
+6	주어에	주어+에	ADV	_	8	obl	_	_	주어/ncn+에/jca
+7	지나치리만큼	지나치+리+만큼	ADV	_	8	advcl	_	_	지나치/pvg+리/ef+만큼/jca
+8	집착하고	집착+하+고	VERB	_	11	acl	_	_	집착/ncpa+하/xsv+고/ecx
+9	있는	있+는	AUX	_	8	aux	_	_	있/px+는/etm
+10	양국의	양국+의	NOUN	_	11	nmod	_	_	양국/ncn+의/jcm
+11	사학에	사학+에	ADV	_	12	obl	_	_	사학/ncn+에/jca
+12	대해	대하+어	SCONJ	_	14	ccomp	_	_	대하/pvg+어/ecs
+13	의아해	의아+하+어	SCONJ	_	14	xcomp	_	_	의아/ncps+하/xsm+어/ecs
+14	할지도	하+ㄹ지+도	ADV	_	15	advcl	_	_	하/pvg+ㄹ지/ef+도/jxc
+15	모르겠다	모르+겠+다	VERB	_	0	root	_	_	모르/pvg+겠/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 다시 말해서 ' 渡海 ' 의 주어가 왜라면 백제와 신라는 왜의 신민이었음을 밝히는 것이 된다 .
+1	다시	다시	ADV	_	2	advmod	_	_	다시/mag
+2	말해서	말하+어서	SCONJ	_	15	ccomp	_	_	말하/pvg+어서/ecs
+3	'	'	PUNCT	_	4	punct	_	_	'/sl
+4	渡海	渡海	PROPN	_	7	nmod	_	_	渡海/nq
+5	'	'	PUNCT	_	4	punct	_	_	'/sr
+6	의	의	ADP	_	4	case	_	_	의/jcm
+7	주어가	주어+가	NOUN	_	8	nsubj	_	_	주어/ncn+가/jcs
+8	왜라면	왜+이+라면	SCONJ	_	15	ccomp	_	_	왜/nq+이/jp+라면/ecs
+9	백제와	백제+와	CCONJ	_	10	conj	_	_	백제/nq+와/jcj
+10	신라는	신라+는	PROPN	_	12	dislocated	_	_	신라/nq+는/jxt
+11	왜의	왜+의	PROPN	_	12	nmod	_	_	왜/nq+의/jcm
+12	신민이었음을	신민+이+었+ㅁ+을	NOUN	_	13	obj	_	_	신민/ncn+이/jp+었/ep+ㅁ/etn+을/jco
+13	밝히는	밝히+는	VERB	_	14	acl	_	_	밝히/pvg+는/etm
+14	것이	것+이	NOUN	_	15	csubj	_	_	것/nbn+이/jcc
+15	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그리고 고구려라고 하면 신라와 백제는 고구려의 신민이 되므로 결국 , 임나 일본부는 허구였음을 밝히는 증거가 된다 .
+1	그리고	그리고	CCONJ	_	16	cc	_	_	그리고/maj
+2	고구려라고	고구려+이+라+고	VERB	_	3	conj	_	_	고구려/nq+이/jp+라/ef+고/jcr
+3	하면	하+면	SCONJ	_	8	ccomp	_	_	하/pvg+면/ecs
+4	신라와	신라+와	CCONJ	_	5	conj	_	_	신라/nq+와/jcj
+5	백제는	백제+는	PROPN	_	8	dislocated	_	_	백제/nq+는/jxt
+6	고구려의	고구려+의	PROPN	_	7	nmod	_	_	고구려/nq+의/jcm
+7	신민이	신민+이	NOUN	_	8	csubj	_	_	신민/ncn+이/jcc
+8	되므로	되+므로	SCONJ	_	16	ccomp	_	_	되/pvg+므로/ecs
+9	결국	결국	ADV	_	16	advmod	_	_	결국/mag
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	임나	임나	PROPN	_	12	flat	_	_	임나/nq
+12	일본부는	일본부+는	PROPN	_	13	dislocated	_	_	일본부/nq+는/jxt
+13	허구였음을	허구+이+었+ㅁ+을	NOUN	_	14	obj	_	_	허구/ncn+이/jp+었/ep+ㅁ/etn+을/jco
+14	밝히는	밝히+는	VERB	_	15	acl	_	_	밝히/pvg+는/etm
+15	증거가	증거+가	NOUN	_	16	csubj	_	_	증거/ncpa+가/jcc
+16	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 사실상 , 임나 일본부에 대한 일본 사학의 주장은 상상 이상으로 집요하다 .
+1	사실상	사실상	NOUN	_	11	compound	_	_	사실상/ncn
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	임나	임나	PROPN	_	4	flat	_	_	임나/nq
+4	일본부에	일본부+에	ADV	_	5	obl	_	_	일본부/nq+에/jca
+5	대한	대하+ㄴ	VERB	_	8	acl	_	_	대하/pvg+ㄴ/etm
+6	일본	일본	PROPN	_	7	compound	_	_	일본/nq
+7	사학의	사학+의	NOUN	_	8	nmod	_	_	사학/ncn+의/jcm
+8	주장은	주장+은	NOUN	_	11	dislocated	_	_	주장/ncpa+은/jxt
+9	상상	상상	NOUN	_	10	compound	_	_	상상/ncpa
+10	이상으로	이상+으로	ADV	_	11	advcl	_	_	이상/ncn+으로/jca
+11	집요하다	집요+하+다	VERB	_	0	root	_	_	집요/ncps+하/xsm+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 위에 제시한 신묘년의 기사 이외에도 그들이 제시하는 임나 관련 기록이 더 있어서 흔쾌히 그 예를 제시하고 있다 .
+1	위에	위+에	ADV	_	2	obl	_	_	위/ncn+에/jca
+2	제시한	제시+하+ㄴ	VERB	_	4	acl	_	_	제시/ncpa+하/xsv+ㄴ/etm
+3	신묘년의	신묘년+의	NOUN	_	4	nmod	_	_	신묘년/ncn+의/jcm
+4	기사	기사	NOUN	_	5	compound	_	_	기사/ncn
+5	이외에도	이외+에+도	ADV	_	12	advcl	_	_	이외/ncn+에/jca+도/jxc
+6	그들이	그+들+이	PRON	_	7	nsubj	_	_	그/npp+들/xsn+이/jcs
+7	제시하는	제시+하+는	VERB	_	10	acl	_	_	제시/ncpa+하/xsv+는/etm
+8	임나	임나	PROPN	_	9	compound	_	_	임나/nq
+9	관련	관련	NOUN	_	10	compound	_	_	관련/ncpa
+10	기록이	기록+이	NOUN	_	12	nsubj	_	_	기록/ncpa+이/jcs
+11	더	더	ADV	_	12	advmod	_	_	더/mag
+12	있어서	있+어서	SCONJ	_	16	xcomp	_	_	있/paa+어서/ecs
+13	흔쾌히	흔쾌+히	ADV	_	16	advmod	_	_	흔쾌/ncps+히/xsa
+14	그	그	DET	_	15	det	_	_	그/mmd
+15	예를	예+를	NOUN	_	16	obj	_	_	예/ncn+를/jco
+16	제시하고	제시+하+고	VERB	_	0	root	_	_	제시/ncpa+하/xsv+고/ecx
+17	있다	있+다	AUX	_	16	aux	_	_	있/px+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 한국 사학에서도 역사적 논리를 앞세워 그들의 주장에 대응하고 있나 , 지면 관계상 그에 대한 답변은 생략하기로 한다 .
+1	한국	한국	PROPN	_	2	compound	_	_	한국/nq
+2	사학에서도	사학+에서+도	ADV	_	8	advcl	_	_	사학/ncn+에서/jca+도/jxc
+3	역사적	역사+적	NOUN	_	4	amod	_	_	역사/ncn+적/xsn
+4	논리를	논리+를	NOUN	_	5	obj	_	_	논리/ncn+를/jco
+5	앞세워	앞세우+어	SCONJ	_	8	ccomp	_	_	앞세우/pvg+어/ecs
+6	그들의	그+들+의	PRON	_	7	nmod	_	_	그/npp+들/xsn+의/jcm
+7	주장에	주장+에	ADV	_	8	obl	_	_	주장/ncpa+에/jca
+8	대응하고	대응+하+고	VERB	_	17	ccomp	_	_	대응/ncpa+하/xsv+고/ecx
+9	있나	있+으나	SCONJ	_	8	aux	_	_	있/px+으나/ecs
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	지면	지면	NOUN	_	12	compound	_	_	지면/ncn
+12	관계상	관계상	NOUN	_	16	advmod	_	_	관계상/ncn
+13	그에	그+에	ADV	_	14	obl	_	_	그/npd+에/jca
+14	대한	대하+ㄴ	VERB	_	15	acl	_	_	대하/pvg+ㄴ/etm
+15	답변은	답변+은	NOUN	_	16	dislocated	_	_	답변/ncpa+은/jxt
+16	생략하기로	생략+하+기+로	ADV	_	17	advcl	_	_	생략/ncpa+하/xsv+기/etn+로/jca
+17	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 여기에서 분명히 짚어 두어야 할 일이 있다 .
+1	여기에서	여기+에서	ADV	_	7	advcl	_	_	여기/npd+에서/jca
+2	분명히	분명+히	ADV	_	3	advmod	_	_	분명/ncps+히/xsa
+3	짚어	짚+어	VERB	_	6	acl	_	_	짚/pvg+어/ecx
+4	두어야	두+어야	AUX	_	3	aux	_	_	두/px+어야/ecx
+5	할	하+ㄹ	AUX	_	3	aux	_	_	하/px+ㄹ/etm
+6	일이	일+이	NOUN	_	7	nsubj	_	_	일/ncn+이/jcs
+7	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그러면 여기서 비문 건립에 대해 지극히 상식적이고 원론적인 측면에서 다시 생각해 보도록 하자 .
+1	그러면	그러면	CCONJ	_	13	cc	_	_	그러면/maj
+2	여기서	여기+서	ADV	_	11	advcl	_	_	여기/npd+서/jca
+3	비문	비문	NOUN	_	4	compound	_	_	비문/ncn
+4	건립에	건립+에	ADV	_	5	obl	_	_	건립/ncpa+에/jca
+5	대해	대하+어	SCONJ	_	8	ccomp	_	_	대하/pvg+어/ecs
+6	지극히	지극+히	ADV	_	8	advmod	_	_	지극/ncps+히/xsa
+7	상식적이고	상식+적+이+고	CCONJ	_	8	conj	_	_	상식/ncn+적/xsn+이/jp+고/ecc
+8	원론적인	원론+적+이+ㄴ	VERB	_	9	acl	_	_	원론/ncn+적/xsn+이/jp+ㄴ/etm
+9	측면에서	측면+에서	ADV	_	11	advcl	_	_	측면/ncn+에서/jca
+10	다시	다시	ADV	_	11	advmod	_	_	다시/mag
+11	생각해	생각+하+어	VERB	_	13	ccomp	_	_	생각/ncpa+하/xsv+어/ecx
+12	보도록	보+도록	SCONJ	_	11	aux	_	_	보/px+도록/ecs
+13	하자	하+자	VERB	_	0	root	_	_	하/pvg+자/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 광개토 대왕 비는 장수왕이 부왕의 업적을 기리기 위해 건립한 전승 기념비다 .
+1	광개토	광개토	PROPN	_	2	compound	_	_	광개토/nq
+2	대왕	대왕	NOUN	_	3	compound	_	_	대왕/ncn
+3	비는	비+는	NOUN	_	11	dislocated	_	_	비/ncn+는/jxt
+4	장수왕이	장수왕+이	PROPN	_	9	nsubj	_	_	장수왕/nq+이/jcs
+5	부왕의	부왕+의	NOUN	_	6	nmod	_	_	부왕/ncn+의/jcm
+6	업적을	업적+을	NOUN	_	7	obj	_	_	업적/ncn+을/jco
+7	기리기	기리+기	VERB	_	8	nmod	_	_	기리/pvg+기/etn
+8	위해	위+하+어	SCONJ	_	9	ccomp	_	_	위/ncpa+하/xsv+어/ecs
+9	건립한	건립+하+ㄴ	VERB	_	11	ccomp	_	_	건립/ncpa+하/xsv+ㄴ/etm
+10	전승	전승	NOUN	_	11	compound	_	_	전승/ncpa
+11	기념비다	기념비+이+다	VERB	_	0	root	_	_	기념비/ncn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 따라서 비문의 내용은 광개토 대왕이 이끄는 고구려군이 전쟁에서 승리한 내용들로 장식되어 있다 .
+1	따라서	따라서	CCONJ	_	11	cc	_	_	따라서/maj
+2	비문의	비문+의	NOUN	_	3	nmod	_	_	비문/ncn+의/jcm
+3	내용은	내용+은	NOUN	_	11	dislocated	_	_	내용/ncn+은/jxt
+4	광개토	광개토	PROPN	_	5	compound	_	_	광개토/nq
+5	대왕이	대왕+이	NOUN	_	6	nsubj	_	_	대왕/ncn+이/jcs
+6	이끄는	이끌+는	VERB	_	7	acl	_	_	이끌/pvg+는/etm
+7	고구려군이	고구려군+이	NOUN	_	9	nsubj	_	_	고구려군/ncn+이/jcs
+8	전쟁에서	전쟁+에서	ADV	_	9	advcl	_	_	전쟁/ncpa+에서/jca
+9	승리한	승리+하+ㄴ	VERB	_	10	acl	_	_	승리/ncpa+하/xsv+ㄴ/etm
+10	내용들로	내용+들+로	ADV	_	11	advcl	_	_	내용/ncn+들/xsn+로/jca
+11	장식되어	장식+되+어	VERB	_	0	root	_	_	장식/ncpa+되/xsv+어/ecx
+12	있다	있+다	AUX	_	11	aux	_	_	있/px+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 만의 하나 , 일본 사학이 주장하는 내용이 사실이라면 유독 그 부분에서만 왜의 승리를 기록한 결과가 된다 .
+1	만의	만+의	NUM	_	2	nmod	_	_	만/nnc+의/jcm
+2	하나	하나	NUM	_	8	nummod	_	_	하나/nnc
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	일본	일본	PROPN	_	5	compound	_	_	일본/nq
+5	사학이	사학+이	NOUN	_	6	nsubj	_	_	사학/ncn+이/jcs
+6	주장하는	주장+하+는	VERB	_	7	acl	_	_	주장/ncpa+하/xsv+는/etm
+7	내용이	내용+이	NOUN	_	8	nsubj	_	_	내용/ncn+이/jcs
+8	사실이라면	사실+이+라면	SCONJ	_	16	ccomp	_	_	사실/ncn+이/jp+라면/ecs
+9	유독	유독	ADV	_	11	advmod	_	_	유독/mag
+10	그	그	DET	_	11	det	_	_	그/mmd
+11	부분에서만	부분+에서+만	ADV	_	14	advcl	_	_	부분/ncn+에서/jca+만/jxc
+12	왜의	왜+의	PROPN	_	13	nmod	_	_	왜/nq+의/jcm
+13	승리를	승리+를	NOUN	_	14	obj	_	_	승리/ncpa+를/jco
+14	기록한	기록+하+ㄴ	VERB	_	15	acl	_	_	기록/ncpa+하/xsv+ㄴ/etm
+15	결과가	결과+가	NOUN	_	16	csubj	_	_	결과/ncpa+가/jcc
+16	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 일본서기에 등장하는 임나 일본부 관련 기사는 아래와 같다 .
+1	일본서기에	일본서기+에	ADV	_	2	obl	_	_	일본서기/nq+에/jca
+2	등장하는	등장+하+는	VERB	_	6	acl	_	_	등장/ncpa+하/xsv+는/etm
+3	임나	임나	PROPN	_	4	flat	_	_	임나/nq
+4	일본부	일본부	PROPN	_	5	compound	_	_	일본부/nq
+5	관련	관련	NOUN	_	6	compound	_	_	관련/ncpa
+6	기사는	기사+는	NOUN	_	8	dislocated	_	_	기사/ncn+는/jxt
+7	아래와	아래+와	CCONJ	_	8	conj	_	_	아래/ncn+와/jct
+8	같다	같+다	ADJ	_	0	root	_	_	같/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 물론 이외에도 일본서기의 사이 사이에는 임나가 존재했음을 입증하는 숱한 기사가 실려 있다 .
+1	물론	물론	ADV	_	11	advmod	_	_	물론/mag
+2	이외에도	이+외+에+도	ADV	_	11	advcl	_	_	이/npd+외/ncn+에/jca+도/jxc
+3	일본서기의	일본서기+의	PROPN	_	5	nmod	_	_	일본서기/nq+의/jcm
+4	사이	사이	NOUN	_	5	compound	_	_	사이/ncn
+5	사이에는	사이+에+는	NOUN	_	11	dislocated	_	_	사이/ncn+에/jca+는/jxt
+6	임나가	임나+가	PROPN	_	7	nsubj	_	_	임나/nq+가/jcs
+7	존재했음을	존재+하+었+ㅁ+을	NOUN	_	8	obj	_	_	존재/ncpa+하/xsv+었/ep+ㅁ/etn+을/jco
+8	입증하는	입증+하+는	VERB	_	10	acl	_	_	입증/ncpa+하/xsv+는/etm
+9	숱한	숱+하+ㄴ	VERB	_	10	amod	_	_	숱/ncps+하/xsm+ㄴ/etm
+10	기사가	기사+가	NOUN	_	11	nsubj	_	_	기사/ncn+가/jcs
+11	실려	실리+어	VERB	_	0	root	_	_	실리/pvg+어/ecx
+12	있다	있+다	AUX	_	11	aux	_	_	있/px+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 뿐만 아니라 백제 , 고구려 , 신라 , 임나의 사신들이 왜에게 공물을 바치는 장면이 수도 없이 나온다 .
+1	뿐만	뿐+만	ADV	_	2	dep	_	_	뿐/nbn+만/jxc
+2	아니라	아니+라	SCONJ	_	17	cc	_	_	아니/paa+라/ecs
+3	백제	백제	PROPN	_	5	conj	_	_	백제/nq
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	고구려	고구려	PROPN	_	7	conj	_	_	고구려/nq
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	신라	신라	PROPN	_	9	conj	_	_	신라/nq
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	임나의	임나+의	PROPN	_	10	nmod	_	_	임나/nq+의/jcm
+10	사신들이	사신+들+이	NOUN	_	13	nsubj	_	_	사신/ncn+들/xsn+이/jcs
+11	왜에게	왜+에게	ADV	_	13	iobj	_	_	왜/nq+에게/jca
+12	공물을	공물+을	NOUN	_	13	obj	_	_	공물/ncn+을/jco
+13	바치는	바치+는	VERB	_	14	acl	_	_	바치/pvg+는/etm
+14	장면이	장면+이	NOUN	_	17	nsubj	_	_	장면/ncn+이/jcs
+15	수도	수+도	ADV	_	16	advcl	_	_	수/ncn+도/jxc
+16	없이	없+이	SCONJ	_	17	xcomp	_	_	없/paa+이/ecs
+17	나온다	나오+ㄴ다	VERB	_	0	root	_	_	나오/pvg+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이런 식으로 일본서기에서는 백제나 신라 , 고구려 등에 비해 상대적으로 왜가 우월한 위치에 있었다는 형태로 왜의 실력을 강조하고 있다 .
+1	이런	이렇+ㄴ	VERB	_	2	amod	_	_	이렇/pad+ㄴ/etm
+2	식으로	식+으로	ADV	_	18	advcl	_	_	식/ncn+으로/jca
+3	일본서기에서는	일본서기+에서+는	PROPN	_	18	dislocated	_	_	일본서기/nq+에서/jca+는/jxt
+4	백제나	백제+나	CCONJ	_	5	conj	_	_	백제/nq+나/jcj
+5	신라	신라	PROPN	_	7	conj	_	_	신라/nq
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	고구려	고구려	PROPN	_	8	compound	_	_	고구려/nq
+8	등에	등+에	ADV	_	9	obl	_	_	등/nbn+에/jca
+9	비해	비+하+어	SCONJ	_	14	conj	_	_	비/ncpa+하/xsv+어/ecs
+10	상대적으로	상대+적+으로	ADV	_	14	advcl	_	_	상대/ncpa+적/xsn+으로/jca
+11	왜가	왜+가	PROPN	_	14	nsubj	_	_	왜/nq+가/jcs
+12	우월한	우월+하+ㄴ	VERB	_	13	amod	_	_	우월/ncps+하/xsm+ㄴ/etm
+13	위치에	위치+에	ADV	_	14	obl	_	_	위치/ncpa+에/jca
+14	있었다는	있+었+다는	ADJ	_	15	amod	_	_	있/paa+었/ep+다는/etm
+15	형태로	형태+로	ADV	_	18	advcl	_	_	형태/ncn+로/jca
+16	왜의	왜+의	PROPN	_	17	nmod	_	_	왜/nq+의/jcm
+17	실력을	실력+을	NOUN	_	18	obj	_	_	실력/ncn+을/jco
+18	강조하고	강조+하+고	VERB	_	0	root	_	_	강조/ncpa+하/xsv+고/ecx
+19	있다	있+다	AUX	_	18	aux	_	_	있/px+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 그렇다면 이러한 일들은 사실이었을까 ?
+1	그렇다면	그렇다면	CCONJ	_	4	cc	_	_	그렇다면/maj
+2	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+3	일들은	일+들+은	NOUN	_	4	dislocated	_	_	일/ncn+들/xsn+은/jxt
+4	사실이었을까	사실+이+었+ㄹ까	VERB	_	0	root	_	_	사실/ncn+이/jp+었/ep+ㄹ까/ef
+5	?	?	PUNCT	_	4	punct	_	_	?/sf
+
+# 현재 한국은 물론이고 일본의 학자들마저도 이 기록에 대해서 부정적이다 못해 , 아예 일본서기에서 역사성 자체를 배제하는 형편이다 .
+1	현재	현재	NOUN	_	16	advmod	_	_	현재/ncn
+2	한국은	한국+은	PROPN	_	3	dislocated	_	_	한국/nq+은/jxt
+3	물론이고	물론+이+고	CCONJ	_	16	conj	_	_	물론/ncn+이/jp+고/ecc
+4	일본의	일본+의	PROPN	_	5	nmod	_	_	일본/nq+의/jcm
+5	학자들마저도	학자+들+마저+도	ADV	_	16	advcl	_	_	학자/ncn+들/xsn+마저/jxc+도/jxc
+6	이	이	DET	_	7	det	_	_	이/mmd
+7	기록에	기록+에	ADV	_	8	obl	_	_	기록/ncpa+에/jca
+8	대해서	대하+어서	SCONJ	_	16	ccomp	_	_	대하/pvg+어서/ecs
+9	부정적이다	부정+적+이+다	VERB	_	10	ccomp	_	_	부정/ncpa+적/xsn+이/jp+다/ef
+10	못해	못하+어	SCONJ	_	16	ccomp	_	_	못하/pvg+어/ecs
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	아예	아예	ADV	_	16	advmod	_	_	아예/mag
+13	일본서기에서	일본서기+에서	ADV	_	16	advcl	_	_	일본서기/nq+에서/jca
+14	역사성	역사성	NOUN	_	15	compound	_	_	역사성/ncn
+15	자체를	자체+를	NOUN	_	16	obj	_	_	자체/ncn+를/jco
+16	배제하는	배제+하+는	VERB	_	17	ccomp	_	_	배제/ncpa+하/xsv+는/etm
+17	형편이다	형편+이+다	VERB	_	0	root	_	_	형편/ncn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그것은 일본서기에 등장하는 사건이란 사실에 과장이 심하고 , 시기적으로 도치되고 누락된 부분이 많기 때문이다 .
+1	그것은	그것+은	PRON	_	14	dislocated	_	_	그것/npd+은/jxt
+2	일본서기에	일본서기+에	ADV	_	3	obl	_	_	일본서기/nq+에/jca
+3	등장하는	등장+하+는	VERB	_	4	acl	_	_	등장/ncpa+하/xsv+는/etm
+4	사건이란	사건+이란	ADV	_	13	advcl	_	_	사건/ncn+이란/jxc
+5	사실에	사실+에	ADV	_	7	obl	_	_	사실/ncn+에/jca
+6	과장이	과장+이	NOUN	_	7	nsubj	_	_	과장/ncpa+이/jcs
+7	심하고	심+하+고	CCONJ	_	13	conj	_	_	심/ncps+하/xsm+고/ecc
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	시기적으로	시기+적+으로	ADV	_	11	advcl	_	_	시기/ncn+적/xsn+으로/jca
+10	도치되고	도치+되+고	CCONJ	_	11	conj	_	_	도치/ncpa+되/xsv+고/ecc
+11	누락된	누락+되+ㄴ	VERB	_	12	acl	_	_	누락/ncpa+되/xsv+ㄴ/etm
+12	부분이	부분+이	NOUN	_	13	nsubj	_	_	부분/ncn+이/jcs
+13	많기	많+기	ADJ	_	14	nmod	_	_	많/paa+기/etn
+14	때문이다	때문+이+다	VERB	_	0	root	_	_	때문/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 때문에 역사적으로 납득이 어려울 만큼 앞뒤가 맞지 않은 황당한 부분이 허다한 것 등 그 사례를 이루 열거하기도 어려울 정도다 .
+1	때문에	때문에	CCONJ	_	19	cc	_	_	때문에/maj
+2	역사적으로	역사+적+으로	ADV	_	4	advcl	_	_	역사/ncn+적/xsn+으로/jca
+3	납득이	납득+이	NOUN	_	4	nsubj	_	_	납득/ncpa+이/jcs
+4	어려울	어렵+ㄹ	ADJ	_	5	amod	_	_	어렵/paa+ㄹ/etm
+5	만큼	만큼	NOUN	_	7	advmod	_	_	만큼/nbn
+6	앞뒤가	앞뒤+가	NOUN	_	7	nsubj	_	_	앞뒤/ncn+가/jcs
+7	맞지	맞+지	VERB	_	10	acl	_	_	맞/pvg+지/ecx
+8	않은	않+은	AUX	_	7	aux	_	_	않/px+은/etm
+9	황당한	황당+하+ㄴ	VERB	_	10	amod	_	_	황당/ncps+하/xsm+ㄴ/etm
+10	부분이	부분+이	NOUN	_	11	nsubj	_	_	부분/ncn+이/jcs
+11	허다한	허다+하+ㄴ	VERB	_	12	amod	_	_	허다/ncps+하/xsm+ㄴ/etm
+12	것	것	NOUN	_	13	mark	_	_	것/nbn
+13	등	등	NOUN	_	15	mark	_	_	등/nbn
+14	그	그	DET	_	15	det	_	_	그/mmd
+15	사례를	사례+를	NOUN	_	17	obj	_	_	사례/ncn+를/jco
+16	이루	이루	ADV	_	17	advmod	_	_	이루/mag
+17	열거하기도	열거+하+기+도	ADV	_	18	advcl	_	_	열거/ncpa+하/xsv+기/etn+도/jxc
+18	어려울	어렵+ㄹ	ADJ	_	19	amod	_	_	어렵/paa+ㄹ/etm
+19	정도다	정도+이+다	VERB	_	0	root	_	_	정도/ncn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 천지天智 6년이라면 서력으로 667년에 해당한다 .
+1	천지天智	천지天智	PROPN	_	2	compound	_	_	천지天智/nq
+2	6년이라면	6+년+이+라면	SCONJ	_	5	ccomp	_	_	6/nno+년/nbu+이/jp+라면/ecs
+3	서력으로	서력+으로	ADV	_	5	advcl	_	_	서력/ncn+으로/jca
+4	667년에	667+년+에	ADV	_	5	obl	_	_	667/nno+년/nbu+에/jca
+5	해당한다	해당+하+ㄴ다	VERB	_	0	root	_	_	해당/ncpa+하/xsv+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 이 해는 백제가 멸한 지 7년 , 고구려가 패망하기 1년 전이 된다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	해는	해+는	NOUN	_	12	dislocated	_	_	해/ncn+는/jxt
+3	백제가	백제+가	PROPN	_	4	nsubj	_	_	백제/nq+가/jcs
+4	멸한	멸+하+ㄴ	VERB	_	5	acl	_	_	멸/ncpa+하/xsv+ㄴ/etm
+5	지	지	NOUN	_	6	mark	_	_	지/nbn
+6	7년	7+년	NOUN	_	11	compound	_	_	7/nno+년/nbu
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	고구려가	고구려+가	PROPN	_	9	nsubj	_	_	고구려/nq+가/jcs
+9	패망하기	패망+하+기	VERB	_	11	nmod	_	_	패망/ncpa+하/xsv+기/etn
+10	1년	1+년	NOUN	_	11	compound	_	_	1/nno+년/nbu
+11	전이	전+이	NOUN	_	12	csubj	_	_	전/ncn+이/jcc
+12	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이에 대한 해석은 이렇다 .
+1	이에	이+에	ADV	_	2	obl	_	_	이/npd+에/jca
+2	대한	대하+ㄴ	VERB	_	3	acl	_	_	대하/pvg+ㄴ/etm
+3	해석은	해석+은	NOUN	_	4	dislocated	_	_	해석/ncpa+은/jxt
+4	이렇다	이렇+다	VERB	_	0	root	_	_	이렇/pad+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 이는 나아가 백 명의 군사를 물리칠 수 있으니 후왕들에게 베풀어 공급할 만하다 .
+1	이는	이+는	PRON	_	2	dislocated	_	_	이/npd+는/jxt
+2	나아가	나아가+아	SCONJ	_	6	ccomp	_	_	나아가/pvg+아/ecs
+3	백	백	NUM	_	4	nummod	_	_	백/nnc
+4	명의	명+의	NOUN	_	5	nmod	_	_	명/nbu+의/jcm
+5	군사를	군사+를	NOUN	_	6	obj	_	_	군사/ncn+를/jco
+6	물리칠	물리치+ㄹ	VERB	_	11	ccomp	_	_	물리치/pvg+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	있으니	있+으니	SCONJ	_	6	aux	_	_	있/paa+으니/ecs
+9	후왕들에게	후왕+들+에게	ADV	_	11	iobj	_	_	후왕/ncn+들/xsn+에게/jca
+10	베풀어	베풀+어	SCONJ	_	11	ccomp	_	_	베풀/pvg+어/ecs
+11	공급할	공급+하+ㄹ	VERB	_	0	root	_	_	공급/ncpa+하/xsv+ㄹ/etm
+12	만하다	만하+다	AUX	_	11	aux	_	_	만하/px+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 즉 이 칠지도를 백제가 왜에게 하사했는가 ?
+1	즉	즉	CCONJ	_	6	cc	_	_	즉/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	칠지도를	칠지도+를	PROPN	_	6	obj	_	_	칠지도/nq+를/jco
+4	백제가	백제+가	PROPN	_	6	nsubj	_	_	백제/nq+가/jcs
+5	왜에게	왜+에게	ADV	_	6	iobj	_	_	왜/nq+에게/jca
+6	하사했는가	하사+하+었+는가	VERB	_	0	root	_	_	하사/ncpa+하/xsv+었/ep+는가/ef
+7	?	?	PUNCT	_	6	punct	_	_	?/sf
+
+# 아니면 왜왕에게 바쳤는가 ?
+1	아니면	아니+면	SCONJ	_	3	xcomp	_	_	아니/paa+면/ecs
+2	왜왕에게	왜왕+에게	ADV	_	3	iobj	_	_	왜왕/ncn+에게/jca
+3	바쳤는가	바치+었+는가	VERB	_	0	root	_	_	바치/pvg+었/ep+는가/ef
+4	?	?	PUNCT	_	3	punct	_	_	?/sf
+
+# 그러나 이 해석의 진위 여부는 ' 후왕候王 ' 이라는 어휘에서 분명해진다 .
+1	그러나	그러나	CCONJ	_	11	cc	_	_	그러나/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	해석의	해석+의	NOUN	_	5	nmod	_	_	해석/ncpa+의/jcm
+4	진위	진위	NOUN	_	5	compound	_	_	진위/ncn
+5	여부는	여부+는	NOUN	_	11	dislocated	_	_	여부/ncn+는/jxt
+6	'	'	PUNCT	_	7	punct	_	_	'/sl
+7	후왕候王	후왕候王	NOUN	_	10	acl	_	_	후왕候王/ncn
+8	'	'	PUNCT	_	7	punct	_	_	'/sr
+9	이라는	이+라는	ADP	_	7	cop	_	_	이/jp+라는/etm
+10	어휘에서	어휘+에서	ADV	_	11	advcl	_	_	어휘/ncn+에서/jca
+11	분명해진다	분명+하+어+지+ㄴ다	AUX	_	0	root	_	_	분명/ncps+하/xsm+어/ecx+지/px+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 후왕이라면 제후인 왕 , 그러니까 백제왕의 수하에 있던 영주를 의미하는 것이니 , 왕세자가 하사했다는 해석에 신뢰도를 더해준다 .
+1	후왕이라면	후왕+이+라면	SCONJ	_	10	ccomp	_	_	후왕/ncn+이/jp+라면/ecs
+2	제후인	제후+이+ㄴ	VERB	_	3	acl	_	_	제후/ncn+이/jp+ㄴ/etm
+3	왕	왕	NOUN	_	9	conj	_	_	왕/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	그러니까	그러니까	CCONJ	_	9	cc	_	_	그러니까/maj
+6	백제왕의	백제왕+의	NOUN	_	7	nmod	_	_	백제왕/ncn+의/jcm
+7	수하에	수하+에	ADV	_	8	obl	_	_	수하/ncn+에/jca
+8	있던	있+던	ADJ	_	9	amod	_	_	있/paa+던/etm
+9	영주를	영주+를	NOUN	_	10	obj	_	_	영주/ncn+를/jco
+10	의미하는	의미+하+는	VERB	_	17	ccomp	_	_	의미/ncpa+하/xsv+는/etm
+11	것이니	것+이+니	SCONJ	_	10	aux	_	_	것/nbn+이/jp+니/ecs
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	왕세자가	왕세자+가	NOUN	_	14	nsubj	_	_	왕세자/ncn+가/jcs
+14	하사했다는	하사+하+었+다는	VERB	_	15	acl	_	_	하사/ncpa+하/xsv+었/ep+다는/etm
+15	해석에	해석+에	ADV	_	17	obl	_	_	해석/ncpa+에/jca
+16	신뢰도를	신뢰도+를	NOUN	_	17	obj	_	_	신뢰도/ncn+를/jco
+17	더해준다	더하+어+주+ㄴ다	AUX	_	0	root	_	_	더하/pvg+어/ecx+주/px+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 더구나 당시 철의 문화 수준 ( 군사력 , 국력 ) 이 왜보다 백제측이 훨씬 우월했던 점을 감안한다면 위의 해석에 도움이 되리라 본다 .
+1	더구나	더구나	ADV	_	17	advmod	_	_	더구나/mag
+2	당시	당시	NOUN	_	5	compound	_	_	당시/ncn
+3	철의	철+의	NOUN	_	4	nmod	_	_	철/ncn+의/jcm
+4	문화	문화	NOUN	_	5	compound	_	_	문화/ncn
+5	수준	수준	NOUN	_	15	nsubj	_	_	수준/ncn
+6	(	(	PUNCT	_	7	conj	_	_	(/sl
+7	군사력	군사력	NOUN	_	9	conj	_	_	군사력/ncn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	국력	국력	NOUN	_	5	appos	_	_	국력/ncn
+10	)	)	PUNCT	_	9	punct	_	_	)/sr
+11	이	이	ADP	_	5	case	_	_	이/jcs
+12	왜보다	왜+보다	ADV	_	15	advcl	_	_	왜/nq+보다/jca
+13	백제측이	백제측+이	NOUN	_	15	nsubj	_	_	백제측/ncn+이/jcs
+14	훨씬	훨씬	ADV	_	15	advmod	_	_	훨씬/mag
+15	우월했던	우월+하+었+던	VERB	_	16	amod	_	_	우월/ncps+하/xsm+었/ep+던/etm
+16	점을	점+을	NOUN	_	17	obj	_	_	점/ncn+을/jco
+17	감안한다면	감안+하+ㄴ다면	SCONJ	_	22	ccomp	_	_	감안/ncpa+하/xsv+ㄴ다면/ecs
+18	위의	위+의	NOUN	_	19	nmod	_	_	위/ncn+의/jcm
+19	해석에	해석+에	ADV	_	21	obl	_	_	해석/ncpa+에/jca
+20	도움이	도움+이	NOUN	_	21	nsubj	_	_	도움/ncn+이/jcs
+21	되리라	되+리라	VERB	_	22	ccomp	_	_	되/pvg+리라/ef
+22	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+23	.	.	PUNCT	_	22	punct	_	_	./sf
+
+# 그렇다고 하면 칠지도에 의해 임나설을 뒷받침하려는 행위는 결국 거짓된 역사를 꾸며 내기 위해 또 다른 허구를 덧씌우는 것에 불과하지 않은가 ?
+1	그렇다고	그렇+다+고	VERB	_	2	conj	_	_	그렇/pad+다/ef+고/jcr
+2	하면	하+면	SCONJ	_	19	conj	_	_	하/pvg+면/ecs
+3	칠지도에	칠지도+에	ADV	_	4	obl	_	_	칠지도/nq+에/jca
+4	의해	의하+어	SCONJ	_	6	ccomp	_	_	의하/pvg+어/ecs
+5	임나설을	임나설+을	NOUN	_	6	obj	_	_	임나설/ncn+을/jco
+6	뒷받침하려는	뒷받침+하+려는	VERB	_	7	acl	_	_	뒷받침/ncpa+하/xsv+려는/etm
+7	행위는	행위+는	NOUN	_	19	dislocated	_	_	행위/ncpa+는/jxt
+8	결국	결국	ADV	_	19	advmod	_	_	결국/mag
+9	거짓된	거짓되+ㄴ	VERB	_	10	acl	_	_	거짓되/pvg+ㄴ/etm
+10	역사를	역사+를	NOUN	_	11	obj	_	_	역사/ncn+를/jco
+11	꾸며	꾸미+어	VERB	_	13	ccomp	_	_	꾸미/pvg+어/ecx
+12	내기	내+기	AUX	_	11	aux	_	_	내/px+기/etn
+13	위해	위+하+어	SCONJ	_	17	ccomp	_	_	위/ncpa+하/xsv+어/ecs
+14	또	또	ADV	_	15	advmod	_	_	또/mag
+15	다른	다르+ㄴ	ADJ	_	16	amod	_	_	다르/paa+ㄴ/etm
+16	허구를	허구+를	NOUN	_	17	obj	_	_	허구/ncn+를/jco
+17	덧씌우는	덧씌우+는	VERB	_	18	acl	_	_	덧씌우/pvg+는/etm
+18	것에	것+에	ADV	_	19	obl	_	_	것/nbn+에/jca
+19	불과하지	불과+하+지	VERB	_	0	root	_	_	불과/ncps+하/xsm+지/ecx
+20	않은가	않+ㄴ가	AUX	_	19	aux	_	_	않/px+ㄴ가/ef
+21	?	?	PUNCT	_	20	punct	_	_	?/sf
+
+# 그러나 당시 중국은 주변 국가들에게 관직을 수여할 때 , 그 지역의 실질적 관할 여부와 관계없이 관직을 받는 이가 원하는 칭호를 주었다 .
+1	그러나	그러나	CCONJ	_	21	cc	_	_	그러나/maj
+2	당시	당시	NOUN	_	3	compound	_	_	당시/ncn
+3	중국은	중국+은	PROPN	_	7	dislocated	_	_	중국/nq+은/jxt
+4	주변	주변	NOUN	_	5	compound	_	_	주변/ncn
+5	국가들에게	국가+들+에게	ADV	_	7	iobj	_	_	국가/ncn+들/xsn+에게/jca
+6	관직을	관직+을	NOUN	_	7	obj	_	_	관직/ncn+을/jco
+7	수여할	수여+하+ㄹ	VERB	_	8	acl	_	_	수여/ncpa+하/xsv+ㄹ/etm
+8	때	때	NOUN	_	21	advmod	_	_	때/nbn
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	그	그	DET	_	11	det	_	_	그/mmd
+11	지역의	지역+의	NOUN	_	13	nmod	_	_	지역/ncn+의/jcm
+12	실질적	실질+적	NOUN	_	13	amod	_	_	실질/ncn+적/xsn
+13	관할	관할	NOUN	_	14	compound	_	_	관할/ncpa
+14	여부와	여부+와	CCONJ	_	15	conj	_	_	여부/ncn+와/jct
+15	관계없이	관계없이	ADV	_	21	advmod	_	_	관계없이/mag
+16	관직을	관직+을	NOUN	_	17	obj	_	_	관직/ncn+을/jco
+17	받는	받+는	VERB	_	18	acl	_	_	받/pvg+는/etm
+18	이가	이+가	PRON	_	19	nsubj	_	_	이/npp+가/jcs
+19	원하는	원하+는	VERB	_	20	acl	_	_	원하/pvg+는/etm
+20	칭호를	칭호+를	NOUN	_	21	obj	_	_	칭호/ncn+를/jco
+21	주었다	주+었+다	VERB	_	0	root	_	_	주/pvg+었/ep+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 그렇기 때문에 당시의 작위 명칭에는 큰 의미를 부여하지 않는 것이 오늘날 학자들의 상식이 아닌가 ?
+1	그렇기	그렇+기	VERB	_	2	nmod	_	_	그렇/pad+기/etn
+2	때문에	때문+에	ADV	_	14	obl	_	_	때문/nbn+에/jca
+3	당시의	당시+의	NOUN	_	5	nmod	_	_	당시/ncn+의/jcm
+4	작위	작위	NOUN	_	5	compound	_	_	작위/ncn
+5	명칭에는	명칭+에+는	NOUN	_	8	dislocated	_	_	명칭/ncpa+에/jca+는/jxt
+6	큰	크+ㄴ	ADJ	_	7	amod	_	_	크/paa+ㄴ/etm
+7	의미를	의미+를	NOUN	_	8	obj	_	_	의미/ncpa+를/jco
+8	부여하지	부여+하+지	VERB	_	10	acl	_	_	부여/ncpa+하/xsv+지/ecx
+9	않는	않+는	AUX	_	8	aux	_	_	않/px+는/etm
+10	것이	것+이	NOUN	_	14	nsubj	_	_	것/nbn+이/jcs
+11	오늘날	오늘날	NOUN	_	12	compound	_	_	오늘날/ncn
+12	학자들의	학자+들+의	NOUN	_	13	nmod	_	_	학자/ncn+들/xsn+의/jcm
+13	상식이	상식+이	NOUN	_	14	csubj	_	_	상식/ncn+이/jcc
+14	아닌가	아니+ㄴ가	ADJ	_	0	root	_	_	아니/paa+ㄴ가/ef
+15	?	?	PUNCT	_	14	punct	_	_	?/sf
+
+# 그러한 상식을 외면하고 송서 왜인전에 등장하는 왜왕의 작위를 임나설의 근거로 채택하고자 하는 일본 사학에게 다음도표를 제시한다 .
+1	그러한	그러하+ㄴ	VERB	_	2	amod	_	_	그러하/pad+ㄴ/etm
+2	상식을	상식+을	NOUN	_	3	obj	_	_	상식/ncn+을/jco
+3	외면하고	외면+하+고	CCONJ	_	11	conj	_	_	외면/ncpa+하/xsv+고/ecc
+4	송서	송서	NOUN	_	5	compound	_	_	송서/ncn
+5	왜인전에	왜인전+에	ADV	_	6	obl	_	_	왜인전/nq+에/jca
+6	등장하는	등장+하+는	VERB	_	8	acl	_	_	등장/ncpa+하/xsv+는/etm
+7	왜왕의	왜왕+의	NOUN	_	8	nmod	_	_	왜왕/ncn+의/jcm
+8	작위를	작위+를	NOUN	_	11	obj	_	_	작위/ncn+를/jco
+9	임나설의	임나설+의	NOUN	_	10	nmod	_	_	임나설/ncpa+의/jcm
+10	근거로	근거+로	ADV	_	11	advcl	_	_	근거/ncpa+로/jca
+11	채택하고자	채택+하+고자	VERB	_	14	acl	_	_	채택/ncpa+하/xsv+고자/ecx
+12	하는	하+는	AUX	_	11	aux	_	_	하/px+는/etm
+13	일본	일본	PROPN	_	14	compound	_	_	일본/nq
+14	사학에게	사학+에게	ADV	_	16	iobj	_	_	사학/ncn+에게/jca
+15	다음도표를	다음+도표+를	NOUN	_	16	obj	_	_	다음/ncn+도표/ncn+를/jco
+16	제시한다	제시+하+ㄴ다	VERB	_	0	root	_	_	제시/ncpa+하/xsv+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 송서에 등장하는 기록은 분명 우리에게 혼란을 안겨준다 .
+1	송서에	송서+에	ADV	_	2	obl	_	_	송서/ncn+에/jca
+2	등장하는	등장+하+는	VERB	_	3	acl	_	_	등장/ncpa+하/xsv+는/etm
+3	기록은	기록+은	NOUN	_	7	dislocated	_	_	기록/ncpa+은/jxt
+4	분명	분명	ADV	_	7	advmod	_	_	분명/mag
+5	우리에게	우리+에게	ADV	_	7	iobj	_	_	우리/npp+에게/jca
+6	혼란을	혼란+을	NOUN	_	7	obj	_	_	혼란/ncpa+을/jco
+7	안겨준다	안기+어+주+ㄴ다	AUX	_	0	root	_	_	안기/pvg+어/ecx+주/px+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 기록대로라면 왜왕은 한반도의 신라와 가야를 통괄하고 있었고 , 백제에 대해서도 일본서기 등에서 주장하듯이 우월한 지위를 누리고 있었을 것이다 .
+1	기록대로라면	기록+대로+이+라면	SCONJ	_	16	ccomp	_	_	기록/ncpa+대로/jca+이/jp+라면/ecs
+2	왜왕은	왜왕+은	NOUN	_	16	dislocated	_	_	왜왕/ncn+은/jxt
+3	한반도의	한반도+의	PROPN	_	5	nmod	_	_	한반도/nq+의/jcm
+4	신라와	신라+와	CCONJ	_	5	conj	_	_	신라/nq+와/jcj
+5	가야를	가야+를	PROPN	_	6	obj	_	_	가야/nq+를/jco
+6	통괄하고	통괄+하+고	VERB	_	16	conj	_	_	통괄/ncpa+하/xsv+고/ecx
+7	있었고	있+었+고	CCONJ	_	6	aux	_	_	있/px+었/ep+고/ecc
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	백제에	백제+에	ADV	_	10	obl	_	_	백제/nq+에/jca
+10	대해서도	대하+어서+도	ADV	_	16	ccomp	_	_	대하/pvg+어서/ecs+도/jxc
+11	일본서기	일본서기	PROPN	_	12	compound	_	_	일본서기/nq
+12	등에서	등+에서	ADV	_	13	advcl	_	_	등/nbn+에서/jca
+13	주장하듯이	주장+하+듯이	SCONJ	_	16	ccomp	_	_	주장/ncpa+하/xsv+듯이/ecs
+14	우월한	우월+하+ㄴ	VERB	_	15	amod	_	_	우월/ncps+하/xsm+ㄴ/etm
+15	지위를	지위+를	NOUN	_	16	obj	_	_	지위/ncn+를/jco
+16	누리고	누리+고	VERB	_	0	root	_	_	누리/pvg+고/ecx
+17	있었을	있+었+ㄹ	AUX	_	16	aux	_	_	있/px+었/ep+ㄹ/etm
+18	것이다	것+이+다	VERB	_	16	aux	_	_	것/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그러나 같은 시기에 왜왕의 직위보다 훨씬 높은 칭호를 부여받았던 백제왕이 왜왕에게 조공을 바치는 등의 해괴한 일에 대해선 어떻게 설명하겠는가 ?
+1	그러나	그러나	CCONJ	_	19	cc	_	_	그러나/maj
+2	같은	같+ㄴ	ADJ	_	3	amod	_	_	같/paa+ㄴ/etm
+3	시기에	시기+에	ADV	_	9	obl	_	_	시기/ncn+에/jca
+4	왜왕의	왜왕+의	NOUN	_	5	nmod	_	_	왜왕/ncn+의/jcm
+5	직위보다	직위+보다	ADV	_	7	advcl	_	_	직위/ncn+보다/jca
+6	훨씬	훨씬	ADV	_	7	advmod	_	_	훨씬/mag
+7	높은	높+ㄴ	ADJ	_	8	amod	_	_	높/paa+ㄴ/etm
+8	칭호를	칭호+를	NOUN	_	9	obj	_	_	칭호/ncn+를/jco
+9	부여받았던	부여받+았+던	VERB	_	10	acl	_	_	부여받/pvg+았/ep+던/etm
+10	백제왕이	백제왕+이	NOUN	_	13	nsubj	_	_	백제왕/ncn+이/jcs
+11	왜왕에게	왜왕+에게	ADV	_	13	iobj	_	_	왜왕/ncn+에게/jca
+12	조공을	조공+을	NOUN	_	13	obj	_	_	조공/ncpa+을/jco
+13	바치는	바치+는	VERB	_	14	acl	_	_	바치/pvg+는/etm
+14	등의	등+의	NOUN	_	16	nmod	_	_	등/nbn+의/jcm
+15	해괴한	해괴+하+ㄴ	VERB	_	16	amod	_	_	해괴/ncps+하/xsm+ㄴ/etm
+16	일에	일+에	ADV	_	17	obl	_	_	일/ncn+에/jca
+17	대해선	대하+어서+는	NOUN	_	19	ccomp	_	_	대하/pvg+어서/ecs+는/jxt
+18	어떻게	어떻+게	SCONJ	_	19	xcomp	_	_	어떻/pad+게/ecs
+19	설명하겠는가	설명+하+겠+는가	VERB	_	0	root	_	_	설명/ncpa+하/xsv+겠/ep+는가/ef
+20	?	?	PUNCT	_	19	punct	_	_	?/sf
+
+# 즉 왜는 신라 , 임나 , 가야 등을 통괄하는 권위를 중국으로부터 인정받았으며 , 백제에 대해서도 우월권을 행사했을 것이다 .
+1	즉	즉	CCONJ	_	17	cc	_	_	즉/maj
+2	왜는	왜+는	PROPN	_	17	dislocated	_	_	왜/nq+는/jxt
+3	신라	신라	PROPN	_	5	conj	_	_	신라/nq
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	임나	임나	PROPN	_	7	conj	_	_	임나/nq
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	가야	가야	PROPN	_	8	compound	_	_	가야/nq
+8	등을	등+을	NOUN	_	9	obj	_	_	등/nbn+을/jco
+9	통괄하는	통괄+하+는	VERB	_	10	acl	_	_	통괄/ncpa+하/xsv+는/etm
+10	권위를	권위+를	NOUN	_	12	obj	_	_	권위/ncn+를/jco
+11	중국으로부터	중국+으로+부터	ADV	_	12	advcl	_	_	중국/nq+으로/jca+부터/jxc
+12	인정받았으며	인정받+았+으며	CCONJ	_	17	conj	_	_	인정받/pvg+았/ep+으며/ecc
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	백제에	백제+에	ADV	_	15	obl	_	_	백제/nq+에/jca
+15	대해서도	대하+어서+도	ADV	_	17	ccomp	_	_	대하/pvg+어서/ecs+도/jxc
+16	우월권을	우월권+을	NOUN	_	17	obj	_	_	우월권/ncn+을/jco
+17	행사했을	행사+하+었+ㄹ	VERB	_	0	root	_	_	행사/ncpa+하/xsv+었/ep+ㄹ/etm
+18	것이다	것+이+다	VERB	_	17	aux	_	_	것/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그러나 여기서 말하는 백제 , 신라 , 임나 등은 한반도의 국명을 일컫는 것이 아니라 , 대마도에 있었던 같은 이름의 소국이었음에 유의해야 한다 .
+1	그러나	그러나	CCONJ	_	21	cc	_	_	그러나/maj
+2	여기서	여기+서	ADV	_	3	advcl	_	_	여기/npd+서/jca
+3	말하는	말하+는	VERB	_	9	acl	_	_	말하/pvg+는/etm
+4	백제	백제	PROPN	_	6	conj	_	_	백제/nq
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	신라	신라	PROPN	_	8	conj	_	_	신라/nq
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	임나	임나	PROPN	_	9	compound	_	_	임나/nq
+9	등은	등+은	NOUN	_	20	dislocated	_	_	등/nbn+은/jxt
+10	한반도의	한반도+의	PROPN	_	11	nmod	_	_	한반도/nq+의/jcm
+11	국명을	국명+을	NOUN	_	12	obj	_	_	국명/ncn+을/jco
+12	일컫는	일컫+는	VERB	_	13	acl	_	_	일컫/pvg+는/etm
+13	것이	것+이	NOUN	_	14	csubj	_	_	것/nbn+이/jcc
+14	아니라	아니+라	SCONJ	_	20	xcomp	_	_	아니/paa+라/ecs
+15	,	,	PUNCT	_	14	punct	_	_	,/sp
+16	대마도에	대마도+에	ADV	_	17	obl	_	_	대마도/nq+에/jca
+17	있었던	있+었+던	ADJ	_	20	amod	_	_	있/paa+었/ep+던/etm
+18	같은	같+ㄴ	ADJ	_	19	amod	_	_	같/paa+ㄴ/etm
+19	이름의	이름+의	NOUN	_	20	nmod	_	_	이름/ncpa+의/jcm
+20	소국이었음에	소국+이+었+ㅁ+에	ADV	_	21	obl	_	_	소국/ncn+이/jp+었/ep+ㅁ/etn+에/jca
+21	유의해야	유의+하+어야	VERB	_	0	root	_	_	유의/ncpa+하/xsv+어야/ecx
+22	한다	하+ㄴ다	AUX	_	21	aux	_	_	하/px+ㄴ다/ef
+23	.	.	PUNCT	_	22	punct	_	_	./sf
+
+# 왜는 당시 무수히 많았던 , 대마도 혹은 규슈에 실재했던 신라 , 가야 , 임나 등의 소국의 관할권을 요구했고 , 중국은 이를 인정했을 가능성이 짙다 .
+1	왜는	왜+는	PROPN	_	18	dislocated	_	_	왜/nq+는/jxt
+2	당시	당시	NOUN	_	4	dep	_	_	당시/ncn
+3	무수히	무수+히	ADV	_	4	advmod	_	_	무수/ncps+히/xsa
+4	많았던	많+았+던	ADJ	_	16	amod	_	_	많/paa+았/ep+던/etm
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	대마도	대마도	PROPN	_	8	conj	_	_	대마도/nq
+7	혹은	혹은	CCONJ	_	8	cc	_	_	혹은/maj
+8	규슈에	규슈+에	ADV	_	9	obl	_	_	규슈/nq+에/jca
+9	실재했던	실재+하+었+던	VERB	_	16	acl	_	_	실재/ncpa+하/xsv+었/ep+던/etm
+10	신라	신라	PROPN	_	12	conj	_	_	신라/nq
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	가야	가야	PROPN	_	14	conj	_	_	가야/nq
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	임나	임나	PROPN	_	15	compound	_	_	임나/nq
+15	등의	등+의	NOUN	_	16	nmod	_	_	등/nbn+의/jcm
+16	소국의	소국+의	NOUN	_	17	nmod	_	_	소국/ncn+의/jcm
+17	관할권을	관할권+을	NOUN	_	18	obj	_	_	관할권/ncn+을/jco
+18	요구했고	요구+하+었+고	CCONJ	_	22	conj	_	_	요구/ncpa+하/xsv+었/ep+고/ecc
+19	,	,	PUNCT	_	18	punct	_	_	,/sp
+20	중국은	중국+은	PROPN	_	22	dislocated	_	_	중국/nq+은/jxt
+21	이를	이+를	PRON	_	22	obj	_	_	이/npd+를/jco
+22	인정했을	인정+하+었+ㄹ	VERB	_	23	acl	_	_	인정/ncpa+하/xsv+었/ep+ㄹ/etm
+23	가능성이	가능성+이	NOUN	_	24	nsubj	_	_	가능성/ncn+이/jcs
+24	짙다	짙+다	ADJ	_	0	root	_	_	짙/paa+다/ef
+25	.	.	PUNCT	_	24	punct	_	_	./sf
+
+# 이는 상당한 설득력을 지니게 된다 .
+1	이는	이+는	PRON	_	4	dislocated	_	_	이/npd+는/jxt
+2	상당한	상당+하+ㄴ	VERB	_	3	amod	_	_	상당/ncps+하/xsm+ㄴ/etm
+3	설득력을	설득력+을	NOUN	_	4	obj	_	_	설득력/ncn+을/jco
+4	지니게	지니+게	VERB	_	0	root	_	_	지니/pvg+게/ecx
+5	된다	되+ㄴ다	AUX	_	4	aux	_	_	되/px+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그러나 아직도 의문은 남는다 .
+1	그러나	그러나	CCONJ	_	4	cc	_	_	그러나/maj
+2	아직도	아직도	ADV	_	4	advmod	_	_	아직도/mag
+3	의문은	의문+은	NOUN	_	4	dislocated	_	_	의문/ncpa+은/jxt
+4	남는다	남+는다	VERB	_	0	root	_	_	남/pvg+는다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 위의 표가 보여주는 바와 같이 고구려와 백제의 지위는 왜에 비해 월등한 위치에 있었다 .
+1	위의	위+의	NOUN	_	2	nmod	_	_	위/ncn+의/jcm
+2	표가	표+가	NOUN	_	3	nsubj	_	_	표/ncn+가/jcs
+3	보여주는	보이+어+주+는	AUX	_	4	acl	_	_	보이/pvg+어/ecx+주/px+는/etm
+4	바와	바+와	CCONJ	_	5	conj	_	_	바/nbn+와/jct
+5	같이	같+이	SCONJ	_	13	xcomp	_	_	같/paa+이/ecs
+6	고구려와	고구려+와	CCONJ	_	7	conj	_	_	고구려/nq+와/jcj
+7	백제의	백제+의	PROPN	_	8	nmod	_	_	백제/nq+의/jcm
+8	지위는	지위+는	NOUN	_	13	dislocated	_	_	지위/ncn+는/jxt
+9	왜에	왜+에	ADV	_	10	obl	_	_	왜/nq+에/jca
+10	비해	비+하+어	SCONJ	_	13	conj	_	_	비/ncpa+하/xsv+어/ecs
+11	월등한	월등+하+ㄴ	VERB	_	12	amod	_	_	월등/ncps+하/xsm+ㄴ/etm
+12	위치에	위치+에	ADV	_	13	obl	_	_	위치/ncpa+에/jca
+13	있었다	있+었+다	ADJ	_	0	root	_	_	있/paa+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그러나 이것 또한 순리대로 풀어간다면 무리가 없으리라 본다 .
+1	그러나	그러나	CCONJ	_	8	cc	_	_	그러나/maj
+2	이것	이것	PRON	_	3	dep	_	_	이것/npd
+3	또한	또한	ADV	_	5	advmod	_	_	또한/mag
+4	순리대로	순리+대로	ADV	_	5	advcl	_	_	순리/ncn+대로/jca
+5	풀어간다면	풀+어+가+ㄴ다면	SCONJ	_	8	ccomp	_	_	풀/pvg+어/ecx+가/px+ㄴ다면/ecs
+6	무리가	무리+가	NOUN	_	7	nsubj	_	_	무리/ncn+가/jcs
+7	없으리라	없+으리라	ADJ	_	8	ccomp	_	_	없/paa+으리라/ef
+8	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 신라는 고구려의 세력권하에 있었으므로 고구려의 힘을 빌어야 비로소 중국에 사신을 보낼 수 있었다 .
+1	신라는	신라+는	PROPN	_	11	dislocated	_	_	신라/nq+는/jxt
+2	고구려의	고구려+의	PROPN	_	3	nmod	_	_	고구려/nq+의/jcm
+3	세력권하에	세력권+하+에	ADV	_	4	obl	_	_	세력권/ncn+하/ncn+에/jca
+4	있었으므로	있+었+으므로	SCONJ	_	11	xcomp	_	_	있/paa+었/ep+으므로/ecs
+5	고구려의	고구려+의	PROPN	_	6	nmod	_	_	고구려/nq+의/jcm
+6	힘을	힘+을	NOUN	_	7	obj	_	_	힘/ncn+을/jco
+7	빌어야	빌+어야	SCONJ	_	11	ccomp	_	_	빌/pvg+어야/ecs
+8	비로소	비로소	ADV	_	11	advmod	_	_	비로소/mag
+9	중국에	중국+에	ADV	_	11	obl	_	_	중국/nq+에/jca
+10	사신을	사신+을	NOUN	_	11	obj	_	_	사신/ncn+을/jco
+11	보낼	보내+ㄹ	VERB	_	0	root	_	_	보내/pvg+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있었다	있+었+다	ADJ	_	11	aux	_	_	있/paa+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그러한 신라가 중국에 권위를 요청한다는 일은 당연히 무리가 아니었겠는가 ?
+1	그러한	그러하+ㄴ	VERB	_	2	amod	_	_	그러하/pad+ㄴ/etm
+2	신라가	신라+가	PROPN	_	5	nsubj	_	_	신라/nq+가/jcs
+3	중국에	중국+에	ADV	_	5	obl	_	_	중국/nq+에/jca
+4	권위를	권위+를	NOUN	_	5	obj	_	_	권위/ncn+를/jco
+5	요청한다는	요청+하+ㄴ다는	VERB	_	6	acl	_	_	요청/ncpa+하/xsv+ㄴ다는/etm
+6	일은	일+은	NOUN	_	9	dislocated	_	_	일/ncn+은/jxt
+7	당연히	당연+히	ADV	_	9	advmod	_	_	당연/ncps+히/xsa
+8	무리가	무리+가	NOUN	_	9	csubj	_	_	무리/ncn+가/jcc
+9	아니었겠는가	아니+었+겠+는가	ADJ	_	0	root	_	_	아니/paa+었/ep+겠/ep+는가/ef
+10	?	?	PUNCT	_	9	punct	_	_	?/sf
+
+# 결국 송서를 통해 임나 일본부를 이해하려는 구상은 억지임이 드러난 셈이 된다 .
+1	결국	결국	ADV	_	9	advmod	_	_	결국/mag
+2	송서를	송서+를	NOUN	_	3	obj	_	_	송서/ncn+를/jco
+3	통해	통+하+어	SCONJ	_	6	ccomp	_	_	통/ncpa+하/xsv+어/ecs
+4	임나	임나	PROPN	_	5	flat	_	_	임나/nq
+5	일본부를	일본부+를	PROPN	_	6	obj	_	_	일본부/nq+를/jco
+6	이해하려는	이해+하+려는	VERB	_	7	acl	_	_	이해/ncpa+하/xsv+려는/etm
+7	구상은	구상+은	NOUN	_	8	dislocated	_	_	구상/ncn+은/jxt
+8	억지임이	억지+이+ㅁ+이	NOUN	_	9	nsubj	_	_	억지/ncps+이/jp+ㅁ/etn+이/jcs
+9	드러난	드러나+ㄴ	VERB	_	10	acl	_	_	드러나/pvg+ㄴ/etm
+10	셈이	셈+이	NOUN	_	11	csubj	_	_	셈/nbn+이/jcc
+11	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그렇다면 결국 , 일본서기의 역사적 취약성을 중국의 역사기록에서 메워보려는 그들의 노력은 헛되고 , 무모한 노력에 불과하지 않은가 ?
+1	그렇다면	그렇다면	CCONJ	_	16	cc	_	_	그렇다면/maj
+2	결국	결국	NOUN	_	16	compound	_	_	결국/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	일본서기의	일본서기+의	PROPN	_	6	nmod	_	_	일본서기/nq+의/jcm
+5	역사적	역사+적	NOUN	_	6	amod	_	_	역사/ncn+적/xsn
+6	취약성을	취약성+을	NOUN	_	9	obj	_	_	취약성/ncn+을/jco
+7	중국의	중국+의	PROPN	_	8	nmod	_	_	중국/nq+의/jcm
+8	역사기록에서	역사기록+에서	ADV	_	9	advcl	_	_	역사기록/ncpa+에서/jca
+9	메워보려는	메우+어+보+려는	AUX	_	11	acl	_	_	메우/pvg+어/ecx+보/px+려는/etm
+10	그들의	그+들+의	PRON	_	11	nmod	_	_	그/npp+들/xsn+의/jcm
+11	노력은	노력+은	NOUN	_	16	dislocated	_	_	노력/ncpa+은/jxt
+12	헛되고	헛되+고	CCONJ	_	13	conj	_	_	헛되/pvg+고/ecc
+13	,	,	PUNCT	_	14	conj	_	_	,/sp
+14	무모한	무모+하+ㄴ	VERB	_	15	amod	_	_	무모/ncps+하/xsm+ㄴ/etm
+15	노력에	노력+에	ADV	_	16	obl	_	_	노력/ncpa+에/jca
+16	불과하지	불과+하+지	VERB	_	0	root	_	_	불과/ncps+하/xsm+지/ecx
+17	않은가	않+ㄴ가	AUX	_	16	aux	_	_	않/px+ㄴ가/ef
+18	?	?	PUNCT	_	17	punct	_	_	?/sf
+
+# 그러면 임나에 대한 일본서기를 비롯한 많은 기록들은 모두 허구란 말인가 ?
+1	그러면	그러면	CCONJ	_	10	cc	_	_	그러면/maj
+2	임나에	임나+에	ADV	_	3	obl	_	_	임나/nq+에/jca
+3	대한	대하+ㄴ	VERB	_	7	acl	_	_	대하/pvg+ㄴ/etm
+4	일본서기를	일본서기+를	PROPN	_	5	obj	_	_	일본서기/nq+를/jco
+5	비롯한	비롯+하+ㄴ	VERB	_	7	acl	_	_	비롯/ncpa+하/xsv+ㄴ/etm
+6	많은	많+ㄴ	ADJ	_	7	amod	_	_	많/paa+ㄴ/etm
+7	기록들은	기록+들+은	NOUN	_	9	dislocated	_	_	기록/ncpa+들/xsn+은/jxt
+8	모두	모두	ADV	_	9	advmod	_	_	모두/mag
+9	허구란	허구+이+란	VERB	_	10	ccomp	_	_	허구/ncpa+이/jp+란/etm
+10	말인가	말+이+ㄴ가	VERB	_	0	root	_	_	말/ncpa+이/jp+ㄴ가/ef
+11	?	?	PUNCT	_	10	punct	_	_	?/sf
+
+# 그것은 그렇지 않다 .
+1	그것은	그것+은	PRON	_	2	dislocated	_	_	그것/npd+은/jxt
+2	그렇지	그렇+지	VERB	_	0	root	_	_	그렇/pad+지/ecx
+3	않다	않+다	AUX	_	2	aux	_	_	않/px+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 일본서기에도 분명 사실의 기록도 담겨 있을 것이다 .
+1	일본서기에도	일본서기+에+도	ADV	_	5	advcl	_	_	일본서기/nq+에/jca+도/jxc
+2	분명	분명	ADV	_	5	advmod	_	_	분명/mag
+3	사실의	사실+의	NOUN	_	4	nmod	_	_	사실/ncn+의/jcm
+4	기록도	기록+도	ADV	_	5	advcl	_	_	기록/ncpa+도/jxc
+5	담겨	담기+어	VERB	_	0	root	_	_	담기/pvg+어/ecx
+6	있을	있+ㄹ	AUX	_	5	aux	_	_	있/px+ㄹ/etm
+7	것이다	것+이+다	VERB	_	5	aux	_	_	것/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 문제는 과장과 허구를 악용하는 데 있다 .
+1	문제는	문제+는	NOUN	_	6	dislocated	_	_	문제/ncn+는/jxt
+2	과장과	과장+과	CCONJ	_	3	conj	_	_	과장/ncpa+과/jcj
+3	허구를	허구+를	NOUN	_	4	obj	_	_	허구/ncn+를/jco
+4	악용하는	악용+하+는	VERB	_	5	acl	_	_	악용/ncpa+하/xsv+는/etm
+5	데	데	NOUN	_	6	mark	_	_	데/nbn
+6	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 과장과 허구의 진위를 올바로 가려내서 사실 접근을 위해 노력한다면 , 잘못 만들어진 기록조차도 역사의 진실을 가려내는 데 한 몫을 할 것이다 .
+1	과장과	과장+과	CCONJ	_	2	conj	_	_	과장/ncpa+과/jcj
+2	허구의	허구+의	NOUN	_	3	nmod	_	_	허구/ncn+의/jcm
+3	진위를	진위+를	NOUN	_	5	obj	_	_	진위/ncn+를/jco
+4	올바로	올바로	ADV	_	5	advmod	_	_	올바로/mag
+5	가려내서	가리+어+내+서	SCONJ	_	9	ccomp	_	_	가리/pvg+어/ecx+내/px+서/ecs
+6	사실	사실	NOUN	_	7	compound	_	_	사실/ncn
+7	접근을	접근+을	NOUN	_	8	obj	_	_	접근/ncpa+을/jco
+8	위해	위+하+어	SCONJ	_	9	ccomp	_	_	위/ncpa+하/xsv+어/ecs
+9	노력한다면	노력+하+ㄴ다면	SCONJ	_	20	ccomp	_	_	노력/ncpa+하/xsv+ㄴ다면/ecs
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	잘못	잘못	ADV	_	12	advmod	_	_	잘못/mag
+12	만들어진	만들+어+지+ㄴ	AUX	_	13	acl	_	_	만들/pvg+어/ecx+지/px+ㄴ/etm
+13	기록조차도	기록+조차+도	ADV	_	20	advcl	_	_	기록/ncpa+조차/jxc+도/jxc
+14	역사의	역사+의	NOUN	_	15	nmod	_	_	역사/ncn+의/jcm
+15	진실을	진실+을	NOUN	_	16	obj	_	_	진실/ncn+을/jco
+16	가려내는	가리+어+내+는	AUX	_	17	acl	_	_	가리/pvg+어/ecx+내/px+는/etm
+17	데	데	NOUN	_	20	advmod	_	_	데/nbn
+18	한	한	NUM	_	19	nummod	_	_	한/nnc
+19	몫을	몫+을	NOUN	_	20	obj	_	_	몫/ncn+을/jco
+20	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+21	것이다	것+이+다	VERB	_	20	aux	_	_	것/nbn+이/jp+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 그리고 동시에 그것은 우리나라에서 최초로 성립된 불교 중심의 문화였다 .
+1	그리고	그리고	CCONJ	_	9	cc	_	_	그리고/maj
+2	동시에	동시+에	ADV	_	9	obl	_	_	동시/ncn+에/jca
+3	그것은	그것+은	PRON	_	9	dislocated	_	_	그것/npd+은/jxt
+4	우리나라에서	우리+나라+에서	ADV	_	6	advcl	_	_	우리/npp+나라/ncn+에서/jca
+5	최초로	최초+로	ADV	_	6	advcl	_	_	최초/ncn+로/jca
+6	성립된	성립+되+ㄴ	VERB	_	9	ccomp	_	_	성립/ncpa+되/xsv+ㄴ/etm
+7	불교	불교	PROPN	_	8	compound	_	_	불교/nq
+8	중심의	중심+의	NOUN	_	9	nmod	_	_	중심/ncn+의/jcm
+9	문화였다	문화+이+었+다	VERB	_	0	root	_	_	문화/ncn+이/jp+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 위의 인용문은 아스카 문화에 대한 일본 사학의 보편적 인식이 잘 반영되어 있다 .
+1	위의	위+의	NOUN	_	2	nmod	_	_	위/ncn+의/jcm
+2	인용문은	인용문+은	NOUN	_	11	dislocated	_	_	인용문/ncn+은/jxt
+3	아스카	아스카	PROPN	_	4	compound	_	_	아스카/nq
+4	문화에	문화+에	ADV	_	5	obl	_	_	문화/ncn+에/jca
+5	대한	대하+ㄴ	VERB	_	9	acl	_	_	대하/pvg+ㄴ/etm
+6	일본	일본	PROPN	_	7	compound	_	_	일본/nq
+7	사학의	사학+의	NOUN	_	9	nmod	_	_	사학/ncn+의/jcm
+8	보편적	보편+적	NOUN	_	9	amod	_	_	보편/ncn+적/xsn
+9	인식이	인식+이	NOUN	_	11	nsubj	_	_	인식/ncpa+이/jcs
+10	잘	잘	ADV	_	11	advmod	_	_	잘/mag
+11	반영되어	반영+되+어	VERB	_	0	root	_	_	반영/ncpa+되/xsv+어/ecx
+12	있다	있+다	AUX	_	11	aux	_	_	있/px+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그럼 위의 인용문을 요약해 보자 .
+1	그럼	그럼	CCONJ	_	4	cc	_	_	그럼/maj
+2	위의	위+의	NOUN	_	3	nmod	_	_	위/ncn+의/jcm
+3	인용문을	인용문+을	NOUN	_	4	obj	_	_	인용문/ncn+을/jco
+4	요약해	요약+하+어	VERB	_	0	root	_	_	요약/ncpa+하/xsv+어/ecx
+5	보자	보+자	AUX	_	4	aux	_	_	보/px+자/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 첫째 , 아스카 문화는 고분 문화의 연장선상에서 발달한 불교 문화다 .
+1	첫째	첫째	NUM	_	10	nummod	_	_	첫째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	아스카	아스카	PROPN	_	4	compound	_	_	아스카/nq
+4	문화는	문화+는	NOUN	_	10	dislocated	_	_	문화/ncn+는/jxt
+5	고분	고분	NOUN	_	6	compound	_	_	고분/ncn
+6	문화의	문화+의	NOUN	_	7	nmod	_	_	문화/ncn+의/jcm
+7	연장선상에서	연장선+상+에서	ADV	_	8	advcl	_	_	연장선/ncn+상/xsn+에서/jca
+8	발달한	발달+하+ㄴ	VERB	_	10	ccomp	_	_	발달/ncpa+하/xsv+ㄴ/etm
+9	불교	불교	PROPN	_	10	compound	_	_	불교/nq
+10	문화다	문화+이+다	VERB	_	0	root	_	_	문화/ncn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 둘째 , 아스카 문화의 근원은 중국 남북조 시대의 문화다 .
+1	둘째	둘째	NUM	_	9	nummod	_	_	둘째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	아스카	아스카	PROPN	_	4	compound	_	_	아스카/nq
+4	문화의	문화+의	NOUN	_	5	nmod	_	_	문화/ncn+의/jcm
+5	근원은	근원+은	NOUN	_	9	dislocated	_	_	근원/ncn+은/jxt
+6	중국	중국	PROPN	_	8	compound	_	_	중국/nq
+7	남북조	남북조	PROPN	_	8	compound	_	_	남북조/nq
+8	시대의	시대+의	NOUN	_	9	nmod	_	_	시대/ncn+의/jcm
+9	문화다	문화+이+다	VERB	_	0	root	_	_	문화/ncn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이같이 두 가지로 정리된다 .
+1	이같이	이같이	ADV	_	4	advmod	_	_	이같이/mag
+2	두	두	NUM	_	3	nummod	_	_	두/nnc
+3	가지로	가지+로	ADV	_	4	advcl	_	_	가지/nbu+로/jca
+4	정리된다	정리+되+ㄴ다	VERB	_	0	root	_	_	정리/ncpa+되/xsv+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 이들 교과서에서도 역시 아스카 문화의 기원을 고분 문화에 두고 있다 .
+1	이들	이+들	NOUN	_	2	compound	_	_	이/npd+들/xsn
+2	교과서에서도	교과서+에서+도	ADV	_	9	advcl	_	_	교과서/ncn+에서/jca+도/jxc
+3	역시	역시	ADV	_	9	advmod	_	_	역시/mag
+4	아스카	아스카	PROPN	_	5	compound	_	_	아스카/nq
+5	문화의	문화+의	NOUN	_	6	nmod	_	_	문화/ncn+의/jcm
+6	기원을	기원+을	NOUN	_	9	obj	_	_	기원/ncn+을/jco
+7	고분	고분	NOUN	_	8	compound	_	_	고분/ncn
+8	문화에	문화+에	ADV	_	9	obl	_	_	문화/ncn+에/jca
+9	두고	두+고	VERB	_	0	root	_	_	두/pvg+고/ecx
+10	있다	있+다	AUX	_	9	aux	_	_	있/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 즉 고분 문화의 발달 과정에 남북조의 문화가 유입되어 변형된 것이 아스카 문화인 양 기술되어 있다 .
+1	즉	즉	CCONJ	_	14	cc	_	_	즉/maj
+2	고분	고분	NOUN	_	3	compound	_	_	고분/ncn
+3	문화의	문화+의	NOUN	_	4	nmod	_	_	문화/ncn+의/jcm
+4	발달	발달	NOUN	_	5	compound	_	_	발달/ncpa
+5	과정에	과정+에	ADV	_	8	obl	_	_	과정/ncpa+에/jca
+6	남북조의	남북조+의	PROPN	_	7	nmod	_	_	남북조/nq+의/jcm
+7	문화가	문화+가	NOUN	_	8	nsubj	_	_	문화/ncn+가/jcs
+8	유입되어	유입+되+어	SCONJ	_	9	ccomp	_	_	유입/ncpa+되/xsv+어/ecs
+9	변형된	변형+되+ㄴ	VERB	_	10	acl	_	_	변형/ncpa+되/xsv+ㄴ/etm
+10	것이	것+이	NOUN	_	12	nsubj	_	_	것/nbn+이/jcs
+11	아스카	아스카	PROPN	_	12	compound	_	_	아스카/nq
+12	문화인	문화+이+ㄴ	VERB	_	13	acl	_	_	문화/ncn+이/jp+ㄴ/etm
+13	양	양	NOUN	_	14	mark	_	_	양/nbn
+14	기술되어	기술+되+어	VERB	_	0	root	_	_	기술/ncpa+되/xsv+어/ecx
+15	있다	있+다	AUX	_	14	aux	_	_	있/px+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 정말 놀라운 착상이다 .
+1	정말	정말	ADV	_	2	advmod	_	_	정말/mag
+2	놀라운	놀랍+ㄴ	ADJ	_	3	amod	_	_	놀랍/paa+ㄴ/etm
+3	착상이다	착상+이+다	VERB	_	0	root	_	_	착상/ncpa+이/jp+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 아스카 문화와 고분 문화는 그 문화 성격이 전혀 다른 별개의 문화다 .
+1	아스카	아스카	PROPN	_	2	compound	_	_	아스카/nq
+2	문화와	문화+와	CCONJ	_	4	conj	_	_	문화/ncn+와/jcj
+3	고분	고분	NOUN	_	4	compound	_	_	고분/ncn
+4	문화는	문화+는	NOUN	_	11	dislocated	_	_	문화/ncn+는/jxt
+5	그	그	DET	_	7	det	_	_	그/mmd
+6	문화	문화	NOUN	_	7	compound	_	_	문화/ncn
+7	성격이	성격+이	NOUN	_	9	nsubj	_	_	성격/ncn+이/jcs
+8	전혀	전혀	ADV	_	9	advmod	_	_	전혀/mag
+9	다른	다르+ㄴ	ADJ	_	11	amod	_	_	다르/paa+ㄴ/etm
+10	별개의	별개+의	NOUN	_	11	nmod	_	_	별개/ncn+의/jcm
+11	문화다	문화+이+다	VERB	_	0	root	_	_	문화/ncn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 3세기경에 부족 국가의 형태가 등장하면서 , 부족의 수장들이 자신들의 권위와 세력을 과시하기 위해 만들었던 고분군古墳群의 출현으로 탄생한 것이 고분 문화다 .
+1	3세기경에	3+세기+경+에	ADV	_	5	obl	_	_	3/nno+세기/ncn+경/xsn+에/jca
+2	부족	부족	NOUN	_	3	compound	_	_	부족/ncn
+3	국가의	국가+의	NOUN	_	4	nmod	_	_	국가/ncn+의/jcm
+4	형태가	형태+가	NOUN	_	5	nsubj	_	_	형태/ncn+가/jcs
+5	등장하면서	등장+하+면서	CCONJ	_	17	conj	_	_	등장/ncpa+하/xsv+면서/ecc
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	부족의	부족+의	NOUN	_	8	nmod	_	_	부족/ncpa+의/jcm
+8	수장들이	수장+들+이	NOUN	_	14	nsubj	_	_	수장/ncn+들/xsn+이/jcs
+9	자신들의	자신+들+의	NOUN	_	11	nmod	_	_	자신/ncn+들/xsn+의/jcm
+10	권위와	권위+와	CCONJ	_	11	conj	_	_	권위/ncn+와/jcj
+11	세력을	세력+을	NOUN	_	12	obj	_	_	세력/ncn+을/jco
+12	과시하기	과시+하+기	VERB	_	13	nmod	_	_	과시/ncpa+하/xsv+기/etn
+13	위해	위+하+어	SCONJ	_	14	ccomp	_	_	위/ncpa+하/xsv+어/ecs
+14	만들었던	만들+었+던	VERB	_	15	acl	_	_	만들/pvg+었/ep+던/etm
+15	고분군古墳群의	고분군古墳群+의	NOUN	_	16	nmod	_	_	고분군古墳群/ncn+의/jcm
+16	출현으로	출현+으로	ADV	_	17	advcl	_	_	출현/ncpa+으로/jca
+17	탄생한	탄생+하+ㄴ	VERB	_	18	acl	_	_	탄생/ncpa+하/xsv+ㄴ/etm
+18	것이	것+이	NOUN	_	20	nsubj	_	_	것/nbn+이/jcs
+19	고분	고분	NOUN	_	20	compound	_	_	고분/ncn
+20	문화다	문화+이+다	VERB	_	0	root	_	_	문화/ncn+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그러나 아스카 문화는 그 문화와는 성격이 전혀 다른 불교 문화다 .
+1	그러나	그러나	CCONJ	_	10	cc	_	_	그러나/maj
+2	아스카	아스카	PROPN	_	3	compound	_	_	아스카/nq
+3	문화는	문화+는	NOUN	_	10	dislocated	_	_	문화/ncn+는/jxt
+4	그	그	DET	_	5	det	_	_	그/mmd
+5	문화와는	문화+와+는	NOUN	_	8	dislocated	_	_	문화/ncn+와/jct+는/jxt
+6	성격이	성격+이	NOUN	_	8	nsubj	_	_	성격/ncn+이/jcs
+7	전혀	전혀	ADV	_	8	advmod	_	_	전혀/mag
+8	다른	다르+ㄴ	ADJ	_	10	amod	_	_	다르/paa+ㄴ/etm
+9	불교	불교	PROPN	_	10	compound	_	_	불교/nq
+10	문화다	문화+이+다	VERB	_	0	root	_	_	문화/ncn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이 문화는 열도에서는 일찍이 경험한 적도 , 경험할 수도 없었던 불교라는 종교의 출현과 함께 탄생한 전혀 새로운 도량道揚 문화다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	문화는	문화+는	NOUN	_	19	dislocated	_	_	문화/ncn+는/jxt
+3	열도에서는	열도+에서+는	NOUN	_	10	dislocated	_	_	열도/ncn+에서/jca+는/jxt
+4	일찍이	일찍이	ADV	_	5	advmod	_	_	일찍이/mag
+5	경험한	경험+하+ㄴ	VERB	_	6	acl	_	_	경험/ncpa+하/xsv+ㄴ/etm
+6	적도	적+도	ADV	_	9	dep	_	_	적/nbn+도/jxc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	경험할	경험+하+ㄹ	VERB	_	9	acl	_	_	경험/ncpa+하/xsv+ㄹ/etm
+9	수도	수+도	ADV	_	10	advcl	_	_	수/nbn+도/jxc
+10	없었던	없+었+던	ADJ	_	11	amod	_	_	없/paa+었/ep+던/etm
+11	불교라는	불교+이+라는	VERB	_	12	acl	_	_	불교/nq+이/jp+라는/etm
+12	종교의	종교+의	NOUN	_	13	nmod	_	_	종교/ncn+의/jcm
+13	출현과	출현+과	CCONJ	_	14	conj	_	_	출현/ncpa+과/jct
+14	함께	함께	ADV	_	15	advmod	_	_	함께/mag
+15	탄생한	탄생+하+ㄴ	VERB	_	19	ccomp	_	_	탄생/ncpa+하/xsv+ㄴ/etm
+16	전혀	전혀	ADV	_	17	advmod	_	_	전혀/mag
+17	새로운	새롭+ㄴ	ADJ	_	19	amod	_	_	새롭/paa+ㄴ/etm
+18	도량道揚	도량道揚	NOUN	_	19	compound	_	_	도량道揚/ncn
+19	문화다	문화+이+다	VERB	_	0	root	_	_	문화/ncn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 그럼에도 불구하고 서로 전혀 다른 이질 문화와의 연계성을 주장하는 논리적 배경은 무엇인가 ?
+1	그럼에도	그럼에도	ADV	_	2	advmod	_	_	그럼에도/mag
+2	불구하고	불구+하+고	CCONJ	_	12	conj	_	_	불구/ncpa+하/xsv+고/ecc
+3	서로	서로	ADV	_	5	advmod	_	_	서로/mag
+4	전혀	전혀	ADV	_	3	advmod	_	_	전혀/mag
+5	다른	다르+ㄴ	ADJ	_	7	amod	_	_	다르/paa+ㄴ/etm
+6	이질	이질	ADJ	_	7	amod	_	_	이질/mma
+7	문화와의	문화+와+의	NOUN	_	8	nmod	_	_	문화/ncn+와/jct+의/jcm
+8	연계성을	연계성+을	NOUN	_	9	obj	_	_	연계성/ncn+을/jco
+9	주장하는	주장+하+는	VERB	_	11	acl	_	_	주장/ncpa+하/xsv+는/etm
+10	논리적	논리+적	NOUN	_	11	amod	_	_	논리/ncn+적/xsn
+11	배경은	배경+은	NOUN	_	12	dislocated	_	_	배경/ncn+은/jxt
+12	무엇인가	무엇+이+ㄴ가	VERB	_	0	root	_	_	무엇/npd+이/jp+ㄴ가/ef
+13	?	?	PUNCT	_	12	punct	_	_	?/sf
+
+# 그러나 이것으로부터 두 문화의 계통성을 설명할 아무런 설득력이나 근거도 없다 .
+1	그러나	그러나	CCONJ	_	10	cc	_	_	그러나/maj
+2	이것으로부터	이것+으로+부터	ADV	_	6	advcl	_	_	이것/npd+으로/jca+부터/jxc
+3	두	두	NUM	_	4	nummod	_	_	두/nnc
+4	문화의	문화+의	NOUN	_	5	nmod	_	_	문화/ncn+의/jcm
+5	계통성을	계통성+을	NOUN	_	6	obj	_	_	계통성/ncn+을/jco
+6	설명할	설명+하+ㄹ	VERB	_	9	acl	_	_	설명/ncpa+하/xsv+ㄹ/etm
+7	아무런	아무렇+ㄴ	VERB	_	9	amod	_	_	아무렇/pad+ㄴ/etm
+8	설득력이나	설득력+이나	CCONJ	_	9	conj	_	_	설득력/ncn+이나/jcj
+9	근거도	근거+도	ADV	_	10	advcl	_	_	근거/ncpa+도/jxc
+10	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이는 아스카 문화의 정신적 기초가 그들에게 전혀 생소했던 불교에 기인한 것이기 때문이다 .
+1	이는	이+는	PRON	_	12	dislocated	_	_	이/npd+는/jxt
+2	아스카	아스카	PROPN	_	3	compound	_	_	아스카/nq
+3	문화의	문화+의	NOUN	_	5	nmod	_	_	문화/ncn+의/jcm
+4	정신적	정신+적	NOUN	_	5	amod	_	_	정신/ncn+적/xsn
+5	기초가	기초+가	NOUN	_	10	nsubj	_	_	기초/ncpa+가/jcs
+6	그들에게	그+들+에게	ADV	_	8	iobj	_	_	그/npp+들/xsn+에게/jca
+7	전혀	전혀	ADV	_	8	advmod	_	_	전혀/mag
+8	생소했던	생소+하+었+던	VERB	_	9	amod	_	_	생소/ncps+하/xsm+었/ep+던/etm
+9	불교에	불교+에	ADV	_	10	obl	_	_	불교/nq+에/jca
+10	기인한	기인+하+ㄴ	VERB	_	12	ccomp	_	_	기인/ncpa+하/xsv+ㄴ/etm
+11	것이기	것+이+기	VERB	_	10	aux	_	_	것/nbn+이/jp+기/etn
+12	때문이다	때문+이+다	VERB	_	0	root	_	_	때문/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 아스카 문화는 중국의 남북조 , 조선 반도의 백제와 고구려의 앞선 문화를 우리나라에 받아들이면서 생겨난 것으로 , 국내에서 뛰어난 작품이 만들어지게 되었다 .
+1	아스카	아스카	PROPN	_	2	compound	_	_	아스카/nq
+2	문화는	문화+는	NOUN	_	15	dislocated	_	_	문화/ncn+는/jxt
+3	중국의	중국+의	PROPN	_	4	nmod	_	_	중국/nq+의/jcm
+4	남북조	남북조	PROPN	_	9	flat	_	_	남북조/nq
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	조선	조선	PROPN	_	7	compound	_	_	조선/nq
+7	반도의	반도+의	NOUN	_	9	nmod	_	_	반도/ncn+의/jcm
+8	백제와	백제+와	CCONJ	_	9	conj	_	_	백제/nq+와/jcj
+9	고구려의	고구려+의	PROPN	_	11	nmod	_	_	고구려/nq+의/jcm
+10	앞선	앞서+ㄴ	VERB	_	11	acl	_	_	앞서/pvg+ㄴ/etm
+11	문화를	문화+를	NOUN	_	13	obj	_	_	문화/ncn+를/jco
+12	우리나라에	우리+나라+에	ADV	_	13	obl	_	_	우리/npp+나라/ncn+에/jca
+13	받아들이면서	받아들이+면서	CCONJ	_	14	conj	_	_	받아들이/pvg+면서/ecc
+14	생겨난	생기+어+나+ㄴ	AUX	_	15	acl	_	_	생기/pvg+어/ecx+나/px+ㄴ/etm
+15	것으로	것+으로	ADV	_	20	advmod	_	_	것/nbn+으로/jca
+16	,	,	PUNCT	_	15	punct	_	_	,/sp
+17	국내에서	국내+에서	ADV	_	20	advcl	_	_	국내/ncn+에서/jca
+18	뛰어난	뛰어나+ㄴ	ADJ	_	19	amod	_	_	뛰어나/paa+ㄴ/etm
+19	작품이	작품+이	NOUN	_	20	nsubj	_	_	작품/ncn+이/jcs
+20	만들어지게	만들+어+지+게	AUX	_	0	root	_	_	만들/pvg+어/ecx+지/px+게/ecx
+21	되었다	되+었+다	AUX	_	20	aux	_	_	되/px+었/ep+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 이렇게 되기에는 대륙에서 온 도래인의 힘이 컸다 .
+1	이렇게	이렇+게	VERB	_	7	dislocated	_	_	이렇/pad+게/ecx
+2	되기에는	되+기+에+는	NOUN	_	1	aux	_	_	되/px+기/etn+에/jca+는/jxt
+3	대륙에서	대륙+에서	ADV	_	4	advcl	_	_	대륙/ncn+에서/jca
+4	온	오+ㄴ	VERB	_	5	acl	_	_	오/pvg+ㄴ/etm
+5	도래인의	도래인+의	NOUN	_	6	nmod	_	_	도래인/ncn+의/jcm
+6	힘이	힘+이	NOUN	_	7	nsubj	_	_	힘/ncn+이/jcs
+7	컸다	크+었+다	ADJ	_	0	root	_	_	크/paa+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그림이나 공예에서도 고구려의 승僧 담징에 의해 그림 도구 및 종이 , 먹 등이 전해지고 , 대륙으로부터 새로운 기법이 전래되면서 비약적으로 발전했다 .
+1	그림이나	그림+이나	CCONJ	_	2	conj	_	_	그림/ncn+이나/jcj
+2	공예에서도	공예+에서+도	ADV	_	21	advcl	_	_	공예/ncn+에서/jca+도/jxc
+3	고구려의	고구려+의	PROPN	_	4	nmod	_	_	고구려/nq+의/jcm
+4	승僧	승僧	NOUN	_	5	compound	_	_	승僧/ncn
+5	담징에	담징+에	ADV	_	6	obl	_	_	담징/nq+에/jca
+6	의해	의하+어	SCONJ	_	19	ccomp	_	_	의하/pvg+어/ecs
+7	그림	그림	NOUN	_	8	compound	_	_	그림/ncn
+8	도구	도구	NOUN	_	10	conj	_	_	도구/ncn
+9	및	및	CCONJ	_	10	cc	_	_	및/maj
+10	종이	종이	NOUN	_	12	conj	_	_	종이/ncn
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	먹	먹	NOUN	_	13	compound	_	_	먹/ncn
+13	등이	등+이	NOUN	_	14	nsubj	_	_	등/nbn+이/jcs
+14	전해지고	전하+어+지+고	CCONJ	_	19	conj	_	_	전하/pvg+어/ecx+지/px+고/ecc
+15	,	,	PUNCT	_	14	punct	_	_	,/sp
+16	대륙으로부터	대륙+으로+부터	ADV	_	19	advcl	_	_	대륙/ncn+으로/jca+부터/jxc
+17	새로운	새롭+ㄴ	ADJ	_	18	amod	_	_	새롭/paa+ㄴ/etm
+18	기법이	기법+이	NOUN	_	19	nsubj	_	_	기법/ncn+이/jcs
+19	전래되면서	전래+되+면서	SCONJ	_	21	ccomp	_	_	전래/ncpa+되/xsv+면서/ecs
+20	비약적으로	비약+적+으로	ADV	_	21	advcl	_	_	비약/ncpa+적/xsn+으로/jca
+21	발전했다	발전+하+었+다	VERB	_	0	root	_	_	발전/ncpa+하/xsv+었/ep+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 이러한 궁금증은 혹여 과민한 필자의 곡해에서 비롯된 것이 아닐까 하는 의문을 갖는 독자가 있을 수도 있다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	궁금증은	궁금증+은	NOUN	_	9	dislocated	_	_	궁금증/ncn+은/jxt
+3	혹여	혹여	ADV	_	7	advmod	_	_	혹여/mag
+4	과민한	과민+하+ㄴ	VERB	_	5	amod	_	_	과민/ncps+하/xsm+ㄴ/etm
+5	필자의	필자+의	NOUN	_	6	nmod	_	_	필자/ncn+의/jcm
+6	곡해에서	곡해+에서	ADV	_	7	advcl	_	_	곡해/ncpa+에서/jca
+7	비롯된	비롯+되+ㄴ	VERB	_	8	acl	_	_	비롯/ncpa+되/xsv+ㄴ/etm
+8	것이	것+이	NOUN	_	9	csubj	_	_	것/nbn+이/jcc
+9	아닐까	아니+ㄹ까	ADJ	_	10	ccomp	_	_	아니/paa+ㄹ까/ef
+10	하는	하+는	VERB	_	11	acl	_	_	하/pvg+는/etm
+11	의문을	의문+을	NOUN	_	12	obj	_	_	의문/ncpa+을/jco
+12	갖는	갖+는	VERB	_	13	acl	_	_	갖/pvg+는/etm
+13	독자가	독자+가	NOUN	_	14	nsubj	_	_	독자/ncn+가/jcs
+14	있을	있+ㄹ	ADJ	_	0	root	_	_	있/paa+ㄹ/etm
+15	수도	수+도	ADV	_	16	fixed	_	_	수/nbn+도/jxc
+16	있다	있+다	ADJ	_	14	aux	_	_	있/paa+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그러나 " 대륙에서 온 도래인 " 이라면 과연 누구를 지칭하는 것일까 ?
+1	그러나	그러나	CCONJ	_	10	cc	_	_	그러나/maj
+2	"	"	PUNCT	_	3	punct	_	_	"/sl
+3	대륙에서	대륙+에서	ADV	_	4	advcl	_	_	대륙/ncn+에서/jca
+4	온	오+ㄴ	VERB	_	5	ccomp	_	_	오/pvg+ㄴ/etm
+5	도래인	도래인	NOUN	_	10	ccomp	_	_	도래인/ncn
+6	"	"	PUNCT	_	5	punct	_	_	"/sr
+7	이라면	이+라면	ADP	_	5	cop	_	_	이/jp+라면/ecs
+8	과연	과연	ADV	_	10	advmod	_	_	과연/mag
+9	누구를	누구+를	PRON	_	10	obj	_	_	누구/npp+를/jco
+10	지칭하는	지칭+하+는	VERB	_	0	root	_	_	지칭/ncpa+하/xsv+는/etm
+11	것일까	것+이+ㄹ까	VERB	_	10	aux	_	_	것/nbn+이/jp+ㄹ까/ef
+12	?	?	PUNCT	_	11	punct	_	_	?/sf
+
+# 과연 아스카 문화와 관련하여 대륙 ( 여기에서 대륙이라면 분명 중국을 의미할 텐데 ) 에서 온 도래인은 누구였다는 말인가 ?
+1	과연	과연	ADV	_	17	advmod	_	_	과연/mag
+2	아스카	아스카	PROPN	_	3	compound	_	_	아스카/nq
+3	문화와	문화+와	CCONJ	_	4	conj	_	_	문화/ncn+와/jct
+4	관련하여	관련+하+어	SCONJ	_	15	ccomp	_	_	관련/ncpa+하/xsv+어/ecs
+5	대륙	대륙	NOUN	_	15	advcl	_	_	대륙/ncn
+6	(	(	PUNCT	_	8	punct	_	_	(/sl
+7	여기에서	여기+에서	ADV	_	8	dep	_	_	여기/npd+에서/jca
+8	대륙이라면	대륙+이+라면	SCONJ	_	12	conj	_	_	대륙/ncn+이/jp+라면/ecs
+9	분명	분명	ADV	_	11	advmod	_	_	분명/mag
+10	중국을	중국+을	PROPN	_	11	obj	_	_	중국/nq+을/jco
+11	의미할	의미+하+ㄹ	VERB	_	12	ccomp	_	_	의미/ncpa+하/xsv+ㄹ/etm
+12	텐데	터+이+ㄴ데	VERB	_	5	appos	_	_	터/nbn+이/jp+ㄴ데/ef
+13	)	)	PUNCT	_	12	punct	_	_	)/sr
+14	에서	에서	ADP	_	5	case	_	_	에서/jca
+15	온	오+ㄴ	VERB	_	16	acl	_	_	오/pvg+ㄴ/etm
+16	도래인은	도래인+은	NOUN	_	17	dislocated	_	_	도래인/ncn+은/jxt
+17	누구였다는	누구+이+었+다는	VERB	_	18	ccomp	_	_	누구/npp+이/jp+었/ep+다는/etm
+18	말인가	말+이+ㄴ가	VERB	_	0	root	_	_	말/ncpa+이/jp+ㄴ가/ef
+19	?	?	PUNCT	_	18	punct	_	_	?/sf
+
+# 아스카 문화에 기여한 남북조인들은 구체적으로 누구였으며 , 백제와 고구려인들이 어째서 대륙에서 온 도래인이 될 수 있다는 말인가 ?
+1	아스카	아스카	PROPN	_	2	compound	_	_	아스카/nq
+2	문화에	문화+에	ADV	_	3	obl	_	_	문화/ncn+에/jca
+3	기여한	기여+하+ㄴ	VERB	_	4	acl	_	_	기여/ncpa+하/xsv+ㄴ/etm
+4	남북조인들은	남북조인+들+은	NOUN	_	6	dislocated	_	_	남북조인/ncn+들/xsn+은/jxt
+5	구체적으로	구체+적+으로	ADV	_	6	advcl	_	_	구체/ncn+적/xsn+으로/jca
+6	누구였으며	누구+이+었+으며	CCONJ	_	14	conj	_	_	누구/npp+이/jp+었/ep+으며/ecc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	백제와	백제+와	CCONJ	_	9	conj	_	_	백제/nq+와/jcj
+9	고구려인들이	고구려+인+들+이	PROPN	_	14	nsubj	_	_	고구려/nq+인/ncn+들/xsn+이/jcs
+10	어째서	어째서	ADV	_	14	advmod	_	_	어째서/mag
+11	대륙에서	대륙+에서	ADV	_	12	advcl	_	_	대륙/ncn+에서/jca
+12	온	오+ㄴ	VERB	_	13	acl	_	_	오/pvg+ㄴ/etm
+13	도래인이	도래인+이	NOUN	_	14	nsubj	_	_	도래인/ncn+이/jcs
+14	될	되+ㄹ	VERB	_	17	ccomp	_	_	되/pvg+ㄹ/etm
+15	수	수	NOUN	_	16	fixed	_	_	수/nbn
+16	있다는	있+다는	ADJ	_	14	aux	_	_	있/paa+다는/etm
+17	말인가	말+이+ㄴ가	VERB	_	0	root	_	_	말/ncpa+이/jp+ㄴ가/ef
+18	?	?	PUNCT	_	17	punct	_	_	?/sf
+
+# 세계 최고의 학문적 연구 열의와 성과를 자랑하고 있는 일본 사학이 한국을 중국의 일부로 볼 만큼 무지한 걸까 ?
+1	세계	세계	NOUN	_	2	compound	_	_	세계/ncn
+2	최고의	최고+의	NOUN	_	6	nmod	_	_	최고/ncn+의/jcm
+3	학문적	학문+적	NOUN	_	4	amod	_	_	학문/ncpa+적/xsn
+4	연구	연구	NOUN	_	6	compound	_	_	연구/ncpa
+5	열의와	열의+와	CCONJ	_	6	conj	_	_	열의/ncn+와/jcj
+6	성과를	성과+를	NOUN	_	7	obj	_	_	성과/ncn+를/jco
+7	자랑하고	자랑+하+고	VERB	_	10	acl	_	_	자랑/ncpa+하/xsv+고/ecx
+8	있는	있+는	AUX	_	7	aux	_	_	있/px+는/etm
+9	일본	일본	PROPN	_	10	compound	_	_	일본/nq
+10	사학이	사학+이	NOUN	_	16	nsubj	_	_	사학/ncn+이/jcs
+11	한국을	한국+을	PROPN	_	14	obj	_	_	한국/nq+을/jco
+12	중국의	중국+의	PROPN	_	13	nmod	_	_	중국/nq+의/jcm
+13	일부로	일부+로	ADV	_	14	advcl	_	_	일부/ncn+로/jca
+14	볼	보+ㄹ	VERB	_	15	acl	_	_	보/pvg+ㄹ/etm
+15	만큼	만큼	NOUN	_	16	mark	_	_	만큼/nbn
+16	무지한	무지+하+ㄴ	VERB	_	0	root	_	_	무지/ncps+하/xsm+ㄴ/etm
+17	걸까	것+이+ㄹ까	VERB	_	16	aux	_	_	것/nbn+이/jp+ㄹ까/ef
+18	?	?	PUNCT	_	17	punct	_	_	?/sf
+
+# 아니라면 애초부터 한국 역사의 독자성을 처음부터 무시할 목적으로 위와 같은 잘못을 범한 것인가 ?
+1	아니라면	아니+라면	SCONJ	_	12	xcomp	_	_	아니/paa+라면/ecs
+2	애초부터	애초+부터	ADV	_	7	advcl	_	_	애초/ncn+부터/jxc
+3	한국	한국	PROPN	_	4	compound	_	_	한국/nq
+4	역사의	역사+의	NOUN	_	5	nmod	_	_	역사/ncn+의/jcm
+5	독자성을	독자성+을	NOUN	_	7	obj	_	_	독자성/ncn+을/jco
+6	처음부터	처음+부터	ADV	_	7	advcl	_	_	처음/ncn+부터/jxc
+7	무시할	무시+하+ㄹ	VERB	_	8	acl	_	_	무시/ncpa+하/xsv+ㄹ/etm
+8	목적으로	목적+으로	ADV	_	12	advcl	_	_	목적/ncpa+으로/jca
+9	위와	위+와	CCONJ	_	10	conj	_	_	위/ncn+와/jct
+10	같은	같+ㄴ	ADJ	_	11	amod	_	_	같/paa+ㄴ/etm
+11	잘못을	잘못+을	NOUN	_	12	obj	_	_	잘못/ncpa+을/jco
+12	범한	범하+ㄴ	VERB	_	0	root	_	_	범하/pvg+ㄴ/etm
+13	것인가	것+이+ㄴ가	VERB	_	12	aux	_	_	것/nbn+이/jp+ㄴ가/ef
+14	?	?	PUNCT	_	13	punct	_	_	?/sf
+
+# 문화의 유입은 그 기술과 도구가 함께 유입되면 이루어지는 것이다 .
+1	문화의	문화+의	NOUN	_	2	nmod	_	_	문화/ncn+의/jcm
+2	유입은	유입+은	NOUN	_	8	dislocated	_	_	유입/ncpa+은/jxt
+3	그	그	DET	_	5	det	_	_	그/mmd
+4	기술과	기술+과	CCONJ	_	5	conj	_	_	기술/ncn+과/jcj
+5	도구가	도구+가	NOUN	_	7	nsubj	_	_	도구/ncn+가/jcs
+6	함께	함께	ADV	_	7	advmod	_	_	함께/mag
+7	유입되면	유입+되+면	SCONJ	_	8	ccomp	_	_	유입/ncpa+되/xsv+면/ecs
+8	이루어지는	이루+어+지+는	AUX	_	0	root	_	_	이루/pvg+어/ecx+지/px+는/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그런데 인용문에서 주장하는 대로라면 도구는 고구려에서 , 기술은 중국에서 들여온 게 된다 .
+1	그런데	그런데	CCONJ	_	12	cc	_	_	그런데/maj
+2	인용문에서	인용문+에서	ADV	_	3	advcl	_	_	인용문/ncn+에서/jca
+3	주장하는	주장+하+는	VERB	_	4	ccomp	_	_	주장/ncpa+하/xsv+는/etm
+4	대로라면	대로+이+라면	SCONJ	_	12	ccomp	_	_	대로/nbn+이/jp+라면/ecs
+5	도구는	도구+는	NOUN	_	6	dislocated	_	_	도구/ncn+는/jxt
+6	고구려에서	고구려+에서	ADV	_	9	dep	_	_	고구려/nq+에서/jca
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	기술은	기술+은	NOUN	_	9	dislocated	_	_	기술/ncn+은/jxt
+9	중국에서	중국+에서	ADV	_	10	advmod	_	_	중국/nq+에서/jca
+10	들여온	들이+어+오+ㄴ	AUX	_	11	acl	_	_	들이/pvg+어/ecx+오/px+ㄴ/etm
+11	게	것+이	NOUN	_	12	csubj	_	_	것/nbn+이/jcc
+12	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이런 문화 유입이 가능하단 말인가 ?
+1	이런	이렇+ㄴ	VERB	_	3	amod	_	_	이렇/pad+ㄴ/etm
+2	문화	문화	NOUN	_	3	compound	_	_	문화/ncn
+3	유입이	유입+이	NOUN	_	4	nsubj	_	_	유입/ncpa+이/jcs
+4	가능하단	가능+하+단	VERB	_	5	amod	_	_	가능/ncps+하/xsm+단/etm
+5	말인가	말+이+ㄴ가	VERB	_	0	root	_	_	말/ncpa+이/jp+ㄴ가/ef
+6	?	?	PUNCT	_	5	punct	_	_	?/sf
+
+# 일본 사학의 양심적 답변을 촉구해 둔다 .
+1	일본	일본	PROPN	_	2	compound	_	_	일본/nq
+2	사학의	사학+의	NOUN	_	4	nmod	_	_	사학/ncn+의/jcm
+3	양심적	양심+적	NOUN	_	4	amod	_	_	양심/ncn+적/xsn
+4	답변을	답변+을	NOUN	_	5	obj	_	_	답변/ncpa+을/jco
+5	촉구해	촉구+하+어	VERB	_	0	root	_	_	촉구/ncpa+하/xsv+어/ecx
+6	둔다	두+ㄴ다	AUX	_	5	aux	_	_	두/px+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이보다 한 단계 앞선 고도의 수작은 아스카 문화의 주역이었던 한국인을 단순한 문화 전달자로 전락시킨 대목이다 .
+1	이보다	이+보다	ADV	_	4	advcl	_	_	이/npd+보다/jca
+2	한	한	NUM	_	3	nummod	_	_	한/nnc
+3	단계	단계	NOUN	_	4	dep	_	_	단계/ncn
+4	앞선	앞서+ㄴ	VERB	_	6	acl	_	_	앞서/pvg+ㄴ/etm
+5	고도의	고도+의	NOUN	_	6	nmod	_	_	고도/ncn+의/jcm
+6	수작은	수작+은	NOUN	_	15	dislocated	_	_	수작/ncn+은/jxt
+7	아스카	아스카	PROPN	_	8	compound	_	_	아스카/nq
+8	문화의	문화+의	NOUN	_	9	nmod	_	_	문화/ncn+의/jcm
+9	주역이었던	주역+이+었+던	VERB	_	10	acl	_	_	주역/nq+이/jp+었/ep+던/etm
+10	한국인을	한국인+을	NOUN	_	14	obj	_	_	한국인/ncn+을/jco
+11	단순한	단순+하+ㄴ	VERB	_	13	amod	_	_	단순/ncps+하/xsm+ㄴ/etm
+12	문화	문화	NOUN	_	13	compound	_	_	문화/ncn
+13	전달자로	전달자+로	ADV	_	14	advcl	_	_	전달자/ncn+로/jca
+14	전락시킨	전락+시키+ㄴ	VERB	_	15	ccomp	_	_	전락/ncpa+시키/xsv+ㄴ/etm
+15	대목이다	대목+이+다	VERB	_	0	root	_	_	대목/ncn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그 가운데에서도 유명한 것은 쇼토쿠 ( 德 ) 태자의 발원에 의한 것으로 알려져 있는 호류사 ( 法 寺 ) 다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	가운데에서도	가운데+에서+도	ADV	_	3	advcl	_	_	가운데/ncn+에서/jca+도/jxc
+3	유명한	유명+하+ㄴ	VERB	_	4	amod	_	_	유명/ncps+하/xsm+ㄴ/etm
+4	것은	것+은	NOUN	_	15	dislocated	_	_	것/nbn+은/jxt
+5	쇼토쿠	쇼토쿠	PROPN	_	9	compound	_	_	쇼토쿠/nq
+6	(	(	PUNCT	_	7	punct	_	_	(/sl
+7	德	德	PROPN	_	5	appos	_	_	德/nq
+8	)	)	PUNCT	_	7	punct	_	_	)/sr
+9	태자의	태자+의	NOUN	_	10	nmod	_	_	태자/ncn+의/jcm
+10	발원에	발원+에	ADV	_	11	obl	_	_	발원/ncpa+에/jca
+11	의한	의하+ㄴ	VERB	_	12	acl	_	_	의하/pvg+ㄴ/etm
+12	것으로	것+으로	ADV	_	13	advcl	_	_	것/nbn+으로/jca
+13	알려져	알리+어+지+어	AUX	_	15	ccomp	_	_	알리/pvg+어/ecx+지/px+어/ecx
+14	있는	있+는	AUX	_	13	aux	_	_	있/px+는/etm
+15	호류사	호류사	PROPN	_	0	root	_	_	호류사/nq
+16	(	(	PUNCT	_	18	punct	_	_	(/sl
+17	法	法	PROPN	_	18	flat	_	_	法/nq
+18	寺	寺	PROPN	_	15	appos	_	_	寺/nq
+19	)	)	PUNCT	_	18	punct	_	_	)/sr
+20	다	이+다	ADP	_	15	cop	_	_	이/jp+다/ef
+21	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 고규사와 츄구사의 반가 사유상은 이국적인 용모 속에 신비한 미소를 짓고 있다 .
+1	고규사와	고규사+와	CCONJ	_	2	conj	_	_	고규사/nq+와/jcj
+2	츄구사의	츄구사+의	PROPN	_	4	nmod	_	_	츄구사/nq+의/jcm
+3	반가	반가	NOUN	_	4	compound	_	_	반가/ncn
+4	사유상은	사유상+은	NOUN	_	10	dislocated	_	_	사유상/ncn+은/jxt
+5	이국적인	이국+적+이+ㄴ	VERB	_	6	acl	_	_	이국/ncn+적/xsn+이/jp+ㄴ/etm
+6	용모	용모	NOUN	_	7	compound	_	_	용모/ncn
+7	속에	속+에	ADV	_	10	obl	_	_	속/ncn+에/jca
+8	신비한	신비+하+ㄴ	VERB	_	9	amod	_	_	신비/ncps+하/xsm+ㄴ/etm
+9	미소를	미소+를	NOUN	_	10	obj	_	_	미소/ncpa+를/jco
+10	짓고	짓+고	VERB	_	0	root	_	_	짓/pvg+고/ecx
+11	있다	있+다	AUX	_	10	aux	_	_	있/px+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이것은 북위 시대에 만들어진 윈강 ( 雲崗 ) 의 석불에서도 엿보인다 .
+1	이것은	이것+은	PRON	_	11	dislocated	_	_	이것/npd+은/jxt
+2	북위	북위	PROPN	_	3	compound	_	_	북위/nq
+3	시대에	시대+에	ADV	_	4	obl	_	_	시대/ncn+에/jca
+4	만들어진	만들+어+지+ㄴ	AUX	_	10	acl	_	_	만들/pvg+어/ecx+지/px+ㄴ/etm
+5	윈강	윈강	PROPN	_	10	nmod	_	_	윈강/nq
+6	(	(	PUNCT	_	7	punct	_	_	(/sl
+7	雲崗	雲崗	PROPN	_	5	appos	_	_	雲崗/nq
+8	)	)	PUNCT	_	7	punct	_	_	)/sr
+9	의	의	ADP	_	5	case	_	_	의/jcm
+10	석불에서도	석불+에서+도	ADV	_	11	advcl	_	_	석불/ncn+에서/jca+도/jxc
+11	엿보인다	엿보이+ㄴ다	VERB	_	0	root	_	_	엿보이/pvg+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 반가 사유상이라는 이름은 한쪽 다리를 접고 앉은 모습과 한 손을 뺨에 대고 사색에 빠진 모습에서 유래되었다 .
+1	반가	반가	NOUN	_	2	compound	_	_	반가/ncn
+2	사유상이라는	사유상+이+라는	VERB	_	3	acl	_	_	사유상/ncn+이/jp+라는/etm
+3	이름은	이름+은	NOUN	_	16	dislocated	_	_	이름/ncpa+은/jxt
+4	한쪽	한쪽	NOUN	_	5	compound	_	_	한쪽/ncn
+5	다리를	다리+를	NOUN	_	6	obj	_	_	다리/ncn+를/jco
+6	접고	접+고	CCONJ	_	7	conj	_	_	접/pvg+고/ecc
+7	앉은	앉+ㄴ	VERB	_	8	acl	_	_	앉/pvg+ㄴ/etm
+8	모습과	모습+과	CCONJ	_	15	conj	_	_	모습/ncn+과/jcj
+9	한	한	NUM	_	10	nummod	_	_	한/nnc
+10	손을	손+을	NOUN	_	12	obj	_	_	손/ncn+을/jco
+11	뺨에	뺨+에	ADV	_	12	obl	_	_	뺨/ncn+에/jca
+12	대고	대+고	CCONJ	_	14	conj	_	_	대/pvg+고/ecc
+13	사색에	사색+에	ADV	_	14	obl	_	_	사색/ncpa+에/jca
+14	빠진	빠지+ㄴ	VERB	_	15	acl	_	_	빠지/pvg+ㄴ/etm
+15	모습에서	모습+에서	ADV	_	16	advcl	_	_	모습/ncn+에서/jca
+16	유래되었다	유래+되+었+다	VERB	_	0	root	_	_	유래/ncpa+되/xsv+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 또 미륵 보살상이라고도 부른다 .
+1	또	또	CCONJ	_	4	cc	_	_	또/maj
+2	미륵	미륵	PROPN	_	3	compound	_	_	미륵/nq
+3	보살상이라고도	보살상+이+라+고+도	ADV	_	4	advcl	_	_	보살상/ncn+이/jp+라/ef+고/jcr+도/jxc
+4	부른다	부르+ㄴ다	VERB	_	0	root	_	_	부르/pvg+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 조선 반도에도 이것과 상당히 닮은 불상이 있다 .
+1	조선	조선	PROPN	_	2	compound	_	_	조선/nq
+2	반도에도	반도+에+도	ADV	_	7	advcl	_	_	반도/ncn+에/jca+도/jxc
+3	이것과	이것+과	CCONJ	_	5	conj	_	_	이것/npd+과/jct
+4	상당히	상당+히	ADV	_	5	advmod	_	_	상당/ncps+히/xsa
+5	닮은	닮+ㄴ	VERB	_	6	acl	_	_	닮/pvg+ㄴ/etm
+6	불상이	불상+이	NOUN	_	7	nsubj	_	_	불상/ncn+이/jcs
+7	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 아스카 문화의 원류를 찾아 거슬러 올라가면 분명 중국의 남북조에 이를 것이다 .
+1	아스카	아스카	PROPN	_	2	compound	_	_	아스카/nq
+2	문화의	문화+의	NOUN	_	3	nmod	_	_	문화/ncn+의/jcm
+3	원류를	원류+를	NOUN	_	4	obj	_	_	원류/ncn+를/jco
+4	찾아	찾+아	SCONJ	_	6	ccomp	_	_	찾/pvg+아/ecs
+5	거슬러	거스르+어	SCONJ	_	6	ccomp	_	_	거스르/pvg+어/ecs
+6	올라가면	오르+아+가+면	SCONJ	_	10	ccomp	_	_	오르/pvg+아/ecx+가/px+면/ecs
+7	분명	분명	ADV	_	10	advmod	_	_	분명/mag
+8	중국의	중국+의	PROPN	_	9	nmod	_	_	중국/nq+의/jcm
+9	남북조에	남북조+에	ADV	_	10	obl	_	_	남북조/nq+에/jca
+10	이를	이르+ㄹ	VERB	_	0	root	_	_	이르/pvg+ㄹ/etm
+11	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 따라서 아스카 문화를 이해하는 데 남북조 문화를 배제시켜서는 안될 것이다 .
+1	따라서	따라서	CCONJ	_	9	cc	_	_	따라서/maj
+2	아스카	아스카	PROPN	_	3	compound	_	_	아스카/nq
+3	문화를	문화+를	NOUN	_	4	obj	_	_	문화/ncn+를/jco
+4	이해하는	이해+하+는	VERB	_	5	acl	_	_	이해/ncpa+하/xsv+는/etm
+5	데	데	NOUN	_	8	advmod	_	_	데/nbn
+6	남북조	남북조	PROPN	_	7	compound	_	_	남북조/nq
+7	문화를	문화+를	NOUN	_	8	obj	_	_	문화/ncn+를/jco
+8	배제시켜서는	배제+시키+어서+는	NOUN	_	9	ccomp	_	_	배제/ncpa+시키/xsv+어서/ecs+는/jxt
+9	안될	안되+ㄹ	VERB	_	0	root	_	_	안되/pvg+ㄹ/etm
+10	것이다	것+이+다	VERB	_	9	aux	_	_	것/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이 같은 의혹은 ' 인용 13 ' 에서 제시된 그림에서 명백해진다 .
+1	이	이	PRON	_	2	dep	_	_	이/npd
+2	같은	같+ㄴ	ADJ	_	3	amod	_	_	같/paa+ㄴ/etm
+3	의혹은	의혹+은	NOUN	_	11	dislocated	_	_	의혹/ncpa+은/jxt
+4	'	'	PUNCT	_	6	punct	_	_	'/sl
+5	인용	인용	NOUN	_	6	compound	_	_	인용/ncpa
+6	13	13	NUM	_	9	nummod	_	_	13/nno
+7	'	'	PUNCT	_	6	punct	_	_	'/sr
+8	에서	에서	ADP	_	6	case	_	_	에서/jca
+9	제시된	제시+되+ㄴ	VERB	_	10	acl	_	_	제시/ncpa+되/xsv+ㄴ/etm
+10	그림에서	그림+에서	ADV	_	11	advcl	_	_	그림/ncn+에서/jca
+11	명백해진다	명백+하+어+지+ㄴ다	AUX	_	0	root	_	_	명백/ncps+하/xsm+어/ecx+지/px+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이것이 일본 사학의 한계다 .
+1	이것이	이것+이	PRON	_	4	nsubj	_	_	이것/npd+이/jcs
+2	일본	일본	PROPN	_	3	compound	_	_	일본/nq
+3	사학의	사학+의	NOUN	_	4	nmod	_	_	사학/ncn+의/jcm
+4	한계다	한계+이+다	VERB	_	0	root	_	_	한계/ncn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 더욱이 이를 비난하는 지적이 두려워 , 조선 반도에도 이와 상당히 닮은 불상이 있다고 부연 설명한 대목에서는 측은함마저 든다 .
+1	더욱이	더욱이	ADV	_	18	advmod	_	_	더욱이/mag
+2	이를	이+를	PRON	_	3	obj	_	_	이/npd+를/jco
+3	비난하는	비난+하+는	VERB	_	4	acl	_	_	비난/ncpa+하/xsv+는/etm
+4	지적이	지적+이	NOUN	_	5	nsubj	_	_	지적/ncn+이/jcs
+5	두려워	두렵+어	SCONJ	_	15	xcomp	_	_	두렵/paa+어/ecs
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	조선	조선	PROPN	_	8	compound	_	_	조선/nq
+8	반도에도	반도+에+도	ADV	_	13	advcl	_	_	반도/ncn+에/jca+도/jxc
+9	이와	이+와	CCONJ	_	11	conj	_	_	이/npd+와/jct
+10	상당히	상당+히	ADV	_	11	advmod	_	_	상당/ncps+히/xsa
+11	닮은	닮+ㄴ	VERB	_	12	acl	_	_	닮/pvg+ㄴ/etm
+12	불상이	불상+이	NOUN	_	13	nsubj	_	_	불상/ncn+이/jcs
+13	있다고	있+다+고	VERB	_	15	conj	_	_	있/paa+다/ef+고/jcr
+14	부연	부연	NOUN	_	15	compound	_	_	부연/ncpa
+15	설명한	설명+하+ㄴ	VERB	_	16	acl	_	_	설명/ncpa+하/xsv+ㄴ/etm
+16	대목에서는	대목+에서+는	NOUN	_	18	dislocated	_	_	대목/ncn+에서/jca+는/jxt
+17	측은함마저	측은+하+ㅁ+마저	ADV	_	18	advcl	_	_	측은/ncps+하/xsm+ㅁ/etn+마저/jxc
+18	든다	들+ㄴ다	VERB	_	0	root	_	_	들/pvg+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 분명히 밝혀두거니와 3구 문화의 생성 기원으로서 중국 문화의 역학을 부정해서는 안된다는 사실이다 .
+1	분명히	분명+히	ADV	_	2	advmod	_	_	분명/ncps+히/xsa
+2	밝혀두거니와	밝히+어+두+거니와	SCONJ	_	12	ccomp	_	_	밝히/pvg+어/ecx+두/px+거니와/ecs
+3	3구	3+구	NOUN	_	4	compound	_	_	3/nnc+구/nbu
+4	문화의	문화+의	NOUN	_	6	nmod	_	_	문화/ncn+의/jcm
+5	생성	생성	NOUN	_	6	compound	_	_	생성/ncpa
+6	기원으로서	기원+으로서	ADV	_	10	advcl	_	_	기원/ncn+으로서/jca
+7	중국	중국	PROPN	_	8	compound	_	_	중국/nq
+8	문화의	문화+의	NOUN	_	9	nmod	_	_	문화/ncn+의/jcm
+9	역학을	역학+을	NOUN	_	10	obj	_	_	역학/ncn+을/jco
+10	부정해서는	부정+하+어서+는	NOUN	_	11	ccomp	_	_	부정/ncpa+하/xsv+어서/ecs+는/jxt
+11	안된다는	안되+ㄴ다는	VERB	_	12	ccomp	_	_	안되/pvg+ㄴ다는/etm
+12	사실이다	사실+이+다	VERB	_	0	root	_	_	사실/ncn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 기실 이 땅에 중국 문화가 유입됨으로써 3국 시대의 찬란한 문화는 태동하였다 .
+1	기실	기실	NOUN	_	11	advmod	_	_	기실/ncn
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	땅에	땅+에	ADV	_	6	obl	_	_	땅/ncn+에/jca
+4	중국	중국	PROPN	_	5	compound	_	_	중국/nq
+5	문화가	문화+가	NOUN	_	6	nsubj	_	_	문화/ncn+가/jcs
+6	유입됨으로써	유입+되+ㅁ+으로써	ADV	_	11	advcl	_	_	유입/ncpa+되/xsv+ㅁ/etn+으로써/jca
+7	3국	3+국	NOUN	_	8	compound	_	_	3/nnc+국/ncn
+8	시대의	시대+의	NOUN	_	10	nmod	_	_	시대/ncn+의/jcm
+9	찬란한	찬란+하+ㄴ	VERB	_	10	amod	_	_	찬란/ncps+하/xsm+ㄴ/etm
+10	문화는	문화+는	NOUN	_	11	dislocated	_	_	문화/ncn+는/jxt
+11	태동하였다	태동+하+었+다	VERB	_	0	root	_	_	태동/ncpa+하/xsv+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러나 주목해야 할 사실은 남북조의 문화가 한반도에 도입되면서 바로 한국인의 것이 되었다는 사실이다 .
+1	그러나	그러나	CCONJ	_	13	cc	_	_	그러나/maj
+2	주목해야	주목+하+어야	VERB	_	4	acl	_	_	주목/ncpa+하/xsv+어야/ecx
+3	할	하+ㄹ	AUX	_	2	aux	_	_	하/px+ㄹ/etm
+4	사실은	사실+은	NOUN	_	13	dislocated	_	_	사실/ncn+은/jxt
+5	남북조의	남북조+의	PROPN	_	6	nmod	_	_	남북조/nq+의/jcm
+6	문화가	문화+가	NOUN	_	8	nsubj	_	_	문화/ncn+가/jcs
+7	한반도에	한반도+에	ADV	_	8	obl	_	_	한반도/nq+에/jca
+8	도입되면서	도입+되+면서	CCONJ	_	12	conj	_	_	도입/ncpa+되/xsv+면서/ecc
+9	바로	바로	ADV	_	12	advmod	_	_	바로/mag
+10	한국인의	한국인+의	NOUN	_	11	nmod	_	_	한국인/ncn+의/jcm
+11	것이	것+이	NOUN	_	12	csubj	_	_	것/nbn+이/jcc
+12	되었다는	되+었+다는	VERB	_	13	ccomp	_	_	되/pvg+었/ep+다는/etm
+13	사실이다	사실+이+다	VERB	_	0	root	_	_	사실/ncn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 한국인의 탁월한 문화적 감각과 독창성은 이미 중국의 것이 아닌 고구려 , 백제 , 신라의 문화로 한반도에 정착시켰던 것이다 .
+1	한국인의	한국인+의	NOUN	_	5	nmod	_	_	한국인/ncn+의/jcm
+2	탁월한	탁월+하+ㄴ	VERB	_	4	amod	_	_	탁월/ncps+하/xsm+ㄴ/etm
+3	문화적	문화+적	NOUN	_	4	amod	_	_	문화/ncn+적/xsn
+4	감각과	감각+과	CCONJ	_	5	conj	_	_	감각/ncpa+과/jcj
+5	독창성은	독창성+은	NOUN	_	17	dislocated	_	_	독창성/ncn+은/jxt
+6	이미	이미	ADV	_	9	advmod	_	_	이미/mag
+7	중국의	중국+의	PROPN	_	8	nmod	_	_	중국/nq+의/jcm
+8	것이	것+이	NOUN	_	9	csubj	_	_	것/nbn+이/jcc
+9	아닌	아니+ㄴ	ADJ	_	15	amod	_	_	아니/paa+ㄴ/etm
+10	고구려	고구려	PROPN	_	12	conj	_	_	고구려/nq
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	백제	백제	PROPN	_	14	conj	_	_	백제/nq
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	신라의	신라+의	PROPN	_	15	nmod	_	_	신라/nq+의/jcm
+15	문화로	문화+로	ADV	_	17	advcl	_	_	문화/ncn+로/jca
+16	한반도에	한반도+에	ADV	_	17	obl	_	_	한반도/nq+에/jca
+17	정착시켰던	정착+시키+었+던	VERB	_	0	root	_	_	정착/ncpa+시키/xsv+었/ep+던/etm
+18	것이다	것+이+다	VERB	_	17	aux	_	_	것/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 혹자는 이런 사실을 일본에게도 같은 경우로 적용시키고자 할지도 모를 일이다 .
+1	혹자는	혹자+는	NOUN	_	7	dislocated	_	_	혹자/ncn+는/jxt
+2	이런	이렇+ㄴ	VERB	_	3	amod	_	_	이렇/pad+ㄴ/etm
+3	사실을	사실+을	NOUN	_	7	obj	_	_	사실/ncn+을/jco
+4	일본에게도	일본+에게+도	ADV	_	7	advcl	_	_	일본/nq+에게/jca+도/jxc
+5	같은	같+ㄴ	ADJ	_	6	amod	_	_	같/paa+ㄴ/etm
+6	경우로	경우+로	ADV	_	7	advcl	_	_	경우/ncn+로/jca
+7	적용시키고자	적용+시키+고자	VERB	_	9	advcl	_	_	적용/ncpa+시키/xsv+고자/ecx
+8	할지도	하+ㄹ지+도	ADV	_	7	aux	_	_	하/px+ㄹ지/ef+도/jxc
+9	모를	모르+ㄹ	VERB	_	10	ccomp	_	_	모르/pvg+ㄹ/etm
+10	일이다	일+이+다	VERB	_	0	root	_	_	일/ncn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그러나 이것은 중대한 착오다 .
+1	그러나	그러나	CCONJ	_	4	cc	_	_	그러나/maj
+2	이것은	이것+은	PRON	_	4	dislocated	_	_	이것/npd+은/jxt
+3	중대한	중대+하+ㄴ	VERB	_	4	amod	_	_	중대/ncps+하/xsm+ㄴ/etm
+4	착오다	착오+이+다	VERB	_	0	root	_	_	착오/ncpa+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 한국의 경우 , 중국으로부터 문화를 받아들여 순수 한국인의 손으로 , 한국인의 역량으로 한국의 것으로 만들 수 있었다 .
+1	한국의	한국+의	PROPN	_	2	nmod	_	_	한국/nq+의/jcm
+2	경우	경우	NOUN	_	15	advmod	_	_	경우/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	중국으로부터	중국+으로+부터	ADV	_	6	advcl	_	_	중국/nq+으로/jca+부터/jxc
+5	문화를	문화+를	NOUN	_	6	obj	_	_	문화/ncn+를/jco
+6	받아들여	받아들이+어	SCONJ	_	15	ccomp	_	_	받아들이/pvg+어/ecs
+7	순수	순수	NOUN	_	8	compound	_	_	순수/ncn
+8	한국인의	한국인+의	NOUN	_	9	nmod	_	_	한국인/ncn+의/jcm
+9	손으로	손+으로	ADV	_	15	advmod	_	_	손/ncn+으로/jca
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	한국인의	한국인+의	NOUN	_	12	nmod	_	_	한국인/ncn+의/jcm
+12	역량으로	역량+으로	ADV	_	15	advcl	_	_	역량/ncn+으로/jca
+13	한국의	한국+의	PROPN	_	14	nmod	_	_	한국/nq+의/jcm
+14	것으로	것+으로	ADV	_	15	advcl	_	_	것/nbn+으로/jca
+15	만들	만들+ㄹ	VERB	_	0	root	_	_	만들/pvg+ㄹ/etm
+16	수	수	NOUN	_	17	fixed	_	_	수/nbn
+17	있었다	있+었+다	ADJ	_	15	aux	_	_	있/paa+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그럼 현재 일본에 남아 있는 아스카 유물에 대해 살펴보자 .
+1	그럼	그럼	CCONJ	_	9	cc	_	_	그럼/maj
+2	현재	현재	NOUN	_	4	advmod	_	_	현재/ncn
+3	일본에	일본+에	ADV	_	4	obl	_	_	일본/nq+에/jca
+4	남아	남+아	VERB	_	7	acl	_	_	남/pvg+아/ecx
+5	있는	있+는	AUX	_	4	aux	_	_	있/px+는/etm
+6	아스카	아스카	PROPN	_	7	compound	_	_	아스카/nq
+7	유물에	유물+에	ADV	_	8	obl	_	_	유물/ncn+에/jca
+8	대해	대하+어	SCONJ	_	9	ccomp	_	_	대하/pvg+어/ecs
+9	살펴보자	살피+어+보+자	AUX	_	0	root	_	_	살피/pvg+어/ecx+보/px+자/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 일본인들이 지금까지 자랑해 오고 있는 아스카 문화의 대표적인 미술품들은 대략 다음과 같다 .
+1	일본인들이	일본인+들+이	NOUN	_	3	nsubj	_	_	일본인/ncn+들/xsn+이/jcs
+2	지금까지	지금+까지	ADV	_	3	advcl	_	_	지금/ncn+까지/jxc
+3	자랑해	자랑+하+어	VERB	_	9	acl	_	_	자랑/ncpa+하/xsv+어/ecx
+4	오고	오+고	AUX	_	3	aux	_	_	오/px+고/ecx
+5	있는	있+는	AUX	_	3	aux	_	_	있/px+는/etm
+6	아스카	아스카	PROPN	_	7	compound	_	_	아스카/nq
+7	문화의	문화+의	NOUN	_	9	nmod	_	_	문화/ncn+의/jcm
+8	대표적인	대표+적+이+ㄴ	VERB	_	9	acl	_	_	대표/ncpa+적/xsn+이/jp+ㄴ/etm
+9	미술품들은	미술품+들+은	NOUN	_	12	dislocated	_	_	미술품/ncn+들/xsn+은/jxt
+10	대략	대략	ADV	_	12	advmod	_	_	대략/mag
+11	다음과	다음+과	CCONJ	_	12	conj	_	_	다음/ncn+과/jct
+12	같다	같+다	ADJ	_	0	root	_	_	같/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 또한 아스카 문화의 축을 이룬 건축물들이 그림에서도 알 수 있듯이 , 한반도에서 유래한 양식과 기술만으로 건립되었다 .
+1	또한	또한	CCONJ	_	16	cc	_	_	또한/maj
+2	아스카	아스카	PROPN	_	3	compound	_	_	아스카/nq
+3	문화의	문화+의	NOUN	_	4	nmod	_	_	문화/ncn+의/jcm
+4	축을	축+을	NOUN	_	5	obj	_	_	축/ncn+을/jco
+5	이룬	이루+ㄴ	VERB	_	6	acl	_	_	이루/pvg+ㄴ/etm
+6	건축물들이	건축물+들+이	NOUN	_	16	nsubj	_	_	건축물/ncn+들/xsn+이/jcs
+7	그림에서도	그림+에서+도	ADV	_	8	advcl	_	_	그림/ncn+에서/jca+도/jxc
+8	알	알+ㄹ	VERB	_	16	ccomp	_	_	알/pvg+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	있듯이	있+듯이	SCONJ	_	8	aux	_	_	있/paa+듯이/ecs
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	한반도에서	한반도+에서	ADV	_	13	advcl	_	_	한반도/nq+에서/jca
+13	유래한	유래+하+ㄴ	VERB	_	15	acl	_	_	유래/ncpa+하/xsv+ㄴ/etm
+14	양식과	양식+과	CCONJ	_	15	conj	_	_	양식/ncn+과/jcj
+15	기술만으로	기술+만+으로	ADV	_	16	advcl	_	_	기술/ncn+만/jxc+으로/jca
+16	건립되었다	건립+되+었+다	VERB	_	0	root	_	_	건립/ncpa+되/xsv+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그리고 여기서 아스카 문화의 특색이 여실히 드러난다 .
+1	그리고	그리고	CCONJ	_	7	cc	_	_	그리고/maj
+2	여기서	여기+서	ADV	_	7	advcl	_	_	여기/npd+서/jca
+3	아스카	아스카	PROPN	_	4	compound	_	_	아스카/nq
+4	문화의	문화+의	NOUN	_	5	nmod	_	_	문화/ncn+의/jcm
+5	특색이	특색+이	NOUN	_	7	nsubj	_	_	특색/ncn+이/jcs
+6	여실히	여실+히	ADV	_	7	advmod	_	_	여실/ncps+히/xsa
+7	드러난다	드러나+ㄴ다	VERB	_	0	root	_	_	드러나/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그럼 아스카 시대를 이끈 아스카사를 포함한 아스카의 예술품에 대해 살펴보기로 하자 .
+1	그럼	그럼	CCONJ	_	11	cc	_	_	그럼/maj
+2	아스카	아스카	PROPN	_	3	compound	_	_	아스카/nq
+3	시대를	시대+를	NOUN	_	4	obj	_	_	시대/ncn+를/jco
+4	이끈	이끌+ㄴ	VERB	_	8	acl	_	_	이끌/pvg+ㄴ/etm
+5	아스카사를	아스카사+를	PROPN	_	6	obj	_	_	아스카사/nq+를/jco
+6	포함한	포함+하+ㄴ	VERB	_	8	acl	_	_	포함/ncpa+하/xsv+ㄴ/etm
+7	아스카의	아스카+의	PROPN	_	8	nmod	_	_	아스카/nq+의/jcm
+8	예술품에	예술품+에	ADV	_	9	obl	_	_	예술품/ncn+에/jca
+9	대해	대하+어	SCONJ	_	10	conj	_	_	대하/pvg+어/ecs
+10	살펴보기로	살피+어+보+기+로	ADV	_	11	advcl	_	_	살피/pvg+어/ecx+보/px+기/etn+로/jca
+11	하자	하+자	VERB	_	0	root	_	_	하/pvg+자/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 아스카 시대 최초의 불교 사원이었던 아스카사는 당시 일본의 최고 실권자였던 백제계의 소가 ( 我 ) 씨에 의해 건축되었다 .
+1	아스카	아스카	PROPN	_	2	compound	_	_	아스카/nq
+2	시대	시대	NOUN	_	3	compound	_	_	시대/ncn
+3	최초의	최초+의	NOUN	_	5	nmod	_	_	최초/ncn+의/jcm
+4	불교	불교	PROPN	_	5	compound	_	_	불교/nq
+5	사원이었던	사원+이+었+던	VERB	_	6	acl	_	_	사원/ncn+이/jp+었/ep+던/etm
+6	아스카사는	아스카사+는	PROPN	_	18	dislocated	_	_	아스카사/nq+는/jxt
+7	당시	당시	NOUN	_	8	compound	_	_	당시/ncn
+8	일본의	일본+의	PROPN	_	10	nmod	_	_	일본/nq+의/jcm
+9	최고	최고	ADJ	_	10	amod	_	_	최고/mma
+10	실권자였던	실권자+이+었+던	VERB	_	12	acl	_	_	실권자/ncn+이/jp+었/ep+던/etm
+11	백제계의	백제계+의	NOUN	_	12	nmod	_	_	백제계/ncn+의/jcm
+12	소가	소가	PROPN	_	17	obl	_	_	소가/nq
+13	(	(	PUNCT	_	14	punct	_	_	(/sl
+14	我	我	PROPN	_	12	appos	_	_	我/nq
+15	)	)	PUNCT	_	14	punct	_	_	)/sr
+16	씨에	씨+에	PART	_	12	case	_	_	씨/xsn+에/jca
+17	의해	의하+어	SCONJ	_	18	ccomp	_	_	의하/pvg+어/ecs
+18	건축되었다	건축+되+었+다	VERB	_	0	root	_	_	건축/ncpa+되/xsv+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 아스카사의 건립은 제 1기와 제 2기로 나뉘어 중건되는 독특한 양상을 보인다 .
+1	아스카사의	아스카사+의	PROPN	_	2	nmod	_	_	아스카사/nq+의/jcm
+2	건립은	건립+은	NOUN	_	11	dislocated	_	_	건립/ncpa+은/jxt
+3	제	제	ADJ	_	4	amod	_	_	제/mma
+4	1기와	1+기+와	CCONJ	_	6	conj	_	_	1/nno+기/nbu+와/jcj
+5	제	제	ADJ	_	6	amod	_	_	제/mma
+6	2기로	2+기+로	ADV	_	7	advcl	_	_	2/nno+기/nbu+로/jca
+7	나뉘어	나뉘+어	SCONJ	_	8	ccomp	_	_	나뉘/pvg+어/ecs
+8	중건되는	중건+되+는	VERB	_	10	acl	_	_	중건/ncpa+되/xsv+는/etm
+9	독특한	독특+하+ㄴ	VERB	_	10	amod	_	_	독특/ncps+하/xsm+ㄴ/etm
+10	양상을	양상+을	NOUN	_	11	obj	_	_	양상/ncn+을/jco
+11	보인다	보이+ㄴ다	VERB	_	0	root	_	_	보이/pvg+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 따라서 아스카 문화를 선도한 아스카사는 결국 한국인이 만든 한국의 절이었다 .
+1	따라서	따라서	CCONJ	_	10	cc	_	_	따라서/maj
+2	아스카	아스카	PROPN	_	3	compound	_	_	아스카/nq
+3	문화를	문화+를	NOUN	_	4	obj	_	_	문화/ncn+를/jco
+4	선도한	선도+하+ㄴ	VERB	_	5	acl	_	_	선도/ncpa+하/xsv+ㄴ/etm
+5	아스카사는	아스카사+는	PROPN	_	10	dislocated	_	_	아스카사/nq+는/jxt
+6	결국	결국	ADV	_	10	advmod	_	_	결국/mag
+7	한국인이	한국인+이	NOUN	_	8	nsubj	_	_	한국인/ncn+이/jcs
+8	만든	만들+ㄴ	VERB	_	10	ccomp	_	_	만들/pvg+ㄴ/etm
+9	한국의	한국+의	PROPN	_	10	nmod	_	_	한국/nq+의/jcm
+10	절이었다	절+이+었+다	VERB	_	0	root	_	_	절/nbu+이/jp+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 현존하는 아스카 시대 최고 , 최대의 도량으로 손꼽히는 호류사는 정림사지庭林寺址의 폐사廢寺 , 황룡사皇龍寺에서 그 형식이 유래한다 .
+1	현존하는	현존+하+는	VERB	_	7	acl	_	_	현존/ncpa+하/xsv+는/etm
+2	아스카	아스카	PROPN	_	3	compound	_	_	아스카/nq
+3	시대	시대	NOUN	_	6	compound	_	_	시대/ncn
+4	최고	최고	NOUN	_	6	conj	_	_	최고/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	최대의	최대+의	NOUN	_	7	nmod	_	_	최대/ncn+의/jcm
+7	도량으로	도량+으로	ADV	_	8	advcl	_	_	도량/ncn+으로/jca
+8	손꼽히는	손꼽히+는	VERB	_	9	acl	_	_	손꼽히/pvg+는/etm
+9	호류사는	호류사+는	PROPN	_	16	dislocated	_	_	호류사/nq+는/jxt
+10	정림사지庭林寺址의	정림사지庭林寺址+의	PROPN	_	11	nmod	_	_	정림사지庭林寺址/nq+의/jcm
+11	폐사廢寺	폐사廢寺	NOUN	_	13	compound	_	_	폐사廢寺/ncn
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	황룡사皇龍寺에서	황룡사皇龍寺+에서	ADV	_	16	advcl	_	_	황룡사皇龍寺/nq+에서/jca
+14	그	그	DET	_	15	det	_	_	그/mmd
+15	형식이	형식+이	NOUN	_	16	nsubj	_	_	형식/ncn+이/jcs
+16	유래한다	유래+하+ㄴ다	VERB	_	0	root	_	_	유래/ncpa+하/xsv+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 또한 불행하게도 소실되고만 금당의 벽화 역시 고구려의 승려 담징에 의해 완성된 사실이 말해주듯이 , 호류사 또한 고구려 및 백제 문화의 복제품이었다 .
+1	또한	또한	CCONJ	_	21	cc	_	_	또한/maj
+2	불행하게도	불행+하+게+도	ADV	_	3	amod	_	_	불행/ncps+하/xsm+게/ecs+도/jxc
+3	소실되고만	소실+되+고+말+ㄴ	AUX	_	5	acl	_	_	소실/ncpa+되/xsv+고/ecx+말/px+ㄴ/etm
+4	금당의	금당+의	PROPN	_	5	nmod	_	_	금당/nq+의/jcm
+5	벽화	벽화	NOUN	_	6	dep	_	_	벽화/ncn
+6	역시	역시	ADV	_	11	advmod	_	_	역시/mag
+7	고구려의	고구려+의	PROPN	_	8	nmod	_	_	고구려/nq+의/jcm
+8	승려	승려	NOUN	_	9	compound	_	_	승려/ncn
+9	담징에	담징+에	ADV	_	10	obl	_	_	담징/nq+에/jca
+10	의해	의하+어	SCONJ	_	11	ccomp	_	_	의하/pvg+어/ecs
+11	완성된	완성+되+ㄴ	VERB	_	12	acl	_	_	완성/ncpa+되/xsv+ㄴ/etm
+12	사실이	사실+이	NOUN	_	13	nsubj	_	_	사실/ncn+이/jcs
+13	말해주듯이	말하+어+주+듯이	SCONJ	_	21	ccomp	_	_	말하/pvg+어/ecx+주/px+듯이/ecs
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	호류사	호류사	PROPN	_	16	dep	_	_	호류사/nq
+16	또한	또한	ADV	_	21	advmod	_	_	또한/mag
+17	고구려	고구려	PROPN	_	19	conj	_	_	고구려/nq
+18	및	및	CCONJ	_	19	cc	_	_	및/maj
+19	백제	백제	PROPN	_	20	compound	_	_	백제/nq
+20	문화의	문화+의	NOUN	_	21	nmod	_	_	문화/ncn+의/jcm
+21	복제품이었다	복제품+이+었+다	VERB	_	0	root	_	_	복제품/ncn+이/jp+었/ep+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 또한 금당 석가 삼존불을 만든 도리 불사가 백제인이었다는 사실에서 더 이상의 부언은 군더더기가 되리라 믿는다 .
+1	또한	또한	CCONJ	_	15	cc	_	_	또한/maj
+2	금당	금당	PROPN	_	4	compound	_	_	금당/nq
+3	석가	석가	PROPN	_	4	compound	_	_	석가/nq
+4	삼존불을	삼존불+을	NOUN	_	5	obj	_	_	삼존불/ncn+을/jco
+5	만든	만들+ㄴ	VERB	_	7	acl	_	_	만들/pvg+ㄴ/etm
+6	도리	도리	PROPN	_	7	compound	_	_	도리/nq
+7	불사가	불사+가	NOUN	_	8	nsubj	_	_	불사/ncn+가/jcs
+8	백제인이었다는	백제인+이+었+다는	VERB	_	9	acl	_	_	백제인/ncn+이/jp+었/ep+다는/etm
+9	사실에서	사실+에서	ADV	_	15	advcl	_	_	사실/ncn+에서/jca
+10	더	더	ADV	_	11	advmod	_	_	더/mag
+11	이상의	이상+의	NOUN	_	12	nmod	_	_	이상/ncn+의/jcm
+12	부언은	부언+은	NOUN	_	14	dislocated	_	_	부언/ncpa+은/jxt
+13	군더더기가	군더더기+가	NOUN	_	14	csubj	_	_	군더더기/ncn+가/jcc
+14	되리라	되+리라	VERB	_	15	ccomp	_	_	되/pvg+리라/ef
+15	믿는다	믿+는다	VERB	_	0	root	_	_	믿/pvg+는다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 문화의 발달에서 새로운 외부 문화 양식의 유입은 그 의미하는 바가 크다 .
+1	문화의	문화+의	NOUN	_	2	nmod	_	_	문화/ncn+의/jcm
+2	발달에서	발달+에서	ADV	_	11	advcl	_	_	발달/ncpa+에서/jca
+3	새로운	새롭+ㄴ	ADJ	_	6	amod	_	_	새롭/paa+ㄴ/etm
+4	외부	외부	NOUN	_	5	compound	_	_	외부/ncn
+5	문화	문화	NOUN	_	6	compound	_	_	문화/ncn
+6	양식의	양식+의	NOUN	_	7	nmod	_	_	양식/ncn+의/jcm
+7	유입은	유입+은	NOUN	_	11	dislocated	_	_	유입/ncpa+은/jxt
+8	그	그	DET	_	10	det	_	_	그/mmd
+9	의미하는	의미+하+는	VERB	_	10	acl	_	_	의미/ncpa+하/xsv+는/etm
+10	바가	바+가	NOUN	_	11	nsubj	_	_	바/nbn+가/jcs
+11	크다	크+다	ADJ	_	0	root	_	_	크/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 아스카 문화가 열도에서 자생한 문화가 아닌 이상 그 문화적 성격에 국제성을 부여하는 데는 별 무리가 없을 것이다 .
+1	아스카	아스카	PROPN	_	2	compound	_	_	아스카/nq
+2	문화가	문화+가	NOUN	_	6	nsubj	_	_	문화/ncn+가/jcs
+3	열도에서	열도+에서	ADV	_	4	advcl	_	_	열도/ncn+에서/jca
+4	자생한	자생+하+ㄴ	VERB	_	5	acl	_	_	자생/ncpa+하/xsv+ㄴ/etm
+5	문화가	문화+가	NOUN	_	6	csubj	_	_	문화/ncn+가/jcc
+6	아닌	아니+ㄴ	ADJ	_	7	amod	_	_	아니/paa+ㄴ/etm
+7	이상	이상	NOUN	_	16	dep	_	_	이상/ncn
+8	그	그	DET	_	10	det	_	_	그/mmd
+9	문화적	문화+적	NOUN	_	10	amod	_	_	문화/ncn+적/xsn
+10	성격에	성격+에	ADV	_	12	obl	_	_	성격/ncn+에/jca
+11	국제성을	국제성+을	NOUN	_	12	obj	_	_	국제성/ncn+을/jco
+12	부여하는	부여+하+는	VERB	_	13	acl	_	_	부여/ncpa+하/xsv+는/etm
+13	데는	데+는	NOUN	_	16	dislocated	_	_	데/nbn+는/jxt
+14	별	별	ADV	_	16	advmod	_	_	별/mag
+15	무리가	무리+가	NOUN	_	16	nsubj	_	_	무리/ncn+가/jcs
+16	없을	없+ㄹ	ADJ	_	0	root	_	_	없/paa+ㄹ/etm
+17	것이다	것+이+다	VERB	_	16	aux	_	_	것/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그러나 그렇다고 하여 세계적 문화를 들먹이는 것은 과장도 이만저만이 아니다 .
+1	그러나	그러나	CCONJ	_	10	cc	_	_	그러나/maj
+2	그렇다고	그렇+다+고	VERB	_	3	conj	_	_	그렇/pad+다/ef+고/jcr
+3	하여	하+어	SCONJ	_	6	ccomp	_	_	하/pvg+어/ecs
+4	세계적	세계+적	NOUN	_	5	amod	_	_	세계/ncn+적/xsn
+5	문화를	문화+를	NOUN	_	6	obj	_	_	문화/ncn+를/jco
+6	들먹이는	들먹이+는	VERB	_	7	acl	_	_	들먹이/pvg+는/etm
+7	것은	것+은	NOUN	_	10	dislocated	_	_	것/nbn+은/jxt
+8	과장도	과장+도	ADV	_	10	advcl	_	_	과장/ncpa+도/jxc
+9	이만저만이	이만저만+이	NOUN	_	10	csubj	_	_	이만저만/ncn+이/jcc
+10	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 중국 남북조 시대 양식을 받아들인 작품들이 많으나 그 가운데에는 그리스 , 페르시아 , 중앙 아시아 및 조선 문화의 영향도 엿보인다 .
+1	중국	중국	PROPN	_	2	flat	_	_	중국/nq
+2	남북조	남북조	PROPN	_	3	compound	_	_	남북조/nq
+3	시대	시대	NOUN	_	4	compound	_	_	시대/ncn
+4	양식을	양식+을	NOUN	_	5	obj	_	_	양식/ncn+을/jco
+5	받아들인	받아들이+ㄴ	VERB	_	6	acl	_	_	받아들이/pvg+ㄴ/etm
+6	작품들이	작품+들+이	NOUN	_	7	nsubj	_	_	작품/ncn+들/xsn+이/jcs
+7	많으나	많+으나	SCONJ	_	20	xcomp	_	_	많/paa+으나/ecs
+8	그	그	DET	_	9	det	_	_	그/mmd
+9	가운데에는	가운데+에+는	NOUN	_	20	dislocated	_	_	가운데/ncn+에/jca+는/jxt
+10	그리스	그리스	PROPN	_	12	conj	_	_	그리스/nq
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	페르시아	페르시아	PROPN	_	15	conj	_	_	페르시아/nq
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	중앙	중앙	NOUN	_	15	compound	_	_	중앙/ncn
+15	아시아	아시아	PROPN	_	17	conj	_	_	아시아/nq
+16	및	및	CCONJ	_	17	cc	_	_	및/maj
+17	조선	조선	PROPN	_	18	compound	_	_	조선/nq
+18	문화의	문화+의	NOUN	_	19	nmod	_	_	문화/ncn+의/jcm
+19	영향도	영향+도	ADV	_	20	advcl	_	_	영향/ncn+도/jxc
+20	엿보인다	엿보이+ㄴ다	VERB	_	0	root	_	_	엿보이/pvg+ㄴ다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 인용문에 언급한 대로라면 아스카 문화는 남북조 문화의 토대위에 멀리 그리스 , 페르시아 문화까지를 수용한 범세계적인 문화 형태가 되어야 한다 .
+1	인용문에	인용문+에	ADV	_	2	obl	_	_	인용문/ncn+에/jca
+2	언급한	언급+하+ㄴ	VERB	_	3	ccomp	_	_	언급/ncpa+하/xsv+ㄴ/etm
+3	대로라면	대로+이+라면	SCONJ	_	18	ccomp	_	_	대로/nbn+이/jp+라면/ecs
+4	아스카	아스카	PROPN	_	5	compound	_	_	아스카/nq
+5	문화는	문화+는	NOUN	_	18	dislocated	_	_	문화/ncn+는/jxt
+6	남북조	남북조	PROPN	_	7	compound	_	_	남북조/nq
+7	문화의	문화+의	NOUN	_	8	nmod	_	_	문화/ncn+의/jcm
+8	토대위에	토대위+에	ADV	_	14	obl	_	_	토대위/ncn+에/jca
+9	멀리	멀리	ADV	_	13	advmod	_	_	멀리/mag
+10	그리스	그리스	PROPN	_	12	conj	_	_	그리스/nq
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	페르시아	페르시아	PROPN	_	13	compound	_	_	페르시아/nq
+13	문화까지를	문화+까지+를	NOUN	_	14	obj	_	_	문화/ncn+까지/jxc+를/jco
+14	수용한	수용+하+ㄴ	VERB	_	17	acl	_	_	수용/ncpa+하/xsv+ㄴ/etm
+15	범세계적인	범세계+적+이+ㄴ	VERB	_	17	acl	_	_	범세계/ncn+적/xsn+이/jp+ㄴ/etm
+16	문화	문화	NOUN	_	17	compound	_	_	문화/ncn
+17	형태가	형태+가	NOUN	_	18	csubj	_	_	형태/ncn+가/jcc
+18	되어야	되+어야	VERB	_	0	root	_	_	되/pvg+어야/ecx
+19	한다	하+ㄴ다	AUX	_	18	aux	_	_	하/px+ㄴ다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 그러나 이것은 지나친 이상이다 .
+1	그러나	그러나	CCONJ	_	4	cc	_	_	그러나/maj
+2	이것은	이것+은	PRON	_	4	dislocated	_	_	이것/npd+은/jxt
+3	지나친	지나치+ㄴ	VERB	_	4	ccomp	_	_	지나치/pvg+ㄴ/etm
+4	이상이다	이상+이+다	VERB	_	0	root	_	_	이상/ncn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 아스카 문화에서 서구 문화의 특징을 보이는 것의 대표적인 예는 아마도 인동당초 문양忍冬唐草文樣이나 엔타시스 양식의 호류사의 기둥이 될 것이다 .
+1	아스카	아스카	PROPN	_	2	compound	_	_	아스카/nq
+2	문화에서	문화+에서	ADV	_	6	advcl	_	_	문화/ncn+에서/jca
+3	서구	서구	NOUN	_	4	compound	_	_	서구/ncn
+4	문화의	문화+의	NOUN	_	5	nmod	_	_	문화/ncn+의/jcm
+5	특징을	특징+을	NOUN	_	6	obj	_	_	특징/ncn+을/jco
+6	보이는	보이+는	VERB	_	7	acl	_	_	보이/pvg+는/etm
+7	것의	것+의	NOUN	_	9	nmod	_	_	것/nbn+의/jcm
+8	대표적인	대표+적+이+ㄴ	VERB	_	9	acl	_	_	대표/ncpa+적/xsn+이/jp+ㄴ/etm
+9	예는	예+는	NOUN	_	17	dislocated	_	_	예/ncn+는/jxt
+10	아마도	아마도	ADV	_	17	advmod	_	_	아마도/mag
+11	인동당초	인동+당초	NOUN	_	12	compound	_	_	인동/nq+당초/ncn
+12	문양忍冬唐草文樣이나	문양忍冬唐草文樣+이나	CCONJ	_	16	conj	_	_	문양忍冬唐草文樣/ncn+이나/jcj
+13	엔타시스	엔타시스	NOUN	_	14	compound	_	_	엔타시스/ncn
+14	양식의	양식+의	NOUN	_	16	nmod	_	_	양식/ncn+의/jcm
+15	호류사의	호류사+의	PROPN	_	16	nmod	_	_	호류사/nq+의/jcm
+16	기둥이	기둥+이	NOUN	_	17	csubj	_	_	기둥/ncn+이/jcc
+17	될	되+ㄹ	VERB	_	0	root	_	_	되/pvg+ㄹ/etm
+18	것이다	것+이+다	VERB	_	17	aux	_	_	것/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 물론 이것들은 서구 문명의 영향을 받은 실례로 채택하기에 충분하다 .
+1	물론	물론	ADV	_	9	advmod	_	_	물론/mag
+2	이것들은	이것+들+은	PRON	_	8	dislocated	_	_	이것/npd+들/xsn+은/jxt
+3	서구	서구	NOUN	_	4	compound	_	_	서구/ncn
+4	문명의	문명+의	NOUN	_	5	nmod	_	_	문명/ncn+의/jcm
+5	영향을	영향+을	NOUN	_	6	obj	_	_	영향/ncn+을/jco
+6	받은	받+ㄴ	VERB	_	7	acl	_	_	받/pvg+ㄴ/etm
+7	실례로	실례+로	ADV	_	8	advcl	_	_	실례/ncn+로/jca
+8	채택하기에	채택+하+기+에	ADV	_	9	obl	_	_	채택/ncpa+하/xsv+기/etn+에/jca
+9	충분하다	충분+하+다	VERB	_	0	root	_	_	충분/ncps+하/xsm+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러나 세계적 성격을 과시하고자 하는 의욕이 앞선 때문일까 ?
+1	그러나	그러나	CCONJ	_	8	cc	_	_	그러나/maj
+2	세계적	세계+적	NOUN	_	3	amod	_	_	세계/ncn+적/xsn
+3	성격을	성격+을	NOUN	_	4	obj	_	_	성격/ncn+을/jco
+4	과시하고자	과시+하+고자	VERB	_	6	acl	_	_	과시/ncpa+하/xsv+고자/ecx
+5	하는	하+는	AUX	_	4	aux	_	_	하/px+는/etm
+6	의욕이	의욕+이	NOUN	_	7	nsubj	_	_	의욕/ncn+이/jcs
+7	앞선	앞서+ㄴ	VERB	_	8	ccomp	_	_	앞서/pvg+ㄴ/etm
+8	때문일까	때문+이+ㄹ까	VERB	_	0	root	_	_	때문/nbn+이/jp+ㄹ까/ef
+9	?	?	PUNCT	_	8	punct	_	_	?/sf
+
+# 아니면 앞서 말한 대로 한국인의 영향권을 외면하고 싶어서였을까 ?
+1	아니면	아니+면	SCONJ	_	7	xcomp	_	_	아니/paa+면/ecs
+2	앞서	앞서	ADV	_	3	advmod	_	_	앞서/mag
+3	말한	말하+ㄴ	VERB	_	4	acl	_	_	말하/pvg+ㄴ/etm
+4	대로	대로	NOUN	_	7	advmod	_	_	대로/nbn
+5	한국인의	한국인+의	NOUN	_	6	nmod	_	_	한국인/ncn+의/jcm
+6	영향권을	영향권+을	NOUN	_	7	obj	_	_	영향권/ncn+을/jco
+7	외면하고	외면+하+고	VERB	_	0	root	_	_	외면/ncpa+하/xsv+고/ecx
+8	싶어서였을까	싶+어서+이+었+ㄹ까	AUX	_	7	aux	_	_	싶/px+어서/ecs+이/jp+었/ep+ㄹ까/ef
+9	?	?	PUNCT	_	8	punct	_	_	?/sf
+
+# 열도라는 지리적 여건이 일본의 역사에 끼친 영향은 실로 지대하다 .
+1	열도라는	열도+이+라는	VERB	_	3	acl	_	_	열도/ncn+이/jp+라는/etm
+2	지리적	지리+적	NOUN	_	3	amod	_	_	지리/ncn+적/xsn
+3	여건이	여건+이	NOUN	_	6	nsubj	_	_	여건/ncn+이/jcs
+4	일본의	일본+의	PROPN	_	5	nmod	_	_	일본/nq+의/jcm
+5	역사에	역사+에	ADV	_	6	obl	_	_	역사/ncn+에/jca
+6	끼친	끼치+ㄴ	VERB	_	7	acl	_	_	끼치/pvg+ㄴ/etm
+7	영향은	영향+은	NOUN	_	9	dislocated	_	_	영향/ncn+은/jxt
+8	실로	실로	ADV	_	9	advmod	_	_	실로/mag
+9	지대하다	지대+하+다	VERB	_	0	root	_	_	지대/ncps+하/xsm+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 따라서 일본은 문화의 태동은 물론 , 고대를 지나 오면서도 한국에 비해 문화 수준의 절대 경사를 감수해야 했다 .
+1	따라서	따라서	CCONJ	_	16	cc	_	_	따라서/maj
+2	일본은	일본+은	PROPN	_	16	dislocated	_	_	일본/nq+은/jxt
+3	문화의	문화+의	NOUN	_	4	nmod	_	_	문화/ncn+의/jcm
+4	태동은	태동+은	NOUN	_	5	dislocated	_	_	태동/ncpa+은/jxt
+5	물론	물론	ADV	_	16	advmod	_	_	물론/mag
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	고대를	고대+를	NOUN	_	8	obj	_	_	고대/ncn+를/jco
+8	지나	지나+아	VERB	_	16	ccomp	_	_	지나/pvg+아/ecx
+9	오면서도	오+면서+도	ADV	_	8	aux	_	_	오/px+면서/ecc+도/jxc
+10	한국에	한국+에	ADV	_	11	obl	_	_	한국/nq+에/jca
+11	비해	비+하+어	SCONJ	_	16	ccomp	_	_	비/ncpa+하/xsv+어/ecs
+12	문화	문화	NOUN	_	13	compound	_	_	문화/ncn
+13	수준의	수준+의	NOUN	_	15	nmod	_	_	수준/ncn+의/jcm
+14	절대	절대	ADJ	_	15	amod	_	_	절대/mma
+15	경사를	경사+를	NOUN	_	16	obj	_	_	경사/ncn+를/jco
+16	감수해야	감수+하+어야	VERB	_	0	root	_	_	감수/ncpa+하/xsv+어야/ecx
+17	했다	하+었+다	AUX	_	16	aux	_	_	하/px+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그러나 이러한 폐쇄성과 고립성은 반대로 대륙의 영향권으로부터 그들을 보호하는 안전판의 역할을 하기도 하였다 .
+1	그러나	그러나	CCONJ	_	12	cc	_	_	그러나/maj
+2	이러한	이러하+ㄴ	VERB	_	4	amod	_	_	이러하/pad+ㄴ/etm
+3	폐쇄성과	폐쇄성+과	CCONJ	_	4	conj	_	_	폐쇄성/ncn+과/jcj
+4	고립성은	고립성+은	NOUN	_	12	dislocated	_	_	고립성/ncn+은/jxt
+5	반대로	반대+로	ADV	_	12	advcl	_	_	반대/ncpa+로/jca
+6	대륙의	대륙+의	NOUN	_	7	nmod	_	_	대륙/ncn+의/jcm
+7	영향권으로부터	영향권+으로+부터	ADV	_	9	advcl	_	_	영향권/ncn+으로/jca+부터/jxc
+8	그들을	그+들+을	PRON	_	9	obj	_	_	그/npp+들/xsn+을/jco
+9	보호하는	보호+하+는	VERB	_	10	acl	_	_	보호/ncpa+하/xsv+는/etm
+10	안전판의	안전판+의	NOUN	_	11	nmod	_	_	안전판/ncn+의/jcm
+11	역할을	역할+을	NOUN	_	12	obj	_	_	역할/ncpa+을/jco
+12	하기도	하+기+도	ADV	_	0	root	_	_	하/pvg+기/etn+도/jxc
+13	하였다	하+었+다	AUX	_	12	aux	_	_	하/px+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이러한 사실은 13세기 여몽 연합군의 침범으로 다시금 실증된 셈이다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	사실은	사실+은	NOUN	_	8	dislocated	_	_	사실/ncn+은/jxt
+3	13세기	13+세기	NOUN	_	6	compound	_	_	13/nno+세기/ncn
+4	여몽	여몽	PROPN	_	5	compound	_	_	여몽/nq
+5	연합군의	연합군+의	NOUN	_	6	nmod	_	_	연합군/ncn+의/jcm
+6	침범으로	침범+으로	ADV	_	8	advcl	_	_	침범/ncpa+으로/jca
+7	다시금	다시금	ADV	_	8	advmod	_	_	다시금/mag
+8	실증된	실증+되+ㄴ	VERB	_	9	ccomp	_	_	실증/ncpa+되/xsv+ㄴ/etm
+9	셈이다	셈+이+다	VERB	_	0	root	_	_	셈/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 반면에 일본으로서는 유라시아 대륙에 걸쳐 대제국을 건설했던 몽고군을 막아냈다는 자부심으로 기록될 수도 있는 역사적 사건이었다 .
+1	반면에	반면+에	ADV	_	11	obl	_	_	반면/ncn+에/jca
+2	일본으로서는	일본+으로서+는	PROPN	_	11	dislocated	_	_	일본/nq+으로서/jca+는/jxt
+3	유라시아	유라시아	PROPN	_	4	compound	_	_	유라시아/nq
+4	대륙에	대륙+에	ADV	_	5	obl	_	_	대륙/ncn+에/jca
+5	걸쳐	걸치+어	SCONJ	_	7	ccomp	_	_	걸치/pvg+어/ecs
+6	대제국을	대제국+을	NOUN	_	7	obj	_	_	대제국/ncn+을/jco
+7	건설했던	건설+하+었+던	VERB	_	8	acl	_	_	건설/ncpa+하/xsv+었/ep+던/etm
+8	몽고군을	몽고군+을	NOUN	_	9	obj	_	_	몽고군/ncn+을/jco
+9	막아냈다는	막+아+내+ㅆ+다는	AUX	_	10	acl	_	_	막/pvg+아/ecx+내/px+ㅆ/ep+다는/etm
+10	자부심으로	자부심+으로	ADV	_	11	advcl	_	_	자부심/ncn+으로/jca
+11	기록될	기록+되+ㄹ	VERB	_	15	ccomp	_	_	기록/ncpa+되/xsv+ㄹ/etm
+12	수도	수+도	ADV	_	13	fixed	_	_	수/nbn+도/jxc
+13	있는	있+는	ADJ	_	11	aux	_	_	있/paa+는/etm
+14	역사적	역사+적	NOUN	_	15	amod	_	_	역사/ncn+적/xsn
+15	사건이었다	사건+이+었+다	VERB	_	0	root	_	_	사건/ncn+이/jp+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 여기에서는 여몽 연합군의 일본 침공 기록에 대한 왜곡의 줄기를 찾아내려는 것이 아니다 .
+1	여기에서는	여기+에서+는	PRON	_	10	dislocated	_	_	여기/npd+에서/jca+는/jxt
+2	여몽	여몽	PROPN	_	3	compound	_	_	여몽/nq
+3	연합군의	연합군+의	NOUN	_	5	nmod	_	_	연합군/ncn+의/jcm
+4	일본	일본	PROPN	_	5	compound	_	_	일본/nq
+5	침공	침공	NOUN	_	6	compound	_	_	침공/ncpa
+6	기록에	기록+에	ADV	_	7	obl	_	_	기록/ncpa+에/jca
+7	대한	대하+ㄴ	VERB	_	8	acl	_	_	대하/pvg+ㄴ/etm
+8	왜곡의	왜곡+의	NOUN	_	9	nmod	_	_	왜곡/ncpa+의/jcm
+9	줄기를	줄기+를	NOUN	_	10	obj	_	_	줄기/ncn+를/jco
+10	찾아내려는	찾+아+내+려는	AUX	_	11	acl	_	_	찾/pvg+아/ecx+내/px+려는/etm
+11	것이	것+이	NOUN	_	12	csubj	_	_	것/nbn+이/jcc
+12	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 오히려 그들의 교과서가 우리에게 주는 교훈을 찾아 그 동안 우리의 역사 이해에 대한 반성의 계기로 삼는 데 그 목적을 두었다 .
+1	오히려	오히려	ADV	_	7	advmod	_	_	오히려/mag
+2	그들의	그+들+의	PRON	_	3	nmod	_	_	그/npp+들/xsn+의/jcm
+3	교과서가	교과서+가	NOUN	_	5	nsubj	_	_	교과서/ncn+가/jcs
+4	우리에게	우리+에게	ADV	_	5	iobj	_	_	우리/npp+에게/jca
+5	주는	주+는	VERB	_	6	acl	_	_	주/pvg+는/etm
+6	교훈을	교훈+을	NOUN	_	7	obj	_	_	교훈/ncn+을/jco
+7	찾아	찾+아	SCONJ	_	16	ccomp	_	_	찾/pvg+아/ecs
+8	그	그	DET	_	9	det	_	_	그/mmd
+9	동안	동안	NOUN	_	12	compound	_	_	동안/ncn
+10	우리의	우리+의	PRON	_	12	nmod	_	_	우리/npp+의/jcm
+11	역사	역사	NOUN	_	12	compound	_	_	역사/ncn
+12	이해에	이해+에	ADV	_	13	obl	_	_	이해/ncpa+에/jca
+13	대한	대하+ㄴ	VERB	_	14	acl	_	_	대하/pvg+ㄴ/etm
+14	반성의	반성+의	NOUN	_	15	nmod	_	_	반성/ncpa+의/jcm
+15	계기로	계기+로	ADV	_	16	advcl	_	_	계기/ncn+로/jca
+16	삼는	삼+는	VERB	_	17	acl	_	_	삼/pvg+는/etm
+17	데	데	NOUN	_	20	advmod	_	_	데/nbn
+18	그	그	DET	_	19	det	_	_	그/mmd
+19	목적을	목적+을	NOUN	_	20	obj	_	_	목적/ncpa+을/jco
+20	두었다	두+었+다	VERB	_	0	root	_	_	두/pvg+었/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 우리의 국정 교과서에서는 여몽군의 일본 침공에 대해 자세한 언급을 피하고 있다 .
+1	우리의	우리+의	PRON	_	3	nmod	_	_	우리/npp+의/jcm
+2	국정	국정	NOUN	_	3	compound	_	_	국정/ncn
+3	교과서에서는	교과서+에서+는	NOUN	_	10	dislocated	_	_	교과서/ncn+에서/jca+는/jxt
+4	여몽군의	여몽군+의	NOUN	_	6	nmod	_	_	여몽군/ncn+의/jcm
+5	일본	일본	PROPN	_	6	compound	_	_	일본/nq
+6	침공에	침공+에	ADV	_	7	obl	_	_	침공/ncpa+에/jca
+7	대해	대하+어	SCONJ	_	10	ccomp	_	_	대하/pvg+어/ecs
+8	자세한	자세+하+ㄴ	VERB	_	9	amod	_	_	자세/ncps+하/xsm+ㄴ/etm
+9	언급을	언급+을	NOUN	_	10	obj	_	_	언급/ncpa+을/jco
+10	피하고	피하+고	VERB	_	0	root	_	_	피하/pvg+고/ecx
+11	있다	있+다	AUX	_	10	aux	_	_	있/px+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 원은 고려와 강화한 후 , 먼저 일본을 정벌하기 위하여 고려에 강요하여 군대를 징발하였다 .
+1	원은	원+은	PROPN	_	13	dislocated	_	_	원/nq+은/jxt
+2	고려와	고려+와	CCONJ	_	3	conj	_	_	고려/nq+와/jct
+3	강화한	강화+하+ㄴ	VERB	_	4	acl	_	_	강화/ncpa+하/xsv+ㄴ/etm
+4	후	후	NOUN	_	13	advmod	_	_	후/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	먼저	먼저	ADV	_	8	advmod	_	_	먼저/mag
+7	일본을	일본+을	PROPN	_	8	obj	_	_	일본/nq+을/jco
+8	정벌하기	정벌+하+기	VERB	_	9	nmod	_	_	정벌/ncpa+하/xsv+기/etn
+9	위하여	위+하+어	SCONJ	_	13	ccomp	_	_	위/ncpa+하/xsv+어/ecs
+10	고려에	고려+에	ADV	_	11	obl	_	_	고려/nq+에/jca
+11	강요하여	강요+하+어	SCONJ	_	13	ccomp	_	_	강요/ncpa+하/xsv+어/ecs
+12	군대를	군대+를	NOUN	_	13	obj	_	_	군대/ncn+를/jco
+13	징발하였다	징발+하+었+다	VERB	_	0	root	_	_	징발/ncpa+하/xsv+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그리하여 원은 고려와 연합하여 규슈의 하카다 ( 博多 ) 까지 갔으나 태풍으로 인하여 실패하였고 , 이어 제 2차 원정도 태풍으로 실패하였다 .
+1	그리하여	그리하여	CCONJ	_	21	cc	_	_	그리하여/maj
+2	원은	원+은	PROPN	_	4	dislocated	_	_	원/nq+은/jxt
+3	고려와	고려+와	CCONJ	_	4	conj	_	_	고려/nq+와/jct
+4	연합하여	연합+하+어	SCONJ	_	11	ccomp	_	_	연합/ncpa+하/xsv+어/ecs
+5	규슈의	규슈+의	PROPN	_	6	nmod	_	_	규슈/nq+의/jcm
+6	하카다	하카다	PROPN	_	11	advcl	_	_	하카다/nq
+7	(	(	PUNCT	_	8	punct	_	_	(/sl
+8	博多	博多	PROPN	_	6	appos	_	_	博多/nq
+9	)	)	PUNCT	_	8	punct	_	_	)/sr
+10	까지	까지	ADP	_	6	case	_	_	까지/jxc
+11	갔으나	가+ㅆ+으나	SCONJ	_	14	ccomp	_	_	가/pvg+ㅆ/ep+으나/ecs
+12	태풍으로	태풍+으로	ADV	_	13	advcl	_	_	태풍/ncn+으로/jca
+13	인하여	인하+어	SCONJ	_	14	ccomp	_	_	인하/pvg+어/ecs
+14	실패하였고	실패+하+었+고	CCONJ	_	21	conj	_	_	실패/ncpa+하/xsv+었/ep+고/ecc
+15	,	,	PUNCT	_	14	punct	_	_	,/sp
+16	이어	잇+어	SCONJ	_	21	ccomp	_	_	잇/pvg+어/ecs
+17	제	제	ADJ	_	18	amod	_	_	제/mma
+18	2차	2+차	NOUN	_	19	compound	_	_	2/nno+차/nbu
+19	원정도	원정+도	ADV	_	21	advcl	_	_	원정/ncpa+도/jxc
+20	태풍으로	태풍+으로	ADV	_	21	advcl	_	_	태풍/ncn+으로/jca
+21	실패하였다	실패+하+었+다	VERB	_	0	root	_	_	실패/ncpa+하/xsv+었/ep+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 이에 비해 일본사 교과서의 서술은 훨씬 상세하다 .
+1	이에	이+에	ADV	_	2	obl	_	_	이/npd+에/jca
+2	비해	비+하+어	SCONJ	_	7	conj	_	_	비/ncpa+하/xsv+어/ecs
+3	일본사	일본사	NOUN	_	4	compound	_	_	일본사/ncn
+4	교과서의	교과서+의	NOUN	_	5	nmod	_	_	교과서/ncn+의/jcm
+5	서술은	서술+은	NOUN	_	7	dislocated	_	_	서술/ncpa+은/jxt
+6	훨씬	훨씬	ADV	_	7	advmod	_	_	훨씬/mag
+7	상세하다	상세+하+다	VERB	_	0	root	_	_	상세/ncps+하/xsm+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 1274 ( 文永 11 ) 년 , 원은 고려와의 연합군 약 3만여명을 이끌고 쓰시마 및 이키를 침범하고 하카다를 공격했다 .
+1	1274	1274	NUM	_	6	nummod	_	_	1274/nno
+2	(	(	PUNCT	_	4	punct	_	_	(/sl
+3	文永	文永	PROPN	_	4	compound	_	_	文永/nq
+4	11	11	NUM	_	6	nummod	_	_	11/nno
+5	)	)	PUNCT	_	4	punct	_	_	)/sr
+6	년	년	NOUN	_	19	advmod	_	_	년/nbu
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	원은	원+은	PROPN	_	19	dislocated	_	_	원/nq+은/jxt
+9	고려와의	고려+와+의	PROPN	_	10	nmod	_	_	고려/nq+와/jct+의/jcm
+10	연합군	연합군	NOUN	_	12	compound	_	_	연합군/ncn
+11	약	약	ADJ	_	12	amod	_	_	약/mma
+12	3만여명을	3+만+여+명+을	NUM	_	13	obj	_	_	3/nnc+만/nnc+여/xsn+명/nbu+을/jco
+13	이끌고	이끌+고	CCONJ	_	19	conj	_	_	이끌/pvg+고/ecc
+14	쓰시마	쓰시마	PROPN	_	16	conj	_	_	쓰시마/nq
+15	및	및	CCONJ	_	16	cc	_	_	및/maj
+16	이키를	이키+를	PROPN	_	17	obj	_	_	이키/nq+를/jco
+17	침범하고	침범+하+고	CCONJ	_	19	conj	_	_	침범/ncpa+하/xsv+고/ecc
+18	하카다를	하카다+를	PROPN	_	19	obj	_	_	하카다/nq+를/jco
+19	공격했다	공격+하+었+다	VERB	_	0	root	_	_	공격/ncpa+하/xsv+었/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 그런데 하룻밤이 지나자 원의 군선들이 자취도 없이 사라져 , 당시의 사람들은 신의 가호에 의한 기적이라고 생각했다 .
+1	그런데	그런데	CCONJ	_	16	cc	_	_	그런데/maj
+2	하룻밤이	하룻밤+이	NOUN	_	3	nsubj	_	_	하룻밤/ncn+이/jcs
+3	지나자	지나+자	SCONJ	_	8	ccomp	_	_	지나/pvg+자/ecs
+4	원의	원+의	NOUN	_	5	nmod	_	_	원/ncn+의/jcm
+5	군선들이	군선+들+이	NOUN	_	8	nsubj	_	_	군선/ncn+들/xsn+이/jcs
+6	자취도	자취+도	ADV	_	7	advcl	_	_	자취/ncn+도/jxc
+7	없이	없+이	SCONJ	_	8	xcomp	_	_	없/paa+이/ecs
+8	사라져	사라지+어	SCONJ	_	16	ccomp	_	_	사라지/pvg+어/ecs
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	당시의	당시+의	NOUN	_	11	nmod	_	_	당시/ncn+의/jcm
+11	사람들은	사람+들+은	NOUN	_	16	dislocated	_	_	사람/ncn+들/xsn+은/jxt
+12	신의	신+의	NOUN	_	13	nmod	_	_	신/ncn+의/jcm
+13	가호에	가호+에	ADV	_	14	obl	_	_	가호/ncn+에/jca
+14	의한	의하+ㄴ	VERB	_	15	acl	_	_	의하/pvg+ㄴ/etm
+15	기적이라고	기적+이+라+고	VERB	_	16	conj	_	_	기적/ncn+이/jp+라/ef+고/jcr
+16	생각했다	생각+하+었+다	VERB	_	0	root	_	_	생각/ncpa+하/xsv+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 원은 송을 멸하고 1281 ( 弘安 4 ) 년에 송의 군대까지 동원하여 14만의 대군으로 기타규슈로 쳐들어왔다 .
+1	원은	원+은	PROPN	_	16	dislocated	_	_	원/nq+은/jxt
+2	송을	송+을	PROPN	_	3	obj	_	_	송/nq+을/jco
+3	멸하고	멸+하+고	CCONJ	_	16	conj	_	_	멸/ncpa+하/xsv+고/ecc
+4	1281	1281	NUM	_	9	nummod	_	_	1281/nno
+5	(	(	PUNCT	_	7	punct	_	_	(/sl
+6	弘安	弘安	PROPN	_	7	compound	_	_	弘安/nq
+7	4	4	NUM	_	9	nummod	_	_	4/nno
+8	)	)	PUNCT	_	7	punct	_	_	)/sr
+9	년에	년+에	ADV	_	16	obl	_	_	년/nbu+에/jca
+10	송의	송+의	PROPN	_	11	nmod	_	_	송/nq+의/jcm
+11	군대까지	군대+까지	ADV	_	12	advcl	_	_	군대/ncn+까지/jxc
+12	동원하여	동원+하+어	SCONJ	_	16	ccomp	_	_	동원/ncpa+하/xsv+어/ecs
+13	14만의	14+만+의	NUM	_	14	nmod	_	_	14/nnc+만/nnc+의/jcm
+14	대군으로	대군+으로	ADV	_	16	advcl	_	_	대군/ncn+으로/jca
+15	기타규슈로	기타규슈+로	ADV	_	16	advcl	_	_	기타규슈/nq+로/jca
+16	쳐들어왔다	쳐들+어+오+았+다	AUX	_	0	root	_	_	쳐들/pvg+어/ecx+오/px+았/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 대부분의 교과서 내용이 위의 인용문과 비슷하다 .
+1	대부분의	대부분+의	NOUN	_	2	nmod	_	_	대부분/ncn+의/jcm
+2	교과서	교과서	NOUN	_	3	compound	_	_	교과서/ncn
+3	내용이	내용+이	NOUN	_	6	nsubj	_	_	내용/ncn+이/jcs
+4	위의	위+의	NOUN	_	5	nmod	_	_	위/ncn+의/jcm
+5	인용문과	인용문+과	CCONJ	_	6	conj	_	_	인용문/ncn+과/jct
+6	비슷하다	비슷+하+다	VERB	_	0	root	_	_	비슷/ncps+하/xsm+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 교과서에서 분석한 여몽군의 일본 공략 실패 원인을 보면 다섯 항목으로 정리할 수 있다 .
+1	교과서에서	교과서+에서	ADV	_	2	advcl	_	_	교과서/ncn+에서/jca
+2	분석한	분석+하+ㄴ	VERB	_	7	acl	_	_	분석/ncpa+하/xsv+ㄴ/etm
+3	여몽군의	여몽군+의	NOUN	_	5	nmod	_	_	여몽군/ncn+의/jcm
+4	일본	일본	PROPN	_	5	compound	_	_	일본/nq
+5	공략	공략	NOUN	_	6	compound	_	_	공략/ncpa
+6	실패	실패	NOUN	_	7	compound	_	_	실패/ncpa
+7	원인을	원인+을	NOUN	_	8	obj	_	_	원인/ncn+을/jco
+8	보면	보+면	SCONJ	_	11	ccomp	_	_	보/pvg+면/ecs
+9	다섯	다섯	NUM	_	10	nummod	_	_	다섯/nnc
+10	항목으로	항목+으로	ADV	_	11	advcl	_	_	항목/ncn+으로/jca
+11	정리할	정리+하+ㄹ	VERB	_	0	root	_	_	정리/ncpa+하/xsv+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있다	있+다	ADJ	_	11	aux	_	_	있/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 종래에는 태풍 ( 신풍 ) 에 의한 것으로 여겨왔으나 , 태풍이 불었기 때문이 아니라 원측의 예정된 철수였다는 설도 주장 되고 있다 .
+1	종래에는	종래+에+는	NOUN	_	9	dislocated	_	_	종래/ncn+에/jca+는/jxt
+2	태풍	태풍	NOUN	_	7	obl	_	_	태풍/ncn
+3	(	(	PUNCT	_	4	punct	_	_	(/sl
+4	신풍	신풍	NOUN	_	2	appos	_	_	신풍/ncn
+5	)	)	PUNCT	_	4	punct	_	_	)/sr
+6	에	에	ADP	_	2	case	_	_	에/jca
+7	의한	의하+ㄴ	VERB	_	8	acl	_	_	의하/pvg+ㄴ/etm
+8	것으로	것+으로	ADV	_	9	advcl	_	_	것/nbn+으로/jca
+9	여겨왔으나	여기+어+오+았+으나	SCONJ	_	20	ccomp	_	_	여기/pvg+어/ecx+오/px+았/ep+으나/ecs
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	태풍이	태풍+이	NOUN	_	12	nsubj	_	_	태풍/ncn+이/jcs
+12	불었기	불+었+기	VERB	_	13	nmod	_	_	불/pvg+었/ep+기/etn
+13	때문이	때문+이	NOUN	_	14	csubj	_	_	때문/nbn+이/jcc
+14	아니라	아니+라	SCONJ	_	17	xcomp	_	_	아니/paa+라/ecs
+15	원측의	원+측+의	PROPN	_	17	nmod	_	_	원/nq+측/xsn+의/jcm
+16	예정된	예정+되+ㄴ	VERB	_	17	acl	_	_	예정/ncpa+되/xsv+ㄴ/etm
+17	철수였다는	철수+이+었+다는	VERB	_	18	acl	_	_	철수/ncpa+이/jp+었/ep+다는/etm
+18	설도	설+도	ADV	_	20	advcl	_	_	설/ncpa+도/jxc
+19	주장	주장	NOUN	_	20	dep	_	_	주장/ncpa
+20	되고	되+고	VERB	_	0	root	_	_	되/pvg+고/ecx
+21	있다	있+다	AUX	_	20	aux	_	_	있/px+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 원군의 예정된 퇴각을 주장하면서 제기하고 있는 1차 침공 일지를 살펴보자 .
+1	원군의	원군+의	NOUN	_	3	nmod	_	_	원군/ncn+의/jcm
+2	예정된	예정+되+ㄴ	VERB	_	3	acl	_	_	예정/ncpa+되/xsv+ㄴ/etm
+3	퇴각을	퇴각+을	NOUN	_	4	obj	_	_	퇴각/ncpa+을/jco
+4	주장하면서	주장+하+면서	CCONJ	_	5	conj	_	_	주장/ncpa+하/xsv+면서/ecc
+5	제기하고	제기+하+고	VERB	_	9	acl	_	_	제기/ncpa+하/xsv+고/ecx
+6	있는	있+는	AUX	_	5	aux	_	_	있/px+는/etm
+7	1차	1+차	NOUN	_	8	compound	_	_	1/nno+차/nbu
+8	침공	침공	NOUN	_	9	compound	_	_	침공/ncpa
+9	일지를	일지+를	NOUN	_	10	obj	_	_	일지/ncn+를/jco
+10	살펴보자	살피+어+보+자	AUX	_	0	root	_	_	살피/pvg+어/ecx+보/px+자/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그러나 유감스럽게도 필자의 지식이나 , 입수한 자료로는 일본 공략에 나선 여몽 연합군이 미리 준비된 후퇴를 했다는 주장의 근거를 찾을 수 없다 .
+1	그러나	그러나	CCONJ	_	19	cc	_	_	그러나/maj
+2	유감스럽게도	유감스럽+게+도	ADV	_	19	amod	_	_	유감스럽/paa+게/ecs+도/jxc
+3	필자의	필자+의	NOUN	_	4	nmod	_	_	필자/ncn+의/jcm
+4	지식이나	지식+이나	CCONJ	_	7	conj	_	_	지식/ncn+이나/jcj
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	입수한	입수+하+ㄴ	VERB	_	7	acl	_	_	입수/ncpa+하/xsv+ㄴ/etm
+7	자료로는	자료+로+는	NOUN	_	19	dislocated	_	_	자료/ncn+로/jca+는/jxt
+8	일본	일본	PROPN	_	9	compound	_	_	일본/nq
+9	공략에	공략+에	ADV	_	10	obl	_	_	공략/ncpa+에/jca
+10	나선	나서+ㄴ	VERB	_	12	acl	_	_	나서/pvg+ㄴ/etm
+11	여몽	여몽	PROPN	_	12	compound	_	_	여몽/nq
+12	연합군이	연합군+이	NOUN	_	16	nsubj	_	_	연합군/ncn+이/jcs
+13	미리	미리	ADV	_	14	advmod	_	_	미리/mag
+14	준비된	준비+되+ㄴ	VERB	_	15	acl	_	_	준비/ncpa+되/xsv+ㄴ/etm
+15	후퇴를	후퇴+를	NOUN	_	16	obj	_	_	후퇴/ncpa+를/jco
+16	했다는	하+었+다는	VERB	_	17	acl	_	_	하/pvg+었/ep+다는/etm
+17	주장의	주장+의	NOUN	_	18	nmod	_	_	주장/ncpa+의/jcm
+18	근거를	근거+를	NOUN	_	19	obj	_	_	근거/ncpa+를/jco
+19	찾을	찾+ㄹ	VERB	_	0	root	_	_	찾/pvg+ㄹ/etm
+20	수	수	NOUN	_	21	fixed	_	_	수/nbn
+21	없다	없+다	ADJ	_	19	aux	_	_	없/paa+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 따라서 이에 관한 역사에 더욱 깊은 이해와 연구가 되어 있는 학자들에게 맞기기로 한다 .
+1	따라서	따라서	CCONJ	_	13	cc	_	_	따라서/maj
+2	이에	이+에	ADV	_	3	obl	_	_	이/npd+에/jca
+3	관한	관하+ㄴ	VERB	_	4	acl	_	_	관하/pvg+ㄴ/etm
+4	역사에	역사+에	ADV	_	9	obl	_	_	역사/ncn+에/jca
+5	더욱	더욱	ADV	_	6	advmod	_	_	더욱/mag
+6	깊은	깊+ㄴ	ADJ	_	8	amod	_	_	깊/paa+ㄴ/etm
+7	이해와	이해+와	CCONJ	_	8	conj	_	_	이해/ncpa+와/jcj
+8	연구가	연구+가	NOUN	_	9	nsubj	_	_	연구/ncpa+가/jcs
+9	되어	되+어	VERB	_	11	acl	_	_	되/pvg+어/ecx
+10	있는	있+는	AUX	_	9	aux	_	_	있/px+는/etm
+11	학자들에게	학자+들+에게	ADV	_	12	iobj	_	_	학자/ncn+들/xsn+에게/jca
+12	맞기기로	맞기+기+로	ADV	_	13	advcl	_	_	맞기/pvg+기/etn+로/jca
+13	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 일보사 교과서를 살펴보면서 필자가 가장 부끄러워했던 대목이 바로 이 삼별초에 관한 부분이다 .
+1	일보사	일본사	NOUN	_	2	compound	_	_	일본사/ncn
+2	교과서를	교과서+를	NOUN	_	3	obj	_	_	교과서/ncn+를/jco
+3	살펴보면서	살피+어+보+면서	CCONJ	_	6	conj	_	_	살피/pvg+어/ecx+보/px+면서/ecc
+4	필자가	필자+가	NOUN	_	6	nsubj	_	_	필자/ncn+가/jcs
+5	가장	가장	ADV	_	6	advmod	_	_	가장/mag
+6	부끄러워했던	부끄러워하+었+던	VERB	_	7	acl	_	_	부끄러워하/pvg+었/ep+던/etm
+7	대목이	대목+이	NOUN	_	12	nsubj	_	_	대목/ncn+이/jcs
+8	바로	바로	ADV	_	9	advmod	_	_	바로/mag
+9	이	이	DET	_	10	det	_	_	이/mmd
+10	삼별초에	삼별초+에	ADV	_	11	obl	_	_	삼별초/nq+에/jca
+11	관한	관하+ㄴ	VERB	_	12	ccomp	_	_	관하/pvg+ㄴ/etm
+12	부분이다	부분+이+다	VERB	_	0	root	_	_	부분/ncn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 일본사 교과서에서는 여몽 언합군의 일본 침공에 좌절을 가져다 준 요인으로서 삼별초의 위상을 꽤 중요하게 설정해 놓고 있다 .
+1	일본사	일본사	NOUN	_	2	compound	_	_	일본사/ncn
+2	교과서에서는	교과서+에서+는	NOUN	_	15	dislocated	_	_	교과서/ncn+에서/jca+는/jxt
+3	여몽	여몽	PROPN	_	4	compound	_	_	여몽/nq
+4	언합군의	언합군+의	NOUN	_	6	nmod	_	_	언합군/ncn+의/jcm
+5	일본	일본	PROPN	_	6	compound	_	_	일본/nq
+6	침공에	침공+에	ADV	_	8	obl	_	_	침공/ncpa+에/jca
+7	좌절을	좌절+을	NOUN	_	8	obj	_	_	좌절/ncpa+을/jco
+8	가져다	가지+어다	SCONJ	_	9	ccomp	_	_	가지/pvg+어다/ecs
+9	준	주+ㄴ	VERB	_	10	acl	_	_	주/pvg+ㄴ/etm
+10	요인으로서	요인+으로서	ADV	_	15	advcl	_	_	요인/ncn+으로서/jca
+11	삼별초의	삼별초+의	PROPN	_	12	nmod	_	_	삼별초/nq+의/jcm
+12	위상을	위상+을	NOUN	_	15	obj	_	_	위상/ncn+을/jco
+13	꽤	꽤	ADV	_	14	advmod	_	_	꽤/mag
+14	중요하게	중요+하+게	SCONJ	_	15	xcomp	_	_	중요/ncps+하/xsm+게/ecs
+15	설정해	설정+하+어	VERB	_	0	root	_	_	설정/ncpa+하/xsv+어/ecx
+16	놓고	놓+고	AUX	_	15	aux	_	_	놓/px+고/ecx
+17	있다	있+다	AUX	_	15	aux	_	_	있/px+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 심지어 " 삼별초의 난 " 이라고까지 국사 교육을 받았던 필자에게 이는 충격이 아닐 수 없었다 .
+1	심지어	심지어	ADV	_	9	advmod	_	_	심지어/mag
+2	"	"	PUNCT	_	3	punct	_	_	"/sl
+3	삼별초의	삼별초+의	PROPN	_	4	nmod	_	_	삼별초/nq+의/jcm
+4	난	난	NOUN	_	9	advcl	_	_	난/ncn
+5	"	"	PUNCT	_	4	punct	_	_	"/sr
+6	이라고까지	이+라+고+까지	ADP	_	4	cop	_	_	이/jp+라/ef+고/jcr+까지/jxc
+7	국사	국사	NOUN	_	8	compound	_	_	국사/ncn
+8	교육을	교육+을	NOUN	_	9	obj	_	_	교육/ncpa+을/jco
+9	받았던	받+았+던	VERB	_	10	acl	_	_	받/pvg+았/ep+던/etm
+10	필자에게	필자+에게	ADV	_	13	iobj	_	_	필자/ncn+에게/jca
+11	이는	이+는	PRON	_	13	dislocated	_	_	이/npd+는/jxt
+12	충격이	충격+이	NOUN	_	13	csubj	_	_	충격/ncn+이/jcc
+13	아닐	아니+ㄹ	ADJ	_	0	root	_	_	아니/paa+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	없었다	없+었+다	ADJ	_	13	aux	_	_	없/paa+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이 내용을 일본사 교과서에서 발췌해 보자 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	내용을	내용+을	NOUN	_	5	obj	_	_	내용/ncn+을/jco
+3	일본사	일본사	NOUN	_	4	compound	_	_	일본사/ncn
+4	교과서에서	교과서+에서	ADV	_	5	advcl	_	_	교과서/ncn+에서/jca
+5	발췌해	발췌+하+어	VERB	_	0	root	_	_	발췌/ncpa+하/xsv+어/ecx
+6	보자	보+자	AUX	_	5	aux	_	_	보/px+자/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이와 같은 몽고군의 침략에 대해 각지에서 저항이 일어났다 .
+1	이와	이+와	CCONJ	_	2	conj	_	_	이/npd+와/jct
+2	같은	같+ㄴ	ADJ	_	4	amod	_	_	같/paa+ㄴ/etm
+3	몽고군의	몽고군+의	NOUN	_	4	nmod	_	_	몽고군/ncn+의/jcm
+4	침략에	침략+에	ADV	_	5	obl	_	_	침략/ncpa+에/jca
+5	대해	대하+어	SCONJ	_	8	ccomp	_	_	대하/pvg+어/ecs
+6	각지에서	각지+에서	ADV	_	8	advcl	_	_	각지/ncn+에서/jca
+7	저항이	저항+이	NOUN	_	8	nsubj	_	_	저항/ncpa+이/jcs
+8	일어났다	일어나+ㅆ+다	VERB	_	0	root	_	_	일어나/pvg+ㅆ/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 삼별초는 당시 고려 정부의 군사 조직으로 , 고려 왕조가 원에 복속한 이후에도 저항을 계속했다 .
+1	삼별초는	삼별초+는	PROPN	_	14	dislocated	_	_	삼별초/nq+는/jxt
+2	당시	당시	NOUN	_	4	compound	_	_	당시/ncn
+3	고려	고려	PROPN	_	4	compound	_	_	고려/nq
+4	정부의	정부+의	NOUN	_	6	nmod	_	_	정부/ncn+의/jcm
+5	군사	군사	NOUN	_	6	compound	_	_	군사/ncn
+6	조직으로	조직+으로	ADV	_	14	advmod	_	_	조직/ncpa+으로/jca
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	고려	고려	PROPN	_	9	compound	_	_	고려/nq
+9	왕조가	왕조+가	NOUN	_	11	nsubj	_	_	왕조/ncn+가/jcs
+10	원에	원+에	ADV	_	11	obl	_	_	원/nq+에/jca
+11	복속한	복속+하+ㄴ	VERB	_	12	acl	_	_	복속/ncpa+하/xsv+ㄴ/etm
+12	이후에도	이후+에+도	ADV	_	14	advcl	_	_	이후/ncn+에/jca+도/jxc
+13	저항을	저항+을	NOUN	_	14	obj	_	_	저항/ncpa+을/jco
+14	계속했다	계속+하+었+다	VERB	_	0	root	_	_	계속/ncpa+하/xsv+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그들은 민중과 깊이 연계하여 , 고려 각지에서 민중이 반란에 호응하는 움직임이 있었다 .
+1	그들은	그+들+은	PRON	_	4	dislocated	_	_	그/npp+들/xsn+은/jxt
+2	민중과	민중+과	CCONJ	_	4	conj	_	_	민중/ncn+과/jct
+3	깊이	깊이	ADV	_	4	advmod	_	_	깊이/mag
+4	연계하여	연계+하+어	SCONJ	_	12	conj	_	_	연계/ncpa+하/xsv+어/ecs
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	고려	고려	PROPN	_	7	compound	_	_	고려/nq
+7	각지에서	각지+에서	ADV	_	12	advcl	_	_	각지/ncn+에서/jca
+8	민중이	민중+이	NOUN	_	10	nsubj	_	_	민중/ncn+이/jcs
+9	반란에	반란+에	ADV	_	10	obl	_	_	반란/ncpa+에/jca
+10	호응하는	호응+하+는	VERB	_	11	acl	_	_	호응/ncpa+하/xsv+는/etm
+11	움직임이	움직이+ㅁ+이	NOUN	_	12	nsubj	_	_	움직이/pvg+ㅁ/etn+이/jcs
+12	있었다	있+었+다	ADJ	_	0	root	_	_	있/paa+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 특히 고려는 30년 남짓 몽고군에 저항한 후 복속한 것과 아울러 , 그 후도 음으로 양으로 저항을 계속했다 .
+1	특히	특히	ADV	_	2	advmod	_	_	특히/mag
+2	고려는	고려+는	PROPN	_	17	dislocated	_	_	고려/nq+는/jxt
+3	30년	30+년	NOUN	_	4	compound	_	_	30/nno+년/nbu
+4	남짓	남짓	NOUN	_	6	advmod	_	_	남짓/nbn
+5	몽고군에	몽고군+에	ADV	_	6	obl	_	_	몽고군/ncn+에/jca
+6	저항한	저항+하+ㄴ	VERB	_	7	acl	_	_	저항/ncpa+하/xsv+ㄴ/etm
+7	후	후	NOUN	_	8	compound	_	_	후/ncn
+8	복속한	복속+하+ㄴ	VERB	_	9	acl	_	_	복속/ncpa+하/xsv+ㄴ/etm
+9	것과	것+과	CCONJ	_	10	conj	_	_	것/nbn+과/jct
+10	아울러	아우르+어	SCONJ	_	17	ccomp	_	_	아우르/pvg+어/ecs
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	그	그	DET	_	13	det	_	_	그/mmd
+13	후도	후+도	ADV	_	17	advcl	_	_	후/ncn+도/jxc
+14	음으로	음+으로	ADV	_	15	advcl	_	_	음/ncn+으로/jca
+15	양으로	양+으로	ADV	_	17	advmod	_	_	양/ncn+으로/jca
+16	저항을	저항+을	NOUN	_	17	obj	_	_	저항/ncpa+을/jco
+17	계속했다	계속+하+었+다	VERB	_	0	root	_	_	계속/ncpa+하/xsv+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 후빌라이는 일본과의 교섭이나 일본 공격에 고려를 이용했는데 , 고려의 원에 대한 저항의 지속은 일본 원정의 장애가 되었다 .
+1	후빌라이는	후빌라이+는	PROPN	_	7	dislocated	_	_	후빌라이/nq+는/jxt
+2	일본과의	일본+과+의	PROPN	_	3	nmod	_	_	일본/nq+과/jct+의/jcm
+3	교섭이나	교섭+이나	CCONJ	_	5	conj	_	_	교섭/ncpa+이나/jcj
+4	일본	일본	PROPN	_	5	compound	_	_	일본/nq
+5	공격에	공격+에	ADV	_	7	obl	_	_	공격/ncpa+에/jca
+6	고려를	고려+를	PROPN	_	7	obj	_	_	고려/nq+를/jco
+7	이용했는데	이용+하+었+는데	SCONJ	_	17	ccomp	_	_	이용/ncpa+하/xsv+었/ep+는데/ecs
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	고려의	고려+의	PROPN	_	12	nmod	_	_	고려/nq+의/jcm
+10	원에	원+에	ADV	_	11	obl	_	_	원/nq+에/jca
+11	대한	대하+ㄴ	VERB	_	12	acl	_	_	대하/pvg+ㄴ/etm
+12	저항의	저항+의	NOUN	_	13	nmod	_	_	저항/ncpa+의/jcm
+13	지속은	지속+은	NOUN	_	17	dislocated	_	_	지속/ncpa+은/jxt
+14	일본	일본	PROPN	_	15	compound	_	_	일본/nq
+15	원정의	원정+의	NOUN	_	16	nmod	_	_	원정/ncpa+의/jcm
+16	장애가	장애+가	NOUN	_	17	csubj	_	_	장애/ncn+가/jcc
+17	되었다	되+었+다	VERB	_	0	root	_	_	되/pvg+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 또 그동안의 남송 , 베트남의 원에 대한 저항의 움직임은 , 3차 내습을 단념시키는 하나의 원인으로 들 수 있을 것이다 .
+1	또	또	CCONJ	_	16	cc	_	_	또/maj
+2	그동안의	그동안+의	NOUN	_	9	nmod	_	_	그동안/ncn+의/jcm
+3	남송	남송	PROPN	_	5	conj	_	_	남송/nq
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	베트남의	베트남+의	PROPN	_	9	nmod	_	_	베트남/nq+의/jcm
+6	원에	원+에	ADV	_	7	obl	_	_	원/nq+에/jca
+7	대한	대하+ㄴ	VERB	_	8	acl	_	_	대하/pvg+ㄴ/etm
+8	저항의	저항+의	NOUN	_	9	nmod	_	_	저항/ncpa+의/jcm
+9	움직임은	움직이+ㅁ+은	NOUN	_	16	advmod	_	_	움직이/pvg+ㅁ/etn+은/jxt
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	3차	3+차	NOUN	_	12	compound	_	_	3/nno+차/nbu
+12	내습을	내습+을	NOUN	_	13	obj	_	_	내습/ncn+을/jco
+13	단념시키는	단념+시키+는	VERB	_	15	acl	_	_	단념/ncpa+시키/xsv+는/etm
+14	하나의	하나+의	NUM	_	15	nmod	_	_	하나/nnc+의/jcm
+15	원인으로	원인+으로	ADV	_	16	advcl	_	_	원인/ncn+으로/jca
+16	들	들+ㄹ	VERB	_	0	root	_	_	들/pvg+ㄹ/etm
+17	수	수	NOUN	_	18	fixed	_	_	수/nbn
+18	있을	있+ㄹ	ADJ	_	16	aux	_	_	있/paa+ㄹ/etm
+19	것이다	것+이+다	VERB	_	16	aux	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 조선에서는 고려 왕조의 복속 ( 1259년 ) 이후에도 , 삼별초와 민중이 연합하여 , 1273년까지 강력한 저항을 계속했다 .
+1	조선에서는	조선+에서+는	PROPN	_	17	dislocated	_	_	조선/nq+에서/jca+는/jxt
+2	고려	고려	PROPN	_	3	compound	_	_	고려/nq
+3	왕조의	왕조+의	NOUN	_	4	nmod	_	_	왕조/ncn+의/jcm
+4	복속	복속	NOUN	_	8	compound	_	_	복속/ncpa
+5	(	(	PUNCT	_	6	punct	_	_	(/sl
+6	1259년	1259+년	NOUN	_	4	appos	_	_	1259/nno+년/nbu
+7	)	)	PUNCT	_	6	punct	_	_	)/sr
+8	이후에도	이후+에+도	ADV	_	17	advmod	_	_	이후/ncn+에/jca+도/jxc
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	삼별초와	삼별초+와	CCONJ	_	11	conj	_	_	삼별초/nq+와/jcj
+11	민중이	민중+이	NOUN	_	12	nsubj	_	_	민중/ncn+이/jcs
+12	연합하여	연합+하+어	SCONJ	_	17	ccomp	_	_	연합/ncpa+하/xsv+어/ecs
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	1273년까지	1273+년+까지	ADV	_	17	advcl	_	_	1273/nno+년/nbu+까지/jxc
+15	강력한	강력+하+ㄴ	VERB	_	16	amod	_	_	강력/ncps+하/xsm+ㄴ/etm
+16	저항을	저항+을	NOUN	_	17	obj	_	_	저항/ncpa+을/jco
+17	계속했다	계속+하+었+다	VERB	_	0	root	_	_	계속/ncpa+하/xsv+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 삼별초는 고려 왕조하의 치안 경찰 부대로 1232년에 고려 왕조가 강화도로 천도한 이래 , 몽고군과 항전하는 주력이 되었다 .
+1	삼별초는	삼별초+는	PROPN	_	17	dislocated	_	_	삼별초/nq+는/jxt
+2	고려	고려	PROPN	_	3	compound	_	_	고려/nq
+3	왕조하의	왕조+하+의	NOUN	_	6	nmod	_	_	왕조/ncn+하/ncn+의/jcm
+4	치안	치안	NOUN	_	5	compound	_	_	치안/ncn
+5	경찰	경찰	NOUN	_	6	compound	_	_	경찰/ncn
+6	부대로	부대+로	ADV	_	17	advcl	_	_	부대/ncn+로/jca
+7	1232년에	1232+년+에	ADV	_	11	obl	_	_	1232/nno+년/nbu+에/jca
+8	고려	고려	PROPN	_	9	compound	_	_	고려/nq
+9	왕조가	왕조+가	NOUN	_	11	nsubj	_	_	왕조/ncn+가/jcs
+10	강화도로	강화도+로	ADV	_	11	advcl	_	_	강화도/nq+로/jca
+11	천도한	천도+하+ㄴ	VERB	_	12	acl	_	_	천도/ncpa+하/xsv+ㄴ/etm
+12	이래	이래	NOUN	_	17	advmod	_	_	이래/ncn
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	몽고군과	몽고군+과	CCONJ	_	15	conj	_	_	몽고군/ncn+과/jct
+15	항전하는	항전+하+는	VERB	_	16	acl	_	_	항전/ncpa+하/xsv+는/etm
+16	주력이	주력+이	NOUN	_	17	csubj	_	_	주력/ncpa+이/jcc
+17	되었다	되+었+다	VERB	_	0	root	_	_	되/pvg+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 사실 우리 국사 교과서에서는 삼별초에 관해 다음에 게재한 두 장의 사진과 단 67자로만 매우 초라하게 기술하고 있다 .
+1	사실	사실	NOUN	_	16	advmod	_	_	사실/ncn
+2	우리	우리	PRON	_	4	compound	_	_	우리/npp
+3	국사	국사	NOUN	_	4	compound	_	_	국사/ncn
+4	교과서에서는	교과서+에서+는	NOUN	_	16	dislocated	_	_	교과서/ncn+에서/jca+는/jxt
+5	삼별초에	삼별초+에	ADV	_	6	obl	_	_	삼별초/nq+에/jca
+6	관해	관하+어	SCONJ	_	16	ccomp	_	_	관하/pvg+어/ecs
+7	다음에	다음+에	ADV	_	8	obl	_	_	다음/ncn+에/jca
+8	게재한	게재+하+ㄴ	VERB	_	11	acl	_	_	게재/ncpa+하/xsv+ㄴ/etm
+9	두	두	NUM	_	10	nummod	_	_	두/nnc
+10	장의	장+의	NOUN	_	11	nmod	_	_	장/nbu+의/jcm
+11	사진과	사진+과	CCONJ	_	13	conj	_	_	사진/ncn+과/jcj
+12	단	단	ADJ	_	13	amod	_	_	단/mma
+13	67자로만	67+자+로+만	ADV	_	16	advcl	_	_	67/nnc+자/nbu+로/jca+만/jxc
+14	매우	매우	ADV	_	15	advmod	_	_	매우/mag
+15	초라하게	초라+하+게	SCONJ	_	16	xcomp	_	_	초라/ncps+하/xsm+게/ecs
+16	기술하고	기술+하+고	VERB	_	0	root	_	_	기술/ncpa+하/xsv+고/ecx
+17	있다	있+다	AUX	_	16	aux	_	_	있/px+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 단지 이것만으로 , 외세에 맞서 국가를 지키려 한 숭고한 민중 의지의 표상으로서 삼별초의 의의를 우리 2세들에게 가르칠 수 있겠는가 ?
+1	단지	단지	ADV	_	2	advmod	_	_	단지/mag
+2	이것만으로	이것+만+으로	ADV	_	17	advmod	_	_	이것/npd+만/jxc+으로/jca
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	외세에	외세+에	ADV	_	5	obl	_	_	외세/ncn+에/jca
+5	맞서	맞서+어	SCONJ	_	7	ccomp	_	_	맞서/pvg+어/ecs
+6	국가를	국가+를	NOUN	_	7	obj	_	_	국가/ncn+를/jco
+7	지키려	지키+려	VERB	_	12	acl	_	_	지키/pvg+려/ecx
+8	한	하+ㄴ	AUX	_	7	aux	_	_	하/px+ㄴ/etm
+9	숭고한	숭고+하+ㄴ	VERB	_	12	amod	_	_	숭고/ncps+하/xsm+ㄴ/etm
+10	민중	민중	NOUN	_	11	compound	_	_	민중/ncn
+11	의지의	의지+의	NOUN	_	12	nmod	_	_	의지/ncn+의/jcm
+12	표상으로서	표상+으로서	ADV	_	14	advcl	_	_	표상/ncpa+으로서/jca
+13	삼별초의	삼별초+의	PROPN	_	14	nmod	_	_	삼별초/nq+의/jcm
+14	의의를	의의+를	NOUN	_	17	obj	_	_	의의/ncn+를/jco
+15	우리	우리	PRON	_	16	compound	_	_	우리/npp
+16	2세들에게	2+세+들+에게	ADV	_	17	iobj	_	_	2/nno+세/nbu+들/xsn+에게/jca
+17	가르칠	가르치+ㄹ	VERB	_	0	root	_	_	가르치/pvg+ㄹ/etm
+18	수	수	NOUN	_	19	fixed	_	_	수/nbn
+19	있겠는가	있+겠+는가	ADJ	_	17	aux	_	_	있/paa+겠/ep+는가/ef
+20	?	?	PUNCT	_	19	punct	_	_	?/sf
+
+# 삼별초에 대해 회고할 때 , 우리는 그 출발이 최씨 정권의 사병이었다는 사실에 많은 제약을 갖는 것 같다 .
+1	삼별초에	삼별초+에	ADV	_	2	obl	_	_	삼별초/nq+에/jca
+2	대해	대하+어	SCONJ	_	3	ccomp	_	_	대하/pvg+어/ecs
+3	회고할	회고+하+ㄹ	VERB	_	4	acl	_	_	회고/ncpa+하/xsv+ㄹ/etm
+4	때	때	NOUN	_	15	advmod	_	_	때/nbn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	우리는	우리+는	PRON	_	15	dislocated	_	_	우리/npp+는/jxt
+7	그	그	DET	_	8	det	_	_	그/mmd
+8	출발이	출발+이	NOUN	_	11	nsubj	_	_	출발/ncpa+이/jcs
+9	최씨	최+씨	NOUN	_	10	advmod	_	_	최/nq+씨/xsn
+10	정권의	정권+의	NOUN	_	11	nmod	_	_	정권/ncn+의/jcm
+11	사병이었다는	사병+이+었+다는	VERB	_	12	acl	_	_	사병/ncn+이/jp+었/ep+다는/etm
+12	사실에	사실+에	ADV	_	15	obl	_	_	사실/ncn+에/jca
+13	많은	많+ㄴ	ADJ	_	14	amod	_	_	많/paa+ㄴ/etm
+14	제약을	제약+을	NOUN	_	15	obj	_	_	제약/ncpa+을/jco
+15	갖는	갖+는	VERB	_	0	root	_	_	갖/pvg+는/etm
+16	것	것	NOUN	_	17	fixed	_	_	것/nbn
+17	같다	같+다	ADJ	_	15	aux	_	_	같/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 실제로 삼별초는 도방과 더불어 최씨 무신 정권의 군사적 지주 역할을 하였다 .
+1	실제로	실제로	ADV	_	11	advmod	_	_	실제로/mag
+2	삼별초는	삼별초+는	PROPN	_	11	dislocated	_	_	삼별초/nq+는/jxt
+3	도방과	도방+과	CCONJ	_	4	conj	_	_	도방/ncn+과/jct
+4	더불어	더불+어	SCONJ	_	11	ccomp	_	_	더불/pvg+어/ecs
+5	최씨	최+씨	NOUN	_	7	advmod	_	_	최/nq+씨/xsn
+6	무신	무신	NOUN	_	7	compound	_	_	무신/ncn
+7	정권의	정권+의	NOUN	_	9	nmod	_	_	정권/ncn+의/jcm
+8	군사적	군사+적	NOUN	_	9	amod	_	_	군사/ncn+적/xsn
+9	지주	지주	NOUN	_	10	compound	_	_	지주/ncn
+10	역할을	역할+을	NOUN	_	11	obj	_	_	역할/ncpa+을/jco
+11	하였다	하+었+다	VERB	_	0	root	_	_	하/pvg+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러나 몽고의 침범에 대응해 싸운 배중손을 비롯한 삼별초의 항몽 투쟁은 실로 대단한 것이었다 .
+1	그러나	그러나	CCONJ	_	12	cc	_	_	그러나/maj
+2	몽고의	몽고+의	PROPN	_	3	nmod	_	_	몽고/nq+의/jcm
+3	침범에	침범+에	ADV	_	4	obl	_	_	침범/ncpa+에/jca
+4	대응해	대응+하+어	SCONJ	_	5	ccomp	_	_	대응/ncpa+하/xsv+어/ecs
+5	싸운	싸우+ㄴ	VERB	_	10	acl	_	_	싸우/pvg+ㄴ/etm
+6	배중손을	배중손+을	PROPN	_	7	obj	_	_	배중손/nq+을/jco
+7	비롯한	비롯+하+ㄴ	VERB	_	8	acl	_	_	비롯/ncpa+하/xsv+ㄴ/etm
+8	삼별초의	삼별초+의	PROPN	_	10	nmod	_	_	삼별초/nq+의/jcm
+9	항몽	항몽	NOUN	_	10	compound	_	_	항몽/ncn
+10	투쟁은	투쟁+은	NOUN	_	12	dislocated	_	_	투쟁/ncpa+은/jxt
+11	실로	실로	ADV	_	12	advmod	_	_	실로/mag
+12	대단한	대단+하+ㄴ	VERB	_	0	root	_	_	대단/ncps+하/xsm+ㄴ/etm
+13	것이었다	것+이+었+다	VERB	_	12	aux	_	_	것/nbn+이/jp+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 물론 역사를 이해하면서 그 원류를 살피는 일은 지극히 당연한 일일 것이다 .
+1	물론	물론	ADV	_	10	advmod	_	_	물론/mag
+2	역사를	역사+를	NOUN	_	3	obj	_	_	역사/ncn+를/jco
+3	이해하면서	이해+하+면서	CCONJ	_	6	conj	_	_	이해/ncpa+하/xsv+면서/ecc
+4	그	그	DET	_	5	det	_	_	그/mmd
+5	원류를	원류+를	NOUN	_	6	obj	_	_	원류/ncn+를/jco
+6	살피는	살피+는	VERB	_	7	acl	_	_	살피/pvg+는/etm
+7	일은	일+은	NOUN	_	10	dislocated	_	_	일/ncn+은/jxt
+8	지극히	지극+히	ADV	_	9	advmod	_	_	지극/ncps+히/xsa
+9	당연한	당연+하+ㄴ	VERB	_	10	amod	_	_	당연/ncps+하/xsm+ㄴ/etm
+10	일일	일+이+ㄹ	VERB	_	0	root	_	_	일/ncn+이/jp+ㄹ/etm
+11	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러나 그 출발 동기의 불순함에 묶여 역사를 통해 보여준 긍정적 활동상마저 외면해서야 되겠는가 ?
+1	그러나	그러나	CCONJ	_	13	cc	_	_	그러나/maj
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	출발	출발	NOUN	_	4	compound	_	_	출발/ncpa
+4	동기의	동기+의	NOUN	_	5	nmod	_	_	동기/ncn+의/jcm
+5	불순함에	불순+하+ㅁ+에	ADV	_	6	obl	_	_	불순/ncps+하/xsm+ㅁ/etn+에/jca
+6	묶여	묶이+어	SCONJ	_	9	ccomp	_	_	묶이/pvg+어/ecs
+7	역사를	역사+를	NOUN	_	8	obj	_	_	역사/ncn+를/jco
+8	통해	통+하+어	SCONJ	_	9	ccomp	_	_	통/ncpa+하/xsv+어/ecs
+9	보여준	보이+어+주+ㄴ	AUX	_	11	acl	_	_	보이/pvg+어/ecx+주/px+ㄴ/etm
+10	긍정적	긍정+적	NOUN	_	11	amod	_	_	긍정/ncpa+적/xsn
+11	활동상마저	활동상+마저	ADV	_	12	advcl	_	_	활동상/ncn+마저/jxc
+12	외면해서야	외면+하+어서야	SCONJ	_	13	ccomp	_	_	외면/ncpa+하/xsv+어서야/ecs
+13	되겠는가	되+겠+는가	VERB	_	0	root	_	_	되/pvg+겠/ep+는가/ef
+14	?	?	PUNCT	_	13	punct	_	_	?/sf
+
+# 아울러 역사 속에 묻혀 있는 숭고한 민족혼을 찾아내어 국가 민족의 자긍심을 찾는 작업도 병행해야 할 것이다 .
+1	아울러	아울러	ADV	_	8	advmod	_	_	아울러/mag
+2	역사	역사	NOUN	_	3	compound	_	_	역사/ncn
+3	속에	속+에	ADV	_	4	obl	_	_	속/ncn+에/jca
+4	묻혀	묻히+어	VERB	_	7	acl	_	_	묻히/pvg+어/ecx
+5	있는	있+는	AUX	_	4	aux	_	_	있/px+는/etm
+6	숭고한	숭고+하+ㄴ	VERB	_	7	amod	_	_	숭고/ncps+하/xsm+ㄴ/etm
+7	민족혼을	민족혼+을	NOUN	_	8	obj	_	_	민족혼/ncn+을/jco
+8	찾아내어	찾+아+내+어	SCONJ	_	12	ccomp	_	_	찾/pvg+아/ecx+내/px+어/ecs
+9	국가	국가	NOUN	_	10	compound	_	_	국가/ncn
+10	민족의	민족+의	NOUN	_	11	nmod	_	_	민족/ncn+의/jcm
+11	자긍심을	자긍심+을	NOUN	_	12	obj	_	_	자긍심/ncn+을/jco
+12	찾는	찾+는	VERB	_	13	acl	_	_	찾/pvg+는/etm
+13	작업도	작업+도	ADV	_	14	advcl	_	_	작업/ncpa+도/jxc
+14	병행해야	병행+하+어야	VERB	_	0	root	_	_	병행/ncpa+하/xsv+어야/ecx
+15	할	하+ㄹ	AUX	_	14	aux	_	_	하/px+ㄹ/etm
+16	것이다	것+이+다	VERB	_	14	aux	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+

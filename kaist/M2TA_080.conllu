@@ -1,0 +1,156 @@
+# 성적금기를 통해서 역사적으로 가족의 형태가 어떻게 변화되어 왔는가를 고찰한 모간을 선두로 사회진화론과 가족을 연계시켜보도록 하자 .
+1	성적금기를	성적금기+를	NOUN	_	2	obj	_	_	성적금기/ncn+를/jco
+2	통해서	통하+어서	SCONJ	_	7	conj	_	_	통하/pvg+어서/ecs
+3	역사적으로	역사+적+으로	ADV	_	7	advcl	_	_	역사/ncn+적/xsn+으로/jca
+4	가족의	가족+의	NOUN	_	5	nmod	_	_	가족/ncn+의/jcm
+5	형태가	형태+가	NOUN	_	7	nsubj	_	_	형태/ncn+가/jcs
+6	어떻게	어떻+게	SCONJ	_	7	xcomp	_	_	어떻/pad+게/ecs
+7	변화되어	변화+되+어	VERB	_	9	obj	_	_	변화/ncpa+되/xsv+어/ecx
+8	왔는가를	오+았+는가+를	NOUN	_	7	aux	_	_	오/px+았/ep+는가/ef+를/jco
+9	고찰한	고찰+하+ㄴ	VERB	_	10	acl	_	_	고찰/ncpa+하/xsv+ㄴ/etm
+10	모간을	모간+을	PROPN	_	11	obj	_	_	모간/nq+을/jco
+11	선두로	선두+로	ADV	_	15	advcl	_	_	선두/ncn+로/jca
+12	사회진화론과	사회진화론+과	CCONJ	_	13	conj	_	_	사회진화론/ncn+과/jcj
+13	가족을	가족+을	NOUN	_	14	obj	_	_	가족/ncn+을/jco
+14	연계시켜보도록	연계+시키+어+보+도록	SCONJ	_	15	ccomp	_	_	연계/ncpa+시키/xsv+어/ecx+보/px+도록/ecs
+15	하자	하+자	VERB	_	0	root	_	_	하/pvg+자/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이들 처도 반드시 혈족은 아니었지만 , 두 경우 모두 종종 혈족인 때도 있었다 .
+1	이들	이+들	NOUN	_	2	compound	_	_	이/npp+들/xsn
+2	처도	처+도	ADV	_	5	advcl	_	_	처/ncn+도/jxc
+3	반드시	반드시	ADV	_	5	advmod	_	_	반드시/mag
+4	혈족은	혈족+은	NOUN	_	5	dislocated	_	_	혈족/ncn+은/jxt
+5	아니었지만	아니+었+지만	SCONJ	_	13	xcomp	_	_	아니/paa+었/ep+지만/ecs
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	두	두	NUM	_	8	nummod	_	_	두/nnc
+8	경우	경우	NOUN	_	11	advmod	_	_	경우/ncn
+9	모두	모두	ADV	_	11	advmod	_	_	모두/mag
+10	종종	종종	ADV	_	11	advmod	_	_	종종/mag
+11	혈족인	혈족+이+ㄴ	VERB	_	12	acl	_	_	혈족/ncn+이/jp+ㄴ/etm
+12	때도	때+도	ADV	_	13	advcl	_	_	때/ncn+도/jxc
+13	있었다	있+었+다	ADJ	_	0	root	_	_	있/paa+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 어느 경우에나 남성의 집단이 결합하여 여성의 집단과 혼인하였다 .
+1	어느	어느	DET	_	2	det	_	_	어느/mmd
+2	경우에나	경우+에+나	ADV	_	8	advcl	_	_	경우/ncn+에/jca+나/jxc
+3	남성의	남성+의	NOUN	_	4	nmod	_	_	남성/ncn+의/jcm
+4	집단이	집단+이	NOUN	_	5	nsubj	_	_	집단/ncn+이/jcs
+5	결합하여	결합+하+어	SCONJ	_	8	ccomp	_	_	결합/ncpa+하/xsv+어/ecs
+6	여성의	여성+의	NOUN	_	7	nmod	_	_	여성/ncn+의/jcm
+7	집단과	집단+과	CCONJ	_	8	conj	_	_	집단/ncn+과/jct
+8	혼인하였다	혼인+하+었+다	VERB	_	0	root	_	_	혼인/ncpa+하/xsv+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 야만 시대에는 혈연과 푸날루아 가족이 , 미개 시대에는 대우혼 가족이 특징적인 가족 형태였다 .
+1	야만	야만	NOUN	_	2	compound	_	_	야만/ncn
+2	시대에는	시대+에+는	NOUN	_	5	dislocated	_	_	시대/ncn+에/jca+는/jxt
+3	혈연과	혈연+과	CCONJ	_	5	conj	_	_	혈연/ncn+과/jcj
+4	푸날루아	푸날루아	NOUN	_	5	compound	_	_	푸날루아/ncn
+5	가족이	가족+이	NOUN	_	10	dep	_	_	가족/ncn+이/jcs
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	미개	미개	NOUN	_	8	compound	_	_	미개/ncn
+8	시대에는	시대+에+는	NOUN	_	10	dislocated	_	_	시대/ncn+에/jca+는/jxt
+9	대우혼	대우혼	NOUN	_	10	compound	_	_	대우혼/ncn
+10	가족이	가족+이	NOUN	_	13	nsubj	_	_	가족/ncn+이/jcs
+11	특징적인	특징+적+이+ㄴ	VERB	_	13	ccomp	_	_	특징/ncn+적/xsn+이/jp+ㄴ/etm
+12	가족	가족	NOUN	_	13	compound	_	_	가족/ncn
+13	형태였다	형태+이+었+다	VERB	_	0	root	_	_	형태/ncn+이/jp+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 가령 , 여성은 함께 생활하는 남성에게는 남성의 반려자였고 , 음식을 준비하는 사람이었으며 , 자녀의 어머니였다 .
+1	가령	가령	ADV	_	15	advmod	_	_	가령/mag
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	여성은	여성+은	NOUN	_	15	dislocated	_	_	여성/ncn+은/jxt
+4	함께	함께	ADV	_	5	advmod	_	_	함께/mag
+5	생활하는	생활+하+는	VERB	_	6	acl	_	_	생활/ncpa+하/xsv+는/etm
+6	남성에게는	남성+에게+는	NOUN	_	15	dislocated	_	_	남성/ncn+에게/jca+는/jxt
+7	남성의	남성+의	NOUN	_	8	nmod	_	_	남성/ncn+의/jcm
+8	반려자였고	반려자+이+었+고	CCONJ	_	12	conj	_	_	반려자/ncn+이/jp+었/ep+고/ecc
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	음식을	음식+을	NOUN	_	11	obj	_	_	음식/ncn+을/jco
+11	준비하는	준비+하+는	VERB	_	12	ccomp	_	_	준비/ncpa+하/xsv+는/etm
+12	사람이었으며	사람+이+었+으며	CCONJ	_	15	conj	_	_	사람/ncn+이/jp+었/ep+으며/ecc
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	자녀의	자녀+의	NOUN	_	15	nmod	_	_	자녀/ncn+의/jcm
+15	어머니였다	어머니+이+었+다	VERB	_	0	root	_	_	어머니/ncn+이/jp+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 정도의 차이는 있었으나 그리스 종족에서도 동일한 특징이 있었다 .
+1	정도의	정도+의	NOUN	_	2	nmod	_	_	정도/ncn+의/jcm
+2	차이는	차이+는	NOUN	_	3	dislocated	_	_	차이/ncn+는/jxt
+3	있었으나	있+었+으나	SCONJ	_	8	xcomp	_	_	있/paa+었/ep+으나/ecs
+4	그리스	그리스	PROPN	_	5	compound	_	_	그리스/nq
+5	종족에서도	종족+에서+도	ADV	_	8	advcl	_	_	종족/ncn+에서/jca+도/jxc
+6	동일한	동일+하+ㄴ	VERB	_	7	amod	_	_	동일/ncps+하/xsm+ㄴ/etm
+7	특징이	특징+이	NOUN	_	8	nsubj	_	_	특징/ncn+이/jcs
+8	있었다	있+었+다	ADJ	_	0	root	_	_	있/paa+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그리하여 여성의 권한은 점차로 줄어들고 남성이 가정에서 지배권을 행사하게 되었다 .
+1	그리하여	그리하여	CCONJ	_	9	cc	_	_	그리하여/maj
+2	여성의	여성+의	NOUN	_	3	nmod	_	_	여성/ncn+의/jcm
+3	권한은	권한+은	NOUN	_	5	dislocated	_	_	권한/ncn+은/jxt
+4	점차로	점차로	ADV	_	5	advmod	_	_	점차로/mag
+5	줄어들고	줄어들+고	CCONJ	_	9	conj	_	_	줄어들/pvg+고/ecc
+6	남성이	남성+이	NOUN	_	9	nsubj	_	_	남성/ncn+이/jcs
+7	가정에서	가정+에서	ADV	_	9	advcl	_	_	가정/ncn+에서/jca
+8	지배권을	지배권+을	NOUN	_	9	obj	_	_	지배권/ncn+을/jco
+9	행사하게	행사+하+게	VERB	_	0	root	_	_	행사/ncpa+하/xsv+게/ecx
+10	되었다	되+었+다	AUX	_	9	aux	_	_	되/px+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 막스의 사후에도 그 원고를 출간하며 막스주의의 과학적 경제적 결정론을 주도하였다 .
+1	막스의	막스+의	NOUN	_	2	nmod	_	_	막스/ncn+의/jcm
+2	사후에도	사후+에+도	ADV	_	10	advcl	_	_	사후/ncn+에/jca+도/jxc
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	원고를	원고+를	NOUN	_	5	obj	_	_	원고/ncn+를/jco
+5	출간하며	출간+하+며	SCONJ	_	10	ccomp	_	_	출간/ncpa+하/xsv+며/ecs
+6	막스주의의	막스주의+의	NOUN	_	9	nmod	_	_	막스주의/ncn+의/jcm
+7	과학적	과학+적	NOUN	_	8	dep	_	_	과학/ncn+적/xsn
+8	경제적	경제+적	NOUN	_	9	amod	_	_	경제/ncn+적/xsn
+9	결정론을	결정론+을	NOUN	_	10	obj	_	_	결정론/ncn+을/jco
+10	주도하였다	주도+하+었+다	VERB	_	0	root	_	_	주도/ncpa+하/xsv+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 르쁠레는 가족유형을 다음과 같이 세 가지로 분류하였다 .
+1	르쁠레는	르쁠레+는	PROPN	_	7	dislocated	_	_	르쁠레/nq+는/jxt
+2	가족유형을	가족+유형+을	NOUN	_	7	obj	_	_	가족/ncn+유형/ncn+을/jco
+3	다음과	다음+과	CCONJ	_	4	conj	_	_	다음/ncn+과/jct
+4	같이	같+이	SCONJ	_	7	xcomp	_	_	같/paa+이/ecs
+5	세	세	NUM	_	6	nummod	_	_	세/nnc
+6	가지로	가지+로	ADV	_	7	advcl	_	_	가지/nbu+로/jca
+7	분류하였다	분류+하+었+다	VERB	_	0	root	_	_	분류/ncpa+하/xsv+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이 직계가족에는 가부장제 가족에서 보여지는 권위주의는 없지만 여전히 전통적인 것을 강조하는 면이 있다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	직계가족에는	직계+가족+에+는	NOUN	_	13	dislocated	_	_	직계/ncn+가족/ncn+에/jca+는/jxt
+3	가부장제	가부장제	NOUN	_	4	compound	_	_	가부장제/ncn
+4	가족에서	가족+에서	ADV	_	5	advcl	_	_	가족/ncn+에서/jca
+5	보여지는	보이+어+지+는	AUX	_	6	acl	_	_	보이/pvg+어/ecx+지/px+는/etm
+6	권위주의는	권위주의+는	NOUN	_	7	dislocated	_	_	권위주의/ncn+는/jxt
+7	없지만	없+지만	SCONJ	_	13	xcomp	_	_	없/paa+지만/ecs
+8	여전히	여전히	ADV	_	11	advmod	_	_	여전히/mag
+9	전통적인	전통+적+이+ㄴ	VERB	_	10	acl	_	_	전통/ncn+적/xsn+이/jp+ㄴ/etm
+10	것을	것+을	NOUN	_	11	obj	_	_	것/nbn+을/jco
+11	강조하는	강조+하+는	VERB	_	12	acl	_	_	강조/ncpa+하/xsv+는/etm
+12	면이	면+이	NOUN	_	13	nsubj	_	_	면/ncn+이/jcs
+13	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 르쁠레는 직계가족을 가계를 중시하면서도 개인의 자유를 보장한다는 점에서 이상적인 것으로 보았다 .
+1	르쁠레는	르쁠레+는	PROPN	_	11	dislocated	_	_	르쁠레/nq+는/jxt
+2	직계가족을	직계+가족+을	NOUN	_	11	obj	_	_	직계/ncn+가족/ncn+을/jco
+3	가계를	가계+를	NOUN	_	4	obj	_	_	가계/ncn+를/jco
+4	중시하면서도	중시+하+면서+도	ADV	_	7	ccomp	_	_	중시/ncpa+하/xsv+면서/ecs+도/jxc
+5	개인의	개인+의	NOUN	_	6	nmod	_	_	개인/ncn+의/jcm
+6	자유를	자유+를	NOUN	_	7	obj	_	_	자유/ncn+를/jco
+7	보장한다는	보장+하+ㄴ다는	VERB	_	8	acl	_	_	보장/ncpa+하/xsv+ㄴ다는/etm
+8	점에서	점+에서	ADV	_	9	advcl	_	_	점/ncn+에서/jca
+9	이상적인	이상+적+이+ㄴ	VERB	_	10	acl	_	_	이상/ncps+적/xsn+이/jp+ㄴ/etm
+10	것으로	것+으로	ADV	_	11	advcl	_	_	것/nbn+으로/jca
+11	보았다	보+았+다	VERB	_	0	root	_	_	보/pvg+았/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+

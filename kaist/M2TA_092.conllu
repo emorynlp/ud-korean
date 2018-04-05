@@ -1,0 +1,943 @@
+# 나는 곧바로 교무과장에게 불려갔다 .
+1	나는	나+는	PRON	_	4	dislocated	_	_	나/npp+는/jxt
+2	곧바로	곧바로	ADV	_	4	advmod	_	_	곧바로/mag
+3	교무과장에게	교무과장+에게	ADV	_	4	iobj	_	_	교무과장/ncn+에게/jca
+4	불려갔다	불리+어+가+ㅆ+다	AUX	_	0	root	_	_	불리/pvg+어/ecx+가/px+ㅆ/ep+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 충격은 서서히 기쁨으로 인하여 가슴에 차올라 오고 있다 .
+1	충격은	충격+은	NOUN	_	6	dislocated	_	_	충격/ncn+은/jxt
+2	서서히	서서히	ADV	_	6	advmod	_	_	서서히/mag
+3	기쁨으로	기쁨+으로	ADV	_	4	advcl	_	_	기쁨/ncn+으로/jca
+4	인하여	인하+어	SCONJ	_	6	ccomp	_	_	인하/pvg+어/ecs
+5	가슴에	가슴+에	ADV	_	6	obl	_	_	가슴/ncn+에/jca
+6	차올라	차오르+아	VERB	_	0	root	_	_	차오르/pvg+아/ecx
+7	오고	오+고	AUX	_	6	aux	_	_	오/px+고/ecx
+8	있다	있+다	AUX	_	6	aux	_	_	있/px+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 순간 정신을 차렸다 .
+1	순간	순간	NOUN	_	3	advmod	_	_	순간/ncn
+2	정신을	정신+을	NOUN	_	3	obj	_	_	정신/ncn+을/jco
+3	차렸다	차리+었+다	VERB	_	0	root	_	_	차리/pvg+었/ep+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 저들이 진실로 무슨 이유로 나를 내보내려는지는 알 수 없지만 마치 큰 은혜나 베푸는 것처럼 말하고 있지 않은가 .
+1	저들이	저+들+이	PRON	_	6	nsubj	_	_	저/npp+들/xsn+이/jcs
+2	진실로	진실로	ADV	_	6	advmod	_	_	진실로/mag
+3	무슨	무슨	DET	_	4	det	_	_	무슨/mmd
+4	이유로	이유+로	ADV	_	6	advcl	_	_	이유/ncn+로/jca
+5	나를	나+를	PRON	_	6	obj	_	_	나/npp+를/jco
+6	내보내려는지는	내보내+려는지+는	NOUN	_	7	ccomp	_	_	내보내/pvg+려는지/ecs+는/jxt
+7	알	알+ㄹ	VERB	_	15	ccomp	_	_	알/pvg+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	없지만	없+지만	SCONJ	_	7	aux	_	_	없/paa+지만/ecs
+10	마치	마치	ADV	_	13	advmod	_	_	마치/mag
+11	큰	크+ㄴ	ADJ	_	12	amod	_	_	크/paa+ㄴ/etm
+12	은혜나	은혜+나	ADV	_	13	advcl	_	_	은혜/ncn+나/jxc
+13	베푸는	베풀+는	VERB	_	14	acl	_	_	베풀/pvg+는/etm
+14	것처럼	것+처럼	ADV	_	15	advcl	_	_	것/nbn+처럼/jca
+15	말하고	말하+고	VERB	_	0	root	_	_	말하/pvg+고/ecx
+16	있지	있+지	AUX	_	15	aux	_	_	있/px+지/ecx
+17	않은가	않+ㄴ가	AUX	_	15	aux	_	_	않/px+ㄴ가/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 거기에 감지덕지하면서 나갈 수는 없다 .
+1	거기에	거기+에	ADV	_	2	obl	_	_	거기/npd+에/jca
+2	감지덕지하면서	감지덕지+하+면서	SCONJ	_	3	ccomp	_	_	감지덕지/ncpa+하/xsv+면서/ecs
+3	나갈	나가+ㄹ	VERB	_	0	root	_	_	나가/pvg+ㄹ/etm
+4	수는	수+는	NOUN	_	5	fixed	_	_	수/nbn+는/jxt
+5	없다	없+다	ADJ	_	3	aux	_	_	없/paa+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 나는 못 나가오 .
+1	나는	나+는	PRON	_	3	dislocated	_	_	나/npp+는/jxt
+2	못	못	ADV	_	3	advmod	_	_	못/mag
+3	나가오	나가+오	VERB	_	0	root	_	_	나가/pvg+오/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 따라 나가 그들이 가져온 차에 탔다 .
+1	따라	따르+아	SCONJ	_	2	ccomp	_	_	따르/pvg+아/ecs
+2	나가	나가+아	SCONJ	_	6	ccomp	_	_	나가/pvg+아/ecs
+3	그들이	그+들+이	PRON	_	4	nsubj	_	_	그/npp+들/xsn+이/jcs
+4	가져온	가져오+ㄴ	VERB	_	5	acl	_	_	가져오/pvg+ㄴ/etm
+5	차에	차+에	ADV	_	6	obl	_	_	차/ncn+에/jca
+6	탔다	타+ㅆ+다	VERB	_	0	root	_	_	타/pvg+ㅆ/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 시동을 건 자동차가 움직인다 했더니 어느새 감옥문을 빠져나왔다 .
+1	시동을	시동+을	NOUN	_	2	obj	_	_	시동/ncn+을/jco
+2	건	걸+ㄴ	VERB	_	3	acl	_	_	걸/pvg+ㄴ/etm
+3	자동차가	자동차+가	NOUN	_	4	nsubj	_	_	자동차/ncn+가/jcs
+4	움직인다	움직이+ㄴ다	SCONJ	_	5	ccomp	_	_	움직이/pvg+ㄴ다/ecs
+5	했더니	하+었+더니	SCONJ	_	8	ccomp	_	_	하/pvg+었/ep+더니/ecs
+6	어느새	어느새	ADV	_	8	advmod	_	_	어느새/mag
+7	감옥문을	감옥문+을	NOUN	_	8	obj	_	_	감옥문/ncn+을/jco
+8	빠져나왔다	빠져나오+았+다	VERB	_	0	root	_	_	빠져나오/pvg+았/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 담 밖으로 나온 것이 대체 얼마 만이던가 .
+1	담	담	NOUN	_	2	compound	_	_	담/ncn
+2	밖으로	밖+으로	ADV	_	3	advcl	_	_	밖/ncn+으로/jca
+3	나온	나오+ㄴ	VERB	_	4	acl	_	_	나오/pvg+ㄴ/etm
+4	것이	것+이	NOUN	_	7	nsubj	_	_	것/nbn+이/jcs
+5	대체	대체	ADV	_	7	advmod	_	_	대체/mag
+6	얼마	얼마	PRON	_	7	compound	_	_	얼마/npd
+7	만이던가	만+이+더+ㄴ가	VERB	_	0	root	_	_	만/nbn+이/jp+더/ep+ㄴ가/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 형사들은 친절하게 대해주었다 .
+1	형사들은	형사+들+은	NOUN	_	3	dislocated	_	_	형사/ncn+들/xsn+은/jxt
+2	친절하게	친절+하+게	SCONJ	_	3	xcomp	_	_	친절/ncps+하/xsm+게/ecs
+3	대해주었다	대하+어+주+었+다	AUX	_	0	root	_	_	대하/pvg+어/ecx+주/px+었/ep+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 감방에서는 햇빛을 보기가 어려웠던 터라 차창으로 비치는 햇살이 눈부셔 눈을 뜨기가 힘들었다 .
+1	감방에서는	감방+에서+는	NOUN	_	4	dislocated	_	_	감방/ncn+에서/jca+는/jxt
+2	햇빛을	햇빛+을	NOUN	_	3	obj	_	_	햇빛/ncn+을/jco
+3	보기가	보+기+가	NOUN	_	4	nsubj	_	_	보/pvg+기/etn+가/jcs
+4	어려웠던	어렵+었더+ㄴ	ADJ	_	5	amod	_	_	어렵/paa+었더/ep+ㄴ/etm
+5	터라	터+이+라	SCONJ	_	12	ccomp	_	_	터/nbn+이/jp+라/ecs
+6	차창으로	차창+으로	ADV	_	7	advcl	_	_	차창/ncn+으로/jca
+7	비치는	비치+는	VERB	_	8	acl	_	_	비치/pvg+는/etm
+8	햇살이	햇살+이	NOUN	_	9	nsubj	_	_	햇살/ncn+이/jcs
+9	눈부셔	눈부시+어	SCONJ	_	12	xcomp	_	_	눈부시/paa+어/ecs
+10	눈을	눈+을	NOUN	_	11	obj	_	_	눈/ncn+을/jco
+11	뜨기가	뜨+기+가	NOUN	_	12	nsubj	_	_	뜨/pvg+기/etn+가/jcs
+12	힘들었다	힘들+었+다	VERB	_	0	root	_	_	힘들/pvg+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 종교단체인 구세군이 운영하는 양로원이라는데 관악산 기슭 밑에 숲으로 싸여 있어 그런지 공기도 좋고 흙냄새도 구수했다 .
+1	종교단체인	종교단체+이+ㄴ	VERB	_	2	acl	_	_	종교단체/ncn+이/jp+ㄴ/etm
+2	구세군이	구세군+이	NOUN	_	3	nsubj	_	_	구세군/ncn+이/jcs
+3	운영하는	운영+하+는	VERB	_	4	ccomp	_	_	운영/ncpa+하/xsv+는/etm
+4	양로원이라는데	양로원+이+라는데	SCONJ	_	15	conj	_	_	양로원/ncn+이/jp+라는데/ecs
+5	관악산	관악산	PROPN	_	6	compound	_	_	관악산/nq
+6	기슭	기슭	NOUN	_	7	compound	_	_	기슭/ncn
+7	밑에	밑+에	ADV	_	9	obl	_	_	밑/ncn+에/jca
+8	숲으로	숲+으로	ADV	_	9	advcl	_	_	숲/ncn+으로/jca
+9	싸여	싸이+어	VERB	_	11	conj	_	_	싸이/pvg+어/ecx
+10	있어	있+어	SCONJ	_	9	aux	_	_	있/px+어/ecs
+11	그런지	그렇+ㄴ지	SCONJ	_	15	xcomp	_	_	그렇/pad+ㄴ지/ecs
+12	공기도	공기+도	ADV	_	13	advcl	_	_	공기/ncn+도/jxc
+13	좋고	좋+고	CCONJ	_	15	conj	_	_	좋/paa+고/ecc
+14	흙냄새도	흙냄새+도	ADV	_	15	advcl	_	_	흙냄새/ncn+도/jxc
+15	구수했다	구수+하+었+다	VERB	_	0	root	_	_	구수/ncps+하/xsm+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 총무 처녀는 대장에다 내 이름과 인적사항 등을 적느라 형사와 문답하다가 순간 눈이 동그래진다 .
+1	총무	총무	NOUN	_	2	compound	_	_	총무/ncn
+2	처녀는	처녀+는	NOUN	_	13	dislocated	_	_	처녀/ncn+는/jxt
+3	대장에다	대장+에다	ADV	_	8	advcl	_	_	대장/ncn+에다/jca
+4	내	내	PRON	_	5	compound	_	_	내/npp
+5	이름과	이름+과	CCONJ	_	6	conj	_	_	이름/ncn+과/jcj
+6	인적사항	인적사항	NOUN	_	7	compound	_	_	인적사항/ncn
+7	등을	등+을	NOUN	_	8	obj	_	_	등/nbn+을/jco
+8	적느라	적+느라	SCONJ	_	13	ccomp	_	_	적/pvg+느라/ecs
+9	형사와	형사+와	CCONJ	_	10	conj	_	_	형사/ncn+와/jct
+10	문답하다가	문답+하+다가	SCONJ	_	13	ccomp	_	_	문답/ncpa+하/xsv+다가/ecs
+11	순간	순간	NOUN	_	13	advmod	_	_	순간/ncn
+12	눈이	눈+이	NOUN	_	13	nsubj	_	_	눈/ncn+이/jcs
+13	동그래진다	동그렇+어+지+ㄴ다	AUX	_	0	root	_	_	동그렇/pvg+어/ecx+지/px+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 약간의 절차를 밟은 후 총무 처녀는 나를 방으로 안내했다 .
+1	약간의	약간+의	NOUN	_	2	nmod	_	_	약간/ncn+의/jcm
+2	절차를	절차+를	NOUN	_	3	obj	_	_	절차/ncn+를/jco
+3	밟은	밟+ㄴ	VERB	_	4	acl	_	_	밟/pvg+ㄴ/etm
+4	후	후	NOUN	_	9	advmod	_	_	후/ncn
+5	총무	총무	NOUN	_	6	compound	_	_	총무/ncn
+6	처녀는	처녀+는	NOUN	_	9	dislocated	_	_	처녀/ncn+는/jxt
+7	나를	나+를	PRON	_	9	obj	_	_	나/npp+를/jco
+8	방으로	방+으로	ADV	_	9	advcl	_	_	방/ncn+으로/jca
+9	안내했다	안내+하+었+다	VERB	_	0	root	_	_	안내/ncpa+하/xsv+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 현관에 들어서니 왼쪽에는 주욱 방들이 열 지어 있고 오른쪽은 대청 겸 복도였다 .
+1	현관에	현관+에	ADV	_	2	obl	_	_	현관/ncn+에/jca
+2	들어서니	들어서+니	SCONJ	_	12	ccomp	_	_	들어서/pvg+니/ecs
+3	왼쪽에는	왼쪽+에+는	NOUN	_	7	dislocated	_	_	왼쪽/ncn+에/jca+는/jxt
+4	주욱	주욱	ADV	_	7	advmod	_	_	주욱/mag
+5	방들이	방+들+이	NOUN	_	7	nsubj	_	_	방/ncn+들/xsn+이/jcs
+6	열	열	NOUN	_	7	dep	_	_	열/ncn
+7	지어	짓+어	VERB	_	12	conj	_	_	짓/pvg+어/ecx
+8	있고	있+고	CCONJ	_	7	aux	_	_	있/px+고/ecc
+9	오른쪽은	오른쪽+은	NOUN	_	12	dislocated	_	_	오른쪽/ncn+은/jxt
+10	대청	대청	NOUN	_	11	compound	_	_	대청/ncn
+11	겸	겸	NOUN	_	12	mark	_	_	겸/nbn
+12	복도였다	복도+이+었+다	VERB	_	0	root	_	_	복도/ncn+이/jp+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 나는 그 중 중간쯤에 있는 방에 들게 됐다 .
+1	나는	나+는	PRON	_	7	dislocated	_	_	나/npp+는/jxt
+2	그	그	PRON	_	3	compound	_	_	그/npd
+3	중	중	NOUN	_	4	mark	_	_	중/nbn
+4	중간쯤에	중간+쯤+에	ADV	_	5	obl	_	_	중간/ncn+쯤/xsn+에/jca
+5	있는	있+는	ADJ	_	6	amod	_	_	있/paa+는/etm
+6	방에	방+에	ADV	_	7	obl	_	_	방/ncn+에/jca
+7	들게	들+게	VERB	_	0	root	_	_	들/pvg+게/ecx
+8	됐다	되+었+다	AUX	_	7	aux	_	_	되/px+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 모두 네 사람이 함께 지낸다는데 대낮이라 그런지 방 안에는 아무도 없었다 .
+1	모두	모두	ADV	_	3	advmod	_	_	모두/mag
+2	네	네	NUM	_	3	nummod	_	_	네/nnc
+3	사람이	사람+이	NOUN	_	5	nsubj	_	_	사람/ncn+이/jcs
+4	함께	함께	ADV	_	5	advmod	_	_	함께/mag
+5	지낸다는데	지내+ㄴ다는데	SCONJ	_	11	conj	_	_	지내/pvg+ㄴ다는데/ecs
+6	대낮이라	대낮+이+라	SCONJ	_	7	conj	_	_	대낮/ncn+이/jp+라/ecs
+7	그런지	그렇+ㄴ지	SCONJ	_	11	xcomp	_	_	그렇/pad+ㄴ지/ecs
+8	방	방	NOUN	_	9	compound	_	_	방/ncn
+9	안에는	안+에+는	NOUN	_	11	dislocated	_	_	안/ncn+에/jca+는/jxt
+10	아무도	아무+도	ADV	_	11	advcl	_	_	아무/npd+도/jxc
+11	없었다	없+었+다	ADJ	_	0	root	_	_	없/paa+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 갑자기 맥이 빠져 벽에 기대 먼 산을 보는데 방문이 눈에 들어왔다 .
+1	갑자기	갑자기	ADV	_	3	advmod	_	_	갑자기/mag
+2	맥이	맥+이	NOUN	_	3	nsubj	_	_	맥/ncn+이/jcs
+3	빠져	빠지+어	SCONJ	_	8	ccomp	_	_	빠지/pvg+어/ecs
+4	벽에	벽+에	ADV	_	5	obl	_	_	벽/ncn+에/jca
+5	기대	기대+어	SCONJ	_	8	ccomp	_	_	기대/pvg+어/ecs
+6	먼	멀+ㄴ	ADJ	_	7	amod	_	_	멀/paa+ㄴ/etm
+7	산을	산+을	NOUN	_	8	obj	_	_	산/ncn+을/jco
+8	보는데	보+는데	SCONJ	_	11	ccomp	_	_	보/pvg+는데/ecs
+9	방문이	방문+이	NOUN	_	11	nsubj	_	_	방문/ncn+이/jcs
+10	눈에	눈+에	ADV	_	11	obl	_	_	눈/ncn+에/jca
+11	들어왔다	들어오+았+다	VERB	_	0	root	_	_	들어오/pvg+았/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 나도 모르게 벌떡 일어나 문을 열고 복도로 한 걸음 나섰다 .
+1	나도	나+도	ADV	_	2	advcl	_	_	나/npp+도/jxc
+2	모르게	모르+게	SCONJ	_	4	ccomp	_	_	모르/pvg+게/ecs
+3	벌떡	벌떡	ADV	_	4	advmod	_	_	벌떡/mag
+4	일어나	일어나+아	SCONJ	_	6	ccomp	_	_	일어나/pvg+아/ecs
+5	문을	문+을	NOUN	_	6	obj	_	_	문/ncn+을/jco
+6	열고	열+고	CCONJ	_	10	conj	_	_	열/pvg+고/ecc
+7	복도로	복도+로	ADV	_	10	advcl	_	_	복도/ncn+로/jca
+8	한	한	NUM	_	9	nummod	_	_	한/nnc
+9	걸음	걸음	NOUN	_	10	dep	_	_	걸음/ncn
+10	나섰다	나서+ㅆ+다	VERB	_	0	root	_	_	나서/pvg+ㅆ/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 다시 방 안으로 돌아와 눈을 감고 있었다 .
+1	다시	다시	ADV	_	4	advmod	_	_	다시/mag
+2	방	방	NOUN	_	3	compound	_	_	방/ncn
+3	안으로	안+으로	ADV	_	4	advcl	_	_	안/ncn+으로/jca
+4	돌아와	돌아오+아	SCONJ	_	6	ccomp	_	_	돌아오/pvg+아/ecs
+5	눈을	눈+을	NOUN	_	6	obj	_	_	눈/ncn+을/jco
+6	감고	감+고	VERB	_	0	root	_	_	감/pvg+고/ecx
+7	있었다	있+었+다	AUX	_	6	aux	_	_	있/px+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 머릿속은 텅 비어버린 것만 같은데 눈 앞에 한 여인의 얼굴이 떠오른다 .
+1	머릿속은	머릿속+은	NOUN	_	3	dislocated	_	_	머릿속/ncn+은/jxt
+2	텅	텅	ADV	_	3	advmod	_	_	텅/mag
+3	비어버린	비+어+버리+ㄴ	AUX	_	11	amod	_	_	비/paa+어/ecx+버리/px+ㄴ/etm
+4	것만	것+만	ADV	_	5	fixed	_	_	것/nbn+만/jxc
+5	같은데	같+ㄴ데	SCONJ	_	3	aux	_	_	같/paa+ㄴ데/ecs
+6	눈	눈	NOUN	_	7	compound	_	_	눈/ncn
+7	앞에	앞+에	ADV	_	11	obl	_	_	앞/ncn+에/jca
+8	한	한	NUM	_	9	nummod	_	_	한/nnc
+9	여인의	여인+의	NOUN	_	10	nmod	_	_	여인/ncn+의/jcm
+10	얼굴이	얼굴+이	NOUN	_	11	nsubj	_	_	얼굴/ncn+이/jcs
+11	떠오른다	떠오르+ㄴ다	VERB	_	0	root	_	_	떠오르/pvg+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 무심코 시선이 가닿은 방구석에 볼펜이 한 자루 굴러 있었다 .
+1	무심코	무심코	ADV	_	3	advmod	_	_	무심코/mag
+2	시선이	시선+이	NOUN	_	3	nsubj	_	_	시선/ncn+이/jcs
+3	가닿은	가닿+은	VERB	_	4	acl	_	_	가닿/pvg+은/etm
+4	방구석에	방구석+에	ADV	_	8	obl	_	_	방구석/ncn+에/jca
+5	볼펜이	볼펜+이	NOUN	_	8	nsubj	_	_	볼펜/ncn+이/jcs
+6	한	한	NUM	_	7	nummod	_	_	한/nnc
+7	자루	자루	NOUN	_	8	dep	_	_	자루/nbu
+8	굴러	구르+어	VERB	_	0	root	_	_	구르/pvg+어/ecx
+9	있었다	있+었+다	AUX	_	8	aux	_	_	있/px+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 누가 뺏어가기라도 할세라 나는 어른 가서 주웠다 .
+1	누가	누가	PRON	_	2	dep	_	_	누가/npd
+2	뺏어가기라도	뺏+어+가+기+라도	ADV	_	3	advcl	_	_	뺏/pvg+어/ecx+가/px+기/etn+라도/jxc
+3	할세라	하+ㄹ세라	SCONJ	_	7	ccomp	_	_	하/pvg+ㄹ세라/ecs
+4	나는	나+는	PRON	_	7	dislocated	_	_	나/npp+는/jxt
+5	어른	얼른	ADV	_	7	advmod	_	_	얼른/mag
+6	가서	가+서	SCONJ	_	7	ccomp	_	_	가/pvg+서/ecs
+7	주웠다	줍+었+다	VERB	_	0	root	_	_	줍/pvg+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 기껏해야 편지를 쓰러 나가서 잠깐 만져볼 수 있을 뿐이다 .
+1	기껏해야	기껏해야	ADV	_	6	advmod	_	_	기껏해야/mag
+2	편지를	편지+를	NOUN	_	3	obj	_	_	편지/ncn+를/jco
+3	쓰러	쓰+러	SCONJ	_	4	ccomp	_	_	쓰/pvg+러/ecs
+4	나가서	나가+서	SCONJ	_	6	ccomp	_	_	나가/pvg+서/ecs
+5	잠깐	잠깐	ADV	_	6	advmod	_	_	잠깐/mag
+6	만져볼	만지+어+보+ㄹ	AUX	_	0	root	_	_	만지/pvg+어/ecx+보/px+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	있을	있+ㄹ	ADJ	_	6	aux	_	_	있/paa+ㄹ/etm
+9	뿐이다	뿐+이+다	VERB	_	6	aux	_	_	뿐/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 자꾸만 나이 먹어가는 내 머리나 육신을 믿지 못했기 때문이었다 .
+1	자꾸만	자꾸+만	ADV	_	3	advmod	_	_	자꾸/mag+만/jxc
+2	나이	나이	NOUN	_	3	dep	_	_	나이/ncn
+3	먹어가는	먹+어+가+는	AUX	_	6	acl	_	_	먹/pvg+어/ecx+가/px+는/etm
+4	내	내	PRON	_	6	compound	_	_	내/npp
+5	머리나	머리+나	CCONJ	_	6	conj	_	_	머리/ncn+나/jcj
+6	육신을	육신+을	NOUN	_	7	obj	_	_	육신/ncn+을/jco
+7	믿지	믿+지	VERB	_	0	root	_	_	믿/pvg+지/ecx
+8	못했기	못하+었+기	AUX	_	7	aux	_	_	못하/px+었/ep+기/etn
+9	때문이었다	때문+이+었+다	VERB	_	7	aux	_	_	때문/nbn+이/jp+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 한 주일쯤 지난 뒤 다시 물어보니 이 동지가 지명이니 인명들을 모두 잊어버린 게 아닌가 .
+1	한	한	NUM	_	2	nummod	_	_	한/nnc
+2	주일쯤	주일+쯤	NOUN	_	3	advmod	_	_	주일/nbu+쯤/xsn
+3	지난	지나+ㄴ	VERB	_	4	acl	_	_	지나/pvg+ㄴ/etm
+4	뒤	뒤	NOUN	_	6	advmod	_	_	뒤/ncn
+5	다시	다시	ADV	_	6	advmod	_	_	다시/mag
+6	물어보니	묻+어+보+니	SCONJ	_	12	ccomp	_	_	묻/pvg+어/ecx+보/px+니/ecs
+7	이	이	DET	_	8	det	_	_	이/mmd
+8	동지가	동지+가	NOUN	_	12	nsubj	_	_	동지/ncn+가/jcs
+9	지명이니	지명+이니	CCONJ	_	10	conj	_	_	지명/ncn+이니/jcj
+10	인명들을	인명+들+을	NOUN	_	12	obj	_	_	인명/ncn+들/xsn+을/jco
+11	모두	모두	ADV	_	12	advmod	_	_	모두/mag
+12	잊어버린	잊+어+버리+ㄴ	AUX	_	13	acl	_	_	잊/pvg+어/ecx+버리/px+ㄴ/etm
+13	게	게	NOUN	_	14	mark	_	_	게/nbn
+14	아닌가	아니+ㄴ가	ADJ	_	0	root	_	_	아니/paa+ㄴ가/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 어차피 주거제한의 딱지가 붙어있는 처지인데 갑자기 죽기라도 한다면 원고뭉치가 어떻게 될지 안심할 수가 없었기 때문이다 .
+1	어차피	어차피	ADV	_	4	advmod	_	_	어차피/mag
+2	주거제한의	주거제한+의	NOUN	_	3	nmod	_	_	주거제한/ncn+의/jcm
+3	딱지가	딱지+가	NOUN	_	4	nsubj	_	_	딱지/ncn+가/jcs
+4	붙어있는	붙+어+있+는	AUX	_	5	ccomp	_	_	붙/pvg+어/ecx+있/px+는/etm
+5	처지인데	처지+이+ㄴ데	SCONJ	_	8	ccomp	_	_	처지/ncn+이/jp+ㄴ데/ecs
+6	갑자기	갑자기	ADV	_	7	advmod	_	_	갑자기/mag
+7	죽기라도	죽+기+라도	ADV	_	8	advcl	_	_	죽/pvg+기/etn+라도/jxc
+8	한다면	하+ㄴ다면	SCONJ	_	12	ccomp	_	_	하/pvg+ㄴ다면/ecs
+9	원고뭉치가	원고+뭉치+가	NOUN	_	11	nsubj	_	_	원고/ncn+뭉치/ncn+가/jcs
+10	어떻게	어떻+게	SCONJ	_	11	xcomp	_	_	어떻/pad+게/ecs
+11	될지	되+ㄹ지	SCONJ	_	12	ccomp	_	_	되/pvg+ㄹ지/ecs
+12	안심할	안심+하+ㄹ	VERB	_	0	root	_	_	안심/ncpa+하/xsv+ㄹ/etm
+13	수가	수+가	NOUN	_	14	fixed	_	_	수/nbn+가/jcs
+14	없었기	없+었+기	ADJ	_	12	aux	_	_	없/paa+었/ep+기/etn
+15	때문이다	때문+이+다	VERB	_	12	aux	_	_	때문/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 나의 고향 본촌은 함경남도 북청군 하거서면에 있는 여어골이라는 농촌이다 .
+1	나의	나+의	PRON	_	2	nmod	_	_	나/npp+의/jcm
+2	고향	고향	NOUN	_	3	compound	_	_	고향/ncn
+3	본촌은	본촌+은	NOUN	_	9	dislocated	_	_	본촌/ncn+은/jxt
+4	함경남도	함경남도	PROPN	_	6	flat	_	_	함경남도/nq
+5	북청군	북청군	PROPN	_	6	flat	_	_	북청군/nq
+6	하거서면에	하거서면+에	ADV	_	7	obl	_	_	하거서면/nq+에/jca
+7	있는	있+는	ADJ	_	9	amod	_	_	있/paa+는/etm
+8	여어골이라는	여어골+이+라는	VERB	_	9	acl	_	_	여어골/nq+이/jp+라는/etm
+9	농촌이다	농촌+이+다	VERB	_	0	root	_	_	농촌/ncn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이리하여 어머니는 열여덟에 청상이 되어 갓난 아들 하나만 바라보게 되었다 .
+1	이리하여	이리+하+어	SCONJ	_	9	ccomp	_	_	이리/ncpa+하/xsv+어/ecs
+2	어머니는	어머니+는	NOUN	_	9	dislocated	_	_	어머니/ncn+는/jxt
+3	열여덟에	열여덟+에	ADV	_	5	obl	_	_	열여덟/nnc+에/jca
+4	청상이	청상+이	NOUN	_	5	csubj	_	_	청상/ncn+이/jcc
+5	되어	되+어	SCONJ	_	9	ccomp	_	_	되/pvg+어/ecs
+6	갓난	갓나+ㄴ	VERB	_	7	acl	_	_	갓나/pvg+ㄴ/etm
+7	아들	아들	NOUN	_	8	compound	_	_	아들/ncn
+8	하나만	하나+만	ADV	_	9	advcl	_	_	하나/nnc+만/jxc
+9	바라보게	바라보+게	VERB	_	0	root	_	_	바라보/pvg+게/ecx
+10	되었다	되+었+다	AUX	_	9	aux	_	_	되/px+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 형편이 어려워 우리가 살던 적수부락 인근에 모신 아버지의 유해를 본촌인 북청군 하거서면 선산으로 이장하기 위해서였다 .
+1	형편이	형편+이	NOUN	_	2	nsubj	_	_	형편/ncn+이/jcs
+2	어려워	어렵+어	SCONJ	_	7	xcomp	_	_	어렵/paa+어/ecs
+3	우리가	우리+가	PRON	_	4	nsubj	_	_	우리/npp+가/jcs
+4	살던	살+더+ㄴ	VERB	_	5	acl	_	_	살/pvg+더/ep+ㄴ/etm
+5	적수부락	적수부락	PROPN	_	6	compound	_	_	적수부락/nq
+6	인근에	인근+에	ADV	_	7	obl	_	_	인근/ncn+에/jca
+7	모신	모시+ㄴ	VERB	_	9	acl	_	_	모시/pvg+ㄴ/etm
+8	아버지의	아버지+의	NOUN	_	9	nmod	_	_	아버지/ncn+의/jcm
+9	유해를	유해+를	NOUN	_	14	obj	_	_	유해/ncn+를/jco
+10	본촌인	본촌+이+ㄴ	VERB	_	12	acl	_	_	본촌/ncn+이/jp+ㄴ/etm
+11	북청군	북청군	PROPN	_	12	flat	_	_	북청군/nq
+12	하거서면	하거서면	PROPN	_	13	compound	_	_	하거서면/nq
+13	선산으로	선산+으로	ADV	_	14	advcl	_	_	선산/ncn+으로/jca
+14	이장하기	이장+하+기	VERB	_	15	nmod	_	_	이장/ncpa+하/xsv+기/etn
+15	위해서였다	위하+어서+이+었+다	VERB	_	0	root	_	_	위하/pvg+어서/ecs+이/jp+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 몇 해를 밤을 밝혀 겨우 돈을 마련한 어머니는 동네 달구지를 빌려 이장하기로 하고 길을 떠났다 .
+1	몇	몇	ADJ	_	2	amod	_	_	몇/mma
+2	해를	해+를	NOUN	_	4	obj	_	_	해/ncn+를/jco
+3	밤을	밤+을	NOUN	_	4	obj	_	_	밤/ncn+을/jco
+4	밝혀	밝히+어	SCONJ	_	7	ccomp	_	_	밝히/pvg+어/ecs
+5	겨우	겨우	ADV	_	7	advmod	_	_	겨우/mag
+6	돈을	돈+을	NOUN	_	7	obj	_	_	돈/ncn+을/jco
+7	마련한	마련+하+ㄴ	VERB	_	8	acl	_	_	마련/ncpa+하/xsv+ㄴ/etm
+8	어머니는	어머니+는	NOUN	_	15	dislocated	_	_	어머니/ncn+는/jxt
+9	동네	동네	NOUN	_	10	compound	_	_	동네/ncn
+10	달구지를	달구지+를	NOUN	_	11	obj	_	_	달구지/ncn+를/jco
+11	빌려	빌리+어	SCONJ	_	12	conj	_	_	빌리/pvg+어/ecs
+12	이장하기로	이장+하+기+로	ADV	_	13	advcl	_	_	이장/ncpa+하/xsv+기/etn+로/jca
+13	하고	하+고	CCONJ	_	15	conj	_	_	하/pvg+고/ecc
+14	길을	길+을	NOUN	_	15	obj	_	_	길/ncn+을/jco
+15	떠났다	떠나+ㅆ+다	VERB	_	0	root	_	_	떠나/pvg+ㅆ/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 어머니는 어린 것을 업고 갈 수도 없어 , 다녀올 동안 나를 외삼촌댁에 맡겨놓고 갔다 .
+1	어머니는	어머니+는	NOUN	_	14	dislocated	_	_	어머니/ncn+는/jxt
+2	어린	어리+ㄴ	ADJ	_	3	amod	_	_	어리/paa+ㄴ/etm
+3	것을	것+을	NOUN	_	4	obj	_	_	것/nbn+을/jco
+4	업고	업+고	CCONJ	_	5	conj	_	_	업/pvg+고/ecc
+5	갈	가+ㄹ	VERB	_	14	ccomp	_	_	가/pvg+ㄹ/etm
+6	수도	수+도	ADV	_	7	fixed	_	_	수/nbn+도/jxc
+7	없어	없+어	SCONJ	_	5	aux	_	_	없/paa+어/ecs
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	다녀올	다녀오+ㄹ	VERB	_	10	acl	_	_	다녀오/pvg+ㄹ/etm
+10	동안	동안	NOUN	_	13	advmod	_	_	동안/ncn
+11	나를	나+를	PRON	_	13	obj	_	_	나/npp+를/jco
+12	외삼촌댁에	외삼촌댁+에	ADV	_	13	obl	_	_	외삼촌댁/ncn+에/jca
+13	맡겨놓고	맡기+어+놓+고	CCONJ	_	14	conj	_	_	맡기/pvg+어/ecx+놓/px+고/ecc
+14	갔다	가+ㅆ+다	VERB	_	0	root	_	_	가/pvg+ㅆ/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 어머니가 떠나던 날 밤 .
+1	어머니가	어머니+가	NOUN	_	2	nsubj	_	_	어머니/ncn+가/jcs
+2	떠나던	떠나+더+ㄴ	VERB	_	3	acl	_	_	떠나/pvg+더/ep+ㄴ/etm
+3	날	날	NOUN	_	4	compound	_	_	날/ncn
+4	밤	밤	NOUN	_	0	root	_	_	밤/ncn
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 네 엄마의 눈 떼는 재간은 내가 가르쳐줬다 .
+1	네	네	PRON	_	2	compound	_	_	네/npp
+2	엄마의	엄마+의	NOUN	_	5	nmod	_	_	엄마/ncn+의/jcm
+3	눈	눈	NOUN	_	4	dep	_	_	눈/ncn
+4	떼는	떼+는	VERB	_	5	acl	_	_	떼/pvg+는/etm
+5	재간은	재간+은	NOUN	_	7	dislocated	_	_	재간/ncn+은/jxt
+6	내가	내+가	PRON	_	7	nsubj	_	_	내/npp+가/jcs
+7	가르쳐줬다	가르치+어+주+었+다	AUX	_	0	root	_	_	가르치/pvg+어/ecx+주/px+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 외숙모는 물론 사상이니 뭐니 하는 것은 모르는 분이었는데 슬하에 자녀가 없으니 나를 아들이라 하면서 귀엽게 기르셨다 .
+1	외숙모는	외숙모+는	NOUN	_	16	dislocated	_	_	외숙모/ncn+는/jxt
+2	물론	물론	ADV	_	7	advmod	_	_	물론/mag
+3	사상이니	사상+이니	CCONJ	_	4	conj	_	_	사상/ncn+이니/jcj
+4	뭐니	뭐+니	CCONJ	_	6	conj	_	_	뭐/npd+니/jcj
+5	하는	하+는	VERB	_	6	acl	_	_	하/pvg+는/etm
+6	것은	것+은	NOUN	_	7	dislocated	_	_	것/nbn+은/jxt
+7	모르는	모르+는	VERB	_	8	ccomp	_	_	모르/pvg+는/etm
+8	분이었는데	분+이+었+는데	SCONJ	_	16	ccomp	_	_	분/nbn+이/jp+었/ep+는데/ecs
+9	슬하에	슬하+에	ADV	_	11	obl	_	_	슬하/ncn+에/jca
+10	자녀가	자녀+가	NOUN	_	11	nsubj	_	_	자녀/ncn+가/jcs
+11	없으니	없+으니	SCONJ	_	16	xcomp	_	_	없/paa+으니/ecs
+12	나를	나+를	PRON	_	16	obj	_	_	나/npp+를/jco
+13	아들이라	아들+이+라	SCONJ	_	14	ccomp	_	_	아들/ncn+이/jp+라/ecs
+14	하면서	하+면서	SCONJ	_	16	ccomp	_	_	하/pvg+면서/ecs
+15	귀엽게	귀엽+게	SCONJ	_	16	xcomp	_	_	귀엽/paa+게/ecs
+16	기르셨다	기르+셨+다	VERB	_	0	root	_	_	기르/pvg+셨/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 당시 열 살을 갓 지난 내가 이런 사정을 알 턱이 없었다 .
+1	당시	당시	NOUN	_	5	advmod	_	_	당시/ncn
+2	열	열	NUM	_	3	nummod	_	_	열/nnc
+3	살을	살+을	NOUN	_	5	obj	_	_	살/nbu+을/jco
+4	갓	갓	ADV	_	5	advmod	_	_	갓/mag
+5	지난	지나+ㄴ	VERB	_	6	acl	_	_	지나/pvg+ㄴ/etm
+6	내가	내+가	PRON	_	9	nsubj	_	_	내/npp+가/jcs
+7	이런	이런	DET	_	8	det	_	_	이런/mmd
+8	사정을	사정+을	NOUN	_	9	obj	_	_	사정/ncn+을/jco
+9	알	알+ㄹ	VERB	_	10	acl	_	_	알/pvg+ㄹ/etm
+10	턱이	턱+이	NOUN	_	11	nsubj	_	_	턱/nbn+이/jcs
+11	없었다	없+었+다	ADJ	_	0	root	_	_	없/paa+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그는 저녁이면 우리 후배아이들을 불러 모아 반일애국사상을 가르치곤 하였다 .
+1	그는	그+는	PRON	_	8	dislocated	_	_	그/npp+는/jxt
+2	저녁이면	저녁+이+면	SCONJ	_	6	ccomp	_	_	저녁/ncn+이/jp+면/ecs
+3	우리	우리	PRON	_	4	compound	_	_	우리/npp
+4	후배아이들을	후배아이+들+을	NOUN	_	6	obj	_	_	후배아이/ncn+들/xsn+을/jco
+5	불러	부르+어	SCONJ	_	6	ccomp	_	_	부르/pvg+어/ecs
+6	모아	모으+아	SCONJ	_	8	ccomp	_	_	모으/pvg+아/ecs
+7	반일애국사상을	반일애국사상+을	NOUN	_	8	obj	_	_	반일애국사상/ncn+을/jco
+8	가르치곤	가르치+곤	VERB	_	0	root	_	_	가르치/pvg+곤/ecx
+9	하였다	하+었+다	AUX	_	8	aux	_	_	하/px+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 완전히 흥분해버린 나는 양푼하고 돈은 집 안에 던져버리고 주재소 쪽으로 쏜살같이 달려갔다 .
+1	완전히	완전히	ADV	_	2	advmod	_	_	완전히/mag
+2	흥분해버린	흥분+하+어+버리+ㄴ	AUX	_	3	amod	_	_	흥분/ncps+하/xsm+어/ecx+버리/px+ㄴ/etm
+3	나는	나+는	PRON	_	12	dislocated	_	_	나/npp+는/jxt
+4	양푼하고	양푼+하고	CCONJ	_	5	conj	_	_	양푼/ncn+하고/jcj
+5	돈은	돈+은	NOUN	_	8	dislocated	_	_	돈/ncn+은/jxt
+6	집	집	NOUN	_	7	compound	_	_	집/ncn
+7	안에	안+에	ADV	_	8	obl	_	_	안/ncn+에/jca
+8	던져버리고	던지+어+버리+고	CCONJ	_	12	conj	_	_	던지/pvg+어/ecx+버리/px+고/ecc
+9	주재소	주재소	NOUN	_	10	compound	_	_	주재소/ncn
+10	쪽으로	쪽+으로	ADV	_	12	advcl	_	_	쪽/ncn+으로/jca
+11	쏜살같이	쏜살같이	ADV	_	12	advmod	_	_	쏜살같이/mag
+12	달려갔다	달리+어+가+ㅆ+다	AUX	_	0	root	_	_	달리/pvg+어/ecx+가/px+ㅆ/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 한편 주재소 안에는 왜놈 순사부장이 자기 책상 앞에 피를 흘리면서 쓰러져 나뒹굴고 있었다 .
+1	한편	한편	CCONJ	_	12	cc	_	_	한편/maj
+2	주재소	주재소	NOUN	_	3	compound	_	_	주재소/ncn
+3	안에는	안+에+는	NOUN	_	12	dislocated	_	_	안/ncn+에/jca+는/jxt
+4	왜놈	왜놈	NOUN	_	5	compound	_	_	왜놈/ncn
+5	순사부장이	순사+부장+이	NOUN	_	12	nsubj	_	_	순사/ncn+부장/ncn+이/jcs
+6	자기	자기	PRON	_	7	compound	_	_	자기/npp
+7	책상	책상	NOUN	_	8	compound	_	_	책상/ncn
+8	앞에	앞+에	ADV	_	12	obl	_	_	앞/ncn+에/jca
+9	피를	피+를	NOUN	_	10	obj	_	_	피/ncn+를/jco
+10	흘리면서	흘리+면서	SCONJ	_	12	ccomp	_	_	흘리/pvg+면서/ecs
+11	쓰러져	쓰러지+어	SCONJ	_	12	ccomp	_	_	쓰러지/pvg+어/ecs
+12	나뒹굴고	나뒹굴+고	VERB	_	0	root	_	_	나뒹굴/pvg+고/ecx
+13	있었다	있+었+다	AUX	_	12	aux	_	_	있/px+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 물론 일제 앞잡이들을 제외하고 말이다 .
+1	물론	물론	ADV	_	4	advmod	_	_	물론/mag
+2	일제	일제	NOUN	_	3	compound	_	_	일제/ncn
+3	앞잡이들을	앞잡이+들+을	NOUN	_	4	obj	_	_	앞잡이/ncn+들/xsn+을/jco
+4	제외하고	제외+하+고	CCONJ	_	0	root	_	_	제외/ncpa+하/xsv+고/ecc
+5	말이다	말이다	INTJ	_	4	discourse	_	_	말이다/ii
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 살려 달라 애원하는 순사를 바라보던 세 사람 가운데 책임자로 보이는 얼굴이 잘 생긴 사람이 입을 열었다 .
+1	살려	살리+어	VERB	_	3	ccomp	_	_	살리/pvg+어/ecx
+2	달라	달+라	AUX	_	1	aux	_	_	달/px+라/ef
+3	애원하는	애원+하+는	VERB	_	4	acl	_	_	애원/ncpa+하/xsv+는/etm
+4	순사를	순사+를	NOUN	_	5	obj	_	_	순사/ncn+를/jco
+5	바라보던	바라보+더+ㄴ	VERB	_	7	acl	_	_	바라보/pvg+더/ep+ㄴ/etm
+6	세	세	NUM	_	7	nummod	_	_	세/nnc
+7	사람	사람	NOUN	_	8	compound	_	_	사람/ncn
+8	가운데	가운데	NOUN	_	14	compound	_	_	가운데/ncn
+9	책임자로	책임자+로	ADV	_	10	advcl	_	_	책임자/ncn+로/jca
+10	보이는	보이+는	VERB	_	14	acl	_	_	보이/pvg+는/etm
+11	얼굴이	얼굴+이	NOUN	_	13	nsubj	_	_	얼굴/ncn+이/jcs
+12	잘	잘	ADV	_	13	advmod	_	_	잘/mag
+13	생긴	생기+ㄴ	VERB	_	14	acl	_	_	생기/pvg+ㄴ/etm
+14	사람이	사람+이	NOUN	_	16	nsubj	_	_	사람/ncn+이/jcs
+15	입을	입+을	NOUN	_	16	obj	_	_	입/ncn+을/jco
+16	열었다	열+었+다	VERB	_	0	root	_	_	열/pvg+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그 집 안에서는 아이들이 소리 치며 우는 소리가 났다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	집	집	NOUN	_	3	compound	_	_	집/ncn
+3	안에서는	안+에서+는	NOUN	_	9	dislocated	_	_	안/ncn+에서/jca+는/jxt
+4	아이들이	아이+들+이	NOUN	_	7	nsubj	_	_	아이/ncn+들/xsn+이/jcs
+5	소리	소리	NOUN	_	6	dep	_	_	소리/ncn
+6	치며	치+며	SCONJ	_	7	ccomp	_	_	치/pvg+며/ecs
+7	우는	울+는	VERB	_	8	acl	_	_	울/pvg+는/etm
+8	소리가	소리+가	NOUN	_	9	nsubj	_	_	소리/ncn+가/jcs
+9	났다	나+ㅆ+다	VERB	_	0	root	_	_	나/pvg+ㅆ/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 첫 지도자 정운길 동지 그 사건이 난 후 나와 몇몇 동무들은 천도교신자 선생 때문에 피해왔던 정운길 선배를 찾아갔다 .
+1	첫	첫	ADJ	_	2	amod	_	_	첫/mma
+2	지도자	지도자	NOUN	_	3	compound	_	_	지도자/ncn
+3	정운길	정운길	PROPN	_	4	compound	_	_	정운길/nq
+4	동지	동지	NOUN	_	6	compound	_	_	동지/ncn
+5	그	그	DET	_	6	det	_	_	그/mmd
+6	사건이	사건+이	NOUN	_	7	nsubj	_	_	사건/ncn+이/jcs
+7	난	나+ㄴ	VERB	_	8	acl	_	_	나/pvg+ㄴ/etm
+8	후	후	NOUN	_	18	advmod	_	_	후/ncn
+9	나와	나+와	CCONJ	_	11	conj	_	_	나/npp+와/jcj
+10	몇몇	몇몇	ADJ	_	11	amod	_	_	몇몇/mma
+11	동무들은	동무+들+은	NOUN	_	18	dislocated	_	_	동무/ncn+들/xsn+은/jxt
+12	천도교신자	천도교+신자	NOUN	_	13	compound	_	_	천도교/ncn+신자/ncn
+13	선생	선생	NOUN	_	14	compound	_	_	선생/ncn
+14	때문에	때문+에	ADV	_	15	obl	_	_	때문/nbn+에/jca
+15	피해왔던	피하+어+오+았더+ㄴ	AUX	_	17	acl	_	_	피하/pvg+어/ecx+오/px+았더/ep+ㄴ/etm
+16	정운길	정운길	PROPN	_	17	compound	_	_	정운길/nq
+17	선배를	선배+를	NOUN	_	18	obj	_	_	선배/ncn+를/jco
+18	찾아갔다	찾아가+ㅆ+다	VERB	_	0	root	_	_	찾아가/pvg+ㅆ/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 나는 주먹을 꼭 쥐고 잠이 들었다 .
+1	나는	나+는	PRON	_	6	dislocated	_	_	나/npp+는/jxt
+2	주먹을	주먹+을	NOUN	_	4	obj	_	_	주먹/ncn+을/jco
+3	꼭	꼭	ADV	_	4	advmod	_	_	꼭/mag
+4	쥐고	쥐+고	CCONJ	_	6	conj	_	_	쥐/pvg+고/ecc
+5	잠이	잠+이	NOUN	_	6	nsubj	_	_	잠/ncn+이/jcs
+6	들었다	들+었+다	VERB	_	0	root	_	_	들/pvg+었/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그날 밤 말을 타고 왜놈을 뒤쫓는 독립군의 꿈을 꾸었던 듯싶다 .
+1	그날	그날	PRON	_	2	compound	_	_	그날/npd
+2	밤	밤	NOUN	_	9	advmod	_	_	밤/ncn
+3	말을	말+을	NOUN	_	4	obj	_	_	말/ncn+을/jco
+4	타고	타+고	CCONJ	_	6	conj	_	_	타/pvg+고/ecc
+5	왜놈을	왜놈+을	NOUN	_	6	obj	_	_	왜놈/ncn+을/jco
+6	뒤쫓는	뒤쫓+는	VERB	_	7	acl	_	_	뒤쫓/pvg+는/etm
+7	독립군의	독립군+의	NOUN	_	8	nmod	_	_	독립군/ncn+의/jcm
+8	꿈을	꿈+을	NOUN	_	9	obj	_	_	꿈/ncn+을/jco
+9	꾸었던	꾸+었더+ㄴ	VERB	_	0	root	_	_	꾸/pvg+었더/ep+ㄴ/etm
+10	듯싶다	듯싶+다	AUX	_	9	aux	_	_	듯싶/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그러던 어느 날 저녁 우리들은 정운길 선배 집에 모였다 .
+1	그러던	그러+더+ㄴ	VERB	_	4	acl	_	_	그러/pvd+더/ep+ㄴ/etm
+2	어느	어느	DET	_	3	det	_	_	어느/mmd
+3	날	날	NOUN	_	4	compound	_	_	날/ncn
+4	저녁	저녁	NOUN	_	9	advmod	_	_	저녁/ncn
+5	우리들은	우리+들+은	PRON	_	9	dislocated	_	_	우리/npp+들/xsn+은/jxt
+6	정운길	정운길	PROPN	_	7	compound	_	_	정운길/nq
+7	선배	선배	NOUN	_	8	compound	_	_	선배/ncn
+8	집에	집+에	ADV	_	9	obl	_	_	집/ncn+에/jca
+9	모였다	모이+었+다	VERB	_	0	root	_	_	모이/pvg+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 정선배는 원망스럽게도 나더러 제일 먼저 가라는 것이다 .
+1	정선배는	정+선배+는	PROPN	_	6	dislocated	_	_	정/nq+선배/ncn+는/jxt
+2	원망스럽게도	원망+스럽+게+도	ADV	_	6	amod	_	_	원망/ncps+스럽/xsm+게/ecs+도/jxc
+3	나더러	나+더러	ADV	_	6	advcl	_	_	나/npp+더러/jca
+4	제일	제일	ADV	_	6	advmod	_	_	제일/mag
+5	먼저	먼저	ADV	_	4	advmod	_	_	먼저/mag
+6	가라는	가+라는	VERB	_	0	root	_	_	가/pvg+라는/etm
+7	것이다	것+이+다	VERB	_	6	aux	_	_	것/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그 아이가 출발한 지 얼마나 지났을까 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	아이가	아이+가	NOUN	_	6	nsubj	_	_	아이/ncn+가/jcs
+3	출발한	출발+하+ㄴ	VERB	_	4	acl	_	_	출발/ncpa+하/xsv+ㄴ/etm
+4	지	지	NOUN	_	6	advmod	_	_	지/nbn
+5	얼마나	얼마나	ADV	_	6	advmod	_	_	얼마나/mag
+6	지났을까	지나+ㅆ+ㄹ까	VERB	_	0	root	_	_	지나/pvg+ㅆ/ep+ㄹ까/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 선배들이 그 애를 떠메다시피 하고 들어오는 게 아닌가 .
+1	선배들이	선배+들+이	NOUN	_	6	nsubj	_	_	선배/ncn+들/xsn+이/jcs
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	애를	애+를	NOUN	_	4	obj	_	_	애/ncn+를/jco
+4	떠메다시피	떠메+다시피	SCONJ	_	5	ccomp	_	_	떠메/pvg+다시피/ecs
+5	하고	하+고	CCONJ	_	6	conj	_	_	하/pvg+고/ecc
+6	들어오는	들어오+는	VERB	_	7	acl	_	_	들어오/pvg+는/etm
+7	게	게	NOUN	_	8	mark	_	_	게/nbn
+8	아닌가	아니+ㄴ가	ADJ	_	0	root	_	_	아니/paa+ㄴ가/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 하루는 저녁에 집에 들어가니 외숙모가 근심스런 얼굴로 캐물었다 .
+1	하루는	하루+는	NOUN	_	4	dislocated	_	_	하루/ncn+는/jxt
+2	저녁에	저녁+에	ADV	_	4	obl	_	_	저녁/ncn+에/jca
+3	집에	집+에	ADV	_	4	obl	_	_	집/ncn+에/jca
+4	들어가니	들어가+니	SCONJ	_	8	ccomp	_	_	들어가/pvg+니/ecs
+5	외숙모가	외숙모+가	NOUN	_	8	nsubj	_	_	외숙모/ncn+가/jcs
+6	근심스런	근심+스럽+ㄴ	VERB	_	7	amod	_	_	근심/ncps+스럽/xsm+ㄴ/etm
+7	얼굴로	얼굴+로	ADV	_	8	advcl	_	_	얼굴/ncn+로/jca
+8	캐물었다	캐물+었+다	VERB	_	0	root	_	_	캐물/pvg+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 언성이 높아지니 외삼촌이 내다보셨다 .
+1	언성이	언성+이	NOUN	_	2	nsubj	_	_	언성/ncn+이/jcs
+2	높아지니	높아지+니	SCONJ	_	4	ccomp	_	_	높아지/pvg+니/ecs
+3	외삼촌이	외삼촌+이	NOUN	_	4	nsubj	_	_	외삼촌/ncn+이/jcs
+4	내다보셨다	내다보+셨+다	VERB	_	0	root	_	_	내다보/pvg+셨/ep+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 자초지종을 듣고 난 외삼촌은 오히려 외숙모를 나무라는 게 아닌가 .
+1	자초지종을	자초지종+을	NOUN	_	2	obj	_	_	자초지종/ncn+을/jco
+2	듣고	듣+고	CCONJ	_	3	conj	_	_	듣/pvg+고/ecc
+3	난	나+ㄴ	VERB	_	4	acl	_	_	나/pvg+ㄴ/etm
+4	외삼촌은	외삼촌+은	NOUN	_	9	dislocated	_	_	외삼촌/ncn+은/jxt
+5	오히려	오히려	ADV	_	7	advmod	_	_	오히려/mag
+6	외숙모를	외숙모+를	NOUN	_	7	obj	_	_	외숙모/ncn+를/jco
+7	나무라는	나무라+는	VERB	_	8	acl	_	_	나무라/pvg+는/etm
+8	게	게	NOUN	_	9	mark	_	_	게/nbn
+9	아닌가	아니+ㄴ가	ADJ	_	0	root	_	_	아니/paa+ㄴ가/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 지게꾼조합은 정선배 집에 모이던 아이들이 가난한 마을사람들을 돕기 위해 조직한 모임이다 .
+1	지게꾼조합은	지게꾼조합+은	NOUN	_	11	dislocated	_	_	지게꾼조합/ncn+은/jxt
+2	정선배	정+선배	NOUN	_	3	compound	_	_	정/nq+선배/ncn
+3	집에	집+에	ADV	_	4	obl	_	_	집/ncn+에/jca
+4	모이던	모이+더+ㄴ	VERB	_	5	acl	_	_	모이/pvg+더/ep+ㄴ/etm
+5	아이들이	아이+들+이	NOUN	_	10	nsubj	_	_	아이/ncn+들/xsn+이/jcs
+6	가난한	가난+하+ㄴ	VERB	_	7	amod	_	_	가난/ncps+하/xsm+ㄴ/etm
+7	마을사람들을	마을+사람+들+을	NOUN	_	8	obj	_	_	마을/ncn+사람/ncn+들/xsn+을/jco
+8	돕기	돕+기	VERB	_	9	nmod	_	_	돕/pvg+기/etn
+9	위해	위하+어	SCONJ	_	10	ccomp	_	_	위하/pvg+어/ecs
+10	조직한	조직+하+ㄴ	VERB	_	11	ccomp	_	_	조직/ncpa+하/xsv+ㄴ/etm
+11	모임이다	모임+이+다	VERB	_	0	root	_	_	모임/ncn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 아이들이 한 나무이긴 하지만 스물댓 짐씩 쌓아놓고 보면 상당한 양이 되었다 .
+1	아이들이	아이+들+이	NOUN	_	2	nsubj	_	_	아이/ncn+들/xsn+이/jcs
+2	한	하+ㄴ	VERB	_	3	acl	_	_	하/pvg+ㄴ/etm
+3	나무이긴	나무+이+기+는	NOUN	_	4	dislocated	_	_	나무/ncn+이/jp+기/etn+는/jxt
+4	하지만	하+지만	SCONJ	_	7	ccomp	_	_	하/pvg+지만/ecs
+5	스물댓	스물댓	NUM	_	6	nummod	_	_	스물댓/nnc
+6	짐씩	짐+씩	NOUN	_	7	advmod	_	_	짐/nbu+씩/xsn
+7	쌓아놓고	쌓+아+놓+고	AUX	_	11	ccomp	_	_	쌓/pvg+아/ecx+놓/px+고/ecx
+8	보면	보+면	SCONJ	_	7	aux	_	_	보/px+면/ecs
+9	상당한	상당+하+ㄴ	VERB	_	10	amod	_	_	상당/ncps+하/xsm+ㄴ/etm
+10	양이	양+이	NOUN	_	11	csubj	_	_	양/ncn+이/jcc
+11	되었다	되+었+다	VERB	_	0	root	_	_	되/pvg+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 화전을 부쳐 거둔 감자마저 일제와 땅주인에게 뜯기고 하루 한끼 감자죽으로 끼니를 잇던 가난한 이들 .
+1	화전을	화전+을	NOUN	_	2	obj	_	_	화전/ncn+을/jco
+2	부쳐	부치+어	SCONJ	_	3	ccomp	_	_	부치/pvg+어/ecs
+3	거둔	거두+ㄴ	VERB	_	4	acl	_	_	거두/pvg+ㄴ/etm
+4	감자마저	감자+마저	ADV	_	7	advcl	_	_	감자/ncn+마저/jxc
+5	일제와	일제+와	CCONJ	_	6	conj	_	_	일제/ncn+와/jcj
+6	땅주인에게	땅주인+에게	ADV	_	7	iobj	_	_	땅주인/ncn+에게/jca
+7	뜯기고	뜯기+고	CCONJ	_	12	conj	_	_	뜯기/pvg+고/ecc
+8	하루	하루	NOUN	_	9	compound	_	_	하루/ncn
+9	한끼	한끼	NOUN	_	12	advmod	_	_	한끼/ncn
+10	감자죽으로	감자죽+으로	ADV	_	12	advcl	_	_	감자죽/ncn+으로/jca
+11	끼니를	끼니+를	NOUN	_	12	obj	_	_	끼니/ncn+를/jco
+12	잇던	잇+더+ㄴ	VERB	_	14	acl	_	_	잇/pvg+더/ep+ㄴ/etm
+13	가난한	가난+하+ㄴ	VERB	_	14	amod	_	_	가난/ncps+하/xsm+ㄴ/etm
+14	이들	이+들	NOUN	_	0	root	_	_	이/npp+들/xsn
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 여기에 공황으로 도시에서 실직한 노동자들까지 고향 농촌으로 밀려드니 춘궁 농민은 날로 늘어만 갔다 .
+1	여기에	여기+에	ADV	_	8	obl	_	_	여기/npd+에/jca
+2	공황으로	공황+으로	ADV	_	4	advcl	_	_	공황/ncn+으로/jca
+3	도시에서	도시+에서	ADV	_	4	advcl	_	_	도시/ncn+에서/jca
+4	실직한	실직+하+ㄴ	VERB	_	5	acl	_	_	실직/ncpa+하/xsv+ㄴ/etm
+5	노동자들까지	노동자+들+까지	ADV	_	8	advcl	_	_	노동자/ncn+들/xsn+까지/jxc
+6	고향	고향	NOUN	_	7	compound	_	_	고향/ncn
+7	농촌으로	농촌+으로	ADV	_	8	advcl	_	_	농촌/ncn+으로/jca
+8	밀려드니	밀려들+니	SCONJ	_	12	ccomp	_	_	밀려들/pvg+니/ecs
+9	춘궁	춘궁	NOUN	_	10	compound	_	_	춘궁/ncn
+10	농민은	농민+은	NOUN	_	12	dislocated	_	_	농민/ncn+은/jxt
+11	날로	날로	ADV	_	12	advmod	_	_	날로/mag
+12	늘어만	늘+어+만	ADV	_	0	root	_	_	늘/pvg+어/ecx+만/jxc
+13	갔다	가+ㅆ+다	AUX	_	12	aux	_	_	가/px+ㅆ/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그때 내 나이 열여섯 .
+1	그때	그때	ADV	_	4	advmod	_	_	그때/mad
+2	내	내	PRON	_	3	compound	_	_	내/npp
+3	나이	나이	NOUN	_	4	compound	_	_	나이/ncn
+4	열여섯	열여섯	NUM	_	0	root	_	_	열여섯/nnc
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 설마 했는데 일제 경찰 여섯 명이 한밤중에 외갓집으로 들이닥쳤다 .
+1	설마	설마	ADV	_	2	advmod	_	_	설마/mag
+2	했는데	하+었+는데	SCONJ	_	9	ccomp	_	_	하/pvg+었/ep+는데/ecs
+3	일제	일제	NOUN	_	4	compound	_	_	일제/ncn
+4	경찰	경찰	NOUN	_	5	compound	_	_	경찰/ncn
+5	여섯	여섯	NUM	_	6	nummod	_	_	여섯/nnc
+6	명이	명+이	NOUN	_	9	nsubj	_	_	명/nbu+이/jcs
+7	한밤중에	한밤중+에	ADV	_	9	obl	_	_	한밤중/ncn+에/jca
+8	외갓집으로	외갓집+으로	ADV	_	9	advcl	_	_	외갓집/ncn+으로/jca
+9	들이닥쳤다	들이닥치+었+다	VERB	_	0	root	_	_	들이닥치/pvg+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그들은 다짜고짜 나를 붙들어놓고는 집 안 구석구석을 이 잡듯이 뒤졌다 .
+1	그들은	그+들+은	PRON	_	10	dislocated	_	_	그/npp+들/xsn+은/jxt
+2	다짜고짜	다짜고짜	ADV	_	4	advmod	_	_	다짜고짜/mag
+3	나를	나+를	PRON	_	4	obj	_	_	나/npp+를/jco
+4	붙들어놓고는	붙들+어+놓+고+는	NOUN	_	10	ccomp	_	_	붙들/pvg+어/ecx+놓/px+고/ecc+는/jxt
+5	집	집	NOUN	_	6	compound	_	_	집/ncn
+6	안	안	NOUN	_	7	compound	_	_	안/ncn
+7	구석구석을	구석구석+을	NOUN	_	10	obj	_	_	구석구석/ncn+을/jco
+8	이	이	NUM	_	9	nummod	_	_	이/nnc
+9	잡듯이	잡+듯이	SCONJ	_	10	ccomp	_	_	잡/pvg+듯이/ecs
+10	뒤졌다	뒤지+었+다	VERB	_	0	root	_	_	뒤지/pvg+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 경황중에도 외삼촌이 형사들을 막아 보려고 따지고 들었다 .
+1	경황중에도	경황중+에+도	ADV	_	8	advcl	_	_	경황중/ncn+에/jca+도/jxc
+2	외삼촌이	외삼촌+이	NOUN	_	8	nsubj	_	_	외삼촌/ncn+이/jcs
+3	형사들을	형사+들+을	NOUN	_	4	obj	_	_	형사/ncn+들/xsn+을/jco
+4	막아	막+아	VERB	_	8	ccomp	_	_	막/pvg+아/ecx
+5	보려고	보+려고	SCONJ	_	4	aux	_	_	보/px+려고/ecs
+6	따지고	따지+고	CCONJ	_	7	conj	_	_	따지/pvg+고/ecc
+7	들었다	들+었+다	VERB	_	8	conj	_	_	들/pvg+었/ep+다/ef
+8	.	.	PUNCT	_	0	root	_	_	./sf
+
+# 마침내 골방 천장에 새로 바른 도배지를 유심히 쳐다보던 형사 한 사람이 막대기로 그곳을 찔러 당기니 사회과학서적이 우르르 쏟아져 내렸다 .
+1	마침내	마침내	ADV	_	19	advmod	_	_	마침내/mag
+2	골방	골방	NOUN	_	3	compound	_	_	골방/ncn
+3	천장에	천장+에	ADV	_	5	obl	_	_	천장/ncn+에/jca
+4	새로	새로	ADV	_	5	advmod	_	_	새로/mag
+5	바른	바르+ㄴ	VERB	_	6	acl	_	_	바르/pvg+ㄴ/etm
+6	도배지를	도배지+를	NOUN	_	8	obj	_	_	도배지/ncn+를/jco
+7	유심히	유심히	ADV	_	8	advmod	_	_	유심히/mag
+8	쳐다보던	쳐다보+더+ㄴ	VERB	_	11	acl	_	_	쳐다보/pvg+더/ep+ㄴ/etm
+9	형사	형사	NOUN	_	11	compound	_	_	형사/ncn
+10	한	한	NUM	_	11	nummod	_	_	한/nnc
+11	사람이	사람+이	NOUN	_	15	nsubj	_	_	사람/ncn+이/jcs
+12	막대기로	막대기+로	ADV	_	14	advcl	_	_	막대기/ncn+로/jca
+13	그곳을	그곳+을	PRON	_	14	obj	_	_	그곳/npd+을/jco
+14	찔러	찌르+어	SCONJ	_	15	ccomp	_	_	찌르/pvg+어/ecs
+15	당기니	당기+니	SCONJ	_	19	ccomp	_	_	당기/pvg+니/ecs
+16	사회과학서적이	사회+과학+서적+이	NOUN	_	18	nsubj	_	_	사회/ncn+과학/ncn+서적/ncn+이/jcs
+17	우르르	우르르	ADV	_	18	advmod	_	_	우르르/mag
+18	쏟아져	쏟아지+어	SCONJ	_	19	ccomp	_	_	쏟아지/pvg+어/ecs
+19	내렸다	내리+었+다	VERB	_	0	root	_	_	내리/pvg+었/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 의기양양해진 형사가 외삼촌에게 덤볐다 .
+1	의기양양해진	의기+양양+하+어+지+ㄴ	AUX	_	2	acl	_	_	의기/ncn+양양/ncpa+하/xsv+어/ecx+지/px+ㄴ/etm
+2	형사가	형사+가	NOUN	_	4	nsubj	_	_	형사/ncn+가/jcs
+3	외삼촌에게	외삼촌+에게	ADV	_	4	iobj	_	_	외삼촌/ncn+에게/jca
+4	덤볐다	덤비+었+다	VERB	_	0	root	_	_	덤비/pvg+었/ep+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 당연히 어깨는 거만하게 올라가고 얼굴에는 웃음이 마구 떠올랐다 .
+1	당연히	당연히	ADV	_	4	advmod	_	_	당연히/mag
+2	어깨는	어깨+는	NOUN	_	4	dislocated	_	_	어깨/ncn+는/jxt
+3	거만하게	거만+하+게	SCONJ	_	4	xcomp	_	_	거만/ncps+하/xsm+게/ecs
+4	올라가고	올라가+고	CCONJ	_	8	conj	_	_	올라가/pvg+고/ecc
+5	얼굴에는	얼굴+에+는	NOUN	_	8	dislocated	_	_	얼굴/ncn+에/jca+는/jxt
+6	웃음이	웃음+이	NOUN	_	8	nsubj	_	_	웃음/ncn+이/jcs
+7	마구	마구	ADV	_	8	advmod	_	_	마구/mag
+8	떠올랐다	떠오르+았+다	VERB	_	0	root	_	_	떠오르/pvg+았/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그도 태연히 웃음 띤 얼굴이었다 .
+1	그도	그+도	ADV	_	5	advcl	_	_	그/npp+도/jxc
+2	태연히	태연히	ADV	_	4	advmod	_	_	태연히/mag
+3	웃음	웃음	NOUN	_	4	dep	_	_	웃음/ncn
+4	띤	띠+ㄴ	VERB	_	5	ccomp	_	_	띠/pvg+ㄴ/etm
+5	얼굴이었다	얼굴+이+었+다	VERB	_	0	root	_	_	얼굴/ncn+이/jp+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 이들은 풍산적색농민조합 사람들이었다 .
+1	이들은	이+들+은	PRON	_	3	dislocated	_	_	이/npp+들/xsn+은/jxt
+2	풍산적색농민조합	풍산적색농민조합	NOUN	_	3	compound	_	_	풍산적색농민조합/ncn
+3	사람들이었다	사람+들+이+었+다	VERB	_	0	root	_	_	사람/ncn+들/xsn+이/jp+었/ep+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 경찰은 잡아들인 사람들을 차에 태워 풍산경찰서로 이송하기 시작했다 .
+1	경찰은	경찰+은	NOUN	_	2	dislocated	_	_	경찰/ncn+은/jxt
+2	잡아들인	잡아들이+ㄴ	VERB	_	3	acl	_	_	잡아들이/pvg+ㄴ/etm
+3	사람들을	사람+들+을	NOUN	_	5	obj	_	_	사람/ncn+들/xsn+을/jco
+4	차에	차+에	ADV	_	5	obl	_	_	차/ncn+에/jca
+5	태워	태우+어	SCONJ	_	8	ccomp	_	_	태우/pvg+어/ecs
+6	풍산경찰서로	풍산+경찰서+로	ADV	_	7	advcl	_	_	풍산/nq+경찰서/ncn+로/jca
+7	이송하기	이송+하+기	VERB	_	8	nmod	_	_	이송/ncpa+하/xsv+기/etn
+8	시작했다	시작+하+었+다	VERB	_	0	root	_	_	시작/ncpa+하/xsv+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 외갓집 앞을 지날 무렵 갑자기 차가 멈췄다 .
+1	외갓집	외갓집	NOUN	_	2	compound	_	_	외갓집/ncn
+2	앞을	앞+을	NOUN	_	3	obj	_	_	앞/ncn+을/jco
+3	지날	지나+ㄹ	VERB	_	4	acl	_	_	지나/pvg+ㄹ/etm
+4	무렵	무렵	NOUN	_	7	advmod	_	_	무렵/nbn
+5	갑자기	갑자기	ADV	_	7	advmod	_	_	갑자기/mag
+6	차가	차+가	NOUN	_	7	nsubj	_	_	차/ncn+가/jcs
+7	멈췄다	멈추+었+다	VERB	_	0	root	_	_	멈추/pvg+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 뺨에 솥뚜껑 같은 손바닥이 마구 날아왔다 .
+1	뺨에	뺨+에	ADV	_	6	obl	_	_	뺨/ncn+에/jca
+2	솥뚜껑	솥뚜껑	NOUN	_	3	dep	_	_	솥뚜껑/ncn
+3	같은	같+ㄴ	ADJ	_	4	amod	_	_	같/paa+ㄴ/etm
+4	손바닥이	손바닥+이	NOUN	_	6	nsubj	_	_	손바닥/ncn+이/jcs
+5	마구	마구	ADV	_	6	advmod	_	_	마구/mag
+6	날아왔다	날아오+았+다	VERB	_	0	root	_	_	날아오/pvg+았/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 지사이야쓰가를 연발하던 왜놈 형사는 눈을 치뜨고 노려보는 내가 기가 찼던지 도로 유치장에 가두었다 .
+1	지사이야쓰가를	지사이야쓰가+를	NOUN	_	2	obj	_	_	지사이야쓰가/ncn+를/jco
+2	연발하던	연발+하+더+ㄴ	VERB	_	4	acl	_	_	연발/ncpa+하/xsv+더/ep+ㄴ/etm
+3	왜놈	왜놈	NOUN	_	4	compound	_	_	왜놈/ncn
+4	형사는	형사+는	NOUN	_	13	dislocated	_	_	형사/ncn+는/jxt
+5	눈을	눈+을	NOUN	_	6	obj	_	_	눈/ncn+을/jco
+6	치뜨고	치뜨+고	CCONJ	_	7	conj	_	_	치뜨/pvg+고/ecc
+7	노려보는	노리+어+보+는	AUX	_	8	acl	_	_	노리/pvg+어/ecx+보/px+는/etm
+8	내가	내+가	PRON	_	10	nsubj	_	_	내/npp+가/jcs
+9	기가	기+가	NOUN	_	10	nsubj	_	_	기/ncn+가/jcs
+10	찼던지	차+ㅆ더+ㄴ지	SCONJ	_	13	ccomp	_	_	차/pvg+ㅆ더/ep+ㄴ지/ecs
+11	도로	도로	ADV	_	13	advmod	_	_	도로/mag
+12	유치장에	유치장+에	ADV	_	13	obl	_	_	유치장/ncn+에/jca
+13	가두었다	가두+었+다	VERB	_	0	root	_	_	가두/pvg+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이렇게 되니 유치장이 턱도 없이 모자라 이들의 발목에 족쇄를 채워 무작정 사무실에까지 집어넣었다 .
+1	이렇게	이렇+게	SCONJ	_	2	xcomp	_	_	이렇/pad+게/ecs
+2	되니	되+니	SCONJ	_	6	ccomp	_	_	되/pvg+니/ecs
+3	유치장이	유치장+이	NOUN	_	6	nsubj	_	_	유치장/ncn+이/jcs
+4	턱도	턱+도	ADV	_	5	advcl	_	_	턱/nbn+도/jxc
+5	없이	없+이	SCONJ	_	6	xcomp	_	_	없/paa+이/ecs
+6	모자라	모자라+아	SCONJ	_	13	ccomp	_	_	모자라/pvg+아/ecs
+7	이들의	이+들+의	PRON	_	8	nmod	_	_	이/npd+들/xsn+의/jcm
+8	발목에	발목+에	ADV	_	10	obl	_	_	발목/ncn+에/jca
+9	족쇄를	족쇄+를	NOUN	_	10	obj	_	_	족쇄/ncn+를/jco
+10	채워	채우+어	SCONJ	_	13	ccomp	_	_	채우/pvg+어/ecs
+11	무작정	무작정	ADV	_	13	advmod	_	_	무작정/mag
+12	사무실에까지	사무실+에+까지	ADV	_	13	advcl	_	_	사무실/ncn+에/jca+까지/jxc
+13	집어넣었다	집어넣+었+다	VERB	_	0	root	_	_	집어넣/pvg+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그립고 그립던 선배들과 함께 있게 되니 더할 나위 없이 좋았는데 특히 정운길 선배와 같이 있게 되어 더욱 기뻤다 .
+1	그립고	그립+고	CCONJ	_	2	conj	_	_	그립/paa+고/ecc
+2	그립던	그립+더+ㄴ	ADJ	_	3	amod	_	_	그립/paa+더/ep+ㄴ/etm
+3	선배들과	선배+들+과	CCONJ	_	4	conj	_	_	선배/ncn+들/xsn+과/jct
+4	함께	함께	ADV	_	5	advmod	_	_	함께/mag
+5	있게	있+게	ADJ	_	10	amod	_	_	있/paa+게/ecx
+6	되니	되+니	SCONJ	_	5	aux	_	_	되/px+니/ecs
+7	더할	더하+ㄹ	VERB	_	8	acl	_	_	더하/pvg+ㄹ/etm
+8	나위	나위	NOUN	_	9	mark	_	_	나위/nbn
+9	없이	없+이	SCONJ	_	10	xcomp	_	_	없/paa+이/ecs
+10	좋았는데	좋+았+는데	SCONJ	_	18	xcomp	_	_	좋/paa+았/ep+는데/ecs
+11	특히	특히	ADV	_	18	advmod	_	_	특히/mag
+12	정운길	정운길	PROPN	_	13	compound	_	_	정운길/nq
+13	선배와	선배+와	CCONJ	_	14	conj	_	_	선배/ncn+와/jct
+14	같이	같+이	SCONJ	_	15	xcomp	_	_	같/paa+이/ecs
+15	있게	있+게	ADJ	_	18	amod	_	_	있/paa+게/ecx
+16	되어	되+어	SCONJ	_	15	aux	_	_	되/px+어/ecs
+17	더욱	더욱	ADV	_	18	advmod	_	_	더욱/mag
+18	기뻤다	기쁘+었+다	ADJ	_	0	root	_	_	기쁘/paa+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 형사들은 정동지의 시신을 검사가 올 때까지 그대로 두었다 .
+1	형사들은	형사+들+은	NOUN	_	8	dislocated	_	_	형사/ncn+들/xsn+은/jxt
+2	정동지의	정+동지+의	PROPN	_	3	nmod	_	_	정/nq+동지/ncn+의/jcm
+3	시신을	시신+을	NOUN	_	8	obj	_	_	시신/ncn+을/jco
+4	검사가	검사+가	NOUN	_	5	nsubj	_	_	검사/ncn+가/jcs
+5	올	오+ㄹ	VERB	_	6	acl	_	_	오/pvg+ㄹ/etm
+6	때까지	때+까지	ADV	_	8	advcl	_	_	때/ncn+까지/jxc
+7	그대로	그대로	ADV	_	8	advmod	_	_	그대로/mag
+8	두었다	두+었+다	VERB	_	0	root	_	_	두/pvg+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 우리들 다섯 사람은 검사에게 이구동성으로 상황을 설명하고 항의했으나 검사는 묵묵부답이었다 .
+1	우리들	우리+들	NOUN	_	3	compound	_	_	우리/npp+들/xsn
+2	다섯	다섯	NUM	_	3	nummod	_	_	다섯/nnc
+3	사람은	사람+은	NOUN	_	10	dislocated	_	_	사람/ncn+은/jxt
+4	검사에게	검사+에게	ADV	_	8	iobj	_	_	검사/ncn+에게/jca
+5	이구동성으로	이구동성+으로	ADV	_	7	advcl	_	_	이구동성/ncn+으로/jca
+6	상황을	상황+을	NOUN	_	7	obj	_	_	상황/ncn+을/jco
+7	설명하고	설명+하+고	CCONJ	_	8	conj	_	_	설명/ncpa+하/xsv+고/ecc
+8	항의했으나	항의+하+었+으나	SCONJ	_	10	ccomp	_	_	항의/ncpa+하/xsv+었/ep+으나/ecs
+9	검사는	검사+는	NOUN	_	10	dislocated	_	_	검사/ncn+는/jxt
+10	묵묵부답이었다	묵묵부답+이+었+다	VERB	_	0	root	_	_	묵묵부답/ncn+이/jp+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 나오기 전날 검사가 나를 불러냈다 .
+1	나오기	나오+기	VERB	_	2	nmod	_	_	나오/pvg+기/etn
+2	전날	전날	NOUN	_	5	advmod	_	_	전날/ncn
+3	검사가	검사+가	NOUN	_	5	nsubj	_	_	검사/ncn+가/jcs
+4	나를	나+를	PRON	_	5	obj	_	_	나/npp+를/jco
+5	불러냈다	불러내+ㅆ+다	VERB	_	0	root	_	_	불러내/pvg+ㅆ/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 오발사고로 정운길 선배가 죽었다는 소문을 듣고 발을 동동 구르고 계시던 외할머니와 외숙모는 내가 들어서자 울음부터 터뜨리셨다 .
+1	오발사고로	오발사고+로	ADV	_	4	advcl	_	_	오발사고/ncn+로/jca
+2	정운길	정운길	PROPN	_	3	compound	_	_	정운길/nq
+3	선배가	선배+가	NOUN	_	4	nsubj	_	_	선배/ncn+가/jcs
+4	죽었다는	죽+었+다는	VERB	_	5	acl	_	_	죽/pvg+었/ep+다는/etm
+5	소문을	소문+을	NOUN	_	6	obj	_	_	소문/ncn+을/jco
+6	듣고	듣+고	CCONJ	_	10	conj	_	_	듣/pvg+고/ecc
+7	발을	발+을	NOUN	_	9	obj	_	_	발/ncn+을/jco
+8	동동	동동	ADV	_	9	advmod	_	_	동동/mag
+9	구르고	구르+고	CCONJ	_	10	conj	_	_	구르/pvg+고/ecc
+10	계시던	계시+더+ㄴ	VERB	_	12	acl	_	_	계시/pvg+더/ep+ㄴ/etm
+11	외할머니와	외할머니+와	CCONJ	_	12	conj	_	_	외할머니/ncn+와/jcj
+12	외숙모는	외숙모+는	NOUN	_	16	dislocated	_	_	외숙모/ncn+는/jxt
+13	내가	내+가	PRON	_	14	nsubj	_	_	내/npp+가/jcs
+14	들어서자	들어서+자	SCONJ	_	16	ccomp	_	_	들어서/pvg+자/ecs
+15	울음부터	울음+부터	ADV	_	16	advcl	_	_	울음/ncn+부터/jxc
+16	터뜨리셨다	터뜨리+셨+다	VERB	_	0	root	_	_	터뜨리/pvg+셨/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+

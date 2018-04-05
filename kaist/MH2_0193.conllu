@@ -1,0 +1,2597 @@
+# 종파에 따라서는 아미타여래라거나 대일여래가 본존 ( 本尊 ) 으로 받들여지고 있는 경우도 있고 , 또 그외에도 약사보살 , 관음보살 , 제석천 등 본존으로 모셔지는 불 보살이 다양합니다 .
+1	종파에	종파+에	ADV	_	2	obl	_	_	종파/ncn+에/jca
+2	따라서는	따르+아서+는	NOUN	_	13	dep	_	_	따르/pvg+아서/ecs+는/jxt
+3	아미타여래라거나	아미타여래+라거나	CCONJ	_	4	conj	_	_	아미타여래/nq+라거나/jcj
+4	대일여래가	대일여래+가	PROPN	_	10	nsubj	_	_	대일여래/nq+가/jcs
+5	본존	본존	NOUN	_	10	advcl	_	_	본존/ncn
+6	(	(	PUNCT	_	7	punct	_	_	(/sl
+7	本尊	本尊	NOUN	_	5	appos	_	_	本尊/ncn
+8	)	)	PUNCT	_	7	punct	_	_	)/sr
+9	으로	으로	ADP	_	5	case	_	_	으로/jca
+10	받들여지고	받들이+어+지+고	AUX	_	12	acl	_	_	받들이/pvg+어/ecx+지/px+고/ecx
+11	있는	있+는	AUX	_	10	aux	_	_	있/px+는/etm
+12	경우도	경우+도	ADV	_	13	advcl	_	_	경우/ncn+도/jxc
+13	있고	있+고	CCONJ	_	15	conj	_	_	있/paa+고/ecc
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	또	또	CCONJ	_	27	conj	_	_	또/maj
+16	그외에도	그+외+에+도	ADV	_	27	advcl	_	_	그/npd+외/ncn+에/jca+도/jxc
+17	약사보살	약사보살	PROPN	_	19	conj	_	_	약사보살/nq
+18	,	,	PUNCT	_	17	punct	_	_	,/sp
+19	관음보살	관음보살	PROPN	_	21	conj	_	_	관음보살/nq
+20	,	,	PUNCT	_	19	punct	_	_	,/sp
+21	제석천	제석천	PROPN	_	22	compound	_	_	제석천/nq
+22	등	등	NOUN	_	26	mark	_	_	등/nbn
+23	본존으로	본존+으로	ADV	_	24	advcl	_	_	본존/ncn+으로/jca
+24	모셔지는	모시+어+지+는	AUX	_	26	acl	_	_	모시/pvg+어/ecx+지/px+는/etm
+25	불	불	NOUN	_	26	compound	_	_	불/ncn
+26	보살이	보살+이	NOUN	_	27	nsubj	_	_	보살/ncn+이/jcs
+27	다양합니다	다양+하+ㅂ니다	VERB	_	0	root	_	_	다양/ncps+하/xsm+ㅂ니다/ef
+28	.	.	PUNCT	_	27	punct	_	_	./sf
+
+# 그러나 말할 것도 없이 불교는 우선 불타 ( 석가모니 ) 께서 계시고 난 연후에 일이 되겠습니다 .
+1	그러나	그러나	CCONJ	_	16	cc	_	_	그러나/maj
+2	말할	말하+ㄹ	VERB	_	3	acl	_	_	말하/pvg+ㄹ/etm
+3	것도	것+도	ADV	_	4	advcl	_	_	것/nbn+도/jxc
+4	없이	없+이	SCONJ	_	16	xcomp	_	_	없/paa+이/ecs
+5	불교는	불교+는	PROPN	_	16	dislocated	_	_	불교/nq+는/jxt
+6	우선	우선	ADV	_	12	advmod	_	_	우선/mag
+7	불타	불타	PROPN	_	12	nsubj	_	_	불타/nq
+8	(	(	PUNCT	_	9	punct	_	_	(/sl
+9	석가모니	석가모니	PROPN	_	7	appos	_	_	석가모니/nq
+10	)	)	PUNCT	_	9	punct	_	_	)/sr
+11	께서	께서	ADP	_	7	case	_	_	께서/jcs
+12	계시고	계시+고	VERB	_	14	acl	_	_	계시/pvg+고/ecx
+13	난	나+ㄴ	AUX	_	12	aux	_	_	나/px+ㄴ/etm
+14	연후에	연후+에	ADV	_	16	obl	_	_	연후/ncn+에/jca
+15	일이	일+이	NOUN	_	16	csubj	_	_	일/ncpa+이/jcc
+16	되겠습니다	되+겠+습니다	VERB	_	0	root	_	_	되/pvg+겠/ep+습니다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그런데 , 불교도에게 있어서 가장 중요한 불타의 탄생이 언제였는가 하는 문제는 , 그리 간단하게는 풀려질 수 없는 어려운 문제라 하겠습니다 .
+1	그런데	그런데	CCONJ	_	20	cc	_	_	그런데/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	불교도에게	불교도+에게	ADV	_	4	iobj	_	_	불교도/ncn+에게/jca
+4	있어서	있+어서	SCONJ	_	6	xcomp	_	_	있/paa+어서/ecs
+5	가장	가장	ADV	_	6	advmod	_	_	가장/mag
+6	중요한	중요+하+ㄴ	VERB	_	8	amod	_	_	중요/ncps+하/xsm+ㄴ/etm
+7	불타의	불타+의	PROPN	_	8	nmod	_	_	불타/nq+의/jcm
+8	탄생이	탄생+이	NOUN	_	9	nsubj	_	_	탄생/ncpa+이/jcs
+9	언제였는가	언제+이+었+는가	VERB	_	10	ccomp	_	_	언제/npd+이/jp+었/ep+는가/ef
+10	하는	하+는	VERB	_	11	acl	_	_	하/pvg+는/etm
+11	문제는	문제+는	NOUN	_	19	advmod	_	_	문제/ncn+는/jxt
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	그리	그리	ADV	_	14	advmod	_	_	그리/mag
+14	간단하게는	간단+하+게+는	NOUN	_	15	amod	_	_	간단/ncps+하/xsm+게/ecs+는/jxt
+15	풀려질	풀리+어+지+ㄹ	AUX	_	19	ccomp	_	_	풀리/pvg+어/ecx+지/px+ㄹ/etm
+16	수	수	NOUN	_	17	fixed	_	_	수/nbn
+17	없는	없+는	ADJ	_	15	aux	_	_	없/paa+는/etm
+18	어려운	어렵+ㄴ	ADJ	_	19	amod	_	_	어렵/paa+ㄴ/etm
+19	문제라	문제+이+라	VERB	_	20	ccomp	_	_	문제/ncn+이/jp+라/ef
+20	하겠습니다	하+겠+습니다	VERB	_	0	root	_	_	하/pvg+겠/ep+습니다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 이 문제를 가지고 , 옛날부터 여러 스님들이라거나 학자들이 머리를 싸매고 연구하여 왔었습니다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	문제를	문제+를	NOUN	_	3	obj	_	_	문제/ncn+를/jco
+3	가지고	가지+고	CCONJ	_	11	conj	_	_	가지/pvg+고/ecc
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	옛날부터	옛날+부터	ADV	_	11	advcl	_	_	옛날/ncn+부터/jxc
+6	여러	여러	ADJ	_	7	amod	_	_	여러/mma
+7	스님들이라거나	스님+들+이라거나	CCONJ	_	8	conj	_	_	스님/ncn+들/xsn+이라거나/jcj
+8	학자들이	학자+들+이	NOUN	_	11	nsubj	_	_	학자/ncn+들/xsn+이/jcs
+9	머리를	머리+를	NOUN	_	10	obj	_	_	머리/ncn+를/jco
+10	싸매고	싸매+고	CCONJ	_	11	conj	_	_	싸매/pvg+고/ecc
+11	연구하여	연구+하+어	VERB	_	0	root	_	_	연구/ncpa+하/xsv+어/ecx
+12	왔었습니다	오+았었+습니다	AUX	_	11	aux	_	_	오/px+았었/ep+습니다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 옛날 인도 사람들은 무얼 기록해 두는 데에 있어서 , 연월일을 신경을 써서 기록해 놓는 습관이 아니었습니다 .
+1	옛날	옛날	NOUN	_	16	dep	_	_	옛날/ncn
+2	인도	인도	PROPN	_	3	compound	_	_	인도/nq
+3	사람들은	사람+들+은	NOUN	_	16	dislocated	_	_	사람/ncn+들/xsn+은/jxt
+4	무얼	무얼	ADV	_	5	advmod	_	_	무얼/mag
+5	기록해	기록+하+어	VERB	_	7	acl	_	_	기록/ncpa+하/xsv+어/ecx
+6	두는	두+는	AUX	_	5	aux	_	_	두/px+는/etm
+7	데에	데+에	ADV	_	8	obl	_	_	데/nbn+에/jca
+8	있어서	있+어서	SCONJ	_	16	xcomp	_	_	있/paa+어서/ecs
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	연월일을	연월일+을	NOUN	_	13	obj	_	_	연월일/ncn+을/jco
+11	신경을	신경+을	NOUN	_	12	obj	_	_	신경/ncn+을/jco
+12	써서	쓰+어서	SCONJ	_	13	ccomp	_	_	쓰/pvg+어서/ecs
+13	기록해	기록+하+어	VERB	_	15	acl	_	_	기록/ncpa+하/xsv+어/ecx
+14	놓는	놓+는	AUX	_	13	aux	_	_	놓/px+는/etm
+15	습관이	습관+이	NOUN	_	16	csubj	_	_	습관/ncn+이/jcc
+16	아니었습니다	아니+었+습니다	ADJ	_	0	root	_	_	아니/paa+었/ep+습니다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 물론 인도라고 하는 나라는 퍽 오래 된 나라인 관계로 , 꽤 옛날부터 글발로 적어 놓은 것들이 많이 있습니다 .
+1	물론	물론	ADV	_	18	advmod	_	_	물론/mag
+2	인도라고	인도+이+라+고	VERB	_	3	conj	_	_	인도/nq+이/jp+라/ef+고/jcr
+3	하는	하+는	VERB	_	4	acl	_	_	하/pvg+는/etm
+4	나라는	나라+는	NOUN	_	8	dislocated	_	_	나라/ncn+는/jxt
+5	퍽	퍽	ADV	_	7	advmod	_	_	퍽/mag
+6	오래	오래	ADV	_	5	advmod	_	_	오래/mag
+7	된	되+ㄴ	VERB	_	8	ccomp	_	_	되/pvg+ㄴ/etm
+8	나라인	나라+이+ㄴ	VERB	_	9	acl	_	_	나라/ncn+이/jp+ㄴ/etm
+9	관계로	관계+로	ADV	_	18	dep	_	_	관계/ncpa+로/jca
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	꽤	꽤	ADV	_	12	advmod	_	_	꽤/mag
+12	옛날부터	옛날+부터	ADV	_	18	advcl	_	_	옛날/ncn+부터/jxc
+13	글발로	글발+로	ADV	_	14	advcl	_	_	글발/ncn+로/jca
+14	적어	적+어	VERB	_	16	acl	_	_	적/pvg+어/ecx
+15	놓은	놓+ㄴ	AUX	_	14	aux	_	_	놓/px+ㄴ/etm
+16	것들이	것+들+이	NOUN	_	18	nsubj	_	_	것/nbn+들/xsn+이/jcs
+17	많이	많이	ADV	_	18	advmod	_	_	많이/mag
+18	있습니다	있+습니다	ADJ	_	0	root	_	_	있/paa+습니다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그러므로 그 일이 정작 어느 해에 있었던 일인지 도무지 분명하지가 못합니다 .
+1	그러므로	그러므로	CCONJ	_	10	cc	_	_	그러므로/maj
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	일이	일+이	NOUN	_	7	nsubj	_	_	일/ncpa+이/jcs
+4	정작	정작	ADV	_	7	advmod	_	_	정작/mag
+5	어느	어느	DET	_	6	det	_	_	어느/mmd
+6	해에	해+에	ADV	_	7	obl	_	_	해/ncn+에/jca
+7	있었던	있+었+던	ADJ	_	8	amod	_	_	있/paa+었/ep+던/etm
+8	일인지	일+이+ㄴ지	VERB	_	10	dep	_	_	일/ncpa+이/jp+ㄴ지/ef
+9	도무지	도무지	ADV	_	10	advmod	_	_	도무지/mag
+10	분명하지가	분명+하+지+가	NOUN	_	0	root	_	_	분명/ncps+하/xsm+지/ecx+가/jcs
+11	못합니다	못하+ㅂ니다	AUX	_	10	aux	_	_	못하/px+ㅂ니다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그런데 , 이게 또 보통 일이 아닙니다 .
+1	그런데	그런데	CCONJ	_	7	cc	_	_	그런데/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	이게	이것+이	PRON	_	7	nsubj	_	_	이것/npd+이/jcs
+4	또	또	ADV	_	7	advmod	_	_	또/mag
+5	보통	보통	NOUN	_	6	compound	_	_	보통/ncn
+6	일이	일+이	NOUN	_	7	csubj	_	_	일/ncpa+이/jcc
+7	아닙니다	아니+ㅂ니다	ADJ	_	0	root	_	_	아니/paa+ㅂ니다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그래서 이래가지고는 안 되겠다는 생각에서 옛날 중국의 불교학자라거나 높은 스님들 사이에서도 , 이 문제에 대해서 조사했던 분들이 나왔었습니다 .
+1	그래서	그래서	CCONJ	_	18	cc	_	_	그래서/maj
+2	이래가지고는	이렇+어+가+아+지+고+는	NOUN	_	4	amod	_	_	이렇/pad+어/ecx+가/px+아/ecx+지/px+고/ecc+는/jxt
+3	안	안	ADV	_	4	advmod	_	_	안/mag
+4	되겠다는	되+겠+다는	VERB	_	5	acl	_	_	되/pvg+겠/ep+다는/etm
+5	생각에서	생각+에서	ADV	_	18	advcl	_	_	생각/ncpa+에서/jca
+6	옛날	옛날	NOUN	_	7	compound	_	_	옛날/ncn
+7	중국의	중국+의	PROPN	_	10	nmod	_	_	중국/nq+의/jcm
+8	불교학자라거나	불교학자+라거나	CCONJ	_	10	conj	_	_	불교학자/ncn+라거나/jcj
+9	높은	높+ㄴ	ADJ	_	10	amod	_	_	높/paa+ㄴ/etm
+10	스님들	스님+들	NOUN	_	11	compound	_	_	스님/ncn+들/xsn
+11	사이에서도	사이+에서+도	ADV	_	18	advmod	_	_	사이/ncn+에서/jca+도/jxc
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	이	이	DET	_	14	det	_	_	이/mmd
+14	문제에	문제+에	ADV	_	15	obl	_	_	문제/ncn+에/jca
+15	대해서	대하+어서	SCONJ	_	16	ccomp	_	_	대하/pvg+어서/ecs
+16	조사했던	조사+하+었+던	VERB	_	17	acl	_	_	조사/ncpa+하/xsv+었/ep+던/etm
+17	분들이	분+들+이	NOUN	_	18	nsubj	_	_	분/nbn+들/xsn+이/jcs
+18	나왔었습니다	나오+았었+습니다	VERB	_	0	root	_	_	나오/pvg+았었/ep+습니다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 법림 ( 法琳 ) 이라고 하는 스님도 여러 가지로 조사해 보고는 기원전 949년에 열반에 드셨다고 해놓았습니다 .
+1	법림	법림	PROPN	_	6	conj	_	_	법림/nq
+2	(	(	PUNCT	_	3	punct	_	_	(/sl
+3	法琳	法琳	PROPN	_	1	appos	_	_	法琳/nq
+4	)	)	PUNCT	_	3	punct	_	_	)/sr
+5	이라고	이+라+고	ADP	_	1	cop	_	_	이/jp+라/ef+고/jcr
+6	하는	하+는	VERB	_	7	acl	_	_	하/pvg+는/etm
+7	스님도	스님+도	ADV	_	16	advcl	_	_	스님/ncn+도/jxc
+8	여러	여러	ADJ	_	9	amod	_	_	여러/mma
+9	가지로	가지+로	ADV	_	10	advcl	_	_	가지/nbu+로/jca
+10	조사해	조사+하+어	VERB	_	16	ccomp	_	_	조사/ncpa+하/xsv+어/ecx
+11	보고는	보+고+는	NOUN	_	10	aux	_	_	보/px+고/ecc+는/jxt
+12	기원전	기원전	NOUN	_	13	compound	_	_	기원전/ncn
+13	949년에	949+년+에	ADV	_	15	obl	_	_	949/nno+년/nbu+에/jca
+14	열반에	열반+에	ADV	_	15	obl	_	_	열반/ncpa+에/jca
+15	드셨다고	들+셨+다+고	VERB	_	16	conj	_	_	들/pvg+셨/ep+다/ef+고/jcr
+16	해놓았습니다	하+어+놓+았+습니다	AUX	_	0	root	_	_	하/pvg+어/ecx+놓/px+았/ep+습니다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그리고 또 { 중성점기 ( 衆聖點記 ) } 라고 하는 중국 고전에 의하면 , 기원전 486년이 옳다고 해놓았습니다 .
+1	그리고	그리고	CCONJ	_	18	cc	_	_	그리고/maj
+2	또	또	ADV	_	18	advmod	_	_	또/mag
+3	{	{	PUNCT	_	4	punct	_	_	{/sl
+4	중성점기	중성점기	PROPN	_	10	conj	_	_	중성점기/nq
+5	(	(	PUNCT	_	6	punct	_	_	(/sl
+6	衆聖點記	衆聖點記	PROPN	_	4	appos	_	_	衆聖點記/nq
+7	)	)	PUNCT	_	6	punct	_	_	)/sr
+8	}	}	PUNCT	_	4	punct	_	_	}/sr
+9	라고	라고	ADP	_	4	case	_	_	라고/jcr
+10	하는	하+는	VERB	_	12	acl	_	_	하/pvg+는/etm
+11	중국	중국	PROPN	_	12	compound	_	_	중국/nq
+12	고전에	고전+에	ADV	_	13	obl	_	_	고전/ncn+에/jca
+13	의하면	의하+면	SCONJ	_	18	ccomp	_	_	의하/pvg+면/ecs
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	기원전	기원전	NOUN	_	16	compound	_	_	기원전/ncn
+16	486년이	486+년+이	NUM	_	17	nsubj	_	_	486/nno+년/nbu+이/jcs
+17	옳다고	옳+다+고	VERB	_	18	conj	_	_	옳/paa+다/ef+고/jcr
+18	해놓았습니다	하+어+놓+았+습니다	AUX	_	0	root	_	_	하/pvg+어/ecx+놓/px+았/ep+습니다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그 첫번째 사람에 주사행 ( 朱士行 ) 이란 분이 있었는데 , 이분은 중앙아시아의 코오탄 ( 干 ) 까지 갔다가 , 결국 그 땅에서 세상을 떴습니다 .
+1	그	그	DET	_	3	det	_	_	그/mmd
+2	첫번째	첫번째	NUM	_	3	nummod	_	_	첫번째/nno
+3	사람에	사람+에	ADV	_	10	obl	_	_	사람/ncn+에/jca
+4	주사행	주사행	PROPN	_	9	compound	_	_	주사행/nq
+5	(	(	PUNCT	_	6	punct	_	_	(/sl
+6	朱士行	朱士行	PROPN	_	4	appos	_	_	朱士行/nq
+7	)	)	PUNCT	_	6	punct	_	_	)/sr
+8	이란	이+란	ADP	_	4	cop	_	_	이/jp+란/etm
+9	분이	분+이	NOUN	_	10	nsubj	_	_	분/nbn+이/jcs
+10	있었는데	있+었+는데	SCONJ	_	25	xcomp	_	_	있/paa+었/ep+는데/ecs
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	이분은	이분+은	PRON	_	25	dislocated	_	_	이분/npp+은/jxt
+13	중앙아시아의	중앙아시아+의	PROPN	_	14	nmod	_	_	중앙아시아/nq+의/jcm
+14	코오탄	코오탄	PROPN	_	19	advcl	_	_	코오탄/nq
+15	(	(	PUNCT	_	16	punct	_	_	(/sl
+16	干	干	PROPN	_	14	appos	_	_	干/nq
+17	)	)	PUNCT	_	16	punct	_	_	)/sr
+18	까지	까지	ADP	_	14	case	_	_	까지/jxc
+19	갔다가	가+ㅆ+다가	SCONJ	_	25	ccomp	_	_	가/pvg+ㅆ/ep+다가/ecs
+20	,	,	PUNCT	_	19	punct	_	_	,/sp
+21	결국	결국	ADV	_	25	advmod	_	_	결국/mag
+22	그	그	DET	_	23	det	_	_	그/mmd
+23	땅에서	땅+에서	ADV	_	25	advcl	_	_	땅/ncn+에서/jca
+24	세상을	세상+을	NOUN	_	25	obj	_	_	세상/ncn+을/jco
+25	떴습니다	뜨+었+습니다	VERB	_	0	root	_	_	뜨/pvg+었/ep+습니다/ef
+26	.	.	PUNCT	_	25	punct	_	_	./sf
+
+# 뒤 이어 스님의 신분으로서는 처음으로 여행했던 분에 법현 ( 法顯 ) 이란 분이 있습니다 .
+1	뒤	뒤	NOUN	_	2	dep	_	_	뒤/ncn
+2	이어	잇+어	SCONJ	_	6	ccomp	_	_	잇/pvg+어/ecs
+3	스님의	스님+의	NOUN	_	4	nmod	_	_	스님/ncn+의/jcm
+4	신분으로서는	신분+으로서+는	NOUN	_	5	dislocated	_	_	신분/ncn+으로서/jca+는/jxt
+5	처음으로	처음+으로	ADV	_	6	advcl	_	_	처음/ncn+으로/jca
+6	여행했던	여행+하+었+던	VERB	_	7	acl	_	_	여행/ncpa+하/xsv+었/ep+던/etm
+7	분에	분+에	ADV	_	14	obl	_	_	분/nbn+에/jca
+8	법현	법현	PROPN	_	13	compound	_	_	법현/nq
+9	(	(	PUNCT	_	10	punct	_	_	(/sl
+10	法顯	法顯	PROPN	_	8	appos	_	_	法顯/nq
+11	)	)	PUNCT	_	10	punct	_	_	)/sr
+12	이란	이+란	ADP	_	8	cop	_	_	이/jp+란/etm
+13	분이	분+이	NOUN	_	14	nsubj	_	_	분/nbn+이/jcs
+14	있습니다	있+습니다	ADJ	_	0	root	_	_	있/paa+습니다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 독자 여러분은 아마 < 서유기 > 의 모델로 삼게 된 < 현장삼장 > 에 대해서 잘 알고 있을 줄로 믿습니다만 , 이분은 훨씬 뒷분입니다 .
+1	독자	독자	NOUN	_	2	compound	_	_	독자/ncn
+2	여러분은	여러분+은	PRON	_	17	dislocated	_	_	여러분/npp+은/jxt
+3	아마	아마	ADV	_	17	advmod	_	_	아마/mag
+4	<	<	PUNCT	_	5	punct	_	_	</sl
+5	서유기	서유기	PROPN	_	8	nmod	_	_	서유기/nq
+6	>	>	PUNCT	_	5	punct	_	_	>/sr
+7	의	의	ADP	_	5	case	_	_	의/jcm
+8	모델로	모델+로	ADV	_	9	advcl	_	_	모델/ncn+로/jca
+9	삼게	삼+게	VERB	_	12	acl	_	_	삼/pvg+게/ecx
+10	된	되+ㄴ	AUX	_	9	aux	_	_	되/px+ㄴ/etm
+11	<	<	PUNCT	_	12	punct	_	_	</sl
+12	현장삼장	현장+삼장	NOUN	_	15	obl	_	_	현장/ncn+삼장/ncn
+13	>	>	PUNCT	_	12	punct	_	_	>/sr
+14	에	에	ADP	_	12	case	_	_	에/jca
+15	대해서	대하+어서	SCONJ	_	17	ccomp	_	_	대하/pvg+어서/ecs
+16	잘	잘	ADV	_	17	advmod	_	_	잘/mag
+17	알고	알+고	VERB	_	19	acl	_	_	알/pvg+고/ecx
+18	있을	있+ㄹ	AUX	_	17	aux	_	_	있/px+ㄹ/etm
+19	줄로	줄+로	ADV	_	20	advcl	_	_	줄/nbn+로/jca
+20	믿습니다만	믿+습니다+만	ADV	_	24	advmod	_	_	믿/pvg+습니다/ef+만/jxc
+21	,	,	PUNCT	_	20	punct	_	_	,/sp
+22	이분은	이분+은	PRON	_	24	dislocated	_	_	이분/npp+은/jxt
+23	훨씬	훨씬	ADV	_	24	advmod	_	_	훨씬/mag
+24	뒷분입니다	뒷분+이+ㅂ니다	VERB	_	0	root	_	_	뒷분/ncn+이/jp+ㅂ니다/ef
+25	.	.	PUNCT	_	24	punct	_	_	./sf
+
+# 그리고 이 책은 지금까지도 남아 있는데 , < 범현전 > 또는 < 불국기 ( 佛國記 ) > 란 이름으로 알려지고 있습니다 .
+1	그리고	그리고	CCONJ	_	20	cc	_	_	그리고/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	책은	책+은	NOUN	_	5	dislocated	_	_	책/ncn+은/jxt
+4	지금까지도	지금+까지+도	ADV	_	5	advcl	_	_	지금/ncn+까지/jxc+도/jxc
+5	남아	남+아	VERB	_	20	ccomp	_	_	남/pvg+아/ecx
+6	있는데	있+는데	SCONJ	_	5	aux	_	_	있/px+는데/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	<	<	PUNCT	_	9	punct	_	_	</sl
+9	범현전	범현전	PROPN	_	13	compound	_	_	범현전/nq
+10	>	>	PUNCT	_	9	punct	_	_	>/sr
+11	또는	또는	CCONJ	_	13	cc	_	_	또는/maj
+12	<	<	PUNCT	_	13	punct	_	_	</sl
+13	불국기	불국기	PROPN	_	19	compound	_	_	불국기/nq
+14	(	(	PUNCT	_	15	punct	_	_	(/sl
+15	佛國記	佛國記	PROPN	_	13	appos	_	_	佛國記/nq
+16	)	)	PUNCT	_	15	punct	_	_	)/sr
+17	>	>	PUNCT	_	13	punct	_	_	>/sr
+18	란	이+란	ADP	_	13	cop	_	_	이/jp+란/etm
+19	이름으로	이름+으로	ADV	_	20	advcl	_	_	이름/ncpa+으로/jca
+20	알려지고	알리+어+지+고	AUX	_	0	root	_	_	알리/pvg+어/ecx+지/px+고/ecx
+21	있습니다	있+습니다	AUX	_	20	aux	_	_	있/px+습니다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 이 같은 옛날 시대에 중국으로부터 인도로 , 산과 산을 넘고 , 죽음의 광막한 사막을 가로질러 여행한다는 일은 큰 모험임에 틀림없습니다 .
+1	이	이	PRON	_	2	dep	_	_	이/npd
+2	같은	같+ㄴ	ADJ	_	4	amod	_	_	같/paa+ㄴ/etm
+3	옛날	옛날	NOUN	_	4	compound	_	_	옛날/ncn
+4	시대에	시대+에	ADV	_	16	obl	_	_	시대/ncn+에/jca
+5	중국으로부터	중국+으로+부터	ADV	_	6	advcl	_	_	중국/nq+으로/jca+부터/jxc
+6	인도로	인도+로	ADV	_	16	advmod	_	_	인도/nq+로/jca
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	산과	산+과	CCONJ	_	9	conj	_	_	산/ncn+과/jcj
+9	산을	산+을	NOUN	_	10	obj	_	_	산/ncn+을/jco
+10	넘고	넘+고	CCONJ	_	15	conj	_	_	넘/pvg+고/ecc
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	죽음의	죽음+의	NOUN	_	14	nmod	_	_	죽음/ncn+의/jcm
+13	광막한	광막+하+ㄴ	VERB	_	14	amod	_	_	광막/ncps+하/xsm+ㄴ/etm
+14	사막을	사막+을	NOUN	_	15	obj	_	_	사막/ncn+을/jco
+15	가로질러	가로지르+어	SCONJ	_	16	ccomp	_	_	가로지르/pvg+어/ecs
+16	여행한다는	여행+하+ㄴ다는	VERB	_	17	acl	_	_	여행/ncpa+하/xsv+ㄴ다는/etm
+17	일은	일+은	NOUN	_	19	dislocated	_	_	일/ncpa+은/jxt
+18	큰	크+ㄴ	ADJ	_	19	amod	_	_	크/paa+ㄴ/etm
+19	모험임에	모험+이+ㅁ+에	ADV	_	20	obl	_	_	모험/ncpa+이/jp+ㅁ/etn+에/jca
+20	틀림없습니다	틀림+없+습니다	VERB	_	0	root	_	_	틀림/ncn+없/xsm+습니다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 현재는 완전히 변모되어버려서 알 길이 없는 이런 지방 , 도시 , 나라들의 옛 모습이 지금도 손에 잡히듯이 알 수 있게 된 것입니다 .
+1	현재는	현재+는	NOUN	_	3	dislocated	_	_	현재/ncn+는/jxt
+2	완전히	완전+히	ADV	_	3	advmod	_	_	완전/ncps+히/xsa
+3	변모되어버려서	변모+되+어+버리+어서	SCONJ	_	6	conj	_	_	변모/ncpa+되/xsv+어/ecx+버리/px+어서/ecs
+4	알	알+ㄹ	VERB	_	5	acl	_	_	알/pvg+ㄹ/etm
+5	길이	길+이	NOUN	_	6	nsubj	_	_	길/ncn+이/jcs
+6	없는	없+는	ADJ	_	12	amod	_	_	없/paa+는/etm
+7	이런	이렇+ㄴ	VERB	_	12	amod	_	_	이렇/pad+ㄴ/etm
+8	지방	지방	NOUN	_	10	compound	_	_	지방/ncn
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	도시	도시	NOUN	_	12	compound	_	_	도시/ncn
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	나라들의	나라+들+의	NOUN	_	14	nmod	_	_	나라/ncn+들/xsn+의/jcm
+13	옛	옛	ADJ	_	14	amod	_	_	옛/mma
+14	모습이	모습+이	NOUN	_	18	nsubj	_	_	모습/ncn+이/jcs
+15	지금도	지금+도	ADV	_	18	advcl	_	_	지금/ncn+도/jxc
+16	손에	손+에	ADV	_	17	obl	_	_	손/ncn+에/jca
+17	잡히듯이	잡히+듯이	SCONJ	_	18	ccomp	_	_	잡히/pvg+듯이/ecs
+18	알	알+ㄹ	VERB	_	0	root	_	_	알/pvg+ㄹ/etm
+19	수	수	NOUN	_	20	fixed	_	_	수/nbn
+20	있게	있+게	ADJ	_	18	aux	_	_	있/paa+게/ecx
+21	된	되+ㄴ	AUX	_	18	aux	_	_	되/px+ㄴ/etm
+22	것입니다	것+이+ㅂ니다	VERB	_	18	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+23	.	.	PUNCT	_	22	punct	_	_	./sf
+
+# 그런데 , 법현은 귀로에 접어들면서 세일론섬에 약 2년간 머물렀었습니다 .
+1	그런데	그런데	CCONJ	_	9	cc	_	_	그런데/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	법현은	법현+은	PROPN	_	5	dislocated	_	_	법현/nq+은/jxt
+4	귀로에	귀로+에	ADV	_	5	obl	_	_	귀로/ncpa+에/jca
+5	접어들면서	접어들+면서	CCONJ	_	9	conj	_	_	접어들/pvg+면서/ecc
+6	세일론섬에	세일론+섬+에	ADV	_	9	obl	_	_	세일론/nq+섬/ncn+에/jca
+7	약	약	ADJ	_	8	amod	_	_	약/mma
+8	2년간	2+년+간	NOUN	_	9	advmod	_	_	2/nno+년/nbu+간/xsn
+9	머물렀었습니다	머무르+었었+습니다	VERB	_	0	root	_	_	머무르/pvg+었었/ep+습니다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이 2년간은 귀로 3년간 속에 포함되어 있습니다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	2년간은	2+년+간+은	NUM	_	6	dislocated	_	_	2/nno+년/nbu+간/xsn+은/jxt
+3	귀로	귀로	NOUN	_	4	compound	_	_	귀로/ncpa
+4	3년간	3+년+간	NOUN	_	5	compound	_	_	3/nno+년/nbu+간/ncn
+5	속에	속+에	ADV	_	6	obl	_	_	속/ncn+에/jca
+6	포함되어	포함+되+어	VERB	_	0	root	_	_	포함/ncpa+되/xsv+어/ecx
+7	있습니다	있+습니다	AUX	_	6	aux	_	_	있/px+습니다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그러니까 석가모니께서 열반에 드신 해는 , 서력 기원전 1085년경이 되게 됩니다 .
+1	그러니까	그러니까	CCONJ	_	10	cc	_	_	그러니까/maj
+2	석가모니께서	석가모니+께서	PROPN	_	4	nsubj	_	_	석가모니/nq+께서/jcs
+3	열반에	열반+에	ADV	_	4	obl	_	_	열반/ncpa+에/jca
+4	드신	들+시+ㄴ	VERB	_	5	acl	_	_	들/pvg+시/ep+ㄴ/etm
+5	해는	해+는	NOUN	_	10	advmod	_	_	해/ncn+는/jxt
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	서력	서력	NOUN	_	9	compound	_	_	서력/ncn
+8	기원전	기원전	NOUN	_	9	compound	_	_	기원전/ncn
+9	1085년경이	1085+년+경+이	NUM	_	10	csubj	_	_	1085/nno+년/nbu+경/xsn+이/jcc
+10	되게	되+게	VERB	_	0	root	_	_	되/pvg+게/ecx
+11	됩니다	되+ㅂ니다	AUX	_	10	aux	_	_	되/px+ㅂ니다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 좀더 확실한 과학적인 조사 방법은 없을까 하는 것이 최근에 이르러 학자들 사이에서 생각되어 왔었던 것입니다 .
+1	좀더	좀더	ADV	_	2	advmod	_	_	좀더/mag
+2	확실한	확실+하+ㄴ	VERB	_	5	amod	_	_	확실/ncps+하/xsm+ㄴ/etm
+3	과학적인	과학+적+이+ㄴ	VERB	_	5	acl	_	_	과학/ncn+적/xsn+이/jp+ㄴ/etm
+4	조사	조사	NOUN	_	5	compound	_	_	조사/ncn
+5	방법은	방법+은	NOUN	_	6	dislocated	_	_	방법/ncn+은/jxt
+6	없을까	없+ㄹ까	ADJ	_	7	ccomp	_	_	없/paa+ㄹ까/ef
+7	하는	하+는	VERB	_	8	acl	_	_	하/pvg+는/etm
+8	것이	것+이	NOUN	_	13	nsubj	_	_	것/nbn+이/jcs
+9	최근에	최근+에	ADV	_	10	obl	_	_	최근/ncn+에/jca
+10	이르러	이르+어	SCONJ	_	13	ccomp	_	_	이르/pvg+어/ecs
+11	학자들	학자+들	NOUN	_	12	compound	_	_	학자/ncn+들/xsn
+12	사이에서	사이+에서	ADV	_	13	advcl	_	_	사이/ncn+에서/jca
+13	생각되어	생각+되+어	VERB	_	0	root	_	_	생각/ncpa+되/xsv+어/ecx
+14	왔었던	오+았었+던	AUX	_	13	aux	_	_	오/px+았었/ep+던/etm
+15	것입니다	것+이+ㅂ니다	VERB	_	13	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 여기에서 우선 생각에 떠오르게 된 것으로는 인도 역사와 , 인도 이외의 나라들의 역사를 비교해 본다고 하는 방법입니다 .
+1	여기에서	여기+에서	ADV	_	4	advcl	_	_	여기/npd+에서/jca
+2	우선	우선	ADV	_	4	advmod	_	_	우선/mag
+3	생각에	생각+에	ADV	_	4	obl	_	_	생각/ncpa+에/jca
+4	떠오르게	떠오르+게	VERB	_	6	acl	_	_	떠오르/pvg+게/ecx
+5	된	되+ㄴ	AUX	_	4	aux	_	_	되/px+ㄴ/etm
+6	것으로는	것+으로+는	NOUN	_	17	dislocated	_	_	것/nbn+으로/jca+는/jxt
+7	인도	인도	PROPN	_	8	compound	_	_	인도/nq
+8	역사와	역사+와	CCONJ	_	13	conj	_	_	역사/ncn+와/jcj
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	인도	인도	PROPN	_	11	compound	_	_	인도/nq
+11	이외의	이외+의	NOUN	_	12	nmod	_	_	이외/ncn+의/jcm
+12	나라들의	나라+들+의	NOUN	_	13	nmod	_	_	나라/ncn+들/xsn+의/jcm
+13	역사를	역사+를	NOUN	_	14	obj	_	_	역사/ncn+를/jco
+14	비교해	비교+하+어	VERB	_	16	conj	_	_	비교/ncpa+하/xsv+어/ecx
+15	본다고	보+ㄴ다+고	VERB	_	14	aux	_	_	보/px+ㄴ다/ef+고/jcr
+16	하는	하+는	VERB	_	17	ccomp	_	_	하/pvg+는/etm
+17	방법입니다	방법+이+ㅂ니다	VERB	_	0	root	_	_	방법/ncn+이/jp+ㅂ니다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그래서 그같이 표준을 잡아볼만한 사건이 혹 있는가 하고 조사해 보게 되었었습니다 .
+1	그래서	그래서	CCONJ	_	9	cc	_	_	그래서/maj
+2	그같이	그같이	ADV	_	7	advmod	_	_	그같이/mag
+3	표준을	표준+을	NOUN	_	4	obj	_	_	표준/ncn+을/jco
+4	잡아볼만한	잡아볼만+하+ㄴ	VERB	_	5	acl	_	_	잡아볼만/ncpa+하/xsv+ㄴ/etm
+5	사건이	사건+이	NOUN	_	7	nsubj	_	_	사건/ncn+이/jcs
+6	혹	혹	ADV	_	7	advmod	_	_	혹/mag
+7	있는가	있+는가	ADJ	_	8	ccomp	_	_	있/paa+는가/ef
+8	하고	하+고	CCONJ	_	9	conj	_	_	하/pvg+고/ecc
+9	조사해	조사+하+어	VERB	_	0	root	_	_	조사/ncpa+하/xsv+어/ecx
+10	보게	보+게	AUX	_	9	aux	_	_	보/px+게/ecx
+11	되었었습니다	되+었었+습니다	AUX	_	9	aux	_	_	되/px+었었/ep+습니다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그리고 이 알렉산더 군의 카불 침입 사건은 물론 인도의 역사 기록에도 똑똑히 적혀져 있습니다 .
+1	그리고	그리고	CCONJ	_	13	cc	_	_	그리고/maj
+2	이	이	DET	_	4	det	_	_	이/mmd
+3	알렉산더	알렉산더	PROPN	_	4	compound	_	_	알렉산더/nq
+4	군의	군+의	NOUN	_	7	nmod	_	_	군/ncn+의/jcm
+5	카불	카불	PROPN	_	6	compound	_	_	카불/nq
+6	침입	침입	NOUN	_	7	compound	_	_	침입/ncpa
+7	사건은	사건+은	NOUN	_	13	dislocated	_	_	사건/ncn+은/jxt
+8	물론	물론	ADV	_	13	advmod	_	_	물론/mag
+9	인도의	인도+의	PROPN	_	10	nmod	_	_	인도/nq+의/jcm
+10	역사	역사	NOUN	_	11	compound	_	_	역사/ncn
+11	기록에도	기록+에+도	ADV	_	13	advcl	_	_	기록/ncpa+에/jca+도/jxc
+12	똑똑히	똑똑+히	ADV	_	13	advmod	_	_	똑똑/ncps+히/xsa
+13	적혀져	적히+어+지+어	AUX	_	0	root	_	_	적히/pvg+어/ecx+지/px+어/ecx
+14	있습니다	있+습니다	AUX	_	13	aux	_	_	있/px+습니다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그런데 , 이 방법을 써서 불타의 탄생년을 알아보려는 고찰 요령을 공표한 사람은 영국의 카닝검이란 학자입니다 .
+1	그런데	그런데	CCONJ	_	15	cc	_	_	그런데/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	이	이	DET	_	4	det	_	_	이/mmd
+4	방법을	방법+을	NOUN	_	5	obj	_	_	방법/ncn+을/jco
+5	써서	쓰+어서	SCONJ	_	8	ccomp	_	_	쓰/pvg+어서/ecs
+6	불타의	불타+의	PROPN	_	7	nmod	_	_	불타/nq+의/jcm
+7	탄생년을	탄생년+을	NOUN	_	8	obj	_	_	탄생년/ncn+을/jco
+8	알아보려는	알+아+보+려는	AUX	_	10	acl	_	_	알/pvg+아/ecx+보/px+려는/etm
+9	고찰	고찰	NOUN	_	10	compound	_	_	고찰/ncpa
+10	요령을	요령+을	NOUN	_	11	obj	_	_	요령/ncn+을/jco
+11	공표한	공표+하+ㄴ	VERB	_	12	acl	_	_	공표/ncpa+하/xsv+ㄴ/etm
+12	사람은	사람+은	NOUN	_	15	dislocated	_	_	사람/ncn+은/jxt
+13	영국의	영국+의	PROPN	_	15	nmod	_	_	영국/nq+의/jcm
+14	카닝검이란	카닝검+이+란	VERB	_	15	acl	_	_	카닝검/nq+이/jp+란/etm
+15	학자입니다	학자+이+ㅂ니다	VERB	_	0	root	_	_	학자/ncn+이/jp+ㅂ니다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이 사람은 1854년과 1877년의 2회에 걸쳐 이 연구를 발표한 바 있었습니다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	사람은	사람+은	NOUN	_	9	dislocated	_	_	사람/ncn+은/jxt
+3	1854년과	1854+년+과	CCONJ	_	4	conj	_	_	1854/nno+년/nbu+과/jcj
+4	1877년의	1877+년+의	NUM	_	5	nmod	_	_	1877/nno+년/nbu+의/jcm
+5	2회에	2+회+에	ADV	_	6	obl	_	_	2/nno+회/nbu+에/jca
+6	걸쳐	걸치+어	SCONJ	_	9	ccomp	_	_	걸치/pvg+어/ecs
+7	이	이	DET	_	8	det	_	_	이/mmd
+8	연구를	연구+를	NOUN	_	9	obj	_	_	연구/ncpa+를/jco
+9	발표한	발표+하+ㄴ	VERB	_	0	root	_	_	발표/ncpa+하/xsv+ㄴ/etm
+10	바	바	NOUN	_	11	fixed	_	_	바/nbn
+11	있었습니다	있+었+습니다	ADJ	_	9	aux	_	_	있/paa+었/ep+습니다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 즉 불타께서 돌아가신 해는 기원전 477 , 또는 478년이 되는 셈입니다 .
+1	즉	즉	CCONJ	_	11	cc	_	_	즉/maj
+2	불타께서	불타+께서	PROPN	_	3	nsubj	_	_	불타/nq+께서/jcs
+3	돌아가신	돌+아+가+시+ㄴ	AUX	_	4	acl	_	_	돌/pvg+아/ecx+가/px+시/ep+ㄴ/etm
+4	해는	해+는	NOUN	_	10	dislocated	_	_	해/ncn+는/jxt
+5	기원전	기원전	NOUN	_	9	compound	_	_	기원전/ncn
+6	477	477	NUM	_	9	conj	_	_	477/nno
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	또는	또는	CCONJ	_	9	cc	_	_	또는/maj
+9	478년이	478+년+이	NUM	_	10	csubj	_	_	478/nno+년/nbu+이/jcc
+10	되는	되+는	VERB	_	11	ccomp	_	_	되/pvg+는/etm
+11	셈입니다	셈+이+ㅂ니다	VERB	_	0	root	_	_	셈/nbn+이/jp+ㅂ니다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그래서 이 같은 방식으로 많은 외국 학자들이 게산을 하기 시작했던 것입니다 .
+1	그래서	그래서	CCONJ	_	10	cc	_	_	그래서/maj
+2	이	이	PRON	_	3	dep	_	_	이/npd
+3	같은	같+ㄴ	ADJ	_	4	amod	_	_	같/paa+ㄴ/etm
+4	방식으로	방식+으로	ADV	_	10	advcl	_	_	방식/ncn+으로/jca
+5	많은	많+ㄴ	ADJ	_	7	amod	_	_	많/paa+ㄴ/etm
+6	외국	외국	NOUN	_	7	compound	_	_	외국/ncn
+7	학자들이	학자+들+이	NOUN	_	10	nsubj	_	_	학자/ncn+들/xsn+이/jcs
+8	게산을	게산+을	NOUN	_	9	obj	_	_	게산/ncn+을/jco
+9	하기	하+기	VERB	_	10	nmod	_	_	하/pvg+기/etn
+10	시작했던	시작+하+었+던	VERB	_	0	root	_	_	시작/ncpa+하/xsv+었/ep+던/etm
+11	것입니다	것+이+ㅂ니다	VERB	_	10	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 한데 , 이러쿵 저러쿵 하고 있는 동안에 , 인도에서 굉장한 것이 발견되기에 이르렀던 것입니다 .
+1	한데	한데	CCONJ	_	13	cc	_	_	한데/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	이러쿵	이러쿵	ADV	_	5	advmod	_	_	이러쿵/mag
+4	저러쿵	저러쿵	ADV	_	3	advmod	_	_	저러쿵/mag
+5	하고	하+고	VERB	_	7	acl	_	_	하/pvg+고/ecx
+6	있는	있+는	AUX	_	5	aux	_	_	있/px+는/etm
+7	동안에	동안+에	ADV	_	13	advmod	_	_	동안/ncn+에/jca
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	인도에서	인도+에서	ADV	_	12	advcl	_	_	인도/nq+에서/jca
+10	굉장한	굉장+하+ㄴ	VERB	_	11	amod	_	_	굉장/ncps+하/xsm+ㄴ/etm
+11	것이	것+이	NOUN	_	12	nsubj	_	_	것/nbn+이/jcs
+12	발견되기에	발견+되+기+에	ADV	_	13	obl	_	_	발견/ncpa+되/xsv+기/etn+에/jca
+13	이르렀던	이르+었+던	VERB	_	0	root	_	_	이르/pvg+었/ep+던/etm
+14	것입니다	것+이+ㅂ니다	VERB	_	13	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그리고 이 공고판은 여기저기의 커다란 자연적으로 생긴 절벽 , 또는 바위의 표면을 판판하게 다듬어서 글자를 조각하여 만든 것이었습니다 .
+1	그리고	그리고	CCONJ	_	18	cc	_	_	그리고/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	공고판은	공고판+은	NOUN	_	18	dislocated	_	_	공고판/ncn+은/jxt
+4	여기저기의	여기저기+의	PRON	_	8	nmod	_	_	여기저기/npd+의/jcm
+5	커다란	커다랗+ㄴ	ADJ	_	8	amod	_	_	커다랗/paa+ㄴ/etm
+6	자연적으로	자연+적+으로	ADV	_	7	advcl	_	_	자연/ncps+적/xsn+으로/jca
+7	생긴	생기+ㄴ	VERB	_	8	acl	_	_	생기/pvg+ㄴ/etm
+8	절벽	절벽	NOUN	_	12	conj	_	_	절벽/ncn
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	또는	또는	CCONJ	_	12	cc	_	_	또는/maj
+11	바위의	바위+의	NOUN	_	12	nmod	_	_	바위/ncn+의/jcm
+12	표면을	표면+을	NOUN	_	14	obj	_	_	표면/ncn+을/jco
+13	판판하게	판판+하+게	SCONJ	_	14	xcomp	_	_	판판/ncps+하/xsm+게/ecs
+14	다듬어서	다듬+어서	SCONJ	_	17	ccomp	_	_	다듬/pvg+어서/ecs
+15	글자를	글자+를	NOUN	_	16	obj	_	_	글자/ncn+를/jco
+16	조각하여	조각+하+어	SCONJ	_	17	ccomp	_	_	조각/ncpa+하/xsv+어/ecs
+17	만든	만들+ㄴ	VERB	_	18	ccomp	_	_	만들/pvg+ㄴ/etm
+18	것이었습니다	것+이+었+습니다	VERB	_	0	root	_	_	것/nbn+이/jp+었/ep+습니다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그리고 또 이 공고판들에는 각기 번호를 메겨서 잘 보존하게 했던 것입니다 .
+1	그리고	그리고	CCONJ	_	9	cc	_	_	그리고/maj
+2	또	또	ADV	_	4	advmod	_	_	또/mag
+3	이	이	DET	_	4	det	_	_	이/mmd
+4	공고판들에는	공고판+들+에+는	NOUN	_	9	dislocated	_	_	공고판/ncn+들/xsn+에/jca+는/jxt
+5	각기	각기	ADV	_	7	advmod	_	_	각기/mag
+6	번호를	번호+를	NOUN	_	7	obj	_	_	번호/ncn+를/jco
+7	메겨서	메기+어서	SCONJ	_	9	ccomp	_	_	메기/pvg+어서/ecs
+8	잘	잘	ADV	_	9	advmod	_	_	잘/mag
+9	보존하게	보존+하+게	VERB	_	0	root	_	_	보존/ncpa+하/xsv+게/ecx
+10	했던	하+었+던	AUX	_	9	aux	_	_	하/px+었/ep+던/etm
+11	것입니다	것+이+ㅂ니다	VERB	_	9	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이것을 학자들이 여러 모로 연구한 결과 , 지금은 그 조각된 글자까지 정확히 해석할 수 있게 되었습니다 .
+1	이것을	이것+을	PRON	_	5	obj	_	_	이것/npd+을/jco
+2	학자들이	학자+들+이	NOUN	_	5	nsubj	_	_	학자/ncn+들/xsn+이/jcs
+3	여러	여러	ADJ	_	4	amod	_	_	여러/mma
+4	모로	모+로	ADV	_	5	advcl	_	_	모/ncn+로/jca
+5	연구한	연구+하+ㄴ	VERB	_	6	acl	_	_	연구/ncpa+하/xsv+ㄴ/etm
+6	결과	결과	NOUN	_	13	advmod	_	_	결과/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	지금은	지금+은	NOUN	_	13	dislocated	_	_	지금/ncn+은/jxt
+9	그	그	DET	_	11	det	_	_	그/mmd
+10	조각된	조각+되+ㄴ	VERB	_	11	acl	_	_	조각/ncpa+되/xsv+ㄴ/etm
+11	글자까지	글자+까지	ADV	_	13	advcl	_	_	글자/ncn+까지/jxc
+12	정확히	정확+히	ADV	_	13	advmod	_	_	정확/ncps+히/xsa
+13	해석할	해석+하+ㄹ	VERB	_	0	root	_	_	해석/ncpa+하/xsv+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있게	있+게	ADJ	_	13	aux	_	_	있/paa+게/ecx
+16	되었습니다	되+었+습니다	AUX	_	13	aux	_	_	되/px+었/ep+습니다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 말이 나온 김에 덧붙이겠습니다만 , 어떻게 해서 이 같은 보물이 발견되게 되었는가 하면 , 인도는 지금에는 독립국가지만 , 그전에는 영국의 부속 영토였습니다 .
+1	말이	말+이	NOUN	_	2	nsubj	_	_	말/ncn+이/jcs
+2	나온	나오+ㄴ	VERB	_	3	acl	_	_	나오/pvg+ㄴ/etm
+3	김에	김+에	ADV	_	4	obl	_	_	김/nbn+에/jca
+4	덧붙이겠습니다만	덧붙이+겠+습니다+만	ADV	_	22	advmod	_	_	덧붙이/pvg+겠/ep+습니다/ef+만/jxc
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	어떻게	어떻+게	VERB	_	11	amod	_	_	어떻/pad+게/ecx
+7	해서	하+어서	SCONJ	_	6	aux	_	_	하/px+어서/ecs
+8	이	이	PRON	_	9	dep	_	_	이/npd
+9	같은	같+ㄴ	ADJ	_	10	amod	_	_	같/paa+ㄴ/etm
+10	보물이	보물+이	NOUN	_	11	nsubj	_	_	보물/ncn+이/jcs
+11	발견되게	발견+되+게	VERB	_	13	ccomp	_	_	발견/ncpa+되/xsv+게/ecx
+12	되었는가	되+었+는가	AUX	_	11	aux	_	_	되/px+었/ep+는가/ef
+13	하면	하+면	SCONJ	_	22	ccomp	_	_	하/pvg+면/ecs
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	인도는	인도+는	PROPN	_	22	dislocated	_	_	인도/nq+는/jxt
+16	지금에는	지금+에+는	NOUN	_	17	dislocated	_	_	지금/ncn+에/jca+는/jxt
+17	독립국가지만	독립국가+이+지만	SCONJ	_	22	ccomp	_	_	독립국가/ncn+이/jp+지만/ecs
+18	,	,	PUNCT	_	17	punct	_	_	,/sp
+19	그전에는	그전+에+는	NOUN	_	22	dislocated	_	_	그전/ncn+에/jca+는/jxt
+20	영국의	영국+의	PROPN	_	22	nmod	_	_	영국/nq+의/jcm
+21	부속	부속	NOUN	_	22	compound	_	_	부속/ncn
+22	영토였습니다	영토+이+었+습니다	VERB	_	0	root	_	_	영토/ncn+이/jp+었/ep+습니다/ef
+23	.	.	PUNCT	_	22	punct	_	_	./sf
+
+# 각설하고 , 이 발견된 공고판들 중에서 [ 갑 제 14장 ( 甲第十四章 ) ] 이란 번호가 매겨진 공고판 내용이 대단한 가치를 지니고 있었던 것입니다 .
+1	각설하고	각설하고	CCONJ	_	22	cc	_	_	각설하고/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	이	이	DET	_	5	det	_	_	이/mmd
+4	발견된	발견+되+ㄴ	VERB	_	5	acl	_	_	발견/ncpa+되/xsv+ㄴ/etm
+5	공고판들	공고판+들	NOUN	_	6	compound	_	_	공고판/ncn+들/xsn
+6	중에서	중+에서	ADV	_	22	advcl	_	_	중/nbn+에서/jca
+7	[	[	PUNCT	_	8	punct	_	_	[/sl
+8	갑	갑	NOUN	_	10	compound	_	_	갑/ncn
+9	제	제	ADJ	_	10	amod	_	_	제/mma
+10	14장	14+장	NOUN	_	16	acl	_	_	14/nno+장/nbu
+11	(	(	PUNCT	_	12	punct	_	_	(/sl
+12	甲第十四章	甲第十四章	PROPN	_	10	appos	_	_	甲第十四章/nq
+13	)	)	PUNCT	_	12	punct	_	_	)/sr
+14	]	]	PUNCT	_	10	punct	_	_	]/sr
+15	이란	이+란	ADP	_	10	cop	_	_	이/jp+란/etm
+16	번호가	번호+가	NOUN	_	17	nsubj	_	_	번호/ncn+가/jcs
+17	매겨진	매기+어+지+ㄴ	AUX	_	18	acl	_	_	매기/pvg+어/ecx+지/px+ㄴ/etm
+18	공고판	공고판	NOUN	_	19	compound	_	_	공고판/ncn
+19	내용이	내용+이	NOUN	_	22	nsubj	_	_	내용/ncn+이/jcs
+20	대단한	대단+하+ㄴ	VERB	_	21	amod	_	_	대단/ncps+하/xsm+ㄴ/etm
+21	가치를	가치+를	NOUN	_	22	obj	_	_	가치/ncn+를/jco
+22	지니고	지니+고	VERB	_	0	root	_	_	지니/pvg+고/ecx
+23	있었던	있+었+던	AUX	_	22	aux	_	_	있/px+었/ep+던/etm
+24	것입니다	것+이+ㅂ니다	VERB	_	22	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+25	.	.	PUNCT	_	24	punct	_	_	./sf
+
+# 그리고 이 공고판에 새겨져 있는 각국 임금들의 이름자가 , 단번에 불타의 입멸하신 해 , 탄생하신 해를 분명하게 가르쳐주었던 것입니다 .
+1	그리고	그리고	CCONJ	_	18	cc	_	_	그리고/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	공고판에	공고판+에	ADV	_	4	obl	_	_	공고판/ncn+에/jca
+4	새겨져	새기+어+지+어	AUX	_	7	acl	_	_	새기/pvg+어/ecx+지/px+어/ecx
+5	있는	있+는	AUX	_	4	aux	_	_	있/px+는/etm
+6	각국	각국	NOUN	_	7	compound	_	_	각국/ncn
+7	임금들의	임금+들+의	NOUN	_	8	nmod	_	_	임금/ncn+들/xsn+의/jcm
+8	이름자가	이름자+가	NOUN	_	18	advmod	_	_	이름자/ncn+가/jcs
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	단번에	단번+에	ADV	_	18	obl	_	_	단번/ncn+에/jca
+11	불타의	불타+의	PROPN	_	16	nmod	_	_	불타/nq+의/jcm
+12	입멸하신	입멸+하+시+ㄴ	VERB	_	13	acl	_	_	입멸/ncpa+하/xsv+시/ep+ㄴ/etm
+13	해	해	NOUN	_	16	compound	_	_	해/ncn
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	탄생하신	탄생+하+시+ㄴ	VERB	_	16	acl	_	_	탄생/ncpa+하/xsv+시/ep+ㄴ/etm
+16	해를	해+를	NOUN	_	18	obj	_	_	해/ncn+를/jco
+17	분명하게	분명+하+게	SCONJ	_	18	xcomp	_	_	분명/ncps+하/xsm+게/ecs
+18	가르쳐주었던	가르치+어+주+었+던	AUX	_	0	root	_	_	가르치/pvg+어/ecx+주/px+었/ep+던/etm
+19	것입니다	것+이+ㅂ니다	VERB	_	18	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 그러나 이 같은 것만으로는 , 알지 못하고 있던 분들로서 무슨 뜻인지를 아마 이해가 가지 않을 것입니다 .
+1	그러나	그러나	CCONJ	_	14	cc	_	_	그러나/maj
+2	이	이	PRON	_	3	dep	_	_	이/npd
+3	같은	같+ㄴ	ADJ	_	4	amod	_	_	같/paa+ㄴ/etm
+4	것만으로는	것+만+으로+는	NOUN	_	14	advmod	_	_	것/nbn+만/jxc+으로/jca+는/jxt
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	알지	알+지	VERB	_	9	acl	_	_	알/pvg+지/ecx
+7	못하고	못하+고	AUX	_	6	aux	_	_	못하/px+고/ecx
+8	있던	있+던	AUX	_	6	aux	_	_	있/px+던/etm
+9	분들로서	분+들+로서	ADV	_	14	advcl	_	_	분/nbn+들/xsn+로서/jca
+10	무슨	무슨	DET	_	11	det	_	_	무슨/mmd
+11	뜻인지를	뜻+이+ㄴ지+를	NOUN	_	14	obj	_	_	뜻/ncpa+이/jp+ㄴ지/ef+를/jco
+12	아마	아마	ADV	_	14	advmod	_	_	아마/mag
+13	이해가	이해+가	NOUN	_	14	nsubj	_	_	이해/ncpa+가/jcs
+14	가지	가+지	VERB	_	0	root	_	_	가/pvg+지/ecx
+15	않을	않+ㄹ	AUX	_	14	aux	_	_	않/px+ㄹ/etm
+16	것입니다	것+이+ㅂ니다	VERB	_	14	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그런 다음과 같은 이야기에서 이해될 것으로 생각됩니다 .
+1	그런	그렇+ㄴ	VERB	_	4	amod	_	_	그렇/pad+ㄴ/etm
+2	다음과	다음+과	CCONJ	_	3	conj	_	_	다음/ncn+과/jct
+3	같은	같+ㄴ	ADJ	_	4	amod	_	_	같/paa+ㄴ/etm
+4	이야기에서	이야기+에서	ADV	_	5	advcl	_	_	이야기/ncpa+에서/jca
+5	이해될	이해+되+ㄹ	VERB	_	6	acl	_	_	이해/ncpa+되/xsv+ㄹ/etm
+6	것으로	것+으로	ADV	_	7	advcl	_	_	것/nbn+으로/jca
+7	생각됩니다	생각+되+ㅂ니다	VERB	_	0	root	_	_	생각/ncpa+되/xsv+ㅂ니다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 아쇼카왕이 고승들을 파견한 나라들의 왕 이름은 9명이 열거되어 있고 , 스님들의 이름은 11명이 나와 있습니다 .
+1	아쇼카왕이	아쇼카+왕+이	PROPN	_	3	nsubj	_	_	아쇼카/nq+왕/ncn+이/jcs
+2	고승들을	고승+들+을	NOUN	_	3	obj	_	_	고승/ncn+들/xsn+을/jco
+3	파견한	파견+하+ㄴ	VERB	_	4	acl	_	_	파견/ncpa+하/xsv+ㄴ/etm
+4	나라들의	나라+들+의	NOUN	_	6	nmod	_	_	나라/ncn+들/xsn+의/jcm
+5	왕	왕	NOUN	_	6	compound	_	_	왕/ncn
+6	이름은	이름+은	NOUN	_	8	dislocated	_	_	이름/ncpa+은/jxt
+7	9명이	9+명+이	NUM	_	8	nsubj	_	_	9/nnc+명/nbu+이/jcs
+8	열거되어	열거+되+어	VERB	_	14	conj	_	_	열거/ncpa+되/xsv+어/ecx
+9	있고	있+고	CCONJ	_	8	aux	_	_	있/px+고/ecc
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	스님들의	스님+들+의	NOUN	_	12	nmod	_	_	스님/ncn+들/xsn+의/jcm
+12	이름은	이름+은	NOUN	_	14	dislocated	_	_	이름/ncpa+은/jxt
+13	11명이	11+명+이	NUM	_	14	nsubj	_	_	11/nnc+명/nbu+이/jcs
+14	나와	나오+아	VERB	_	0	root	_	_	나오/pvg+아/ecx
+15	있습니다	있+습니다	AUX	_	14	aux	_	_	있/px+습니다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 세일론섬에는 3명의 스님이 파견되었던 관계로 9개국 11명이 되는 셈입니다 .
+1	세일론섬에는	세일론+섬+에+는	PROPN	_	4	dislocated	_	_	세일론/nq+섬/ncn+에/jca+는/jxt
+2	3명의	3+명+의	NUM	_	3	nmod	_	_	3/nnc+명/nbu+의/jcm
+3	스님이	스님+이	NOUN	_	4	nsubj	_	_	스님/ncn+이/jcs
+4	파견되었던	파견+되+었+던	VERB	_	5	acl	_	_	파견/ncpa+되/xsv+었/ep+던/etm
+5	관계로	관계+로	ADV	_	8	advcl	_	_	관계/ncpa+로/jca
+6	9개국	9+개+국	NOUN	_	7	compound	_	_	9/nnc+개/nbu+국/ncn
+7	11명이	11+명+이	NUM	_	8	csubj	_	_	11/nnc+명/nbu+이/jcc
+8	되는	되+는	VERB	_	9	ccomp	_	_	되/pvg+는/etm
+9	셈입니다	셈+이+ㅂ니다	VERB	_	0	root	_	_	셈/nbn+이/jp+ㅂ니다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 인초가 , 트라마에 , 안티키니 , 마카 , 아리카스다라의 다섯 왕들입니다 .
+1	인초가	인초가	PROPN	_	3	conj	_	_	인초가/nq
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	트라마에	트라마에	PROPN	_	5	conj	_	_	트라마에/nq
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	안티키니	안티키니	PROPN	_	7	conj	_	_	안티키니/nq
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	마카	마카	PROPN	_	9	conj	_	_	마카/nq
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	아리카스다라의	아리카스다라+의	PROPN	_	11	nmod	_	_	아리카스다라/nq+의/jcm
+10	다섯	다섯	NUM	_	11	nummod	_	_	다섯/nnc
+11	왕들입니다	왕+들+이+ㅂ니다	VERB	_	0	root	_	_	왕/ncn+들/xsn+이/jp+ㅂ니다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이 시리아왕이 재위했던 연대는 기원전 261년부터 246년까지라는 것이 알려져 있습니다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	시리아왕이	시리아+왕+이	PROPN	_	3	nsubj	_	_	시리아/nq+왕/ncn+이/jcs
+3	재위했던	재위+하+었+던	VERB	_	4	acl	_	_	재위/ncpa+하/xsv+었/ep+던/etm
+4	연대는	연대+는	NOUN	_	7	dislocated	_	_	연대/ncn+는/jxt
+5	기원전	기원전	NOUN	_	6	compound	_	_	기원전/ncn
+6	261년부터	261+년+부터	ADV	_	7	advcl	_	_	261/nno+년/nbu+부터/jxc
+7	246년까지라는	246+년+까지+이+라는	VERB	_	8	acl	_	_	246/nno+년/nbu+까지/jxc+이/jp+라는/etm
+8	것이	것+이	NOUN	_	9	nsubj	_	_	것/nbn+이/jcs
+9	알려져	알리+어+지+어	AUX	_	0	root	_	_	알리/pvg+어/ecx+지/px+어/ecx
+10	있습니다	있+습니다	AUX	_	9	aux	_	_	있/px+습니다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 세번째의 안티키니란 마세도니아의 안티고노스 고나타스라고 하는 임금님을 가리키는 말로 기원전 278년부터 239년까지 임금 자리에 있던 분입니다 .
+1	세번째의	세번째+의	NUM	_	2	nmod	_	_	세번째/nno+의/jcm
+2	안티키니란	안티키니+란	ADV	_	9	advcl	_	_	안티키니/nq+란/jxc
+3	마세도니아의	마세도니아+의	PROPN	_	7	nmod	_	_	마세도니아/nq+의/jcm
+4	안티고노스	안티고노스	PROPN	_	5	flat	_	_	안티고노스/nq
+5	고나타스라고	고나타스+이+라+고	VERB	_	6	conj	_	_	고나타스/nq+이/jp+라/ef+고/jcr
+6	하는	하+는	VERB	_	7	acl	_	_	하/pvg+는/etm
+7	임금님을	임금+님+을	NOUN	_	8	obj	_	_	임금/ncn+님/xsn+을/jco
+8	가리키는	가리키+는	VERB	_	9	acl	_	_	가리키/pvg+는/etm
+9	말로	말+로	ADV	_	16	advcl	_	_	말/ncpa+로/jca
+10	기원전	기원전	NOUN	_	11	compound	_	_	기원전/ncn
+11	278년부터	278+년+부터	ADV	_	12	advcl	_	_	278/nno+년/nbu+부터/jxc
+12	239년까지	239+년+까지	ADV	_	15	advcl	_	_	239/nno+년/nbu+까지/jxc
+13	임금	임금	NOUN	_	14	compound	_	_	임금/ncn
+14	자리에	자리+에	ADV	_	15	obl	_	_	자리/ncn+에/jca
+15	있던	있+던	ADJ	_	16	amod	_	_	있/paa+던/etm
+16	분입니다	분+이+ㅂ니다	VERB	_	0	root	_	_	분/nbn+이/jp+ㅂ니다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 마지막 다섯번째의 아리카스다라란 에피루스국의 임금님 알렉산드를 지칭하는 것으로 즉위는 기원전 271년이고 서거한 건 258년으로 알려지고 있습니다 .
+1	마지막	마지막	NOUN	_	2	compound	_	_	마지막/ncn
+2	다섯번째의	다섯번째+의	NUM	_	3	nmod	_	_	다섯번째/nno+의/jcm
+3	아리카스다라란	아리카스다라+란	ADV	_	8	advcl	_	_	아리카스다라/nq+란/jxc
+4	에피루스국의	에피루스국+의	PROPN	_	5	nmod	_	_	에피루스국/nq+의/jcm
+5	임금님	임금+님	NOUN	_	6	advmod	_	_	임금/ncn+님/xsn
+6	알렉산드를	알렉산드+를	PROPN	_	7	obj	_	_	알렉산드/nq+를/jco
+7	지칭하는	지칭+하+는	VERB	_	8	acl	_	_	지칭/ncpa+하/xsv+는/etm
+8	것으로	것+으로	ADV	_	15	advcl	_	_	것/nbn+으로/jca
+9	즉위는	즉위+는	NOUN	_	11	dislocated	_	_	즉위/ncpa+는/jxt
+10	기원전	기원전	NOUN	_	11	compound	_	_	기원전/ncn
+11	271년이고	271+년+이+고	CCONJ	_	15	conj	_	_	271/nno+년/nbu+이/jp+고/ecc
+12	서거한	서거+하+ㄴ	VERB	_	13	acl	_	_	서거/ncpa+하/xsv+ㄴ/etm
+13	건	것+ㄴ	NOUN	_	15	dislocated	_	_	것/nbn+ㄴ/jxt
+14	258년으로	258+년+으로	ADV	_	15	advcl	_	_	258/nno+년/nbu+으로/jca
+15	알려지고	알리+어+지+고	AUX	_	0	root	_	_	알리/pvg+어/ecx+지/px+고/ecx
+16	있습니다	있+습니다	AUX	_	15	aux	_	_	있/px+습니다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그런데 , 이 다섯명의 왕들이 동일한 시기에 왕으로 재위했던 연대는 어느 해부터 어느 해까지가 될까요 .
+1	그런데	그런데	CCONJ	_	15	cc	_	_	그런데/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	이	이	DET	_	4	det	_	_	이/mmd
+4	다섯명의	다섯+명+의	NUM	_	5	nmod	_	_	다섯/nnc+명/nbu+의/jcm
+5	왕들이	왕+들+이	NOUN	_	9	nsubj	_	_	왕/ncn+들/xsn+이/jcs
+6	동일한	동일+하+ㄴ	VERB	_	7	amod	_	_	동일/ncps+하/xsm+ㄴ/etm
+7	시기에	시기+에	ADV	_	9	obl	_	_	시기/ncn+에/jca
+8	왕으로	왕+으로	ADV	_	9	advcl	_	_	왕/ncn+으로/jca
+9	재위했던	재위+하+었+던	VERB	_	10	acl	_	_	재위/ncpa+하/xsv+었/ep+던/etm
+10	연대는	연대+는	NOUN	_	15	dislocated	_	_	연대/ncn+는/jxt
+11	어느	어느	DET	_	12	det	_	_	어느/mmd
+12	해부터	해+부터	ADV	_	14	advcl	_	_	해/ncn+부터/jxc
+13	어느	어느	DET	_	14	det	_	_	어느/mmd
+14	해까지가	해+까지+가	NOUN	_	15	csubj	_	_	해/ncn+까지/jxc+가/jcc
+15	될까요	되+ㄹ까+요	VERB	_	0	root	_	_	되/pvg+ㄹ까/ef+요/jxf
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이 다섯분이 똑같이 재위했던 연대라면 기원전 261년부터 258년까지의 4년간밖에 되지 않습니다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	다섯분이	다섯+분+이	NUM	_	4	nsubj	_	_	다섯/nnc+분/nbu+이/jcs
+3	똑같이	똑같이	ADV	_	4	advmod	_	_	똑같이/mag
+4	재위했던	재위+하+었+던	VERB	_	5	ccomp	_	_	재위/ncpa+하/xsv+었/ep+던/etm
+5	연대라면	연대+이+라면	SCONJ	_	10	ccomp	_	_	연대/ncn+이/jp+라면/ecs
+6	기원전	기원전	NOUN	_	7	compound	_	_	기원전/ncn
+7	261년부터	261+년+부터	ADV	_	8	advcl	_	_	261/nno+년/nbu+부터/jxc
+8	258년까지의	258+년+까지+의	NUM	_	9	nmod	_	_	258/nno+년/nbu+까지/jxc+의/jcm
+9	4년간밖에	4+년+간+밖에	ADV	_	10	advcl	_	_	4/nnc+년/nbu+간/xsn+밖에/jxc
+10	되지	되+지	VERB	_	0	root	_	_	되/pvg+지/ecx
+11	않습니다	않+습니다	AUX	_	10	aux	_	_	않/px+습니다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러나 좀더 잘 생각해보면 , 첫번째의 안초가왕이 즉위한 해는 분명히 기원전 261년 일입니다만 , 그 해의 어느 달쯤에 즉위했는지는 확실하지 않습니다 .
+1	그러나	그러나	CCONJ	_	13	cc	_	_	그러나/maj
+2	좀더	좀더	ADV	_	4	advmod	_	_	좀더/mag
+3	잘	잘	ADV	_	2	advmod	_	_	잘/mag
+4	생각해보면	생각+하+어+보+면	SCONJ	_	13	ccomp	_	_	생각/ncpa+하/xsv+어/ecx+보/px+면/ecs
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	첫번째의	첫번째+의	NUM	_	7	nmod	_	_	첫번째/nno+의/jcm
+7	안초가왕이	안초가+왕+이	PROPN	_	8	nsubj	_	_	안초가/nq+왕/ncn+이/jcs
+8	즉위한	즉위+하+ㄴ	VERB	_	9	acl	_	_	즉위/ncpa+하/xsv+ㄴ/etm
+9	해는	해+는	NOUN	_	13	dislocated	_	_	해/ncn+는/jxt
+10	분명히	분명히	ADV	_	13	advmod	_	_	분명히/mag
+11	기원전	기원전	NOUN	_	12	compound	_	_	기원전/ncn
+12	261년	261+년	NOUN	_	13	compound	_	_	261/nno+년/nbu
+13	일입니다만	일+이+ㅂ니다+만	ADV	_	20	dep	_	_	일/ncpa+이/jp+ㅂ니다/ef+만/jxc
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	그	그	DET	_	16	det	_	_	그/mmd
+16	해의	해+의	NOUN	_	18	nmod	_	_	해/ncn+의/jcm
+17	어느	어느	DET	_	18	det	_	_	어느/mmd
+18	달쯤에	달+쯤+에	ADV	_	19	obl	_	_	달/ncn+쯤/xsn+에/jca
+19	즉위했는지는	즉위+하+는지+는	NOUN	_	20	dislocated	_	_	즉위/ncpa+하/xsv+는지/ef+는/jxt
+20	확실하지	확실+하+지	VERB	_	0	root	_	_	확실/ncps+하/xsm+지/ecx
+21	않습니다	않+습니다	AUX	_	20	aux	_	_	않/px+습니다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 이쯤 되고 보면 , 다음은 불타께서 입멸하신 뒤부터 아쇼카왕이 즉위하기까지가 몇해 사이인가만 알면 그만인 셈이 됩니다 .
+1	이쯤	이쯤	ADV	_	2	advmod	_	_	이쯤/mag
+2	되고	되+고	VERB	_	16	ccomp	_	_	되/pvg+고/ecx
+3	보면	보+면	SCONJ	_	2	aux	_	_	보/px+면/ecs
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	다음은	다음+은	NOUN	_	13	dislocated	_	_	다음/ncn+은/jxt
+6	불타께서	불타+께서	PROPN	_	7	nsubj	_	_	불타/nq+께서/jcs
+7	입멸하신	입멸+하+시+ㄴ	VERB	_	8	acl	_	_	입멸/ncpa+하/xsv+시/ep+ㄴ/etm
+8	뒤부터	뒤+부터	ADV	_	10	advcl	_	_	뒤/ncn+부터/jxc
+9	아쇼카왕이	아쇼카+왕+이	PROPN	_	10	nsubj	_	_	아쇼카/nq+왕/ncn+이/jcs
+10	즉위하기까지가	즉위+하+기+까지+가	NOUN	_	12	nsubj	_	_	즉위/ncpa+하/xsv+기/etn+까지/jxc+가/jcs
+11	몇해	몇+해	NOUN	_	12	compound	_	_	몇/nnc+해/nbu
+12	사이인가만	사이+이+ㄴ가+만	ADV	_	13	advcl	_	_	사이/ncn+이/jp+ㄴ가/ef+만/jxc
+13	알면	알+면	SCONJ	_	14	ccomp	_	_	알/pvg+면/ecs
+14	그만인	그만+이+ㄴ	VERB	_	15	acl	_	_	그만/ncpa+이/jp+ㄴ/etm
+15	셈이	셈+이	NOUN	_	16	csubj	_	_	셈/nbn+이/jcc
+16	됩니다	되+ㅂ니다	VERB	_	0	root	_	_	되/pvg+ㅂ니다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그 결과 석가모니께서 열반에 드신 해는 서력 기원전 386년이거나 385년 , 이 중 어느 하나라는 것이 정해지게 되는 것입니다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	결과	결과	NOUN	_	17	advmod	_	_	결과/ncn
+3	석가모니께서	석가모니+께서	PROPN	_	5	nsubj	_	_	석가모니/nq+께서/jcs
+4	열반에	열반+에	ADV	_	5	obl	_	_	열반/ncpa+에/jca
+5	드신	들+시+ㄴ	VERB	_	6	acl	_	_	들/pvg+시/ep+ㄴ/etm
+6	해는	해+는	NOUN	_	15	dislocated	_	_	해/ncn+는/jxt
+7	서력	서력	NOUN	_	9	compound	_	_	서력/ncn
+8	기원전	기원전	NOUN	_	9	compound	_	_	기원전/ncn
+9	386년이거나	386+년+이거나	CCONJ	_	10	conj	_	_	386/nno+년/nbu+이거나/jcj
+10	385년	385+년	NOUN	_	15	compound	_	_	385/nno+년/nbu
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	이	이	DET	_	13	det	_	_	이/mmd
+13	중	중	NOUN	_	15	mark	_	_	중/nbn
+14	어느	어느	DET	_	15	det	_	_	어느/mmd
+15	하나라는	하나+이+라는	VERB	_	16	acl	_	_	하나/nnc+이/jp+라는/etm
+16	것이	것+이	NOUN	_	17	nsubj	_	_	것/nbn+이/jcs
+17	정해지게	정하+어+지+게	AUX	_	0	root	_	_	정하/pvg+어/ecx+지/px+게/ecx
+18	되는	되+는	AUX	_	17	aux	_	_	되/px+는/etm
+19	것입니다	것+이+ㅂ니다	VERB	_	17	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 아시는 바와 같이 석가모니께서는 팔십세에 입멸하셨습니다 .
+1	아시는	알+시+는	VERB	_	2	acl	_	_	알/pvg+시/ep+는/etm
+2	바와	바+와	CCONJ	_	3	conj	_	_	바/nbn+와/jct
+3	같이	같+이	SCONJ	_	6	xcomp	_	_	같/paa+이/ecs
+4	석가모니께서는	석가모니+께서+는	PROPN	_	6	dislocated	_	_	석가모니/nq+께서/jcs+는/jxt
+5	팔십세에	팔십+세+에	ADV	_	6	obl	_	_	팔십/nnc+세/nbu+에/jca
+6	입멸하셨습니다	입멸+하+셨+습니다	VERB	_	0	root	_	_	입멸/ncpa+하/xsv+셨/ep+습니다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이 사실만은 부처님에 대해 전해진 어느 전설도 모두 일치하게 팔십세에 돌아가셨다고 말하고 있으므로 틀림없다고 생각되어집니다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	사실만은	사실+만+은	NOUN	_	14	dislocated	_	_	사실/ncn+만/jxc+은/jxt
+3	부처님에	부처+님+에	ADV	_	4	obl	_	_	부처/ncn+님/xsn+에/jca
+4	대해	대하+어	SCONJ	_	5	ccomp	_	_	대하/pvg+어/ecs
+5	전해진	전하+어+지+ㄴ	AUX	_	7	acl	_	_	전하/pvg+어/ecx+지/px+ㄴ/etm
+6	어느	어느	DET	_	7	det	_	_	어느/mmd
+7	전설도	전설+도	ADV	_	12	advcl	_	_	전설/ncn+도/jxc
+8	모두	모두	ADV	_	9	advmod	_	_	모두/mag
+9	일치하게	일치+하+게	SCONJ	_	12	xcomp	_	_	일치/ncps+하/xsm+게/ecs
+10	팔십세에	팔십+세+에	ADV	_	11	obl	_	_	팔십/nnc+세/nbu+에/jca
+11	돌아가셨다고	돌아가+셨+다+고	VERB	_	12	conj	_	_	돌아가/pvg+셨/ep+다/ef+고/jcr
+12	말하고	말하+고	VERB	_	14	conj	_	_	말하/pvg+고/ecx
+13	있으므로	있+으므로	SCONJ	_	12	aux	_	_	있/px+으므로/ecs
+14	틀림없다고	틀림+없+다+고	VERB	_	15	conj	_	_	틀림/ncn+없/xsm+다/ef+고/jcr
+15	생각되어집니다	생각+되+어+지+ㅂ니다	AUX	_	0	root	_	_	생각/ncpa+되/xsv+어/ecx+지/px+ㅂ니다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그러므로 다시 여기에 80년을 더하면 불타 탄생년이 되는 셈입니다 .
+1	그러므로	그러므로	CCONJ	_	9	cc	_	_	그러므로/maj
+2	다시	다시	ADV	_	5	advmod	_	_	다시/mag
+3	여기에	여기+에	ADV	_	5	obl	_	_	여기/npd+에/jca
+4	80년을	80+년+을	NUM	_	5	obj	_	_	80/nno+년/nbu+을/jco
+5	더하면	더하+면	SCONJ	_	8	ccomp	_	_	더하/pvg+면/ecs
+6	불타	불타	PROPN	_	7	compound	_	_	불타/nq
+7	탄생년이	탄생년+이	NOUN	_	8	csubj	_	_	탄생년/ncn+이/jcc
+8	되는	되+는	VERB	_	9	ccomp	_	_	되/pvg+는/etm
+9	셈입니다	셈+이+ㅂ니다	VERB	_	0	root	_	_	셈/nbn+이/jp+ㅂ니다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이같이 해서 우리들의 부처님께서 태어나신 해 , 열반에 드신 해는 시원하게 판명되었다고 하겠습니다 .
+1	이같이	이같이	ADV	_	2	advmod	_	_	이같이/mag
+2	해서	하+어서	SCONJ	_	12	conj	_	_	하/pvg+어서/ecs
+3	우리들의	우리+들+의	PRON	_	4	nmod	_	_	우리/npp+들/xsn+의/jcm
+4	부처님께서	부처+님+께서	NOUN	_	5	nsubj	_	_	부처/ncn+님/xsn+께서/jcs
+5	태어나신	태어나+시+ㄴ	VERB	_	6	acl	_	_	태어나/pvg+시/ep+ㄴ/etm
+6	해	해	NOUN	_	10	compound	_	_	해/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	열반에	열반+에	ADV	_	9	obl	_	_	열반/ncpa+에/jca
+9	드신	들+시+ㄴ	VERB	_	10	acl	_	_	들/pvg+시/ep+ㄴ/etm
+10	해는	해+는	NOUN	_	12	dislocated	_	_	해/ncn+는/jxt
+11	시원하게	시원+하+게	SCONJ	_	12	xcomp	_	_	시원/ncps+하/xsm+게/ecs
+12	판명되었다고	판명+되+었+다+고	VERB	_	13	conj	_	_	판명/ncpa+되/xsv+었/ep+다/ef+고/jcr
+13	하겠습니다	하+겠+습니다	VERB	_	0	root	_	_	하/pvg+겠/ep+습니다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 다음으로는 취향을 바꿔가지고 다른 이야기로 들어가보기로 해봅시다 .
+1	다음으로는	다음+으로+는	NOUN	_	3	dislocated	_	_	다음/ncn+으로/jca+는/jxt
+2	취향을	취향+을	NOUN	_	3	obj	_	_	취향/ncn+을/jco
+3	바꿔가지고	바꾸+어+가+아+지+고	CCONJ	_	7	conj	_	_	바꾸/pvg+어/ecx+가/px+아/ecx+지/px+고/ecc
+4	다른	다르+ㄴ	ADJ	_	5	amod	_	_	다르/paa+ㄴ/etm
+5	이야기로	이야기+로	ADV	_	6	advcl	_	_	이야기/ncpa+로/jca
+6	들어가보기로	들+어+가+아+보+기+로	ADV	_	7	advcl	_	_	들/pvg+어/ecx+가/px+아/ecx+보/px+기/etn+로/jca
+7	해봅시다	하+어+보+ㅂ시다	AUX	_	0	root	_	_	하/pvg+어/ecx+보/px+ㅂ시다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 즉 , 아리안 민족은 일단 서쪽으로의 대이동을 개시했었습니다 .
+1	즉	즉	CCONJ	_	8	cc	_	_	즉/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	아리안	아리안	PROPN	_	4	compound	_	_	아리안/nq
+4	민족은	민족+은	NOUN	_	8	dislocated	_	_	민족/ncn+은/jxt
+5	일단	일단	ADV	_	8	advmod	_	_	일단/mag
+6	서쪽으로의	서쪽+으로+의	NOUN	_	7	nmod	_	_	서쪽/ncn+으로/jca+의/jcm
+7	대이동을	대이동+을	NOUN	_	8	obj	_	_	대이동/ncpa+을/jco
+8	개시했었습니다	개시+하+었었+습니다	VERB	_	0	root	_	_	개시/ncpa+하/xsv+었었/ep+습니다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이것이 오늘날의 유럽 여러 민족의 조상이 되었고 , 일부는 남쪽 방향으로 진출해서 이락 , 이란 , 터키 , 인도 서북쪽 변두리 땅을 점령했던 것입니다 .
+1	이것이	이것+이	PRON	_	7	nsubj	_	_	이것/npd+이/jcs
+2	오늘날의	오늘날+의	NOUN	_	5	nmod	_	_	오늘날/ncn+의/jcm
+3	유럽	유럽	PROPN	_	5	compound	_	_	유럽/nq
+4	여러	여러	ADJ	_	5	amod	_	_	여러/mma
+5	민족의	민족+의	NOUN	_	6	nmod	_	_	민족/ncn+의/jcm
+6	조상이	조상+이	NOUN	_	7	csubj	_	_	조상/ncn+이/jcc
+7	되었고	되+었+고	CCONJ	_	23	conj	_	_	되/pvg+었/ep+고/ecc
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	일부는	일부+는	NOUN	_	12	dislocated	_	_	일부/ncn+는/jxt
+10	남쪽	남쪽	NOUN	_	11	compound	_	_	남쪽/ncn
+11	방향으로	방향+으로	ADV	_	12	advcl	_	_	방향/ncn+으로/jca
+12	진출해서	진출+하+어서	SCONJ	_	23	ccomp	_	_	진출/ncpa+하/xsv+어서/ecs
+13	이락	이락	PROPN	_	15	conj	_	_	이락/nq
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	이란	이란	PROPN	_	17	conj	_	_	이란/nq
+16	,	,	PUNCT	_	15	punct	_	_	,/sp
+17	터키	터키	PROPN	_	22	conj	_	_	터키/nq
+18	,	,	PUNCT	_	17	punct	_	_	,/sp
+19	인도	인도	PROPN	_	20	compound	_	_	인도/nq
+20	서북쪽	서북쪽	NOUN	_	21	compound	_	_	서북쪽/ncn
+21	변두리	변두리	NOUN	_	22	compound	_	_	변두리/ncn
+22	땅을	땅+을	NOUN	_	23	obj	_	_	땅/ncn+을/jco
+23	점령했던	점령+하+었+던	VERB	_	0	root	_	_	점령/ncpa+하/xsv+었/ep+던/etm
+24	것입니다	것+이+ㅂ니다	VERB	_	23	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+25	.	.	PUNCT	_	24	punct	_	_	./sf
+
+# 이 인도로 침입해 들어온 아리안족의 일파를 특히 구별시켜 [ 인도 아리안 ] 이라고 부르고 있습니다 .
+1	이	이	DET	_	6	det	_	_	이/mmd
+2	인도로	인도+로	ADV	_	3	advcl	_	_	인도/nq+로/jca
+3	침입해	침입+하+어	SCONJ	_	4	ccomp	_	_	침입/ncpa+하/xsv+어/ecs
+4	들어온	들+어+오+ㄴ	AUX	_	5	acl	_	_	들/pvg+어/ecx+오/px+ㄴ/etm
+5	아리안족의	아리안족+의	PROPN	_	6	nmod	_	_	아리안족/nq+의/jcm
+6	일파를	일파+를	NOUN	_	14	obj	_	_	일파/ncn+를/jco
+7	특히	특히	ADV	_	8	advmod	_	_	특히/mag
+8	구별시켜	구별+시키+어	SCONJ	_	14	ccomp	_	_	구별/ncpa+시키/xsv+어/ecs
+9	[	[	PUNCT	_	10	punct	_	_	[/sl
+10	인도	인도	PROPN	_	11	flat	_	_	인도/nq
+11	아리안	아리안	PROPN	_	14	conj	_	_	아리안/nq
+12	]	]	PUNCT	_	11	punct	_	_	]/sr
+13	이라고	이+라+고	ADP	_	11	cop	_	_	이/jp+라/ef+고/jcr
+14	부르고	부르+고	VERB	_	0	root	_	_	부르/pvg+고/ecx
+15	있습니다	있+습니다	AUX	_	14	aux	_	_	있/px+습니다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그리고 인도 아리안종족들은 이 < 베다 > 를 그 어떤 것보다도 존중하여 < 천계 ( 天啓 ) 의 성진 ( 이른바 Sruti ) > 으로 총칭 , 입에서 입으로 전해 내려왔던 것입니다 .
+1	그리고	그리고	CCONJ	_	31	cc	_	_	그리고/maj
+2	인도	인도	PROPN	_	3	flat	_	_	인도/nq
+3	아리안종족들은	아리안+종족+들+은	PROPN	_	12	dislocated	_	_	아리안/nq+종족/ncn+들/xsn+은/jxt
+4	이	이	DET	_	6	det	_	_	이/mmd
+5	<	<	PUNCT	_	6	punct	_	_	</sl
+6	베다	베다	PROPN	_	12	obj	_	_	베다/nq
+7	>	>	PUNCT	_	6	punct	_	_	>/sr
+8	를	를	ADP	_	6	case	_	_	를/jco
+9	그	그	DET	_	11	det	_	_	그/mmd
+10	어떤	어떻+ㄴ	VERB	_	11	amod	_	_	어떻/pad+ㄴ/etm
+11	것보다도	것+보다+도	ADV	_	12	advcl	_	_	것/nbn+보다/jca+도/jxc
+12	존중하여	존중+하+어	SCONJ	_	31	ccomp	_	_	존중/ncpa+하/xsv+어/ecs
+13	<	<	PUNCT	_	14	punct	_	_	</sl
+14	천계	천계	NOUN	_	19	nmod	_	_	천계/ncn
+15	(	(	PUNCT	_	16	punct	_	_	(/sl
+16	天啓	天啓	NOUN	_	14	appos	_	_	天啓/ncn
+17	)	)	PUNCT	_	16	punct	_	_	)/sr
+18	의	의	ADP	_	14	case	_	_	의/jcm
+19	성진	성진	NOUN	_	26	advcl	_	_	성진/ncn
+20	(	(	PUNCT	_	22	punct	_	_	(/sl
+21	이른바	이른바	ADV	_	22	advmod	_	_	이른바/mag
+22	Sruti	Sruti	X	_	19	appos	_	_	Sruti/f
+23	)	)	PUNCT	_	22	punct	_	_	)/sr
+24	>	>	PUNCT	_	19	punct	_	_	>/sr
+25	으로	으로	ADP	_	19	case	_	_	으로/jca
+26	총칭	총칭	NOUN	_	30	advmod	_	_	총칭/ncpa
+27	,	,	PUNCT	_	26	punct	_	_	,/sp
+28	입에서	입+에서	ADV	_	29	advcl	_	_	입/ncn+에서/jca
+29	입으로	입+으로	ADV	_	30	advcl	_	_	입/ncn+으로/jca
+30	전해	전하+어	SCONJ	_	31	ccomp	_	_	전하/pvg+어/ecs
+31	내려왔던	내리+어+오+았+던	AUX	_	0	root	_	_	내리/pvg+어/ecx+오/px+았/ep+던/etm
+32	것입니다	것+이+ㅂ니다	VERB	_	31	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+33	.	.	PUNCT	_	32	punct	_	_	./sf
+
+# 따라서 , 그분은 아무래도 자기 자신 몸소 길을 개척하지 않고는 안 되게 되어 버렸던 것입니다 .
+1	따라서	따라서	CCONJ	_	12	cc	_	_	따라서/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	그분은	그분+은	PRON	_	9	dislocated	_	_	그분/npp+은/jxt
+4	아무래도	아무래도	ADV	_	9	advmod	_	_	아무래도/mag
+5	자기	자기	PRON	_	6	compound	_	_	자기/npp
+6	자신	자신	NOUN	_	7	dep	_	_	자신/ncn
+7	몸소	몸소	ADV	_	9	advmod	_	_	몸소/mag
+8	길을	길+을	NOUN	_	9	obj	_	_	길/ncn+을/jco
+9	개척하지	개척+하+지	VERB	_	12	ccomp	_	_	개척/ncpa+하/xsv+지/ecx
+10	않고는	않+고+는	NOUN	_	9	aux	_	_	않/px+고/ecc+는/jxt
+11	안	안	ADV	_	12	advmod	_	_	안/mag
+12	되게	되+게	VERB	_	0	root	_	_	되/pvg+게/ecx
+13	되어	되+어	AUX	_	12	aux	_	_	되/px+어/ecx
+14	버렸던	버리+었+던	AUX	_	12	aux	_	_	버리/px+었/ep+던/etm
+15	것입니다	것+이+ㅂ니다	VERB	_	12	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 또 그 어떤 인간이라 할지라도 질병이라거나 늙어 쇠약해짐이라거나 , 죽음으로부터 벗어날 수는 없다 .
+1	또	또	CCONJ	_	11	cc	_	_	또/maj
+2	그	그	DET	_	4	det	_	_	그/mmd
+3	어떤	어떻+ㄴ	VERB	_	4	amod	_	_	어떻/pad+ㄴ/etm
+4	인간이라	인간+이라	ADV	_	5	advcl	_	_	인간/ncn+이라/jca
+5	할지라도	하+ㄹ지라도	SCONJ	_	11	ccomp	_	_	하/pvg+ㄹ지라도/ecs
+6	질병이라거나	질병+이라거나	CCONJ	_	8	conj	_	_	질병/ncn+이라거나/jcj
+7	늙어	늙+어	SCONJ	_	8	conj	_	_	늙/pvg+어/ecs
+8	쇠약해짐이라거나	쇠약+하+어+지+ㅁ+이라거나	CCONJ	_	10	conj	_	_	쇠약/ncps+하/xsm+어/ecx+지/px+ㅁ/etn+이라거나/jcj
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	죽음으로부터	죽음+으로+부터	ADV	_	11	advcl	_	_	죽음/ncn+으로/jca+부터/jxc
+11	벗어날	벗어나+ㄹ	VERB	_	0	root	_	_	벗어나/pvg+ㄹ/etm
+12	수는	수+는	NOUN	_	13	fixed	_	_	수/nbn+는/jxt
+13	없다	없+다	ADJ	_	11	aux	_	_	없/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이렇게 생각하셨던 것입니다 .
+1	이렇게	이렇+게	SCONJ	_	2	xcomp	_	_	이렇/pad+게/ecs
+2	생각하셨던	생각+하+셨+던	VERB	_	0	root	_	_	생각/ncpa+하/xsv+셨/ep+던/etm
+3	것입니다	것+이+ㅂ니다	VERB	_	2	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 저의 눈앞에는 분명히 찻종 한 개가 놓여 있습니다 .
+1	저의	저+의	PRON	_	2	nmod	_	_	저/npp+의/jcm
+2	눈앞에는	눈앞+에+는	NOUN	_	7	dislocated	_	_	눈앞/ncn+에/jca+는/jxt
+3	분명히	분명히	ADV	_	7	advmod	_	_	분명히/mag
+4	찻종	찻종	NOUN	_	6	compound	_	_	찻종/ncn
+5	한	한	NUM	_	6	nummod	_	_	한/nnc
+6	개가	개+가	NOUN	_	7	nsubj	_	_	개/nbu+가/jcs
+7	놓여	놓이+어	VERB	_	0	root	_	_	놓이/pvg+어/ecx
+8	있습니다	있+습니다	AUX	_	7	aux	_	_	있/px+습니다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그런데 이 찻종이 하찮은 무슨 계기로 말미암아 굴러떨어졌다고 했을 경우 이제는 찻종이 아니라 , 쓸어내버릴 사금파리가 되어버리고 마는 것입니다 .
+1	그런데	그런데	CCONJ	_	17	cc	_	_	그런데/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	찻종이	찻종+이	NOUN	_	8	nsubj	_	_	찻종/ncn+이/jcs
+4	하찮은	하찮+ㄴ	ADJ	_	6	amod	_	_	하찮/paa+ㄴ/etm
+5	무슨	무슨	DET	_	6	det	_	_	무슨/mmd
+6	계기로	계기+로	ADV	_	7	advcl	_	_	계기/ncn+로/jca
+7	말미암아	말미암+아	SCONJ	_	8	ccomp	_	_	말미암/pvg+아/ecs
+8	굴러떨어졌다고	굴러떨+어+지+었+다+고	VERB	_	9	conj	_	_	굴러떨/pvg+어/ecx+지/px+었/ep+다/ef+고/jcr
+9	했을	하+었+ㄹ	VERB	_	10	acl	_	_	하/pvg+었/ep+ㄹ/etm
+10	경우	경우	NOUN	_	17	advmod	_	_	경우/ncn
+11	이제는	이제+는	NOUN	_	13	dislocated	_	_	이제/ncn+는/jxt
+12	찻종이	찻종+이	NOUN	_	13	csubj	_	_	찻종/ncn+이/jcc
+13	아니라	아니+라	SCONJ	_	17	xcomp	_	_	아니/paa+라/ecs
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	쓸어내버릴	쓸+어+내+어+버리+ㄹ	AUX	_	16	acl	_	_	쓸/pvg+어/ecx+내/px+어/ecx+버리/px+ㄹ/etm
+16	사금파리가	사금파리+가	NOUN	_	17	nsubj	_	_	사금파리/ncn+가/jcs
+17	되어버리고	되+어+버리+고	AUX	_	0	root	_	_	되/pvg+어/ecx+버리/px+고/ecx
+18	마는	말+는	AUX	_	17	aux	_	_	말/px+는/etm
+19	것입니다	것+이+ㅂ니다	VERB	_	17	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 그리고 또 지금은 설사 찻종 모습을 하고 있다지만 , 찻종이 되기 전까지는 , 어느 산 속의 한줌 흙에 불과했던 것입니다 .
+1	그리고	그리고	CCONJ	_	19	cc	_	_	그리고/maj
+2	또	또	ADV	_	3	advmod	_	_	또/mag
+3	지금은	지금+은	NOUN	_	7	dislocated	_	_	지금/ncn+은/jxt
+4	설사	설사	ADV	_	7	advmod	_	_	설사/mag
+5	찻종	찻종	NOUN	_	6	compound	_	_	찻종/ncn
+6	모습을	모습+을	NOUN	_	7	obj	_	_	모습/ncn+을/jco
+7	하고	하+고	VERB	_	19	dep	_	_	하/pvg+고/ecx
+8	있다지만	있+다지만	SCONJ	_	7	aux	_	_	있/px+다지만/ecs
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	찻종이	찻종+이	NOUN	_	11	nsubj	_	_	찻종/ncn+이/jcs
+11	되기	되+기	VERB	_	12	nmod	_	_	되/pvg+기/etn
+12	전까지는	전+까지+는	NOUN	_	19	dep	_	_	전/ncn+까지/jxc+는/jxt
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	어느	어느	DET	_	15	det	_	_	어느/mmd
+15	산	산	NOUN	_	16	compound	_	_	산/ncn
+16	속의	속+의	NOUN	_	18	nmod	_	_	속/ncn+의/jcm
+17	한줌	한줌	NOUN	_	18	compound	_	_	한줌/ncn
+18	흙에	흙+에	ADV	_	19	obl	_	_	흙/ncn+에/jca
+19	불과했던	불과+하+었+던	VERB	_	0	root	_	_	불과/ncps+하/xsm+었/ep+던/etm
+20	것입니다	것+이+ㅂ니다	VERB	_	19	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 산에 있던 흙이 사기그릇 공장으로 운반되어 , 직공의 손에 의해 반죽되어 구워져가지고 찻종으로 태어나게 된 것입니다 .
+1	산에	산+에	ADV	_	2	obl	_	_	산/ncn+에/jca
+2	있던	있+던	ADJ	_	3	amod	_	_	있/paa+던/etm
+3	흙이	흙+이	NOUN	_	6	nsubj	_	_	흙/ncn+이/jcs
+4	사기그릇	사기그릇	NOUN	_	5	compound	_	_	사기그릇/ncn
+5	공장으로	공장+으로	ADV	_	6	advcl	_	_	공장/ncn+으로/jca
+6	운반되어	운반+되+어	SCONJ	_	11	ccomp	_	_	운반/ncpa+되/xsv+어/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	직공의	직공+의	NOUN	_	9	nmod	_	_	직공/ncn+의/jcm
+9	손에	손+에	ADV	_	10	obl	_	_	손/ncn+에/jca
+10	의해	의하+어	SCONJ	_	11	ccomp	_	_	의하/pvg+어/ecs
+11	반죽되어	반죽+되+어	SCONJ	_	12	ccomp	_	_	반죽/ncpa+되/xsv+어/ecs
+12	구워져가지고	굽+어+지+어+가+아+지+고	CCONJ	_	14	conj	_	_	굽/pvg+어/ecx+지/px+어/ecx+가/px+아/ecx+지/px+고/ecc
+13	찻종으로	찻종+으로	ADV	_	14	advcl	_	_	찻종/ncn+으로/jca
+14	태어나게	태어나+게	VERB	_	0	root	_	_	태어나/pvg+게/ecx
+15	된	되+ㄴ	AUX	_	14	aux	_	_	되/px+ㄴ/etm
+16	것입니다	것+이+ㅂ니다	VERB	_	14	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 또 이 접시나 , 변기는 벌써 파손되어 다시 흙으로 돌아가 있는지도 또한 모를 일입니다 .
+1	또	또	CCONJ	_	14	cc	_	_	또/maj
+2	이	이	DET	_	5	det	_	_	이/mmd
+3	접시나	접시+나	CCONJ	_	5	conj	_	_	접시/ncn+나/jcj
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	변기는	변기+는	NOUN	_	7	dislocated	_	_	변기/ncn+는/jxt
+6	벌써	벌써	ADV	_	7	advmod	_	_	벌써/mag
+7	파손되어	파손+되+어	SCONJ	_	10	ccomp	_	_	파손/ncpa+되/xsv+어/ecs
+8	다시	다시	ADV	_	10	advmod	_	_	다시/mag
+9	흙으로	흙+으로	ADV	_	10	advcl	_	_	흙/ncn+으로/jca
+10	돌아가	돌+아+가+아	AUX	_	14	ccomp	_	_	돌/pvg+아/ecx+가/px+아/ecx
+11	있는지도	있+는지도	SCONJ	_	10	aux	_	_	있/px+는지도/ecs
+12	또한	또한	ADV	_	13	advmod	_	_	또한/mag
+13	모를	모르+ㄹ	VERB	_	14	ccomp	_	_	모르/pvg+ㄹ/etm
+14	일입니다	일+이+ㅂ니다	VERB	_	0	root	_	_	일/ncpa+이/jp+ㅂ니다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 혹은 , 이 찻종보다도 더 아낌을 받는 비싼 공예품이 되어가지고 찻종보다 더 오랜 수명을 누리고 있을지 어찌 알겠습니까 .
+1	혹은	혹은	CCONJ	_	18	cc	_	_	혹은/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	이	이	DET	_	4	det	_	_	이/mmd
+4	찻종보다도	찻종+보다+도	ADV	_	7	advcl	_	_	찻종/ncn+보다/jca+도/jxc
+5	더	더	ADV	_	6	advmod	_	_	더/mag
+6	아낌을	아끼+ㅁ+을	NOUN	_	7	obj	_	_	아끼/pvg+ㅁ/etn+을/jco
+7	받는	받+는	VERB	_	9	acl	_	_	받/pvg+는/etm
+8	비싼	비싸+ㄴ	ADJ	_	9	amod	_	_	비싸/paa+ㄴ/etm
+9	공예품이	공예품+이	NOUN	_	10	csubj	_	_	공예품/ncn+이/jcc
+10	되어가지고	되+어+가+아+지+고	CCONJ	_	15	conj	_	_	되/pvg+어/ecx+가/px+아/ecx+지/px+고/ecc
+11	찻종보다	찻종+보다	ADV	_	15	advcl	_	_	찻종/ncn+보다/jca
+12	더	더	ADV	_	13	advmod	_	_	더/mag
+13	오랜	오랜	ADJ	_	14	amod	_	_	오랜/mma
+14	수명을	수명+을	NOUN	_	15	obj	_	_	수명/ncn+을/jco
+15	누리고	누리+고	VERB	_	18	ccomp	_	_	누리/pvg+고/ecx
+16	있을지	있+을지	SCONJ	_	15	aux	_	_	있/px+을지/ecs
+17	어찌	어찌	ADV	_	18	advmod	_	_	어찌/mag
+18	알겠습니까	알+겠+습니까	VERB	_	0	root	_	_	알/pvg+겠/ep+습니까/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이렇게 되었을 때 , 이 찻종은 정말로는 어떤 존재가 될 것일까요 .
+1	이렇게	이렇+게	VERB	_	3	amod	_	_	이렇/pad+게/ecx
+2	되었을	되+었+ㄹ	AUX	_	1	aux	_	_	되/px+었/ep+ㄹ/etm
+3	때	때	NOUN	_	10	advmod	_	_	때/nbn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	이	이	DET	_	6	det	_	_	이/mmd
+6	찻종은	찻종+은	NOUN	_	10	dislocated	_	_	찻종/ncn+은/jxt
+7	정말로는	정말+로+는	NOUN	_	10	dislocated	_	_	정말/ncn+로/jca+는/jxt
+8	어떤	어떻+ㄴ	VERB	_	9	amod	_	_	어떻/pad+ㄴ/etm
+9	존재가	존재+가	NOUN	_	10	csubj	_	_	존재/ncpa+가/jcc
+10	될	되+ㄹ	VERB	_	0	root	_	_	되/pvg+ㄹ/etm
+11	것일까요	것+이+ㄹ까+요	VERB	_	10	aux	_	_	것/nbn+이/jp+ㄹ까/ef+요/jxf
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 찻종에는 찻종이 되기 이전의 과거가 있고 , 찻종이 아닌 사금파리란 미래가 있습니다 .
+1	찻종에는	찻종+에+는	NOUN	_	12	dislocated	_	_	찻종/ncn+에/jca+는/jxt
+2	찻종이	찻종+이	NOUN	_	3	csubj	_	_	찻종/ncn+이/jcc
+3	되기	되+기	VERB	_	4	nmod	_	_	되/pvg+기/etn
+4	이전의	이전+의	NOUN	_	5	nmod	_	_	이전/ncn+의/jcm
+5	과거가	과거+가	NOUN	_	6	nsubj	_	_	과거/ncn+가/jcs
+6	있고	있+고	CCONJ	_	12	conj	_	_	있/paa+고/ecc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	찻종이	찻종+이	NOUN	_	9	csubj	_	_	찻종/ncn+이/jcc
+9	아닌	아니+ㄴ	ADJ	_	10	amod	_	_	아니/paa+ㄴ/etm
+10	사금파리란	사금파리+이+란	VERB	_	11	acl	_	_	사금파리/ncn+이/jp+란/etm
+11	미래가	미래+가	NOUN	_	12	nsubj	_	_	미래/ncn+가/jcs
+12	있습니다	있+습니다	ADJ	_	0	root	_	_	있/paa+습니다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그래서 이 찻종으로서 태어난 때부터 깨어져 가지고 사금파리가 되기까지가 바로 < 인생 > 이라는 것이다 .
+1	그래서	그래서	CCONJ	_	15	cc	_	_	그래서/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	찻종으로서	찻종+으로서	ADV	_	4	advcl	_	_	찻종/ncn+으로서/jca
+4	태어난	태어나+ㄴ	VERB	_	5	acl	_	_	태어나/pvg+ㄴ/etm
+5	때부터	때+부터	ADV	_	9	advcl	_	_	때/nbn+부터/jxc
+6	깨어져	깨+어+지+어	SCONJ	_	7	ccomp	_	_	깨/pvg+어/ecx+지/px+어/ecs
+7	가지고	가지+고	CCONJ	_	9	conj	_	_	가지/pvg+고/ecc
+8	사금파리가	사금파리+가	NOUN	_	9	csubj	_	_	사금파리/ncn+가/jcc
+9	되기까지가	되+기+까지+가	NOUN	_	15	nsubj	_	_	되/pvg+기/etn+까지/jxc+가/jcs
+10	바로	바로	ADV	_	12	advmod	_	_	바로/mag
+11	<	<	PUNCT	_	12	punct	_	_	</sl
+12	인생	인생	NOUN	_	15	ccomp	_	_	인생/ncn
+13	>	>	PUNCT	_	12	punct	_	_	>/sr
+14	이라는	이+라는	ADP	_	12	cop	_	_	이/jp+라는/etm
+15	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이렇게 비유되는 것입니다 .
+1	이렇게	이렇+게	SCONJ	_	2	xcomp	_	_	이렇/pad+게/ecs
+2	비유되는	비유+되+는	VERB	_	0	root	_	_	비유/ncpa+되/xsv+는/etm
+3	것입니다	것+이+ㅂ니다	VERB	_	2	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 인생이란 그래서 하찮은 계기 ( 어찌하다 보니까 ) 에 의해 태어나고 , 하찮은 계기에 의해 또 종말을 고하게 되는 것이 되겠습니다 .
+1	인생이란	인생+이란	ADV	_	21	advcl	_	_	인생/ncn+이란/jxc
+2	그래서	그래서	ADV	_	21	advmod	_	_	그래서/mag
+3	하찮은	하찮+ㄴ	ADJ	_	4	amod	_	_	하찮/paa+ㄴ/etm
+4	계기	계기	NOUN	_	10	obl	_	_	계기/ncn
+5	(	(	PUNCT	_	6	punct	_	_	(/sl
+6	어찌하다	어찌하+다	VERB	_	4	appos	_	_	어찌하/pvg+다/ecx
+7	보니까	보+니까	AUX	_	6	dep	_	_	보/px+니까/ef
+8	)	)	PUNCT	_	6	punct	_	_	)/sr
+9	에	에	ADP	_	4	case	_	_	에/jca
+10	의해	의하+어	SCONJ	_	11	ccomp	_	_	의하/pvg+어/ecs
+11	태어나고	태어나+고	CCONJ	_	18	conj	_	_	태어나/pvg+고/ecc
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	하찮은	하찮+ㄴ	ADJ	_	14	amod	_	_	하찮/paa+ㄴ/etm
+14	계기에	계기+에	ADV	_	15	obl	_	_	계기/ncn+에/jca
+15	의해	의하+어	SCONJ	_	18	ccomp	_	_	의하/pvg+어/ecs
+16	또	또	ADV	_	18	advmod	_	_	또/mag
+17	종말을	종말+을	NOUN	_	18	obj	_	_	종말/ncn+을/jco
+18	고하게	고하+게	VERB	_	20	acl	_	_	고하/pvg+게/ecx
+19	되는	되+는	AUX	_	18	aux	_	_	되/px+는/etm
+20	것이	것+이	NOUN	_	21	csubj	_	_	것/nbn+이/jcc
+21	되겠습니다	되+겠+습니다	VERB	_	0	root	_	_	되/pvg+겠/ep+습니다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 더구나 찻종 자신으로서는 무엇이 계기인지 , 또 그 계기가 언제 오는 것인지조차를 판단하기란 좀처럼 어려운 일이 아닌 것입니다 .
+1	더구나	더구나	ADV	_	13	advmod	_	_	더구나/mag
+2	찻종	찻종	NOUN	_	3	compound	_	_	찻종/ncn
+3	자신으로서는	자신+으로서+는	NOUN	_	13	dislocated	_	_	자신/ncn+으로서/jca+는/jxt
+4	무엇이	무엇+이	PRON	_	5	nsubj	_	_	무엇/npd+이/jcs
+5	계기인지	계기+이+ㄴ지	VERB	_	11	conj	_	_	계기/ncn+이/jp+ㄴ지/ef
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	또	또	CCONJ	_	11	cc	_	_	또/maj
+8	그	그	DET	_	9	det	_	_	그/mmd
+9	계기가	계기+가	NOUN	_	11	nsubj	_	_	계기/ncn+가/jcs
+10	언제	언제	ADV	_	11	advmod	_	_	언제/mag
+11	오는	오+는	VERB	_	13	obj	_	_	오/pvg+는/etm
+12	것인지조차를	것+이+ㄴ지+조차+를	NOUN	_	11	aux	_	_	것/nbn+이/jp+ㄴ지/ef+조차/jxc+를/jco
+13	판단하기란	판단+하+기+란	ADV	_	17	advcl	_	_	판단/ncpa+하/xsv+기/etn+란/jxc
+14	좀처럼	좀+처럼	ADV	_	15	advcl	_	_	좀/ncn+처럼/jca
+15	어려운	어렵+ㄴ	ADJ	_	16	amod	_	_	어렵/paa+ㄴ/etm
+16	일이	일+이	NOUN	_	17	csubj	_	_	일/ncpa+이/jcc
+17	아닌	아니+ㄴ	ADJ	_	0	root	_	_	아니/paa+ㄴ/etm
+18	것입니다	것+이+ㅂ니다	VERB	_	17	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이와 마찬가지 경우를 우리들에게서도 찾아볼 수 있습니다 .
+1	이와	이+와	CCONJ	_	2	conj	_	_	이/npd+와/jct
+2	마찬가지	마찬가지	NOUN	_	3	compound	_	_	마찬가지/ncn
+3	경우를	경우+를	NOUN	_	5	obj	_	_	경우/ncn+를/jco
+4	우리들에게서도	우리+들+에게+서+도	ADV	_	5	advcl	_	_	우리/npp+들/xsn+에게/jca+서/jxc+도/jxc
+5	찾아볼	찾+아+보+ㄹ	AUX	_	0	root	_	_	찾/pvg+아/ecx+보/px+ㄹ/etm
+6	수	수	NOUN	_	7	fixed	_	_	수/nbn
+7	있습니다	있+습니다	ADJ	_	5	aux	_	_	있/paa+습니다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 무엇보다도 , 부친의 인생 역시도 오늘날대로가 될 수 없었을 것이기도 하고 , 모친 역시 그러했을 수 있습니다 .
+1	무엇보다도	무엇+보다+도	ADV	_	7	advmod	_	_	무엇/npd+보다/jca+도/jxc
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	부친의	부친+의	NOUN	_	4	nmod	_	_	부친/ncn+의/jcm
+4	인생	인생	NOUN	_	5	dep	_	_	인생/ncn
+5	역시도	역시+도	ADV	_	7	advmod	_	_	역시/mag+도/jxc
+6	오늘날대로가	오늘날+대로+가	NOUN	_	7	csubj	_	_	오늘날/ncn+대로/jca+가/jcc
+7	될	되+ㄹ	VERB	_	11	advcl	_	_	되/pvg+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	없었을	없+었+ㄹ	ADJ	_	7	aux	_	_	없/paa+었/ep+ㄹ/etm
+10	것이기도	것+이+기+도	ADV	_	7	aux	_	_	것/nbn+이/jp+기/etn+도/jxc
+11	하고	하+고	CCONJ	_	15	conj	_	_	하/pvg+고/ecc
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	모친	모친	NOUN	_	14	dep	_	_	모친/ncn
+14	역시	역시	ADV	_	15	advmod	_	_	역시/mag
+15	그러했을	그러하+었+ㄹ	VERB	_	0	root	_	_	그러하/pad+었/ep+ㄹ/etm
+16	수	수	NOUN	_	17	fixed	_	_	수/nbn
+17	있습니다	있+습니다	ADJ	_	15	aux	_	_	있/paa+습니다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 예를 들면 제가 어린 시절에 중병을 앓았었다 .
+1	예를	예+를	NOUN	_	2	obj	_	_	예/ncn+를/jco
+2	들면	들+면	SCONJ	_	7	ccomp	_	_	들/pvg+면/ecs
+3	제가	제+가	PRON	_	7	nsubj	_	_	제/npp+가/jcs
+4	어린	어리+ㄴ	ADJ	_	5	amod	_	_	어리/paa+ㄴ/etm
+5	시절에	시절+에	ADV	_	7	obl	_	_	시절/ncn+에/jca
+6	중병을	중병+을	NOUN	_	7	obj	_	_	중병/ncn+을/jco
+7	앓았었다	앓+았었+다	VERB	_	0	root	_	_	앓/pvg+았었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 앞에서 예를 들은 찻종의 경우를 본다면 , 찻종에게는 탄생이 있고 죽음이 있다 .
+1	앞에서	앞+에서	ADV	_	3	advcl	_	_	앞/ncn+에서/jca
+2	예를	예+를	NOUN	_	3	obj	_	_	예/ncn+를/jco
+3	들은	들+ㄴ	VERB	_	4	acl	_	_	들/pvg+ㄴ/etm
+4	찻종의	찻종+의	NOUN	_	5	nmod	_	_	찻종/ncn+의/jcm
+5	경우를	경우+를	NOUN	_	6	obj	_	_	경우/ncn+를/jco
+6	본다면	보+ㄴ다면	SCONJ	_	12	conj	_	_	보/pvg+ㄴ다면/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	찻종에게는	찻종+에게+는	NOUN	_	12	dislocated	_	_	찻종/ncn+에게/jca+는/jxt
+9	탄생이	탄생+이	NOUN	_	10	nsubj	_	_	탄생/ncpa+이/jcs
+10	있고	있+고	CCONJ	_	12	conj	_	_	있/paa+고/ecc
+11	죽음이	죽음+이	NOUN	_	12	nsubj	_	_	죽음/ncn+이/jcs
+12	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그러기 때문에 , 우리들은 우리들이란 < 변화해가고 있는 것 > 이라는 사실을 잘 생각해 보지 않으면 안 됩니다 .
+1	그러기	그렇+기	VERB	_	2	nmod	_	_	그렇/pad+기/etn
+2	때문에	때문+에	ADV	_	14	advmod	_	_	때문/nbn+에/jca
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	우리들은	우리+들+은	PRON	_	14	dislocated	_	_	우리/npp+들/xsn+은/jxt
+5	우리들이란	우리+들+이란	ADV	_	9	advcl	_	_	우리/npp+들/xsn+이란/jxc
+6	<	<	PUNCT	_	7	punct	_	_	</sl
+7	변화해가고	변화+하+어+가+고	AUX	_	9	ccomp	_	_	변화/ncpa+하/xsv+어/ecx+가/px+고/ecx
+8	있는	있+는	AUX	_	7	aux	_	_	있/px+는/etm
+9	것	것	NOUN	_	12	acl	_	_	것/nbn
+10	>	>	PUNCT	_	9	punct	_	_	>/sr
+11	이라는	이+라는	ADP	_	9	cop	_	_	이/jp+라는/etm
+12	사실을	사실+을	NOUN	_	14	obj	_	_	사실/ncn+을/jco
+13	잘	잘	ADV	_	14	advmod	_	_	잘/mag
+14	생각해	생각+하+어	VERB	_	18	ccomp	_	_	생각/ncpa+하/xsv+어/ecx
+15	보지	보+지	AUX	_	14	aux	_	_	보/px+지/ecx
+16	않으면	않+으면	SCONJ	_	14	aux	_	_	않/px+으면/ecs
+17	안	안	ADV	_	18	advmod	_	_	안/mag
+18	됩니다	되+ㅂ니다	VERB	_	0	root	_	_	되/pvg+ㅂ니다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 무엇보다도 살아있다고 하는 것 그 자체가 말하자면 잇달아 변화해가고 있는 상태인 것입니다 .
+1	무엇보다도	무엇+보다+도	ADV	_	11	advcl	_	_	무엇/npd+보다/jca+도/jxc
+2	살아있다고	살+아+있+다+고	VERB	_	3	conj	_	_	살/pvg+아/ecx+있/px+다/ef+고/jcr
+3	하는	하+는	VERB	_	4	acl	_	_	하/pvg+는/etm
+4	것	것	NOUN	_	6	mark	_	_	것/nbn
+5	그	그	DET	_	6	det	_	_	그/mmd
+6	자체가	자체+가	NOUN	_	11	nsubj	_	_	자체/ncn+가/jcs
+7	말하자면	말하자면	ADV	_	11	advmod	_	_	말하자면/mag
+8	잇달아	잇달+아	SCONJ	_	9	ccomp	_	_	잇달/pvg+아/ecs
+9	변화해가고	변화+하+어+가+고	AUX	_	11	ccomp	_	_	변화/ncpa+하/xsv+어/ecx+가/px+고/ecx
+10	있는	있+는	AUX	_	9	aux	_	_	있/px+는/etm
+11	상태인	상태+이+ㄴ	VERB	_	0	root	_	_	상태/ncn+이/jp+ㄴ/etm
+12	것입니다	것+이+ㅂ니다	VERB	_	11	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 찻종은 제가 찻종이 되고 싶다고 해서 찻종이 된 건 아닌 것입니다 .
+1	찻종은	찻종+은	NOUN	_	8	dislocated	_	_	찻종/ncn+은/jxt
+2	제가	제+가	PRON	_	4	nsubj	_	_	제/npp+가/jcs
+3	찻종이	찻종+이	NOUN	_	4	csubj	_	_	찻종/ncn+이/jcc
+4	되고	되+고	VERB	_	6	conj	_	_	되/pvg+고/ecx
+5	싶다고	싶+다+고	VERB	_	4	aux	_	_	싶/px+다/ef+고/jcr
+6	해서	하+어서	SCONJ	_	8	ccomp	_	_	하/pvg+어서/ecs
+7	찻종이	찻종+이	NOUN	_	8	csubj	_	_	찻종/ncn+이/jcc
+8	된	되+ㄴ	VERB	_	9	acl	_	_	되/pvg+ㄴ/etm
+9	건	것+ㄴ	NOUN	_	10	dislocated	_	_	것/nbn+ㄴ/jxt
+10	아닌	아니+ㄴ	ADJ	_	0	root	_	_	아니/paa+ㄴ/etm
+11	것입니다	것+이+ㅂ니다	VERB	_	10	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 따라서 저러고 싶다 이러고 싶다고 하는 생각을 갖는다 할지라도 , 전부가 반드시 성취될 수가 없다는 것이 당연합니다 .
+1	따라서	따라서	CCONJ	_	17	cc	_	_	따라서/maj
+2	저러고	저러+고	VERB	_	4	dep	_	_	저러/pvg+고/ecx
+3	싶다	싶+다	AUX	_	2	aux	_	_	싶/px+다/ef
+4	이러고	이러하+고	VERB	_	6	conj	_	_	이러하/pad+고/ecx
+5	싶다고	싶+다+고	VERB	_	4	aux	_	_	싶/px+다/ef+고/jcr
+6	하는	하+는	VERB	_	7	acl	_	_	하/pvg+는/etm
+7	생각을	생각+을	NOUN	_	8	obj	_	_	생각/ncpa+을/jco
+8	갖는다	갖+는다	VERB	_	9	ccomp	_	_	갖/pvg+는다/ef
+9	할지라도	하+ㄹ지라도	SCONJ	_	17	conj	_	_	하/pvg+ㄹ지라도/ecs
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	전부가	전부+가	NOUN	_	13	nsubj	_	_	전부/ncn+가/jcs
+12	반드시	반드시	ADV	_	13	advmod	_	_	반드시/mag
+13	성취될	성취+되+ㄹ	VERB	_	16	acl	_	_	성취/ncpa+되/xsv+ㄹ/etm
+14	수가	수+가	NOUN	_	15	fixed	_	_	수/nbn+가/jcs
+15	없다는	없+다는	ADJ	_	13	aux	_	_	없/paa+다는/etm
+16	것이	것+이	NOUN	_	17	nsubj	_	_	것/nbn+이/jcs
+17	당연합니다	당연+하+ㅂ니다	VERB	_	0	root	_	_	당연/ncps+하/xsm+ㅂ니다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 다만 여기에서 주의해야 할 점은 이 같은 고찰태도는 숙명론은 아니라는 점입니다 .
+1	다만	다만	ADV	_	3	advmod	_	_	다만/mag
+2	여기에서	여기+에서	ADV	_	3	advcl	_	_	여기/npd+에서/jca
+3	주의해야	주의+하+어야	VERB	_	5	acl	_	_	주의/ncpa+하/xsv+어야/ecx
+4	할	하+ㄹ	AUX	_	3	aux	_	_	하/px+ㄹ/etm
+5	점은	점+은	NOUN	_	11	dislocated	_	_	점/ncn+은/jxt
+6	이	이	PRON	_	7	dep	_	_	이/npd
+7	같은	같+ㄴ	ADJ	_	8	amod	_	_	같/paa+ㄴ/etm
+8	고찰태도는	고찰+태도+는	NOUN	_	10	dislocated	_	_	고찰/ncpa+태도/ncn+는/jxt
+9	숙명론은	숙명론+은	NOUN	_	10	dislocated	_	_	숙명론/ncn+은/jxt
+10	아니라는	아니+라는	ADJ	_	11	amod	_	_	아니/paa+라는/etm
+11	점입니다	점+이+ㅂ니다	VERB	_	0	root	_	_	점/nbu+이/jp+ㅂ니다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그리고 이 계기라는 것에 대하여 석가모니께서는 < 연기 ( 緣起 ) > , 또는 < 인연 ( 因緣 ) > 이란 용어로 표현하셨던 것입니다 .
+1	그리고	그리고	CCONJ	_	23	cc	_	_	그리고/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	계기라는	계기+이+라는	VERB	_	4	acl	_	_	계기/ncn+이/jp+라는/etm
+4	것에	것+에	ADV	_	5	obl	_	_	것/nbn+에/jca
+5	대하여	대하+어	SCONJ	_	23	ccomp	_	_	대하/pvg+어/ecs
+6	석가모니께서는	석가모니+께서+는	PROPN	_	23	dislocated	_	_	석가모니/nq+께서/jcs+는/jxt
+7	<	<	PUNCT	_	8	punct	_	_	</sl
+8	연기	연기	NOUN	_	16	compound	_	_	연기/ncn
+9	(	(	PUNCT	_	10	punct	_	_	(/sl
+10	緣起	緣起	NOUN	_	8	appos	_	_	緣起/ncn
+11	)	)	PUNCT	_	10	punct	_	_	)/sr
+12	>	>	PUNCT	_	8	punct	_	_	>/sr
+13	,	,	PUNCT	_	8	punct	_	_	,/sp
+14	또는	또는	CCONJ	_	16	cc	_	_	또는/maj
+15	<	<	PUNCT	_	16	punct	_	_	</sl
+16	인연	인연	NOUN	_	22	acl	_	_	인연/ncn
+17	(	(	PUNCT	_	18	punct	_	_	(/sl
+18	因緣	因緣	PROPN	_	16	appos	_	_	因緣/nq
+19	)	)	PUNCT	_	18	punct	_	_	)/sr
+20	>	>	PUNCT	_	16	punct	_	_	>/sr
+21	이란	이+란	ADP	_	16	cop	_	_	이/jp+란/etm
+22	용어로	용어+로	ADV	_	23	advcl	_	_	용어/ncn+로/jca
+23	표현하셨던	표현+하+셨+던	VERB	_	0	root	_	_	표현/ncpa+하/xsv+셨/ep+던/etm
+24	것입니다	것+이+ㅂ니다	VERB	_	23	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+25	.	.	PUNCT	_	24	punct	_	_	./sf
+
+# 그러므로 우리들은 여기에서 잘 생각해보지 않으면 안 된다 하겠습니다 .
+1	그러므로	그러므로	CCONJ	_	9	cc	_	_	그러므로/maj
+2	우리들은	우리+들+은	PRON	_	5	dislocated	_	_	우리/npp+들/xsn+은/jxt
+3	여기에서	여기+에서	ADV	_	5	advcl	_	_	여기/npd+에서/jca
+4	잘	잘	ADV	_	5	advmod	_	_	잘/mag
+5	생각해보지	생각+하+어+보+지	AUX	_	8	dep	_	_	생각/ncpa+하/xsv+어/ecx+보/px+지/ecx
+6	않으면	않+으면	SCONJ	_	5	aux	_	_	않/px+으면/ecs
+7	안	안	ADV	_	8	advmod	_	_	안/mag
+8	된다	되+ㄴ다	VERB	_	9	ccomp	_	_	되/pvg+ㄴ다/ef
+9	하겠습니다	하+겠+습니다	VERB	_	0	root	_	_	하/pvg+겠/ep+습니다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 사실 문학 작품들에서는 이 < 무상 > 이라고 하는 것을 극히 애수를 띄고 , 처량하고 애처러운 것이라는 표현으로 많이 쓰고 있습니다 .
+1	사실	사실	NOUN	_	20	advmod	_	_	사실/ncn
+2	문학	문학	NOUN	_	3	compound	_	_	문학/ncn
+3	작품들에서는	작품+들+에서+는	NOUN	_	20	dislocated	_	_	작품/ncn+들/xsn+에서/jca+는/jxt
+4	이	이	DET	_	10	det	_	_	이/mmd
+5	<	<	PUNCT	_	6	punct	_	_	</sl
+6	무상	무상	NOUN	_	9	conj	_	_	무상/ncn
+7	>	>	PUNCT	_	6	punct	_	_	>/sr
+8	이라고	이+라+고	ADP	_	6	cop	_	_	이/jp+라/ef+고/jcr
+9	하는	하+는	VERB	_	10	acl	_	_	하/pvg+는/etm
+10	것을	것+을	NOUN	_	20	obj	_	_	것/nbn+을/jco
+11	극히	극히	ADV	_	16	advmod	_	_	극히/mag
+12	애수를	애수+를	NOUN	_	13	obj	_	_	애수/ncn+를/jco
+13	띄고	띄+고	CCONJ	_	15	conj	_	_	띄/pvg+고/ecc
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	처량하고	처량+하+고	CCONJ	_	16	conj	_	_	처량/ncps+하/xsm+고/ecc
+16	애처러운	애처럽+ㄴ	ADJ	_	17	amod	_	_	애처럽/paa+ㄴ/etm
+17	것이라는	것+이+라는	VERB	_	18	acl	_	_	것/nbn+이/jp+라는/etm
+18	표현으로	표현+으로	ADV	_	20	advcl	_	_	표현/ncpa+으로/jca
+19	많이	많이	ADV	_	20	advmod	_	_	많이/mag
+20	쓰고	쓰+고	VERB	_	0	root	_	_	쓰/pvg+고/ecx
+21	있습니다	있+습니다	AUX	_	20	aux	_	_	있/px+습니다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 그리고 죽어 버린다는 것은 틀림없는 사실입니다 .
+1	그리고	그리고	CCONJ	_	6	cc	_	_	그리고/maj
+2	죽어	죽+어	VERB	_	4	acl	_	_	죽/pvg+어/ecx
+3	버린다는	버리+ㄴ다는	AUX	_	2	aux	_	_	버리/px+ㄴ다는/etm
+4	것은	것+은	NOUN	_	6	dislocated	_	_	것/nbn+은/jxt
+5	틀림없는	틀림+없+는	VERB	_	6	amod	_	_	틀림/ncn+없/xsm+는/etm
+6	사실입니다	사실+이+ㅂ니다	VERB	_	0	root	_	_	사실/ncn+이/jp+ㅂ니다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그렇다고 할 때 , 우리들은 어떻게 사는 것이 가장 좋을까요 .
+1	그렇다고	그렇+다+고	VERB	_	2	conj	_	_	그렇/pad+다/ef+고/jcr
+2	할	하+ㄹ	VERB	_	3	acl	_	_	하/pvg+ㄹ/etm
+3	때	때	NOUN	_	7	advmod	_	_	때/nbn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	우리들은	우리+들+은	PRON	_	7	dislocated	_	_	우리/npp+들/xsn+은/jxt
+6	어떻게	어떻+게	SCONJ	_	7	xcomp	_	_	어떻/pad+게/ecs
+7	사는	살+는	VERB	_	8	acl	_	_	살/pvg+는/etm
+8	것이	것+이	NOUN	_	10	nsubj	_	_	것/nbn+이/jcs
+9	가장	가장	ADV	_	10	advmod	_	_	가장/mag
+10	좋을까요	좋+ㄹ까+요	VERB	_	0	root	_	_	좋/paa+ㄹ까/ef+요/jxf
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그러므로 우리들은 별수 없이 서로가 사랑하고 , 불쌍히 여기는 길 이외로는 달리 도리가 없는 것입니다 .
+1	그러므로	그러므로	CCONJ	_	14	cc	_	_	그러므로/maj
+2	우리들은	우리+들+은	PRON	_	9	dislocated	_	_	우리/npp+들/xsn+은/jxt
+3	별수	별수	NOUN	_	4	dep	_	_	별수/ncn
+4	없이	없+이	SCONJ	_	9	xcomp	_	_	없/paa+이/ecs
+5	서로가	서로+가	NOUN	_	6	nsubj	_	_	서로/ncn+가/jcs
+6	사랑하고	사랑+하+고	CCONJ	_	9	conj	_	_	사랑/ncpa+하/xsv+고/ecc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	불쌍히	불쌍히	ADV	_	9	advmod	_	_	불쌍히/mag
+9	여기는	여기+는	VERB	_	10	acl	_	_	여기/pvg+는/etm
+10	길	길	NOUN	_	11	compound	_	_	길/ncn
+11	이외로는	이외+로+는	NOUN	_	14	dislocated	_	_	이외/ncn+로/jca+는/jxt
+12	달리	달리	ADV	_	14	advmod	_	_	달리/mag
+13	도리가	도리+가	NOUN	_	14	nsubj	_	_	도리/ncn+가/jcs
+14	없는	없+는	ADJ	_	0	root	_	_	없/paa+는/etm
+15	것입니다	것+이+ㅂ니다	VERB	_	14	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 한 속담을 예로 들어 설명해보겠습니다 .
+1	한	한	NUM	_	2	nummod	_	_	한/nnc
+2	속담을	속담+을	NOUN	_	4	obj	_	_	속담/ncn+을/jco
+3	예로	예+로	ADV	_	4	advcl	_	_	예/ncn+로/jca
+4	들어	들+어	SCONJ	_	5	ccomp	_	_	들/pvg+어/ecs
+5	설명해보겠습니다	설명+하+어+보+겠+습니다	AUX	_	0	root	_	_	설명/ncpa+하/xsv+어/ecx+보/px+겠/ep+습니다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 일본 속담에 < 곰보도 보조개 > 란 속담이 있습니다 .
+1	일본	일본	PROPN	_	2	compound	_	_	일본/nq
+2	속담에	속담+에	ADV	_	9	obl	_	_	속담/ncn+에/jca
+3	<	<	PUNCT	_	4	punct	_	_	</sl
+4	곰보도	곰보+도	ADV	_	5	advcl	_	_	곰보/ncn+도/jxc
+5	보조개	보조개	PROPN	_	8	compound	_	_	보조개/nq
+6	>	>	PUNCT	_	5	punct	_	_	>/sr
+7	란	이+란	ADP	_	5	cop	_	_	이/jp+란/etm
+8	속담이	속담+이	NOUN	_	9	nsubj	_	_	속담/ncn+이/jcs
+9	있습니다	있+습니다	ADJ	_	0	root	_	_	있/paa+습니다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 빡빡 얽은 얼굴일지라도 , 그 사람을 좋게 여기는 마음으로 쳐다볼 때는 , 그 곰보자욱들 모두가 보조개처럼 매력적으로 보여져서 미인으로 보여진다는 뜻입니다 .
+1	빡빡	빡빡	ADV	_	2	advmod	_	_	빡빡/mag
+2	얽은	얽+ㄴ	VERB	_	3	ccomp	_	_	얽/pvg+ㄴ/etm
+3	얼굴일지라도	얼굴+이+ㄹ지라도	SCONJ	_	20	ccomp	_	_	얼굴/ncn+이/jp+ㄹ지라도/ecs
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	그	그	DET	_	6	det	_	_	그/mmd
+6	사람을	사람+을	NOUN	_	8	obj	_	_	사람/ncn+을/jco
+7	좋게	좋+게	SCONJ	_	8	xcomp	_	_	좋/paa+게/ecs
+8	여기는	여기+는	VERB	_	9	acl	_	_	여기/pvg+는/etm
+9	마음으로	마음+으로	ADV	_	10	advcl	_	_	마음/ncn+으로/jca
+10	쳐다볼	쳐다보+ㄹ	VERB	_	11	acl	_	_	쳐다보/pvg+ㄹ/etm
+11	때는	때+는	NOUN	_	20	advmod	_	_	때/nbn+는/jxt
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	그	그	DET	_	14	det	_	_	그/mmd
+14	곰보자욱들	곰보+자욱+들	NOUN	_	15	compound	_	_	곰보/ncn+자욱/ncn+들/xsn
+15	모두가	모두+가	NOUN	_	18	nsubj	_	_	모두/ncn+가/jcs
+16	보조개처럼	보조개+처럼	ADV	_	18	advcl	_	_	보조개/ncn+처럼/jca
+17	매력적으로	매력+적+으로	ADV	_	18	advcl	_	_	매력/ncn+적/xsn+으로/jca
+18	보여져서	보이+어+지+어서	SCONJ	_	20	ccomp	_	_	보이/pvg+어/ecx+지/px+어서/ecs
+19	미인으로	미인+으로	ADV	_	20	advcl	_	_	미인/ncn+으로/jca
+20	보여진다는	보이+어+지+ㄴ다는	AUX	_	21	ccomp	_	_	보이/pvg+어/ecx+지/px+ㄴ다는/etm
+21	뜻입니다	뜻+이+ㅂ니다	VERB	_	0	root	_	_	뜻/ncpa+이/jp+ㅂ니다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 우리의 [ 며느리가 미우면 손자까지 밉다 ] 는 속담과 비슷한 뜻이라 할까요 .
+1	우리의	우리+의	PRON	_	9	nmod	_	_	우리/npp+의/jcm
+2	[	[	PUNCT	_	3	punct	_	_	[/sl
+3	며느리가	며느리+가	NOUN	_	4	nsubj	_	_	며느리/ncn+가/jcs
+4	미우면	밉+으면	SCONJ	_	6	xcomp	_	_	밉/paa+으면/ecs
+5	손자까지	손자+까지	ADV	_	6	advcl	_	_	손자/ncn+까지/jxc
+6	밉다	밉+다	ADJ	_	9	amod	_	_	밉/paa+다/ef
+7	]	]	PUNCT	_	6	punct	_	_	]/sr
+8	는	는	PART	_	6	case	_	_	는/etm
+9	속담과	속담+과	CCONJ	_	10	conj	_	_	속담/ncn+과/jct
+10	비슷한	비슷+하+ㄴ	VERB	_	11	amod	_	_	비슷/ncps+하/xsm+ㄴ/etm
+11	뜻이라	뜻+이+라	VERB	_	12	ccomp	_	_	뜻/ncpa+이/jp+라/ef
+12	할까요	하+ㄹ까+요	VERB	_	0	root	_	_	하/pvg+ㄹ까/ef+요/jxf
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그러나 보통 사람의 눈으로 볼 때 , 곰보는 어디까지나 곰보일 따름이지 , 보조개는 결코 아닙니다 .
+1	그러나	그러나	CCONJ	_	15	cc	_	_	그러나/maj
+2	보통	보통	NOUN	_	3	compound	_	_	보통/ncn
+3	사람의	사람+의	NOUN	_	4	nmod	_	_	사람/ncn+의/jcm
+4	눈으로	눈+으로	ADV	_	5	advcl	_	_	눈/ncn+으로/jca
+5	볼	보+ㄹ	VERB	_	6	acl	_	_	보/pvg+ㄹ/etm
+6	때	때	NOUN	_	15	dep	_	_	때/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	곰보는	곰보+는	NOUN	_	10	dislocated	_	_	곰보/ncn+는/jxt
+9	어디까지나	어디+까지+나	ADV	_	10	advcl	_	_	어디/npd+까지/jxc+나/jxc
+10	곰보일	곰보+이+ㄹ	VERB	_	15	dep	_	_	곰보/ncn+이/jp+ㄹ/etm
+11	따름이지	따름+이+지	SCONJ	_	10	aux	_	_	따름/nbn+이/jp+지/ecs
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	보조개는	보조개+는	NOUN	_	15	dislocated	_	_	보조개/ncn+는/jxt
+14	결코	결코	ADV	_	15	advmod	_	_	결코/mag
+15	아닙니다	아니+ㅂ니다	ADJ	_	0	root	_	_	아니/paa+ㅂ니다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그리고 이 경우에 있어서는 , 곰보를 보조개로 보는 사람보다는 , 곰보는 곰보로 , 보조개는 보조개로 분별할 줄 아는 사람의 사고 방식 쪽이 옳은 것입니다 .
+1	그리고	그리고	CCONJ	_	23	cc	_	_	그리고/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	경우에	경우+에	ADV	_	4	obl	_	_	경우/ncn+에/jca
+4	있어서는	있+어서+는	NOUN	_	23	amod	_	_	있/paa+어서/ecs+는/jxt
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	곰보를	곰보+를	NOUN	_	8	obj	_	_	곰보/ncn+를/jco
+7	보조개로	보조개+로	ADV	_	8	advcl	_	_	보조개/ncpa+로/jca
+8	보는	보+는	VERB	_	9	acl	_	_	보/pvg+는/etm
+9	사람보다는	사람+보다+는	NOUN	_	19	dep	_	_	사람/ncn+보다/jca+는/jxt
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	곰보는	곰보+는	NOUN	_	12	dislocated	_	_	곰보/ncn+는/jxt
+12	곰보로	곰보+로	ADV	_	15	dep	_	_	곰보/ncn+로/jca
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	보조개는	보조개+는	NOUN	_	15	dislocated	_	_	보조개/ncn+는/jxt
+15	보조개로	보조개+로	ADV	_	16	advmod	_	_	보조개/ncn+로/jca
+16	분별할	분별+하+ㄹ	VERB	_	17	acl	_	_	분별/ncpa+하/xsv+ㄹ/etm
+17	줄	줄	NOUN	_	18	mark	_	_	줄/nbn
+18	아는	알+는	VERB	_	19	acl	_	_	알/pvg+는/etm
+19	사람의	사람+의	NOUN	_	21	nmod	_	_	사람/ncn+의/jcm
+20	사고	사고	NOUN	_	21	compound	_	_	사고/ncpa
+21	방식	방식	NOUN	_	22	compound	_	_	방식/ncn
+22	쪽이	쪽+이	NOUN	_	23	nsubj	_	_	쪽/nbn+이/jcs
+23	옳은	옳+ㄴ	ADJ	_	0	root	_	_	옳/paa+ㄴ/etm
+24	것입니다	것+이+ㅂ니다	VERB	_	23	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+25	.	.	PUNCT	_	24	punct	_	_	./sf
+
+# 여기에 대하여 알기 쉽게 이야기해 보기로 하겠습니다 .
+1	여기에	여기+에	ADV	_	2	obl	_	_	여기/npd+에/jca
+2	대하여	대하+어	SCONJ	_	5	conj	_	_	대하/pvg+어/ecs
+3	알기	알+기	VERB	_	4	nmod	_	_	알/pvg+기/etn
+4	쉽게	쉽+게	SCONJ	_	5	xcomp	_	_	쉽/paa+게/ecs
+5	이야기해	이야기+하+어	VERB	_	7	advcl	_	_	이야기/ncpa+하/xsv+어/ecx
+6	보기로	보+기+로	ADV	_	5	aux	_	_	보/px+기/etn+로/jca
+7	하겠습니다	하+겠+습니다	VERB	_	0	root	_	_	하/pvg+겠/ep+습니다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 잘 생각해보고 잘 조사해낸다는 뜻입니다 .
+1	잘	잘	ADV	_	2	advmod	_	_	잘/mag
+2	생각해보고	생각+하+어+보+고	CCONJ	_	4	conj	_	_	생각/ncpa+하/xsv+어/ecx+보/px+고/ecc
+3	잘	잘	ADV	_	4	advmod	_	_	잘/mag
+4	조사해낸다는	조사+하+어+내+ㄴ다는	AUX	_	5	ccomp	_	_	조사/ncpa+하/xsv+어/ecx+내/px+ㄴ다는/etm
+5	뜻입니다	뜻+이+ㅂ니다	VERB	_	0	root	_	_	뜻/ncpa+이/jp+ㅂ니다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 이 < 특별한 관심을 가진다 > 고 하는 것을 불교에서는 < 집착 ( 執着 ) > 이란 말로 표현하고 있습니다 .
+1	이	이	DET	_	9	det	_	_	이/mmd
+2	<	<	PUNCT	_	3	punct	_	_	</sl
+3	특별한	특별+하+ㄴ	VERB	_	4	amod	_	_	특별/ncps+하/xsm+ㄴ/etm
+4	관심을	관심+을	NOUN	_	5	obj	_	_	관심/ncpa+을/jco
+5	가진다	가지+ㄴ다	VERB	_	8	conj	_	_	가지/pvg+ㄴ다/ef
+6	>	>	PUNCT	_	5	punct	_	_	>/sr
+7	고	고	ADP	_	5	case	_	_	고/jcr
+8	하는	하+는	VERB	_	9	acl	_	_	하/pvg+는/etm
+9	것을	것+을	NOUN	_	19	obj	_	_	것/nbn+을/jco
+10	불교에서는	불교+에서+는	PROPN	_	19	dislocated	_	_	불교/nq+에서/jca+는/jxt
+11	<	<	PUNCT	_	12	punct	_	_	</sl
+12	집착	집착	NOUN	_	18	acl	_	_	집착/ncn
+13	(	(	PUNCT	_	14	punct	_	_	(/sl
+14	執着	執着	PROPN	_	12	appos	_	_	執着/nq
+15	)	)	PUNCT	_	14	punct	_	_	)/sr
+16	>	>	PUNCT	_	12	punct	_	_	>/sr
+17	이란	이+란	ADP	_	12	cop	_	_	이/jp+란/etm
+18	말로	말+로	ADV	_	19	advcl	_	_	말/ncpa+로/jca
+19	표현하고	표현+하+고	VERB	_	0	root	_	_	표현/ncpa+하/xsv+고/ecx
+20	있습니다	있+습니다	AUX	_	19	aux	_	_	있/px+습니다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 집착이 있기 때문에 틀리게 보는 착오를 일으키게 되며 , 집착이 없으면 틀리게 보는 착오는 일어나지 않는다는 이 같은 이치입니다 .
+1	집착이	집착+이	NOUN	_	2	nsubj	_	_	집착/ncpa+이/jcs
+2	있기	있+기	ADJ	_	3	nmod	_	_	있/paa+기/etn
+3	때문에	때문+에	ADV	_	7	obl	_	_	때문/nbn+에/jca
+4	틀리게	틀리+게	SCONJ	_	5	ccomp	_	_	틀리/pvg+게/ecs
+5	보는	보+는	VERB	_	6	acl	_	_	보/pvg+는/etm
+6	착오를	착오+를	NOUN	_	7	obj	_	_	착오/ncpa+를/jco
+7	일으키게	일으키+게	VERB	_	15	conj	_	_	일으키/pvg+게/ecx
+8	되며	되+며	CCONJ	_	7	aux	_	_	되/px+며/ecc
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	집착이	집착+이	NOUN	_	11	nsubj	_	_	집착/ncpa+이/jcs
+11	없으면	없+으면	SCONJ	_	15	xcomp	_	_	없/paa+으면/ecs
+12	틀리게	틀리+게	SCONJ	_	13	ccomp	_	_	틀리/pvg+게/ecs
+13	보는	보+는	VERB	_	14	acl	_	_	보/pvg+는/etm
+14	착오는	착오+는	NOUN	_	15	dislocated	_	_	착오/ncpa+는/jxt
+15	일어나지	일어나+지	VERB	_	19	dislocated	_	_	일어나/pvg+지/ecx
+16	않는다는	않+는다+는	NOUN	_	15	aux	_	_	않/px+는다/ef+는/jxt
+17	이	이	PRON	_	18	dep	_	_	이/npd
+18	같은	같+은	ADJ	_	19	amod	_	_	같/paa+은/etm
+19	이치입니다	이치+이+ㅂ니다	VERB	_	0	root	_	_	이치/ncn+이/jp+ㅂ니다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 그러므로 우리들은 눈에 보이는 각기의 변화 현상에 대해서 얽매일 필요는 없다고 하는 이런 처세술이 되는 것이라 하겠습니다 .
+1	그러므로	그러므로	CCONJ	_	17	cc	_	_	그러므로/maj
+2	우리들은	우리+들+은	PRON	_	9	dislocated	_	_	우리/npp+들/xsn+은/jxt
+3	눈에	눈+에	ADV	_	4	obl	_	_	눈/ncn+에/jca
+4	보이는	보이+는	VERB	_	7	acl	_	_	보이/pvg+는/etm
+5	각기의	각기+의	NOUN	_	6	nmod	_	_	각기/ncn+의/jcm
+6	변화	변화	NOUN	_	7	compound	_	_	변화/ncpa
+7	현상에	현상+에	ADV	_	8	obl	_	_	현상/ncn+에/jca
+8	대해서	대하+어서	SCONJ	_	9	ccomp	_	_	대하/pvg+어서/ecs
+9	얽매일	얽매이+ㄹ	VERB	_	10	acl	_	_	얽매이/pvg+ㄹ/etm
+10	필요는	필요+는	NOUN	_	11	dislocated	_	_	필요/ncpa+는/jxt
+11	없다고	없+다+고	VERB	_	12	conj	_	_	없/paa+다/ef+고/jcr
+12	하는	하+는	VERB	_	14	acl	_	_	하/pvg+는/etm
+13	이런	이렇+ㄴ	VERB	_	14	amod	_	_	이렇/pad+ㄴ/etm
+14	처세술이	처세술+이	NOUN	_	15	csubj	_	_	처세술/ncn+이/jcc
+15	되는	되+는	VERB	_	17	ccomp	_	_	되/pvg+는/etm
+16	것이라	것+이+라	VERB	_	15	aux	_	_	것/nbn+이/jp+라/ef
+17	하겠습니다	하+겠+습니다	VERB	_	0	root	_	_	하/pvg+겠/ep+습니다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 잘 생각해 보면 사물에 집착하는 것처럼 , 분명하게도 부질없는 짓도 아마 없을 것입니다 .
+1	잘	잘	ADV	_	2	advmod	_	_	잘/mag
+2	생각해	생각+하+어	VERB	_	12	conj	_	_	생각/ncpa+하/xsv+어/ecx
+3	보면	보+면	SCONJ	_	2	aux	_	_	보/px+면/ecs
+4	사물에	사물+에	ADV	_	5	obl	_	_	사물/ncn+에/jca
+5	집착하는	집착+하+는	VERB	_	6	acl	_	_	집착/ncpa+하/xsv+는/etm
+6	것처럼	것+처럼	ADV	_	9	dep	_	_	것/nbn+처럼/jca
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	분명하게도	분명+하+게+도	ADV	_	9	amod	_	_	분명/ncps+하/xsm+게/ecs+도/jxc
+9	부질없는	부질없+는	ADJ	_	10	amod	_	_	부질없/paa+는/etm
+10	짓도	짓+도	ADV	_	12	advcl	_	_	짓/nbn+도/jxc
+11	아마	아마	ADV	_	12	advmod	_	_	아마/mag
+12	없을	없+ㄹ	ADJ	_	0	root	_	_	없/paa+ㄹ/etm
+13	것입니다	것+이+ㅂ니다	VERB	_	12	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이렇지 않으면 안 된다 .
+1	이렇지	이렇+지	VERB	_	4	amod	_	_	이렇/pad+지/ecx
+2	않으면	않+으면	SCONJ	_	1	aux	_	_	않/px+으면/ecs
+3	안	안	ADV	_	4	advmod	_	_	안/mag
+4	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 자기 문제를 언제든지 자기 자신의 문제로서만 생각하지 않고 , 항상 제삼자로서 객관적으로 바라본다 .
+1	자기	자기	PRON	_	2	compound	_	_	자기/npp
+2	문제를	문제+를	NOUN	_	13	obj	_	_	문제/ncn+를/jco
+3	언제든지	언제+든지	ADV	_	7	advcl	_	_	언제/npd+든지/jxc
+4	자기	자기	PRON	_	5	compound	_	_	자기/npp
+5	자신의	자신+의	NOUN	_	6	nmod	_	_	자신/ncn+의/jcm
+6	문제로서만	문제+로서+만	ADV	_	7	advcl	_	_	문제/ncn+로서/jca+만/jxc
+7	생각하지	생각+하+지	VERB	_	13	conj	_	_	생각/ncpa+하/xsv+지/ecx
+8	않고	않+고	CCONJ	_	7	aux	_	_	않/px+고/ecc
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	항상	항상	ADV	_	13	advmod	_	_	항상/mag
+11	제삼자로서	제삼자+로서	ADV	_	13	advcl	_	_	제삼자/ncn+로서/jca
+12	객관적으로	객관+적+으로	ADV	_	13	advcl	_	_	객관/ncn+적/xsn+으로/jca
+13	바라본다	바라보+ㄴ다	VERB	_	0	root	_	_	바라보/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 더구나 얽매이지 않는 마음을 가지고 여유있게 판단한다 .
+1	더구나	더구나	ADV	_	2	advmod	_	_	더구나/mag
+2	얽매이지	얽매이+지	VERB	_	4	acl	_	_	얽매이/pvg+지/ecx
+3	않는	않+는	AUX	_	2	aux	_	_	않/px+는/etm
+4	마음을	마음+을	NOUN	_	5	obj	_	_	마음/ncn+을/jco
+5	가지고	가지+고	CCONJ	_	7	conj	_	_	가지/pvg+고/ecc
+6	여유있게	여유있+게	SCONJ	_	7	xcomp	_	_	여유있/paa+게/ecs
+7	판단한다	판단+하+ㄴ다	VERB	_	0	root	_	_	판단/ncpa+하/xsv+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 여러 가지 각도에서 판단한다 .
+1	여러	여러	ADJ	_	2	amod	_	_	여러/mma
+2	가지	가지	NOUN	_	3	compound	_	_	가지/nbu
+3	각도에서	각도+에서	ADV	_	4	advcl	_	_	각도/ncn+에서/jca
+4	판단한다	판단+하+ㄴ다	VERB	_	0	root	_	_	판단/ncpa+하/xsv+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 앞서의 < 곰보는 보조개 > 의 예를 다시 한번 생각해 보십시오 .
+1	앞서의	앞서+의	NOUN	_	7	nmod	_	_	앞서/ncn+의/jcm
+2	<	<	PUNCT	_	3	punct	_	_	</sl
+3	곰보는	곰보+는	NOUN	_	4	dislocated	_	_	곰보/ncn+는/jxt
+4	보조개	보조개	PROPN	_	7	nmod	_	_	보조개/nq
+5	>	>	PUNCT	_	4	punct	_	_	>/sr
+6	의	의	ADP	_	4	case	_	_	의/jcm
+7	예를	예+를	NOUN	_	10	obj	_	_	예/ncn+를/jco
+8	다시	다시	ADV	_	9	advmod	_	_	다시/mag
+9	한번	한번	NOUN	_	10	compound	_	_	한번/ncn
+10	생각해	생각+하+어	VERB	_	0	root	_	_	생각/ncpa+하/xsv+어/ecx
+11	보십시오	보+십시오	AUX	_	10	aux	_	_	보/px+십시오/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그리고 불교에서는 이렇게 생각하는 것을 < 지 ( 止 ) > 라고 합니다 .
+1	그리고	그리고	CCONJ	_	13	cc	_	_	그리고/maj
+2	불교에서는	불교+에서+는	PROPN	_	13	dislocated	_	_	불교/nq+에서/jca+는/jxt
+3	이렇게	이렇+게	SCONJ	_	4	xcomp	_	_	이렇/pad+게/ecs
+4	생각하는	생각+하+는	VERB	_	5	acl	_	_	생각/ncpa+하/xsv+는/etm
+5	것을	것+을	NOUN	_	13	obj	_	_	것/nbn+을/jco
+6	<	<	PUNCT	_	7	punct	_	_	</sl
+7	지	지	NOUN	_	13	conj	_	_	지/ncn
+8	(	(	PUNCT	_	9	punct	_	_	(/sl
+9	止	止	PROPN	_	7	appos	_	_	止/nq
+10	)	)	PUNCT	_	9	punct	_	_	)/sr
+11	>	>	PUNCT	_	7	punct	_	_	>/sr
+12	라고	라고	ADP	_	7	case	_	_	라고/jcr
+13	합니다	하+ㅂ니다	VERB	_	0	root	_	_	하/pvg+ㅂ니다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그리고 이러한 사고 방식을 깊이 밀고 나가면 그건 < 무념무상 ( 無念無想 ) > 이란 것이 됩니다 .
+1	그리고	그리고	CCONJ	_	17	cc	_	_	그리고/maj
+2	이러한	이러하+ㄴ	VERB	_	4	amod	_	_	이러하/pad+ㄴ/etm
+3	사고	사고	NOUN	_	4	compound	_	_	사고/ncpa
+4	방식을	방식+을	NOUN	_	7	obj	_	_	방식/ncn+을/jco
+5	깊이	깊이	ADV	_	7	advmod	_	_	깊이/mag
+6	밀고	밀+고	CCONJ	_	7	conj	_	_	밀/pvg+고/ecc
+7	나가면	나가+면	SCONJ	_	17	ccomp	_	_	나가/pvg+면/ecs
+8	그건	그것+ㄴ	PRON	_	17	dislocated	_	_	그것/npd+ㄴ/jxt
+9	<	<	PUNCT	_	10	punct	_	_	</sl
+10	무념무상	무념+무상	NOUN	_	16	acl	_	_	무념/ncpa+무상/ncn
+11	(	(	PUNCT	_	12	punct	_	_	(/sl
+12	無念無想	無念無想	PROPN	_	10	appos	_	_	無念無想/nq
+13	)	)	PUNCT	_	12	punct	_	_	)/sr
+14	>	>	PUNCT	_	10	punct	_	_	>/sr
+15	이란	이+란	ADP	_	10	cop	_	_	이/jp+란/etm
+16	것이	것+이	NOUN	_	17	csubj	_	_	것/nbn+이/jcc
+17	됩니다	되+ㅂ니다	VERB	_	0	root	_	_	되/pvg+ㅂ니다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그 어떤 얽매임도 없는 무색투명한 마음 , 이것이 무념무상입니다 .
+1	그	그	DET	_	3	det	_	_	그/mmd
+2	어떤	어떻+ㄴ	VERB	_	3	amod	_	_	어떻/pad+ㄴ/etm
+3	얽매임도	얽매이+ㅁ+도	ADV	_	4	advcl	_	_	얽매이/pvg+ㅁ/etn+도/jxc
+4	없는	없+는	ADJ	_	6	amod	_	_	없/paa+는/etm
+5	무색투명한	무색투명+하+ㄴ	VERB	_	6	amod	_	_	무색투명/ncps+하/xsm+ㄴ/etm
+6	마음	마음	NOUN	_	8	compound	_	_	마음/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	이것이	이것+이	PRON	_	9	nsubj	_	_	이것/npd+이/jcs
+9	무념무상입니다	무념+무상+이+ㅂ니다	VERB	_	0	root	_	_	무념/ncpa+무상/ncn+이/jp+ㅂ니다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 투명한 이슬방울이 빨간 꽃잎 위에 떨어졌을 때 , 이건 어김없이 붉은 빛이 반영됩니다 .
+1	투명한	투명+하+ㄴ	VERB	_	2	acl	_	_	투명/ncpa+하/xsv+ㄴ/etm
+2	이슬방울이	이슬방울+이	NOUN	_	6	nsubj	_	_	이슬방울/ncn+이/jcs
+3	빨간	빨갛+ㄴ	ADJ	_	4	amod	_	_	빨갛/paa+ㄴ/etm
+4	꽃잎	꽃잎	NOUN	_	5	compound	_	_	꽃잎/ncn
+5	위에	위+에	ADV	_	6	obl	_	_	위/ncn+에/jca
+6	떨어졌을	떨어지+었+ㄹ	VERB	_	7	acl	_	_	떨어지/pvg+었/ep+ㄹ/etm
+7	때	때	NOUN	_	13	advmod	_	_	때/nbn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	이건	이것+ㄴ	PRON	_	13	dislocated	_	_	이것/npd+ㄴ/jxt
+10	어김없이	어김없이	ADV	_	13	advmod	_	_	어김없이/mag
+11	붉은	붉+ㄴ	ADJ	_	12	amod	_	_	붉/paa+ㄴ/etm
+12	빛이	빛+이	NOUN	_	13	nsubj	_	_	빛/ncn+이/jcs
+13	반영됩니다	반영+되+ㅂ니다	VERB	_	0	root	_	_	반영/ncpa+되/xsv+ㅂ니다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 초록잎 위에 떨어졌다면 그건 초록색으로 반영됩니다 .
+1	초록잎	초록잎	NOUN	_	2	compound	_	_	초록잎/ncn
+2	위에	위+에	ADV	_	3	obl	_	_	위/ncn+에/jca
+3	떨어졌다면	떨어지+었+다면	SCONJ	_	6	ccomp	_	_	떨어지/pvg+었/ep+다면/ecs
+4	그건	그것+ㄴ	PRON	_	6	dislocated	_	_	그것/npd+ㄴ/jxt
+5	초록색으로	초록색+으로	ADV	_	6	advcl	_	_	초록색/ncn+으로/jca
+6	반영됩니다	반영+되+ㅂ니다	VERB	_	0	root	_	_	반영/ncpa+되/xsv+ㅂ니다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 누구나 < 자기 > 라는 것은 소중한 존재인 것입니다 .
+1	누구나	누구+나	ADV	_	8	advcl	_	_	누구/npp+나/jxc
+2	<	<	PUNCT	_	3	punct	_	_	</sl
+3	자기	자기	PRON	_	6	acl	_	_	자기/npp
+4	>	>	PUNCT	_	3	punct	_	_	>/sr
+5	라는	이+라는	ADP	_	3	cop	_	_	이/jp+라는/etm
+6	것은	것+은	NOUN	_	8	dislocated	_	_	것/nbn+은/jxt
+7	소중한	소중+하+ㄴ	VERB	_	8	amod	_	_	소중/ncps+하/xsm+ㄴ/etm
+8	존재인	존재+이+ㄴ	VERB	_	0	root	_	_	존재/ncpa+이/jp+ㄴ/etm
+9	것입니다	것+이+ㅂ니다	VERB	_	8	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# < 세살버릇 여든까지 간다 > 는 속담이 있습니다 .
+1	<	<	PUNCT	_	2	punct	_	_	</sl
+2	세살버릇	세살버릇	PROPN	_	4	advmod	_	_	세살버릇/nq
+3	여든까지	여든+까지	ADV	_	4	advcl	_	_	여든/ncn+까지/jxc
+4	간다	가+ㄴ다	VERB	_	7	acl	_	_	가/pvg+ㄴ다/ef
+5	>	>	PUNCT	_	4	punct	_	_	>/sr
+6	는	는	PART	_	4	case	_	_	는/etm
+7	속담이	속담+이	NOUN	_	8	nsubj	_	_	속담/ncn+이/jcs
+8	있습니다	있+습니다	ADJ	_	0	root	_	_	있/paa+습니다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이건 우리들이 각자의 지난 일들을 곰곰이 생각해 떠올려 보면 쉽사리 판명되게 됩니다 .
+1	이건	이것+ㄴ	PRON	_	11	dislocated	_	_	이것/npd+ㄴ/jxt
+2	우리들이	우리+들+이	PRON	_	8	nsubj	_	_	우리/npp+들/xsn+이/jcs
+3	각자의	각자+의	NOUN	_	5	nmod	_	_	각자/ncn+의/jcm
+4	지난	지나+ㄴ	VERB	_	5	acl	_	_	지나/pvg+ㄴ/etm
+5	일들을	일+들+을	NOUN	_	7	obj	_	_	일/ncpa+들/xsn+을/jco
+6	곰곰이	곰곰이	ADV	_	7	advmod	_	_	곰곰이/mag
+7	생각해	생각+하+어	SCONJ	_	8	ccomp	_	_	생각/ncpa+하/xsv+어/ecs
+8	떠올려	떠올리+어	VERB	_	11	ccomp	_	_	떠올리/pvg+어/ecx
+9	보면	보+면	SCONJ	_	8	aux	_	_	보/px+면/ecs
+10	쉽사리	쉽사리	ADV	_	11	advmod	_	_	쉽사리/mag
+11	판명되게	판명+되+게	VERB	_	0	root	_	_	판명/ncpa+되/xsv+게/ecx
+12	됩니다	되+ㅂ니다	AUX	_	11	aux	_	_	되/px+ㅂ니다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 아주 쉬운 예를 하나 말씀드리기로 하지요 .
+1	아주	아주	ADV	_	2	advmod	_	_	아주/mag
+2	쉬운	쉽+ㄴ	ADJ	_	3	amod	_	_	쉽/paa+ㄴ/etm
+3	예를	예+를	NOUN	_	5	obj	_	_	예/ncn+를/jco
+4	하나	하나	NUM	_	5	nummod	_	_	하나/nnc
+5	말씀드리기로	말씀드리+기+로	ADV	_	6	advcl	_	_	말씀드리/pvg+기/etn+로/jca
+6	하지요	하+지+요	VERB	_	0	root	_	_	하/pvg+지/ef+요/jxf
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그런데 어느 날 , 이 코끼리 집이 그만 화재를 만나 타버렸습니다 .
+1	그런데	그런데	CCONJ	_	11	cc	_	_	그런데/maj
+2	어느	어느	DET	_	3	det	_	_	어느/mmd
+3	날	날	NOUN	_	11	advmod	_	_	날/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	이	이	DET	_	6	det	_	_	이/mmd
+6	코끼리	코끼리	NOUN	_	7	compound	_	_	코끼리/ncn
+7	집이	집+이	NOUN	_	11	nsubj	_	_	집/ncn+이/jcs
+8	그만	그만	ADV	_	10	advmod	_	_	그만/mag
+9	화재를	화재+를	NOUN	_	10	obj	_	_	화재/ncn+를/jco
+10	만나	만나+아	SCONJ	_	11	ccomp	_	_	만나/pvg+아/ecs
+11	타버렸습니다	타+아+버리+었+습니다	AUX	_	0	root	_	_	타/pvg+아/ecx+버리/px+었/ep+습니다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그래서 코끼리 집을 딴 데로 옮겼던 것이었습니다 .
+1	그래서	그래서	CCONJ	_	6	cc	_	_	그래서/maj
+2	코끼리	코끼리	NOUN	_	3	compound	_	_	코끼리/ncn
+3	집을	집+을	NOUN	_	6	obj	_	_	집/ncn+을/jco
+4	딴	딴	ADJ	_	5	amod	_	_	딴/mma
+5	데로	데+로	ADV	_	6	advcl	_	_	데/nbn+로/jca
+6	옮겼던	옮기+었+던	VERB	_	0	root	_	_	옮기/pvg+었/ep+던/etm
+7	것이었습니다	것+이+었+습니다	VERB	_	6	aux	_	_	것/nbn+이/jp+었/ep+습니다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 마침 그 근방에 절이 있어가지고 스님이 항상 경문을 읽고 있었습니다 .
+1	마침	마침	ADV	_	5	advmod	_	_	마침/mag
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	근방에	근방+에	ADV	_	5	obl	_	_	근방/ncn+에/jca
+4	절이	절+이	NOUN	_	5	nsubj	_	_	절/ncn+이/jcs
+5	있어가지고	있+어+가+아+지+고	CCONJ	_	9	conj	_	_	있/paa+어/ecx+가/px+아/ecx+지/px+고/ecc
+6	스님이	스님+이	NOUN	_	9	nsubj	_	_	스님/ncn+이/jcs
+7	항상	항상	ADV	_	9	advmod	_	_	항상/mag
+8	경문을	경문+을	NOUN	_	9	obj	_	_	경문/ncn+을/jco
+9	읽고	읽+고	VERB	_	0	root	_	_	읽/pvg+고/ecx
+10	있었습니다	있+었+습니다	AUX	_	9	aux	_	_	있/px+었/ep+습니다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 코끼리가 밤낮으로 이 말을 듣게 되는 동안에 , 어느덧 마음이 누그러져서 , 완전히 유순한 성질로 변해 버렸던 것입니다 .
+1	코끼리가	코끼리+가	NOUN	_	5	nsubj	_	_	코끼리/ncn+가/jcs
+2	밤낮으로	밤낮+으로	ADV	_	5	advcl	_	_	밤낮/ncn+으로/jca
+3	이	이	DET	_	4	det	_	_	이/mmd
+4	말을	말+을	NOUN	_	5	obj	_	_	말/ncpa+을/jco
+5	듣게	듣+게	VERB	_	7	acl	_	_	듣/pvg+게/ecx
+6	되는	되+는	AUX	_	5	aux	_	_	되/px+는/etm
+7	동안에	동안+에	ADV	_	16	advmod	_	_	동안/ncn+에/jca
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	어느덧	어느덧	ADV	_	11	advmod	_	_	어느덧/mag
+10	마음이	마음+이	NOUN	_	11	nsubj	_	_	마음/ncn+이/jcs
+11	누그러져서	누그러지+어서	SCONJ	_	16	ccomp	_	_	누그러지/pvg+어서/ecs
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	완전히	완전+히	ADV	_	14	advmod	_	_	완전/ncps+히/xsa
+14	유순한	유순+하+ㄴ	VERB	_	15	amod	_	_	유순/ncps+하/xsm+ㄴ/etm
+15	성질로	성질+로	ADV	_	16	advcl	_	_	성질/ncn+로/jca
+16	변해	변하+어	VERB	_	0	root	_	_	변하/pvg+어/ecx
+17	버렸던	버리+었+던	AUX	_	16	aux	_	_	버리/px+었/ep+던/etm
+18	것입니다	것+이+ㅂ니다	VERB	_	16	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 임금님은 이 꼴을 보시고는 대단히 당황해 가지고 , 신하들을 불러 이게 어찌 된 변괴냐고 하문하셨습니다 .
+1	임금님은	임금+님+은	NOUN	_	15	dislocated	_	_	임금/ncn+님/xsn+은/jxt
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	꼴을	꼴+을	NOUN	_	4	obj	_	_	꼴/ncn+을/jco
+4	보시고는	보+시+고+는	NOUN	_	7	ccomp	_	_	보/pvg+시/ep+고/ecc+는/jxt
+5	대단히	대단+히	ADV	_	6	advmod	_	_	대단/ncps+히/xsa
+6	당황해	당황+하+어	SCONJ	_	7	xcomp	_	_	당황/ncps+하/xsm+어/ecs
+7	가지고	가지+고	CCONJ	_	10	conj	_	_	가지/pvg+고/ecc
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	신하들을	신하+들+을	NOUN	_	10	obj	_	_	신하/ncn+들/xsn+을/jco
+10	불러	부르+어	SCONJ	_	15	ccomp	_	_	부르/pvg+어/ecs
+11	이게	이것+이	PRON	_	14	nsubj	_	_	이것/npd+이/jcs
+12	어찌	어찌	ADV	_	13	advmod	_	_	어찌/mag
+13	된	되+ㄴ	VERB	_	14	ccomp	_	_	되/pvg+ㄴ/etm
+14	변괴냐고	변괴+이+냐+고	VERB	_	15	conj	_	_	변괴/ncn+이/jp+냐/ef+고/jcr
+15	하문하셨습니다	하문+하+셨+습니다	VERB	_	0	root	_	_	하문/ncpa+하/xsv+셨/ep+습니다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 황공하옵니다 .
+1	황공하옵니다	황공+하+옵니다	VERB	_	0	root	_	_	황공/ncps+하/xsm+옵니다/ef
+2	.	.	PUNCT	_	1	punct	_	_	./sf
+
+# 임금님은 즉각 이 코끼리를 도살장 가까이에 매어 두기로 했습니다 .
+1	임금님은	임금+님+은	NOUN	_	9	dislocated	_	_	임금/ncn+님/xsn+은/jxt
+2	즉각	즉각	ADV	_	7	advmod	_	_	즉각/mag
+3	이	이	DET	_	4	det	_	_	이/mmd
+4	코끼리를	코끼리+를	NOUN	_	7	obj	_	_	코끼리/ncn+를/jco
+5	도살장	도살장	NOUN	_	6	compound	_	_	도살장/ncn
+6	가까이에	가까이+에	ADV	_	7	obl	_	_	가까이/ncpa+에/jca
+7	매어	매+어	VERB	_	9	advcl	_	_	매/pvg+어/ecx
+8	두기로	두+기+로	ADV	_	7	aux	_	_	두/px+기/etn+로/jca
+9	했습니다	하+었+습니다	VERB	_	0	root	_	_	하/pvg+었/ep+습니다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러므로 우리들은 마음가짐 하나로 , 지옥이 되기도 하고 , 부처가 되기도 하는 것입니다 .
+1	그러므로	그러므로	CCONJ	_	12	cc	_	_	그러므로/maj
+2	우리들은	우리+들+은	PRON	_	12	dislocated	_	_	우리/npp+들/xsn+은/jxt
+3	마음가짐	마음가짐	NOUN	_	4	compound	_	_	마음가짐/ncn
+4	하나로	하나+로	ADV	_	12	advmod	_	_	하나/nnc+로/jca
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	지옥이	지옥+이	NOUN	_	7	csubj	_	_	지옥/ncn+이/jcc
+7	되기도	되+기+도	ADV	_	8	advcl	_	_	되/pvg+기/etn+도/jxc
+8	하고	하+고	CCONJ	_	12	conj	_	_	하/pvg+고/ecc
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	부처가	부처+가	NOUN	_	11	csubj	_	_	부처/ncn+가/jcc
+11	되기도	되+기+도	ADV	_	12	advcl	_	_	되/pvg+기/etn+도/jxc
+12	하는	하+는	VERB	_	0	root	_	_	하/pvg+는/etm
+13	것입니다	것+이+ㅂ니다	VERB	_	12	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 다만 훌륭한 사람의 마음 속에 있는 지옥은 근소한 정도밖에 움직이지 않기 때문에 그 힘이 발휘하지 못하고 있는 것입니다 .
+1	다만	다만	ADV	_	6	advmod	_	_	다만/mag
+2	훌륭한	훌륭+하+ㄴ	VERB	_	3	amod	_	_	훌륭/ncps+하/xsm+ㄴ/etm
+3	사람의	사람+의	NOUN	_	4	nmod	_	_	사람/ncn+의/jcm
+4	마음	마음	NOUN	_	5	compound	_	_	마음/ncn
+5	속에	속+에	ADV	_	6	obl	_	_	속/ncn+에/jca
+6	있는	있+는	ADJ	_	7	amod	_	_	있/paa+는/etm
+7	지옥은	지옥+은	NOUN	_	10	dislocated	_	_	지옥/ncn+은/jxt
+8	근소한	근소+하+ㄴ	VERB	_	9	amod	_	_	근소/ncps+하/xsm+ㄴ/etm
+9	정도밖에	정도+밖에	ADV	_	10	advcl	_	_	정도/ncn+밖에/jxc
+10	움직이지	움직이+지	VERB	_	12	dep	_	_	움직이/pvg+지/ecx
+11	않기	않+기	AUX	_	10	aux	_	_	않/px+기/etn
+12	때문에	때문+에	ADV	_	15	obl	_	_	때문/nbn+에/jca
+13	그	그	DET	_	14	det	_	_	그/mmd
+14	힘이	힘+이	NOUN	_	15	nsubj	_	_	힘/ncn+이/jcs
+15	발휘하지	발휘+하+지	VERB	_	0	root	_	_	발휘/ncpa+하/xsv+지/ecx
+16	못하고	못하+고	AUX	_	15	aux	_	_	못하/px+고/ecx
+17	있는	있+는	AUX	_	15	aux	_	_	있/px+는/etm
+18	것입니다	것+이+ㅂ니다	VERB	_	15	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 하지만 이건 손쉬운 문제가 아니어서 , 보통으로 흔한 방법으로 될 수 있는 것이 아닙니다 .
+1	하지만	하지만	CCONJ	_	14	cc	_	_	하지만/maj
+2	이건	이것+은	PRON	_	5	dislocated	_	_	이것/npd+은/jxt
+3	손쉬운	손쉬우+ㄴ	ADJ	_	4	amod	_	_	손쉬우/paa+ㄴ/etm
+4	문제가	문제+가	NOUN	_	5	csubj	_	_	문제/ncn+가/jcc
+5	아니어서	아니+어서	SCONJ	_	14	xcomp	_	_	아니/paa+어서/ecs
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	보통으로	보통+으로	ADV	_	8	advcl	_	_	보통/ncn+으로/jca
+8	흔한	흔+하+ㄴ	VERB	_	9	amod	_	_	흔/ncps+하/xsm+ㄴ/etm
+9	방법으로	방법+으로	ADV	_	10	advcl	_	_	방법/ncn+으로/jca
+10	될	되+ㄹ	VERB	_	13	acl	_	_	되/pvg+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있는	있+는	ADJ	_	10	aux	_	_	있/paa+는/etm
+13	것이	것+이	NOUN	_	14	csubj	_	_	것/nbn+이/jcc
+14	아닙니다	아니+ㅂ니다	ADJ	_	0	root	_	_	아니/paa+ㅂ니다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그러므로 사회가 잘 되게 하기 위해서는 사회를 따라가는 것이 아니라 , 사회를 지도해 나가지 않으면 안 되는 것입니다 .
+1	그러므로	그러므로	CCONJ	_	17	cc	_	_	그러므로/maj
+2	사회가	사회+가	NOUN	_	4	nsubj	_	_	사회/ncn+가/jcs
+3	잘	잘	ADV	_	4	advmod	_	_	잘/mag
+4	되게	되+게	VERB	_	6	ccomp	_	_	되/pvg+게/ecx
+5	하기	하+기	AUX	_	4	aux	_	_	하/px+기/etn
+6	위해서는	위+하+어서+는	NOUN	_	17	ccomp	_	_	위/ncpa+하/xsv+어서/ecs+는/jxt
+7	사회를	사회+를	NOUN	_	8	obj	_	_	사회/ncn+를/jco
+8	따라가는	따르+아+가+는	AUX	_	9	acl	_	_	따르/pvg+아/ecx+가/px+는/etm
+9	것이	것+이	NOUN	_	10	csubj	_	_	것/nbn+이/jcc
+10	아니라	아니+라	SCONJ	_	17	xcomp	_	_	아니/paa+라/ecs
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	사회를	사회+를	NOUN	_	13	obj	_	_	사회/ncn+를/jco
+13	지도해	지도+하+어	SCONJ	_	14	ccomp	_	_	지도/ncpa+하/xsv+어/ecs
+14	나가지	나가+지	VERB	_	17	ccomp	_	_	나가/pvg+지/ecx
+15	않으면	않+으면	SCONJ	_	14	aux	_	_	않/px+으면/ecs
+16	안	안	ADV	_	17	advmod	_	_	안/mag
+17	되는	되+는	VERB	_	0	root	_	_	되/pvg+는/etm
+18	것입니다	것+이+ㅂ니다	VERB	_	17	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그리고 그렇게 하기 위해서는 , 대단히 굳센 신념을 가질 필요가 있는 것입니다 .
+1	그리고	그리고	CCONJ	_	11	cc	_	_	그리고/maj
+2	그렇게	그렇+게	VERB	_	4	dep	_	_	그렇/pad+게/ecx
+3	하기	하+기	AUX	_	2	aux	_	_	하/px+기/etn
+4	위해서는	위+하+어서+는	NOUN	_	11	dep	_	_	위/ncpa+하/xsv+어서/ecs+는/jxt
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	대단히	대단히	ADV	_	7	advmod	_	_	대단히/mag
+7	굳센	굳세+ㄴ	ADJ	_	8	amod	_	_	굳세/paa+ㄴ/etm
+8	신념을	신념+을	NOUN	_	9	obj	_	_	신념/ncn+을/jco
+9	가질	가지+ㄹ	VERB	_	10	acl	_	_	가지/pvg+ㄹ/etm
+10	필요가	필요+가	NOUN	_	11	nsubj	_	_	필요/ncpa+가/jcs
+11	있는	있+는	ADJ	_	0	root	_	_	있/paa+는/etm
+12	것입니다	것+이+ㅂ니다	VERB	_	11	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그리고 그 귀를 기울려야 할 훌륭한 말씀이란 < 경전 > 인 것입니다 .
+1	그리고	그리고	CCONJ	_	9	cc	_	_	그리고/maj
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	귀를	귀+를	NOUN	_	4	obj	_	_	귀/ncn+를/jco
+4	기울려야	기울리+어야	VERB	_	7	acl	_	_	기울리/pvg+어야/ecx
+5	할	하+ㄹ	AUX	_	4	aux	_	_	하/px+ㄹ/etm
+6	훌륭한	훌륭+하+ㄴ	VERB	_	7	amod	_	_	훌륭/ncps+하/xsm+ㄴ/etm
+7	말씀이란	말씀+이란	ADV	_	9	advcl	_	_	말씀/ncpa+이란/jxc
+8	<	<	PUNCT	_	9	punct	_	_	</sl
+9	경전	경전	NOUN	_	0	root	_	_	경전/ncn
+10	>	>	PUNCT	_	9	punct	_	_	>/sr
+11	인	이+ㄴ	ADP	_	9	cop	_	_	이/jp+ㄴ/etm
+12	것입니다	것+이+ㅂ니다	VERB	_	9	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그분은 이른바 영혼이라거나 , 사후 생활에 대해서는 단 한 말씀도 비친 일이 없습니다 .
+1	그분은	그분+은	PRON	_	13	dislocated	_	_	그분/npp+은/jxt
+2	이른바	이른바	ADV	_	3	advmod	_	_	이른바/mag
+3	영혼이라거나	영혼+이라거나	CCONJ	_	6	conj	_	_	영혼/ncn+이라거나/jcj
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	사후	사후	NOUN	_	6	compound	_	_	사후/ncn
+6	생활에	생활+에	ADV	_	7	obl	_	_	생활/ncpa+에/jca
+7	대해서는	대하+어서+는	NOUN	_	13	dep	_	_	대하/pvg+어서/ecs+는/jxt
+8	단	단	ADJ	_	10	amod	_	_	단/mma
+9	한	한	NUM	_	10	nummod	_	_	한/nnc
+10	말씀도	말씀+도	ADV	_	11	advcl	_	_	말씀/ncpa+도/jxc
+11	비친	비치+ㄴ	VERB	_	12	acl	_	_	비치/pvg+ㄴ/etm
+12	일이	일+이	NOUN	_	13	nsubj	_	_	일/ncpa+이/jcs
+13	없습니다	없+습니다	ADJ	_	0	root	_	_	없/paa+습니다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 바꿔 말하면 석가모니께서는 애당초부터 < 신 > 이란 존재를 인정하지 않았던 것입니다 .
+1	바꿔	바꾸+어	SCONJ	_	2	ccomp	_	_	바꾸/pvg+어/ecs
+2	말하면	말하+면	SCONJ	_	10	ccomp	_	_	말하/pvg+면/ecs
+3	석가모니께서는	석가모니+께서+는	PROPN	_	10	dislocated	_	_	석가모니/nq+께서/jcs+는/jxt
+4	애당초부터	애당초+부터	ADV	_	10	advcl	_	_	애당초/ncn+부터/jxc
+5	<	<	PUNCT	_	6	punct	_	_	</sl
+6	신	신	PROPN	_	9	compound	_	_	신/nq
+7	>	>	PUNCT	_	6	punct	_	_	>/sr
+8	이란	이+란	ADP	_	6	cop	_	_	이/jp+란/etm
+9	존재를	존재+를	NOUN	_	10	obj	_	_	존재/ncpa+를/jco
+10	인정하지	인정+하+지	VERB	_	0	root	_	_	인정/ncpa+하/xsv+지/ecx
+11	않았던	않+았+던	AUX	_	10	aux	_	_	않/px+았/ep+던/etm
+12	것입니다	것+이+ㅂ니다	VERB	_	10	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 우리는 다시 한번 반복해서 말씀드려봅시다 .
+1	우리는	우리+는	PRON	_	5	dislocated	_	_	우리/npp+는/jxt
+2	다시	다시	ADV	_	3	advmod	_	_	다시/mag
+3	한번	한+번	NOUN	_	4	compound	_	_	한/nnc+번/nbu
+4	반복해서	반복+하+어서	SCONJ	_	5	ccomp	_	_	반복/ncpa+하/xsv+어서/ecs
+5	말씀드려봅시다	말씀드리+어+보+ㅂ시다	AUX	_	0	root	_	_	말씀드리/pvg+어/ecx+보/px+ㅂ시다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그리고 이건 또 아주 놀라운 일이 아니어서는 안 되겠습니다 .
+1	그리고	그리고	CCONJ	_	9	cc	_	_	그리고/maj
+2	이건	이것+ㄴ	PRON	_	9	dislocated	_	_	이것/npd+ㄴ/jxt
+3	또	또	ADV	_	9	advmod	_	_	또/mag
+4	아주	아주	ADV	_	5	advmod	_	_	아주/mag
+5	놀라운	놀랍+ㄴ	ADJ	_	6	amod	_	_	놀랍/paa+ㄴ/etm
+6	일이	일+이	NOUN	_	7	csubj	_	_	일/ncpa+이/jcc
+7	아니어서는	아니+어서+는	NOUN	_	9	amod	_	_	아니/paa+어서/ecs+는/jxt
+8	안	안	ADV	_	9	advmod	_	_	안/mag
+9	되겠습니다	되+겠+습니다	VERB	_	0	root	_	_	되/pvg+겠/ep+습니다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 왜냐하면 세계의 종교들 중에서 신을 들먹이지 않는 종교가 달리 또 있는가를 생각해 보시기 바랍니다 .
+1	왜냐하면	왜냐하면	CCONJ	_	14	cc	_	_	왜냐하면/maj
+2	세계의	세계+의	NOUN	_	3	nmod	_	_	세계/ncn+의/jcm
+3	종교들	종교+들	NOUN	_	4	compound	_	_	종교/ncn+들/xsn
+4	중에서	중+에서	ADV	_	11	advcl	_	_	중/nbn+에서/jca
+5	신을	신+을	NOUN	_	6	obj	_	_	신/ncn+을/jco
+6	들먹이지	들먹이+지	VERB	_	8	acl	_	_	들먹이/pvg+지/ecx
+7	않는	않+는	AUX	_	6	aux	_	_	않/px+는/etm
+8	종교가	종교+가	NOUN	_	11	nsubj	_	_	종교/ncn+가/jcs
+9	달리	달리	ADV	_	11	advmod	_	_	달리/mag
+10	또	또	ADV	_	9	advmod	_	_	또/mag
+11	있는가를	있+는가+를	NOUN	_	12	obj	_	_	있/paa+는가/ef+를/jco
+12	생각해	생각+하+어	VERB	_	14	ccomp	_	_	생각/ncpa+하/xsv+어/ecx
+13	보시기	보+시+기	AUX	_	12	aux	_	_	보/px+시/ep+기/etn
+14	바랍니다	바라+ㅂ니다	VERB	_	0	root	_	_	바라/pvg+ㅂ니다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그리스도는 하늘의 신을 , 유다민족은 여호와를 , 마호멧은 알라를 각기 찬미하고 있지 않습니까 .
+1	그리스도는	그리스도+는	PROPN	_	3	dislocated	_	_	그리스도/nq+는/jxt
+2	하늘의	하늘+의	NOUN	_	3	nmod	_	_	하늘/ncn+의/jcm
+3	신을	신+을	NOUN	_	9	dep	_	_	신/ncn+을/jco
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	유다민족은	유다+민족+은	PROPN	_	6	dislocated	_	_	유다/nq+민족/ncn+은/jxt
+6	여호와를	여호와+를	PROPN	_	9	dep	_	_	여호와/nq+를/jco
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	마호멧은	마호멧+은	PROPN	_	9	dislocated	_	_	마호멧/nq+은/jxt
+9	알라를	알라+를	PROPN	_	11	obj	_	_	알라/nq+를/jco
+10	각기	각기	ADV	_	11	advmod	_	_	각기/mag
+11	찬미하고	찬미+하+고	VERB	_	0	root	_	_	찬미/ncpa+하/xsv+고/ecx
+12	있지	있+지	AUX	_	11	aux	_	_	있/px+지/ecx
+13	않습니까	않+습니까	AUX	_	11	aux	_	_	않/px+습니까/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그리고 불교가 지닌 가장 큰 특색의 하나가 바로 여기에 있는 것입니다 .
+1	그리고	그리고	CCONJ	_	10	cc	_	_	그리고/maj
+2	불교가	불교+가	PROPN	_	3	nsubj	_	_	불교/nq+가/jcs
+3	지닌	지니+ㄴ	VERB	_	6	acl	_	_	지니/pvg+ㄴ/etm
+4	가장	가장	ADV	_	5	advmod	_	_	가장/mag
+5	큰	크+ㄴ	ADJ	_	6	amod	_	_	크/paa+ㄴ/etm
+6	특색의	특색+의	NOUN	_	7	nmod	_	_	특색/ncn+의/jcm
+7	하나가	하나+가	NUM	_	10	nsubj	_	_	하나/nnc+가/jcs
+8	바로	바로	ADV	_	9	advmod	_	_	바로/mag
+9	여기에	여기+에	ADV	_	10	obl	_	_	여기/npd+에/jca
+10	있는	있+는	ADJ	_	0	root	_	_	있/paa+는/etm
+11	것입니다	것+이+ㅂ니다	VERB	_	10	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 같은 석가모니의 가르침인데 , 다른 것은 틀린 것들이고 , 이것 한가지만이 옳다 .
+1	같은	같+ㄴ	ADJ	_	2	amod	_	_	같/paa+ㄴ/etm
+2	석가모니의	석가모니+의	PROPN	_	3	nmod	_	_	석가모니/nq+의/jcm
+3	가르침인데	가르치+ㅁ+이+ㄴ데	SCONJ	_	12	conj	_	_	가르치/pvg+ㅁ/etn+이/jp+ㄴ데/ecs
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	다른	다르+ㄴ	ADJ	_	6	amod	_	_	다르/paa+ㄴ/etm
+6	것은	것+은	NOUN	_	8	dislocated	_	_	것/nbn+은/jxt
+7	틀린	틀리+ㄴ	VERB	_	8	ccomp	_	_	틀리/pvg+ㄴ/etm
+8	것들이고	것+들+이+고	CCONJ	_	12	conj	_	_	것/nbn+들/xsn+이/jp+고/ecc
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	이것	이것	PRON	_	11	compound	_	_	이것/npd
+11	한가지만이	한+가지+만+이	NUM	_	12	nsubj	_	_	한/nnc+가지/nbu+만/jxc+이/jcs
+12	옳다	옳+다	ADJ	_	0	root	_	_	옳/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 경전의 수는 옛날부터 < 8만 4천 12부 > 가 있다고 전해지고 있습니다 .
+1	경전의	경전+의	NOUN	_	2	nmod	_	_	경전/ncn+의/jcm
+2	수는	수+는	NOUN	_	10	dislocated	_	_	수/nbn+는/jxt
+3	옛날부터	옛날+부터	ADV	_	10	advcl	_	_	옛날/ncn+부터/jxc
+4	<	<	PUNCT	_	7	punct	_	_	</sl
+5	8만	8+만	NUM	_	7	compound	_	_	8/nnc+만/nnc
+6	4천	4+천	NUM	_	7	compound	_	_	4/nnc+천/nnc
+7	12부	12+부	NOUN	_	10	nsubj	_	_	12/nnc+부/nbu
+8	>	>	PUNCT	_	7	punct	_	_	>/sr
+9	가	가	ADP	_	7	case	_	_	가/jcs
+10	있다고	있+다+고	VERB	_	11	conj	_	_	있/paa+다/ef+고/jcr
+11	전해지고	전하+어+지+고	AUX	_	0	root	_	_	전하/pvg+어/ecx+지/px+고/ecx
+12	있습니다	있+습니다	AUX	_	11	aux	_	_	있/px+습니다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그리고 그 결과 , 알게 된 것은 , 석가모니께서 직접 만든 것이 아니라는 것이었습니다 .
+1	그리고	그리고	CCONJ	_	14	cc	_	_	그리고/maj
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	결과	결과	NOUN	_	5	dep	_	_	결과/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	알게	알+게	VERB	_	7	acl	_	_	알/pvg+게/ecx
+6	된	되+ㄴ	AUX	_	5	aux	_	_	되/px+ㄴ/etm
+7	것은	것+은	NOUN	_	14	advmod	_	_	것/nbn+은/jxt
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	석가모니께서	석가모니+께서	PROPN	_	11	nsubj	_	_	석가모니/nq+께서/jcs
+10	직접	직접	ADV	_	11	advmod	_	_	직접/mag
+11	만든	만들+ㄴ	VERB	_	12	acl	_	_	만들/pvg+ㄴ/etm
+12	것이	것+이	NOUN	_	13	csubj	_	_	것/nbn+이/jcc
+13	아니라는	아니+라는	ADJ	_	14	amod	_	_	아니/paa+라는/etm
+14	것이었습니다	것+이+었+습니다	VERB	_	0	root	_	_	것/nbn+이/jp+었/ep+습니다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 예를 하나 들어봅시다 .
+1	예를	예+를	NOUN	_	3	obj	_	_	예/ncn+를/jco
+2	하나	하나	NUM	_	3	nummod	_	_	하나/nnc
+3	들어봅시다	들+어+보+ㅂ시다	AUX	_	0	root	_	_	들/pvg+어/ecx+보/px+ㅂ시다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 여러분께서 아주 오래 전에 쓰던 어떤 그림물감을 가지고 그려진 한폭의 그림을 대하게 되었다고 합시다 .
+1	여러분께서	여러분+께서	PRON	_	12	nsubj	_	_	여러분/npp+께서/jcs
+2	아주	아주	ADV	_	4	advmod	_	_	아주/mag
+3	오래	오래	ADV	_	2	advmod	_	_	오래/mag
+4	전에	전+에	ADV	_	5	obl	_	_	전/ncn+에/jca
+5	쓰던	쓰+던	VERB	_	7	acl	_	_	쓰/pvg+던/etm
+6	어떤	어떻+ㄴ	VERB	_	7	amod	_	_	어떻/pad+ㄴ/etm
+7	그림물감을	그림+물감+을	NOUN	_	8	obj	_	_	그림/ncn+물감/ncn+을/jco
+8	가지고	가지+고	CCONJ	_	9	conj	_	_	가지/pvg+고/ecc
+9	그려진	그리+어+지+ㄴ	AUX	_	11	acl	_	_	그리/pvg+어/ecx+지/px+ㄴ/etm
+10	한폭의	한폭+의	NOUN	_	11	nmod	_	_	한폭/ncn+의/jcm
+11	그림을	그림+을	NOUN	_	12	obj	_	_	그림/ncn+을/jco
+12	대하게	대하+게	VERB	_	14	conj	_	_	대하/pvg+게/ecx
+13	되었다고	되+었+다+고	VERB	_	12	aux	_	_	되/px+었/ep+다/ef+고/jcr
+14	합시다	하+ㅂ시다	VERB	_	0	root	_	_	하/pvg+ㅂ시다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 좀더 쉬운 예를 말씀드리자면 , 경전 속에는 제자들이 석가모니께 인사를 올리는 대목이 나오는 경우가 있습니다 .
+1	좀더	좀더	ADV	_	2	advmod	_	_	좀더/mag
+2	쉬운	쉽+ㄴ	ADJ	_	3	amod	_	_	쉽/paa+ㄴ/etm
+3	예를	예+를	NOUN	_	4	obj	_	_	예/ncn+를/jco
+4	말씀드리자면	말씀드리+자면	SCONJ	_	15	conj	_	_	말씀드리/pvg+자면/ecs
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	경전	경전	NOUN	_	7	compound	_	_	경전/ncn
+7	속에는	속+에+는	NOUN	_	13	dislocated	_	_	속/ncn+에/jca+는/jxt
+8	제자들이	제자+들+이	NOUN	_	11	nsubj	_	_	제자/ncn+들/xsn+이/jcs
+9	석가모니께	석가모니+께	ADV	_	11	advcl	_	_	석가모니/nq+께/jca
+10	인사를	인사+를	NOUN	_	11	obj	_	_	인사/ncn+를/jco
+11	올리는	올리+는	VERB	_	12	acl	_	_	올리/pvg+는/etm
+12	대목이	대목+이	NOUN	_	13	nsubj	_	_	대목/ncn+이/jcs
+13	나오는	나오+는	VERB	_	14	acl	_	_	나오/pvg+는/etm
+14	경우가	경우+가	NOUN	_	15	nsubj	_	_	경우/ncn+가/jcs
+15	있습니다	있+습니다	ADJ	_	0	root	_	_	있/paa+습니다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 또 , 경전 속에 , 탑을 세우고 공양하는 대목이 나왔다고 합시다 .
+1	또	또	CCONJ	_	11	cc	_	_	또/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	경전	경전	NOUN	_	4	compound	_	_	경전/ncn
+4	속에	속+에	ADV	_	10	advmod	_	_	속/ncn+에/jca
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	탑을	탑+을	NOUN	_	7	obj	_	_	탑/ncn+을/jco
+7	세우고	세우+고	CCONJ	_	8	conj	_	_	세우/pvg+고/ecc
+8	공양하는	공양+하+는	VERB	_	9	acl	_	_	공양/ncpa+하/xsv+는/etm
+9	대목이	대목+이	NOUN	_	10	nsubj	_	_	대목/ncn+이/jcs
+10	나왔다고	나오+았+다+고	VERB	_	11	conj	_	_	나오/pvg+았/ep+다/ef+고/jcr
+11	합시다	하+ㅂ시다	VERB	_	0	root	_	_	하/pvg+ㅂ시다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 또 때에 따라서는 경전에서 사용한 용어에 의해서도 , 그 경전이 만들어진 시대를 알아낼 수 있습니다 .
+1	또	또	CCONJ	_	13	cc	_	_	또/maj
+2	때에	때+에	ADV	_	3	obl	_	_	때/nbn+에/jca
+3	따라서는	따르+아서+는	NOUN	_	13	ccomp	_	_	따르/pvg+아서/ecs+는/jxt
+4	경전에서	경전+에서	ADV	_	5	advcl	_	_	경전/ncn+에서/jca
+5	사용한	사용+하+ㄴ	VERB	_	6	acl	_	_	사용/ncpa+하/xsv+ㄴ/etm
+6	용어에	용어+에	ADV	_	7	obl	_	_	용어/ncn+에/jca
+7	의해서도	의하+어서+도	ADV	_	13	ccomp	_	_	의하/pvg+어서/ecs+도/jxc
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	그	그	DET	_	10	det	_	_	그/mmd
+10	경전이	경전+이	NOUN	_	11	nsubj	_	_	경전/ncn+이/jcs
+11	만들어진	만들+어+지+ㄴ	AUX	_	12	acl	_	_	만들/pvg+어/ecx+지/px+ㄴ/etm
+12	시대를	시대+를	NOUN	_	13	obj	_	_	시대/ncn+를/jco
+13	알아낼	알+아+내+ㄹ	AUX	_	0	root	_	_	알/pvg+아/ecx+내/px+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있습니다	있+습니다	ADJ	_	13	aux	_	_	있/paa+습니다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 경전에 따라서는 꽤 새로 만들어진 것도 있다 .
+1	경전에	경전+에	ADV	_	2	obl	_	_	경전/ncn+에/jca
+2	따라서는	따르+아서+는	NOUN	_	7	dep	_	_	따르/pvg+아서/ecs+는/jxt
+3	꽤	꽤	ADV	_	5	advmod	_	_	꽤/mag
+4	새로	새로	ADV	_	3	advmod	_	_	새로/mag
+5	만들어진	만들+어+지+ㄴ	AUX	_	6	acl	_	_	만들/pvg+어/ecx+지/px+ㄴ/etm
+6	것도	것+도	ADV	_	7	advcl	_	_	것/nbn+도/jxc
+7	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이런 문제에 대해서 생각해 본 사람은 전혀 없었습니다 .
+1	이런	이렇+ㄴ	VERB	_	2	amod	_	_	이렇/pad+ㄴ/etm
+2	문제에	문제+에	ADV	_	3	obl	_	_	문제/ncn+에/jca
+3	대해서	대하+어서	SCONJ	_	4	ccomp	_	_	대하/pvg+어서/ecs
+4	생각해	생각+하+어	VERB	_	6	acl	_	_	생각/ncpa+하/xsv+어/ecx
+5	본	보+ㄴ	AUX	_	4	aux	_	_	보/px+ㄴ/etm
+6	사람은	사람+은	NOUN	_	8	dislocated	_	_	사람/ncn+은/jxt
+7	전혀	전혀	ADV	_	8	advmod	_	_	전혀/mag
+8	없었습니다	없+었+습니다	ADJ	_	0	root	_	_	없/paa+었/ep+습니다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그리고 실제로 당시로서는 그럴 필요 역시 , 없었던 것이다 .
+1	그리고	그리고	CCONJ	_	8	cc	_	_	그리고/maj
+2	실제로	실제로	ADV	_	8	advmod	_	_	실제로/mag
+3	당시로서는	당시+로서+는	NOUN	_	8	dislocated	_	_	당시/ncn+로서/jca+는/jxt
+4	그럴	그렇+ㄹ	VERB	_	5	amod	_	_	그렇/pad+ㄹ/etm
+5	필요	필요	NOUN	_	6	dep	_	_	필요/ncn
+6	역시	역시	ADV	_	8	advmod	_	_	역시/mag
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	없었던	없+었+던	ADJ	_	0	root	_	_	없/paa+었/ep+던/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 한데 , 불타께서 입멸 ( 入滅 ) 하시고 나니까 , 사정은 달라졌습니다 .
+1	한데	한데	CCONJ	_	12	cc	_	_	한데/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	불타께서	불타+께서	PROPN	_	4	nsubj	_	_	불타/nq+께서/jcs
+4	입멸	입멸	NOUN	_	12	dep	_	_	입멸/ncpa
+5	(	(	PUNCT	_	6	punct	_	_	(/sl
+6	入滅	入滅	PROPN	_	4	appos	_	_	入滅/nq
+7	)	)	PUNCT	_	6	punct	_	_	)/sr
+8	하시고	하+시+고	PART	_	4	case	_	_	하/xsv+시/ep+고/ecx
+9	나니까	나+니까	SCONJ	_	4	aux	_	_	나/px+니까/ecs
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	사정은	사정+은	NOUN	_	12	dislocated	_	_	사정/ncn+은/jxt
+12	달라졌습니다	다르+아+지+었+습니다	AUX	_	0	root	_	_	다르/paa+아/ecx+지/px+었/ep+습니다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이 장마 기간이 걷히면 인도 사람들은 농사일도 하고 여행도 합니다 .
+1	이	이	DET	_	3	det	_	_	이/mmd
+2	장마	장마	NOUN	_	3	compound	_	_	장마/ncn
+3	기간이	기간+이	NOUN	_	4	nsubj	_	_	기간/ncn+이/jcs
+4	걷히면	걷히+면	SCONJ	_	10	ccomp	_	_	걷히/pvg+면/ecs
+5	인도	인도	PROPN	_	6	compound	_	_	인도/nq
+6	사람들은	사람+들+은	NOUN	_	10	dislocated	_	_	사람/ncn+들/xsn+은/jxt
+7	농사일도	농사일+도	ADV	_	8	advcl	_	_	농사일/ncpa+도/jxc
+8	하고	하+고	CCONJ	_	10	conj	_	_	하/pvg+고/ecc
+9	여행도	여행+도	ADV	_	10	advcl	_	_	여행/ncpa+도/jxc
+10	합니다	하+ㅂ니다	VERB	_	0	root	_	_	하/pvg+ㅂ니다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그런 관계로 인도 사람들은 이 장마 계절 동안에는 한 곳에 가만히 들어 앉아 쉬게 되는 것입니다 .
+1	그런	그렇+ㄴ	VERB	_	2	amod	_	_	그렇/pad+ㄴ/etm
+2	관계로	관계+로	ADV	_	14	advcl	_	_	관계/ncpa+로/jca
+3	인도	인도	PROPN	_	4	compound	_	_	인도/nq
+4	사람들은	사람+들+은	NOUN	_	14	dislocated	_	_	사람/ncn+들/xsn+은/jxt
+5	이	이	DET	_	7	det	_	_	이/mmd
+6	장마	장마	NOUN	_	7	compound	_	_	장마/ncn
+7	계절	계절	NOUN	_	8	compound	_	_	계절/ncn
+8	동안에는	동안+에+는	NOUN	_	14	dislocated	_	_	동안/ncn+에/jca+는/jxt
+9	한	한	NUM	_	10	nummod	_	_	한/nnc
+10	곳에	곳+에	ADV	_	13	obl	_	_	곳/ncn+에/jca
+11	가만히	가만히	ADV	_	13	advmod	_	_	가만히/mag
+12	들어	들+어	SCONJ	_	13	ccomp	_	_	들/pvg+어/ecs
+13	앉아	앉+아	SCONJ	_	14	ccomp	_	_	앉/pvg+아/ecs
+14	쉬게	쉬+게	VERB	_	0	root	_	_	쉬/pvg+게/ecx
+15	되는	되+는	AUX	_	14	aux	_	_	되/px+는/etm
+16	것입니다	것+이+ㅂ니다	VERB	_	14	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그러다가 여름철이면 또 한곳으로 모여 수행을 합니다 .
+1	그러다가	그러다가	CCONJ	_	7	cc	_	_	그러다가/maj
+2	여름철이면	여름철+이+면	SCONJ	_	7	ccomp	_	_	여름철/ncn+이/jp+면/ecs
+3	또	또	ADV	_	5	advmod	_	_	또/mag
+4	한곳으로	한곳+으로	ADV	_	5	advcl	_	_	한곳/ncn+으로/jca
+5	모여	모이+어	SCONJ	_	7	ccomp	_	_	모이/pvg+어/ecs
+6	수행을	수행+을	NOUN	_	7	obj	_	_	수행/ncpa+을/jco
+7	합니다	하+ㅂ니다	VERB	_	0	root	_	_	하/pvg+ㅂ니다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이것이 습관으로 되었던 것입니다 .
+1	이것이	이것+이	PRON	_	3	nsubj	_	_	이것/npd+이/jcs
+2	습관으로	습관+으로	ADV	_	3	advcl	_	_	습관/ncn+으로/jca
+3	되었던	되+었+던	VERB	_	0	root	_	_	되/pvg+었/ep+던/etm
+4	것입니다	것+이+ㅂ니다	VERB	_	3	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 이런 식으로 서로 이야기를 모아 , 그걸 책으로 기록했던 것입니다 .
+1	이런	이렇+ㄴ	VERB	_	2	amod	_	_	이렇/pad+ㄴ/etm
+2	식으로	식+으로	ADV	_	5	advcl	_	_	식/ncn+으로/jca
+3	서로	서로	ADV	_	5	advmod	_	_	서로/mag
+4	이야기를	이야기+를	NOUN	_	5	obj	_	_	이야기/ncpa+를/jco
+5	모아	모+아	SCONJ	_	9	ccomp	_	_	모/pvg+아/ecs
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	그걸	그거+ㄹ	PRON	_	9	obj	_	_	그거/npd+ㄹ/jco
+8	책으로	책+으로	ADV	_	9	advcl	_	_	책/ncn+으로/jca
+9	기록했던	기록+하+었+던	VERB	_	0	root	_	_	기록/ncpa+하/xsv+었/ep+던/etm
+10	것입니다	것+이+ㅂ니다	VERB	_	9	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그리고 이 같은 책들은 모두가 한결같이 꼭같은 내용으로 기록해 놓았다고 할 수도 없습니다 .
+1	그리고	그리고	CCONJ	_	11	cc	_	_	그리고/maj
+2	이	이	PRON	_	3	dep	_	_	이/npd
+3	같은	같+ㄴ	ADJ	_	4	amod	_	_	같/paa+ㄴ/etm
+4	책들은	책+들+은	NOUN	_	9	dislocated	_	_	책/ncn+들/xsn+은/jxt
+5	모두가	모두+가	NOUN	_	9	nsubj	_	_	모두/ncn+가/jcs
+6	한결같이	한결같이	ADV	_	7	advmod	_	_	한결같이/mag
+7	꼭같은	꼭같+ㄴ	VERB	_	8	acl	_	_	꼭같/pvg+ㄴ/etm
+8	내용으로	내용+으로	ADV	_	9	advcl	_	_	내용/ncn+으로/jca
+9	기록해	기록+하+어	VERB	_	11	conj	_	_	기록/ncpa+하/xsv+어/ecx
+10	놓았다고	놓+았+다+고	VERB	_	9	aux	_	_	놓/px+았/ep+다/ef+고/jcr
+11	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+12	수도	수+도	ADV	_	13	fixed	_	_	수/nbn+도/jxc
+13	없습니다	없+습니다	ADJ	_	11	aux	_	_	없/paa+습니다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 책에 따라서는 꽤 엉뚱하게 기록한 것도 있습니다 .
+1	책에	책+에	ADV	_	2	obl	_	_	책/ncn+에/jca
+2	따라서는	따르+아서+는	NOUN	_	7	dep	_	_	따르/pvg+아서/ecs+는/jxt
+3	꽤	꽤	ADV	_	4	advmod	_	_	꽤/mag
+4	엉뚱하게	엉뚱+하+게	SCONJ	_	5	xcomp	_	_	엉뚱/ncps+하/xsm+게/ecs
+5	기록한	기록+하+ㄴ	VERB	_	6	acl	_	_	기록/ncpa+하/xsv+ㄴ/etm
+6	것도	것+도	ADV	_	7	advcl	_	_	것/nbn+도/jxc
+7	있습니다	있+습니다	ADJ	_	0	root	_	_	있/paa+습니다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그러나 이 같은 많은 기록들을 정리하고 분류해나가다 보니 , 대체로 세가지 종류로 집약되는 듯싶습니다 .
+1	그러나	그러나	CCONJ	_	13	cc	_	_	그러나/maj
+2	이	이	PRON	_	3	dep	_	_	이/npd
+3	같은	같+은	ADJ	_	5	amod	_	_	같/paa+은/etm
+4	많은	많+ㄴ	ADJ	_	5	amod	_	_	많/paa+ㄴ/etm
+5	기록들을	기록+들+을	NOUN	_	7	obj	_	_	기록/ncpa+들/xsn+을/jco
+6	정리하고	정리+하+고	CCONJ	_	7	conj	_	_	정리/ncpa+하/xsv+고/ecc
+7	분류해나가다	분류+하+어+나+아+가+다	SCONJ	_	8	ccomp	_	_	분류/ncpa+하/xsv+어/ecx+나/px+아/ecx+가/px+다/ecs
+8	보니	보+니	SCONJ	_	13	ccomp	_	_	보/pvg+니/ecs
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	대체로	대체로	ADV	_	13	advmod	_	_	대체로/mag
+11	세가지	세+가지	NOUN	_	12	compound	_	_	세/nnc+가지/nbu
+12	종류로	종류+로	ADV	_	13	advcl	_	_	종류/ncn+로/jca
+13	집약되는	집약+되+는	VERB	_	0	root	_	_	집약/ncpa+되/xsv+는/etm
+14	듯싶습니다	듯싶+습니다	AUX	_	13	aux	_	_	듯싶/px+습니다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그런 이유에서 이 첫번째의 전설은 현재로서는 신용할 수 없는 것으로 생각되고 있는 것입니다 .
+1	그런	그렇+ㄴ	VERB	_	2	amod	_	_	그렇/pad+ㄴ/etm
+2	이유에서	이유+에서	ADV	_	11	advcl	_	_	이유/ncn+에서/jca
+3	이	이	DET	_	5	det	_	_	이/mmd
+4	첫번째의	첫번째+의	NUM	_	5	nmod	_	_	첫번째/nno+의/jcm
+5	전설은	전설+은	NOUN	_	11	dislocated	_	_	전설/ncn+은/jxt
+6	현재로서는	현재+로서+는	NOUN	_	7	dislocated	_	_	현재/ncn+로서/jca+는/jxt
+7	신용할	신용+하+ㄹ	VERB	_	10	acl	_	_	신용/ncpa+하/xsv+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	없는	없+는	ADJ	_	7	aux	_	_	없/paa+는/etm
+10	것으로	것+으로	ADV	_	11	advcl	_	_	것/nbn+으로/jca
+11	생각되고	생각+되+고	VERB	_	0	root	_	_	생각/ncpa+되/xsv+고/ecx
+12	있는	있+는	AUX	_	11	aux	_	_	있/px+는/etm
+13	것입니다	것+이+ㅂ니다	VERB	_	11	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 여기에서 세번째 전설에 대해서 좀더 정리해보기로 하겠습니다 .
+1	여기에서	여기+에서	ADV	_	6	advcl	_	_	여기/npd+에서/jca
+2	세번째	세번째	NUM	_	3	nummod	_	_	세번째/nno
+3	전설에	전설+에	ADV	_	4	obl	_	_	전설/ncn+에/jca
+4	대해서	대하+어서	SCONJ	_	6	ccomp	_	_	대하/pvg+어서/ecs
+5	좀더	좀더	ADV	_	6	advmod	_	_	좀더/mag
+6	정리해보기로	정리+하+어+보+기+로	ADV	_	7	advcl	_	_	정리/ncpa+하/xsv+어/ecx+보/px+기/etn+로/jca
+7	하겠습니다	하+겠+습니다	VERB	_	0	root	_	_	하/pvg+겠/ep+습니다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 술을 좋아하는 사람이 < 술마시면 안 된다 > 는 주의를 받았다면 그 사람은 틀림없이 내심으로 찜찜해질 것은 아마 사실일 것입니다 .
+1	술을	술+을	NOUN	_	2	obj	_	_	술/ncn+을/jco
+2	좋아하는	좋아하+는	VERB	_	3	acl	_	_	좋아하/pvg+는/etm
+3	사람이	사람+이	NOUN	_	11	nsubj	_	_	사람/ncn+이/jcs
+4	<	<	PUNCT	_	5	punct	_	_	</sl
+5	술마시면	술마시+면	SCONJ	_	7	ccomp	_	_	술마시/pvg+면/ecs
+6	안	안	ADV	_	7	advmod	_	_	안/mag
+7	된다	되+ㄴ다	VERB	_	10	acl	_	_	되/pvg+ㄴ다/ef
+8	>	>	PUNCT	_	7	punct	_	_	>/sr
+9	는	는	PART	_	7	case	_	_	는/etm
+10	주의를	주의+를	NOUN	_	11	obj	_	_	주의/ncpa+를/jco
+11	받았다면	받+았+다면	SCONJ	_	19	ccomp	_	_	받/pvg+았/ep+다면/ecs
+12	그	그	DET	_	13	det	_	_	그/mmd
+13	사람은	사람+은	NOUN	_	16	dislocated	_	_	사람/ncn+은/jxt
+14	틀림없이	틀림없이	ADV	_	16	advmod	_	_	틀림없이/mag
+15	내심으로	내심+으로	ADV	_	16	advcl	_	_	내심/ncn+으로/jca
+16	찜찜해질	찜찜+하+어+지+ㄹ	AUX	_	17	amod	_	_	찜찜/ncps+하/xsm+어/ecx+지/px+ㄹ/etm
+17	것은	것+은	NOUN	_	19	dislocated	_	_	것/nbn+은/jxt
+18	아마	아마	ADV	_	19	advmod	_	_	아마/mag
+19	사실일	사실+이+ㄹ	VERB	_	0	root	_	_	사실/ncn+이/jp+ㄹ/etm
+20	것입니다	것+이+ㅂ니다	VERB	_	19	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그리 이상한 일은 아닐 것입니다 .
+1	그리	그리	ADV	_	2	advmod	_	_	그리/mag
+2	이상한	이상+하+ㄴ	VERB	_	3	amod	_	_	이상/ncps+하/xsm+ㄴ/etm
+3	일은	일+은	NOUN	_	4	dislocated	_	_	일/ncpa+은/jxt
+4	아닐	아니+ㄹ	ADJ	_	0	root	_	_	아니/paa+ㄹ/etm
+5	것입니다	것+이+ㅂ니다	VERB	_	4	aux	_	_	것/nbn+이/jp+ㅂ니다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 이래서는 안 되겠다 .
+1	이래서는	이렇+어서+는	NOUN	_	3	amod	_	_	이렇/pad+어서/ecs+는/jxt
+2	안	안	ADV	_	3	advmod	_	_	안/mag
+3	되겠다	되+겠+다	VERB	_	0	root	_	_	되/pvg+겠/ep+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 앞에서도 말씀드렸듯이 , 이 때 만든 경전은 지금까지 전해지고 있지 않기 때문에 확실한 것은 알지 못합니다 .
+1	앞에서도	앞+에서+도	ADV	_	2	advcl	_	_	앞/ncn+에서/jca+도/jxc
+2	말씀드렸듯이	말씀드리+었+듯이	SCONJ	_	9	conj	_	_	말씀드리/pvg+었/ep+듯이/ecs
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	이	이	DET	_	5	det	_	_	이/mmd
+5	때	때	NOUN	_	6	mark	_	_	때/nbn
+6	만든	만들+ㄴ	VERB	_	7	acl	_	_	만들/pvg+ㄴ/etm
+7	경전은	경전+은	NOUN	_	9	dislocated	_	_	경전/ncn+은/jxt
+8	지금까지	지금+까지	ADV	_	9	advcl	_	_	지금/ncn+까지/jxc
+9	전해지고	전하+어+지+고	AUX	_	12	dep	_	_	전하/pvg+어/ecx+지/px+고/ecx
+10	있지	있+지	AUX	_	9	aux	_	_	있/px+지/ecx
+11	않기	않+기	AUX	_	9	aux	_	_	않/px+기/etn
+12	때문에	때문+에	ADV	_	15	obl	_	_	때문/nbn+에/jca
+13	확실한	확실+하+ㄴ	VERB	_	14	amod	_	_	확실/ncps+하/xsm+ㄴ/etm
+14	것은	것+은	NOUN	_	15	dislocated	_	_	것/nbn+은/jxt
+15	알지	알+지	VERB	_	0	root	_	_	알/pvg+지/ecx
+16	못합니다	못하+ㅂ니다	AUX	_	15	aux	_	_	못하/px+ㅂ니다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그리고 중국에 전해진 것에서는 십이부경 ( 十二部經 ) 이 이때에 만들어졌었다 .
+1	그리고	그리고	CCONJ	_	11	cc	_	_	그리고/maj
+2	중국에	중국+에	ADV	_	3	obl	_	_	중국/nq+에/jca
+3	전해진	전하+어+지+ㄴ	AUX	_	4	acl	_	_	전하/pvg+어/ecx+지/px+ㄴ/etm
+4	것에서는	것+에서+는	NOUN	_	11	dislocated	_	_	것/nbn+에서/jca+는/jxt
+5	십이부경	십이부경	PROPN	_	11	nsubj	_	_	십이부경/nq
+6	(	(	PUNCT	_	7	punct	_	_	(/sl
+7	十二部經	十二部經	PROPN	_	5	appos	_	_	十二部經/nq
+8	)	)	PUNCT	_	7	punct	_	_	)/sr
+9	이	이	ADP	_	5	case	_	_	이/jcs
+10	이때에	이때+에	ADV	_	11	obl	_	_	이때/npd+에/jca
+11	만들어졌었다	만들+어+지+었었+다	AUX	_	0	root	_	_	만들/pvg+어/ecx+지/px+었었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그리고 암기를 책임맡은 사람들을 각기 지법자 ( 持法者 ) , 지율자 ( 持律者 ) 라고 부르게 되었습니다 .
+1	그리고	그리고	CCONJ	_	16	cc	_	_	그리고/maj
+2	암기를	암기+를	NOUN	_	3	obj	_	_	암기/ncpa+를/jco
+3	책임맡은	책임맡+ㄴ	VERB	_	4	acl	_	_	책임맡/pvg+ㄴ/etm
+4	사람들을	사람+들+을	NOUN	_	16	obj	_	_	사람/ncn+들/xsn+을/jco
+5	각기	각기	ADV	_	16	advmod	_	_	각기/mag
+6	지법자	지법자	PROPN	_	11	flat	_	_	지법자/nq
+7	(	(	PUNCT	_	8	punct	_	_	(/sl
+8	持法者	持法者	PROPN	_	6	appos	_	_	持法者/nq
+9	)	)	PUNCT	_	8	punct	_	_	)/sr
+10	,	,	PUNCT	_	6	punct	_	_	,/sp
+11	지율자	지율자	PROPN	_	16	conj	_	_	지율자/nq
+12	(	(	PUNCT	_	13	punct	_	_	(/sl
+13	持律者	持律者	PROPN	_	11	appos	_	_	持律者/nq
+14	)	)	PUNCT	_	13	punct	_	_	)/sr
+15	라고	라고	ADP	_	11	case	_	_	라고/jcr
+16	부르게	부르+게	VERB	_	0	root	_	_	부르/pvg+게/ecx
+17	되었습니다	되+었+습니다	AUX	_	16	aux	_	_	되/px+었/ep+습니다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+

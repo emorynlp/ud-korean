@@ -1,0 +1,2572 @@
+# 바다 위에 최고 ( 最古 ) 의 박람회로 꼽는 것은 구약성서에 에스더 서 ( 書 ) 에 나오는 한 행사다 .
+1	바다	바다	NOUN	_	2	compound	_	_	바다/ncn
+2	위에	위+에	ADV	_	9	obl	_	_	위/ncn+에/jca
+3	최고	최고	NOUN	_	8	nmod	_	_	최고/ncn
+4	(	(	PUNCT	_	5	punct	_	_	(/sl
+5	最古	最古	NOUN	_	3	appos	_	_	最古/ncn
+6	)	)	PUNCT	_	5	punct	_	_	)/sr
+7	의	의	ADP	_	3	case	_	_	의/jcm
+8	박람회로	박람회+로	ADV	_	9	advcl	_	_	박람회/ncn+로/jca
+9	꼽는	꼽+는	VERB	_	10	acl	_	_	꼽/pvg+는/etm
+10	것은	것+은	NOUN	_	20	dislocated	_	_	것/nbn+은/jxt
+11	구약성서에	구약성서+의	PROPN	_	13	nmod	_	_	구약성서/nq+의/jcm
+12	에스더	에스더	PROPN	_	13	compound	_	_	에스더/nq
+13	서	서	NOUN	_	18	obl	_	_	서/ncn
+14	(	(	PUNCT	_	15	punct	_	_	(/sl
+15	書	書	NOUN	_	13	appos	_	_	書/ncn
+16	)	)	PUNCT	_	15	punct	_	_	)/sr
+17	에	에	ADP	_	13	case	_	_	에/jca
+18	나오는	나오+는	VERB	_	20	ccomp	_	_	나오/pvg+는/etm
+19	한	한	ADJ	_	20	amod	_	_	한/mma
+20	행사다	행사+이+다	VERB	_	0	root	_	_	행사/ncpa+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 한마디로 아하수에로 왕은 만인의 눈과 입을 즐겁게 하는 가운데 ` 영하로운 나라의 부강함과 위엄의 혁혁함 ' 을 마음껏 과시했던 것이다 .
+1	한마디로	한마디+로	ADV	_	19	advcl	_	_	한마디/ncn+로/jca
+2	아하수에로	아하수에로	PROPN	_	3	compound	_	_	아하수에로/nq
+3	왕은	왕+은	NOUN	_	19	dislocated	_	_	왕/ncn+은/jxt
+4	만인의	만인+의	NOUN	_	6	nmod	_	_	만인/ncn+의/jcm
+5	눈과	눈+과	CCONJ	_	6	conj	_	_	눈/ncn+과/jcj
+6	입을	입+을	NOUN	_	7	obj	_	_	입/ncn+을/jco
+7	즐겁게	즐겁+게	ADJ	_	9	amod	_	_	즐겁/paa+게/ecx
+8	하는	하+는	AUX	_	7	aux	_	_	하/px+는/etm
+9	가운데	가운데	NOUN	_	19	advmod	_	_	가운데/ncn
+10	`	`	PUNCT	_	11	punct	_	_	`/sl
+11	영하로운	영화롭+ㄴ	ADJ	_	12	amod	_	_	영화롭/paa+ㄴ/etm
+12	나라의	나라+의	NOUN	_	13	nmod	_	_	나라/ncn+의/jcm
+13	부강함과	부강+하+ㅁ+과	CCONJ	_	15	conj	_	_	부강/ncps+하/xsm+ㅁ/etn+과/jcj
+14	위엄의	위엄+의	NOUN	_	15	nmod	_	_	위엄/ncps+의/jcm
+15	혁혁함	혁혁하+ㅁ	ADJ	_	19	obj	_	_	혁혁하/paa+ㅁ/etn
+16	'	'	PUNCT	_	15	punct	_	_	'/sr
+17	을	을	ADP	_	15	case	_	_	을/jco
+18	마음껏	마음껏	ADV	_	19	advmod	_	_	마음껏/mag
+19	과시했던	과시+하+었+던	VERB	_	0	root	_	_	과시/ncpa+하/xsv+었/ep+던/etm
+20	것이다	것+이+다	VERB	_	19	aux	_	_	것/nbn+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 예로부터 교통이 발달한 곳에 위치한 시장을 중심으로 상업적 목적의 엑스포라 할 수 있는 상품전시회가 있었다 .
+1	예로부터	예+로부터	ADV	_	15	advcl	_	_	예/ncn+로부터/jca
+2	교통이	교통+이	NOUN	_	3	nsubj	_	_	교통/ncn+이/jcs
+3	발달한	발달+하+ㄴ	VERB	_	4	acl	_	_	발달/ncpa+하/xsv+ㄴ/etm
+4	곳에	곳+에	ADV	_	5	obl	_	_	곳/ncn+에/jca
+5	위치한	위치+하+ㄴ	VERB	_	6	acl	_	_	위치/ncpa+하/xsv+ㄴ/etm
+6	시장을	시장+을	NOUN	_	7	obj	_	_	시장/ncn+을/jco
+7	중심으로	중심+으로	ADV	_	15	advcl	_	_	중심/ncn+으로/jca
+8	상업적	상업+적	NOUN	_	9	amod	_	_	상업/ncpa+적/xsn
+9	목적의	목적+의	NOUN	_	10	nmod	_	_	목적/ncpa+의/jcm
+10	엑스포라	엑스포+이+라	SCONJ	_	11	ccomp	_	_	엑스포/ncn+이/jp+라/ecs
+11	할	하+ㄹ	VERB	_	14	acl	_	_	하/pvg+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있는	있+는	ADJ	_	11	aux	_	_	있/paa+는/etm
+14	상품전시회가	상품+전시회+가	NOUN	_	15	nsubj	_	_	상품/ncn+전시회/ncn+가/jcs
+15	있었다	있+었+다	ADJ	_	0	root	_	_	있/paa+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 하지만 근대 엑스포의 성격을 상당히 갖춘 전시회가 등장한 것은 르네상스의 개화기를 거쳐 새로운 기술과 발명품들이 쏟아져 나오면서부터였다 .
+1	하지만	하지만	CCONJ	_	17	cc	_	_	하지만/maj
+2	근대	근대	NOUN	_	3	compound	_	_	근대/ncn
+3	엑스포의	엑스포+의	NOUN	_	4	nmod	_	_	엑스포/ncn+의/jcm
+4	성격을	성격+을	NOUN	_	6	obj	_	_	성격/ncn+을/jco
+5	상당히	상당히	ADV	_	6	advmod	_	_	상당히/mag
+6	갖춘	갖추+ㄴ	VERB	_	7	acl	_	_	갖추/pvg+ㄴ/etm
+7	전시회가	전시회+가	NOUN	_	8	nsubj	_	_	전시회/ncn+가/jcs
+8	등장한	등장+하+ㄴ	VERB	_	9	acl	_	_	등장/ncpa+하/xsv+ㄴ/etm
+9	것은	것+은	NOUN	_	17	dislocated	_	_	것/nbn+은/jxt
+10	르네상스의	르네상스+의	PROPN	_	11	nmod	_	_	르네상스/nq+의/jcm
+11	개화기를	개화기+를	NOUN	_	12	obj	_	_	개화기/ncn+를/jco
+12	거쳐	거치+어	SCONJ	_	17	ccomp	_	_	거치/pvg+어/ecs
+13	새로운	새롭+ㄴ	ADJ	_	14	amod	_	_	새롭/paa+ㄴ/etm
+14	기술과	기술+과	CCONJ	_	15	conj	_	_	기술/ncpa+과/jcj
+15	발명품들이	발명품+들+이	NOUN	_	17	nsubj	_	_	발명품/ncn+들/xsn+이/jcs
+16	쏟아져	쏟아지+어	SCONJ	_	17	ccomp	_	_	쏟아지/pvg+어/ecs
+17	나오면서부터였다	나오+면서+부터+이+었+다	VERB	_	0	root	_	_	나오/pvg+면서/ecs+부터/jxc+이/jp+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 특히 1569 년 뉘른베르크에서 열린 전시회는 당시의 첨단기계와 생산기술을 선보여 주변 국가에 큰 영향을 주었다고 한다 .
+1	특히	특히	ADV	_	5	advmod	_	_	특히/mag
+2	1569	1569	NUM	_	3	nummod	_	_	1569/nnc
+3	년	년	NOUN	_	5	advmod	_	_	년/nbu
+4	뉘른베르크에서	뉘른베르크+에서	ADV	_	5	advcl	_	_	뉘른베르크/nq+에서/jca
+5	열린	열리+ㄴ	VERB	_	6	acl	_	_	열리/pvg+ㄴ/etm
+6	전시회는	전시회+는	NOUN	_	15	dislocated	_	_	전시회/ncn+는/jxt
+7	당시의	당시+의	NOUN	_	9	nmod	_	_	당시/ncn+의/jcm
+8	첨단기계와	첨단+기계+와	CCONJ	_	9	conj	_	_	첨단/ncn+기계/ncn+와/jcj
+9	생산기술을	생산+기술+을	NOUN	_	10	obj	_	_	생산/ncpa+기술/ncpa+을/jco
+10	선보여	선보이+어	SCONJ	_	15	ccomp	_	_	선보이/pvg+어/ecs
+11	주변	주변	NOUN	_	12	compound	_	_	주변/ncn
+12	국가에	국가+에	ADV	_	15	obl	_	_	국가/ncn+에/jca
+13	큰	크+ㄴ	ADJ	_	14	amod	_	_	크/paa+ㄴ/etm
+14	영향을	영향+을	NOUN	_	15	obj	_	_	영향/ncn+을/jco
+15	주었다고	주+었+다+고	VERB	_	16	conj	_	_	주/pvg+었/ep+다/ef+고/jcr
+16	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 얼마 지나지 않아 영국에서 촉발된 산업혁명에 의해 기술개발과 그 보급이 확대되면서 영국을 비롯한 여러 나라에서는 산업박람회의 개최에 앞을 다투었다 .
+1	얼마	얼마	ADV	_	2	advmod	_	_	얼마/mag
+2	지나지	지나+지	VERB	_	5	ccomp	_	_	지나/pvg+지/ecx
+3	않아	않+아	SCONJ	_	2	aux	_	_	않/px+아/ecs
+4	영국에서	영국+에서	ADV	_	5	advcl	_	_	영국/nq+에서/jca
+5	촉발된	촉발+되+ㄴ	VERB	_	6	acl	_	_	촉발/ncpa+되/xsv+ㄴ/etm
+6	산업혁명에	산업혁명+에	ADV	_	7	obl	_	_	산업혁명/nq+에/jca
+7	의해	의하+어	SCONJ	_	11	ccomp	_	_	의하/pvg+어/ecs
+8	기술개발과	기술+개발+과	CCONJ	_	10	conj	_	_	기술/ncpa+개발/ncpa+과/jcj
+9	그	그	DET	_	10	det	_	_	그/mmd
+10	보급이	보급+이	NOUN	_	11	nsubj	_	_	보급/ncpa+이/jcs
+11	확대되면서	확대+되+면서	CCONJ	_	19	conj	_	_	확대/ncpa+되/xsv+면서/ecc
+12	영국을	영국+을	PROPN	_	13	obj	_	_	영국/nq+을/jco
+13	비롯한	비롯+하+ㄴ	VERB	_	15	acl	_	_	비롯/ncpa+하/xsv+ㄴ/etm
+14	여러	여러	ADJ	_	15	amod	_	_	여러/mma
+15	나라에서는	나라+에서+는	NOUN	_	19	dislocated	_	_	나라/ncn+에서/jca+는/jxt
+16	산업박람회의	산업+박람회+의	NOUN	_	17	nmod	_	_	산업/ncn+박람회/ncn+의/jcm
+17	개최에	개최+에	ADV	_	19	obl	_	_	개최/ncpa+에/jca
+18	앞을	앞+을	NOUN	_	19	obj	_	_	앞/ncn+을/jco
+19	다투었다	다투+었+다	VERB	_	0	root	_	_	다투/pvg+었/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 이 가운데 1756 년 영국 왕립예술협회 주최로 행해진 산업박람회는 산업박람회로서의 면모를 뚜렷이 갖춘 최초의 것으로 인정되고 있다 .
+1	이	이	PRON	_	2	compound	_	_	이/npd
+2	가운데	가운데	NOUN	_	8	advmod	_	_	가운데/ncn
+3	1756	1756	NUM	_	4	nummod	_	_	1756/nnc
+4	년	년	NOUN	_	8	advmod	_	_	년/nbu
+5	영국	영국	PROPN	_	6	compound	_	_	영국/nq
+6	왕립예술협회	왕립+예술+협회	NOUN	_	7	compound	_	_	왕립/ncn+예술/ncn+협회/ncn
+7	주최로	주최+로	ADV	_	8	advcl	_	_	주최/ncpa+로/jca
+8	행해진	행하+어+지+ㄴ	AUX	_	9	acl	_	_	행하/pvg+어/ecx+지/px+ㄴ/etm
+9	산업박람회는	산업+박람회+는	NOUN	_	16	dislocated	_	_	산업/ncn+박람회/ncn+는/jxt
+10	산업박람회로서의	산업+박람회+로서+의	NOUN	_	11	nmod	_	_	산업/ncn+박람회/ncn+로서/jca+의/jcm
+11	면모를	면모+를	NOUN	_	13	obj	_	_	면모/ncn+를/jco
+12	뚜렷이	뚜렷+이	ADV	_	13	advmod	_	_	뚜렷/ncps+이/xsa
+13	갖춘	갖추+ㄴ	VERB	_	15	acl	_	_	갖추/pvg+ㄴ/etm
+14	최초의	최초+의	NOUN	_	15	nmod	_	_	최초/ncn+의/jcm
+15	것으로	것+으로	ADV	_	16	advcl	_	_	것/nbn+으로/jca
+16	인정되고	인정+되+고	VERB	_	0	root	_	_	인정/ncpa+되/xsv+고/ecx
+17	있다	있+다	AUX	_	16	aux	_	_	있/px+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이러한 산업박람회의 돌풍은 곧 유럽대륙을 강타했으며 , 명치유신으로 꿈뜰대던 일본에도 상륙했다 .
+1	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+2	산업박람회의	산업+박람회+의	NOUN	_	3	nmod	_	_	산업/ncn+박람회/ncn+의/jcm
+3	돌풍은	돌풍+은	NOUN	_	6	dislocated	_	_	돌풍/ncn+은/jxt
+4	곧	곧	ADV	_	6	advmod	_	_	곧/mag
+5	유럽대륙을	유럽대륙+을	PROPN	_	6	obj	_	_	유럽대륙/nq+을/jco
+6	강타했으며	강타+하+었+으며	SCONJ	_	11	ccomp	_	_	강타/ncpa+하/xsv+었/ep+으며/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	명치유신으로	명치유신+으로	ADV	_	9	advcl	_	_	명치유신/nq+으로/jca
+9	꿈뜰대던	꿈틀대+던	VERB	_	10	acl	_	_	꿈틀대/pvg+던/etm
+10	일본에도	일본+에+도	ADV	_	11	advcl	_	_	일본/nq+에/jca+도/jxc
+11	상륙했다	상륙+하+었+다	VERB	_	0	root	_	_	상륙/ncpa+하/xsv+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 특히 프랑스의 나폴레옹 황제는 대혁명의 혼란으로 쇠퇴한 프랑스의 산업을 부흥하고 경제국인 영국을 제압할 목적으로 1798 년 이래 해마다 대규모의 프랑스 국영박람회를 개최한 것으로 유명하다 .
+1	특히	특히	ADV	_	24	advmod	_	_	특히/mag
+2	프랑스의	프랑스+의	PROPN	_	4	nmod	_	_	프랑스/nq+의/jcm
+3	나폴레옹	나폴레옹	PROPN	_	4	compound	_	_	나폴레옹/nq
+4	황제는	황제+는	NOUN	_	24	dislocated	_	_	황제/ncn+는/jxt
+5	대혁명의	대혁명+의	NOUN	_	6	nmod	_	_	대혁명/ncn+의/jcm
+6	혼란으로	혼란+으로	ADV	_	7	advcl	_	_	혼란/ncpa+으로/jca
+7	쇠퇴한	쇠퇴+하+ㄴ	VERB	_	9	acl	_	_	쇠퇴/ncpa+하/xsv+ㄴ/etm
+8	프랑스의	프랑스+의	PROPN	_	9	nmod	_	_	프랑스/nq+의/jcm
+9	산업을	산업+을	NOUN	_	10	obj	_	_	산업/ncn+을/jco
+10	부흥하고	부흥+하+고	CCONJ	_	13	conj	_	_	부흥/ncpa+하/xsv+고/ecc
+11	경제국인	경제국+이+ㄴ	VERB	_	12	acl	_	_	경제국/ncn+이/jp+ㄴ/etm
+12	영국을	영국+을	PROPN	_	13	obj	_	_	영국/nq+을/jco
+13	제압할	제압+하+ㄹ	VERB	_	14	acl	_	_	제압/ncpa+하/xsv+ㄹ/etm
+14	목적으로	목적+으로	ADV	_	22	advcl	_	_	목적/ncpa+으로/jca
+15	1798	1798	NUM	_	16	nummod	_	_	1798/nnc
+16	년	년	NOUN	_	17	compound	_	_	년/nbu
+17	이래	이래	NOUN	_	22	advmod	_	_	이래/ncn
+18	해마다	해+마다	ADV	_	22	advcl	_	_	해/ncn+마다/jxc
+19	대규모의	대규모+의	NOUN	_	21	nmod	_	_	대규모/ncn+의/jcm
+20	프랑스	프랑스	PROPN	_	21	compound	_	_	프랑스/nq
+21	국영박람회를	국영+박람회+를	NOUN	_	22	obj	_	_	국영/ncpa+박람회/ncn+를/jco
+22	개최한	개최+하+ㄴ	VERB	_	23	acl	_	_	개최/ncpa+하/xsv+ㄴ/etm
+23	것으로	것+으로	ADV	_	24	advcl	_	_	것/nbn+으로/jca
+24	유명하다	유명+하+다	VERB	_	0	root	_	_	유명/ncps+하/xsm+다/ef
+25	.	.	PUNCT	_	24	punct	_	_	./sf
+
+# 이 박람회는 이전의 국가별 산업박람회와는 그 격을 달리하는 것이었다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	박람회는	박람회+는	NOUN	_	8	dislocated	_	_	박람회/ncn+는/jxt
+3	이전의	이전+의	NOUN	_	5	nmod	_	_	이전/ncn+의/jcm
+4	국가별	국가별	NOUN	_	5	compound	_	_	국가별/ncn
+5	산업박람회와는	산업+박람회+와+는	NOUN	_	8	dislocated	_	_	산업/ncn+박람회/ncn+와/jct+는/jxt
+6	그	그	DET	_	7	det	_	_	그/mmd
+7	격을	격+을	NOUN	_	8	obj	_	_	격/ncn+을/jco
+8	달리하는	달리하+는	VERB	_	0	root	_	_	달리하/pvg+는/etm
+9	것이었다	것+이+었+다	VERB	_	8	aux	_	_	것/nbn+이/jp+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그 규모는 놀라움과 지적 충격에 대해 당대의 문호 찰스 디킨스는 이렇게 표현했다고 한다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	규모는	규모+의	NOUN	_	3	nmod	_	_	규모/ncn+의/jcm
+3	놀라움과	놀랍+ㅁ+과	CCONJ	_	5	conj	_	_	놀랍/paa+ㅁ/etn+과/jcj
+4	지적	지적	NOUN	_	5	compound	_	_	지적/ncn
+5	충격에	충격+에	ADV	_	6	obl	_	_	충격/ncn+에/jca
+6	대해	대하+어	SCONJ	_	12	conj	_	_	대하/pvg+어/ecs
+7	당대의	당대+의	NOUN	_	8	nmod	_	_	당대/ncn+의/jcm
+8	문호	문호	NOUN	_	10	compound	_	_	문호/ncn
+9	찰스	찰스	PROPN	_	10	flat	_	_	찰스/nq
+10	디킨스는	디킨스+는	PROPN	_	12	dislocated	_	_	디킨스/nq+는/jxt
+11	이렇게	이렇+게	SCONJ	_	12	xcomp	_	_	이렇/pad+게/ecs
+12	표현했다고	표현+하+었+다+고	VERB	_	13	conj	_	_	표현/ncpa+하/xsv+었/ep+다/ef+고/jcr
+13	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 너무 많다 .
+1	너무	너무	ADV	_	2	advmod	_	_	너무/mag
+2	많다	많+다	ADJ	_	0	root	_	_	많/paa+다/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 나는 두 번 갔을 뿐이지만 구경하는 동안 극히 자연스런 공포를 느꼈다 .
+1	나는	나+는	PRON	_	11	dislocated	_	_	나/npp+는/jxt
+2	두	두	NUM	_	3	nummod	_	_	두/nnc
+3	번	번	NOUN	_	4	dep	_	_	번/nbu
+4	갔을	가+ㅆ+ㄹ	VERB	_	11	ccomp	_	_	가/pvg+ㅆ/ep+ㄹ/etm
+5	뿐이지만	뿐+이+지만	SCONJ	_	4	aux	_	_	뿐/nbn+이/jp+지만/ecs
+6	구경하는	구경+하+는	VERB	_	7	acl	_	_	구경/ncpa+하/xsv+는/etm
+7	동안	동안	NOUN	_	11	advmod	_	_	동안/nbn
+8	극히	극히	ADV	_	9	advmod	_	_	극히/mag
+9	자연스런	자연스럽+ㄴ	ADJ	_	10	amod	_	_	자연스럽/paa+ㄴ/etm
+10	공포를	공포+를	NOUN	_	11	obj	_	_	공포/ncn+를/jco
+11	느꼈다	느끼+었+다	VERB	_	0	root	_	_	느끼/pvg+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러나 막상 회의에서는 6 년이 너무 길다는 부정적인 의견이 지배적이었다 .
+1	그러나	그러나	CCONJ	_	10	cc	_	_	그러나/maj
+2	막상	막상	ADV	_	10	advmod	_	_	막상/mag
+3	회의에서는	회의+에서+는	NOUN	_	10	dislocated	_	_	회의/ncpa+에서/jca+는/jxt
+4	6	6	NUM	_	5	nummod	_	_	6/nnc
+5	년이	년+이	NOUN	_	7	nsubj	_	_	년/nbu+이/jcs
+6	너무	너무	ADV	_	7	advmod	_	_	너무/mag
+7	길다는	길+다는	ADJ	_	9	amod	_	_	길/paa+다는/etm
+8	부정적인	부정+적+이+ㄴ	VERB	_	9	acl	_	_	부정/ncpa+적/xsn+이/jp+ㄴ/etm
+9	의견이	의견+이	NOUN	_	10	nsubj	_	_	의견/ncn+이/jcs
+10	지배적이었다	지배+적+이+었+다	VERB	_	0	root	_	_	지배/ncpa+적/xsn+이/jp+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그가 단상으로 뛰어오른 것은 혹시 런던에 뺏길지도 모른다는 우려 때문이 아니었을까 .
+1	그가	그+가	PRON	_	3	nsubj	_	_	그/npp+가/jcs
+2	단상으로	단상+으로	ADV	_	3	advcl	_	_	단상/ncn+으로/jca
+3	뛰어오른	뛰어오르+ㄴ	VERB	_	4	acl	_	_	뛰어오르/pvg+ㄴ/etm
+4	것은	것+은	NOUN	_	11	dislocated	_	_	것/nbn+은/jxt
+5	혹시	혹시	ADV	_	7	advmod	_	_	혹시/mag
+6	런던에	런던+에	ADV	_	7	obl	_	_	런던/nq+에/jca
+7	뺏길지도	뺏기+ㄹ지도	SCONJ	_	8	ccomp	_	_	뺏기/pvg+ㄹ지도/ecs
+8	모른다는	모르+ㄴ다는	VERB	_	9	acl	_	_	모르/pvg+ㄴ다는/etm
+9	우려	우려	NOUN	_	10	compound	_	_	우려/ncpa
+10	때문이	때문+이	NOUN	_	11	nsubj	_	_	때문/nbn+이/jcs
+11	아니었을까	아니+었+ㄹ까	ADJ	_	0	root	_	_	아니/paa+었/ep+ㄹ까/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이에 국가간의 이해 관계를 조정하고 엑스포의 부흥을 꾀하기 위한 다각적인 노력이 기울여졌으며 , 드디어 1928 년 31 개국이 파리에 모여 국제박람회기구 BIE를 창설했다 .
+1	이에	이에	CCONJ	_	23	cc	_	_	이에/maj
+2	국가간의	국가+간+의	NOUN	_	4	nmod	_	_	국가/ncn+간/xsn+의/jcm
+3	이해	이해	NOUN	_	4	compound	_	_	이해/ncpa
+4	관계를	관계+를	NOUN	_	5	obj	_	_	관계/ncpa+를/jco
+5	조정하고	조정+하+고	CCONJ	_	8	conj	_	_	조정/ncpa+하/xsv+고/ecc
+6	엑스포의	엑스포+의	NOUN	_	7	nmod	_	_	엑스포/ncn+의/jcm
+7	부흥을	부흥+을	NOUN	_	8	obj	_	_	부흥/ncpa+을/jco
+8	꾀하기	꾀하+기	VERB	_	9	nmod	_	_	꾀하/pvg+기/etn
+9	위한	위하+ㄴ	VERB	_	11	acl	_	_	위하/pvg+ㄴ/etm
+10	다각적인	다각+적+이+ㄴ	VERB	_	11	acl	_	_	다각/ncn+적/xsn+이/jp+ㄴ/etm
+11	노력이	노력+이	NOUN	_	12	nsubj	_	_	노력/ncpa+이/jcs
+12	기울여졌으며	기울이+어+지+었+으며	SCONJ	_	23	ccomp	_	_	기울이/pvg+어/ecx+지/px+었/ep+으며/ecs
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	드디어	드디어	ADV	_	23	advmod	_	_	드디어/mag
+15	1928	1928	NUM	_	16	nummod	_	_	1928/nnc
+16	년	년	NOUN	_	23	advmod	_	_	년/nbu
+17	31	31	NUM	_	18	nummod	_	_	31/nnc
+18	개국이	개국+이	NOUN	_	20	nsubj	_	_	개국/ncpa+이/jcs
+19	파리에	파리+에	ADV	_	20	obl	_	_	파리/nq+에/jca
+20	모여	모이+어	SCONJ	_	23	ccomp	_	_	모이/pvg+어/ecs
+21	국제박람회기구	국제+박람회+기구	NOUN	_	22	compound	_	_	국제/ncn+박람회/ncn+기구/ncn
+22	BIE를	BIE+를	PROPN	_	23	obj	_	_	BIE/nq+를/jco
+23	창설했다	창설+하+었+다	VERB	_	0	root	_	_	창설/ncpa+하/xsv+었/ep+다/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+
+# 현재 BIE에는 43 개국이 참가하고 있으며 , 한국은 지난 1987 년에 회원국으로 정식 가입하였다 .
+1	현재	현재	NOUN	_	5	advmod	_	_	현재/ncn
+2	BIE에는	BIE+에+는	PROPN	_	5	dislocated	_	_	BIE/nq+에/jca+는/jxt
+3	43	43	NUM	_	4	nummod	_	_	43/nnc
+4	개국이	개국+이	NOUN	_	5	nsubj	_	_	개국/ncpa+이/jcs
+5	참가하고	참가+하+고	VERB	_	14	ccomp	_	_	참가/ncpa+하/xsv+고/ecx
+6	있으며	있+으며	SCONJ	_	5	aux	_	_	있/px+으며/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	한국은	한국+은	PROPN	_	14	dislocated	_	_	한국/nq+은/jxt
+9	지난	지나+ㄴ	VERB	_	11	acl	_	_	지나/pvg+ㄴ/etm
+10	1987	1987	NUM	_	11	nummod	_	_	1987/nnc
+11	년에	년+에	ADV	_	14	obl	_	_	년/nbu+에/jca
+12	회원국으로	회원국+으로	ADV	_	14	advcl	_	_	회원국/ncn+으로/jca
+13	정식	정식	NOUN	_	14	compound	_	_	정식/ncn
+14	가입하였다	가입+하+었+다	VERB	_	0	root	_	_	가입/ncpa+하/xsv+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 우리나라에서도 몇차례 산업박랍회를 개최한 적이 있지만 모두 국제 규모가 아닌 국내행사 수준이었다 .
+1	우리나라에서도	우리나라+에서+도	ADV	_	4	advcl	_	_	우리나라/ncn+에서/jca+도/jxc
+2	몇차례	몇차례	NOUN	_	4	advmod	_	_	몇차례/ncn
+3	산업박랍회를	산업박랍회+를	NOUN	_	4	obj	_	_	산업박랍회/ncn+를/jco
+4	개최한	개최+하+ㄴ	VERB	_	5	acl	_	_	개최/ncpa+하/xsv+ㄴ/etm
+5	적이	적+이	NOUN	_	6	nsubj	_	_	적/nbn+이/jcs
+6	있지만	있+지만	SCONJ	_	12	xcomp	_	_	있/paa+지만/ecs
+7	모두	모두	ADV	_	12	advmod	_	_	모두/mag
+8	국제	국제	NOUN	_	9	compound	_	_	국제/ncn
+9	규모가	규모+가	NOUN	_	10	csubj	_	_	규모/ncn+가/jcc
+10	아닌	아니+ㄴ	ADJ	_	12	amod	_	_	아니/paa+ㄴ/etm
+11	국내행사	국내행사	NOUN	_	12	compound	_	_	국내행사/ncn
+12	수준이었다	수준+이+었+다	VERB	_	0	root	_	_	수준/ncn+이/jp+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 한편 공인 엑스포도 종합방람회 Universal Exposition와 전문박람회 specialized Exposition로 구분되어 있다 .
+1	한편	한편	CCONJ	_	10	cc	_	_	한편/maj
+2	공인	공인	NOUN	_	3	compound	_	_	공인/ncpa
+3	엑스포도	엑스포+도	ADV	_	10	advcl	_	_	엑스포/ncn+도/jxc
+4	종합방람회	종합+박람회	NOUN	_	6	dep	_	_	종합/ncpa+박람회/ncn
+5	Universal	Universal	X	_	6	flat	_	_	Universal/f
+6	Exposition와	Exposition+와	CCONJ	_	9	conj	_	_	Exposition/f+와/jcj
+7	전문박람회	전문+박람회	NOUN	_	9	dep	_	_	전문/ncn+박람회/ncn
+8	specialized	specialized	X	_	9	flat	_	_	specialized/f
+9	Exposition로	Exposition+로	ADV	_	10	advcl	_	_	Exposition/f+로/jca
+10	구분되어	구분+되+어	VERB	_	0	root	_	_	구분/ncpa+되/xsv+어/ecx
+11	있다	있+다	AUX	_	10	aux	_	_	있/px+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이번 한국에서 개최되는 대전엑스포는 BIF의 현 협약에 의해 전문박람회로 공인을 받았으며 , 앞으로 발효될 신 협약상의 인정박람회의 정신에 입각하여 추진되고 있다 .
+1	이번	이번	NOUN	_	3	advmod	_	_	이번/ncn
+2	한국에서	한국+에서	ADV	_	3	advcl	_	_	한국/nq+에서/jca
+3	개최되는	개최+되+는	VERB	_	4	acl	_	_	개최/ncpa+되/xsv+는/etm
+4	대전엑스포는	대전+엑스포+는	PROPN	_	20	dislocated	_	_	대전/nq+엑스포/ncn+는/jxt
+5	BIF의	BIF+의	PROPN	_	7	nmod	_	_	BIF/nq+의/jcm
+6	현	현	NOUN	_	7	compound	_	_	현/ncn
+7	협약에	협약+에	ADV	_	8	obl	_	_	협약/ncpa+에/jca
+8	의해	의하+어	SCONJ	_	11	ccomp	_	_	의하/pvg+어/ecs
+9	전문박람회로	전문+박람회+로	ADV	_	11	advcl	_	_	전문/ncn+박람회/ncn+로/jca
+10	공인을	공인+을	NOUN	_	11	obj	_	_	공인/ncn+을/jco
+11	받았으며	받+았+으며	SCONJ	_	20	ccomp	_	_	받/pvg+았/ep+으며/ecs
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	앞으로	앞+으로	ADV	_	14	advcl	_	_	앞/ncn+으로/jca
+14	발효될	발효+되+ㄹ	VERB	_	16	acl	_	_	발효/ncpa+되/xsv+ㄹ/etm
+15	신	신	NOUN	_	16	compound	_	_	신/ncn
+16	협약상의	협약상+의	NOUN	_	18	nmod	_	_	협약상/ncn+의/jcm
+17	인정박람회의	인정+박람회+의	NOUN	_	18	nmod	_	_	인정/ncpa+박람회/ncn+의/jcm
+18	정신에	정신+에	ADV	_	19	obl	_	_	정신/ncn+에/jca
+19	입각하여	입각+하+어	SCONJ	_	20	ccomp	_	_	입각/ncpa+하/xsv+어/ecs
+20	추진되고	추진+되+고	VERB	_	0	root	_	_	추진/ncpa+되/xsv+고/ecx
+21	있다	있+다	AUX	_	20	aux	_	_	있/px+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 바로 1990 년에 열린 오사카 꽃박람회였다 .
+1	바로	바로	ADV	_	6	advmod	_	_	바로/mag
+2	1990	1990	NUM	_	3	nummod	_	_	1990/nnc
+3	년에	년+에	ADV	_	4	obl	_	_	년/nbu+에/jca
+4	열린	열리+ㄴ	VERB	_	6	ccomp	_	_	열리/pvg+ㄴ/etm
+5	오사카	오사카	PROPN	_	6	compound	_	_	오사카/nq
+6	꽃박람회였다	꽃박람회+이+었+다	VERB	_	0	root	_	_	꽃박람회/ncn+이/jp+었/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 42만평 규모의 회장 내에 세계의 진귀한 화초와 수목들이 한자리에 모여 정원과 저원을 가둑 메운 채 서로의 자태를 견주었고 ` 자연과 어울린 21 세기 ` 를 노래하는 엑스포도 생겨났다 .
+1	42만평	42+만+평	NOUN	_	2	compound	_	_	42/nnc+만/nnc+평/nbu
+2	규모의	규모+의	NOUN	_	4	nmod	_	_	규모/ncn+의/jcm
+3	회장	회장	NOUN	_	4	compound	_	_	회장/ncn
+4	내에	내+에	ADV	_	10	obl	_	_	내/nbn+에/jca
+5	세계의	세계+의	NOUN	_	8	nmod	_	_	세계/ncn+의/jcm
+6	진귀한	진귀하+ㄴ	ADJ	_	8	amod	_	_	진귀하/paa+ㄴ/etm
+7	화초와	화초+와	CCONJ	_	8	conj	_	_	화초/ncn+와/jcj
+8	수목들이	수목+들+이	NOUN	_	10	nsubj	_	_	수목/ncn+들/xsn+이/jcs
+9	한자리에	한자리+에	ADV	_	10	obl	_	_	한자리/ncpa+에/jca
+10	모여	모이+어	SCONJ	_	18	ccomp	_	_	모이/pvg+어/ecs
+11	정원과	정원+과	CCONJ	_	12	conj	_	_	정원/ncn+과/jcj
+12	저원을	정원+을	NOUN	_	14	obj	_	_	정원/ncn+을/jco
+13	가둑	가득	ADV	_	14	advmod	_	_	가득/mag
+14	메운	메우+ㄴ	VERB	_	15	acl	_	_	메우/pvg+ㄴ/etm
+15	채	채	NOUN	_	18	advmod	_	_	채/nbn
+16	서로의	서로+의	NOUN	_	17	nmod	_	_	서로/ncn+의/jcm
+17	자태를	자태+를	NOUN	_	18	obj	_	_	자태/ncn+를/jco
+18	견주었고	견주+었+고	CCONJ	_	28	conj	_	_	견주/pvg+었/ep+고/ecc
+19	`	`	PUNCT	_	20	punct	_	_	`/sl
+20	자연과	자연+과	CCONJ	_	21	conj	_	_	자연/ncps+과/jct
+21	어울린	어울리+ㄴ	VERB	_	23	acl	_	_	어울리/pvg+ㄴ/etm
+22	21	21	NUM	_	23	nummod	_	_	21/nnc
+23	세기	세기	NOUN	_	26	obj	_	_	세기/ncn
+24	`	`	PUNCT	_	23	punct	_	_	`/sr
+25	를	를	ADP	_	23	case	_	_	를/jco
+26	노래하는	노래+하+는	VERB	_	27	acl	_	_	노래/ncpa+하/xsv+는/etm
+27	엑스포도	엑스포+도	ADV	_	28	advcl	_	_	엑스포/ncn+도/jxc
+28	생겨났다	생기+어+나+ㅆ+다	AUX	_	0	root	_	_	생기/pvg+어/ecx+나/px+ㅆ/ep+다/ef
+29	.	.	PUNCT	_	28	punct	_	_	./sf
+
+# 그러기에 엑스포는 무엇인가 ?
+1	그러기에	그러+기+에	ADV	_	3	obl	_	_	그러/pvd+기/etn+에/jca
+2	엑스포는	엑스포+는	NOUN	_	3	dislocated	_	_	엑스포/ncn+는/jxt
+3	무엇인가	무엇+이+ㄴ가	VERB	_	0	root	_	_	무엇/npd+이/jp+ㄴ가/ef
+4	?	?	PUNCT	_	3	punct	_	_	?/sf
+
+# 이에 대한 설명을 지나간 것을 더듬으며 하는 것은 마땅치 않다 .
+1	이에	이+에	ADV	_	2	obl	_	_	이/npd+에/jca
+2	대한	대하+ㄴ	VERB	_	3	acl	_	_	대하/pvg+ㄴ/etm
+3	설명을	설명+을	NOUN	_	7	obj	_	_	설명/ncpa+을/jco
+4	지나간	지나가+ㄴ	VERB	_	5	acl	_	_	지나가/pvg+ㄴ/etm
+5	것을	것+을	NOUN	_	6	obj	_	_	것/nbn+을/jco
+6	더듬으며	더듬+으며	SCONJ	_	7	ccomp	_	_	더듬/pvg+으며/ecs
+7	하는	하+는	VERB	_	8	acl	_	_	하/pvg+는/etm
+8	것은	것+은	NOUN	_	9	dislocated	_	_	것/nbn+은/jxt
+9	마땅치	마땅하+지	ADJ	_	0	root	_	_	마땅하/paa+지/ecx
+10	않다	않+다	AUX	_	9	aux	_	_	않/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 인류의 행복한 미래를 함께 모색하는 , 과학기술을 포함한 당대 인류문화의 축제가 엑스포다 .
+1	인류의	인류+의	NOUN	_	3	nmod	_	_	인류/ncn+의/jcm
+2	행복한	행복+하+ㄴ	VERB	_	3	amod	_	_	행복/ncps+하/xsm+ㄴ/etm
+3	미래를	미래+를	NOUN	_	5	obj	_	_	미래/ncn+를/jco
+4	함께	함께	ADV	_	5	advmod	_	_	함께/mag
+5	모색하는	모색+하+는	VERB	_	11	dep	_	_	모색/ncpa+하/xsv+는/etm
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	과학기술을	과학+기술+을	NOUN	_	8	obj	_	_	과학/ncn+기술/ncn+을/jco
+8	포함한	포함+하+ㄴ	VERB	_	11	acl	_	_	포함/ncpa+하/xsv+ㄴ/etm
+9	당대	당대	NOUN	_	10	compound	_	_	당대/ncn
+10	인류문화의	인류+문화+의	NOUN	_	11	nmod	_	_	인류/ncn+문화/ncn+의/jcm
+11	축제가	축제+가	NOUN	_	12	nsubj	_	_	축제/ncn+가/jcs
+12	엑스포다	엑스포+이+다	VERB	_	0	root	_	_	엑스포/ncn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그리고 그 내용은 언제나 인류의 행복을 추구하기 위한 시대적 요구로 채워질 것이다 .
+1	그리고	그리고	CCONJ	_	11	cc	_	_	그리고/maj
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	내용은	내용+은	NOUN	_	11	dislocated	_	_	내용/ncn+은/jxt
+4	언제나	언제나	ADV	_	11	advmod	_	_	언제나/mag
+5	인류의	인류+의	NOUN	_	6	nmod	_	_	인류/ncn+의/jcm
+6	행복을	행복+을	NOUN	_	7	obj	_	_	행복/ncpa+을/jco
+7	추구하기	추구+하+기	VERB	_	8	nmod	_	_	추구/ncpa+하/xsv+기/etn
+8	위한	위하+ㄴ	VERB	_	10	acl	_	_	위하/pvg+ㄴ/etm
+9	시대적	시대+적	NOUN	_	10	amod	_	_	시대/ncn+적/xsn
+10	요구로	요구+로	ADV	_	11	advcl	_	_	요구/ncpa+로/jca
+11	채워질	채우+어+지+ㄹ	AUX	_	0	root	_	_	채우/pvg+어/ecx+지/px+ㄹ/etm
+12	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이 장에서는 나의 이런 느낌을 그대로 전달하는 것이 좋을 듯해 나의 판단이 개입하는 것을 가능한 절제했다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	장에서는	장+에서+는	NOUN	_	9	dislocated	_	_	장/ncn+에서/jca+는/jxt
+3	나의	나+의	PRON	_	5	nmod	_	_	나/npp+의/jcm
+4	이런	이렇+ㄴ	VERB	_	5	amod	_	_	이렇/pad+ㄴ/etm
+5	느낌을	느낌+을	NOUN	_	7	obj	_	_	느낌/ncn+을/jco
+6	그대로	그대로	ADV	_	7	advmod	_	_	그대로/mag
+7	전달하는	전달+하+는	VERB	_	8	acl	_	_	전달/ncpa+하/xsv+는/etm
+8	것이	것+이	NOUN	_	9	nsubj	_	_	것/nbn+이/jcs
+9	좋을	좋+ㄹ	ADJ	_	16	amod	_	_	좋/paa+ㄹ/etm
+10	듯해	듯하+어	SCONJ	_	9	aux	_	_	듯하/px+어/ecs
+11	나의	나+의	PRON	_	12	nmod	_	_	나/npp+의/jcm
+12	판단이	판단+이	NOUN	_	13	nsubj	_	_	판단/ncpa+이/jcs
+13	개입하는	개입+하+는	VERB	_	14	acl	_	_	개입/ncpa+하/xsv+는/etm
+14	것을	것+을	NOUN	_	16	obj	_	_	것/nbn+을/jco
+15	가능한	가능한	ADV	_	16	advmod	_	_	가능한/mag
+16	절제했다	절제+하+었+다	VERB	_	0	root	_	_	절제/ncpa+하/xsv+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그래서 여러분에게 군데군데 구멍나고 없는 몇 장짜리 앨범을 던진다 .
+1	그래서	그래서	CCONJ	_	9	cc	_	_	그래서/maj
+2	여러분에게	여러분+에게	ADV	_	9	iobj	_	_	여러분/npp+에게/jca
+3	군데군데	군데군데	ADV	_	4	advmod	_	_	군데군데/mag
+4	구멍나고	구멍나+고	CCONJ	_	5	conj	_	_	구멍나/pvg+고/ecc
+5	없는	없+는	ADJ	_	8	amod	_	_	없/paa+는/etm
+6	몇	몇	ADJ	_	7	amod	_	_	몇/mma
+7	장짜리	장+짜리	NOUN	_	8	advmod	_	_	장/nbu+짜리/xsn
+8	앨범을	앨범+을	NOUN	_	9	obj	_	_	앨범/ncn+을/jco
+9	던진다	던지+ㄴ다	VERB	_	0	root	_	_	던지/pvg+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 지구상의 모든 인간의 산업과 공예를 한데 묶는 이 평화의 축제를 창조하신 분은 다름아닌 나의 남편입니다 .
+1	지구상의	지구상+의	NOUN	_	3	nmod	_	_	지구상/ncn+의/jcm
+2	모든	모든	DET	_	3	det	_	_	모든/mmd
+3	인간의	인간+의	NOUN	_	5	nmod	_	_	인간/ncn+의/jcm
+4	산업과	산업+과	CCONJ	_	5	conj	_	_	산업/ncn+과/jcj
+5	공예를	공예+를	NOUN	_	7	obj	_	_	공예/ncn+를/jco
+6	한데	한데	ADV	_	7	advmod	_	_	한데/mag
+7	묶는	묶+는	VERB	_	10	acl	_	_	묶/pvg+는/etm
+8	이	이	DET	_	10	det	_	_	이/mmd
+9	평화의	평화+의	NOUN	_	10	nmod	_	_	평화/ncps+의/jcm
+10	축제를	축제+를	NOUN	_	11	obj	_	_	축제/ncn+를/jco
+11	창조하신	창조+하+시+ㄴ	VERB	_	12	acl	_	_	창조/ncpa+하/xsv+시/ep+ㄴ/etm
+12	분은	분+은	NOUN	_	15	dislocated	_	_	분/nbn+은/jxt
+13	다름아닌	다름아니+ㄴ	ADJ	_	15	amod	_	_	다름아니/paa+ㄴ/etm
+14	나의	나+의	PRON	_	15	nmod	_	_	나/npp+의/jcm
+15	남편입니다	남편+이+ㅂ니다	VERB	_	0	root	_	_	남편/ncn+이/jp+ㅂ니다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 하나님께서 나의 알버트공을 축복하여 주옵소서 .
+1	하나님께서	하나님+께서	PROPN	_	4	nsubj	_	_	하나님/nq+께서/jcs
+2	나의	나+의	PRON	_	3	nmod	_	_	나/npp+의/jcm
+3	알버트공을	알버트공+을	PROPN	_	4	obj	_	_	알버트공/nq+을/jco
+4	축복하여	축복+하+어	VERB	_	0	root	_	_	축복/ncpa+하/xsv+어/ecx
+5	주옵소서	주+옵소서	AUX	_	4	aux	_	_	주/px+옵소서/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 주님께서 나의 조국을 축복하여 주옵소서 .
+1	주님께서	주님+께서	NOUN	_	4	nsubj	_	_	주님/ncn+께서/jcs
+2	나의	나+의	PRON	_	3	nmod	_	_	나/npp+의/jcm
+3	조국을	조국+을	NOUN	_	4	obj	_	_	조국/ncn+을/jco
+4	축복하여	축복+하+어	VERB	_	0	root	_	_	축복/ncpa+하/xsv+어/ecx
+5	주옵소서	주+옵소서	AUX	_	4	aux	_	_	주/px+옵소서/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 오늘은 우리의 역사상 최고의 날이라는 감탄사를 연발하고 있다 .
+1	오늘은	오늘+은	NOUN	_	5	dislocated	_	_	오늘/ncn+은/jxt
+2	우리의	우리+의	PRON	_	3	nmod	_	_	우리/npp+의/jcm
+3	역사상	역사상	NOUN	_	5	advmod	_	_	역사상/ncn
+4	최고의	최고+의	NOUN	_	5	nmod	_	_	최고/ncn+의/jcm
+5	날이라는	날+이+라는	VERB	_	6	acl	_	_	날/ncn+이/jp+라는/etm
+6	감탄사를	감탄사+를	NOUN	_	7	obj	_	_	감탄사/ncn+를/jco
+7	연발하고	연발+하+고	VERB	_	0	root	_	_	연발/ncpa+하/xsv+고/ecx
+8	있다	있+다	AUX	_	7	aux	_	_	있/px+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 아무리 상징적인 여왕이라지만 상당히 들떠있는 그녀의 표현에서 우리는 소녀처럼 가슴 벅차 하는 중년여인의 모습을 떠올리게 되고 , 그녀를 만든 런던박람회의 정경을 어렴풋이나마 느끼게 된다 .
+1	아무리	아무리	ADV	_	2	advmod	_	_	아무리/mag
+2	상징적인	상징+적+이+ㄴ	VERB	_	3	ccomp	_	_	상징/ncpa+적/xsn+이/jp+ㄴ/etm
+3	여왕이라지만	여왕+이+라지만	SCONJ	_	5	ccomp	_	_	여왕/ncn+이/jp+라지만/ecs
+4	상당히	상당+히	ADV	_	5	advmod	_	_	상당/ncps+히/xsa
+5	들떠있는	들뜨+어+있+는	AUX	_	7	acl	_	_	들뜨/pvg+어/ecx+있/px+는/etm
+6	그녀의	그녀+의	PRON	_	7	nmod	_	_	그녀/npp+의/jcm
+7	표현에서	표현+에서	ADV	_	15	advcl	_	_	표현/ncpa+에서/jca
+8	우리는	우리+는	PRON	_	15	dislocated	_	_	우리/npp+는/jxt
+9	소녀처럼	소녀+처럼	ADV	_	12	advcl	_	_	소녀/ncn+처럼/jca
+10	가슴	가슴	NOUN	_	12	advmod	_	_	가슴/ncn
+11	벅차	벅차+아	SCONJ	_	12	xcomp	_	_	벅차/paa+아/ecs
+12	하는	하+는	VERB	_	13	acl	_	_	하/pvg+는/etm
+13	중년여인의	중년+여인+의	NOUN	_	14	nmod	_	_	중년/ncn+여인/ncn+의/jcm
+14	모습을	모습+을	NOUN	_	15	obj	_	_	모습/ncn+을/jco
+15	떠올리게	떠올리+게	VERB	_	23	conj	_	_	떠올리/pvg+게/ecx
+16	되고	되+고	CCONJ	_	15	aux	_	_	되/px+고/ecc
+17	,	,	PUNCT	_	16	punct	_	_	,/sp
+18	그녀를	그녀+를	PRON	_	19	obj	_	_	그녀/npp+를/jco
+19	만든	만들+ㄴ	VERB	_	20	acl	_	_	만들/pvg+ㄴ/etm
+20	런던박람회의	런던+박람회+의	PROPN	_	21	nmod	_	_	런던/nq+박람회/ncn+의/jcm
+21	정경을	정경+을	NOUN	_	23	obj	_	_	정경/ncn+을/jco
+22	어렴풋이나마	어렴풋+이+나마	SCONJ	_	23	ccomp	_	_	어렴풋/ncps+이/jp+나마/ecs
+23	느끼게	느끼+게	VERB	_	0	root	_	_	느끼/pvg+게/ecx
+24	된다	되+ㄴ다	AUX	_	23	aux	_	_	되/px+ㄴ다/ef
+25	.	.	PUNCT	_	24	punct	_	_	./sf
+
+# 그러나 이 박람회가 효시로 인정받고 있는 영예만큼이나 그 개최에 얽힌 우여곡절도 많았다 .
+1	그러나	그러나	CCONJ	_	12	cc	_	_	그러나/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	박람회가	박람회+가	NOUN	_	5	nsubj	_	_	박람회/ncn+가/jcs
+4	효시로	효시+로	ADV	_	5	advcl	_	_	효시/ncn+로/jca
+5	인정받고	인정받+고	VERB	_	7	acl	_	_	인정받/pvg+고/ecx
+6	있는	있+는	AUX	_	5	aux	_	_	있/px+는/etm
+7	영예만큼이나	영예+만큼+이나	ADV	_	12	advcl	_	_	영예/ncn+만큼/jca+이나/jxc
+8	그	그	DET	_	9	det	_	_	그/mmd
+9	개최에	개최+에	ADV	_	10	obl	_	_	개최/ncpa+에/jca
+10	얽힌	얽히+ㄴ	VERB	_	11	acl	_	_	얽히/pvg+ㄴ/etm
+11	우여곡절도	우여곡절+도	ADV	_	12	advcl	_	_	우여곡절/ncn+도/jxc
+12	많았다	많+았+다	ADJ	_	0	root	_	_	많/paa+았/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 과연 영국이 내세운 산업샌산기기들은 뛰어난 전시물로서 경탄과 호기심의 대상이 되었으며 그 분야에서는 졍쟁국이 있을 수 없었다 .
+1	과연	과연	ADV	_	10	advmod	_	_	과연/mag
+2	영국이	영국+이	PROPN	_	3	nsubj	_	_	영국/nq+이/jcs
+3	내세운	내세우+ㄴ	VERB	_	4	acl	_	_	내세우/pvg+ㄴ/etm
+4	산업샌산기기들은	산업+생산+기기+들+은	NOUN	_	10	dislocated	_	_	산업/ncn+생산/ncpa+기기/ncn+들/xsn+은/jxt
+5	뛰어난	뛰어나+ㄴ	ADJ	_	6	amod	_	_	뛰어나/paa+ㄴ/etm
+6	전시물로서	전시물+로서	ADV	_	10	advcl	_	_	전시물/ncn+로서/jca
+7	경탄과	경탄+과	CCONJ	_	8	conj	_	_	경탄/ncpa+과/jcj
+8	호기심의	호기심+의	NOUN	_	9	nmod	_	_	호기심/ncn+의/jcm
+9	대상이	대상+이	NOUN	_	10	csubj	_	_	대상/ncn+이/jcc
+10	되었으며	되+었+으며	SCONJ	_	14	conj	_	_	되/pvg+었/ep+으며/ecs
+11	그	그	DET	_	12	det	_	_	그/mmd
+12	분야에서는	분야+에서+는	NOUN	_	14	dislocated	_	_	분야/ncn+에서/jca+는/jxt
+13	졍쟁국이	경쟁국+이	NOUN	_	14	nsubj	_	_	경쟁국/ncn+이/jcs
+14	있을	있+을	ADJ	_	0	root	_	_	있/paa+을/etm
+15	수	수	NOUN	_	16	fixed	_	_	수/nbn
+16	없었다	없+었+다	ADJ	_	14	aux	_	_	없/paa+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그러나 개중에 돋보이는 두가지가 있었으니 하나는 맥코믹 수확기요 , 또 하나는 콜트회사의 소총 여섯자루였다 .
+1	그러나	그러나	CCONJ	_	14	cc	_	_	그러나/maj
+2	개중에	개+중+에	ADV	_	3	obl	_	_	개/ncn+중/xsn+에/jca
+3	돋보이는	돋보이+는	VERB	_	4	acl	_	_	돋보이/pvg+는/etm
+4	두가지가	두+가지+가	NUM	_	5	nsubj	_	_	두/nnc+가지/nbu+가/jcs
+5	있었으니	있+었+으니	SCONJ	_	14	xcomp	_	_	있/paa+었/ep+으니/ecs
+6	하나는	하나+는	NUM	_	8	dislocated	_	_	하나/nnc+는/jxt
+7	맥코믹	맥코믹	PROPN	_	8	compound	_	_	맥코믹/nq
+8	수확기요	수확기+이+오	CCONJ	_	14	conj	_	_	수확기/ncn+이/jp+오/ecc
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	또	또	ADV	_	11	advmod	_	_	또/mag
+11	하나는	하나+는	NUM	_	14	dislocated	_	_	하나/nnc+는/jxt
+12	콜트회사의	콜트+회사+의	PROPN	_	14	nmod	_	_	콜트/nq+회사/ncn+의/jcm
+13	소총	소총	NOUN	_	14	compound	_	_	소총/ncn
+14	여섯자루였다	여섯+자루+이+었+다	VERB	_	0	root	_	_	여섯/nnc+자루/nbu+이/jp+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 헝가리의 모어휘셔사가 출품한 꽃병 , 식기류 , 다기 및 커피세트 등의 허렌드자기는 관람객들의 각별한 인기를 끌었으며 즉석에서 많은 주문이 이루어졌는데 그 중에는 빅토리아 영왕의 주문도 끼어 있었다 .
+1	헝가리의	헝가리+의	PROPN	_	2	nmod	_	_	헝가리/nq+의/jcm
+2	모어휘셔사가	모어휘셔사+가	PROPN	_	3	nsubj	_	_	모어휘셔사/nq+가/jcs
+3	출품한	출품+하+ㄴ	VERB	_	12	acl	_	_	출품/ncpa+하/xsv+ㄴ/etm
+4	꽃병	꽃병	NOUN	_	6	conj	_	_	꽃병/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	식기류	식기류	NOUN	_	8	conj	_	_	식기류/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	다기	다기	NOUN	_	10	conj	_	_	다기/ncn
+9	및	및	CCONJ	_	10	cc	_	_	및/maj
+10	커피세트	커피+세트	NOUN	_	11	compound	_	_	커피/ncn+세트/ncn
+11	등의	등+의	NOUN	_	12	nmod	_	_	등/nbn+의/jcm
+12	허렌드자기는	허렌드+자기+는	NOUN	_	16	dislocated	_	_	허렌드/f+자기/ncn+는/jxt
+13	관람객들의	관람객+들+의	NOUN	_	15	nmod	_	_	관람객/ncn+들/xsn+의/jcm
+14	각별한	각별+하+ㄴ	VERB	_	15	amod	_	_	각별/ncps+하/xsm+ㄴ/etm
+15	인기를	인기+를	NOUN	_	16	obj	_	_	인기/ncn+를/jco
+16	끌었으며	끌+었+으며	SCONJ	_	20	ccomp	_	_	끌/pvg+었/ep+으며/ecs
+17	즉석에서	즉석+에서	ADV	_	20	advcl	_	_	즉석/ncn+에서/jca
+18	많은	많+ㄴ	ADJ	_	19	amod	_	_	많/paa+ㄴ/etm
+19	주문이	주문+이	NOUN	_	20	nsubj	_	_	주문/ncn+이/jcs
+20	이루어졌는데	이루어지+었+는데	SCONJ	_	26	ccomp	_	_	이루어지/pvg+었/ep+는데/ecs
+21	그	그	DET	_	22	det	_	_	그/mmd
+22	중에는	중+에+는	NOUN	_	26	dislocated	_	_	중/ncn+에/jca+는/jxt
+23	빅토리아	빅토리아	PROPN	_	24	compound	_	_	빅토리아/nq
+24	영왕의	여왕+의	NOUN	_	25	nmod	_	_	여왕/ncn+의/jcm
+25	주문도	주문+도	ADV	_	26	advcl	_	_	주문/ncn+도/jxc
+26	끼어	끼+어	VERB	_	0	root	_	_	끼/pvg+어/ecx
+27	있었다	있+었+다	AUX	_	26	aux	_	_	있/px+었/ep+다/ef
+28	.	.	PUNCT	_	27	punct	_	_	./sf
+
+# 그런데 역대 엑스포를 대충 훑어만 봐도 이와 같은 타이종의 기이한 생김새화 관습들이 엑스포의 고정메뉴처럼 등장해왔음을 알 수 있다 .
+1	그런데	그런데	CCONJ	_	16	cc	_	_	그런데/maj
+2	역대	역대	NOUN	_	3	compound	_	_	역대/ncn
+3	엑스포를	엑스포+를	NOUN	_	5	obj	_	_	엑스포/ncn+를/jco
+4	대충	대충	ADV	_	5	advmod	_	_	대충/mag
+5	훑어만	훑+어+만	ADV	_	16	ccomp	_	_	훑/pvg+어/ecx+만/jxc
+6	봐도	보+아도	SCONJ	_	5	aux	_	_	보/px+아도/ecs
+7	이와	이+와	CCONJ	_	8	conj	_	_	이/npd+와/jct
+8	같은	같+ㄴ	ADJ	_	12	amod	_	_	같/paa+ㄴ/etm
+9	타이종의	타인종+의	NOUN	_	12	nmod	_	_	타인종/ncn+의/jcm
+10	기이한	기이하+ㄴ	ADJ	_	11	amod	_	_	기이하/paa+ㄴ/etm
+11	생김새화	생김새+와	CCONJ	_	12	conj	_	_	생김새/ncn+와/jcj
+12	관습들이	관습+들+이	NOUN	_	15	nsubj	_	_	관습/ncn+들/xsn+이/jcs
+13	엑스포의	엑스포+의	NOUN	_	14	nmod	_	_	엑스포/ncn+의/jcm
+14	고정메뉴처럼	고정+메뉴+처럼	ADV	_	15	advcl	_	_	고정/ncpa+메뉴/ncn+처럼/jca
+15	등장해왔음을	등장+하+어+오+았+ㅁ+을	NOUN	_	16	obj	_	_	등장/ncpa+하/xsv+어/ecx+오/px+았/ep+ㅁ/etn+을/jco
+16	알	알+ㄹ	VERB	_	0	root	_	_	알/pvg+ㄹ/etm
+17	수	수	NOUN	_	18	fixed	_	_	수/nbn
+18	있다	있+다	ADJ	_	16	aux	_	_	있/paa+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그리고 고정메뉴 대한 관심과 인기는 요즘 우리가 동물원에서 보는 희귀동물이나 희귀조류에 대한 것보다 훨씬 대단했다고 하다 .
+1	그리고	그리고	CCONJ	_	16	cc	_	_	그리고/maj
+2	고정메뉴	고정+메뉴+에	ADV	_	3	obl	_	_	고정/ncpa+메뉴/ncn+에/jca
+3	대한	대하+ㄴ	VERB	_	5	acl	_	_	대하/pvg+ㄴ/etm
+4	관심과	관심+과	CCONJ	_	5	conj	_	_	관심/ncpa+과/jcj
+5	인기는	인기+는	NOUN	_	15	dislocated	_	_	인기/ncn+는/jxt
+6	요즘	요즘	NOUN	_	9	advmod	_	_	요즘/ncn
+7	우리가	우리+가	PRON	_	9	nsubj	_	_	우리/npp+가/jcs
+8	동물원에서	동물원+에서	ADV	_	9	advcl	_	_	동물원/ncn+에서/jca
+9	보는	보+는	VERB	_	11	acl	_	_	보/pvg+는/etm
+10	희귀동물이나	희귀동물+이나	CCONJ	_	11	conj	_	_	희귀동물/ncn+이나/jcj
+11	희귀조류에	희귀조류+에	ADV	_	12	obl	_	_	희귀조류/ncn+에/jca
+12	대한	대하+ㄴ	VERB	_	13	acl	_	_	대하/pvg+ㄴ/etm
+13	것보다	것+보다	ADV	_	15	advcl	_	_	것/nbn+보다/jca
+14	훨씬	훨씬	ADV	_	15	advmod	_	_	훨씬/mag
+15	대단했다고	대단+하+었+다+고	VERB	_	16	conj	_	_	대단/ncps+하/xsm+었/ep+다/ef+고/jcr
+16	하다	하+다	VERB	_	0	root	_	_	하/pvg+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 교사들에게는 교통비와 숙박비까지 무료로 제공되었다 .
+1	교사들에게는	교사+들+에게+는	NOUN	_	5	dislocated	_	_	교사/ncn+들/xsn+에게/jca+는/jxt
+2	교통비와	교통비+와	CCONJ	_	3	conj	_	_	교통비/ncn+와/jcj
+3	숙박비까지	숙박비+까지	ADV	_	5	advcl	_	_	숙박비/ncn+까지/jxc
+4	무료로	무료+로	ADV	_	5	advcl	_	_	무료/ncn+로/jca
+5	제공되었다	제공+되+었+다	VERB	_	0	root	_	_	제공/ncpa+되/xsv+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 프러시아 , 영국 , 스웨덴 , 북미지역에서 온 나라들은 교육의 중요성을 계몽하기 위하여 세워진 전시관에 자국의 초등교육에 쓰이는 모든 교과서와 교육기구들을 통틀어 전시하였다 .
+1	프러시아	프러시아	PROPN	_	3	conj	_	_	프러시아/nq
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	영국	영국	PROPN	_	5	conj	_	_	영국/nq
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	스웨덴	스웨덴	PROPN	_	7	conj	_	_	스웨덴/nq
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	북미지역에서	북미+지역+에서	ADV	_	8	advcl	_	_	북미/nq+지역/ncn+에서/jca
+8	온	오+ㄴ	VERB	_	9	acl	_	_	오/pvg+ㄴ/etm
+9	나라들은	나라+들+은	NOUN	_	23	dislocated	_	_	나라/ncn+들/xsn+은/jxt
+10	교육의	교육+의	NOUN	_	11	nmod	_	_	교육/ncpa+의/jcm
+11	중요성을	중요성+을	NOUN	_	12	obj	_	_	중요성/ncn+을/jco
+12	계몽하기	계몽+하+기	VERB	_	13	nmod	_	_	계몽/ncpa+하/xsv+기/etn
+13	위하여	위하+어	SCONJ	_	14	ccomp	_	_	위하/pvg+어/ecs
+14	세워진	세우+어+지+ㄴ	AUX	_	15	acl	_	_	세우/pvg+어/ecx+지/px+ㄴ/etm
+15	전시관에	전시관+에	ADV	_	23	obl	_	_	전시관/ncn+에/jca
+16	자국의	자국+의	NOUN	_	17	nmod	_	_	자국/ncn+의/jcm
+17	초등교육에	초등+교육+에	ADV	_	18	obl	_	_	초등/ncn+교육/ncpa+에/jca
+18	쓰이는	쓰이+는	VERB	_	21	acl	_	_	쓰이/pvg+는/etm
+19	모든	모든	DET	_	21	det	_	_	모든/mmd
+20	교과서와	교과서+와	CCONJ	_	21	conj	_	_	교과서/ncn+와/jcj
+21	교육기구들을	교육+기구+들+을	NOUN	_	23	obj	_	_	교육/ncpa+기구/ncn+들/xsn+을/jco
+22	통틀어	통틀어	ADV	_	23	advmod	_	_	통틀어/mag
+23	전시하였다	전시+하+었+다	VERB	_	0	root	_	_	전시/ncpa+하/xsv+었/ep+다/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+
+# 그 중 영국은 지방학교에서 대학에 이르기까지 심지어 체육관에서 사용되는 모든 교육기구까지 빠짐 없이 전시했다고 한다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	중	중	NOUN	_	3	mark	_	_	중/nbn
+3	영국은	영국+은	PROPN	_	14	dislocated	_	_	영국/nq+은/jxt
+4	지방학교에서	지방+학교+에서	ADV	_	6	advcl	_	_	지방/ncn+학교/ncn+에서/jca
+5	대학에	대학+에	ADV	_	6	obl	_	_	대학/ncn+에/jca
+6	이르기까지	이르+기+까지	ADV	_	14	advcl	_	_	이르/pvg+기/etn+까지/jxc
+7	심지어	심지어	ADV	_	9	advmod	_	_	심지어/mag
+8	체육관에서	체육관+에서	ADV	_	9	advcl	_	_	체육관/ncn+에서/jca
+9	사용되는	사용+되+는	VERB	_	11	acl	_	_	사용/ncpa+되/xsv+는/etm
+10	모든	모든	DET	_	11	det	_	_	모든/mmd
+11	교육기구까지	교육+기구+까지	ADV	_	14	advcl	_	_	교육/ncpa+기구/ncn+까지/jxc
+12	빠짐	빠지+ㅁ	VERB	_	13	nmod	_	_	빠지/pvg+ㅁ/etn
+13	없이	없+이	SCONJ	_	14	xcomp	_	_	없/paa+이/ecs
+14	전시했다고	전시+하+었+다+고	VERB	_	15	conj	_	_	전시/ncpa+하/xsv+었/ep+다/ef+고/jcr
+15	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 앞서 콜트의 소총에서 보았듯이 초기 박람회의 풍경을 결정짓는 주요한 요소 중의 하나는 살상무기의 전시였다 .
+1	앞서	앞서	ADV	_	4	advmod	_	_	앞서/mag
+2	콜트의	콜트+의	PROPN	_	3	nmod	_	_	콜트/nq+의/jcm
+3	소총에서	소총+에서	ADV	_	4	advcl	_	_	소총/ncn+에서/jca
+4	보았듯이	보+았+듯이	SCONJ	_	14	ccomp	_	_	보/pvg+았/ep+듯이/ecs
+5	초기	초기	NOUN	_	6	compound	_	_	초기/ncn
+6	박람회의	박람회+의	NOUN	_	7	nmod	_	_	박람회/ncn+의/jcm
+7	풍경을	풍경+을	NOUN	_	8	obj	_	_	풍경/ncn+을/jco
+8	결정짓는	결정짓+는	VERB	_	10	acl	_	_	결정짓/pvg+는/etm
+9	주요한	주요+하+ㄴ	VERB	_	10	amod	_	_	주요/ncps+하/xsm+ㄴ/etm
+10	요소	요소	NOUN	_	11	compound	_	_	요소/ncn
+11	중의	중+의	NOUN	_	12	nmod	_	_	중/nbn+의/jcm
+12	하나는	하나+는	NUM	_	14	dislocated	_	_	하나/nnc+는/jxt
+13	살상무기의	살상+무기+의	NOUN	_	14	nmod	_	_	살상/ncpa+무기/ncn+의/jcm
+14	전시였다	전시+이+었+다	VERB	_	0	root	_	_	전시/ncn+이/jp+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그러나 몇년 후의 프랑스 프러시아 전쟁 ( 보불전쟁 ) 에서 크룹사의 더욱 개량된 거포들이 프랑스땅을 초토로 만들어 그 영역에 답하리라고는 미처 예상치 못했으리라 .
+1	그러나	그러나	CCONJ	_	22	cc	_	_	그러나/maj
+2	몇년	몇년	NOUN	_	3	compound	_	_	몇년/ncn
+3	후의	후+의	NOUN	_	6	nmod	_	_	후/ncn+의/jcm
+4	프랑스	프랑스	PROPN	_	6	compound	_	_	프랑스/nq
+5	프러시아	프러시아	PROPN	_	6	compound	_	_	프러시아/nq
+6	전쟁	전쟁	NOUN	_	17	advcl	_	_	전쟁/ncpa
+7	(	(	PUNCT	_	8	punct	_	_	(/sl
+8	보불전쟁	보불전쟁	PROPN	_	6	appos	_	_	보불전쟁/nq
+9	)	)	PUNCT	_	8	punct	_	_	)/sr
+10	에서	에서	ADP	_	6	case	_	_	에서/jca
+11	크룹사의	크룹사+의	PROPN	_	14	nmod	_	_	크룹사/nq+의/jcm
+12	더욱	더욱	ADV	_	13	advmod	_	_	더욱/mag
+13	개량된	개량+되+ㄴ	VERB	_	14	acl	_	_	개량/ncpa+되/xsv+ㄴ/etm
+14	거포들이	거포+들+이	NOUN	_	17	nsubj	_	_	거포/ncn+들/xsn+이/jcs
+15	프랑스땅을	프랑스+땅+을	PROPN	_	17	obj	_	_	프랑스/nq+땅/ncn+을/jco
+16	초토로	초토+로	ADV	_	17	advcl	_	_	초토/ncpa+로/jca
+17	만들어	만들+어	SCONJ	_	20	ccomp	_	_	만들/pvg+어/ecs
+18	그	그	DET	_	19	det	_	_	그/mmd
+19	영역에	영역+에	ADV	_	20	obl	_	_	영역/ncn+에/jca
+20	답하리라고는	답+하+리라고+는	NOUN	_	22	ccomp	_	_	답/ncpa+하/xsv+리라고/ecs+는/jxt
+21	미처	미처	ADV	_	22	advmod	_	_	미처/mag
+22	예상치	예상+하+지	VERB	_	0	root	_	_	예상/ncpa+하/xsv+지/ecx
+23	못했으리라	못하+었+으리라	AUX	_	22	aux	_	_	못하/px+었/ep+으리라/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+
+# 델피아는 그리스 시대에 제사장이 제우스의 신탁을 받던 신전이 위치한 지명이다 .
+1	델피아는	델피아+는	PROPN	_	10	dislocated	_	_	델피아/nq+는/jxt
+2	그리스	그리스	PROPN	_	3	compound	_	_	그리스/nq
+3	시대에	시대+에	ADV	_	7	obl	_	_	시대/ncn+에/jca
+4	제사장이	제사장+이	NOUN	_	7	nsubj	_	_	제사장/ncn+이/jcs
+5	제우스의	제우스+의	PROPN	_	6	nmod	_	_	제우스/nq+의/jcm
+6	신탁을	신탁+을	NOUN	_	7	obj	_	_	신탁/ncn+을/jco
+7	받던	받+던	VERB	_	8	acl	_	_	받/pvg+던/etm
+8	신전이	신전+이	NOUN	_	9	nsubj	_	_	신전/ncn+이/jcs
+9	위치한	위치+하+ㄴ	VERB	_	10	ccomp	_	_	위치/ncpa+하/xsv+ㄴ/etm
+10	지명이다	지명+이+다	VERB	_	0	root	_	_	지명/ncpa+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 필라델피아를 도시로 만든 사람은 윌리엄 펜 william pennd이다 .
+1	필라델피아를	필라델피아+를	PROPN	_	3	obj	_	_	필라델피아/nq+를/jco
+2	도시로	도시+로	ADV	_	3	advcl	_	_	도시/ncn+로/jca
+3	만든	만들+ㄴ	VERB	_	4	acl	_	_	만들/pvg+ㄴ/etm
+4	사람은	사람+은	NOUN	_	8	dislocated	_	_	사람/ncn+은/jxt
+5	윌리엄	윌리엄	PROPN	_	6	flat	_	_	윌리엄/nq
+6	펜	펜	PROPN	_	8	dep	_	_	펜/nq
+7	william	william	X	_	8	flat	_	_	william/f
+8	pennd이다	pennd+이+다	VERB	_	0	root	_	_	pennd/f+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그는 1862 년 인디언들에게서 토지를 매입하여 그것을 영국왕실의 소유의 2450 평방마일의 대지와 맞바꾸었다 .
+1	그는	그+는	PRON	_	13	dislocated	_	_	그/npp+는/jxt
+2	1862	1862	NUM	_	3	nummod	_	_	1862/nnc
+3	년	년	NOUN	_	6	advmod	_	_	년/nbu
+4	인디언들에게서	인디언+들+에게서	ADV	_	6	advcl	_	_	인디언/ncn+들/xsn+에게서/jca
+5	토지를	토지+를	NOUN	_	6	obj	_	_	토지/ncn+를/jco
+6	매입하여	매입+하+어	SCONJ	_	13	ccomp	_	_	매입/ncpa+하/xsv+어/ecs
+7	그것을	그것+을	PRON	_	13	obj	_	_	그것/npd+을/jco
+8	영국왕실의	영국+왕실	NOUN	_	9	compound	_	_	영국/nq+왕실/ncn
+9	소유의	소유+의	NOUN	_	12	nmod	_	_	소유/ncpa+의/jcm
+10	2450	2450	NUM	_	11	nummod	_	_	2450/nnc
+11	평방마일의	평방마일+의	NOUN	_	12	nmod	_	_	평방마일/ncn+의/jcm
+12	대지와	대지+와	CCONJ	_	13	conj	_	_	대지/ncn+와/jct
+13	맞바꾸었다	맞바꾸+었+다	VERB	_	0	root	_	_	맞바꾸/pvg+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 드문드문 세워진 집들과 오두막으로 이루어진 거주지를 그는 진정한 의미의 도시로 만들 계획을 세웠다 .
+1	드문드문	드문드문	ADV	_	2	advmod	_	_	드문드문/mag
+2	세워진	세우+어+지+ㄴ	AUX	_	4	acl	_	_	세우/pvg+어/ecx+지/px+ㄴ/etm
+3	집들과	집+들+과	CCONJ	_	4	conj	_	_	집/ncn+들/xsn+과/jcj
+4	오두막으로	오두막+으로	ADV	_	5	advcl	_	_	오두막/ncn+으로/jca
+5	이루어진	이루+어+지+ㄴ	AUX	_	6	acl	_	_	이루/pvg+어/ecx+지/px+ㄴ/etm
+6	거주지를	거주지+를	NOUN	_	11	obj	_	_	거주지/ncn+를/jco
+7	그는	그+는	PRON	_	11	dislocated	_	_	그/npp+는/jxt
+8	진정한	진정+하+ㄴ	VERB	_	9	amod	_	_	진정/ncps+하/xsm+ㄴ/etm
+9	의미의	의미+의	NOUN	_	10	nmod	_	_	의미/ncpa+의/jcm
+10	도시로	도시+로	ADV	_	11	advcl	_	_	도시/ncn+로/jca
+11	만들	만들+ㄹ	VERB	_	12	acl	_	_	만들/pvg+ㄹ/etm
+12	계획을	계획+을	NOUN	_	13	obj	_	_	계획/ncpa+을/jco
+13	세웠다	세우+었+다	VERB	_	0	root	_	_	세우/pvg+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 1875 년의 인구조사 결과 인구 80만으로 집계된 필라델피아는 당시 연방에서 두번째로 큰 도시였다 .
+1	1875	1875	NUM	_	2	nummod	_	_	1875/nnc
+2	년의	년+의	NOUN	_	3	nmod	_	_	년/nbu+의/jcm
+3	인구조사	인구+조사	NOUN	_	4	compound	_	_	인구/ncn+조사/ncpa
+4	결과	결과	NOUN	_	7	advmod	_	_	결과/ncn
+5	인구	인구	NOUN	_	6	compound	_	_	인구/ncn
+6	80만으로	80+만+으로	ADV	_	7	advcl	_	_	80/nnc+만/nnc+으로/jca
+7	집계된	집계+되+ㄴ	VERB	_	8	acl	_	_	집계/ncpa+되/xsv+ㄴ/etm
+8	필라델피아는	필라델피아+는	PROPN	_	13	dislocated	_	_	필라델피아/nq+는/jxt
+9	당시	당시	NOUN	_	12	dep	_	_	당시/ncn
+10	연방에서	연방+에서	ADV	_	12	advcl	_	_	연방/ncn+에서/jca
+11	두번째로	두+번째+로	ADV	_	12	advcl	_	_	두/nno+번째/nbu+로/jca
+12	큰	크+ㄴ	ADJ	_	13	amod	_	_	크/paa+ㄴ/etm
+13	도시였다	도시+이+었+다	VERB	_	0	root	_	_	도시/ncn+이/jp+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 1876 년은 미국이 영국으로부터 독립하여 주권을 갖게된 지 꼭 1백년이 되는 해였고 독립 1백주년을 기념하는 만국박람회의 개최지로 연방은 필라델피아를 지목했던 것이다 .
+1	1876	1876	NUM	_	2	nummod	_	_	1876/nnc
+2	년은	년+은	NOUN	_	12	dislocated	_	_	년/nbu+은/jxt
+3	미국이	미국+이	PROPN	_	5	nsubj	_	_	미국/nq+이/jcs
+4	영국으로부터	영국+으로+부터	ADV	_	5	advcl	_	_	영국/nq+으로/jca+부터/jxc
+5	독립하여	독립+하+어	SCONJ	_	7	ccomp	_	_	독립/ncpa+하/xsv+어/ecs
+6	주권을	주권+을	NOUN	_	7	obj	_	_	주권/ncn+을/jco
+7	갖게된	갖+게+되+ㄴ	AUX	_	8	acl	_	_	갖/pvg+게/ecx+되/px+ㄴ/etm
+8	지	지	NOUN	_	11	advmod	_	_	지/nbn
+9	꼭	꼭	ADV	_	10	advmod	_	_	꼭/mag
+10	1백년이	1+백+년+이	NUM	_	11	csubj	_	_	1/nnc+백/nno+년/nbu+이/jcc
+11	되는	되+는	VERB	_	12	ccomp	_	_	되/pvg+는/etm
+12	해였고	해+이+었+고	CCONJ	_	20	conj	_	_	해/ncn+이/jp+었/ep+고/ecc
+13	독립	독립	NOUN	_	14	compound	_	_	독립/ncpa
+14	1백주년을	1+백+주년+을	NUM	_	15	obj	_	_	1/nnc+백/nnc+주년/nbu+을/jco
+15	기념하는	기념+하+는	VERB	_	16	acl	_	_	기념/ncpa+하/xsv+는/etm
+16	만국박람회의	만국+박람회+의	NOUN	_	17	nmod	_	_	만국/ncn+박람회/ncn+의/jcm
+17	개최지로	개최지+로	ADV	_	20	advcl	_	_	개최지/ncn+로/jca
+18	연방은	연방+은	NOUN	_	20	dislocated	_	_	연방/ncn+은/jxt
+19	필라델피아를	필라델피아+를	PROPN	_	20	obj	_	_	필라델피아/nq+를/jco
+20	지목했던	지목+하+었+던	VERB	_	0	root	_	_	지목/ncpa+하/xsv+었/ep+던/etm
+21	것이다	것+이+다	VERB	_	20	aux	_	_	것/nbn+이/jp+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 이 곳에서는 비엔나 ( 1873 년 오스트리아의 빈박람회를 말함 ) 에서 판쳤던 , 돈을 짜내기 위한 술수들이 보이지 않는다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	곳에서는	곳+에서+는	NOUN	_	18	dislocated	_	_	곳/ncn+에서/jca+는/jxt
+3	비엔나	비엔나	PROPN	_	12	advcl	_	_	비엔나/nq
+4	(	(	PUNCT	_	6	punct	_	_	(/sl
+5	1873	1873	NUM	_	6	nummod	_	_	1873/nnc
+6	년	년	NOUN	_	8	compound	_	_	년/nbu
+7	오스트리아의	오스트리아+의	PROPN	_	8	nmod	_	_	오스트리아/nq+의/jcm
+8	빈박람회를	빈+박람회+를	PROPN	_	9	obj	_	_	빈/nq+박람회/ncn+를/jco
+9	말함	말하+ㅁ	VERB	_	3	appos	_	_	말하/pvg+ㅁ/etn
+10	)	)	PUNCT	_	9	punct	_	_	)/sr
+11	에서	에서	ADP	_	3	case	_	_	에서/jca
+12	판쳤던	판치+었+던	VERB	_	17	dep	_	_	판치/pvg+었/ep+던/etm
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	돈을	돈+을	NOUN	_	15	obj	_	_	돈/ncn+을/jco
+15	짜내기	짜+아+내+기	AUX	_	16	nmod	_	_	짜/pvg+아/ecx+내/px+기/etn
+16	위한	위하+ㄴ	VERB	_	17	acl	_	_	위하/pvg+ㄴ/etm
+17	술수들이	술수+들+이	NOUN	_	18	nsubj	_	_	술수/ncn+들/xsn+이/jcs
+18	보이지	보이+지	VERB	_	0	root	_	_	보이/pvg+지/ecx
+19	않는다	않+는다	AUX	_	18	aux	_	_	않/px+는다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 그것은 " 쟁기의 손잡이를 잡고 있을 때가 워싱턴에서 국사를 운영할 때보다 훨씬 행복하고 편안하다 " 는 극히 사적이고 당연한 내용이었다 .
+1	그것은	그것+은	PRON	_	20	dislocated	_	_	그것/npd+은/jxt
+2	"	"	PUNCT	_	3	punct	_	_	"/sl
+3	쟁기의	쟁기+의	NOUN	_	4	nmod	_	_	쟁기/ncn+의/jcm
+4	손잡이를	손잡이+를	NOUN	_	5	obj	_	_	손잡이/ncn+를/jco
+5	잡고	잡+고	VERB	_	7	acl	_	_	잡/pvg+고/ecx
+6	있을	있+ㄹ	AUX	_	5	aux	_	_	있/px+ㄹ/etm
+7	때가	때+가	NOUN	_	16	nsubj	_	_	때/ncn+가/jcs
+8	워싱턴에서	워싱턴+에서	ADV	_	10	advcl	_	_	워싱턴/nq+에서/jca
+9	국사를	국사+를	NOUN	_	10	obj	_	_	국사/ncn+를/jco
+10	운영할	운영+하+ㄹ	VERB	_	11	acl	_	_	운영/ncpa+하/xsv+ㄹ/etm
+11	때보다	때+보다	ADV	_	16	advcl	_	_	때/ncn+보다/jca
+12	훨씬	훨씬	ADV	_	16	advmod	_	_	훨씬/mag
+13	행복하고	행복+하+고	CCONJ	_	14	conj	_	_	행복/ncps+하/xsm+고/ecc
+14	편안하다	편안+하+다	VERB	_	15	conj	_	_	편안/ncps+하/xsm+다/ef
+15	"	"	PUNCT	_	16	conj	_	_	"/sr
+16	는	는	PART	_	20	amod	_	_	는/etm
+17	극히	극히	ADV	_	18	advmod	_	_	극히/mag
+18	사적이고	사+적+이+고	CCONJ	_	19	conj	_	_	사/ncn+적/xsn+이/jp+고/ecc
+19	당연한	당연+하+ㄴ	VERB	_	20	amod	_	_	당연/ncps+하/xsm+ㄴ/etm
+20	내용이었다	내용+이+었+다	VERB	_	0	root	_	_	내용/ncn+이/jp+었/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 필라델피아 내에서는 몇 마일의 거리가 전혀 문제가 되지 않았다고 한다 .
+1	필라델피아	필라델피아	PROPN	_	2	compound	_	_	필라델피아/nq
+2	내에서는	내+에서+는	NOUN	_	8	dislocated	_	_	내/nbn+에서/jca+는/jxt
+3	몇	몇	ADJ	_	4	amod	_	_	몇/mma
+4	마일의	마일+의	NOUN	_	5	nmod	_	_	마일/nbu+의/jcm
+5	거리가	거리+가	NOUN	_	8	nsubj	_	_	거리/ncn+가/jcs
+6	전혀	전혀	ADV	_	8	advmod	_	_	전혀/mag
+7	문제가	문제+가	NOUN	_	8	csubj	_	_	문제/ncn+가/jcc
+8	되지	되+지	VERB	_	10	conj	_	_	되/pvg+지/ecx
+9	않았다고	않+았+다+고	VERB	_	8	aux	_	_	않/px+았/ep+다/ef+고/jcr
+10	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 회장 내에서는 10 분 간격으로 관람열차가 운행했으며 주요전시관을 거의 빠짐 없이 연결해주었다 .
+1	회장	회장	NOUN	_	2	compound	_	_	회장/ncn
+2	내에서는	내+에서+는	NOUN	_	7	dislocated	_	_	내/nbn+에서/jca+는/jxt
+3	10	10	NUM	_	4	nummod	_	_	10/nnc
+4	분	분	NOUN	_	5	mark	_	_	분/nbn
+5	간격으로	간격+으로	ADV	_	7	advcl	_	_	간격/ncn+으로/jca
+6	관람열차가	관람+열차+가	NOUN	_	7	nsubj	_	_	관람/ncpa+열차/ncn+가/jcs
+7	운행했으며	운행+하+었+으며	SCONJ	_	12	ccomp	_	_	운행/ncpa+하/xsv+었/ep+으며/ecs
+8	주요전시관을	주요+전시관+을	NOUN	_	12	obj	_	_	주요/ncn+전시관/ncn+을/jco
+9	거의	거의	ADV	_	11	advmod	_	_	거의/mag
+10	빠짐	빠지+ㅁ	VERB	_	11	nmod	_	_	빠지/pvg+ㅁ/etn
+11	없이	없+이	SCONJ	_	12	xcomp	_	_	없/paa+이/ecs
+12	연결해주었다	연결+하+어+주+었+다	AUX	_	0	root	_	_	연결/ncpa+하/xsv+어/ecx+주/px+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 또 1 인당 5 센트의 저렴한 요금이었기 때문에 대다수의 사람들은 뙤약볕 아래를 걷는 고통을 굳이 감수 할 필요가 없었다 .
+1	또	또	CCONJ	_	19	cc	_	_	또/maj
+2	1	1	NUM	_	3	nummod	_	_	1/nnc
+3	인당	인+당	NOUN	_	5	advmod	_	_	인/nbu+당/xsn
+4	5	5	NUM	_	5	nummod	_	_	5/nnc
+5	센트의	센트+의	NOUN	_	7	nmod	_	_	센트/nbu+의/jcm
+6	저렴한	저렴+하+ㄴ	VERB	_	7	amod	_	_	저렴/ncps+하/xsm+ㄴ/etm
+7	요금이었기	요금+이+었+기	VERB	_	8	nmod	_	_	요금/ncn+이/jp+었/ep+기/etn
+8	때문에	때문+에	ADV	_	19	obl	_	_	때문/nbn+에/jca
+9	대다수의	대다수+의	NOUN	_	10	nmod	_	_	대다수/ncn+의/jcm
+10	사람들은	사람+들+은	NOUN	_	19	dislocated	_	_	사람/ncn+들/xsn+은/jxt
+11	뙤약볕	뙤약볕	NOUN	_	12	compound	_	_	뙤약볕/ncn
+12	아래를	아래+를	NOUN	_	13	obj	_	_	아래/ncn+를/jco
+13	걷는	걷+는	VERB	_	14	acl	_	_	걷/pvg+는/etm
+14	고통을	고통+을	NOUN	_	17	obj	_	_	고통/ncps+을/jco
+15	굳이	굳이	ADV	_	17	advmod	_	_	굳이/mag
+16	감수	감수	NOUN	_	17	dep	_	_	감수/ncpa
+17	할	하+ㄹ	VERB	_	18	acl	_	_	하/pvg+ㄹ/etm
+18	필요가	필요+가	NOUN	_	19	nsubj	_	_	필요/ncpa+가/jcs
+19	없었다	없+었+다	ADJ	_	0	root	_	_	없/paa+었/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 이 가운데 관람객들을 압도한 것은 기계관 중앙에 설치된 당시 세계에서 가장 큰 엔진이었을 콜리스 증기엔진이었다 .
+1	이	이	PRON	_	2	compound	_	_	이/npd
+2	가운데	가운데	NOUN	_	4	advmod	_	_	가운데/ncn
+3	관람객들을	관람객+들+을	NOUN	_	4	obj	_	_	관람객/ncn+들/xsn+을/jco
+4	압도한	압도+하+ㄴ	VERB	_	5	acl	_	_	압도/ncpa+하/xsv+ㄴ/etm
+5	것은	것+은	NOUN	_	15	dislocated	_	_	것/nbn+은/jxt
+6	기계관	기계관	NOUN	_	7	compound	_	_	기계관/ncn
+7	중앙에	중앙+에	ADV	_	8	obl	_	_	중앙/ncn+에/jca
+8	설치된	설치+되+ㄴ	VERB	_	13	ccomp	_	_	설치/ncpa+되/xsv+ㄴ/etm
+9	당시	당시	NOUN	_	12	dep	_	_	당시/ncn
+10	세계에서	세계+에서	ADV	_	12	advcl	_	_	세계/ncn+에서/jca
+11	가장	가장	ADV	_	12	advmod	_	_	가장/mag
+12	큰	크+ㄴ	ADJ	_	13	amod	_	_	크/paa+ㄴ/etm
+13	엔진이었을	엔진+이+었+ㄹ	VERB	_	15	ccomp	_	_	엔진/ncn+이/jp+었/ep+ㄹ/etm
+14	콜리스	콜리스	PROPN	_	15	compound	_	_	콜리스/nq
+15	증기엔진이었다	증기+엔진+이+었+다	VERB	_	0	root	_	_	증기/ncn+엔진/ncn+이/jp+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그리하여 그들은 기념 건축물들을 누구에게 맡기까를 놓고 토론한 끝에 그 즈음 철강 건조물로 마음껏 재능을 뽐내고 있던 젊은 건축가 구스타프에펠을 물망에 떠올렸다 .
+1	그리하여	그리하여	CCONJ	_	22	cc	_	_	그리하여/maj
+2	그들은	그+들+은	PRON	_	22	dislocated	_	_	그/npp+들/xsn+은/jxt
+3	기념	기념	NOUN	_	4	compound	_	_	기념/ncn
+4	건축물들을	건축물+들+을	NOUN	_	6	obj	_	_	건축물/ncn+들/xsn+을/jco
+5	누구에게	누구+에게	ADV	_	6	iobj	_	_	누구/npp+에게/jca
+6	맡기까를	맡기+ㄹ까+를	NOUN	_	7	obj	_	_	맡기/pvg+ㄹ까/ef+를/jco
+7	놓고	놓+고	CCONJ	_	8	conj	_	_	놓/pvg+고/ecc
+8	토론한	토론+하+ㄴ	VERB	_	9	acl	_	_	토론/ncpa+하/xsv+ㄴ/etm
+9	끝에	끝+에	ADV	_	22	obl	_	_	끝/ncn+에/jca
+10	그	그	DET	_	11	det	_	_	그/mmd
+11	즈음	즈음	NOUN	_	16	advmod	_	_	즈음/nbn
+12	철강	철강	NOUN	_	13	compound	_	_	철강/ncn
+13	건조물로	건조물+로	ADV	_	16	advcl	_	_	건조물/ncn+로/jca
+14	마음껏	마음껏	ADV	_	16	advmod	_	_	마음껏/mag
+15	재능을	재능+을	NOUN	_	16	obj	_	_	재능/ncn+을/jco
+16	뽐내고	뽐내+고	VERB	_	20	acl	_	_	뽐내/pvg+고/ecx
+17	있던	있+던	AUX	_	16	aux	_	_	있/px+던/etm
+18	젊은	젊+ㄴ	ADJ	_	19	amod	_	_	젊/paa+ㄴ/etm
+19	건축가	건축가	NOUN	_	20	compound	_	_	건축가/ncn
+20	구스타프에펠을	구스타프에펠+을	PROPN	_	22	obj	_	_	구스타프에펠/nq+을/jco
+21	물망에	물망+에	ADV	_	22	obl	_	_	물망/ncn+에/jca
+22	떠올렸다	떠올리+었+다	VERB	_	0	root	_	_	떠올리/pvg+었/ep+다/ef
+23	.	.	PUNCT	_	22	punct	_	_	./sf
+
+# 1856 년 영국의 헨리 베세이가 개발한 제강법에 의해 강철은 값이 저렴할 뿐 아니라 이전의 제품보다 가볍고 우연성이 좋아 대규모 공사에 이용될 수 있었다 .
+1	1856	1856	NUM	_	2	nummod	_	_	1856/nnc
+2	년	년	NOUN	_	6	advmod	_	_	년/nbu
+3	영국의	영국+의	PROPN	_	5	nmod	_	_	영국/nq+의/jcm
+4	헨리	헨리	PROPN	_	5	flat	_	_	헨리/nq
+5	베세이가	베세이+가	PROPN	_	6	nsubj	_	_	베세이/nq+가/jcs
+6	개발한	개발+하+ㄴ	VERB	_	7	acl	_	_	개발/ncpa+하/xsv+ㄴ/etm
+7	제강법에	제강법+에	ADV	_	8	obl	_	_	제강법/ncn+에/jca
+8	의해	의하+어	SCONJ	_	21	ccomp	_	_	의하/pvg+어/ecs
+9	강철은	강철+은	NOUN	_	21	dislocated	_	_	강철/ncn+은/jxt
+10	값이	값+이	NOUN	_	11	nsubj	_	_	값/ncn+이/jcs
+11	저렴할	저렴하+ㄹ	ADJ	_	18	amod	_	_	저렴하/paa+ㄹ/etm
+12	뿐	뿐	NOUN	_	13	fixed	_	_	뿐/nbn
+13	아니라	아니+라	SCONJ	_	11	aux	_	_	아니/paa+라/ecs
+14	이전의	이전+의	NOUN	_	15	nmod	_	_	이전/ncn+의/jcm
+15	제품보다	제품+보다	ADV	_	16	advcl	_	_	제품/ncn+보다/jca
+16	가볍고	가볍+고	CCONJ	_	18	conj	_	_	가볍/paa+고/ecc
+17	우연성이	유연성+이	NOUN	_	18	nsubj	_	_	유연성/ncn+이/jcs
+18	좋아	좋+아	SCONJ	_	21	xcomp	_	_	좋/paa+아/ecs
+19	대규모	대규모	NOUN	_	20	compound	_	_	대규모/ncn
+20	공사에	공사+에	ADV	_	21	obl	_	_	공사/ncn+에/jca
+21	이용될	이용+되+ㄹ	VERB	_	0	root	_	_	이용/ncpa+되/xsv+ㄹ/etm
+22	수	수	NOUN	_	23	fixed	_	_	수/nbn
+23	있었다	있+었+다	ADJ	_	21	aux	_	_	있/paa+었/ep+다/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+
+# 그 이후 개발된 평로에 의해 제작된 평로강은 더욱 장력이 큰 강철을 만들 수 있게 해주었다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	이후	이후	NOUN	_	3	compound	_	_	이후/ncn
+3	개발된	개발+되+ㄴ	VERB	_	4	acl	_	_	개발/ncpa+되/xsv+ㄴ/etm
+4	평로에	평로+에	ADV	_	5	obl	_	_	평로/ncn+에/jca
+5	의해	의하+어	SCONJ	_	6	ccomp	_	_	의하/pvg+어/ecs
+6	제작된	제작+되+ㄴ	VERB	_	7	acl	_	_	제작/ncpa+되/xsv+ㄴ/etm
+7	평로강은	평로강+은	NOUN	_	12	dislocated	_	_	평로강/ncn+은/jxt
+8	더욱	더욱	ADV	_	10	advmod	_	_	더욱/mag
+9	장력이	장력+이	NOUN	_	10	nsubj	_	_	장력/ncn+이/jcs
+10	큰	크+ㄴ	ADJ	_	11	amod	_	_	크/paa+ㄴ/etm
+11	강철을	강철+을	NOUN	_	12	obj	_	_	강철/ncn+을/jco
+12	만들	만들+ㄹ	VERB	_	0	root	_	_	만들/pvg+ㄹ/etm
+13	수	수	NOUN	_	14	fixed	_	_	수/nbn
+14	있게	있+게	ADJ	_	12	aux	_	_	있/paa+게/ecx
+15	해주었다	하+어+주+었+다	AUX	_	12	aux	_	_	하/px+어/ecx+주/px+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 대부분의 건축가들이 아직도 낡은 중세의 첨탑식 성당의 미학이나 석조 로마네스크나 바로크양식에 집착하고 있을 때 이 대담한 시대의 이단아 에펠은 강철의 신화를 새로이 써갔다 .
+1	대부분의	대부분+의	NOUN	_	2	nmod	_	_	대부분/ncn+의/jcm
+2	건축가들이	건축가+들+이	NOUN	_	12	nsubj	_	_	건축가/ncn+들/xsn+이/jcs
+3	아직도	아직도	ADV	_	12	advmod	_	_	아직도/mag
+4	낡은	낡+ㄴ	ADJ	_	7	amod	_	_	낡/paa+ㄴ/etm
+5	중세의	중세+의	NOUN	_	7	nmod	_	_	중세/ncn+의/jcm
+6	첨탑식	첨탑식	NOUN	_	7	compound	_	_	첨탑식/ncn
+7	성당의	성당+의	NOUN	_	8	nmod	_	_	성당/ncn+의/jcm
+8	미학이나	미학+이나	CCONJ	_	10	conj	_	_	미학/ncn+이나/jcj
+9	석조	석조	NOUN	_	10	compound	_	_	석조/ncn
+10	로마네스크나	로마네스크+나	CCONJ	_	11	conj	_	_	로마네스크/nq+나/jcj
+11	바로크양식에	바로크+양식+에	ADV	_	12	obl	_	_	바로크/nq+양식/ncn+에/jca
+12	집착하고	집착+하+고	VERB	_	14	acl	_	_	집착/ncpa+하/xsv+고/ecx
+13	있을	있+ㄹ	AUX	_	12	aux	_	_	있/px+ㄹ/etm
+14	때	때	NOUN	_	23	advmod	_	_	때/ncn
+15	이	이	DET	_	18	det	_	_	이/mmd
+16	대담한	대담+하+ㄴ	VERB	_	18	amod	_	_	대담/ncps+하/xsm+ㄴ/etm
+17	시대의	시대+의	NOUN	_	18	nmod	_	_	시대/ncn+의/jcm
+18	이단아	이단아	NOUN	_	19	compound	_	_	이단아/ncn
+19	에펠은	에펠+은	PROPN	_	23	dislocated	_	_	에펠/nq+은/jxt
+20	강철의	강철+의	NOUN	_	21	nmod	_	_	강철/ncn+의/jcm
+21	신화를	신화+를	NOUN	_	23	obj	_	_	신화/ncn+를/jco
+22	새로이	새롭+이	SCONJ	_	23	xcomp	_	_	새롭/paa+이/ecs
+23	써갔다	쓰+어+가+ㅆ+다	AUX	_	0	root	_	_	쓰/pvg+어/ecx+가/px+ㅆ/ep+다/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+
+# 앵글과 평판을 수만 개의 리벳으로 이어나가며 그는 파리의 하늘을 강철의 겨자 무늬로 거미줄처럼 수놓아갔다 .
+1	앵글과	앵글+과	CCONJ	_	2	conj	_	_	앵글/ncn+과/jcj
+2	평판을	평판+을	NOUN	_	6	obj	_	_	평판/ncpa+을/jco
+3	수만	수만	NUM	_	4	nummod	_	_	수만/nnc
+4	개의	개+의	NOUN	_	5	nmod	_	_	개/nbu+의/jcm
+5	리벳으로	리벳+으로	ADV	_	6	advcl	_	_	리벳/ncn+으로/jca
+6	이어나가며	잇+어+나+아+가+며	CCONJ	_	14	conj	_	_	잇/pvg+어/ecx+나/px+아/ecx+가/px+며/ecc
+7	그는	그+는	PRON	_	14	dislocated	_	_	그/npp+는/jxt
+8	파리의	파리+의	PROPN	_	9	nmod	_	_	파리/nq+의/jcm
+9	하늘을	하늘+을	NOUN	_	14	obj	_	_	하늘/ncn+을/jco
+10	강철의	강철+의	NOUN	_	12	nmod	_	_	강철/ncn+의/jcm
+11	겨자	격자	NOUN	_	12	compound	_	_	격자/ncn
+12	무늬로	무늬+로	ADV	_	14	advcl	_	_	무늬/ncn+로/jca
+13	거미줄처럼	거미줄+처럼	ADV	_	14	advcl	_	_	거미줄/ncn+처럼/jca
+14	수놓아갔다	수놓+아+가+ㅆ+다	AUX	_	0	root	_	_	수놓/pvg+아/ecx+가/px+ㅆ/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 석재에 비한다면 강철이야말로 정말 엿가락처럼 늘어지는 장강도를 가지고 있었다 .
+1	석재에	석재+에	ADV	_	2	obl	_	_	석재/ncn+에/jca
+2	비한다면	비하+ㄴ다면	SCONJ	_	6	ccomp	_	_	비하/pvg+ㄴ다면/ecs
+3	강철이야말로	강철+이야말로	ADV	_	6	advcl	_	_	강철/ncn+이야말로/jxc
+4	정말	정말	ADV	_	6	advmod	_	_	정말/mag
+5	엿가락처럼	엿가락+처럼	ADV	_	6	advcl	_	_	엿가락/ncn+처럼/jca
+6	늘어지는	늘어지+는	VERB	_	7	acl	_	_	늘어지/pvg+는/etm
+7	장강도를	장강도+를	NOUN	_	8	obj	_	_	장강도/ncn+를/jco
+8	가지고	가지+고	VERB	_	0	root	_	_	가지/pvg+고/ecx
+9	있었다	있+었+다	AUX	_	8	aux	_	_	있/px+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러니 어찌 전혀 새로운 형상이 창조되지 않으랴 .
+1	그러니	그러니	CCONJ	_	6	cc	_	_	그러니/maj
+2	어찌	어찌	ADV	_	6	advmod	_	_	어찌/mag
+3	전혀	전혀	ADV	_	4	advmod	_	_	전혀/mag
+4	새로운	새롭+ㄴ	ADJ	_	5	amod	_	_	새롭/paa+ㄴ/etm
+5	형상이	형상+이	NOUN	_	6	nsubj	_	_	형상/ncpa+이/jcs
+6	창조되지	창조+되+지	VERB	_	0	root	_	_	창조/ncpa+되/xsv+지/ecx
+7	않으랴	않+으랴	AUX	_	6	aux	_	_	않/px+으랴/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 천재는 새로운 것에 민감한 법 .
+1	천재는	천재+는	NOUN	_	4	dislocated	_	_	천재/ncn+는/jxt
+2	새로운	새롭+ㄴ	ADJ	_	3	amod	_	_	새롭/paa+ㄴ/etm
+3	것에	것+에	ADV	_	4	obl	_	_	것/nbn+에/jca
+4	민감한	민감+하+ㄴ	VERB	_	5	amod	_	_	민감/ncps+하/xsm+ㄴ/etm
+5	법	법	NOUN	_	0	root	_	_	법/ncn
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 에펠은 강철을 보자마자 중세의 모든 건축법의 규칙을 재해석해 낼 수 있었던 것이다 .
+1	에펠은	에펠+은	PROPN	_	8	dislocated	_	_	에펠/nq+은/jxt
+2	강철을	강철+을	NOUN	_	3	obj	_	_	강철/ncn+을/jco
+3	보자마자	보+자마자	SCONJ	_	8	ccomp	_	_	보/pvg+자마자/ecs
+4	중세의	중세+의	NOUN	_	6	nmod	_	_	중세/ncn+의/jcm
+5	모든	모든	DET	_	6	det	_	_	모든/mmd
+6	건축법의	건축법+의	NOUN	_	7	nmod	_	_	건축법/ncn+의/jcm
+7	규칙을	규칙+을	NOUN	_	8	obj	_	_	규칙/ncn+을/jco
+8	재해석해	재해석+하+어	VERB	_	0	root	_	_	재해석/ncpa+하/xsv+어/ecx
+9	낼	내+ㄹ	AUX	_	8	aux	_	_	내/px+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있었던	있+었+ㄴ	ADJ	_	8	aux	_	_	있/paa+었/ep+ㄴ/etm
+12	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그러나 모든 사람이 이 탑의 건축계획을 환영한 것은 아니었다 .
+1	그러나	그러나	CCONJ	_	9	cc	_	_	그러나/maj
+2	모든	모든	DET	_	3	det	_	_	모든/mmd
+3	사람이	사람+이	NOUN	_	7	nsubj	_	_	사람/ncn+이/jcs
+4	이	이	DET	_	5	det	_	_	이/mmd
+5	탑의	탑+의	NOUN	_	6	nmod	_	_	탑/ncn+의/jcm
+6	건축계획을	건축+계획+을	NOUN	_	7	obj	_	_	건축/ncpa+계획/ncpa+을/jco
+7	환영한	환영+하+ㄴ	VERB	_	8	acl	_	_	환영/ncpa+하/xsv+ㄴ/etm
+8	것은	것+은	NOUN	_	9	dislocated	_	_	것/nbn+은/jxt
+9	아니었다	아니+었+다	ADJ	_	0	root	_	_	아니/paa+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 기껏해야 신고전주의의 대기에서 숨쉬던 유럽에 출현할 낯설고 이질적인 강철의 신전에 대한 유럽인들의 반응은 찬반 양쪽으로 다 격렬한 것이었다 .
+1	기껏해야	기껏하+어야	SCONJ	_	4	xcomp	_	_	기껏하/paa+어야/ecs
+2	신고전주의의	신고전주의+의	NOUN	_	3	nmod	_	_	신고전주의/ncn+의/jcm
+3	대기에서	대기+에서	ADV	_	4	advcl	_	_	대기/ncn+에서/jca
+4	숨쉬던	숨쉬+던	VERB	_	5	acl	_	_	숨쉬/pvg+던/etm
+5	유럽에	유럽+에	ADV	_	6	obl	_	_	유럽/nq+에/jca
+6	출현할	출현+하+ㄹ	VERB	_	10	acl	_	_	출현/ncpa+하/xsv+ㄹ/etm
+7	낯설고	낯설+고	CCONJ	_	8	conj	_	_	낯설/paa+고/ecc
+8	이질적인	이질+적+이+ㄴ	VERB	_	10	acl	_	_	이질/ncn+적/xsn+이/jp+ㄴ/etm
+9	강철의	강철+의	NOUN	_	10	nmod	_	_	강철/ncn+의/jcm
+10	신전에	신전+에	ADV	_	11	obl	_	_	신전/ncn+에/jca
+11	대한	대하+ㄴ	VERB	_	13	acl	_	_	대하/pvg+ㄴ/etm
+12	유럽인들의	유럽인+들+의	NOUN	_	13	nmod	_	_	유럽인/ncn+들/xsn+의/jcm
+13	반응은	반응+은	NOUN	_	17	dislocated	_	_	반응/ncpa+은/jxt
+14	찬반	찬반	NOUN	_	15	compound	_	_	찬반/ncn
+15	양쪽으로	양+쪽+으로	ADV	_	17	advcl	_	_	양/ncn+쪽/xsn+으로/jca
+16	다	다	ADV	_	17	advmod	_	_	다/mag
+17	격렬한	격렬+하+ㄴ	VERB	_	0	root	_	_	격렬/ncps+하/xsm+ㄴ/etm
+18	것이었다	것+이+었+다	VERB	_	17	aux	_	_	것/nbn+이/jp+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 작곡가 샤를구노 Charlws Gounod와 소설가 소뒤마는 파리의 유명인사들을 결집하여 이 계획에 반대하는 항의성명을 제출했다 .
+1	작곡가	작곡가	NOUN	_	2	compound	_	_	작곡가/ncn
+2	샤를구노	샤를구노	PROPN	_	4	flat	_	_	샤를구노/nq
+3	Charlws	Charlws	X	_	4	flat	_	_	Charlws/f
+4	Gounod와	Gounod+와	CCONJ	_	6	conj	_	_	Gounod/f+와/jcj
+5	소설가	소설가	NOUN	_	6	compound	_	_	소설가/ncn
+6	소뒤마는	소뒤마+는	PROPN	_	14	dislocated	_	_	소뒤마/nq+는/jxt
+7	파리의	파리+의	PROPN	_	8	nmod	_	_	파리/nq+의/jcm
+8	유명인사들을	유명+인사+들+을	NOUN	_	9	obj	_	_	유명/ncps+인사/ncn+들/xsn+을/jco
+9	결집하여	결집+하+어	SCONJ	_	14	ccomp	_	_	결집/ncpa+하/xsv+어/ecs
+10	이	이	DET	_	11	det	_	_	이/mmd
+11	계획에	계획+에	ADV	_	12	obl	_	_	계획/ncpa+에/jca
+12	반대하는	반대+하+는	VERB	_	13	acl	_	_	반대/ncpa+하/xsv+는/etm
+13	항의성명을	항의+성명+을	NOUN	_	14	obj	_	_	항의/ncpa+성명/ncn+을/jco
+14	제출했다	제출+하+었+다	VERB	_	0	root	_	_	제출/ncpa+하/xsv+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이 성명서에는 다음과 같은 반대이유가 적혀있다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	성명서에는	성명서+에+는	NOUN	_	6	dislocated	_	_	성명서/ncn+에/jca+는/jxt
+3	다음과	다음+과	CCONJ	_	4	conj	_	_	다음/ncn+과/jct
+4	같은	같+ㄴ	ADJ	_	5	amod	_	_	같/paa+ㄴ/etm
+5	반대이유가	반대+이유+가	NOUN	_	6	nsubj	_	_	반대/ncpa+이유/ncn+가/jcs
+6	적혀있다	적히+어+있+다	AUX	_	0	root	_	_	적히/pvg+어/ecx+있/px+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이 야만적 크기의 공장굴뚝은 파리에 있는 다른 기념동상들의 효과를 망쳐버릴 것이다 .
+1	이	이	DET	_	4	det	_	_	이/mmd
+2	야만적	야만+적	NOUN	_	3	amod	_	_	야만/ncps+적/xsn
+3	크기의	크기+의	NOUN	_	4	nmod	_	_	크기/ncn+의/jcm
+4	공장굴뚝은	공장+굴뚝+은	NOUN	_	10	dislocated	_	_	공장/ncn+굴뚝/ncn+은/jxt
+5	파리에	파리+에	ADV	_	6	obl	_	_	파리/nq+에/jca
+6	있는	있+는	ADJ	_	8	amod	_	_	있/paa+는/etm
+7	다른	다르+ㄴ	ADJ	_	8	amod	_	_	다르/paa+ㄴ/etm
+8	기념동상들의	기념+동상+들+의	NOUN	_	9	nmod	_	_	기념/ncpa+동상/ncn+들/xsn+의/jcm
+9	효과를	효과+를	NOUN	_	10	obj	_	_	효과/ncn+를/jco
+10	망쳐버릴	망치+어+버리+ㄹ	AUX	_	0	root	_	_	망치/pvg+어/ecx+버리/px+ㄹ/etm
+11	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 에펠탑을 구성하는 격자보의 3 차원 프레임은 최소한의 중량으로 최대한의 강도를 얻을 수 있도록 에펠의 두뇌가 오랫동안 연구해온 결정체였다 .
+1	에펠탑을	에펠탑+을	PROPN	_	2	obj	_	_	에펠탑/nq+을/jco
+2	구성하는	구성+하+는	VERB	_	6	acl	_	_	구성/ncpa+하/xsv+는/etm
+3	격자보의	격자보+의	NOUN	_	6	nmod	_	_	격자보/ncn+의/jcm
+4	3	3	NUM	_	5	nummod	_	_	3/nnc
+5	차원	차원	NOUN	_	6	dep	_	_	차원/ncn
+6	프레임은	프레임+은	NOUN	_	18	dislocated	_	_	프레임/f+은/jxt
+7	최소한의	최소한+의	NOUN	_	8	nmod	_	_	최소한/ncn+의/jcm
+8	중량으로	중량+으로	ADV	_	11	advcl	_	_	중량/ncn+으로/jca
+9	최대한의	최대한+의	NOUN	_	10	nmod	_	_	최대한/ncn+의/jcm
+10	강도를	강도+를	NOUN	_	11	obj	_	_	강도/ncn+를/jco
+11	얻을	얻+ㄹ	VERB	_	17	ccomp	_	_	얻/pvg+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있도록	있+도록	SCONJ	_	11	aux	_	_	있/paa+도록/ecs
+14	에펠의	에펠+의	PROPN	_	15	nmod	_	_	에펠/nq+의/jcm
+15	두뇌가	두뇌+가	NOUN	_	17	nsubj	_	_	두뇌/ncn+가/jcs
+16	오랫동안	오랫동안	NOUN	_	17	compound	_	_	오랫동안/ncn
+17	연구해온	연구+하+어+오+ㄴ	AUX	_	18	ccomp	_	_	연구/ncpa+하/xsv+어/ecx+오/px+ㄴ/etm
+18	결정체였다	결정체+이+었+다	VERB	_	0	root	_	_	결정체/ncn+이/jp+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 에펠탑은 만 27 개월 동안 단 한명의 부상자도 없이 276 m의 늘씬한 탑신을 키워나갔다 .
+1	에펠탑은	에펠탑+은	PROPN	_	14	dislocated	_	_	에펠탑/nq+은/jxt
+2	만	만	ADJ	_	4	amod	_	_	만/mma
+3	27	27	NUM	_	4	nummod	_	_	27/nnc
+4	개월	개월	NOUN	_	5	compound	_	_	개월/nbu
+5	동안	동안	NOUN	_	14	advmod	_	_	동안/nbn
+6	단	단	ADJ	_	7	amod	_	_	단/mma
+7	한명의	한+명+의	NUM	_	8	nmod	_	_	한/nnc+명/nbu+의/jcm
+8	부상자도	부상자+도	ADV	_	9	advcl	_	_	부상자/ncn+도/jxc
+9	없이	없+이	SCONJ	_	14	xcomp	_	_	없/paa+이/ecs
+10	276	276	NUM	_	13	nummod	_	_	276/nnc
+11	m의	m+의	NOUN	_	10	nmod	_	_	m/su+의/jcm
+12	늘씬한	늘씬하+ㄴ	ADJ	_	13	amod	_	_	늘씬하/paa+ㄴ/etm
+13	탑신을	탑신+을	NOUN	_	14	obj	_	_	탑신/ncn+을/jco
+14	키워나갔다	키우+어+나가+ㅆ+다	AUX	_	0	root	_	_	키우/pvg+어/ecx+나가/px+ㅆ/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이 높이는 당시 유럽에서 가장 높았던 쾰른성당의 2 배가 넘는 것이었다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	높이는	높이+는	NOUN	_	11	dislocated	_	_	높이/ncn+는/jxt
+3	당시	당시	NOUN	_	6	dep	_	_	당시/ncn
+4	유럽에서	유럽+에서	ADV	_	6	advcl	_	_	유럽/nq+에서/jca
+5	가장	가장	ADV	_	6	advmod	_	_	가장/mag
+6	높았던	높+았+던	ADJ	_	7	amod	_	_	높/paa+았/ep+던/etm
+7	쾰른성당의	쾰른성당+의	PROPN	_	9	nmod	_	_	쾰른성당/nq+의/jcm
+8	2	2	NUM	_	9	nummod	_	_	2/nnc
+9	배가	배+가	NOUN	_	10	nsubj	_	_	배/ncn+가/jcs
+10	넘는	넘+는	VERB	_	11	ccomp	_	_	넘/pvg+는/etm
+11	것이었다	것+이+었+다	VERB	_	0	root	_	_	것/nbn+이/jp+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 에펠의 강철미학이 뼈와 살을 얻어 파리의 하늘에 몸체를 드러내자 사람들은 말 많았던 탑의 그 어디에서도 괴물의 형상을 발견할 수 없었다 .
+1	에펠의	에펠+의	PROPN	_	2	nmod	_	_	에펠/nq+의/jcm
+2	강철미학이	강철+미학+이	NOUN	_	9	nsubj	_	_	강철/ncn+미학/ncn+이/jcs
+3	뼈와	뼈+와	CCONJ	_	4	conj	_	_	뼈/ncn+와/jcj
+4	살을	살+을	NOUN	_	5	obj	_	_	살/ncn+을/jco
+5	얻어	얻+어	SCONJ	_	9	ccomp	_	_	얻/pvg+어/ecs
+6	파리의	파리+의	PROPN	_	7	nmod	_	_	파리/nq+의/jcm
+7	하늘에	하늘+에	ADV	_	9	obl	_	_	하늘/ncn+에/jca
+8	몸체를	몸체+를	NOUN	_	9	obj	_	_	몸체/ncn+를/jco
+9	드러내자	드러내+자	SCONJ	_	18	ccomp	_	_	드러내/pvg+자/ecs
+10	사람들은	사람+들+은	NOUN	_	18	dislocated	_	_	사람/ncn+들/xsn+은/jxt
+11	말	말	NOUN	_	12	dep	_	_	말/ncpa
+12	많았던	많+았+던	ADJ	_	13	amod	_	_	많/paa+았/ep+던/etm
+13	탑의	탑+의	NOUN	_	15	nmod	_	_	탑/ncn+의/jcm
+14	그	그	DET	_	15	det	_	_	그/mmd
+15	어디에서도	어디+에서+도	ADV	_	18	advcl	_	_	어디/npd+에서/jca+도/jxc
+16	괴물의	괴물+의	NOUN	_	17	nmod	_	_	괴물/ncn+의/jcm
+17	형상을	형상+을	NOUN	_	18	obj	_	_	형상/ncpa+을/jco
+18	발견할	발견+하+ㄹ	VERB	_	0	root	_	_	발견/ncpa+하/xsv+ㄹ/etm
+19	수	수	NOUN	_	20	fixed	_	_	수/nbn
+20	없었다	없+었+다	ADJ	_	18	aux	_	_	없/paa+었/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 강철의 선으로 뻗어 올라간 ` 진기한 장관 ' 은 곧 새로운 시대가 내건 진보와 매력의 상징으로 다가왔던 것이다 .
+1	강철의	강철+의	NOUN	_	2	nmod	_	_	강철/ncn+의/jcm
+2	선으로	선+으로	ADV	_	4	advcl	_	_	선/ncn+으로/jca
+3	뻗어	뻗+어	SCONJ	_	4	ccomp	_	_	뻗/pvg+어/ecs
+4	올라간	오르+아+가+ㄴ	AUX	_	7	acl	_	_	오르/pvg+아/ecx+가/px+ㄴ/etm
+5	`	`	PUNCT	_	6	punct	_	_	`/sl
+6	진기한	진기하+ㄴ	ADJ	_	7	amod	_	_	진기하/paa+ㄴ/etm
+7	장관	장관	NOUN	_	17	dislocated	_	_	장관/ncn
+8	'	'	PUNCT	_	7	punct	_	_	'/sr
+9	은	은	ADP	_	7	case	_	_	은/jxt
+10	곧	곧	ADV	_	17	advmod	_	_	곧/mag
+11	새로운	새롭+ㄴ	ADJ	_	12	amod	_	_	새롭/paa+ㄴ/etm
+12	시대가	시대+가	NOUN	_	13	nsubj	_	_	시대/ncn+가/jcs
+13	내건	내걸+ㄴ	VERB	_	15	acl	_	_	내걸/pvg+ㄴ/etm
+14	진보와	진보+와	CCONJ	_	15	conj	_	_	진보/ncpa+와/jcj
+15	매력의	매력+의	NOUN	_	16	nmod	_	_	매력/ncn+의/jcm
+16	상징으로	상징+으로	ADV	_	17	advcl	_	_	상징/ncpa+으로/jca
+17	다가왔던	다가오+았+던	VERB	_	0	root	_	_	다가오/pvg+았/ep+던/etm
+18	것이다	것+이+다	VERB	_	17	aux	_	_	것/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 개막축제 전날인 5 월 5 일 베르사이유궁전에서 개최된 혁명 1백주년 기념행사에서는 까르노 대통령에 대한 암살미수사건이 발생했다 .
+1	개막축제	개막+축제	NOUN	_	2	compound	_	_	개막/ncpa+축제/ncn
+2	전날인	전날+이+ㄴ	VERB	_	6	acl	_	_	전날/ncn+이/jp+ㄴ/etm
+3	5	5	NUM	_	4	nummod	_	_	5/nno
+4	월	월	NOUN	_	6	compound	_	_	월/nbu
+5	5	5	NUM	_	6	nummod	_	_	5/nno
+6	일	일	NOUN	_	8	advmod	_	_	일/nbu
+7	베르사이유궁전에서	베르사이유+궁전+에서	ADV	_	8	advcl	_	_	베르사이유/nq+궁전/ncn+에서/jca
+8	개최된	개최+되+ㄴ	VERB	_	11	acl	_	_	개최/ncpa+되/xsv+ㄴ/etm
+9	혁명	혁명	NOUN	_	10	compound	_	_	혁명/ncn
+10	1백주년	1+백+주년	NOUN	_	11	compound	_	_	1/nnc+백/nnc+주년/nbu
+11	기념행사에서는	기념+행사+에서+는	NOUN	_	16	dislocated	_	_	기념/ncpa+행사/ncpa+에서/jca+는/jxt
+12	까르노	까르노	PROPN	_	13	compound	_	_	까르노/nq
+13	대통령에	대통령+에	ADV	_	14	obl	_	_	대통령/ncn+에/jca
+14	대한	대하+ㄴ	VERB	_	15	acl	_	_	대하/pvg+ㄴ/etm
+15	암살미수사건이	암살+미수+사건+이	NOUN	_	16	nsubj	_	_	암살/ncpa+미수/ncn+사건/ncn+이/jcs
+16	발생했다	발생+하+었+다	VERB	_	0	root	_	_	발생/ncpa+하/xsv+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 범인은 바로 현장에서 체포되었으며 경찰의 신속한 제지로 군중들의 집단구타를 면할 수 있었다고 한다 .
+1	범인은	범인+은	NOUN	_	4	dislocated	_	_	범인/ncn+은/jxt
+2	바로	바로	ADV	_	4	advmod	_	_	바로/mag
+3	현장에서	현장+에서	ADV	_	4	advcl	_	_	현장/ncn+에서/jca
+4	체포되었으며	체포+되+었+으며	SCONJ	_	13	ccomp	_	_	체포/ncpa+되/xsv+었/ep+으며/ecs
+5	경찰의	경찰+의	NOUN	_	7	nmod	_	_	경찰/ncn+의/jcm
+6	신속한	신속+하+ㄴ	VERB	_	7	amod	_	_	신속/ncps+하/xsm+ㄴ/etm
+7	제지로	제지+로	ADV	_	10	advcl	_	_	제지/ncpa+로/jca
+8	군중들의	군중+들+의	NOUN	_	9	nmod	_	_	군중/ncn+들/xsn+의/jcm
+9	집단구타를	집단+구타+를	NOUN	_	10	obj	_	_	집단/ncn+구타/ncpa+를/jco
+10	면할	면하+ㄹ	VERB	_	13	conj	_	_	면하/pvg+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있었다고	있+었+다+고	VERB	_	10	aux	_	_	있/paa+었/ep+다/ef+고/jcr
+13	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그러나 이 사건은 개막도 되기 전에 이미 무르익을 대로 무르익은 파리박람회의 열기에 묻혀 곧 사람들의 뇌리에서 잊혀졌다 .
+1	그러나	그러나	CCONJ	_	17	cc	_	_	그러나/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	사건은	사건+은	NOUN	_	17	dislocated	_	_	사건/ncn+은/jxt
+4	개막도	개막+도	ADV	_	5	advcl	_	_	개막/ncpa+도/jxc
+5	되기	되+기	VERB	_	6	nmod	_	_	되/pvg+기/etn
+6	전에	전+에	ADV	_	10	obl	_	_	전/ncn+에/jca
+7	이미	이미	ADV	_	8	advmod	_	_	이미/mag
+8	무르익을	무르익+ㄹ	VERB	_	9	acl	_	_	무르익/pvg+ㄹ/etm
+9	대로	대로	NOUN	_	10	mark	_	_	대로/nbn
+10	무르익은	무르익+ㄴ	VERB	_	12	acl	_	_	무르익/pvg+ㄴ/etm
+11	파리박람회의	파리+박람회+의	PROPN	_	12	nmod	_	_	파리/nq+박람회/ncn+의/jcm
+12	열기에	열기+에	ADV	_	13	obl	_	_	열기/ncn+에/jca
+13	묻혀	묻히+어	SCONJ	_	17	ccomp	_	_	묻히/pvg+어/ecs
+14	곧	곧	ADV	_	17	advmod	_	_	곧/mag
+15	사람들의	사람+들+의	NOUN	_	16	nmod	_	_	사람/ncn+들/xsn+의/jcm
+16	뇌리에서	뇌리+에서	ADV	_	17	advcl	_	_	뇌리/ncn+에서/jca
+17	잊혀졌다	잊히+어+지+었+다	AUX	_	0	root	_	_	잊히/pvg+어/ecx+지/px+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그런데 사람들은 곧 에펠탑 안의 식당에서 식사하는 모파상을 볼 수 있게 되었다 .
+1	그런데	그런데	CCONJ	_	9	cc	_	_	그런데/maj
+2	사람들은	사람+들+은	NOUN	_	9	dislocated	_	_	사람/ncn+들/xsn+은/jxt
+3	곧	곧	ADV	_	9	advmod	_	_	곧/mag
+4	에펠탑	에펠탑	PROPN	_	5	compound	_	_	에펠탑/nq
+5	안의	안+의	NOUN	_	6	nmod	_	_	안/ncn+의/jcm
+6	식당에서	식당+에서	ADV	_	7	advcl	_	_	식당/ncn+에서/jca
+7	식사하는	식사+하+는	VERB	_	8	acl	_	_	식사/ncpa+하/xsv+는/etm
+8	모파상을	모파상+을	PROPN	_	9	obj	_	_	모파상/nq+을/jco
+9	볼	보+ㄹ	VERB	_	0	root	_	_	보/pvg+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있게	있+게	ADJ	_	9	aux	_	_	있/paa+게/ecx
+12	되었다	되+었+다	AUX	_	9	aux	_	_	되/px+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 사람들이 놀라 " 선생님 , 에펠탑을 싫어서 파리를 떠나셨던 분이 여기엔 웬일이세요 ? " 하고 물으면 노예술가는 퉁명스럽게 맞받아쳤다고 한다 .
+1	사람들이	사람+들+이	NOUN	_	2	nsubj	_	_	사람/ncn+들/xsn+이/jcs
+2	놀라	놀라+아	SCONJ	_	16	ccomp	_	_	놀라/pvg+아/ecs
+3	"	"	PUNCT	_	4	punct	_	_	"/sl
+4	선생님	선생+님	NOUN	_	12	vocative	_	_	선생/ncn+님/xsn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	에펠탑을	에펠탑+이	PROPN	_	7	nsubj	_	_	에펠탑/nq+이/jcs
+7	싫어서	싫+어서	SCONJ	_	9	xcomp	_	_	싫/paa+어서/ecs
+8	파리를	파리+를	PROPN	_	9	obj	_	_	파리/nq+를/jco
+9	떠나셨던	떠나+셨+던	VERB	_	10	acl	_	_	떠나/pvg+셨/ep+던/etm
+10	분이	분+이	NOUN	_	12	nsubj	_	_	분/nbn+이/jcs
+11	여기엔	여기+에+는	PRON	_	12	dislocated	_	_	여기/npd+에/jca+는/jxt
+12	웬일이세요	웬일+이+세요	VERB	_	16	conj	_	_	웬일/ncn+이/jp+세요/ef
+13	?	?	PUNCT	_	12	punct	_	_	?/sf
+14	"	"	PUNCT	_	12	punct	_	_	"/sr
+15	하고	하고	ADP	_	12	case	_	_	하고/jcr
+16	물으면	묻+으면	SCONJ	_	19	conj	_	_	묻/pvg+으면/ecs
+17	노예술가는	노예술가+는	NOUN	_	19	dislocated	_	_	노예술가/ncn+는/jxt
+18	퉁명스럽게	퉁명스럽+게	SCONJ	_	19	xcomp	_	_	퉁명스럽/paa+게/ecs
+19	맞받아쳤다고	맞받아치+었+다+고	VERB	_	20	conj	_	_	맞받아치/pvg+었/ep+다/ef+고/jcr
+20	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 박람회가 끝나면 바로 철거한다는 조건이 붙기도 했던 에펠탑인지라 그의 말에는 상당한 설득력이 실려 있었을 것 같다 .
+1	박람회가	박람회+가	NOUN	_	2	nsubj	_	_	박람회/ncn+가/jcs
+2	끝나면	끝나+면	SCONJ	_	4	ccomp	_	_	끝나/pvg+면/ecs
+3	바로	바로	ADV	_	4	advmod	_	_	바로/mag
+4	철거한다는	철거+하+ㄴ다는	VERB	_	5	acl	_	_	철거/ncpa+하/xsv+ㄴ다는/etm
+5	조건이	조건+이	NOUN	_	6	nsubj	_	_	조건/ncn+이/jcs
+6	붙기도	붙+기+도	ADV	_	7	advcl	_	_	붙/pvg+기/etn+도/jxc
+7	했던	하+었+던	VERB	_	8	ccomp	_	_	하/pvg+었/ep+던/etm
+8	에펠탑인지라	에펠탑+이+ㄴ지라	SCONJ	_	13	ccomp	_	_	에펠탑/nq+이/jp+ㄴ지라/ecs
+9	그의	그+의	PRON	_	10	nmod	_	_	그/npp+의/jcm
+10	말에는	말+에+는	NOUN	_	13	dislocated	_	_	말/ncpa+에/jca+는/jxt
+11	상당한	상당+하+ㄴ	VERB	_	12	amod	_	_	상당/ncps+하/xsm+ㄴ/etm
+12	설득력이	설득력+이	NOUN	_	13	nsubj	_	_	설득력/ncn+이/jcs
+13	실려	실리+어	VERB	_	0	root	_	_	실리/pvg+어/ecx
+14	있었을	있+었+ㄹ	AUX	_	13	aux	_	_	있/px+었/ep+ㄹ/etm
+15	것	것	NOUN	_	16	fixed	_	_	것/nbn
+16	같다	같+다	ADJ	_	13	aux	_	_	같/paa+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 결국 자수성가한 자산가 봐쏭에게 낙찰되었으며 , 봐쏭은 그날부터 에펠탑을 자기 것이라고 주장하며 철거할 때까지 에펠탑의 입장료를 당연히 자기 주머니로 들어와야 한다고 세도를 피우다가 망신을 당했다 .
+1	결국	결국	ADV	_	5	advmod	_	_	결국/mag
+2	자수성가한	자수+성가+하+ㄴ	VERB	_	3	acl	_	_	자수/ncn+성가/ncpa+하/xsv+ㄴ/etm
+3	자산가	자산가	NOUN	_	4	compound	_	_	자산가/ncn
+4	봐쏭에게	봐쏭+에게	ADV	_	5	iobj	_	_	봐쏭/nq+에게/jca
+5	낙찰되었으며	낙찰+되+었+으며	SCONJ	_	25	ccomp	_	_	낙찰/ncpa+되/xsv+었/ep+으며/ecs
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	봐쏭은	봐쏭+은	PROPN	_	23	dislocated	_	_	봐쏭/nq+은/jxt
+8	그날부터	그날+부터	ADV	_	23	advcl	_	_	그날/ncn+부터/jxc
+9	에펠탑을	에펠탑+을	PROPN	_	12	obj	_	_	에펠탑/nq+을/jco
+10	자기	자기	PRON	_	11	compound	_	_	자기/npp
+11	것이라고	것+이+라고	SCONJ	_	12	ccomp	_	_	것/nbn+이/jp+라고/ecs
+12	주장하며	주장+하+며	CCONJ	_	23	conj	_	_	주장/ncpa+하/xsv+며/ecc
+13	철거할	철거+하+ㄹ	VERB	_	14	acl	_	_	철거/ncpa+하/xsv+ㄹ/etm
+14	때까지	때+까지	ADV	_	20	advcl	_	_	때/ncn+까지/jxc
+15	에펠탑의	에펠탑+의	PROPN	_	16	nmod	_	_	에펠탑/nq+의/jcm
+16	입장료를	입장료+는	NOUN	_	20	dislocated	_	_	입장료/ncn+는/jxt
+17	당연히	당연+히	ADV	_	20	advmod	_	_	당연/ncps+히/xsa
+18	자기	자기	PRON	_	19	compound	_	_	자기/npp
+19	주머니로	주머니+로	ADV	_	20	advcl	_	_	주머니/ncn+로/jca
+20	들어와야	들어오+아야	VERB	_	23	ccomp	_	_	들어오/pvg+아야/ecx
+21	한다고	하+ㄴ다고	SCONJ	_	20	aux	_	_	하/px+ㄴ다고/ecs
+22	세도를	세도+를	NOUN	_	23	obj	_	_	세도/ncn+를/jco
+23	피우다가	피우+다가	SCONJ	_	25	ccomp	_	_	피우/pvg+다가/ecs
+24	망신을	망신+을	NOUN	_	25	obj	_	_	망신/ncpa+을/jco
+25	당했다	당하+었+다	VERB	_	0	root	_	_	당하/pvg+었/ep+다/ef
+26	.	.	PUNCT	_	25	punct	_	_	./sf
+
+# 화가 난 봐쏭이 파리시청으로 전화를 해보니 루스티히 백작은 며칠 전 사표를 내고 가족모두가 미국으로 이민을 떠났다고 하지 않는가 .
+1	화가	화+가	NOUN	_	2	nsubj	_	_	화/ncn+가/jcs
+2	난	나+ㄴ	VERB	_	3	acl	_	_	나/pvg+ㄴ/etm
+3	봐쏭이	봐쏭+이	PROPN	_	6	nsubj	_	_	봐쏭/nq+이/jcs
+4	파리시청으로	파리+시청+으로	ADV	_	6	advcl	_	_	파리/nq+시청/ncn+으로/jca
+5	전화를	전화+를	NOUN	_	6	obj	_	_	전화/ncpa+를/jco
+6	해보니	하+어+보+니	SCONJ	_	17	ccomp	_	_	하/pvg+어/ecx+보/px+니/ecs
+7	루스티히	루스티히	PROPN	_	8	compound	_	_	루스티히/nq
+8	백작은	백작+은	NOUN	_	12	dislocated	_	_	백작/ncn+은/jxt
+9	며칠	며칠	NOUN	_	10	compound	_	_	며칠/ncn
+10	전	전	NOUN	_	12	advmod	_	_	전/ncn
+11	사표를	사표+를	NOUN	_	12	obj	_	_	사표/ncn+를/jco
+12	내고	내+고	CCONJ	_	16	conj	_	_	내/pvg+고/ecc
+13	가족모두가	가족+모두+가	NOUN	_	16	nsubj	_	_	가족/ncn+모두/ncn+가/jcs
+14	미국으로	미국+으로	ADV	_	16	advcl	_	_	미국/nq+으로/jca
+15	이민을	이민+을	NOUN	_	16	obj	_	_	이민/ncpa+을/jco
+16	떠났다고	떠나+ㅆ+다+고	VERB	_	17	conj	_	_	떠나/pvg+ㅆ/ep+다/ef+고/jcr
+17	하지	하+지	VERB	_	0	root	_	_	하/pvg+지/ecx
+18	않는가	않+는가	AUX	_	17	aux	_	_	않/px+는가/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 분노하기에 앞서 너무나 창피를 느낀 봐쏭은 벙어리 냉가슴마냥 아무말도 못하고 끝내 사기당한 금액을 숨겼다고 한다 .
+1	분노하기에	분노+하+기+에	ADV	_	2	obl	_	_	분노/ncpa+하/xsv+기/etn+에/jca
+2	앞서	앞서+어	SCONJ	_	5	ccomp	_	_	앞서/pvg+어/ecs
+3	너무나	너무나	ADV	_	5	advmod	_	_	너무나/mag
+4	창피를	창피+를	NOUN	_	5	obj	_	_	창피/ncpa+를/jco
+5	느낀	느끼+ㄴ	VERB	_	6	acl	_	_	느끼/pvg+ㄴ/etm
+6	봐쏭은	봐쏭+은	PROPN	_	14	dislocated	_	_	봐쏭/nq+은/jxt
+7	벙어리	벙어리	NOUN	_	8	compound	_	_	벙어리/ncn
+8	냉가슴마냥	냉가슴+마냥	ADV	_	10	advcl	_	_	냉가슴/ncn+마냥/jxc
+9	아무말도	아무말+도	ADV	_	10	advcl	_	_	아무말/ncn+도/jxc
+10	못하고	못하+고	CCONJ	_	14	conj	_	_	못하/pvg+고/ecc
+11	끝내	끝내	ADV	_	14	advmod	_	_	끝내/mag
+12	사기당한	사기당하+ㄴ	VERB	_	13	acl	_	_	사기당하/pvg+ㄴ/etm
+13	금액을	금액+을	NOUN	_	14	obj	_	_	금액/ncn+을/jco
+14	숨겼다고	숨기+었+다+고	VERB	_	15	conj	_	_	숨기/pvg+었/ep+다/ef+고/jcr
+15	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그런데 더욱 기가 막힌 것은 그가 미국에서 팔아먹은 것들의 리스트 속에 에펠탑도 한 자리를 차지하고 있는 것이었다 .
+1	그런데	그런데	CCONJ	_	17	cc	_	_	그런데/maj
+2	더욱	더욱	ADV	_	4	advmod	_	_	더욱/mag
+3	기가	기+가	NOUN	_	4	nsubj	_	_	기/ncn+가/jcs
+4	막힌	막히+ㄴ	VERB	_	5	acl	_	_	막히/pvg+ㄴ/etm
+5	것은	것+은	NOUN	_	17	dislocated	_	_	것/nbn+은/jxt
+6	그가	그+가	PRON	_	8	nsubj	_	_	그/npp+가/jcs
+7	미국에서	미국+에서	ADV	_	8	advcl	_	_	미국/nq+에서/jca
+8	팔아먹은	팔+아+먹+ㄴ	AUX	_	9	acl	_	_	팔/pvg+아/ecx+먹/px+ㄴ/etm
+9	것들의	것+들+의	NOUN	_	10	nmod	_	_	것/nbn+들/xsn+의/jcm
+10	리스트	리스트	NOUN	_	11	compound	_	_	리스트/ncn
+11	속에	속+에	ADV	_	15	obl	_	_	속/ncn+에/jca
+12	에펠탑도	에펠탑+도	ADV	_	15	advcl	_	_	에펠탑/nq+도/jxc
+13	한	한	ADJ	_	14	amod	_	_	한/mma
+14	자리를	자리+를	NOUN	_	15	obj	_	_	자리/ncn+를/jco
+15	차지하고	차지+하+고	VERB	_	17	ccomp	_	_	차지/ncpa+하/xsv+고/ecx
+16	있는	있+는	AUX	_	15	aux	_	_	있/px+는/etm
+17	것이었다	것+이+었+다	VERB	_	0	root	_	_	것/nbn+이/jp+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 셰계적인 명화와 명품들을 모와놓고 유럽의 문화적 유산을 과시하는 행사로 기획되었으나 그 모든 유럽의 소중하고 영광스런 유산들이 불길에 휩싸였던 것이다 .
+1	셰계적인	셰계+적+이+ㄴ	VERB	_	3	acl	_	_	셰계/ncn+적/xsn+이/jp+ㄴ/etm
+2	명화와	명화+와	CCONJ	_	3	conj	_	_	명화/ncn+와/jcj
+3	명품들을	명품+들+을	NOUN	_	4	obj	_	_	명품/ncn+들/xsn+을/jco
+4	모와놓고	모으+아+놓+고	CCONJ	_	8	conj	_	_	모으/pvg+아/ecx+놓/px+고/ecc
+5	유럽의	유럽+의	PROPN	_	7	nmod	_	_	유럽/nq+의/jcm
+6	문화적	문화+적	NOUN	_	7	amod	_	_	문화/ncn+적/xsn
+7	유산을	유산+을	NOUN	_	8	obj	_	_	유산/ncn+을/jco
+8	과시하는	과시+하+는	VERB	_	9	acl	_	_	과시/ncpa+하/xsv+는/etm
+9	행사로	행사+로	ADV	_	10	advcl	_	_	행사/ncpa+로/jca
+10	기획되었으나	기획+되+었+으나	SCONJ	_	18	ccomp	_	_	기획/ncpa+되/xsv+었/ep+으나/ecs
+11	그	그	DET	_	16	det	_	_	그/mmd
+12	모든	모든	DET	_	16	det	_	_	모든/mmd
+13	유럽의	유럽+의	PROPN	_	16	nmod	_	_	유럽/nq+의/jcm
+14	소중하고	소중+하+고	CCONJ	_	15	conj	_	_	소중/ncps+하/xsm+고/ecc
+15	영광스런	영광스럽+ㄴ	ADJ	_	16	amod	_	_	영광스럽/paa+ㄴ/etm
+16	유산들이	유산+들+이	NOUN	_	18	nsubj	_	_	유산/ncn+들/xsn+이/jcs
+17	불길에	불길+에	ADV	_	18	obl	_	_	불길/ncn+에/jca
+18	휩싸였던	휩싸이+었+던	VERB	_	0	root	_	_	휩싸이/pvg+었/ep+던/etm
+19	것이다	것+이+다	VERB	_	18	aux	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 공포에 질려 탈출구를 찼는 관람객들이 얽히고 밟혔으며 그 사이로 이동동물원을 탈출한 맹수들이 뛰어 다녔다 .
+1	공포에	공포+에	ADV	_	2	obl	_	_	공포/ncn+에/jca
+2	질려	질리+어	SCONJ	_	4	ccomp	_	_	질리/pvg+어/ecs
+3	탈출구를	탈출구+를	NOUN	_	4	obj	_	_	탈출구/ncn+를/jco
+4	찼는	찾+는	VERB	_	5	acl	_	_	찾/pvg+는/etm
+5	관람객들이	관람객+들+이	NOUN	_	7	nsubj	_	_	관람객/ncn+들/xsn+이/jcs
+6	얽히고	얽히+고	CCONJ	_	7	conj	_	_	얽히/pvg+고/ecc
+7	밟혔으며	밟히+었+으며	SCONJ	_	14	ccomp	_	_	밟히/pvg+었/ep+으며/ecs
+8	그	그	DET	_	9	det	_	_	그/mmd
+9	사이로	사이+로	ADV	_	14	advcl	_	_	사이/ncn+로/jca
+10	이동동물원을	이동+동물원+을	NOUN	_	11	obj	_	_	이동/ncpa+동물원/ncn+을/jco
+11	탈출한	탈출+하+ㄴ	VERB	_	12	acl	_	_	탈출/ncpa+하/xsv+ㄴ/etm
+12	맹수들이	맹수+들+이	NOUN	_	14	nsubj	_	_	맹수/ncn+들/xsn+이/jcs
+13	뛰어	뛰+어	SCONJ	_	14	ccomp	_	_	뛰/pvg+어/ecs
+14	다녔다	다니+었+다	VERB	_	0	root	_	_	다니/pvg+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 아수라장의 소동 끝에 마침내 불이 꺼지고 확인해보니 의외로 사망자는 2 명밖에 되지 않았는데 재산 손실액은 자그만치 1 천만달러 정도로 추산되었다고 한다 .
+1	아수라장의	아수라장+의	NOUN	_	2	nmod	_	_	아수라장/ncn+의/jcm
+2	소동	소동	NOUN	_	3	compound	_	_	소동/ncn
+3	끝에	끝+에	ADV	_	6	obl	_	_	끝/ncn+에/jca
+4	마침내	마침내	ADV	_	6	advmod	_	_	마침내/mag
+5	불이	불+이	NOUN	_	6	nsubj	_	_	불/ncn+이/jcs
+6	꺼지고	꺼지+고	CCONJ	_	7	conj	_	_	꺼지/pvg+고/ecc
+7	확인해보니	확인+하+어+보+니	SCONJ	_	20	conj	_	_	확인/ncpa+하/xsv+어/ecx+보/px+니/ecs
+8	의외로	의외+로	ADV	_	12	advcl	_	_	의외/ncps+로/jca
+9	사망자는	사망자+는	NOUN	_	12	dislocated	_	_	사망자/ncn+는/jxt
+10	2	2	NUM	_	11	nummod	_	_	2/nnc
+11	명밖에	명+밖에	ADV	_	12	advcl	_	_	명/nbu+밖에/jxc
+12	되지	되+지	VERB	_	20	ccomp	_	_	되/pvg+지/ecx
+13	않았는데	않+았+는데	SCONJ	_	12	aux	_	_	않/px+았/ep+는데/ecs
+14	재산	재산	NOUN	_	15	compound	_	_	재산/ncn
+15	손실액은	손실액+은	NOUN	_	20	dislocated	_	_	손실액/ncn+은/jxt
+16	자그만치	자그만치	ADV	_	20	advmod	_	_	자그만치/mag
+17	1	1	NUM	_	18	nummod	_	_	1/nnc
+18	천만달러	천만+달러	NOUN	_	19	compound	_	_	천만/ncn+달러/nbu
+19	정도로	정도+로	ADV	_	20	advcl	_	_	정도/ncn+로/jca
+20	추산되었다고	추산+되+었+다+고	VERB	_	21	conj	_	_	추산/ncpa+되/xsv+었/ep+다/ef+고/jcr
+21	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 예를 들어 1970 년 일본 오사카박람회에 모인 전 세계의 명작미술품 336 점 , 시가 2000억 엔에 대한 보험료는 450억 엔에 달했다고 한다 .
+1	예를	예+를	NOUN	_	2	obj	_	_	예/ncn+를/jco
+2	들어	들+어	SCONJ	_	22	ccomp	_	_	들/pvg+어/ecs
+3	1970	1970	NUM	_	4	nummod	_	_	1970/nnc
+4	년	년	NOUN	_	6	compound	_	_	년/nbu
+5	일본	일본	PROPN	_	6	flat	_	_	일본/nq
+6	오사카박람회에	오사카+박람회+에	ADV	_	7	obl	_	_	오사카/nq+박람회/ncn+에/jca
+7	모인	모이+ㄴ	VERB	_	12	acl	_	_	모이/pvg+ㄴ/etm
+8	전	전	ADJ	_	9	amod	_	_	전/mma
+9	세계의	세계+의	NOUN	_	10	nmod	_	_	세계/ncn+의/jcm
+10	명작미술품	명작+미술품	NOUN	_	12	compound	_	_	명작/ncn+미술품/ncn
+11	336	336	NUM	_	12	nummod	_	_	336/nnc
+12	점	점	NOUN	_	16	compound	_	_	점/nbu
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	시가	시가	NOUN	_	16	compound	_	_	시가/ncn
+15	2000억	2000+억	NUM	_	16	compound	_	_	2000/nnc+억/nnc
+16	엔에	엔+에	ADV	_	17	obl	_	_	엔/nbu+에/jca
+17	대한	대하+ㄴ	VERB	_	18	acl	_	_	대하/pvg+ㄴ/etm
+18	보험료는	보험료+는	NOUN	_	21	dislocated	_	_	보험료/ncn+는/jxt
+19	450억	450+억	NUM	_	20	compound	_	_	450/nnc+억/nnc
+20	엔에	엔+에	ADV	_	21	obl	_	_	엔/nbu+에/jca
+21	달했다고	달하+었+다+고	VERB	_	22	conj	_	_	달하/pvg+었/ep+다/ef+고/jcr
+22	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+23	.	.	PUNCT	_	22	punct	_	_	./sf
+
+# 1904 년 세인트루이스 역사상 너무 커서 적자를 본 박람회로는 1904 년의 세인트루이스박람회가 유명하다 .
+1	1904	1904	NUM	_	2	nummod	_	_	1904/nnc
+2	년	년	NOUN	_	8	advmod	_	_	년/nbu
+3	세인트루이스	세인트루이스	PROPN	_	4	compound	_	_	세인트루이스/nq
+4	역사상	역사상	NOUN	_	8	advmod	_	_	역사상/ncn
+5	너무	너무	ADV	_	6	advmod	_	_	너무/mag
+6	커서	크+어서	SCONJ	_	8	xcomp	_	_	크/paa+어서/ecs
+7	적자를	적자+를	NOUN	_	8	obj	_	_	적자/ncn+를/jco
+8	본	보+ㄴ	VERB	_	9	acl	_	_	보/pvg+ㄴ/etm
+9	박람회로는	박람회+로+는	NOUN	_	13	dislocated	_	_	박람회/ncn+로/jca+는/jxt
+10	1904	1904	NUM	_	11	nummod	_	_	1904/nnc
+11	년의	년+의	NOUN	_	12	nmod	_	_	년/nbu+의/jcm
+12	세인트루이스박람회가	세인트루이스+박람회+가	PROPN	_	13	nsubj	_	_	세인트루이스/nq+박람회/ncn+가/jcs
+13	유명하다	유명+하+다	VERB	_	0	root	_	_	유명/ncps+하/xsm+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 또 회장 내에는 21의 철도선로 위로 17 개의 역이 운영되었다 .
+1	또	또	CCONJ	_	10	cc	_	_	또/maj
+2	회장	회장	NOUN	_	3	compound	_	_	회장/ncn
+3	내에는	내+에+는	PRON	_	10	dislocated	_	_	내/npp+에/jca+는/jxt
+4	21의	21+의	NUM	_	5	nmod	_	_	21/nnc+의/jcm
+5	철도선로	철도+선로	NOUN	_	6	compound	_	_	철도/ncn+선로/ncn
+6	위로	위+로	ADV	_	10	advcl	_	_	위/ncn+로/jca
+7	17	17	NUM	_	8	nummod	_	_	17/nnc
+8	개의	개+의	NOUN	_	9	nmod	_	_	개/nbu+의/jcm
+9	역이	역+이	NOUN	_	10	nsubj	_	_	역/ncn+이/jcs
+10	운영되었다	운영+되+었+다	VERB	_	0	root	_	_	운영/ncpa+되/xsv+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 미주리의 찌는 듯한 더위를 이기지 못하고 졸도자들이 속출했는데 , 전시물로 출품되었던 구급차가 동원되어 이 환자들을 실어날랐고 이 일이 구급차의 보급에 큰 몫을 했다는 얘기가 전해지고 있다 .
+1	미주리의	미주리+의	PROPN	_	4	nmod	_	_	미주리/nq+의/jcm
+2	찌는	찌+는	VERB	_	4	acl	_	_	찌/pvg+는/etm
+3	듯한	듯하+ㄴ	AUX	_	2	aux	_	_	듯하/px+ㄴ/etm
+4	더위를	더위+를	NOUN	_	5	obj	_	_	더위/ncn+를/jco
+5	이기지	이기+지	VERB	_	8	ccomp	_	_	이기/pvg+지/ecx
+6	못하고	못하+고	SCONJ	_	5	aux	_	_	못하/px+고/ecs
+7	졸도자들이	졸도자+들+이	NOUN	_	8	nsubj	_	_	졸도자/ncn+들/xsn+이/jcs
+8	속출했는데	속출+하+었+는데	SCONJ	_	23	ccomp	_	_	속출/ncpa+하/xsv+었/ep+는데/ecs
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	전시물로	전시물+로	ADV	_	11	advcl	_	_	전시물/ncn+로/jca
+11	출품되었던	출품+되+었+던	VERB	_	12	acl	_	_	출품/ncpa+되/xsv+었/ep+던/etm
+12	구급차가	구급차+가	NOUN	_	13	nsubj	_	_	구급차/ncn+가/jcs
+13	동원되어	동원+되+어	SCONJ	_	16	ccomp	_	_	동원/ncpa+되/xsv+어/ecs
+14	이	이	DET	_	15	det	_	_	이/mmd
+15	환자들을	환자+들+을	NOUN	_	16	obj	_	_	환자/ncn+들/xsn+을/jco
+16	실어날랐고	실어나르+았+고	CCONJ	_	23	conj	_	_	실어나르/pvg+았/ep+고/ecc
+17	이	이	DET	_	18	det	_	_	이/mmd
+18	일이	일+이	NOUN	_	23	nsubj	_	_	일/ncpa+이/jcs
+19	구급차의	구급차+의	NOUN	_	20	nmod	_	_	구급차/ncn+의/jcm
+20	보급에	보급+에	ADV	_	23	obl	_	_	보급/ncpa+에/jca
+21	큰	크+ㄴ	ADJ	_	22	amod	_	_	크/paa+ㄴ/etm
+22	몫을	몫+을	NOUN	_	23	obj	_	_	몫/ncn+을/jco
+23	했다는	하+었+다는	VERB	_	24	acl	_	_	하/pvg+었/ep+다는/etm
+24	얘기가	얘기+가	NOUN	_	25	nsubj	_	_	얘기/ncpa+가/jcs
+25	전해지고	전하+어+지+고	AUX	_	0	root	_	_	전하/pvg+어/ecx+지/px+고/ecx
+26	있다	있+다	AUX	_	25	aux	_	_	있/px+다/ef
+27	.	.	PUNCT	_	26	punct	_	_	./sf
+
+# 이런 과욕과 악조건에도 불구하고 세인트루이스박람회를 빛낸 것이 있었으니 이는 바로 ` 매혹적인 조명 ' 이었다 .
+1	이런	이렇+ㄴ	VERB	_	3	amod	_	_	이렇/pad+ㄴ/etm
+2	과욕과	과욕+과	CCONJ	_	3	conj	_	_	과욕/ncn+과/jcj
+3	악조건에도	악조건+에+도	ADV	_	4	advcl	_	_	악조건/ncn+에/jca+도/jxc
+4	불구하고	불구+하+고	CCONJ	_	6	conj	_	_	불구/ncpa+하/xsv+고/ecc
+5	세인트루이스박람회를	세인트루이스+박람회+를	PROPN	_	6	obj	_	_	세인트루이스/nq+박람회/ncn+를/jco
+6	빛낸	빛내+ㄴ	VERB	_	7	acl	_	_	빛내/pvg+ㄴ/etm
+7	것이	것+이	NOUN	_	8	nsubj	_	_	것/nbn+이/jcs
+8	있었으니	있+었+으니	SCONJ	_	13	xcomp	_	_	있/paa+었/ep+으니/ecs
+9	이는	이+는	PRON	_	13	dislocated	_	_	이/npd+는/jxt
+10	바로	바로	ADV	_	13	advmod	_	_	바로/mag
+11	`	`	PUNCT	_	12	punct	_	_	`/sl
+12	매혹적인	매혹+적+이+ㄴ	VERB	_	13	ccomp	_	_	매혹/ncpa+적/xsn+이/jp+ㄴ/etm
+13	조명	조명	NOUN	_	0	root	_	_	조명/ncn
+14	'	'	PUNCT	_	13	punct	_	_	'/sr
+15	이었다	이+었+다	ADP	_	13	cop	_	_	이/jp+었/ep+다/ef
+16	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 개막식 풍경도 꽤나 이채로웠다 .
+1	개막식	개막식	NOUN	_	2	compound	_	_	개막식/ncn
+2	풍경도	풍경+도	ADV	_	4	advcl	_	_	풍경/ncn+도/jxc
+3	꽤나	꽤나	ADV	_	4	advmod	_	_	꽤나/mag
+4	이채로웠다	이채롭+었+다	ADJ	_	0	root	_	_	이채롭/paa+었/ep+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 1904년 4월 30일 미대통령은 세인트루이스가 아닌 워싱턴에서 개막을 지휘했다 .
+1	1904년	1904+년	NOUN	_	3	compound	_	_	1904/nno+년/nbu
+2	4월	4+월	NOUN	_	3	compound	_	_	4/nno+월/nbu
+3	30일	30+일	NOUN	_	9	advmod	_	_	30/nno+일/nbu
+4	미대통령은	미대통령+은	NOUN	_	9	dislocated	_	_	미대통령/ncn+은/jxt
+5	세인트루이스가	세인트루이스+가	PROPN	_	6	csubj	_	_	세인트루이스/nq+가/jcc
+6	아닌	아니+ㄴ	ADJ	_	7	amod	_	_	아니/paa+ㄴ/etm
+7	워싱턴에서	워싱턴+에서	ADV	_	9	advcl	_	_	워싱턴/nq+에서/jca
+8	개막을	개막+을	NOUN	_	9	obj	_	_	개막/ncpa+을/jco
+9	지휘했다	지휘+하+었+다	VERB	_	0	root	_	_	지휘/ncpa+하/xsv+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 엑스포가 현대과학기술의 산실이자 요람으로 수행해온 그 막중한 역할은 아무리 강조해도 지나치지않으리라 .
+1	엑스포가	엑스포+가	NOUN	_	5	nsubj	_	_	엑스포/ncn+가/jcs
+2	현대과학기술의	현대+과학+기술+의	NOUN	_	3	nmod	_	_	현대/ncn+과학/ncn+기술/ncpa+의/jcm
+3	산실이자	산실+이자	CCONJ	_	4	conj	_	_	산실/ncn+이자/jcj
+4	요람으로	요람+으로	ADV	_	5	advcl	_	_	요람/ncn+으로/jca
+5	수행해온	수행+하+어+오+ㄴ	AUX	_	8	acl	_	_	수행/ncpa+하/xsv+어/ecx+오/px+ㄴ/etm
+6	그	그	DET	_	8	det	_	_	그/mmd
+7	막중한	막중+하+ㄴ	VERB	_	8	amod	_	_	막중/ncps+하/xsm+ㄴ/etm
+8	역할은	역할+은	NOUN	_	11	dislocated	_	_	역할/ncn+은/jxt
+9	아무리	아무리	ADV	_	10	advmod	_	_	아무리/mag
+10	강조해도	강조+하+어도	SCONJ	_	11	ccomp	_	_	강조/ncpa+하/xsv+어도/ecs
+11	지나치지않으리라	지나치+지+않+으리라	AUX	_	0	root	_	_	지나치/pvg+지/ecx+않/px+으리라/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이와 같은 관계로 지속해 온 엑스포와 과학기술이기에 이 책의 내용 모두가 역대 엑스포를 통해 소개되었고 또 앞으로 소개될 새로운 과학기술이기에 다름 아닌 격이다 .
+1	이와	이+와	CCONJ	_	2	conj	_	_	이/npd+와/jct
+2	같은	같+ㄴ	ADJ	_	3	amod	_	_	같/paa+ㄴ/etm
+3	관계로	관계+로	ADV	_	4	advcl	_	_	관계/ncpa+로/jca
+4	지속해	지속+하+어	VERB	_	7	acl	_	_	지속/ncpa+하/xsv+어/ecx
+5	온	오+ㄴ	AUX	_	4	aux	_	_	오/px+ㄴ/etm
+6	엑스포와	엑스포+와	CCONJ	_	7	conj	_	_	엑스포/ncn+와/jcj
+7	과학기술이기에	과학+기술+이+기+에	ADV	_	15	obl	_	_	과학/ncn+기술/ncn+이/jp+기/etn+에/jca
+8	이	이	DET	_	9	det	_	_	이/mmd
+9	책의	책+의	NOUN	_	10	nmod	_	_	책/ncn+의/jcm
+10	내용	내용	NOUN	_	11	compound	_	_	내용/ncn
+11	모두가	모두+가	NOUN	_	15	nsubj	_	_	모두/ncn+가/jcs
+12	역대	역대	NOUN	_	13	compound	_	_	역대/ncn
+13	엑스포를	엑스포+를	NOUN	_	14	obj	_	_	엑스포/ncn+를/jco
+14	통해	통하+어	SCONJ	_	15	ccomp	_	_	통하/pvg+어/ecs
+15	소개되었고	소개+되+었+고	CCONJ	_	22	conj	_	_	소개/ncpa+되/xsv+었/ep+고/ecc
+16	또	또	ADV	_	20	advmod	_	_	또/mag
+17	앞으로	앞+으로	ADV	_	18	advcl	_	_	앞/ncn+으로/jca
+18	소개될	소개+되+ㄹ	VERB	_	20	ccomp	_	_	소개/ncpa+되/xsv+ㄹ/etm
+19	새로운	새롭+ㄴ	ADJ	_	20	amod	_	_	새롭/paa+ㄴ/etm
+20	과학기술이기에	과학+기술+이+기+에	ADV	_	21	obl	_	_	과학/ncn+기술/ncn+이/jp+기/etn+에/jca
+21	다름	다르+ㅁ	ADJ	_	22	nmod	_	_	다르/paa+ㅁ/etn
+22	아닌	아니+ㄴ	ADJ	_	23	amod	_	_	아니/paa+ㄴ/etm
+23	격이다	격+이+다	VERB	_	0	root	_	_	격/ncn+이/jp+다/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+
+# 따라서 하나의 장을 별도로 마련해 엑스포와 과학기술을 살펴봄이 오히려 새삼스럽다는 느낌이 들기도 한다 .
+1	따라서	따라서	CCONJ	_	13	cc	_	_	따라서/maj
+2	하나의	하나+의	NUM	_	3	nmod	_	_	하나/nnc+의/jcm
+3	장을	장+을	NOUN	_	5	obj	_	_	장/ncn+을/jco
+4	별도로	별도+로	ADV	_	5	advcl	_	_	별도/ncn+로/jca
+5	마련해	마련+하+어	SCONJ	_	8	conj	_	_	마련/ncpa+하/xsv+어/ecs
+6	엑스포와	엑스포+와	CCONJ	_	7	conj	_	_	엑스포/ncn+와/jcj
+7	과학기술을	과학+기술+을	NOUN	_	8	obj	_	_	과학/ncn+기술/ncn+을/jco
+8	살펴봄이	살피+어+보+ㅁ+이	NOUN	_	10	nsubj	_	_	살피/pvg+어/ecx+보/px+ㅁ/etn+이/jcs
+9	오히려	오히려	ADV	_	10	advmod	_	_	오히려/mag
+10	새삼스럽다는	새삼스럽+다는	ADJ	_	11	amod	_	_	새삼스럽/paa+다는/etm
+11	느낌이	느낌+이	NOUN	_	12	nsubj	_	_	느낌/ncn+이/jcs
+12	들기도	들+기+도	ADV	_	13	advcl	_	_	들/pvg+기/etn+도/jxc
+13	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 물론 이 생각이 그 기계들이 느낄 서운한 감정에 대한 배려의 차원에서 나온 것은 아니다 .
+1	물론	물론	ADV	_	14	advmod	_	_	물론/mag
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	생각이	생각+이	NOUN	_	12	nsubj	_	_	생각/ncpa+이/jcs
+4	그	그	DET	_	5	det	_	_	그/mmd
+5	기계들이	기계+들+이	NOUN	_	6	nsubj	_	_	기계/ncn+들/xsn+이/jcs
+6	느낄	느끼+ㄹ	VERB	_	8	acl	_	_	느끼/pvg+ㄹ/etm
+7	서운한	서운하+ㄴ	ADJ	_	8	amod	_	_	서운하/paa+ㄴ/etm
+8	감정에	감정+에	ADV	_	9	obl	_	_	감정/ncn+에/jca
+9	대한	대하+ㄴ	VERB	_	10	acl	_	_	대하/pvg+ㄴ/etm
+10	배려의	배려+의	NOUN	_	11	nmod	_	_	배려/ncpa+의/jcm
+11	차원에서	차원+에서	ADV	_	12	advcl	_	_	차원/ncn+에서/jca
+12	나온	나오+ㄴ	VERB	_	13	acl	_	_	나오/pvg+ㄴ/etm
+13	것은	것+은	NOUN	_	14	dislocated	_	_	것/nbn+은/jxt
+14	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이 기계는 이름하여 입체투시기 Stereo Viewer였다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	기계는	기계+는	NOUN	_	6	dislocated	_	_	기계/ncn+는/jxt
+3	이름하여	이름+하+어	SCONJ	_	6	ccomp	_	_	이름/ncpa+하/xsv+어/ecs
+4	입체투시기	입체+투시기	NOUN	_	6	dep	_	_	입체/ncn+투시기/ncn
+5	Stereo	Stereo	X	_	6	flat	_	_	Stereo/f
+6	Viewer였다	Viewer+이+었+다	VERB	_	0	root	_	_	Viewer/f+이/jp+었/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 개막식이 끝나고 회장을 순회하던 중에 이 기계를 들여다보고는 그만 두 눈이 휘둥그래진 빅토리아 여왕에서 스코틀랜드에서 온 발명가는 멋진 장식이 덧붙은 입체투시기 한대를 선물했다고 한다 .
+1	개막식이	개막식+이	NOUN	_	2	nsubj	_	_	개막식/ncn+이/jcs
+2	끝나고	끝나+고	CCONJ	_	4	conj	_	_	끝나/pvg+고/ecc
+3	회장을	회장+을	NOUN	_	4	obj	_	_	회장/ncn+을/jco
+4	순회하던	순회+하+던	VERB	_	5	acl	_	_	순회/ncpa+하/xsv+던/etm
+5	중에	중+에	ADV	_	8	obl	_	_	중/nbn+에/jca
+6	이	이	DET	_	7	det	_	_	이/mmd
+7	기계를	기계+를	NOUN	_	8	obj	_	_	기계/ncn+를/jco
+8	들여다보고는	들여다보+고+는	NOUN	_	12	dep	_	_	들여다보/pvg+고/ecc+는/jxt
+9	그만	그만	ADV	_	12	advmod	_	_	그만/mag
+10	두	두	NUM	_	11	nummod	_	_	두/nnc
+11	눈이	눈+이	NOUN	_	12	nsubj	_	_	눈/ncn+이/jcs
+12	휘둥그래진	휘둥그렇+어+지+ㄴ	AUX	_	14	amod	_	_	휘둥그렇/paa+어/ecx+지/px+ㄴ/etm
+13	빅토리아	빅토리아	PROPN	_	14	compound	_	_	빅토리아/nq
+14	여왕에서	여왕+에게	ADV	_	23	iobj	_	_	여왕/ncn+에게/jca
+15	스코틀랜드에서	스코틀랜드+에서	ADV	_	16	advcl	_	_	스코틀랜드/nq+에서/jca
+16	온	오+ㄴ	VERB	_	17	acl	_	_	오/pvg+ㄴ/etm
+17	발명가는	발명가+는	NOUN	_	23	dislocated	_	_	발명가/ncn+는/jxt
+18	멋진	멋지+ㄴ	ADJ	_	19	amod	_	_	멋지/paa+ㄴ/etm
+19	장식이	장식+이	NOUN	_	20	nsubj	_	_	장식/ncpa+이/jcs
+20	덧붙은	덧붙+은	VERB	_	21	acl	_	_	덧붙/pvg+은/etm
+21	입체투시기	입체+투시기	NOUN	_	22	compound	_	_	입체/ncn+투시기/ncn
+22	한대를	한+대+를	NUM	_	23	obj	_	_	한/nnc+대/nbu+를/jco
+23	선물했다고	선물+하+었+다+고	VERB	_	24	conj	_	_	선물/ncpa+하/xsv+었/ep+다/ef+고/jcr
+24	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+25	.	.	PUNCT	_	24	punct	_	_	./sf
+
+# 이 장치의 기본 원리는 요즘 어린이들 사이에 ` 매직 아이 ' 로 불리면서 선풍적인 인기를 누리고 있는 요술그림 Stereogram과 똑같다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	장치의	장치+의	NOUN	_	4	nmod	_	_	장치/ncpa+의/jcm
+3	기본	기본	NOUN	_	4	compound	_	_	기본/ncn
+4	원리는	원리+는	NOUN	_	20	dislocated	_	_	원리/ncn+는/jxt
+5	요즘	요즘	ADV	_	16	advmod	_	_	요즘/mag
+6	어린이들	어린이+들	NOUN	_	7	compound	_	_	어린이/ncn+들/xsn
+7	사이에	사이+에	ADV	_	13	obl	_	_	사이/ncn+에/jca
+8	`	`	PUNCT	_	9	punct	_	_	`/sl
+9	매직	매직	X	_	10	flat	_	_	매직/f
+10	아이	아이	X	_	13	advcl	_	_	아이/f
+11	'	'	PUNCT	_	10	punct	_	_	'/sr
+12	로	로	ADP	_	10	case	_	_	로/jca
+13	불리면서	불리+면서	CCONJ	_	16	conj	_	_	불리/pvg+면서/ecc
+14	선풍적인	선풍+적+이+ㄴ	VERB	_	15	acl	_	_	선풍/ncn+적/xsn+이/jp+ㄴ/etm
+15	인기를	인기+를	NOUN	_	16	obj	_	_	인기/ncn+를/jco
+16	누리고	누리+고	VERB	_	19	acl	_	_	누리/pvg+고/ecx
+17	있는	있+는	AUX	_	16	aux	_	_	있/px+는/etm
+18	요술그림	요술+그림	NOUN	_	19	dep	_	_	요술/ncpa+그림/ncn
+19	Stereogram과	Stereogram+과	CCONJ	_	20	conj	_	_	Stereogram/f+과/jct
+20	똑같다	똑같+다	ADJ	_	0	root	_	_	똑같/paa+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 입체 투시기와 매직 아이의 차이라면 입체 투시기는 기계를 사용해 보는 것이고 매직 아이는 보통 한장의 평면그림속에 입체영상을 숨겨두고 맨눈으로 찾아보게 만든 그림이라는 점이다 .
+1	입체	입체	NOUN	_	2	compound	_	_	입체/ncn
+2	투시기와	투시기+와	CCONJ	_	4	conj	_	_	투시기/ncn+와/jcj
+3	매직	매직	X	_	4	flat	_	_	매직/f
+4	아이의	아이+의	NOUN	_	5	nmod	_	_	아이/f+의/jcm
+5	차이라면	차이+라면	ADV	_	23	advcl	_	_	차이/ncn+라면/jxc
+6	입체	입체	NOUN	_	7	compound	_	_	입체/ncn
+7	투시기는	투시기+는	NOUN	_	11	dislocated	_	_	투시기/ncn+는/jxt
+8	기계를	기계+를	NOUN	_	9	obj	_	_	기계/ncn+를/jco
+9	사용해	사용+하+어	SCONJ	_	10	ccomp	_	_	사용/ncpa+하/xsv+어/ecs
+10	보는	보+는	VERB	_	11	ccomp	_	_	보/pvg+는/etm
+11	것이고	것+이+고	CCONJ	_	22	conj	_	_	것/nbn+이/jp+고/ecc
+12	매직	매직	X	_	13	flat	_	_	매직/f
+13	아이는	아이+는	NOUN	_	22	dislocated	_	_	아이/f+는/jxt
+14	보통	보통	NOUN	_	18	advmod	_	_	보통/ncn
+15	한장의	한장+의	NOUN	_	16	nmod	_	_	한장/ncn+의/jcm
+16	평면그림속에	평면+그림+속+에	ADV	_	18	obl	_	_	평면/ncn+그림/ncn+속/ncn+에/jca
+17	입체영상을	입체+영상+을	NOUN	_	18	obj	_	_	입체/ncn+영상/ncn+을/jco
+18	숨겨두고	숨기+어+두+고	CCONJ	_	20	conj	_	_	숨기/pvg+어/ecx+두/px+고/ecc
+19	맨눈으로	맨눈+으로	ADV	_	20	advcl	_	_	맨눈/ncn+으로/jca
+20	찾아보게	찾+아+보+게	AUX	_	22	ccomp	_	_	찾/pvg+아/ecx+보/px+게/ecx
+21	만든	만들+ㄴ	AUX	_	20	aux	_	_	만들/px+ㄴ/etm
+22	그림이라는	그림+이+라는	VERB	_	23	ccomp	_	_	그림/ncn+이/jp+라는/etm
+23	점이다	점+이+다	VERB	_	0	root	_	_	점/nbu+이/jp+다/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+
+# 한 기록에 의하면 1889 년 파리 박람회에서 사진 발명 50 주년을 기념하는 행사가 있었다고 한다 .
+1	한	한	ADJ	_	2	amod	_	_	한/mma
+2	기록에	기록+에	ADV	_	3	obl	_	_	기록/ncpa+에/jca
+3	의하면	의하+면	SCONJ	_	14	conj	_	_	의하/pvg+면/ecs
+4	1889	1889	NUM	_	5	nummod	_	_	1889/nnc
+5	년	년	NOUN	_	7	compound	_	_	년/nbu
+6	파리	파리	PROPN	_	7	compound	_	_	파리/nq
+7	박람회에서	박람회+에서	ADV	_	14	advcl	_	_	박람회/ncn+에서/jca
+8	사진	사진	NOUN	_	9	compound	_	_	사진/ncn
+9	발명	발명	NOUN	_	11	compound	_	_	발명/ncpa
+10	50	50	NUM	_	11	nummod	_	_	50/nnc
+11	주년을	주년+을	NOUN	_	12	obj	_	_	주년/nbu+을/jco
+12	기념하는	기념+하+는	VERB	_	13	acl	_	_	기념/ncpa+하/xsv+는/etm
+13	행사가	행사+가	NOUN	_	14	nsubj	_	_	행사/ncpa+가/jcs
+14	있었다고	있+었+다+고	VERB	_	15	conj	_	_	있/paa+었/ep+다/ef+고/jcr
+15	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그렇다면 런던박람회가 열릴 당시는 사진 역사의 극한 초기에 해당하는 시기인데 이미 입체 투시기와 같은 과학기술의 선보인 것을 보면 사진기술이 얼마나 비약적으로 발전해왔는지를 짐작케 된다 .
+1	그렇다면	그렇다면	CCONJ	_	23	cc	_	_	그렇다면/maj
+2	런던박람회가	런던+박람회+가	PROPN	_	3	nsubj	_	_	런던/nq+박람회/ncn+가/jcs
+3	열릴	열리+ㄹ	VERB	_	4	acl	_	_	열리/pvg+ㄹ/etm
+4	당시는	당시+는	NOUN	_	10	dislocated	_	_	당시/ncn+는/jxt
+5	사진	사진	NOUN	_	6	compound	_	_	사진/ncn
+6	역사의	역사+의	NOUN	_	8	nmod	_	_	역사/ncn+의/jcm
+7	극한	극한	NOUN	_	8	compound	_	_	극한/ncn
+8	초기에	초기+에	ADV	_	9	obl	_	_	초기/ncn+에/jca
+9	해당하는	해당+하+는	VERB	_	10	ccomp	_	_	해당/ncpa+하/xsv+는/etm
+10	시기인데	시기+이+ㄴ데	SCONJ	_	18	ccomp	_	_	시기/ncn+이/jp+ㄴ데/ecs
+11	이미	이미	ADV	_	16	advmod	_	_	이미/mag
+12	입체	입체	NOUN	_	13	compound	_	_	입체/ncn
+13	투시기와	투시기+와	CCONJ	_	14	conj	_	_	투시기/ncn+와/jct
+14	같은	같+ㄴ	ADJ	_	15	amod	_	_	같/paa+ㄴ/etm
+15	과학기술의	과학+기술+이	NOUN	_	16	nsubj	_	_	과학/ncn+기술/ncn+이/jcs
+16	선보인	선보이+ㄴ	VERB	_	17	acl	_	_	선보이/pvg+ㄴ/etm
+17	것을	것+을	NOUN	_	18	obj	_	_	것/nbn+을/jco
+18	보면	보+면	SCONJ	_	23	ccomp	_	_	보/pvg+면/ecs
+19	사진기술이	사진+기술+이	NOUN	_	22	nsubj	_	_	사진/ncn+기술/ncn+이/jcs
+20	얼마나	얼마나	ADV	_	22	advmod	_	_	얼마나/mag
+21	비약적으로	비약+적+으로	ADV	_	22	advcl	_	_	비약/ncpa+적/xsn+으로/jca
+22	발전해왔는지를	발전+하+었+는지+를	NOUN	_	23	obj	_	_	발전/ncpa+하/xsv+었/ep+는지/ecs+를/jco
+23	짐작케	짐작+하+게	VERB	_	0	root	_	_	짐작/ncpa+하/xsv+게/ecx
+24	된다	되+ㄴ다	AUX	_	23	aux	_	_	되/px+ㄴ다/ef
+25	.	.	PUNCT	_	24	punct	_	_	./sf
+
+# 또한 5 월 1 일 개장해 한여름의 불볕 더위를 조롱하는 발명품이 있어 관람객들의 시선을 끌었다 .
+1	또한	또한	CCONJ	_	15	cc	_	_	또한/maj
+2	5	5	NUM	_	3	nummod	_	_	5/nno
+3	월	월	NOUN	_	5	compound	_	_	월/nbu
+4	1	1	NUM	_	5	nummod	_	_	1/nno
+5	일	일	NOUN	_	6	compound	_	_	일/nbu
+6	개장해	개장+하+어	SCONJ	_	10	ccomp	_	_	개장/ncpa+하/xsv+어/ecs
+7	한여름의	한여름+의	NOUN	_	9	nmod	_	_	한여름/ncn+의/jcm
+8	불볕	불볕	NOUN	_	9	compound	_	_	불볕/ncn
+9	더위를	더위+를	NOUN	_	10	obj	_	_	더위/ncn+를/jco
+10	조롱하는	조롱+하+는	VERB	_	11	acl	_	_	조롱/ncpa+하/xsv+는/etm
+11	발명품이	발명품+이	NOUN	_	12	nsubj	_	_	발명품/ncn+이/jcs
+12	있어	있+어	SCONJ	_	15	xcomp	_	_	있/paa+어/ecs
+13	관람객들의	관람객+들+의	NOUN	_	14	nmod	_	_	관람객/ncn+들/xsn+의/jcm
+14	시선을	시선+을	NOUN	_	15	obj	_	_	시선/ncn+을/jco
+15	끌었다	끌+었+다	VERB	_	0	root	_	_	끌/pvg+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 또한 철로와 기차용 바퀴 , 목재가공장비 , 기계식 직조기 , 새로운 타입의 증기기관 등이 전시되었다 .
+1	또한	또한	CCONJ	_	15	cc	_	_	또한/maj
+2	철로와	철로+와	CCONJ	_	4	conj	_	_	철로/ncn+와/jcj
+3	기차용	기차용	NOUN	_	4	compound	_	_	기차용/ncn
+4	바퀴	바퀴	NOUN	_	6	compound	_	_	바퀴/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	목재가공장비	목재+가공+장비	NOUN	_	9	conj	_	_	목재/ncn+가공/ncpa+장비/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	기계식	기계식	NOUN	_	9	compound	_	_	기계식/ncn
+9	직조기	직조기	NOUN	_	13	compound	_	_	직조기/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	새로운	새롭+ㄴ	ADJ	_	12	amod	_	_	새롭/paa+ㄴ/etm
+12	타입의	타입+의	NOUN	_	13	nmod	_	_	타입/ncn+의/jcm
+13	증기기관	증기+기관	NOUN	_	14	compound	_	_	증기/ncn+기관/ncn
+14	등이	등+이	NOUN	_	15	nsubj	_	_	등/nbn+이/jcs
+15	전시되었다	전시+되+었+다	VERB	_	0	root	_	_	전시/ncpa+되/xsv+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 보불전쟁의 차화를 딛고 프랑스가 재기의 의욕을 실어 개최한 1878 년 파리 박람회의 안내문은 상어와 문어가 노니는 1800 평방미터 수족관 모습을 보며 관람객들을 유혹했다 .
+1	보불전쟁의	보불전쟁+의	PROPN	_	2	nmod	_	_	보불전쟁/nq+의/jcm
+2	차화를	참화+를	NOUN	_	3	obj	_	_	참화/ncn+를/jco
+3	딛고	딛+고	CCONJ	_	8	conj	_	_	딛/pvg+고/ecc
+4	프랑스가	프랑스+가	PROPN	_	8	nsubj	_	_	프랑스/nq+가/jcs
+5	재기의	재기+의	NOUN	_	6	nmod	_	_	재기/ncpa+의/jcm
+6	의욕을	의욕+을	NOUN	_	7	obj	_	_	의욕/ncn+을/jco
+7	실어	싣+어	SCONJ	_	8	ccomp	_	_	싣/pvg+어/ecs
+8	개최한	개최+하+ㄴ	VERB	_	12	acl	_	_	개최/ncpa+하/xsv+ㄴ/etm
+9	1878	1878	NUM	_	10	nummod	_	_	1878/nnc
+10	년	년	NOUN	_	12	compound	_	_	년/nbu
+11	파리	파리	PROPN	_	12	compound	_	_	파리/nq
+12	박람회의	박람회+의	NOUN	_	13	nmod	_	_	박람회/ncn+의/jcm
+13	안내문은	안내문+은	NOUN	_	23	dislocated	_	_	안내문/ncn+은/jxt
+14	상어와	상어+와	CCONJ	_	15	conj	_	_	상어/ncn+와/jcj
+15	문어가	문어+가	NOUN	_	16	nsubj	_	_	문어/ncn+가/jcs
+16	노니는	노닐+는	VERB	_	19	acl	_	_	노닐/pvg+는/etm
+17	1800	1800	NUM	_	18	nummod	_	_	1800/nnc
+18	평방미터	평방미터	NOUN	_	19	compound	_	_	평방미터/nbu
+19	수족관	수족관+의	NOUN	_	20	nmod	_	_	수족관/ncn+의/jcm
+20	모습을	모습+을	NOUN	_	21	obj	_	_	모습/ncn+을/jco
+21	보며	보+며	CCONJ	_	23	conj	_	_	보/pvg+며/ecc
+22	관람객들을	관람객+들+을	NOUN	_	23	obj	_	_	관람객/ncn+들/xsn+을/jco
+23	유혹했다	유혹+하+었+다	VERB	_	0	root	_	_	유혹/ncpa+하/xsv+었/ep+다/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+
+# 또한 축음기와 완성된 형태의 전화가 전시되어 1600 만 관람객의 이목을 집중시켰다 .
+1	또한	또한	CCONJ	_	11	cc	_	_	또한/maj
+2	축음기와	축음기+와	CCONJ	_	5	conj	_	_	축음기/ncn+와/jcj
+3	완성된	완성+되+ㄴ	VERB	_	4	acl	_	_	완성/ncpa+되/xsv+ㄴ/etm
+4	형태의	형태+의	NOUN	_	5	nmod	_	_	형태/ncn+의/jcm
+5	전화가	전화+가	NOUN	_	6	nsubj	_	_	전화/ncpa+가/jcs
+6	전시되어	전시+되+어	SCONJ	_	11	ccomp	_	_	전시/ncpa+되/xsv+어/ecs
+7	1600	1600	NUM	_	8	nummod	_	_	1600/nnc
+8	만	만	NUM	_	9	nummod	_	_	만/nnc
+9	관람객의	관람객+의	NOUN	_	10	nmod	_	_	관람객/ncn+의/jcm
+10	이목을	이목+을	NOUN	_	11	obj	_	_	이목/ncn+을/jco
+11	집중시켰다	집중+시키+었+다	VERB	_	0	root	_	_	집중/ncpa+시키/xsv+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이 꿈의 발명품과 함께 이를 발명한 에디슨도 벨도 뉴욕박람회를 이야기하면서 빼놓을 수 없는 것은 ` 미래에 보내는 메세지 ' 를 땅속에 묻은 행사다 .
+1	이	이	DET	_	3	det	_	_	이/mmd
+2	꿈의	꿈+의	NOUN	_	3	nmod	_	_	꿈/ncn+의/jcm
+3	발명품과	발명품+과	CCONJ	_	4	conj	_	_	발명품/ncn+과/jct
+4	함께	함께	ADV	_	11	advmod	_	_	함께/mag
+5	이를	이+를	PRON	_	6	obj	_	_	이/npd+를/jco
+6	발명한	발명+하+ㄴ	VERB	_	8	acl	_	_	발명/ncpa+하/xsv+ㄴ/etm
+7	에디슨도	에디슨+도	CCONJ	_	8	conj	_	_	에디슨/nq+도/jcj
+8	벨도	벨+도	ADV	_	11	advcl	_	_	벨/nq+도/jxc
+9	뉴욕박람회를	뉴욕+박람회+를	PROPN	_	10	obj	_	_	뉴욕/nq+박람회/ncn+를/jco
+10	이야기하면서	이야기+하+면서	CCONJ	_	11	conj	_	_	이야기/ncpa+하/xsv+면서/ecc
+11	빼놓을	빼+어+놓+ㄹ	AUX	_	14	acl	_	_	빼/pvg+어/ecx+놓/px+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	없는	없+는	ADJ	_	11	aux	_	_	없/paa+는/etm
+14	것은	것+은	NOUN	_	23	dislocated	_	_	것/nbn+은/jxt
+15	`	`	PUNCT	_	16	punct	_	_	`/sl
+16	미래에	미래+에	ADV	_	17	obl	_	_	미래/ncn+에/jca
+17	보내는	보내+는	VERB	_	18	dep	_	_	보내/pvg+는/etm
+18	메세지	메세지	X	_	22	obj	_	_	메세지/f
+19	'	'	PUNCT	_	18	punct	_	_	'/sr
+20	를	를	ADP	_	18	case	_	_	를/jco
+21	땅속에	땅속+에	ADV	_	22	obl	_	_	땅속/ncn+에/jca
+22	묻은	묻+ㄴ	VERB	_	23	ccomp	_	_	묻/pvg+ㄴ/etm
+23	행사다	행사+이+다	VERB	_	0	root	_	_	행사/ncpa+이/jp+다/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+
+# 녹슬지 않도록 특수합금된 2 M의 강철튜브 속에 금세기의 특징적인 기록물들을 담아 5천 년 후의 인류에게 보낸 것이다 .
+1	녹슬지	녹슬+지	VERB	_	3	ccomp	_	_	녹슬/pvg+지/ecx
+2	않도록	않+도록	SCONJ	_	1	aux	_	_	않/px+도록/ecs
+3	특수합금된	특수+합금+되+ㄴ	VERB	_	6	acl	_	_	특수/ncn+합금/ncpa+되/xsv+ㄴ/etm
+4	2	2	NUM	_	6	nummod	_	_	2/nnc
+5	M의	M+의	NOUN	_	4	nmod	_	_	M/su+의/jcm
+6	강철튜브	강철+튜브	NOUN	_	7	compound	_	_	강철/ncn+튜브/ncn
+7	속에	속+에	ADV	_	11	obl	_	_	속/ncn+에/jca
+8	금세기의	금세기+의	NOUN	_	10	nmod	_	_	금세기/ncn+의/jcm
+9	특징적인	특징+적+이+ㄴ	VERB	_	10	acl	_	_	특징/ncn+적/xsn+이/jp+ㄴ/etm
+10	기록물들을	기록물+들+을	NOUN	_	11	obj	_	_	기록물/ncn+들/xsn+을/jco
+11	담아	담+아	SCONJ	_	16	ccomp	_	_	담/pvg+아/ecs
+12	5천	5+천	NUM	_	13	compound	_	_	5/nnc+천/nnc
+13	년	년	NOUN	_	14	compound	_	_	년/nbu
+14	후의	후+의	NOUN	_	15	nmod	_	_	후/ncn+의/jcm
+15	인류에게	인류+에게	ADV	_	16	iobj	_	_	인류/ncn+에게/jca
+16	보낸	보내+ㄴ	VERB	_	0	root	_	_	보내/pvg+ㄴ/etm
+17	것이다	것+이+다	VERB	_	16	aux	_	_	것/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 주제는 ` 과학문명과 휴머니즘 ' 으로 결정되었으며 , 원자력 시대를 강조하는 110 m의 금속조형물과 아토미엄이 세워졌다 .
+1	주제는	주제+는	NOUN	_	7	dislocated	_	_	주제/ncn+는/jxt
+2	`	`	PUNCT	_	3	conj	_	_	`/sl
+3	과학문명과	과학+문명+과	CCONJ	_	4	conj	_	_	과학/ncn+문명/ncn+과/jcj
+4	휴머니즘	휴머니즘	NOUN	_	7	advcl	_	_	휴머니즘/ncn
+5	'	'	PUNCT	_	4	punct	_	_	'/sr
+6	으로	으로	ADP	_	4	case	_	_	으로/jca
+7	결정되었으며	결정+되+었+으며	SCONJ	_	16	ccomp	_	_	결정/ncpa+되/xsv+었/ep+으며/ecs
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	원자력	원자력	NOUN	_	10	compound	_	_	원자력/ncn
+10	시대를	시대+를	NOUN	_	11	obj	_	_	시대/ncn+를/jco
+11	강조하는	강조+하+는	VERB	_	14	acl	_	_	강조/ncpa+하/xsv+는/etm
+12	110	110	NUM	_	14	nummod	_	_	110/nnc
+13	m의	m+의	NOUN	_	12	nmod	_	_	m/su+의/jcm
+14	금속조형물과	금속+조형물+과	CCONJ	_	15	conj	_	_	금속/ncn+조형물/ncn+과/jcj
+15	아토미엄이	아토미엄+이	NOUN	_	16	nsubj	_	_	아토미엄/f+이/jcs
+16	세워졌다	세우+어+지+었+다	AUX	_	0	root	_	_	세우/pvg+어/ecx+지/px+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이 모형은 바로 당시에 발명된 전자 현미경을 통해 금속원자의 구조를 불 수 있게 되었음을 알리는 상징물이었다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	모형은	모형+은	NOUN	_	16	dislocated	_	_	모형/ncn+은/jxt
+3	바로	바로	ADV	_	4	advmod	_	_	바로/mag
+4	당시에	당시+에	ADV	_	5	obl	_	_	당시/ncn+에/jca
+5	발명된	발명+되+ㄴ	VERB	_	7	acl	_	_	발명/ncpa+되/xsv+ㄴ/etm
+6	전자	전자	NOUN	_	7	compound	_	_	전자/ncn
+7	현미경을	현미경+을	NOUN	_	8	obj	_	_	현미경/ncn+을/jco
+8	통해	통하+어	SCONJ	_	11	conj	_	_	통하/pvg+어/ecs
+9	금속원자의	금속+원자+의	NOUN	_	10	nmod	_	_	금속/ncn+원자/ncn+의/jcm
+10	구조를	구조+를	NOUN	_	11	obj	_	_	구조/ncpa+를/jco
+11	불	보+ㄹ	VERB	_	15	obj	_	_	보/pvg+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있게	있+게	ADJ	_	11	aux	_	_	있/paa+게/ecx
+14	되었음을	되+었+음+을	NOUN	_	11	aux	_	_	되/px+었/ep+음/etn+을/jco
+15	알리는	알리+는	VERB	_	16	ccomp	_	_	알리/pvg+는/etm
+16	상징물이었다	상징물+이+었+다	VERB	_	0	root	_	_	상징물/ncn+이/jp+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이 아토미엄을 이루고 있는 9 개의 알루미늄 방은 전시관이 되었다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	아토미엄을	아토미엄+을	NOUN	_	3	obj	_	_	아토미엄/f+을/jco
+3	이루고	이루+고	VERB	_	8	acl	_	_	이루/pvg+고/ecx
+4	있는	있+는	AUX	_	3	aux	_	_	있/px+는/etm
+5	9	9	NUM	_	6	nummod	_	_	9/nnc
+6	개의	개+의	NOUN	_	8	nmod	_	_	개/nbu+의/jcm
+7	알루미늄	알루미늄	NOUN	_	8	compound	_	_	알루미늄/ncn
+8	방은	방+은	NOUN	_	10	dislocated	_	_	방/ncn+은/jxt
+9	전시관이	전시관+이	NOUN	_	10	nsubj	_	_	전시관/ncn+이/jcs
+10	되었다	되+었+다	VERB	_	0	root	_	_	되/pvg+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이 전시관에는 우라늄의 정제과정 , 원자로의 모형과 사진 선박의 모형도 전시되었다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	전시관에는	전시관+에+는	NOUN	_	11	dislocated	_	_	전시관/ncn+에/jca+는/jxt
+3	우라늄의	우라늄+의	NOUN	_	4	nmod	_	_	우라늄/ncn+의/jcm
+4	정제과정	정제+과정	NOUN	_	7	conj	_	_	정제/ncpa+과정/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	원자로의	원자로+의	NOUN	_	7	nmod	_	_	원자로/ncn+의/jcm
+7	모형과	모형+과	CCONJ	_	10	conj	_	_	모형/ncn+과/jcj
+8	사진	사진	NOUN	_	9	compound	_	_	사진/ncn
+9	선박의	선박+의	NOUN	_	10	nmod	_	_	선박/ncn+의/jcm
+10	모형도	모형+도	ADV	_	11	advcl	_	_	모형/ncn+도/jxc
+11	전시되었다	전시+되+었+다	VERB	_	0	root	_	_	전시/ncpa+되/xsv+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 부뤼셀박람회는 미국 , 소련 , 프랑스 등에서 제출한 대형 디지틀 전자계산기들이 경합하는 최초의 자리가 되었다 .
+1	부뤼셀박람회는	부뤼셀+박람회+는	PROPN	_	15	dislocated	_	_	부뤼셀/nq+박람회/ncn+는/jxt
+2	미국	미국	PROPN	_	4	conj	_	_	미국/nq
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	소련	소련	PROPN	_	6	conj	_	_	소련/nq
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	프랑스	프랑스	PROPN	_	7	compound	_	_	프랑스/nq
+7	등에서	등+에서	ADV	_	8	advcl	_	_	등/nbn+에서/jca
+8	제출한	제출+하+ㄴ	VERB	_	11	acl	_	_	제출/ncpa+하/xsv+ㄴ/etm
+9	대형	대형	NOUN	_	11	compound	_	_	대형/ncn
+10	디지틀	디지틀	X	_	11	compound	_	_	디지틀/f
+11	전자계산기들이	전자+계산기+들+이	NOUN	_	12	nsubj	_	_	전자/ncn+계산기/ncn+들/xsn+이/jcs
+12	경합하는	경합+하+는	VERB	_	14	acl	_	_	경합/ncpa+하/xsv+는/etm
+13	최초의	최초+의	NOUN	_	14	nmod	_	_	최초/ncn+의/jcm
+14	자리가	자리+가	NOUN	_	15	csubj	_	_	자리/ncn+가/jcc
+15	되었다	되+었+다	VERB	_	0	root	_	_	되/pvg+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 관람객들은 여러가지 문제를 직접 입력해 각 계산기의 성능을 비교 , 평가해볼 수 있었다 .
+1	관람객들은	관람객+들+은	NOUN	_	11	dislocated	_	_	관람객/ncn+들/xsn+은/jxt
+2	여러가지	여러가지	NOUN	_	3	compound	_	_	여러가지/ncn
+3	문제를	문제+를	NOUN	_	5	obj	_	_	문제/ncn+를/jco
+4	직접	직접	ADV	_	5	advmod	_	_	직접/mag
+5	입력해	입력+하+어	SCONJ	_	11	ccomp	_	_	입력/ncpa+하/xsv+어/ecs
+6	각	각	ADJ	_	7	amod	_	_	각/mma
+7	계산기의	계산기+의	NOUN	_	8	nmod	_	_	계산기/ncn+의/jcm
+8	성능을	성능+을	NOUN	_	11	obj	_	_	성능/ncn+을/jco
+9	비교	비교	NOUN	_	11	compound	_	_	비교/ncpa
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	평가해볼	평가+하+어+보+ㄹ	AUX	_	0	root	_	_	평가/ncpa+하/xsv+어/ecx+보/px+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있었다	있+었+다	ADJ	_	11	aux	_	_	있/paa+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 소련이 야심을 작고 출품한 스푸트니크 위성과 우주로켓 발사대가 브뤼셀의 주요 관심사요 떠오른 것은 매우 당연한 것이었다 .
+1	소련이	소련+이	PROPN	_	4	nsubj	_	_	소련/nq+이/jcs
+2	야심을	야심+을	NOUN	_	3	obj	_	_	야심/ncn+을/jco
+3	작고	갖+고	CCONJ	_	4	conj	_	_	갖/pvg+고/ecc
+4	출품한	출품+하+ㄴ	VERB	_	8	acl	_	_	출품/ncpa+하/xsv+ㄴ/etm
+5	스푸트니크	스푸트니크	PROPN	_	6	compound	_	_	스푸트니크/nq
+6	위성과	위성+과	CCONJ	_	8	conj	_	_	위성/ncn+과/jcj
+7	우주로켓	우주+로켓	NOUN	_	8	compound	_	_	우주/ncn+로켓/ncn
+8	발사대가	발사대+가	NOUN	_	12	nsubj	_	_	발사대/ncn+가/jcs
+9	브뤼셀의	브뤼셀+의	PROPN	_	11	nmod	_	_	브뤼셀/nq+의/jcm
+10	주요	주요	NOUN	_	11	compound	_	_	주요/ncps
+11	관심사요	관심사+로	ADV	_	12	advcl	_	_	관심사/ncn+로/jca
+12	떠오른	떠오르+ㄴ	VERB	_	13	acl	_	_	떠오르/pvg+ㄴ/etm
+13	것은	것+은	NOUN	_	15	dislocated	_	_	것/nbn+은/jxt
+14	매우	매우	ADV	_	15	advmod	_	_	매우/mag
+15	당연한	당연+하+ㄴ	VERB	_	0	root	_	_	당연/ncps+하/xsm+ㄴ/etm
+16	것이었다	것+이+었+다	VERB	_	15	aux	_	_	것/nbn+이/jp+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 1962 년 미국 시애틀박람회는 ` 우주시대의 인류 ' 라는 주제로 한 전문 박람회로서 과학적인 경이로움을 담은 전시물들은 21 세기 인류생활의 전망을 펼쳐 보였다 .
+1	1962	1962	NUM	_	2	nummod	_	_	1962/nnc
+2	년	년	NOUN	_	4	compound	_	_	년/nbu
+3	미국	미국	PROPN	_	4	flat	_	_	미국/nq
+4	시애틀박람회는	시애틀+박람회+는	PROPN	_	13	dislocated	_	_	시애틀/nq+박람회/ncn+는/jxt
+5	`	`	PUNCT	_	6	punct	_	_	`/sl
+6	우주시대의	우주+시대+의	NOUN	_	7	nmod	_	_	우주/ncn+시대/ncn+의/jcm
+7	인류	인류	NOUN	_	11	obj	_	_	인류/ncn
+8	'	'	PUNCT	_	7	punct	_	_	'/sr
+9	라는	를	ADP	_	7	case	_	_	를/jco
+10	주제로	주제+로	ADV	_	11	advcl	_	_	주제/ncn+로/jca
+11	한	하+ㄴ	VERB	_	13	acl	_	_	하/pvg+ㄴ/etm
+12	전문	전문	NOUN	_	13	compound	_	_	전문/ncn
+13	박람회로서	박람회+로서	ADV	_	23	advcl	_	_	박람회/ncn+로서/jca
+14	과학적인	과학+적+이+ㄴ	VERB	_	15	acl	_	_	과학/ncn+적/xsn+이/jp+ㄴ/etm
+15	경이로움을	경이롭+ㅁ+을	NOUN	_	16	obj	_	_	경이롭/paa+ㅁ/etn+을/jco
+16	담은	담+ㄴ	VERB	_	17	acl	_	_	담/pvg+ㄴ/etm
+17	전시물들은	전시물+들+은	NOUN	_	22	dislocated	_	_	전시물/ncn+들/xsn+은/jxt
+18	21	21	NUM	_	19	nummod	_	_	21/nnc
+19	세기	세기	NOUN	_	20	compound	_	_	세기/ncn
+20	인류생활의	인류+생활+의	NOUN	_	21	nmod	_	_	인류/ncn+생활/ncpa+의/jcm
+21	전망을	전망+을	NOUN	_	22	obj	_	_	전망/ncpa+을/jco
+22	펼쳐	펼치+어	SCONJ	_	23	ccomp	_	_	펼치/pvg+어/ecs
+23	보였다	보이+었+다	VERB	_	0	root	_	_	보이/pvg+었/ep+다/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+
+# 또 전자계산기스스템을 가동하여 관람객의 변동을 예측하였으며 요즘에는 우리들에게도 익숙한 ` 춤추는 분수 ' 가 최초로 등장하였다 .
+1	또	또	CCONJ	_	16	cc	_	_	또/maj
+2	전자계산기스스템을	전자+계산기+시스템+을	NOUN	_	3	obj	_	_	전자/ncn+계산기/ncn+시스템/ncn+을/jco
+3	가동하여	가동+하+어	SCONJ	_	6	ccomp	_	_	가동/ncpa+하/xsv+어/ecs
+4	관람객의	관람객+의	NOUN	_	5	nmod	_	_	관람객/ncn+의/jcm
+5	변동을	변동+을	NOUN	_	6	obj	_	_	변동/ncpa+을/jco
+6	예측하였으며	예측+하+었+으며	SCONJ	_	16	ccomp	_	_	예측/ncpa+하/xsv+었/ep+으며/ecs
+7	요즘에는	요즘+에+는	NOUN	_	9	dislocated	_	_	요즘/ncn+에/jca+는/jxt
+8	우리들에게도	우리+들+에게+도	ADV	_	9	advcl	_	_	우리/npp+들/xsn+에게/jca+도/jxc
+9	익숙한	익숙+하+ㄴ	VERB	_	12	amod	_	_	익숙/ncps+하/xsm+ㄴ/etm
+10	`	`	PUNCT	_	11	punct	_	_	`/sl
+11	춤추는	춤추+는	VERB	_	12	acl	_	_	춤추/pvg+는/etm
+12	분수	분수	NOUN	_	16	nsubj	_	_	분수/ncn
+13	'	'	PUNCT	_	12	punct	_	_	'/sr
+14	가	가	ADP	_	12	case	_	_	가/jcs
+15	최초로	최초+로	ADV	_	16	advcl	_	_	최초/ncn+로/jca
+16	등장하였다	등장+하+었+다	VERB	_	0	root	_	_	등장/ncpa+하/xsv+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 1985 년 쓰쿠바엑스포는 가장 최근의 과학 기술 전문 박람회였다 .
+1	1985	1985	NUM	_	2	nummod	_	_	1985/nnc
+2	년	년	NOUN	_	3	compound	_	_	년/nbu
+3	쓰쿠바엑스포는	쓰쿠바+엑스포+는	PROPN	_	9	dislocated	_	_	쓰쿠바/nq+엑스포/ncn+는/jxt
+4	가장	가장	ADV	_	5	advmod	_	_	가장/mag
+5	최근의	최근+의	NOUN	_	9	nmod	_	_	최근/ncn+의/jcm
+6	과학	과학	NOUN	_	7	compound	_	_	과학/ncn
+7	기술	기술	NOUN	_	9	compound	_	_	기술/ncn
+8	전문	전문	NOUN	_	9	compound	_	_	전문/ncn
+9	박람회였다	박람회+이+었+다	VERB	_	0	root	_	_	박람회/ncn+이/jp+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 화면크기가 1857 인치인 극초대형 텔리비젼 정보토론은 5백 미터의 거리에서야 선명하게 보일 정도였다고 한다 .
+1	화면크기가	화면+크기+가	NOUN	_	3	nsubj	_	_	화면/ncn+크기/ncn+가/jcs
+2	1857	1857	NUM	_	3	nummod	_	_	1857/nnc
+3	인치인	인치+이+ㄴ	VERB	_	5	acl	_	_	인치/nbu+이/jp+ㄴ/etm
+4	극초대형	극초대형	NOUN	_	5	compound	_	_	극초대형/ncn
+5	텔리비젼	텔리비젼	NOUN	_	6	compound	_	_	텔리비젼/ncn
+6	정보토론은	정보+토론+은	NOUN	_	11	dislocated	_	_	정보/ncn+토론/ncpa+은/jxt
+7	5백	5+백	NUM	_	8	compound	_	_	5/nnc+백/nnc
+8	미터의	미터+의	NOUN	_	9	nmod	_	_	미터/nbu+의/jcm
+9	거리에서야	거리+에서+야	ADV	_	11	advcl	_	_	거리/ncn+에서/jca+야/jxc
+10	선명하게	선명+하+게	SCONJ	_	11	xcomp	_	_	선명/ncps+하/xsm+게/ecs
+11	보일	보이+ㄹ	VERB	_	12	acl	_	_	보이/pvg+ㄹ/etm
+12	정도였다고	정도+이+었+다+고	VERB	_	13	conj	_	_	정도/ncn+이/jp+었/ep+다/ef+고/jcr
+13	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그리고 정교한 컴퓨터 두뇌를 가진 인간처럼 악보를 읽으며 피아노를 칠 수 있는 로봇이 등장하였다 .
+1	그리고	그리고	CCONJ	_	14	cc	_	_	그리고/maj
+2	정교한	정교+하+ㄴ	VERB	_	4	amod	_	_	정교/ncps+하/xsm+ㄴ/etm
+3	컴퓨터	컴퓨터	NOUN	_	4	compound	_	_	컴퓨터/ncn
+4	두뇌를	두뇌+를	NOUN	_	5	obj	_	_	두뇌/ncn+를/jco
+5	가진	가지+ㄴ	VERB	_	6	acl	_	_	가지/pvg+ㄴ/etm
+6	인간처럼	인간+처럼	ADV	_	10	advcl	_	_	인간/ncn+처럼/jca
+7	악보를	악보+를	NOUN	_	8	obj	_	_	악보/ncn+를/jco
+8	읽으며	읽+으며	SCONJ	_	10	ccomp	_	_	읽/pvg+으며/ecs
+9	피아노를	피아노+를	NOUN	_	10	obj	_	_	피아노/ncn+를/jco
+10	칠	치+ㄹ	VERB	_	13	acl	_	_	치/pvg+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있는	있+는	ADJ	_	10	aux	_	_	있/paa+는/etm
+13	로봇이	로봇+이	NOUN	_	14	nsubj	_	_	로봇/ncn+이/jcs
+14	등장하였다	등장+하+었+다	VERB	_	0	root	_	_	등장/ncpa+하/xsv+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이 로봇의 손가락은 신속히 벌어졌다 오무렸다 하며 건반을 누르고 다리도 강약의 리듬을 타고 피아노의 페달을 밟았다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	로봇의	로봇+의	NOUN	_	3	nmod	_	_	로봇/ncn+의/jcm
+3	손가락은	손가락+은	NOUN	_	9	dislocated	_	_	손가락/ncn+은/jxt
+4	신속히	신속+히	ADV	_	6	advmod	_	_	신속/ncps+히/xsa
+5	벌어졌다	벌어지+었+다	CCONJ	_	6	conj	_	_	벌어지/pvg+었/ep+다/ecc
+6	오무렸다	오무리+었+다	VERB	_	7	ccomp	_	_	오무리/pvg+었/ep+다/ef
+7	하며	하+며	CCONJ	_	9	conj	_	_	하/pvg+며/ecc
+8	건반을	건반+을	NOUN	_	9	obj	_	_	건반/ncn+을/jco
+9	누르고	누르+고	CCONJ	_	16	conj	_	_	누르/pvg+고/ecc
+10	다리도	다리+도	ADV	_	16	advcl	_	_	다리/ncn+도/jxc
+11	강약의	강약+의	NOUN	_	12	nmod	_	_	강약/ncn+의/jcm
+12	리듬을	리듬+을	NOUN	_	13	obj	_	_	리듬/ncn+을/jco
+13	타고	타+고	CCONJ	_	16	conj	_	_	타/pvg+고/ecc
+14	피아노의	피아노+의	NOUN	_	15	nmod	_	_	피아노/ncn+의/jcm
+15	페달을	페달+을	NOUN	_	16	obj	_	_	페달/ncn+을/jco
+16	밟았다	밟+았+다	VERB	_	0	root	_	_	밟/pvg+았/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 엑스포의 출발은 확실히 ` 새롭고 진귀한 것들을 차려놓고 보여주는 전시 ' 에 있다 .
+1	엑스포의	엑스포+의	NOUN	_	2	nmod	_	_	엑스포/ncn+의/jcm
+2	출발은	출발+은	NOUN	_	13	dislocated	_	_	출발/ncpa+은/jxt
+3	확실히	확실+히	ADV	_	13	advmod	_	_	확실/ncps+히/xsa
+4	`	`	PUNCT	_	5	conj	_	_	`/sl
+5	새롭고	새롭+고	CCONJ	_	6	conj	_	_	새롭/paa+고/ecc
+6	진귀한	진귀+하+ㄴ	VERB	_	7	amod	_	_	진귀/ncps+하/xsm+ㄴ/etm
+7	것들을	것+들+을	NOUN	_	9	obj	_	_	것/nbn+들/xsn+을/jco
+8	차려놓고	차리+어+놓+고	CCONJ	_	9	conj	_	_	차리/pvg+어/ecx+놓/px+고/ecc
+9	보여주는	보이+어+주+는	AUX	_	10	acl	_	_	보이/pvg+어/ecx+주/px+는/etm
+10	전시	전시	NOUN	_	13	obl	_	_	전시/ncpa
+11	'	'	PUNCT	_	10	punct	_	_	'/sr
+12	에	에	ADP	_	10	case	_	_	에/jca
+13	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이러한 성격은 특히 초기 엑스포에서 두드러지게 나타난다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	성격은	성격+은	NOUN	_	7	dislocated	_	_	성격/ncn+은/jxt
+3	특히	특히	ADV	_	7	advmod	_	_	특히/mag
+4	초기	초기	NOUN	_	5	compound	_	_	초기/ncn
+5	엑스포에서	엑스포+에서	ADV	_	7	advcl	_	_	엑스포/ncn+에서/jca
+6	두드러지게	두드러지+게	SCONJ	_	7	ccomp	_	_	두드러지/pvg+게/ecs
+7	나타난다	나타나+ㄴ다	VERB	_	0	root	_	_	나타나/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 육상 , 해상의 교통이 발달하지 못하고 요즘음과 같은 정보매체들도 존재하지 않던 시절에 만국박람회는 사람들의 호기심을 자극하여 엄청난 인파를 한 장소로 불러 모으기에 충분했다 .
+1	육상	육상	NOUN	_	3	conj	_	_	육상/ncn
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	해상의	해상+의	NOUN	_	4	nmod	_	_	해상/ncn+의/jcm
+4	교통이	교통+이	NOUN	_	5	nsubj	_	_	교통/ncn+이/jcs
+5	발달하지	발달+하+지	VERB	_	10	conj	_	_	발달/ncpa+하/xsv+지/ecx
+6	못하고	못하+고	CCONJ	_	5	aux	_	_	못하/px+고/ecc
+7	요즘음과	요즘음+과	CCONJ	_	8	conj	_	_	요즘음/ncn+과/jct
+8	같은	같+ㄴ	ADJ	_	9	amod	_	_	같/paa+ㄴ/etm
+9	정보매체들도	정보+매체+들+도	ADV	_	10	advcl	_	_	정보/ncn+매체/ncn+들/xsn+도/jxc
+10	존재하지	존재+하+지	VERB	_	12	acl	_	_	존재/ncpa+하/xsv+지/ecx
+11	않던	않+던	AUX	_	10	aux	_	_	않/px+던/etm
+12	시절에	시절+에	ADV	_	23	obl	_	_	시절/ncn+에/jca
+13	만국박람회는	만국+박람회+는	NOUN	_	23	dislocated	_	_	만국/ncn+박람회/ncn+는/jxt
+14	사람들의	사람+들+의	NOUN	_	15	nmod	_	_	사람/ncn+들/xsn+의/jcm
+15	호기심을	호기심+을	NOUN	_	16	obj	_	_	호기심/ncn+을/jco
+16	자극하여	자극+하+어	SCONJ	_	22	conj	_	_	자극/ncpa+하/xsv+어/ecs
+17	엄청난	엄청나+ㄴ	ADJ	_	18	amod	_	_	엄청나/paa+ㄴ/etm
+18	인파를	인파+를	NOUN	_	22	obj	_	_	인파/ncn+를/jco
+19	한	한	ADJ	_	20	amod	_	_	한/mma
+20	장소로	장소+로	ADV	_	22	advcl	_	_	장소/ncn+로/jca
+21	불러	부르+어	SCONJ	_	22	ccomp	_	_	부르/pvg+어/ecs
+22	모으기에	모으+기+에	ADV	_	23	obl	_	_	모으/pvg+기/etn+에/jca
+23	충분했다	충분하+었+다	ADJ	_	0	root	_	_	충분하/paa+었/ep+다/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+
+# 특히 TV가 보급되어 세상 만물의 소식을 안방에서도 접할 수 있게 되자 이러한 주장은 그 강도가 더욱 세졌다 .
+1	특히	특히	ADV	_	3	advmod	_	_	특히/mag
+2	TV가	TV+가	NOUN	_	3	nsubj	_	_	TV/f+가/jcs
+3	보급되어	보급+되+어	SCONJ	_	8	ccomp	_	_	보급/ncpa+되/xsv+어/ecs
+4	세상	세상	NOUN	_	5	compound	_	_	세상/ncn
+5	만물의	만물+의	NOUN	_	6	nmod	_	_	만물/ncn+의/jcm
+6	소식을	소식+을	NOUN	_	8	obj	_	_	소식/ncn+을/jco
+7	안방에서도	안방+에서+도	ADV	_	8	advcl	_	_	안방/ncn+에서/jca+도/jxc
+8	접할	접하+ㄹ	VERB	_	17	conj	_	_	접하/pvg+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	있게	있+게	ADJ	_	8	aux	_	_	있/paa+게/ecx
+11	되자	되+자	SCONJ	_	8	aux	_	_	되/px+자/ecs
+12	이러한	이러하+ㄴ	VERB	_	13	amod	_	_	이러하/pad+ㄴ/etm
+13	주장은	주장+은	NOUN	_	17	dislocated	_	_	주장/ncpa+은/jxt
+14	그	그	DET	_	15	det	_	_	그/mmd
+15	강도가	강도+가	NOUN	_	17	nsubj	_	_	강도/ncn+가/jcs
+16	더욱	더욱	ADV	_	17	advmod	_	_	더욱/mag
+17	세졌다	세+어+지+었+다	AUX	_	0	root	_	_	세/paa+어/ecx+지/px+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그러나 제 2 차 세계대전 이후 1958 년 부뤼셀박람회를 통해 부활한 엑스포는 이러한 우려의 목소리를 잦아들게 했다 .
+1	그러나	그러나	CCONJ	_	17	cc	_	_	그러나/maj
+2	제	제	PRON	_	3	compound	_	_	제/npp
+3	2	2	NUM	_	4	nummod	_	_	2/nnc
+4	차	차	NOUN	_	5	compound	_	_	차/nbu
+5	세계대전	세계대전	NOUN	_	6	compound	_	_	세계대전/ncn
+6	이후	이후	NOUN	_	11	advmod	_	_	이후/ncn
+7	1958	1958	NUM	_	8	nummod	_	_	1958/nnc
+8	년	년	NOUN	_	9	compound	_	_	년/nbu
+9	부뤼셀박람회를	부뤼셀+박람회+를	PROPN	_	10	obj	_	_	부뤼셀/nq+박람회/ncn+를/jco
+10	통해	통하+어	SCONJ	_	11	ccomp	_	_	통하/pvg+어/ecs
+11	부활한	부활+하+ㄴ	VERB	_	12	acl	_	_	부활/ncpa+하/xsv+ㄴ/etm
+12	엑스포는	엑스포+는	NOUN	_	17	dislocated	_	_	엑스포/ncn+는/jxt
+13	이러한	이러하+ㄴ	VERB	_	15	amod	_	_	이러하/pad+ㄴ/etm
+14	우려의	우려+의	NOUN	_	15	nmod	_	_	우려/ncpa+의/jcm
+15	목소리를	목소리+를	NOUN	_	17	obj	_	_	목소리/ncn+를/jco
+16	잦아들게	잦아들+게	SCONJ	_	17	ccomp	_	_	잦아들/pvg+게/ecs
+17	했다	하+었+다	VERB	_	0	root	_	_	하/pvg+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 엑스포는 그 회를 거듭할수록 더욱 뜨거운 환호속에 그 규모가 켜졌으며 , 그것도 정보수단이 발달한 선진국의 한복판에서 꽃을 피워온 것이다 .
+1	엑스포는	엑스포+는	NOUN	_	18	dislocated	_	_	엑스포/ncn+는/jxt
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	회를	회+를	NOUN	_	4	obj	_	_	회/ncn+를/jco
+4	거듭할수록	거듭+하+ㄹ수록	SCONJ	_	10	ccomp	_	_	거듭/ncpa+하/xsv+ㄹ수록/ecs
+5	더욱	더욱	ADV	_	6	advmod	_	_	더욱/mag
+6	뜨거운	뜨겁+ㄴ	ADJ	_	7	amod	_	_	뜨겁/paa+ㄴ/etm
+7	환호속에	환호+속+에	ADV	_	10	obl	_	_	환호/ncpa+속/ncn+에/jca
+8	그	그	DET	_	9	det	_	_	그/mmd
+9	규모가	규모+가	NOUN	_	10	nsubj	_	_	규모/ncn+가/jcs
+10	켜졌으며	커지+었+으며	SCONJ	_	18	ccomp	_	_	커지/pvg+었/ep+으며/ecs
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	그것도	그것+도	ADV	_	18	advcl	_	_	그것/npd+도/jxc
+13	정보수단이	정보+수단+이	NOUN	_	14	nsubj	_	_	정보/ncn+수단/ncn+이/jcs
+14	발달한	발달+하+ㄴ	VERB	_	15	acl	_	_	발달/ncpa+하/xsv+ㄴ/etm
+15	선진국의	선진국+의	NOUN	_	16	nmod	_	_	선진국/ncn+의/jcm
+16	한복판에서	한복판+에서	ADV	_	18	advcl	_	_	한복판/ncn+에서/jca
+17	꽃을	꽃+을	NOUN	_	18	obj	_	_	꽃/ncn+을/jco
+18	피워온	피우+어+오+ㄴ	AUX	_	0	root	_	_	피우/pvg+어/ecx+오/px+ㄴ/etm
+19	것이다	것+이+다	VERB	_	18	aux	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 현대사를 통해 엄청난 과학기술적 개발을 이루어낸 행사로써 전쟁과 엑스포는 뚜렸한 공통점을 가진다는 것이다 .
+1	현대사를	현대사+를	NOUN	_	2	obj	_	_	현대사/ncn+를/jco
+2	통해	통하+어	SCONJ	_	6	ccomp	_	_	통하/pvg+어/ecs
+3	엄청난	엄청나+ㄴ	ADJ	_	5	amod	_	_	엄청나/paa+ㄴ/etm
+4	과학기술적	과학+기술+적	NOUN	_	5	amod	_	_	과학/ncn+기술/ncn+적/xsn
+5	개발을	개발+을	NOUN	_	6	obj	_	_	개발/ncpa+을/jco
+6	이루어낸	이루+어+내+ㄴ	AUX	_	7	acl	_	_	이루/pvg+어/ecx+내/px+ㄴ/etm
+7	행사로써	행사+로써	ADV	_	12	advcl	_	_	행사/ncpa+로써/jca
+8	전쟁과	전쟁+과	CCONJ	_	9	conj	_	_	전쟁/ncpa+과/jcj
+9	엑스포는	엑스포+는	NOUN	_	12	dislocated	_	_	엑스포/ncn+는/jxt
+10	뚜렸한	뚜렷하+ㄴ	ADJ	_	11	amod	_	_	뚜렷하/paa+ㄴ/etm
+11	공통점을	공통점+을	NOUN	_	12	obj	_	_	공통점/ncn+을/jco
+12	가진다는	가지+ㄴ다는	VERB	_	0	root	_	_	가지/pvg+ㄴ다는/etm
+13	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그러나 이러한 두 행사의 공통점이 이 둘의 근본적인 차이까지 지워버리는 것은 아닐 터이다 .
+1	그러나	그러나	CCONJ	_	13	cc	_	_	그러나/maj
+2	이러한	이러하+ㄴ	VERB	_	4	amod	_	_	이러하/pad+ㄴ/etm
+3	두	두	NUM	_	4	nummod	_	_	두/nnc
+4	행사의	행사+의	NOUN	_	5	nmod	_	_	행사/ncpa+의/jcm
+5	공통점이	공통점+이	NOUN	_	10	nsubj	_	_	공통점/ncn+이/jcs
+6	이	이	DET	_	7	det	_	_	이/mmd
+7	둘의	둘+의	NUM	_	9	nmod	_	_	둘/nnc+의/jcm
+8	근본적인	근본+적+이+ㄴ	VERB	_	9	acl	_	_	근본/ncn+적/xsn+이/jp+ㄴ/etm
+9	차이까지	차이+까지	ADV	_	10	advcl	_	_	차이/ncn+까지/jxc
+10	지워버리는	지우+어+버리+는	AUX	_	11	acl	_	_	지우/pvg+어/ecx+버리/px+는/etm
+11	것은	것+은	NOUN	_	12	dislocated	_	_	것/nbn+은/jxt
+12	아닐	아니+ㄹ	ADJ	_	13	amod	_	_	아니/paa+ㄹ/etm
+13	터이다	터+이+다	VERB	_	0	root	_	_	터/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 전쟁은 인류의 소중한 생명을 학살하고 유구한 문화유산을 일거에 가루로 만들어 버리는 파괴와 살륙의 행사지만 , 엑스포는 그야말로 건설과 친선의 행사가 아닌가 .
+1	전쟁은	전쟁+은	NOUN	_	14	dislocated	_	_	전쟁/ncpa+은/jxt
+2	인류의	인류+의	NOUN	_	4	nmod	_	_	인류/ncn+의/jcm
+3	소중한	소중+하+ㄴ	VERB	_	4	amod	_	_	소중/ncps+하/xsm+ㄴ/etm
+4	생명을	생명+을	NOUN	_	5	obj	_	_	생명/ncn+을/jco
+5	학살하고	학살+하+고	CCONJ	_	10	conj	_	_	학살/ncpa+하/xsv+고/ecc
+6	유구한	유구+하+ㄴ	VERB	_	7	amod	_	_	유구/ncps+하/xsm+ㄴ/etm
+7	문화유산을	문화+유산+을	NOUN	_	10	obj	_	_	문화/ncn+유산/ncn+을/jco
+8	일거에	일거+에	ADV	_	10	obl	_	_	일거/ncn+에/jca
+9	가루로	가루+로	ADV	_	10	advcl	_	_	가루/ncn+로/jca
+10	만들어	만들+어	VERB	_	14	ccomp	_	_	만들/pvg+어/ecx
+11	버리는	버리+는	AUX	_	10	aux	_	_	버리/px+는/etm
+12	파괴와	파괴+와	CCONJ	_	13	conj	_	_	파괴/ncpa+와/jcj
+13	살륙의	살륙+의	NOUN	_	14	nmod	_	_	살륙/ncpa+의/jcm
+14	행사지만	행사+이+지만	SCONJ	_	21	conj	_	_	행사/ncpa+이/jp+지만/ecs
+15	,	,	PUNCT	_	14	punct	_	_	,/sp
+16	엑스포는	엑스포+는	NOUN	_	21	dislocated	_	_	엑스포/ncn+는/jxt
+17	그야말로	그야말로	ADV	_	21	advmod	_	_	그야말로/mag
+18	건설과	건설+과	CCONJ	_	19	conj	_	_	건설/ncpa+과/jcj
+19	친선의	친선+의	NOUN	_	20	nmod	_	_	친선/ncn+의/jcm
+20	행사가	행사+가	NOUN	_	21	nsubj	_	_	행사/ncpa+가/jcs
+21	아닌가	아니+ㄴ가	ADJ	_	0	root	_	_	아니/paa+ㄴ가/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 전쟁은 하루빨리 과거의 유물로 사라져야 하지만 , 엑스포는 인류의 새로운 자각에 바탕을 둔 과학기술의 제전으로 거듭 태어남을 계속할 것이다 .
+1	전쟁은	전쟁+은	NOUN	_	5	dislocated	_	_	전쟁/ncpa+은/jxt
+2	하루빨리	하루빨리	ADV	_	5	advmod	_	_	하루빨리/mag
+3	과거의	과거+의	NOUN	_	4	nmod	_	_	과거/ncn+의/jcm
+4	유물로	유물+로	ADV	_	5	advcl	_	_	유물/ncn+로/jca
+5	사라져야	사라지+어야	VERB	_	18	ccomp	_	_	사라지/pvg+어야/ecx
+6	하지만	하+지만	SCONJ	_	5	aux	_	_	하/px+지만/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	엑스포는	엑스포+는	NOUN	_	18	dislocated	_	_	엑스포/ncn+는/jxt
+9	인류의	인류+의	NOUN	_	11	nmod	_	_	인류/ncn+의/jcm
+10	새로운	새롭+ㄴ	ADJ	_	11	amod	_	_	새롭/paa+ㄴ/etm
+11	자각에	자각+에	ADV	_	13	obl	_	_	자각/ncpa+에/jca
+12	바탕을	바탕+을	NOUN	_	13	obj	_	_	바탕/ncpa+을/jco
+13	둔	두+ㄴ	VERB	_	15	acl	_	_	두/pvg+ㄴ/etm
+14	과학기술의	과학+기술+의	NOUN	_	15	nmod	_	_	과학/ncn+기술/ncn+의/jcm
+15	제전으로	제전+으로	ADV	_	17	advcl	_	_	제전/ncn+으로/jca
+16	거듭	거듭	ADV	_	17	advmod	_	_	거듭/mag
+17	태어남을	태어나+ㅁ+을	NOUN	_	18	obj	_	_	태어나/pvg+ㅁ/etn+을/jco
+18	계속할	계속+하+ㄹ	VERB	_	0	root	_	_	계속/ncpa+하/xsv+ㄹ/etm
+19	것이다	것+이+다	VERB	_	18	aux	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 이러한 살상무기들은 관람객들의 경탄을 자아내기에 충분했으며 , 이후 초기의 박람회장에 광채를 더하는 필수적인 전시물로 자리 잡았다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	살상무기들은	살상+무기+들+은	NOUN	_	6	dislocated	_	_	살상/ncpa+무기/ncn+들/xsn+은/jxt
+3	관람객들의	관람객+들+의	NOUN	_	4	nmod	_	_	관람객/ncn+들/xsn+의/jcm
+4	경탄을	경탄+을	NOUN	_	5	obj	_	_	경탄/ncpa+을/jco
+5	자아내기에	자아내+기+에	ADV	_	6	obl	_	_	자아내/pvg+기/etn+에/jca
+6	충분했으며	충분+하+었+으며	SCONJ	_	16	xcomp	_	_	충분/ncps+하/xsm+었/ep+으며/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	이후	이후	NOUN	_	16	advmod	_	_	이후/ncn
+9	초기의	초기+의	NOUN	_	10	nmod	_	_	초기/ncn+의/jcm
+10	박람회장에	박람회장+에	ADV	_	12	obl	_	_	박람회장/ncn+에/jca
+11	광채를	광채+를	NOUN	_	12	obj	_	_	광채/ncn+를/jco
+12	더하는	더하+는	VERB	_	14	acl	_	_	더하/pvg+는/etm
+13	필수적인	필수+적+이+ㄴ	VERB	_	14	acl	_	_	필수/ncn+적/xsn+이/jp+ㄴ/etm
+14	전시물로	전시물+로	ADV	_	16	advcl	_	_	전시물/ncn+로/jca
+15	자리	자리	NOUN	_	16	dep	_	_	자리/ncn
+16	잡았다	잡+았+다	VERB	_	0	root	_	_	잡/pvg+았/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 1990 년 오사카박람회는 꽃의 박람회였다 .
+1	1990	1990	NUM	_	2	nummod	_	_	1990/nnc
+2	년	년	NOUN	_	3	compound	_	_	년/nbu
+3	오사카박람회는	오사카+박람회+는	PROPN	_	5	dislocated	_	_	오사카/nq+박람회/ncn+는/jxt
+4	꽃의	꽃+의	NOUN	_	5	nmod	_	_	꽃/ncn+의/jcm
+5	박람회였다	박람회+이+었+다	VERB	_	0	root	_	_	박람회/ncn+이/jp+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 세계의 꽃들을 초청해 ` 꽃의 계곡 ' 을 만들고 183 일간 ` 인간과 꽃과 푸르름 ' 의 미래상을 연출했다 .
+1	세계의	세계+의	NOUN	_	2	nmod	_	_	세계/ncn+의/jcm
+2	꽃들을	꽃+들+을	NOUN	_	3	obj	_	_	꽃/ncn+들/xsn+을/jco
+3	초청해	초청+하+어	SCONJ	_	9	ccomp	_	_	초청/ncpa+하/xsv+어/ecs
+4	`	`	PUNCT	_	5	punct	_	_	`/sl
+5	꽃의	꽃+의	NOUN	_	6	nmod	_	_	꽃/ncn+의/jcm
+6	계곡	계곡	NOUN	_	9	obj	_	_	계곡/ncn
+7	'	'	PUNCT	_	6	punct	_	_	'/sr
+8	을	을	ADP	_	6	case	_	_	을/jco
+9	만들고	만들+고	CCONJ	_	19	conj	_	_	만들/pvg+고/ecc
+10	183	183	NUM	_	11	nummod	_	_	183/nnc
+11	일간	일+간	NOUN	_	19	advmod	_	_	일/ncn+간/xsn
+12	`	`	PUNCT	_	13	conj	_	_	`/sl
+13	인간과	인간+과	CCONJ	_	14	conj	_	_	인간/ncn+과/jcj
+14	꽃과	꽃+과	CCONJ	_	15	conj	_	_	꽃/ncn+과/jcj
+15	푸르름	푸르+ㅁ	ADJ	_	18	nmod	_	_	푸르/paa+ㅁ/etn
+16	'	'	PUNCT	_	15	punct	_	_	'/sr
+17	의	의	ADP	_	15	case	_	_	의/jcm
+18	미래상을	미래상+을	NOUN	_	19	obj	_	_	미래상/ncn+을/jco
+19	연출했다	연출+하+었+다	VERB	_	0	root	_	_	연출/ncpa+하/xsv+었/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 기계전시물이 없었던 이 박람회는 무려 2천만 명이 관람하는 성황을 이루었다고 한다 .
+1	기계전시물이	기계+전시물+이	NOUN	_	2	nsubj	_	_	기계/ncn+전시물/ncn+이/jcs
+2	없었던	없+었+더+ㄴ	ADJ	_	4	amod	_	_	없/paa+었/ep+더/ep+ㄴ/etm
+3	이	이	DET	_	4	det	_	_	이/mmd
+4	박람회는	박람회+는	NOUN	_	10	dislocated	_	_	박람회/ncn+는/jxt
+5	무려	무려	ADV	_	7	advmod	_	_	무려/mag
+6	2천만	2+천만	NUM	_	7	compound	_	_	2/nnc+천만/nnc
+7	명이	명+이	NOUN	_	8	nsubj	_	_	명/nbu+이/jcs
+8	관람하는	관람+하+는	VERB	_	9	acl	_	_	관람/ncpa+하/xsv+는/etm
+9	성황을	성황+을	NOUN	_	10	obj	_	_	성황/ncn+을/jco
+10	이루었다고	이루+었+다+고	VERB	_	11	conj	_	_	이루/pvg+었/ep+다/ef+고/jcr
+11	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그런데 이 오사카박람회장의 한 켠에 베트남전에서 악명을 떨친 고형배가 전시되었다면 ?
+1	그런데	그런데	CCONJ	_	10	cc	_	_	그런데/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	오사카박람회장의	오사카+박람회장+의	PROPN	_	5	nmod	_	_	오사카/nq+박람회장/ncn+의/jcm
+4	한	한	ADJ	_	5	amod	_	_	한/mma
+5	켠에	켠+에	ADV	_	10	obl	_	_	켠/nbu+에/jca
+6	베트남전에서	베트남전+에서	ADV	_	8	advcl	_	_	베트남전/nq+에서/jca
+7	악명을	악명+을	NOUN	_	8	obj	_	_	악명/ncn+을/jco
+8	떨친	떨치+ㄴ	VERB	_	9	acl	_	_	떨치/pvg+ㄴ/etm
+9	고형배가	고엽제+가	NOUN	_	10	nsubj	_	_	고엽제/ncn+가/jcs
+10	전시되었다면	전시+되+었+다면	VERB	_	0	root	_	_	전시/ncpa+되/xsv+었/ep+다면/ef
+11	?	?	PUNCT	_	10	punct	_	_	?/sf
+
+# ` 무기와 꽃 ' 으로 대비되는 박람회는 두 풍경은 바로 런던으로부터 142 년의 역사를 가진 엑스포가 그 동안 끈임 없는 자기 변화의 과정을 밟아왔음을 묵시적으로 애기해주고 있다 .
+1	`	`	PUNCT	_	2	conj	_	_	`/sl
+2	무기와	무기+와	CCONJ	_	3	conj	_	_	무기/ncn+와/jcj
+3	꽃	꽃	NOUN	_	6	advcl	_	_	꽃/ncn
+4	'	'	PUNCT	_	3	punct	_	_	'/sr
+5	으로	으로	ADP	_	3	case	_	_	으로/jca
+6	대비되는	대비+되+는	VERB	_	7	acl	_	_	대비/ncpa+되/xsv+는/etm
+7	박람회는	박람회+의	NOUN	_	9	nmod	_	_	박람회/ncn+의/jcm
+8	두	두	NUM	_	9	nummod	_	_	두/nnc
+9	풍경은	풍경+은	NOUN	_	26	dislocated	_	_	풍경/ncn+은/jxt
+10	바로	바로	ADV	_	24	advmod	_	_	바로/mag
+11	런던으로부터	런던+으로+부터	ADV	_	15	advcl	_	_	런던/nq+으로/jca+부터/jxc
+12	142	142	NUM	_	13	nummod	_	_	142/nnc
+13	년의	년+의	NOUN	_	14	nmod	_	_	년/nbu+의/jcm
+14	역사를	역사+를	NOUN	_	15	obj	_	_	역사/ncn+를/jco
+15	가진	가지+ㄴ	VERB	_	16	acl	_	_	가지/pvg+ㄴ/etm
+16	엑스포가	엑스포+가	NOUN	_	24	nsubj	_	_	엑스포/ncn+가/jcs
+17	그	그	DET	_	18	det	_	_	그/mmd
+18	동안	동안	NOUN	_	24	advmod	_	_	동안/ncn
+19	끈임	끊임	NOUN	_	20	dep	_	_	끊임/ncn
+20	없는	없+는	ADJ	_	22	amod	_	_	없/paa+는/etm
+21	자기	자기	PRON	_	22	compound	_	_	자기/npp
+22	변화의	변화+의	NOUN	_	23	nmod	_	_	변화/ncpa+의/jcm
+23	과정을	과정+을	NOUN	_	24	obj	_	_	과정/ncpa+을/jco
+24	밟아왔음을	밟+아+오+았+ㅁ+을	NOUN	_	26	obj	_	_	밟/pvg+아/ecx+오/px+았/ep+ㅁ/etn+을/jco
+25	묵시적으로	묵시+적+으로	ADV	_	26	advcl	_	_	묵시/ncpa+적/xsn+으로/jca
+26	애기해주고	애기+하+어+주+고	AUX	_	0	root	_	_	애기/ncpa+하/xsv+어/ecx+주/px+고/ecx
+27	있다	있+다	AUX	_	26	aux	_	_	있/px+다/ef
+28	.	.	PUNCT	_	27	punct	_	_	./sf
+
+# 엑스포에서 중요하게 다루는 문제는 생산과 분배 , 교통과 커뮤니케이션 , 비즈니스 시스템 , 음식 , 위료와 공중위생 , 과학과 교육 , 공동체의 이해관계 등이다 .
+1	엑스포에서	엑스포+에서	ADV	_	3	advcl	_	_	엑스포/ncn+에서/jca
+2	중요하게	중요+하+게	SCONJ	_	3	xcomp	_	_	중요/ncps+하/xsm+게/ecs
+3	다루는	다루+는	VERB	_	4	acl	_	_	다루/pvg+는/etm
+4	문제는	문제+는	NOUN	_	24	dislocated	_	_	문제/ncn+는/jxt
+5	생산과	생산+과	CCONJ	_	6	conj	_	_	생산/ncpa+과/jcj
+6	분배	분배	NOUN	_	9	compound	_	_	분배/ncpa
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	교통과	교통+과	CCONJ	_	9	conj	_	_	교통/ncn+과/jcj
+9	커뮤니케이션	커뮤니케이션	NOUN	_	12	compound	_	_	커뮤니케이션/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	비즈니스	비즈니스	NOUN	_	12	compound	_	_	비즈니스/ncn
+12	시스템	시스템	NOUN	_	14	compound	_	_	시스템/ncn
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	음식	음식	NOUN	_	17	conj	_	_	음식/ncn
+15	,	,	PUNCT	_	14	punct	_	_	,/sp
+16	위료와	의료+와	CCONJ	_	17	conj	_	_	의료/ncn+와/jcj
+17	공중위생	공중+위생	NOUN	_	20	compound	_	_	공중/ncn+위생/ncn
+18	,	,	PUNCT	_	17	punct	_	_	,/sp
+19	과학과	과학+과	CCONJ	_	20	conj	_	_	과학/ncn+과/jcj
+20	교육	교육	NOUN	_	23	compound	_	_	교육/ncpa
+21	,	,	PUNCT	_	20	punct	_	_	,/sp
+22	공동체의	공동체+의	NOUN	_	23	nmod	_	_	공동체/ncn+의/jcm
+23	이해관계	이해+관계	NOUN	_	24	compound	_	_	이해/ncpa+관계/ncpa
+24	등이다	등+이+다	VERB	_	0	root	_	_	등/nbn+이/jp+다/ef
+25	.	.	PUNCT	_	24	punct	_	_	./sf
+
+# 즉 사회 전반의 모든 문제를 다 다룬다고 보아야 맞는 말일 것이다 .
+1	즉	즉	ADV	_	7	advmod	_	_	즉/mag
+2	사회	사회	NOUN	_	3	compound	_	_	사회/ncn
+3	전반의	전반+의	NOUN	_	5	nmod	_	_	전반/ncn+의/jcm
+4	모든	모든	DET	_	5	det	_	_	모든/mmd
+5	문제를	문제+를	NOUN	_	7	obj	_	_	문제/ncn+를/jco
+6	다	다	ADV	_	7	advmod	_	_	다/mag
+7	다룬다고	다루+ㄴ다+고	VERB	_	8	conj	_	_	다루/pvg+ㄴ다/ef+고/jcr
+8	보아야	보+아야	SCONJ	_	9	ccomp	_	_	보/pvg+아야/ecs
+9	맞는	맞+는	VERB	_	10	ccomp	_	_	맞/pvg+는/etm
+10	말일	말+이+ㄹ	VERB	_	0	root	_	_	말/ncpa+이/jp+ㄹ/etm
+11	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+

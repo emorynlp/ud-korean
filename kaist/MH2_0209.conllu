@@ -1,0 +1,2116 @@
+# 헐리우드 갱 영화 시대의 시작을 최초로 공식적으로 통보한 영화는 아치 메이오 감독의 < 지옥에의 출입구 Doonway to Hell > 이다 .
+1	헐리우드	헐리우드	PROPN	_	3	compound	_	_	헐리우드/nq
+2	갱	갱	NOUN	_	3	compound	_	_	갱/ncn
+3	영화	영화	NOUN	_	4	compound	_	_	영화/ncn
+4	시대의	시대+의	NOUN	_	5	nmod	_	_	시대/ncn+의/jcm
+5	시작을	시작+을	NOUN	_	8	obj	_	_	시작/ncpa+을/jco
+6	최초로	최초로	ADV	_	8	advmod	_	_	최초로/mag
+7	공식적으로	공식+적+으로	ADV	_	8	advcl	_	_	공식/ncn+적/xsn+으로/jca
+8	통보한	통보+하+ㄴ	VERB	_	9	acl	_	_	통보/ncpa+하/xsv+ㄴ/etm
+9	영화는	영화+는	NOUN	_	18	dislocated	_	_	영화/ncn+는/jxt
+10	아치	아치	PROPN	_	11	flat	_	_	아치/nq
+11	메이오	메이오	PROPN	_	12	compound	_	_	메이오/nq
+12	감독의	감독+의	NOUN	_	18	nmod	_	_	감독/ncpa+의/jcm
+13	<	<	PUNCT	_	14	punct	_	_	</sl
+14	지옥에의	지옥+에+의	NOUN	_	15	nmod	_	_	지옥/ncn+에/jca+의/jcm
+15	출입구	출입구	NOUN	_	18	dep	_	_	출입구/ncn
+16	Doonway	Doonway	X	_	18	flat	_	_	Doonway/f
+17	to	to	X	_	18	flat	_	_	to/f
+18	Hell	Hell	X	_	0	root	_	_	Hell/f
+19	>	>	PUNCT	_	18	punct	_	_	>/sr
+20	이다	이+다	ADP	_	18	cop	_	_	이/jp+다/ef
+21	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 시카고 남쪽 지역에 범죄단을 구성 , 불법을 자행하다 1925년 은퇴하면서 그 범죄조직을 알 카포네에게 물려준 자니토리오의 얘기였다 .
+1	시카고	시카고	PROPN	_	2	compound	_	_	시카고/nq
+2	남쪽	남쪽	NOUN	_	3	compound	_	_	남쪽/ncn
+3	지역에	지역+에	ADV	_	5	obl	_	_	지역/ncn+에/jca
+4	범죄단을	범죄단+을	NOUN	_	5	obj	_	_	범죄단/ncn+을/jco
+5	구성	구성	NOUN	_	8	advmod	_	_	구성/ncpa
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	불법을	불법+을	NOUN	_	8	obj	_	_	불법/ncn+을/jco
+8	자행하다	자행+하+다	SCONJ	_	10	ccomp	_	_	자행/ncpa+하/xsv+다/ecs
+9	1925년	1925+년	NOUN	_	10	compound	_	_	1925/nno+년/nbu
+10	은퇴하면서	은퇴+하+면서	CCONJ	_	15	conj	_	_	은퇴/ncpa+하/xsv+면서/ecc
+11	그	그	DET	_	12	det	_	_	그/mmd
+12	범죄조직을	범죄+조직+을	NOUN	_	15	obj	_	_	범죄/ncpa+조직/ncpa+을/jco
+13	알	알	PROPN	_	14	flat	_	_	알/nq
+14	카포네에게	카포네+에게	ADV	_	15	iobj	_	_	카포네/nq+에게/jca
+15	물려준	물려주+ㄴ	VERB	_	16	acl	_	_	물려주/pvg+ㄴ/etm
+16	자니토리오의	자니토리오+의	PROPN	_	17	nmod	_	_	자니토리오/nq+의/jcm
+17	얘기였다	얘기+이+었+다	VERB	_	0	root	_	_	얘기/ncpa+이/jp+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이때가 갱스터 영화의 스타배출 시대로 제임스 캐그니 , 에드워드 G 로빈슨 , 조지 래프트 등은 모두 범법자 노릇을 해 빅 스타가 된 사람들이다 .
+1	이때가	이때+가	PRON	_	5	nsubj	_	_	이때/npd+가/jcs
+2	갱스터	갱스터	NOUN	_	3	compound	_	_	갱스터/ncn
+3	영화의	영화+의	NOUN	_	5	nmod	_	_	영화/ncn+의/jcm
+4	스타배출	스타+배출	NOUN	_	5	compound	_	_	스타/ncn+배출/ncpa
+5	시대로	시대+로	ADV	_	23	advcl	_	_	시대/ncn+로/jca
+6	제임스	제임스	PROPN	_	7	flat	_	_	제임스/nq
+7	캐그니	캐그니	PROPN	_	14	flat	_	_	캐그니/nq
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	에드워드	에드워드	PROPN	_	11	flat	_	_	에드워드/nq
+10	G	G	X	_	11	flat	_	_	G/f
+11	로빈슨	로빈슨	PROPN	_	14	flat	_	_	로빈슨/nq
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	조지	조지	PROPN	_	14	flat	_	_	조지/nq
+14	래프트	래프트	PROPN	_	15	compound	_	_	래프트/nq
+15	등은	등+은	NOUN	_	23	dislocated	_	_	등/nbn+은/jxt
+16	모두	모두	ADV	_	19	advmod	_	_	모두/mag
+17	범법자	범법자	NOUN	_	18	compound	_	_	범법자/ncn
+18	노릇을	노릇+을	NOUN	_	19	obj	_	_	노릇/nbn+을/jco
+19	해	하+어	SCONJ	_	22	ccomp	_	_	하/pvg+어/ecs
+20	빅	빅	NOUN	_	21	compound	_	_	빅/ncn
+21	스타가	스타+가	NOUN	_	22	csubj	_	_	스타/ncn+가/jcc
+22	된	되+ㄴ	VERB	_	23	ccomp	_	_	되/pvg+ㄴ/etm
+23	사람들이다	사람+들+이+다	VERB	_	0	root	_	_	사람/ncn+들/xsn+이/jp+다/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+
+# 이어 희대의 갱스터로 시카고를 주름잡은 알 카포네를 주인공으로 한 영화들이 쏟아져 나왔다 .
+1	이어	잇+어	SCONJ	_	11	ccomp	_	_	잇/pvg+어/ecs
+2	희대의	희대+의	NOUN	_	3	nmod	_	_	희대/ncn+의/jcm
+3	갱스터로	갱스터+로	ADV	_	5	advcl	_	_	갱스터/ncn+로/jca
+4	시카고를	시카고+를	PROPN	_	5	obj	_	_	시카고/nq+를/jco
+5	주름잡은	주름잡+은	VERB	_	7	acl	_	_	주름잡/pvg+은/etm
+6	알	알	PROPN	_	7	flat	_	_	알/nq
+7	카포네를	카포네+를	PROPN	_	9	obj	_	_	카포네/nq+를/jco
+8	주인공으로	주인공+으로	ADV	_	9	advcl	_	_	주인공/ncn+으로/jca
+9	한	하+ㄴ	VERB	_	10	acl	_	_	하/pvg+ㄴ/etm
+10	영화들이	영화+들+이	NOUN	_	11	nsubj	_	_	영화/ncn+들/xsn+이/jcs
+11	쏟아져	쏟+아+지+어	AUX	_	0	root	_	_	쏟/pvg+아/ecx+지/px+어/ecx
+12	나왔다	나오+았+다	AUX	_	11	aux	_	_	나오/px+았/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 하워드 호크스 감독의 폭력적인 작품이었다 .
+1	하워드	하워드	PROPN	_	2	flat	_	_	하워드/nq
+2	호크스	호크스	PROPN	_	3	compound	_	_	호크스/nq
+3	감독의	감독+의	NOUN	_	5	nmod	_	_	감독/ncpa+의/jcm
+4	폭력적인	폭력+적+이+ㄴ	VERB	_	5	acl	_	_	폭력/ncn+적/xsn+이/jp+ㄴ/etm
+5	작품이었다	작품+이+었+다	VERB	_	0	root	_	_	작품/ncn+이/jp+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 이 시대는 험프리 보가트 ( 애칭 보기 ) 가 출세가도를 달리고 있는 시대이다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	시대는	시대+는	NOUN	_	13	dislocated	_	_	시대/ncn+는/jxt
+3	험프리	험프리	PROPN	_	4	flat	_	_	험프리/nq
+4	보가트	보가트	PROPN	_	11	nsubj	_	_	보가트/nq
+5	(	(	PUNCT	_	7	punct	_	_	(/sl
+6	애칭	애칭	NOUN	_	7	compound	_	_	애칭/ncpa
+7	보기	보기	PROPN	_	4	appos	_	_	보기/nq
+8	)	)	PUNCT	_	7	punct	_	_	)/sr
+9	가	가	ADP	_	4	case	_	_	가/jcs
+10	출세가도를	출세+가도+를	NOUN	_	11	obj	_	_	출세/ncpa+가도/ncn+를/jco
+11	달리고	달리+고	VERB	_	13	ccomp	_	_	달리/pvg+고/ecx
+12	있는	있+는	AUX	_	11	aux	_	_	있/px+는/etm
+13	시대이다	시대+이+다	VERB	_	0	root	_	_	시대/ncn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그러나 몇 년 안되어 갱 영화는 다시 자취를 감추고 갱스터 대신 스파이 , 사립탐정 및 전쟁 영웅들이 나와 판을 치게 된다 .
+1	그러나	그러나	CCONJ	_	20	cc	_	_	그러나/maj
+2	몇	몇	ADJ	_	3	amod	_	_	몇/mma
+3	년	년	NOUN	_	4	dep	_	_	년/nbu
+4	안되어	안되+어	SCONJ	_	9	ccomp	_	_	안되/pvg+어/ecs
+5	갱	갱	NOUN	_	6	compound	_	_	갱/ncn
+6	영화는	영화+는	NOUN	_	9	dislocated	_	_	영화/ncn+는/jxt
+7	다시	다시	ADV	_	9	advmod	_	_	다시/mag
+8	자취를	자취+를	NOUN	_	9	obj	_	_	자취/ncn+를/jco
+9	감추고	감추+고	CCONJ	_	20	conj	_	_	감추/pvg+고/ecc
+10	갱스터	갱스터	NOUN	_	11	compound	_	_	갱스터/ncn
+11	대신	대신	NOUN	_	18	advmod	_	_	대신/ncn
+12	스파이	스파이	NOUN	_	14	conj	_	_	스파이/ncn
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	사립탐정	사립탐정	NOUN	_	17	conj	_	_	사립탐정/ncn
+15	및	및	CCONJ	_	17	cc	_	_	및/maj
+16	전쟁	전쟁	NOUN	_	17	compound	_	_	전쟁/ncpa
+17	영웅들이	영웅+들+이	NOUN	_	18	nsubj	_	_	영웅/ncn+들/xsn+이/jcs
+18	나와	나오+아	SCONJ	_	20	ccomp	_	_	나오/pvg+아/ecs
+19	판을	판+을	NOUN	_	20	obj	_	_	판/ncn+을/jco
+20	치게	치+게	VERB	_	0	root	_	_	치/pvg+게/ecx
+21	된다	되+ㄴ다	AUX	_	20	aux	_	_	되/px+ㄴ다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 1953년에는 독일 출신 프리츠 랭 감독이 잘 만든 갱에 대한 복수극 < 빅히트 The Big Heat > 가 나와 그야말로 빅 히트를 한다 .
+1	1953년에는	1953+년+에+는	NUM	_	19	dislocated	_	_	1953/nno+년/nbu+에/jca+는/jxt
+2	독일	독일	PROPN	_	3	compound	_	_	독일/nq
+3	출신	출신	NOUN	_	6	compound	_	_	출신/ncn
+4	프리츠	프리츠	PROPN	_	5	flat	_	_	프리츠/nq
+5	랭	랭	PROPN	_	6	compound	_	_	랭/nq
+6	감독이	감독+이	NOUN	_	8	nsubj	_	_	감독/ncpa+이/jcs
+7	잘	잘	ADV	_	8	advmod	_	_	잘/mag
+8	만든	만들+ㄴ	VERB	_	16	acl	_	_	만들/pvg+ㄴ/etm
+9	갱에	갱+에	ADV	_	10	obl	_	_	갱/ncn+에/jca
+10	대한	대하+ㄴ	VERB	_	11	acl	_	_	대하/pvg+ㄴ/etm
+11	복수극	복수극	NOUN	_	16	dep	_	_	복수극/ncn
+12	<	<	PUNCT	_	16	punct	_	_	</sl
+13	빅히트	빅히트	PROPN	_	16	flat	_	_	빅히트/nq
+14	The	The	X	_	16	flat	_	_	The/f
+15	Big	Big	X	_	16	flat	_	_	Big/f
+16	Heat	Heat	X	_	19	nsubj	_	_	Heat/f
+17	>	>	PUNCT	_	16	punct	_	_	>/sr
+18	가	가	ADP	_	16	case	_	_	가/jcs
+19	나와	나오+아	SCONJ	_	23	ccomp	_	_	나오/pvg+아/ecs
+20	그야말로	그야말로	ADV	_	23	advmod	_	_	그야말로/mag
+21	빅	빅	NOUN	_	22	compound	_	_	빅/ncn
+22	히트를	히트+를	NOUN	_	23	obj	_	_	히트/ncpa+를/jco
+23	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+
+# 바니와 클라이드가 기총소사로 온 몸이 벌집이 된 채 살해되는 장면을 느린 동작으로 잡은 마지막 장면은 당시 대단한 화제거리로 등장하였다 .
+1	바니와	바니+와	CCONJ	_	2	conj	_	_	바니/nq+와/jcj
+2	클라이드가	클라이드+가	PROPN	_	9	nsubj	_	_	클라이드/nq+가/jcs
+3	기총소사로	기총소사+로	ADV	_	7	advcl	_	_	기총소사/ncpa+로/jca
+4	온	온	ADJ	_	5	amod	_	_	온/mma
+5	몸이	몸+이	NOUN	_	7	nsubj	_	_	몸/ncn+이/jcs
+6	벌집이	벌집+이	NOUN	_	7	csubj	_	_	벌집/ncn+이/jcc
+7	된	되+ㄴ	VERB	_	8	acl	_	_	되/pvg+ㄴ/etm
+8	채	채	NOUN	_	9	mark	_	_	채/nbn
+9	살해되는	살해+되+는	VERB	_	10	acl	_	_	살해/ncpa+되/xsv+는/etm
+10	장면을	장면+을	NOUN	_	13	obj	_	_	장면/ncn+을/jco
+11	느린	느리+ㄴ	ADJ	_	12	amod	_	_	느리/paa+ㄴ/etm
+12	동작으로	동작+으로	ADV	_	13	advcl	_	_	동작/ncpa+으로/jca
+13	잡은	잡+ㄴ	VERB	_	15	acl	_	_	잡/pvg+ㄴ/etm
+14	마지막	마지막	NOUN	_	15	compound	_	_	마지막/ncn
+15	장면은	장면+은	NOUN	_	19	dislocated	_	_	장면/ncn+은/jxt
+16	당시	당시	NOUN	_	19	advmod	_	_	당시/ncn
+17	대단한	대단+하+ㄴ	VERB	_	18	amod	_	_	대단/ncps+하/xsm+ㄴ/etm
+18	화제거리로	화제거리+로	ADV	_	19	advcl	_	_	화제거리/ncn+로/jca
+19	등장하였다	등장+하+었+다	VERB	_	0	root	_	_	등장/ncpa+하/xsv+었/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 이어 갱 영화의 궁극적 서사극이라 불리는 < 대부 The Godfaher > 1 , 2편이 1972년과 1974년에 각각 나와 모두 오스카 작품상을 받는 신기록을 수립했다 .
+1	이어	잇+어	SCONJ	_	24	ccomp	_	_	잇/pvg+어/ecs
+2	갱	갱	NOUN	_	3	compound	_	_	갱/ncn
+3	영화의	영화+의	NOUN	_	5	nmod	_	_	영화/ncn+의/jcm
+4	궁극적	궁극+적	NOUN	_	5	amod	_	_	궁극/ncps+적/xsn
+5	서사극이라	서사극+이+라	VERB	_	6	ccomp	_	_	서사극/ncn+이/jp+라/ef
+6	불리는	불리+는	VERB	_	14	acl	_	_	불리/pvg+는/etm
+7	<	<	PUNCT	_	8	punct	_	_	</sl
+8	대부	대부	NOUN	_	10	dep	_	_	대부/ncn
+9	The	The	X	_	10	flat	_	_	The/f
+10	Godfaher	Godfaher	X	_	14	compound	_	_	Godfaher/f
+11	>	>	PUNCT	_	10	punct	_	_	>/sr
+12	1	1	NUM	_	14	conj	_	_	1/nnc
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	2편이	2+편+이	NUM	_	24	nsubj	_	_	2/nnc+편/nbu+이/jcs
+15	1972년과	1972+년+과	CCONJ	_	16	conj	_	_	1972/nno+년/nbu+과/jcj
+16	1974년에	1974+년+에	ADV	_	18	obl	_	_	1974/nno+년/nbu+에/jca
+17	각각	각각	ADV	_	18	advmod	_	_	각각/mag
+18	나와	나오+아	SCONJ	_	24	ccomp	_	_	나오/pvg+아/ecs
+19	모두	모두	ADV	_	22	advmod	_	_	모두/mag
+20	오스카	오스카	PROPN	_	21	compound	_	_	오스카/nq
+21	작품상을	작품상+을	NOUN	_	22	obj	_	_	작품상/ncn+을/jco
+22	받는	받+는	VERB	_	23	acl	_	_	받/pvg+는/etm
+23	신기록을	신기록+을	NOUN	_	24	obj	_	_	신기록/ncpa+을/jco
+24	수립했다	수립+하+었+다	VERB	_	0	root	_	_	수립/ncpa+하/xsv+었/ep+다/ef
+25	.	.	PUNCT	_	24	punct	_	_	./sf
+
+# 그러나 윌리엄 웰만이 감독한 이 영화는 한 갱스터가 어떻게 말단에서 시작해 우두머리 자리에까지 오르는가를 생생하게 보여 주고 있다 .
+1	그러나	그러나	CCONJ	_	16	cc	_	_	그러나/maj
+2	윌리엄	윌리엄	PROPN	_	3	flat	_	_	윌리엄/nq
+3	웰만이	웰만+이	PROPN	_	4	nsubj	_	_	웰만/nq+이/jcs
+4	감독한	감독+하+ㄴ	VERB	_	6	acl	_	_	감독/ncpa+하/xsv+ㄴ/etm
+5	이	이	DET	_	6	det	_	_	이/mmd
+6	영화는	영화+는	NOUN	_	16	dislocated	_	_	영화/ncn+는/jxt
+7	한	한	NUM	_	8	nummod	_	_	한/nnc
+8	갱스터가	갱스터+가	NOUN	_	14	nsubj	_	_	갱스터/ncn+가/jcs
+9	어떻게	어떻+게	SCONJ	_	14	xcomp	_	_	어떻/pad+게/ecs
+10	말단에서	말단+에서	ADV	_	11	advcl	_	_	말단/ncn+에서/jca
+11	시작해	시작+하+어	SCONJ	_	14	ccomp	_	_	시작/ncpa+하/xsv+어/ecs
+12	우두머리	우두머리	NOUN	_	13	compound	_	_	우두머리/ncn
+13	자리에까지	자리+에+까지	ADV	_	14	advcl	_	_	자리/ncn+에/jca+까지/jxc
+14	오르는가를	오르+는가+를	NOUN	_	16	obj	_	_	오르/pvg+는가/ef+를/jco
+15	생생하게	생생+하+게	SCONJ	_	16	xcomp	_	_	생생/ncps+하/xsm+게/ecs
+16	보여	보이+어	VERB	_	0	root	_	_	보이/pvg+어/ecx
+17	주고	주+고	AUX	_	16	aux	_	_	주/px+고/ecx
+18	있다	있+다	AUX	_	16	aux	_	_	있/px+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 특히 그가 아침 식탁에서 바가지를 긁는 애인 역의 메이 클라크 얼굴에 그레이프 프루트를 문질러대는 장면은 영화사에 길이 남는 장면이다 .
+1	특히	특히	ADV	_	14	advmod	_	_	특히/mag
+2	그가	그+가	PRON	_	14	nsubj	_	_	그/npp+가/jcs
+3	아침	아침	NOUN	_	4	compound	_	_	아침/ncn
+4	식탁에서	식탁+에서	ADV	_	6	advcl	_	_	식탁/ncn+에서/jca
+5	바가지를	바가지+를	NOUN	_	6	obj	_	_	바가지/ncn+를/jco
+6	긁는	긁+는	VERB	_	7	acl	_	_	긁/pvg+는/etm
+7	애인	애인	NOUN	_	8	compound	_	_	애인/ncn
+8	역의	역+의	NOUN	_	10	nmod	_	_	역/ncn+의/jcm
+9	메이	메이	PROPN	_	10	flat	_	_	메이/nq
+10	클라크	클라크	PROPN	_	11	compound	_	_	클라크/nq
+11	얼굴에	얼굴+에	ADV	_	14	obl	_	_	얼굴/ncn+에/jca
+12	그레이프	그레이프	NOUN	_	13	compound	_	_	그레이프/ncn
+13	프루트를	프루트+를	NOUN	_	14	obj	_	_	프루트/ncn+를/jco
+14	문질러대는	문지르+어+대+는	AUX	_	15	acl	_	_	문지르/pvg+어/ecx+대/px+는/etm
+15	장면은	장면+은	NOUN	_	19	dislocated	_	_	장면/ncn+은/jxt
+16	영화사에	영화사+에	ADV	_	18	obl	_	_	영화사/ncn+에/jca
+17	길이	길이	ADV	_	18	advmod	_	_	길이/mag
+18	남는	남+는	VERB	_	19	ccomp	_	_	남/pvg+는/etm
+19	장면이다	장면+이+다	VERB	_	0	root	_	_	장면/ncn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 1983년 브라이안 디 팔마 감독이 알 파치노를 기용 , 동명의 영화를 만들었는데 너무 폭력적이어서 큰 화제가 됐었다 .
+1	1983년	1983+년	NOUN	_	12	advmod	_	_	1983/nno+년/nbu
+2	브라이안	브라이안	PROPN	_	4	flat	_	_	브라이안/nq
+3	디	디	PROPN	_	4	flat	_	_	디/nq
+4	팔마	팔마	PROPN	_	5	compound	_	_	팔마/nq
+5	감독이	감독+이	NOUN	_	12	nsubj	_	_	감독/ncpa+이/jcs
+6	알	알	PROPN	_	7	flat	_	_	알/nq
+7	파치노를	파치노+를	PROPN	_	8	obj	_	_	파치노/nq+를/jco
+8	기용	기용	NOUN	_	12	advmod	_	_	기용/ncpa
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	동명의	동명+의	NOUN	_	11	nmod	_	_	동명/ncn+의/jcm
+11	영화를	영화+를	NOUN	_	12	obj	_	_	영화/ncn+를/jco
+12	만들었는데	만들+었+는데	SCONJ	_	17	ccomp	_	_	만들/pvg+었/ep+는데/ecs
+13	너무	너무	ADV	_	14	advmod	_	_	너무/mag
+14	폭력적이어서	폭력+적+이+어서	SCONJ	_	17	ccomp	_	_	폭력/ncn+적/xsn+이/jp+어서/ecs
+15	큰	크+ㄴ	ADJ	_	16	amod	_	_	크/paa+ㄴ/etm
+16	화제가	화제+가	NOUN	_	17	csubj	_	_	화제/ncn+가/jcc
+17	됐었다	되+었었+다	VERB	_	0	root	_	_	되/pvg+었었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 에바 가드너가 갱스터의 정부로 나와 뇌쇄적인 자태를 과시한다 .
+1	에바	에바	PROPN	_	2	flat	_	_	에바/nq
+2	가드너가	가드너+가	PROPN	_	8	nsubj	_	_	가드너/nq+가/jcs
+3	갱스터의	갱스터+의	NOUN	_	4	nmod	_	_	갱스터/ncn+의/jcm
+4	정부로	정부+로	ADV	_	5	advcl	_	_	정부/ncn+로/jca
+5	나와	나오+아	SCONJ	_	8	ccomp	_	_	나오/pvg+아/ecs
+6	뇌쇄적인	뇌쇄+적+이+ㄴ	VERB	_	7	acl	_	_	뇌쇄/ncn+적/xsn+이/jp+ㄴ/etm
+7	자태를	자태+를	NOUN	_	8	obj	_	_	자태/ncn+를/jco
+8	과시한다	과시+하+ㄴ다	VERB	_	0	root	_	_	과시/ncpa+하/xsv+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이 단편은 1964년 단 시겔에 의해 다시 영화로 만들어졌는데 로널드 레이건의 마지막 작품이기도 하다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	단편은	단편+은	NOUN	_	13	dislocated	_	_	단편/ncn+은/jxt
+3	1964년	1964+년	NOUN	_	9	advmod	_	_	1964/nno+년/nbu
+4	단	단	PROPN	_	5	flat	_	_	단/nq
+5	시겔에	시겔+에	ADV	_	6	obl	_	_	시겔/nq+에/jca
+6	의해	의하+어	SCONJ	_	9	ccomp	_	_	의하/pvg+어/ecs
+7	다시	다시	ADV	_	9	advmod	_	_	다시/mag
+8	영화로	영화+로	ADV	_	9	advcl	_	_	영화/ncn+로/jca
+9	만들어졌는데	만들+어+지+었+는데	SCONJ	_	13	ccomp	_	_	만들/pvg+어/ecx+지/px+었/ep+는데/ecs
+10	로널드	로널드	PROPN	_	11	flat	_	_	로널드/nq
+11	레이건의	레이건+의	PROPN	_	13	nmod	_	_	레이건/nq+의/jcm
+12	마지막	마지막	NOUN	_	13	compound	_	_	마지막/ncn
+13	작품이기도	작품+이+기+도	ADV	_	0	root	_	_	작품/ncn+이/jp+기/etn+도/jxc
+14	하다	하+다	AUX	_	13	aux	_	_	하/px+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 레이건은 여기서 악역을 맡아 귀싸대기를 맞더니 급기야는 총에 맞아 죽는다 .
+1	레이건은	레이건+은	PROPN	_	10	dislocated	_	_	레이건/nq+은/jxt
+2	여기서	여기+서	ADV	_	4	advcl	_	_	여기/npd+서/jca
+3	악역을	악역+을	NOUN	_	4	obj	_	_	악역/ncn+을/jco
+4	맡아	맡+아	SCONJ	_	6	ccomp	_	_	맡/pvg+아/ecs
+5	귀싸대기를	귀싸대기+를	NOUN	_	6	obj	_	_	귀싸대기/ncn+를/jco
+6	맞더니	맞+더니	SCONJ	_	10	ccomp	_	_	맞/pvg+더니/ecs
+7	급기야는	급기야+는	NOUN	_	10	advmod	_	_	급기야/mag+는/jxt
+8	총에	총+에	ADV	_	9	obl	_	_	총/ncn+에/jca
+9	맞아	맞+아	SCONJ	_	10	ccomp	_	_	맞/pvg+아/ecs
+10	죽는다	죽+는다	VERB	_	0	root	_	_	죽/pvg+는다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 내용과 연기 및 성격 묘사가 모두 충실한 영화로 갱스터 영화의 표본 같은 작품이다 .
+1	내용과	내용+과	CCONJ	_	2	conj	_	_	내용/ncn+과/jcj
+2	연기	연기	NOUN	_	5	conj	_	_	연기/ncpa
+3	및	및	CCONJ	_	5	cc	_	_	및/maj
+4	성격	성격	NOUN	_	5	compound	_	_	성격/ncn
+5	묘사가	묘사+가	NOUN	_	7	nsubj	_	_	묘사/ncpa+가/jcs
+6	모두	모두	ADV	_	7	advmod	_	_	모두/mag
+7	충실한	충실+하+ㄴ	VERB	_	8	amod	_	_	충실/ncps+하/xsm+ㄴ/etm
+8	영화로	영화+로	ADV	_	13	advcl	_	_	영화/ncn+로/jca
+9	갱스터	갱스터	NOUN	_	10	compound	_	_	갱스터/ncn
+10	영화의	영화+의	NOUN	_	11	nmod	_	_	영화/ncn+의/jcm
+11	표본	표본	NOUN	_	12	dep	_	_	표본/ncn
+12	같은	같+ㄴ	ADJ	_	13	amod	_	_	같/paa+ㄴ/etm
+13	작품이다	작품+이+다	VERB	_	0	root	_	_	작품/ncn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 스털링 헤이든 , 샘 재피 , 마릴린 먼로가 공연했다 .
+1	스털링	스털링	PROPN	_	2	flat	_	_	스털링/nq
+2	헤이든	헤이든	PROPN	_	8	flat	_	_	헤이든/nq
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	샘	샘	PROPN	_	5	flat	_	_	샘/nq
+5	재피	재피	PROPN	_	8	flat	_	_	재피/nq
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	마릴린	마릴린	PROPN	_	8	flat	_	_	마릴린/nq
+8	먼로가	먼로+가	PROPN	_	9	nsubj	_	_	먼로/nq+가/jcs
+9	공연했다	공연+하+었+다	VERB	_	0	root	_	_	공연/ncpa+하/xsv+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 동명의 유명 TV 시리즈를 브라이안 디 팔마가 영상화했다 .
+1	동명의	동명+의	NOUN	_	4	nmod	_	_	동명/ncn+의/jcm
+2	유명	유명	NOUN	_	4	compound	_	_	유명/ncps
+3	TV	TV	X	_	4	compound	_	_	TV/f
+4	시리즈를	시리즈+를	NOUN	_	8	obj	_	_	시리즈/ncn+를/jco
+5	브라이안	브라이안	PROPN	_	7	flat	_	_	브라이안/nq
+6	디	디	PROPN	_	7	flat	_	_	디/nq
+7	팔마가	팔마+가	PROPN	_	8	nsubj	_	_	팔마/nq+가/jcs
+8	영상화했다	영상화+하+었+다	VERB	_	0	root	_	_	영상화/ncpa+하/xsv+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 알 카포네와 싸우는 고지식한 법집행자들의 얘기를 약간 허세를 부리듯 대담하고 웅장한 스타일로 엮어냈다 .
+1	알	알	PROPN	_	2	flat	_	_	알/nq
+2	카포네와	카포네+와	CCONJ	_	3	conj	_	_	카포네/nq+와/jct
+3	싸우는	싸우+는	VERB	_	5	acl	_	_	싸우/pvg+는/etm
+4	고지식한	고지식+하+ㄴ	VERB	_	5	amod	_	_	고지식/ncps+하/xsm+ㄴ/etm
+5	법집행자들의	법집행자+들+의	NOUN	_	6	nmod	_	_	법집행자/ncn+들/xsn+의/jcm
+6	얘기를	얘기+를	NOUN	_	13	obj	_	_	얘기/ncpa+를/jco
+7	약간	약간	ADV	_	9	advmod	_	_	약간/mag
+8	허세를	허세+를	NOUN	_	9	obj	_	_	허세/ncn+를/jco
+9	부리듯	부리+듯	SCONJ	_	11	conj	_	_	부리/pvg+듯/ecs
+10	대담하고	대담+하+고	CCONJ	_	11	conj	_	_	대담/ncps+하/xsm+고/ecc
+11	웅장한	웅장+하+ㄴ	VERB	_	12	amod	_	_	웅장/ncps+하/xsm+ㄴ/etm
+12	스타일로	스타일+로	ADV	_	13	advcl	_	_	스타일/ncn+로/jca
+13	엮어냈다	엮+어+내+ㅆ+다	AUX	_	0	root	_	_	엮/pvg+어/ecx+내/px+ㅆ/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 케빈 코스트너 , 숀 코너리 , 로버트 드 니로가 공연했다 .
+1	케빈	케빈	PROPN	_	2	flat	_	_	케빈/nq
+2	코스트너	코스트너	PROPN	_	9	flat	_	_	코스트너/nq
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	숀	숀	PROPN	_	5	flat	_	_	숀/nq
+5	코너리	코너리	PROPN	_	9	flat	_	_	코너리/nq
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	로버트	로버트	PROPN	_	9	flat	_	_	로버트/nq
+8	드	드	PROPN	_	9	flat	_	_	드/nq
+9	니로가	니로+가	PROPN	_	10	nsubj	_	_	니로/nq+가/jcs
+10	공연했다	공연+하+었+다	VERB	_	0	root	_	_	공연/ncpa+하/xsv+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 마틴 스콜세이지 감독의 개인적 사고와 감정이 깊이 배어 있는 마피아 갱 영화로 야생적 에너지가 넘쳐흐른다 .
+1	마틴	마틴	PROPN	_	2	flat	_	_	마틴/nq
+2	스콜세이지	스콜세이지	PROPN	_	3	compound	_	_	스콜세이지/nq
+3	감독의	감독+의	NOUN	_	6	nmod	_	_	감독/ncpa+의/jcm
+4	개인적	개인+적	NOUN	_	6	amod	_	_	개인/ncn+적/xsn
+5	사고와	사고+와	CCONJ	_	6	conj	_	_	사고/ncpa+와/jcj
+6	감정이	감정+이	NOUN	_	8	nsubj	_	_	감정/ncn+이/jcs
+7	깊이	깊이	ADV	_	8	advmod	_	_	깊이/mag
+8	배어	배+어	VERB	_	12	acl	_	_	배/pvg+어/ecx
+9	있는	있+는	AUX	_	8	aux	_	_	있/px+는/etm
+10	마피아	마피아	PROPN	_	11	compound	_	_	마피아/nq
+11	갱	갱	NOUN	_	12	compound	_	_	갱/ncn
+12	영화로	영화+로	ADV	_	15	advcl	_	_	영화/ncn+로/jca
+13	야생적	야생+적	NOUN	_	14	amod	_	_	야생/ncpa+적/xsn
+14	에너지가	에너지+가	NOUN	_	15	nsubj	_	_	에너지/ncn+가/jcs
+15	넘쳐흐른다	넘쳐흐르+ㄴ다	VERB	_	0	root	_	_	넘쳐흐르/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 스콜세이지를 A급 감독으로 밀어올린 영화이기도 하다 .
+1	스콜세이지를	스콜세이지+를	PROPN	_	4	obj	_	_	스콜세이지/nq+를/jco
+2	A급	A+급	NOUN	_	3	compound	_	_	A/f+급/nbu
+3	감독으로	감독+으로	ADV	_	4	advcl	_	_	감독/ncpa+으로/jca
+4	밀어올린	밀어올리+ㄴ	VERB	_	5	ccomp	_	_	밀어올리/pvg+ㄴ/etm
+5	영화이기도	영화+이+기+도	ADV	_	0	root	_	_	영화/ncn+이/jp+기/etn+도/jxc
+6	하다	하+다	AUX	_	5	aux	_	_	하/px+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 코폴라는 여기서 갱 사회를 자본주의가 갖고 있는 악몽 같은 이미지와 연결시키고 있다 .
+1	코폴라는	코폴라+는	PROPN	_	11	dislocated	_	_	코폴라/nq+는/jxt
+2	여기서	여기+서	ADV	_	11	advcl	_	_	여기/npd+서/jca
+3	갱	갱	NOUN	_	4	compound	_	_	갱/ncn
+4	사회를	사회+를	NOUN	_	11	obj	_	_	사회/ncn+를/jco
+5	자본주의가	자본주의+가	NOUN	_	6	nsubj	_	_	자본주의/ncn+가/jcs
+6	갖고	갖+고	VERB	_	10	acl	_	_	갖/pvg+고/ecx
+7	있는	있+는	AUX	_	6	aux	_	_	있/px+는/etm
+8	악몽	악몽	NOUN	_	9	dep	_	_	악몽/ncn
+9	같은	같+ㄴ	ADJ	_	10	amod	_	_	같/paa+ㄴ/etm
+10	이미지와	이미지+와	CCONJ	_	11	conj	_	_	이미지/ncn+와/jct
+11	연결시키고	연결+시키+고	VERB	_	0	root	_	_	연결/ncpa+시키/xsv+고/ecx
+12	있다	있+다	AUX	_	11	aux	_	_	있/px+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# ' 아메리칸 드림 ' 과 ' 이민자들의 꿈 ' 의 부패와 부작용이 압도적인 비극성으로 묘사되는 오페라 같은 영화다 .
+1	'	'	PUNCT	_	3	punct	_	_	'/sl
+2	아메리칸	아메리칸	PROPN	_	3	compound	_	_	아메리칸/nq
+3	드림	드림	NOUN	_	8	conj	_	_	드림/ncn
+4	'	'	PUNCT	_	3	punct	_	_	'/sr
+5	과	과	CCONJ	_	3	case	_	_	과/jcj
+6	'	'	PUNCT	_	7	punct	_	_	'/sl
+7	이민자들의	이민자+들+의	NOUN	_	8	nmod	_	_	이민자/ncn+들/xsn+의/jcm
+8	꿈	꿈	NOUN	_	12	nmod	_	_	꿈/ncn
+9	'	'	PUNCT	_	8	punct	_	_	'/sr
+10	의	의	ADP	_	8	case	_	_	의/jcm
+11	부패와	부패+와	CCONJ	_	12	conj	_	_	부패/ncpa+와/jcj
+12	부작용이	부작용+이	NOUN	_	15	nsubj	_	_	부작용/ncn+이/jcs
+13	압도적인	압도+적+이+ㄴ	VERB	_	14	acl	_	_	압도/ncpa+적/xsn+이/jp+ㄴ/etm
+14	비극성으로	비극성+으로	ADV	_	15	advcl	_	_	비극성/ncn+으로/jca
+15	묘사되는	묘사+되+는	VERB	_	18	ccomp	_	_	묘사/ncpa+되/xsv+는/etm
+16	오페라	오페라	NOUN	_	17	dep	_	_	오페라/ncn
+17	같은	같+ㄴ	ADJ	_	18	amod	_	_	같/paa+ㄴ/etm
+18	영화다	영화+이+다	VERB	_	0	root	_	_	영화/ncn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 뉴욕의 유태인계 소년들이 함께 자라며 악명높은 갱스터가 되어 살인과 폭행과 배신을 저지른다 .
+1	뉴욕의	뉴욕+의	PROPN	_	3	nmod	_	_	뉴욕/nq+의/jcm
+2	유태인계	유태인계	NOUN	_	3	compound	_	_	유태인계/ncn
+3	소년들이	소년+들+이	NOUN	_	12	nsubj	_	_	소년/ncn+들/xsn+이/jcs
+4	함께	함께	ADV	_	5	advmod	_	_	함께/mag
+5	자라며	자라+며	CCONJ	_	8	conj	_	_	자라/pvg+며/ecc
+6	악명높은	악명높+은	ADJ	_	7	amod	_	_	악명높/paa+은/etm
+7	갱스터가	갱스터+가	NOUN	_	8	csubj	_	_	갱스터/ncn+가/jcc
+8	되어	되+어	SCONJ	_	12	ccomp	_	_	되/pvg+어/ecs
+9	살인과	살인+과	CCONJ	_	10	conj	_	_	살인/ncpa+과/jcj
+10	폭행과	폭행+과	CCONJ	_	11	conj	_	_	폭행/ncpa+과/jcj
+11	배신을	배신+을	NOUN	_	12	obj	_	_	배신/ncpa+을/jco
+12	저지른다	저지르+ㄴ다	VERB	_	0	root	_	_	저지르/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 로버트 드 니로와 제임스 우즈 주연으로 엔니오 모리코네의 음악이 달콤하면서도 서럽다 .
+1	로버트	로버트	PROPN	_	3	flat	_	_	로버트/nq
+2	드	드	PROPN	_	3	flat	_	_	드/nq
+3	니로와	니로+와	CCONJ	_	5	conj	_	_	니로/nq+와/jcj
+4	제임스	제임스	PROPN	_	5	flat	_	_	제임스/nq
+5	우즈	우즈	PROPN	_	6	compound	_	_	우즈/nq
+6	주연으로	주연+으로	ADV	_	11	advcl	_	_	주연/ncpa+으로/jca
+7	엔니오	엔니오	PROPN	_	8	flat	_	_	엔니오/nq
+8	모리코네의	모리코네+의	PROPN	_	9	nmod	_	_	모리코네/nq+의/jcm
+9	음악이	음악+이	NOUN	_	11	nsubj	_	_	음악/ncn+이/jcs
+10	달콤하면서도	달콤+하+면서+도	ADV	_	11	ccomp	_	_	달콤/ncps+하/xsm+면서/ecc+도/jxc
+11	서럽다	서럽+다	ADJ	_	0	root	_	_	서럽/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 반드시 2백 27분짜리로 감상해야 한다 .
+1	반드시	반드시	ADV	_	4	advmod	_	_	반드시/mag
+2	2백	2+백	NUM	_	3	compound	_	_	2/nnc+백/nnc
+3	27분짜리로	27+분+짜리+로	ADV	_	4	advcl	_	_	27/nnc+분/nbu+짜리/xsn+로/jca
+4	감상해야	감상+하+어야	VERB	_	0	root	_	_	감상/ncpa+하/xsv+어야/ecx
+5	한다	하+ㄴ다	AUX	_	4	aux	_	_	하/px+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 두 작품이야말로 세계 영화 사상 가장 칭송받고 있는 작품으로 1편과 2편이 내리 오스카 작품상을 받는 기록을 세웠다 .
+1	두	두	NUM	_	2	nummod	_	_	두/nnc
+2	작품이야말로	작품+이야말로	ADV	_	9	advcl	_	_	작품/ncn+이야말로/jxc
+3	세계	세계	NOUN	_	4	compound	_	_	세계/ncn
+4	영화	영화	NOUN	_	5	compound	_	_	영화/ncn
+5	사상	사상	NOUN	_	7	advmod	_	_	사상/ncn
+6	가장	가장	ADV	_	7	advmod	_	_	가장/mag
+7	칭송받고	칭송받+고	VERB	_	9	acl	_	_	칭송받/pvg+고/ecx
+8	있는	있+는	AUX	_	7	aux	_	_	있/px+는/etm
+9	작품으로	작품+으로	ADV	_	17	advcl	_	_	작품/ncn+으로/jca
+10	1편과	1+편+과	CCONJ	_	11	conj	_	_	1/nnc+편/nbu+과/jcj
+11	2편이	2+편+이	NUM	_	15	nsubj	_	_	2/nnc+편/nbu+이/jcs
+12	내리	내리	ADV	_	15	advmod	_	_	내리/mag
+13	오스카	오스카	PROPN	_	14	compound	_	_	오스카/nq
+14	작품상을	작품상+을	NOUN	_	15	obj	_	_	작품상/ncn+을/jco
+15	받는	받+는	VERB	_	16	acl	_	_	받/pvg+는/etm
+16	기록을	기록+을	NOUN	_	17	obj	_	_	기록/ncpa+을/jco
+17	세웠다	세우+었+다	VERB	_	0	root	_	_	세우/pvg+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 라프 발로내 , 존 세비지 및 프랭크 담부로시오 등이 나온다 .
+1	라프	라프	PROPN	_	2	flat	_	_	라프/nq
+2	발로내	발로내	PROPN	_	5	compound	_	_	발로내/nq
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	존	존	PROPN	_	5	flat	_	_	존/nq
+5	세비지	세비지	PROPN	_	8	conj	_	_	세비지/nq
+6	및	및	CCONJ	_	8	cc	_	_	및/maj
+7	프랭크	프랭크	PROPN	_	8	flat	_	_	프랭크/nq
+8	담부로시오	담부로시오	PROPN	_	9	compound	_	_	담부로시오/nq
+9	등이	등+이	NOUN	_	10	nsubj	_	_	등/nbn+이/jcs
+10	나온다	나오+ㄴ다	VERB	_	0	root	_	_	나오/pvg+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 또 뉴욕 명소로는 리틀 이탈리아 , 월도프 아스토리아 호텔 그리고 성패드릭 성당 등이 소개된다 .
+1	또	또	CCONJ	_	14	cc	_	_	또/maj
+2	뉴욕	뉴욕	PROPN	_	3	compound	_	_	뉴욕/nq
+3	명소로는	명소+로+는	NOUN	_	14	dislocated	_	_	명소/ncn+로/jca+는/jxt
+4	리틀	리틀	ADJ	_	5	amod	_	_	리틀/mma
+5	이탈리아	이탈리아	PROPN	_	9	compound	_	_	이탈리아/nq
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	월도프	월도프	PROPN	_	8	flat	_	_	월도프/nq
+8	아스토리아	아스토리아	PROPN	_	9	compound	_	_	아스토리아/nq
+9	호텔	호텔	NOUN	_	12	conj	_	_	호텔/ncn
+10	그리고	그리고	CCONJ	_	12	cc	_	_	그리고/maj
+11	성패드릭	성패드릭	NOUN	_	12	compound	_	_	성패드릭/ncn
+12	성당	성당	NOUN	_	13	compound	_	_	성당/ncn
+13	등이	등+이	NOUN	_	14	nsubj	_	_	등/nbn+이/jcs
+14	소개된다	소개+되+ㄴ다	VERB	_	0	root	_	_	소개/ncpa+되/xsv+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 불꺼진 방에서 어둠이 내려앉는 겨울 호수를 응시하던 알 파치노의 표정은 참으로 전율스런 것이었다 .
+1	불꺼진	불꺼지+ㄴ	VERB	_	2	acl	_	_	불꺼지/pvg+ㄴ/etm
+2	방에서	방+에서	ADV	_	7	advcl	_	_	방/ncn+에서/jca
+3	어둠이	어둠+이	NOUN	_	4	nsubj	_	_	어둠/ncn+이/jcs
+4	내려앉는	내려앉+는	ADJ	_	6	amod	_	_	내려앉/paa+는/etm
+5	겨울	겨울	NOUN	_	6	compound	_	_	겨울/ncn
+6	호수를	호수+를	NOUN	_	7	obj	_	_	호수/ncn+를/jco
+7	응시하던	응시+하+던	VERB	_	9	acl	_	_	응시/ncpa+하/xsv+던/etm
+8	알	알	PROPN	_	9	flat	_	_	알/nq
+9	파치노의	파치노+의	PROPN	_	10	nmod	_	_	파치노/nq+의/jcm
+10	표정은	표정+은	NOUN	_	12	dislocated	_	_	표정/ncn+은/jxt
+11	참으로	참+으로	ADV	_	12	advcl	_	_	참/ncn+으로/jca
+12	전율스런	전율스럽+ㄴ	ADJ	_	0	root	_	_	전율스럽/paa+ㄴ/etm
+13	것이었다	것+이+었+다	VERB	_	12	aux	_	_	것/nbn+이/jp+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 제 3편의 이야기는 이로부터 20여년 후인 1979년부터 시작된다 .
+1	제	제	ADJ	_	2	amod	_	_	제/mma
+2	3편의	3+편+의	NUM	_	3	nmod	_	_	3/nno+편/nbu+의/jcm
+3	이야기는	이야기+는	NOUN	_	8	dislocated	_	_	이야기/ncpa+는/jxt
+4	이로부터	이+로+부터	ADV	_	6	advcl	_	_	이/npd+로/jca+부터/jxc
+5	20여년	20+여+년	NOUN	_	6	compound	_	_	20/nnc+여/xsn+년/nbu
+6	후인	후+이+ㄴ	VERB	_	7	acl	_	_	후/ncn+이/jp+ㄴ/etm
+7	1979년부터	1979+년+부터	ADV	_	8	advcl	_	_	1979/nno+년/nbu+부터/jxc
+8	시작된다	시작+되+ㄴ다	VERB	_	0	root	_	_	시작/ncpa+되/xsv+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 뉴욕에 살고 있는 이제 60대가 된 마이클은 자기 가족의 모든 사업을 합법화시킬 방법을 강구키 위해 발버둥친다 .
+1	뉴욕에	뉴욕+에	ADV	_	2	obl	_	_	뉴욕/nq+에/jca
+2	살고	살+고	VERB	_	7	acl	_	_	살/pvg+고/ecx
+3	있는	있+는	AUX	_	2	aux	_	_	있/px+는/etm
+4	이제	이제	NOUN	_	6	advmod	_	_	이제/ncn
+5	60대가	60+대+가	NUM	_	6	csubj	_	_	60/nnc+대/xsn+가/jcc
+6	된	되+ㄴ	VERB	_	7	acl	_	_	되/pvg+ㄴ/etm
+7	마이클은	마이클+은	PROPN	_	16	dislocated	_	_	마이클/nq+은/jxt
+8	자기	자기	PRON	_	9	compound	_	_	자기/npp
+9	가족의	가족+의	NOUN	_	11	nmod	_	_	가족/ncn+의/jcm
+10	모든	모든	ADJ	_	11	amod	_	_	모든/mma
+11	사업을	사업+을	NOUN	_	12	obj	_	_	사업/ncpa+을/jco
+12	합법화시킬	합법화+시키+ㄹ	VERB	_	13	acl	_	_	합법화/ncpa+시키/xsv+ㄹ/etm
+13	방법을	방법+을	NOUN	_	14	obj	_	_	방법/ncn+을/jco
+14	강구키	강구+하+기	VERB	_	15	nmod	_	_	강구/ncpa+하/xsv+기/etn
+15	위해	위+하+어	SCONJ	_	16	ccomp	_	_	위/ncpa+하/xsv+어/ecs
+16	발버둥친다	발버둥치+ㄴ다	VERB	_	0	root	_	_	발버둥치/pvg+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 콜레온 가족사업의 합법화를 위한 중개자로 등장하는 것이 바티칸이다 .
+1	콜레온	콜레온	PROPN	_	2	compound	_	_	콜레온/nq
+2	가족사업의	가족+사업+의	NOUN	_	3	nmod	_	_	가족/ncn+사업/ncpa+의/jcm
+3	합법화를	합법화+를	NOUN	_	4	obj	_	_	합법화/ncn+를/jco
+4	위한	위+하+ㄴ	VERB	_	5	acl	_	_	위/ncpa+하/xsv+ㄴ/etm
+5	중개자로	중개자+로	ADV	_	6	advcl	_	_	중개자/ncn+로/jca
+6	등장하는	등장+하+는	VERB	_	7	acl	_	_	등장/ncpa+하/xsv+는/etm
+7	것이	것+이	NOUN	_	8	nsubj	_	_	것/nbn+이/jcs
+8	바티칸이다	바티칸+이+다	VERB	_	0	root	_	_	바티칸/nq+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 재정 압박에 시달리는 바티칸은 별로 신성하지 못한 재정담당 대주교 킬데이 ( 도날 도넬리 ) 를 통해 마이클과 비신성 동맹을 맺는다 .
+1	재정	재정	NOUN	_	2	compound	_	_	재정/ncn
+2	압박에	압박+에	ADV	_	3	obl	_	_	압박/ncpa+에/jca
+3	시달리는	시달리+는	VERB	_	4	acl	_	_	시달리/pvg+는/etm
+4	바티칸은	바티칸+은	PROPN	_	20	dislocated	_	_	바티칸/nq+은/jxt
+5	별로	별로	ADV	_	6	advmod	_	_	별로/mag
+6	신성하지	신성+하+지	VERB	_	10	amod	_	_	신성/ncps+하/xsm+지/ecx
+7	못한	못하+ㄴ	AUX	_	6	aux	_	_	못하/px+ㄴ/etm
+8	재정담당	재정담당	NOUN	_	9	compound	_	_	재정담당/ncpa
+9	대주교	대주교	NOUN	_	10	compound	_	_	대주교/ncn
+10	킬데이	킬데이	PROPN	_	16	obj	_	_	킬데이/nq
+11	(	(	PUNCT	_	13	punct	_	_	(/sl
+12	도날	도날	PROPN	_	13	flat	_	_	도날/nq
+13	도넬리	도넬리	PROPN	_	10	appos	_	_	도넬리/nq
+14	)	)	PUNCT	_	13	punct	_	_	)/sr
+15	를	를	ADP	_	10	case	_	_	를/jco
+16	통해	통+하+어	SCONJ	_	20	ccomp	_	_	통/ncpa+하/xsv+어/ecs
+17	마이클과	마이클+과	CCONJ	_	20	conj	_	_	마이클/nq+과/jct
+18	비신성	비신성	NOUN	_	19	compound	_	_	비신성/ncn
+19	동맹을	동맹+을	NOUN	_	20	obj	_	_	동맹/ncpa+을/jco
+20	맺는다	맺+는다	VERB	_	0	root	_	_	맺/pvg+는다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 조이 패거리와 콜레온가의 숙명적인 대결에서 가차없이 비극적인 폭력이 폭발하게 된다 .
+1	조이	조이	PROPN	_	2	compound	_	_	조이/nq
+2	패거리와	패거리+와	CCONJ	_	3	conj	_	_	패거리/ncn+와/jcj
+3	콜레온가의	콜레온가+의	NOUN	_	5	nmod	_	_	콜레온가/ncn+의/jcm
+4	숙명적인	숙명+적+이+ㄴ	VERB	_	5	acl	_	_	숙명/ncn+적/xsn+이/jp+ㄴ/etm
+5	대결에서	대결+에서	ADV	_	9	advcl	_	_	대결/ncpa+에서/jca
+6	가차없이	가차없이	ADV	_	9	advmod	_	_	가차없이/mag
+7	비극적인	비극+적+이+ㄴ	VERB	_	8	acl	_	_	비극/ncn+적/xsn+이/jp+ㄴ/etm
+8	폭력이	폭력+이	NOUN	_	9	nsubj	_	_	폭력/ncn+이/jcs
+9	폭발하게	폭발+하+게	VERB	_	0	root	_	_	폭발/ncpa+하/xsv+게/ecx
+10	된다	되+ㄴ다	AUX	_	9	aux	_	_	되/px+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 마이클의 뒤늦은 구원에 대한 안간힘도 비극적 운명을 돌이키지는 못하고 만다 .
+1	마이클의	마이클+의	PROPN	_	3	nmod	_	_	마이클/nq+의/jcm
+2	뒤늦은	뒤늦+ㄴ	ADJ	_	3	amod	_	_	뒤늦/paa+ㄴ/etm
+3	구원에	구원+에	ADV	_	4	obl	_	_	구원/ncpa+에/jca
+4	대한	대하+ㄴ	VERB	_	5	acl	_	_	대하/pvg+ㄴ/etm
+5	안간힘도	안간힘+도	ADV	_	8	advcl	_	_	안간힘/ncn+도/jxc
+6	비극적	비극+적	NOUN	_	7	amod	_	_	비극/ncn+적/xsn
+7	운명을	운명+을	NOUN	_	8	obj	_	_	운명/ncn+을/jco
+8	돌이키지는	돌이키+지+는	NOUN	_	0	root	_	_	돌이키/pvg+지/ecx+는/jxt
+9	못하고	못하+고	AUX	_	8	aux	_	_	못하/px+고/ecx
+10	만다	말+ㄴ다	AUX	_	8	aux	_	_	말/px+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# < 대부 > 라는 전설의 중심 지주는 바로 이 같은 경찰과 면죄라는 두 메시지이다 .
+1	<	<	PUNCT	_	2	punct	_	_	</sl
+2	대부	대부	NOUN	_	5	acl	_	_	대부/ncn
+3	>	>	PUNCT	_	2	punct	_	_	>/sr
+4	라는	이+란	ADP	_	2	cop	_	_	이/jp+란/etm
+5	전설의	전설+의	NOUN	_	7	nmod	_	_	전설/ncn+의/jcm
+6	중심	중심	NOUN	_	7	compound	_	_	중심/ncn
+7	지주는	지주+는	NOUN	_	14	dislocated	_	_	지주/ncn+는/jxt
+8	바로	바로	ADV	_	10	advmod	_	_	바로/mag
+9	이	이	PRON	_	10	dep	_	_	이/npd
+10	같은	같+ㄴ	ADJ	_	14	amod	_	_	같/paa+ㄴ/etm
+11	경찰과	경찰+과	CCONJ	_	12	dep	_	_	경찰/ncn+과/jcj
+12	면죄라는	면죄+이+라는	VERB	_	14	acl	_	_	면죄/ncpa+이/jp+라는/etm
+13	두	두	NUM	_	14	nummod	_	_	두/nnc
+14	메시지이다	메시지+이+다	VERB	_	0	root	_	_	메시지/ncn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 염치 없는 범죄 행위와 구제에의 갈구 간에 빚어지는 긴장이야말로 < 대부 > 1 , 2편을 구성하는 결정적 모티브이다 .
+1	염치	염치	NOUN	_	2	dep	_	_	염치/ncn
+2	없는	없+는	ADJ	_	4	amod	_	_	없/paa+는/etm
+3	범죄	범죄	NOUN	_	4	compound	_	_	범죄/ncn
+4	행위와	행위+와	CCONJ	_	6	conj	_	_	행위/ncpa+와/jcj
+5	구제에의	구제+에+의	NOUN	_	6	nmod	_	_	구제/ncpa+에/jca+의/jcm
+6	갈구	갈구	NOUN	_	7	compound	_	_	갈구/ncpa
+7	간에	간+에	ADV	_	8	obl	_	_	간/nbn+에/jca
+8	빚어지는	빚+어+지+는	AUX	_	9	acl	_	_	빚/pvg+어/ecx+지/px+는/etm
+9	긴장이야말로	긴장+이야말로	ADV	_	18	advcl	_	_	긴장/ncpa+이야말로/jxc
+10	<	<	PUNCT	_	11	punct	_	_	</sl
+11	대부	대부	NOUN	_	15	compound	_	_	대부/ncn
+12	>	>	PUNCT	_	11	punct	_	_	>/sr
+13	1	1	NUM	_	15	conj	_	_	1/nnc
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	2편을	2+편+을	NUM	_	16	obj	_	_	2/nnc+편/nbu+을/jco
+16	구성하는	구성+하+는	VERB	_	18	ccomp	_	_	구성/ncpa+하/xsv+는/etm
+17	결정적	결정+적	NOUN	_	18	amod	_	_	결정/ncpa+적/xsn
+18	모티브이다	모티브+이+다	VERB	_	0	root	_	_	모티브/ncn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 마이클의 합법성을 위한 열의와 그와 바티칸과의 연계는 3편 감독을 거부해 오던 코폴라의 마음을 변하게 한 갑작스런 동기요 , 영감이기도 하다 .
+1	마이클의	마이클+의	PROPN	_	2	nmod	_	_	마이클/nq+의/jcm
+2	합법성을	합법성+을	NOUN	_	3	obj	_	_	합법성/ncn+을/jco
+3	위한	위+하+ㄴ	VERB	_	4	acl	_	_	위/ncpa+하/xsv+ㄴ/etm
+4	열의와	열의+와	CCONJ	_	7	conj	_	_	열의/ncn+와/jcj
+5	그와	그+와	CCONJ	_	6	conj	_	_	그/npp+와/jcj
+6	바티칸과의	바티칸+과+의	PROPN	_	7	nmod	_	_	바티칸/nq+과/jct+의/jcm
+7	연계는	연계+는	NOUN	_	19	dislocated	_	_	연계/ncpa+는/jxt
+8	3편	3+편	NOUN	_	9	compound	_	_	3/nnc+편/nbu
+9	감독을	감독+을	NOUN	_	10	obj	_	_	감독/ncpa+을/jco
+10	거부해	거부+하+어	VERB	_	12	acl	_	_	거부/ncpa+하/xsv+어/ecx
+11	오던	오+던	AUX	_	10	aux	_	_	오/px+던/etm
+12	코폴라의	코폴라+의	PROPN	_	13	nmod	_	_	코폴라/nq+의/jcm
+13	마음을	마음+을	NOUN	_	14	obj	_	_	마음/ncn+을/jco
+14	변하게	변하+게	VERB	_	19	ccomp	_	_	변하/pvg+게/ecx
+15	한	하+ㄴ	AUX	_	14	aux	_	_	하/px+ㄴ/etm
+16	갑작스런	갑작스럽+ㄴ	ADJ	_	19	amod	_	_	갑작스럽/paa+ㄴ/etm
+17	동기요	동기+요	CCONJ	_	19	conj	_	_	동기/ncn+요/jcj
+18	,	,	PUNCT	_	17	punct	_	_	,/sp
+19	영감이기도	영감+이+기+도	ADV	_	0	root	_	_	영감/ncn+이/jp+기/etn+도/jxc
+20	하다	하+다	AUX	_	19	aux	_	_	하/px+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 코폴라는 < 대부 > 를 사랑한 적이 없다고 한다 .
+1	코폴라는	코폴라+는	PROPN	_	6	dislocated	_	_	코폴라/nq+는/jxt
+2	<	<	PUNCT	_	3	punct	_	_	</sl
+3	대부	대부	NOUN	_	6	obj	_	_	대부/ncn
+4	>	>	PUNCT	_	3	punct	_	_	>/sr
+5	를	를	ADP	_	3	case	_	_	를/jco
+6	사랑한	사랑+하+ㄴ	VERB	_	7	acl	_	_	사랑/ncpa+하/xsv+ㄴ/etm
+7	적이	적+이	NOUN	_	8	nsubj	_	_	적/nbn+이/jcs
+8	없다고	없+다+고	VERB	_	9	conj	_	_	없/paa+다/ef+고/jcr
+9	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 폭력을 증오하는 그는 갱 영화 만들기를 원치 않았는데 가정 , 명예 , 부패 , 인간의 죄악 같은 주제에 훨씬 더 흥미를 느끼고 있다 .
+1	폭력을	폭력+을	NOUN	_	2	obj	_	_	폭력/ncn+을/jco
+2	증오하는	증오+하+는	VERB	_	3	acl	_	_	증오/ncpa+하/xsv+는/etm
+3	그는	그+는	PRON	_	22	dislocated	_	_	그/npp+는/jxt
+4	갱	갱	NOUN	_	5	compound	_	_	갱/ncn
+5	영화	영화	NOUN	_	6	dep	_	_	영화/ncn
+6	만들기를	만들+기+를	NOUN	_	7	obj	_	_	만들/pvg+기/etn+를/jco
+7	원치	원하+지	VERB	_	22	ccomp	_	_	원하/pvg+지/ecx
+8	않았는데	않+았+는데	SCONJ	_	7	aux	_	_	않/px+았/ep+는데/ecs
+9	가정	가정	NOUN	_	11	conj	_	_	가정/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	명예	명예	NOUN	_	13	conj	_	_	명예/ncn
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	부패	부패	NOUN	_	16	conj	_	_	부패/ncpa
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	인간의	인간+의	NOUN	_	16	nmod	_	_	인간/ncn+의/jcm
+16	죄악	죄악	NOUN	_	17	dep	_	_	죄악/ncn
+17	같은	같+ㄴ	ADJ	_	18	amod	_	_	같/paa+ㄴ/etm
+18	주제에	주제+에	ADV	_	22	obl	_	_	주제/ncn+에/jca
+19	훨씬	훨씬	ADV	_	22	advmod	_	_	훨씬/mag
+20	더	더	ADV	_	19	advmod	_	_	더/mag
+21	흥미를	흥미+를	NOUN	_	22	obj	_	_	흥미/ncps+를/jco
+22	느끼고	느끼+고	VERB	_	0	root	_	_	느끼/pvg+고/ecx
+23	있다	있+다	AUX	_	22	aux	_	_	있/px+다/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+
+# 폭력에 대한 회의만이 아니라 < 대부 > 3편은 전 세계 팬들의 기대감이라는 엄청난 외압 때문에 코폴라에게는 커다란 짐이 아닐 수 없다 .
+1	폭력에	폭력+에	ADV	_	2	obl	_	_	폭력/ncn+에/jca
+2	대한	대하+ㄴ	VERB	_	3	acl	_	_	대하/pvg+ㄴ/etm
+3	회의만이	회의+만+이	NOUN	_	4	csubj	_	_	회의/ncn+만/jxc+이/jcc
+4	아니라	아니+라	SCONJ	_	19	xcomp	_	_	아니/paa+라/ecs
+5	<	<	PUNCT	_	6	punct	_	_	</sl
+6	대부	대부	NOUN	_	8	compound	_	_	대부/ncn
+7	>	>	PUNCT	_	6	punct	_	_	>/sr
+8	3편은	3+편+은	NUM	_	19	dislocated	_	_	3/nnc+편/nbu+은/jxt
+9	전	전	ADJ	_	10	amod	_	_	전/mma
+10	세계	세계	NOUN	_	11	compound	_	_	세계/ncn
+11	팬들의	팬+들+의	NOUN	_	12	nmod	_	_	팬/ncn+들/xsn+의/jcm
+12	기대감이라는	기대감+이+란	VERB	_	14	acl	_	_	기대감/ncn+이/jp+란/etm
+13	엄청난	엄청나+ㄴ	ADJ	_	14	amod	_	_	엄청나/paa+ㄴ/etm
+14	외압	외압	NOUN	_	15	compound	_	_	외압/ncn
+15	때문에	때문+에	ADV	_	19	obl	_	_	때문/nbn+에/jca
+16	코폴라에게는	코폴라+에게+는	PROPN	_	19	dislocated	_	_	코폴라/nq+에게/jca+는/jxt
+17	커다란	커다랗+ㄴ	ADJ	_	18	amod	_	_	커다랗/paa+ㄴ/etm
+18	짐이	짐+이	NOUN	_	19	csubj	_	_	짐/ncn+이/jcc
+19	아닐	아니+ㄹ	ADJ	_	0	root	_	_	아니/paa+ㄹ/etm
+20	수	수	NOUN	_	21	fixed	_	_	수/nbn
+21	없다	없+다	ADJ	_	19	aux	_	_	없/paa+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 4천 4백만 달러의 제작비를 지켜가며 오는 성탄절에 맞춰 작품을 내놓아야 하는 것도 또 다른 부담감이다 .
+1	4천	4+천	NUM	_	2	compound	_	_	4/nnc+천/nnc
+2	4백만	4+백+만	NUM	_	3	compound	_	_	4/nnc+백/nnc+만/nnc
+3	달러의	달러+의	NOUN	_	4	nmod	_	_	달러/nbu+의/jcm
+4	제작비를	제작비+를	NOUN	_	5	obj	_	_	제작비/ncn+를/jco
+5	지켜가며	지키+어+가+며	CCONJ	_	10	conj	_	_	지키/pvg+어/ecx+가/px+며/ecc
+6	오는	오+는	VERB	_	7	acl	_	_	오/pvg+는/etm
+7	성탄절에	성탄절+에	ADV	_	8	obl	_	_	성탄절/ncn+에/jca
+8	맞춰	맞추+어	SCONJ	_	10	ccomp	_	_	맞추/pvg+어/ecs
+9	작품을	작품+을	NOUN	_	10	obj	_	_	작품/ncn+을/jco
+10	내놓아야	내놓+아야	VERB	_	12	acl	_	_	내놓/pvg+아야/ecx
+11	하는	하+는	AUX	_	10	aux	_	_	하/px+는/etm
+12	것도	것+도	ADV	_	15	advcl	_	_	것/nbn+도/jxc
+13	또	또	ADV	_	14	advmod	_	_	또/mag
+14	다른	다르+ㄴ	ADJ	_	15	amod	_	_	다르/paa+ㄴ/etm
+15	부담감이다	부담감+이+다	VERB	_	0	root	_	_	부담감/ncn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 코폴라는 < 대부 > 3편이라는 큰 숙제 외에도 자신의 개인적인 문제들로 인해 골치를 썩고 있다 .
+1	코폴라는	코폴라+는	PROPN	_	14	dislocated	_	_	코폴라/nq+는/jxt
+2	<	<	PUNCT	_	3	punct	_	_	</sl
+3	대부	대부	NOUN	_	5	compound	_	_	대부/ncn
+4	>	>	PUNCT	_	3	punct	_	_	>/sr
+5	3편이라는	3+편+이+란	VERB	_	7	acl	_	_	3/nnc+편/nbu+이/jp+란/etm
+6	큰	크+ㄴ	ADJ	_	7	amod	_	_	크/paa+ㄴ/etm
+7	숙제	숙제	NOUN	_	8	compound	_	_	숙제/ncpa
+8	외에도	외+에+도	ADV	_	12	advcl	_	_	외/nbn+에/jca+도/jxc
+9	자신의	자신+의	NOUN	_	11	nmod	_	_	자신/ncn+의/jcm
+10	개인적인	개인+적+이+ㄴ	VERB	_	11	acl	_	_	개인/ncn+적/xsn+이/jp+ㄴ/etm
+11	문제들로	문제+들+로	ADV	_	12	advcl	_	_	문제/ncn+들/xsn+로/jca
+12	인해	인하+어	SCONJ	_	14	ccomp	_	_	인하/pvg+어/ecs
+13	골치를	골치+를	NOUN	_	14	obj	_	_	골치/ncn+를/jco
+14	썩고	썩+고	VERB	_	0	root	_	_	썩/pvg+고/ecx
+15	있다	있+다	AUX	_	14	aux	_	_	있/px+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 4년 전 아들 지오 ( 당시 23세 ) 가 보트 사고로 숨진 것 말고도 자신의 제작사 ' 조이트로프 ' 가 파산해 현재 빚더미에 올라앉아 있다 .
+1	4년	4+년	NOUN	_	2	compound	_	_	4/nno+년/nbu
+2	전	전	NOUN	_	12	advmod	_	_	전/ncn
+3	아들	아들	NOUN	_	4	compound	_	_	아들/ncn
+4	지오	지오	PROPN	_	12	nsubj	_	_	지오/nq
+5	(	(	PUNCT	_	7	punct	_	_	(/sl
+6	당시	당시	NOUN	_	7	compound	_	_	당시/ncn
+7	23세	23+세	NOUN	_	4	appos	_	_	23/nno+세/nbu
+8	)	)	PUNCT	_	7	punct	_	_	)/sr
+9	가	가	ADP	_	4	case	_	_	가/jcs
+10	보트	보트	NOUN	_	11	compound	_	_	보트/ncn
+11	사고로	사고+로	ADV	_	12	advcl	_	_	사고/ncpa+로/jca
+12	숨진	숨지+ㄴ	VERB	_	13	acl	_	_	숨지/pvg+ㄴ/etm
+13	것	것	NOUN	_	14	mark	_	_	것/nbn
+14	말고도	말+고+도	ADV	_	24	ccomp	_	_	말/pvg+고/ecc+도/jxc
+15	자신의	자신+의	NOUN	_	16	nmod	_	_	자신/ncn+의/jcm
+16	제작사	제작사	NOUN	_	18	compound	_	_	제작사/ncn
+17	'	'	PUNCT	_	18	punct	_	_	'/sl
+18	조이트로프	조이트로프	PROPN	_	21	nsubj	_	_	조이트로프/nq
+19	'	'	PUNCT	_	18	punct	_	_	'/sr
+20	가	가	ADP	_	18	case	_	_	가/jcs
+21	파산해	파산+하+어	SCONJ	_	24	ccomp	_	_	파산/ncpa+하/xsv+어/ecs
+22	현재	현재	NOUN	_	23	compound	_	_	현재/ncn
+23	빚더미에	빚더미+에	ADV	_	24	obl	_	_	빚더미/ncn+에/jca
+24	올라앉아	올라앉+아	VERB	_	0	root	_	_	올라앉/pvg+아/ecx
+25	있다	있+다	AUX	_	24	aux	_	_	있/px+다/ef
+26	.	.	PUNCT	_	25	punct	_	_	./sf
+
+# < 대부 > 3편에서 코폴라와 함께 일하고 있는 사람들은 그의 솜씨를 보고 오페라 연출가의 그것이라고 말한다 .
+1	<	<	PUNCT	_	2	punct	_	_	</sl
+2	대부	대부	NOUN	_	4	compound	_	_	대부/ncn
+3	>	>	PUNCT	_	2	punct	_	_	>/sr
+4	3편에서	3+편+에서	ADV	_	7	advcl	_	_	3/nnc+편/nbu+에서/jca
+5	코폴라와	코폴라+와	CCONJ	_	6	conj	_	_	코폴라/nq+와/jct
+6	함께	함께	ADV	_	7	advmod	_	_	함께/mag
+7	일하고	일하+고	VERB	_	9	acl	_	_	일하/pvg+고/ecx
+8	있는	있+는	AUX	_	7	aux	_	_	있/px+는/etm
+9	사람들은	사람+들+은	NOUN	_	16	dislocated	_	_	사람/ncn+들/xsn+은/jxt
+10	그의	그+의	PRON	_	11	nmod	_	_	그/npp+의/jcm
+11	솜씨를	솜씨+를	NOUN	_	12	obj	_	_	솜씨/ncn+를/jco
+12	보고	보+고	CCONJ	_	16	conj	_	_	보/pvg+고/ecc
+13	오페라	오페라	NOUN	_	14	compound	_	_	오페라/ncn
+14	연출가의	연출가+의	NOUN	_	15	nmod	_	_	연출가/ncn+의/jcm
+15	그것이라고	그것+이+라+고	VERB	_	16	conj	_	_	그것/npd+이/jp+라/ef+고/jcr
+16	말한다	말하+ㄴ다	VERB	_	0	root	_	_	말하/pvg+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그의 여동생 탈리아 샤이어는 오빠의 연출력을 로마 시스틴 성당 천장화를 그린 미켈란젤로의 터치에 비유한다 .
+1	그의	그+의	PRON	_	2	nmod	_	_	그/npp+의/jcm
+2	여동생	여동생	NOUN	_	4	compound	_	_	여동생/ncn
+3	탈리아	탈리아	PROPN	_	4	flat	_	_	탈리아/nq
+4	샤이어는	샤이어+는	PROPN	_	14	dislocated	_	_	샤이어/nq+는/jxt
+5	오빠의	오빠+의	NOUN	_	6	nmod	_	_	오빠/ncn+의/jcm
+6	연출력을	연출력+을	NOUN	_	14	obj	_	_	연출력/ncn+을/jco
+7	로마	로마	PROPN	_	9	compound	_	_	로마/nq
+8	시스틴	시스틴	PROPN	_	9	compound	_	_	시스틴/nq
+9	성당	성당	NOUN	_	10	compound	_	_	성당/ncn
+10	천장화를	천장화+를	NOUN	_	11	obj	_	_	천장화/ncn+를/jco
+11	그린	그리+ㄴ	VERB	_	12	acl	_	_	그리/pvg+ㄴ/etm
+12	미켈란젤로의	미켈란젤로+의	PROPN	_	13	nmod	_	_	미켈란젤로/nq+의/jcm
+13	터치에	터치+에	ADV	_	14	obl	_	_	터치/ncpa+에/jca
+14	비유한다	비유+하+ㄴ다	VERB	_	0	root	_	_	비유/ncpa+하/xsv+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 피의 얼룩은 지울 수 있는가 .
+1	피의	피+의	NOUN	_	2	nmod	_	_	피/ncn+의/jcm
+2	얼룩은	얼룩+은	NOUN	_	3	dislocated	_	_	얼룩/ncn+은/jxt
+3	지울	지우+ㄹ	VERB	_	0	root	_	_	지우/pvg+ㄹ/etm
+4	수	수	NOUN	_	5	fixed	_	_	수/nbn
+5	있는가	있+는가	ADJ	_	3	aux	_	_	있/paa+는가/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 영화 < 대부 > 의 요체는 속죄와 구원이다 .
+1	영화	영화	NOUN	_	3	compound	_	_	영화/ncn
+2	<	<	PUNCT	_	3	punct	_	_	</sl
+3	대부	대부	NOUN	_	6	nmod	_	_	대부/ncn
+4	>	>	PUNCT	_	3	punct	_	_	>/sr
+5	의	의	ADP	_	3	case	_	_	의/jcm
+6	요체는	요체+는	NOUN	_	8	dislocated	_	_	요체/ncn+는/jxt
+7	속죄와	속죄+와	CCONJ	_	8	dep	_	_	속죄/ncpa+와/jcj
+8	구원이다	구원+이+다	VERB	_	0	root	_	_	구원/ncpa+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 마피아끼리의 총격전이나 콜레온 가문 내의 살인은 이 같은 속죄와 구원이라는 궁극적 염원을 둘러싼 주변 얘기에 지나지 않는다 .
+1	마피아끼리의	마피아+끼리+의	PROPN	_	2	nmod	_	_	마피아/nq+끼리/xsn+의/jcm
+2	총격전이나	총격전+이나	CCONJ	_	6	conj	_	_	총격전/ncpa+이나/jcj
+3	콜레온	콜레온	PROPN	_	4	compound	_	_	콜레온/nq
+4	가문	가문	NOUN	_	5	compound	_	_	가문/ncn
+5	내의	내+의	NOUN	_	6	nmod	_	_	내/ncn+의/jcm
+6	살인은	살인+은	NOUN	_	16	dislocated	_	_	살인/ncpa+은/jxt
+7	이	이	PRON	_	8	dep	_	_	이/npd
+8	같은	같+ㄴ	ADJ	_	12	amod	_	_	같/paa+ㄴ/etm
+9	속죄와	속죄+와	CCONJ	_	10	dep	_	_	속죄/ncpa+와/jcj
+10	구원이라는	구원+이+란	VERB	_	12	acl	_	_	구원/ncpa+이/jp+란/etm
+11	궁극적	궁극+적	NOUN	_	12	amod	_	_	궁극/ncps+적/xsn
+12	염원을	염원+을	NOUN	_	13	obj	_	_	염원/ncpa+을/jco
+13	둘러싼	둘러싸+ㄴ	VERB	_	15	acl	_	_	둘러싸/pvg+ㄴ/etm
+14	주변	주변	NOUN	_	15	compound	_	_	주변/ncn
+15	얘기에	얘기+에	ADV	_	16	obl	_	_	얘기/ncpa+에/jca
+16	지나지	지나+지	VERB	_	0	root	_	_	지나/pvg+지/ecx
+17	않는다	않+는다	AUX	_	16	aux	_	_	않/px+는다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 죄짓고는 못 살며 , 지은 죄가 너무 크면 눈물의 참회도 소용이 없는지라 < 대부 > 3편은 위대한 비극으로 끝맺는다 .
+1	죄짓고는	죄짓+고+는	NOUN	_	3	ccomp	_	_	죄짓/pvg+고/ecc+는/jxt
+2	못	못	ADV	_	3	advmod	_	_	못/mag
+3	살며	살+며	CCONJ	_	12	conj	_	_	살/pvg+며/ecc
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	지은	짓+ㄴ	VERB	_	6	acl	_	_	짓/pvg+ㄴ/etm
+6	죄가	죄+가	NOUN	_	8	nsubj	_	_	죄/ncn+가/jcs
+7	너무	너무	ADV	_	8	advmod	_	_	너무/mag
+8	크면	크+면	SCONJ	_	12	xcomp	_	_	크/paa+면/ecs
+9	눈물의	눈물+의	NOUN	_	10	nmod	_	_	눈물/ncn+의/jcm
+10	참회도	참회+도	ADV	_	12	advcl	_	_	참회/ncpa+도/jxc
+11	소용이	소용+이	NOUN	_	12	nsubj	_	_	소용/ncpa+이/jcs
+12	없는지라	없+는지라	SCONJ	_	19	xcomp	_	_	없/paa+는지라/ecs
+13	<	<	PUNCT	_	14	punct	_	_	</sl
+14	대부	대부	NOUN	_	16	compound	_	_	대부/ncn
+15	>	>	PUNCT	_	14	punct	_	_	>/sr
+16	3편은	3+편+은	NUM	_	19	dislocated	_	_	3/nnc+편/nbu+은/jxt
+17	위대한	위대+하+ㄴ	VERB	_	18	amod	_	_	위대/ncps+하/xsm+ㄴ/etm
+18	비극으로	비극+으로	ADV	_	19	advcl	_	_	비극/ncn+으로/jca
+19	끝맺는다	끝맺+는다	VERB	_	0	root	_	_	끝맺/pvg+는다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 미흡한 점부터 열거해 보자 .
+1	미흡한	미흡+하+ㄴ	VERB	_	2	amod	_	_	미흡/ncps+하/xsm+ㄴ/etm
+2	점부터	점+부터	ADV	_	3	advcl	_	_	점/ncn+부터/jxc
+3	열거해	열거+하+어	VERB	_	0	root	_	_	열거/ncpa+하/xsv+어/ecx
+4	보자	보+자	AUX	_	3	aux	_	_	보/px+자/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 우선 날카로운 초점과 악착 같은 격함이 모자란다 .
+1	우선	우선	ADV	_	7	advmod	_	_	우선/mag
+2	날카로운	날카롭+ㄴ	ADJ	_	3	amod	_	_	날카롭/paa+ㄴ/etm
+3	초점과	초점+과	CCONJ	_	6	conj	_	_	초점/ncn+과/jcj
+4	악착	악착	ADV	_	5	advmod	_	_	악착/mag
+5	같은	같+ㄴ	ADJ	_	6	amod	_	_	같/paa+ㄴ/etm
+6	격함이	격+하+ㅁ+이	NOUN	_	7	nsubj	_	_	격/ncps+하/xsm+ㅁ/etn+이/jcs
+7	모자란다	모자라+ㄴ다	ADJ	_	0	root	_	_	모자라/paa+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 중요한 배역인 마이클의 딸 메리역의 소피아 코폴라 ( 프랜시스 포드 코폴라 감독의 딸 ) 의 연기에도 문제가 있다 .
+1	중요한	중요+하+ㄴ	VERB	_	2	amod	_	_	중요/ncps+하/xsm+ㄴ/etm
+2	배역인	배역+이+ㄴ	VERB	_	5	acl	_	_	배역/ncpa+이/jp+ㄴ/etm
+3	마이클의	마이클+의	PROPN	_	4	nmod	_	_	마이클/nq+의/jcm
+4	딸	딸	NOUN	_	5	compound	_	_	딸/ncn
+5	메리역의	메리+역+의	PROPN	_	7	nmod	_	_	메리/nq+역/ncn+의/jcm
+6	소피아	소피아	PROPN	_	7	flat	_	_	소피아/nq
+7	코폴라	코폴라	PROPN	_	16	nmod	_	_	코폴라/nq
+8	(	(	PUNCT	_	11	punct	_	_	(/sl
+9	프랜시스	프랜시스	PROPN	_	11	flat	_	_	프랜시스/nq
+10	포드	포드	PROPN	_	11	flat	_	_	포드/nq
+11	코폴라	코폴라	PROPN	_	12	compound	_	_	코폴라/nq
+12	감독의	감독+의	NOUN	_	13	nmod	_	_	감독/ncpa+의/jcm
+13	딸	딸	NOUN	_	7	appos	_	_	딸/ncn
+14	)	)	PUNCT	_	13	punct	_	_	)/sr
+15	의	의	ADP	_	7	case	_	_	의/jcm
+16	연기에도	연기+에+도	ADV	_	18	advcl	_	_	연기/ncpa+에/jca+도/jxc
+17	문제가	문제+가	NOUN	_	18	nsubj	_	_	문제/ncn+가/jcs
+18	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그가 이 영화를 두 편의 전편과 다르게 만들려고 몹시 진통한 흔적이 작품 전체에도 가득하다 .
+1	그가	그+가	PRON	_	10	nsubj	_	_	그/npp+가/jcs
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	영화를	영화+를	NOUN	_	8	obj	_	_	영화/ncn+를/jco
+4	두	두	NUM	_	5	nummod	_	_	두/nnc
+5	편의	편+의	NOUN	_	6	nmod	_	_	편/nbu+의/jcm
+6	전편과	전편+과	CCONJ	_	7	conj	_	_	전편/ncn+과/jct
+7	다르게	다르+게	SCONJ	_	8	xcomp	_	_	다르/paa+게/ecs
+8	만들려고	만들+려고	SCONJ	_	10	ccomp	_	_	만들/pvg+려고/ecs
+9	몹시	몹시	ADV	_	10	advmod	_	_	몹시/mag
+10	진통한	진통+하+ㄴ	VERB	_	11	acl	_	_	진통/ncpa+하/xsv+ㄴ/etm
+11	흔적이	흔적+이	NOUN	_	14	nsubj	_	_	흔적/ncn+이/jcs
+12	작품	작품	NOUN	_	13	compound	_	_	작품/ncn
+13	전체에도	전체+에+도	ADV	_	14	advcl	_	_	전체/ncn+에/jca+도/jxc
+14	가득하다	가득+하+다	VERB	_	0	root	_	_	가득/ncpa+하/xsv+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 코폴라도 " 압박감이 너무 심했다 " 고 술회했다 .
+1	코폴라도	코폴라+도	ADV	_	8	advcl	_	_	코폴라/nq+도/jxc
+2	"	"	PUNCT	_	3	punct	_	_	"/sl
+3	압박감이	압박감+이	NOUN	_	5	nsubj	_	_	압박감/ncn+이/jcs
+4	너무	너무	ADV	_	5	advmod	_	_	너무/mag
+5	심했다	심+하+었+다	VERB	_	8	conj	_	_	심/ncps+하/xsm+었/ep+다/ef
+6	"	"	PUNCT	_	5	punct	_	_	"/sr
+7	고	고	ADP	_	5	case	_	_	고/jcr
+8	술회했다	술회+하+었+다	VERB	_	0	root	_	_	술회/ncpa+하/xsv+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 도덕성의 부패 , 음모와 저주와 복수와 살육 , 그리고 권력과 경찰이라는 내용을 가진 뛰어난 드라마였다 .
+1	도덕성의	도덕성+의	NOUN	_	2	nmod	_	_	도덕성/ncn+의/jcm
+2	부패	부패	NOUN	_	11	compound	_	_	부패/ncpa
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	음모와	음모+와	CCONJ	_	7	conj	_	_	음모/ncn+와/jcj
+5	저주와	저주+와	CCONJ	_	7	conj	_	_	저주/ncpa+와/jcj
+6	복수와	복수+와	CCONJ	_	7	conj	_	_	복수/ncpa+와/jcj
+7	살육	살육	NOUN	_	11	compound	_	_	살육/ncpa
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	그리고	그리고	CCONJ	_	11	cc	_	_	그리고/maj
+10	권력과	권력+과	CCONJ	_	11	conj	_	_	권력/ncn+과/jcj
+11	경찰이라는	경찰+이+란	VERB	_	12	acl	_	_	경찰/ncn+이/jp+란/etm
+12	내용을	내용+을	NOUN	_	13	obj	_	_	내용/ncn+을/jco
+13	가진	가지+ㄴ	VERB	_	15	ccomp	_	_	가지/pvg+ㄴ/etm
+14	뛰어난	뛰어나+ㄴ	ADJ	_	15	amod	_	_	뛰어나/paa+ㄴ/etm
+15	드라마였다	드라마+이+었+다	VERB	_	0	root	_	_	드라마/ncn+이/jp+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 자신의 죄도 씻고 돈도 깨끗이 벌자는 이중의도다 .
+1	자신의	자신+의	NOUN	_	2	nmod	_	_	자신/ncn+의/jcm
+2	죄도	죄+도	ADV	_	3	advcl	_	_	죄/ncn+도/jxc
+3	씻고	씻+고	CCONJ	_	6	conj	_	_	씻/pvg+고/ecc
+4	돈도	돈+도	ADV	_	6	advcl	_	_	돈/ncn+도/jxc
+5	깨끗이	깨끗이	ADV	_	6	advmod	_	_	깨끗이/mag
+6	벌자는	벌+자는	VERB	_	7	ccomp	_	_	벌/pvg+자는/etm
+7	이중의도다	이중+의도+이+다	VERB	_	0	root	_	_	이중/ncn+의도/ncpa+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이 긴장과 흥분은 마이클이 자신이 평생 저지른 죄값을 일시금으로 지불하는 엄청난 비극에 의해 휩쓸려 내려가는데 , 그 슬픔이 가히 희랍식 비극이다 .
+1	이	이	DET	_	3	det	_	_	이/mmd
+2	긴장과	긴장+과	CCONJ	_	3	conj	_	_	긴장/ncpa+과/jcj
+3	흥분은	흥분+은	NOUN	_	15	dislocated	_	_	흥분/ncpa+은/jxt
+4	마이클이	마이클+이	PROPN	_	10	nsubj	_	_	마이클/nq+이/jcs
+5	자신이	자신+이	NOUN	_	7	nsubj	_	_	자신/ncn+이/jcs
+6	평생	평생	NOUN	_	7	dep	_	_	평생/ncn
+7	저지른	저지르+ㄴ	VERB	_	8	acl	_	_	저지르/pvg+ㄴ/etm
+8	죄값을	죄값+을	NOUN	_	10	obj	_	_	죄값/ncn+을/jco
+9	일시금으로	일시금+으로	ADV	_	10	advcl	_	_	일시금/ncpa+으로/jca
+10	지불하는	지불+하+는	VERB	_	12	acl	_	_	지불/ncpa+하/xsv+는/etm
+11	엄청난	엄청나+ㄴ	ADJ	_	12	amod	_	_	엄청나/paa+ㄴ/etm
+12	비극에	비극+에	ADV	_	13	obl	_	_	비극/ncn+에/jca
+13	의해	의하+어	SCONJ	_	15	ccomp	_	_	의하/pvg+어/ecs
+14	휩쓸려	휩쓸리+어	SCONJ	_	15	ccomp	_	_	휩쓸리/pvg+어/ecs
+15	내려가는데	내리+어+가+는데	SCONJ	_	21	ccomp	_	_	내리/pvg+어/ecx+가/px+는데/ecs
+16	,	,	PUNCT	_	15	punct	_	_	,/sp
+17	그	그	DET	_	18	det	_	_	그/mmd
+18	슬픔이	슬픔+이	NOUN	_	21	nsubj	_	_	슬픔/ncn+이/jcs
+19	가히	가히	ADV	_	21	advmod	_	_	가히/mag
+20	희랍식	희랍식	NOUN	_	21	compound	_	_	희랍식/ncn
+21	비극이다	비극+이+다	VERB	_	0	root	_	_	비극/ncn+이/jp+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 자기 개성 말고는 다른 빅 스타들처럼 강한 대중적 매력을 소유하고 있지 않기 때문이다 .
+1	자기	자기	PRON	_	2	compound	_	_	자기/npp
+2	개성	개성	NOUN	_	3	dep	_	_	개성/ncn
+3	말고는	말+고+는	NOUN	_	10	ccomp	_	_	말/pvg+고/ecc+는/jxt
+4	다른	다르+ㄴ	ADJ	_	6	amod	_	_	다르/paa+ㄴ/etm
+5	빅	빅	NOUN	_	6	compound	_	_	빅/ncn
+6	스타들처럼	스타+들+처럼	ADV	_	10	advcl	_	_	스타/ncn+들/xsn+처럼/jca
+7	강한	강+하+ㄴ	VERB	_	9	amod	_	_	강/ncps+하/xsm+ㄴ/etm
+8	대중적	대중+적	NOUN	_	9	amod	_	_	대중/ncn+적/xsn
+9	매력을	매력+을	NOUN	_	10	obj	_	_	매력/ncn+을/jco
+10	소유하고	소유+하+고	VERB	_	0	root	_	_	소유/ncpa+하/xsv+고/ecx
+11	있지	있+지	AUX	_	10	aux	_	_	있/px+지/ecx
+12	않기	않+기	AUX	_	10	aux	_	_	않/px+기/etn
+13	때문이다	때문+이+다	VERB	_	10	aux	_	_	때문/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 스스로도 대중을 기피하고 있는데 그래서 그를 ' 정열적 배우요 , 마음 내키지 않는 스타 ' 라고 부른다 .
+1	스스로도	스스로+도	ADV	_	3	advcl	_	_	스스로/ncn+도/jxc
+2	대중을	대중+을	NOUN	_	3	obj	_	_	대중/ncn+을/jco
+3	기피하고	기피+하+고	VERB	_	17	ccomp	_	_	기피/ncpa+하/xsv+고/ecx
+4	있는데	있+는데	SCONJ	_	3	aux	_	_	있/px+는데/ecs
+5	그래서	그래서	ADV	_	17	advmod	_	_	그래서/mag
+6	그를	그+를	PRON	_	17	obj	_	_	그/npp+를/jco
+7	'	'	PUNCT	_	8	punct	_	_	'/sl
+8	정열적	정열+적	NOUN	_	9	amod	_	_	정열/ncn+적/xsn
+9	배우요	배우+요	CCONJ	_	14	conj	_	_	배우/ncn+요/jcj
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	마음	마음	NOUN	_	12	dep	_	_	마음/ncn
+12	내키지	내키+지	VERB	_	14	acl	_	_	내키/pvg+지/ecx
+13	않는	않+는	AUX	_	12	aux	_	_	않/px+는/etm
+14	스타	스타	NOUN	_	17	conj	_	_	스타/ncn
+15	'	'	PUNCT	_	14	punct	_	_	'/sr
+16	라고	라고	ADP	_	14	case	_	_	라고/jcr
+17	부른다	부르+ㄴ다	VERB	_	0	root	_	_	부르/pvg+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 2편에서의 그가 코폴라의 말을 잘 나타내고 있다 .
+1	2편에서의	2+편+에서+의	NUM	_	2	nmod	_	_	2/nnc+편/nbu+에서/jca+의/jcm
+2	그가	그+가	PRON	_	6	nsubj	_	_	그/npp+가/jcs
+3	코폴라의	코폴라+의	PROPN	_	4	nmod	_	_	코폴라/nq+의/jcm
+4	말을	말+을	NOUN	_	6	obj	_	_	말/ncpa+을/jco
+5	잘	잘	ADV	_	6	advmod	_	_	잘/mag
+6	나타내고	나타내+고	VERB	_	0	root	_	_	나타내/pvg+고/ecx
+7	있다	있+다	AUX	_	6	aux	_	_	있/px+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그는 속죄하는 위엄 있는 대부의 피곤과 후회를 힘차면서도 쇠락하듯이 표현하고 있다 .
+1	그는	그+는	PRON	_	10	dislocated	_	_	그/npp+는/jxt
+2	속죄하는	속죄+하+는	VERB	_	5	acl	_	_	속죄/ncpa+하/xsv+는/etm
+3	위엄	위엄	NOUN	_	4	dep	_	_	위엄/ncps
+4	있는	있+는	ADJ	_	5	amod	_	_	있/paa+는/etm
+5	대부의	대부+의	NOUN	_	7	nmod	_	_	대부/ncn+의/jcm
+6	피곤과	피곤+과	CCONJ	_	7	conj	_	_	피곤/ncpa+과/jcj
+7	후회를	후회+를	NOUN	_	10	obj	_	_	후회/ncpa+를/jco
+8	힘차면서도	힘차+면서+도	ADV	_	9	ccomp	_	_	힘차/paa+면서/ecc+도/jxc
+9	쇠락하듯이	쇠락+하+듯이	SCONJ	_	10	ccomp	_	_	쇠락/ncpa+하/xsv+듯이/ecs
+10	표현하고	표현+하+고	VERB	_	0	root	_	_	표현/ncpa+하/xsv+고/ecx
+11	있다	있+다	AUX	_	10	aux	_	_	있/px+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러나 오스카 조연상 후보에 한번 , 주연상 후보는 네 번이나 오르고도 번번히 고배를 마셨다 .
+1	그러나	그러나	CCONJ	_	14	cc	_	_	그러나/maj
+2	오스카	오스카	PROPN	_	3	compound	_	_	오스카/nq
+3	조연상	조연상	NOUN	_	4	compound	_	_	조연상/ncn
+4	후보에	후보+에	ADV	_	5	obl	_	_	후보/ncn+에/jca
+5	한번	한번	NOUN	_	10	compound	_	_	한번/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	주연상	주연상	NOUN	_	8	compound	_	_	주연상/ncn
+8	후보는	후보+는	NOUN	_	10	dislocated	_	_	후보/ncn+는/jxt
+9	네	네	NUM	_	10	nummod	_	_	네/nnc
+10	번이나	번+이나	ADV	_	11	advcl	_	_	번/nbu+이나/jxc
+11	오르고도	오르+고+도	ADV	_	14	ccomp	_	_	오르/pvg+고/ecc+도/jxc
+12	번번히	번번히	NOUN	_	13	compound	_	_	번번히/ncn
+13	고배를	고배+를	NOUN	_	14	obj	_	_	고배/ncn+를/jco
+14	마셨다	마시+었+다	VERB	_	0	root	_	_	마시/pvg+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 파치노는 뉴욕 할렘에서 태어나 브롱스의 험악하고 가난한 동네에서 자랐다 .
+1	파치노는	파치노+는	PROPN	_	9	dislocated	_	_	파치노/nq+는/jxt
+2	뉴욕	뉴욕	PROPN	_	3	flat	_	_	뉴욕/nq
+3	할렘에서	할렘+에서	ADV	_	4	advcl	_	_	할렘/nq+에서/jca
+4	태어나	태어나+아	SCONJ	_	9	ccomp	_	_	태어나/pvg+아/ecs
+5	브롱스의	브롱스+의	PROPN	_	8	nmod	_	_	브롱스/nq+의/jcm
+6	험악하고	험악+하+고	CCONJ	_	7	conj	_	_	험악/ncps+하/xsm+고/ecc
+7	가난한	가난+하+ㄴ	VERB	_	8	amod	_	_	가난/ncps+하/xsm+ㄴ/etm
+8	동네에서	동네+에서	ADV	_	9	advcl	_	_	동네/ncn+에서/jca
+9	자랐다	자라+았+다	VERB	_	0	root	_	_	자라/pvg+았/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 소년시절부터 파치노의 연기능력을 간파한 선생들이 그를 격려 , 맨하탄 연기학교에 등록케 했으나 병약한 어머니를 돌봐야 해 17 세 때 중퇴했다 .
+1	소년시절부터	소년+시절+부터	ADV	_	4	advcl	_	_	소년/ncn+시절/ncn+부터/jxc
+2	파치노의	파치노+의	PROPN	_	3	nmod	_	_	파치노/nq+의/jcm
+3	연기능력을	연기+능력+을	NOUN	_	4	obj	_	_	연기/ncpa+능력/ncn+을/jco
+4	간파한	간파+하+ㄴ	VERB	_	5	acl	_	_	간파/ncpa+하/xsv+ㄴ/etm
+5	선생들이	선생+들+이	NOUN	_	11	nsubj	_	_	선생/ncn+들/xsn+이/jcs
+6	그를	그+를	PRON	_	7	obj	_	_	그/npp+를/jco
+7	격려	격려	NOUN	_	11	advmod	_	_	격려/ncpa
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	맨하탄	맨하탄	PROPN	_	10	compound	_	_	맨하탄/nq
+10	연기학교에	연기+학교+에	ADV	_	11	obl	_	_	연기/ncpa+학교/ncn+에/jca
+11	등록케	등록+하+게	VERB	_	20	ccomp	_	_	등록/ncpa+하/xsv+게/ecx
+12	했으나	하+었+으나	SCONJ	_	11	aux	_	_	하/px+었/ep+으나/ecs
+13	병약한	병약+하+ㄴ	VERB	_	14	amod	_	_	병약/ncps+하/xsm+ㄴ/etm
+14	어머니를	어머니+를	NOUN	_	15	obj	_	_	어머니/ncn+를/jco
+15	돌봐야	돌보+아야	VERB	_	20	ccomp	_	_	돌보/pvg+아야/ecx
+16	해	하+어	SCONJ	_	15	aux	_	_	하/px+어/ecs
+17	17	17	NUM	_	18	nummod	_	_	17/nno
+18	세	세	NOUN	_	19	compound	_	_	세/nbu
+19	때	때	NOUN	_	20	mark	_	_	때/nbn
+20	중퇴했다	중퇴+하+었+다	VERB	_	0	root	_	_	중퇴/ncpa+하/xsv+었/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 이어 청소부 , 극장 안내원 , 우체국 직원 등을 전전하면서도 연기의 꿈은 버리지 않았다 .
+1	이어	잇+어	SCONJ	_	10	ccomp	_	_	잇/pvg+어/ecs
+2	청소부	청소부	NOUN	_	5	conj	_	_	청소부/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	극장	극장	NOUN	_	5	compound	_	_	극장/ncn
+5	안내원	안내원	NOUN	_	8	compound	_	_	안내원/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	우체국	우체국	NOUN	_	8	compound	_	_	우체국/ncn
+8	직원	직원	NOUN	_	9	compound	_	_	직원/ncn
+9	등을	등+을	NOUN	_	10	obj	_	_	등/nbn+을/jco
+10	전전하면서도	전전+하+면서+도	ADV	_	13	ccomp	_	_	전전/ncpa+하/xsv+면서/ecc+도/jxc
+11	연기의	연기+의	NOUN	_	12	nmod	_	_	연기/ncpa+의/jcm
+12	꿈은	꿈+은	NOUN	_	13	dislocated	_	_	꿈/ncn+은/jxt
+13	버리지	버리+지	VERB	_	0	root	_	_	버리/pvg+지/ecx
+14	않았다	않+았+다	AUX	_	13	aux	_	_	않/px+았/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그래서 전설적인 연기학교 ' 액터스 스튜디오 ' 에 등록 ( 같은 학기 등록자로는 더스틴 호프만이 있다 ) 한 이후로는 연기에만 전념했다 .
+1	그래서	그래서	CCONJ	_	21	cc	_	_	그래서/maj
+2	전설적인	전설+적+이+ㄴ	VERB	_	3	acl	_	_	전설/ncn+적/xsn+이/jp+ㄴ/etm
+3	연기학교	연기+학교	NOUN	_	6	compound	_	_	연기/ncpa+학교/ncn
+4	'	'	PUNCT	_	6	punct	_	_	'/sl
+5	액터스	액터스	PROPN	_	6	compound	_	_	액터스/nq
+6	스튜디오	스튜디오	NOUN	_	18	obl	_	_	스튜디오/ncn
+7	'	'	PUNCT	_	6	punct	_	_	'/sr
+8	에	에	ADP	_	6	case	_	_	에/jca
+9	등록	등록	NOUN	_	18	dep	_	_	등록/ncpa
+10	(	(	PUNCT	_	12	punct	_	_	(/sl
+11	같은	같+ㄴ	ADJ	_	12	dep	_	_	같/paa+ㄴ/etm
+12	학기	학기	NOUN	_	13	compound	_	_	학기/ncn
+13	등록자로는	등록자+로+는	NOUN	_	16	dislocated	_	_	등록자/ncn+로/jca+는/jxt
+14	더스틴	더스틴	PROPN	_	15	flat	_	_	더스틴/nq
+15	호프만이	호프만+이	PROPN	_	16	nsubj	_	_	호프만/nq+이/jcs
+16	있다	있+다	ADJ	_	9	appos	_	_	있/paa+다/ef
+17	)	)	PUNCT	_	16	punct	_	_	)/sr
+18	한	하+ㄴ	VERB	_	19	acl	_	_	하/pvg+ㄴ/etm
+19	이후로는	이후+로+는	NOUN	_	21	dislocated	_	_	이후/ncn+로/jca+는/jxt
+20	연기에만	연기+에+만	ADV	_	21	advcl	_	_	연기/ncpa+에/jca+만/jxc
+21	전념했다	전념+하+었+다	VERB	_	0	root	_	_	전념/ncpa+하/xsv+었/ep+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 이 영화로 오스카 주연상 후보에 올랐으나 출연료는 3만 5천달러에 불과했다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	영화로	영화+로	ADV	_	6	advcl	_	_	영화/ncn+로/jca
+3	오스카	오스카	PROPN	_	4	compound	_	_	오스카/nq
+4	주연상	주연상	NOUN	_	5	compound	_	_	주연상/ncn
+5	후보에	후보+에	ADV	_	6	obl	_	_	후보/ncn+에/jca
+6	올랐으나	오르+았+으나	SCONJ	_	10	conj	_	_	오르/pvg+았/ep+으나/ecs
+7	출연료는	출연료+는	NOUN	_	10	dislocated	_	_	출연료/ncn+는/jxt
+8	3만	3+만	NUM	_	9	compound	_	_	3/nnc+만/nnc
+9	5천달러에	5+천+달러+에	ADV	_	10	obl	_	_	5/nnc+천/nnc+달러/nbu+에/jca
+10	불과했다	불과+하+었+다	VERB	_	0	root	_	_	불과/ncps+하/xsm+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그래서 돈도 벌 겸 보스턴으로 가 연극에 출연했는데 , 이때부터 파치노에게는 영화와 연극 세계를 왕복하는 습관이 시작됐다 .
+1	그래서	그래서	CCONJ	_	17	cc	_	_	그래서/maj
+2	돈도	돈+도	ADV	_	3	advcl	_	_	돈/ncn+도/jxc
+3	벌	벌+ㄹ	VERB	_	4	acl	_	_	벌/pvg+ㄹ/etm
+4	겸	겸	NOUN	_	8	advmod	_	_	겸/nbn
+5	보스턴으로	보스턴+으로	ADV	_	6	advcl	_	_	보스턴/nq+으로/jca
+6	가	가+아	SCONJ	_	8	ccomp	_	_	가/pvg+아/ecs
+7	연극에	연극+에	ADV	_	8	obl	_	_	연극/ncn+에/jca
+8	출연했는데	출연+하+었+는데	SCONJ	_	17	ccomp	_	_	출연/ncpa+하/xsv+었/ep+는데/ecs
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	이때부터	이때+부터	ADV	_	17	advcl	_	_	이때/npd+부터/jxc
+11	파치노에게는	파치노+에게+는	PROPN	_	17	dislocated	_	_	파치노/nq+에게/jca+는/jxt
+12	영화와	영화+와	CCONJ	_	13	conj	_	_	영화/ncn+와/jcj
+13	연극	연극	NOUN	_	14	compound	_	_	연극/ncn
+14	세계를	세계+를	NOUN	_	15	obj	_	_	세계/ncn+를/jco
+15	왕복하는	왕복+하+는	VERB	_	16	acl	_	_	왕복/ncpa+하/xsv+는/etm
+16	습관이	습관+이	NOUN	_	17	nsubj	_	_	습관/ncn+이/jcs
+17	시작됐다	시작+되+었+다	VERB	_	0	root	_	_	시작/ncpa+되/xsv+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그러나 그는 돈 때문에 배역을 맡진 않는다 .
+1	그러나	그러나	CCONJ	_	6	cc	_	_	그러나/maj
+2	그는	그+는	PRON	_	6	dislocated	_	_	그/npp+는/jxt
+3	돈	돈	NOUN	_	4	compound	_	_	돈/ncn
+4	때문에	때문+에	ADV	_	6	obl	_	_	때문/nbn+에/jca
+5	배역을	배역+을	NOUN	_	6	obj	_	_	배역/ncpa+을/jco
+6	맡진	맡+지+는	NOUN	_	0	root	_	_	맡/pvg+지/ecx+는/jxt
+7	않는다	않+는다	AUX	_	6	aux	_	_	않/px+는다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 백만 달러를 준다는 데도 < 대부 > 2편 출연제의를 거부하다 막판에 승락했다 .
+1	백만	백+만	NUM	_	2	compound	_	_	백/nnc+만/nnc
+2	달러를	달러+를	NOUN	_	3	obj	_	_	달러/nbu+를/jco
+3	준다는	주+ㄴ단	VERB	_	4	acl	_	_	주/pvg+ㄴ단/etm
+4	데도	데+도	ADV	_	10	advcl	_	_	데/nbn+도/jxc
+5	<	<	PUNCT	_	6	punct	_	_	</sl
+6	대부	대부	NOUN	_	8	compound	_	_	대부/ncn
+7	>	>	PUNCT	_	6	punct	_	_	>/sr
+8	2편	2+편	NOUN	_	9	compound	_	_	2/nnc+편/nbu
+9	출연제의를	출연+제의+를	NOUN	_	10	obj	_	_	출연/ncpa+제의/ncpa+를/jco
+10	거부하다	거부+하+다	SCONJ	_	12	ccomp	_	_	거부/ncpa+하/xsv+다/ecs
+11	막판에	막판+에	ADV	_	12	obl	_	_	막판/ncn+에/jca
+12	승락했다	승락+하+었+다	VERB	_	0	root	_	_	승락/ncpa+하/xsv+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 영화와 함께 연극에도 계속 출연 , < 파블로 헴멜의 기초훈련 > 으로 두번째 토니상을 수상했다 .
+1	영화와	영화+와	CCONJ	_	2	conj	_	_	영화/ncn+와/jct
+2	함께	함께	ADV	_	5	advmod	_	_	함께/mag
+3	연극에도	연극+에+도	ADV	_	5	advcl	_	_	연극/ncn+에/jca+도/jxc
+4	계속	계속	ADV	_	5	advmod	_	_	계속/mag
+5	출연	출연	NOUN	_	15	advmod	_	_	출연/ncpa
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	<	<	PUNCT	_	9	punct	_	_	</sl
+8	파블로	파블로	PROPN	_	9	flat	_	_	파블로/nq
+9	헴멜의	헴멜+의	PROPN	_	10	nmod	_	_	헴멜/nq+의/jcm
+10	기초훈련	기초훈련	NOUN	_	15	advcl	_	_	기초훈련/ncpa
+11	>	>	PUNCT	_	10	punct	_	_	>/sr
+12	으로	으로	ADP	_	10	case	_	_	으로/jca
+13	두번째	두번째	NUM	_	14	nummod	_	_	두번째/nno
+14	토니상을	토니상+을	PROPN	_	15	obj	_	_	토니상/nq+을/jco
+15	수상했다	수상+하+었+다	VERB	_	0	root	_	_	수상/ncpa+하/xsv+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이어 워런 베이티 감독 주연의 < 딕 트레이시 > 에서 괴물 악한 ' 빅 보이 ' 로 나와 깊이와 다양성 있는 연기로 극찬을 받았다 .
+1	이어	잇+어	SCONJ	_	18	ccomp	_	_	잇/pvg+어/ecs
+2	워런	워런	PROPN	_	3	flat	_	_	워런/nq
+3	베이티	베이티	PROPN	_	5	compound	_	_	베이티/nq
+4	감독	감독	NOUN	_	5	compound	_	_	감독/ncpa
+5	주연의	주연+의	NOUN	_	8	nmod	_	_	주연/ncpa+의/jcm
+6	<	<	PUNCT	_	8	punct	_	_	</sl
+7	딕	딕	PROPN	_	8	flat	_	_	딕/nq
+8	트레이시	트레이시	PROPN	_	18	advcl	_	_	트레이시/nq
+9	>	>	PUNCT	_	8	punct	_	_	>/sr
+10	에서	에서	ADP	_	8	case	_	_	에서/jca
+11	괴물	괴물	NOUN	_	12	compound	_	_	괴물/ncn
+12	악한	악한	NOUN	_	15	compound	_	_	악한/ncn
+13	'	'	PUNCT	_	15	punct	_	_	'/sl
+14	빅	빅	NOUN	_	15	compound	_	_	빅/ncn
+15	보이	보이	NOUN	_	18	advcl	_	_	보이/ncn
+16	'	'	PUNCT	_	15	punct	_	_	'/sr
+17	로	로	ADP	_	15	case	_	_	로/jca
+18	나와	나오+아	SCONJ	_	24	ccomp	_	_	나오/pvg+아/ecs
+19	깊이와	깊이+와	CCONJ	_	20	conj	_	_	깊이/ncn+와/jcj
+20	다양성	다양성	NOUN	_	21	dep	_	_	다양성/ncn
+21	있는	있+는	ADJ	_	22	amod	_	_	있/paa+는/etm
+22	연기로	연기+로	ADV	_	24	advcl	_	_	연기/ncpa+로/jca
+23	극찬을	극찬+을	NOUN	_	24	obj	_	_	극찬/ncpa+을/jco
+24	받았다	받+았+다	VERB	_	0	root	_	_	받/pvg+았/ep+다/ef
+25	.	.	PUNCT	_	24	punct	_	_	./sf
+
+# 맡은 역을 완전히 자기 정신과 몸으로 소화해 ' 걸어다니는 인간조건 ' 이라는 별명을 가지고 있다 .
+1	맡은	맡+ㄴ	VERB	_	2	acl	_	_	맡/pvg+ㄴ/etm
+2	역을	역+을	NOUN	_	7	obj	_	_	역/ncn+을/jco
+3	완전히	완전+히	ADV	_	7	advmod	_	_	완전/ncps+히/xsa
+4	자기	자기	PRON	_	6	compound	_	_	자기/npp
+5	정신과	정신+과	CCONJ	_	6	conj	_	_	정신/ncn+과/jcj
+6	몸으로	몸+으로	ADV	_	7	advcl	_	_	몸/ncn+으로/jca
+7	소화해	소화+하+어	SCONJ	_	14	ccomp	_	_	소화/ncpa+하/xsv+어/ecs
+8	'	'	PUNCT	_	9	punct	_	_	'/sl
+9	걸어다니는	걸어다니+는	VERB	_	10	ccomp	_	_	걸어다니/pvg+는/etm
+10	인간조건	인간+조건	NOUN	_	13	acl	_	_	인간/ncn+조건/ncpa
+11	'	'	PUNCT	_	10	punct	_	_	'/sr
+12	이라는	이+란	ADP	_	10	cop	_	_	이/jp+란/etm
+13	별명을	별명+을	NOUN	_	14	obj	_	_	별명/ncn+을/jco
+14	가지고	가지+고	VERB	_	0	root	_	_	가지/pvg+고/ecx
+15	있다	있+다	AUX	_	14	aux	_	_	있/px+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이 영화는 상영 첫 주말에는 그저 그런 5백 20만 달러의 흥행수입밖에는 못 올렸다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	영화는	영화+는	NOUN	_	13	dislocated	_	_	영화/ncn+는/jxt
+3	상영	상영	NOUN	_	5	compound	_	_	상영/ncn
+4	첫	첫	NUM	_	5	nummod	_	_	첫/nno
+5	주말에는	주말+에+는	NOUN	_	13	dislocated	_	_	주말/ncn+에/jca+는/jxt
+6	그저	그저	ADV	_	7	advmod	_	_	그저/mag
+7	그런	그렇+ㄴ	VERB	_	11	amod	_	_	그렇/pad+ㄴ/etm
+8	5백	5+백	NUM	_	9	compound	_	_	5/nnc+백/nnc
+9	20만	20+만	NUM	_	10	compound	_	_	20/nnc+만/nnc
+10	달러의	달러+의	NOUN	_	11	nmod	_	_	달러/nbu+의/jcm
+11	흥행수입밖에는	흥행+수입+밖에+는	NOUN	_	13	dislocated	_	_	흥행/ncpa+수입/ncpa+밖에/jxc+는/jxt
+12	못	못	ADV	_	13	advmod	_	_	못/mag
+13	올렸다	올리+었+다	VERB	_	0	root	_	_	올리/pvg+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 잡지들이 이 작품을 매우 잘 만든 영화라고 칭찬했다 .
+1	잡지들이	잡지+들+이	NOUN	_	8	nsubj	_	_	잡지/ncn+들/xsn+이/jcs
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	작품을	작품+을	NOUN	_	8	obj	_	_	작품/ncn+을/jco
+4	매우	매우	ADV	_	6	advmod	_	_	매우/mag
+5	잘	잘	ADV	_	4	advmod	_	_	잘/mag
+6	만든	만들+ㄴ	VERB	_	7	acl	_	_	만들/pvg+ㄴ/etm
+7	영화라고	영화+이+라+고	VERB	_	8	conj	_	_	영화/ncn+이/jp+라/ef+고/jcr
+8	칭찬했다	칭찬+하+었+다	VERB	_	0	root	_	_	칭찬/ncpa+하/xsv+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그러나 일부는 좋지 않은 평을 받은 것도 사실이다 .
+1	그러나	그러나	CCONJ	_	8	cc	_	_	그러나/maj
+2	일부는	일부+는	NOUN	_	6	dislocated	_	_	일부/ncn+는/jxt
+3	좋지	좋+지	ADJ	_	5	amod	_	_	좋/paa+지/ecx
+4	않은	않+ㄴ	AUX	_	3	aux	_	_	않/px+ㄴ/etm
+5	평을	평+을	NOUN	_	6	obj	_	_	평/nbu+을/jco
+6	받은	받+ㄴ	VERB	_	7	acl	_	_	받/pvg+ㄴ/etm
+7	것도	것+도	ADV	_	8	advcl	_	_	것/nbn+도/jxc
+8	사실이다	사실+이+다	VERB	_	0	root	_	_	사실/ncn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 베트남전은 미국의 부끄러운 상처요 실수이다 .
+1	베트남전은	베트남전+은	NOUN	_	5	dislocated	_	_	베트남전/ncn+은/jxt
+2	미국의	미국+의	PROPN	_	5	nmod	_	_	미국/nq+의/jcm
+3	부끄러운	부끄럽+ㄴ	ADJ	_	5	amod	_	_	부끄럽/paa+ㄴ/etm
+4	상처요	상처+요	CCONJ	_	5	conj	_	_	상처/ncn+요/jcj
+5	실수이다	실수+이+다	VERB	_	0	root	_	_	실수/ncpa+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그래서 미국 사람들은 조국이 도덕적 시궁창에 빠졌던 악몽의 기간에 대해서 얘기하는 것을 별로 달가워하지 않는다 .
+1	그래서	그래서	CCONJ	_	14	cc	_	_	그래서/maj
+2	미국	미국	PROPN	_	3	compound	_	_	미국/nq
+3	사람들은	사람+들+은	NOUN	_	14	dislocated	_	_	사람/ncn+들/xsn+은/jxt
+4	조국이	조국+이	NOUN	_	7	nsubj	_	_	조국/ncn+이/jcs
+5	도덕적	도덕+적	NOUN	_	6	amod	_	_	도덕/ncn+적/xsn
+6	시궁창에	시궁창+에	ADV	_	7	obl	_	_	시궁창/ncn+에/jca
+7	빠졌던	빠지+었+던	VERB	_	9	acl	_	_	빠지/pvg+었/ep+던/etm
+8	악몽의	악몽+의	NOUN	_	9	nmod	_	_	악몽/ncn+의/jcm
+9	기간에	기간+에	ADV	_	10	obl	_	_	기간/ncn+에/jca
+10	대해서	대하+어서	SCONJ	_	11	ccomp	_	_	대하/pvg+어서/ecs
+11	얘기하는	얘기+하+는	VERB	_	12	acl	_	_	얘기/ncpa+하/xsv+는/etm
+12	것을	것+을	NOUN	_	14	obj	_	_	것/nbn+을/jco
+13	별로	별로	ADV	_	14	advmod	_	_	별로/mag
+14	달가워하지	달가워하+지	VERB	_	0	root	_	_	달가워하/pvg+지/ecx
+15	않는다	않+는다	AUX	_	14	aux	_	_	않/px+는다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 오락 영화가 주종을 이루는 미 영화계로서는 고통스럽고 부끄럽게 죄를 저질렀던 이 전쟁에 관해 다루기를 더욱 꺼려 하는 형편이다 .
+1	오락	오락	NOUN	_	2	compound	_	_	오락/ncpa
+2	영화가	영화+가	NOUN	_	4	nsubj	_	_	영화/ncn+가/jcs
+3	주종을	주종+을	NOUN	_	4	obj	_	_	주종/ncn+을/jco
+4	이루는	이루+는	VERB	_	6	acl	_	_	이루/pvg+는/etm
+5	미	미	PROPN	_	6	compound	_	_	미/nq
+6	영화계로서는	영화계+로서+는	NOUN	_	18	dislocated	_	_	영화계/ncn+로서/jca+는/jxt
+7	고통스럽고	고통+스럽+고	CCONJ	_	8	conj	_	_	고통/ncps+스럽/xsm+고/ecc
+8	부끄럽게	부끄럽+게	SCONJ	_	10	xcomp	_	_	부끄럽/paa+게/ecs
+9	죄를	죄+를	NOUN	_	10	obj	_	_	죄/ncn+를/jco
+10	저질렀던	저지르+었+던	VERB	_	12	acl	_	_	저지르/pvg+었/ep+던/etm
+11	이	이	DET	_	12	det	_	_	이/mmd
+12	전쟁에	전쟁+에	ADV	_	13	obl	_	_	전쟁/ncpa+에/jca
+13	관해	관하+어	SCONJ	_	14	conj	_	_	관하/pvg+어/ecs
+14	다루기를	다루+기+를	NOUN	_	17	obj	_	_	다루/pvg+기/etn+를/jco
+15	더욱	더욱	ADV	_	17	advmod	_	_	더욱/mag
+16	꺼려	꺼리+어	SCONJ	_	17	ccomp	_	_	꺼리/pvg+어/ecs
+17	하는	하+는	VERB	_	18	ccomp	_	_	하/pvg+는/etm
+18	형편이다	형편+이+다	VERB	_	0	root	_	_	형편/ncn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그 어느 영화도 베트남전을 사실적으로 묘사하지는 못했었다 .
+1	그	그	DET	_	3	det	_	_	그/mmd
+2	어느	어느	DET	_	3	det	_	_	어느/mmd
+3	영화도	영화+도	ADV	_	6	advcl	_	_	영화/ncn+도/jxc
+4	베트남전을	베트남전+을	NOUN	_	6	obj	_	_	베트남전/ncn+을/jco
+5	사실적으로	사실+적+으로	ADV	_	6	advcl	_	_	사실/ncn+적/xsn+으로/jca
+6	묘사하지는	묘사+하+지+는	NOUN	_	0	root	_	_	묘사/ncpa+하/xsv+지/ecx+는/jxt
+7	못했었다	못하+었었+다	AUX	_	6	aux	_	_	못하/px+었었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 베트남전을 비로소 솔직히 사실적으로 묘사하고 미국의 과오와 군인들의 야만성을 속죄한 영화는 두말한 것 없이 올리버 스톤 감독의 < 플래툰 > 이었다 .
+1	베트남전을	베트남전+을	NOUN	_	5	obj	_	_	베트남전/ncn+을/jco
+2	비로소	비로소	ADV	_	5	advmod	_	_	비로소/mag
+3	솔직히	솔직+히	ADV	_	5	advmod	_	_	솔직/ncps+히/xsa
+4	사실적으로	사실+적+으로	ADV	_	5	advcl	_	_	사실/ncn+적/xsn+으로/jca
+5	묘사하고	묘사+하+고	CCONJ	_	10	conj	_	_	묘사/ncpa+하/xsv+고/ecc
+6	미국의	미국+의	PROPN	_	7	nmod	_	_	미국/nq+의/jcm
+7	과오와	과오+와	CCONJ	_	9	conj	_	_	과오/ncn+와/jcj
+8	군인들의	군인+들+의	NOUN	_	9	nmod	_	_	군인/ncn+들/xsn+의/jcm
+9	야만성을	야만성+을	NOUN	_	10	obj	_	_	야만성/ncn+을/jco
+10	속죄한	속죄+하+ㄴ	VERB	_	11	acl	_	_	속죄/ncpa+하/xsv+ㄴ/etm
+11	영화는	영화+는	NOUN	_	19	dislocated	_	_	영화/ncn+는/jxt
+12	두말한	두말+하+ㄴ	VERB	_	13	acl	_	_	두말/ncpa+하/xsv+ㄴ/etm
+13	것	것	NOUN	_	14	mark	_	_	것/nbn
+14	없이	없+이	SCONJ	_	19	xcomp	_	_	없/paa+이/ecs
+15	올리버	올리버	PROPN	_	16	flat	_	_	올리버/nq
+16	스톤	스톤	PROPN	_	17	compound	_	_	스톤/nq
+17	감독의	감독+의	NOUN	_	19	nmod	_	_	감독/ncpa+의/jcm
+18	<	<	PUNCT	_	19	punct	_	_	</sl
+19	플래툰	플래툰	PROPN	_	0	root	_	_	플래툰/nq
+20	>	>	PUNCT	_	19	punct	_	_	>/sr
+21	이었다	이+었+다	ADP	_	19	cop	_	_	이/jp+었/ep+다/ef
+22	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 왜 한동안 금기처럼 다루어지던 베트남전이 이제 와서 노골적으로 다루어지는가 .
+1	왜	왜	ADV	_	9	advmod	_	_	왜/mag
+2	한동안	한동안	NOUN	_	3	compound	_	_	한동안/ncn
+3	금기처럼	금기+처럼	ADV	_	4	advcl	_	_	금기/ncn+처럼/jca
+4	다루어지던	다루+어+지+던	AUX	_	5	acl	_	_	다루/pvg+어/ecx+지/px+던/etm
+5	베트남전이	베트남전+이	NOUN	_	9	nsubj	_	_	베트남전/ncn+이/jcs
+6	이제	이제	ADV	_	7	advmod	_	_	이제/mag
+7	와서	오+아서	SCONJ	_	9	ccomp	_	_	오/pvg+아서/ecs
+8	노골적으로	노골적+으로	ADV	_	9	advcl	_	_	노골적/ncn+으로/jca
+9	다루어지는가	다루+어+지+는가	AUX	_	0	root	_	_	다루/pvg+어/ecx+지/px+는가/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 사회학자나 영화계에서는 " 세월이 흘러 과거의 잘못을 제대로 볼 수 있을 만큼 마음에 여유가 생기고 상처도 상당히 치유됐기 때문 " 이라고 분석하고 있다 .
+1	사회학자나	사회학자+나	CCONJ	_	2	conj	_	_	사회학자/ncn+나/jcj
+2	영화계에서는	영화계+에서+는	NOUN	_	22	dislocated	_	_	영화계/ncn+에서/jca+는/jxt
+3	"	"	PUNCT	_	4	punct	_	_	"/sl
+4	세월이	세월+이	NOUN	_	5	nsubj	_	_	세월/ncn+이/jcs
+5	흘러	흐르+어	SCONJ	_	18	conj	_	_	흐르/pvg+어/ecs
+6	과거의	과거+의	NOUN	_	7	nmod	_	_	과거/ncn+의/jcm
+7	잘못을	잘못+을	NOUN	_	9	obj	_	_	잘못/ncpa+을/jco
+8	제대로	제대로	ADV	_	9	advmod	_	_	제대로/mag
+9	볼	보+ㄹ	VERB	_	12	acl	_	_	보/pvg+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있을	있+ㄹ	ADJ	_	9	aux	_	_	있/paa+ㄹ/etm
+12	만큼	만큼	NOUN	_	18	advmod	_	_	만큼/nbn
+13	마음에	마음+에	ADV	_	15	obl	_	_	마음/ncn+에/jca
+14	여유가	여유+가	NOUN	_	15	nsubj	_	_	여유/ncn+가/jcs
+15	생기고	생기+고	CCONJ	_	18	conj	_	_	생기/pvg+고/ecc
+16	상처도	상처+도	ADV	_	18	advcl	_	_	상처/ncn+도/jxc
+17	상당히	상당+히	ADV	_	18	advmod	_	_	상당/ncps+히/xsa
+18	치유됐기	치유+되+었+기	VERB	_	19	nmod	_	_	치유/ncpa+되/xsv+었/ep+기/etn
+19	때문	때문	NOUN	_	22	conj	_	_	때문/nbn
+20	"	"	PUNCT	_	19	punct	_	_	"/sr
+21	이라고	이+라+고	ADP	_	19	cop	_	_	이/jp+라/ef+고/jcr
+22	분석하고	분석+하+고	VERB	_	0	root	_	_	분석/ncpa+하/xsv+고/ecx
+23	있다	있+다	AUX	_	22	aux	_	_	있/px+다/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+
+# 백인 남자들이 독식하고 있는 미 영화계의 최근 역사에서 던 스틸은 두번째 여사장이었다 .
+1	백인	백인	NOUN	_	2	compound	_	_	백인/ncn
+2	남자들이	남자+들+이	NOUN	_	3	nsubj	_	_	남자/ncn+들/xsn+이/jcs
+3	독식하고	독식+하+고	VERB	_	6	acl	_	_	독식/ncpa+하/xsv+고/ecx
+4	있는	있+는	AUX	_	3	aux	_	_	있/px+는/etm
+5	미	미	PROPN	_	6	compound	_	_	미/nq
+6	영화계의	영화계+의	NOUN	_	8	nmod	_	_	영화계/ncn+의/jcm
+7	최근	최근	ADJ	_	8	amod	_	_	최근/mma
+8	역사에서	역사+에서	ADV	_	12	advcl	_	_	역사/ncn+에서/jca
+9	던	던	PROPN	_	10	flat	_	_	던/nq
+10	스틸은	스틸+은	PROPN	_	12	dislocated	_	_	스틸/nq+은/jxt
+11	두번째	두번째	NUM	_	12	nummod	_	_	두번째/nno
+12	여사장이었다	여사장+이+었+다	VERB	_	0	root	_	_	여사장/ncn+이/jp+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 또 피를 좋아하는 새디스틱한 시각 스타일리스트 브라이안 디 팔마가 처음으로 진지하게 만든 작품이어서 화제가 분분하다 .
+1	또	또	CCONJ	_	15	cc	_	_	또/maj
+2	피를	피+를	NOUN	_	3	obj	_	_	피/ncn+를/jco
+3	좋아하는	좋아하+는	VERB	_	6	acl	_	_	좋아하/pvg+는/etm
+4	새디스틱한	새디스틱+하+ㄴ	VERB	_	6	amod	_	_	새디스틱/ncps+하/xsm+ㄴ/etm
+5	시각	시각	NOUN	_	6	compound	_	_	시각/ncn
+6	스타일리스트	스타일+리스트	NOUN	_	9	compound	_	_	스타일/ncn+리스트/ncn
+7	브라이안	브라이안	PROPN	_	9	flat	_	_	브라이안/nq
+8	디	디	PROPN	_	9	flat	_	_	디/nq
+9	팔마가	팔마+가	PROPN	_	12	nsubj	_	_	팔마/nq+가/jcs
+10	처음으로	처음+으로	ADV	_	12	advcl	_	_	처음/ncn+으로/jca
+11	진지하게	진지+하+게	SCONJ	_	12	xcomp	_	_	진지/ncps+하/xsm+게/ecs
+12	만든	만들+ㄴ	VERB	_	13	ccomp	_	_	만들/pvg+ㄴ/etm
+13	작품이어서	작품+이+어서	SCONJ	_	15	conj	_	_	작품/ncn+이/jp+어서/ecs
+14	화제가	화제+가	NOUN	_	15	nsubj	_	_	화제/ncn+가/jcs
+15	분분하다	분분+하+다	VERB	_	0	root	_	_	분분/ncps+하/xsm+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 특히 억압되고 뒤틀린 섹스를 잘 다루는데 그의 영화에 여자가 나왔다 하면 겁탈당하거나 살해되거나 잔인하게 피해를 입곤 해 여권론자들로부터 욕을 얻어먹고 있다 .
+1	특히	특히	ADV	_	6	advmod	_	_	특히/mag
+2	억압되고	억압+되+고	CCONJ	_	3	conj	_	_	억압/ncpa+되/xsv+고/ecc
+3	뒤틀린	뒤틀리+ㄴ	VERB	_	4	acl	_	_	뒤틀리/pvg+ㄴ/etm
+4	섹스를	섹스+를	NOUN	_	6	obj	_	_	섹스/ncpa+를/jco
+5	잘	잘	ADV	_	6	advmod	_	_	잘/mag
+6	다루는데	다루+는데	SCONJ	_	20	ccomp	_	_	다루/pvg+는데/ecs
+7	그의	그+의	PRON	_	8	nmod	_	_	그/npp+의/jcm
+8	영화에	영화+에	ADV	_	10	obl	_	_	영화/ncn+에/jca
+9	여자가	여자+가	NOUN	_	10	nsubj	_	_	여자/ncn+가/jcs
+10	나왔다	나오+았+다	VERB	_	11	ccomp	_	_	나오/pvg+았/ep+다/ef
+11	하면	하+면	SCONJ	_	16	ccomp	_	_	하/pvg+면/ecs
+12	겁탈당하거나	겁탈당+하+거나	CCONJ	_	13	conj	_	_	겁탈당/ncpa+하/xsv+거나/ecc
+13	살해되거나	살해+되+거나	CCONJ	_	16	conj	_	_	살해/ncpa+되/xsv+거나/ecc
+14	잔인하게	잔인+하+게	SCONJ	_	16	xcomp	_	_	잔인/ncps+하/xsm+게/ecs
+15	피해를	피해+를	NOUN	_	16	obj	_	_	피해/ncpa+를/jco
+16	입곤	입+곤	VERB	_	20	ccomp	_	_	입/pvg+곤/ecx
+17	해	하+어	SCONJ	_	16	aux	_	_	하/px+어/ecs
+18	여권론자들로부터	여권론자+들+로+부터	ADV	_	20	advcl	_	_	여권론자/ncn+들/xsn+로/jca+부터/jxc
+19	욕을	욕+을	NOUN	_	20	obj	_	_	욕/ncps+을/jco
+20	얻어먹고	얻어먹+고	VERB	_	0	root	_	_	얻어먹/pvg+고/ecx
+21	있다	있+다	AUX	_	20	aux	_	_	있/px+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 미저브 중사 ( 숀 펜 ) 를 조장으로 한 5인 정찰대는 정찰은 나가면서 베트남 처녀 오안을 납치해 간다 .
+1	미저브	미저브	PROPN	_	2	compound	_	_	미저브/nq
+2	중사	중사	NOUN	_	9	obj	_	_	중사/ncn
+3	(	(	PUNCT	_	5	punct	_	_	(/sl
+4	숀	숀	PROPN	_	5	flat	_	_	숀/nq
+5	펜	펜	PROPN	_	2	appos	_	_	펜/nq
+6	)	)	PUNCT	_	5	punct	_	_	)/sr
+7	를	를	ADP	_	2	case	_	_	를/jco
+8	조장으로	조장+으로	ADV	_	9	advcl	_	_	조장/ncn+으로/jca
+9	한	하+ㄴ	VERB	_	11	acl	_	_	하/pvg+ㄴ/etm
+10	5인	5+인	NOUN	_	11	compound	_	_	5/nnc+인/nbu
+11	정찰대는	정찰대+는	NOUN	_	17	dislocated	_	_	정찰대/ncn+는/jxt
+12	정찰은	정찰+은	NOUN	_	13	dislocated	_	_	정찰/ncpa+은/jxt
+13	나가면서	나가+면서	CCONJ	_	17	conj	_	_	나가/pvg+면서/ecc
+14	베트남	베트남	PROPN	_	15	compound	_	_	베트남/nq
+15	처녀	처녀	NOUN	_	16	compound	_	_	처녀/ncn
+16	오안을	오안+을	PROPN	_	17	obj	_	_	오안/nq+을/jco
+17	납치해	납치+하+어	VERB	_	0	root	_	_	납치/ncpa+하/xsv+어/ecx
+18	간다	가+ㄴ다	AUX	_	17	aux	_	_	가/px+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 무기력한 공범자로서 양심과 도덕적 딜레마에 빠져 고민하던 에릭슨은 전우들을 고발 , 실형을 받게 한다 .
+1	무기력한	무기력+하+ㄴ	VERB	_	2	acl	_	_	무기력/ncpa+하/xsv+ㄴ/etm
+2	공범자로서	공범자+로서	ADV	_	7	advcl	_	_	공범자/ncn+로서/jca
+3	양심과	양심+과	CCONJ	_	4	conj	_	_	양심/ncn+과/jcj
+4	도덕적	도덕+적	NOUN	_	5	amod	_	_	도덕/ncn+적/xsn
+5	딜레마에	딜레마+에	ADV	_	6	obl	_	_	딜레마/ncn+에/jca
+6	빠져	빠지+어	SCONJ	_	7	ccomp	_	_	빠지/pvg+어/ecs
+7	고민하던	고민+하+던	VERB	_	8	acl	_	_	고민/ncpa+하/xsv+던/etm
+8	에릭슨은	에릭슨+은	PROPN	_	13	dislocated	_	_	에릭슨/nq+은/jxt
+9	전우들을	전우+들+을	NOUN	_	10	obj	_	_	전우/ncn+들/xsn+을/jco
+10	고발	고발	NOUN	_	13	advmod	_	_	고발/ncpa
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	실형을	실형+을	NOUN	_	13	obj	_	_	실형/ncn+을/jco
+13	받게	받+게	VERB	_	0	root	_	_	받/pvg+게/ecx
+14	한다	하+ㄴ다	AUX	_	13	aux	_	_	하/px+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이 영화에 잘못이 있다면 마지막 부분이다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	영화에	영화+에	ADV	_	4	obl	_	_	영화/ncn+에/jca
+3	잘못이	잘못+이	NOUN	_	4	nsubj	_	_	잘못/ncpa+이/jcs
+4	있다면	있+다면	SCONJ	_	6	xcomp	_	_	있/paa+다면/ecs
+5	마지막	마지막	NOUN	_	6	compound	_	_	마지막/ncn
+6	부분이다	부분+이+다	VERB	_	0	root	_	_	부분/ncn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 너무 간단히 오안에 대한 겁탈과 미 제국주의의 약소국 겁탈을 동시에 속죄하고 구원받으려 하고 있다는데 많은 비평가들도 이점을 나무라고 있다 .
+1	너무	너무	ADV	_	13	advmod	_	_	너무/mag
+2	간단히	간단+히	ADV	_	1	dep	_	_	간단/ncps+히/xsa
+3	오안에	오안+에	ADV	_	4	obl	_	_	오안/nq+에/jca
+4	대한	대하+ㄴ	VERB	_	5	acl	_	_	대하/pvg+ㄴ/etm
+5	겁탈과	겁탈+과	CCONJ	_	9	conj	_	_	겁탈/ncpa+과/jcj
+6	미	미	PROPN	_	7	compound	_	_	미/nq
+7	제국주의의	제국주의+의	NOUN	_	9	nmod	_	_	제국주의/ncn+의/jcm
+8	약소국	약소국	NOUN	_	9	compound	_	_	약소국/ncn
+9	겁탈을	겁탈+을	NOUN	_	11	obj	_	_	겁탈/ncpa+을/jco
+10	동시에	동시+에	ADV	_	11	obl	_	_	동시/ncn+에/jca
+11	속죄하고	속죄+하+고	CCONJ	_	12	conj	_	_	속죄/ncpa+하/xsv+고/ecc
+12	구원받으려	구원받+으려	SCONJ	_	13	ccomp	_	_	구원받/pvg+으려/ecs
+13	하고	하+고	VERB	_	18	ccomp	_	_	하/pvg+고/ecx
+14	있다는데	있+다는데	SCONJ	_	13	aux	_	_	있/px+다는데/ecs
+15	많은	많+ㄴ	ADJ	_	16	amod	_	_	많/paa+ㄴ/etm
+16	비평가들도	비평가+들+도	ADV	_	18	advcl	_	_	비평가/ncn+들/xsn+도/jxc
+17	이점을	이점+을	NOUN	_	18	obj	_	_	이점/ncn+을/jco
+18	나무라고	나무라+고	VERB	_	0	root	_	_	나무라/pvg+고/ecx
+19	있다	있+다	AUX	_	18	aux	_	_	있/px+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 한편 이 영화가 나오자 베트남전 참전 군인들의 단체인 ' 베트남 세대를 위한 센터 ' 는 " 이 영화는 허위로 우리들을 묘사했다 " 는 성명서를 발표했다 .
+1	한편	한편	CCONJ	_	25	cc	_	_	한편/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	영화가	영화+가	NOUN	_	4	nsubj	_	_	영화/ncn+가/jcs
+4	나오자	나오+자	CCONJ	_	25	conj	_	_	나오/pvg+자/ecc
+5	베트남전	베트남전	NOUN	_	6	compound	_	_	베트남전/ncn
+6	참전	참전	NOUN	_	7	compound	_	_	참전/ncpa
+7	군인들의	군인+들+의	NOUN	_	8	nmod	_	_	군인/ncn+들/xsn+의/jcm
+8	단체인	단체+이+ㄴ	VERB	_	13	acl	_	_	단체/ncn+이/jp+ㄴ/etm
+9	'	'	PUNCT	_	10	punct	_	_	'/sl
+10	베트남	베트남	PROPN	_	11	compound	_	_	베트남/nq
+11	세대를	세대+를	NOUN	_	12	obj	_	_	세대/ncn+를/jco
+12	위한	위+하+ㄴ	VERB	_	13	acl	_	_	위/ncpa+하/xsv+ㄴ/etm
+13	센터	센터	NOUN	_	25	dislocated	_	_	센터/ncn
+14	'	'	PUNCT	_	13	punct	_	_	'/sr
+15	는	는	ADP	_	13	case	_	_	는/jxt
+16	"	"	PUNCT	_	17	punct	_	_	"/sl
+17	이	이	DET	_	18	det	_	_	이/mmd
+18	영화는	영화+는	NOUN	_	21	dislocated	_	_	영화/ncn+는/jxt
+19	허위로	허위+로	ADV	_	21	advcl	_	_	허위/ncn+로/jca
+20	우리들을	우리+들+을	PRON	_	21	obj	_	_	우리/npp+들/xsn+을/jco
+21	묘사했다	묘사+하+었+다	VERB	_	24	acl	_	_	묘사/ncpa+하/xsv+었/ep+다/ef
+22	"	"	PUNCT	_	21	punct	_	_	"/sr
+23	는	는	PART	_	21	case	_	_	는/etm
+24	성명서를	성명서+를	NOUN	_	25	obj	_	_	성명서/ncn+를/jco
+25	발표했다	발표+하+었+다	VERB	_	0	root	_	_	발표/ncpa+하/xsv+었/ep+다/ef
+26	.	.	PUNCT	_	25	punct	_	_	./sf
+
+# 성명서는 " 군인들을 겁탈자와 무능력자로 잘못 묘사하여 , 우리에게 고통을 안겨주고 있다 " 고 반박하고 있다 .
+1	성명서는	성명서+는	NOUN	_	15	dislocated	_	_	성명서/ncn+는/jxt
+2	"	"	PUNCT	_	3	punct	_	_	"/sl
+3	군인들을	군인+들+을	NOUN	_	7	obj	_	_	군인/ncn+들/xsn+을/jco
+4	겁탈자와	겁탈자+와	CCONJ	_	5	conj	_	_	겁탈자/ncpa+와/jcj
+5	무능력자로	무능력자+로	ADV	_	7	advcl	_	_	무능력자/ncn+로/jca
+6	잘못	잘못	ADV	_	7	advmod	_	_	잘못/mag
+7	묘사하여	묘사+하+어	SCONJ	_	11	conj	_	_	묘사/ncpa+하/xsv+어/ecs
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	우리에게	우리+에게	ADV	_	11	iobj	_	_	우리/npp+에게/jca
+10	고통을	고통+을	NOUN	_	11	obj	_	_	고통/ncps+을/jco
+11	안겨주고	안기+어+주+고	AUX	_	15	conj	_	_	안기/pvg+어/ecx+주/px+고/ecx
+12	있다	있+다	AUX	_	11	aux	_	_	있/px+다/ef
+13	"	"	PUNCT	_	12	punct	_	_	"/sr
+14	고	고	ADP	_	12	case	_	_	고/jcr
+15	반박하고	반박+하+고	VERB	_	0	root	_	_	반박/ncpa+하/xsv+고/ecx
+16	있다	있+다	AUX	_	15	aux	_	_	있/px+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그래서 베트남전의 ' 일리아드 ' 격인 < 플래툰 > 이 전쟁 영화라면 ' 오디세이 ' 격인 < 7월 4일생 > 은 가차없이 정직한 인간 드라마라 하겠다 .
+1	그래서	그래서	CCONJ	_	26	cc	_	_	그래서/maj
+2	베트남전의	베트남전+의	NOUN	_	6	nmod	_	_	베트남전/ncn+의/jcm
+3	'	'	PUNCT	_	4	punct	_	_	'/sl
+4	일리아드	일리아드	PROPN	_	6	compound	_	_	일리아드/nq
+5	'	'	PUNCT	_	4	punct	_	_	'/sr
+6	격인	격+이+ㄴ	VERB	_	8	acl	_	_	격/nbn+이/jp+ㄴ/etm
+7	<	<	PUNCT	_	8	punct	_	_	</sl
+8	플래툰	플래툰	PROPN	_	12	nsubj	_	_	플래툰/nq
+9	>	>	PUNCT	_	8	punct	_	_	>/sr
+10	이	이	ADP	_	8	case	_	_	이/jcs
+11	전쟁	전쟁	NOUN	_	12	compound	_	_	전쟁/ncpa
+12	영화라면	영화+이+라면	SCONJ	_	26	ccomp	_	_	영화/ncn+이/jp+라면/ecs
+13	'	'	PUNCT	_	14	punct	_	_	'/sl
+14	오디세이	오디세이	PROPN	_	16	compound	_	_	오디세이/nq
+15	'	'	PUNCT	_	14	punct	_	_	'/sr
+16	격인	격+이+ㄴ	VERB	_	19	acl	_	_	격/nbn+이/jp+ㄴ/etm
+17	<	<	PUNCT	_	19	punct	_	_	</sl
+18	7월	7+월	NOUN	_	19	compound	_	_	7/nno+월/nbu
+19	4일생	4+일+생	NOUN	_	25	dislocated	_	_	4/nno+일/nbu+생/ncn
+20	>	>	PUNCT	_	19	punct	_	_	>/sr
+21	은	은	ADP	_	19	case	_	_	은/jxt
+22	가차없이	가차없이	ADV	_	23	advmod	_	_	가차없이/mag
+23	정직한	정직+하+ㄴ	VERB	_	25	amod	_	_	정직/ncps+하/xsm+ㄴ/etm
+24	인간	인간	NOUN	_	25	compound	_	_	인간/ncn
+25	드라마라	드라마+이+라	VERB	_	26	ccomp	_	_	드라마/ncn+이/jp+라/ef
+26	하겠다	하+겠+다	VERB	_	0	root	_	_	하/pvg+겠/ep+다/ef
+27	.	.	PUNCT	_	26	punct	_	_	./sf
+
+# 둘은 나이도 같을 뿐 아니라 모두 애국적 보수 가정에서 자라났고 베트남전에 참전 , 부상을 입었고 훈장도 탔다 .
+1	둘은	둘+은	NUM	_	17	dislocated	_	_	둘/nnc+은/jxt
+2	나이도	나이+도	ADV	_	3	advcl	_	_	나이/ncn+도/jxc
+3	같을	같+ㄹ	ADJ	_	17	amod	_	_	같/paa+ㄹ/etm
+4	뿐	뿐	NOUN	_	5	fixed	_	_	뿐/nbn
+5	아니라	아니+라	SCONJ	_	3	aux	_	_	아니/paa+라/ecs
+6	모두	모두	ADV	_	10	advmod	_	_	모두/mag
+7	애국적	애국+적	NOUN	_	9	amod	_	_	애국/ncpa+적/xsn
+8	보수	보수	NOUN	_	9	compound	_	_	보수/ncn
+9	가정에서	가정+에서	ADV	_	10	advcl	_	_	가정/ncn+에서/jca
+10	자라났고	자라+아+나+ㅆ+고	CCONJ	_	15	conj	_	_	자라/pvg+아/ecx+나/px+ㅆ/ep+고/ecc
+11	베트남전에	베트남전+에	ADV	_	12	obl	_	_	베트남전/ncn+에/jca
+12	참전	참전	NOUN	_	15	advmod	_	_	참전/ncpa
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	부상을	부상+을	NOUN	_	15	obj	_	_	부상/ncn+을/jco
+15	입었고	입+었+고	CCONJ	_	17	conj	_	_	입/pvg+었/ep+고/ecc
+16	훈장도	훈장+도	ADV	_	17	advcl	_	_	훈장/ncn+도/jxc
+17	탔다	타+았+다	VERB	_	0	root	_	_	타/pvg+았/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 또 귀국해서는 소외와 회한에 시달리다 베트남전의 허위성을 철저히 깨달은 사람들이다 .
+1	또	또	CCONJ	_	10	cc	_	_	또/maj
+2	귀국해서는	귀국+하+어서+는	NOUN	_	9	ccomp	_	_	귀국/ncpa+하/xsv+어서/ecs+는/jxt
+3	소외와	소외+와	CCONJ	_	4	conj	_	_	소외/ncpa+와/jcj
+4	회한에	회한+에	ADV	_	5	obl	_	_	회한/ncpa+에/jca
+5	시달리다	시달리+다	SCONJ	_	9	ccomp	_	_	시달리/pvg+다/ecs
+6	베트남전의	베트남전+의	NOUN	_	7	nmod	_	_	베트남전/ncn+의/jcm
+7	허위성을	허위성+을	NOUN	_	9	obj	_	_	허위성/ncn+을/jco
+8	철저히	철저+히	ADV	_	9	advmod	_	_	철저/ncps+히/xsa
+9	깨달은	깨닫+은	VERB	_	10	ccomp	_	_	깨닫/pvg+은/etm
+10	사람들이다	사람+들+이+다	VERB	_	0	root	_	_	사람/ncn+들/xsn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그 집념의 진동이 어찌나 강렬한지 가슴 저 밑바닥을 뒤흔드는 감동에 젖게 된다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	집념의	집념+의	NOUN	_	3	nmod	_	_	집념/ncpa+의/jcm
+3	진동이	진동+이	NOUN	_	5	nsubj	_	_	진동/ncpa+이/jcs
+4	어찌나	어찌나	ADV	_	5	advmod	_	_	어찌나/mag
+5	강렬한지	강렬+하+ㄴ지	SCONJ	_	11	xcomp	_	_	강렬/ncps+하/xsm+ㄴ지/ecs
+6	가슴	가슴	NOUN	_	8	compound	_	_	가슴/ncn
+7	저	저	PRON	_	8	compound	_	_	저/npd
+8	밑바닥을	밑바닥+을	NOUN	_	9	obj	_	_	밑바닥/ncn+을/jco
+9	뒤흔드는	뒤흔들+는	VERB	_	10	acl	_	_	뒤흔들/pvg+는/etm
+10	감동에	감동+에	ADV	_	11	obl	_	_	감동/ncpa+에/jca
+11	젖게	젖+게	VERB	_	0	root	_	_	젖/pvg+게/ecx
+12	된다	되+ㄴ다	AUX	_	11	aux	_	_	되/px+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 스톤은 정치성을 띠는 감독이기도 하지만 미국의 양심이라 해도 지나친 말이 아니다 .
+1	스톤은	스톤+은	PROPN	_	4	dislocated	_	_	스톤/nq+은/jxt
+2	정치성을	정치성+을	NOUN	_	3	obj	_	_	정치성/ncn+을/jco
+3	띠는	띠+는	VERB	_	4	ccomp	_	_	띠/pvg+는/etm
+4	감독이기도	감독+이+기+도	ADV	_	11	conj	_	_	감독/ncpa+이/jp+기/etn+도/jxc
+5	하지만	하+지만	SCONJ	_	4	aux	_	_	하/px+지만/ecs
+6	미국의	미국+의	PROPN	_	7	nmod	_	_	미국/nq+의/jcm
+7	양심이라	양심+이+라	VERB	_	8	ccomp	_	_	양심/ncn+이/jp+라/ef
+8	해도	하+어도	SCONJ	_	11	conj	_	_	하/pvg+어도/ecs
+9	지나친	지나치+ㄴ	VERB	_	10	acl	_	_	지나치/pvg+ㄴ/etm
+10	말이	말+이	NOUN	_	11	csubj	_	_	말/ncpa+이/jcc
+11	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 과격하면 격정적이기 마련이다 .
+1	과격하면	과격+하+면	SCONJ	_	2	xcomp	_	_	과격/ncps+하/xsm+면/ecs
+2	격정적이기	격정+적+이+기	VERB	_	3	nmod	_	_	격정/ncn+적/xsn+이/jp+기/etn
+3	마련이다	마련+이+다	VERB	_	0	root	_	_	마련/nbn+이/jp+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 그의 작품들에서는 힘이 있고 정열이 노한 듯 달아오른다 .
+1	그의	그+의	PRON	_	2	nmod	_	_	그/npp+의/jcm
+2	작품들에서는	작품+들+에서+는	NOUN	_	8	dislocated	_	_	작품/ncn+들/xsn+에서/jca+는/jxt
+3	힘이	힘+이	NOUN	_	4	nsubj	_	_	힘/ncn+이/jcs
+4	있고	있+고	CCONJ	_	8	conj	_	_	있/paa+고/ecc
+5	정열이	정열+이	NOUN	_	8	nsubj	_	_	정열/ncn+이/jcs
+6	노한	노하+ㄴ	VERB	_	7	acl	_	_	노하/pvg+ㄴ/etm
+7	듯	듯	NOUN	_	8	mark	_	_	듯/nbn
+8	달아오른다	달아오르+ㄴ다	VERB	_	0	root	_	_	달아오르/pvg+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 스톤과 코빅은 코빅의 자전 소설을 영화로 만들려고 10여년 전부터 애쓰다 스톤이 A급 감독으로 부상한 이제야 완성했다 .
+1	스톤과	스톤+과	CCONJ	_	2	conj	_	_	스톤/nq+과/jcj
+2	코빅은	코빅+은	PROPN	_	16	dislocated	_	_	코빅/nq+은/jxt
+3	코빅의	코빅+의	PROPN	_	5	nmod	_	_	코빅/nq+의/jcm
+4	자전	자전	NOUN	_	5	compound	_	_	자전/ncn
+5	소설을	소설+을	NOUN	_	7	obj	_	_	소설/ncn+을/jco
+6	영화로	영화+로	ADV	_	7	advcl	_	_	영화/ncn+로/jca
+7	만들려고	만들+려고	SCONJ	_	10	ccomp	_	_	만들/pvg+려고/ecs
+8	10여년	10+여년	NOUN	_	9	compound	_	_	10/nnc+여년/ncn
+9	전부터	전+부터	ADV	_	10	advcl	_	_	전/ncn+부터/jxc
+10	애쓰다	애쓰+다	SCONJ	_	16	ccomp	_	_	애쓰/pvg+다/ecs
+11	스톤이	스톤+이	PROPN	_	14	csubj	_	_	스톤/nq+이/jcc
+12	A급	A+급	NOUN	_	13	compound	_	_	A/f+급/nbu
+13	감독으로	감독+으로	ADV	_	14	advcl	_	_	감독/ncpa+으로/jca
+14	부상한	부상+하+ㄴ	VERB	_	15	acl	_	_	부상/ncpa+하/xsv+ㄴ/etm
+15	이제야	이제+야	ADV	_	16	advcl	_	_	이제/ncn+야/jxc
+16	완성했다	완성+하+었+다	VERB	_	0	root	_	_	완성/ncpa+하/xsv+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 톰 크루즈가 열연하는 코빅역은 당시 촬영 직전 영화화 계획이 무산되었는데 원래는 알 파치노가 맡기로 했었다 .
+1	톰	톰	PROPN	_	2	flat	_	_	톰/nq
+2	크루즈가	크루즈+가	PROPN	_	3	nsubj	_	_	크루즈/nq+가/jcs
+3	열연하는	열연+하+는	VERB	_	4	acl	_	_	열연/ncpa+하/xsv+는/etm
+4	코빅역은	코빅역+은	NOUN	_	10	dislocated	_	_	코빅역/ncn+은/jxt
+5	당시	당시	NOUN	_	10	advmod	_	_	당시/ncn
+6	촬영	촬영	NOUN	_	7	compound	_	_	촬영/ncpa
+7	직전	직전	NOUN	_	10	advmod	_	_	직전/ncn
+8	영화화	영화화	NOUN	_	9	compound	_	_	영화화/ncpa
+9	계획이	계획+이	NOUN	_	10	nsubj	_	_	계획/ncpa+이/jcs
+10	무산되었는데	무산+되+었+는데	SCONJ	_	15	ccomp	_	_	무산/ncpa+되/xsv+었/ep+는데/ecs
+11	원래는	원래+는	NOUN	_	14	dislocated	_	_	원래/ncn+는/jxt
+12	알	알	PROPN	_	13	flat	_	_	알/nq
+13	파치노가	파치노+가	PROPN	_	14	nsubj	_	_	파치노/nq+가/jcs
+14	맡기로	맡+기+로	ADV	_	15	advcl	_	_	맡/pvg+기/etn+로/jca
+15	했었다	하+었었+다	VERB	_	0	root	_	_	하/pvg+었었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 영화는 론 코빅의 어린시절 성장기로부터 시작된다 .
+1	영화는	영화+는	NOUN	_	6	dislocated	_	_	영화/ncn+는/jxt
+2	론	론	PROPN	_	3	flat	_	_	론/nq
+3	코빅의	코빅+의	PROPN	_	5	nmod	_	_	코빅/nq+의/jcm
+4	어린시절	어린시절	NOUN	_	5	compound	_	_	어린시절/ncn
+5	성장기로부터	성장기+로+부터	ADV	_	6	advcl	_	_	성장기/ncn+로/jca+부터/jxc
+6	시작된다	시작+되+ㄴ다	VERB	_	0	root	_	_	시작/ncpa+되/xsv+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 중류 하층계급이 사는 뉴욕주 마사페콰의 카톨릭 가정에서 자란 코빅은 가치관이나 외모 모두 ' 올아메리칸 보이 ' 로서 손색이 없다 .
+1	중류	중류	NOUN	_	2	compound	_	_	중류/ncn
+2	하층계급이	하층계급+이	NOUN	_	3	nsubj	_	_	하층계급/ncn+이/jcs
+3	사는	살+는	VERB	_	5	acl	_	_	살/pvg+는/etm
+4	뉴욕주	뉴욕주	PROPN	_	5	flat	_	_	뉴욕주/nq
+5	마사페콰의	마사페콰+의	PROPN	_	7	nmod	_	_	마사페콰/nq+의/jcm
+6	카톨릭	카톨릭	NOUN	_	7	compound	_	_	카톨릭/ncn
+7	가정에서	가정+에서	ADV	_	8	advcl	_	_	가정/ncn+에서/jca
+8	자란	자라+ㄴ	VERB	_	9	acl	_	_	자라/pvg+ㄴ/etm
+9	코빅은	코빅+은	PROPN	_	19	dislocated	_	_	코빅/nq+은/jxt
+10	가치관이나	가치관+이나	CCONJ	_	11	conj	_	_	가치관/ncn+이나/jcj
+11	외모	외모	NOUN	_	12	compound	_	_	외모/ncn
+12	모두	모두	NOUN	_	19	dep	_	_	모두/ncn
+13	'	'	PUNCT	_	15	punct	_	_	'/sl
+14	올아메리칸	올아메리칸	PROPN	_	15	compound	_	_	올아메리칸/nq
+15	보이	보이	NOUN	_	19	advcl	_	_	보이/ncn
+16	'	'	PUNCT	_	15	punct	_	_	'/sr
+17	로서	로서	ADP	_	15	case	_	_	로서/jca
+18	손색이	손색+이	NOUN	_	19	nsubj	_	_	손색/ncn+이/jcs
+19	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 잘 생긴 얼굴에 고교 레슬링 선수인 코빅은 심신과 국가관이 투철한 청년인데 그에게 이 같은 맹목적인 국가관을 심어준 사람은 그의 어머니였다 .
+1	잘	잘	ADV	_	2	advmod	_	_	잘/mag
+2	생긴	생기+ㄴ	VERB	_	3	acl	_	_	생기/pvg+ㄴ/etm
+3	얼굴에	얼굴+에	ADV	_	6	obl	_	_	얼굴/ncn+에/jca
+4	고교	고교	NOUN	_	5	compound	_	_	고교/ncn
+5	레슬링	레슬링	NOUN	_	6	compound	_	_	레슬링/ncn
+6	선수인	선수+이+ㄴ	VERB	_	7	acl	_	_	선수/ncn+이/jp+ㄴ/etm
+7	코빅은	코빅+은	PROPN	_	11	dislocated	_	_	코빅/nq+은/jxt
+8	심신과	심신+과	CCONJ	_	9	conj	_	_	심신/ncn+과/jcj
+9	국가관이	국가관+이	NOUN	_	10	nsubj	_	_	국가관/ncn+이/jcs
+10	투철한	투철+하+ㄴ	VERB	_	11	amod	_	_	투철/ncps+하/xsm+ㄴ/etm
+11	청년인데	청년+이+ㄴ데	SCONJ	_	20	ccomp	_	_	청년/ncn+이/jp+ㄴ데/ecs
+12	그에게	그+에게	ADV	_	17	iobj	_	_	그/npp+에게/jca
+13	이	이	PRON	_	14	dep	_	_	이/npd
+14	같은	같+ㄴ	ADJ	_	16	amod	_	_	같/paa+ㄴ/etm
+15	맹목적인	맹목+적+이+ㄴ	VERB	_	16	acl	_	_	맹목/ncn+적/xsn+이/jp+ㄴ/etm
+16	국가관을	국가관+을	NOUN	_	17	obj	_	_	국가관/ncn+을/jco
+17	심어준	심+어+주+ㄴ	AUX	_	18	acl	_	_	심/pvg+어/ecx+주/px+ㄴ/etm
+18	사람은	사람+은	NOUN	_	20	dislocated	_	_	사람/ncn+은/jxt
+19	그의	그+의	PRON	_	20	nmod	_	_	그/npp+의/jcm
+20	어머니였다	어머니+이+었+다	VERB	_	0	root	_	_	어머니/ncn+이/jp+었/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 코빅은 정찰을 나갔다가 실수로 전우를 쏴 죽이고 자신은 총상을 입고 가슴 아래가 완전히 마비된 채 본국으로 후송된다 .
+1	코빅은	코빅+은	PROPN	_	7	dislocated	_	_	코빅/nq+은/jxt
+2	정찰을	정찰+을	NOUN	_	3	obj	_	_	정찰/ncpa+을/jco
+3	나갔다가	나가+ㅆ+다가	SCONJ	_	7	ccomp	_	_	나가/pvg+ㅆ/ep+다가/ecs
+4	실수로	실수+로	ADV	_	6	advcl	_	_	실수/ncpa+로/jca
+5	전우를	전우+를	NOUN	_	6	obj	_	_	전우/ncn+를/jco
+6	쏴	쏘+아	SCONJ	_	7	ccomp	_	_	쏘/pvg+아/ecs
+7	죽이고	죽이+고	CCONJ	_	14	conj	_	_	죽이/pvg+고/ecc
+8	자신은	자신+은	NOUN	_	14	dislocated	_	_	자신/ncn+은/jxt
+9	총상을	총상+을	NOUN	_	10	obj	_	_	총상/ncn+을/jco
+10	입고	입+고	CCONJ	_	14	conj	_	_	입/pvg+고/ecc
+11	가슴	가슴	NOUN	_	12	compound	_	_	가슴/ncn
+12	아래가	아래+가	NOUN	_	14	nsubj	_	_	아래/ncn+가/jcs
+13	완전히	완전+히	ADV	_	14	advmod	_	_	완전/ncps+히/xsa
+14	마비된	마비+되+ㄴ	VERB	_	15	acl	_	_	마비/ncpa+되/xsv+ㄴ/etm
+15	채	채	NOUN	_	17	advmod	_	_	채/nbn
+16	본국으로	본국+으로	ADV	_	17	advcl	_	_	본국/ncn+으로/jca
+17	후송된다	후송+되+ㄴ다	VERB	_	0	root	_	_	후송/ncpa+되/xsv+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 멸사봉공의 코빅은 불구가 되어서도 처음에는 조국애를 뇌까리다 서서히 자각하게 된다 .
+1	멸사봉공의	멸사봉공+의	NOUN	_	2	nmod	_	_	멸사봉공/ncpa+의/jcm
+2	코빅은	코빅+은	PROPN	_	9	dislocated	_	_	코빅/nq+은/jxt
+3	불구가	불구+가	NOUN	_	4	nsubj	_	_	불구/ncn+가/jcs
+4	되어서도	되+어서+도	ADV	_	7	ccomp	_	_	되/pvg+어서/ecs+도/jxc
+5	처음에는	처음+에+는	NOUN	_	7	dislocated	_	_	처음/ncn+에/jca+는/jxt
+6	조국애를	조국애+를	NOUN	_	7	obj	_	_	조국애/ncn+를/jco
+7	뇌까리다	뇌까리+다	SCONJ	_	9	ccomp	_	_	뇌까리/pvg+다/ecs
+8	서서히	서서히	ADV	_	9	advmod	_	_	서서히/mag
+9	자각하게	자각+하+게	VERB	_	0	root	_	_	자각/ncpa+하/xsv+게/ecx
+10	된다	되+ㄴ다	AUX	_	9	aux	_	_	되/px+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 자각에는 고통이 따르게 마련이어서 , 술주정으로 날을 보내며 자신을 불구로 만들어 놓은 장본인이나 다름없는 어머니와 악다구니로 싸운다 .
+1	자각에는	자각+에+는	NOUN	_	4	dislocated	_	_	자각/ncpa+에/jca+는/jxt
+2	고통이	고통+이	NOUN	_	3	nsubj	_	_	고통/ncps+이/jcs
+3	따르게	따르+게	SCONJ	_	4	ccomp	_	_	따르/pvg+게/ecs
+4	마련이어서	마련+이+어서	SCONJ	_	17	ccomp	_	_	마련/ncpa+이/jp+어서/ecs
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	술주정으로	술주정+으로	ADV	_	8	advcl	_	_	술주정/ncpa+으로/jca
+7	날을	날+을	NOUN	_	8	obj	_	_	날/ncn+을/jco
+8	보내며	보내+며	CCONJ	_	17	conj	_	_	보내/pvg+며/ecc
+9	자신을	자신+을	NOUN	_	11	obj	_	_	자신/ncn+을/jco
+10	불구로	불구+로	ADV	_	11	advcl	_	_	불구/ncn+로/jca
+11	만들어	만들+어	VERB	_	13	acl	_	_	만들/pvg+어/ecx
+12	놓은	놓+ㄴ	AUX	_	11	aux	_	_	놓/px+ㄴ/etm
+13	장본인이나	장본인+이나	ADV	_	14	advcl	_	_	장본인/ncn+이나/jxc
+14	다름없는	다름없+는	ADJ	_	15	amod	_	_	다름없/paa+는/etm
+15	어머니와	어머니+와	CCONJ	_	17	conj	_	_	어머니/ncn+와/jct
+16	악다구니로	악다구니+로	ADV	_	17	advcl	_	_	악다구니/ncn+로/jca
+17	싸운다	싸우+ㄴ다	VERB	_	0	root	_	_	싸우/pvg+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 멕시코에 체류하는 동안 변신을 꿰하고 귀국한 코빅은 1972년 마이애미 공화당 전당대회에 뛰어들어 베트남전의 허구성을 폭로한다 .
+1	멕시코에	멕시코+에	ADV	_	2	obl	_	_	멕시코/nq+에/jca
+2	체류하는	체류+하+는	VERB	_	3	acl	_	_	체류/ncpa+하/xsv+는/etm
+3	동안	동안	NOUN	_	5	advmod	_	_	동안/ncn
+4	변신을	변신+을	NOUN	_	5	obj	_	_	변신/ncpa+을/jco
+5	꿰하고	꿰+하+고	CCONJ	_	6	conj	_	_	꿰/ncpa+하/xsv+고/ecc
+6	귀국한	귀국+하+ㄴ	VERB	_	7	acl	_	_	귀국/ncpa+하/xsv+ㄴ/etm
+7	코빅은	코빅+은	PROPN	_	15	dislocated	_	_	코빅/nq+은/jxt
+8	1972년	1972+년	NOUN	_	11	compound	_	_	1972/nno+년/nbu
+9	마이애미	마이애미	PROPN	_	11	compound	_	_	마이애미/nq
+10	공화당	공화당	PROPN	_	11	compound	_	_	공화당/nq
+11	전당대회에	전당대회+에	ADV	_	12	obl	_	_	전당대회/ncn+에/jca
+12	뛰어들어	뛰어들+어	SCONJ	_	15	ccomp	_	_	뛰어들/pvg+어/ecs
+13	베트남전의	베트남전+의	NOUN	_	14	nmod	_	_	베트남전/ncn+의/jcm
+14	허구성을	허구성+을	NOUN	_	15	obj	_	_	허구성/ncn+을/jco
+15	폭로한다	폭로+하+ㄴ다	VERB	_	0	root	_	_	폭로/ncpa+하/xsv+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이런 이미지 때문에 당초 그에게 배역을 맡기는 것에 대해 우려들이 많았다 .
+1	이런	이렇+ㄴ	VERB	_	2	amod	_	_	이렇/pad+ㄴ/etm
+2	이미지	이미지	NOUN	_	3	compound	_	_	이미지/ncn
+3	때문에	때문+에	ADV	_	11	obl	_	_	때문/nbn+에/jca
+4	당초	당초	NOUN	_	11	dep	_	_	당초/ncn
+5	그에게	그+에게	ADV	_	7	iobj	_	_	그/npp+에게/jca
+6	배역을	배역+을	NOUN	_	7	obj	_	_	배역/ncn+을/jco
+7	맡기는	맡기+는	VERB	_	8	acl	_	_	맡기/pvg+는/etm
+8	것에	것+에	ADV	_	9	obl	_	_	것/nbn+에/jca
+9	대해	대하+어	SCONJ	_	11	conj	_	_	대하/pvg+어/ecs
+10	우려들이	우려+들+이	NOUN	_	11	nsubj	_	_	우려/ncpa+들/xsn+이/jcs
+11	많았다	많+았+다	ADJ	_	0	root	_	_	많/paa+았/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그 결과 크루즈는 무서운 변신의 연기를 보여 주고 있다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	결과	결과	NOUN	_	7	advmod	_	_	결과/ncn
+3	크루즈는	크루즈+는	PROPN	_	7	dislocated	_	_	크루즈/nq+는/jxt
+4	무서운	무섭+ㄴ	ADJ	_	5	amod	_	_	무섭/paa+ㄴ/etm
+5	변신의	변신+의	NOUN	_	6	nmod	_	_	변신/ncpa+의/jcm
+6	연기를	연기+를	NOUN	_	7	obj	_	_	연기/ncpa+를/jco
+7	보여	보이+어	VERB	_	0	root	_	_	보이/pvg+어/ecx
+8	주고	주+고	AUX	_	7	aux	_	_	주/px+고/ecx
+9	있다	있+다	AUX	_	7	aux	_	_	있/px+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 스톤의 격정적인 연출은 다소 자제력을 잃고 관객에게 자신과 함께 속죄하고 한탄하자고 강요하는 식이다 .
+1	스톤의	스톤+의	PROPN	_	3	nmod	_	_	스톤/nq+의/jcm
+2	격정적인	격정+적+이+ㄴ	VERB	_	3	acl	_	_	격정/ncn+적/xsn+이/jp+ㄴ/etm
+3	연출은	연출+은	NOUN	_	13	dislocated	_	_	연출/ncpa+은/jxt
+4	다소	다소	ADV	_	6	advmod	_	_	다소/mag
+5	자제력을	자제력+을	NOUN	_	6	obj	_	_	자제력/ncn+을/jco
+6	잃고	잃+고	CCONJ	_	12	conj	_	_	잃/pvg+고/ecc
+7	관객에게	관객+에게	ADV	_	12	iobj	_	_	관객/ncn+에게/jca
+8	자신과	자신+과	CCONJ	_	9	conj	_	_	자신/ncn+과/jct
+9	함께	함께	ADV	_	11	advmod	_	_	함께/mag
+10	속죄하고	속죄+하+고	CCONJ	_	11	conj	_	_	속죄/ncpa+하/xsv+고/ecc
+11	한탄하자고	한탄+하+자+고	VERB	_	12	conj	_	_	한탄/ncpa+하/xsv+자/ef+고/jcr
+12	강요하는	강요+하+는	VERB	_	13	ccomp	_	_	강요/ncpa+하/xsv+는/etm
+13	식이다	식+이+다	VERB	_	0	root	_	_	식/ncn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 너무 베트남전의 비도덕성을 강조하다 론 코빅이 멸사봉공하는 애국자에서 반전운동가로 넘어가는 연결부분이 애매모호하게 표현되었다 .
+1	너무	너무	ADV	_	4	advmod	_	_	너무/mag
+2	베트남전의	베트남전+의	NOUN	_	3	nmod	_	_	베트남전/ncn+의/jcm
+3	비도덕성을	비도덕성+을	NOUN	_	4	obj	_	_	비도덕성/ncn+을/jco
+4	강조하다	강조+하+다	SCONJ	_	13	ccomp	_	_	강조/ncpa+하/xsv+다/ecs
+5	론	론	PROPN	_	6	flat	_	_	론/nq
+6	코빅이	코빅+이	PROPN	_	10	nsubj	_	_	코빅/nq+이/jcs
+7	멸사봉공하는	멸사봉공+하+는	VERB	_	8	acl	_	_	멸사봉공/ncpa+하/xsv+는/etm
+8	애국자에서	애국자+에서	ADV	_	9	advcl	_	_	애국자/ncn+에서/jca
+9	반전운동가로	반전+운동가+로	ADV	_	10	advcl	_	_	반전/ncpa+운동가/ncn+로/jca
+10	넘어가는	넘어가+는	VERB	_	11	acl	_	_	넘어가/pvg+는/etm
+11	연결부분이	연결+부분+이	NOUN	_	13	nsubj	_	_	연결/ncpa+부분/ncn+이/jcs
+12	애매모호하게	애매모호+하+게	SCONJ	_	13	xcomp	_	_	애매모호/ncps+하/xsm+게/ecs
+13	표현되었다	표현+되+었+다	VERB	_	0	root	_	_	표현/ncpa+되/xsv+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 오늘날의 우리는 모두 ' 관계의 문제 ' 때문에 살아가기가 퍽 힘들지 않은가 .
+1	오늘날의	오늘날+의	NOUN	_	2	nmod	_	_	오늘날/ncn+의/jcm
+2	우리는	우리+는	PRON	_	11	dislocated	_	_	우리/npp+는/jxt
+3	모두	모두	ADV	_	11	advmod	_	_	모두/mag
+4	'	'	PUNCT	_	5	punct	_	_	'/sl
+5	관계의	관계+의	NOUN	_	6	nmod	_	_	관계/ncpa+의/jcm
+6	문제	문제	NOUN	_	8	compound	_	_	문제/ncn
+7	'	'	PUNCT	_	6	punct	_	_	'/sr
+8	때문에	때문+에	ADV	_	11	obl	_	_	때문/nbn+에/jca
+9	살아가기가	살+아+가+기+가	NOUN	_	11	nsubj	_	_	살/pvg+아/ecx+가/px+기/etn+가/jcs
+10	퍽	퍽	ADV	_	11	advmod	_	_	퍽/mag
+11	힘들지	힘들+지	VERB	_	0	root	_	_	힘들/pvg+지/ecx
+12	않은가	않+ㄴ가	AUX	_	11	aux	_	_	않/px+ㄴ가/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 내용과 기술면에서 모두 신선하고 아름답다 .
+1	내용과	내용+과	CCONJ	_	2	conj	_	_	내용/ncn+과/jcj
+2	기술면에서	기술+면+에서	ADV	_	6	advcl	_	_	기술/ncn+면/ncn+에서/jca
+3	모두	모두	ADV	_	6	advmod	_	_	모두/mag
+4	신선하고	신선하+고	CCONJ	_	5	conj	_	_	신선하/paa+고/ecc
+5	아름답다	아름답+다	ADJ	_	6	conj	_	_	아름답/paa+다/ef
+6	.	.	PUNCT	_	0	root	_	_	./sf
+
+# 그래서 ' 기적같은 작품 ' 이라고까지 칭찬을 들었다 .
+1	그래서	그래서	CCONJ	_	8	cc	_	_	그래서/maj
+2	'	'	PUNCT	_	3	punct	_	_	'/sl
+3	기적같은	기적같+은	ADJ	_	4	amod	_	_	기적같/paa+은/etm
+4	작품	작품	NOUN	_	8	advcl	_	_	작품/ncn
+5	'	'	PUNCT	_	4	punct	_	_	'/sr
+6	이라고까지	이+라+고+까지	ADP	_	4	cop	_	_	이/jp+라/ef+고/jcr+까지/jxc
+7	칭찬을	칭찬+을	NOUN	_	8	obj	_	_	칭찬/ncpa+을/jco
+8	들었다	들+었+다	VERB	_	0	root	_	_	들/pvg+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그는 자신의 경험을 바탕으로 현대인들의 감정 흐름과 사유의 파장을 슬로모션처럼 차분히 영상에 담고 있는데 정확하고 긴장감이 있다 .
+1	그는	그+는	PRON	_	13	dislocated	_	_	그/npp+는/jxt
+2	자신의	자신+의	NOUN	_	3	nmod	_	_	자신/ncn+의/jcm
+3	경험을	경험+을	NOUN	_	4	obj	_	_	경험/ncpa+을/jco
+4	바탕으로	바탕+으로	ADV	_	13	advcl	_	_	바탕/ncpa+으로/jca
+5	현대인들의	현대인+들+의	NOUN	_	8	nmod	_	_	현대인/ncn+들/xsn+의/jcm
+6	감정	감정	NOUN	_	7	dep	_	_	감정/ncn
+7	흐름과	흐르+ㅁ+과	CCONJ	_	8	conj	_	_	흐르/pvg+ㅁ/etn+과/jcj
+8	사유의	사유+의	NOUN	_	9	nmod	_	_	사유/ncpa+의/jcm
+9	파장을	파장+을	NOUN	_	13	obj	_	_	파장/ncn+을/jco
+10	슬로모션처럼	슬로모션+처럼	ADV	_	13	advcl	_	_	슬로모션/ncpa+처럼/jca
+11	차분히	차분+히	ADV	_	13	advmod	_	_	차분/ncps+히/xsa
+12	영상에	영상+에	ADV	_	13	obl	_	_	영상/ncn+에/jca
+13	담고	담+고	VERB	_	17	conj	_	_	담/pvg+고/ecx
+14	있는데	있+는데	SCONJ	_	13	aux	_	_	있/px+는데/ecs
+15	정확하고	정확+하+고	CCONJ	_	17	conj	_	_	정확/ncps+하/xsm+고/ecc
+16	긴장감이	긴장감+이	NOUN	_	17	nsubj	_	_	긴장감/ncn+이/jcs
+17	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그 갈등과 문제를 엄격하고 어둡게 표현하면서도 코믹하고 재미있어 지성과 감성이 함께 즐겁다 .
+1	그	그	DET	_	3	det	_	_	그/mmd
+2	갈등과	갈등+과	CCONJ	_	3	conj	_	_	갈등/ncpa+과/jcj
+3	문제를	문제+를	NOUN	_	6	obj	_	_	문제/ncn+를/jco
+4	엄격하고	엄격+하+고	CCONJ	_	5	conj	_	_	엄격/ncps+하/xsm+고/ecc
+5	어둡게	어둡+게	SCONJ	_	6	xcomp	_	_	어둡/paa+게/ecs
+6	표현하면서도	표현+하+면서+도	ADV	_	8	dep	_	_	표현/ncpa+하/xsv+면서/ecc+도/jxc
+7	코믹하고	코믹+하+고	CCONJ	_	8	conj	_	_	코믹/ncps+하/xsm+고/ecc
+8	재미있어	재미있+어	SCONJ	_	12	xcomp	_	_	재미있/paa+어/ecs
+9	지성과	지성+과	CCONJ	_	10	conj	_	_	지성/ncn+과/jcj
+10	감성이	감성+이	NOUN	_	12	nsubj	_	_	감성/ncn+이/jcs
+11	함께	함께	ADV	_	12	advmod	_	_	함께/mag
+12	즐겁다	즐겁+다	ADJ	_	0	root	_	_	즐겁/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# ' 섹스 ' 라는 단어가 수없이 나오고 남녀의 정사 장면도 제법 있지만 영화는 극히 섹스를 절제하고 있다 .
+1	'	'	PUNCT	_	2	punct	_	_	'/sl
+2	섹스	섹스	NOUN	_	5	acl	_	_	섹스/ncpa
+3	'	'	PUNCT	_	2	punct	_	_	'/sr
+4	라는	이+란	ADP	_	2	cop	_	_	이/jp+란/etm
+5	단어가	단어+가	NOUN	_	7	nsubj	_	_	단어/ncn+가/jcs
+6	수없이	수없이	ADV	_	7	advmod	_	_	수없이/mag
+7	나오고	나오+고	CCONJ	_	12	conj	_	_	나오/pvg+고/ecc
+8	남녀의	남녀+의	NOUN	_	10	nmod	_	_	남녀/ncn+의/jcm
+9	정사	정사	NOUN	_	10	compound	_	_	정사/ncpa
+10	장면도	장면+도	ADV	_	12	advcl	_	_	장면/ncn+도/jxc
+11	제법	제법	ADV	_	12	advmod	_	_	제법/mag
+12	있지만	있+지만	SCONJ	_	16	xcomp	_	_	있/paa+지만/ecs
+13	영화는	영화+는	NOUN	_	16	dislocated	_	_	영화/ncn+는/jxt
+14	극히	극히	ADV	_	16	advmod	_	_	극히/mag
+15	섹스를	섹스+를	NOUN	_	16	obj	_	_	섹스/ncpa+를/jco
+16	절제하고	절제+하+고	VERB	_	0	root	_	_	절제/ncpa+하/xsv+고/ecx
+17	있다	있+다	AUX	_	16	aux	_	_	있/px+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 섹스 자체에 관한 영화라기보다는 인간의 가장 기본적인 욕망의 하나인 섹스를 통해 인간 관계를 다루고 있다 .
+1	섹스	섹스	NOUN	_	2	compound	_	_	섹스/ncpa
+2	자체에	자체+에	ADV	_	3	obl	_	_	자체/ncn+에/jca
+3	관한	관하+ㄴ	VERB	_	4	acl	_	_	관하/pvg+ㄴ/etm
+4	영화라기보다는	영화+이+라기+보다+는	NOUN	_	14	dislocated	_	_	영화/ncn+이/jp+라기/etn+보다/jca+는/jxt
+5	인간의	인간+의	NOUN	_	8	nmod	_	_	인간/ncn+의/jcm
+6	가장	가장	ADV	_	7	advmod	_	_	가장/mag
+7	기본적인	기본+적+이+ㄴ	VERB	_	8	acl	_	_	기본/ncn+적/xsn+이/jp+ㄴ/etm
+8	욕망의	욕망+의	NOUN	_	9	nmod	_	_	욕망/ncn+의/jcm
+9	하나인	하나+이+ㄴ	VERB	_	10	acl	_	_	하나/nnc+이/jp+ㄴ/etm
+10	섹스를	섹스+를	NOUN	_	11	obj	_	_	섹스/ncpa+를/jco
+11	통해	통+하+어	SCONJ	_	14	ccomp	_	_	통/ncpa+하/xsv+어/ecs
+12	인간	인간	NOUN	_	13	compound	_	_	인간/ncn
+13	관계를	관계+를	NOUN	_	14	obj	_	_	관계/ncpa+를/jco
+14	다루고	다루+고	VERB	_	0	root	_	_	다루/pvg+고/ecx
+15	있다	있+다	AUX	_	14	aux	_	_	있/px+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 고백 후의 구원받는 마음이란 얼마나 기분 좋은 일인가 .
+1	고백	고백	NOUN	_	2	compound	_	_	고백/ncpa
+2	후의	후+의	NOUN	_	4	nmod	_	_	후/ncn+의/jcm
+3	구원받는	구원받+는	VERB	_	4	acl	_	_	구원받/pvg+는/etm
+4	마음이란	마음+이란	ADV	_	8	advcl	_	_	마음/ncn+이란/jxc
+5	얼마나	얼마나	ADV	_	7	advmod	_	_	얼마나/mag
+6	기분	기분	NOUN	_	7	dep	_	_	기분/ncn
+7	좋은	좋+ㄴ	ADJ	_	8	amod	_	_	좋/paa+ㄴ/etm
+8	일인가	일+이+ㄴ가	VERB	_	0	root	_	_	일/ncn+이/jp+ㄴ가/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이 여피 부부의 나이는 모두 30세로 둘은 이미 섹스를 중단한 상태이다 .
+1	이	이	DET	_	3	det	_	_	이/mmd
+2	여피	여피	NOUN	_	3	compound	_	_	여피/ncn
+3	부부의	부부+의	NOUN	_	4	nmod	_	_	부부/ncn+의/jcm
+4	나이는	나이+는	NOUN	_	6	dislocated	_	_	나이/ncn+는/jxt
+5	모두	모두	NOUN	_	6	compound	_	_	모두/ncn
+6	30세로	30+세+로	ADV	_	11	advcl	_	_	30/nno+세/nbu+로/jca
+7	둘은	둘+은	NUM	_	10	dislocated	_	_	둘/nnc+은/jxt
+8	이미	이미	ADV	_	10	advmod	_	_	이미/mag
+9	섹스를	섹스+를	NOUN	_	10	obj	_	_	섹스/ncpa+를/jco
+10	중단한	중단+하+ㄴ	VERB	_	11	ccomp	_	_	중단/ncpa+하/xsv+ㄴ/etm
+11	상태이다	상태+이+다	VERB	_	0	root	_	_	상태/ncn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 한편 근무중에도 틈을 내 격정적인 정사를 갖는 존과 신시아는 육체적으로만 맺어진 관계이다 .
+1	한편	한편	CCONJ	_	12	cc	_	_	한편/maj
+2	근무중에도	근무+중+에+도	ADV	_	4	advcl	_	_	근무/ncpa+중/xsn+에/jca+도/jxc
+3	틈을	틈+을	NOUN	_	4	obj	_	_	틈/ncn+을/jco
+4	내	내+어	SCONJ	_	7	ccomp	_	_	내/pvg+어/ecs
+5	격정적인	격정+적+이+ㄴ	VERB	_	6	acl	_	_	격정/ncn+적/xsn+이/jp+ㄴ/etm
+6	정사를	정사+를	NOUN	_	7	obj	_	_	정사/ncpa+를/jco
+7	갖는	갖+는	VERB	_	9	acl	_	_	갖/pvg+는/etm
+8	존과	존+과	CCONJ	_	9	conj	_	_	존/nq+과/jcj
+9	신시아는	신시아+는	PROPN	_	12	dislocated	_	_	신시아/nq+는/jxt
+10	육체적으로만	육체+적+으로+만	ADV	_	11	advcl	_	_	육체/ncn+적/xsn+으로/jca+만/jxc
+11	맺어진	맺+어+지+ㄴ	AUX	_	12	ccomp	_	_	맺/pvg+어/ecx+지/px+ㄴ/etm
+12	관계이다	관계+이+다	VERB	_	0	root	_	_	관계/ncpa+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+

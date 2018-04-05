@@ -1,0 +1,1728 @@
+# 가계에 있어 수입의 주요 원천은 가장이 근로를 제공하고 매월 정기적으로 수령하는 봉급이다 .
+1	가계에	가계+에	ADV	_	2	obl	_	_	가계/ncn+에/jca
+2	있어	있+어	SCONJ	_	12	xcomp	_	_	있/paa+어/ecs
+3	수입의	수입+의	NOUN	_	5	nmod	_	_	수입/ncpa+의/jcm
+4	주요	주요	NOUN	_	5	compound	_	_	주요/ncps
+5	원천은	원천+은	NOUN	_	12	dislocated	_	_	원천/ncn+은/jxt
+6	가장이	가장+이	NOUN	_	8	nsubj	_	_	가장/ncn+이/jcs
+7	근로를	근로+를	NOUN	_	8	obj	_	_	근로/ncpa+를/jco
+8	제공하고	제공+하+고	CCONJ	_	11	conj	_	_	제공/ncpa+하/xsv+고/ecc
+9	매월	매월	ADV	_	11	advmod	_	_	매월/mag
+10	정기적으로	정기+적+으로	ADV	_	11	advcl	_	_	정기/ncn+적/xsn+으로/jca
+11	수령하는	수령+하+는	VERB	_	12	ccomp	_	_	수령/ncpa+하/xsv+는/etm
+12	봉급이다	봉급+이+다	VERB	_	0	root	_	_	봉급/ncn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그리고 지출은 음식료비 , 교육비 , 집세 등의 생활비가 대부분을 차지하고 있다 .
+1	그리고	그리고	CCONJ	_	11	cc	_	_	그리고/maj
+2	지출은	지출+은	NOUN	_	11	dislocated	_	_	지출/ncpa+은/jxt
+3	음식료비	음식료비	NOUN	_	5	conj	_	_	음식료비/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	교육비	교육비	NOUN	_	7	conj	_	_	교육비/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	집세	집세	NOUN	_	8	compound	_	_	집세/ncn
+8	등의	등+의	NOUN	_	9	nmod	_	_	등/nbn+의/jcm
+9	생활비가	생활비+가	NOUN	_	11	nsubj	_	_	생활비/ncn+가/jcs
+10	대부분을	대부분+을	NOUN	_	11	obj	_	_	대부분/ncn+을/jco
+11	차지하고	차지+하+고	VERB	_	0	root	_	_	차지/ncpa+하/xsv+고/ecx
+12	있다	있+다	AUX	_	11	aux	_	_	있/px+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 생활비는 수입의 범위 내에서 지출하는 것이 원칙이나 , 장래에 대비하여 급료의 일부를 은행에 예금하게 되면 생활비는 감소하게 된다 .
+1	생활비는	생활비+는	NOUN	_	5	dislocated	_	_	생활비/ncn+는/jxt
+2	수입의	수입+의	NOUN	_	3	nmod	_	_	수입/ncpa+의/jcm
+3	범위	범위	NOUN	_	4	compound	_	_	범위/ncn
+4	내에서	내+에서	ADV	_	5	advcl	_	_	내/ncn+에서/jca
+5	지출하는	지출+하+는	VERB	_	6	acl	_	_	지출/ncpa+하/xsv+는/etm
+6	것이	것+이	NOUN	_	7	nsubj	_	_	것/nbn+이/jcs
+7	원칙이나	원칙+이+나	SCONJ	_	17	ccomp	_	_	원칙/ncn+이/jp+나/ecs
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	장래에	장래+에	ADV	_	10	obl	_	_	장래/ncn+에/jca
+10	대비하여	대비+하+어	SCONJ	_	14	ccomp	_	_	대비/ncpa+하/xsv+어/ecs
+11	급료의	급료+의	NOUN	_	12	nmod	_	_	급료/ncn+의/jcm
+12	일부를	일부+를	NOUN	_	14	obj	_	_	일부/ncn+를/jco
+13	은행에	은행+에	ADV	_	14	obl	_	_	은행/ncn+에/jca
+14	예금하게	예금+하+게	VERB	_	17	ccomp	_	_	예금/ncpa+하/xsv+게/ecx
+15	되면	되+면	SCONJ	_	14	aux	_	_	되/px+면/ecs
+16	생활비는	생활비+는	NOUN	_	17	dislocated	_	_	생활비/ncn+는/jxt
+17	감소하게	감소+하+게	VERB	_	0	root	_	_	감소/ncpa+하/xsv+게/ecx
+18	된다	되+ㄴ다	AUX	_	17	aux	_	_	되/px+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그리고 생활비가 부족하면 불필요한 지출을 줄이는 등 긴축적인 생활을 함으로써 자금을 융통하게 된다 .
+1	그리고	그리고	CCONJ	_	12	cc	_	_	그리고/maj
+2	생활비가	생활비+가	NOUN	_	3	nsubj	_	_	생활비/ncn+가/jcs
+3	부족하면	부족+하+면	SCONJ	_	6	xcomp	_	_	부족/ncps+하/xsm+면/ecs
+4	불필요한	불필요하+ㄴ	ADJ	_	5	amod	_	_	불필요하/paa+ㄴ/etm
+5	지출을	지출+을	NOUN	_	6	obj	_	_	지출/ncpa+을/jco
+6	줄이는	줄이+는	VERB	_	7	acl	_	_	줄이/pvg+는/etm
+7	등	등	NOUN	_	10	advmod	_	_	등/nbn
+8	긴축적인	긴축+적+이+ㄴ	VERB	_	9	acl	_	_	긴축/ncpa+적/xsn+이/jp+ㄴ/etm
+9	생활을	생활+을	NOUN	_	10	obj	_	_	생활/ncpa+을/jco
+10	함으로써	하+ㅁ+으로써	ADV	_	12	advcl	_	_	하/pvg+ㅁ/etn+으로써/jca
+11	자금을	자금+을	NOUN	_	12	obj	_	_	자금/ncn+을/jco
+12	융통하게	융통+하+게	VERB	_	0	root	_	_	융통/ncpa+하/xsv+게/ecx
+13	된다	되+ㄴ다	AUX	_	12	aux	_	_	되/px+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 돈의 입금과 출금이 매월 균형을 유지한다면 생활은 언제까지나 안정될 것이다 .
+1	돈의	돈+의	NOUN	_	3	nmod	_	_	돈/ncn+의/jcm
+2	입금과	입금+과	CCONJ	_	3	conj	_	_	입금/ncpa+과/jcj
+3	출금이	출금+이	NOUN	_	6	nsubj	_	_	출금/ncpa+이/jcs
+4	매월	매월	ADV	_	6	advmod	_	_	매월/mag
+5	균형을	균형+을	NOUN	_	6	obj	_	_	균형/ncn+을/jco
+6	유지한다면	유지+하+ㄴ다면	SCONJ	_	9	ccomp	_	_	유지/ncpa+하/xsv+ㄴ다면/ecs
+7	생활은	생활+은	NOUN	_	9	dislocated	_	_	생활/ncpa+은/jxt
+8	언제까지나	언제+까지나	ADV	_	9	advcl	_	_	언제/npd+까지나/jxc
+9	안정될	안정+되+ㄹ	VERB	_	0	root	_	_	안정/ncpa+되/xsv+ㄹ/etm
+10	것이다	것+이+다	VERB	_	9	aux	_	_	것/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그러나 빌린 돈이 많아져 수입과 지출의 균형이 무너지면 생활은 어려워지고 , 결국 수지상의 결손차액을 보충하지 못해 생활은 파탄에 이르게 될 것이다 .
+1	그러나	그러나	CCONJ	_	19	cc	_	_	그러나/maj
+2	빌린	빌리+ㄴ	VERB	_	3	acl	_	_	빌리/pvg+ㄴ/etm
+3	돈이	돈+이	NOUN	_	4	nsubj	_	_	돈/ncn+이/jcs
+4	많아져	많+아+지+어	SCONJ	_	8	xcomp	_	_	많/paa+아/ecx+지/px+어/ecs
+5	수입과	수입+과	CCONJ	_	6	conj	_	_	수입/ncpa+과/jcj
+6	지출의	지출+의	NOUN	_	7	nmod	_	_	지출/ncpa+의/jcm
+7	균형이	균형+이	NOUN	_	8	nsubj	_	_	균형/ncn+이/jcs
+8	무너지면	무너지+면	SCONJ	_	10	conj	_	_	무너지/pvg+면/ecs
+9	생활은	생활+은	NOUN	_	10	dislocated	_	_	생활/ncpa+은/jxt
+10	어려워지고	어렵+어+지+고	CCONJ	_	15	conj	_	_	어렵/paa+어/ecx+지/px+고/ecc
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	결국	결국	ADV	_	15	advmod	_	_	결국/mag
+13	수지상의	수지+상+의	NOUN	_	14	nmod	_	_	수지/ncn+상/xsn+의/jcm
+14	결손차액을	결손+차액+을	NOUN	_	15	obj	_	_	결손/ncn+차액/ncn+을/jco
+15	보충하지	보충+하+지	VERB	_	19	ccomp	_	_	보충/ncpa+하/xsv+지/ecx
+16	못해	못하+어	SCONJ	_	15	aux	_	_	못하/px+어/ecs
+17	생활은	생활+은	NOUN	_	19	dislocated	_	_	생활/ncpa+은/jxt
+18	파탄에	파탄+에	ADV	_	19	obl	_	_	파탄/ncpa+에/jca
+19	이르게	이르+게	VERB	_	0	root	_	_	이르/pvg+게/ecx
+20	될	되+ㄹ	AUX	_	19	aux	_	_	되/px+ㄹ/etm
+21	것이다	것+이+다	VERB	_	19	aux	_	_	것/nbn+이/jp+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 이를 방지하기 위해서는 자금융통의 수완이 필요하다 .
+1	이를	이+를	PRON	_	2	obj	_	_	이/npd+를/jco
+2	방지하기	방지+하+기	VERB	_	3	nmod	_	_	방지/ncpa+하/xsv+기/etn
+3	위해서는	위하+어서+는	NOUN	_	6	dep	_	_	위하/pvg+어서/ecs+는/jxt
+4	자금융통의	자금+융통+의	NOUN	_	5	nmod	_	_	자금/ncn+융통/ncpa+의/jcm
+5	수완이	수완+이	NOUN	_	6	nsubj	_	_	수완/ncn+이/jcs
+6	필요하다	필요+하+다	VERB	_	0	root	_	_	필요/ncps+하/xsm+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 회사의 자금 입출금도 가계의 경우와 거의 유사하다고 볼 수 있다 .
+1	회사의	회사+의	NOUN	_	3	nmod	_	_	회사/ncn+의/jcm
+2	자금	자금	NOUN	_	3	compound	_	_	자금/ncn
+3	입출금도	입출금+도	ADV	_	7	advcl	_	_	입출금/ncn+도/jxc
+4	가계의	가계+의	NOUN	_	5	nmod	_	_	가계/ncn+의/jcm
+5	경우와	경우+와	CCONJ	_	7	conj	_	_	경우/ncn+와/jct
+6	거의	거의	ADV	_	7	advmod	_	_	거의/mag
+7	유사하다고	유사+하+다+고	VERB	_	8	conj	_	_	유사/ncps+하/xsm+다/ef+고/jcr
+8	볼	보+ㄹ	VERB	_	0	root	_	_	보/pvg+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	있다	있+다	ADJ	_	8	aux	_	_	있/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 단지 회사의 자금입출금은 가계에 비해 변동이 많고 , 그 내역이 복잡하다는 차이가 있다 .
+1	단지	단지	ADV	_	11	advmod	_	_	단지/mag
+2	회사의	회사+의	NOUN	_	3	nmod	_	_	회사/ncn+의/jcm
+3	자금입출금은	자금+입출금+은	NOUN	_	11	dislocated	_	_	자금/ncn+입출금/ncn+은/jxt
+4	가계에	가계+에	ADV	_	5	obl	_	_	가계/ncn+에/jca
+5	비해	비하+어	SCONJ	_	11	conj	_	_	비하/pvg+어/ecs
+6	변동이	변동+이	NOUN	_	7	nsubj	_	_	변동/ncpa+이/jcs
+7	많고	많+고	CCONJ	_	11	conj	_	_	많/paa+고/ecc
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	그	그	DET	_	10	det	_	_	그/mmd
+10	내역이	내역+이	NOUN	_	11	nsubj	_	_	내역/ncn+이/jcs
+11	복잡하다는	복잡하+다는	ADJ	_	12	amod	_	_	복잡하/paa+다는/etm
+12	차이가	차이+가	NOUN	_	13	nsubj	_	_	차이/ncn+가/jcs
+13	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 또한 회사는 가계에 비해 경기의 영향을 많이 받는다 .
+1	또한	또한	CCONJ	_	8	cc	_	_	또한/maj
+2	회사는	회사+는	NOUN	_	8	dislocated	_	_	회사/ncn+는/jxt
+3	가계에	가계+에	ADV	_	4	obl	_	_	가계/ncn+에/jca
+4	비해	비하+어	SCONJ	_	8	ccomp	_	_	비하/pvg+어/ecs
+5	경기의	경기+의	NOUN	_	6	nmod	_	_	경기/ncn+의/jcm
+6	영향을	영향+을	NOUN	_	8	obj	_	_	영향/ncn+을/jco
+7	많이	많이	ADV	_	8	advmod	_	_	많이/mag
+8	받는다	받+는다	VERB	_	0	root	_	_	받/pvg+는다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 게다가 상품의 판매대금이 현금으로 입금되는 경우도 극히 드물다 .
+1	게다가	게다가	ADV	_	8	advmod	_	_	게다가/mag
+2	상품의	상품+의	NOUN	_	3	nmod	_	_	상품/ncn+의/jcm
+3	판매대금이	판매+대금+이	NOUN	_	5	nsubj	_	_	판매/ncpa+대금/ncn+이/jcs
+4	현금으로	현금+으로	ADV	_	5	advcl	_	_	현금/ncn+으로/jca
+5	입금되는	입금+되+는	VERB	_	6	acl	_	_	입금/ncpa+되/xsv+는/etm
+6	경우도	경우+도	ADV	_	8	advcl	_	_	경우/ncn+도/jxc
+7	극히	극히	ADV	_	8	advmod	_	_	극히/mag
+8	드물다	드물+다	ADJ	_	0	root	_	_	드물/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 즉 , 외상 또는 어음을 받고 상품을 판매하면 , 외상대금이 현금으로 입금될 때까지는 거의 2 개월 내지 3 개월 정도가 소요되는 것이다 .
+1	즉	즉	CCONJ	_	21	cc	_	_	즉/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	외상	외상	NOUN	_	5	conj	_	_	외상/ncpa
+4	또는	또는	CCONJ	_	5	cc	_	_	또는/maj
+5	어음을	어음+을	NOUN	_	6	obj	_	_	어음/ncn+을/jco
+6	받고	받+고	CCONJ	_	8	conj	_	_	받/pvg+고/ecc
+7	상품을	상품+을	NOUN	_	8	obj	_	_	상품/ncn+을/jco
+8	판매하면	판매+하+면	SCONJ	_	21	ccomp	_	_	판매/ncpa+하/xsv+면/ecs
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	외상대금이	외상+대금+이	NOUN	_	12	nsubj	_	_	외상/ncpa+대금/ncn+이/jcs
+11	현금으로	현금+으로	ADV	_	12	advcl	_	_	현금/ncn+으로/jca
+12	입금될	입금+되+ㄹ	VERB	_	13	acl	_	_	입금/ncpa+되/xsv+ㄹ/etm
+13	때까지는	때+까지+는	NOUN	_	21	dislocated	_	_	때/nbn+까지/jxc+는/jxt
+14	거의	거의	ADV	_	19	advmod	_	_	거의/mag
+15	2	2	NUM	_	16	nummod	_	_	2/nnc
+16	개월	개월	NOUN	_	19	conj	_	_	개월/nbu
+17	내지	내지	CCONJ	_	19	cc	_	_	내지/maj
+18	3	3	NUM	_	19	nummod	_	_	3/nnc
+19	개월	개월	NOUN	_	20	compound	_	_	개월/nbu
+20	정도가	정도+가	NOUN	_	21	nsubj	_	_	정도/ncn+가/jcs
+21	소요되는	소요+되+는	VERB	_	0	root	_	_	소요/ncpa+되/xsv+는/etm
+22	것이다	것+이+다	VERB	_	21	aux	_	_	것/nbn+이/jp+다/ef
+23	.	.	PUNCT	_	22	punct	_	_	./sf
+
+# 그러나 지출 면에서 보면 주요항목인 임직원의 급여나 임금을 비롯하여 사무실 임차료 , 수도광열비 , 전화료 등은 매월 현금으로 지급해야 한다 .
+1	그러나	그러나	CCONJ	_	19	cc	_	_	그러나/maj
+2	지출	지출	NOUN	_	3	compound	_	_	지출/ncpa
+3	면에서	면+에서	ADV	_	4	advcl	_	_	면/ncn+에서/jca
+4	보면	보+면	SCONJ	_	19	ccomp	_	_	보/pvg+면/ecs
+5	주요항목인	주요+항목+이+ㄴ	VERB	_	8	acl	_	_	주요/ncpa+항목/ncn+이/jp+ㄴ/etm
+6	임직원의	임직원+의	NOUN	_	8	nmod	_	_	임직원/ncn+의/jcm
+7	급여나	급여+나	CCONJ	_	8	conj	_	_	급여/ncpa+나/jcj
+8	임금을	임금+을	NOUN	_	9	obj	_	_	임금/ncn+을/jco
+9	비롯하여	비롯+하+어	SCONJ	_	19	ccomp	_	_	비롯/ncpa+하/xsv+어/ecs
+10	사무실	사무실	NOUN	_	11	compound	_	_	사무실/ncn
+11	임차료	임차료	NOUN	_	13	compound	_	_	임차료/ncn
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	수도광열비	수도+광열비	NOUN	_	15	conj	_	_	수도/ncn+광열비/ncn
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	전화료	전화료	NOUN	_	16	compound	_	_	전화료/ncn
+16	등은	등+은	NOUN	_	19	dislocated	_	_	등/nbn+은/jxt
+17	매월	매월	ADV	_	19	advmod	_	_	매월/mag
+18	현금으로	현금+으로	ADV	_	19	advcl	_	_	현금/ncn+으로/jca
+19	지급해야	지급+하+어야	VERB	_	0	root	_	_	지급/ncpa+하/xsv+어야/ecx
+20	한다	하+ㄴ다	AUX	_	19	aux	_	_	하/px+ㄴ다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그리고 지출하는 금액은 항목에 따라 회사별로 상당히 다양한 형태를 나타내고 있다 .
+1	그리고	그리고	CCONJ	_	10	cc	_	_	그리고/maj
+2	지출하는	지출+하+는	VERB	_	3	acl	_	_	지출/ncpa+하/xsv+는/etm
+3	금액은	금액+은	NOUN	_	10	dislocated	_	_	금액/ncn+은/jxt
+4	항목에	항목+에	ADV	_	5	obl	_	_	항목/ncn+에/jca
+5	따라	따르+아	SCONJ	_	10	ccomp	_	_	따르/pvg+아/ecs
+6	회사별로	회사별+로	ADV	_	10	advcl	_	_	회사별/ncn+로/jca
+7	상당히	상당히	ADV	_	8	advmod	_	_	상당히/mag
+8	다양한	다양하+ㄴ	ADJ	_	9	amod	_	_	다양하/paa+ㄴ/etm
+9	형태를	형태+를	NOUN	_	10	obj	_	_	형태/ncn+를/jco
+10	나타내고	나타내+고	VERB	_	0	root	_	_	나타내/pvg+고/ecx
+11	있다	있+다	AUX	_	10	aux	_	_	있/px+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이상의 여러 가지 원인으로 인해 회사는 매월 자금과부족 현상이 발생한다 .
+1	이상의	이상+의	NOUN	_	4	nmod	_	_	이상/ncn+의/jcm
+2	여러	여러	ADJ	_	3	amod	_	_	여러/mma
+3	가지	가지	NOUN	_	4	compound	_	_	가지/nbu
+4	원인으로	원인+으로	ADV	_	5	advcl	_	_	원인/ncn+으로/jca
+5	인해	인하+어	SCONJ	_	10	ccomp	_	_	인하/pvg+어/ecs
+6	회사는	회사+는	NOUN	_	10	dislocated	_	_	회사/ncn+는/jxt
+7	매월	매월	ADV	_	10	advmod	_	_	매월/mag
+8	자금과부족	자금+과부족	NOUN	_	9	compound	_	_	자금/ncn+과부족/ncps
+9	현상이	현상+이	NOUN	_	10	nsubj	_	_	현상/ncn+이/jcs
+10	발생한다	발생+하+ㄴ다	VERB	_	0	root	_	_	발생/ncpa+하/xsv+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그러나 자금이 남는 경우보다는 부족한 경우가 많은 것이 일반적이다 .
+1	그러나	그러나	CCONJ	_	9	cc	_	_	그러나/maj
+2	자금이	자금+이	NOUN	_	3	nsubj	_	_	자금/ncn+이/jcs
+3	남는	남+는	VERB	_	4	acl	_	_	남/pvg+는/etm
+4	경우보다는	경우+보다+는	NOUN	_	7	dislocated	_	_	경우/ncn+보다/jca+는/jxt
+5	부족한	부족+하+ㄴ	VERB	_	6	amod	_	_	부족/ncps+하/xsm+ㄴ/etm
+6	경우가	경우+가	NOUN	_	7	nsubj	_	_	경우/ncn+가/jcs
+7	많은	많+ㄴ	ADJ	_	8	amod	_	_	많/paa+ㄴ/etm
+8	것이	것+이	NOUN	_	9	nsubj	_	_	것/nbn+이/jcs
+9	일반적이다	일반+적+이+다	VERB	_	0	root	_	_	일반/ncn+적/xsn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 따라서 남는 자금을 어느 정도 잘 활용하였는가보다는 부족한 자금을 얼마나 싼 금리를 부담하고 조달하였는가에 따라 자금관리의 성패가 좌우된다고 하겠다 .
+1	따라서	따라서	CCONJ	_	19	cc	_	_	따라서/maj
+2	남는	남+는	VERB	_	3	acl	_	_	남/pvg+는/etm
+3	자금을	자금+을	NOUN	_	7	obj	_	_	자금/ncn+을/jco
+4	어느	어느	DET	_	5	det	_	_	어느/mmd
+5	정도	정도	NOUN	_	7	advmod	_	_	정도/ncn
+6	잘	잘	ADV	_	7	advmod	_	_	잘/mag
+7	활용하였는가보다는	활용+하+었+는가+보다+는	NOUN	_	15	dislocated	_	_	활용/ncpa+하/xsv+었/ep+는가/ef+보다/jca+는/jxt
+8	부족한	부족+하+ㄴ	VERB	_	9	amod	_	_	부족/ncps+하/xsm+ㄴ/etm
+9	자금을	자금+을	NOUN	_	14	obj	_	_	자금/ncn+을/jco
+10	얼마나	얼마나	ADV	_	11	advmod	_	_	얼마나/mag
+11	싼	싸+ㄴ	ADJ	_	12	amod	_	_	싸/paa+ㄴ/etm
+12	금리를	금리+를	NOUN	_	13	obj	_	_	금리/ncn+를/jco
+13	부담하고	부담+하+고	SCONJ	_	14	ccomp	_	_	부담/ncpa+하/xsv+고/ecs
+14	조달하였는가에	조달+하+었+는가+에	ADV	_	15	obl	_	_	조달/ncpa+하/xsv+었/ep+는가/ef+에/jca
+15	따라	따르+아	SCONJ	_	18	conj	_	_	따르/pvg+아/ecs
+16	자금관리의	자금+관리+의	NOUN	_	17	nmod	_	_	자금/ncn+관리/ncn+의/jcm
+17	성패가	성패+가	NOUN	_	18	nsubj	_	_	성패/ncn+가/jcs
+18	좌우된다고	좌우+되+ㄴ다+고	VERB	_	19	conj	_	_	좌우/ncpa+되/xsv+ㄴ다/ef+고/jcr
+19	하겠다	하+겠+다	VERB	_	0	root	_	_	하/pvg+겠/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 즉 , 사업을 성공적으로 영위하기 위해서는 수입과 지출의 균형을 유지하는 것이 필수 불가결하다 .
+1	즉	즉	CCONJ	_	13	cc	_	_	즉/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	사업을	사업+을	NOUN	_	5	obj	_	_	사업/ncn+을/jco
+4	성공적으로	성공+적+으로	ADV	_	5	advcl	_	_	성공/ncpa+적/xsn+으로/jca
+5	영위하기	영위+하+기	VERB	_	6	nmod	_	_	영위/ncpa+하/xsv+기/etn
+6	위해서는	위하+어서+는	NOUN	_	13	dep	_	_	위하/pvg+어서/ecs+는/jxt
+7	수입과	수입+과	CCONJ	_	8	conj	_	_	수입/ncpa+과/jcj
+8	지출의	지출+의	NOUN	_	9	nmod	_	_	지출/ncpa+의/jcm
+9	균형을	균형+을	NOUN	_	10	obj	_	_	균형/ncn+을/jco
+10	유지하는	유지+하+는	VERB	_	11	acl	_	_	유지/ncpa+하/xsv+는/etm
+11	것이	것+이	NOUN	_	13	nsubj	_	_	것/nbn+이/jcs
+12	필수	필수	NOUN	_	13	compound	_	_	필수/ncn
+13	불가결하다	불가결+하+다	VERB	_	0	root	_	_	불가결/ncps+하/xsm+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이익이 증가하면 자금도 증가하는가 .
+1	이익이	이익+이	NOUN	_	2	nsubj	_	_	이익/ncn+이/jcs
+2	증가하면	증가+하+면	SCONJ	_	4	ccomp	_	_	증가/ncpa+하/xsv+면/ecs
+3	자금도	자금+도	ADV	_	4	advcl	_	_	자금/ncn+도/jxc
+4	증가하는가	증가+하+는가	VERB	_	0	root	_	_	증가/ncpa+하/xsv+는가/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 자금이란 현금을 의미한다 .
+1	자금이란	자금+이란	ADV	_	3	advcl	_	_	자금/ncn+이란/jxc
+2	현금을	현금+을	NOUN	_	3	obj	_	_	현금/ncn+을/jco
+3	의미한다	의미+하+ㄴ다	VERB	_	0	root	_	_	의미/ncpa+하/xsv+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 자금조달에 있어 자금이란 지급수단으로 즉시 사용할 수 있는 것을 의미한다 .
+1	자금조달에	자금+조달+에	ADV	_	2	obl	_	_	자금/ncn+조달/ncpa+에/jca
+2	있어	있+어	SCONJ	_	10	xcomp	_	_	있/paa+어/ecs
+3	자금이란	자금+이란	ADV	_	10	advcl	_	_	자금/ncn+이란/jxc
+4	지급수단으로	지급+수단+으로	ADV	_	6	advcl	_	_	지급/ncpa+수단/ncn+으로/jca
+5	즉시	즉시	ADV	_	6	advmod	_	_	즉시/mag
+6	사용할	사용+하+ㄹ	VERB	_	9	acl	_	_	사용/ncpa+하/xsv+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	있는	있+는	ADJ	_	6	aux	_	_	있/paa+는/etm
+9	것을	것+을	NOUN	_	10	obj	_	_	것/nbn+을/jco
+10	의미한다	의미+하+ㄴ다	VERB	_	0	root	_	_	의미/ncpa+하/xsv+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 따라서 예금은 현금에 준하는 것으로서 , 광의의 자금에 포함된다 .
+1	따라서	따라서	CCONJ	_	9	cc	_	_	따라서/maj
+2	예금은	예금+은	NOUN	_	9	dislocated	_	_	예금/ncpa+은/jxt
+3	현금에	현금+에	ADV	_	4	obl	_	_	현금/ncn+에/jca
+4	준하는	준하+는	VERB	_	5	acl	_	_	준하/pvg+는/etm
+5	것으로서	것+으로서	ADV	_	9	advmod	_	_	것/nbn+으로서/jca
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	광의의	광의+의	NOUN	_	8	nmod	_	_	광의/ncn+의/jcm
+8	자금에	자금+에	ADV	_	9	obl	_	_	자금/ncn+에/jca
+9	포함된다	포함+되+ㄴ다	VERB	_	0	root	_	_	포함/ncpa+되/xsv+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그리고 어음도 대금의 결제수단으로 자주 사용된다 .
+1	그리고	그리고	CCONJ	_	6	cc	_	_	그리고/maj
+2	어음도	어음+도	ADV	_	6	advcl	_	_	어음/ncn+도/jxc
+3	대금의	대금+의	NOUN	_	4	nmod	_	_	대금/ncn+의/jcm
+4	결제수단으로	결제+수단+으로	ADV	_	6	advcl	_	_	결제/ncpa+수단/ncn+으로/jca
+5	자주	자주	ADV	_	6	advmod	_	_	자주/mag
+6	사용된다	사용+되+ㄴ다	VERB	_	0	root	_	_	사용/ncpa+되/xsv+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그렇다면 어음도 자금이라고 할 수 있을까 ?
+1	그렇다면	그렇다면	CCONJ	_	4	cc	_	_	그렇다면/maj
+2	어음도	어음+도	ADV	_	3	advcl	_	_	어음/ncn+도/jxc
+3	자금이라고	자금+이+라+고	VERB	_	4	conj	_	_	자금/ncn+이/jp+라/ef+고/jcr
+4	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	있을까	있+ㄹ까	ADJ	_	4	aux	_	_	있/paa+ㄹ까/ef
+7	?	?	PUNCT	_	6	punct	_	_	?/sf
+
+# 따라서 어음은 자금이 아니라 지급기일에 자금을 지급하지 않으면 안 된다는 책임을 표시하는 하나의 문서라고 보는 것이 적당하다 .
+1	따라서	따라서	CCONJ	_	17	cc	_	_	따라서/maj
+2	어음은	어음+은	NOUN	_	14	dislocated	_	_	어음/ncn+은/jxt
+3	자금이	자금+이	NOUN	_	4	nsubj	_	_	자금/ncn+이/jcs
+4	아니라	아니+라	SCONJ	_	12	xcomp	_	_	아니/paa+라/ecs
+5	지급기일에	지급+기일+에	ADV	_	7	obl	_	_	지급/ncpa+기일/ncn+에/jca
+6	자금을	자금+을	NOUN	_	7	obj	_	_	자금/ncn+을/jco
+7	지급하지	지급+하+지	VERB	_	10	ccomp	_	_	지급/ncpa+하/xsv+지/ecx
+8	않으면	않+으면	SCONJ	_	7	aux	_	_	않/px+으면/ecs
+9	안	안	ADV	_	10	advmod	_	_	안/mag
+10	된다는	되+ㄴ다는	VERB	_	11	acl	_	_	되/pvg+ㄴ다는/etm
+11	책임을	책임+을	NOUN	_	12	obj	_	_	책임/ncn+을/jco
+12	표시하는	표시+하+는	VERB	_	14	ccomp	_	_	표시/ncpa+하/xsv+는/etm
+13	하나의	하나+의	NOUN	_	14	nmod	_	_	하나/ncn+의/jcm
+14	문서라고	문서+이+라고	SCONJ	_	15	ccomp	_	_	문서/ncn+이/jp+라고/ecs
+15	보는	보+는	VERB	_	16	acl	_	_	보/pvg+는/etm
+16	것이	것+이	NOUN	_	17	nsubj	_	_	것/nbn+이/jcs
+17	적당하다	적당하+다	ADJ	_	0	root	_	_	적당하/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 회사는 판매대금에서 구입처에 대해 원재료들의 매입대금 , 그리고 임직원의 급료 , 기타 공장이나 사무실의 유지관리비용을 지급하게 된다 .
+1	회사는	회사+는	NOUN	_	16	dislocated	_	_	회사/ncn+는/jxt
+2	판매대금에서	판매+대금+에서	ADV	_	16	advcl	_	_	판매/ncpa+대금/ncn+에서/jca
+3	구입처에	구입처+에	ADV	_	4	obl	_	_	구입처/ncn+에/jca
+4	대해	대하+어	SCONJ	_	16	ccomp	_	_	대하/pvg+어/ecs
+5	원재료들의	원재료+들+의	NOUN	_	6	nmod	_	_	원재료/ncn+들/xsn+의/jcm
+6	매입대금	매입+대금	NOUN	_	10	conj	_	_	매입/ncpa+대금/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	그리고	그리고	CCONJ	_	10	cc	_	_	그리고/maj
+9	임직원의	임직원+의	NOUN	_	10	nmod	_	_	임직원/ncn+의/jcm
+10	급료	급료	NOUN	_	15	conj	_	_	급료/ncn
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	기타	기타	NOUN	_	15	compound	_	_	기타/ncn
+13	공장이나	공장+이나	CCONJ	_	14	conj	_	_	공장/ncn+이나/jcj
+14	사무실의	사무실+의	NOUN	_	15	nmod	_	_	사무실/ncn+의/jcm
+15	유지관리비용을	유지+관리+비용+을	NOUN	_	16	obj	_	_	유지/ncps+관리/ncn+비용/ncn+을/jco
+16	지급하게	지급+하+게	VERB	_	0	root	_	_	지급/ncpa+하/xsv+게/ecx
+17	된다	되+ㄴ다	AUX	_	16	aux	_	_	되/px+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이러한 모든 비용을 지급한 후에 계산되는 이익이 있으면 그것은 그대로 회사의 자금이 된다 .
+1	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+2	모든	모든	DET	_	3	det	_	_	모든/mmd
+3	비용을	비용+을	NOUN	_	4	obj	_	_	비용/ncn+을/jco
+4	지급한	지급+하+ㄴ	VERB	_	5	acl	_	_	지급/ncpa+하/xsv+ㄴ/etm
+5	후에	후+에	ADV	_	6	obl	_	_	후/ncn+에/jca
+6	계산되는	계산+되+는	VERB	_	7	acl	_	_	계산/ncpa+되/xsv+는/etm
+7	이익이	이익+이	NOUN	_	8	nsubj	_	_	이익/ncn+이/jcs
+8	있으면	있+으면	SCONJ	_	13	xcomp	_	_	있/paa+으면/ecs
+9	그것은	그것+은	PRON	_	13	dislocated	_	_	그것/npd+은/jxt
+10	그대로	그대로	ADV	_	13	advmod	_	_	그대로/mag
+11	회사의	회사+의	NOUN	_	12	nmod	_	_	회사/ncn+의/jcm
+12	자금이	자금+이	NOUN	_	13	nsubj	_	_	자금/ncn+이/jcs
+13	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 따라서 이익이 많으면 많을수록 자금이 증가하게 되므로 , 자금관리를 편하게 하기 위해서는 판매를 늘려 이익을 많이 올려야 하는 것이다 .
+1	따라서	따라서	CCONJ	_	17	cc	_	_	따라서/maj
+2	이익이	이익+이	NOUN	_	4	nsubj	_	_	이익/ncn+이/jcs
+3	많으면	많+으면	SCONJ	_	4	xcomp	_	_	많/paa+으면/ecs
+4	많을수록	많+ㄹ수록	SCONJ	_	6	xcomp	_	_	많/paa+ㄹ수록/ecs
+5	자금이	자금+이	NOUN	_	6	nsubj	_	_	자금/ncn+이/jcs
+6	증가하게	증가+하+게	VERB	_	17	ccomp	_	_	증가/ncpa+하/xsv+게/ecx
+7	되므로	되+므로	SCONJ	_	6	aux	_	_	되/px+므로/ecs
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	자금관리를	자금+관리+를	NOUN	_	11	obj	_	_	자금/ncn+관리/ncn+를/jco
+10	편하게	편하+게	SCONJ	_	11	xcomp	_	_	편하/paa+게/ecs
+11	하기	하+기	VERB	_	12	nmod	_	_	하/pvg+기/etn
+12	위해서는	위하+어서+는	NOUN	_	17	ccomp	_	_	위하/pvg+어서/ecs+는/jxt
+13	판매를	판매+를	NOUN	_	14	obj	_	_	판매/ncpa+를/jco
+14	늘려	늘리+어	SCONJ	_	17	ccomp	_	_	늘리/pvg+어/ecs
+15	이익을	이익+을	NOUN	_	17	obj	_	_	이익/ncn+을/jco
+16	많이	많이	ADV	_	17	advmod	_	_	많이/mag
+17	올려야	올리+어야	VERB	_	0	root	_	_	올리/pvg+어야/ecx
+18	하는	하+는	AUX	_	17	aux	_	_	하/px+는/etm
+19	것이다	것+이+다	VERB	_	17	aux	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 외상매출금에는 이익이 포함되어 있다 .
+1	외상매출금에는	외상+매출금+에+는	NOUN	_	3	dislocated	_	_	외상/ncpa+매출금/ncn+에/jca+는/jxt
+2	이익이	이익+이	NOUN	_	3	nsubj	_	_	이익/ncn+이/jcs
+3	포함되어	포함+되+어	VERB	_	0	root	_	_	포함/ncpa+되/xsv+어/ecx
+4	있다	있+다	AUX	_	3	aux	_	_	있/px+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 회사의 자금관리와 관련하여 간단한 예를 들어 보기로 하자 .
+1	회사의	회사+의	NOUN	_	2	nmod	_	_	회사/ncn+의/jcm
+2	자금관리와	자금+관리+와	CCONJ	_	3	conj	_	_	자금/ncn+관리/ncn+와/jct
+3	관련하여	관련+하+어	SCONJ	_	6	ccomp	_	_	관련/ncpa+하/xsv+어/ecs
+4	간단한	간단+하+ㄴ	VERB	_	5	amod	_	_	간단/ncps+하/xsm+ㄴ/etm
+5	예를	예+를	NOUN	_	6	obj	_	_	예/ncn+를/jco
+6	들어	들+어	VERB	_	0	root	_	_	들/pvg+어/ecx
+7	보기로	보+기+로	ADV	_	6	aux	_	_	보/px+기/etn+로/jca
+8	하자	하+자	AUX	_	6	aux	_	_	하/px+자/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 도리어 자금조달을 어렵게 만들 가능성이 많다 .
+1	도리어	도리어	ADV	_	4	advmod	_	_	도리어/mag
+2	자금조달을	자금+조달+을	NOUN	_	4	obj	_	_	자금/ncn+조달/ncpa+을/jco
+3	어렵게	어렵+게	SCONJ	_	4	xcomp	_	_	어렵/paa+게/ecs
+4	만들	만들+ㄹ	VERB	_	5	acl	_	_	만들/pvg+ㄹ/etm
+5	가능성이	가능성+이	NOUN	_	6	nsubj	_	_	가능성/ncn+이/jcs
+6	많다	많+다	ADJ	_	0	root	_	_	많/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이처럼 외상매출금은 현금으로 회수되어야 비로소 지급수단으로서 사용이 가능하고 , 동시에 이익도 자금으로 되는 것이다 .
+1	이처럼	이+처럼	ADV	_	13	advcl	_	_	이/npd+처럼/jca
+2	외상매출금은	외상+매출금+은	NOUN	_	8	dislocated	_	_	외상/ncpa+매출금/ncn+은/jxt
+3	현금으로	현금+으로	ADV	_	4	advcl	_	_	현금/ncn+으로/jca
+4	회수되어야	회수+되+어야	SCONJ	_	8	conj	_	_	회수/ncpa+되/xsv+어야/ecs
+5	비로소	비로소	ADV	_	8	advmod	_	_	비로소/mag
+6	지급수단으로서	지급+수단+으로서	ADV	_	8	advcl	_	_	지급/ncpa+수단/ncn+으로서/jca
+7	사용이	사용+이	NOUN	_	8	nsubj	_	_	사용/ncpa+이/jcs
+8	가능하고	가능+하+고	CCONJ	_	13	conj	_	_	가능/ncps+하/xsm+고/ecc
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	동시에	동시+에	ADV	_	13	obl	_	_	동시/ncn+에/jca
+11	이익도	이익+도	ADV	_	13	advcl	_	_	이익/ncn+도/jxc
+12	자금으로	자금+으로	ADV	_	13	advcl	_	_	자금/ncn+으로/jca
+13	되는	되+는	VERB	_	0	root	_	_	되/pvg+는/etm
+14	것이다	것+이+다	VERB	_	13	aux	_	_	것/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 도산이라고 하면 보통 적자가 많이 나는 회사를 연상하게 된다 .
+1	도산이라고	도산+이+라고	SCONJ	_	2	ccomp	_	_	도산/ncps+이/jp+라고/ecs
+2	하면	하+면	SCONJ	_	8	ccomp	_	_	하/pvg+면/ecs
+3	보통	보통	NOUN	_	8	advmod	_	_	보통/ncn
+4	적자가	적자+가	NOUN	_	6	nsubj	_	_	적자/ncn+가/jcs
+5	많이	많이	ADV	_	6	advmod	_	_	많이/mag
+6	나는	나+는	VERB	_	7	acl	_	_	나/pvg+는/etm
+7	회사를	회사+를	NOUN	_	8	obj	_	_	회사/ncn+를/jco
+8	연상하게	연상+하+게	VERB	_	0	root	_	_	연상/ncpa+하/xsv+게/ecx
+9	된다	되+ㄴ다	AUX	_	8	aux	_	_	되/px+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 회사가 이익을 내고 있다면 자금 면에서 곤란함이 없기 때문에 도산한다는 것은 상식적으로 이해가 되지 않는 일이다 .
+1	회사가	회사+가	NOUN	_	3	nsubj	_	_	회사/ncn+가/jcs
+2	이익을	이익+을	NOUN	_	3	obj	_	_	이익/ncn+을/jco
+3	내고	내+고	VERB	_	8	dep	_	_	내/pvg+고/ecx
+4	있다면	있+다면	SCONJ	_	3	aux	_	_	있/px+다면/ecs
+5	자금	자금	NOUN	_	6	compound	_	_	자금/ncn
+6	면에서	면+에서	ADV	_	7	advcl	_	_	면/ncn+에서/jca
+7	곤란함이	곤란+하+ㅁ+이	NOUN	_	8	nsubj	_	_	곤란/ncps+하/xsm+ㅁ/etn+이/jcs
+8	없기	없+기	ADJ	_	9	nmod	_	_	없/paa+기/etn
+9	때문에	때문+에	ADV	_	16	obl	_	_	때문/nbn+에/jca
+10	도산한다는	도산+하+ㄴ다는	VERB	_	11	acl	_	_	도산/ncpa+하/xsv+ㄴ다는/etm
+11	것은	것+은	NOUN	_	16	dislocated	_	_	것/nbn+은/jxt
+12	상식적으로	상식+적+으로	ADV	_	14	advcl	_	_	상식/ncn+적/xsn+으로/jca
+13	이해가	이해+가	NOUN	_	14	nsubj	_	_	이해/ncpa+가/jcs
+14	되지	되+지	VERB	_	16	ccomp	_	_	되/pvg+지/ecx
+15	않는	않+는	AUX	_	14	aux	_	_	않/px+는/etm
+16	일이다	일+이+다	VERB	_	0	root	_	_	일/ncn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그러나 실제로는 흑자도산하는 경우가 상당히 많다 .
+1	그러나	그러나	CCONJ	_	6	cc	_	_	그러나/maj
+2	실제로는	실제로+는	NOUN	_	6	advmod	_	_	실제로/mag+는/jxt
+3	흑자도산하는	흑자+도산+하+는	VERB	_	4	acl	_	_	흑자/ncn+도산/ncpa+하/xsv+는/etm
+4	경우가	경우+가	NOUN	_	6	nsubj	_	_	경우/ncn+가/jcs
+5	상당히	상당히	ADV	_	6	advmod	_	_	상당히/mag
+6	많다	많+다	ADJ	_	0	root	_	_	많/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이러한 현상이 나타나는 이유는 자금관리에 있어 파탄상황이 되었기 때문이다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	현상이	현상+이	NOUN	_	3	nsubj	_	_	현상/ncn+이/jcs
+3	나타나는	나타나+는	VERB	_	4	acl	_	_	나타나/pvg+는/etm
+4	이유는	이유+는	NOUN	_	8	dislocated	_	_	이유/ncn+는/jxt
+5	자금관리에	자금+관리+에	ADV	_	6	obl	_	_	자금/ncn+관리/ncn+에/jca
+6	있어	있+어	SCONJ	_	8	xcomp	_	_	있/paa+어/ecs
+7	파탄상황이	파탄+상황+이	NOUN	_	8	nsubj	_	_	파탄/ncpa+상황/ncn+이/jcs
+8	되었기	되+었+기	VERB	_	0	root	_	_	되/pvg+었/ep+기/etn
+9	때문이다	때문+이+다	VERB	_	8	aux	_	_	때문/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 즉 , 흑자라도 지출되는 금액이 수입되는 금액을 크게 초과하면 자금부족현상이 나타나기 때문에 여러 가지 수단을 활용하여 부족액을 조달해야 한다 .
+1	즉	즉	CCONJ	_	18	cc	_	_	즉/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	흑자라도	흑자+라도	ADV	_	11	advcl	_	_	흑자/ncn+라도/jxc
+4	지출되는	지출+되+는	VERB	_	5	acl	_	_	지출/ncpa+되/xsv+는/etm
+5	금액이	금액+이	NOUN	_	9	nsubj	_	_	금액/ncn+이/jcs
+6	수입되는	수입+되+는	VERB	_	7	acl	_	_	수입/ncpa+되/xsv+는/etm
+7	금액을	금액+을	NOUN	_	9	obj	_	_	금액/ncn+을/jco
+8	크게	크+게	SCONJ	_	9	xcomp	_	_	크/paa+게/ecs
+9	초과하면	초과+하+면	SCONJ	_	11	ccomp	_	_	초과/ncpa+하/xsv+면/ecs
+10	자금부족현상이	자금+부족+현상+이	NOUN	_	11	nsubj	_	_	자금/ncn+부족/ncps+현상/ncn+이/jcs
+11	나타나기	나타나+기	VERB	_	12	nmod	_	_	나타나/pvg+기/etn
+12	때문에	때문+에	ADV	_	18	obl	_	_	때문/nbn+에/jca
+13	여러	여러	ADJ	_	14	amod	_	_	여러/mma
+14	가지	가지	NOUN	_	15	compound	_	_	가지/nbu
+15	수단을	수단+을	NOUN	_	16	obj	_	_	수단/ncn+을/jco
+16	활용하여	활용+하+어	SCONJ	_	18	ccomp	_	_	활용/ncpa+하/xsv+어/ecs
+17	부족액을	부족액+을	NOUN	_	18	obj	_	_	부족액/ncn+을/jco
+18	조달해야	조달+하+어야	VERB	_	0	root	_	_	조달/ncpa+하/xsv+어야/ecx
+19	한다	하+ㄴ다	AUX	_	18	aux	_	_	하/px+ㄴ다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 이때 자금조달이 순조롭지 못하게 되면 회사는 결국 도산하게 된다 .
+1	이때	이때	PRON	_	8	advmod	_	_	이때/npd
+2	자금조달이	자금+조달+이	NOUN	_	3	nsubj	_	_	자금/ncn+조달/ncpa+이/jcs
+3	순조롭지	순조롭+지	ADJ	_	8	amod	_	_	순조롭/paa+지/ecx
+4	못하게	못하+게	AUX	_	3	aux	_	_	못하/px+게/ecx
+5	되면	되+면	SCONJ	_	3	aux	_	_	되/px+면/ecs
+6	회사는	회사+는	NOUN	_	8	dislocated	_	_	회사/ncn+는/jxt
+7	결국	결국	ADV	_	8	advmod	_	_	결국/mag
+8	도산하게	도산+하+게	VERB	_	0	root	_	_	도산/ncpa+하/xsv+게/ecx
+9	된다	되+ㄴ다	AUX	_	8	aux	_	_	되/px+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 상품의 판매는 대개 외상으로 이루어지고 , 일정 기간이 경과해야 외상대금을 어음으로 수령하게 된다 .
+1	상품의	상품+의	NOUN	_	2	nmod	_	_	상품/ncn+의/jcm
+2	판매는	판매+는	NOUN	_	5	dislocated	_	_	판매/ncpa+는/jxt
+3	대개	대개	ADV	_	5	advmod	_	_	대개/mag
+4	외상으로	외상+으로	ADV	_	5	advcl	_	_	외상/ncpa+으로/jca
+5	이루어지고	이루+어+지+고	CCONJ	_	12	conj	_	_	이루/pvg+어/ecx+지/px+고/ecc
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	일정	일정	NOUN	_	8	compound	_	_	일정/ncn
+8	기간이	기간+이	NOUN	_	9	nsubj	_	_	기간/ncn+이/jcs
+9	경과해야	경과+하+어야	SCONJ	_	12	ccomp	_	_	경과/ncpa+하/xsv+어야/ecs
+10	외상대금을	외상+대금+을	NOUN	_	12	obj	_	_	외상/ncpa+대금/ncn+을/jco
+11	어음으로	어음+으로	ADV	_	12	advcl	_	_	어음/ncn+으로/jca
+12	수령하게	수령+하+게	VERB	_	0	root	_	_	수령/ncpa+하/xsv+게/ecx
+13	된다	되+ㄴ다	AUX	_	12	aux	_	_	되/px+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 어음은 수표와는 달리 은행에 가지고 간다고 해도 즉시 현금으로 바꾸어 주는 것이 아니다 .
+1	어음은	어음+은	NOUN	_	13	dislocated	_	_	어음/ncn+은/jxt
+2	수표와는	수표+와+는	NOUN	_	3	dislocated	_	_	수표/ncn+와/jct+는/jxt
+3	달리	다르+이	SCONJ	_	13	xcomp	_	_	다르/paa+이/ecs
+4	은행에	은행+에	ADV	_	6	obl	_	_	은행/ncn+에/jca
+5	가지고	가지+고	SCONJ	_	6	ccomp	_	_	가지/pvg+고/ecs
+6	간다고	가+ㄴ다+고	VERB	_	7	conj	_	_	가/pvg+ㄴ다/ef+고/jcr
+7	해도	하+어도	SCONJ	_	13	conj	_	_	하/pvg+어도/ecs
+8	즉시	즉시	ADV	_	11	advmod	_	_	즉시/mag
+9	현금으로	현금+으로	ADV	_	11	advcl	_	_	현금/ncn+으로/jca
+10	바꾸어	바꾸+어	SCONJ	_	11	ccomp	_	_	바꾸/pvg+어/ecs
+11	주는	주+는	VERB	_	12	acl	_	_	주/pvg+는/etm
+12	것이	것+이	NOUN	_	13	nsubj	_	_	것/nbn+이/jcs
+13	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 현금이 되기 위해서는 2 개월 내지 3 개월 정도의 정해진 기간이 경과해야만 하는 것이다 .
+1	현금이	현금+이	NOUN	_	2	nsubj	_	_	현금/ncn+이/jcs
+2	되기	되+기	VERB	_	3	nmod	_	_	되/pvg+기/etn
+3	위해서는	위하+어서+는	NOUN	_	12	ccomp	_	_	위하/pvg+어서/ecs+는/jxt
+4	2	2	NUM	_	5	nummod	_	_	2/nnc
+5	개월	개월	NOUN	_	8	conj	_	_	개월/nbu
+6	내지	내지	CCONJ	_	8	cc	_	_	내지/maj
+7	3	3	NUM	_	8	nummod	_	_	3/nnc
+8	개월	개월	NOUN	_	9	compound	_	_	개월/nbu
+9	정도의	정도+의	NOUN	_	11	nmod	_	_	정도/ncn+의/jcm
+10	정해진	정하+어+지+ㄴ	AUX	_	11	acl	_	_	정하/pvg+어/ecx+지/px+ㄴ/etm
+11	기간이	기간+이	NOUN	_	12	nsubj	_	_	기간/ncn+이/jcs
+12	경과해야만	경과+하+어야+만	ADV	_	0	root	_	_	경과/ncpa+하/xsv+어야/ecx+만/jxc
+13	하는	하+는	AUX	_	12	aux	_	_	하/px+는/etm
+14	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이 경우 결제자금을 조달할 수 없게 되면 회사가 발행한 어음은 부도처리가 되며 , 부도가 나면 결국 회사는 도산하게 된다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	경우	경우	NOUN	_	18	advmod	_	_	경우/ncn
+3	결제자금을	결제+자금+을	NOUN	_	4	obj	_	_	결제/ncpa+자금/ncn+을/jco
+4	조달할	조달+하+ㄹ	VERB	_	12	ccomp	_	_	조달/ncpa+하/xsv+ㄹ/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	없게	없+게	ADJ	_	4	aux	_	_	없/paa+게/ecx
+7	되면	되+면	SCONJ	_	4	aux	_	_	되/px+면/ecs
+8	회사가	회사+가	NOUN	_	9	nsubj	_	_	회사/ncn+가/jcs
+9	발행한	발행+하+ㄴ	VERB	_	10	acl	_	_	발행/ncpa+하/xsv+ㄴ/etm
+10	어음은	어음+은	NOUN	_	12	dislocated	_	_	어음/ncn+은/jxt
+11	부도처리가	부도+처리+가	NOUN	_	12	nsubj	_	_	부도/ncn+처리/ncpa+가/jcs
+12	되며	되+며	CCONJ	_	18	conj	_	_	되/pvg+며/ecc
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	부도가	부도+가	NOUN	_	15	nsubj	_	_	부도/ncn+가/jcs
+15	나면	나+면	SCONJ	_	18	ccomp	_	_	나/pvg+면/ecs
+16	결국	결국	ADV	_	18	advmod	_	_	결국/mag
+17	회사는	회사+는	NOUN	_	18	dislocated	_	_	회사/ncn+는/jxt
+18	도산하게	도산+하+게	VERB	_	0	root	_	_	도산/ncpa+하/xsv+게/ecx
+19	된다	되+ㄴ다	AUX	_	18	aux	_	_	되/px+ㄴ다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 즉 , 지출이 수입보다 먼저 이루어진다면 흑자상태라 할지라도 도산할 위험이 대단히 큰 것이다 .
+1	즉	즉	CCONJ	_	12	cc	_	_	즉/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	지출이	지출+이	NOUN	_	6	nsubj	_	_	지출/ncpa+이/jcs
+4	수입보다	수입+보다	ADV	_	6	advcl	_	_	수입/ncpa+보다/jca
+5	먼저	먼저	ADV	_	6	advmod	_	_	먼저/mag
+6	이루어진다면	이루+어+지+ㄴ다면	SCONJ	_	9	ccomp	_	_	이루/pvg+어/ecx+지/px+ㄴ다면/ecs
+7	흑자상태라	흑자+상태+이+라	SCONJ	_	8	ccomp	_	_	흑자/ncn+상태/ncn+이/jp+라/ecs
+8	할지라도	하+ㄹ지라도	SCONJ	_	9	ccomp	_	_	하/pvg+ㄹ지라도/ecs
+9	도산할	도산+하+ㄹ	VERB	_	10	acl	_	_	도산/ncpa+하/xsv+ㄹ/etm
+10	위험이	위험+이	NOUN	_	12	nsubj	_	_	위험/ncpa+이/jcs
+11	대단히	대단히	ADV	_	12	advmod	_	_	대단히/mag
+12	큰	크+ㄴ	ADJ	_	0	root	_	_	크/paa+ㄴ/etm
+13	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이익이라고 하는 것은 간단히 말해 판매대금에서 구입대금을 차감한 잔액이다 .
+1	이익이라고	이익+이+라+고	VERB	_	2	conj	_	_	이익/ncn+이/jp+라/ef+고/jcr
+2	하는	하+는	VERB	_	3	acl	_	_	하/pvg+는/etm
+3	것은	것+은	NOUN	_	9	dislocated	_	_	것/nbn+은/jxt
+4	간단히	간단+히	ADV	_	5	advmod	_	_	간단/ncps+히/xsa
+5	말해	말하+어	SCONJ	_	9	ccomp	_	_	말하/pvg+어/ecs
+6	판매대금에서	판매+대금+에서	ADV	_	8	advcl	_	_	판매/ncpa+대금/ncn+에서/jca
+7	구입대금을	구입+대금+을	NOUN	_	8	obj	_	_	구입/ncpa+대금/ncn+을/jco
+8	차감한	차감+하+ㄴ	VERB	_	9	ccomp	_	_	차감/ncpa+하/xsv+ㄴ/etm
+9	잔액이다	잔액+이+다	VERB	_	0	root	_	_	잔액/ncn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 즉 , 받을 어음의 결제 시 남아 있는 자금이 지급어음의 결제 시 지출해야 하는 금액보다 많다면 이익이 생긴다고 할 수 있다 .
+1	즉	즉	CCONJ	_	19	cc	_	_	즉/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	받을	받+ㄹ	VERB	_	4	acl	_	_	받/pvg+ㄹ/etm
+4	어음의	어음+의	NOUN	_	5	nmod	_	_	어음/ncn+의/jcm
+5	결제	결제	NOUN	_	6	compound	_	_	결제/ncpa
+6	시	시	NOUN	_	7	dep	_	_	시/ncn
+7	남아	남+아	VERB	_	9	acl	_	_	남/pvg+아/ecx
+8	있는	있+는	AUX	_	7	aux	_	_	있/px+는/etm
+9	자금이	자금+이	NOUN	_	16	nsubj	_	_	자금/ncn+이/jcs
+10	지급어음의	지급+어음+의	NOUN	_	11	nmod	_	_	지급/ncpa+어음/ncn+의/jcm
+11	결제	결제	NOUN	_	12	compound	_	_	결제/ncpa
+12	시	시	NOUN	_	13	compound	_	_	시/ncn
+13	지출해야	지출+하+어야	VERB	_	15	acl	_	_	지출/ncpa+하/xsv+어야/ecx
+14	하는	하+는	AUX	_	13	aux	_	_	하/px+는/etm
+15	금액보다	금액+보다	ADV	_	16	advcl	_	_	금액/ncn+보다/jca
+16	많다면	많+다면	SCONJ	_	18	xcomp	_	_	많/paa+다면/ecs
+17	이익이	이익+이	NOUN	_	18	nsubj	_	_	이익/ncn+이/jcs
+18	생긴다고	생기+ㄴ다+고	VERB	_	19	conj	_	_	생기/pvg+ㄴ다/ef+고/jcr
+19	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+20	수	수	NOUN	_	21	fixed	_	_	수/nbn
+21	있다	있+다	ADJ	_	19	aux	_	_	있/paa+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 그러나 반대로 지급어음의 결제 시 이를 결제할 수 없게 되면 부도가 나고 , 결국 그 회사는 도산하게 된다 .
+1	그러나	그러나	CCONJ	_	17	cc	_	_	그러나/maj
+2	반대로	반대+로	ADV	_	7	advcl	_	_	반대/ncpa+로/jca
+3	지급어음의	지급+어음+의	NOUN	_	4	nmod	_	_	지급/ncpa+어음/ncn+의/jcm
+4	결제	결제	NOUN	_	5	compound	_	_	결제/ncpa
+5	시	시	NOUN	_	7	advmod	_	_	시/ncn
+6	이를	이+를	PRON	_	7	obj	_	_	이/npd+를/jco
+7	결제할	결제+하+ㄹ	VERB	_	12	ccomp	_	_	결제/ncpa+하/xsv+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	없게	없+게	ADJ	_	7	aux	_	_	없/paa+게/ecx
+10	되면	되+면	SCONJ	_	7	aux	_	_	되/px+면/ecs
+11	부도가	부도+가	NOUN	_	12	nsubj	_	_	부도/ncn+가/jcs
+12	나고	나+고	CCONJ	_	17	conj	_	_	나/pvg+고/ecc
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	결국	결국	ADV	_	17	advmod	_	_	결국/mag
+15	그	그	DET	_	16	det	_	_	그/mmd
+16	회사는	회사+는	NOUN	_	17	dislocated	_	_	회사/ncn+는/jxt
+17	도산하게	도산+하+게	VERB	_	0	root	_	_	도산/ncpa+하/xsv+게/ecx
+18	된다	되+ㄴ다	AUX	_	17	aux	_	_	되/px+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이것은 하나의 거래를 예시한 것이지만 , 동일한 내용이 월간 또는 연간의 거래에 대해서도 적용될 수 있다 .
+1	이것은	이것+은	PRON	_	5	dislocated	_	_	이것/npd+은/jxt
+2	하나의	하나+의	NUM	_	3	nmod	_	_	하나/nnc+의/jcm
+3	거래를	거래+를	NOUN	_	4	obj	_	_	거래/ncpa+를/jco
+4	예시한	예시+하+ㄴ	VERB	_	5	ccomp	_	_	예시/ncpa+하/xsv+ㄴ/etm
+5	것이지만	것+이+지만	SCONJ	_	14	ccomp	_	_	것/nbn+이/jp+지만/ecs
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	동일한	동일+하+ㄴ	VERB	_	8	amod	_	_	동일/ncps+하/xsm+ㄴ/etm
+8	내용이	내용+이	NOUN	_	14	nsubj	_	_	내용/ncn+이/jcs
+9	월간	월간	NOUN	_	11	conj	_	_	월간/ncn
+10	또는	또는	CCONJ	_	11	cc	_	_	또는/maj
+11	연간의	연간+의	NOUN	_	12	nmod	_	_	연간/ncn+의/jcm
+12	거래에	거래+에	ADV	_	13	obl	_	_	거래/ncn+에/jca
+13	대해서도	대하+어서+도	ADV	_	14	ccomp	_	_	대하/pvg+어서/ecs+도/jxc
+14	적용될	적용+되+ㄹ	VERB	_	0	root	_	_	적용/ncpa+되/xsv+ㄹ/etm
+15	수	수	NOUN	_	16	fixed	_	_	수/nbn
+16	있다	있+다	ADJ	_	14	aux	_	_	있/paa+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 다시 말해서 이익이 없어도 자금조달방안만 있으면 도산하지 않을 수 있다는 것이다 .
+1	다시	다시	ADV	_	2	advmod	_	_	다시/mag
+2	말해서	말하+어서	SCONJ	_	7	ccomp	_	_	말하/pvg+어서/ecs
+3	이익이	이익+이	NOUN	_	4	nsubj	_	_	이익/ncn+이/jcs
+4	없어도	없+어도	SCONJ	_	7	xcomp	_	_	없/paa+어도/ecs
+5	자금조달방안만	자금+조달+방안+만	ADV	_	6	advcl	_	_	자금/ncn+조달/ncpa+방안/ncn+만/jxc
+6	있으면	있+으면	SCONJ	_	7	xcomp	_	_	있/paa+으면/ecs
+7	도산하지	도산+하+지	VERB	_	0	root	_	_	도산/ncpa+하/xsv+지/ecx
+8	않을	않+ㄹ	AUX	_	7	aux	_	_	않/px+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	있다는	있+다는	ADJ	_	7	aux	_	_	있/paa+다는/etm
+11	것이다	것+이+다	VERB	_	7	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이 경우 가장 일반적인 자금조달방법은 은행 등 금융기관으로부터 차입한 자금이든 모두 현금임에는 큰 차이가 없다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	경우	경우	NOUN	_	4	advmod	_	_	경우/ncn
+3	가장	가장	ADV	_	4	advmod	_	_	가장/mag
+4	일반적인	일반+적+이+ㄴ	VERB	_	5	acl	_	_	일반/ncn+적/xsn+이/jp+ㄴ/etm
+5	자금조달방법은	자금+조달+방법+은	NOUN	_	15	dislocated	_	_	자금/ncn+조달/ncpa+방법/ncn+은/jxt
+6	은행	은행	NOUN	_	7	compound	_	_	은행/ncn
+7	등	등	NOUN	_	8	mark	_	_	등/nbn
+8	금융기관으로부터	금융+기관+으로+부터	ADV	_	9	advcl	_	_	금융/ncn+기관/ncn+으로/jca+부터/jxc
+9	차입한	차입+하+ㄴ	VERB	_	10	acl	_	_	차입/ncpa+하/xsv+ㄴ/etm
+10	자금이든	자금+이든	ADV	_	12	advcl	_	_	자금/ncn+이든/jxc
+11	모두	모두	ADV	_	12	advmod	_	_	모두/mag
+12	현금임에는	현금+이+ㅁ+에+는	NOUN	_	15	dislocated	_	_	현금/ncn+이/jp+ㅁ/etn+에/jca+는/jxt
+13	큰	크+ㄴ	ADJ	_	14	amod	_	_	크/paa+ㄴ/etm
+14	차이가	차이+가	NOUN	_	15	nsubj	_	_	차이/ncn+가/jcs
+15	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 차입이 가능하다면 자금이 충분해지기 때문에 당좌예금의 부족을 충당할 수 있어 도산을 방지할 수 있게 된다 .
+1	차입이	차입+이	NOUN	_	2	nsubj	_	_	차입/ncpa+이/jcs
+2	가능하다면	가능+하+다면	SCONJ	_	4	xcomp	_	_	가능/ncps+하/xsm+다면/ecs
+3	자금이	자금+이	NOUN	_	4	nsubj	_	_	자금/ncn+이/jcs
+4	충분해지기	충분하+어+지+기	AUX	_	5	nmod	_	_	충분하/paa+어/ecx+지/px+기/etn
+5	때문에	때문+에	ADV	_	8	obl	_	_	때문/nbn+에/jca
+6	당좌예금의	당좌+예금+의	NOUN	_	7	nmod	_	_	당좌/ncn+예금/ncpa+의/jcm
+7	부족을	부족+을	NOUN	_	8	obj	_	_	부족/ncps+을/jco
+8	충당할	충당+하+ㄹ	VERB	_	12	ccomp	_	_	충당/ncpa+하/xsv+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	있어	있+어	SCONJ	_	8	aux	_	_	있/paa+어/ecs
+11	도산을	도산+을	NOUN	_	12	obj	_	_	도산/ncpa+을/jco
+12	방지할	방지+하+ㄹ	VERB	_	0	root	_	_	방지/ncpa+하/xsv+ㄹ/etm
+13	수	수	NOUN	_	14	fixed	_	_	수/nbn
+14	있게	있+게	ADJ	_	12	aux	_	_	있/paa+게/ecx
+15	된다	되+ㄴ다	AUX	_	12	aux	_	_	되/px+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 차입이 불가능한 경우 차입에 의한 자금의 조달이 계속된다면 비록 적자회사라도 자금조달사의 파탄 , 즉 도산을 면할 수 있게 된다 .
+1	차입이	차입+이	NOUN	_	2	nsubj	_	_	차입/ncpa+이/jcs
+2	불가능한	불가능+하+ㄴ	VERB	_	3	amod	_	_	불가능/ncps+하/xsm+ㄴ/etm
+3	경우	경우	NOUN	_	8	advmod	_	_	경우/ncn
+4	차입에	차입+에	ADV	_	5	obl	_	_	차입/ncpa+에/jca
+5	의한	의하+ㄴ	VERB	_	7	acl	_	_	의하/pvg+ㄴ/etm
+6	자금의	자금+의	NOUN	_	7	nmod	_	_	자금/ncn+의/jcm
+7	조달이	조달+이	NOUN	_	8	nsubj	_	_	조달/ncpa+이/jcs
+8	계속된다면	계속+되+ㄴ다면	SCONJ	_	16	ccomp	_	_	계속/ncpa+되/xsv+ㄴ다면/ecs
+9	비록	비록	ADV	_	10	advmod	_	_	비록/mag
+10	적자회사라도	적자+회사+이+라도	SCONJ	_	16	ccomp	_	_	적자/ncn+회사/ncn+이/jp+라도/ecs
+11	자금조달사의	자금+조달+사+의	NOUN	_	12	nmod	_	_	자금/ncn+조달/ncpa+사/ncn+의/jcm
+12	파탄	파탄	NOUN	_	15	compound	_	_	파탄/ncn
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	즉	즉	ADV	_	15	advmod	_	_	즉/mag
+15	도산을	도산+을	NOUN	_	16	obj	_	_	도산/ncpa+을/jco
+16	면할	면하+ㄹ	VERB	_	0	root	_	_	면하/pvg+ㄹ/etm
+17	수	수	NOUN	_	18	fixed	_	_	수/nbn
+18	있게	있+게	ADJ	_	16	aux	_	_	있/paa+게/ecx
+19	된다	되+ㄴ다	AUX	_	16	aux	_	_	되/px+ㄴ다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 그러나 중소기업에 이러한 자금상의 혜택이 부여되는 경우는 매우 드물다 .
+1	그러나	그러나	CCONJ	_	9	cc	_	_	그러나/maj
+2	중소기업에	중소+기업+에	ADV	_	6	obl	_	_	중소/ncn+기업/ncn+에/jca
+3	이러한	이러하+ㄴ	VERB	_	5	amod	_	_	이러하/pad+ㄴ/etm
+4	자금상의	자금+상+의	NOUN	_	5	nmod	_	_	자금/ncn+상/xsn+의/jcm
+5	혜택이	혜택+이	NOUN	_	6	nsubj	_	_	혜택/ncn+이/jcs
+6	부여되는	부여+되+는	VERB	_	7	acl	_	_	부여/ncpa+되/xsv+는/etm
+7	경우는	경우+는	NOUN	_	9	dislocated	_	_	경우/ncn+는/jxt
+8	매우	매우	ADV	_	9	advmod	_	_	매우/mag
+9	드물다	드물+다	ADJ	_	0	root	_	_	드물/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 따라서 업적이 악화되는 즉시 신용을 잃어 필요한 자금의 추가대출이 어려워지는 것이 중소기업의 현실인 것이다 .
+1	따라서	따라서	CCONJ	_	13	cc	_	_	따라서/maj
+2	업적이	업적+이	NOUN	_	3	nsubj	_	_	업적/ncn+이/jcs
+3	악화되는	악화+되+는	VERB	_	4	acl	_	_	악화/ncpa+되/xsv+는/etm
+4	즉시	즉시	NOUN	_	6	advmod	_	_	즉시/ncn
+5	신용을	신용+을	NOUN	_	6	obj	_	_	신용/ncpa+을/jco
+6	잃어	잃+어	SCONJ	_	10	conj	_	_	잃/pvg+어/ecs
+7	필요한	필요+하+ㄴ	VERB	_	8	amod	_	_	필요/ncps+하/xsm+ㄴ/etm
+8	자금의	자금+의	NOUN	_	9	nmod	_	_	자금/ncn+의/jcm
+9	추가대출이	추가+대출+이	NOUN	_	10	nsubj	_	_	추가/ncpa+대출/ncpa+이/jcs
+10	어려워지는	어렵+어+지+는	AUX	_	11	amod	_	_	어렵/paa+어/ecx+지/px+는/etm
+11	것이	것+이	NOUN	_	13	nsubj	_	_	것/nbn+이/jcs
+12	중소기업의	중소+기업+의	NOUN	_	13	nmod	_	_	중소/ncn+기업/ncn+의/jcm
+13	현실인	현실+이+ㄴ	VERB	_	0	root	_	_	현실/ncn+이/jp+ㄴ/etm
+14	것이다	것+이+다	VERB	_	13	aux	_	_	것/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 예를 들어 물품의 구입대금을 구입한 달에 현금으로 지급하던 것을 3 월부터는 다음달 지급으로 변경한 경우를 생각해 보자 .
+1	예를	예+를	NOUN	_	2	obj	_	_	예/ncn+를/jco
+2	들어	들+어	SCONJ	_	16	ccomp	_	_	들/pvg+어/ecs
+3	물품의	물품+의	NOUN	_	4	nmod	_	_	물품/ncn+의/jcm
+4	구입대금을	구입+대금+을	NOUN	_	8	obj	_	_	구입/ncpa+대금/ncn+을/jco
+5	구입한	구입+하+ㄴ	VERB	_	6	acl	_	_	구입/ncpa+하/xsv+ㄴ/etm
+6	달에	달+에	ADV	_	8	obl	_	_	달/ncn+에/jca
+7	현금으로	현금+으로	ADV	_	8	advcl	_	_	현금/ncn+으로/jca
+8	지급하던	지급+하+던	VERB	_	9	acl	_	_	지급/ncpa+하/xsv+던/etm
+9	것을	것+을	NOUN	_	14	obj	_	_	것/nbn+을/jco
+10	3	3	NUM	_	11	nummod	_	_	3/nnc
+11	월부터는	월+부터+는	NOUN	_	14	dislocated	_	_	월/nbu+부터/jxc+는/jxt
+12	다음달	다음달	NOUN	_	13	compound	_	_	다음달/ncn
+13	지급으로	지급+으로	ADV	_	14	advcl	_	_	지급/ncpa+으로/jca
+14	변경한	변경+하+ㄴ	VERB	_	15	acl	_	_	변경/ncpa+하/xsv+ㄴ/etm
+15	경우를	경우+를	NOUN	_	16	obj	_	_	경우/ncn+를/jco
+16	생각해	생각+하+어	VERB	_	0	root	_	_	생각/ncpa+하/xsv+어/ecx
+17	보자	보+자	AUX	_	16	aux	_	_	보/px+자/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 만일 3 월에 자금이 부족하다면 , 물품의 구입대금 상당액의 지급을 연기함으로써 생긴 잉여자금을 이용하여 3 월의 자금부족을 충당할 수 있게 된다 .
+1	만일	만일	ADV	_	5	advmod	_	_	만일/mag
+2	3	3	NUM	_	3	nummod	_	_	3/nnc
+3	월에	월+에	ADV	_	5	obl	_	_	월/nbu+에/jca
+4	자금이	자금+이	NOUN	_	5	nsubj	_	_	자금/ncn+이/jcs
+5	부족하다면	부족+하+다면	SCONJ	_	18	xcomp	_	_	부족/ncps+하/xsm+다면/ecs
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	물품의	물품+의	NOUN	_	8	nmod	_	_	물품/ncn+의/jcm
+8	구입대금	구입+대금	NOUN	_	9	compound	_	_	구입/ncpa+대금/ncn
+9	상당액의	상당액+의	NOUN	_	10	nmod	_	_	상당액/ncn+의/jcm
+10	지급을	지급+을	NOUN	_	11	obj	_	_	지급/ncpa+을/jco
+11	연기함으로써	연기+하+ㅁ+으로써	ADV	_	12	advcl	_	_	연기/ncpa+하/xsv+ㅁ/etn+으로써/jca
+12	생긴	생기+ㄴ	VERB	_	13	acl	_	_	생기/pvg+ㄴ/etm
+13	잉여자금을	잉여+자금+을	NOUN	_	14	obj	_	_	잉여/ncn+자금/ncn+을/jco
+14	이용하여	이용+하+어	SCONJ	_	18	ccomp	_	_	이용/ncpa+하/xsv+어/ecs
+15	3	3	NUM	_	16	nummod	_	_	3/nnc
+16	월의	월+의	NOUN	_	17	nmod	_	_	월/nbu+의/jcm
+17	자금부족을	자금+부족+을	NOUN	_	18	obj	_	_	자금/ncn+부족/ncps+을/jco
+18	충당할	충당+하+ㄹ	VERB	_	0	root	_	_	충당/ncpa+하/xsv+ㄹ/etm
+19	수	수	NOUN	_	20	fixed	_	_	수/nbn
+20	있게	있+게	ADJ	_	18	aux	_	_	있/paa+게/ecx
+21	된다	되+ㄴ다	AUX	_	18	aux	_	_	되/px+ㄴ다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 즉 , 3 월의 자금조달이 어렵다고 하여 3 월 지급을 다음달로 연장받는 것만으로는 문제가 해결되지 않는다 .
+1	즉	즉	CCONJ	_	15	cc	_	_	즉/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	3	3	NUM	_	4	nummod	_	_	3/nnc
+4	월의	월+의	NOUN	_	5	nmod	_	_	월/nbu+의/jcm
+5	자금조달이	자금+조달+이	NOUN	_	6	nsubj	_	_	자금/ncn+조달/ncpa+이/jcs
+6	어렵다고	어렵+다+고	VERB	_	7	conj	_	_	어렵/paa+다/ef+고/jcr
+7	하여	하+어	SCONJ	_	12	ccomp	_	_	하/pvg+어/ecs
+8	3	3	NUM	_	9	nummod	_	_	3/nnc
+9	월	월	NOUN	_	10	compound	_	_	월/nbu
+10	지급을	지급+을	NOUN	_	12	obj	_	_	지급/ncpa+을/jco
+11	다음달로	다음달+로	ADV	_	12	advcl	_	_	다음달/ncn+로/jca
+12	연장받는	연장+받+는	VERB	_	13	acl	_	_	연장/ncpa+받/xsv+는/etm
+13	것만으로는	것+만+으로+는	NOUN	_	15	dislocated	_	_	것/nbn+만/jxc+으로/jca+는/jxt
+14	문제가	문제+가	NOUN	_	15	nsubj	_	_	문제/ncn+가/jcs
+15	해결되지	해결+되+지	VERB	_	0	root	_	_	해결/ncpa+되/xsv+지/ecx
+16	않는다	않+는다	AUX	_	15	aux	_	_	않/px+는다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 3 월분의 지급만을 연장하게 되면 4 월에는 2 개월 지급이 중복되어 자금부족은 1 개월 연장한 만큼의 효과밖에 없기 때문이다 .
+1	3	3	NUM	_	2	nummod	_	_	3/nnc
+2	월분의	월+분+의	NOUN	_	3	nmod	_	_	월/nbu+분/xsn+의/jcm
+3	지급만을	지급+만+을	NOUN	_	4	obj	_	_	지급/ncpa+만/jxc+을/jco
+4	연장하게	연장+하+게	VERB	_	11	ccomp	_	_	연장/ncpa+하/xsv+게/ecx
+5	되면	되+면	SCONJ	_	4	aux	_	_	되/px+면/ecs
+6	4	4	NUM	_	7	nummod	_	_	4/nnc
+7	월에는	월+에+는	NOUN	_	11	dislocated	_	_	월/nbu+에/jca+는/jxt
+8	2	2	NUM	_	9	nummod	_	_	2/nnc
+9	개월	개월+분+의	NOUN	_	10	nmod	_	_	개월/nbu+분/xsn+의/jcm
+10	지급이	지급+이	NOUN	_	11	nsubj	_	_	지급/ncn+이/jcs
+11	중복되어	중복+되+어	SCONJ	_	18	conj	_	_	중복/ncpa+되/xsv+어/ecs
+12	자금부족은	자금+부족+은	NOUN	_	18	dislocated	_	_	자금/ncn+부족/ncps+은/jxt
+13	1	1	NUM	_	14	nummod	_	_	1/nnc
+14	개월	개월	NOUN	_	15	compound	_	_	개월/nbu
+15	연장한	연장+하+ㄴ	VERB	_	16	acl	_	_	연장/ncpa+하/xsv+ㄴ/etm
+16	만큼의	만큼+의	NOUN	_	17	nmod	_	_	만큼/nbn+의/jcm
+17	효과밖에	효과+밖에	ADV	_	18	advcl	_	_	효과/ncn+밖에/jxc
+18	없기	없+기	ADJ	_	0	root	_	_	없/paa+기/etn
+19	때문이다	때문+이+다	VERB	_	18	aux	_	_	때문/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 이상에서 적자를 내면서도 도산하지 않고 결제하는 방법을 알아보았다 .
+1	이상에서	이상+에서	ADV	_	8	advcl	_	_	이상/ncn+에서/jca
+2	적자를	적자+를	NOUN	_	3	obj	_	_	적자/ncn+를/jco
+3	내면서도	내+면서+도	ADV	_	4	ccomp	_	_	내/pvg+면서/ecs+도/jxc
+4	도산하지	도산+하+지	VERB	_	6	conj	_	_	도산/ncpa+하/xsv+지/ecx
+5	않고	않+고	CCONJ	_	4	aux	_	_	않/px+고/ecc
+6	결제하는	결제+하+는	VERB	_	7	acl	_	_	결제/ncpa+하/xsv+는/etm
+7	방법을	방법+을	NOUN	_	8	obj	_	_	방법/ncn+을/jco
+8	알아보았다	알+아+보+았+다	AUX	_	0	root	_	_	알/pvg+아/ecx+보/px+았/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 하지만 이것은 어디까지나 임시변통에 불과하다 .
+1	하지만	하지만	CCONJ	_	5	cc	_	_	하지만/maj
+2	이것은	이것+은	PRON	_	5	dislocated	_	_	이것/npd+은/jxt
+3	어디까지나	어디+까지+나	ADV	_	5	advcl	_	_	어디/npd+까지/jxc+나/jxc
+4	임시변통에	임시+변통+에	ADV	_	5	obl	_	_	임시/ncn+변통/ncpa+에/jca
+5	불과하다	불과하+다	ADJ	_	0	root	_	_	불과하/paa+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 즉 , 언제까지나 차입금 등을 조달하거나 지급을 연장하는 방안이 계속될 수는 없는 것이다 .
+1	즉	즉	CCONJ	_	10	cc	_	_	즉/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	언제까지나	언제+까지+나	ADV	_	8	advcl	_	_	언제/npd+까지/jxc+나/jxc
+4	차입금	차입금	NOUN	_	5	compound	_	_	차입금/ncn
+5	등을	등+을	NOUN	_	6	obj	_	_	등/nbn+을/jco
+6	조달하거나	조달+하+거나	CCONJ	_	8	conj	_	_	조달/ncpa+하/xsv+거나/ecc
+7	지급을	지급+을	NOUN	_	8	obj	_	_	지급/ncpa+을/jco
+8	연장하는	연장+하+는	VERB	_	9	acl	_	_	연장/ncpa+하/xsv+는/etm
+9	방안이	방안+이	NOUN	_	10	nsubj	_	_	방안/ncn+이/jcs
+10	계속될	계속+되+ㄹ	VERB	_	0	root	_	_	계속/ncpa+되/xsv+ㄹ/etm
+11	수는	수+는	NOUN	_	12	fixed	_	_	수/nbn+는/jxt
+12	없는	없+는	ADJ	_	10	aux	_	_	없/paa+는/etm
+13	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 채산이 맞지 않은 주문 자금수지를 시간차를 이용한다 .
+1	채산이	채산+이	NOUN	_	2	nsubj	_	_	채산/ncn+이/jcs
+2	맞지	맞+지	VERB	_	5	acl	_	_	맞/pvg+지/ecx
+3	않은	않+ㄴ	AUX	_	2	aux	_	_	않/px+ㄴ/etm
+4	주문	주문	NOUN	_	5	compound	_	_	주문/ncn
+5	자금수지를	자금+수지+를	NOUN	_	7	obj	_	_	자금/ncn+수지/ncn+를/jco
+6	시간차를	시간+차+를	NOUN	_	7	obj	_	_	시간/ncn+차/ncn+를/jco
+7	이용한다	이용+하+ㄴ다	VERB	_	0	root	_	_	이용/ncpa+하/xsv+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 회사는 이익을 얻기 위해 기업을 경영하고 있다 .
+1	회사는	회사+는	NOUN	_	6	dislocated	_	_	회사/ncn+는/jxt
+2	이익을	이익+을	NOUN	_	3	obj	_	_	이익/ncn+을/jco
+3	얻기	얻+기	VERB	_	4	nmod	_	_	얻/pvg+기/etn
+4	위해	위하+어	SCONJ	_	6	ccomp	_	_	위하/pvg+어/ecs
+5	기업을	기업+을	NOUN	_	6	obj	_	_	기업/ncn+을/jco
+6	경영하고	경영+하+고	VERB	_	0	root	_	_	경영/ncpa+하/xsv+고/ecx
+7	있다	있+다	AUX	_	6	aux	_	_	있/px+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 따라서 수고한 보람이 없는 일은 하지 않는 것이 원칙이다 .
+1	따라서	따라서	CCONJ	_	9	cc	_	_	따라서/maj
+2	수고한	수고+하+ㄴ	VERB	_	3	acl	_	_	수고/ncpa+하/xsv+ㄴ/etm
+3	보람이	보람+이	NOUN	_	4	nsubj	_	_	보람/ncn+이/jcs
+4	없는	없+는	ADJ	_	5	amod	_	_	없/paa+는/etm
+5	일은	일+은	NOUN	_	6	dislocated	_	_	일/ncn+은/jxt
+6	하지	하+지	VERB	_	8	acl	_	_	하/pvg+지/ecx
+7	않는	않+는	AUX	_	6	aux	_	_	않/px+는/etm
+8	것이	것+이	NOUN	_	9	nsubj	_	_	것/nbn+이/jcs
+9	원칙이다	원칙+이+다	VERB	_	0	root	_	_	원칙/ncn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러나 그것이 자금조달상 이득이 된다면 약간의 손해를 감수하면서도 주문을 받는 경우가 있다 .
+1	그러나	그러나	CCONJ	_	12	cc	_	_	그러나/maj
+2	그것이	그것+이	PRON	_	5	nsubj	_	_	그것/npd+이/jcs
+3	자금조달상	자금+조달+상	NOUN	_	5	advmod	_	_	자금/ncn+조달/ncpa+상/xsn
+4	이득이	이득+이	NOUN	_	5	nsubj	_	_	이득/ncn+이/jcs
+5	된다면	되+ㄴ다면	SCONJ	_	12	conj	_	_	되/pvg+ㄴ다면/ecs
+6	약간의	약간+의	NOUN	_	7	nmod	_	_	약간/ncn+의/jcm
+7	손해를	손해+를	NOUN	_	8	obj	_	_	손해/ncn+를/jco
+8	감수하면서도	감수+하+면서+도	ADV	_	10	ccomp	_	_	감수/ncpa+하/xsv+면서/ecs+도/jxc
+9	주문을	주문+을	NOUN	_	10	obj	_	_	주문/ncn+을/jco
+10	받는	받+는	VERB	_	11	acl	_	_	받/pvg+는/etm
+11	경우가	경우+가	NOUN	_	12	nsubj	_	_	경우/ncn+가/jcs
+12	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 예를 들어 구입가액이 100만원인 상품을 100만원에 팔았다고 하자 .
+1	예를	예+를	NOUN	_	2	obj	_	_	예/ncn+를/jco
+2	들어	들+어	SCONJ	_	8	ccomp	_	_	들/pvg+어/ecs
+3	구입가액이	구입+가액+이	NOUN	_	4	nsubj	_	_	구입/ncpa+가액/ncn+이/jcs
+4	100만원인	100+만+원+이+ㄴ	VERB	_	5	acl	_	_	100/nnc+만/nnc+원/nbu+이/jp+ㄴ/etm
+5	상품을	상품+을	NOUN	_	7	obj	_	_	상품/ncn+을/jco
+6	100만원에	100+만+원+에	ADV	_	7	obl	_	_	100/nnc+만/nnc+원/nbu+에/jca
+7	팔았다고	팔+았+다+고	VERB	_	8	conj	_	_	팔/pvg+았/ep+다/ef+고/jcr
+8	하자	하+자	VERB	_	0	root	_	_	하/pvg+자/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이는 이익을 얻을 수 있는 걸개가 아니다 .
+1	이는	이+는	PRON	_	7	dislocated	_	_	이/npd+는/jxt
+2	이익을	이익+을	NOUN	_	3	obj	_	_	이익/ncn+을/jco
+3	얻을	얻+ㄹ	VERB	_	6	acl	_	_	얻/pvg+ㄹ/etm
+4	수	수	NOUN	_	5	fixed	_	_	수/nbn
+5	있는	있+는	ADJ	_	3	aux	_	_	있/paa+는/etm
+6	걸개가	걸개+가	NOUN	_	7	nsubj	_	_	걸개/ncn+가/jcs
+7	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이 일에 종사하는 사람의 인건비 등ㄹ 제반비용을 생각하면 적자가 되기 때문이다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	일에	일+에	ADV	_	3	obl	_	_	일/ncn+에/jca
+3	종사하는	종사+하+는	VERB	_	4	acl	_	_	종사/ncpa+하/xsv+는/etm
+4	사람의	사람+의	NOUN	_	5	nmod	_	_	사람/ncn+의/jcm
+5	인건비	인건비	NOUN	_	6	compound	_	_	인건비/ncn
+6	등ㄹ	등	NOUN	_	7	mark	_	_	등/nbn
+7	제반비용을	제반+비용+을	NOUN	_	8	obj	_	_	제반/ncn+비용/ncn+을/jco
+8	생각하면	생각+하+면	SCONJ	_	10	ccomp	_	_	생각/ncpa+하/xsv+면/ecs
+9	적자가	적자+가	NOUN	_	10	nsubj	_	_	적자/ncn+가/jcs
+10	되기	되+기	VERB	_	0	root	_	_	되/pvg+기/etn
+11	때문이다	때문+이+다	VERB	_	10	aux	_	_	때문/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러나 구입과 판매의 대금결제조건에 따라서 상황을 달라질 수 있다 .
+1	그러나	그러나	CCONJ	_	7	cc	_	_	그러나/maj
+2	구입과	구입+과	CCONJ	_	3	conj	_	_	구입/ncpa+과/jcj
+3	판매의	판매+의	NOUN	_	4	nmod	_	_	판매/ncpa+의/jcm
+4	대금결제조건에	대금+결제+조건+에	ADV	_	5	obl	_	_	대금/ncn+결제/ncpa+조건/ncn+에/jca
+5	따라서	따르+아서	SCONJ	_	7	conj	_	_	따르/pvg+아서/ecs
+6	상황을	상황+은	NOUN	_	7	dislocated	_	_	상황/ncn+은/jxt
+7	달라질	다르+아+지+ㄹ	AUX	_	0	root	_	_	다르/paa+아/ecx+지/px+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있다	있+다	ADJ	_	7	aux	_	_	있/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 따라서 6 월에 100만원의 자금이 부족하지만 7 월에는 자금에 여유가 생긴다면 이러한 거래를 함으로써 부족자금을 충당할 수 있게 된다 .
+1	따라서	따라서	CCONJ	_	16	cc	_	_	따라서/maj
+2	6	6	NUM	_	3	nummod	_	_	6/nnc
+3	월에	월+에	ADV	_	6	obl	_	_	월/nbu+에/jca
+4	100만원의	100+만+원+의	NUM	_	5	nmod	_	_	100/nnc+만/nnc+원/nbu+의/jcm
+5	자금이	자금+이	NOUN	_	6	nsubj	_	_	자금/ncn+이/jcs
+6	부족하지만	부족+하+지만	SCONJ	_	11	xcomp	_	_	부족/ncps+하/xsm+지만/ecs
+7	7	7	NUM	_	8	nummod	_	_	7/nnc
+8	월에는	월+에+는	NOUN	_	11	dislocated	_	_	월/nbu+에/jca+는/jxt
+9	자금에	자금+에	ADV	_	11	obl	_	_	자금/ncn+에/jca
+10	여유가	여유+가	NOUN	_	11	nsubj	_	_	여유/ncn+가/jcs
+11	생긴다면	생기+ㄴ다면	SCONJ	_	16	ccomp	_	_	생기/pvg+ㄴ다면/ecs
+12	이러한	이러하+ㄴ	VERB	_	13	amod	_	_	이러하/pad+ㄴ/etm
+13	거래를	거래+를	NOUN	_	14	obj	_	_	거래/ncpa+를/jco
+14	함으로써	하+ㅁ+으로써	ADV	_	16	advcl	_	_	하/pvg+ㅁ/etn+으로써/jca
+15	부족자금을	부족+자금+을	NOUN	_	16	obj	_	_	부족/ncps+자금/ncn+을/jco
+16	충당할	충당+하+ㄹ	VERB	_	0	root	_	_	충당/ncpa+하/xsv+ㄹ/etm
+17	수	수	NOUN	_	18	fixed	_	_	수/nbn
+18	있게	있+게	ADJ	_	16	aux	_	_	있/paa+게/ecx
+19	된다	되+ㄴ다	AUX	_	16	aux	_	_	되/px+ㄴ다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 현금수입의 이익을 택한다 .
+1	현금수입의	현금+수입+의	NOUN	_	2	nmod	_	_	현금/ncn+수입/ncpa+의/jcm
+2	이익을	이익+을	NOUN	_	3	obj	_	_	이익/ncn+을/jco
+3	택한다	택하+ㄴ다	VERB	_	0	root	_	_	택하/pvg+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 백화점에서 대바겐세일들의 캐치프레이즈를 내세우는 경우를 흔히 볼 수 있다 .
+1	백화점에서	백화점+에서	ADV	_	4	advcl	_	_	백화점/ncn+에서/jca
+2	대바겐세일들의	대+바겐세일+들+의	PART	_	3	nmod	_	_	대/xp+바겐세일/ncn+들/xsn+의/jcm
+3	캐치프레이즈를	캐치프레이즈+를	NOUN	_	4	obj	_	_	캐치프레이즈/ncn+를/jco
+4	내세우는	내세우+는	VERB	_	5	acl	_	_	내세우/pvg+는/etm
+5	경우를	경우+를	NOUN	_	7	obj	_	_	경우/ncn+를/jco
+6	흔히	흔히	ADV	_	7	advmod	_	_	흔히/mag
+7	볼	보+ㄹ	VERB	_	0	root	_	_	보/pvg+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있다	있+다	ADJ	_	7	aux	_	_	있/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이것은 외상으로 구입한 상품을 현금으로 판매하여 자금조달을 쉽게 하려는 의도에서 실시하는 경우가 많다 .
+1	이것은	이것+은	PRON	_	11	dislocated	_	_	이것/npd+은/jxt
+2	외상으로	외상+으로	ADV	_	3	advcl	_	_	외상/ncpa+으로/jca
+3	구입한	구입+하+ㄴ	VERB	_	4	acl	_	_	구입/ncpa+하/xsv+ㄴ/etm
+4	상품을	상품+을	NOUN	_	6	obj	_	_	상품/ncn+을/jco
+5	현금으로	현금+으로	ADV	_	6	advcl	_	_	현금/ncn+으로/jca
+6	판매하여	판매+하+어	SCONJ	_	9	ccomp	_	_	판매/ncpa+하/xsv+어/ecs
+7	자금조달을	자금+조달+을	NOUN	_	9	obj	_	_	자금/ncn+조달/ncpa+을/jco
+8	쉽게	쉽+게	SCONJ	_	9	xcomp	_	_	쉽/paa+게/ecs
+9	하려는	하+려는	VERB	_	10	acl	_	_	하/pvg+려는/etm
+10	의도에서	의도+에서	ADV	_	11	advcl	_	_	의도/ncpa+에서/jca
+11	실시하는	실시+하+는	VERB	_	12	acl	_	_	실시/ncpa+하/xsv+는/etm
+12	경우가	경우+가	NOUN	_	13	nsubj	_	_	경우/ncn+가/jcs
+13	많다	많+다	ADJ	_	0	root	_	_	많/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 즉 , 판매가를 보통 가격보다 할인하여 판매함으로써 다소의 손해를 보더라도 자금부족의 문제를 해결하고자 하는 것이다 .
+1	즉	즉	CCONJ	_	13	cc	_	_	즉/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	판매가를	판매가+를	NOUN	_	6	obj	_	_	판매가/ncn+를/jco
+4	보통	보통	NOUN	_	5	compound	_	_	보통/ncn
+5	가격보다	가격+보다	ADV	_	6	advcl	_	_	가격/ncn+보다/jca
+6	할인하여	할인+하+어	SCONJ	_	7	conj	_	_	할인/ncpa+하/xsv+어/ecs
+7	판매함으로써	판매+하+ㅁ+으로써	ADV	_	13	advcl	_	_	판매/ncpa+하/xsv+ㅁ/etn+으로써/jca
+8	다소의	다소+의	NOUN	_	9	nmod	_	_	다소/ncn+의/jcm
+9	손해를	손해+를	NOUN	_	10	obj	_	_	손해/ncn+를/jco
+10	보더라도	보+더라도	SCONJ	_	13	ccomp	_	_	보/pvg+더라도/ecs
+11	자금부족의	자금+부족+의	NOUN	_	12	nmod	_	_	자금/ncn+부족/ncps+의/jcm
+12	문제를	문제+를	NOUN	_	13	obj	_	_	문제/ncn+를/jco
+13	해결하고자	해결+하+고자	VERB	_	0	root	_	_	해결/ncpa+하/xsv+고자/ecx
+14	하는	하+는	AUX	_	13	aux	_	_	하/px+는/etm
+15	것이다	것+이+다	VERB	_	13	aux	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이처럼 입금기간이 지급기간보다 빠르면 일시적이나마 자금을 융통할 수 있다 .
+1	이처럼	이+처럼	ADV	_	7	advcl	_	_	이/npd+처럼/jca
+2	입금기간이	입금+기간+이	NOUN	_	4	nsubj	_	_	입금/ncpa+기간/ncn+이/jcs
+3	지급기간보다	지급+기간+보다	ADV	_	4	advcl	_	_	지급/ncpa+기간/ncn+보다/jca
+4	빠르면	빠르+면	SCONJ	_	7	xcomp	_	_	빠르/paa+면/ecs
+5	일시적이나마	일시+적+이나마	ADV	_	7	advcl	_	_	일시/ncn+적/xsn+이나마/jxc
+6	자금을	자금+을	NOUN	_	7	obj	_	_	자금/ncn+을/jco
+7	융통할	융통+하+ㄹ	VERB	_	0	root	_	_	융통/ncpa+하/xsv+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있다	있+다	ADJ	_	7	aux	_	_	있/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 또 , 판매대금이 현금으로 입금되지 않아도 어음을 가지고 있으면 그것을 할인하여 현금으로 바꿀 수도 있다 .
+1	또	또	CCONJ	_	13	cc	_	_	또/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	판매대금이	판매+대금+이	NOUN	_	5	nsubj	_	_	판매/ncpa+대금/ncn+이/jcs
+4	현금으로	현금+으로	ADV	_	5	advcl	_	_	현금/ncn+으로/jca
+5	입금되지	입금+되+지	VERB	_	13	ccomp	_	_	입금/ncpa+되/xsv+지/ecx
+6	않아도	않+아도	SCONJ	_	5	aux	_	_	않/px+아도/ecs
+7	어음을	어음+을	NOUN	_	8	obj	_	_	어음/ncn+을/jco
+8	가지고	가지+고	VERB	_	13	ccomp	_	_	가지/pvg+고/ecx
+9	있으면	있+으면	SCONJ	_	8	aux	_	_	있/px+으면/ecs
+10	그것을	그것+을	PRON	_	11	obj	_	_	그것/npd+을/jco
+11	할인하여	할인+하+어	SCONJ	_	13	ccomp	_	_	할인/ncpa+하/xsv+어/ecs
+12	현금으로	현금+으로	ADV	_	13	advcl	_	_	현금/ncn+으로/jca
+13	바꿀	바꾸+ㄹ	VERB	_	0	root	_	_	바꾸/pvg+ㄹ/etm
+14	수도	수+도	ADV	_	15	fixed	_	_	수/nbn+도/jxc
+15	있다	있+다	ADJ	_	13	aux	_	_	있/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 신용이 손상되면 자금조달이 어렵다 .
+1	신용이	신용+이	NOUN	_	2	nsubj	_	_	신용/ncpa+이/jcs
+2	손상되면	손상+되+면	SCONJ	_	4	conj	_	_	손상/ncpa+되/xsv+면/ecs
+3	자금조달이	자금+조달+이	NOUN	_	4	nsubj	_	_	자금/ncn+조달/ncpa+이/jcs
+4	어렵다	어렵+다	ADJ	_	0	root	_	_	어렵/paa+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 신용이 없으면 모두 현금으로 결제해야 한다 .
+1	신용이	신용+이	NOUN	_	2	nsubj	_	_	신용/ncpa+이/jcs
+2	없으면	없+으면	SCONJ	_	5	xcomp	_	_	없/paa+으면/ecs
+3	모두	모두	ADV	_	5	advmod	_	_	모두/mag
+4	현금으로	현금+으로	ADV	_	5	advcl	_	_	현금/ncn+으로/jca
+5	결제해야	결제+하+어야	VERB	_	0	root	_	_	결제/ncpa+하/xsv+어야/ecx
+6	한다	하+ㄴ다	AUX	_	5	aux	_	_	하/px+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 백화점이나 슈퍼마켓 , 서비스업은 업종의 특성상 판매대금이 모두 현금으로 들어온다 .
+1	백화점이나	백화점+이나	CCONJ	_	2	conj	_	_	백화점/ncn+이나/jcj
+2	슈퍼마켓	슈퍼마켓	NOUN	_	4	conj	_	_	슈퍼마켓/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	서비스업은	서비스업+은	NOUN	_	10	dislocated	_	_	서비스업/ncn+은/jxt
+5	업종의	업종+의	NOUN	_	6	nmod	_	_	업종/ncn+의/jcm
+6	특성상	특성+상	NOUN	_	10	advmod	_	_	특성/ncn+상/xsn
+7	판매대금이	판매+대금+이	NOUN	_	10	nsubj	_	_	판매/ncpa+대금/ncn+이/jcs
+8	모두	모두	ADV	_	10	advmod	_	_	모두/mag
+9	현금으로	현금+으로	ADV	_	10	advcl	_	_	현금/ncn+으로/jca
+10	들어온다	들어오+ㄴ다	VERB	_	0	root	_	_	들어오/pvg+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그러나 이러한 업종 이외에는 외상판매가 보통이고 대금은 어음으로 수령하는 것이 일반적이다 .
+1	그러나	그러나	CCONJ	_	11	cc	_	_	그러나/maj
+2	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+3	업종	업종	NOUN	_	4	compound	_	_	업종/ncn
+4	이외에는	이외+에+는	NOUN	_	6	dislocated	_	_	이외/ncn+에/jca+는/jxt
+5	외상판매가	외상+판매+가	NOUN	_	6	nsubj	_	_	외상/ncpa+판매/ncpa+가/jcs
+6	보통이고	보통+이+고	CCONJ	_	9	conj	_	_	보통/ncn+이/jp+고/ecc
+7	대금은	대금+은	NOUN	_	9	dislocated	_	_	대금/ncn+은/jxt
+8	어음으로	어음+으로	ADV	_	9	advcl	_	_	어음/ncn+으로/jca
+9	수령하는	수령+하+는	VERB	_	10	acl	_	_	수령/ncpa+하/xsv+는/etm
+10	것이	것+이	NOUN	_	11	nsubj	_	_	것/nbn+이/jcs
+11	일반적이다	일반+적+이+다	VERB	_	0	root	_	_	일반/ncn+적/xsn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이처럼 매매의 결제가 현금이 아닌 어음이라는 하나의 종이 조각으로 이루어진다는 것은 서로를 신뢰하고 있기 때문에 이루어질 수 있는 것이다 .
+1	이처럼	이+처럼	ADV	_	10	advcl	_	_	이/npd+처럼/jca
+2	매매의	매매+의	NOUN	_	3	nmod	_	_	매매/ncpa+의/jcm
+3	결제가	결제+가	NOUN	_	10	nsubj	_	_	결제/ncpa+가/jcs
+4	현금이	현금+이	NOUN	_	5	nsubj	_	_	현금/ncn+이/jcs
+5	아닌	아니+ㄴ	ADJ	_	6	amod	_	_	아니/paa+ㄴ/etm
+6	어음이라는	어음+이+라는	VERB	_	9	acl	_	_	어음/ncn+이/jp+라는/etm
+7	하나의	하나+의	NUM	_	9	nmod	_	_	하나/nnc+의/jcm
+8	종이	종이	NOUN	_	9	compound	_	_	종이/ncn
+9	조각으로	조각+으로	ADV	_	10	advcl	_	_	조각/ncn+으로/jca
+10	이루어진다는	이루+어+지+ㄴ다는	AUX	_	11	acl	_	_	이루/pvg+어/ecx+지/px+ㄴ다는/etm
+11	것은	것+은	NOUN	_	16	dislocated	_	_	것/nbn+은/jxt
+12	서로를	서로+를	NOUN	_	13	obj	_	_	서로/ncn+를/jco
+13	신뢰하고	신뢰+하+고	VERB	_	15	dep	_	_	신뢰/ncpa+하/xsv+고/ecx
+14	있기	있+기	AUX	_	13	aux	_	_	있/px+기/etn
+15	때문에	때문+에	ADV	_	16	obl	_	_	때문/nbn+에/jca
+16	이루어질	이루+어+지+ㄹ	AUX	_	0	root	_	_	이루/pvg+어/ecx+지/px+ㄹ/etm
+17	수	수	NOUN	_	18	fixed	_	_	수/nbn
+18	있는	있+는	ADJ	_	16	aux	_	_	있/paa+는/etm
+19	것이다	것+이+다	VERB	_	16	aux	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 새로운 판매처와의 거래 여부를 판단하는 기준으로는 손익의 문제도 있겠지만 , 대금을 확실하게 회수할 수 있는가의 여부가 중요시된다 .
+1	새로운	새롭+ㄴ	ADJ	_	2	amod	_	_	새롭/paa+ㄴ/etm
+2	판매처와의	판매처+와+의	NOUN	_	3	nmod	_	_	판매처/ncn+와/jct+의/jcm
+3	거래	거래	NOUN	_	4	compound	_	_	거래/ncpa
+4	여부를	여부+를	NOUN	_	5	obj	_	_	여부/ncn+를/jco
+5	판단하는	판단+하+는	VERB	_	6	acl	_	_	판단/ncpa+하/xsv+는/etm
+6	기준으로는	기준+으로+는	NOUN	_	17	dislocated	_	_	기준/ncpa+으로/jca+는/jxt
+7	손익의	손익+의	NOUN	_	8	nmod	_	_	손익/ncn+의/jcm
+8	문제도	문제+도	ADV	_	9	advcl	_	_	문제/ncn+도/jxc
+9	있겠지만	있+겠+지만	SCONJ	_	17	xcomp	_	_	있/paa+겠/ep+지만/ecs
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	대금을	대금+을	NOUN	_	13	obj	_	_	대금/ncn+을/jco
+12	확실하게	확실하+게	SCONJ	_	13	xcomp	_	_	확실하/paa+게/ecs
+13	회수할	회수+하+ㄹ	VERB	_	14	acl	_	_	회수/ncpa+하/xsv+ㄹ/etm
+14	수	수	NOUN	_	15	mark	_	_	수/nbn
+15	있는가의	있+는가+의	NOUN	_	16	nmod	_	_	있/paa+는가/ef+의/jcm
+16	여부가	여부+가	NOUN	_	17	nsubj	_	_	여부/ncn+가/jcs
+17	중요시된다	중요시+되+ㄴ다	VERB	_	0	root	_	_	중요시/ncpa+되/xsv+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 따라서 거래량이 적은 거래처와는 현금결제로 거래하는 것이 일반적이다 .
+1	따라서	따라서	CCONJ	_	8	cc	_	_	따라서/maj
+2	거래량이	거래량+이	NOUN	_	3	nsubj	_	_	거래량/ncn+이/jcs
+3	적은	적+은	ADJ	_	4	amod	_	_	적/paa+은/etm
+4	거래처와는	거래처+와+는	NOUN	_	6	dislocated	_	_	거래처/ncn+와/jct+는/jxt
+5	현금결제로	현금+결제+로	ADV	_	6	advcl	_	_	현금/ncn+결제/ncpa+로/jca
+6	거래하는	거래+하+는	VERB	_	7	acl	_	_	거래/ncpa+하/xsv+는/etm
+7	것이	것+이	NOUN	_	8	nsubj	_	_	것/nbn+이/jcs
+8	일반적이다	일반+적+이+다	VERB	_	0	root	_	_	일반/ncn+적/xsn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그런데 어음결제는 서로의 신용을 기반으로 하는 만큼 한쪽의 신용이 손상되어 결제수단으로서 어음을 사용할 수 없게 된다 .
+1	그런데	그런데	CCONJ	_	13	cc	_	_	그런데/maj
+2	어음결제는	어음+결제+는	NOUN	_	6	dislocated	_	_	어음/ncn+결제/ncpa+는/jxt
+3	서로의	서로+의	NOUN	_	4	nmod	_	_	서로/ncn+의/jcm
+4	신용을	신용+을	NOUN	_	6	obj	_	_	신용/ncpa+을/jco
+5	기반으로	기반+으로	ADV	_	6	advcl	_	_	기반/ncn+으로/jca
+6	하는	하+는	VERB	_	7	acl	_	_	하/pvg+는/etm
+7	만큼	만큼	NOUN	_	13	advmod	_	_	만큼/nbn
+8	한쪽의	한쪽+의	NOUN	_	9	nmod	_	_	한쪽/ncn+의/jcm
+9	신용이	신용+이	NOUN	_	10	nsubj	_	_	신용/ncpa+이/jcs
+10	손상되어	손상+되+어	SCONJ	_	13	ccomp	_	_	손상/ncpa+되/xsv+어/ecs
+11	결제수단으로서	결제+수단+으로서	ADV	_	13	advcl	_	_	결제/ncpa+수단/ncn+으로서/jca
+12	어음을	어음+을	NOUN	_	13	obj	_	_	어음/ncn+을/jco
+13	사용할	사용+하+ㄹ	VERB	_	0	root	_	_	사용/ncpa+하/xsv+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	없게	없+게	ADJ	_	13	aux	_	_	없/paa+게/ecx
+16	된다	되+ㄴ다	AUX	_	13	aux	_	_	되/px+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 신용을 잃게 되는 원인에는 여러 가지가 있지만 , 이를 자금조달에 하정하면 평소의 지급 실적이 좋지 않는 것을 제일로 꼽을 수 있다 .
+1	신용을	신용+을	NOUN	_	2	obj	_	_	신용/ncpa+을/jco
+2	잃게	잃+게	VERB	_	4	acl	_	_	잃/pvg+게/ecx
+3	되는	되+는	AUX	_	2	aux	_	_	되/px+는/etm
+4	원인에는	원인+에+는	NOUN	_	7	dislocated	_	_	원인/ncn+에/jca+는/jxt
+5	여러	여러	ADJ	_	6	amod	_	_	여러/mma
+6	가지가	가지+가	NOUN	_	7	nsubj	_	_	가지/nbu+가/jcs
+7	있지만	있+지만	SCONJ	_	19	xcomp	_	_	있/paa+지만/ecs
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	이를	이+를	PRON	_	11	obj	_	_	이/npd+를/jco
+10	자금조달에	자금+조달+에	ADV	_	11	obl	_	_	자금/ncn+조달/ncpa+에/jca
+11	하정하면	한정+하+면	SCONJ	_	19	ccomp	_	_	한정/ncpa+하/xsv+면/ecs
+12	평소의	평소+의	NOUN	_	14	nmod	_	_	평소/ncn+의/jcm
+13	지급	지급	NOUN	_	14	compound	_	_	지급/ncn
+14	실적이	실적+이	NOUN	_	15	nsubj	_	_	실적/ncn+이/jcs
+15	좋지	좋+지	ADJ	_	17	amod	_	_	좋/paa+지/ecx
+16	않는	않+는	AUX	_	15	aux	_	_	않/px+는/etm
+17	것을	것+을	NOUN	_	19	obj	_	_	것/nbn+을/jco
+18	제일로	제일+로	ADV	_	19	advcl	_	_	제일/ncn+로/jca
+19	꼽을	꼽+을	VERB	_	0	root	_	_	꼽/pvg+을/etm
+20	수	수	NOUN	_	21	fixed	_	_	수/nbn
+21	있다	있+다	ADJ	_	19	aux	_	_	있/paa+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 그리고 자금조달이 어려울 때에는 지급어음의 기간을 연장시키는 경우가 많다 .
+1	그리고	그리고	CCONJ	_	9	cc	_	_	그리고/maj
+2	자금조달이	자금+조달+이	NOUN	_	3	nsubj	_	_	자금/ncn+조달/ncpa+이/jcs
+3	어려울	어렵+ㄹ	ADJ	_	4	amod	_	_	어렵/paa+ㄹ/etm
+4	때에는	때+에+는	NOUN	_	7	dislocated	_	_	때/ncn+에/jca+는/jxt
+5	지급어음의	지급+어음+의	NOUN	_	6	nmod	_	_	지급/ncpa+어음/ncn+의/jcm
+6	기간을	기간+을	NOUN	_	7	obj	_	_	기간/ncn+을/jco
+7	연장시키는	연장+시키+는	VERB	_	8	acl	_	_	연장/ncpa+시키/xsv+는/etm
+8	경우가	경우+가	NOUN	_	9	nsubj	_	_	경우/ncn+가/jcs
+9	많다	많+다	ADJ	_	0	root	_	_	많/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 예를 들어 기존에 120 일 기간으로 발행하고 있던 어음을 130 일 내지 150 일로 연장하는 것이다 .
+1	예를	예+를	NOUN	_	2	obj	_	_	예/ncn+를/jco
+2	들어	들+어	SCONJ	_	15	ccomp	_	_	들/pvg+어/ecs
+3	기존에	기존+에	ADV	_	7	obl	_	_	기존/ncn+에/jca
+4	120	120	NUM	_	5	nummod	_	_	120/nnc
+5	일	일	NOUN	_	6	compound	_	_	일/nbu
+6	기간으로	기간+으로	ADV	_	7	advcl	_	_	기간/ncn+으로/jca
+7	발행하고	발행+하+고	VERB	_	9	acl	_	_	발행/ncpa+하/xsv+고/ecx
+8	있던	있+던	AUX	_	7	aux	_	_	있/px+던/etm
+9	어음을	어음+을	NOUN	_	15	obj	_	_	어음/ncn+을/jco
+10	130	130	NUM	_	11	nummod	_	_	130/nnc
+11	일	일	NOUN	_	14	conj	_	_	일/nbu
+12	내지	내지	CCONJ	_	14	cc	_	_	내지/maj
+13	150	150	NUM	_	14	nummod	_	_	150/nnc
+14	일로	일+로	ADV	_	15	advcl	_	_	일/nbu+로/jca
+15	연장하는	연장+하+는	VERB	_	0	root	_	_	연장/ncpa+하/xsv+는/etm
+16	것이다	것+이+다	VERB	_	15	aux	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이때 판매대금은 어음으로만 받고 있다면 어음이 현금화되기 전에는 구입대금을 지급할 수 없게 되어 자금조달은 점점 곤란해진다 .
+1	이때	이때	ADV	_	4	advmod	_	_	이때/mag
+2	판매대금은	판매+대금+은	NOUN	_	4	dislocated	_	_	판매/ncpa+대금/ncn+은/jxt
+3	어음으로만	어음+으로+만	ADV	_	4	advcl	_	_	어음/ncn+으로/jca+만/jxc
+4	받고	받+고	VERB	_	10	ccomp	_	_	받/pvg+고/ecx
+5	있다면	있+다면	SCONJ	_	4	aux	_	_	있/px+다면/ecs
+6	어음이	어음+이	NOUN	_	7	nsubj	_	_	어음/ncn+이/jcs
+7	현금화되기	현금+화+되+기	VERB	_	8	nmod	_	_	현금/ncn+화/xsn+되/xsv+기/etn
+8	전에는	전+에+는	NOUN	_	10	dislocated	_	_	전/ncn+에/jca+는/jxt
+9	구입대금을	구입+대금+을	NOUN	_	10	obj	_	_	구입/ncpa+대금/ncn+을/jco
+10	지급할	지급+하+ㄹ	VERB	_	16	conj	_	_	지급/ncpa+하/xsv+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	없게	없+게	ADJ	_	10	aux	_	_	없/paa+게/ecx
+13	되어	되+어	SCONJ	_	10	aux	_	_	되/px+어/ecs
+14	자금조달은	자금+조달+은	NOUN	_	16	dislocated	_	_	자금/ncn+조달/ncpa+은/jxt
+15	점점	점점	ADV	_	16	advmod	_	_	점점/mag
+16	곤란해진다	곤란+하+어+지+ㄴ다	AUX	_	0	root	_	_	곤란/ncps+하/xsm+어/ecx+지/px+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 따라서 이 신용한도를 초과하게 되면 일단 신용불안의 징조로 보아 상대 거래처와의 판매거래를 검토해 보는 것이 좋다 .
+1	따라서	따라서	CCONJ	_	16	cc	_	_	따라서/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	신용한도를	신용+한도+를	NOUN	_	4	obj	_	_	신용/ncpa+한도/ncn+를/jco
+4	초과하게	초과+하+게	VERB	_	9	ccomp	_	_	초과/ncpa+하/xsv+게/ecx
+5	되면	되+면	SCONJ	_	4	aux	_	_	되/px+면/ecs
+6	일단	일단	ADV	_	9	advmod	_	_	일단/mag
+7	신용불안의	신용+불안+의	NOUN	_	8	nmod	_	_	신용/ncpa+불안/ncpa+의/jcm
+8	징조로	징조+로	ADV	_	9	advcl	_	_	징조/ncn+로/jca
+9	보아	보+아	SCONJ	_	13	ccomp	_	_	보/pvg+아/ecs
+10	상대	상대	NOUN	_	11	compound	_	_	상대/ncn
+11	거래처와의	거래처+와+의	NOUN	_	12	nmod	_	_	거래처/ncn+와/jct+의/jcm
+12	판매거래를	판매+거래+를	NOUN	_	13	obj	_	_	판매/ncpa+거래/ncpa+를/jco
+13	검토해	검토+하+어	VERB	_	15	acl	_	_	검토/ncpa+하/xsv+어/ecx
+14	보는	보+는	AUX	_	13	aux	_	_	보/px+는/etm
+15	것이	것+이	NOUN	_	16	nsubj	_	_	것/nbn+이/jcs
+16	좋다	좋+다	ADJ	_	0	root	_	_	좋/paa+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 구입대금을 지급 시 현금에서 어음으로 결제방식을 바꾼다든지 어음결제기한을 연장하게 되면 구입처가 정한 신용한도 초과하게 되어 상대방에게 신용을 잃게 된다 .
+1	구입대금을	구입+대금	NOUN	_	2	compound	_	_	구입/ncpa+대금/ncn
+2	지급	지급	NOUN	_	3	compound	_	_	지급/ncpa
+3	시	시	NOUN	_	9	advmod	_	_	시/ncn
+4	현금에서	현금+에서	ADV	_	7	advcl	_	_	현금/ncn+에서/jca
+5	어음으로	어음+으로	ADV	_	7	advcl	_	_	어음/ncn+으로/jca
+6	결제방식을	결제+방식+을	NOUN	_	7	obj	_	_	결제/ncpa+방식/ncn+을/jco
+7	바꾼다든지	바꾸+ㄴ다든지	CCONJ	_	9	conj	_	_	바꾸/pvg+ㄴ다든지/ecc
+8	어음결제기한을	어음+결제+기한+을	NOUN	_	9	obj	_	_	어음/ncn+결제/ncpa+기한/ncn+을/jco
+9	연장하게	연장+하+게	VERB	_	14	ccomp	_	_	연장/ncpa+하/xsv+게/ecx
+10	되면	되+면	SCONJ	_	9	aux	_	_	되/px+면/ecs
+11	구입처가	구입처+가	NOUN	_	12	nsubj	_	_	구입처/ncn+가/jcs
+12	정한	정하+ㄴ	VERB	_	13	acl	_	_	정하/pvg+ㄴ/etm
+13	신용한도	신용+한도+를	NOUN	_	14	obj	_	_	신용/ncpa+한도/ncn+를/jco
+14	초과하게	초과+하+게	VERB	_	18	ccomp	_	_	초과/ncpa+하/xsv+게/ecx
+15	되어	되+어	SCONJ	_	14	aux	_	_	되/px+어/ecs
+16	상대방에게	상대방+에게	ADV	_	18	iobj	_	_	상대방/ncn+에게/jca
+17	신용을	신용+을	NOUN	_	18	obj	_	_	신용/ncpa+을/jco
+18	잃게	잃+게	VERB	_	0	root	_	_	잃/pvg+게/ecx
+19	된다	되+ㄴ다	AUX	_	18	aux	_	_	되/px+ㄴ다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 지급기한의 연장은 거래처의 매출액이 급속해 감소하든지 , 예정된 입금액이 부족한 경우 등의 불가피한 때에 발생한다 .
+1	지급기한의	지급+기한+의	NOUN	_	2	nmod	_	_	지급/ncpa+기한/ncn+의/jcm
+2	연장은	연장+은	NOUN	_	15	dislocated	_	_	연장/ncn+은/jxt
+3	거래처의	거래처+의	NOUN	_	4	nmod	_	_	거래처/ncn+의/jcm
+4	매출액이	매출액+이	NOUN	_	6	nsubj	_	_	매출액/ncn+이/jcs
+5	급속해	급속히	ADV	_	6	advmod	_	_	급속히/mag
+6	감소하든지	감소+하+든지	CCONJ	_	10	conj	_	_	감소/ncpa+하/xsv+든지/ecc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	예정된	예정+되+ㄴ	VERB	_	9	acl	_	_	예정/ncpa+되/xsv+ㄴ/etm
+9	입금액이	입금액+이	NOUN	_	10	nsubj	_	_	입금액/ncn+이/jcs
+10	부족한	부족+하+ㄴ	VERB	_	11	amod	_	_	부족/ncps+하/xsm+ㄴ/etm
+11	경우	경우	NOUN	_	12	compound	_	_	경우/ncn
+12	등의	등+의	NOUN	_	14	nmod	_	_	등/nbn+의/jcm
+13	불가피한	불가피하+ㄴ	ADJ	_	14	amod	_	_	불가피하/paa+ㄴ/etm
+14	때에	때+에	ADV	_	15	obl	_	_	때/nbn+에/jca
+15	발생한다	발생+하+ㄴ다	VERB	_	0	root	_	_	발생/ncpa+하/xsv+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 금융기관에 신용을 어기게 되면 차입도 불가능하다 .
+1	금융기관에	금융+기관+에	ADV	_	3	obl	_	_	금융/ncn+기관/ncn+에/jca
+2	신용을	신용+을	NOUN	_	3	obj	_	_	신용/ncpa+을/jco
+3	어기게	어기+게	VERB	_	6	conj	_	_	어기/pvg+게/ecx
+4	되면	되+면	SCONJ	_	3	aux	_	_	되/px+면/ecs
+5	차입도	차입+도	ADV	_	6	advcl	_	_	차입/ncpa+도/jxc
+6	불가능하다	불가능+하+다	VERB	_	0	root	_	_	불가능/ncps+하/xsm+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 신용불안의 영향은 거래처에만 한정되지 않는다 .
+1	신용불안의	신용+불안+의	NOUN	_	2	nmod	_	_	신용/ncpa+불안/ncps+의/jcm
+2	영향은	영향+은	NOUN	_	4	dislocated	_	_	영향/ncn+은/jxt
+3	거래처에만	거래처+에+만	ADV	_	4	advcl	_	_	거래처/ncn+에/jca+만/jxc
+4	한정되지	한정+되+지	VERB	_	0	root	_	_	한정/ncpa+되/xsv+지/ecx
+5	않는다	않+는다	AUX	_	4	aux	_	_	않/px+는다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 금융기고가의 태도 역시 변하여 대출조건이 엄격해지고 점차 신규 대출을 꺼리게 된다 .
+1	금융기고가의	금융+기고가+의	NOUN	_	2	nmod	_	_	금융/ncn+기고가/ncn+의/jcm
+2	태도	태도	NOUN	_	3	dep	_	_	태도/ncn
+3	역시	역시	ADV	_	4	advmod	_	_	역시/mag
+4	변하여	변하+어	SCONJ	_	10	ccomp	_	_	변하/pvg+어/ecs
+5	대출조건이	대출+조건+이	NOUN	_	6	nsubj	_	_	대출/ncpa+조건/ncn+이/jcs
+6	엄격해지고	엄격하+어+지+고	CCONJ	_	10	conj	_	_	엄격하/paa+어/ecx+지/px+고/ecc
+7	점차	점차	ADV	_	10	advmod	_	_	점차/mag
+8	신규	신규	NOUN	_	9	compound	_	_	신규/ncn
+9	대출을	대출+을	NOUN	_	10	obj	_	_	대출/ncpa+을/jco
+10	꺼리게	꺼리+게	VERB	_	0	root	_	_	꺼리/pvg+게/ecx
+11	된다	되+ㄴ다	AUX	_	10	aux	_	_	되/px+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 금융기관으로부터의 일시적인 대출이 막히게 되면 부도를 내지 않고 해결할 수 있는 일도 부도를 내게 되어 도산하게 되는 경우가 많다 .
+1	금융기관으로부터의	금융+기관+으로+부터+의	NOUN	_	3	nmod	_	_	금융/ncn+기관/ncn+으로/jca+부터/jxc+의/jcm
+2	일시적인	일시+적+이+ㄴ	VERB	_	3	acl	_	_	일시/ncn+적/xsn+이/jp+ㄴ/etm
+3	대출이	대출+이	NOUN	_	4	nsubj	_	_	대출/ncpa+이/jcs
+4	막히게	막히+게	VERB	_	16	ccomp	_	_	막히/pvg+게/ecx
+5	되면	되+면	SCONJ	_	4	aux	_	_	되/px+면/ecs
+6	부도를	부도+를	NOUN	_	7	obj	_	_	부도/ncn+를/jco
+7	내지	내+지	VERB	_	9	ccomp	_	_	내/pvg+지/ecx
+8	않고	않+고	SCONJ	_	7	aux	_	_	않/px+고/ecs
+9	해결할	해결+하+ㄹ	VERB	_	12	acl	_	_	해결/ncpa+하/xsv+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있는	있+는	ADJ	_	9	aux	_	_	있/paa+는/etm
+12	일도	일+도	ADV	_	14	advcl	_	_	일/ncn+도/jxc
+13	부도를	부도+를	NOUN	_	14	obj	_	_	부도/ncn+를/jco
+14	내게	내+게	VERB	_	16	ccomp	_	_	내/pvg+게/ecx
+15	되어	되+어	SCONJ	_	14	aux	_	_	되/px+어/ecs
+16	도산하게	도산+하+게	VERB	_	18	acl	_	_	도산/ncpa+하/xsv+게/ecx
+17	되는	되+는	AUX	_	16	aux	_	_	되/px+는/etm
+18	경우가	경우+가	NOUN	_	19	nsubj	_	_	경우/ncn+가/jcs
+19	많다	많+다	ADJ	_	0	root	_	_	많/paa+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 어음에 의한 거래 비중이 높은 요즈음 회사의 도산은 대부분 어음의 부도라는 형태로 표면화된다 .
+1	어음에	어음+에	ADV	_	2	obl	_	_	어음/ncn+에/jca
+2	의한	의하+ㄴ	VERB	_	3	acl	_	_	의하/pvg+ㄴ/etm
+3	거래	거래	NOUN	_	4	compound	_	_	거래/ncpa
+4	비중이	비중+이	NOUN	_	5	nsubj	_	_	비중/ncn+이/jcs
+5	높은	높+ㄴ	ADJ	_	6	amod	_	_	높/paa+ㄴ/etm
+6	요즈음	요즈음	NOUN	_	13	advmod	_	_	요즈음/ncn
+7	회사의	회사+의	NOUN	_	8	nmod	_	_	회사/ncn+의/jcm
+8	도산은	도산+은	NOUN	_	13	dislocated	_	_	도산/ncpa+은/jxt
+9	대부분	대부분	ADV	_	13	advmod	_	_	대부분/mag
+10	어음의	어음+의	NOUN	_	11	nmod	_	_	어음/ncn+의/jcm
+11	부도라는	부도+이+라는	VERB	_	12	acl	_	_	부도/ncn+이/jp+라는/etm
+12	형태로	형태+로	ADV	_	13	advcl	_	_	형태/ncn+로/jca
+13	표면화된다	표면화+되+ㄴ다	VERB	_	0	root	_	_	표면화/ncpa+되/xsv+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그리고 자금이 부족하지 않아도 에정된 입금일정상의 착오나 사소한 실수에 의해 부도를 내는 경우도 있다 .
+1	그리고	그리고	CCONJ	_	14	cc	_	_	그리고/maj
+2	자금이	자금+이	NOUN	_	3	nsubj	_	_	자금/ncn+이/jcs
+3	부족하지	부족+하+지	VERB	_	12	amod	_	_	부족/ncps+하/xsm+지/ecx
+4	않아도	않+아도	SCONJ	_	3	aux	_	_	않/px+아도/ecs
+5	에정된	에정+되+ㄴ	VERB	_	6	acl	_	_	에정/ncpa+되/xsv+ㄴ/etm
+6	입금일정상의	입금+일정+상+의	NOUN	_	7	nmod	_	_	입금/ncpa+일정/ncn+상/xsn+의/jcm
+7	착오나	착오+나	CCONJ	_	9	conj	_	_	착오/ncpa+나/jcj
+8	사소한	사소하+ㄴ	ADJ	_	9	amod	_	_	사소하/paa+ㄴ/etm
+9	실수에	실수+에	ADV	_	10	obl	_	_	실수/ncn+에/jca
+10	의해	의하+어	SCONJ	_	12	ccomp	_	_	의하/pvg+어/ecs
+11	부도를	부도+를	NOUN	_	12	obj	_	_	부도/ncn+를/jco
+12	내는	내+는	VERB	_	13	acl	_	_	내/pvg+는/etm
+13	경우도	경우+도	ADV	_	14	advcl	_	_	경우/ncn+도/jxc
+14	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 하지만 무엇보다도 절대로 부도를 내지 않는다는 마음가짐이 중요하다 .
+1	하지만	하지만	CCONJ	_	8	cc	_	_	하지만/maj
+2	무엇보다도	무엇+보다+도	ADV	_	8	advcl	_	_	무엇/npd+보다/jca+도/jxc
+3	절대로	절대+로	ADV	_	5	advcl	_	_	절대/ncn+로/jca
+4	부도를	부도+를	NOUN	_	5	obj	_	_	부도/ncn+를/jco
+5	내지	내+지	VERB	_	7	acl	_	_	내/pvg+지/ecx
+6	않는다는	않+는다는	AUX	_	5	aux	_	_	않/px+는다는/etm
+7	마음가짐이	마음+가짐+이	NOUN	_	8	nsubj	_	_	마음/ncn+가짐/ncn+이/jcs
+8	중요하다	중요+하+다	VERB	_	0	root	_	_	중요/ncps+하/xsm+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 스스로 도산을 간파할 수 있는가 ?
+1	스스로	스스로	ADV	_	3	advmod	_	_	스스로/mag
+2	도산을	도산+을	NOUN	_	3	obj	_	_	도산/ncpa+을/jco
+3	간파할	간파+하+ㄹ	VERB	_	0	root	_	_	간파/ncpa+하/xsv+ㄹ/etm
+4	수	수	NOUN	_	5	fixed	_	_	수/nbn
+5	있는가	있+는가	ADJ	_	3	aux	_	_	있/paa+는가/ef
+6	?	?	PUNCT	_	5	punct	_	_	?/sf
+
+# 과거에는 상품의 매매대금 결제가 대부분 매월 15 일이나 월말에 이루어졌다 .
+1	과거에는	과거+에+는	NOUN	_	10	dislocated	_	_	과거/ncn+에/jca+는/jxt
+2	상품의	상품+의	NOUN	_	4	nmod	_	_	상품/ncn+의/jcm
+3	매매대금	매매+대금	NOUN	_	4	compound	_	_	매매/ncpa+대금/ncn
+4	결제가	결제+가	NOUN	_	10	nsubj	_	_	결제/ncpa+가/jcs
+5	대부분	대부분	NOUN	_	10	advmod	_	_	대부분/ncn
+6	매월	매월	NOUN	_	8	compound	_	_	매월/ncn
+7	15	15	NUM	_	8	nummod	_	_	15/nno
+8	일이나	일+이나	CCONJ	_	9	conj	_	_	일/nbu+이나/jcj
+9	월말에	월말+에	ADV	_	10	obl	_	_	월말/ncn+에/jca
+10	이루어졌다	이루+어+지+었+다	AUX	_	0	root	_	_	이루/pvg+어/ecx+지/px+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그러나 요즘은 상품매매 등의 대금결제가 매월 15 일이나 월말로 특정되지 않는 경우가 많다 .
+1	그러나	그러나	CCONJ	_	13	cc	_	_	그러나/maj
+2	요즘은	요즘+은	NOUN	_	13	dislocated	_	_	요즘/ncn+은/jxt
+3	상품매매	상품+매매	NOUN	_	4	compound	_	_	상품/ncn+매매/ncpa
+4	등의	등+의	NOUN	_	5	nmod	_	_	등/nbn+의/jcm
+5	대금결제가	대금+결제+가	NOUN	_	10	nsubj	_	_	대금/ncn+결제/ncpa+가/jcs
+6	매월	매월	NOUN	_	8	compound	_	_	매월/ncn
+7	15	15	NUM	_	8	nummod	_	_	15/nnc
+8	일이나	일+이나	CCONJ	_	9	conj	_	_	일/nbu+이나/jcj
+9	월말로	월말+로	ADV	_	10	advcl	_	_	월말/ncn+로/jca
+10	특정되지	특정+되+지	VERB	_	12	acl	_	_	특정/ncpa+되/xsv+지/ecx
+11	않는	않+는	AUX	_	10	aux	_	_	않/px+는/etm
+12	경우가	경우+가	NOUN	_	13	nsubj	_	_	경우/ncn+가/jcs
+13	많다	많+다	ADJ	_	0	root	_	_	많/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 즉 , 거래처별로 제각기 결제시기를 정하고 있는 경우가 많다 .
+1	즉	즉	CCONJ	_	9	cc	_	_	즉/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	거래처별로	거래처별+로	ADV	_	6	advcl	_	_	거래처별/ncn+로/jca
+4	제각기	제각기	ADV	_	6	advmod	_	_	제각기/mag
+5	결제시기를	결제+시기+를	NOUN	_	6	obj	_	_	결제/ncpa+시기/ncn+를/jco
+6	정하고	정하+고	VERB	_	8	acl	_	_	정하/pvg+고/ecx
+7	있는	있+는	AUX	_	6	aux	_	_	있/px+는/etm
+8	경우가	경우+가	NOUN	_	9	nsubj	_	_	경우/ncn+가/jcs
+9	많다	많+다	ADJ	_	0	root	_	_	많/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 따라서 과거와 달리 자금조달이 어려워 도산한다고 해도 어느 시점이 될지 확실히 예측하는 것이 불가능한 실정이다 .
+1	따라서	따라서	CCONJ	_	15	cc	_	_	따라서/maj
+2	과거와	과거+와	CCONJ	_	3	conj	_	_	과거/ncn+와/jct
+3	달리	다르+이	SCONJ	_	14	xcomp	_	_	다르/paa+이/ecs
+4	자금조달이	자금+조달+이	NOUN	_	5	nsubj	_	_	자금/ncn+조달/ncpa+이/jcs
+5	어려워	어렵+어	SCONJ	_	6	xcomp	_	_	어렵/paa+어/ecs
+6	도산한다고	도산+하+ㄴ다+고	VERB	_	7	conj	_	_	도산/ncpa+하/xsv+ㄴ다/ef+고/jcr
+7	해도	하+어도	SCONJ	_	14	conj	_	_	하/pvg+어도/ecs
+8	어느	어느	DET	_	9	det	_	_	어느/mmd
+9	시점이	시점+이	NOUN	_	10	nsubj	_	_	시점/ncn+이/jcs
+10	될지	되+ㄹ지	SCONJ	_	12	ccomp	_	_	되/pvg+ㄹ지/ecs
+11	확실히	확실히	ADV	_	12	advmod	_	_	확실히/mag
+12	예측하는	예측+하+는	VERB	_	13	acl	_	_	예측/ncpa+하/xsv+는/etm
+13	것이	것+이	NOUN	_	14	nsubj	_	_	것/nbn+이/jcs
+14	불가능한	불가능+하+ㄴ	VERB	_	15	amod	_	_	불가능/ncps+하/xsm+ㄴ/etm
+15	실정이다	실정+이+다	VERB	_	0	root	_	_	실정/ncn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 하지만 자금조달을 담당하는 사람은 회사가 언제 도산의 위험에 처할 것인가를 사전에 예측할 수 있어야 한다 .
+1	하지만	하지만	CCONJ	_	12	cc	_	_	하지만/maj
+2	자금조달을	자금+조달+을	NOUN	_	3	obj	_	_	자금/ncn+조달/ncpa+을/jco
+3	담당하는	담당+하+는	VERB	_	4	acl	_	_	담당/ncpa+하/xsv+는/etm
+4	사람은	사람+은	NOUN	_	12	dislocated	_	_	사람/ncn+은/jxt
+5	회사가	회사+가	NOUN	_	9	nsubj	_	_	회사/ncn+가/jcs
+6	언제	언제	ADV	_	9	advmod	_	_	언제/mad
+7	도산의	도산+의	NOUN	_	8	nmod	_	_	도산/ncpa+의/jcm
+8	위험에	위험+에	ADV	_	9	obl	_	_	위험/ncpa+에/jca
+9	처할	처하+ㄹ	VERB	_	12	obj	_	_	처하/pvg+ㄹ/etm
+10	것인가를	것+이+ㄴ가+를	NOUN	_	9	aux	_	_	것/nbn+이/jp+ㄴ가/ef+를/jco
+11	사전에	사전+에	ADV	_	12	obl	_	_	사전/ncn+에/jca
+12	예측할	예측+하+ㄹ	VERB	_	0	root	_	_	예측/ncpa+하/xsv+ㄹ/etm
+13	수	수	NOUN	_	14	fixed	_	_	수/nbn
+14	있어야	있+어야	ADJ	_	12	aux	_	_	있/paa+어야/ecx
+15	한다	하+ㄴ다	AUX	_	12	aux	_	_	하/px+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 따라서 만약 부족자금이 발생하는 그 시점에 자금대책이 수립되어 있지 않다면 , 그 달에는 도산이 필연적이라는 것을 미리 알게 된다 .
+1	따라서	따라서	CCONJ	_	18	cc	_	_	따라서/maj
+2	만약	만약	ADV	_	8	advmod	_	_	만약/mag
+3	부족자금이	부족+자금+이	NOUN	_	4	nsubj	_	_	부족/ncps+자금/ncn+이/jcs
+4	발생하는	발생+하+는	VERB	_	6	acl	_	_	발생/ncpa+하/xsv+는/etm
+5	그	그	DET	_	6	det	_	_	그/mmd
+6	시점에	시점+에	ADV	_	8	obl	_	_	시점/ncn+에/jca
+7	자금대책이	자금+대책+이	NOUN	_	8	nsubj	_	_	자금/ncn+대책/ncpa+이/jcs
+8	수립되어	수립+되+어	VERB	_	15	ccomp	_	_	수립/ncpa+되/xsv+어/ecx
+9	있지	있+지	AUX	_	8	aux	_	_	있/px+지/ecx
+10	않다면	않+다면	SCONJ	_	8	aux	_	_	않/px+다면/ecs
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	그	그	DET	_	13	det	_	_	그/mmd
+13	달에는	달+에+는	NOUN	_	15	dislocated	_	_	달/ncn+에/jca+는/jxt
+14	도산이	도산+이	NOUN	_	15	nsubj	_	_	도산/ncpa+이/jcs
+15	필연적이라는	필연+적+이+라는	VERB	_	16	acl	_	_	필연/ncn+적/xsn+이/jp+라는/etm
+16	것을	것+을	NOUN	_	18	obj	_	_	것/nbn+을/jco
+17	미리	미리	ADV	_	18	advmod	_	_	미리/mag
+18	알게	알+게	VERB	_	0	root	_	_	알/pvg+게/ecx
+19	된다	되+ㄴ다	AUX	_	18	aux	_	_	되/px+ㄴ다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 경기회복기에 도산하는 기업이 많다 .
+1	경기회복기에	경기+회복기+에	ADV	_	2	obl	_	_	경기/nq+회복기/ncn+에/jca
+2	도산하는	도산+하+는	VERB	_	3	acl	_	_	도산/ncpa+하/xsv+는/etm
+3	기업이	기업+이	NOUN	_	4	nsubj	_	_	기업/ncn+이/jcs
+4	많다	많+다	ADJ	_	0	root	_	_	많/paa+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 자금대책은 경기회복기에 더욱 중요하다 .
+1	자금대책은	자금+대책+은	NOUN	_	4	dislocated	_	_	자금/ncn+대책/ncpa+은/jxt
+2	경기회복기에	경기+회복기+에	ADV	_	4	obl	_	_	경기/nq+회복기/ncn+에/jca
+3	더욱	더욱	ADV	_	4	advmod	_	_	더욱/mag
+4	중요하다	중요+하+다	VERB	_	0	root	_	_	중요/ncps+하/xsm+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 기나긴 불황의 터널을 지나게 되면 모든 회사는 안심하고 일단 한숨을 돌리게 된다 .
+1	기나긴	기나긴	ADJ	_	3	amod	_	_	기나긴/mma
+2	불황의	불황+의	NOUN	_	3	nmod	_	_	불황/ncn+의/jcm
+3	터널을	터널+을	NOUN	_	4	obj	_	_	터널/ncn+을/jco
+4	지나게	지나+게	VERB	_	11	ccomp	_	_	지나/pvg+게/ecx
+5	되면	되+면	SCONJ	_	4	aux	_	_	되/px+면/ecs
+6	모든	모든	DET	_	7	det	_	_	모든/mmd
+7	회사는	회사+는	NOUN	_	8	dislocated	_	_	회사/ncn+는/jxt
+8	안심하고	안심+하+고	CCONJ	_	11	conj	_	_	안심/ncpa+하/xsv+고/ecc
+9	일단	일단	ADV	_	11	advmod	_	_	일단/mag
+10	한숨을	한숨+을	NOUN	_	11	obj	_	_	한숨/ncn+을/jco
+11	돌리게	돌리+게	VERB	_	0	root	_	_	돌리/pvg+게/ecx
+12	된다	되+ㄴ다	AUX	_	11	aux	_	_	되/px+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 불황기에는 어느 회사든지 얼마 안 되는 매출액과 이익을 보충하기 위해 긴축적으로 지출을 통제하게 된다 .
+1	불황기에는	불황기+에+는	NOUN	_	13	dislocated	_	_	불황기/ncn+에/jca+는/jxt
+2	어느	어느	DET	_	3	det	_	_	어느/mmd
+3	회사든지	회사+든지	ADV	_	13	advcl	_	_	회사/ncn+든지/jxc
+4	얼마	얼마	NOUN	_	6	advmod	_	_	얼마/ncn
+5	안	안	ADV	_	6	advmod	_	_	안/mag
+6	되는	되+는	VERB	_	8	acl	_	_	되/pvg+는/etm
+7	매출액과	매출액+과	CCONJ	_	8	conj	_	_	매출액/ncn+과/jcj
+8	이익을	이익+을	NOUN	_	9	obj	_	_	이익/ncn+을/jco
+9	보충하기	보충+하+기	VERB	_	10	nmod	_	_	보충/ncpa+하/xsv+기/etn
+10	위해	위하+어	SCONJ	_	13	ccomp	_	_	위하/pvg+어/ecs
+11	긴축적으로	긴축+적+으로	ADV	_	13	advcl	_	_	긴축/ncpa+적/xsn+으로/jca
+12	지출을	지출+을	NOUN	_	13	obj	_	_	지출/ncpa+을/jco
+13	통제하게	통제+하+게	VERB	_	0	root	_	_	통제/ncpa+하/xsv+게/ecx
+14	된다	되+ㄴ다	AUX	_	13	aux	_	_	되/px+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 예를 들어 결제조건에 있어 지급어음의 기낳연장 , 현금결제조건에서 어음결제조건으로의 전환 등 여러 가지 유형의 자금지출억제책을 강구하여 시행하게 된다 .
+1	예를	예+를	NOUN	_	2	obj	_	_	예/ncn+를/jco
+2	들어	들+어	SCONJ	_	17	ccomp	_	_	들/pvg+어/ecs
+3	결제조건에	결제+조건+에	ADV	_	4	obl	_	_	결제/ncpa+조건/ncn+에/jca
+4	있어	있+어	SCONJ	_	16	xcomp	_	_	있/paa+어/ecs
+5	지급어음의	지급+어음+의	NOUN	_	6	nmod	_	_	지급/ncpa+어음/ncn+의/jcm
+6	기낳연장	기납+연장	NOUN	_	10	compound	_	_	기납/ncn+연장/ncpa
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	현금결제조건에서	현금+결제+조건+에서	ADV	_	9	advcl	_	_	현금/ncn+결제/ncpa+조건/ncn+에서/jca
+9	어음결제조건으로의	어음+결제+조건+으로+의	NOUN	_	10	nmod	_	_	어음/ncn+결제/ncpa+조건/ncn+으로/jca+의/jcm
+10	전환	전환	NOUN	_	11	compound	_	_	전환/ncn
+11	등	등	NOUN	_	15	mark	_	_	등/nbn
+12	여러	여러	ADJ	_	13	amod	_	_	여러/mma
+13	가지	가지	NOUN	_	14	mark	_	_	가지/nbn
+14	유형의	유형+의	NOUN	_	15	nmod	_	_	유형/ncn+의/jcm
+15	자금지출억제책을	자금+지출+억제책+을	NOUN	_	16	obj	_	_	자금/ncn+지출/ncpa+억제책/ncn+을/jco
+16	강구하여	강구+하+어	SCONJ	_	17	ccomp	_	_	강구/ncpa+하/xsv+어/ecs
+17	시행하게	시행+하+게	VERB	_	0	root	_	_	시행/ncpa+하/xsv+게/ecx
+18	된다	되+ㄴ다	AUX	_	17	aux	_	_	되/px+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 하지만 이러한 자금대책도 불황의 마지막 시점에 도달하면 효과가 없어지게 된다 .
+1	하지만	하지만	CCONJ	_	9	cc	_	_	하지만/maj
+2	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+3	자금대책도	자금+대책+도	ADV	_	9	advcl	_	_	자금/ncn+대책/ncpa+도/jxc
+4	불황의	불황+의	NOUN	_	6	nmod	_	_	불황/ncn+의/jcm
+5	마지막	마지막	NOUN	_	6	compound	_	_	마지막/ncn
+6	시점에	시점+에	ADV	_	7	obl	_	_	시점/ncn+에/jca
+7	도달하면	도달+하+면	SCONJ	_	9	conj	_	_	도달/ncpa+하/xsv+면/ecs
+8	효과가	효과+가	NOUN	_	9	nsubj	_	_	효과/ncn+가/jcs
+9	없어지게	없+어+지+게	AUX	_	0	root	_	_	없/paa+어/ecx+지/px+게/ecx
+10	된다	되+ㄴ다	AUX	_	9	aux	_	_	되/px+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 결국 지급조건을 연기한다는 것은 일시적으로 자금조달을 편하게 하는 단기대책은 될 수 있으나 , 장기간에 걸쳐 효과를 볼 수 있는 대책은 못된다 .
+1	결국	결국	ADV	_	21	advmod	_	_	결국/mag
+2	지급조건을	지급+조건+을	NOUN	_	3	obj	_	_	지급/ncpa+조건/ncn+을/jco
+3	연기한다는	연기+하+ㄴ다는	VERB	_	4	acl	_	_	연기/ncpa+하/xsv+ㄴ다는/etm
+4	것은	것+은	NOUN	_	21	dislocated	_	_	것/nbn+은/jxt
+5	일시적으로	일시+적+으로	ADV	_	8	advcl	_	_	일시/ncn+적/xsn+으로/jca
+6	자금조달을	자금+조달+을	NOUN	_	8	obj	_	_	자금/ncn+조달/ncpa+을/jco
+7	편하게	편하+게	SCONJ	_	8	xcomp	_	_	편하/paa+게/ecs
+8	하는	하+는	VERB	_	9	acl	_	_	하/pvg+는/etm
+9	단기대책은	단기+대책+은	NOUN	_	10	dislocated	_	_	단기/ncn+대책/ncpa+은/jxt
+10	될	되+ㄹ	VERB	_	21	dep	_	_	되/pvg+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있으나	있+으나	SCONJ	_	10	aux	_	_	있/paa+으나/ecs
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	장기간에	장기간+에	ADV	_	15	obl	_	_	장기간/ncn+에/jca
+15	걸쳐	걸치+어	SCONJ	_	17	ccomp	_	_	걸치/pvg+어/ecs
+16	효과를	효과+를	NOUN	_	17	obj	_	_	효과/ncn+를/jco
+17	볼	보+ㄹ	VERB	_	20	acl	_	_	보/pvg+ㄹ/etm
+18	수	수	NOUN	_	19	fixed	_	_	수/nbn
+19	있는	있+는	ADJ	_	17	aux	_	_	있/paa+는/etm
+20	대책은	대책+은	NOUN	_	21	dislocated	_	_	대책/ncpa+은/jxt
+21	못된다	못되+ㄴ다	ADJ	_	0	root	_	_	못되/paa+ㄴ다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 따라서 불황이 계속되다 경기가 회복기로 진입하는 시점에 이르면 자금대채금 효과가 약해져서 마침내 도산하게 되는 경우가 의외로 많다 .
+1	따라서	따라서	CCONJ	_	17	cc	_	_	따라서/maj
+2	불황이	불황+이	NOUN	_	3	nsubj	_	_	불황/ncn+이/jcs
+3	계속되다	계속+되+다	SCONJ	_	6	ccomp	_	_	계속/ncpa+되/xsv+다/ecs
+4	경기가	경기+가	NOUN	_	6	nsubj	_	_	경기/ncn+가/jcs
+5	회복기로	회복기+로	ADV	_	6	advcl	_	_	회복기/ncn+로/jca
+6	진입하는	진입+하+는	VERB	_	7	acl	_	_	진입/ncpa+하/xsv+는/etm
+7	시점에	시점+에	ADV	_	8	obl	_	_	시점/ncn+에/jca
+8	이르면	이르+면	SCONJ	_	11	conj	_	_	이르/pvg+면/ecs
+9	자금대채금	자금+대체금	NOUN	_	10	compound	_	_	자금/ncn+대체금/ncn
+10	효과가	효과+가	NOUN	_	11	nsubj	_	_	효과/ncn+가/jcs
+11	약해져서	약하+어+지+어서	SCONJ	_	13	xcomp	_	_	약하/paa+어/ecx+지/px+어서/ecs
+12	마침내	마침내	ADV	_	13	advmod	_	_	마침내/mag
+13	도산하게	도산+하+게	VERB	_	15	acl	_	_	도산/ncpa+하/xsv+게/ecx
+14	되는	되+는	AUX	_	13	aux	_	_	되/px+는/etm
+15	경우가	경우+가	NOUN	_	17	nsubj	_	_	경우/ncn+가/jcs
+16	의외로	의외+로	ADV	_	17	advcl	_	_	의외/ncps+로/jca
+17	많다	많+다	ADJ	_	0	root	_	_	많/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 더욱이 거래처 중 한 회사에서 부도를 내기라도 한다면 그 여파로 연쇄도산현상이 나타날 수도 있다 .
+1	더욱이	더욱이	ADV	_	8	advmod	_	_	더욱이/mag
+2	거래처	거래처	NOUN	_	3	compound	_	_	거래처/ncn
+3	중	중	NOUN	_	5	mark	_	_	중/nbn
+4	한	한	NUM	_	5	nummod	_	_	한/nnc
+5	회사에서	회사+에서	ADV	_	7	advcl	_	_	회사/ncn+에서/jca
+6	부도를	부도+를	NOUN	_	7	obj	_	_	부도/ncn+를/jco
+7	내기라도	내+기+라도	ADV	_	8	advcl	_	_	내/pvg+기/etn+라도/jxc
+8	한다면	하+ㄴ다면	SCONJ	_	12	ccomp	_	_	하/pvg+ㄴ다면/ecs
+9	그	그	DET	_	10	det	_	_	그/mmd
+10	여파로	여파+로	ADV	_	12	advcl	_	_	여파/ncn+로/jca
+11	연쇄도산현상이	연쇄+도산+현상+이	NOUN	_	12	nsubj	_	_	연쇄/ncpa+도산/ncpa+현상/ncn+이/jcs
+12	나타날	나타나+ㄹ	VERB	_	0	root	_	_	나타나/pvg+ㄹ/etm
+13	수도	수+도	ADV	_	14	fixed	_	_	수/nbn+도/jxc
+14	있다	있+다	ADJ	_	12	aux	_	_	있/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+

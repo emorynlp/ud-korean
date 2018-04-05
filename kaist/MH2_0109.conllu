@@ -1,0 +1,270 @@
+# 그러므로 그것은 마침내 민족항쟁사 곧 독립운동사에 귀결된다 .
+1	그러므로	그러므로	CCONJ	_	7	cc	_	_	그러므로/maj
+2	그것은	그것+은	PRON	_	7	dislocated	_	_	그것/npd+은/jxt
+3	마침내	마침내	ADV	_	7	advmod	_	_	마침내/mag
+4	민족항쟁사	민족+항쟁사	NOUN	_	6	conj	_	_	민족/ncn+항쟁사/ncn
+5	곧	곧	CCONJ	_	6	cc	_	_	곧/maj
+6	독립운동사에	독립+운동사+에	ADV	_	7	obl	_	_	독립/ncpa+운동사/ncn+에/jca
+7	귀결된다	귀결+되+ㄴ다	VERB	_	0	root	_	_	귀결/ncpa+되/xsv+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 다시 말하면 민족항쟁사는 민족의 형성을 전제 조건으로 할 뿐 아니라 민족의식의 자각을 핵심으로 한다 .
+1	다시	다시	ADV	_	2	advmod	_	_	다시/mag
+2	말하면	말하+면	SCONJ	_	14	advcl	_	_	말하/pvg+면/ecs
+3	민족항쟁사는	민족+항쟁사+는	NOUN	_	14	dislocated	_	_	민족/ncn+항쟁사/ncn+는/jxt
+4	민족의	민족+의	NOUN	_	5	nmod	_	_	민족/ncn+의/jcm
+5	형성을	형성+을	NOUN	_	8	obj	_	_	형성/ncpa+을/jco
+6	전제	전제	NOUN	_	7	compound	_	_	전제/ncn
+7	조건으로	조건+으로	ADV	_	8	advcl	_	_	조건/ncn+으로/jca
+8	할	하+ㄹ	VERB	_	14	ccomp	_	_	하/pvg+ㄹ/etm
+9	뿐	뿐	NOUN	_	10	fixed	_	_	뿐/nbn
+10	아니라	아니+라	SCONJ	_	8	aux	_	_	아니/paa+라/ecs
+11	민족의식의	민족+의식+의	NOUN	_	12	nmod	_	_	민족/ncn+의식/ncpa+의/jcm
+12	자각을	자각+을	NOUN	_	14	obj	_	_	자각/ncpa+을/jco
+13	핵심으로	핵심+으로	ADV	_	14	advcl	_	_	핵심/ncn+으로/jca
+14	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그러므로 우리의 민족운동사는 이러한 전과정을 정리하는 것이 아니요 , 우리 민족이 형성된 이후로부터 시작되어야 하는 것이다 .
+1	그러므로	그러므로	CCONJ	_	14	cc	_	_	그러므로/maj
+2	우리의	우리+의	PRON	_	3	nmod	_	_	우리/npp+의/jcm
+3	민족운동사는	민족+운동사+는	NOUN	_	14	dislocated	_	_	민족/ncn+운동사/ncn+는/jxt
+4	이러한	이러하+ㄴ	VERB	_	5	amod	_	_	이러하/pad+ㄴ/etm
+5	전과정을	전과정+을	NOUN	_	6	obj	_	_	전과정/ncn+을/jco
+6	정리하는	정리+하+는	VERB	_	7	acl	_	_	정리/ncpa+하/xsv+는/etm
+7	것이	것+이	NOUN	_	8	csubj	_	_	것/nbn+이/jcc
+8	아니요	아니+요	CCONJ	_	14	conj	_	_	아니/paa+요/ecc
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	우리	우리	PRON	_	11	compound	_	_	우리/npp
+11	민족이	민족+이	NOUN	_	12	csubj	_	_	민족/ncn+이/jcc
+12	형성된	형성+되+ㄴ	VERB	_	13	acl	_	_	형성/ncpa+되/xsv+ㄴ/etm
+13	이후로부터	이후+로+부터	ADV	_	14	advcl	_	_	이후/ncn+로/jca+부터/jxc
+14	시작되어야	시작+되+어야	VERB	_	0	root	_	_	시작/ncpa+되/xsv+어야/ecx
+15	하는	하+는	AUX	_	14	aux	_	_	하/px+는/etm
+16	것이다	것+이+다	VERB	_	14	aux	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 엄밀히 말해서 삼국시대까지도 단일민족은 이루어지지 않았고 , 따라서 하나의 민족이라는 공동의식이란 것이 없었다 .
+1	엄밀히	엄밀+히	ADV	_	2	advmod	_	_	엄밀/ncps+히/xsa
+2	말해서	말하+어서	SCONJ	_	5	ccomp	_	_	말하/pvg+어서/ecs
+3	삼국시대까지도	삼국시대+까지+도	ADV	_	5	advcl	_	_	삼국시대/ncn+까지/jxc+도/jxc
+4	단일민족은	단일+민족+은	NOUN	_	5	dislocated	_	_	단일/ncps+민족/ncn+은/jxt
+5	이루어지지	이루+어+지+지	AUX	_	13	conj	_	_	이루/pvg+어/ecx+지/px+지/ecx
+6	않았고	않+았+고	CCONJ	_	5	aux	_	_	않/px+았/ep+고/ecc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	따라서	따라서	ADV	_	13	advmod	_	_	따라서/mag
+9	하나의	하나+의	NOUN	_	10	nmod	_	_	하나/ncn+의/jcm
+10	민족이라는	민족+이+라는	VERB	_	11	ccomp	_	_	민족/ncn+이/jp+라는/etm
+11	공동의식이란	공동+의식+이+란	VERB	_	12	acl	_	_	공동/ncn+의식/ncpa+이/jp+란/etm
+12	것이	것+이	NOUN	_	13	nsubj	_	_	것/nbn+이/jcs
+13	없었다	없+었+다	ADJ	_	0	root	_	_	없/paa+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 있었다면 그것은 고구려와 백제와 신라가 별개의 국가의식으로 뭉쳐 있었다는 말이다 .
+1	있었다면	있+었+다면	SCONJ	_	10	xcomp	_	_	있/paa+었/ep+다면/ecs
+2	그것은	그것+은	PRON	_	10	dislocated	_	_	그것/npd+은/jxt
+3	고구려와	고구려+와	CCONJ	_	4	conj	_	_	고구려/nq+와/jcj
+4	백제와	백제+와	CCONJ	_	5	conj	_	_	백제/nq+와/jcj
+5	신라가	신라+가	PROPN	_	8	nsubj	_	_	신라/nq+가/jcs
+6	별개의	별개+의	NOUN	_	7	nmod	_	_	별개/ncn+의/jcm
+7	국가의식으로	국가+의식+으로	ADV	_	8	advcl	_	_	국가/ncn+의식/ncpa+으로/jca
+8	뭉쳐	뭉치+어	VERB	_	10	ccomp	_	_	뭉치/pvg+어/ecx
+9	있었다는	있+었+다는	AUX	_	8	aux	_	_	있/px+었/ep+다는/etm
+10	말이다	말+이+다	VERB	_	0	root	_	_	말/ncpa+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 바꿔 말하면 삼국은 제가끔 고구려민족 , 신라민족을 이루려는 별개의 움직임이 잇었을 뿐이라는 말이다 .
+1	바꿔	바꾸+어	SCONJ	_	2	ccomp	_	_	바꾸/pvg+어/ecs
+2	말하면	말하+면	SCONJ	_	13	ccomp	_	_	말하/pvg+면/ecs
+3	삼국은	삼국+은	NOUN	_	8	dislocated	_	_	삼국/ncn+은/jxt
+4	제가끔	제가끔	ADV	_	8	advmod	_	_	제가끔/mag
+5	고구려민족	고구려+민족	NOUN	_	7	conj	_	_	고구려/nq+민족/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	신라민족을	신라+민족+을	PROPN	_	8	obj	_	_	신라/nq+민족/ncn+을/jco
+8	이루려는	이루+려는	VERB	_	10	acl	_	_	이루/pvg+려는/etm
+9	별개의	별개+의	NOUN	_	10	nmod	_	_	별개/ncn+의/jcm
+10	움직임이	움직이+ㅁ+이	NOUN	_	11	nsubj	_	_	움직이/pvg+ㅁ/etn+이/jcs
+11	잇었을	있+었+ㄹ	ADJ	_	13	amod	_	_	있/paa+었/ep+ㄹ/etm
+12	뿐이라는	뿐+이+라는	VERB	_	11	aux	_	_	뿐/nbn+이/jp+라는/etm
+13	말이다	말+이+다	VERB	_	0	root	_	_	말/ncpa+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 다시 말하면 민족이 형성되기 전의 , 민족의식이 발생하기 전의 역사를 민족이 형성된 후의 민족의식의 눈으로 본다는 말이다 .
+1	다시	다시	ADV	_	2	advmod	_	_	다시/mag
+2	말하면	말하+면	SCONJ	_	17	advcl	_	_	말하/pvg+면/ecs
+3	민족이	민족+이	NOUN	_	4	nsubj	_	_	민족/ncn+이/jcs
+4	형성되기	형성+되+기	VERB	_	5	nmod	_	_	형성/ncpa+되/xsv+기/etn
+5	전의	전+의	NOUN	_	9	dep	_	_	전/ncn+의/jcm
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	민족의식이	민족+의식+이	NOUN	_	8	nsubj	_	_	민족/ncn+의식/ncpa+이/jcs
+8	발생하기	발생+하+기	VERB	_	9	nmod	_	_	발생/ncpa+하/xsv+기/etn
+9	전의	전+의	NOUN	_	10	nmod	_	_	전/ncn+의/jcm
+10	역사를	역사+를	NOUN	_	16	obj	_	_	역사/ncn+를/jco
+11	민족이	민족+이	NOUN	_	12	nsubj	_	_	민족/ncn+이/jcs
+12	형성된	형성+되+ㄴ	VERB	_	13	acl	_	_	형성/ncpa+되/xsv+ㄴ/etm
+13	후의	후+의	NOUN	_	14	nmod	_	_	후/ncn+의/jcm
+14	민족의식의	민족+의식+의	NOUN	_	15	nmod	_	_	민족/ncn+의식/ncpa+의/jcm
+15	눈으로	눈+으로	ADV	_	16	advcl	_	_	눈/ncn+으로/jca
+16	본다는	보+ㄴ다는	VERB	_	17	ccomp	_	_	보/pvg+ㄴ다는/etm
+17	말이다	말+이+다	VERB	_	0	root	_	_	말/ncpa+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이 때문에 통일신라는 우리 민족과 문화의 고전시대로 등장하는 것이다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	때문에	때문+에	ADV	_	8	obl	_	_	때문/nbn+에/jca
+3	통일신라는	통일신라+는	PROPN	_	8	dislocated	_	_	통일신라/nq+는/jxt
+4	우리	우리	PRON	_	6	compound	_	_	우리/npp
+5	민족과	민족+과	CCONJ	_	6	conj	_	_	민족/ncn+과/jcj
+6	문화의	문화+의	NOUN	_	7	nmod	_	_	문화/ncn+의/jcm
+7	고전시대로	고전시대+로	ADV	_	8	advcl	_	_	고전시대/ncn+로/jca
+8	등장하는	등장+하+는	VERB	_	0	root	_	_	등장/ncpa+하/xsv+는/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러나 이것도 근대적 의미의 민족의식의 자각은 아니었다 .
+1	그러나	그러나	CCONJ	_	7	cc	_	_	그러나/maj
+2	이것도	이것+도	ADV	_	7	advcl	_	_	이것/npd+도/jxc
+3	근대적	근대+적	NOUN	_	4	amod	_	_	근대/ncn+적/xsn
+4	의미의	의미+의	NOUN	_	5	nmod	_	_	의미/ncpa+의/jcm
+5	민족의식의	민족+의식+의	NOUN	_	6	nmod	_	_	민족/ncn+의식/ncpa+의/jcm
+6	자각은	자각+은	NOUN	_	7	dislocated	_	_	자각/ncpa+은/jxt
+7	아니었다	아니+었+다	ADJ	_	0	root	_	_	아니/paa+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 오늘의 한국 판도는 고려말의 쌍성 수복과 세종조의 6진과 4군 개척으로 확정된 것이다 .
+1	오늘의	오늘+의	NOUN	_	3	nmod	_	_	오늘/ncn+의/jcm
+2	한국	한국	PROPN	_	3	compound	_	_	한국/nq
+3	판도는	판도+는	NOUN	_	11	dislocated	_	_	판도/ncn+는/jxt
+4	고려말의	고려+말+의	PROPN	_	6	nmod	_	_	고려/nq+말/ncn+의/jcm
+5	쌍성	쌍성	PROPN	_	6	compound	_	_	쌍성/nq
+6	수복과	수복+과	CCONJ	_	10	conj	_	_	수복/ncpa+과/jcj
+7	세종조의	세종조+의	PROPN	_	10	nmod	_	_	세종조/nq+의/jcm
+8	6진과	6진+과	CCONJ	_	9	conj	_	_	6진/nq+과/jcj
+9	4군	4군	PROPN	_	10	compound	_	_	4군/nq
+10	개척으로	개척+으로	ADV	_	11	advcl	_	_	개척/ncpa+으로/jca
+11	확정된	확정+되+ㄴ	VERB	_	0	root	_	_	확정/ncpa+되/xsv+ㄴ/etm
+12	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 6진과 4군 설치를 계기로 한 인종혼합이랬자 주로 북방계인 여진족이어서 인류학적으로는 그다지 문제가 되지 않는다 .
+1	6진과	6진+과	CCONJ	_	2	conj	_	_	6진/nq+과/jcj
+2	4군	4군	PROPN	_	3	compound	_	_	4군/nq
+3	설치를	설치+를	NOUN	_	5	obj	_	_	설치/ncpa+를/jco
+4	계기로	계기+로	ADV	_	5	advcl	_	_	계기/ncn+로/jca
+5	한	하+ㄴ	VERB	_	6	ccomp	_	_	하/pvg+ㄴ/etm
+6	인종혼합이랬자	인종+혼합+이+랬자	SCONJ	_	9	ccomp	_	_	인종/ncn+혼합/ncn+이/jp+랬자/ecs
+7	주로	주로	ADV	_	9	advmod	_	_	주로/mag
+8	북방계인	북방계+이+ㄴ	VERB	_	9	ccomp	_	_	북방계/ncn+이/jp+ㄴ/etm
+9	여진족이어서	여진족+이+어서	SCONJ	_	13	ccomp	_	_	여진족/ncn+이/jp+어서/ecs
+10	인류학적으로는	인류학+적+으로+는	NOUN	_	13	dislocated	_	_	인류학/ncn+적/xsn+으로/jca+는/jxt
+11	그다지	그다지	ADV	_	13	advmod	_	_	그다지/mag
+12	문제가	문제+가	NOUN	_	13	csubj	_	_	문제/ncn+가/jcc
+13	되지	되+지	VERB	_	0	root	_	_	되/pvg+지/ecx
+14	않는다	않+는다	AUX	_	13	aux	_	_	않/px+는다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이 시기에 이르러 비로소 타민족에 대한 공동의식의 자각이 자극된 것이 사실이다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	시기에	시기+에	ADV	_	3	obl	_	_	시기/ncn+에/jca
+3	이르러	이르+어	SCONJ	_	9	ccomp	_	_	이르/pvg+어/ecs
+4	비로소	비로소	ADV	_	9	advmod	_	_	비로소/mag
+5	타민족에	타민족+에	ADV	_	6	obl	_	_	타민족/ncn+에/jca
+6	대한	대하+ㄴ	VERB	_	7	acl	_	_	대하/pvg+ㄴ/etm
+7	공동의식의	공동+의식+의	NOUN	_	8	nmod	_	_	공동/ncn+의식/ncpa+의/jcm
+8	자각이	자각+이	NOUN	_	9	csubj	_	_	자각/ncpa+이/jcc
+9	자극된	자극+되+ㄴ	VERB	_	10	acl	_	_	자극/ncpa+되/xsv+ㄴ/etm
+10	것이	것+이	NOUN	_	11	nsubj	_	_	것/nbn+이/jcs
+11	사실이다	사실+이+다	VERB	_	0	root	_	_	사실/ncn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 병자의 두 난은 바로 이 문제시하지도 않던 무리들에게 짓밟힘으로써 인식을 새로이 하지 않으면 안 되게 되었던 것이다 .
+1	병자의	병자+의	NOUN	_	3	nmod	_	_	병자/ncn+의/jcm
+2	두	두	NUM	_	3	nummod	_	_	두/nnc
+3	난은	난+은	NOUN	_	17	dislocated	_	_	난/ncn+은/jxt
+4	바로	바로	ADV	_	9	advmod	_	_	바로/mag
+5	이	이	DET	_	8	det	_	_	이/mmd
+6	문제시하지도	문제시+하+지+도	ADV	_	8	acl	_	_	문제시/ncpa+하/xsv+지/ecx+도/jxc
+7	않던	않+던	AUX	_	6	aux	_	_	않/px+던/etm
+8	무리들에게	무리+들+에게	ADV	_	9	iobj	_	_	무리/ncn+들/xsn+에게/jca
+9	짓밟힘으로써	짓밟히+ㅁ+으로써	ADV	_	12	advcl	_	_	짓밟히/pvg+ㅁ/etn+으로써/jca
+10	인식을	인식+을	NOUN	_	12	obj	_	_	인식/ncpa+을/jco
+11	새로이	새로이	ADV	_	12	advmod	_	_	새로이/mag
+12	하지	하+지	VERB	_	15	ccomp	_	_	하/pvg+지/ecx
+13	않으면	않+으면	SCONJ	_	12	aux	_	_	않/px+으면/ecs
+14	안	안	ADV	_	15	advmod	_	_	안/mag
+15	되게	되+게	VERB	_	17	ccomp	_	_	되/pvg+게/ecx
+16	되었던	되+었+던	AUX	_	15	aux	_	_	되/px+었/ep+던/etm
+17	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 정미의 의병은 물론 해외 망명 독립항쟁에 있어서도 초기의 지도층은 거개가 유림에 의해서 이루어졌다는 사실을 우리는 승인하지 않을 수 없는 것이다 .
+1	정미의	정미+의	NOUN	_	2	nmod	_	_	정미/ncn+의/jcm
+2	의병은	의병+은	NOUN	_	3	dislocated	_	_	의병/ncn+은/jxt
+3	물론	물론	ADV	_	7	advmod	_	_	물론/mag
+4	해외	해외	NOUN	_	5	compound	_	_	해외/ncn
+5	망명	망명	NOUN	_	6	compound	_	_	망명/ncpa
+6	독립항쟁에	독립+항쟁+에	ADV	_	7	obl	_	_	독립/ncpa+항쟁/ncpa+에/jca
+7	있어서도	있+어서+도	ADV	_	13	amod	_	_	있/paa+어서/ecs+도/jxc
+8	초기의	초기+의	NOUN	_	9	nmod	_	_	초기/ncn+의/jcm
+9	지도층은	지도층+은	NOUN	_	13	dislocated	_	_	지도층/ncn+은/jxt
+10	거개가	거개+가	NOUN	_	13	nsubj	_	_	거개/ncn+가/jcs
+11	유림에	유림+에	ADV	_	12	obl	_	_	유림/ncn+에/jca
+12	의해서	의하+어서	SCONJ	_	13	ccomp	_	_	의하/pvg+어서/ecs
+13	이루어졌다는	이루+어+지+었+다는	AUX	_	14	acl	_	_	이루/pvg+어/ecx+지/px+었/ep+다는/etm
+14	사실을	사실+을	NOUN	_	16	obj	_	_	사실/ncn+을/jco
+15	우리는	우리+는	PRON	_	16	dislocated	_	_	우리/npp+는/jxt
+16	승인하지	승인+하+지	VERB	_	0	root	_	_	승인/ncpa+하/xsv+지/ecx
+17	않을	않+ㄹ	AUX	_	16	aux	_	_	않/px+ㄹ/etm
+18	수	수	NOUN	_	19	fixed	_	_	수/nbn
+19	없는	없+는	ADJ	_	16	aux	_	_	없/paa+는/etm
+20	것이다	것+이+다	VERB	_	16	aux	_	_	것/nbn+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 우리는 앞에서 우리의 대이민족 투쟁의 전근대적 성격을 규명해 보았다 .
+1	우리는	우리+는	PRON	_	8	dislocated	_	_	우리/npp+는/jxt
+2	앞에서	앞+에서	ADV	_	8	advcl	_	_	앞/ncn+에서/jca
+3	우리의	우리+의	PRON	_	5	nmod	_	_	우리/npp+의/jcm
+4	대이민족	대이민족	NOUN	_	5	compound	_	_	대이민족/ncn
+5	투쟁의	투쟁+의	NOUN	_	7	nmod	_	_	투쟁/ncpa+의/jcm
+6	전근대적	전근대+적	NOUN	_	7	amod	_	_	전근대/ncn+적/xsn
+7	성격을	성격+을	NOUN	_	8	obj	_	_	성격/ncn+을/jco
+8	규명해	규명+하+어	VERB	_	0	root	_	_	규명/ncpa+하/xsv+어/ecx
+9	보았다	보+았+다	AUX	_	8	aux	_	_	보/px+았/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 우리는 역사의 시대구분에 있어서 어느 시기로부터 근대라는 선을 긋느냐 하는 문제는 여러 가지 이론이 있어왔다 .
+1	우리는	우리+는	PRON	_	9	dislocated	_	_	우리/npp+는/jxt
+2	역사의	역사+의	NOUN	_	3	nmod	_	_	역사/ncn+의/jcm
+3	시대구분에	시대+구분+에	ADV	_	4	obl	_	_	시대/ncn+구분/ncpa+에/jca
+4	있어서	있+어서	SCONJ	_	9	xcomp	_	_	있/paa+어서/ecs
+5	어느	어느	NOUN	_	6	compound	_	_	어느/ncn
+6	시기로부터	시기+로+부터	ADV	_	9	advcl	_	_	시기/ncn+로/jca+부터/jxc
+7	근대라는	근대+라는	NOUN	_	8	nmod	_	_	근대/ncn+라는/jcm
+8	선을	선+을	NOUN	_	9	obj	_	_	선/ncn+을/jco
+9	긋느냐	긋+느냐	VERB	_	10	ccomp	_	_	긋/pvg+느냐/ef
+10	하는	하+는	VERB	_	11	acl	_	_	하/pvg+는/etm
+11	문제는	문제+는	NOUN	_	15	dislocated	_	_	문제/ncn+는/jxt
+12	여러	여러	ADJ	_	13	amod	_	_	여러/mma
+13	가지	가지	NOUN	_	14	compound	_	_	가지/nbu
+14	이론이	이론+이	NOUN	_	15	nsubj	_	_	이론/ncn+이/jcs
+15	있어왔다	있+어+오+았+다	AUX	_	0	root	_	_	있/paa+어/ecx+오/px+았/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그러므로 선조 , 광해군 , 인조조를 걸친 시대를 근대적 여명의 제 1기로 볼 수 있다 .
+1	그러므로	그러므로	CCONJ	_	13	cc	_	_	그러므로/maj
+2	선조	선조	PROPN	_	4	conj	_	_	선조/nq
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	광해군	광해군	PROPN	_	6	conj	_	_	광해군/nq
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	인조조를	인조조+를	PROPN	_	7	obj	_	_	인조조/nq+를/jco
+7	걸친	걸치+ㄴ	VERB	_	8	acl	_	_	걸치/pvg+ㄴ/etm
+8	시대를	시대+를	NOUN	_	13	obj	_	_	시대/ncn+를/jco
+9	근대적	근대+적	NOUN	_	10	amod	_	_	근대/ncn+적/xsn
+10	여명의	여명+의	NOUN	_	12	nmod	_	_	여명/ncn+의/jcm
+11	제	제	ADJ	_	12	amod	_	_	제/mma
+12	1기로	1+기+로	ADV	_	13	advcl	_	_	1/nnc+기/nbu+로/jca
+13	볼	보+ㄹ	VERB	_	0	root	_	_	보/pvg+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있다	있+다	ADJ	_	13	aux	_	_	있/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+

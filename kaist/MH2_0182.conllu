@@ -1,0 +1,2761 @@
+# 정보통신기술에 있어 주축을 이루는 두 가지 기능이라면 바로 이 저장능력과 수송능력인 셈인데 , 광통신 또한 기가 , 테라로 치닫고 있기 때문이다 .
+1	정보통신기술에	정보+통신+기술+에	ADV	_	2	obl	_	_	정보/ncn+통신/ncpa+기술/ncn+에/jca
+2	있어	있+어	SCONJ	_	4	xcomp	_	_	있/paa+어/ecs
+3	주축을	주축+을	NOUN	_	4	obj	_	_	주축/ncn+을/jco
+4	이루는	이루+는	VERB	_	7	ccomp	_	_	이루/pvg+는/etm
+5	두	두	ADJ	_	6	amod	_	_	두/mma
+6	가지	가지	NOUN	_	7	compound	_	_	가지/nbu
+7	기능이라면	기능+이+라면	SCONJ	_	11	ccomp	_	_	기능/ncn+이/jp+라면/ecs
+8	바로	바로	ADV	_	9	advmod	_	_	바로/mag
+9	이	이	DET	_	11	det	_	_	이/mmd
+10	저장능력과	저장+능력+과	CCONJ	_	11	conj	_	_	저장/ncpa+능력/ncn+과/jcj
+11	수송능력인	수송+능력+이+ㄴ	VERB	_	12	ccomp	_	_	수송/ncpa+능력/ncn+이/jp+ㄴ/etm
+12	셈인데	셈+이+ㄴ데	SCONJ	_	19	ccomp	_	_	셈/nbn+이/jp+ㄴ데/ecs
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	광통신	광통신	NOUN	_	15	dep	_	_	광통신/ncn
+15	또한	또한	ADV	_	19	advmod	_	_	또한/mag
+16	기가	기가	NOUN	_	18	conj	_	_	기가/ncn
+17	,	,	PUNCT	_	16	punct	_	_	,/sp
+18	테라로	테라+로	ADV	_	19	advcl	_	_	테라/ncn+로/jca
+19	치닫고	치닫+고	VERB	_	0	root	_	_	치닫/pvg+고/ecx
+20	있기	있+기	AUX	_	19	aux	_	_	있/px+기/etn
+21	때문이다	때문+이+다	VERB	_	19	aux	_	_	때문/nbn+이/jp+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 기가는 10 억 , 테라는 1 조라는 숫자를 나타내는 말이다 .
+1	기가는	기가+는	NOUN	_	3	dislocated	_	_	기가/nbu+는/jxt
+2	10	10	NUM	_	3	nummod	_	_	10/nnc
+3	억	억	NUM	_	7	nummod	_	_	억/nnc
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	테라는	테라+는	NOUN	_	7	dislocated	_	_	테라/nbu+는/jxt
+6	1	1	NUM	_	7	nummod	_	_	1/nnc
+7	조라는	조+이+라는	VERB	_	8	acl	_	_	조/nnc+이/jp+라는/etm
+8	숫자를	숫자+를	NOUN	_	9	obj	_	_	숫자/ncn+를/jco
+9	나타내는	나타내+는	VERB	_	10	ccomp	_	_	나타내/pvg+는/etm
+10	말이다	말+이+다	VERB	_	0	root	_	_	말/ncpa+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 테라비트 광통신 !
+1	테라비트	테라+비트	NOUN	_	2	compound	_	_	테라/ncn+비트/ncn
+2	광통신	광통신	NOUN	_	0	root	_	_	광통신/ncn
+3	!	!	PUNCT	_	2	punct	_	_	!/sf
+
+# 저자는 이것을 연구실에서 테라콤 ( TeraCom ) 이라고 부르고 있다 .
+1	저자는	저자+는	NOUN	_	9	dislocated	_	_	저자/ncn+는/jxt
+2	이것을	이것+을	PRON	_	9	obj	_	_	이것/npd+을/jco
+3	연구실에서	연구실+에서	ADV	_	9	advcl	_	_	연구실/ncn+에서/jca
+4	테라콤	테라콤	PROPN	_	9	conj	_	_	테라콤/nq
+5	(	(	PUNCT	_	6	punct	_	_	(/sl
+6	TeraCom	TeraCom	X	_	4	appos	_	_	TeraCom/f
+7	)	)	PUNCT	_	6	punct	_	_	)/sr
+8	이라고	이+라+고	ADP	_	4	cop	_	_	이/jp+라/ef+고/jcr
+9	부르고	부르+고	VERB	_	0	root	_	_	부르/pvg+고/ecx
+10	있다	있+다	AUX	_	9	aux	_	_	있/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 광통신의 테라비트도 메모리 테라비트처럼 우리에게는 아직 익숙하지 않은 용량이다 .
+1	광통신의	광통신+의	NOUN	_	2	nmod	_	_	광통신/ncn+의/jcm
+2	테라비트도	테라비트+도	ADV	_	9	advcl	_	_	테라비트/nbu+도/jxc
+3	메모리	메모리	NOUN	_	4	compound	_	_	메모리/ncn
+4	테라비트처럼	테라비트+처럼	ADV	_	7	advcl	_	_	테라비트/nbu+처럼/jca
+5	우리에게는	우리+에게+는	PRON	_	7	dislocated	_	_	우리/npp+에게/jca+는/jxt
+6	아직	아직	ADV	_	7	advmod	_	_	아직/mag
+7	익숙하지	익숙하+지	ADJ	_	9	amod	_	_	익숙하/paa+지/ecx
+8	않은	않+ㄴ	AUX	_	7	aux	_	_	않/px+ㄴ/etm
+9	용량이다	용량+이+다	VERB	_	0	root	_	_	용량/ncn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 메모리에서는 단위면적당 비트 수를 나타내는 반면 , 통신에서는 단위시간당 비트 수를 나타낸다 .
+1	메모리에서는	메모리+에서+는	NOUN	_	5	dislocated	_	_	메모리/ncn+에서/jca+는/jxt
+2	단위면적당	단위+면적+당	NOUN	_	3	advmod	_	_	단위/ncn+면적/ncn+당/xsn
+3	비트	비트	NOUN	_	4	compound	_	_	비트/nbu
+4	수를	수+를	NOUN	_	5	obj	_	_	수/ncn+를/jco
+5	나타내는	나타내+는	VERB	_	6	acl	_	_	나타내/pvg+는/etm
+6	반면	반면	NOUN	_	12	advmod	_	_	반면/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	통신에서는	통신+에서+는	NOUN	_	12	dislocated	_	_	통신/ncpa+에서/jca+는/jxt
+9	단위시간당	단위+시간+당	NOUN	_	10	advmod	_	_	단위/ncn+시간/ncn+당/xsn
+10	비트	비트	NOUN	_	11	compound	_	_	비트/nbu
+11	수를	수+를	NOUN	_	12	obj	_	_	수/ncn+를/jco
+12	나타낸다	나타내+ㄴ다	VERB	_	0	root	_	_	나타내/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 가시광선의 진동수가 100 테라 ( 10의 14 승 ) 정도이므로 테라비트는 빛의 속도한계에 도전하는 것이라고도 볼 수 있다 .
+1	가시광선의	가시+광선+의	NOUN	_	2	nmod	_	_	가시/ncn+광선/ncn+의/jcm
+2	진동수가	진동수+가	NOUN	_	10	nsubj	_	_	진동수/ncn+가/jcs
+3	100	100	NUM	_	4	nummod	_	_	100/nnc
+4	테라	테라	NOUN	_	10	compound	_	_	테라/nbu
+5	(	(	PUNCT	_	7	punct	_	_	(/sl
+6	10의	10+의	NUM	_	7	nmod	_	_	10/nnc+의/jcm
+7	14	14	NUM	_	8	nummod	_	_	14/nnc
+8	승	승	NOUN	_	4	appos	_	_	승/ncn
+9	)	)	PUNCT	_	8	punct	_	_	)/sr
+10	정도이므로	정도+이+므로	SCONJ	_	16	ccomp	_	_	정도/ncn+이/jp+므로/ecs
+11	테라비트는	테라비트+는	NOUN	_	14	dislocated	_	_	테라비트/nbu+는/jxt
+12	빛의	빛+의	NOUN	_	13	nmod	_	_	빛/ncn+의/jcm
+13	속도한계에	속도+한계+에	ADV	_	14	obl	_	_	속도/ncn+한계/ncn+에/jca
+14	도전하는	도전+하+는	VERB	_	16	advcl	_	_	도전/ncpa+하/xsv+는/etm
+15	것이라고도	것+이+라+고+도	ADV	_	14	aux	_	_	것/nbn+이/jp+라/ef+고/jcr+도/jxc
+16	볼	보+ㄹ	VERB	_	0	root	_	_	보/pvg+ㄹ/etm
+17	수	수	NOUN	_	18	fixed	_	_	수/nbn
+18	있다	있+다	ADJ	_	16	aux	_	_	있/paa+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 테라비트 광통신은 어떻게 가능할까 ?
+1	테라비트	테라비트	NOUN	_	2	compound	_	_	테라비트/nbu
+2	광통신은	광통신+은	NOUN	_	4	dislocated	_	_	광통신/ncn+은/jxt
+3	어떻게	어떻+게	SCONJ	_	4	xcomp	_	_	어떻/pad+게/ecs
+4	가능할까	가능+하+ㄹ까	VERB	_	0	root	_	_	가능/ncps+하/xsm+ㄹ까/ef
+5	?	?	PUNCT	_	4	punct	_	_	?/sf
+
+# 사회적 경제적으로 어떤 영향을 미칠 것인가 ?
+1	사회적	사회+적	NOUN	_	2	dep	_	_	사회/ncn+적/xsn
+2	경제적으로	경제+적+으로	ADV	_	5	advcl	_	_	경제/ncn+적/xsn+으로/jca
+3	어떤	어떤	DET	_	4	det	_	_	어떤/mmd
+4	영향을	영향+을	NOUN	_	5	obj	_	_	영향/ncn+을/jco
+5	미칠	미치+ㄹ	VERB	_	0	root	_	_	미치/pvg+ㄹ/etm
+6	것인가	것+이+ㄴ가	VERB	_	5	aux	_	_	것/nbn+이/jp+ㄴ가/ef
+7	?	?	PUNCT	_	6	punct	_	_	?/sf
+
+# 광통신은 1993 년 현재 약 20 30 년의 역사를 가지고 있다 .
+1	광통신은	광통신+은	NOUN	_	10	dislocated	_	_	광통신/ncn+은/jxt
+2	1993	1993	NUM	_	3	nummod	_	_	1993/nnc
+3	년	년	NOUN	_	4	compound	_	_	년/nbu
+4	현재	현재	NOUN	_	10	advmod	_	_	현재/ncn
+5	약	약	ADJ	_	7	amod	_	_	약/mma
+6	20	20	NUM	_	7	nummod	_	_	20/nnc
+7	30	30	NUM	_	8	nummod	_	_	30/nnc
+8	년의	년+의	NOUN	_	9	nmod	_	_	년/nbu+의/jcm
+9	역사를	역사+를	NOUN	_	10	obj	_	_	역사/ncn+를/jco
+10	가지고	가지+고	VERB	_	0	root	_	_	가지/pvg+고/ecx
+11	있다	있+다	AUX	_	10	aux	_	_	있/px+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 현재 한국에서 성취된 광통신 최고 속도는 한국전자통신연구소의 565 메가비트 시스템으로서 , 수 년 후에는 2 3 기가비트를 기대해 보고 있다 .
+1	현재	현재	NOUN	_	6	compound	_	_	현재/ncn
+2	한국에서	한국+에서	ADV	_	3	advcl	_	_	한국/nq+에서/jca
+3	성취된	성취+되+ㄴ	VERB	_	4	acl	_	_	성취/ncpa+되/xsv+ㄴ/etm
+4	광통신	광통신	NOUN	_	6	compound	_	_	광통신/ncn
+5	최고	최고	NOUN	_	6	compound	_	_	최고/ncn
+6	속도는	속도+는	NOUN	_	10	dislocated	_	_	속도/ncn+는/jxt
+7	한국전자통신연구소의	한국+전자+통신+연구소+의	PROPN	_	10	nmod	_	_	한국/nq+전자/ncn+통신/ncpa+연구소/ncn+의/jcm
+8	565	565	NUM	_	9	nummod	_	_	565/nnc
+9	메가비트	메가비트	NOUN	_	10	compound	_	_	메가비트/nbu
+10	시스템으로서	시스템+으로서	ADV	_	18	advmod	_	_	시스템/ncn+으로서/jca
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	수	수	ADJ	_	13	amod	_	_	수/mma
+13	년	년	NOUN	_	14	compound	_	_	년/nbu
+14	후에는	후+에+는	NOUN	_	18	dislocated	_	_	후/ncn+에/jca+는/jxt
+15	2	2	NUM	_	16	nummod	_	_	2/nnc
+16	3	3	NUM	_	17	nummod	_	_	3/nnc
+17	기가비트를	기가비트+를	NOUN	_	18	obj	_	_	기가비트/nbu+를/jco
+18	기대해	기대+하+어	VERB	_	0	root	_	_	기대/ncpa+하/xsv+어/ecx
+19	보고	보+고	AUX	_	18	aux	_	_	보/px+고/ecx
+20	있다	있+다	AUX	_	18	aux	_	_	있/px+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 국간시설은 물론 아파트마다 , 안방마다 , 사무실마다 광섬유가 들어가면서 테라비트 시대는 무한대에 가까운 정보수송 용량을 제공할 수 있게 된다 .
+1	국간시설은	국간+시설+은	NOUN	_	2	dislocated	_	_	국간/ncn+시설/ncn+은/jxt
+2	물론	물론	ADV	_	9	advmod	_	_	물론/mag
+3	아파트마다	아파트+마다	ADV	_	7	dep	_	_	아파트/ncn+마다/jxc
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	안방마다	안방+마다	ADV	_	7	dep	_	_	안방/ncn+마다/jxc
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	사무실마다	사무실+마다	ADV	_	9	advcl	_	_	사무실/ncn+마다/jxc
+8	광섬유가	광섬유+가	NOUN	_	9	nsubj	_	_	광섬유/ncn+가/jcs
+9	들어가면서	들어가+면서	CCONJ	_	16	conj	_	_	들어가/pvg+면서/ecc
+10	테라비트	테라비트	NOUN	_	11	compound	_	_	테라비트/nbu
+11	시대는	시대+는	NOUN	_	16	dislocated	_	_	시대/ncn+는/jxt
+12	무한대에	무한대+에	ADV	_	13	obl	_	_	무한대/ncps+에/jca
+13	가까운	가깝+ㄴ	ADJ	_	15	amod	_	_	가깝/paa+ㄴ/etm
+14	정보수송	정보+수송	NOUN	_	15	compound	_	_	정보/ncn+수송/ncpa
+15	용량을	용량+을	NOUN	_	16	obj	_	_	용량/ncn+을/jco
+16	제공할	제공+하+ㄹ	VERB	_	0	root	_	_	제공/ncpa+하/xsv+ㄹ/etm
+17	수	수	NOUN	_	18	fixed	_	_	수/nbn
+18	있게	있+게	ADJ	_	16	aux	_	_	있/paa+게/ecx
+19	된다	되+ㄴ다	AUX	_	16	aux	_	_	되/px+ㄴ다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 유토피아 같은 이야기일까 ?
+1	유토피아	유토피아	NOUN	_	2	dep	_	_	유토피아/ncn
+2	같은	같+ㄴ	ADJ	_	3	amod	_	_	같/paa+ㄴ/etm
+3	이야기일까	이야기+이+ㄹ까	VERB	_	0	root	_	_	이야기/ncpa+이/jp+ㄹ까/ef
+4	?	?	PUNCT	_	3	punct	_	_	?/sf
+
+# 테라비트 광통신은 현존하는 광통신 기술로는 불가능하며 , 코히런트 검파방식이라는 특수 전송장치로만 가능한 것으로 보고 있다 .
+1	테라비트	테라비트	NOUN	_	2	compound	_	_	테라비트/nbu
+2	광통신은	광통신+은	NOUN	_	12	dislocated	_	_	광통신/ncn+은/jxt
+3	현존하는	현존+하+는	VERB	_	4	acl	_	_	현존/ncpa+하/xsv+는/etm
+4	광통신	광통신	NOUN	_	5	compound	_	_	광통신/ncn
+5	기술로는	기술+로+는	NOUN	_	6	dislocated	_	_	기술/ncn+로/jca+는/jxt
+6	불가능하며	불가능+하+며	CCONJ	_	12	conj	_	_	불가능/ncps+하/xsm+며/ecc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	코히런트	코히런트	NOUN	_	9	compound	_	_	코히런트/ncn
+9	검파방식이라는	검파+방식+이+라는	VERB	_	11	acl	_	_	검파/ncn+방식/ncn+이/jp+라는/etm
+10	특수	특수	NOUN	_	11	compound	_	_	특수/ncn
+11	전송장치로만	전송+장치+로+만	ADV	_	12	advcl	_	_	전송/ncpa+장치/ncpa+로/jca+만/jxc
+12	가능한	가능+하+ㄴ	VERB	_	13	amod	_	_	가능/ncps+하/xsm+ㄴ/etm
+13	것으로	것+으로	ADV	_	14	advcl	_	_	것/nbn+으로/jca
+14	보고	보+고	VERB	_	0	root	_	_	보/pvg+고/ecx
+15	있다	있+다	AUX	_	14	aux	_	_	있/px+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 결국 테라비트로 전입하느냐에 달려 있다는 말이며 , 이 말은 곧 기초과학과 기초기술 능력에 대한 도전으로 해석할 수밖에 없다 .
+1	결국	결국	ADV	_	4	advmod	_	_	결국/mag
+2	테라비트로	테라비트+로	ADV	_	3	advcl	_	_	테라비트/nbu+로/jca
+3	전입하느냐에	전입+하+느냐+에	ADV	_	4	obl	_	_	전입/ncpa+하/xsv+느냐/ef+에/jca
+4	달려	달리+어	VERB	_	6	ccomp	_	_	달리/pvg+어/ecx
+5	있다는	있+다는	AUX	_	4	aux	_	_	있/px+다는/etm
+6	말이며	말+이+며	CCONJ	_	16	conj	_	_	말/ncpa+이/jp+며/ecc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	이	이	DET	_	9	det	_	_	이/mmd
+9	말은	말+은	NOUN	_	16	dislocated	_	_	말/ncpa+은/jxt
+10	곧	곧	ADV	_	16	advmod	_	_	곧/mag
+11	기초과학과	기초+과학+과	CCONJ	_	12	conj	_	_	기초/ncn+과학/ncn+과/jcj
+12	기초기술	기초+기술	NOUN	_	13	compound	_	_	기초/ncn+기술/ncn
+13	능력에	능력+에	ADV	_	14	obl	_	_	능력/ncn+에/jca
+14	대한	대하+ㄴ	VERB	_	15	acl	_	_	대하/pvg+ㄴ/etm
+15	도전으로	도전+으로	ADV	_	16	advcl	_	_	도전/ncpa+으로/jca
+16	해석할	해석+하+ㄹ	VERB	_	0	root	_	_	해석/ncpa+하/xsv+ㄹ/etm
+17	수밖에	수+밖에	ADV	_	18	fixed	_	_	수/nbn+밖에/jxc
+18	없다	없+다	ADJ	_	16	aux	_	_	없/paa+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 미국과 일본은 1990 년 후반에 이러한 방법들을 합작 동원해서 태평양 횡단 해저 케이블과 관련 통신장치를 시설할 계획이다 .
+1	미국과	미국+과	CCONJ	_	2	conj	_	_	미국/nq+과/jcj
+2	일본은	일본+은	PROPN	_	16	dislocated	_	_	일본/nq+은/jxt
+3	1990	1990	NUM	_	4	nummod	_	_	1990/nnc
+4	년	년	NOUN	_	5	compound	_	_	년/nbu
+5	후반에	후반+에	ADV	_	9	obl	_	_	후반/ncn+에/jca
+6	이러한	이러하+ㄴ	VERB	_	7	amod	_	_	이러하/pad+ㄴ/etm
+7	방법들을	방법+들+을	NOUN	_	9	obj	_	_	방법/ncn+들/xsn+을/jco
+8	합작	합작	NOUN	_	9	compound	_	_	합작/ncpa
+9	동원해서	동원+하+어서	SCONJ	_	16	ccomp	_	_	동원/ncpa+하/xsv+어서/ecs
+10	태평양	태평양	PROPN	_	11	compound	_	_	태평양/nq
+11	횡단	횡단	NOUN	_	13	compound	_	_	횡단/ncpa
+12	해저	해저	NOUN	_	13	compound	_	_	해저/ncn
+13	케이블과	케이블+과	CCONJ	_	15	conj	_	_	케이블/ncn+과/jcj
+14	관련	관련	NOUN	_	15	compound	_	_	관련/ncpa
+15	통신장치를	통신+장치+를	NOUN	_	16	obj	_	_	통신/ncpa+장치/ncpa+를/jco
+16	시설할	시설+하+ㄹ	VERB	_	17	ccomp	_	_	시설/ncpa+하/xsv+ㄹ/etm
+17	계획이다	계획+이+다	VERB	_	0	root	_	_	계획/ncpa+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 21 세기는 광통신이 없이는 상상할 수가 없는 시대이다 .
+1	21	21	NUM	_	2	nummod	_	_	21/nnc
+2	세기는	세기+는	NOUN	_	8	dislocated	_	_	세기/ncn+는/jxt
+3	광통신이	광통신+이	NOUN	_	4	nsubj	_	_	광통신/ncn+이/jcs
+4	없이는	없+이+는	NOUN	_	5	amod	_	_	없/paa+이/ecs+는/jxt
+5	상상할	상상+하+ㄹ	VERB	_	8	ccomp	_	_	상상/ncpa+하/xsv+ㄹ/etm
+6	수가	수+가	NOUN	_	7	fixed	_	_	수/nbn+가/jcs
+7	없는	없+는	ADJ	_	5	aux	_	_	없/paa+는/etm
+8	시대이다	시대+이+다	VERB	_	0	root	_	_	시대/ncn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이러한 교육은 21 세기에 들어가서는 너무 늦을 것이라 생각된다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	교육은	교육+은	NOUN	_	7	dislocated	_	_	교육/ncpa+은/jxt
+3	21	21	NUM	_	4	nummod	_	_	21/nnc
+4	세기에	세기+에	ADV	_	5	obl	_	_	세기/ncn+에/jca
+5	들어가서는	들어가+어서+는	NOUN	_	7	dep	_	_	들어가/pvg+어서/ecs+는/jxt
+6	너무	너무	ADV	_	7	advmod	_	_	너무/mag
+7	늦을	늦+을	ADJ	_	9	amod	_	_	늦/paa+을/etm
+8	것이라	것+이+라	SCONJ	_	7	aux	_	_	것/nbn+이/jp+라/ecs
+9	생각된다	생각+되+ㄴ다	VERB	_	0	root	_	_	생각/ncpa+되/xsv+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 따라서 기본 전달방식의 차이 때문에 개념상의 ISDN과 협대역 ISDN은 망 구성장치의 측면에서 별개로 간주할 수 있다 .
+1	따라서	따라서	CCONJ	_	14	cc	_	_	따라서/maj
+2	기본	기본	NOUN	_	3	compound	_	_	기본/ncn
+3	전달방식의	전달+방식+의	NOUN	_	4	nmod	_	_	전달/ncpa+방식/ncn+의/jcm
+4	차이	차이	NOUN	_	5	compound	_	_	차이/ncn
+5	때문에	때문+에	ADV	_	14	obl	_	_	때문/nbn+에/jca
+6	개념상의	개념+상+의	NOUN	_	7	nmod	_	_	개념/ncn+상/xsn+의/jcm
+7	ISDN과	ISDN+과	CCONJ	_	9	conj	_	_	ISDN/f+과/jcj
+8	협대역	협대역	NOUN	_	9	dep	_	_	협대역/ncn
+9	ISDN은	ISDN+은	NOUN	_	14	dislocated	_	_	ISDN/f+은/jxt
+10	망	망	NOUN	_	11	compound	_	_	망/ncn
+11	구성장치의	구성+장치+의	NOUN	_	12	nmod	_	_	구성/ncpa+장치/ncpa+의/jcm
+12	측면에서	측면+에서	ADV	_	14	advcl	_	_	측면/ncn+에서/jca
+13	별개로	별개+로	ADV	_	14	advcl	_	_	별개/ncn+로/jca
+14	간주할	간주+하+ㄹ	VERB	_	0	root	_	_	간주/ncpa+하/xsv+ㄹ/etm
+15	수	수	NOUN	_	16	fixed	_	_	수/nbn
+16	있다	있+다	ADJ	_	14	aux	_	_	있/paa+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이렇게 사용자가 보내는 ATM 셀은 우체통 같은 역할을 하는 다중화기를 통해서 우체국의 편지 분류와 같은 기능을 하는 ATM 교환기로 보내지게 된다 .
+1	이렇게	이렇+게	SCONJ	_	3	xcomp	_	_	이렇/pad+게/ecs
+2	사용자가	사용자+가	NOUN	_	3	nsubj	_	_	사용자/ncn+가/jcs
+3	보내는	보내+는	VERB	_	5	acl	_	_	보내/pvg+는/etm
+4	ATM	ATM	X	_	5	compound	_	_	ATM/f
+5	셀은	셀+은	NOUN	_	20	dislocated	_	_	셀/ncn+은/jxt
+6	우체통	우체통	NOUN	_	7	dep	_	_	우체통/ncn
+7	같은	같+ㄴ	ADJ	_	8	amod	_	_	같/paa+ㄴ/etm
+8	역할을	역할+을	NOUN	_	9	obj	_	_	역할/ncn+을/jco
+9	하는	하+는	VERB	_	10	acl	_	_	하/pvg+는/etm
+10	다중화기를	다중+화기+를	NOUN	_	11	obj	_	_	다중/ncn+화기/ncn+를/jco
+11	통해서	통하+어서	SCONJ	_	20	ccomp	_	_	통하/pvg+어서/ecs
+12	우체국의	우체국+의	NOUN	_	14	nmod	_	_	우체국/ncn+의/jcm
+13	편지	편지	NOUN	_	14	compound	_	_	편지/ncpa
+14	분류와	분류+와	CCONJ	_	15	conj	_	_	분류/ncpa+와/jct
+15	같은	같+ㄴ	ADJ	_	16	amod	_	_	같/paa+ㄴ/etm
+16	기능을	기능+을	NOUN	_	17	obj	_	_	기능/ncn+을/jco
+17	하는	하+는	VERB	_	19	acl	_	_	하/pvg+는/etm
+18	ATM	ATM	X	_	19	compound	_	_	ATM/f
+19	교환기로	교환기+로	ADV	_	20	advcl	_	_	교환기/ncn+로/jca
+20	보내지게	보내+어+지+게	AUX	_	0	root	_	_	보내/pvg+어/ecx+지/px+게/ecx
+21	된다	되+ㄴ다	AUX	_	20	aux	_	_	되/px+ㄴ다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 각 지역 ATM 교환기에서는 보내진 셀을 받아서 주소를 살핀 다음 수신자에게 직접 배달하게 된다 .
+1	각	각	ADJ	_	2	amod	_	_	각/mma
+2	지역	지역	NOUN	_	4	compound	_	_	지역/ncn
+3	ATM	ATM	X	_	4	compound	_	_	ATM/f
+4	교환기에서는	교환기+에서+는	NOUN	_	13	dislocated	_	_	교환기/ncn+에서/jca+는/jxt
+5	보내진	보내지+ㄴ	VERB	_	6	acl	_	_	보내지/pvg+ㄴ/etm
+6	셀을	셀+을	NOUN	_	7	obj	_	_	셀/ncn+을/jco
+7	받아서	받+아서	SCONJ	_	9	ccomp	_	_	받/pvg+아서/ecs
+8	주소를	주소+를	NOUN	_	9	obj	_	_	주소/ncn+를/jco
+9	살핀	살피+ㄴ	VERB	_	10	acl	_	_	살피/pvg+ㄴ/etm
+10	다음	다음	NOUN	_	13	advmod	_	_	다음/ncn
+11	수신자에게	수신자+에게	ADV	_	13	iobj	_	_	수신자/ncn+에게/jca
+12	직접	직접	ADV	_	13	advmod	_	_	직접/mag
+13	배달하게	배달+하+게	VERB	_	0	root	_	_	배달/ncpa+하/xsv+게/ecx
+14	된다	되+ㄴ다	AUX	_	13	aux	_	_	되/px+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 수신자는 받은 ATM 셀에서 내용물을 꺼낸 다음 이를 연결시켜 처음 형태의 정보의 흐름을 전달받게 된다 .
+1	수신자는	수신자+는	NOUN	_	14	dislocated	_	_	수신자/ncn+는/jxt
+2	받은	받+ㄴ	VERB	_	4	acl	_	_	받/pvg+ㄴ/etm
+3	ATM	ATM	X	_	4	compound	_	_	ATM/f
+4	셀에서	셀+에서	ADV	_	6	advcl	_	_	셀/ncn+에서/jca
+5	내용물을	내용물+을	NOUN	_	6	obj	_	_	내용물/ncn+을/jco
+6	꺼낸	꺼내+ㄴ	VERB	_	7	acl	_	_	꺼내/pvg+ㄴ/etm
+7	다음	다음	NOUN	_	9	advmod	_	_	다음/ncn
+8	이를	이+를	PRON	_	9	obj	_	_	이/npd+를/jco
+9	연결시켜	연결+시키+어	SCONJ	_	14	ccomp	_	_	연결/ncpa+시키/xsv+어/ecs
+10	처음	처음	NOUN	_	11	compound	_	_	처음/ncn
+11	형태의	형태+의	NOUN	_	13	nmod	_	_	형태/ncn+의/jcm
+12	정보의	정보+의	NOUN	_	13	nmod	_	_	정보/ncn+의/jcm
+13	흐름을	흐름+을	NOUN	_	14	obj	_	_	흐름/ncn+을/jco
+14	전달받게	전달받+게	VERB	_	0	root	_	_	전달받/pvg+게/ecx
+15	된다	되+ㄴ다	AUX	_	14	aux	_	_	되/px+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 일본은 장치개발의 측면에서 가장 앞서 있으며 , 1995 년 상용화를 목표로 활발히 연구중이다 .
+1	일본은	일본+은	PROPN	_	13	dislocated	_	_	일본/nq+은/jxt
+2	장치개발의	장치+개발+의	NOUN	_	3	nmod	_	_	장치/ncpa+개발/ncpa+의/jcm
+3	측면에서	측면+에서	ADV	_	5	advcl	_	_	측면/ncn+에서/jca
+4	가장	가장	ADV	_	5	advmod	_	_	가장/mag
+5	앞서	앞서+어	VERB	_	13	ccomp	_	_	앞서/pvg+어/ecx
+6	있으며	있+으며	SCONJ	_	5	aux	_	_	있/px+으며/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	1995	1995	NUM	_	9	nummod	_	_	1995/nnc
+9	년	년	NOUN	_	10	compound	_	_	년/nbu
+10	상용화를	상용화+를	NOUN	_	11	obj	_	_	상용화/ncn+를/jco
+11	목표로	목표+로	ADV	_	13	advcl	_	_	목표/ncpa+로/jca
+12	활발히	활발히	ADV	_	13	advmod	_	_	활발히/mag
+13	연구중이다	연구+중+이+다	VERB	_	0	root	_	_	연구/ncpa+중/xsn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 각 연구반은 해당분야에 관한 연구과제를 선정 , 이에 관한 연구결과로서 CCITT 권고안을 작성 발표하고 있다 .
+1	각	각	ADJ	_	2	amod	_	_	각/mma
+2	연구반은	연구반+은	NOUN	_	14	dislocated	_	_	연구반/ncn+은/jxt
+3	해당분야에	해당+분야+에	ADV	_	4	obl	_	_	해당/ncpa+분야/ncn+에/jca
+4	관한	관하+ㄴ	VERB	_	5	acl	_	_	관하/pvg+ㄴ/etm
+5	연구과제를	연구+과제+를	NOUN	_	6	obj	_	_	연구/ncpa+과제/ncn+를/jco
+6	선정	선정	NOUN	_	14	advmod	_	_	선정/ncpa
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	이에	이+에	ADV	_	9	obl	_	_	이/npd+에/jca
+9	관한	관하+ㄴ	VERB	_	10	acl	_	_	관하/pvg+ㄴ/etm
+10	연구결과로서	연구+결과+로서	ADV	_	14	advcl	_	_	연구/ncpa+결과/ncn+로서/jca
+11	CCITT	CCITT	X	_	12	compound	_	_	CCITT/f
+12	권고안을	권고안+을	NOUN	_	14	obj	_	_	권고안/ncn+을/jco
+13	작성	작성	NOUN	_	14	compound	_	_	작성/ncpa
+14	발표하고	발표+하+고	VERB	_	0	root	_	_	발표/ncpa+하/xsv+고/ecx
+15	있다	있+다	AUX	_	14	aux	_	_	있/px+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 요즈음 우리들의 주변에서 컴퓨터가 전화와 마찬가지로 흔히 대할 수 있는 정보통신 기기로서 자리를 잡아가고 있다 .
+1	요즈음	요즈음	NOUN	_	14	advmod	_	_	요즈음/ncn
+2	우리들의	우리+들+의	PRON	_	3	nmod	_	_	우리/npp+들/xsn+의/jcm
+3	주변에서	주변+에서	ADV	_	14	advcl	_	_	주변/ncn+에서/jca
+4	컴퓨터가	컴퓨터+가	NOUN	_	14	nsubj	_	_	컴퓨터/ncn+가/jcs
+5	전화와	전화+와	CCONJ	_	6	conj	_	_	전화/ncpa+와/jct
+6	마찬가지로	마찬가지+로	ADV	_	8	advcl	_	_	마찬가지/ncn+로/jca
+7	흔히	흔히	ADV	_	8	advmod	_	_	흔히/mag
+8	대할	대하+ㄹ	VERB	_	12	acl	_	_	대하/pvg+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	있는	있+는	ADJ	_	8	aux	_	_	있/paa+는/etm
+11	정보통신	정보+통신	NOUN	_	12	compound	_	_	정보/ncn+통신/ncpa
+12	기기로서	기기+로서	ADV	_	14	advcl	_	_	기기/ncn+로서/jca
+13	자리를	자리+를	NOUN	_	14	obj	_	_	자리/ncn+를/jco
+14	잡아가고	잡아가+고	VERB	_	0	root	_	_	잡아가/pvg+고/ecx
+15	있다	있+다	AUX	_	14	aux	_	_	있/px+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 컴퓨터에서 사용되는 정보형태도 점차 다양화 고도화되어 가는 추세이다 .
+1	컴퓨터에서	컴퓨터+에서	ADV	_	2	advcl	_	_	컴퓨터/ncn+에서/jca
+2	사용되는	사용+되+는	VERB	_	3	acl	_	_	사용/ncpa+되/xsv+는/etm
+3	정보형태도	정보+형태+도	ADV	_	6	advcl	_	_	정보/ncn+형태/ncn+도/jxc
+4	점차	점차	ADV	_	6	advmod	_	_	점차/mag
+5	다양화	다양화	NOUN	_	6	compound	_	_	다양화/ncn
+6	고도화되어	고도화+되+어	VERB	_	8	ccomp	_	_	고도화/ncpa+되/xsv+어/ecx
+7	가는	가+는	AUX	_	6	aux	_	_	가/px+는/etm
+8	추세이다	추세+이+다	VERB	_	0	root	_	_	추세/ncn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이에 따라 멀티미디어 정보를 고속으로 전송할 수 있는 광대역 정보통신망이 필요하게 되었다 .
+1	이에	이+에	ADV	_	2	obl	_	_	이/npd+에/jca
+2	따라	따르+아	SCONJ	_	11	conj	_	_	따르/pvg+아/ecs
+3	멀티미디어	멀티미디어	NOUN	_	4	compound	_	_	멀티미디어/ncn
+4	정보를	정보+를	NOUN	_	6	obj	_	_	정보/ncn+를/jco
+5	고속으로	고속+으로	ADV	_	6	advcl	_	_	고속/ncn+으로/jca
+6	전송할	전송+하+ㄹ	VERB	_	10	acl	_	_	전송/ncpa+하/xsv+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	있는	있+는	ADJ	_	6	aux	_	_	있/paa+는/etm
+9	광대역	광대역	NOUN	_	10	compound	_	_	광대역/ncn
+10	정보통신망이	정보+통신망+이	NOUN	_	11	nsubj	_	_	정보/ncn+통신망/ncn+이/jcs
+11	필요하게	필요+하+게	VERB	_	0	root	_	_	필요/ncps+하/xsm+게/ecx
+12	되었다	되+었+다	AUX	_	11	aux	_	_	되/px+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이에 따라 대형 컴퓨터와 워크스테이션 , PC와 프린터 등을 효율적으로 상호 접속시킬 수 있는 고속정보통신망이 매우 중요한 문제로 등장되었다 .
+1	이에	이+에	ADV	_	2	obl	_	_	이/npd+에/jca
+2	따라	따르+아	SCONJ	_	19	ccomp	_	_	따르/pvg+아/ecs
+3	대형	대형	NOUN	_	4	compound	_	_	대형/ncn
+4	컴퓨터와	컴퓨터+와	CCONJ	_	5	conj	_	_	컴퓨터/ncn+와/jcj
+5	워크스테이션	워크스테이션	NOUN	_	8	compound	_	_	워크스테이션/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	PC와	PC+와	CCONJ	_	8	conj	_	_	PC/f+와/jcj
+8	프린터	프린터	NOUN	_	9	compound	_	_	프린터/ncn
+9	등을	등+을	NOUN	_	12	obj	_	_	등/nbn+을/jco
+10	효율적으로	효율+적+으로	ADV	_	12	advcl	_	_	효율/ncn+적/xsn+으로/jca
+11	상호	상호	NOUN	_	12	compound	_	_	상호/ncn
+12	접속시킬	접속+시키+ㄹ	VERB	_	15	acl	_	_	접속/ncpa+시키/xsv+ㄹ/etm
+13	수	수	NOUN	_	14	fixed	_	_	수/nbn
+14	있는	있+는	ADJ	_	12	aux	_	_	있/paa+는/etm
+15	고속정보통신망이	고속+정보+통신망+이	NOUN	_	19	nsubj	_	_	고속/ncn+정보/ncn+통신망/ncn+이/jcs
+16	매우	매우	ADV	_	17	advmod	_	_	매우/mag
+17	중요한	중요+하+ㄴ	VERB	_	18	amod	_	_	중요/ncps+하/xsm+ㄴ/etm
+18	문제로	문제+로	ADV	_	19	advcl	_	_	문제/ncn+로/jca
+19	등장되었다	등장+되+었+다	VERB	_	0	root	_	_	등장/ncpa+되/xsv+었/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# LAN은 기능면에서도 급격히 발전되고 있다 .
+1	LAN은	LAN+은	NOUN	_	4	dislocated	_	_	LAN/f+은/jxt
+2	기능면에서도	기능면+에서+도	ADV	_	4	advcl	_	_	기능면/ncn+에서/jca+도/jxc
+3	급격히	급격+히	ADV	_	4	advmod	_	_	급격/ncps+히/xsa
+4	발전되고	발전+되+고	VERB	_	0	root	_	_	발전/ncpa+되/xsv+고/ecx
+5	있다	있+다	AUX	_	4	aux	_	_	있/px+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 특히 영상회의가 발전한 형태인 멀티미디어 회의 서비스가 광 LAN을 바탕으로 구축되는 등 그 기능이 점차 고도화되어 가고 있다 .
+1	특히	특히	ADV	_	11	advmod	_	_	특히/mag
+2	영상회의가	영상+회의+가	NOUN	_	3	nsubj	_	_	영상/ncn+회의/ncpa+가/jcs
+3	발전한	발전+하+ㄴ	VERB	_	4	ccomp	_	_	발전/ncpa+하/xsv+ㄴ/etm
+4	형태인	형태+이+ㄴ	VERB	_	7	acl	_	_	형태/ncn+이/jp+ㄴ/etm
+5	멀티미디어	멀티미디어	NOUN	_	7	compound	_	_	멀티미디어/ncn
+6	회의	회의	NOUN	_	7	compound	_	_	회의/ncpa
+7	서비스가	서비스+가	NOUN	_	11	nsubj	_	_	서비스/ncpa+가/jcs
+8	광	광	NOUN	_	9	dep	_	_	광/ncn
+9	LAN을	LAN+을	NOUN	_	10	obj	_	_	LAN/f+을/jco
+10	바탕으로	바탕+으로	ADV	_	11	advcl	_	_	바탕/ncpa+으로/jca
+11	구축되는	구축+되+는	VERB	_	12	acl	_	_	구축/ncpa+되/xsv+는/etm
+12	등	등	NOUN	_	16	advmod	_	_	등/nbn
+13	그	그	DET	_	14	det	_	_	그/mmd
+14	기능이	기능+이	NOUN	_	16	nsubj	_	_	기능/ncn+이/jcs
+15	점차	점차	ADV	_	16	advmod	_	_	점차/mag
+16	고도화되어	고도화+되+어	VERB	_	0	root	_	_	고도화/ncpa+되/xsv+어/ecx
+17	가고	가+고	AUX	_	16	aux	_	_	가/px+고/ecx
+18	있다	있+다	AUX	_	16	aux	_	_	있/px+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# LAN이 점차 보급 확산됨에 따라 지역으로 산재한 LAN들을 상호 접속시킬 수 있는 광역 정보통신망의 필요성이 증대되고 있다 .
+1	LAN이	LAN+이	NOUN	_	4	nsubj	_	_	LAN/f+이/jcs
+2	점차	점차	ADV	_	4	advmod	_	_	점차/mag
+3	보급	보급	NOUN	_	4	compound	_	_	보급/ncpa
+4	확산됨에	확산+되+ㅁ+에	ADV	_	5	obl	_	_	확산/ncpa+되/xsv+ㅁ/etn+에/jca
+5	따라	따르+아	SCONJ	_	16	ccomp	_	_	따르/pvg+아/ecs
+6	지역으로	지역+으로	ADV	_	7	advcl	_	_	지역/ncn+으로/jca
+7	산재한	산재+하+ㄴ	VERB	_	8	dep	_	_	산재/ncpa+하/xsv+ㄴ/etm
+8	LAN들을	LAN+들+을	NOUN	_	10	obj	_	_	LAN/f+들/xsn+을/jco
+9	상호	상호	NOUN	_	10	compound	_	_	상호/ncn
+10	접속시킬	접속+시키+ㄹ	VERB	_	14	acl	_	_	접속/ncpa+시키/xsv+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있는	있+는	ADJ	_	10	aux	_	_	있/paa+는/etm
+13	광역	광역	NOUN	_	14	compound	_	_	광역/ncn
+14	정보통신망의	정보+통신망+의	NOUN	_	15	nmod	_	_	정보/ncn+통신망/ncn+의/jcm
+15	필요성이	필요성+이	NOUN	_	16	nsubj	_	_	필요성/ncn+이/jcs
+16	증대되고	증대+되+고	VERB	_	0	root	_	_	증대/ncpa+되/xsv+고/ecx
+17	있다	있+다	AUX	_	16	aux	_	_	있/px+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 현재 국내 통신망구조에서 이와 같은 광역정보통신은 두 지점간을 독점적으로 연결하는 전용회선을 구축하거나 패킷 교환망을 사용하여 이루어지고 있다 .
+1	현재	현재	NOUN	_	16	advmod	_	_	현재/ncn
+2	국내	국내	NOUN	_	3	compound	_	_	국내/ncn
+3	통신망구조에서	통신망+구조+에서	ADV	_	16	advcl	_	_	통신망/ncn+구조/ncn+에서/jca
+4	이와	이+와	CCONJ	_	5	conj	_	_	이/npd+와/jct
+5	같은	같+ㄴ	ADJ	_	6	amod	_	_	같/paa+ㄴ/etm
+6	광역정보통신은	광역+정보+통신+은	NOUN	_	16	dislocated	_	_	광역/ncn+정보/ncn+통신/ncpa+은/jxt
+7	두	두	ADJ	_	8	amod	_	_	두/mma
+8	지점간을	지점+간+을	NOUN	_	10	obj	_	_	지점/ncn+간/xsn+을/jco
+9	독점적으로	독점+적+으로	ADV	_	10	advcl	_	_	독점/ncpa+적/xsn+으로/jca
+10	연결하는	연결+하+는	VERB	_	11	acl	_	_	연결/ncpa+하/xsv+는/etm
+11	전용회선을	전용+회선+을	NOUN	_	12	obj	_	_	전용/ncpa+회선/ncn+을/jco
+12	구축하거나	구축+하+거나	CCONJ	_	15	conj	_	_	구축/ncpa+하/xsv+거나/ecc
+13	패킷	패킷	NOUN	_	14	compound	_	_	패킷/ncn
+14	교환망을	교환망+을	NOUN	_	15	obj	_	_	교환망/ncn+을/jco
+15	사용하여	사용+하+어	SCONJ	_	16	ccomp	_	_	사용/ncpa+하/xsv+어/ecs
+16	이루어지고	이루어지+고	VERB	_	0	root	_	_	이루어지/pvg+고/ecx
+17	있다	있+다	AUX	_	16	aux	_	_	있/px+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이러한 이유로 전용회선 방법은 LAN이 설치된 지점 수가 증가함에 따라 전용회선 수가 급격히 증가하고 , 이에 따라 비용이 급상승하는 제한점이 있다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	이유로	이유+로	ADV	_	21	advcl	_	_	이유/ncn+로/jca
+3	전용회선	전용+회선	NOUN	_	4	compound	_	_	전용/ncpa+회선/ncn
+4	방법은	방법+은	NOUN	_	21	dislocated	_	_	방법/ncn+은/jxt
+5	LAN이	LAN+이	NOUN	_	6	nsubj	_	_	LAN/f+이/jcs
+6	설치된	설치+되+ㄴ	VERB	_	7	acl	_	_	설치/ncpa+되/xsv+ㄴ/etm
+7	지점	지점	NOUN	_	8	compound	_	_	지점/ncn
+8	수가	수+가	NOUN	_	9	nsubj	_	_	수/ncn+가/jcs
+9	증가함에	증가+하+ㅁ+에	ADV	_	10	obl	_	_	증가/ncpa+하/xsv+ㅁ/etn+에/jca
+10	따라	따르+아	SCONJ	_	14	ccomp	_	_	따르/pvg+아/ecs
+11	전용회선	전용+회선	NOUN	_	12	compound	_	_	전용/ncpa+회선/ncn
+12	수가	수+가	NOUN	_	14	nsubj	_	_	수/ncn+가/jcs
+13	급격히	급격+히	ADV	_	14	advmod	_	_	급격/ncps+히/xsa
+14	증가하고	증가+하+고	CCONJ	_	19	conj	_	_	증가/ncpa+하/xsv+고/ecc
+15	,	,	PUNCT	_	14	punct	_	_	,/sp
+16	이에	이+에	ADV	_	17	obl	_	_	이/npd+에/jca
+17	따라	따르+아	SCONJ	_	19	ccomp	_	_	따르/pvg+아/ecs
+18	비용이	비용+이	NOUN	_	19	nsubj	_	_	비용/ncn+이/jcs
+19	급상승하는	급상승+하+는	VERB	_	20	acl	_	_	급상승/ncpa+하/xsv+는/etm
+20	제한점이	제한점+이	NOUN	_	21	nsubj	_	_	제한점/ncn+이/jcs
+21	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 따라서 항상 일정한 전송 대역폭이 제공되며 , 데이터 전송 여부에 관계없이 접속시간에 따라 요금이 부과되는 전용회선 개념은 LAN 상호접속에는 비효율적이다 .
+1	따라서	따라서	CCONJ	_	20	cc	_	_	따라서/maj
+2	항상	항상	ADV	_	3	advmod	_	_	항상/mag
+3	일정한	일정+하+ㄴ	VERB	_	5	amod	_	_	일정/ncps+하/xsm+ㄴ/etm
+4	전송	전송	NOUN	_	5	compound	_	_	전송/ncpa
+5	대역폭이	대역폭+이	NOUN	_	6	nsubj	_	_	대역폭/ncn+이/jcs
+6	제공되며	제공+되+며	CCONJ	_	15	conj	_	_	제공/ncpa+되/xsv+며/ecc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	데이터	데이터	NOUN	_	9	compound	_	_	데이터/ncn
+9	전송	전송	NOUN	_	10	compound	_	_	전송/ncn
+10	여부에	여부+에	ADV	_	11	obl	_	_	여부/ncn+에/jca
+11	관계없이	관계없이	ADV	_	15	advmod	_	_	관계없이/mag
+12	접속시간에	접속+시간+에	ADV	_	13	obl	_	_	접속/ncpa+시간/ncn+에/jca
+13	따라	따르+아	SCONJ	_	15	ccomp	_	_	따르/pvg+아/ecs
+14	요금이	요금+이	NOUN	_	15	nsubj	_	_	요금/ncn+이/jcs
+15	부과되는	부과+되+는	VERB	_	16	acl	_	_	부과/ncpa+되/xsv+는/etm
+16	전용회선	전용+회선	NOUN	_	17	compound	_	_	전용/ncpa+회선/ncn
+17	개념은	개념+은	NOUN	_	20	dislocated	_	_	개념/ncn+은/jxt
+18	LAN	LAN	X	_	19	compound	_	_	LAN/f
+19	상호접속에는	상호+접속+에+는	NOUN	_	20	dislocated	_	_	상호/ncn+접속/ncpa+에/jca+는/jxt
+20	비효율적이다	비효율+적+이+다	VERB	_	0	root	_	_	비효율/ncn+적/xsn+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 현재 국제전기통신 기술자문위원회 ( CCITT ) 에서 ISDN ( 종합정보통신망 ) 의 부가서비스로 개발되고 있는 프레임 릴레이기술은 전송해야 하는 정보를 프레임이라고 하는 가변길이 데이터 단위로 전송한다 .
+1	현재	현재	NOUN	_	14	advmod	_	_	현재/ncn
+2	국제전기통신	국제+전기+통신	NOUN	_	3	compound	_	_	국제/ncn+전기/ncn+통신/ncpa
+3	기술자문위원회	기술+자문+위원회	NOUN	_	14	advcl	_	_	기술/ncpa+자문/ncpa+위원회/ncn
+4	(	(	PUNCT	_	5	punct	_	_	(/sl
+5	CCITT	CCITT	X	_	3	appos	_	_	CCITT/f
+6	)	)	PUNCT	_	5	punct	_	_	)/sr
+7	에서	에서	ADP	_	3	case	_	_	에서/jca
+8	ISDN	ISDN	X	_	13	nmod	_	_	ISDN/f
+9	(	(	PUNCT	_	10	punct	_	_	(/sl
+10	종합정보통신망	종합+정보+통신망	NOUN	_	8	appos	_	_	종합/ncpa+정보/ncn+통신망/ncn
+11	)	)	PUNCT	_	10	punct	_	_	)/sr
+12	의	의	ADP	_	8	case	_	_	의/jcm
+13	부가서비스로	부가+서비스+로	ADV	_	14	advcl	_	_	부가/ncpa+서비스/ncpa+로/jca
+14	개발되고	개발+되+고	VERB	_	17	acl	_	_	개발/ncpa+되/xsv+고/ecx
+15	있는	있+는	AUX	_	14	aux	_	_	있/px+는/etm
+16	프레임	프레임	NOUN	_	17	compound	_	_	프레임/ncn
+17	릴레이기술은	릴레이+기술+은	NOUN	_	26	dislocated	_	_	릴레이/ncpa+기술/ncn+은/jxt
+18	전송해야	전송+하+어야	VERB	_	20	acl	_	_	전송/ncpa+하/xsv+어야/ecx
+19	하는	하+는	AUX	_	18	aux	_	_	하/px+는/etm
+20	정보를	정보+를	NOUN	_	26	obj	_	_	정보/ncn+를/jco
+21	프레임이라고	프레임+이+라+고	VERB	_	22	conj	_	_	프레임/ncn+이/jp+라/ef+고/jcr
+22	하는	하+는	VERB	_	25	acl	_	_	하/pvg+는/etm
+23	가변길이	가변+길이	NOUN	_	24	compound	_	_	가변/ncn+길이/ncn
+24	데이터	데이터	NOUN	_	25	compound	_	_	데이터/ncn
+25	단위로	단위+로	ADV	_	26	advcl	_	_	단위/ncn+로/jca
+26	전송한다	전송+하+ㄴ다	VERB	_	0	root	_	_	전송/ncpa+하/xsv+ㄴ다/ef
+27	.	.	PUNCT	_	26	punct	_	_	./sf
+
+# 각 프레임은 수신측 주소 정보에 따라 릴레이 ( relay ) 함으로써 최종 수신단으로 보내지게 된다 .
+1	각	각	ADJ	_	2	amod	_	_	각/mma
+2	프레임은	프레임+은	NOUN	_	14	dislocated	_	_	프레임/ncn+은/jxt
+3	수신측	수신+측	NOUN	_	4	advmod	_	_	수신/ncpa+측/xsn
+4	주소	주소	NOUN	_	5	compound	_	_	주소/ncn
+5	정보에	정보+에	ADV	_	6	obl	_	_	정보/ncn+에/jca
+6	따라	따르+아	SCONJ	_	11	conj	_	_	따르/pvg+아/ecs
+7	릴레이	릴레이	NOUN	_	11	dep	_	_	릴레이/ncpa
+8	(	(	PUNCT	_	9	punct	_	_	(/sl
+9	relay	relay	X	_	7	appos	_	_	relay/f
+10	)	)	PUNCT	_	9	punct	_	_	)/sr
+11	함으로써	하+ㅁ+으로써	ADV	_	14	advcl	_	_	하/pvg+ㅁ/etn+으로써/jca
+12	최종	최종	NOUN	_	13	compound	_	_	최종/ncn
+13	수신단으로	수신단+으로	ADV	_	14	advcl	_	_	수신단/ncn+으로/jca
+14	보내지게	보내지+게	VERB	_	0	root	_	_	보내지/pvg+게/ecx
+15	된다	되+ㄴ다	AUX	_	14	aux	_	_	되/px+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# Bellcore에 의해 MAN 서비스의 표준으로 개발된 SMDS는 고속 비연결형 데이터 교환서비스로서 LAN 특성의 서비스를 광역에 걸쳐 제공할 수 있다 .
+1	Bellcore에	Bellcore+에	ADV	_	2	obl	_	_	Bellcore/f+에/jca
+2	의해	의하+어	SCONJ	_	6	ccomp	_	_	의하/pvg+어/ecs
+3	MAN	MAN	X	_	4	compound	_	_	MAN/f
+4	서비스의	서비스+의	NOUN	_	5	nmod	_	_	서비스/ncpa+의/jcm
+5	표준으로	표준+으로	ADV	_	6	advcl	_	_	표준/ncn+으로/jca
+6	개발된	개발+되+ㄴ	VERB	_	7	dep	_	_	개발/ncpa+되/xsv+ㄴ/etm
+7	SMDS는	SMDS+는	NOUN	_	17	dislocated	_	_	SMDS/f+는/jxt
+8	고속	고속	NOUN	_	11	compound	_	_	고속/ncn
+9	비연결형	비연결형	NOUN	_	11	compound	_	_	비연결형/ncn
+10	데이터	데이터	NOUN	_	11	compound	_	_	데이터/ncn
+11	교환서비스로서	교환+서비스+로서	ADV	_	17	advcl	_	_	교환/ncpa+서비스/ncpa+로서/jca
+12	LAN	LAN	X	_	13	compound	_	_	LAN/f
+13	특성의	특성+의	NOUN	_	14	nmod	_	_	특성/ncn+의/jcm
+14	서비스를	서비스+를	NOUN	_	17	obj	_	_	서비스/ncpa+를/jco
+15	광역에	광역+에	ADV	_	16	obl	_	_	광역/ncpa+에/jca
+16	걸쳐	걸치+어	SCONJ	_	17	ccomp	_	_	걸치/pvg+어/ecs
+17	제공할	제공+하+ㄹ	VERB	_	0	root	_	_	제공/ncpa+하/xsv+ㄹ/etm
+18	수	수	NOUN	_	19	fixed	_	_	수/nbn
+19	있다	있+다	ADJ	_	17	aux	_	_	있/paa+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 현재 53바이트의 ATM 셀 규격을 확정하였으며 , 가입자망의 매체 접속제어 방식으로 DQDB 프로토콜과 링 프로토콜을 검토하고 있다 .
+1	현재	현재	NOUN	_	6	advmod	_	_	현재/ncn
+2	53바이트의	53+바이트+의	NUM	_	5	nmod	_	_	53/nnc+바이트/nbu+의/jcm
+3	ATM	ATM	X	_	4	compound	_	_	ATM/f
+4	셀	셀	NOUN	_	5	compound	_	_	셀/ncn
+5	규격을	규격+을	NOUN	_	6	obj	_	_	규격/ncn+을/jco
+6	확정하였으며	확정+하+었+으며	SCONJ	_	16	ccomp	_	_	확정/ncpa+하/xsv+었/ep+으며/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	가입자망의	가입자망+의	NOUN	_	9	nmod	_	_	가입자망/ncn+의/jcm
+9	매체	매체	NOUN	_	10	compound	_	_	매체/ncn
+10	접속제어	접속+제어	NOUN	_	11	compound	_	_	접속/ncpa+제어/ncpa
+11	방식으로	방식+으로	ADV	_	16	advcl	_	_	방식/ncn+으로/jca
+12	DQDB	DQDB	X	_	13	compound	_	_	DQDB/f
+13	프로토콜과	프로토콜+과	CCONJ	_	15	conj	_	_	프로토콜/ncn+과/jcj
+14	링	링	NOUN	_	15	compound	_	_	링/ncn
+15	프로토콜을	프로토콜+을	NOUN	_	16	obj	_	_	프로토콜/ncn+을/jco
+16	검토하고	검토+하+고	VERB	_	0	root	_	_	검토/ncpa+하/xsv+고/ecx
+17	있다	있+다	AUX	_	16	aux	_	_	있/px+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# ATM 프로토콜에서는 정보통신 서비스를 그 특성에 따라 네 가지 종류로 구분하여 정의하고 있다 .
+1	ATM	ATM	X	_	2	compound	_	_	ATM/f
+2	프로토콜에서는	프로토콜+에서+는	NOUN	_	12	dislocated	_	_	프로토콜/ncn+에서/jca+는/jxt
+3	정보통신	정보+통신	NOUN	_	4	compound	_	_	정보/ncn+통신/ncpa
+4	서비스를	서비스+를	NOUN	_	12	obj	_	_	서비스/ncpa+를/jco
+5	그	그	DET	_	6	det	_	_	그/mmd
+6	특성에	특성+에	ADV	_	7	obl	_	_	특성/ncn+에/jca
+7	따라	따르+아	SCONJ	_	12	ccomp	_	_	따르/pvg+아/ecs
+8	네	네	ADJ	_	9	amod	_	_	네/mma
+9	가지	가지	NOUN	_	10	compound	_	_	가지/nbu
+10	종류로	종류+로	ADV	_	11	advcl	_	_	종류/ncn+로/jca
+11	구분하여	구분+하+어	SCONJ	_	12	ccomp	_	_	구분/ncpa+하/xsv+어/ecs
+12	정의하고	정의+하+고	VERB	_	0	root	_	_	정의/ncpa+하/xsv+고/ecx
+13	있다	있+다	AUX	_	12	aux	_	_	있/px+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# MAN 구축기술의 선택에는 여러 가지 측면을 고려해야 하나 선택된 기술의 장래성이 우선적으로 고려되어야 한다 .
+1	MAN	MAN	X	_	2	compound	_	_	MAN/f
+2	구축기술의	구축+기술+의	NOUN	_	3	nmod	_	_	구축/ncpa+기술/ncn+의/jcm
+3	선택에는	선택+에+는	NOUN	_	13	dislocated	_	_	선택/ncpa+에/jca+는/jxt
+4	여러	여러	ADJ	_	5	amod	_	_	여러/mma
+5	가지	가지	NOUN	_	6	compound	_	_	가지/nbu
+6	측면을	측면+을	NOUN	_	7	obj	_	_	측면/ncn+을/jco
+7	고려해야	고려+하+어야	VERB	_	13	ccomp	_	_	고려/ncpa+하/xsv+어야/ecx
+8	하나	하+나	SCONJ	_	7	aux	_	_	하/px+나/ecs
+9	선택된	선택+되+ㄴ	VERB	_	10	acl	_	_	선택/ncpa+되/xsv+ㄴ/etm
+10	기술의	기술+의	NOUN	_	11	nmod	_	_	기술/ncn+의/jcm
+11	장래성이	장래성+이	NOUN	_	13	nsubj	_	_	장래성/ncn+이/jcs
+12	우선적으로	우선+적+으로	ADV	_	13	advcl	_	_	우선/ncpa+적/xsn+으로/jca
+13	고려되어야	고려+되+어야	VERB	_	0	root	_	_	고려/ncpa+되/xsv+어야/ecx
+14	한다	하+ㄴ다	AUX	_	13	aux	_	_	하/px+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 사회적으로는 정보화사회로의 진전이 더욱 진행됨에 따라 사람들은 좀더 자연스럽고 현실감 있는 통신의 형태를 원한다 .
+1	사회적으로는	사회+적+으로+는	NOUN	_	14	dislocated	_	_	사회/ncn+적/xsn+으로/jca+는/jxt
+2	정보화사회로의	정보화+사회+로+의	NOUN	_	3	nmod	_	_	정보화/ncn+사회/ncn+로/jca+의/jcm
+3	진전이	진전+이	NOUN	_	5	nsubj	_	_	진전/ncpa+이/jcs
+4	더욱	더욱	ADV	_	5	advmod	_	_	더욱/mag
+5	진행됨에	진행+되+ㅁ+에	ADV	_	6	obl	_	_	진행/ncpa+되/xsv+ㅁ/etn+에/jca
+6	따라	따르+아	SCONJ	_	14	ccomp	_	_	따르/pvg+아/ecs
+7	사람들은	사람+들+은	NOUN	_	14	dislocated	_	_	사람/ncn+들/xsn+은/jxt
+8	좀더	좀더	ADV	_	11	advmod	_	_	좀더/mag
+9	자연스럽고	자연+스럽+고	CCONJ	_	11	conj	_	_	자연/ncps+스럽/xsm+고/ecc
+10	현실감	현실김	NOUN	_	11	dep	_	_	현실김/ncn
+11	있는	있+는	ADJ	_	12	amod	_	_	있/paa+는/etm
+12	통신의	통신+의	NOUN	_	13	nmod	_	_	통신/ncpa+의/jcm
+13	형태를	형태+를	NOUN	_	14	obj	_	_	형태/ncn+를/jco
+14	원한다	원하+ㄴ다	VERB	_	0	root	_	_	원하/pvg+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 앞으로의 자연스런 멀티미디어 통신의 구현에 가장 큰 걸림돌로 등장하는 것이 가입자 선로이다 .
+1	앞으로의	앞으로+의	NOUN	_	4	nmod	_	_	앞으로/ncn+의/jcm
+2	자연스런	자연스럽+ㄴ	ADJ	_	4	amod	_	_	자연스럽/paa+ㄴ/etm
+3	멀티미디어	멀티미디어	NOUN	_	4	compound	_	_	멀티미디어/ncn
+4	통신의	통신+의	NOUN	_	5	nmod	_	_	통신/ncpa+의/jcm
+5	구현에	구현+에	ADV	_	9	obl	_	_	구현/ncpa+에/jca
+6	가장	가장	ADV	_	7	advmod	_	_	가장/mag
+7	큰	크+ㄴ	ADJ	_	8	amod	_	_	크/paa+ㄴ/etm
+8	걸림돌로	걸림돌+로	ADV	_	9	advcl	_	_	걸림돌/ncn+로/jca
+9	등장하는	등장+하+는	VERB	_	10	acl	_	_	등장/ncpa+하/xsv+는/etm
+10	것이	것+이	NOUN	_	12	nsubj	_	_	것/nbn+이/jcs
+11	가입자	가입자	NOUN	_	12	compound	_	_	가입자/ncn
+12	선로이다	선로+이+다	VERB	_	0	root	_	_	선로/ncn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 따라서 대용량의 정보를 취급할 수 있는 가입자 선로가 정보화사회의 추구에 필수적으로 요구된다 .
+1	따라서	따라서	CCONJ	_	12	cc	_	_	따라서/maj
+2	대용량의	대용량+의	NOUN	_	3	nmod	_	_	대용량/ncn+의/jcm
+3	정보를	정보+를	NOUN	_	4	obj	_	_	정보/ncn+를/jco
+4	취급할	취급+하+ㄹ	VERB	_	8	acl	_	_	취급/ncpa+하/xsv+ㄹ/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	있는	있+는	ADJ	_	4	aux	_	_	있/paa+는/etm
+7	가입자	가입자	NOUN	_	8	compound	_	_	가입자/ncn
+8	선로가	선로+가	NOUN	_	12	nsubj	_	_	선로/ncn+가/jcs
+9	정보화사회의	정보화+사회+의	NOUN	_	10	nmod	_	_	정보화/ncn+사회/ncn+의/jcm
+10	추구에	추구+에	ADV	_	12	obl	_	_	추구/ncpa+에/jca
+11	필수적으로	필수+적+으로	ADV	_	12	advcl	_	_	필수/ncn+적/xsn+으로/jca
+12	요구된다	요구+되+ㄴ다	VERB	_	0	root	_	_	요구/ncpa+되/xsv+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이 대용량 정보를 취급하기 위하여 현재의 동선 가입자 선로의 대체수단으로 등장하는 것이 광섬유를 이용한 광가입자 선로이다 .
+1	이	이	DET	_	3	det	_	_	이/mmd
+2	대용량	대용량	NOUN	_	3	compound	_	_	대용량/ncn
+3	정보를	정보+를	NOUN	_	4	obj	_	_	정보/ncn+를/jco
+4	취급하기	취급+하+기	VERB	_	5	nmod	_	_	취급/ncpa+하/xsv+기/etn
+5	위하여	위하+어	SCONJ	_	11	ccomp	_	_	위하/pvg+어/ecs
+6	현재의	현재+의	NOUN	_	9	nmod	_	_	현재/ncn+의/jcm
+7	동선	동선	NOUN	_	8	compound	_	_	동선/ncn
+8	가입자	가입자	NOUN	_	9	compound	_	_	가입자/ncn
+9	선로의	선로+의	NOUN	_	10	nmod	_	_	선로/ncn+의/jcm
+10	대체수단으로	대체+수단+으로	ADV	_	11	advcl	_	_	대체/ncpa+수단/ncn+으로/jca
+11	등장하는	등장+하+는	VERB	_	12	acl	_	_	등장/ncpa+하/xsv+는/etm
+12	것이	것+이	NOUN	_	16	nsubj	_	_	것/nbn+이/jcs
+13	광섬유를	광섬유+를	NOUN	_	14	obj	_	_	광섬유/ncn+를/jco
+14	이용한	이용+하+ㄴ	VERB	_	16	ccomp	_	_	이용/ncpa+하/xsv+ㄴ/etm
+15	광가입자	광가입자	NOUN	_	16	compound	_	_	광가입자/ncn
+16	선로이다	선로+이+다	VERB	_	0	root	_	_	선로/ncn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이것은 광섬유를 이용하여 앞으로의 정보통신에 필요한 모든 고속 대용량정보를 가입자에게 전달한다 .
+1	이것은	이것+은	PRON	_	11	dislocated	_	_	이것/npd+은/jxt
+2	광섬유를	광섬유+를	NOUN	_	3	obj	_	_	광섬유/ncn+를/jco
+3	이용하여	이용+하+어	SCONJ	_	11	ccomp	_	_	이용/ncpa+하/xsv+어/ecs
+4	앞으로의	앞+으로+의	NOUN	_	5	nmod	_	_	앞/ncn+으로/jca+의/jcm
+5	정보통신에	정보+통신+에	ADV	_	6	obl	_	_	정보/ncn+통신/ncpa+에/jca
+6	필요한	필요+하+ㄴ	VERB	_	9	amod	_	_	필요/ncps+하/xsm+ㄴ/etm
+7	모든	모든	ADJ	_	9	amod	_	_	모든/mma
+8	고속	고속	NOUN	_	9	compound	_	_	고속/ncn
+9	대용량정보를	대용량+정보+를	NOUN	_	11	obj	_	_	대용량/ncn+정보/ncn+를/jco
+10	가입자에게	가입자+에게	ADV	_	11	iobj	_	_	가입자/ncn+에게/jca
+11	전달한다	전달+하+ㄴ다	VERB	_	0	root	_	_	전달/ncpa+하/xsv+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이 두 가지 유형의 서비스 통합은 앞으로의 정보전달에 획기적인 진화를 마련하는 계기가 될 것이다 .
+1	이	이	DET	_	4	det	_	_	이/mmd
+2	두	두	ADJ	_	3	amod	_	_	두/mma
+3	가지	가지	NOUN	_	4	compound	_	_	가지/nbu
+4	유형의	유형+의	NOUN	_	5	nmod	_	_	유형/ncn+의/jcm
+5	서비스	서비스	NOUN	_	6	compound	_	_	서비스/ncn
+6	통합은	통합+은	NOUN	_	13	dislocated	_	_	통합/ncpa+은/jxt
+7	앞으로의	앞+으로+의	NOUN	_	8	nmod	_	_	앞/ncn+으로/jca+의/jcm
+8	정보전달에	정보+전달+에	ADV	_	11	obl	_	_	정보/ncn+전달/ncpa+에/jca
+9	획기적인	획기적+이+ㄴ	VERB	_	10	acl	_	_	획기적/ncn+이/jp+ㄴ/etm
+10	진화를	진화+를	NOUN	_	11	obj	_	_	진화/ncpa+를/jco
+11	마련하는	마련+하+는	VERB	_	12	acl	_	_	마련/ncpa+하/xsv+는/etm
+12	계기가	계기+가	NOUN	_	13	csubj	_	_	계기/ncn+가/jcc
+13	될	되+ㄹ	VERB	_	0	root	_	_	되/pvg+ㄹ/etm
+14	것이다	것+이+다	VERB	_	13	aux	_	_	것/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그 중 가장 미래지향적이고 또 경제적인 방안으로 PON ( Passive Optical Network ) 이 선호되고 있다 .
+1	그	그	PRON	_	2	compound	_	_	그/npd
+2	중	중	NOUN	_	7	mark	_	_	중/nbn
+3	가장	가장	ADV	_	6	advmod	_	_	가장/mag
+4	미래지향적이고	미래+지향+적+이+고	CCONJ	_	5	conj	_	_	미래/ncn+지향/ncpa+적/xsn+이/jp+고/ecc
+5	또	또	CCONJ	_	6	conj	_	_	또/maj
+6	경제적인	경제+적+이+ㄴ	VERB	_	7	acl	_	_	경제/ncn+적/xsn+이/jp+ㄴ/etm
+7	방안으로	방안+으로	ADV	_	15	advcl	_	_	방안/ncn+으로/jca
+8	PON	PON	X	_	15	nsubj	_	_	PON/f
+9	(	(	PUNCT	_	12	punct	_	_	(/sl
+10	Passive	Passive	X	_	12	flat	_	_	Passive/f
+11	Optical	Optical	X	_	12	flat	_	_	Optical/f
+12	Network	Network	X	_	8	appos	_	_	Network/f
+13	)	)	PUNCT	_	12	punct	_	_	)/sr
+14	이	이	ADP	_	8	case	_	_	이/jcs
+15	선호되고	선호+되+고	VERB	_	0	root	_	_	선호/ncpa+되/xsv+고/ecx
+16	있다	있+다	AUX	_	15	aux	_	_	있/px+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# PON을 설명하기에 앞서 현재의 가입자망 구조를 살펴 보면 , 통신 가입자망은 스타 구조로서 전화국으로부터 각 가입자까지 별개의 가입자 선로로 구성되어 있다 .
+1	PON을	PON+을	NOUN	_	2	obj	_	_	PON/f+을/jco
+2	설명하기에	설명+하+기+에	ADV	_	3	obl	_	_	설명/ncpa+하/xsv+기/etn+에/jca
+3	앞서	앞서	ADV	_	7	advmod	_	_	앞서/mag
+4	현재의	현재+의	NOUN	_	6	nmod	_	_	현재/ncn+의/jcm
+5	가입자망	가입자망	NOUN	_	6	compound	_	_	가입자망/ncn
+6	구조를	구조+를	NOUN	_	7	obj	_	_	구조/ncn+를/jco
+7	살펴	살피+어	VERB	_	20	ccomp	_	_	살피/pvg+어/ecx
+8	보면	보+면	SCONJ	_	7	aux	_	_	보/px+면/ecs
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	통신	통신	NOUN	_	11	compound	_	_	통신/ncpa
+11	가입자망은	가입자망+은	NOUN	_	20	dislocated	_	_	가입자망/ncn+은/jxt
+12	스타	스타	NOUN	_	13	compound	_	_	스타/ncn
+13	구조로서	구조+로서	ADV	_	20	advcl	_	_	구조/ncn+로서/jca
+14	전화국으로부터	전화국+으로+부터	ADV	_	16	advcl	_	_	전화국/ncn+으로/jca+부터/jxc
+15	각	각	ADJ	_	16	amod	_	_	각/mma
+16	가입자까지	가입자+까지	ADV	_	20	advcl	_	_	가입자/ncn+까지/jxc
+17	별개의	별개+의	NOUN	_	19	nmod	_	_	별개/ncn+의/jcm
+18	가입자	가입자	NOUN	_	19	compound	_	_	가입자/ncn
+19	선로로	선로+로	ADV	_	20	advcl	_	_	선로/ncn+로/jca
+20	구성되어	구성+되+어	VERB	_	0	root	_	_	구성/ncpa+되/xsv+어/ecx
+21	있다	있+다	AUX	_	20	aux	_	_	있/px+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 이런 이중 스타 구조는 광섬유 수요를 줄일 수 있고 , 이에 따른 광소자 수요 또한 줄일 수 있어 경제성을 제공한다 .
+1	이런	이런	DET	_	4	det	_	_	이런/mmd
+2	이중	이중	NOUN	_	3	compound	_	_	이중/ncn
+3	스타	스타	NOUN	_	4	compound	_	_	스타/ncn
+4	구조는	구조+는	NOUN	_	16	dislocated	_	_	구조/ncn+는/jxt
+5	광섬유	광섬유	NOUN	_	6	compound	_	_	광섬유/ncn
+6	수요를	수요+를	NOUN	_	7	obj	_	_	수요/ncn+를/jco
+7	줄일	줄이+ㄹ	VERB	_	16	conj	_	_	줄이/pvg+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있고	있+고	CCONJ	_	7	aux	_	_	있/paa+고/ecc
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	이에	이+에	ADV	_	12	obl	_	_	이/npd+에/jca
+12	따른	따르+ㄴ	VERB	_	14	acl	_	_	따르/pvg+ㄴ/etm
+13	광소자	광소자	NOUN	_	14	compound	_	_	광소자/ncn
+14	수요	수요	NOUN	_	15	dep	_	_	수요/ncn
+15	또한	또한	ADV	_	16	advmod	_	_	또한/mag
+16	줄일	줄이+ㄹ	VERB	_	20	ccomp	_	_	줄이/pvg+ㄹ/etm
+17	수	수	NOUN	_	18	fixed	_	_	수/nbn
+18	있어	있+어	SCONJ	_	16	aux	_	_	있/paa+어/ecs
+19	경제성을	경제성+을	NOUN	_	20	obj	_	_	경제성/ncn+을/jco
+20	제공한다	제공+하+ㄴ다	VERB	_	0	root	_	_	제공/ncpa+하/xsv+ㄴ다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 반면 여러 가입자 신호가 분기되기 이전에는 한 광섬유를 통하여 전달되므로 각 가입자 신호의 보안방안 및 양방향 다중전송방안이 필요하다 .
+1	반면	반면	NOUN	_	18	compound	_	_	반면/ncn
+2	여러	여러	ADJ	_	3	amod	_	_	여러/mma
+3	가입자	가입자	NOUN	_	4	compound	_	_	가입자/ncn
+4	신호가	신호+가	NOUN	_	5	nsubj	_	_	신호/ncpa+가/jcs
+5	분기되기	분기+되+기	VERB	_	6	nmod	_	_	분기/ncpa+되/xsv+기/etn
+6	이전에는	이전+에+는	NOUN	_	10	dislocated	_	_	이전/ncn+에/jca+는/jxt
+7	한	한	ADJ	_	8	amod	_	_	한/mma
+8	광섬유를	광섬유+를	NOUN	_	9	obj	_	_	광섬유/ncn+를/jco
+9	통하여	통하+어	SCONJ	_	10	ccomp	_	_	통하/pvg+어/ecs
+10	전달되므로	전달+되+므로	SCONJ	_	18	conj	_	_	전달/ncpa+되/xsv+므로/ecs
+11	각	각	ADJ	_	12	amod	_	_	각/mma
+12	가입자	가입자	NOUN	_	13	compound	_	_	가입자/ncn
+13	신호의	신호+의	NOUN	_	17	nmod	_	_	신호/ncpa+의/jcm
+14	보안방안	보안+방안	NOUN	_	17	conj	_	_	보안/ncpa+방안/ncn
+15	및	및	CCONJ	_	17	cc	_	_	및/maj
+16	양방향	양방향	NOUN	_	17	compound	_	_	양방향/ncn
+17	다중전송방안이	다중+전송+방안+이	NOUN	_	18	nsubj	_	_	다중/ncn+전송/ncpa+방안/ncn+이/jcs
+18	필요하다	필요+하+다	VERB	_	0	root	_	_	필요/ncps+하/xsm+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이때 광섬유의 분기점에서는 능동적으로 광신호를 처리할 수도 있고 , 수동적으로 광신호를 분배 결합 전달할 수도 있다 .
+1	이때	이때	NOUN	_	14	advmod	_	_	이때/ncn
+2	광섬유의	광섬유+의	NOUN	_	3	nmod	_	_	광섬유/ncn+의/jcm
+3	분기점에서는	분기점+에서+는	NOUN	_	14	dislocated	_	_	분기점/ncn+에서/jca+는/jxt
+4	능동적으로	능동+적+으로	ADV	_	6	advcl	_	_	능동/ncn+적/xsn+으로/jca
+5	광신호를	광신호+를	NOUN	_	6	obj	_	_	광신호/ncn+를/jco
+6	처리할	처리+하+ㄹ	VERB	_	14	conj	_	_	처리/ncpa+하/xsv+ㄹ/etm
+7	수도	수+도	ADV	_	8	fixed	_	_	수/nbn+도/jxc
+8	있고	있+고	CCONJ	_	6	aux	_	_	있/paa+고/ecc
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	수동적으로	수동+적+으로	ADV	_	14	advcl	_	_	수동/ncn+적/xsn+으로/jca
+11	광신호를	광신호+를	NOUN	_	14	obj	_	_	광신호/ncn+를/jco
+12	분배	분배	NOUN	_	14	compound	_	_	분배/ncpa
+13	결합	결합	NOUN	_	14	compound	_	_	결합/ncpa
+14	전달할	전달+하+ㄹ	VERB	_	0	root	_	_	전달/ncpa+하/xsv+ㄹ/etm
+15	수도	수+도	ADV	_	16	fixed	_	_	수/nbn+도/jxc
+16	있다	있+다	ADJ	_	14	aux	_	_	있/paa+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# PON이란 이런 이중 또는 삼중 스타 구조의 분기점에서 수동적으로 광신호를 분배 결합 전달하는 방식을 의미한다 .
+1	PON이란	PON+이란	ADV	_	15	advcl	_	_	PON/f+이란/jxc
+2	이런	이런	DET	_	7	det	_	_	이런/mmd
+3	이중	이중	NOUN	_	5	conj	_	_	이중/ncn
+4	또는	또는	CCONJ	_	5	cc	_	_	또는/maj
+5	삼중	삼중	NOUN	_	6	compound	_	_	삼중/ncn
+6	스타	스타	NOUN	_	7	compound	_	_	스타/ncn
+7	구조의	구조+의	NOUN	_	8	nmod	_	_	구조/ncn+의/jcm
+8	분기점에서	분기점+에서	ADV	_	13	advcl	_	_	분기점/ncn+에서/jca
+9	수동적으로	수동+적+으로	ADV	_	13	advcl	_	_	수동/ncn+적/xsn+으로/jca
+10	광신호를	광신호+를	NOUN	_	13	obj	_	_	광신호/ncn+를/jco
+11	분배	분배	NOUN	_	13	compound	_	_	분배/ncpa
+12	결합	결합	NOUN	_	13	compound	_	_	결합/ncpa
+13	전달하는	전달+하+는	VERB	_	14	acl	_	_	전달/ncpa+하/xsv+는/etm
+14	방식을	방식+을	NOUN	_	15	obj	_	_	방식/ncn+을/jco
+15	의미한다	의미+하+ㄴ다	VERB	_	0	root	_	_	의미/ncpa+하/xsv+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이때 전화국으로부터 가입자로의 신호는 모든 가입자에게 방송되므로 가입자 신호의 보안방안 및 다중접속방안이 필수적이며 , 그 역방향 또한 유사한 문제를 해결해야 한다 .
+1	이때	이때	NOUN	_	7	advmod	_	_	이때/ncn
+2	전화국으로부터	전화국+으로+부터	ADV	_	3	advcl	_	_	전화국/ncn+으로/jca+부터/jxc
+3	가입자로의	가입자+로+의	NOUN	_	4	nmod	_	_	가입자/ncn+로/jca+의/jcm
+4	신호는	신호+는	NOUN	_	7	dislocated	_	_	신호/ncpa+는/jxt
+5	모든	모든	ADJ	_	6	amod	_	_	모든/mma
+6	가입자에게	가입자+에게	ADV	_	7	iobj	_	_	가입자/ncn+에게/jca
+7	방송되므로	방송+되+므로	SCONJ	_	13	ccomp	_	_	방송/ncpa+되/xsv+므로/ecs
+8	가입자	가입자	NOUN	_	9	compound	_	_	가입자/ncn
+9	신호의	신호+의	NOUN	_	12	nmod	_	_	신호/ncpa+의/jcm
+10	보안방안	보안+방안	NOUN	_	12	conj	_	_	보안/ncpa+방안/ncn
+11	및	및	CCONJ	_	12	cc	_	_	및/maj
+12	다중접속방안이	다중+접속+방안+이	NOUN	_	13	nsubj	_	_	다중/ncn+접속/ncpa+방안/ncn+이/jcs
+13	필수적이며	필수+적+이+며	CCONJ	_	20	conj	_	_	필수/ncn+적/xsn+이/jp+며/ecc
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	그	그	DET	_	16	det	_	_	그/mmd
+16	역방향	역방향	NOUN	_	17	dep	_	_	역방향/ncn
+17	또한	또한	ADV	_	20	advmod	_	_	또한/mag
+18	유사한	유사+하+ㄴ	VERB	_	19	amod	_	_	유사/ncps+하/xsm+ㄴ/etm
+19	문제를	문제+를	NOUN	_	20	obj	_	_	문제/ncn+를/jco
+20	해결해야	해결+하+어야	VERB	_	0	root	_	_	해결/ncpa+하/xsv+어야/ecx
+21	한다	하+ㄴ다	AUX	_	20	aux	_	_	하/px+ㄴ다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 이 수동적 방식의 PON은 능동광소자를 전화국 내부나 가입자 주거지역 내부에 국한시킴으로써 여러 경제적 관리적 이점을 제공한다 .
+1	이	이	DET	_	4	det	_	_	이/mmd
+2	수동적	수동+적	NOUN	_	3	amod	_	_	수동/ncn+적/xsn
+3	방식의	방식+의	NOUN	_	4	nmod	_	_	방식/ncn+의/jcm
+4	PON은	PON+은	NOUN	_	16	dislocated	_	_	PON/f+은/jxt
+5	능동광소자를	능동+광소자+를	NOUN	_	11	obj	_	_	능동/ncn+광소자/ncn+를/jco
+6	전화국	전화국	NOUN	_	7	compound	_	_	전화국/ncn
+7	내부나	내부+나	CCONJ	_	10	conj	_	_	내부/ncn+나/jcj
+8	가입자	가입자	NOUN	_	9	compound	_	_	가입자/ncn
+9	주거지역	주거+지역	NOUN	_	10	compound	_	_	주거/ncpa+지역/ncn
+10	내부에	내부+에	ADV	_	11	obl	_	_	내부/ncn+에/jca
+11	국한시킴으로써	국한+시키+ㅁ+으로써	ADV	_	16	advcl	_	_	국한/ncpa+시키/xsv+ㅁ/etn+으로써/jca
+12	여러	여러	ADJ	_	15	amod	_	_	여러/mma
+13	경제적	경제+적	NOUN	_	14	dep	_	_	경제/ncn+적/xsn
+14	관리적	관리+적	NOUN	_	15	amod	_	_	관리/ncpa+적/xsn
+15	이점을	이점+을	NOUN	_	16	obj	_	_	이점/ncn+을/jco
+16	제공한다	제공+하+ㄴ다	VERB	_	0	root	_	_	제공/ncpa+하/xsv+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 따라서 가장 선도적인 ETTH 방식은 PON 방식으로 미국 일본 및 유럽에서 현재 현장실험단계까지 와 있다 .
+1	따라서	따라서	CCONJ	_	14	cc	_	_	따라서/maj
+2	가장	가장	ADV	_	3	advmod	_	_	가장/mag
+3	선도적인	선도+적+이+ㄴ	VERB	_	5	acl	_	_	선도/ncpa+적/xsn+이/jp+ㄴ/etm
+4	ETTH	ETTH	X	_	5	compound	_	_	ETTH/f
+5	방식은	방식+은	NOUN	_	14	dislocated	_	_	방식/ncn+은/jxt
+6	PON	PON	X	_	7	compound	_	_	PON/f
+7	방식으로	방식+으로	ADV	_	14	advcl	_	_	방식/ncn+으로/jca
+8	미국	미국	PROPN	_	9	flat	_	_	미국/nq
+9	일본	일본	PROPN	_	11	conj	_	_	일본/nq
+10	및	및	CCONJ	_	11	cc	_	_	및/maj
+11	유럽에서	유럽+에서	ADV	_	14	advcl	_	_	유럽/nq+에서/jca
+12	현재	현재	NOUN	_	14	advmod	_	_	현재/ncn
+13	현장실험단계까지	현장+실험+단계+까지	ADV	_	14	advcl	_	_	현장/ncn+실험/ncpa+단계/ncn+까지/jxc
+14	와	오+아	VERB	_	0	root	_	_	오/pvg+아/ecx
+15	있다	있+다	AUX	_	14	aux	_	_	있/px+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 국제적으로 미국과 일본이 광가입자 시스템 기술의 선두를 달리고 있으며 , 유럽이 그 뒤 , 그리고 한국이 또 그 뒤를 따라가고 있는 수준이다 .
+1	국제적으로	국제+적+으로	ADV	_	20	advcl	_	_	국제/ncn+적/xsn+으로/jca
+2	미국과	미국+과	CCONJ	_	3	conj	_	_	미국/nq+과/jcj
+3	일본이	일본+이	PROPN	_	8	nsubj	_	_	일본/nq+이/jcs
+4	광가입자	광가입자	NOUN	_	5	compound	_	_	광가입자/ncn
+5	시스템	시스템	NOUN	_	6	compound	_	_	시스템/ncn
+6	기술의	기술+의	NOUN	_	7	nmod	_	_	기술/ncn+의/jcm
+7	선두를	선두+를	NOUN	_	8	obj	_	_	선두/ncn+를/jco
+8	달리고	달리+고	VERB	_	20	ccomp	_	_	달리/pvg+고/ecx
+9	있으며	있+으며	SCONJ	_	8	aux	_	_	있/px+으며/ecs
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	유럽이	유럽+이	PROPN	_	13	nsubj	_	_	유럽/nq+이/jcs
+12	그	그	DET	_	13	det	_	_	그/mmd
+13	뒤	뒤	NOUN	_	19	conj	_	_	뒤/ncn
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	그리고	그리고	CCONJ	_	19	cc	_	_	그리고/maj
+16	한국이	한국+이	PROPN	_	19	nsubj	_	_	한국/nq+이/jcs
+17	또	또	ADV	_	19	advmod	_	_	또/mag
+18	그	그	DET	_	19	det	_	_	그/mmd
+19	뒤를	뒤+를	NOUN	_	20	obj	_	_	뒤/ncn+를/jco
+20	따라가고	따르+아+가+고	AUX	_	22	ccomp	_	_	따르/pvg+아/ecx+가/px+고/ecx
+21	있는	있+는	AUX	_	20	aux	_	_	있/px+는/etm
+22	수준이다	수준+이+다	VERB	_	0	root	_	_	수준/ncn+이/jp+다/ef
+23	.	.	PUNCT	_	22	punct	_	_	./sf
+
+# 이 광가입자 시스템은 궁극적으로 모든 가입자의 선로를 광섬유로 대체하는 것을 의미하기 때문에 그 시장규모가 엄청날 것으로 추정된다 .
+1	이	이	DET	_	3	det	_	_	이/mmd
+2	광가입자	광가입자	NOUN	_	3	compound	_	_	광가입자/ncn
+3	시스템은	시스템+은	NOUN	_	11	dislocated	_	_	시스템/ncn+은/jxt
+4	궁극적으로	궁극+적+으로	ADV	_	9	advcl	_	_	궁극/ncps+적/xsn+으로/jca
+5	모든	모든	ADJ	_	6	amod	_	_	모든/mma
+6	가입자의	가입자+의	NOUN	_	7	nmod	_	_	가입자/ncn+의/jcm
+7	선로를	선로+를	NOUN	_	9	obj	_	_	선로/ncn+를/jco
+8	광섬유로	광섬유+로	ADV	_	9	advcl	_	_	광섬유/ncn+로/jca
+9	대체하는	대체+하+는	VERB	_	10	acl	_	_	대체/ncpa+하/xsv+는/etm
+10	것을	것+을	NOUN	_	11	obj	_	_	것/nbn+을/jco
+11	의미하기	의미+하+기	VERB	_	12	nmod	_	_	의미/ncpa+하/xsv+기/etn
+12	때문에	때문+에	ADV	_	17	obl	_	_	때문/nbn+에/jca
+13	그	그	DET	_	14	det	_	_	그/mmd
+14	시장규모가	시장+규모+가	NOUN	_	17	nsubj	_	_	시장/ncn+규모/ncn+가/jcs
+15	엄청날	엄청나+ㄹ	ADJ	_	16	amod	_	_	엄청나/paa+ㄹ/etm
+16	것으로	것+으로	ADV	_	17	advcl	_	_	것/nbn+으로/jca
+17	추정된다	추정+되+ㄴ다	VERB	_	0	root	_	_	추정/ncpa+되/xsv+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 따라서 세계 굴지의 통신기기업체들은 이 광가입자 시스템의 연구개발에 여념이 없다 .
+1	따라서	따라서	CCONJ	_	10	cc	_	_	따라서/maj
+2	세계	세계	NOUN	_	3	compound	_	_	세계/ncn
+3	굴지의	굴지+의	NOUN	_	4	nmod	_	_	굴지/ncn+의/jcm
+4	통신기기업체들은	통신+기기+업체+들+은	NOUN	_	10	dislocated	_	_	통신/ncpa+기기/ncn+업체/ncn+들/xsn+은/jxt
+5	이	이	DET	_	7	det	_	_	이/mmd
+6	광가입자	광가입자	NOUN	_	7	compound	_	_	광가입자/ncn
+7	시스템의	시스템+의	NOUN	_	8	nmod	_	_	시스템/ncn+의/jcm
+8	연구개발에	연구+개발+에	ADV	_	10	obl	_	_	연구/ncpa+개발/ncpa+에/jca
+9	여념이	여념+이	NOUN	_	10	nsubj	_	_	여념/ncn+이/jcs
+10	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 기존의 광전송과는 달리 광가입자 접속은 물리적 변경을 많이 요구하므로 광커넥터 기수를 포함한 고신뢰 간이형 광접속 및 광시공기술이 또한 필요하다 .
+1	기존의	기존+의	NOUN	_	2	nmod	_	_	기존/ncn+의/jcm
+2	광전송과는	광전송+과+는	NOUN	_	3	dislocated	_	_	광전송/ncn+과/jct+는/jxt
+3	달리	다르+이	SCONJ	_	9	xcomp	_	_	다르/paa+이/ecs
+4	광가입자	광가입자	NOUN	_	5	compound	_	_	광가입자/ncn
+5	접속은	접속+은	NOUN	_	9	dislocated	_	_	접속/ncpa+은/jxt
+6	물리적	물리+적	NOUN	_	7	amod	_	_	물리/ncn+적/xsn
+7	변경을	변경+을	NOUN	_	9	obj	_	_	변경/ncpa+을/jco
+8	많이	많이	ADV	_	9	advmod	_	_	많이/mag
+9	요구하므로	요구+하+므로	SCONJ	_	19	conj	_	_	요구/ncpa+하/xsv+므로/ecs
+10	광커넥터	광커넥터	NOUN	_	11	compound	_	_	광커넥터/ncn
+11	기수를	기수+를	NOUN	_	12	obj	_	_	기수/ncn+를/jco
+12	포함한	포함+하+ㄴ	VERB	_	17	acl	_	_	포함/ncpa+하/xsv+ㄴ/etm
+13	고신뢰	고신뢰	NOUN	_	17	compound	_	_	고신뢰/ncn
+14	간이형	간이형	NOUN	_	17	compound	_	_	간이형/ncn
+15	광접속	광접속	NOUN	_	17	conj	_	_	광접속/ncn
+16	및	및	CCONJ	_	17	cc	_	_	및/maj
+17	광시공기술이	광시공+기술+이	NOUN	_	19	nsubj	_	_	광시공/ncn+기술/ncn+이/jcs
+18	또한	또한	ADV	_	19	advmod	_	_	또한/mag
+19	필요하다	필요+하+다	VERB	_	0	root	_	_	필요/ncps+하/xsm+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 하필이면 가는 날이 장날이라 비 내리는 영동교 위에서 벌써 30 분을 지체하고 있었다 .
+1	하필이면	하필이면	ADV	_	4	advmod	_	_	하필이면/mag
+2	가는	가+는	VERB	_	3	acl	_	_	가/pvg+는/etm
+3	날이	날+이	NOUN	_	4	nsubj	_	_	날/ncn+이/jcs
+4	장날이라	장날+이+라	SCONJ	_	12	ccomp	_	_	장날/ncn+이/jp+라/ecs
+5	비	비	NOUN	_	6	dep	_	_	비/ncn
+6	내리는	내리+는	VERB	_	7	acl	_	_	내리/pvg+는/etm
+7	영동교	영동교	NOUN	_	8	compound	_	_	영동교/ncn
+8	위에서	위+에서	ADV	_	12	advcl	_	_	위/ncn+에서/jca
+9	벌써	벌써	ADV	_	12	advmod	_	_	벌써/mag
+10	30	30	NUM	_	11	nummod	_	_	30/nnc
+11	분을	분+을	NOUN	_	12	obj	_	_	분/nbu+을/jco
+12	지체하고	지체+하+고	VERB	_	0	root	_	_	지체/ncpa+하/xsv+고/ecx
+13	있었다	있+었+다	AUX	_	12	aux	_	_	있/px+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이제 30 분만 더 지체하면 약속시간에 늦고 , 그러면 그의 간절한 사랑의 기회가 그의 의지와는 관계없이 끝나버리게 된다 .
+1	이제	이제	ADV	_	5	advmod	_	_	이제/mag
+2	30	30	NUM	_	3	nummod	_	_	30/nnc
+3	분만	분+만	ADV	_	5	advcl	_	_	분/nbu+만/jxc
+4	더	더	ADV	_	5	advmod	_	_	더/mag
+5	지체하면	지체+하+면	SCONJ	_	7	conj	_	_	지체/ncpa+하/xsv+면/ecs
+6	약속시간에	약속+시간+에	ADV	_	7	obl	_	_	약속/ncpa+시간/ncn+에/jca
+7	늦고	늦+고	CCONJ	_	9	conj	_	_	늦/paa+고/ecc
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	그러면	그러면	CCONJ	_	17	conj	_	_	그러면/maj
+10	그의	그+의	PRON	_	12	nmod	_	_	그/npp+의/jcm
+11	간절한	간절하+ㄴ	ADJ	_	12	amod	_	_	간절하/paa+ㄴ/etm
+12	사랑의	사랑+의	NOUN	_	13	nmod	_	_	사랑/ncpa+의/jcm
+13	기회가	기회+가	NOUN	_	17	nsubj	_	_	기회/ncn+가/jcs
+14	그의	그+의	PRON	_	15	nmod	_	_	그/npp+의/jcm
+15	의지와는	의지+와+는	NOUN	_	16	dislocated	_	_	의지/ncn+와/jct+는/jxt
+16	관계없이	관계없이	ADV	_	17	advmod	_	_	관계없이/mag
+17	끝나버리게	끝나+아+버리+게	AUX	_	0	root	_	_	끝나/pvg+아/ecx+버리/px+게/ecx
+18	된다	되+ㄴ다	AUX	_	17	aux	_	_	되/px+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 할 수 없이 갑돌이는 휴대전화를 꺼내 들었다 .
+1	할	하+ㄹ	VERB	_	7	ccomp	_	_	하/pvg+ㄹ/etm
+2	수	수	NOUN	_	3	fixed	_	_	수/nbn
+3	없이	없+이	SCONJ	_	1	aux	_	_	없/paa+이/ecs
+4	갑돌이는	갑돌이+는	PROPN	_	7	dislocated	_	_	갑돌이/nq+는/jxt
+5	휴대전화를	휴대+전화+를	NOUN	_	7	obj	_	_	휴대/ncpa+전화/ncpa+를/jco
+6	꺼내	꺼내+어	SCONJ	_	7	ccomp	_	_	꺼내/pvg+어/ecs
+7	들었다	들+었+다	VERB	_	0	root	_	_	들/pvg+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 휴대전화는 ' 갑돌이로부터의 전화 , 개인용무 ' 라면서 전면판이 받겠느냐고 묻는다 .
+1	휴대전화는	휴대+전화+는	NOUN	_	6	dislocated	_	_	휴대/ncpa+전화/ncpa+는/jxt
+2	'	'	PUNCT	_	3	punct	_	_	'/sl
+3	갑돌이로부터의	갑돌이+로+부터+의	PROPN	_	6	nmod	_	_	갑돌이/nq+로/jca+부터/jxc+의/jcm
+4	전화	전화	NOUN	_	6	conj	_	_	전화/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	개인용무	개인+용무	NOUN	_	11	ccomp	_	_	개인/ncn+용무/ncn
+7	'	'	PUNCT	_	6	punct	_	_	'/sr
+8	라면서	이+라면서	ADP	_	6	cop	_	_	이/jp+라면서/ecs
+9	전면판이	전면판+이	NOUN	_	11	nsubj	_	_	전면판/ncn+이/jcs
+10	받겠느냐고	받+겠+느냐고	SCONJ	_	11	ccomp	_	_	받/pvg+겠/ep+느냐고/ecs
+11	묻는다	묻+는다	VERB	_	0	root	_	_	묻/pvg+는다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 도대체 어떻게 된 것인가 생각하면서 휴대전화를 귀에 가져 댄다 .
+1	도대체	도대체	ADV	_	2	advmod	_	_	도대체/mag
+2	어떻게	어떻+게	VERB	_	5	dep	_	_	어떻/pad+게/ecx
+3	된	되+ㄴ	AUX	_	2	aux	_	_	되/px+ㄴ/etm
+4	것인가	것+이+ㄴ가	VERB	_	2	aux	_	_	것/nbn+이/jp+ㄴ가/ef
+5	생각하면서	생각+하+면서	CCONJ	_	8	conj	_	_	생각/ncpa+하/xsv+면서/ecc
+6	휴대전화를	휴대+전화+를	NOUN	_	8	obj	_	_	휴대/ncpa+전화/ncpa+를/jco
+7	귀에	귀+에	ADV	_	8	obl	_	_	귀/ncn+에/jca
+8	가져	가지+어	VERB	_	0	root	_	_	가지/pvg+어/ecx
+9	댄다	대+ㄴ다	AUX	_	8	aux	_	_	대/px+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 갑돌이는 땀을 뻘뻘 흘리며 사정을 얘기하고 , 갑순이도 내심 갑돌이를 좋아하던 터라 빨리 오지 않으면 가버리겠노라는 정도로 쫑알거리고는 전화를 끊었다 .
+1	갑돌이는	갑돌이+는	PROPN	_	6	dislocated	_	_	갑돌이/nq+는/jxt
+2	땀을	땀+을	NOUN	_	4	obj	_	_	땀/ncn+을/jco
+3	뻘뻘	뻘뻘	ADV	_	4	advmod	_	_	뻘뻘/mag
+4	흘리며	흘리+며	CCONJ	_	6	conj	_	_	흘리/pvg+며/ecc
+5	사정을	사정+을	NOUN	_	6	obj	_	_	사정/ncn+을/jco
+6	얘기하고	얘기+하+고	CCONJ	_	20	conj	_	_	얘기/ncpa+하/xsv+고/ecc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	갑순이도	갑순이+도	ADV	_	20	advcl	_	_	갑순이/nq+도/jxc
+9	내심	내심	NOUN	_	11	advmod	_	_	내심/ncn
+10	갑돌이를	갑돌이+를	PROPN	_	11	obj	_	_	갑돌이/nq+를/jco
+11	좋아하던	좋아하+던	VERB	_	12	ccomp	_	_	좋아하/pvg+던/etm
+12	터라	터+이+라	SCONJ	_	20	ccomp	_	_	터/nbn+이/jp+라/ecs
+13	빨리	빨리	ADV	_	14	advmod	_	_	빨리/mag
+14	오지	오+지	VERB	_	16	ccomp	_	_	오/pvg+지/ecx
+15	않으면	않+으면	SCONJ	_	14	aux	_	_	않/px+으면/ecs
+16	가버리겠노라는	가버리+겠+노라는	VERB	_	17	acl	_	_	가버리/pvg+겠/ep+노라는/etm
+17	정도로	정도+로	ADV	_	18	advcl	_	_	정도/ncn+로/jca
+18	쫑알거리고는	쫑알거리+고는	SCONJ	_	20	ccomp	_	_	쫑알거리/pvg+고는/ecs
+19	전화를	전화+를	NOUN	_	20	obj	_	_	전화/ncpa+를/jco
+20	끊었다	끊+었+다	VERB	_	0	root	_	_	끊/pvg+었/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 한 잔의 차를 마시면서 기다리던 갑순이는 초조해지기 시작했다 .
+1	한	한	ADJ	_	2	amod	_	_	한/mma
+2	잔의	잔+의	NOUN	_	3	nmod	_	_	잔/ncn+의/jcm
+3	차를	차+를	NOUN	_	4	obj	_	_	차/ncn+를/jco
+4	마시면서	마시+면서	SCONJ	_	5	ccomp	_	_	마시/pvg+면서/ecs
+5	기다리던	기다리+던	VERB	_	6	acl	_	_	기다리/pvg+던/etm
+6	갑순이는	갑순이+는	PROPN	_	8	dislocated	_	_	갑순이/nq+는/jxt
+7	초조해지기	초조해지+기	VERB	_	8	nmod	_	_	초조해지/pvg+기/etn
+8	시작했다	시작+하+었+다	VERB	_	0	root	_	_	시작/ncpa+하/xsv+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 잠시 후면 갑돌이와 같이 가려고 예매까지 해 둔 연극이 시작되는데 , 자존심에 갑돌이에게 전화를 걸 수도 없고 .
+1	잠시	잠시	NOUN	_	2	compound	_	_	잠시/ncn
+2	후면	후+이+면	SCONJ	_	10	ccomp	_	_	후/ncn+이/jp+면/ecs
+3	갑돌이와	갑돌이+와	CCONJ	_	4	conj	_	_	갑돌이/nq+와/jct
+4	같이	같+이	SCONJ	_	5	xcomp	_	_	같/paa+이/ecs
+5	가려고	가+려고	SCONJ	_	7	ccomp	_	_	가/pvg+려고/ecs
+6	예매까지	예매+까지	ADV	_	7	advcl	_	_	예매/ncpa+까지/jxc
+7	해	하+어	VERB	_	9	acl	_	_	하/pvg+어/ecx
+8	둔	두+ㄴ	AUX	_	7	aux	_	_	두/px+ㄴ/etm
+9	연극이	연극+이	NOUN	_	10	nsubj	_	_	연극/ncn+이/jcs
+10	시작되는데	시작+되+는데	SCONJ	_	15	ccomp	_	_	시작/ncpa+되/xsv+는데/ecs
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	자존심에	자존심+에	ADV	_	15	obl	_	_	자존심/ncn+에/jca
+13	갑돌이에게	갑돌이+에게	ADV	_	15	iobj	_	_	갑돌이/nq+에게/jca
+14	전화를	전화+를	NOUN	_	15	obj	_	_	전화/ncpa+를/jco
+15	걸	걸+ㄹ	VERB	_	0	root	_	_	걸/pvg+ㄹ/etm
+16	수도	수+도	ADV	_	17	fixed	_	_	수/nbn+도/jxc
+17	없고	없+고	ADJ	_	15	aux	_	_	없/paa+고/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그런 초조함 속에서 휴대전화 벨이 울렸다 .
+1	그런	그런	DET	_	2	det	_	_	그런/mmd
+2	초조함	초조하+ㅁ	ADJ	_	3	nmod	_	_	초조하/paa+ㅁ/etn
+3	속에서	속+에서	ADV	_	6	advcl	_	_	속/ncn+에서/jca
+4	휴대전화	휴대+전화	NOUN	_	5	compound	_	_	휴대/ncpa+전화/ncpa
+5	벨이	벨+이	NOUN	_	6	nsubj	_	_	벨/ncn+이/jcs
+6	울렸다	울리+었+다	VERB	_	0	root	_	_	울리/pvg+었/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 수다쟁이 순이의 전화 .
+1	수다쟁이	수다쟁이	NOUN	_	2	compound	_	_	수다쟁이/ncn
+2	순이의	순이+의	PROPN	_	3	nmod	_	_	순이/nq+의/jcm
+3	전화	전화	NOUN	_	0	root	_	_	전화/ncpa
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 그러나 지금 어디 수다 떨 기분인가 .
+1	그러나	그러나	CCONJ	_	6	cc	_	_	그러나/maj
+2	지금	지금	NOUN	_	6	advmod	_	_	지금/ncn
+3	어디	어디	PRON	_	6	advmod	_	_	어디/npd
+4	수다	수다	NOUN	_	5	dep	_	_	수다/ncn
+5	떨	떨+ㄹ	VERB	_	6	ccomp	_	_	떨/pvg+ㄹ/etm
+6	기분인가	기분+이+ㄴ가	VERB	_	0	root	_	_	기분/ncn+이/jp+ㄴ가/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 몇 마디 내뱉고는 끊어버린다 .
+1	몇	몇	ADJ	_	2	amod	_	_	몇/mma
+2	마디	마디	NOUN	_	3	dep	_	_	마디/ncn
+3	내뱉고는	내뱉+고는	SCONJ	_	4	ccomp	_	_	내뱉/pvg+고는/ecs
+4	끊어버린다	끊+어+버리+ㄴ다	AUX	_	0	root	_	_	끊/pvg+어/ecx+버리/px+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 잠시 후 또 벨이 울린다 .
+1	잠시	잠시	NOUN	_	2	compound	_	_	잠시/ncn
+2	후	후	NOUN	_	5	advmod	_	_	후/ncn
+3	또	또	ADV	_	5	advmod	_	_	또/mag
+4	벨이	벨+이	NOUN	_	5	nsubj	_	_	벨/ncn+이/jcs
+5	울린다	울리+ㄴ다	VERB	_	0	root	_	_	울리/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 회사 부장의 전화다 .
+1	회사	회사	NOUN	_	2	compound	_	_	회사/ncn
+2	부장의	부장+의	NOUN	_	3	nmod	_	_	부장/ncn+의/jcm
+3	전화다	전화+이+다	VERB	_	0	root	_	_	전화/ncpa+이/jp+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 어떤 문서가 어디에 있느냐고 묻는다 .
+1	어떤	어떤	DET	_	2	det	_	_	어떤/mmd
+2	문서가	문서+가	NOUN	_	5	nsubj	_	_	문서/ncn+가/jcs
+3	어디에	어디+에	ADV	_	4	obl	_	_	어디/npd+에/jca
+4	있느냐고	있+느냐+고	VERB	_	5	conj	_	_	있/paa+느냐/ef+고/jcr
+5	묻는다	묻+는다	VERB	_	0	root	_	_	묻/pvg+는다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 불쾌한 마음을 억누르고 간신히 공손히 대답하고는 갑순이는 스마트 카드를 지갑에서 끄집어 내어 휴대전화에 넣었다 .
+1	불쾌한	불쾌하+ㄴ	ADJ	_	2	amod	_	_	불쾌하/paa+ㄴ/etm
+2	마음을	마음+을	NOUN	_	3	obj	_	_	마음/ncn+을/jco
+3	억누르고	억누르+고	CCONJ	_	6	conj	_	_	억누르/pvg+고/ecc
+4	간신히	간신+히	ADV	_	6	advmod	_	_	간신/ncps+히/xsa
+5	공손히	공손히	ADV	_	6	advmod	_	_	공손히/mag
+6	대답하고는	대답+하+고는	SCONJ	_	14	ccomp	_	_	대답/ncpa+하/xsv+고는/ecs
+7	갑순이는	갑순이+는	PROPN	_	14	dislocated	_	_	갑순이/nq+는/jxt
+8	스마트	스마트	NOUN	_	9	compound	_	_	스마트/ncn
+9	카드를	카드+를	NOUN	_	11	obj	_	_	카드/ncn+를/jco
+10	지갑에서	지갑+에서	ADV	_	11	advcl	_	_	지갑/ncn+에서/jca
+11	끄집어	끄집+어	VERB	_	14	ccomp	_	_	끄집/pvg+어/ecx
+12	내어	내+어	SCONJ	_	11	aux	_	_	내/px+어/ecs
+13	휴대전화에	휴대+전화+에	ADV	_	14	obl	_	_	휴대/ncpa+전화/ncpa+에/jca
+14	넣었다	넣+었+다	VERB	_	0	root	_	_	넣/pvg+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 더 이상 그런 전화 받기가 싫어 갑돌이로부터의 전화 말고는 모두 보이스 메일 ( Voice Mail ) 로 돌려버렸다 .
+1	더	더	ADV	_	2	advmod	_	_	더/mag
+2	이상	이상	NOUN	_	5	advmod	_	_	이상/ncn
+3	그런	그런	DET	_	4	det	_	_	그런/mmd
+4	전화	전화	NOUN	_	5	dep	_	_	전화/ncpa
+5	받기가	받+기+가	NOUN	_	6	nsubj	_	_	받/pvg+기/etn+가/jcs
+6	싫어	싫+어	SCONJ	_	18	xcomp	_	_	싫/paa+어/ecs
+7	갑돌이로부터의	갑돌이+로+부터+의	PROPN	_	8	nmod	_	_	갑돌이/nq+로/jca+부터/jxc+의/jcm
+8	전화	전화	NOUN	_	9	dep	_	_	전화/ncpa
+9	말고는	말+고는	SCONJ	_	18	ccomp	_	_	말/pvg+고는/ecs
+10	모두	모두	NOUN	_	18	advmod	_	_	모두/ncn
+11	보이스	보이스	NOUN	_	12	compound	_	_	보이스/ncn
+12	메일	메일	NOUN	_	18	advcl	_	_	메일/ncn
+13	(	(	PUNCT	_	15	punct	_	_	(/sl
+14	Voice	Voice	X	_	15	flat	_	_	Voice/f
+15	Mail	Mail	X	_	12	appos	_	_	Mail/f
+16	)	)	PUNCT	_	15	punct	_	_	)/sr
+17	로	로	ADP	_	12	case	_	_	로/jca
+18	돌려버렸다	돌리+어+버리+었+다	AUX	_	0	root	_	_	돌리/pvg+어/ecx+버리/px+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 한참 초조함으로 마음 졸인 뒤 벨이 울렸다 .
+1	한참	한참	ADV	_	4	advmod	_	_	한참/mag
+2	초조함으로	초조하+ㅁ+으로	ADV	_	4	advcl	_	_	초조하/paa+ㅁ/etn+으로/jca
+3	마음	마음	NOUN	_	4	dep	_	_	마음/ncn
+4	졸인	졸이+ㄴ	VERB	_	5	acl	_	_	졸이/pvg+ㄴ/etm
+5	뒤	뒤	NOUN	_	7	advmod	_	_	뒤/ncn
+6	벨이	벨+이	NOUN	_	7	nsubj	_	_	벨/ncn+이/jcs
+7	울렸다	울리+었+다	VERB	_	0	root	_	_	울리/pvg+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이 같은 시나리오는 PCS ( Personal Communications Service ) 또는 PCN ( Personal Communications Network ) 으로 불리는 개인통신 서비스가 지향하는 서비스의 면면을 보인다 .
+1	이	이	PRON	_	2	dep	_	_	이/npd
+2	같은	같+ㄴ	ADJ	_	3	amod	_	_	같/paa+ㄴ/etm
+3	시나리오는	시나리오+는	NOUN	_	24	dislocated	_	_	시나리오/ncn+는/jxt
+4	PCS	PCS	X	_	11	conj	_	_	PCS/f
+5	(	(	PUNCT	_	8	punct	_	_	(/sl
+6	Personal	Personal	X	_	8	flat	_	_	Personal/f
+7	Communications	Communications	X	_	8	flat	_	_	Communications/f
+8	Service	Service	X	_	4	appos	_	_	Service/f
+9	)	)	PUNCT	_	8	punct	_	_	)/sr
+10	또는	또는	CCONJ	_	11	cc	_	_	또는/maj
+11	PCN	PCN	X	_	18	advcl	_	_	PCN/f
+12	(	(	PUNCT	_	15	punct	_	_	(/sl
+13	Personal	Personal	X	_	15	flat	_	_	Personal/f
+14	Communications	Communications	X	_	15	flat	_	_	Communications/f
+15	Network	Network	X	_	11	appos	_	_	Network/f
+16	)	)	PUNCT	_	15	punct	_	_	)/sr
+17	으로	으로	ADP	_	11	case	_	_	으로/jca
+18	불리는	불리+는	VERB	_	20	acl	_	_	불리/pvg+는/etm
+19	개인통신	개인+통신	NOUN	_	20	compound	_	_	개인/ncn+통신/ncpa
+20	서비스가	서비스+가	NOUN	_	21	nsubj	_	_	서비스/ncpa+가/jcs
+21	지향하는	지향+하+는	VERB	_	22	acl	_	_	지향/ncpa+하/xsv+는/etm
+22	서비스의	서비스+의	NOUN	_	23	nmod	_	_	서비스/ncpa+의/jcm
+23	면면을	면면+을	NOUN	_	24	obj	_	_	면면/ncn+을/jco
+24	보인다	보이+ㄴ다	VERB	_	0	root	_	_	보이/pvg+ㄴ다/ef
+25	.	.	PUNCT	_	24	punct	_	_	./sf
+
+# 여기에서 보듯이 개인통신 서비스의 ' 개인 ' 또는 PCS의 ' Personal ' 은 두 가지 개념을 내포한다 .
+1	여기에서	여기+에서	ADV	_	2	advcl	_	_	여기/npd+에서/jca
+2	보듯이	보+듯이	SCONJ	_	17	ccomp	_	_	보/pvg+듯이/ecs
+3	개인통신	개인+통신	NOUN	_	4	compound	_	_	개인/ncn+통신/ncpa
+4	서비스의	서비스+의	NOUN	_	6	nmod	_	_	서비스/ncpa+의/jcm
+5	'	'	PUNCT	_	6	punct	_	_	'/sl
+6	개인	개인	NOUN	_	11	conj	_	_	개인/ncn
+7	'	'	PUNCT	_	6	punct	_	_	'/sr
+8	또는	또는	CCONJ	_	11	cc	_	_	또는/maj
+9	PCS의	PCS+의	NOUN	_	11	nmod	_	_	PCS/f+의/jcm
+10	'	'	PUNCT	_	11	punct	_	_	'/sl
+11	Personal	Personal	X	_	17	dislocated	_	_	Personal/f
+12	'	'	PUNCT	_	11	punct	_	_	'/sr
+13	은	은	ADP	_	11	case	_	_	은/jxt
+14	두	두	ADJ	_	15	amod	_	_	두/mma
+15	가지	가지	NOUN	_	16	compound	_	_	가지/nbu
+16	개념을	개념+을	NOUN	_	17	obj	_	_	개념/ncn+을/jco
+17	내포한다	내포+하+ㄴ다	VERB	_	0	root	_	_	내포/ncpa+하/xsv+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 언제 어디서나 걸 수 있고 받을 수 있는 휴대전화의 개념과 개인의 기호에 맞추어 서비스되는 서비스 개인화의 개념이다 .
+1	언제	언제	ADV	_	2	advmod	_	_	언제/mad
+2	어디서나	어디+서+나	ADV	_	6	advcl	_	_	어디/npd+서/jca+나/jxc
+3	걸	걸+ㄹ	VERB	_	6	conj	_	_	걸/pvg+ㄹ/etm
+4	수	수	NOUN	_	5	fixed	_	_	수/nbn
+5	있고	있+고	CCONJ	_	3	aux	_	_	있/paa+고/ecc
+6	받을	받+ㄹ	VERB	_	9	acl	_	_	받/pvg+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	있는	있+는	ADJ	_	6	aux	_	_	있/paa+는/etm
+9	휴대전화의	휴대+전화+의	NOUN	_	10	nmod	_	_	휴대/ncpa+전화/ncpa+의/jcm
+10	개념과	개념+과	CCONJ	_	17	conj	_	_	개념/ncn+과/jcj
+11	개인의	개인+의	NOUN	_	12	nmod	_	_	개인/ncn+의/jcm
+12	기호에	기호+에	ADV	_	13	obl	_	_	기호/ncn+에/jca
+13	맞추어	맞추+어	SCONJ	_	14	ccomp	_	_	맞추/pvg+어/ecs
+14	서비스되는	서비스+되+는	VERB	_	16	acl	_	_	서비스/ncpa+되/xsv+는/etm
+15	서비스	서비스	NOUN	_	16	compound	_	_	서비스/ncpa
+16	개인화의	개인화+의	NOUN	_	17	nmod	_	_	개인화/ncn+의/jcm
+17	개념이다	개념+이+다	VERB	_	0	root	_	_	개념/ncn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 전자의 개념은 현재 셀루러의 이동성이 발전한 것으로 , 각 개인이 휴대하며 차내 거리 실내 등 어디에서나 착발신이 되어야 한다 .
+1	전자의	전자+의	NOUN	_	2	nmod	_	_	전자/ncn+의/jcm
+2	개념은	개념+은	NOUN	_	18	dislocated	_	_	개념/ncn+은/jxt
+3	현재	현재	NOUN	_	5	compound	_	_	현재/ncn
+4	셀루러의	셀루러+의	NOUN	_	5	nmod	_	_	셀루러/ncn+의/jcm
+5	이동성이	이동성+이	NOUN	_	6	nsubj	_	_	이동성/ncn+이/jcs
+6	발전한	발전+하+ㄴ	VERB	_	7	acl	_	_	발전/ncpa+하/xsv+ㄴ/etm
+7	것으로	것+으로	ADV	_	18	advmod	_	_	것/nbn+으로/jca
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	각	각	ADJ	_	10	amod	_	_	각/mma
+10	개인이	개인+이	NOUN	_	11	nsubj	_	_	개인/ncn+이/jcs
+11	휴대하며	휴대+하+며	CCONJ	_	18	conj	_	_	휴대/ncpa+하/xsv+며/ecc
+12	차내	차내	NOUN	_	14	compound	_	_	차내/ncn
+13	거리	거리	NOUN	_	14	compound	_	_	거리/ncn
+14	실내	실내	NOUN	_	15	compound	_	_	실내/ncn
+15	등	등	NOUN	_	16	mark	_	_	등/nbn
+16	어디에서나	어디+에서+나	ADV	_	18	advcl	_	_	어디/npd+에서/jca+나/jxc
+17	착발신이	착발신+이	NOUN	_	18	csubj	_	_	착발신/ncn+이/jcc
+18	되어야	되+어야	VERB	_	0	root	_	_	되/pvg+어야/ecx
+19	한다	하+ㄴ다	AUX	_	18	aux	_	_	하/px+ㄴ다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 하지만 이 휴대이동성이 PCS의 전부는 아니다 .
+1	하지만	하지만	CCONJ	_	6	cc	_	_	하지만/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	휴대이동성이	휴대+이동성+이	NOUN	_	6	csubj	_	_	휴대/ncpa+이동성/ncn+이/jcc
+4	PCS의	PCS+의	NOUN	_	5	nmod	_	_	PCS/f+의/jcm
+5	전부는	전부+는	NOUN	_	6	dislocated	_	_	전부/ncn+는/jxt
+6	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 갑순이의 경우처럼 걸려오는 전화를 받고 싶지 않거나 받지 못할 때도 있다 .
+1	갑순이의	갑순이+의	PROPN	_	2	nmod	_	_	갑순이/nq+의/jcm
+2	경우처럼	경우+처럼	ADV	_	8	advcl	_	_	경우/ncn+처럼/jca
+3	걸려오는	걸리+어+오+는	AUX	_	4	acl	_	_	걸리/pvg+어/ecx+오/px+는/etm
+4	전화를	전화+를	NOUN	_	5	obj	_	_	전화/ncpa+를/jco
+5	받고	받+고	VERB	_	8	conj	_	_	받/pvg+고/ecx
+6	싶지	싶+지	AUX	_	5	aux	_	_	싶/px+지/ecx
+7	않거나	않+거나	CCONJ	_	5	aux	_	_	않/px+거나/ecc
+8	받지	받+지	VERB	_	10	acl	_	_	받/pvg+지/ecx
+9	못할	못하+ㄹ	AUX	_	8	aux	_	_	못하/px+ㄹ/etm
+10	때도	때+도	ADV	_	11	advcl	_	_	때/ncn+도/jxc
+11	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러면 그런 전화는 어떻게 처리하는가 ?
+1	그러면	그러면	CCONJ	_	5	cc	_	_	그러면/maj
+2	그런	그런	DET	_	3	det	_	_	그런/mmd
+3	전화는	전화+는	NOUN	_	5	dislocated	_	_	전화/ncpa+는/jxt
+4	어떻게	어떻+게	SCONJ	_	5	xcomp	_	_	어떻/pad+게/ecs
+5	처리하는가	처리+하+는가	VERB	_	0	root	_	_	처리/ncpa+하/xsv+는가/ef
+6	?	?	PUNCT	_	5	punct	_	_	?/sf
+
+# 이런 서비스의 개인화를 위한 이력 미디엄으로 스마트 카드가 선보였다 .
+1	이런	이런	DET	_	2	det	_	_	이런/mmd
+2	서비스의	서비스+의	NOUN	_	3	nmod	_	_	서비스/ncpa+의/jcm
+3	개인화를	개인화+를	NOUN	_	4	obj	_	_	개인화/ncn+를/jco
+4	위한	위하+ㄴ	VERB	_	6	acl	_	_	위하/pvg+ㄴ/etm
+5	이력	이력	NOUN	_	6	compound	_	_	이력/ncn
+6	미디엄으로	미디엄+으로	ADV	_	9	advcl	_	_	미디엄/ncn+으로/jca
+7	스마트	스마트	NOUN	_	8	compound	_	_	스마트/ncn
+8	카드가	카드+가	NOUN	_	9	nsubj	_	_	카드/ncn+가/jcs
+9	선보였다	선보이+었+다	VERB	_	0	root	_	_	선보이/pvg+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그 외에도 PCS에는 편리한 다이얼링 기능과 착신전화의 내용을 알려주는 얼러팅 ( Alerting ) 기능 등도 요구된다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	외에도	외+에+도	ADV	_	16	advcl	_	_	외/ncn+에/jca+도/jxc
+3	PCS에는	PCS+에+는	NOUN	_	16	dislocated	_	_	PCS/f+에/jca+는/jxt
+4	편리한	편리하+ㄴ	ADJ	_	6	amod	_	_	편리하/paa+ㄴ/etm
+5	다이얼링	다이얼링	NOUN	_	6	compound	_	_	다이얼링/ncn
+6	기능과	기능+과	CCONJ	_	14	conj	_	_	기능/ncn+과/jcj
+7	착신전화의	착신+전화+의	NOUN	_	8	nmod	_	_	착신/ncn+전화/ncpa+의/jcm
+8	내용을	내용+을	NOUN	_	9	obj	_	_	내용/ncn+을/jco
+9	알려주는	알리+어+주+는	AUX	_	14	acl	_	_	알리/pvg+어/ecx+주/px+는/etm
+10	얼러팅	얼러팅	NOUN	_	14	compound	_	_	얼러팅/ncn
+11	(	(	PUNCT	_	12	punct	_	_	(/sl
+12	Alerting	Alerting	X	_	10	appos	_	_	Alerting/f
+13	)	)	PUNCT	_	12	punct	_	_	)/sr
+14	기능	기능	NOUN	_	15	compound	_	_	기능/ncn
+15	등도	등+도	ADV	_	16	advcl	_	_	등/nbn+도/jxc
+16	요구된다	요구+되+ㄴ다	VERB	_	0	root	_	_	요구/ncpa+되/xsv+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 또 써비스를 제공하는 망은 착발신자가 어디에 있는지를 , 그리고 어떤 서비스를 어떻게 원하는지를 파악하고 제어할 수 있는 충분한 지능을 가져야 한다 .
+1	또	또	CCONJ	_	20	cc	_	_	또/maj
+2	써비스를	써비스+를	NOUN	_	3	obj	_	_	써비스/ncpa+를/jco
+3	제공하는	제공+하+는	VERB	_	4	acl	_	_	제공/ncpa+하/xsv+는/etm
+4	망은	망+은	NOUN	_	20	dislocated	_	_	망/ncn+은/jxt
+5	착발신자가	착발신자+가	NOUN	_	7	nsubj	_	_	착발신자/ncn+가/jcs
+6	어디에	어디+에	ADV	_	7	obl	_	_	어디/npd+에/jca
+7	있는지를	있+는지+를	NOUN	_	13	conj	_	_	있/paa+는지/ef+를/jco
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	그리고	그리고	CCONJ	_	13	cc	_	_	그리고/maj
+10	어떤	어떤	DET	_	11	det	_	_	어떤/mmd
+11	서비스를	서비스+를	NOUN	_	13	obj	_	_	서비스/ncpa+를/jco
+12	어떻게	어떻+게	SCONJ	_	13	xcomp	_	_	어떻/pad+게/ecs
+13	원하는지를	원하+는지+를	NOUN	_	15	obj	_	_	원하/pvg+는지/ef+를/jco
+14	파악하고	파악+하+고	CCONJ	_	15	conj	_	_	파악/ncpa+하/xsv+고/ecc
+15	제어할	제어+하+ㄹ	VERB	_	19	acl	_	_	제어/ncpa+하/xsv+ㄹ/etm
+16	수	수	NOUN	_	17	fixed	_	_	수/nbn
+17	있는	있+는	ADJ	_	15	aux	_	_	있/paa+는/etm
+18	충분한	충분하+ㄴ	ADJ	_	19	amod	_	_	충분하/paa+ㄴ/etm
+19	지능을	지능+을	NOUN	_	20	obj	_	_	지능/ncn+을/jco
+20	가져야	가지+어야	VERB	_	0	root	_	_	가지/pvg+어야/ecx
+21	한다	하+ㄴ다	AUX	_	20	aux	_	_	하/px+ㄴ다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 그리고 작은 출력과 한정된 주파수대역으로 많은 수의 가입자를 수용하기 위한 마이크로셀 ( Microcell ) 구조도 필요하다 .
+1	그리고	그리고	CCONJ	_	16	cc	_	_	그리고/maj
+2	작은	작+ㄴ	ADJ	_	3	amod	_	_	작/paa+ㄴ/etm
+3	출력과	출력+과	CCONJ	_	5	conj	_	_	출력/ncpa+과/jcj
+4	한정된	한정+되+ㄴ	VERB	_	5	acl	_	_	한정/ncpa+되/xsv+ㄴ/etm
+5	주파수대역으로	주파수+대역+으로	ADV	_	9	advcl	_	_	주파수/ncn+대역/ncn+으로/jca
+6	많은	많+ㄴ	ADJ	_	7	amod	_	_	많/paa+ㄴ/etm
+7	수의	수+의	NOUN	_	8	nmod	_	_	수/ncn+의/jcm
+8	가입자를	가입자+를	NOUN	_	9	obj	_	_	가입자/ncn+를/jco
+9	수용하기	수용+하+기	VERB	_	10	nmod	_	_	수용/ncpa+하/xsv+기/etn
+10	위한	위하+ㄴ	VERB	_	15	acl	_	_	위하/pvg+ㄴ/etm
+11	마이크로셀	마이크로+셀	NOUN	_	15	compound	_	_	마이크로/ncn+셀/ncn
+12	(	(	PUNCT	_	13	punct	_	_	(/sl
+13	Microcell	Microcell	X	_	11	appos	_	_	Microcell/f
+14	)	)	PUNCT	_	13	punct	_	_	)/sr
+15	구조도	구조+도	ADV	_	16	advcl	_	_	구조/ncn+도/jxc
+16	필요하다	필요+하+다	VERB	_	0	root	_	_	필요/ncps+하/xsm+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이들 중 셀룰러에서는 무선접속 및 신호처리기술이 강조되었지만 , PCS에서는 교환 지능망 망 구성기술 등이 더 중요하고 어려운 기술로 대두된다 .
+1	이들	이+들	NOUN	_	2	compound	_	_	이/npd+들/xsn
+2	중	중	NOUN	_	3	mark	_	_	중/nbn
+3	셀룰러에서는	셀룰러+에서+는	NOUN	_	7	dislocated	_	_	셀룰러/ncn+에서/jca+는/jxt
+4	무선접속	무선+접속	NOUN	_	6	conj	_	_	무선/ncn+접속/ncpa
+5	및	및	CCONJ	_	6	cc	_	_	및/maj
+6	신호처리기술이	신호+처리+기술+이	NOUN	_	7	nsubj	_	_	신호/ncpa+처리/ncpa+기술/ncn+이/jcs
+7	강조되었지만	강조+되+었+지만	SCONJ	_	19	ccomp	_	_	강조/ncpa+되/xsv+었/ep+지만/ecs
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	PCS에서는	PCS+에서+는	NOUN	_	19	dislocated	_	_	PCS/f+에서/jca+는/jxt
+10	교환	교환	NOUN	_	11	compound	_	_	교환/ncpa
+11	지능망	지능망	NOUN	_	13	compound	_	_	지능망/ncn
+12	망	망	NOUN	_	13	compound	_	_	망/ncn
+13	구성기술	구성+기술	NOUN	_	14	compound	_	_	구성/ncpa+기술/ncn
+14	등이	등+이	NOUN	_	19	nsubj	_	_	등/nbn+이/jcs
+15	더	더	ADV	_	17	advmod	_	_	더/mag
+16	중요하고	중요+하+고	CCONJ	_	17	conj	_	_	중요/ncps+하/xsm+고/ecc
+17	어려운	어렵+ㄴ	ADJ	_	18	amod	_	_	어렵/paa+ㄴ/etm
+18	기술로	기술+로	ADV	_	19	advcl	_	_	기술/ncn+로/jca
+19	대두된다	대두+되+ㄴ다	VERB	_	0	root	_	_	대두/ncpa+되/xsv+ㄴ다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# PCS의 서비스 영역은 단말의 이동 속도에 따라 크게 주행용과 보행정지용으로 나눌 수 있고 , 보행정지용은 또 업무용과 가정용으로 나눌 수 있다 .
+1	PCS의	PCS+의	NOUN	_	2	nmod	_	_	PCS/f+의/jcm
+2	서비스	서비스	NOUN	_	3	compound	_	_	서비스/ncpa
+3	영역은	영역+은	NOUN	_	19	dislocated	_	_	영역/ncn+은/jxt
+4	단말의	단말+의	NOUN	_	6	nmod	_	_	단말/ncn+의/jcm
+5	이동	이동	NOUN	_	6	compound	_	_	이동/ncpa
+6	속도에	속도+에	ADV	_	7	obl	_	_	속도/ncn+에/jca
+7	따라	따르+아	SCONJ	_	11	ccomp	_	_	따르/pvg+아/ecs
+8	크게	크+게	SCONJ	_	11	xcomp	_	_	크/paa+게/ecs
+9	주행용과	주행용+과	CCONJ	_	10	conj	_	_	주행용/ncn+과/jcj
+10	보행정지용으로	보행+정지용+으로	ADV	_	11	advcl	_	_	보행/ncpa+정지용/ncn+으로/jca
+11	나눌	나누+ㄹ	VERB	_	19	conj	_	_	나누/pvg+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있고	있+고	CCONJ	_	11	aux	_	_	있/paa+고/ecc
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	보행정지용은	보행+정지용+은	NOUN	_	19	dislocated	_	_	보행/ncpa+정지용/ncn+은/jxt
+16	또	또	ADV	_	19	advmod	_	_	또/mag
+17	업무용과	업무용+과	CCONJ	_	18	conj	_	_	업무용/ncn+과/jcj
+18	가정용으로	가정용+으로	ADV	_	19	advcl	_	_	가정용/ncn+으로/jca
+19	나눌	나누+ㄹ	VERB	_	0	root	_	_	나누/pvg+ㄹ/etm
+20	수	수	NOUN	_	21	fixed	_	_	수/nbn
+21	있다	있+다	ADJ	_	19	aux	_	_	있/paa+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 텔레포인트 ( Telepoint ) 라 불리는 공공용은 가정용 및 업무용 영역과 중복되어 있다 .
+1	텔레포인트	텔레포인트	NOUN	_	6	conj	_	_	텔레포인트/ncn
+2	(	(	PUNCT	_	3	punct	_	_	(/sl
+3	Telepoint	Telepoint	X	_	1	appos	_	_	Telepoint/f
+4	)	)	PUNCT	_	3	punct	_	_	)/sr
+5	라	라	ADP	_	1	case	_	_	라/jcr
+6	불리는	불리+는	VERB	_	7	acl	_	_	불리/pvg+는/etm
+7	공공용은	공공용+은	NOUN	_	12	dislocated	_	_	공공용/ncn+은/jxt
+8	가정용	가정용	NOUN	_	10	conj	_	_	가정용/ncn
+9	및	및	CCONJ	_	10	cc	_	_	및/maj
+10	업무용	업무용	NOUN	_	11	compound	_	_	업무용/ncn
+11	영역과	영역+과	CCONJ	_	12	conj	_	_	영역/ncn+과/jct
+12	중복되어	중복+되+어	VERB	_	0	root	_	_	중복/ncpa+되/xsv+어/ecx
+13	있다	있+다	AUX	_	12	aux	_	_	있/px+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 현재는 어느 하나의 기술로 전체 PCS 서비스 영역을 전부 처리하기는 어렵고 상당한 기간동안 각 영역별로 발전되고 확대될 것이다 .
+1	현재는	현재+는	NOUN	_	11	dislocated	_	_	현재/ncn+는/jxt
+2	어느	어느	DET	_	3	det	_	_	어느/mmd
+3	하나의	하나+의	NUM	_	4	nmod	_	_	하나/nnc+의/jcm
+4	기술로	기술+로	ADV	_	10	advcl	_	_	기술/ncn+로/jca
+5	전체	전체	NOUN	_	8	compound	_	_	전체/ncn
+6	PCS	PCS	X	_	7	compound	_	_	PCS/f
+7	서비스	서비스	NOUN	_	8	compound	_	_	서비스/ncpa
+8	영역을	영역+을	NOUN	_	10	obj	_	_	영역/ncn+을/jco
+9	전부	전부	NOUN	_	10	compound	_	_	전부/ncn
+10	처리하기는	처리+하+기+는	NOUN	_	11	dislocated	_	_	처리/ncpa+하/xsv+기/etn+는/jxt
+11	어렵고	어렵+고	CCONJ	_	17	conj	_	_	어렵/paa+고/ecc
+12	상당한	상당+하+ㄴ	VERB	_	13	amod	_	_	상당/ncps+하/xsm+ㄴ/etm
+13	기간동안	기간+동안	NOUN	_	17	advmod	_	_	기간/ncn+동안/ncn
+14	각	각	ADJ	_	15	amod	_	_	각/mma
+15	영역별로	영역별+로	ADV	_	17	advcl	_	_	영역별/ncn+로/jca
+16	발전되고	발전+되+고	CCONJ	_	17	conj	_	_	발전/ncpa+되/xsv+고/ecc
+17	확대될	확대+되+ㄹ	VERB	_	0	root	_	_	확대/ncpa+되/xsv+ㄹ/etm
+18	것이다	것+이+다	VERB	_	17	aux	_	_	것/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 앞으로 기술과 시장이 무르익으면 발전된 기술을 사용하여 이체화된 서비스의 형태로 전 PCS 서비스 영역을 통합할 것으로 예상된다 .
+1	앞으로	앞+으로	ADV	_	4	advcl	_	_	앞/ncn+으로/jca
+2	기술과	기술+과	CCONJ	_	3	conj	_	_	기술/ncn+과/jcj
+3	시장이	시장+이	NOUN	_	4	nsubj	_	_	시장/ncn+이/jcs
+4	무르익으면	무르익+으면	SCONJ	_	15	ccomp	_	_	무르익/pvg+으면/ecs
+5	발전된	발전+되+ㄴ	VERB	_	6	acl	_	_	발전/ncpa+되/xsv+ㄴ/etm
+6	기술을	기술+을	NOUN	_	7	obj	_	_	기술/ncn+을/jco
+7	사용하여	사용+하+어	SCONJ	_	15	ccomp	_	_	사용/ncpa+하/xsv+어/ecs
+8	이체화된	이체화+되+ㄴ	VERB	_	9	acl	_	_	이체화/ncpa+되/xsv+ㄴ/etm
+9	서비스의	서비스+의	NOUN	_	10	nmod	_	_	서비스/ncpa+의/jcm
+10	형태로	형태+로	ADV	_	15	advcl	_	_	형태/ncn+로/jca
+11	전	전	NOUN	_	14	compound	_	_	전/ncn
+12	PCS	PCS	X	_	13	compound	_	_	PCS/f
+13	서비스	서비스	NOUN	_	14	compound	_	_	서비스/ncpa
+14	영역을	영역+을	NOUN	_	15	obj	_	_	영역/ncn+을/jco
+15	통합할	통합+하+ㄹ	VERB	_	16	acl	_	_	통합/ncpa+하/xsv+ㄹ/etm
+16	것으로	것+으로	ADV	_	17	advcl	_	_	것/nbn+으로/jca
+17	예상된다	예상+되+ㄴ다	VERB	_	0	root	_	_	예상/ncpa+되/xsv+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 업무용 가정용 공공용 서비스는 모두 보행정지용에 속하므로 같은 무선접속기로 이런 서비스들을 모두 처리할 수 있으며 , 망 지능에 따라서 구별된다 .
+1	업무용	업무용	NOUN	_	3	compound	_	_	업무용/ncn
+2	가정용	가정용	NOUN	_	3	compound	_	_	가정용/ncn
+3	공공용	공공용	NOUN	_	4	compound	_	_	공공용/ncn
+4	서비스는	서비스+는	NOUN	_	7	dislocated	_	_	서비스/ncpa+는/jxt
+5	모두	모두	NOUN	_	7	advmod	_	_	모두/ncn
+6	보행정지용에	보행+정지용+에	ADV	_	7	obl	_	_	보행/ncpa+정지용/ncn+에/jca
+7	속하므로	속하+므로	SCONJ	_	13	ccomp	_	_	속하/pvg+므로/ecs
+8	같은	같+ㄴ	ADJ	_	9	amod	_	_	같/paa+ㄴ/etm
+9	무선접속기로	무선+접속기+로	ADV	_	13	advcl	_	_	무선/ncn+접속기/ncn+로/jca
+10	이런	이런	DET	_	11	det	_	_	이런/mmd
+11	서비스들을	서비스+들+을	NOUN	_	13	obj	_	_	서비스/ncpa+들/xsn+을/jco
+12	모두	모두	NOUN	_	13	compound	_	_	모두/ncn
+13	처리할	처리+하+ㄹ	VERB	_	20	ccomp	_	_	처리/ncpa+하/xsv+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있으며	있+으며	SCONJ	_	13	aux	_	_	있/paa+으며/ecs
+16	,	,	PUNCT	_	15	punct	_	_	,/sp
+17	망	망	NOUN	_	18	compound	_	_	망/ncn
+18	지능에	지능+에	ADV	_	19	obl	_	_	지능/ncn+에/jca
+19	따라서	따르+아서	SCONJ	_	20	ccomp	_	_	따르/pvg+아서/ecs
+20	구별된다	구별+되+ㄴ다	VERB	_	0	root	_	_	구별/ncpa+되/xsv+ㄴ다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그러므로 하나의 단말기로 위의 모든 서비스를 사용할 수 있어야 한다 .
+1	그러므로	그러므로	CCONJ	_	7	cc	_	_	그러므로/maj
+2	하나의	하나+의	NUM	_	3	nmod	_	_	하나/nnc+의/jcm
+3	단말기로	단말기+로	ADV	_	7	advcl	_	_	단말기/ncn+로/jca
+4	위의	위+의	NOUN	_	6	nmod	_	_	위/ncn+의/jcm
+5	모든	모든	ADJ	_	6	amod	_	_	모든/mma
+6	서비스를	서비스+를	NOUN	_	7	obj	_	_	서비스/ncpa+를/jco
+7	사용할	사용+하+ㄹ	VERB	_	0	root	_	_	사용/ncpa+하/xsv+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있어야	있+어야	ADJ	_	7	aux	_	_	있/paa+어야/ecx
+10	한다	하+ㄴ다	AUX	_	7	aux	_	_	하/px+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이를 해결하기 위해 차량에 주행용 서비스를 위한 무선접속 중계장치를 두고 보행정지용 단말을 그 중계장치의 휴대단말로 이용하는 방안이 제안되었다 .
+1	이를	이+를	PRON	_	2	obj	_	_	이/npd+를/jco
+2	해결하기	해결+하+기	VERB	_	3	nmod	_	_	해결/ncpa+하/xsv+기/etn
+3	위해	위하+어	SCONJ	_	18	ccomp	_	_	위하/pvg+어/ecs
+4	차량에	차량+에	ADV	_	10	obl	_	_	차량/ncn+에/jca
+5	주행용	주행용	NOUN	_	6	compound	_	_	주행용/ncn
+6	서비스를	서비스+를	NOUN	_	7	obj	_	_	서비스/ncpa+를/jco
+7	위한	위하+ㄴ	VERB	_	9	acl	_	_	위하/pvg+ㄴ/etm
+8	무선접속	무선+접속	NOUN	_	9	compound	_	_	무선/ncn+접속/ncpa
+9	중계장치를	중계+장치+를	NOUN	_	10	obj	_	_	중계/ncpa+장치/ncpa+를/jco
+10	두고	두+고	CCONJ	_	16	conj	_	_	두/pvg+고/ecc
+11	보행정지용	보행+정지용	NOUN	_	12	compound	_	_	보행/ncpa+정지용/ncn
+12	단말을	단말+을	NOUN	_	16	obj	_	_	단말/ncn+을/jco
+13	그	그	DET	_	14	det	_	_	그/mmd
+14	중계장치의	중계+장치+의	NOUN	_	15	nmod	_	_	중계/ncpa+장치/ncpa+의/jcm
+15	휴대단말로	휴대+단말+로	ADV	_	16	advcl	_	_	휴대/ncpa+단말/ncn+로/jca
+16	이용하는	이용+하+는	VERB	_	17	acl	_	_	이용/ncpa+하/xsv+는/etm
+17	방안이	방안+이	NOUN	_	18	nsubj	_	_	방안/ncn+이/jcs
+18	제안되었다	제안+되+었+다	VERB	_	0	root	_	_	제안/ncpa+되/xsv+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이 경우 사용자는 모든 서비스에 같은 단말을 사용한다는 느낌이 들며 , 차량의 중계기가 필요한 송신출력 증폭 및 주파수 변환을 해 준다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	경우	경우	NOUN	_	20	advmod	_	_	경우/ncn
+3	사용자는	사용자+는	NOUN	_	10	dislocated	_	_	사용자/ncn+는/jxt
+4	모든	모든	ADJ	_	5	amod	_	_	모든/mma
+5	서비스에	서비스+에	ADV	_	8	obl	_	_	서비스/ncpa+에/jca
+6	같은	같+ㄴ	ADJ	_	7	amod	_	_	같/paa+ㄴ/etm
+7	단말을	단말+을	NOUN	_	8	obj	_	_	단말/ncn+을/jco
+8	사용한다는	사용+하+ㄴ다는	VERB	_	9	acl	_	_	사용/ncpa+하/xsv+ㄴ다는/etm
+9	느낌이	느낌+이	NOUN	_	10	nsubj	_	_	느낌/ncn+이/jcs
+10	들며	들+며	CCONJ	_	20	conj	_	_	들/pvg+며/ecc
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	차량의	차량+의	NOUN	_	13	nmod	_	_	차량/ncn+의/jcm
+13	중계기가	중계기+가	NOUN	_	20	nsubj	_	_	중계기/ncn+가/jcs
+14	필요한	필요+하+ㄴ	VERB	_	19	amod	_	_	필요/ncps+하/xsm+ㄴ/etm
+15	송신출력	송신+출력	NOUN	_	16	compound	_	_	송신/ncpa+출력/ncpa
+16	증폭	증폭	NOUN	_	19	conj	_	_	증폭/ncpa
+17	및	및	CCONJ	_	19	cc	_	_	및/maj
+18	주파수	주파수	NOUN	_	19	compound	_	_	주파수/ncn
+19	변환을	변환+을	NOUN	_	20	obj	_	_	변환/ncpa+을/jco
+20	해	하+어	VERB	_	0	root	_	_	하/pvg+어/ecx
+21	준다	주+ㄴ다	AUX	_	20	aux	_	_	주/px+ㄴ다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 그리고 무선접속을 제외한 나머지 기술분야에서는 주행용 또는 보행정지용에 따라 서로 다른 기술이 필요하지 않고 같은 기술로 처리가 가능하다 .
+1	그리고	그리고	CCONJ	_	18	cc	_	_	그리고/maj
+2	무선접속을	무선+접속+을	NOUN	_	3	obj	_	_	무선/ncn+접속/ncpa+을/jco
+3	제외한	제외+하+ㄴ	VERB	_	5	acl	_	_	제외/ncpa+하/xsv+ㄴ/etm
+4	나머지	나머지	NOUN	_	5	compound	_	_	나머지/ncn
+5	기술분야에서는	기술+분야+에서+는	NOUN	_	18	dislocated	_	_	기술/ncn+분야/ncn+에서/jca+는/jxt
+6	주행용	주행용	NOUN	_	8	conj	_	_	주행용/ncn
+7	또는	또는	CCONJ	_	8	cc	_	_	또는/maj
+8	보행정지용에	보행+정지용+에	ADV	_	9	obl	_	_	보행/ncpa+정지용/ncn+에/jca
+9	따라	따르+아	SCONJ	_	13	conj	_	_	따르/pvg+아/ecs
+10	서로	서로	NOUN	_	11	dep	_	_	서로/ncn
+11	다른	다르+ㄴ	ADJ	_	12	amod	_	_	다르/paa+ㄴ/etm
+12	기술이	기술+이	NOUN	_	13	nsubj	_	_	기술/ncn+이/jcs
+13	필요하지	필요+하+지	VERB	_	18	conj	_	_	필요/ncps+하/xsm+지/ecx
+14	않고	않+고	CCONJ	_	13	aux	_	_	않/px+고/ecc
+15	같은	같+ㄴ	ADJ	_	16	amod	_	_	같/paa+ㄴ/etm
+16	기술로	기술+로	ADV	_	18	advcl	_	_	기술/ncn+로/jca
+17	처리가	처리+가	NOUN	_	18	nsubj	_	_	처리/ncpa+가/jcs
+18	가능하다	가능+하+다	VERB	_	0	root	_	_	가능/ncps+하/xsm+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이런 PCS가 상용화되어 품질이 좋고 요금이 적당하면 일반전화가입자의 50 % 이상이 이를 사용할 것으로 예측되며 , 궁극적으로는 현재의 일반전화수요를 대체하리라 예상된다 .
+1	이런	이런	DET	_	2	det	_	_	이런/mmd
+2	PCS가	PCS+가	NOUN	_	3	nsubj	_	_	PCS/f+가/jcs
+3	상용화되어	상용화+되+어	SCONJ	_	7	conj	_	_	상용화/ncpa+되/xsv+어/ecs
+4	품질이	품질+이	NOUN	_	5	nsubj	_	_	품질/ncn+이/jcs
+5	좋고	좋+고	CCONJ	_	7	conj	_	_	좋/paa+고/ecc
+6	요금이	요금+이	NOUN	_	7	nsubj	_	_	요금/ncn+이/jcs
+7	적당하면	적당하+면	SCONJ	_	13	xcomp	_	_	적당하/paa+면/ecs
+8	일반전화가입자의	일반+전화+가입자+의	NOUN	_	11	nmod	_	_	일반/ncn+전화/ncpa+가입자/ncn+의/jcm
+9	50	50	NUM	_	11	nummod	_	_	50/nnc
+10	%	%	SYM	_	9	punct	_	_	%/su
+11	이상이	이상+이	NOUN	_	13	nsubj	_	_	이상/ncn+이/jcs
+12	이를	이+를	PRON	_	13	obj	_	_	이/npd+를/jco
+13	사용할	사용+하+ㄹ	VERB	_	14	acl	_	_	사용/ncpa+하/xsv+ㄹ/etm
+14	것으로	것+으로	ADV	_	15	advcl	_	_	것/nbn+으로/jca
+15	예측되며	예측+되+며	CCONJ	_	21	conj	_	_	예측/ncpa+되/xsv+며/ecc
+16	,	,	PUNCT	_	15	punct	_	_	,/sp
+17	궁극적으로는	궁극+적+으로+는	NOUN	_	20	dislocated	_	_	궁극/ncps+적/xsn+으로/jca+는/jxt
+18	현재의	현재+의	NOUN	_	19	nmod	_	_	현재/ncn+의/jcm
+19	일반전화수요를	일반+전화+수요+를	NOUN	_	20	obj	_	_	일반/ncn+전화/ncpa+수요/ncn+를/jco
+20	대체하리라	대체+하+리라	VERB	_	21	ccomp	_	_	대체/ncpa+하/xsv+리라/ef
+21	예상된다	예상+되+ㄴ다	VERB	_	0	root	_	_	예상/ncpa+되/xsv+ㄴ다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 일반적으로는 PCS 망 같은 무선통신망은 기존의 유선통신망과는 별도로 구현되어야 하는 것처럼 인식되어 있으나 , 기술적으로는 그럴 이유가 없다 .
+1	일반적으로는	일반+적+으로+는	NOUN	_	12	dislocated	_	_	일반/ncn+적/xsn+으로/jca+는/jxt
+2	PCS	PCS	X	_	3	compound	_	_	PCS/f
+3	망	망	NOUN	_	4	dep	_	_	망/ncn
+4	같은	같+ㄴ	ADJ	_	5	amod	_	_	같/paa+ㄴ/etm
+5	무선통신망은	무선+통신망+은	NOUN	_	9	dislocated	_	_	무선/ncn+통신망/ncn+은/jxt
+6	기존의	기존+의	NOUN	_	7	nmod	_	_	기존/ncn+의/jcm
+7	유선통신망과는	유선+통신망+과+는	NOUN	_	8	dislocated	_	_	유선/ncn+통신망/ncn+과/jct+는/jxt
+8	별도로	별도+로	ADV	_	9	advcl	_	_	별도/ncn+로/jca
+9	구현되어야	구현+되+어야	VERB	_	11	acl	_	_	구현/ncpa+되/xsv+어야/ecx
+10	하는	하+는	AUX	_	9	aux	_	_	하/px+는/etm
+11	것처럼	것+처럼	ADV	_	12	advcl	_	_	것/nbn+처럼/jca
+12	인식되어	인식+되+어	VERB	_	18	dep	_	_	인식/ncpa+되/xsv+어/ecx
+13	있으나	있+으나	SCONJ	_	12	aux	_	_	있/px+으나/ecs
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	기술적으로는	기술+적+으로+는	NOUN	_	18	dislocated	_	_	기술/ncn+적/xsn+으로/jca+는/jxt
+16	그럴	그렇+ㄹ	VERB	_	17	amod	_	_	그렇/pad+ㄹ/etm
+17	이유가	이유+가	NOUN	_	18	nsubj	_	_	이유/ncn+가/jcs
+18	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이것은 도리어 PCS가 앞으로 PSTN ( 공중전화교환망 ) 의 대체수단으로 진행되는 것을 고려할 때 여러 문제점을 유발한다 .
+1	이것은	이것+은	PRON	_	17	dislocated	_	_	이것/npd+은/jxt
+2	도리어	도리어	ADV	_	17	advmod	_	_	도리어/mag
+3	PCS가	PCS+가	NOUN	_	11	nsubj	_	_	PCS/f+가/jcs
+4	앞으로	앞+으로	ADV	_	11	advcl	_	_	앞/ncn+으로/jca
+5	PSTN	PSTN	X	_	10	nmod	_	_	PSTN/f
+6	(	(	PUNCT	_	7	punct	_	_	(/sl
+7	공중전화교환망	공중+전화+교환망	NOUN	_	5	appos	_	_	공중/ncn+전화/ncn+교환망/ncn
+8	)	)	PUNCT	_	7	punct	_	_	)/sr
+9	의	의	ADP	_	5	case	_	_	의/jcm
+10	대체수단으로	대체+수단+으로	ADV	_	11	advcl	_	_	대체/ncn+수단/ncn+으로/jca
+11	진행되는	진행+되+는	VERB	_	12	acl	_	_	진행/ncpa+되/xsv+는/etm
+12	것을	것+을	NOUN	_	13	obj	_	_	것/nbn+을/jco
+13	고려할	고려+하+ㄹ	VERB	_	14	acl	_	_	고려/ncpa+하/xsv+ㄹ/etm
+14	때	때	NOUN	_	17	advmod	_	_	때/ncn
+15	여러	여러	ADJ	_	16	amod	_	_	여러/mma
+16	문제점을	문제점+을	NOUN	_	17	obj	_	_	문제점/ncn+을/jco
+17	유발한다	유발+하+ㄴ다	VERB	_	0	root	_	_	유발/ncpa+하/xsv+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# PCS가 앞으로 일반전화를 대체하는 서비스로서 강조되어야 할 사항은 일반전화에 상응하는 서비스 품질의 제공이다 .
+1	PCS가	PCS+가	NOUN	_	4	nsubj	_	_	PCS/f+가/jcs
+2	앞으로	앞+으로	ADV	_	4	advcl	_	_	앞/ncn+으로/jca
+3	일반전화를	일반+전화+를	NOUN	_	4	obj	_	_	일반/ncn+전화/ncpa+를/jco
+4	대체하는	대체+하+는	VERB	_	5	acl	_	_	대체/ncpa+하/xsv+는/etm
+5	서비스로서	서비스+로서	ADV	_	6	advcl	_	_	서비스/ncpa+로서/jca
+6	강조되어야	강조+되+어야	VERB	_	8	acl	_	_	강조/ncpa+되/xsv+어야/ecx
+7	할	하+ㄹ	AUX	_	6	aux	_	_	하/px+ㄹ/etm
+8	사항은	사항+은	NOUN	_	13	dislocated	_	_	사항/ncn+은/jxt
+9	일반전화에	일반+전화+에	ADV	_	10	obl	_	_	일반/ncn+전화/ncpa+에/jca
+10	상응하는	상응+하+는	VERB	_	12	acl	_	_	상응/ncpa+하/xsv+는/etm
+11	서비스	서비스	NOUN	_	12	compound	_	_	서비스/ncpa
+12	품질의	품질+의	NOUN	_	13	nmod	_	_	품질/ncn+의/jcm
+13	제공이다	제공+이+다	VERB	_	0	root	_	_	제공/ncpa+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그리고 전국민이 PCS 서비스의 대상이므로 그들의 부담을 고려하여 범국가적 경제성을 추구하는 방안으로 PSC가 구현되어야 한다 .
+1	그리고	그리고	CCONJ	_	14	cc	_	_	그리고/maj
+2	전국민이	전국민+이	NOUN	_	5	csubj	_	_	전국민/ncn+이/jcc
+3	PCS	PCS	X	_	4	compound	_	_	PCS/f
+4	서비스의	서비스+의	NOUN	_	5	nmod	_	_	서비스/ncpa+의/jcm
+5	대상이므로	대상+이+므로	SCONJ	_	14	ccomp	_	_	대상/ncn+이/jp+므로/ecs
+6	그들의	그+들+의	PRON	_	7	nmod	_	_	그/npp+들/xsn+의/jcm
+7	부담을	부담+을	NOUN	_	8	obj	_	_	부담/ncpa+을/jco
+8	고려하여	고려+하+어	SCONJ	_	11	ccomp	_	_	고려/ncpa+하/xsv+어/ecs
+9	범국가적	범국가+적	NOUN	_	10	amod	_	_	범국가/ncn+적/xsn
+10	경제성을	경제성+을	NOUN	_	11	obj	_	_	경제성/ncn+을/jco
+11	추구하는	추구+하+는	VERB	_	12	acl	_	_	추구/ncpa+하/xsv+는/etm
+12	방안으로	방안+으로	ADV	_	14	advcl	_	_	방안/ncn+으로/jca
+13	PSC가	PSC+가	NOUN	_	14	nsubj	_	_	PSC/f+가/jcs
+14	구현되어야	구현+되+어야	VERB	_	0	root	_	_	구현/ncpa+되/xsv+어야/ecx
+15	한다	하+ㄴ다	AUX	_	14	aux	_	_	하/px+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 동기식 광통신 방식 통신의 미래를 연 대표적 기술이라면 누구나 광통신을 손꼽는다 .
+1	동기식	동기식	NOUN	_	3	compound	_	_	동기식/ncn
+2	광통신	광통신	NOUN	_	3	compound	_	_	광통신/ncn
+3	방식	방식	NOUN	_	4	compound	_	_	방식/ncn
+4	통신의	통신+의	NOUN	_	5	nmod	_	_	통신/ncpa+의/jcm
+5	미래를	미래+를	NOUN	_	6	obj	_	_	미래/ncn+를/jco
+6	연	열+ㄴ	VERB	_	8	ccomp	_	_	열/pvg+ㄴ/etm
+7	대표적	대표+적	NOUN	_	8	amod	_	_	대표/ncpa+적/xsn
+8	기술이라면	기술+이+라면	SCONJ	_	11	ccomp	_	_	기술/ncn+이/jp+라면/ecs
+9	누구나	누구+나	ADV	_	11	advcl	_	_	누구/npp+나/jxc
+10	광통신을	광통신+을	NOUN	_	11	obj	_	_	광통신/ncn+을/jco
+11	손꼽는다	손꼽+는다	VERB	_	0	root	_	_	손꼽/pvg+는다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이런 광통신 기술의 빠른 행보를 그대로 실수요자에게 혜택으로 돌리는 데는 기술의 발전 ( Technology Push ) 만으로 충분하지 못했다 .
+1	이런	이런	DET	_	3	det	_	_	이런/mmd
+2	광통신	광통신	NOUN	_	3	compound	_	_	광통신/ncn
+3	기술의	기술+의	NOUN	_	5	nmod	_	_	기술/ncn+의/jcm
+4	빠른	빠르+ㄴ	ADJ	_	5	amod	_	_	빠르/paa+ㄴ/etm
+5	행보를	행보+를	NOUN	_	9	obj	_	_	행보/ncpa+를/jco
+6	그대로	그대로	ADV	_	9	advmod	_	_	그대로/mag
+7	실수요자에게	실수요자+에게	ADV	_	9	iobj	_	_	실수요자/ncn+에게/jca
+8	혜택으로	혜택+으로	ADV	_	9	advcl	_	_	혜택/ncn+으로/jca
+9	돌리는	돌리+는	VERB	_	10	acl	_	_	돌리/pvg+는/etm
+10	데는	데+는	NOUN	_	18	dislocated	_	_	데/nbn+는/jxt
+11	기술의	기술+의	NOUN	_	12	nmod	_	_	기술/ncn+의/jcm
+12	발전	발전	NOUN	_	18	advcl	_	_	발전/ncpa
+13	(	(	PUNCT	_	15	punct	_	_	(/sl
+14	Technology	Technology	X	_	15	flat	_	_	Technology/f
+15	Push	Push	X	_	12	appos	_	_	Push/f
+16	)	)	PUNCT	_	15	punct	_	_	)/sr
+17	만으로	만+으로	ADP	_	12	case	_	_	만/jxc+으로/jca
+18	충분하지	충분하+지	ADJ	_	0	root	_	_	충분하/paa+지/ecx
+19	못했다	못하+었+다	AUX	_	18	aux	_	_	못하/px+었/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 이러한 새로운 광통신 방식의 표준화는 1980 년대 중반부터 북미의 ANSITLX 1 , 5 위원회를 중심으로 제창되어 왔다 .
+1	이러한	이러하+ㄴ	VERB	_	4	amod	_	_	이러하/pad+ㄴ/etm
+2	새로운	새롭+ㄴ	ADJ	_	4	amod	_	_	새롭/paa+ㄴ/etm
+3	광통신	광통신	NOUN	_	4	compound	_	_	광통신/ncn
+4	방식의	방식+의	NOUN	_	5	nmod	_	_	방식/ncn+의/jcm
+5	표준화는	표준화+는	NOUN	_	16	dislocated	_	_	표준화/ncn+는/jxt
+6	1980	1980	NUM	_	7	nummod	_	_	1980/nnc
+7	년대	년대	NOUN	_	8	compound	_	_	년대/nbu
+8	중반부터	중반+부터	ADV	_	16	advcl	_	_	중반/ncn+부터/jxc
+9	북미의	북미+의	PROPN	_	14	nmod	_	_	북미/nq+의/jcm
+10	ANSITLX	ANSITLX	X	_	14	compound	_	_	ANSITLX/f
+11	1	1	NUM	_	13	conj	_	_	1/nnc
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	5	5	NUM	_	14	nummod	_	_	5/nnc
+14	위원회를	위원회+를	NOUN	_	15	obj	_	_	위원회/ncn+를/jco
+15	중심으로	중심+으로	ADV	_	16	advcl	_	_	중심/ncn+으로/jca
+16	제창되어	제창+되+어	VERB	_	0	root	_	_	제창/ncpa+되/xsv+어/ecx
+17	왔다	오+았+다	AUX	_	16	aux	_	_	오/px+았/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이에 대한 방법으로 동기식 다중화 방법이 채택되었다 .
+1	이에	이+에	ADV	_	2	obl	_	_	이/npd+에/jca
+2	대한	대하+ㄴ	VERB	_	3	acl	_	_	대하/pvg+ㄴ/etm
+3	방법으로	방법+으로	ADV	_	7	advcl	_	_	방법/ncn+으로/jca
+4	동기식	동기식	NOUN	_	6	compound	_	_	동기식/ncn
+5	다중화	다중화	NOUN	_	6	compound	_	_	다중화/ncpa
+6	방법이	방법+이	NOUN	_	7	nsubj	_	_	방법/ncn+이/jcs
+7	채택되었다	채택+되+었+다	VERB	_	0	root	_	_	채택/ncpa+되/xsv+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 실시간 오작동 검출 및 성능감시 정보의 포함과 충분한 오버헤드는 광통신망의 성능을 실시간에 파악하여 조정 제어할 수 있게 한다 .
+1	실시간	실시+간	NOUN	_	3	advmod	_	_	실시/ncpa+간/xsn
+2	오작동	오작동	NOUN	_	3	compound	_	_	오작동/ncn
+3	검출	검출	NOUN	_	6	conj	_	_	검출/ncpa
+4	및	및	CCONJ	_	6	cc	_	_	및/maj
+5	성능감시	성능+감시	NOUN	_	6	compound	_	_	성능/ncn+감시/ncpa
+6	정보의	정보+의	NOUN	_	7	nmod	_	_	정보/ncn+의/jcm
+7	포함과	포함+과	CCONJ	_	9	conj	_	_	포함/ncpa+과/jcj
+8	충분한	충분하+ㄴ	ADJ	_	9	amod	_	_	충분하/paa+ㄴ/etm
+9	오버헤드는	오버헤드+는	NOUN	_	15	dislocated	_	_	오버헤드/ncn+는/jxt
+10	광통신망의	광통신망+의	NOUN	_	11	nmod	_	_	광통신망/ncn+의/jcm
+11	성능을	성능+을	NOUN	_	13	obj	_	_	성능/ncn+을/jco
+12	실시간에	실시+간+에	ADV	_	13	obl	_	_	실시/ncpa+간/xsn+에/jca
+13	파악하여	파악+하+어	SCONJ	_	15	ccomp	_	_	파악/ncpa+하/xsv+어/ecs
+14	조정	조정	NOUN	_	15	compound	_	_	조정/ncpa
+15	제어할	제어+하+ㄹ	VERB	_	0	root	_	_	제어/ncpa+하/xsv+ㄹ/etm
+16	수	수	NOUN	_	17	fixed	_	_	수/nbn
+17	있게	있+게	ADJ	_	15	aux	_	_	있/paa+게/ecx
+18	한다	하+ㄴ다	AUX	_	15	aux	_	_	하/px+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 국내에서도 동기식 광통신 방식으로의 전환이 이미 결정되어 있으며 , 현재 이를 위한 추진계획을 세우고 있는 중이다 .
+1	국내에서도	국내+에서+도	ADV	_	16	advcl	_	_	국내/ncn+에서/jca+도/jxc
+2	동기식	동기식	NOUN	_	4	compound	_	_	동기식/ncn
+3	광통신	광통신	NOUN	_	4	compound	_	_	광통신/ncn
+4	방식으로의	방식+으로+의	NOUN	_	5	nmod	_	_	방식/ncn+으로/jca+의/jcm
+5	전환이	전환+이	NOUN	_	7	nsubj	_	_	전환/ncpa+이/jcs
+6	이미	이미	ADV	_	7	advmod	_	_	이미/mag
+7	결정되어	결정+되+어	VERB	_	16	ccomp	_	_	결정/ncpa+되/xsv+어/ecx
+8	있으며	있+으며	SCONJ	_	7	aux	_	_	있/px+으며/ecs
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	현재	현재	NOUN	_	14	advmod	_	_	현재/ncn
+11	이를	이+를	PRON	_	12	obj	_	_	이/npd+를/jco
+12	위한	위하+ㄴ	VERB	_	13	acl	_	_	위하/pvg+ㄴ/etm
+13	추진계획을	추진+계획+을	NOUN	_	14	obj	_	_	추진/ncpa+계획/ncpa+을/jco
+14	세우고	세우+고	VERB	_	16	ccomp	_	_	세우/pvg+고/ecx
+15	있는	있+는	AUX	_	14	aux	_	_	있/px+는/etm
+16	중이다	중+이+다	VERB	_	0	root	_	_	중/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 따라서 현재 도입되고 있는 565 메가 bps 광통신 방식의 시스템 이후에는 전부 동기식 광통신 시스템이 도입되리라 예상된다 .
+1	따라서	따라서	CCONJ	_	17	cc	_	_	따라서/maj
+2	현재	현재	NOUN	_	3	compound	_	_	현재/ncn
+3	도입되고	도입+되+고	VERB	_	10	acl	_	_	도입/ncpa+되/xsv+고/ecx
+4	있는	있+는	AUX	_	3	aux	_	_	있/px+는/etm
+5	565	565	NUM	_	6	nummod	_	_	565/nnc
+6	메가	메가	NOUN	_	9	compound	_	_	메가/nbu
+7	bps	bps	SYM	_	6	punct	_	_	bps/su
+8	광통신	광통신	NOUN	_	9	compound	_	_	광통신/ncn
+9	방식의	방식+의	NOUN	_	10	nmod	_	_	방식/ncn+의/jcm
+10	시스템	시스템	NOUN	_	11	compound	_	_	시스템/ncn
+11	이후에는	이후+에+는	NOUN	_	16	dislocated	_	_	이후/ncn+에/jca+는/jxt
+12	전부	전부	NOUN	_	16	advmod	_	_	전부/ncn
+13	동기식	동기식	NOUN	_	15	compound	_	_	동기식/ncn
+14	광통신	광통신	NOUN	_	15	compound	_	_	광통신/ncn
+15	시스템이	시스템+이	NOUN	_	16	nsubj	_	_	시스템/ncn+이/jcs
+16	도입되리라	도입+되+리라	VERB	_	17	ccomp	_	_	도입/ncpa+되/xsv+리라/ef
+17	예상된다	예상+되+ㄴ다	VERB	_	0	root	_	_	예상/ncpa+되/xsv+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 역사적으로 볼 때 교환기술 역시 변천을 거쳐 오고 있다 .
+1	역사적으로	역사+적+으로	ADV	_	2	advcl	_	_	역사/ncn+적/xsn+으로/jca
+2	볼	보+ㄹ	VERB	_	3	acl	_	_	보/pvg+ㄹ/etm
+3	때	때	NOUN	_	7	advmod	_	_	때/ncn
+4	교환기술	교환+기술	NOUN	_	5	dep	_	_	교환/ncpa+기술/ncn
+5	역시	역시	ADV	_	7	advmod	_	_	역시/mag
+6	변천을	변천+을	NOUN	_	7	obj	_	_	변천/ncpa+을/jco
+7	거쳐	거치+어	VERB	_	0	root	_	_	거치/pvg+어/ecx
+8	오고	오+고	AUX	_	7	aux	_	_	오/px+고/ecx
+9	있다	있+다	AUX	_	7	aux	_	_	있/px+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 공간분할 방식은 주로 2 차원 평면에서 광도파로 ( Optical Waveguide ) 를 이용하여 진행경로를 바꾸어 주면서 스위칭시키는 방법이다 .
+1	공간분할	공간+분할	NOUN	_	2	compound	_	_	공간/ncn+분할/ncpa
+2	방식은	방식+은	NOUN	_	18	dislocated	_	_	방식/ncn+은/jxt
+3	주로	주로	ADV	_	6	advmod	_	_	주로/mag
+4	2	2	NUM	_	5	nummod	_	_	2/nnc
+5	차원	차원	NOUN	_	6	compound	_	_	차원/ncn
+6	평면에서	평면+에서	ADV	_	17	advcl	_	_	평면/ncn+에서/jca
+7	광도파로	광도파로	NOUN	_	13	obj	_	_	광도파로/ncn
+8	(	(	PUNCT	_	10	punct	_	_	(/sl
+9	Optical	Optical	X	_	10	flat	_	_	Optical/f
+10	Waveguide	Waveguide	X	_	7	appos	_	_	Waveguide/f
+11	)	)	PUNCT	_	10	punct	_	_	)/sr
+12	를	를	ADP	_	7	case	_	_	를/jco
+13	이용하여	이용+하+어	SCONJ	_	17	ccomp	_	_	이용/ncpa+하/xsv+어/ecs
+14	진행경로를	진행+경로+를	NOUN	_	15	obj	_	_	진행/ncpa+경로/ncn+를/jco
+15	바꾸어	바꾸+어	VERB	_	17	conj	_	_	바꾸/pvg+어/ecx
+16	주면서	주+면서	CCONJ	_	15	aux	_	_	주/px+면서/ecc
+17	스위칭시키는	스위칭+시키+는	VERB	_	18	ccomp	_	_	스위칭/ncpa+시키/xsv+는/etm
+18	방법이다	방법+이+다	VERB	_	0	root	_	_	방법/ncn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이 방식은 시스템이 간단하고 광대역 성질을 가지기 때문에 광교환 시스템의 가능성이 높다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	방식은	방식+은	NOUN	_	7	dislocated	_	_	방식/ncn+은/jxt
+3	시스템이	시스템+이	NOUN	_	4	nsubj	_	_	시스템/ncn+이/jcs
+4	간단하고	간단+하+고	CCONJ	_	7	conj	_	_	간단/ncps+하/xsm+고/ecc
+5	광대역	광대역	NOUN	_	6	compound	_	_	광대역/ncn
+6	성질을	성질+을	NOUN	_	7	obj	_	_	성질/ncn+을/jco
+7	가지기	가지+기	VERB	_	8	nmod	_	_	가지/pvg+기/etn
+8	때문에	때문+에	ADV	_	12	obl	_	_	때문/nbn+에/jca
+9	광교환	광교환	NOUN	_	10	compound	_	_	광교환/ncn
+10	시스템의	시스템+의	NOUN	_	11	nmod	_	_	시스템/ncn+의/jcm
+11	가능성이	가능성+이	NOUN	_	12	nsubj	_	_	가능성/ncn+이/jcs
+12	높다	높+다	ADJ	_	0	root	_	_	높/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 따라서 이 개념에서는 시간다중화 ( Time Multiplexing ) 와 역다중화 ( Time Demultiplexing ) , 그리고 고속 광메모리 소자가 필수적이다 .
+1	따라서	따라서	CCONJ	_	20	cc	_	_	따라서/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	개념에서는	개념+에서+는	NOUN	_	20	dislocated	_	_	개념/ncn+에서/jca+는/jxt
+4	시간다중화	시간+다중화	NOUN	_	10	conj	_	_	시간/ncn+다중화/ncn
+5	(	(	PUNCT	_	7	punct	_	_	(/sl
+6	Time	Time	X	_	7	flat	_	_	Time/f
+7	Multiplexing	Multiplexing	X	_	4	appos	_	_	Multiplexing/f
+8	)	)	PUNCT	_	7	punct	_	_	)/sr
+9	와	와	CCONJ	_	4	case	_	_	와/jcj
+10	역다중화	역다중화	NOUN	_	19	conj	_	_	역다중화/ncn
+11	(	(	PUNCT	_	13	punct	_	_	(/sl
+12	Time	Time	X	_	13	flat	_	_	Time/f
+13	Demultiplexing	Demultiplexing	X	_	10	appos	_	_	Demultiplexing/f
+14	)	)	PUNCT	_	13	punct	_	_	)/sr
+15	,	,	PUNCT	_	10	punct	_	_	,/sp
+16	그리고	그리고	CCONJ	_	19	cc	_	_	그리고/maj
+17	고속	고속	NOUN	_	19	compound	_	_	고속/ncn
+18	광메모리	광메모리	NOUN	_	19	compound	_	_	광메모리/ncn
+19	소자가	소자+가	NOUN	_	20	nsubj	_	_	소자/ncn+가/jcs
+20	필수적이다	필수+적+이+다	VERB	_	0	root	_	_	필수/ncn+적/xsn+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 파장분할 방식은 빛이 가지는 여러 개의 파장을 좁은 선폭으로 많이 나누어서 파장별로 독립적인 교환이 일어나도록 하는 방식이다 .
+1	파장분할	파장+분할	NOUN	_	2	compound	_	_	파장/ncn+분할/ncpa
+2	방식은	방식+은	NOUN	_	17	dislocated	_	_	방식/ncn+은/jxt
+3	빛이	빛+이	NOUN	_	4	nsubj	_	_	빛/ncn+이/jcs
+4	가지는	가지+는	VERB	_	7	acl	_	_	가지/pvg+는/etm
+5	여러	여러	ADJ	_	6	amod	_	_	여러/mma
+6	개의	개+의	NOUN	_	7	nmod	_	_	개/nbu+의/jcm
+7	파장을	파장+을	NOUN	_	11	obj	_	_	파장/ncn+을/jco
+8	좁은	좁+ㄴ	ADJ	_	9	amod	_	_	좁/paa+ㄴ/etm
+9	선폭으로	선폭+으로	ADV	_	11	advcl	_	_	선폭/ncn+으로/jca
+10	많이	많이	ADV	_	11	advmod	_	_	많이/mag
+11	나누어서	나누+어서	SCONJ	_	16	ccomp	_	_	나누/pvg+어서/ecs
+12	파장별로	파장별+로	ADV	_	15	advcl	_	_	파장별/ncn+로/jca
+13	독립적인	독립+적+이+ㄴ	VERB	_	14	acl	_	_	독립/ncpa+적/xsn+이/jp+ㄴ/etm
+14	교환이	교환+이	NOUN	_	15	nsubj	_	_	교환/ncpa+이/jcs
+15	일어나도록	일어나+도록	SCONJ	_	16	ccomp	_	_	일어나/pvg+도록/ecs
+16	하는	하+는	VERB	_	17	ccomp	_	_	하/pvg+는/etm
+17	방식이다	방식+이+다	VERB	_	0	root	_	_	방식/ncn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 따라서 교환 회선용량은 파장의 수에 의해 결정되며 , 독립적인 교환이 일어나도록 하는 방식이다 .
+1	따라서	따라서	CCONJ	_	13	cc	_	_	따라서/maj
+2	교환	교환	NOUN	_	3	compound	_	_	교환/ncpa
+3	회선용량은	회선+용량+은	NOUN	_	13	dislocated	_	_	회선/ncn+용량/ncn+은/jxt
+4	파장의	파장+의	NOUN	_	5	nmod	_	_	파장/ncn+의/jcm
+5	수에	수+에	ADV	_	6	obl	_	_	수/ncn+에/jca
+6	의해	의하+어	SCONJ	_	7	ccomp	_	_	의하/pvg+어/ecs
+7	결정되며	결정+되+며	CCONJ	_	13	conj	_	_	결정/ncpa+되/xsv+며/ecc
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	독립적인	독립+적+이+ㄴ	VERB	_	10	acl	_	_	독립/ncpa+적/xsn+이/jp+ㄴ/etm
+10	교환이	교환+이	NOUN	_	11	nsubj	_	_	교환/ncpa+이/jcs
+11	일어나도록	일어나+도록	SCONJ	_	12	ccomp	_	_	일어나/pvg+도록/ecs
+12	하는	하+는	VERB	_	13	ccomp	_	_	하/pvg+는/etm
+13	방식이다	방식+이+다	VERB	_	0	root	_	_	방식/ncn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 따라서 교환 회선용량은 파장의 수에 의해 결정되며 , 이는 파장간격 , 변조가능 파장범위에 의해 정해진다 .
+1	따라서	따라서	CCONJ	_	15	cc	_	_	따라서/maj
+2	교환	교환	NOUN	_	3	compound	_	_	교환/ncpa
+3	회선용량은	회선+용량+은	NOUN	_	7	dislocated	_	_	회선/ncn+용량/ncn+은/jxt
+4	파장의	파장+의	NOUN	_	5	nmod	_	_	파장/ncn+의/jcm
+5	수에	수+에	ADV	_	6	obl	_	_	수/ncn+에/jca
+6	의해	의하+어	SCONJ	_	7	ccomp	_	_	의하/pvg+어/ecs
+7	결정되며	결정+되+며	CCONJ	_	15	conj	_	_	결정/ncpa+되/xsv+며/ecc
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	이는	이+는	PRON	_	15	dislocated	_	_	이/npd+는/jxt
+10	파장간격	파장+간격	NOUN	_	12	conj	_	_	파장/ncn+간격/ncn
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	변조가능	변조+가능	NOUN	_	13	conj	_	_	변조/ncpa+가능/ncps
+13	파장범위에	파장+범위+에	ADV	_	14	obl	_	_	파장/ncn+범위/ncn+에/jca
+14	의해	의하+어	SCONJ	_	15	ccomp	_	_	의하/pvg+어/ecs
+15	정해진다	정해지+ㄴ다	VERB	_	0	root	_	_	정해지/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 핵심 소자로는 파장을 변환하는 DFB ( Distributed Feedback ) 형 반도체 레이저 , DBR ( Distributed Bragg Reflector ) 형 레이저 등이 계속 연구되고 있다 .
+1	핵심	핵심	NOUN	_	2	compound	_	_	핵심/ncn
+2	소자로는	소자+로+는	NOUN	_	24	dislocated	_	_	소자/ncn+로/jca+는/jxt
+3	파장을	파장+을	NOUN	_	4	obj	_	_	파장/ncn+을/jco
+4	변환하는	변환+하+는	VERB	_	21	acl	_	_	변환/ncpa+하/xsv+는/etm
+5	DFB	DFB	X	_	10	compound	_	_	DFB/f
+6	(	(	PUNCT	_	8	punct	_	_	(/sl
+7	Distributed	Distributed	X	_	8	flat	_	_	Distributed/f
+8	Feedback	Feedback	X	_	5	appos	_	_	Feedback/f
+9	)	)	PUNCT	_	8	punct	_	_	)/sr
+10	형	형	NOUN	_	11	compound	_	_	형/ncn
+11	반도체	반도체	NOUN	_	12	compound	_	_	반도체/ncn
+12	레이저	레이저	NOUN	_	21	compound	_	_	레이저/ncn
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	DBR	DBR	X	_	20	compound	_	_	DBR/f
+15	(	(	PUNCT	_	18	punct	_	_	(/sl
+16	Distributed	Distributed	X	_	18	flat	_	_	Distributed/f
+17	Bragg	Bragg	X	_	18	flat	_	_	Bragg/f
+18	Reflector	Reflector	X	_	14	appos	_	_	Reflector/f
+19	)	)	PUNCT	_	18	punct	_	_	)/sr
+20	형	형	NOUN	_	21	compound	_	_	형/ncn
+21	레이저	레이저	NOUN	_	22	compound	_	_	레이저/ncn
+22	등이	등+이	NOUN	_	24	nsubj	_	_	등/nbn+이/jcs
+23	계속	계속	ADV	_	24	advmod	_	_	계속/mag
+24	연구되고	연구+되+고	VERB	_	0	root	_	_	연구/ncpa+되/xsv+고/ecx
+25	있다	있+다	AUX	_	24	aux	_	_	있/px+다/ef
+26	.	.	PUNCT	_	25	punct	_	_	./sf
+
+# 자연자원이 부족한 우리 나라는 독창적으로 창조된 고부가가치 기술자원이 곧 재산이 되어야 한다 .
+1	자연자원이	자연+자원+이	NOUN	_	2	nsubj	_	_	자연/ncps+자원/ncn+이/jcs
+2	부족한	부족+하+ㄴ	VERB	_	4	amod	_	_	부족/ncps+하/xsm+ㄴ/etm
+3	우리	우리	PRON	_	4	compound	_	_	우리/npp
+4	나라는	나라+는	NOUN	_	11	dislocated	_	_	나라/ncn+는/jxt
+5	독창적으로	독창+적+으로	ADV	_	6	advcl	_	_	독창/ncn+적/xsn+으로/jca
+6	창조된	창조+되+ㄴ	VERB	_	8	acl	_	_	창조/ncpa+되/xsv+ㄴ/etm
+7	고부가가치	고부가+가치	NOUN	_	8	compound	_	_	고부가/ncn+가치/ncn
+8	기술자원이	기술+자원+이	NOUN	_	11	nsubj	_	_	기술/ncn+자원/ncn+이/jcs
+9	곧	곧	ADV	_	11	advmod	_	_	곧/mag
+10	재산이	재산+이	NOUN	_	11	csubj	_	_	재산/ncn+이/jcc
+11	되어야	되+어야	VERB	_	0	root	_	_	되/pvg+어야/ecx
+12	한다	하+ㄴ다	AUX	_	11	aux	_	_	하/px+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 아쉬운 것은 선진기술이기도 하지만 , 더욱 아쉬운 것은 선진적 사고방식과 그에 따른 실천이다 .
+1	아쉬운	아쉽+ㄴ	ADJ	_	2	amod	_	_	아쉽/paa+ㄴ/etm
+2	것은	것+은	NOUN	_	4	dislocated	_	_	것/nbn+은/jxt
+3	선진기술이기도	선진+기술+이+기+도	ADV	_	4	advcl	_	_	선진/ncn+기술/ncn+이/jp+기/etn+도/jxc
+4	하지만	하+지만	SCONJ	_	13	ccomp	_	_	하/pvg+지만/ecs
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	더욱	더욱	ADV	_	7	advmod	_	_	더욱/mag
+7	아쉬운	아쉽+ㄴ	ADJ	_	8	amod	_	_	아쉽/paa+ㄴ/etm
+8	것은	것+은	NOUN	_	13	dislocated	_	_	것/nbn+은/jxt
+9	선진적	선진+적	NOUN	_	10	amod	_	_	선진/ncn+적/xsn
+10	사고방식과	사고+방식+과	CCONJ	_	13	conj	_	_	사고/ncpa+방식/ncn+과/jcj
+11	그에	그+에	ADV	_	12	obl	_	_	그/npd+에/jca
+12	따른	따르+ㄴ	VERB	_	13	acl	_	_	따르/pvg+ㄴ/etm
+13	실천이다	실천+이+다	VERB	_	0	root	_	_	실천/ncpa+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 시대적 요청에 따른 탈바꿈이 절실하다 .
+1	시대적	시대+적	NOUN	_	2	amod	_	_	시대/ncn+적/xsn
+2	요청에	요청+에	ADV	_	3	obl	_	_	요청/ncpa+에/jca
+3	따른	따르+ㄴ	VERB	_	4	acl	_	_	따르/pvg+ㄴ/etm
+4	탈바꿈이	탈바꿈+이	NOUN	_	5	nsubj	_	_	탈바꿈/ncpa+이/jcs
+5	절실하다	절실하+다	ADJ	_	0	root	_	_	절실하/paa+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 디지털 영상처리는 디지털 음성처리와 비교해서 데이터의 압축이 매우 중요시된다 .
+1	디지털	디지털	NOUN	_	2	compound	_	_	디지털/ncn
+2	영상처리는	영상+처리+는	NOUN	_	9	dislocated	_	_	영상/ncn+처리/ncpa+는/jxt
+3	디지털	디지털	NOUN	_	4	compound	_	_	디지털/ncn
+4	음성처리와	음성+처리+와	CCONJ	_	5	conj	_	_	음성/ncn+처리/ncpa+와/jct
+5	비교해서	비교+하+어서	SCONJ	_	9	ccomp	_	_	비교/ncpa+하/xsv+어서/ecs
+6	데이터의	데이터+의	NOUN	_	7	nmod	_	_	데이터/ncn+의/jcm
+7	압축이	압축+이	NOUN	_	9	nsubj	_	_	압축/ncpa+이/jcs
+8	매우	매우	ADV	_	9	advmod	_	_	매우/mag
+9	중요시된다	중요시+되+ㄴ다	VERB	_	0	root	_	_	중요시/ncpa+되/xsv+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 음성의 경우 이 정도의 데이터로도 상당한 고품위의 음성을 재생할 수 있다 .
+1	음성의	음성+의	NOUN	_	2	nmod	_	_	음성/ncn+의/jcm
+2	경우	경우	NOUN	_	9	advmod	_	_	경우/ncn
+3	이	이	DET	_	4	det	_	_	이/mmd
+4	정도의	정도+의	NOUN	_	5	nmod	_	_	정도/ncn+의/jcm
+5	데이터로도	데이터+로+도	ADV	_	9	advcl	_	_	데이터/ncn+로/jca+도/jxc
+6	상당한	상당+하+ㄴ	VERB	_	7	amod	_	_	상당/ncps+하/xsm+ㄴ/etm
+7	고품위의	고품위+의	NOUN	_	8	nmod	_	_	고품위/ncn+의/jcm
+8	음성을	음성+을	NOUN	_	9	obj	_	_	음성/ncn+을/jco
+9	재생할	재생+하+ㄹ	VERB	_	0	root	_	_	재생/ncpa+하/xsv+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있다	있+다	ADJ	_	9	aux	_	_	있/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 반면에 디지털 영상신호는 이보다 훨씬 많은 데이터가 필요하다 .
+1	반면에	반면+에	ADV	_	8	obl	_	_	반면/ncn+에/jca
+2	디지털	디지털	NOUN	_	3	compound	_	_	디지털/ncn
+3	영상신호는	영상+신호+는	NOUN	_	8	dislocated	_	_	영상/ncn+신호/ncpa+는/jxt
+4	이보다	이+보다	ADV	_	6	advcl	_	_	이/npd+보다/jca
+5	훨씬	훨씬	ADV	_	6	advmod	_	_	훨씬/mag
+6	많은	많+ㄴ	ADJ	_	7	amod	_	_	많/paa+ㄴ/etm
+7	데이터가	데이터+가	NOUN	_	8	nsubj	_	_	데이터/ncn+가/jcs
+8	필요하다	필요+하+다	VERB	_	0	root	_	_	필요/ncps+하/xsm+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 따라서 디지털 영상신호의 처리에는 본질적으로 방대한 양의 데이터 처리와 그에 따른 고속 프로세서의 사용이 필수적이다 .
+1	따라서	따라서	CCONJ	_	15	cc	_	_	따라서/maj
+2	디지털	디지털	NOUN	_	3	compound	_	_	디지털/ncn
+3	영상신호의	영상+신호+의	NOUN	_	4	nmod	_	_	영상/ncn+신호/ncpa+의/jcm
+4	처리에는	처리+에+는	NOUN	_	15	dislocated	_	_	처리/ncpa+에/jca+는/jxt
+5	본질적으로	본질+적+으로	ADV	_	15	advcl	_	_	본질/ncn+적/xsn+으로/jca
+6	방대한	방대하+ㄴ	ADJ	_	7	amod	_	_	방대하/paa+ㄴ/etm
+7	양의	양+의	NOUN	_	8	nmod	_	_	양/ncn+의/jcm
+8	데이터	데이터	NOUN	_	9	compound	_	_	데이터/ncn
+9	처리와	처리+와	CCONJ	_	14	conj	_	_	처리/ncpa+와/jcj
+10	그에	그+에	ADV	_	11	obl	_	_	그/npd+에/jca
+11	따른	따르+ㄴ	VERB	_	14	acl	_	_	따르/pvg+ㄴ/etm
+12	고속	고속	NOUN	_	13	compound	_	_	고속/ncn
+13	프로세서의	프로세서+의	NOUN	_	14	nmod	_	_	프로세서/ncn+의/jcm
+14	사용이	사용+이	NOUN	_	15	nsubj	_	_	사용/ncpa+이/jcs
+15	필수적이다	필수+적+이+다	VERB	_	0	root	_	_	필수/ncn+적/xsn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 따라서 최근의 반도체 기술이 급진전되기 전까지 이론적으로는 상당한 수준에 이르렀으나 , 그 실현을 위한 연구는 초보적인 단계에 머물러 있었다 .
+1	따라서	따라서	CCONJ	_	18	cc	_	_	따라서/maj
+2	최근의	최근+의	NOUN	_	4	nmod	_	_	최근/ncn+의/jcm
+3	반도체	반도체	NOUN	_	4	compound	_	_	반도체/ncn
+4	기술이	기술+이	NOUN	_	5	nsubj	_	_	기술/ncn+이/jcs
+5	급진전되기	급진전+되+기	VERB	_	6	nmod	_	_	급진전/ncpa+되/xsv+기/etn
+6	전까지	전+까지	ADV	_	10	advcl	_	_	전/ncn+까지/jxc
+7	이론적으로는	이론+적+으로+는	NOUN	_	10	dislocated	_	_	이론/ncn+적/xsn+으로/jca+는/jxt
+8	상당한	상당+하+ㄴ	VERB	_	9	amod	_	_	상당/ncps+하/xsm+ㄴ/etm
+9	수준에	수준+에	ADV	_	10	obl	_	_	수준/ncn+에/jca
+10	이르렀으나	이르+었+으나	SCONJ	_	18	ccomp	_	_	이르/pvg+었/ep+으나/ecs
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	그	그	DET	_	13	det	_	_	그/mmd
+13	실현을	실현+을	NOUN	_	14	obj	_	_	실현/ncpa+을/jco
+14	위한	위하+ㄴ	VERB	_	15	acl	_	_	위하/pvg+ㄴ/etm
+15	연구는	연구+는	NOUN	_	18	dislocated	_	_	연구/ncpa+는/jxt
+16	초보적인	초보+적+이+ㄴ	VERB	_	17	acl	_	_	초보/ncn+적/xsn+이/jp+ㄴ/etm
+17	단계에	단계+에	ADV	_	18	obl	_	_	단계/ncn+에/jca
+18	머물러	머무르+어	VERB	_	0	root	_	_	머무르/pvg+어/ecx
+19	있었다	있+었+다	AUX	_	18	aux	_	_	있/px+었/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 이러한 비디오폰은 상당 부분 독자적인 방식과 기술을 사용하였기 때문에 완전한 호환성을 가지고 있지는 못하다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	비디오폰은	비디오폰+은	NOUN	_	12	dislocated	_	_	비디오폰/ncn+은/jxt
+3	상당	상당	NOUN	_	4	compound	_	_	상당/ncps
+4	부분	부분	NOUN	_	8	advmod	_	_	부분/ncn
+5	독자적인	독자+적+이+ㄴ	VERB	_	7	acl	_	_	독자/ncn+적/xsn+이/jp+ㄴ/etm
+6	방식과	방식+과	CCONJ	_	7	conj	_	_	방식/ncn+과/jcj
+7	기술을	기술+을	NOUN	_	8	obj	_	_	기술/ncn+을/jco
+8	사용하였기	사용+하+었+기	VERB	_	9	nmod	_	_	사용/ncpa+하/xsv+었/ep+기/etn
+9	때문에	때문+에	ADV	_	12	obl	_	_	때문/nbn+에/jca
+10	완전한	완전+하+ㄴ	VERB	_	11	amod	_	_	완전/ncps+하/xsm+ㄴ/etm
+11	호환성을	호환성+을	NOUN	_	12	obj	_	_	호환성/ncn+을/jco
+12	가지고	가지+고	VERB	_	0	root	_	_	가지/pvg+고/ecx
+13	있지는	있+지+는	NOUN	_	12	aux	_	_	있/px+지/ecx+는/jxt
+14	못하다	못하+다	AUX	_	12	aux	_	_	못하/px+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 최근 한국과 대만 등에서도 이에 대한 연구를 착수하였거나 진행중이다 .
+1	최근	최근	NOUN	_	9	advmod	_	_	최근/ncn
+2	한국과	한국+과	CCONJ	_	3	conj	_	_	한국/nq+과/jcj
+3	대만	대만	PROPN	_	4	compound	_	_	대만/nq
+4	등에서도	등+에서+도	ADV	_	9	advcl	_	_	등/nbn+에서/jca+도/jxc
+5	이에	이+에	ADV	_	6	obl	_	_	이/npd+에/jca
+6	대한	대하+ㄴ	VERB	_	7	acl	_	_	대하/pvg+ㄴ/etm
+7	연구를	연구+를	NOUN	_	8	obj	_	_	연구/ncpa+를/jco
+8	착수하였거나	착수+하+었+거나	CCONJ	_	9	conj	_	_	착수/ncpa+하/xsv+었/ep+거나/ecc
+9	진행중이다	진행+중+이+다	VERB	_	0	root	_	_	진행/ncpa+중/xsn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 현재 연구되고 있는 고선명 TV의 경우에는 이의 2 배 정도가 되는 데이터를 매 초 전송하여야 한다 .
+1	현재	현재	NOUN	_	2	compound	_	_	현재/ncn
+2	연구되고	연구+되+고	VERB	_	5	acl	_	_	연구/ncpa+되/xsv+고/ecx
+3	있는	있+는	AUX	_	2	aux	_	_	있/px+는/etm
+4	고선명	고선명	NOUN	_	5	dep	_	_	고선명/ncn
+5	TV의	TV+의	NOUN	_	6	nmod	_	_	TV/f+의/jcm
+6	경우에는	경우+에+는	NOUN	_	15	dislocated	_	_	경우/ncn+에/jca+는/jxt
+7	이의	이+의	PROPN	_	10	nmod	_	_	이/nq+의/jcm
+8	2	2	NUM	_	9	nummod	_	_	2/nnc
+9	배	배	NOUN	_	10	compound	_	_	배/ncn
+10	정도가	정도+가	NOUN	_	11	csubj	_	_	정도/ncn+가/jcc
+11	되는	되+는	VERB	_	12	acl	_	_	되/pvg+는/etm
+12	데이터를	데이터+를	NOUN	_	15	obj	_	_	데이터/ncn+를/jco
+13	매	매	ADJ	_	14	amod	_	_	매/mma
+14	초	초	NOUN	_	15	compound	_	_	초/nbu
+15	전송하여야	전송+하+어야	VERB	_	0	root	_	_	전송/ncpa+하/xsv+어야/ecx
+16	한다	하+ㄴ다	AUX	_	15	aux	_	_	하/px+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 따라서 화질의 손상을 최소화하면서 데이터를 압축시킬 수 있는 알고리즘 및 이를 실현시키기 위한 연구는 대단히 중요하다 .
+1	따라서	따라서	CCONJ	_	16	cc	_	_	따라서/maj
+2	화질의	화질+의	NOUN	_	3	nmod	_	_	화질/ncn+의/jcm
+3	손상을	손상+을	NOUN	_	4	obj	_	_	손상/ncpa+을/jco
+4	최소화하면서	최소화+하+면서	CCONJ	_	6	conj	_	_	최소화/ncpa+하/xsv+면서/ecc
+5	데이터를	데이터+를	NOUN	_	6	obj	_	_	데이터/ncn+를/jco
+6	압축시킬	압축+시키+ㄹ	VERB	_	9	acl	_	_	압축/ncpa+시키/xsv+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	있는	있+는	ADJ	_	6	aux	_	_	있/paa+는/etm
+9	알고리즘	알고리즘	NOUN	_	14	conj	_	_	알고리즘/ncn
+10	및	및	CCONJ	_	14	cc	_	_	및/maj
+11	이를	이+를	PRON	_	12	obj	_	_	이/npd+를/jco
+12	실현시키기	실현+시키+기	VERB	_	13	nmod	_	_	실현/ncpa+시키/xsv+기/etn
+13	위한	위하+ㄴ	VERB	_	14	acl	_	_	위하/pvg+ㄴ/etm
+14	연구는	연구+는	NOUN	_	16	dislocated	_	_	연구/ncpa+는/jxt
+15	대단히	대단히	ADV	_	16	advmod	_	_	대단히/mag
+16	중요하다	중요+하+다	VERB	_	0	root	_	_	중요/ncps+하/xsm+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 데이터 압축은 데이터 자체에 포함되어 있는 여분 ( Redundancy ) 과 인간의 시각 특성상 덜 민감한 부분의 데이터를 제거하는 것이다 .
+1	데이터	데이터	NOUN	_	2	compound	_	_	데이터/ncn
+2	압축은	압축+은	NOUN	_	19	dislocated	_	_	압축/ncpa+은/jxt
+3	데이터	데이터	NOUN	_	4	compound	_	_	데이터/ncn
+4	자체에	자체+에	ADV	_	5	obl	_	_	자체/ncn+에/jca
+5	포함되어	포함+되+어	VERB	_	7	acl	_	_	포함/ncpa+되/xsv+어/ecx
+6	있는	있+는	AUX	_	5	aux	_	_	있/px+는/etm
+7	여분	여분	NOUN	_	18	conj	_	_	여분/ncn
+8	(	(	PUNCT	_	9	punct	_	_	(/sl
+9	Redundancy	Redundancy	X	_	7	appos	_	_	Redundancy/f
+10	)	)	PUNCT	_	9	punct	_	_	)/sr
+11	과	과	CCONJ	_	7	case	_	_	과/jcj
+12	인간의	인간+의	NOUN	_	13	nmod	_	_	인간/ncn+의/jcm
+13	시각	시각	NOUN	_	14	compound	_	_	시각/ncn
+14	특성상	특성+상	NOUN	_	16	advmod	_	_	특성/ncn+상/xsn
+15	덜	덜	ADV	_	16	advmod	_	_	덜/mag
+16	민감한	민감+하+ㄴ	VERB	_	17	amod	_	_	민감/ncps+하/xsm+ㄴ/etm
+17	부분의	부분+의	NOUN	_	18	nmod	_	_	부분/ncn+의/jcm
+18	데이터를	데이터+를	NOUN	_	19	obj	_	_	데이터/ncn+를/jco
+19	제거하는	제거+하+는	VERB	_	0	root	_	_	제거/ncpa+하/xsv+는/etm
+20	것이다	것+이+다	VERB	_	19	aux	_	_	것/nbn+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 원래의 데이터와 재생된 데이터가 일치하지 않는다 .
+1	원래의	원래+의	NOUN	_	2	nmod	_	_	원래/ncn+의/jcm
+2	데이터와	데이터+와	CCONJ	_	4	conj	_	_	데이터/ncn+와/jcj
+3	재생된	재생+되+ㄴ	VERB	_	4	acl	_	_	재생/ncpa+되/xsv+ㄴ/etm
+4	데이터가	데이터+가	NOUN	_	5	nsubj	_	_	데이터/ncn+가/jcs
+5	일치하지	일치+하+지	VERB	_	0	root	_	_	일치/ncpa+하/xsv+지/ecx
+6	않는다	않+는다	AUX	_	5	aux	_	_	않/px+는다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 원래의 데이터와 재생된 데이터가 일치하는 방법도 있으나 압축률은 3 대 1을 넘지 못한다 .
+1	원래의	원래+의	NOUN	_	2	nmod	_	_	원래/ncn+의/jcm
+2	데이터와	데이터+와	CCONJ	_	4	conj	_	_	데이터/ncn+와/jcj
+3	재생된	재생+되+ㄴ	VERB	_	4	acl	_	_	재생/ncpa+되/xsv+ㄴ/etm
+4	데이터가	데이터+가	NOUN	_	5	nsubj	_	_	데이터/ncn+가/jcs
+5	일치하는	일치+하+는	VERB	_	6	acl	_	_	일치/ncpa+하/xsv+는/etm
+6	방법도	방법+도	ADV	_	7	advcl	_	_	방법/ncn+도/jxc
+7	있으나	있+으나	SCONJ	_	12	xcomp	_	_	있/paa+으나/ecs
+8	압축률은	압축률+은	NOUN	_	12	dislocated	_	_	압축률/ncn+은/jxt
+9	3	3	NUM	_	10	nummod	_	_	3/nnc
+10	대	대	NOUN	_	11	compound	_	_	대/nbu
+11	1을	1+을	NUM	_	12	obj	_	_	1/nnc+을/jco
+12	넘지	넘+지	VERB	_	0	root	_	_	넘/pvg+지/ecx
+13	못한다	못하+ㄴ다	AUX	_	12	aux	_	_	못하/px+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 따라서 몇몇 의료용의 영상장비를 제외한 일반 산업이나 소비자용의 장비에는 재생된 데이터가 원래의 데이터와 일치하지 않는 방식을 사용한다 .
+1	따라서	따라서	CCONJ	_	17	cc	_	_	따라서/maj
+2	몇몇	몇몇	ADJ	_	4	amod	_	_	몇몇/mma
+3	의료용의	의료용+의	NOUN	_	4	nmod	_	_	의료용/ncn+의/jcm
+4	영상장비를	영상+장비+를	NOUN	_	5	obj	_	_	영상/ncn+장비/ncpa+를/jco
+5	제외한	제외+하+ㄴ	VERB	_	9	acl	_	_	제외/ncpa+하/xsv+ㄴ/etm
+6	일반	일반	NOUN	_	7	compound	_	_	일반/ncn
+7	산업이나	산업+이나	CCONJ	_	8	conj	_	_	산업/ncn+이나/jcj
+8	소비자용의	소비자용+의	NOUN	_	9	nmod	_	_	소비자용/ncn+의/jcm
+9	장비에는	장비+에+는	NOUN	_	17	dislocated	_	_	장비/ncpa+에/jca+는/jxt
+10	재생된	재생+되+ㄴ	VERB	_	11	acl	_	_	재생/ncpa+되/xsv+ㄴ/etm
+11	데이터가	데이터+가	NOUN	_	14	nsubj	_	_	데이터/ncn+가/jcs
+12	원래의	원래+의	NOUN	_	13	nmod	_	_	원래/ncn+의/jcm
+13	데이터와	데이터+와	CCONJ	_	14	conj	_	_	데이터/ncn+와/jct
+14	일치하지	일치+하+지	VERB	_	16	acl	_	_	일치/ncpa+하/xsv+지/ecx
+15	않는	않+는	AUX	_	14	aux	_	_	않/px+는/etm
+16	방식을	방식+을	NOUN	_	17	obj	_	_	방식/ncn+을/jco
+17	사용한다	사용+하+ㄴ다	VERB	_	0	root	_	_	사용/ncpa+하/xsv+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 또한 사람의 시각은 고주파 신호보다 저주파 신호에 더 민감하다 .
+1	또한	또한	CCONJ	_	9	cc	_	_	또한/maj
+2	사람의	사람+의	NOUN	_	3	nmod	_	_	사람/ncn+의/jcm
+3	시각은	시각+은	NOUN	_	9	dislocated	_	_	시각/ncn+은/jxt
+4	고주파	고주파	NOUN	_	5	compound	_	_	고주파/ncn
+5	신호보다	신호+보다	ADV	_	9	advcl	_	_	신호/ncpa+보다/jca
+6	저주파	저주파	NOUN	_	7	compound	_	_	저주파/ncn
+7	신호에	신호+에	ADV	_	9	obl	_	_	신호/ncpa+에/jca
+8	더	더	ADV	_	9	advmod	_	_	더/mag
+9	민감하다	민감+하+다	VERB	_	0	root	_	_	민감/ncps+하/xsm+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이는 일반 TV 화면에 흑색과 흰색이 번갈아 나타날 때 인간은 이를 회색으로 인식하는 것과 같은 경우에서 알 수 있다 .
+1	이는	이+는	PRON	_	17	dislocated	_	_	이/npd+는/jxt
+2	일반	일반	NOUN	_	3	dep	_	_	일반/ncn
+3	TV	TV	X	_	4	compound	_	_	TV/f
+4	화면에	화면+에	ADV	_	8	obl	_	_	화면/ncn+에/jca
+5	흑색과	흑색+과	CCONJ	_	6	conj	_	_	흑색/ncpa+과/jcj
+6	흰색이	흰색+이	NOUN	_	8	nsubj	_	_	흰색/ncn+이/jcs
+7	번갈아	번가르+아	SCONJ	_	8	ccomp	_	_	번가르/pvg+아/ecs
+8	나타날	나타나+ㄹ	VERB	_	9	acl	_	_	나타나/pvg+ㄹ/etm
+9	때	때	NOUN	_	13	advmod	_	_	때/ncn
+10	인간은	인간+은	NOUN	_	13	dislocated	_	_	인간/ncn+은/jxt
+11	이를	이+를	PRON	_	13	obj	_	_	이/npd+를/jco
+12	회색으로	회색+으로	ADV	_	13	advcl	_	_	회색/ncn+으로/jca
+13	인식하는	인식+하+는	VERB	_	14	acl	_	_	인식/ncpa+하/xsv+는/etm
+14	것과	것+과	CCONJ	_	15	conj	_	_	것/nbn+과/jct
+15	같은	같+ㄴ	ADJ	_	16	amod	_	_	같/paa+ㄴ/etm
+16	경우에서	경우+에서	ADV	_	17	advcl	_	_	경우/ncn+에서/jca
+17	알	알+ㄹ	VERB	_	0	root	_	_	알/pvg+ㄹ/etm
+18	수	수	NOUN	_	19	fixed	_	_	수/nbn
+19	있다	있+다	ADJ	_	17	aux	_	_	있/paa+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 이러한 눈의 특성을 이용하면 인간이 느끼는 화질의 손상을 줄이면서도 큰 데이터 압축을 얻을 수 있다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	눈의	눈+의	NOUN	_	3	nmod	_	_	눈/ncn+의/jcm
+3	특성을	특성+을	NOUN	_	4	obj	_	_	특성/ncn+을/jco
+4	이용하면	이용+하+면	SCONJ	_	13	ccomp	_	_	이용/ncpa+하/xsv+면/ecs
+5	인간이	인간+이	NOUN	_	6	nsubj	_	_	인간/ncn+이/jcs
+6	느끼는	느끼+는	VERB	_	7	acl	_	_	느끼/pvg+는/etm
+7	화질의	화질+의	NOUN	_	8	nmod	_	_	화질/ncn+의/jcm
+8	손상을	손상+을	NOUN	_	9	obj	_	_	손상/ncpa+을/jco
+9	줄이면서도	줄이+면서+도	ADV	_	13	ccomp	_	_	줄이/pvg+면서/ecc+도/jxc
+10	큰	크+ㄴ	ADJ	_	12	amod	_	_	크/paa+ㄴ/etm
+11	데이터	데이터	NOUN	_	12	compound	_	_	데이터/ncn
+12	압축을	압축+을	NOUN	_	13	obj	_	_	압축/ncpa+을/jco
+13	얻을	얻+ㄹ	VERB	_	0	root	_	_	얻/pvg+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있다	있+다	ADJ	_	13	aux	_	_	있/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이들 영상통신장비의 개발에 있어서 또 하나의 매우 중요한 것은 표준화이다 .
+1	이들	이+들	NOUN	_	2	compound	_	_	이/npd+들/xsn
+2	영상통신장비의	영상+통신+장비+의	NOUN	_	3	nmod	_	_	영상/ncn+통신/ncpa+장비/ncpa+의/jcm
+3	개발에	개발+에	ADV	_	4	obl	_	_	개발/ncpa+에/jca
+4	있어서	있+어서	SCONJ	_	10	xcomp	_	_	있/paa+어서/ecs
+5	또	또	ADV	_	6	advmod	_	_	또/mag
+6	하나의	하나+의	NUM	_	9	nmod	_	_	하나/nnc+의/jcm
+7	매우	매우	ADV	_	8	advmod	_	_	매우/mag
+8	중요한	중요+하+ㄴ	VERB	_	9	amod	_	_	중요/ncps+하/xsm+ㄴ/etm
+9	것은	것+은	NOUN	_	10	dislocated	_	_	것/nbn+은/jxt
+10	표준화이다	표준화+이+다	VERB	_	0	root	_	_	표준화/ncn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이들 장비들은 특성상 송신측과 수신측의 데이터 압축방법과 이에 관련된 여러 방식이 동일하여야만 서로 데이터를 주고 받을 수 있기 때문이다 .
+1	이들	이+들	NOUN	_	2	compound	_	_	이/npd+들/xsn
+2	장비들은	장비+들+은	NOUN	_	16	dislocated	_	_	장비/ncn+들/xsn+은/jxt
+3	특성상	특성상	NOUN	_	16	advmod	_	_	특성상/ncn
+4	송신측과	송신+측+과	CCONJ	_	5	conj	_	_	송신/ncpa+측/xsn+과/jcj
+5	수신측의	수신+측+의	NOUN	_	7	nmod	_	_	수신/ncpa+측/xsn+의/jcm
+6	데이터	데이터	NOUN	_	7	compound	_	_	데이터/ncn
+7	압축방법과	압축+방법+과	CCONJ	_	11	conj	_	_	압축/ncpa+방법/ncn+과/jcj
+8	이에	이+에	ADV	_	9	obl	_	_	이/npd+에/jca
+9	관련된	관련+되+ㄴ	VERB	_	11	acl	_	_	관련/ncpa+되/xsv+ㄴ/etm
+10	여러	여러	ADJ	_	11	amod	_	_	여러/mma
+11	방식이	방식+이	NOUN	_	12	nsubj	_	_	방식/ncn+이/jcs
+12	동일하여야만	동일+하+어야+만	ADV	_	16	ccomp	_	_	동일/ncpa+하/xsv+어야/ecs+만/jxc
+13	서로	서로	NOUN	_	14	compound	_	_	서로/ncn
+14	데이터를	데이터+를	NOUN	_	16	obj	_	_	데이터/ncn+를/jco
+15	주고	주+고	CCONJ	_	16	conj	_	_	주/pvg+고/ecc
+16	받을	받+ㄹ	VERB	_	0	root	_	_	받/pvg+ㄹ/etm
+17	수	수	NOUN	_	18	fixed	_	_	수/nbn
+18	있기	있+기	ADJ	_	16	aux	_	_	있/paa+기/etn
+19	때문이다	때문+이+다	VERB	_	16	aux	_	_	때문/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 따라서 표준화는 장비를 실제 개발하고 있는 회사들이 타사 제품과 서로 호환성이 있는 제품의 상품화를 가능하게 하여 준다 .
+1	따라서	따라서	CCONJ	_	15	cc	_	_	따라서/maj
+2	표준화는	표준화+는	NOUN	_	15	dislocated	_	_	표준화/ncn+는/jxt
+3	장비를	장비+를	NOUN	_	5	obj	_	_	장비/ncn+를/jco
+4	실제	실제	NOUN	_	5	compound	_	_	실제/ncn
+5	개발하고	개발+하+고	VERB	_	7	acl	_	_	개발/ncpa+하/xsv+고/ecx
+6	있는	있+는	AUX	_	5	aux	_	_	있/px+는/etm
+7	회사들이	회사+들+이	NOUN	_	15	nsubj	_	_	회사/ncn+들/xsn+이/jcs
+8	타사	타사	NOUN	_	9	compound	_	_	타사/ncn
+9	제품과	제품+과	CCONJ	_	12	conj	_	_	제품/ncn+과/jct
+10	서로	서로	NOUN	_	11	compound	_	_	서로/ncn
+11	호환성이	호환성+이	NOUN	_	12	nsubj	_	_	호환성/ncn+이/jcs
+12	있는	있+는	ADJ	_	13	amod	_	_	있/paa+는/etm
+13	제품의	제품+의	NOUN	_	14	nmod	_	_	제품/ncn+의/jcm
+14	상품화를	상품화+를	NOUN	_	15	obj	_	_	상품화/ncn+를/jco
+15	가능하게	가능+하+게	VERB	_	0	root	_	_	가능/ncps+하/xsm+게/ecx
+16	하여	하+어	AUX	_	15	aux	_	_	하/px+어/ecx
+17	준다	주+ㄴ다	AUX	_	15	aux	_	_	주/px+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 현재 영상신호 압축과 관련하여 세 가지의 국제표준화가 진행되고 있다 .
+1	현재	현재	NOUN	_	8	advmod	_	_	현재/ncn
+2	영상신호	영상+신호	NOUN	_	3	compound	_	_	영상/ncn+신호/ncpa
+3	압축과	압축+과	CCONJ	_	4	conj	_	_	압축/ncpa+과/jct
+4	관련하여	관련+하+어	SCONJ	_	8	ccomp	_	_	관련/ncpa+하/xsv+어/ecs
+5	세	세	ADJ	_	6	amod	_	_	세/mma
+6	가지의	가지+의	NOUN	_	7	nmod	_	_	가지/nbu+의/jcm
+7	국제표준화가	국제+표준화+가	NOUN	_	8	nsubj	_	_	국제/ncn+표준화/ncn+가/jcs
+8	진행되고	진행+되+고	VERB	_	0	root	_	_	진행/ncpa+되/xsv+고/ecx
+9	있다	있+다	AUX	_	8	aux	_	_	있/px+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이들 규격들은 현재까지 각국의 이해가 엇갈리어 확정되지 못하고 있으나 , 대략적으로는 거의 결정되었고 , 일부 세부 사항도 조만간 확정될 전망이다 .
+1	이들	이+들	NOUN	_	2	compound	_	_	이/npd+들/xsn
+2	규격들은	규격+들+은	NOUN	_	13	dislocated	_	_	규격/ncn+들/xsn+은/jxt
+3	현재까지	현재+까지	ADV	_	7	advcl	_	_	현재/ncn+까지/jxc
+4	각국의	각국+의	NOUN	_	5	nmod	_	_	각국/ncn+의/jcm
+5	이해가	이해+가	NOUN	_	6	nsubj	_	_	이해/ncpa+가/jcs
+6	엇갈리어	엇갈리+어	SCONJ	_	7	ccomp	_	_	엇갈리/pvg+어/ecs
+7	확정되지	확정+되+지	VERB	_	13	ccomp	_	_	확정/ncpa+되/xsv+지/ecx
+8	못하고	못하+고	AUX	_	7	aux	_	_	못하/px+고/ecx
+9	있으나	있+으나	SCONJ	_	7	aux	_	_	있/px+으나/ecs
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	대략적으로는	대략+적+으로+는	NOUN	_	13	dislocated	_	_	대략/ncn+적/xsn+으로/jca+는/jxt
+12	거의	거의	ADV	_	13	advmod	_	_	거의/mag
+13	결정되었고	결정+되+었+고	CCONJ	_	20	conj	_	_	결정/ncpa+되/xsv+었/ep+고/ecc
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	일부	일부	NOUN	_	17	compound	_	_	일부/ncn
+16	세부	세부	NOUN	_	17	compound	_	_	세부/ncn
+17	사항도	사항+도	ADV	_	19	advcl	_	_	사항/ncn+도/jxc
+18	조만간	조만간	ADV	_	19	advmod	_	_	조만간/mag
+19	확정될	확정+되+ㄹ	VERB	_	20	ccomp	_	_	확정/ncpa+되/xsv+ㄹ/etm
+20	전망이다	전망+이+다	VERB	_	0	root	_	_	전망/ncpa+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# JPEG가 제안한 표준은 ISO의 감독하에 있는 연구 팀에 의해서 제안된 정지화상을 위한 데이터 부호화 기법이다 .
+1	JPEG가	JPEG+가	NOUN	_	2	nsubj	_	_	JPEG/f+가/jcs
+2	제안한	제안+하+ㄴ	VERB	_	3	acl	_	_	제안/ncpa+하/xsv+ㄴ/etm
+3	표준은	표준+은	NOUN	_	15	dislocated	_	_	표준/ncn+은/jxt
+4	ISO의	ISO+의	NOUN	_	5	nmod	_	_	ISO/f+의/jcm
+5	감독하에	감독+하+에	ADV	_	6	obl	_	_	감독/ncpa+하/ncn+에/jca
+6	있는	있+는	ADJ	_	8	amod	_	_	있/paa+는/etm
+7	연구	연구	NOUN	_	8	compound	_	_	연구/ncpa
+8	팀에	팀+에	ADV	_	9	obl	_	_	팀/ncn+에/jca
+9	의해서	의하+어서	SCONJ	_	10	ccomp	_	_	의하/pvg+어서/ecs
+10	제안된	제안+되+ㄴ	VERB	_	11	acl	_	_	제안/ncpa+되/xsv+ㄴ/etm
+11	정지화상을	정지+화상+을	NOUN	_	12	obj	_	_	정지/ncpa+화상/ncn+을/jco
+12	위한	위하+ㄴ	VERB	_	15	ccomp	_	_	위하/pvg+ㄴ/etm
+13	데이터	데이터	NOUN	_	14	compound	_	_	데이터/ncn
+14	부호화	부호화	NOUN	_	15	compound	_	_	부호화/ncn
+15	기법이다	기법+이+다	VERB	_	0	root	_	_	기법/ncn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 따라서 여러 종류의 영상을 화질에 따라 그에 맞는 선로를 통하여 전송할 수 있다 .
+1	따라서	따라서	CCONJ	_	11	cc	_	_	따라서/maj
+2	여러	여러	ADJ	_	3	amod	_	_	여러/mma
+3	종류의	종류+의	NOUN	_	4	nmod	_	_	종류/ncn+의/jcm
+4	영상을	영상+을	NOUN	_	11	obj	_	_	영상/ncn+을/jco
+5	화질에	화질+에	ADV	_	6	obl	_	_	화질/ncn+에/jca
+6	따라	따르+아	SCONJ	_	10	ccomp	_	_	따르/pvg+아/ecs
+7	그에	그+에	ADV	_	8	obl	_	_	그/npd+에/jca
+8	맞는	맞+는	VERB	_	9	acl	_	_	맞/pvg+는/etm
+9	선로를	선로+를	NOUN	_	10	obj	_	_	선로/ncn+를/jco
+10	통하여	통하+어	SCONJ	_	11	ccomp	_	_	통하/pvg+어/ecs
+11	전송할	전송+하+ㄹ	VERB	_	0	root	_	_	전송/ncpa+하/xsv+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있다	있+다	ADJ	_	11	aux	_	_	있/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 동영상에서만 사용될 수 있는 움직임 추정 및 보상 기법을 사용하였기 때문에 JPEG 표준보다 훨씬 복잡하다 .
+1	동영상에서만	동영상+에서+만	ADV	_	2	advcl	_	_	동영상/ncn+에서/jca+만/jxc
+2	사용될	사용+되+ㄹ	VERB	_	9	acl	_	_	사용/ncpa+되/xsv+ㄹ/etm
+3	수	수	NOUN	_	4	fixed	_	_	수/nbn
+4	있는	있+는	ADJ	_	2	aux	_	_	있/paa+는/etm
+5	움직임	움직임	NOUN	_	6	compound	_	_	움직임/ncn
+6	추정	추정	NOUN	_	9	conj	_	_	추정/ncpa
+7	및	및	CCONJ	_	9	cc	_	_	및/maj
+8	보상	보상	NOUN	_	9	compound	_	_	보상/ncpa
+9	기법을	기법+을	NOUN	_	10	obj	_	_	기법/ncn+을/jco
+10	사용하였기	사용+하+었+기	VERB	_	11	nmod	_	_	사용/ncpa+하/xsv+었/ep+기/etn
+11	때문에	때문+에	ADV	_	15	obl	_	_	때문/nbn+에/jca
+12	JPEG	JPEG	X	_	13	compound	_	_	JPEG/f
+13	표준보다	표준+보다	ADV	_	15	advcl	_	_	표준/ncn+보다/jca
+14	훨씬	훨씬	ADV	_	15	advmod	_	_	훨씬/mag
+15	복잡하다	복잡하+다	ADJ	_	0	root	_	_	복잡하/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# MPEG 표준화는 아직 완료되지 않은 상태로 , 현재 2 단계인 10 Mbps 급의 고품위 영상정보의 부호화에 대한 연구가 거의 완료된 상태이다 .
+1	MPEG	MPEG	X	_	2	compound	_	_	MPEG/f
+2	표준화는	표준화+는	NOUN	_	4	dislocated	_	_	표준화/ncn+는/jxt
+3	아직	아직	ADV	_	4	advmod	_	_	아직/mag
+4	완료되지	완료+되+지	VERB	_	6	acl	_	_	완료/ncpa+되/xsv+지/ecx
+5	않은	않+ㄴ	AUX	_	4	aux	_	_	않/px+ㄴ/etm
+6	상태로	상태+로	ADV	_	21	advmod	_	_	상태/ncn+로/jca
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	현재	현재	NOUN	_	20	advmod	_	_	현재/ncn
+9	2	2	NUM	_	10	nummod	_	_	2/nnc
+10	단계인	단계+이+ㄴ	VERB	_	18	acl	_	_	단계/ncn+이/jp+ㄴ/etm
+11	10	10	NUM	_	12	nummod	_	_	10/nnc
+12	Mbps	Mbps	X	_	13	compound	_	_	Mbps/f
+13	급의	급+의	NOUN	_	15	nmod	_	_	급/nbu+의/jcm
+14	고품위	고품위	NOUN	_	15	compound	_	_	고품위/ncn
+15	영상정보의	영상+정보+의	NOUN	_	16	nmod	_	_	영상/ncn+정보/ncn+의/jcm
+16	부호화에	부호화+에	ADV	_	17	obl	_	_	부호화/ncn+에/jca
+17	대한	대하+ㄴ	VERB	_	18	acl	_	_	대하/pvg+ㄴ/etm
+18	연구가	연구+가	NOUN	_	20	nsubj	_	_	연구/ncpa+가/jcs
+19	거의	거의	ADV	_	20	advmod	_	_	거의/mag
+20	완료된	완료+되+ㄴ	VERB	_	21	ccomp	_	_	완료/ncpa+되/xsv+ㄴ/etm
+21	상태이다	상태+이+다	VERB	_	0	root	_	_	상태/ncn+이/jp+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 뿐만 아니라 영상신호 처리 시스템의 상용화에는 최종 제품의 저가화 소형화가 매우 중요하다 .
+1	뿐만	뿐+만	ADV	_	2	dep	_	_	뿐/nbn+만/jxc
+2	아니라	아니+라	SCONJ	_	12	cc	_	_	아니/paa+라/ecs
+3	영상신호	영상+신호	NOUN	_	4	compound	_	_	영상/ncn+신호/ncpa
+4	처리	처리	NOUN	_	5	compound	_	_	처리/ncpa
+5	시스템의	시스템+의	NOUN	_	6	nmod	_	_	시스템/ncn+의/jcm
+6	상용화에는	상용화+에+는	NOUN	_	12	dislocated	_	_	상용화/ncn+에/jca+는/jxt
+7	최종	최종	NOUN	_	8	compound	_	_	최종/ncn
+8	제품의	제품+의	NOUN	_	10	nmod	_	_	제품/ncn+의/jcm
+9	저가화	저가화	NOUN	_	10	compound	_	_	저가화/ncn
+10	소형화가	소형화+가	NOUN	_	12	nsubj	_	_	소형화/ncn+가/jcs
+11	매우	매우	ADV	_	12	advmod	_	_	매우/mag
+12	중요하다	중요+하+다	VERB	_	0	root	_	_	중요/ncps+하/xsm+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이를 위해서 저가의 고집적 소자를 개발하는 것은 필수적이다 .
+1	이를	이+를	PRON	_	2	obj	_	_	이/npd+를/jco
+2	위해서	위하+어서	SCONJ	_	6	ccomp	_	_	위하/pvg+어서/ecs
+3	저가의	저가+의	NOUN	_	5	nmod	_	_	저가/ncn+의/jcm
+4	고집적	고집적	NOUN	_	5	compound	_	_	고집적/ncn
+5	소자를	소자+를	NOUN	_	6	obj	_	_	소자/ncn+를/jco
+6	개발하는	개발+하+는	VERB	_	7	acl	_	_	개발/ncpa+하/xsv+는/etm
+7	것은	것+은	NOUN	_	8	dislocated	_	_	것/nbn+은/jxt
+8	필수적이다	필수+적+이+다	VERB	_	0	root	_	_	필수/ncn+적/xsn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 1990 년 말에 정지화면이나 동화상을 압축하는 데 사용될 수 있는 여러 종류의 소자들이 발표되었다 .
+1	1990	1990	NUM	_	2	nummod	_	_	1990/nnc
+2	년	년	NOUN	_	3	compound	_	_	년/nbu
+3	말에	말+에	ADV	_	14	obl	_	_	말/ncn+에/jca
+4	정지화면이나	정지+화면+이나	CCONJ	_	5	conj	_	_	정지/ncpa+화면/ncn+이나/jcj
+5	동화상을	동화상+을	NOUN	_	6	obj	_	_	동화상/ncn+을/jco
+6	압축하는	압축+하+는	VERB	_	7	acl	_	_	압축/ncpa+하/xsv+는/etm
+7	데	데	NOUN	_	8	mark	_	_	데/nbn
+8	사용될	사용+되+ㄹ	VERB	_	13	acl	_	_	사용/ncpa+되/xsv+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	있는	있+는	ADJ	_	8	aux	_	_	있/paa+는/etm
+11	여러	여러	ADJ	_	12	amod	_	_	여러/mma
+12	종류의	종류+의	NOUN	_	13	nmod	_	_	종류/ncn+의/jcm
+13	소자들이	소자+들+이	NOUN	_	14	nsubj	_	_	소자/ncn+들/xsn+이/jcs
+14	발표되었다	발표+되+었+다	VERB	_	0	root	_	_	발표/ncpa+되/xsv+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 앞으로 표준화가 진행되면서 이들 표준에 따른 종류의 소자들이 개발되어질 것이다 .
+1	앞으로	앞+으로	ADV	_	3	advcl	_	_	앞/ncn+으로/jca
+2	표준화가	표준화+가	NOUN	_	3	nsubj	_	_	표준화/ncn+가/jcs
+3	진행되면서	진행+되+면서	CCONJ	_	9	conj	_	_	진행/ncpa+되/xsv+면서/ecc
+4	이들	이+들	NOUN	_	5	compound	_	_	이/npd+들/xsn
+5	표준에	표준+에	ADV	_	6	obl	_	_	표준/ncn+에/jca
+6	따른	따르+ㄴ	VERB	_	7	acl	_	_	따르/pvg+ㄴ/etm
+7	종류의	종류+의	NOUN	_	8	nmod	_	_	종류/ncn+의/jcm
+8	소자들이	소자+들+이	NOUN	_	9	nsubj	_	_	소자/ncn+들/xsn+이/jcs
+9	개발되어질	개발+되+어+지+ㄹ	AUX	_	0	root	_	_	개발/ncpa+되/xsv+어/ecx+지/px+ㄹ/etm
+10	것이다	것+이+다	VERB	_	9	aux	_	_	것/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 영상통신 분야는 음성 문서 데이터 등의 통신과 비교할 때 아직 유아기의 단계에 있다 .
+1	영상통신	영상+통신	NOUN	_	2	compound	_	_	영상/ncn+통신/ncpa
+2	분야는	분야+는	NOUN	_	13	dislocated	_	_	분야/ncn+는/jxt
+3	음성	음성	NOUN	_	5	compound	_	_	음성/ncn
+4	문서	문서	NOUN	_	5	compound	_	_	문서/ncn
+5	데이터	데이터	NOUN	_	6	compound	_	_	데이터/ncn
+6	등의	등+의	NOUN	_	7	nmod	_	_	등/nbn+의/jcm
+7	통신과	통신+과	CCONJ	_	8	conj	_	_	통신/ncpa+과/jct
+8	비교할	비교+하+ㄹ	VERB	_	9	acl	_	_	비교/ncpa+하/xsv+ㄹ/etm
+9	때	때	NOUN	_	13	dep	_	_	때/ncn
+10	아직	아직	ADV	_	13	advmod	_	_	아직/mag
+11	유아기의	유아기+의	NOUN	_	12	nmod	_	_	유아기/ncn+의/jcm
+12	단계에	단계+에	ADV	_	13	obl	_	_	단계/ncn+에/jca
+13	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그러나 정보교환에 있어서 영상의 사용은 그것이 정지영상이든 동영상이든 계속적으로 늘어날 것이다 .
+1	그러나	그러나	CCONJ	_	10	cc	_	_	그러나/maj
+2	정보교환에	정보+교환+에	ADV	_	3	obl	_	_	정보/ncn+교환/ncpa+에/jca
+3	있어서	있+어서	SCONJ	_	10	xcomp	_	_	있/paa+어서/ecs
+4	영상의	영상+의	NOUN	_	5	nmod	_	_	영상/ncn+의/jcm
+5	사용은	사용+은	NOUN	_	10	dislocated	_	_	사용/ncpa+은/jxt
+6	그것이	그것+이	PRON	_	10	nsubj	_	_	그것/npd+이/jcs
+7	정지영상이든	정지+영상+이든	ADV	_	8	advcl	_	_	정지/ncpa+영상/ncn+이든/jxc
+8	동영상이든	동영상+이든	ADV	_	10	advcl	_	_	동영상/ncn+이든/jxc
+9	계속적으로	계속+적+으로	ADV	_	10	advcl	_	_	계속/ncpa+적/xsn+으로/jca
+10	늘어날	늘어나+ㄹ	VERB	_	0	root	_	_	늘어나/pvg+ㄹ/etm
+11	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 머지 않아 영상통신은 전체 정보교환 체계에서 주도적 역할을 담당하게 될 것이다 .
+1	머지	멀+지	VERB	_	9	ccomp	_	_	멀/pvg+지/ecx
+2	않아	않+아	SCONJ	_	1	aux	_	_	않/px+아/ecs
+3	영상통신은	영상+통신+은	NOUN	_	9	dislocated	_	_	영상/ncn+통신/ncpa+은/jxt
+4	전체	전체	NOUN	_	6	compound	_	_	전체/ncn
+5	정보교환	정보+교환	NOUN	_	6	compound	_	_	정보/ncn+교환/ncpa
+6	체계에서	체계+에서	ADV	_	9	advcl	_	_	체계/ncn+에서/jca
+7	주도적	주도+적	NOUN	_	8	amod	_	_	주도/ncpa+적/xsn
+8	역할을	역할+을	NOUN	_	9	obj	_	_	역할/ncn+을/jco
+9	담당하게	담당+하+게	VERB	_	0	root	_	_	담당/ncpa+하/xsv+게/ecx
+10	될	되+ㄹ	AUX	_	9	aux	_	_	되/px+ㄹ/etm
+11	것이다	것+이+다	VERB	_	9	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 위성통신 하면 보통 안테나 직경이 큰 대형 지구국의 굉장한 모습을 연상하기 쉬우나 VSAT는 문자 그대로 초소형 안테나를 사용하는 위성통신 터미널이다 .
+1	위성통신	위성+통신	NOUN	_	2	dep	_	_	위성/ncn+통신/ncpa
+2	하면	하+면	SCONJ	_	11	conj	_	_	하/pvg+면/ecs
+3	보통	보통	NOUN	_	11	advmod	_	_	보통/ncn
+4	안테나	안테나	NOUN	_	5	compound	_	_	안테나/ncn
+5	직경이	직경+이	NOUN	_	6	nsubj	_	_	직경/ncn+이/jcs
+6	큰	크+ㄴ	ADJ	_	8	amod	_	_	크/paa+ㄴ/etm
+7	대형	대형	NOUN	_	8	compound	_	_	대형/ncn
+8	지구국의	지구국+의	NOUN	_	10	nmod	_	_	지구국/ncn+의/jcm
+9	굉장한	굉장하+ㄴ	ADJ	_	10	amod	_	_	굉장하/paa+ㄴ/etm
+10	모습을	모습+을	NOUN	_	11	obj	_	_	모습/ncn+을/jco
+11	연상하기	연상+하+기	VERB	_	12	nmod	_	_	연상/ncpa+하/xsv+기/etn
+12	쉬우나	쉽+으나	SCONJ	_	20	xcomp	_	_	쉽/paa+으나/ecs
+13	VSAT는	VSAT+는	NOUN	_	20	dislocated	_	_	VSAT/f+는/jxt
+14	문자	문자	NOUN	_	15	dep	_	_	문자/ncn
+15	그대로	그대로	ADV	_	18	advmod	_	_	그대로/mag
+16	초소형	초소형	NOUN	_	17	compound	_	_	초소형/ncn
+17	안테나를	안테나+를	NOUN	_	18	obj	_	_	안테나/ncn+를/jco
+18	사용하는	사용+하+는	VERB	_	20	ccomp	_	_	사용/ncpa+하/xsv+는/etm
+19	위성통신	위성+통신	NOUN	_	20	compound	_	_	위성/ncn+통신/ncpa
+20	터미널이다	터미널+이+다	VERB	_	0	root	_	_	터미널/ncn+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 에퀘토리얼사의 VSAT는 C 대역에서 대역확산 통신방식을 적용한 것이었다 .
+1	에퀘토리얼사의	에퀘토리얼사+의	PROPN	_	2	nmod	_	_	에퀘토리얼사/nq+의/jcm
+2	VSAT는	VSAT+는	NOUN	_	7	dislocated	_	_	VSAT/f+는/jxt
+3	C	C	X	_	4	compound	_	_	C/f
+4	대역에서	대역+에서	ADV	_	7	advcl	_	_	대역/ncn+에서/jca
+5	대역확산	대역+확산	NOUN	_	6	compound	_	_	대역/ncn+확산/ncpa
+6	통신방식을	통신+방식+을	NOUN	_	7	obj	_	_	통신/ncpa+방식/ncn+을/jco
+7	적용한	적용+하+ㄴ	VERB	_	0	root	_	_	적용/ncpa+하/xsv+ㄴ/etm
+8	것이었다	것+이+었+다	VERB	_	7	aux	_	_	것/nbn+이/jp+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 따라서 VSAT의 주요 고객은 지상망을 이용하여 데이터 통신을 하고 있으나 , 그 통신비용이 상대적으로 높은 기업이나 기관들이 된다 .
+1	따라서	따라서	CCONJ	_	18	cc	_	_	따라서/maj
+2	VSAT의	VSAT+의	NOUN	_	4	nmod	_	_	VSAT/f+의/jcm
+3	주요	주요	NOUN	_	4	compound	_	_	주요/ncps
+4	고객은	고객+은	NOUN	_	18	dislocated	_	_	고객/ncn+은/jxt
+5	지상망을	지상망+을	NOUN	_	6	obj	_	_	지상망/ncn+을/jco
+6	이용하여	이용+하+어	SCONJ	_	9	ccomp	_	_	이용/ncpa+하/xsv+어/ecs
+7	데이터	데이터	NOUN	_	8	compound	_	_	데이터/ncn
+8	통신을	통신+을	NOUN	_	9	obj	_	_	통신/ncpa+을/jco
+9	하고	하+고	VERB	_	15	dep	_	_	하/pvg+고/ecx
+10	있으나	있+으나	SCONJ	_	9	aux	_	_	있/px+으나/ecs
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	그	그	DET	_	13	det	_	_	그/mmd
+13	통신비용이	통신+비용+이	NOUN	_	15	nsubj	_	_	통신/ncpa+비용/ncn+이/jcs
+14	상대적으로	상대+적+으로	ADV	_	15	advcl	_	_	상대/ncpa+적/xsn+으로/jca
+15	높은	높+ㄴ	ADJ	_	17	amod	_	_	높/paa+ㄴ/etm
+16	기업이나	기업+이나	CCONJ	_	17	conj	_	_	기업/ncn+이나/jcj
+17	기관들이	기관+들+이	NOUN	_	18	csubj	_	_	기관/ncn+들/xsn+이/jcc
+18	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# VSAT의 다원접속 방식에서 FDMA ( 주파수 분할 다원접속 ) , CDMA ( 코드 분할 다원접속 ) , TDMA ( 시분할 다원접속 ) 등이 널리 사용된다 .
+1	VSAT의	VSAT+의	NOUN	_	3	nmod	_	_	VSAT/f+의/jcm
+2	다원접속	다원+접속	NOUN	_	3	compound	_	_	다원/ncn+접속/ncpa
+3	방식에서	방식+에서	ADV	_	25	advcl	_	_	방식/ncn+에서/jca
+4	FDMA	FDMA	X	_	8	compound	_	_	FDMA/f
+5	(	(	PUNCT	_	7	punct	_	_	(/sl
+6	주파수	주파수	NOUN	_	7	compound	_	_	주파수/ncn
+7	분할	분할	NOUN	_	8	compound	_	_	분할/ncpa
+8	다원접속	다원+접속	NOUN	_	18	dep	_	_	다원/ncn+접속/ncpa
+9	)	)	PUNCT	_	8	punct	_	_	)/sr
+10	,	,	PUNCT	_	8	punct	_	_	,/sp
+11	CDMA	CDMA	X	_	15	compound	_	_	CDMA/f
+12	(	(	PUNCT	_	14	punct	_	_	(/sl
+13	코드	코드	NOUN	_	14	compound	_	_	코드/ncn
+14	분할	분할	NOUN	_	15	compound	_	_	분할/ncpa
+15	다원접속	다원+접속	NOUN	_	18	dep	_	_	다원/ncn+접속/ncpa
+16	)	)	PUNCT	_	15	punct	_	_	)/sr
+17	,	,	PUNCT	_	15	punct	_	_	,/sp
+18	TDMA	TDMA	X	_	23	compound	_	_	TDMA/f
+19	(	(	PUNCT	_	21	punct	_	_	(/sl
+20	시분할	시+분할	NOUN	_	21	compound	_	_	시/ncn+분할/ncpa
+21	다원접속	다원+접속	NOUN	_	18	appos	_	_	다원/ncn+접속/ncpa
+22	)	)	PUNCT	_	21	punct	_	_	)/sr
+23	등이	등+이	NOUN	_	25	nsubj	_	_	등/nbn+이/jcs
+24	널리	널리	ADV	_	25	advmod	_	_	널리/mag
+25	사용된다	사용+되+ㄴ다	VERB	_	0	root	_	_	사용/ncpa+되/xsv+ㄴ다/ef
+26	.	.	PUNCT	_	25	punct	_	_	./sf
+
+# FDMA는 통상 캐리어당 단일 채널 형태로 사용되며 , 간단하다는 특징은 있으나 저속 데이터통신을 위해서는 비용면에서 효과적이지 않으므로 많이 사용되지 않는다 .
+1	FDMA는	FDMA+는	NOUN	_	19	dislocated	_	_	FDMA/f+는/jxt
+2	통상	통상	NOUN	_	7	advmod	_	_	통상/ncn
+3	캐리어당	캐리어+당	NOUN	_	5	advmod	_	_	캐리어/ncn+당/xsn
+4	단일	단일	NOUN	_	5	compound	_	_	단일/ncps
+5	채널	채널	NOUN	_	6	compound	_	_	채널/ncn
+6	형태로	형태+로	ADV	_	7	advcl	_	_	형태/ncn+로/jca
+7	사용되며	사용+되+며	CCONJ	_	11	conj	_	_	사용/ncpa+되/xsv+며/ecc
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	간단하다는	간단+하+다는	VERB	_	10	acl	_	_	간단/ncpa+하/xsv+다는/etm
+10	특징은	특징+은	NOUN	_	11	dislocated	_	_	특징/ncn+은/jxt
+11	있으나	있+으나	SCONJ	_	19	xcomp	_	_	있/paa+으나/ecs
+12	저속	저속	NOUN	_	13	compound	_	_	저속/ncn
+13	데이터통신을	데이터+통신+을	NOUN	_	14	obj	_	_	데이터/ncn+통신/ncpa+을/jco
+14	위해서는	위하+어서+는	NOUN	_	19	ccomp	_	_	위하/pvg+어서/ecs+는/jxt
+15	비용면에서	비용면+에서	ADV	_	16	advcl	_	_	비용면/ncn+에서/jca
+16	효과적이지	효과+적+이+지	VERB	_	19	ccomp	_	_	효과/ncn+적/xsn+이/jp+지/ecx
+17	않으므로	않+으므로	SCONJ	_	16	aux	_	_	않/px+으므로/ecs
+18	많이	많이	ADV	_	19	advmod	_	_	많이/mag
+19	사용되지	사용+되+지	VERB	_	0	root	_	_	사용/ncpa+되/xsv+지/ecx
+20	않는다	않+는다	AUX	_	19	aux	_	_	않/px+는다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# TDMA 방식은 오늘날의 Ku 대역 시스템에서 TDMA , TDM 형태가 대표적으로 사용되고 있고 , 앞으로도 그럴 것이다 .
+1	TDMA	TDMA	X	_	2	compound	_	_	TDMA/f
+2	방식은	방식+은	NOUN	_	12	dislocated	_	_	방식/ncn+은/jxt
+3	오늘날의	오늘날+의	NOUN	_	6	nmod	_	_	오늘날/ncn+의/jcm
+4	Ku	Ku	X	_	5	compound	_	_	Ku/f
+5	대역	대역	NOUN	_	6	compound	_	_	대역/ncn
+6	시스템에서	시스템+에서	ADV	_	12	advcl	_	_	시스템/ncn+에서/jca
+7	TDMA	TDMA	X	_	9	conj	_	_	TDMA/f
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	TDM	TDM	X	_	10	compound	_	_	TDM/f
+10	형태가	형태+가	NOUN	_	12	nsubj	_	_	형태/ncn+가/jcs
+11	대표적으로	대표+적+으로	ADV	_	12	advcl	_	_	대표/ncpa+적/xsn+으로/jca
+12	사용되고	사용+되+고	VERB	_	16	conj	_	_	사용/ncpa+되/xsv+고/ecx
+13	있고	있+고	CCONJ	_	12	aux	_	_	있/px+고/ecc
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	앞으로도	앞+으로+도	ADV	_	16	advcl	_	_	앞/ncn+으로/jca+도/jxc
+16	그럴	그렇+ㄹ	VERB	_	0	root	_	_	그렇/pad+ㄹ/etm
+17	것이다	것+이+다	VERB	_	16	aux	_	_	것/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# VSAT 시스템은 본질적으로 특정사용자 그룹의 사설통신망이고 , 서로 다른 시스템간의 연동이나 호환성의 문제가 적다 .
+1	VSAT	VSAT	X	_	2	compound	_	_	VSAT/f
+2	시스템은	시스템+은	NOUN	_	14	dislocated	_	_	시스템/ncn+은/jxt
+3	본질적으로	본질+적+으로	ADV	_	6	advcl	_	_	본질/ncn+적/xsn+으로/jca
+4	특정사용자	특정+사용자	NOUN	_	5	compound	_	_	특정/ncps+사용자/ncn
+5	그룹의	그룹+의	NOUN	_	6	nmod	_	_	그룹/ncn+의/jcm
+6	사설통신망이고	사설+통신망+이+고	CCONJ	_	14	conj	_	_	사설/ncn+통신망/ncn+이/jp+고/ecc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	서로	서로	NOUN	_	9	dep	_	_	서로/ncn
+9	다른	다르+ㄴ	ADJ	_	10	amod	_	_	다르/paa+ㄴ/etm
+10	시스템간의	시스템+간+의	NOUN	_	12	nmod	_	_	시스템/ncn+간/xsn+의/jcm
+11	연동이나	연동+이나	CCONJ	_	12	conj	_	_	연동/ncn+이나/jcj
+12	호환성의	호환성+의	NOUN	_	13	nmod	_	_	호환성/ncn+의/jcm
+13	문제가	문제+가	NOUN	_	14	nsubj	_	_	문제/ncn+가/jcs
+14	적다	적+다	ADJ	_	0	root	_	_	적/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+

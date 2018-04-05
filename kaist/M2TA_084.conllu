@@ -1,0 +1,1719 @@
+# 하마는 입을 가리지 않더라 .
+1	하마는	하마+는	NOUN	_	3	dislocated	_	_	하마/ncn+는/jxt
+2	입을	입+을	NOUN	_	3	obj	_	_	입/ncn+을/jco
+3	가리지	가리+지	VERB	_	0	root	_	_	가리/pvg+지/ecx
+4	않더라	않+더+라	AUX	_	3	aux	_	_	않/px+더/ep+라/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 거실은 운동장이 아니다 .
+1	거실은	거실+은	NOUN	_	3	dislocated	_	_	거실/ncn+은/jxt
+2	운동장이	운동장+이	NOUN	_	3	csubj	_	_	운동장/ncn+이/jcc
+3	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 도둑이 쉽게 눈치챈다 .
+1	도둑이	도둑+이	NOUN	_	3	nsubj	_	_	도둑/ncn+이/jcs
+2	쉽게	쉽+게	SCONJ	_	3	xcomp	_	_	쉽/paa+게/ecs
+3	눈치챈다	눈치채+ㄴ다	VERB	_	0	root	_	_	눈치채/pvg+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 조금은 넓은 마음을 갖게 된다 .
+1	조금은	조금+은	NOUN	_	4	dislocated	_	_	조금/ncn+은/jxt
+2	넓은	넓+ㄴ	ADJ	_	3	amod	_	_	넓/paa+ㄴ/etm
+3	마음을	마음+을	NOUN	_	4	obj	_	_	마음/ncn+을/jco
+4	갖게	갖+게	VERB	_	0	root	_	_	갖/pvg+게/ecx
+5	된다	되+ㄴ다	AUX	_	4	aux	_	_	되/px+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 게으른 사람이 이기는 법은 없다 .
+1	게으른	게으르+ㄴ	VERB	_	2	acl	_	_	게으르/pvg+ㄴ/etm
+2	사람이	사람+이	NOUN	_	3	nsubj	_	_	사람/ncn+이/jcs
+3	이기는	이기+는	VERB	_	4	acl	_	_	이기/pvg+는/etm
+4	법은	법+은	NOUN	_	5	dislocated	_	_	법/ncn+은/jxt
+5	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 남편은 바깥에서 예쁜 여자들을 보고 돌아오는 중이다 .
+1	남편은	남편+은	NOUN	_	6	dislocated	_	_	남편/ncn+은/jxt
+2	바깥에서	바깥+에서	ADV	_	5	advcl	_	_	바깥/ncn+에서/jca
+3	예쁜	예쁘+ㄴ	ADJ	_	4	amod	_	_	예쁘/paa+ㄴ/etm
+4	여자들을	여자+들+을	NOUN	_	5	obj	_	_	여자/ncn+들/xsn+을/jco
+5	보고	보+고	CCONJ	_	6	conj	_	_	보/pvg+고/ecc
+6	돌아오는	돌아오+는	VERB	_	0	root	_	_	돌아오/pvg+는/etm
+7	중이다	중+이+다	VERB	_	6	aux	_	_	중/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 누추한 모습과 비교되지 않게 하라 .
+1	누추한	누추+하+ㄴ	VERB	_	2	amod	_	_	누추/ncps+하/xsm+ㄴ/etm
+2	모습과	모습+과	CCONJ	_	3	conj	_	_	모습/ncn+과/jct
+3	비교되지	비교+되+지	VERB	_	0	root	_	_	비교/ncpa+되/xsv+지/ecx
+4	않게	않+게	AUX	_	3	aux	_	_	않/px+게/ecx
+5	하라	하+라	AUX	_	3	aux	_	_	하/px+라/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 시간 아끼는 법을 배운다 .
+1	시간	시간	NOUN	_	2	dep	_	_	시간/ncn
+2	아끼는	아끼+는	VERB	_	3	acl	_	_	아끼/pvg+는/etm
+3	법을	법+을	NOUN	_	4	obj	_	_	법/ncn+을/jco
+4	배운다	배우+ㄴ다	VERB	_	0	root	_	_	배우/pvg+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 네 아빠가 아니다 .
+1	네	네	PRON	_	2	compound	_	_	네/npp
+2	아빠가	아빠+가	NOUN	_	3	csubj	_	_	아빠/ncn+가/jcc
+3	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 깨끗한 식탁은 부지런한 주부의 얼굴이다 .
+1	깨끗한	깨끗+하+ㄴ	VERB	_	2	amod	_	_	깨끗/ncps+하/xsm+ㄴ/etm
+2	식탁은	식탁+은	NOUN	_	5	dislocated	_	_	식탁/ncn+은/jxt
+3	부지런한	부지런+하+ㄴ	VERB	_	4	amod	_	_	부지런/ncps+하/xsm+ㄴ/etm
+4	주부의	주부+의	NOUN	_	5	nmod	_	_	주부/ncn+의/jcm
+5	얼굴이다	얼굴+이+다	VERB	_	0	root	_	_	얼굴/ncn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 천재 중에는 왼손잡이가 많단다 .
+1	천재	천재	NOUN	_	2	compound	_	_	천재/ncn
+2	중에는	중+에+는	NOUN	_	4	dislocated	_	_	중/nbn+에/jca+는/jxt
+3	왼손잡이가	왼손잡이+가	NOUN	_	4	nsubj	_	_	왼손잡이/ncn+가/jcs
+4	많단다	많+단다	ADJ	_	0	root	_	_	많/paa+단다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 약점과 감출 것이 많은 사람처럼 보인다 .
+1	약점과	약점+과	CCONJ	_	3	conj	_	_	약점/ncn+과/jcj
+2	감출	감추+ㄹ	VERB	_	3	acl	_	_	감추/pvg+ㄹ/etm
+3	것이	것+이	NOUN	_	4	nsubj	_	_	것/nbn+이/jcs
+4	많은	많+ㄴ	ADJ	_	5	amod	_	_	많/paa+ㄴ/etm
+5	사람처럼	사람+처럼	ADV	_	6	advcl	_	_	사람/ncn+처럼/jca
+6	보인다	보이+ㄴ다	VERB	_	0	root	_	_	보이/pvg+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 물을 보면 우리의 마음이 훨씬 부드러워진다 .
+1	물을	물+을	NOUN	_	2	obj	_	_	물/ncn+을/jco
+2	보면	보+면	SCONJ	_	6	conj	_	_	보/pvg+면/ecs
+3	우리의	우리+의	PRON	_	4	nmod	_	_	우리/npp+의/jcm
+4	마음이	마음+이	NOUN	_	6	nsubj	_	_	마음/ncn+이/jcs
+5	훨씬	훨씬	ADV	_	6	advmod	_	_	훨씬/mag
+6	부드러워진다	부드럽+어+지+ㄴ다	AUX	_	0	root	_	_	부드럽/paa+어/ecx+지/px+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 너무 완벽한 아이를 기대하지 마라 .
+1	너무	너무	ADV	_	2	advmod	_	_	너무/mag
+2	완벽한	완벽+하+ㄴ	VERB	_	3	amod	_	_	완벽/ncps+하/xsm+ㄴ/etm
+3	아이를	아이+를	NOUN	_	4	obj	_	_	아이/ncn+를/jco
+4	기대하지	기대+하+지	VERB	_	0	root	_	_	기대/ncpa+하/xsv+지/ecx
+5	마라	말+라	AUX	_	4	aux	_	_	말/px+라/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 아무리 식구들끼리지만 좀 보기 안 좋다 .
+1	아무리	아무리	ADV	_	2	advmod	_	_	아무리/mag
+2	식구들끼리지만	식구+들+끼리+이+지만	SCONJ	_	6	conj	_	_	식구/ncn+들/xsn+끼리/xsn+이/jp+지만/ecs
+3	좀	좀	ADV	_	6	advmod	_	_	좀/mag
+4	보기	보+기	VERB	_	6	nmod	_	_	보/pvg+기/etn
+5	안	안	ADV	_	6	advmod	_	_	안/mag
+6	좋다	좋+다	ADJ	_	0	root	_	_	좋/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 순결한 처녀는 비싼 법이다 .
+1	순결한	순결+하+ㄴ	VERB	_	2	amod	_	_	순결/ncps+하/xsm+ㄴ/etm
+2	처녀는	처녀+는	NOUN	_	4	dislocated	_	_	처녀/ncn+는/jxt
+3	비싼	비싸+ㄴ	ADJ	_	4	amod	_	_	비싸/paa+ㄴ/etm
+4	법이다	법+이+다	VERB	_	0	root	_	_	법/ncn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 그것 때문에 배달원의 월급을 밀리게 하면 되겠느냐 ?
+1	그것	그것	PRON	_	2	compound	_	_	그것/npd
+2	때문에	때문+에	ADV	_	5	obl	_	_	때문/nbn+에/jca
+3	배달원의	배달원+의	NOUN	_	4	nmod	_	_	배달원/ncn+의/jcm
+4	월급을	월급+을	NOUN	_	5	obj	_	_	월급/ncn+을/jco
+5	밀리게	밀리+게	VERB	_	7	ccomp	_	_	밀리/pvg+게/ecx
+6	하면	하+면	SCONJ	_	5	aux	_	_	하/px+면/ecs
+7	되겠느냐	되+겠+느냐	VERB	_	0	root	_	_	되/pvg+겠/ep+느냐/ef
+8	?	?	PUNCT	_	7	punct	_	_	?/sf
+
+# 시간을 버는 놀라운 비결 중의 하나다 .
+1	시간을	시간+을	NOUN	_	2	obj	_	_	시간/ncn+을/jco
+2	버는	벌+는	VERB	_	4	acl	_	_	벌/pvg+는/etm
+3	놀라운	놀랍+ㄴ	ADJ	_	4	amod	_	_	놀랍/paa+ㄴ/etm
+4	비결	비결	NOUN	_	5	compound	_	_	비결/ncn
+5	중의	중+의	NOUN	_	6	nmod	_	_	중/nbn+의/jcm
+6	하나다	하나+이+다	VERB	_	0	root	_	_	하나/nnc+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 남자들은 그런 데서 범죄를 생각한다 .
+1	남자들은	남자+들+은	NOUN	_	5	dislocated	_	_	남자/ncn+들/xsn+은/jxt
+2	그런	그런	DET	_	3	det	_	_	그런/mmd
+3	데서	데+서	ADV	_	5	advcl	_	_	데/nbn+서/jca
+4	범죄를	범죄+를	NOUN	_	5	obj	_	_	범죄/ncn+를/jco
+5	생각한다	생각+하+ㄴ다	VERB	_	0	root	_	_	생각/ncpa+하/xsv+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 물론 조화보다는 생화가 훨씬 낫다 .
+1	물론	물론	ADV	_	5	advmod	_	_	물론/mag
+2	조화보다는	조화+보다+는	NOUN	_	5	dislocated	_	_	조화/ncpa+보다/jca+는/jxt
+3	생화가	생화+가	NOUN	_	5	nsubj	_	_	생화/ncn+가/jcs
+4	훨씬	훨씬	ADV	_	5	advmod	_	_	훨씬/mag
+5	낫다	낫+다	ADJ	_	0	root	_	_	낫/paa+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 돌 버릇이 환갑까지 간다더라 .
+1	돌	돌	NOUN	_	2	compound	_	_	돌/ncn
+2	버릇이	버릇+이	NOUN	_	4	nsubj	_	_	버릇/ncn+이/jcs
+3	환갑까지	환갑+까지	ADV	_	4	advcl	_	_	환갑/ncn+까지/jxc
+4	간다더라	간+다더라	VERB	_	0	root	_	_	간/pvg+다더라/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 여자가 두꺼운 안경을 쓰면 남보기에 좋겠니 ?
+1	여자가	여자+가	NOUN	_	4	nsubj	_	_	여자/ncn+가/jcs
+2	두꺼운	두껍+ㄴ	ADJ	_	3	amod	_	_	두껍/paa+ㄴ/etm
+3	안경을	안경+을	NOUN	_	4	obj	_	_	안경/ncn+을/jco
+4	쓰면	쓰+면	SCONJ	_	6	conj	_	_	쓰/pvg+면/ecs
+5	남보기에	남보+기+에	ADV	_	6	obl	_	_	남보/pvg+기/etn+에/jca
+6	좋겠니	좋+겠+니	ADJ	_	0	root	_	_	좋/paa+겠/ep+니/ef
+7	?	?	PUNCT	_	6	punct	_	_	?/sf
+
+# 마음을 차분하게 해주고 품위도 더해준다 .
+1	마음을	마음+을	NOUN	_	3	obj	_	_	마음/ncn+을/jco
+2	차분하게	차분+하+게	SCONJ	_	3	xcomp	_	_	차분/ncps+하/xsm+게/ecs
+3	해주고	하+어+주+고	CCONJ	_	5	conj	_	_	하/pvg+어/ecx+주/px+고/ecc
+4	품위도	품위+도	ADV	_	5	advcl	_	_	품위/ncn+도/jxc
+5	더해준다	더하+어+주+ㄴ다	AUX	_	0	root	_	_	더하/pvg+어/ecx+주/px+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 강아지를 키워 봐라 .
+1	강아지를	강아지+를	NOUN	_	2	obj	_	_	강아지/ncn+를/jco
+2	키워	키우+어	VERB	_	0	root	_	_	키우/pvg+어/ecx
+3	봐라	보+아라	AUX	_	2	aux	_	_	보/px+아라/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 함께 땀 흘릴 때 우애가 두터워진다 .
+1	함께	함께	ADV	_	3	advmod	_	_	함께/mag
+2	땀	땀	NOUN	_	3	dep	_	_	땀/ncn
+3	흘릴	흘리+ㄹ	VERB	_	4	acl	_	_	흘리/pvg+ㄹ/etm
+4	때	때	NOUN	_	6	dep	_	_	때/ncn
+5	우애가	우애+가	NOUN	_	6	nsubj	_	_	우애/ncn+가/jcs
+6	두터워진다	두텁+어+지+ㄴ다	AUX	_	0	root	_	_	두텁/paa+어/ecx+지/px+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 새로운 아이디어를 내도록 노력해라 .
+1	새로운	새롭+ㄴ	ADJ	_	2	amod	_	_	새롭/paa+ㄴ/etm
+2	아이디어를	아이디어+를	NOUN	_	3	obj	_	_	아이디어/ncn+를/jco
+3	내도록	내+도록	SCONJ	_	4	ccomp	_	_	내/pvg+도록/ecs
+4	노력해라	노력+하+어라	VERB	_	0	root	_	_	노력/ncpa+하/xsv+어라/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 나이가 들어도 멋지고 건강한 여성이 된다 .
+1	나이가	나이+가	NOUN	_	2	nsubj	_	_	나이/ncn+가/jcs
+2	들어도	들+어도	SCONJ	_	6	ccomp	_	_	들/pvg+어도/ecs
+3	멋지고	멋지+고	CCONJ	_	4	conj	_	_	멋지/paa+고/ecc
+4	건강한	건강+하+ㄴ	VERB	_	5	amod	_	_	건강/ncps+하/xsm+ㄴ/etm
+5	여성이	여성+이	NOUN	_	6	csubj	_	_	여성/ncn+이/jcc
+6	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 마음을 더 아름답게 다듬으려고 애써라 .
+1	마음을	마음+을	NOUN	_	4	obj	_	_	마음/ncn+을/jco
+2	더	더	ADV	_	3	advmod	_	_	더/mag
+3	아름답게	아름답+게	SCONJ	_	4	xcomp	_	_	아름답/paa+게/ecs
+4	다듬으려고	다듬+으려고	SCONJ	_	5	ccomp	_	_	다듬/pvg+으려고/ecs
+5	애써라	애쓰+어라	VERB	_	0	root	_	_	애쓰/pvg+어라/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 많은 벌이 자기 꿀에 빠져 죽었다 .
+1	많은	많+ㄴ	ADJ	_	2	amod	_	_	많/paa+ㄴ/etm
+2	벌이	벌+이	NOUN	_	6	nsubj	_	_	벌/ncn+이/jcs
+3	자기	자기	PRON	_	4	compound	_	_	자기/npp
+4	꿀에	꿀+에	ADV	_	5	obl	_	_	꿀/ncn+에/jca
+5	빠져	빠지+어	SCONJ	_	6	ccomp	_	_	빠지/pvg+어/ecs
+6	죽었다	죽+었+다	VERB	_	0	root	_	_	죽/pvg+었/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 아는 것은 여전히 힘이다 .
+1	아는	알+는	VERB	_	2	acl	_	_	알/pvg+는/etm
+2	것은	것+은	NOUN	_	4	dislocated	_	_	것/nbn+은/jxt
+3	여전히	여전히	ADV	_	4	advmod	_	_	여전히/mag
+4	힘이다	힘+이+다	VERB	_	0	root	_	_	힘/ncn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 네가 높아진다 .
+1	네가	네+가	PRON	_	2	nsubj	_	_	네/npp+가/jcs
+2	높아진다	높+아+지+ㄴ다	AUX	_	0	root	_	_	높/paa+아/ecx+지/px+ㄴ다/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 그래야 편견을 감소할 수 있다 .
+1	그래야	그렇+어야	SCONJ	_	3	xcomp	_	_	그렇/pad+어야/ecs
+2	편견을	편견+을	NOUN	_	3	obj	_	_	편견/ncn+을/jco
+3	감소할	감소+하+ㄹ	VERB	_	0	root	_	_	감소/ncpa+하/xsv+ㄹ/etm
+4	수	수	NOUN	_	5	fixed	_	_	수/nbn
+5	있다	있+다	ADJ	_	3	aux	_	_	있/paa+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 불필요한 것을 사게 된다 .
+1	불필요한	불필요+하+ㄴ	VERB	_	2	amod	_	_	불필요/ncps+하/xsm+ㄴ/etm
+2	것을	것+을	NOUN	_	3	obj	_	_	것/nbn+을/jco
+3	사게	사+게	VERB	_	0	root	_	_	사/pvg+게/ecx
+4	된다	되+ㄴ다	AUX	_	3	aux	_	_	되/px+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 유치원도 못 나온 사람으로 취급된다 .
+1	유치원도	유치원+도	ADV	_	3	advcl	_	_	유치원/ncn+도/jxc
+2	못	못	ADV	_	3	advmod	_	_	못/mag
+3	나온	나오+ㄴ	VERB	_	4	acl	_	_	나오/pvg+ㄴ/etm
+4	사람으로	사람+으로	ADV	_	5	advcl	_	_	사람/ncn+으로/jca
+5	취급된다	취급+되+ㄴ다	VERB	_	0	root	_	_	취급/ncpa+되/xsv+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 네 마음의 구멍이 보인다 .
+1	네	네	PRON	_	2	compound	_	_	네/npp
+2	마음의	마음+의	NOUN	_	3	nmod	_	_	마음/ncn+의/jcm
+3	구멍이	구멍+이	NOUN	_	4	nsubj	_	_	구멍/ncn+이/jcs
+4	보인다	보이+ㄴ다	VERB	_	0	root	_	_	보이/pvg+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 며느리로 점수 따는 데에는 멋진 아이디어란다 .
+1	며느리로	며느리+로	ADV	_	3	advcl	_	_	며느리/ncn+로/jca
+2	점수	점수	NOUN	_	3	dep	_	_	점수/ncn
+3	따는	따+는	VERB	_	4	acl	_	_	따/pvg+는/etm
+4	데에는	데+에+는	NOUN	_	5	dislocated	_	_	데/nbn+에/jca+는/jxt
+5	멋진	멋지+ㄴ	ADJ	_	6	amod	_	_	멋지/paa+ㄴ/etm
+6	아이디어란다	아이디어+이+란다	VERB	_	0	root	_	_	아이디어/ncn+이/jp+란다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 성범죄의 원인이 되기도 하고 , 품위도 깎인다 .
+1	성범죄의	성범죄+의	NOUN	_	2	nmod	_	_	성범죄/ncn+의/jcm
+2	원인이	원인+이	NOUN	_	3	csubj	_	_	원인/ncn+이/jcc
+3	되기도	되+기+도	ADV	_	7	conj	_	_	되/pvg+기/etn+도/jxc
+4	하고	하+고	CCONJ	_	3	aux	_	_	하/px+고/ecc
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	품위도	품위+도	ADV	_	7	advcl	_	_	품위/ncn+도/jxc
+7	깎인다	깎이+ㄴ다	VERB	_	0	root	_	_	깎이/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 밖에 나오면 오히려 위험하다 .
+1	밖에	밖+에	ADV	_	2	obl	_	_	밖/ncn+에/jca
+2	나오면	나오+면	SCONJ	_	4	conj	_	_	나오/pvg+면/ecs
+3	오히려	오히려	ADV	_	4	advmod	_	_	오히려/mag
+4	위험하다	위험+하+다	VERB	_	0	root	_	_	위험/ncps+하/xsm+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 아주 급할 때에만 쓰는 것을 원칙으로 해라 .
+1	아주	아주	ADV	_	2	advmod	_	_	아주/mag
+2	급할	급하+ㄹ	ADJ	_	3	amod	_	_	급하/paa+ㄹ/etm
+3	때에만	때+에+만	ADV	_	4	advcl	_	_	때/ncn+에/jca+만/jxc
+4	쓰는	쓰+는	VERB	_	5	acl	_	_	쓰/pvg+는/etm
+5	것을	것+을	NOUN	_	7	obj	_	_	것/nbn+을/jco
+6	원칙으로	원칙+으로	ADV	_	7	advcl	_	_	원칙/ncn+으로/jca
+7	해라	하+어라	VERB	_	0	root	_	_	하/pvg+어라/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 마음이 고요해지고 스스로 품위도 세워 준다 .
+1	마음이	마음+이	NOUN	_	2	nsubj	_	_	마음/ncn+이/jcs
+2	고요해지고	고요+하+어+지+고	CCONJ	_	5	conj	_	_	고요/ncps+하/xsm+어/ecx+지/px+고/ecc
+3	스스로	스스로	ADV	_	5	advmod	_	_	스스로/mag
+4	품위도	품위+도	ADV	_	5	advcl	_	_	품위/ncn+도/jxc
+5	세워	세우+어	VERB	_	0	root	_	_	세우/pvg+어/ecx
+6	준다	주+ㄴ다	AUX	_	5	aux	_	_	주/px+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 하나님은 우리 몸을 그렇게 지으셨다 .
+1	하나님은	하나님+은	PROPN	_	5	dislocated	_	_	하나님/nq+은/jxt
+2	우리	우리	PRON	_	3	compound	_	_	우리/npp
+3	몸을	몸+을	NOUN	_	5	obj	_	_	몸/ncn+을/jco
+4	그렇게	그렇+게	SCONJ	_	5	xcomp	_	_	그렇/pad+게/ecs
+5	지으셨다	짓+으셨+다	VERB	_	0	root	_	_	짓/pvg+으셨/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 손에서 펜을 놓지 마라 .
+1	손에서	손+에서	ADV	_	3	advcl	_	_	손/ncn+에서/jca
+2	펜을	펜+을	NOUN	_	3	obj	_	_	펜/ncn+을/jco
+3	놓지	놓+지	VERB	_	0	root	_	_	놓/pvg+지/ecx
+4	마라	말+라	AUX	_	3	aux	_	_	말/px+라/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 배울 때에는 귀찮아해도 나중에는 고마워할 것이다 .
+1	배울	배우+ㄹ	VERB	_	2	acl	_	_	배우/pvg+ㄹ/etm
+2	때에는	때+에+는	NOUN	_	3	dislocated	_	_	때/ncn+에/jca+는/jxt
+3	귀찮아해도	귀찮아하+어도	SCONJ	_	5	ccomp	_	_	귀찮아하/pvg+어도/ecs
+4	나중에는	나중+에+는	NOUN	_	5	dislocated	_	_	나중/ncn+에/jca+는/jxt
+5	고마워할	고마워하+ㄹ	VERB	_	0	root	_	_	고마워하/pvg+ㄹ/etm
+6	것이다	것+이+다	VERB	_	5	aux	_	_	것/nbn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 네 마음도 눅눅하게 내버려 두지 마라 .
+1	네	네	PRON	_	2	compound	_	_	네/npp
+2	마음도	마음+도	ADV	_	4	advcl	_	_	마음/ncn+도/jxc
+3	눅눅하게	눅눅+하+게	SCONJ	_	4	xcomp	_	_	눅눅/ncps+하/xsm+게/ecs
+4	내버려	내버리+어	VERB	_	0	root	_	_	내버리/pvg+어/ecx
+5	두지	두+지	AUX	_	4	aux	_	_	두/px+지/ecx
+6	마라	말+라	AUX	_	4	aux	_	_	말/px+라/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 자녀를 위해서 젖은 앞치마로 반평생을 사시지 않았느냐 ?
+1	자녀를	자녀+를	NOUN	_	2	obj	_	_	자녀/ncn+를/jco
+2	위해서	위하+어서	SCONJ	_	6	ccomp	_	_	위하/pvg+어서/ecs
+3	젖은	젖+ㄴ	VERB	_	4	acl	_	_	젖/pvg+ㄴ/etm
+4	앞치마로	앞치마+로	ADV	_	6	advcl	_	_	앞치마/ncn+로/jca
+5	반평생을	반평생+을	NOUN	_	6	obj	_	_	반평생/ncn+을/jco
+6	사시지	살+시+지	VERB	_	0	root	_	_	살/pvg+시/ep+지/ecx
+7	않았느냐	않+았+느냐	AUX	_	6	aux	_	_	않/px+았/ep+느냐/ef
+8	?	?	PUNCT	_	7	punct	_	_	?/sf
+
+# 한 등만 아껴도 나라 살림에 크게 보탬이 된다 .
+1	한	한	NUM	_	2	nummod	_	_	한/nnc
+2	등만	등+만	ADV	_	3	advcl	_	_	등/ncn+만/jxc
+3	아껴도	아끼+어도	SCONJ	_	8	ccomp	_	_	아끼/pvg+어도/ecs
+4	나라	나라	NOUN	_	5	compound	_	_	나라/ncn
+5	살림에	살림+에	ADV	_	7	obl	_	_	살림/ncn+에/jca
+6	크게	크+게	SCONJ	_	7	xcomp	_	_	크/paa+게/ecs
+7	보탬이	보태+ㅁ+이	NOUN	_	8	csubj	_	_	보태/pvg+ㅁ/etn+이/jcc
+8	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 정말 믿으려면 하나님을 믿어라 .
+1	정말	정말	ADV	_	2	advmod	_	_	정말/mag
+2	믿으려면	믿+으려면	SCONJ	_	4	ccomp	_	_	믿/pvg+으려면/ecs
+3	하나님을	하나님+을	PROPN	_	4	obj	_	_	하나님/nq+을/jco
+4	믿어라	믿+어라	VERB	_	0	root	_	_	믿/pvg+어라/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 결혼하면 일생을 함께 갈 것이다 .
+1	결혼하면	결혼+하+면	SCONJ	_	4	ccomp	_	_	결혼/ncpa+하/xsv+면/ecs
+2	일생을	일생+을	NOUN	_	4	obj	_	_	일생/ncn+을/jco
+3	함께	함께	ADV	_	4	advmod	_	_	함께/mag
+4	갈	가+ㄹ	VERB	_	0	root	_	_	가/pvg+ㄹ/etm
+5	것이다	것+이+다	VERB	_	4	aux	_	_	것/nbn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 상대방이 한걸음 피할 것이다 .
+1	상대방이	상대방+이	NOUN	_	3	nsubj	_	_	상대방/ncn+이/jcs
+2	한걸음	한걸음	NOUN	_	3	dep	_	_	한걸음/ncn
+3	피할	피하+ㄹ	VERB	_	0	root	_	_	피하/pvg+ㄹ/etm
+4	것이다	것+이+다	VERB	_	3	aux	_	_	것/nbn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 기억하는 데에 도움이 된다 .
+1	기억하는	기억+하+는	VERB	_	2	acl	_	_	기억/ncpa+하/xsv+는/etm
+2	데에	데+에	ADV	_	4	obl	_	_	데/nbn+에/jca
+3	도움이	도움+이	NOUN	_	4	csubj	_	_	도움/ncn+이/jcc
+4	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 계량기가 빨리 돌아간다 .
+1	계량기가	계량기+가	NOUN	_	3	nsubj	_	_	계량기/ncn+가/jcs
+2	빨리	빨리	ADV	_	3	advmod	_	_	빨리/mag
+3	돌아간다	돌+아+가+ㄴ다	AUX	_	0	root	_	_	돌/pvg+아/ecx+가/px+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 쓰레기도 담아오고 쓸모가 많다 .
+1	쓰레기도	쓰레기+도	ADV	_	2	advcl	_	_	쓰레기/ncn+도/jxc
+2	담아오고	담+아+오+고	CCONJ	_	4	conj	_	_	담/pvg+아/ecx+오/px+고/ecc
+3	쓸모가	쓸모+가	NOUN	_	4	nsubj	_	_	쓸모/ncn+가/jcs
+4	많다	많+다	ADJ	_	0	root	_	_	많/paa+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 무엇이 있는지 일일이 열어 보지 않아도 된다 .
+1	무엇이	무엇+이	PRON	_	2	nsubj	_	_	무엇/npd+이/jcs
+2	있는지	있+는지	SCONJ	_	7	xcomp	_	_	있/paa+는지/ecs
+3	일일이	일일이	ADV	_	4	advmod	_	_	일일이/mag
+4	열어	열+어	VERB	_	7	ccomp	_	_	열/pvg+어/ecx
+5	보지	보+지	AUX	_	4	aux	_	_	보/px+지/ecx
+6	않아도	않+아도	SCONJ	_	4	aux	_	_	않/px+아도/ecs
+7	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그것을 다 주어도 너는 모자라지 않을 것이다 .
+1	그것을	그것+을	PRON	_	3	obj	_	_	그것/npd+을/jco
+2	다	다	ADV	_	3	advmod	_	_	다/mag
+3	주어도	주+어도	SCONJ	_	5	ccomp	_	_	주/pvg+어도/ecs
+4	너는	너+는	PRON	_	5	dislocated	_	_	너/npp+는/jxt
+5	모자라지	모자라+지	VERB	_	0	root	_	_	모자라/pvg+지/ecx
+6	않을	않+ㄹ	AUX	_	5	aux	_	_	않/px+ㄹ/etm
+7	것이다	것+이+다	VERB	_	5	aux	_	_	것/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 쌀에 벌레가 생기고 밥맛도 떨어진다 .
+1	쌀에	쌀+에	ADV	_	3	obl	_	_	쌀/ncn+에/jca
+2	벌레가	벌레+가	NOUN	_	3	nsubj	_	_	벌레/ncn+가/jcs
+3	생기고	생기+고	CCONJ	_	5	conj	_	_	생기/pvg+고/ecc
+4	밥맛도	밥맛+도	ADV	_	5	advcl	_	_	밥맛/ncn+도/jxc
+5	떨어진다	떨+어+지+ㄴ다	AUX	_	0	root	_	_	떨/pvg+어/ecx+지/px+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 혼자 있을 때 활용할 것이다 .
+1	혼자	혼자	ADV	_	2	advmod	_	_	혼자/mag
+2	있을	있+ㄹ	ADJ	_	3	amod	_	_	있/paa+ㄹ/etm
+3	때	때	NOUN	_	4	compound	_	_	때/ncn
+4	활용할	활용+하+ㄹ	VERB	_	0	root	_	_	활용/ncpa+하/xsv+ㄹ/etm
+5	것이다	것+이+다	VERB	_	4	aux	_	_	것/nbn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 물에 생명력이 있단다 .
+1	물에	물+에	ADV	_	3	obl	_	_	물/ncn+에/jca
+2	생명력이	생명력+이	NOUN	_	3	nsubj	_	_	생명력/ncn+이/jcs
+3	있단다	있+단다	ADJ	_	0	root	_	_	있/paa+단다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 큰 소리로 싸우려면 차 안에서 단 둘이만 해라 .
+1	큰	크+ㄴ	ADJ	_	2	amod	_	_	크/paa+ㄴ/etm
+2	소리로	소리+로	ADV	_	3	advcl	_	_	소리/ncn+로/jca
+3	싸우려면	싸우+려면	SCONJ	_	8	ccomp	_	_	싸우/pvg+려면/ecs
+4	차	차	NOUN	_	5	compound	_	_	차/ncn
+5	안에서	안+에서	ADV	_	8	advcl	_	_	안/ncn+에서/jca
+6	단	단	ADJ	_	7	amod	_	_	단/mma
+7	둘이만	둘이+만	ADV	_	8	advcl	_	_	둘이/ncn+만/jxc
+8	해라	하+어라	VERB	_	0	root	_	_	하/pvg+어라/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 보기에도 좋고 위생적이다 .
+1	보기에도	보+기+에+도	ADV	_	2	advcl	_	_	보/pvg+기/etn+에/jca+도/jxc
+2	좋고	좋+고	CCONJ	_	3	conj	_	_	좋/paa+고/ecc
+3	위생적이다	위생+적+이+다	VERB	_	0	root	_	_	위생/ncn+적/xsn+이/jp+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 급할 때 효과가 있다 .
+1	급할	급하+ㄹ	ADJ	_	2	amod	_	_	급하/paa+ㄹ/etm
+2	때	때	NOUN	_	4	dep	_	_	때/ncn
+3	효과가	효과+가	NOUN	_	4	nsubj	_	_	효과/ncn+가/jcs
+4	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 너희 집은 음식점이 아니잖니 ?
+1	너희	너희	PRON	_	2	compound	_	_	너희/npp
+2	집은	집+은	NOUN	_	4	dislocated	_	_	집/ncn+은/jxt
+3	음식점이	음식점+이	NOUN	_	4	csubj	_	_	음식점/ncn+이/jcc
+4	아니잖니	아니+지+않+니	AUX	_	0	root	_	_	아니/paa+지/ecx+않/px+니/ef
+5	?	?	PUNCT	_	4	punct	_	_	?/sf
+
+# 여러 모로 쓸 데가 많다 .
+1	여러	여러	ADJ	_	2	amod	_	_	여러/mma
+2	모로	모+로	ADV	_	3	advcl	_	_	모/ncn+로/jca
+3	쓸	쓰+ㄹ	VERB	_	4	acl	_	_	쓰/pvg+ㄹ/etm
+4	데가	데+가	NOUN	_	5	nsubj	_	_	데/nbn+가/jcs
+5	많다	많+다	ADJ	_	0	root	_	_	많/paa+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 일 년에 한 번도 쓰지 않는 그릇이 많다 .
+1	일	일	NUM	_	2	nummod	_	_	일/nnc
+2	년에	년+에	ADV	_	5	obl	_	_	년/nbu+에/jca
+3	한	한	NUM	_	4	nummod	_	_	한/nnc
+4	번도	번+도	ADV	_	5	advcl	_	_	번/nbu+도/jxc
+5	쓰지	쓰+지	VERB	_	7	acl	_	_	쓰/pvg+지/ecx
+6	않는	않+는	AUX	_	5	aux	_	_	않/px+는/etm
+7	그릇이	그릇+이	NOUN	_	8	nsubj	_	_	그릇/ncn+이/jcs
+8	많다	많+다	ADJ	_	0	root	_	_	많/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 헤프다는 인상밖에는 줄 것이 없다 .
+1	헤프다는	헤프+다는	ADJ	_	2	amod	_	_	헤프/paa+다는/etm
+2	인상밖에는	인상+밖에	ADV	_	3	advcl	_	_	인상/ncn+밖에/jxc
+3	줄	주+ㄹ	VERB	_	4	acl	_	_	주/pvg+ㄹ/etm
+4	것이	것+이	NOUN	_	5	nsubj	_	_	것/nbn+이/jcs
+5	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 시간이 날 때에 한가지씩 할 수 있다 .
+1	시간이	시간+이	NOUN	_	2	nsubj	_	_	시간/ncn+이/jcs
+2	날	나+ㄹ	VERB	_	3	acl	_	_	나/pvg+ㄹ/etm
+3	때에	때+에	ADV	_	5	obl	_	_	때/ncn+에/jca
+4	한가지씩	한가지+씩	NOUN	_	5	advmod	_	_	한가지/ncn+씩/xsn
+5	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+6	수	수	NOUN	_	7	fixed	_	_	수/nbn
+7	있다	있+다	ADJ	_	5	aux	_	_	있/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 소문대로 살고자 하면 더 멋지게 될 것이다 .
+1	소문대로	소문+대로	ADV	_	2	advcl	_	_	소문/ncn+대로/jxc
+2	살고자	살+고자	SCONJ	_	3	ccomp	_	_	살/pvg+고자/ecs
+3	하면	하+면	SCONJ	_	5	conj	_	_	하/pvg+면/ecs
+4	더	더	ADV	_	5	advmod	_	_	더/mag
+5	멋지게	멋지+게	ADJ	_	0	root	_	_	멋지/paa+게/ecx
+6	될	되+ㄹ	AUX	_	5	aux	_	_	되/px+ㄹ/etm
+7	것이다	것+이+다	VERB	_	5	aux	_	_	것/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 네가 늙어서 누워 있을 때에 네 자녀도 너에게 책을 읽어 주게 될 것이다 .
+1	네가	네+가	PRON	_	2	nsubj	_	_	네/npp+가/jcs
+2	늙어서	늙+어서	SCONJ	_	3	ccomp	_	_	늙/pvg+어서/ecs
+3	누워	눕+어	VERB	_	5	acl	_	_	눕/pvg+어/ecx
+4	있을	있+ㄹ	AUX	_	3	aux	_	_	있/px+ㄹ/etm
+5	때에	때+에	ADV	_	10	obl	_	_	때/ncn+에/jca
+6	네	네	PRON	_	7	compound	_	_	네/npp
+7	자녀도	자녀+도	ADV	_	10	advcl	_	_	자녀/ncn+도/jxc
+8	너에게	너+에게	ADV	_	10	iobj	_	_	너/npp+에게/jca
+9	책을	책+을	NOUN	_	10	obj	_	_	책/ncn+을/jco
+10	읽어	읽+어	VERB	_	0	root	_	_	읽/pvg+어/ecx
+11	주게	주+게	AUX	_	10	aux	_	_	주/px+게/ecx
+12	될	되+ㄹ	AUX	_	10	aux	_	_	되/px+ㄹ/etm
+13	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 아름다운 자연의 한 모퉁이가 된다 .
+1	아름다운	아름답+ㄴ	ADJ	_	2	amod	_	_	아름답/paa+ㄴ/etm
+2	자연의	자연+의	NOUN	_	4	nmod	_	_	자연/ncps+의/jcm
+3	한	한	NUM	_	4	nummod	_	_	한/nnc
+4	모퉁이가	모퉁이+가	NOUN	_	5	csubj	_	_	모퉁이/ncn+가/jcc
+5	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 입맛도 버리고 질병이 많아진단다 .
+1	입맛도	입맛+도	ADV	_	2	advcl	_	_	입맛/ncn+도/jxc
+2	버리고	버리+고	CCONJ	_	4	conj	_	_	버리/pvg+고/ecc
+3	질병이	질병+이	NOUN	_	4	nsubj	_	_	질병/ncn+이/jcs
+4	많아진단다	많+아+지+ㄴ단다	AUX	_	0	root	_	_	많/paa+아/ecx+지/px+ㄴ단다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 훗날에 좋은 습관이 된다 .
+1	훗날에	훗날+에	ADV	_	4	obl	_	_	훗날/ncn+에/jca
+2	좋은	좋+ㄴ	ADJ	_	3	amod	_	_	좋/paa+ㄴ/etm
+3	습관이	습관+이	NOUN	_	4	csubj	_	_	습관/ncn+이/jcc
+4	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 흉하게 살찐다 .
+1	흉하게	흉하+게	SCONJ	_	2	xcomp	_	_	흉하/paa+게/ecs
+2	살찐다	살찌+ㄴ다	VERB	_	0	root	_	_	살찌/pvg+ㄴ다/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 시시 때때로 큰 도움이 된다 .
+1	시시	시시	ADV	_	5	advmod	_	_	시시/mag
+2	때때로	때때로	ADV	_	1	advmod	_	_	때때로/mag
+3	큰	크+ㄴ	ADJ	_	4	amod	_	_	크/paa+ㄴ/etm
+4	도움이	도움+이	NOUN	_	5	csubj	_	_	도움/ncn+이/jcc
+5	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 오디오보다 비디오가 더 효과적인 것과 같다 .
+1	오디오보다	오디오+보다	ADV	_	4	advcl	_	_	오디오/ncn+보다/jca
+2	비디오가	비디오+가	NOUN	_	4	nsubj	_	_	비디오/ncn+가/jcs
+3	더	더	ADV	_	4	advmod	_	_	더/mag
+4	효과적인	효과+적+이+ㄴ	VERB	_	5	acl	_	_	효과/ncn+적/xsn+이/jp+ㄴ/etm
+5	것과	것+과	CCONJ	_	6	conj	_	_	것/nbn+과/jct
+6	같다	같+다	ADJ	_	0	root	_	_	같/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 혹시 바꿔야 할 때 꼭 필요하다 .
+1	혹시	혹시	ADV	_	2	advmod	_	_	혹시/mag
+2	바꿔야	바꾸+어야	VERB	_	4	acl	_	_	바꾸/pvg+어야/ecx
+3	할	하+ㄹ	AUX	_	2	aux	_	_	하/px+ㄹ/etm
+4	때	때	NOUN	_	6	compound	_	_	때/ncn
+5	꼭	꼭	ADV	_	6	advmod	_	_	꼭/mag
+6	필요하다	필요+하+다	VERB	_	0	root	_	_	필요/ncps+하/xsm+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 몸과 마음이 망가진다 .
+1	몸과	몸+과	CCONJ	_	2	conj	_	_	몸/ncn+과/jcj
+2	마음이	마음+이	NOUN	_	3	nsubj	_	_	마음/ncn+이/jcs
+3	망가진다	망가지+ㄴ다	VERB	_	0	root	_	_	망가지/pvg+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 몸 닦는 소리도 감출 수 있고 기분도 좋다 .
+1	몸	몸	NOUN	_	2	dep	_	_	몸/ncn
+2	닦는	닦+는	VERB	_	3	acl	_	_	닦/pvg+는/etm
+3	소리도	소리+도	ADV	_	4	advcl	_	_	소리/ncn+도/jxc
+4	감출	감추+ㄹ	VERB	_	8	conj	_	_	감추/pvg+ㄹ/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	있고	있+고	CCONJ	_	4	aux	_	_	있/paa+고/ecc
+7	기분도	기분+도	ADV	_	8	advcl	_	_	기분/ncn+도/jxc
+8	좋다	좋+다	ADJ	_	0	root	_	_	좋/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 혼자 당황하지 않기 위해서다 .
+1	혼자	혼자	ADV	_	2	advmod	_	_	혼자/mag
+2	당황하지	당황+하+지	VERB	_	4	ccomp	_	_	당황/ncpa+하/xsv+지/ecx
+3	않기	않+기	AUX	_	2	aux	_	_	않/px+기/etn
+4	위해서다	위하+어서+이+다	VERB	_	0	root	_	_	위하/pvg+어서/ecs+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 많은 사람이 들어올 수 있단다 .
+1	많은	많+ㄴ	ADJ	_	2	amod	_	_	많/paa+ㄴ/etm
+2	사람이	사람+이	NOUN	_	3	nsubj	_	_	사람/ncn+이/jcs
+3	들어올	들+어+오+ㄹ	AUX	_	0	root	_	_	들/pvg+어/ecx+오/px+ㄹ/etm
+4	수	수	NOUN	_	5	fixed	_	_	수/nbn
+5	있단다	있+단다	ADJ	_	3	aux	_	_	있/paa+단다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 어쩐지 게으른 주부라는 느낌이 든다 .
+1	어쩐지	어쩐지	ADV	_	5	advmod	_	_	어쩐지/mag
+2	게으른	게으르+ㄴ	ADJ	_	3	amod	_	_	게으르/paa+ㄴ/etm
+3	주부라는	주부+이+라는	VERB	_	4	acl	_	_	주부/ncn+이/jp+라는/etm
+4	느낌이	느낌+이	NOUN	_	5	nsubj	_	_	느낌/ncn+이/jcs
+5	든다	들+ㄴ다	VERB	_	0	root	_	_	들/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 비판하는 부분이 너에게 있기 때문이다 .
+1	비판하는	비판+하+는	VERB	_	2	acl	_	_	비판/ncpa+하/xsv+는/etm
+2	부분이	부분+이	NOUN	_	4	nsubj	_	_	부분/ncn+이/jcs
+3	너에게	너+에게	ADV	_	4	iobj	_	_	너/npp+에게/jca
+4	있기	있+기	ADJ	_	0	root	_	_	있/paa+기/etn
+5	때문이다	때문+이+다	VERB	_	4	aux	_	_	때문/nbn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 너의 식구들의 화장대와 같다 .
+1	너의	너+의	PRON	_	2	nmod	_	_	너/npp+의/jcm
+2	식구들의	식구+들+의	NOUN	_	3	nmod	_	_	식구/ncn+들/xsn+의/jcm
+3	화장대와	화장대+와	CCONJ	_	4	conj	_	_	화장대/ncn+와/jct
+4	같다	같+다	ADJ	_	0	root	_	_	같/paa+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 몰상식한 인상을 준다 .
+1	몰상식한	몰상식+하+ㄴ	VERB	_	2	amod	_	_	몰상식/ncps+하/xsm+ㄴ/etm
+2	인상을	인상+을	NOUN	_	3	obj	_	_	인상/ncn+을/jco
+3	준다	주+ㄴ다	VERB	_	0	root	_	_	주/pvg+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 돈에 끌리지 말고 돈을 끌고 가라 .
+1	돈에	돈+에	ADV	_	2	obl	_	_	돈/ncn+에/jca
+2	끌리지	끌리+지	VERB	_	7	conj	_	_	끌리/pvg+지/ecx
+3	말고	말+고	CCONJ	_	2	aux	_	_	말/px+고/ecc
+4	돈을	돈+을	NOUN	_	5	obj	_	_	돈/ncn+을/jco
+5	끌고	끌+고	CCONJ	_	6	conj	_	_	끌/pvg+고/ecc
+6	가라	가+라	VERB	_	7	conj	_	_	가/pvg+라/ef
+7	.	.	PUNCT	_	0	root	_	_	./sf
+
+# 때를 놓치면 후회한다 .
+1	때를	때+를	NOUN	_	2	obj	_	_	때/ncn+를/jco
+2	놓치면	놓치+면	SCONJ	_	3	ccomp	_	_	놓치/pvg+면/ecs
+3	후회한다	후회+하+ㄴ다	VERB	_	0	root	_	_	후회/ncpa+하/xsv+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 불필요한 것을 사지 않게 된다 .
+1	불필요한	불필요+하+ㄴ	VERB	_	2	amod	_	_	불필요/ncps+하/xsm+ㄴ/etm
+2	것을	것+을	NOUN	_	3	obj	_	_	것/nbn+을/jco
+3	사지	사+지	VERB	_	0	root	_	_	사/pvg+지/ecx
+4	않게	않+게	AUX	_	3	aux	_	_	않/px+게/ecx
+5	된다	되+ㄴ다	AUX	_	3	aux	_	_	되/px+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 살아있는 교훈이 된다 .
+1	살아있는	살+아+있+는	AUX	_	2	acl	_	_	살/pvg+아/ecx+있/px+는/etm
+2	교훈이	교훈+이	NOUN	_	3	csubj	_	_	교훈/ncn+이/jcc
+3	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 기분이 한결 좋아질 것이다 .
+1	기분이	기분+이	NOUN	_	3	nsubj	_	_	기분/ncn+이/jcs
+2	한결	한결	ADV	_	3	advmod	_	_	한결/mag
+3	좋아질	좋+아+지+ㄹ	AUX	_	0	root	_	_	좋/paa+아/ecx+지/px+ㄹ/etm
+4	것이다	것+이+다	VERB	_	3	aux	_	_	것/nbn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 접착제가 되야지 , 분리제가 되면 안 된다 .
+1	접착제가	접착제+가	NOUN	_	2	csubj	_	_	접착제/ncn+가/jcc
+2	되야지	되+야지	SCONJ	_	7	ccomp	_	_	되/pvg+야지/ecs
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	분리제가	분리제+가	NOUN	_	5	csubj	_	_	분리제/ncn+가/jcc
+5	되면	되+면	SCONJ	_	7	ccomp	_	_	되/pvg+면/ecs
+6	안	안	ADV	_	7	advmod	_	_	안/mag
+7	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 엄마 없이 깨어나면 아기가 놀란다 .
+1	엄마	엄마	NOUN	_	2	dep	_	_	엄마/ncn
+2	없이	없+이	SCONJ	_	3	xcomp	_	_	없/paa+이/ecs
+3	깨어나면	깨어나+면	SCONJ	_	5	ccomp	_	_	깨어나/pvg+면/ecs
+4	아기가	아기+가	NOUN	_	5	nsubj	_	_	아기/ncn+가/jcs
+5	놀란다	놀라+ㄴ다	VERB	_	0	root	_	_	놀라/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 첫인상에 속지 마라 .
+1	첫인상에	첫인상+에	ADV	_	2	obl	_	_	첫인상/ncn+에/jca
+2	속지	속+지	VERB	_	0	root	_	_	속/pvg+지/ecx
+3	마라	말+라	AUX	_	2	aux	_	_	말/px+라/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 한 방울씩 떨어지는 물이 어느새 한 통이 된다 .
+1	한	한	NUM	_	2	nummod	_	_	한/nnc
+2	방울씩	방울+씩	NOUN	_	3	advmod	_	_	방울/nbu+씩/xsn
+3	떨어지는	떨+어+지+는	AUX	_	4	acl	_	_	떨/pvg+어/ecx+지/px+는/etm
+4	물이	물+이	NOUN	_	8	nsubj	_	_	물/ncn+이/jcs
+5	어느새	어느새	ADV	_	8	advmod	_	_	어느새/mag
+6	한	한	NUM	_	7	nummod	_	_	한/nnc
+7	통이	통+이	NOUN	_	8	csubj	_	_	통/nbu+이/jcc
+8	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 사방이 막혀도 아래 위로는 뚫려 있다 .
+1	사방이	사방+이	NOUN	_	2	nsubj	_	_	사방/ncn+이/jcs
+2	막혀도	막히+어도	SCONJ	_	5	ccomp	_	_	막히/pvg+어도/ecs
+3	아래	아래	NOUN	_	4	compound	_	_	아래/ncn
+4	위로는	위+로+는	NOUN	_	5	dislocated	_	_	위/ncn+로/jca+는/jxt
+5	뚫려	뚫리+어	VERB	_	0	root	_	_	뚫리/pvg+어/ecx
+6	있다	있+다	AUX	_	5	aux	_	_	있/px+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 노인들의 눈에 아직도 익숙하지 않단다 .
+1	노인들의	노인+들+의	NOUN	_	2	nmod	_	_	노인/ncn+들/xsn+의/jcm
+2	눈에	눈+에	ADV	_	4	obl	_	_	눈/ncn+에/jca
+3	아직도	아직+도	ADV	_	4	advmod	_	_	아직/mag+도/jxc
+4	익숙하지	익숙+하+지	VERB	_	0	root	_	_	익숙/ncps+하/xsm+지/ecx
+5	않단다	않+단다	AUX	_	4	aux	_	_	않/px+단다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 너무 성급하게 단정하거나 상심하지 마라 .
+1	너무	너무	ADV	_	2	advmod	_	_	너무/mag
+2	성급하게	성급+하+게	SCONJ	_	4	xcomp	_	_	성급/ncps+하/xsm+게/ecs
+3	단정하거나	단정+하+거나	CCONJ	_	4	conj	_	_	단정/ncpa+하/xsv+거나/ecc
+4	상심하지	상심+하+지	VERB	_	0	root	_	_	상심/ncpa+하/xsv+지/ecx
+5	마라	말+라	AUX	_	4	aux	_	_	말/px+라/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 비상약과 같으니라 .
+1	비상약과	비상약+과	CCONJ	_	2	conj	_	_	비상약/ncn+과/jct
+2	같으니라	같+으니라	ADJ	_	0	root	_	_	같/paa+으니라/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 필요하면 함께 보고 평가해 주어라 .
+1	필요하면	필요+하+면	SCONJ	_	3	xcomp	_	_	필요/ncps+하/xsm+면/ecs
+2	함께	함께	ADV	_	3	advmod	_	_	함께/mag
+3	보고	보+고	CCONJ	_	4	conj	_	_	보/pvg+고/ecc
+4	평가해	평가+하+어	VERB	_	0	root	_	_	평가/ncpa+하/xsv+어/ecx
+5	주어라	주+어라	AUX	_	4	aux	_	_	주/px+어라/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 지도자가 갖추어야 할 자질이다 .
+1	지도자가	지도자+가	NOUN	_	2	nsubj	_	_	지도자/ncn+가/jcs
+2	갖추어야	갖추+어야	VERB	_	4	ccomp	_	_	갖추/pvg+어야/ecx
+3	할	하+ㄹ	AUX	_	2	aux	_	_	하/px+ㄹ/etm
+4	자질이다	자질+이+다	VERB	_	0	root	_	_	자질/ncn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 둔한 여성만큼 흉한 것도 없다 .
+1	둔한	둔하+ㄴ	ADJ	_	2	amod	_	_	둔하/paa+ㄴ/etm
+2	여성만큼	여성+만큼	ADV	_	3	advcl	_	_	여성/ncn+만큼/jca
+3	흉한	흉하+ㄴ	ADJ	_	4	amod	_	_	흉하/paa+ㄴ/etm
+4	것도	것+도	ADV	_	5	advcl	_	_	것/nbn+도/jxc
+5	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 분위기가 달라질 것이다 .
+1	분위기가	분위기+가	NOUN	_	2	nsubj	_	_	분위기/ncn+가/jcs
+2	달라질	달라지+ㄹ	VERB	_	0	root	_	_	달라지/pvg+ㄹ/etm
+3	것이다	것+이+다	VERB	_	2	aux	_	_	것/nbn+이/jp+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 사회에는 경쟁자들이 많기 때문에 늘 긴장한다 .
+1	사회에는	사회+에+는	NOUN	_	3	dislocated	_	_	사회/ncn+에/jca+는/jxt
+2	경쟁자들이	경쟁자+들+이	NOUN	_	3	nsubj	_	_	경쟁자/ncn+들/xsn+이/jcs
+3	많기	많+기	ADJ	_	4	nmod	_	_	많/paa+기/etn
+4	때문에	때문+에	ADV	_	6	obl	_	_	때문/nbn+에/jca
+5	늘	늘	ADV	_	6	advmod	_	_	늘/mag
+6	긴장한다	긴장+하+ㄴ다	VERB	_	0	root	_	_	긴장/ncpa+하/xsv+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 고쳐지지도 않고 마음만 상한다 .
+1	고쳐지지도	고치+어+지+지+도	ADV	_	4	conj	_	_	고치/pvg+어/ecx+지/px+지/ecx+도/jxc
+2	않고	않+고	CCONJ	_	1	aux	_	_	않/px+고/ecc
+3	마음만	마음+만	ADV	_	4	advcl	_	_	마음/ncn+만/jxc
+4	상한다	상하+다	VERB	_	0	root	_	_	상하/pvg+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 특히 작은 글자에 주의해라 .
+1	특히	특히	ADV	_	4	advmod	_	_	특히/mag
+2	작은	작+ㄴ	ADJ	_	3	amod	_	_	작/paa+ㄴ/etm
+3	글자에	글자+에	ADV	_	4	advcl	_	_	글자/ncn+에/jxc
+4	주의해라	주의+하+어라	VERB	_	0	root	_	_	주의/ncpa+하/xsv+어라/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 어른 공경하는 것을 배운다 .
+1	어른	어른	NOUN	_	2	compound	_	_	어른/ncn
+2	공경하는	공경+하+는	VERB	_	3	acl	_	_	공경/ncpa+하/xsv+는/etm
+3	것을	것+을	NOUN	_	4	obj	_	_	것/nbn+을/jco
+4	배운다	배우+ㄴ다	VERB	_	0	root	_	_	배우/pvg+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 얻는 것보다 잃는 것이 더 많다 .
+1	얻는	얻+는	VERB	_	2	acl	_	_	얻/pvg+는/etm
+2	것보다	것+보다	ADV	_	6	advcl	_	_	것/nbn+보다/jca
+3	잃는	잃+는	VERB	_	4	acl	_	_	잃/pvg+는/etm
+4	것이	것+이	NOUN	_	6	nsubj	_	_	것/nbn+이/jcs
+5	더	더	ADV	_	6	advmod	_	_	더/mag
+6	많다	많+다	ADJ	_	0	root	_	_	많/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 식탁은 침대가 아니다 .
+1	식탁은	식탁+은	NOUN	_	3	dislocated	_	_	식탁/ncn+은/jxt
+2	침대가	침대+가	NOUN	_	3	csubj	_	_	침대/ncn+가/jcc
+3	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 두 가지를 한꺼번에 하려면 다 못하게 된다 .
+1	두	두	NUM	_	2	nummod	_	_	두/nnc
+2	가지를	가지+를	NOUN	_	4	obj	_	_	가지/nbu+를/jco
+3	한꺼번에	한꺼번에	ADV	_	4	advmod	_	_	한꺼번에/mag
+4	하려면	하+려면	SCONJ	_	6	ccomp	_	_	하/pvg+려면/ecs
+5	다	다	ADV	_	6	advmod	_	_	다/mag
+6	못하게	못하+게	VERB	_	0	root	_	_	못하/pvg+게/ecx
+7	된다	되+ㄴ다	AUX	_	6	aux	_	_	되/px+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 갑자기 불이 나가도 당황하지 않는다 .
+1	갑자기	갑자기	ADV	_	3	advmod	_	_	갑자기/mag
+2	불이	불+이	NOUN	_	3	nsubj	_	_	불/ncn+이/jcs
+3	나가도	나가+아+도	ADV	_	4	ccomp	_	_	나가/pvg+아/ecs+도/jxc
+4	당황하지	당황+하+지	VERB	_	0	root	_	_	당황/ncpa+하/xsv+지/ecx
+5	않는다	않+는다	AUX	_	4	aux	_	_	않/px+는다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 시간을 아끼게 될 것이다 .
+1	시간을	시간+을	NOUN	_	2	obj	_	_	시간/ncn+을/jco
+2	아끼게	아끼+게	VERB	_	0	root	_	_	아끼/pvg+게/ecx
+3	될	되+ㄹ	AUX	_	2	aux	_	_	되/px+ㄹ/etm
+4	것이다	것+이+다	VERB	_	2	aux	_	_	것/nbn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 묘지에는 오락이 없단다 .
+1	묘지에는	묘지+에+는	NOUN	_	3	dislocated	_	_	묘지/ncn+에/jca+는/jxt
+2	오락이	오락+이	NOUN	_	3	nsubj	_	_	오락/ncn+이/jcs
+3	없단다	없+단다	ADJ	_	0	root	_	_	없/paa+단다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 비싸지만 멋진 시간이 될 것이다 .
+1	비싸지만	비싸+지만	SCONJ	_	4	xcomp	_	_	비싸/paa+지만/ecs
+2	멋진	멋지+ㄴ	ADJ	_	3	amod	_	_	멋지/paa+ㄴ/etm
+3	시간이	시간+이	NOUN	_	4	csubj	_	_	시간/ncn+이/jcc
+4	될	되+ㄹ	VERB	_	0	root	_	_	되/pvg+ㄹ/etm
+5	것이다	것+이+다	VERB	_	4	aux	_	_	것/nbn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 정보 시대에 살고 있다 .
+1	정보	정보	NOUN	_	2	compound	_	_	정보/ncn
+2	시대에	시대+에	ADV	_	3	obl	_	_	시대/ncn+에/jca
+3	살고	살+고	VERB	_	0	root	_	_	살/pvg+고/ecx
+4	있다	있+다	AUX	_	3	aux	_	_	있/px+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 자기 마음을 듣는 자가 바른 양심을 갖는다 .
+1	자기	자기	PRON	_	2	compound	_	_	자기/npp
+2	마음을	마음+을	NOUN	_	3	obj	_	_	마음/ncn+을/jco
+3	듣는	듣+는	VERB	_	4	acl	_	_	듣/pvg+는/etm
+4	자가	자+가	NOUN	_	7	nsubj	_	_	자/nbn+가/jcs
+5	바른	바르+ㄴ	ADJ	_	6	amod	_	_	바르/paa+ㄴ/etm
+6	양심을	양심+을	NOUN	_	7	obj	_	_	양심/ncn+을/jco
+7	갖는다	갖+는다	VERB	_	0	root	_	_	갖/pvg+는다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 어느새 미소가 떠오를 것이다 .
+1	어느새	어느새	ADV	_	3	advmod	_	_	어느새/mag
+2	미소가	미소+가	NOUN	_	3	nsubj	_	_	미소/ncn+가/jcs
+3	떠오를	떠오르+ㄹ	VERB	_	0	root	_	_	떠오르/pvg+ㄹ/etm
+4	것이다	것+이+다	VERB	_	3	aux	_	_	것/nbn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 아끼다가 좀이 먹으면 더 아깝다 .
+1	아끼다가	아끼+다가	SCONJ	_	3	ccomp	_	_	아끼/pvg+다가/ecs
+2	좀이	좀+이	NOUN	_	3	nsubj	_	_	좀/ncn+이/jcs
+3	먹으면	먹+으면	SCONJ	_	5	conj	_	_	먹/pvg+으면/ecs
+4	더	더	ADV	_	5	advmod	_	_	더/mag
+5	아깝다	아깝+다	ADJ	_	0	root	_	_	아깝/paa+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 사실은 속마음은 그렇지 않을 때가 많단다 .
+1	사실은	사실+은	NOUN	_	3	dislocated	_	_	사실/ncn+은/jxt
+2	속마음은	속마음+은	NOUN	_	3	dislocated	_	_	속마음/ncn+은/jxt
+3	그렇지	그렇+지	VERB	_	5	amod	_	_	그렇/pad+지/ecx
+4	않을	않+ㄹ	AUX	_	3	aux	_	_	않/px+ㄹ/etm
+5	때가	때+가	NOUN	_	6	nsubj	_	_	때/ncn+가/jcs
+6	많단다	많+단다	ADJ	_	0	root	_	_	많/paa+단다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 아이들도 기도하는 법을 배우게 해라 .
+1	아이들도	아이+들+도	ADV	_	4	advcl	_	_	아이/ncn+들/xsn+도/jxc
+2	기도하는	기도+하+는	VERB	_	3	acl	_	_	기도/ncpa+하/xsv+는/etm
+3	법을	법+을	NOUN	_	4	obj	_	_	법/ncn+을/jco
+4	배우게	배우+게	VERB	_	0	root	_	_	배우/pvg+게/ecx
+5	해라	하+어라	AUX	_	4	aux	_	_	하/px+어라/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 잘만 해소하면 스트레스가 항상 나쁜 것만은 아니다 .
+1	잘만	잘+만	ADV	_	2	advmod	_	_	잘/mag+만/jxc
+2	해소하면	해소+하+면	SCONJ	_	7	conj	_	_	해소/ncpa+하/xsv+면/ecs
+3	스트레스가	스트레스+가	NOUN	_	5	nsubj	_	_	스트레스/ncn+가/jcs
+4	항상	항상	ADV	_	5	advmod	_	_	항상/mag
+5	나쁜	나쁘+ㄴ	ADJ	_	6	amod	_	_	나쁘/paa+ㄴ/etm
+6	것만은	것+만은	NOUN	_	7	dislocated	_	_	것/nbn+만은/jxt
+7	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 깜짝 놀라는 기쁨을 주는 것이다 .
+1	깜짝	깜짝	ADV	_	2	advmod	_	_	깜짝/mag
+2	놀라는	놀라+는	VERB	_	3	acl	_	_	놀라/pvg+는/etm
+3	기쁨을	기쁨+을	NOUN	_	4	obj	_	_	기쁨/ncn+을/jco
+4	주는	주+는	VERB	_	0	root	_	_	주/pvg+는/etm
+5	것이다	것+이+다	VERB	_	4	aux	_	_	것/nbn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 네 품을 떠나면 때를 놓친다 .
+1	네	네	PRON	_	2	compound	_	_	네/npp
+2	품을	품+을	NOUN	_	3	obj	_	_	품/ncn+을/jco
+3	떠나면	떠나+면	SCONJ	_	5	ccomp	_	_	떠나/pvg+면/ecs
+4	때를	때+를	NOUN	_	5	obj	_	_	때/ncn+를/jco
+5	놓친다	놓치+ㄴ다	VERB	_	0	root	_	_	놓치/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 술과 담배로 잘 된 사람보다 망한 사람이 더 많다 .
+1	술과	술+과	CCONJ	_	2	conj	_	_	술/ncn+과/jcj
+2	담배로	담배+로	ADV	_	4	advcl	_	_	담배/ncn+로/jca
+3	잘	잘	ADV	_	4	advmod	_	_	잘/mag
+4	된	되+ㄴ	VERB	_	5	acl	_	_	되/pvg+ㄴ/etm
+5	사람보다	사람+보다	ADV	_	9	advcl	_	_	사람/ncn+보다/jca
+6	망한	망하+ㄴ	VERB	_	7	acl	_	_	망하/pvg+ㄴ/etm
+7	사람이	사람+이	NOUN	_	9	nsubj	_	_	사람/ncn+이/jcs
+8	더	더	ADV	_	9	advmod	_	_	더/mag
+9	많다	많+다	ADJ	_	0	root	_	_	많/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 네 인생도 끌려가는 것 같다 .
+1	네	네	PRON	_	2	compound	_	_	네/npp
+2	인생도	인생+도	ADV	_	3	advcl	_	_	인생/ncn+도/jxc
+3	끌려가는	끌려가+는	VERB	_	0	root	_	_	끌려가/pvg+는/etm
+4	것	것	NOUN	_	5	fixed	_	_	것/nbn
+5	같다	같+다	ADJ	_	3	aux	_	_	같/paa+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 생명의 힘에 놀라움을 느끼게 된다 .
+1	생명의	생명+의	NOUN	_	2	nmod	_	_	생명/ncn+의/jcm
+2	힘에	힘+에	ADV	_	4	obl	_	_	힘/ncn+에/jca
+3	놀라움을	놀라움+을	NOUN	_	4	obj	_	_	놀라움/ncn+을/jco
+4	느끼게	느끼+게	VERB	_	0	root	_	_	느끼/pvg+게/ecx
+5	된다	되+ㄴ다	AUX	_	4	aux	_	_	되/px+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 네가 받을 때 기뻐하지 않았느냐 ?
+1	네가	네+가	PRON	_	2	nsubj	_	_	네/npp+가/jcs
+2	받을	받+ㄹ	VERB	_	3	acl	_	_	받/pvg+ㄹ/etm
+3	때	때	NOUN	_	4	dep	_	_	때/ncn
+4	기뻐하지	기뻐하+지	VERB	_	0	root	_	_	기뻐하/pvg+지/ecx
+5	않았느냐	않+았+느냐	AUX	_	4	aux	_	_	않/px+았/ep+느냐/ef
+6	?	?	PUNCT	_	5	punct	_	_	?/sf
+
+# 특히 늙은 어머니를 모시고 가라 .
+1	특히	특히	ADV	_	5	advmod	_	_	특히/mag
+2	늙은	늙+ㄴ	VERB	_	3	acl	_	_	늙/pvg+ㄴ/etm
+3	어머니를	어머니+를	NOUN	_	4	obj	_	_	어머니/ncn+를/jco
+4	모시고	모시+고	SCONJ	_	5	ccomp	_	_	모시/pvg+고/ecs
+5	가라	가+라	VERB	_	0	root	_	_	가/pvg+라/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 힘 안 들이고 빚 갚는 방법이다 .
+1	힘	힘	NOUN	_	3	advmod	_	_	힘/ncn
+2	안	안	ADV	_	3	advmod	_	_	안/mag
+3	들이고	들이+고	SCONJ	_	5	ccomp	_	_	들이/pvg+고/ecs
+4	빚	빚	NOUN	_	5	dep	_	_	빚/ncn
+5	갚는	갚+는	VERB	_	6	ccomp	_	_	갚/pvg+는/etm
+6	방법이다	방법+이+다	VERB	_	0	root	_	_	방법/ncn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 정서적으로 안정감을 갖게 된다 .
+1	정서적으로	정서+적+으로	ADV	_	3	advcl	_	_	정서/ncn+적/xsn+으로/jca
+2	안정감을	안정감+을	NOUN	_	3	obj	_	_	안정감/ncn+을/jco
+3	갖게	갖+게	VERB	_	0	root	_	_	갖/pvg+게/ecx
+4	된다	되+ㄴ다	AUX	_	3	aux	_	_	되/px+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 하나님은 마음을 보시지만 사람은 겉을 본다 .
+1	하나님은	하나님+은	PROPN	_	3	dislocated	_	_	하나님/nq+은/jxt
+2	마음을	마음+을	NOUN	_	3	obj	_	_	마음/ncn+을/jco
+3	보시지만	보+시+지만	SCONJ	_	6	ccomp	_	_	보/pvg+시/ep+지만/ecs
+4	사람은	사람+은	NOUN	_	6	dislocated	_	_	사람/ncn+은/jxt
+5	겉을	겉+을	NOUN	_	6	obj	_	_	겉/ncn+을/jco
+6	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 기왕이면 다홍치마가 아니니 ?
+1	기왕이면	기왕이면	ADV	_	3	advmod	_	_	기왕이면/mag
+2	다홍치마가	다홍치마+가	NOUN	_	3	csubj	_	_	다홍치마/ncn+가/jcc
+3	아니니	아니+니	ADJ	_	0	root	_	_	아니/paa+니/ef
+4	?	?	PUNCT	_	3	punct	_	_	?/sf
+
+# 이것은 창조주가 세운 원칙 중의 하나다 .
+1	이것은	이것+은	PRON	_	6	dislocated	_	_	이것/npd+은/jxt
+2	창조주가	창조주+가	NOUN	_	3	nsubj	_	_	창조주/ncn+가/jcs
+3	세운	세우+ㄴ	VERB	_	4	acl	_	_	세우/pvg+ㄴ/etm
+4	원칙	원칙	NOUN	_	5	compound	_	_	원칙/ncn
+5	중의	중+의	NOUN	_	6	nmod	_	_	중/nbn+의/jcm
+6	하나다	하나+이+다	VERB	_	0	root	_	_	하나/nnc+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 수화기가 잘못 놓여 있을 때가 종종 있다 .
+1	수화기가	수화기+가	NOUN	_	3	nsubj	_	_	수화기/ncn+가/jcs
+2	잘못	잘못	ADV	_	3	advmod	_	_	잘못/mag
+3	놓여	놓이+어	VERB	_	5	acl	_	_	놓이/pvg+어/ecx
+4	있을	있+ㄹ	AUX	_	3	aux	_	_	있/px+ㄹ/etm
+5	때가	때+가	NOUN	_	7	nsubj	_	_	때/ncn+가/jcs
+6	종종	종종	ADV	_	7	advmod	_	_	종종/mag
+7	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 네 마음을 잘 다스려라 .
+1	네	네	PRON	_	2	compound	_	_	네/npp
+2	마음을	마음+을	NOUN	_	4	obj	_	_	마음/ncn+을/jco
+3	잘	잘	ADV	_	4	advmod	_	_	잘/mag
+4	다스려라	다스리+어라	VERB	_	0	root	_	_	다스리/pvg+어라/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 짜투리 시간을 잘 활용하면 누구보다도 길고 값진 인생을 살 수 있다 .
+1	짜투리	짜투리	NOUN	_	2	compound	_	_	짜투리/ncn
+2	시간을	시간+을	NOUN	_	4	obj	_	_	시간/ncn+을/jco
+3	잘	잘	ADV	_	4	advmod	_	_	잘/mag
+4	활용하면	활용+하+면	SCONJ	_	9	ccomp	_	_	활용/ncpa+하/xsv+면/ecs
+5	누구보다도	누구+보다+도	ADV	_	7	advcl	_	_	누구/npp+보다/jca+도/jxc
+6	길고	길+고	CCONJ	_	7	conj	_	_	길/paa+고/ecc
+7	값진	값지+ㄴ	ADJ	_	8	amod	_	_	값지/paa+ㄴ/etm
+8	인생을	인생+을	NOUN	_	9	obj	_	_	인생/ncn+을/jco
+9	살	살+ㄹ	VERB	_	0	root	_	_	살/pvg+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있다	있+다	ADJ	_	9	aux	_	_	있/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 개는 참 충성스럽다 .
+1	개는	개+는	NOUN	_	3	dislocated	_	_	개/ncn+는/jxt
+2	참	참	ADV	_	3	advmod	_	_	참/mag
+3	충성스럽다	충성+스럽+다	VERB	_	0	root	_	_	충성/ncps+스럽/xsm+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 돼지는 기도하지 않는다 .
+1	돼지는	돼지+는	NOUN	_	2	dislocated	_	_	돼지/ncn+는/jxt
+2	기도하지	기도+하+지	VERB	_	0	root	_	_	기도/ncpa+하/xsv+지/ecx
+3	않는다	않+는다	AUX	_	2	aux	_	_	않/px+는다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 이 세상도 정욕도 결국은 다 지나간다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	세상도	세상+도	ADV	_	6	advcl	_	_	세상/ncn+도/jxc
+3	정욕도	정욕+도	ADV	_	6	advcl	_	_	정욕/ncn+도/jxc
+4	결국은	결국+은	NOUN	_	6	dislocated	_	_	결국/ncn+은/jxt
+5	다	다	ADV	_	6	advmod	_	_	다/mag
+6	지나간다	지나가+ㄴ다	VERB	_	0	root	_	_	지나가/pvg+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 네 마음도 늘 정돈해 두어라 .
+1	네	네	PRON	_	2	compound	_	_	네/npp
+2	마음도	마음+도	ADV	_	4	advcl	_	_	마음/ncn+도/jxc
+3	늘	늘	ADV	_	4	advmod	_	_	늘/mag
+4	정돈해	정돈+하+어	VERB	_	0	root	_	_	정돈/ncpa+하/xsv+어/ecx
+5	두어라	두+어라	AUX	_	4	aux	_	_	두/px+어라/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 가만히 있으면 퇴보한다 .
+1	가만히	가만히	ADV	_	2	advmod	_	_	가만히/mag
+2	있으면	있+으면	SCONJ	_	3	xcomp	_	_	있/paa+으면/ecs
+3	퇴보한다	퇴보+하+ㄴ다	VERB	_	0	root	_	_	퇴보/ncpa+하/xsv+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 마음의 여유를 느끼게 될 것이다 .
+1	마음의	마음+의	NOUN	_	2	nmod	_	_	마음/ncn+의/jcm
+2	여유를	여유+를	NOUN	_	3	obj	_	_	여유/ncn+를/jco
+3	느끼게	느끼+게	VERB	_	0	root	_	_	느끼/pvg+게/ecx
+4	될	되+ㄹ	AUX	_	3	aux	_	_	되/px+ㄹ/etm
+5	것이다	것+이+다	VERB	_	3	aux	_	_	것/nbn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 굽이 높은 구두를 신고 아기를 데리고 다니는 것은 위험하고 보기에도 불안하다 .
+1	굽이	굽+이	NOUN	_	2	nsubj	_	_	굽/ncn+이/jcs
+2	높은	높+ㄴ	ADJ	_	3	amod	_	_	높/paa+ㄴ/etm
+3	구두를	구두+를	NOUN	_	4	obj	_	_	구두/ncn+를/jco
+4	신고	신+고	CCONJ	_	7	conj	_	_	신/pvg+고/ecc
+5	아기를	아기+를	NOUN	_	6	obj	_	_	아기/ncn+를/jco
+6	데리고	데리+고	CCONJ	_	7	conj	_	_	데리/pvg+고/ecc
+7	다니는	다니+는	VERB	_	8	acl	_	_	다니/pvg+는/etm
+8	것은	것+은	NOUN	_	11	dislocated	_	_	것/nbn+은/jxt
+9	위험하고	위험+하+고	CCONJ	_	11	conj	_	_	위험/ncps+하/xsm+고/ecc
+10	보기에도	보+기+에+도	ADV	_	11	advcl	_	_	보/pvg+기/etn+에/jca+도/jxc
+11	불안하다	불안+하+다	VERB	_	0	root	_	_	불안/ncps+하/xsm+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 대개는 불필요한 것이다 .
+1	대개는	대개+는	NOUN	_	2	dislocated	_	_	대개/ncn+는/jxt
+2	불필요한	불필요+하+ㄴ	VERB	_	0	root	_	_	불필요/ncps+하/xsm+ㄴ/etm
+3	것이다	것+이+다	VERB	_	2	aux	_	_	것/nbn+이/jp+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 그들을 무능하게 만든다 .
+1	그들을	그+들+을	PRON	_	3	obj	_	_	그/npp+들/xsn+을/jco
+2	무능하게	무능+하+게	SCONJ	_	3	xcomp	_	_	무능/ncps+하/xsm+게/ecs
+3	만든다	만들+ㄴ다	VERB	_	0	root	_	_	만들/pvg+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 아직도 세계의 베스트셀러 책이다 .
+1	아직도	아직도	ADV	_	4	advmod	_	_	아직도/mag
+2	세계의	세계+의	NOUN	_	3	nmod	_	_	세계/ncn+의/jcm
+3	베스트셀러	베스트셀러	NOUN	_	4	compound	_	_	베스트셀러/ncn
+4	책이다	책+이+다	VERB	_	0	root	_	_	책/ncn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 돈 버는 것보다 쓴 지혜가 더 필요하다 .
+1	돈	돈	NOUN	_	2	dep	_	_	돈/ncn
+2	버는	벌+는	VERB	_	3	acl	_	_	벌/pvg+는/etm
+3	것보다	것+보다	ADV	_	7	advcl	_	_	것/nbn+보다/jca
+4	쓴	쓰+ㄴ	VERB	_	5	acl	_	_	쓰/pvg+ㄴ/etm
+5	지혜가	지혜+가	NOUN	_	7	nsubj	_	_	지혜/ncn+가/jcs
+6	더	더	ADV	_	7	advmod	_	_	더/mag
+7	필요하다	필요+하+다	VERB	_	0	root	_	_	필요/ncps+하/xsm+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이웃 간의 사귐과 정보를 알게 된다 .
+1	이웃	이웃	NOUN	_	2	compound	_	_	이웃/ncpa
+2	간의	간+의	NOUN	_	3	nmod	_	_	간/nbn+의/jcm
+3	사귐과	사귀+ㅁ+과	CCONJ	_	4	conj	_	_	사귀/pvg+ㅁ/etn+과/jcj
+4	정보를	정보+를	NOUN	_	5	obj	_	_	정보/ncn+를/jco
+5	알게	알+게	VERB	_	0	root	_	_	알/pvg+게/ecx
+6	된다	되+ㄴ다	AUX	_	5	aux	_	_	되/px+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 체하거나 입맛을 잃는다 .
+1	체하거나	체하+거나	CCONJ	_	3	conj	_	_	체하/pvg+거나/ecc
+2	입맛을	입맛+을	NOUN	_	3	obj	_	_	입맛/ncn+을/jco
+3	잃는다	잃+는다	VERB	_	0	root	_	_	잃/pvg+는다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 사랑받는 아내가 되라 .
+1	사랑받는	사랑받+는	VERB	_	2	acl	_	_	사랑받/pvg+는/etm
+2	아내가	아내+가	NOUN	_	3	csubj	_	_	아내/ncn+가/jcc
+3	되라	되+라	VERB	_	0	root	_	_	되/pvg+라/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 늘 찾다가 시간 보낸다 .
+1	늘	늘	ADV	_	4	advmod	_	_	늘/mag
+2	찾다가	찾+다가	SCONJ	_	4	ccomp	_	_	찾/pvg+다가/ecs
+3	시간	시간	NOUN	_	4	dep	_	_	시간/ncn
+4	보낸다	보내+ㄴ다	VERB	_	0	root	_	_	보내/pvg+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 서로 눈치 보다가 등의 때를 닦지 못하고 나온다 .
+1	서로	서로	ADV	_	3	advmod	_	_	서로/mag
+2	눈치	눈치	NOUN	_	3	dep	_	_	눈치/ncn
+3	보다가	보+다가	SCONJ	_	6	ccomp	_	_	보/pvg+다가/ecs
+4	등의	등+의	NOUN	_	5	nmod	_	_	등/ncn+의/jcm
+5	때를	때+를	NOUN	_	6	obj	_	_	때/ncn+를/jco
+6	닦지	닦+지	VERB	_	8	ccomp	_	_	닦/pvg+지/ecx
+7	못하고	못하+고	SCONJ	_	6	aux	_	_	못하/px+고/ecs
+8	나온다	나오+ㄴ다	VERB	_	0	root	_	_	나오/pvg+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 시간이 지나면 알게 된다 .
+1	시간이	시간+이	NOUN	_	2	nsubj	_	_	시간/ncn+이/jcs
+2	지나면	지나+면	SCONJ	_	3	ccomp	_	_	지나/pvg+면/ecs
+3	알게	알+게	VERB	_	0	root	_	_	알/pvg+게/ecx
+4	된다	되+ㄴ다	AUX	_	3	aux	_	_	되/px+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 솜씨가 없거나 게으르다는 인상을 준다 .
+1	솜씨가	솜씨+가	NOUN	_	2	nsubj	_	_	솜씨/ncn+가/jcs
+2	없거나	없+거나	SCONJ	_	3	xcomp	_	_	없/paa+거나/ecs
+3	게으르다는	게으르+다는	ADJ	_	4	amod	_	_	게으르/paa+다는/etm
+4	인상을	인상+을	NOUN	_	5	obj	_	_	인상/ncn+을/jco
+5	준다	주+ㄴ다	VERB	_	0	root	_	_	주/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 서로 가벼운 마음이 된다 .
+1	서로	서로	ADV	_	4	advmod	_	_	서로/mag
+2	가벼운	가볍+ㄴ	ADJ	_	3	amod	_	_	가볍/paa+ㄴ/etm
+3	마음이	마음+이	NOUN	_	4	csubj	_	_	마음/ncn+이/jcc
+4	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 알게 모르게 자녀들에게 영향을 끼친다 .
+1	알게	알+게	SCONJ	_	2	ccomp	_	_	알/pvg+게/ecs
+2	모르게	모르+게	SCONJ	_	5	ccomp	_	_	모르/pvg+게/ecs
+3	자녀들에게	자녀+들+에게	ADV	_	5	iobj	_	_	자녀/ncn+들/xsn+에게/jca
+4	영향을	영향+을	NOUN	_	5	obj	_	_	영향/ncn+을/jco
+5	끼친다	끼치+ㄴ다	VERB	_	0	root	_	_	끼치/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 에어컨병은 있어도 부채병은 없다 .
+1	에어컨병은	에어컨병+은	NOUN	_	2	dislocated	_	_	에어컨병/ncn+은/jxt
+2	있어도	있+어도	SCONJ	_	4	xcomp	_	_	있/paa+어도/ecs
+3	부채병은	부채병+은	NOUN	_	4	dislocated	_	_	부채병/ncn+은/jxt
+4	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 남자는 주머니가 비면 힘이 없다더라 .
+1	남자는	남자+는	NOUN	_	5	dislocated	_	_	남자/ncn+는/jxt
+2	주머니가	주머니+가	NOUN	_	3	nsubj	_	_	주머니/ncn+가/jcs
+3	비면	비+면	SCONJ	_	5	xcomp	_	_	비/paa+면/ecs
+4	힘이	힘+이	NOUN	_	5	nsubj	_	_	힘/ncn+이/jcs
+5	없다더라	없+다더라	ADJ	_	0	root	_	_	없/paa+다더라/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 아이들이 깡통음료를 덜 먹게 될 것이다 .
+1	아이들이	아이+들+이	NOUN	_	4	nsubj	_	_	아이/ncn+들/xsn+이/jcs
+2	깡통음료를	깡통+음료+를	NOUN	_	4	obj	_	_	깡통/ncn+음료/ncn+를/jco
+3	덜	덜	ADV	_	4	advmod	_	_	덜/mag
+4	먹게	먹+게	VERB	_	0	root	_	_	먹/pvg+게/ecx
+5	될	되+ㄹ	AUX	_	4	aux	_	_	되/px+ㄹ/etm
+6	것이다	것+이+다	VERB	_	4	aux	_	_	것/nbn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 울음으로 자기 의사를 표현하는 것이다 .
+1	울음으로	울음+으로	ADV	_	4	advcl	_	_	울음/ncn+으로/jca
+2	자기	자기	PRON	_	3	compound	_	_	자기/npp
+3	의사를	의사+를	NOUN	_	4	obj	_	_	의사/ncn+를/jco
+4	표현하는	표현+하+는	VERB	_	0	root	_	_	표현/ncpa+하/xsv+는/etm
+5	것이다	것+이+다	VERB	_	4	aux	_	_	것/nbn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 인생의 가장 큰 자원이다 .
+1	인생의	인생+의	NOUN	_	4	nmod	_	_	인생/ncn+의/jcm
+2	가장	가장	ADV	_	3	advmod	_	_	가장/mag
+3	큰	크+ㄴ	ADJ	_	4	amod	_	_	크/paa+ㄴ/etm
+4	자원이다	자원+이+다	VERB	_	0	root	_	_	자원/ncn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 물론 싼 것이 다 비지떡도 아니다 .
+1	물론	물론	ADV	_	6	advmod	_	_	물론/mag
+2	싼	싸+ㄴ	ADJ	_	3	amod	_	_	싸/paa+ㄴ/etm
+3	것이	것+이	NOUN	_	6	nsubj	_	_	것/nbn+이/jcs
+4	다	다	ADV	_	6	advmod	_	_	다/mag
+5	비지떡도	비지떡+도	ADV	_	6	advcl	_	_	비지떡/ncn+도/jxc
+6	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 오히려 네가 더 멋지게 보인다 .
+1	오히려	오히려	ADV	_	5	advmod	_	_	오히려/mag
+2	네가	네+가	PRON	_	5	nsubj	_	_	네/npp+가/jcs
+3	더	더	ADV	_	4	advmod	_	_	더/mag
+4	멋지게	멋지+게	SCONJ	_	5	xcomp	_	_	멋지/paa+게/ecs
+5	보인다	보이+ㄴ다	VERB	_	0	root	_	_	보이/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 예기치 않은 손님이 방문할 때에 당황하지 않게 된다 .
+1	예기치	예기하+지	VERB	_	3	acl	_	_	예기하/pvg+지/ecx
+2	않은	않+ㄴ	AUX	_	1	aux	_	_	않/px+ㄴ/etm
+3	손님이	손님+이	NOUN	_	4	nsubj	_	_	손님/ncn+이/jcs
+4	방문할	방문+하+ㄹ	VERB	_	5	acl	_	_	방문/ncpa+하/xsv+ㄹ/etm
+5	때에	때+에	ADV	_	6	obl	_	_	때/ncn+에/jca
+6	당황하지	당황+하+지	VERB	_	0	root	_	_	당황/ncpa+하/xsv+지/ecx
+7	않게	않+게	AUX	_	6	aux	_	_	않/px+게/ecx
+8	된다	되+ㄴ다	AUX	_	6	aux	_	_	되/px+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 벗은 몸이 보인다 .
+1	벗은	벗+ㄴ	VERB	_	2	acl	_	_	벗/pvg+ㄴ/etm
+2	몸이	몸+이	NOUN	_	3	nsubj	_	_	몸/ncn+이/jcs
+3	보인다	보이+ㄴ다	VERB	_	0	root	_	_	보이/pvg+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 혼자 먼저 끝내면 손님이 당황할 것이다 .
+1	혼자	혼자	ADV	_	3	advmod	_	_	혼자/mag
+2	먼저	먼저	ADV	_	3	advmod	_	_	먼저/mag
+3	끝내면	끝내+면	SCONJ	_	5	ccomp	_	_	끝내/pvg+면/ecs
+4	손님이	손님+이	NOUN	_	5	nsubj	_	_	손님/ncn+이/jcs
+5	당황할	당황+하+ㄹ	VERB	_	0	root	_	_	당황/ncpa+하/xsv+ㄹ/etm
+6	것이다	것+이+다	VERB	_	5	aux	_	_	것/nbn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 훨씬 젊어지고 건강해진다 .
+1	훨씬	훨씬	ADV	_	2	advmod	_	_	훨씬/mag
+2	젊어지고	젊+어+지+고	CCONJ	_	3	conj	_	_	젊/paa+어/ecx+지/px+고/ecc
+3	건강해진다	건강+하+어+지+ㄴ다	AUX	_	0	root	_	_	건강/ncps+하/xsm+어/ecx+지/px+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 웃음 소리에도 품위가 있단다 .
+1	웃음	웃음	NOUN	_	2	compound	_	_	웃음/ncn
+2	소리에도	소리+에+도	ADV	_	4	advcl	_	_	소리/ncn+에/jca+도/jxc
+3	품위가	품위+가	NOUN	_	4	nsubj	_	_	품위/ncn+가/jcs
+4	있단다	있+단다	ADJ	_	0	root	_	_	있/paa+단다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 네가 느끼지 못할지라도 그것은 사실이다 .
+1	네가	네+가	PRON	_	2	nsubj	_	_	네/npp+가/jcs
+2	느끼지	느끼+지	VERB	_	5	ccomp	_	_	느끼/pvg+지/ecx
+3	못할지라도	못하+ㄹ지라도	SCONJ	_	2	aux	_	_	못하/px+ㄹ지라도/ecs
+4	그것은	그것+은	PRON	_	5	dislocated	_	_	그것/npd+은/jxt
+5	사실이다	사실+이+다	VERB	_	0	root	_	_	사실/ncn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 너는 상처를 싸매 주는 아내가 되어라 .
+1	너는	너+는	PRON	_	6	dislocated	_	_	너/npp+는/jxt
+2	상처를	상처+를	NOUN	_	3	obj	_	_	상처/ncn+를/jco
+3	싸매	싸매+어	VERB	_	5	acl	_	_	싸매/pvg+어/ecx
+4	주는	주+는	AUX	_	3	aux	_	_	주/px+는/etm
+5	아내가	아내+가	NOUN	_	6	csubj	_	_	아내/ncn+가/jcc
+6	되어라	되+어라	VERB	_	0	root	_	_	되/pvg+어라/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 네 식으로만 생각하지 마라 .
+1	네	네	PRON	_	2	compound	_	_	네/npp
+2	식으로만	식+으로+만	ADV	_	3	advcl	_	_	식/ncn+으로/jca+만/jxc
+3	생각하지	생각+하+지	VERB	_	0	root	_	_	생각/ncpa+하/xsv+지/ecx
+4	마라	말+라	AUX	_	3	aux	_	_	말/px+라/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 잊어 버리면 안될 것을 잊기 때문에 낭패가 되기도 한다 .
+1	잊어	잊+어	VERB	_	3	ccomp	_	_	잊/pvg+어/ecx
+2	버리면	버리+면	SCONJ	_	1	aux	_	_	버리/px+면/ecs
+3	안될	안되+ㄹ	VERB	_	4	acl	_	_	안되/pvg+ㄹ/etm
+4	것을	것+을	NOUN	_	5	obj	_	_	것/nbn+을/jco
+5	잊기	잊+기	VERB	_	6	nmod	_	_	잊/pvg+기/etn
+6	때문에	때문+에	ADV	_	8	obl	_	_	때문/nbn+에/jca
+7	낭패가	낭패+가	NOUN	_	8	csubj	_	_	낭패/ncn+가/jcc
+8	되기도	되+기+도	ADV	_	0	root	_	_	되/pvg+기/etn+도/jxc
+9	한다	하+ㄴ다	AUX	_	8	aux	_	_	하/px+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 결국 인생은 혼자 있다가 혼자 간단다 .
+1	결국	결국	ADV	_	6	advmod	_	_	결국/mag
+2	인생은	인생+은	NOUN	_	6	dislocated	_	_	인생/ncn+은/jxt
+3	혼자	혼자	ADV	_	4	advmod	_	_	혼자/mag
+4	있다가	있+다가	SCONJ	_	6	xcomp	_	_	있/paa+다가/ecs
+5	혼자	혼자	ADV	_	6	advmod	_	_	혼자/mag
+6	간단다	가+ㄴ다	VERB	_	0	root	_	_	가/pvg+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 잘 생각해 보면 칭찬해 줄 것이 반드시 발견된다 .
+1	잘	잘	ADV	_	2	advmod	_	_	잘/mag
+2	생각해	생각+하+어	VERB	_	8	ccomp	_	_	생각/ncpa+하/xsv+어/ecx
+3	보면	보+면	SCONJ	_	2	aux	_	_	보/px+면/ecs
+4	칭찬해	칭찬+하+어	VERB	_	6	acl	_	_	칭찬/ncpa+하/xsv+어/ecx
+5	줄	주+ㄹ	AUX	_	4	aux	_	_	주/px+ㄹ/etm
+6	것이	것+이	NOUN	_	8	nsubj	_	_	것/nbn+이/jcs
+7	반드시	반드시	ADV	_	8	advmod	_	_	반드시/mag
+8	발견된다	발견+되+ㄴ다	VERB	_	0	root	_	_	발견/ncpa+되/xsv+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 돈의 가치를 알아야 한다 .
+1	돈의	돈+의	NOUN	_	2	nmod	_	_	돈/ncn+의/jcm
+2	가치를	가치+를	NOUN	_	3	obj	_	_	가치/ncn+를/jco
+3	알아야	알+아야	VERB	_	0	root	_	_	알/pvg+아야/ecx
+4	한다	하+ㄴ다	AUX	_	3	aux	_	_	하/px+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 독재자는 남에게만 강요하는 사람이다 .
+1	독재자는	독재자+는	NOUN	_	4	dislocated	_	_	독재자/ncn+는/jxt
+2	남에게만	남+에게+만	ADV	_	3	advcl	_	_	남/nq+에게/jca+만/jxc
+3	강요하는	강요+하+는	VERB	_	4	ccomp	_	_	강요/ncpa+하/xsv+는/etm
+4	사람이다	사람+이+다	VERB	_	0	root	_	_	사람/ncn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 상식이 늘고 시대에 뒤떨어지지 않는다 .
+1	상식이	상식+이	NOUN	_	2	nsubj	_	_	상식/ncn+이/jcs
+2	늘고	늘+고	CCONJ	_	4	conj	_	_	늘/pvg+고/ecc
+3	시대에	시대+에	ADV	_	4	obl	_	_	시대/ncn+에/jca
+4	뒤떨어지지	뒤떨어지+지	VERB	_	0	root	_	_	뒤떨어지/pvg+지/ecx
+5	않는다	않+는다	AUX	_	4	aux	_	_	않/px+는다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 값도 훨씬 싸고 , 물건도 다양하다 .
+1	값도	값+도	ADV	_	3	advcl	_	_	값/ncn+도/jxc
+2	훨씬	훨씬	ADV	_	3	advmod	_	_	훨씬/mag
+3	싸고	싸+고	CCONJ	_	6	conj	_	_	싸/paa+고/ecc
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	물건도	물건+도	ADV	_	6	advcl	_	_	물건/ncn+도/jxc
+6	다양하다	다양+하+다	VERB	_	0	root	_	_	다양/ncps+하/xsm+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 바로 보고 바로 말하는 자가 바른 사람이다 .
+1	바로	바로	ADV	_	2	advmod	_	_	바로/mag
+2	보고	보+고	CCONJ	_	4	conj	_	_	보/pvg+고/ecc
+3	바로	바로	ADV	_	4	advmod	_	_	바로/mag
+4	말하는	말하+는	VERB	_	5	acl	_	_	말하/pvg+는/etm
+5	자가	자+가	NOUN	_	7	nsubj	_	_	자/nbn+가/jcs
+6	바른	바르+ㄴ	ADJ	_	7	amod	_	_	바르/paa+ㄴ/etm
+7	사람이다	사람+이+다	VERB	_	0	root	_	_	사람/ncn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 머리가 다 빠지게 될지도 모른다 .
+1	머리가	머리+가	NOUN	_	3	nsubj	_	_	머리/ncn+가/jcs
+2	다	다	ADV	_	3	advmod	_	_	다/mag
+3	빠지게	빠지+게	VERB	_	5	ccomp	_	_	빠지/pvg+게/ecx
+4	될지도	되+ㄹ지도	SCONJ	_	3	aux	_	_	되/px+ㄹ지도/ecs
+5	모른다	모르+ㄴ다	VERB	_	0	root	_	_	모르/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 변질된 약은 오히려 병의 원인이 된다 .
+1	변질된	변질+되+ㄴ	VERB	_	2	acl	_	_	변질/ncpa+되/xsv+ㄴ/etm
+2	약은	약+은	NOUN	_	6	dislocated	_	_	약/ncps+은/jxt
+3	오히려	오히려	ADV	_	6	advmod	_	_	오히려/mag
+4	병의	병+의	NOUN	_	5	nmod	_	_	병/ncn+의/jcm
+5	원인이	원인+이	NOUN	_	6	csubj	_	_	원인/ncn+이/jcc
+6	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 네 영혼이 풍성해진다 .
+1	네	네	PRON	_	2	compound	_	_	네/npp
+2	영혼이	영혼+이	NOUN	_	3	nsubj	_	_	영혼/ncn+이/jcs
+3	풍성해진다	풍성+하+어+지+ㄴ다	AUX	_	0	root	_	_	풍성/ncps+하/xsm+어/ecx+지/px+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 자칫 잘못하면 아주 급한 소식을 못 받을 수 있다 .
+1	자칫	자칫	ADV	_	2	advmod	_	_	자칫/mag
+2	잘못하면	잘못+하+면	SCONJ	_	7	ccomp	_	_	잘못/ncpa+하/xsv+면/ecs
+3	아주	아주	ADV	_	4	advmod	_	_	아주/mag
+4	급한	급하+ㄴ	ADJ	_	5	amod	_	_	급하/paa+ㄴ/etm
+5	소식을	소식+을	NOUN	_	7	obj	_	_	소식/ncn+을/jco
+6	못	못	ADV	_	7	advmod	_	_	못/mag
+7	받을	받+ㄹ	VERB	_	0	root	_	_	받/pvg+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있다	있+다	ADJ	_	7	aux	_	_	있/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 현관을 보면 살림살이를 짐작한다 .
+1	현관을	현관+을	NOUN	_	2	obj	_	_	현관/ncn+을/jco
+2	보면	보+면	SCONJ	_	4	ccomp	_	_	보/pvg+면/ecs
+3	살림살이를	살림살이+를	NOUN	_	4	obj	_	_	살림살이/ncn+를/jco
+4	짐작한다	짐작+하+ㄴ다	VERB	_	0	root	_	_	짐작/ncpa+하/xsv+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 부모에 대한 존경심을 잃어 버린다 .
+1	부모에	부모+에	ADV	_	2	obl	_	_	부모/ncn+에/jca
+2	대한	대하+ㄴ	VERB	_	3	acl	_	_	대하/pvg+ㄴ/etm
+3	존경심을	존경심+을	NOUN	_	4	obj	_	_	존경심/ncn+을/jco
+4	잃어	잃+어	VERB	_	0	root	_	_	잃/pvg+어/ecx
+5	버린다	버리+ㄴ다	AUX	_	4	aux	_	_	버리/px+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 줄수록 늘어나는 비밀을 배워라 .
+1	줄수록	주+ㄹ수록	SCONJ	_	2	ccomp	_	_	주/pvg+ㄹ수록/ecs
+2	늘어나는	늘어나+는	VERB	_	3	acl	_	_	늘어나/pvg+는/etm
+3	비밀을	비밀+을	NOUN	_	4	obj	_	_	비밀/ncn+을/jco
+4	배워라	배우+어라	VERB	_	0	root	_	_	배우/pvg+어라/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 홀로 서는 것을 배우면서 성숙해진다 .
+1	홀로	홀로	ADV	_	2	advmod	_	_	홀로/mag
+2	서는	서+는	VERB	_	3	acl	_	_	서/pvg+는/etm
+3	것을	것+을	NOUN	_	4	obj	_	_	것/nbn+을/jco
+4	배우면서	배우+면서	SCONJ	_	5	ccomp	_	_	배우/pvg+면서/ecs
+5	성숙해진다	성숙+하+어+지+ㄴ다	AUX	_	0	root	_	_	성숙/ncpa+하/xsv+어/ecx+지/px+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 모범이 최고의 교과서가 된다 .
+1	모범이	모범+이	NOUN	_	4	nsubj	_	_	모범/ncn+이/jcs
+2	최고의	최고+의	NOUN	_	3	nmod	_	_	최고/ncn+의/jcm
+3	교과서가	교과서+가	NOUN	_	4	csubj	_	_	교과서/ncn+가/jcc
+4	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 똑같은 사람은 아무도 없다 .
+1	똑같은	똑같+ㄴ	ADJ	_	2	amod	_	_	똑같/paa+ㄴ/etm
+2	사람은	사람+은	NOUN	_	4	dislocated	_	_	사람/ncn+은/jxt
+3	아무도	아무+도	ADV	_	4	advcl	_	_	아무/npd+도/jxc
+4	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 노인과 아이는 백지장 차이란다 .
+1	노인과	노인+과	CCONJ	_	2	conj	_	_	노인/ncn+과/jcj
+2	아이는	아이+는	NOUN	_	4	dislocated	_	_	아이/ncn+는/jxt
+3	백지장	백지장	NOUN	_	4	compound	_	_	백지장/ncn
+4	차이란다	차이+이+란다	VERB	_	0	root	_	_	차이/ncn+이/jp+란다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 네 입이 더러워진다 .
+1	네	네	PRON	_	2	compound	_	_	네/npp
+2	입이	입+이	NOUN	_	3	nsubj	_	_	입/ncn+이/jcs
+3	더러워진다	더럽+어+지+ㄴ다	AUX	_	0	root	_	_	더럽/paa+어/ecx+지/px+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 텅빈 집에 들어오는 아이의 가슴이 허공을 달리기 쉽다 .
+1	텅빈	텅비+ㄴ	ADJ	_	2	amod	_	_	텅비/paa+ㄴ/etm
+2	집에	집+에	ADV	_	3	obl	_	_	집/ncn+에/jca
+3	들어오는	들+어+오+는	AUX	_	4	acl	_	_	들/pvg+어/ecx+오/px+는/etm
+4	아이의	아이+의	NOUN	_	5	nmod	_	_	아이/ncn+의/jcm
+5	가슴이	가슴+이	NOUN	_	7	nsubj	_	_	가슴/ncn+이/jcs
+6	허공을	허공+을	NOUN	_	7	obj	_	_	허공/ncn+을/jco
+7	달리기	달리+기	VERB	_	8	nmod	_	_	달리/pvg+기/etn
+8	쉽다	쉽+다	ADJ	_	0	root	_	_	쉽/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 저녁 때 지치면 짜증이 나기 쉽다 .
+1	저녁	저녁	NOUN	_	2	compound	_	_	저녁/ncn
+2	때	때	NOUN	_	6	dep	_	_	때/ncn
+3	지치면	지치+면	SCONJ	_	5	conj	_	_	지치/pvg+면/ecs
+4	짜증이	짜증+이	NOUN	_	5	nsubj	_	_	짜증/ncn+이/jcs
+5	나기	나+기	VERB	_	6	nmod	_	_	나/pvg+기/etn
+6	쉽다	쉽+다	ADJ	_	0	root	_	_	쉽/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 잠도 깨고 몸도 상쾌해진다 .
+1	잠도	잠+도	ADV	_	2	advcl	_	_	잠/ncn+도/jxc
+2	깨고	깨+고	CCONJ	_	4	conj	_	_	깨/pvg+고/ecc
+3	몸도	몸+도	ADV	_	4	advcl	_	_	몸/ncn+도/jxc
+4	상쾌해진다	상쾌+하+어+지+ㄴ다	AUX	_	0	root	_	_	상쾌/ncps+하/xsm+어/ecx+지/px+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 떠나기 전에 기분을 상하게 한다 .
+1	떠나기	떠나+기	VERB	_	2	nmod	_	_	떠나/pvg+기/etn
+2	전에	전+에	ADV	_	4	obl	_	_	전/ncn+에/jca
+3	기분을	기분+을	NOUN	_	4	obj	_	_	기분/ncn+을/jco
+4	상하게	상하+게	VERB	_	0	root	_	_	상하/pvg+게/ecx
+5	한다	하+ㄴ다	AUX	_	4	aux	_	_	하/px+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 별로 힘들지 않지만 효도의 한 방법이다 .
+1	별로	별로	ADV	_	2	advmod	_	_	별로/mag
+2	힘들지	힘들+지	VERB	_	6	ccomp	_	_	힘들/pvg+지/ecx
+3	않지만	않+지만	SCONJ	_	2	aux	_	_	않/px+지만/ecs
+4	효도의	효도+의	NOUN	_	6	nmod	_	_	효도/ncn+의/jcm
+5	한	한	NUM	_	6	nummod	_	_	한/nnc
+6	방법이다	방법+이+다	VERB	_	0	root	_	_	방법/ncn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이야기하면서 네 표정을 잘 만들어라 .
+1	이야기하면서	이야기+하+면서	SCONJ	_	5	ccomp	_	_	이야기/ncpa+하/xsv+면서/ecs
+2	네	네	PRON	_	3	compound	_	_	네/npp
+3	표정을	표정+을	NOUN	_	5	obj	_	_	표정/ncn+을/jco
+4	잘	잘	ADV	_	5	advmod	_	_	잘/mag
+5	만들어라	만들+어라	VERB	_	0	root	_	_	만들/pvg+어라/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 테이프가 줄 수 없는 귀한 것을 듣게 될 것이다 .
+1	테이프가	테이프+가	NOUN	_	2	nsubj	_	_	테이프/ncn+가/jcs
+2	줄	주+ㄹ	VERB	_	6	acl	_	_	주/pvg+ㄹ/etm
+3	수	수	NOUN	_	4	fixed	_	_	수/nbn
+4	없는	없+는	ADJ	_	2	aux	_	_	없/paa+는/etm
+5	귀한	귀하+ㄴ	ADJ	_	6	amod	_	_	귀하/paa+ㄴ/etm
+6	것을	것+을	NOUN	_	7	obj	_	_	것/nbn+을/jco
+7	듣게	듣+게	VERB	_	0	root	_	_	듣/pvg+게/ecx
+8	될	되+ㄹ	AUX	_	7	aux	_	_	되/px+ㄹ/etm
+9	것이다	것+이+다	VERB	_	7	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 미워하는 사람을 이기는 최선의 길이다 .
+1	미워하는	미워하+는	VERB	_	2	acl	_	_	미워하/pvg+는/etm
+2	사람을	사람+을	NOUN	_	3	obj	_	_	사람/ncn+을/jco
+3	이기는	이기+는	VERB	_	5	ccomp	_	_	이기/pvg+는/etm
+4	최선의	최선+의	NOUN	_	5	nmod	_	_	최선/ncn+의/jcm
+5	길이다	길+이+다	VERB	_	0	root	_	_	길/ncn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 얻는 것이 많단다 .
+1	얻는	얻+는	VERB	_	2	acl	_	_	얻/pvg+는/etm
+2	것이	것+이	NOUN	_	3	nsubj	_	_	것/nbn+이/jcs
+3	많단다	많+단다	ADJ	_	0	root	_	_	많/paa+단다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 그 마음의 자세가 예쁘지 않느냐 ?
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	마음의	마음+의	NOUN	_	3	nmod	_	_	마음/ncn+의/jcm
+3	자세가	자세+가	NOUN	_	4	nsubj	_	_	자세/ncpa+가/jcs
+4	예쁘지	예쁘+지	ADJ	_	0	root	_	_	예쁘/paa+지/ecx
+5	않느냐	않+느냐	AUX	_	4	aux	_	_	않/px+느냐/ef
+6	?	?	PUNCT	_	5	punct	_	_	?/sf
+
+# 늦어서 허둥대는 모습보다 낫다 .
+1	늦어서	늦+어서	SCONJ	_	2	ccomp	_	_	늦/pvg+어서/ecs
+2	허둥대는	허둥대+는	VERB	_	3	acl	_	_	허둥대/pvg+는/etm
+3	모습보다	모습+보다	ADV	_	4	advcl	_	_	모습/ncn+보다/jca
+4	낫다	낫+다	ADJ	_	0	root	_	_	낫/paa+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 시집살이가 훨씬 부드러워진다 .
+1	시집살이가	시집살이+가	NOUN	_	3	nsubj	_	_	시집살이/ncn+가/jcs
+2	훨씬	훨씬	ADV	_	3	advmod	_	_	훨씬/mag
+3	부드러워진다	부드럽+어+지+ㄴ다	AUX	_	0	root	_	_	부드럽/paa+어/ecx+지/px+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 말씨까지 좋다면 금상첨화다 .
+1	말씨까지	말씨+까지	ADV	_	2	advcl	_	_	말씨/ncn+까지/jxc
+2	좋다면	좋+다면	SCONJ	_	3	xcomp	_	_	좋/paa+다면/ecs
+3	금상첨화다	금상첨화+이+다	VERB	_	0	root	_	_	금상첨화/ncn+이/jp+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 여자의 아름다움이 이상하게 보인다 .
+1	여자의	여자+의	NOUN	_	2	nmod	_	_	여자/ncn+의/jcm
+2	아름다움이	아름답+ㅁ+이	NOUN	_	4	nsubj	_	_	아름답/paa+ㅁ/etn+이/jcs
+3	이상하게	이상+하+게	SCONJ	_	4	xcomp	_	_	이상/ncps+하/xsm+게/ecs
+4	보인다	보이+ㄴ다	VERB	_	0	root	_	_	보이/pvg+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 큰 목소리가 들리면 싸우는 줄 알겠다 .
+1	큰	크+ㄴ	ADJ	_	2	amod	_	_	크/paa+ㄴ/etm
+2	목소리가	목소리+가	NOUN	_	3	nsubj	_	_	목소리/ncn+가/jcs
+3	들리면	들리+면	SCONJ	_	6	ccomp	_	_	들리/pvg+면/ecs
+4	싸우는	싸우+는	VERB	_	5	acl	_	_	싸우/pvg+는/etm
+5	줄	줄	NOUN	_	6	mark	_	_	줄/nbn
+6	알겠다	알+겠+다	VERB	_	0	root	_	_	알/pvg+겠/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 마음의 여유가 생기게 된다 .
+1	마음의	마음+의	NOUN	_	2	nmod	_	_	마음/ncn+의/jcm
+2	여유가	여유+가	NOUN	_	3	nsubj	_	_	여유/ncn+가/jcs
+3	생기게	생기+게	VERB	_	0	root	_	_	생기/pvg+게/ecx
+4	된다	되+ㄴ다	AUX	_	3	aux	_	_	되/px+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 역사를 배우면서 미래를 그리게 된다 .
+1	역사를	역사+를	NOUN	_	2	obj	_	_	역사/ncn+를/jco
+2	배우면서	배우+면서	SCONJ	_	4	ccomp	_	_	배우/pvg+면서/ecs
+3	미래를	미래+를	NOUN	_	4	obj	_	_	미래/ncn+를/jco
+4	그리게	그리+게	VERB	_	0	root	_	_	그리/pvg+게/ecx
+5	된다	되+ㄴ다	AUX	_	4	aux	_	_	되/px+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 부지중에 천사를 대접할 수도 있다 .
+1	부지중에	부지중+에	ADV	_	3	obl	_	_	부지중/ncn+에/jca
+2	천사를	천사+를	NOUN	_	3	obj	_	_	천사/ncn+를/jco
+3	대접할	대접+하+ㄹ	VERB	_	0	root	_	_	대접/ncpa+하/xsv+ㄹ/etm
+4	수도	수+도	ADV	_	5	fixed	_	_	수/nbn+도/jxc
+5	있다	있+다	ADJ	_	3	aux	_	_	있/paa+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그 사람대로 일리가 있다는 것을 이해해라 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	사람대로	사람+대로	ADV	_	4	advcl	_	_	사람/ncn+대로/jca
+3	일리가	일리+가	NOUN	_	4	nsubj	_	_	일리/ncn+가/jcs
+4	있다는	있+다는	ADJ	_	5	amod	_	_	있/paa+다는/etm
+5	것을	것+을	NOUN	_	6	obj	_	_	것/nbn+을/jco
+6	이해해라	이해+하+어라	VERB	_	0	root	_	_	이해/ncpa+하/xsv+어라/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 때로는 오래 된 것이 좋을 때도 있다 .
+1	때로는	때로+는	NOUN	_	5	advmod	_	_	때로/mag+는/jxt
+2	오래	오래	ADV	_	3	advmod	_	_	오래/mag
+3	된	되+ㄴ	VERB	_	4	acl	_	_	되/pvg+ㄴ/etm
+4	것이	것+이	NOUN	_	5	nsubj	_	_	것/nbn+이/jcs
+5	좋을	좋+ㄹ	ADJ	_	6	amod	_	_	좋/paa+ㄹ/etm
+6	때도	때+도	ADV	_	7	advcl	_	_	때/ncn+도/jxc
+7	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 너도 곧 늙는다 .
+1	너도	너+도	ADV	_	3	advcl	_	_	너/npp+도/jxc
+2	곧	곧	ADV	_	3	advmod	_	_	곧/mag
+3	늙는다	늙+는다	VERB	_	0	root	_	_	늙/pvg+는다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 환자만큼 지쳐 있다 .
+1	환자만큼	환자+만큼	ADV	_	2	advcl	_	_	환자/ncn+만큼/jca
+2	지쳐	지치+어	VERB	_	0	root	_	_	지치/pvg+어/ecx
+3	있다	있+다	AUX	_	2	aux	_	_	있/px+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 너의 마음을 아름답게 채색할 것이다 .
+1	너의	너+의	PRON	_	2	nmod	_	_	너/npp+의/jcm
+2	마음을	마음+을	NOUN	_	4	obj	_	_	마음/ncn+을/jco
+3	아름답게	아름답+게	SCONJ	_	4	xcomp	_	_	아름답/paa+게/ecs
+4	채색할	채색+하+ㄹ	VERB	_	0	root	_	_	채색/ncpa+하/xsv+ㄹ/etm
+5	것이다	것+이+다	VERB	_	4	aux	_	_	것/nbn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 빨리 달아 주고 생끗 웃어라 .
+1	빨리	빨리	ADV	_	2	advmod	_	_	빨리/mag
+2	달아	달+아	VERB	_	5	conj	_	_	달/pvg+아/ecx
+3	주고	주+고	CCONJ	_	2	aux	_	_	주/px+고/ecc
+4	생끗	생끗	ADV	_	5	advmod	_	_	생끗/mag
+5	웃어라	웃+어라	VERB	_	0	root	_	_	웃/pvg+어라/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 훗날에 그 이유를 알게 될 것이다 .
+1	훗날에	훗날+에	ADV	_	4	obl	_	_	훗날/ncn+에/jca
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	이유를	이유+를	NOUN	_	4	obj	_	_	이유/ncn+를/jco
+4	알게	알+게	VERB	_	0	root	_	_	알/pvg+게/ecx
+5	될	되+ㄹ	AUX	_	4	aux	_	_	되/px+ㄹ/etm
+6	것이다	것+이+다	VERB	_	4	aux	_	_	것/nbn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 시어머니에게는 아들이 바보처럼 보인다 .
+1	시어머니에게는	시어머니+에게+는	NOUN	_	4	dislocated	_	_	시어머니/ncn+에게/jca+는/jxt
+2	아들이	아들+이	NOUN	_	4	nsubj	_	_	아들/ncn+이/jcs
+3	바보처럼	바보+처럼	ADV	_	4	advcl	_	_	바보/ncn+처럼/jca
+4	보인다	보이+ㄴ다	VERB	_	0	root	_	_	보이/pvg+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 너무 놀라지 마라 .
+1	너무	너무	ADV	_	2	advmod	_	_	너무/mag
+2	놀라지	놀라+지	VERB	_	0	root	_	_	놀라/pvg+지/ecx
+3	마라	말+라	AUX	_	2	aux	_	_	말/px+라/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+

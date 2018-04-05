@@ -1,0 +1,176 @@
+# 서양법학 인명에만 국한되어 동양법학 인명사전은 다른 과제로 남겨 두고 있다 .
+1	서양법학	서양법학	NOUN	_	2	compound	_	_	서양법학/ncn
+2	인명에만	인명+에+만	ADV	_	3	advcl	_	_	인명/ncn+에/jca+만/jxc
+3	국한되어	국한+되+어	SCONJ	_	8	ccomp	_	_	국한/ncpa+되/xsv+어/ecs
+4	동양법학	동양법학	NOUN	_	5	compound	_	_	동양법학/ncn
+5	인명사전은	인명+사전+은	NOUN	_	8	dislocated	_	_	인명/ncn+사전/ncn+은/jxt
+6	다른	다르+ㄴ	ADJ	_	7	amod	_	_	다르/paa+ㄴ/etm
+7	과제로	과제+로	ADV	_	8	advcl	_	_	과제/ncn+로/jca
+8	남겨	남기+어	VERB	_	0	root	_	_	남기/pvg+어/ecx
+9	두고	두+고	AUX	_	8	aux	_	_	두/px+고/ecx
+10	있다	있+다	AUX	_	8	aux	_	_	있/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 학생들은 교과서를 읽으면서 공부하다가 부딛치는 수많은 법학인물들을 이 사전을 통하여 보다 가까이 알 수 있게 될 것이다 .
+1	학생들은	학생+들+은	NOUN	_	13	dislocated	_	_	학생/ncn+들/xsn+은/jxt
+2	교과서를	교과서+를	NOUN	_	4	obj	_	_	교과서/ncn+를/jco
+3	읽으면서	읽+으면서	SCONJ	_	4	ccomp	_	_	읽/pvg+으면서/ecs
+4	공부하다가	공부+하+다가	SCONJ	_	5	ccomp	_	_	공부/ncpa+하/xsv+다가/ecs
+5	부딛치는	부딪치+는	VERB	_	7	acl	_	_	부딪치/pvg+는/etm
+6	수많은	수많+ㄴ	ADJ	_	7	amod	_	_	수많/paa+ㄴ/etm
+7	법학인물들을	법학인물+들+을	NOUN	_	13	obj	_	_	법학인물/ncn+들/xsn+을/jco
+8	이	이	DET	_	9	det	_	_	이/mmd
+9	사전을	사전+을	NOUN	_	10	obj	_	_	사전/ncn+을/jco
+10	통하여	통하+어	SCONJ	_	13	ccomp	_	_	통하/pvg+어/ecs
+11	보다	보다	ADV	_	13	advmod	_	_	보다/mag
+12	가까이	가까이	ADV	_	11	advmod	_	_	가까이/mag
+13	알	알+ㄹ	VERB	_	0	root	_	_	알/pvg+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있게	있+게	ADJ	_	13	aux	_	_	있/paa+게/ecx
+16	될	되+ㄹ	AUX	_	13	aux	_	_	되/px+ㄹ/etm
+17	것이다	것+이+다	VERB	_	13	aux	_	_	것/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 저자의 원숙한 법학자로서의 해박한 지식으로 본서는 법학입문서로서의 격조를 한층 높이고 있다 .
+1	저자의	저자+의	NOUN	_	5	nmod	_	_	저자/ncn+의/jcm
+2	원숙한	원숙+하+ㄴ	VERB	_	3	amod	_	_	원숙/ncps+하/xsm+ㄴ/etm
+3	법학자로서의	법학자+로서+의	NOUN	_	5	nmod	_	_	법학자/ncn+로서/jca+의/jcm
+4	해박한	해박+하+ㄴ	VERB	_	5	amod	_	_	해박/ncps+하/xsm+ㄴ/etm
+5	지식으로	지식+으로	ADV	_	10	advcl	_	_	지식/ncn+으로/jca
+6	본서는	본서+는	NOUN	_	10	dislocated	_	_	본서/ncn+는/jxt
+7	법학입문서로서의	법학입문서+로서+의	NOUN	_	8	nmod	_	_	법학입문서/ncn+로서/jca+의/jcm
+8	격조를	격조+를	NOUN	_	10	obj	_	_	격조/ncn+를/jco
+9	한층	한층	ADV	_	10	advmod	_	_	한층/mag
+10	높이고	높이+고	VERB	_	0	root	_	_	높이/pvg+고/ecx
+11	있다	있+다	AUX	_	10	aux	_	_	있/px+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이 책으로 한국의 법학교육에도 이 과목이 정착되리라 전망된다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	책으로	책+으로	ADV	_	7	advcl	_	_	책/ncn+으로/jca
+3	한국의	한국+의	PROPN	_	4	nmod	_	_	한국/nq+의/jcm
+4	법학교육에도	법학교육+에+도	ADV	_	7	advcl	_	_	법학교육/ncn+에/jca+도/jxc
+5	이	이	DET	_	6	det	_	_	이/mmd
+6	과목이	과목+이	NOUN	_	7	nsubj	_	_	과목/ncn+이/jcs
+7	정착되리라	정착+되+리라	SCONJ	_	8	ccomp	_	_	정착/ncpa+되/xsv+리라/ecs
+8	전망된다	전망+되+ㄴ다	VERB	_	0	root	_	_	전망/ncpa+되/xsv+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 각 인물마다 연표와 발표논저 목록을 붙여주고있다 .
+1	각	각	ADJ	_	2	amod	_	_	각/mma
+2	인물마다	인물+마다	ADV	_	6	advcl	_	_	인물/ncn+마다/jxc
+3	연표와	연표+와	CCONJ	_	5	conj	_	_	연표/ncn+와/jcj
+4	발표논저	발표논저	NOUN	_	5	compound	_	_	발표논저/ncn
+5	목록을	목록+을	NOUN	_	6	obj	_	_	목록/ncn+을/jco
+6	붙여주고있다	붙이+어+주+고+있+다	AUX	_	0	root	_	_	붙이/pvg+어/ecx+주/px+고/ecx+있/px+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 법률과 법학은 용어를 바르고 정확히 사용하는 것이 생명인데 , 이 사전은 그런 면에서 법학도와 법률가들이 꼭 알아야 할 내용이다 .
+1	법률과	법률+과	CCONJ	_	2	conj	_	_	법률/ncn+과/jcj
+2	법학은	법학+은	NOUN	_	8	dislocated	_	_	법학/ncn+은/jxt
+3	용어를	용어+를	NOUN	_	6	obj	_	_	용어/ncn+를/jco
+4	바르고	바르+고	CCONJ	_	5	dep	_	_	바르/paa+고/ecc
+5	정확히	정확+히	ADV	_	6	advmod	_	_	정확/ncps+히/xsa
+6	사용하는	사용+하+는	VERB	_	7	acl	_	_	사용/ncpa+하/xsv+는/etm
+7	것이	것+이	NOUN	_	8	nsubj	_	_	것/nbn+이/jcs
+8	생명인데	생명+이+ㄴ데	SCONJ	_	19	ccomp	_	_	생명/ncn+이/jp+ㄴ데/ecs
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	이	이	DET	_	11	det	_	_	이/mmd
+11	사전은	사전+은	NOUN	_	19	dislocated	_	_	사전/ncn+은/jxt
+12	그런	그런	DET	_	13	det	_	_	그런/mmd
+13	면에서	면+에서	ADV	_	17	advcl	_	_	면/ncn+에서/jca
+14	법학도와	법학도+와	CCONJ	_	15	conj	_	_	법학도/ncn+와/jcj
+15	법률가들이	법률가+들+이	NOUN	_	17	nsubj	_	_	법률가/ncn+들/xsn+이/jcs
+16	꼭	꼭	ADV	_	17	advmod	_	_	꼭/mag
+17	알아야	알+아야	VERB	_	19	ccomp	_	_	알/pvg+아야/ecx
+18	할	하+ㄹ	AUX	_	17	aux	_	_	하/px+ㄹ/etm
+19	내용이다	내용+이+다	VERB	_	0	root	_	_	내용/ncn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 이것은 한국이 서양에서 멀리 떨어져 있기 때문이다 .
+1	이것은	이것+은	PRON	_	7	dislocated	_	_	이것/npd+은/jxt
+2	한국이	한국+이	PROPN	_	5	nsubj	_	_	한국/nq+이/jcs
+3	서양에서	서양+에서	ADV	_	5	advcl	_	_	서양/ncn+에서/jca
+4	멀리	멀리	ADV	_	5	advmod	_	_	멀리/mag
+5	떨어져	떨어지+어	VERB	_	7	ccomp	_	_	떨어지/pvg+어/ecx
+6	있기	있+기	AUX	_	5	aux	_	_	있/px+기/etn
+7	때문이다	때문+이+다	VERB	_	0	root	_	_	때문/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 책상에 휴대하고 교과서에 법학자의 이름이 나오면 면면을 한 번 이 책에서 확인하면서 공부하면 법학공부의 매력을 더할 것이다 .
+1	책상에	책상+에	ADV	_	2	obl	_	_	책상/ncn+에/jca
+2	휴대하고	휴대+하+고	SCONJ	_	6	ccomp	_	_	휴대/ncpa+하/xsv+고/ecs
+3	교과서에	교과서+에	ADV	_	6	obl	_	_	교과서/ncn+에/jca
+4	법학자의	법학자+의	NOUN	_	5	nmod	_	_	법학자/ncn+의/jcm
+5	이름이	이름+이	NOUN	_	6	nsubj	_	_	이름/ncn+이/jcs
+6	나오면	나오+면	SCONJ	_	12	ccomp	_	_	나오/pvg+면/ecs
+7	면면을	면면+을	NOUN	_	12	obj	_	_	면면/ncn+을/jco
+8	한	한	NUM	_	9	nummod	_	_	한/nnc
+9	번	번	NOUN	_	12	advmod	_	_	번/nbu
+10	이	이	DET	_	11	det	_	_	이/mmd
+11	책에서	책+에서	ADV	_	12	advcl	_	_	책/ncn+에서/jca
+12	확인하면서	확인+하+면서	SCONJ	_	13	ccomp	_	_	확인/ncpa+하/xsv+면서/ecs
+13	공부하면	공부+하+면	SCONJ	_	16	ccomp	_	_	공부/ncpa+하/xsv+면/ecs
+14	법학공부의	법학공부+의	NOUN	_	15	nmod	_	_	법학공부/ncn+의/jcm
+15	매력을	매력+을	NOUN	_	16	obj	_	_	매력/ncn+을/jco
+16	더할	더하+ㄹ	VERB	_	0	root	_	_	더하/pvg+ㄹ/etm
+17	것이다	것+이+다	VERB	_	16	aux	_	_	것/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 본서는 그런 글들을 모아 번역한 것이다 .
+1	본서는	본서+는	NOUN	_	5	dislocated	_	_	본서/ncn+는/jxt
+2	그런	그런	DET	_	3	det	_	_	그런/mmd
+3	글들을	글+들+을	NOUN	_	5	obj	_	_	글/ncn+들/xsn+을/jco
+4	모아	모으+아	SCONJ	_	5	ccomp	_	_	모으/pvg+아/ecs
+5	번역한	번역+하+ㄴ	VERB	_	0	root	_	_	번역/ncpa+하/xsv+ㄴ/etm
+6	것이다	것+이+다	VERB	_	5	aux	_	_	것/nbn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 한국법격언으로 분류해서 수록하고 있다 .
+1	한국법격언으로	한국법격언+으로	ADV	_	2	advcl	_	_	한국법격언/ncn+으로/jca
+2	분류해서	분류+하+어서	SCONJ	_	3	ccomp	_	_	분류/ncpa+하/xsv+어서/ecs
+3	수록하고	수록+하+고	VERB	_	0	root	_	_	수록/ncpa+하/xsv+고/ecx
+4	있다	있+다	AUX	_	3	aux	_	_	있/px+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 법학도들은 하루에 두세 개씩 법격언을 외우며 공부하면 좋은 것이다 .
+1	법학도들은	법학도+들+은	NOUN	_	8	dislocated	_	_	법학도/ncn+들/xsn+은/jxt
+2	하루에	하루+에	ADV	_	6	obl	_	_	하루/ncn+에/jca
+3	두세	두세	NUM	_	4	nummod	_	_	두세/nnc
+4	개씩	개+씩	NOUN	_	6	advmod	_	_	개/nbu+씩/xsn
+5	법격언을	법격언+을	NOUN	_	6	obj	_	_	법격언/ncn+을/jco
+6	외우며	외우+며	SCONJ	_	7	ccomp	_	_	외우/pvg+며/ecs
+7	공부하면	공부+하+면	SCONJ	_	8	conj	_	_	공부/ncpa+하/xsv+면/ecs
+8	좋은	좋+ㄴ	ADJ	_	0	root	_	_	좋/paa+ㄴ/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 법과 주체의식 등의 글들을 싣고 있다 .
+1	법과	법+과	CCONJ	_	2	conj	_	_	법/ncn+과/jcj
+2	주체의식	주체+의식	NOUN	_	3	compound	_	_	주체/ncn+의식/ncn
+3	등의	등+의	NOUN	_	4	nmod	_	_	등/nbn+의/jcm
+4	글들을	글+들+을	NOUN	_	5	obj	_	_	글/ncn+들/xsn+을/jco
+5	싣고	싣+고	VERB	_	0	root	_	_	싣/pvg+고/ecx
+6	있다	있+다	AUX	_	5	aux	_	_	있/px+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 편집한 것이다 .
+1	편집한	편집+하+ㄴ	VERB	_	0	root	_	_	편집/ncpa+하/xsv+ㄴ/etm
+2	것이다	것+이+다	VERB	_	1	aux	_	_	것/nbn+이/jp+다/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 법학의 영역을 흥미 있게 다루어 독자로 하여금 스스로 생각하게 하는 매력적인 책이다 .
+1	법학의	법학+의	NOUN	_	2	nmod	_	_	법학/ncn+의/jcm
+2	영역을	영역+을	NOUN	_	5	obj	_	_	영역/ncn+을/jco
+3	흥미	흥미	NOUN	_	4	dep	_	_	흥미/ncn
+4	있게	있+게	SCONJ	_	5	xcomp	_	_	있/paa+게/ecs
+5	다루어	다루+어	SCONJ	_	9	ccomp	_	_	다루/pvg+어/ecs
+6	독자로	독자+로	ADV	_	7	advcl	_	_	독자/ncn+로/jca
+7	하여금	하여금	ADV	_	9	advmod	_	_	하여금/mag
+8	스스로	스스로	ADV	_	9	advmod	_	_	스스로/mag
+9	생각하게	생각+하+게	VERB	_	12	ccomp	_	_	생각/ncpa+하/xsv+게/ecx
+10	하는	하+는	AUX	_	9	aux	_	_	하/px+는/etm
+11	매력적인	매력+적+이+ㄴ	VERB	_	12	acl	_	_	매력/ncn+적/xsn+이/jp+ㄴ/etm
+12	책이다	책+이+다	VERB	_	0	root	_	_	책/ncn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+

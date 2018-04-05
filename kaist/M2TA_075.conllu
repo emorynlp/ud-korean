@@ -1,0 +1,119 @@
+# 이 때 한 외국인이 불이 난 줄 알고 소화기를 들고 뛰어왔다던 웃지 못할 헤프닝도 있었다 한다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	때	때	NOUN	_	11	advmod	_	_	때/ncn
+3	한	한	NUM	_	4	nummod	_	_	한/nnc
+4	외국인이	외국인+이	NOUN	_	11	nsubj	_	_	외국인/ncn+이/jcs
+5	불이	불+이	NOUN	_	6	nsubj	_	_	불/ncn+이/jcs
+6	난	나+ㄴ	VERB	_	7	acl	_	_	나/pvg+ㄴ/etm
+7	줄	줄	NOUN	_	8	mark	_	_	줄/nbn
+8	알고	알+고	CCONJ	_	11	conj	_	_	알/pvg+고/ecc
+9	소화기를	소화기+를	NOUN	_	10	obj	_	_	소화기/ncn+를/jco
+10	들고	들+고	CCONJ	_	11	conj	_	_	들/pvg+고/ecc
+11	뛰어왔다던	뛰어오+았+다던	VERB	_	14	acl	_	_	뛰어오/pvg+았/ep+다던/etm
+12	웃지	웃+지	VERB	_	14	acl	_	_	웃/pvg+지/ecx
+13	못할	못하+ㄹ	AUX	_	12	aux	_	_	못하/px+ㄹ/etm
+14	헤프닝도	헤프닝+도	ADV	_	15	advcl	_	_	헤프닝/ncn+도/jxc
+15	있었다	있+었+다	SCONJ	_	16	xcomp	_	_	있/paa+었/ep+다/ecs
+16	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이 사건 이후 학교측은 이 소나무를 짤라 버렸으며 소나무는 아직도 그 짤린 모습으로 서 있다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	사건	사건	NOUN	_	3	compound	_	_	사건/ncn
+3	이후	이후	NOUN	_	7	advmod	_	_	이후/ncn
+4	학교측은	학교측+은	NOUN	_	7	dislocated	_	_	학교측/ncn+은/jxt
+5	이	이	DET	_	6	det	_	_	이/mmd
+6	소나무를	소나무+를	NOUN	_	7	obj	_	_	소나무/ncn+를/jco
+7	짤라	짜르+아	VERB	_	14	ccomp	_	_	짜르/pvg+아/ecx
+8	버렸으며	버리+었+으며	SCONJ	_	7	aux	_	_	버리/px+었/ep+으며/ecs
+9	소나무는	소나무+는	NOUN	_	14	dislocated	_	_	소나무/ncn+는/jxt
+10	아직도	아직+도	ADV	_	14	advmod	_	_	아직/mag+도/jxc
+11	그	그	DET	_	13	det	_	_	그/mmd
+12	짤린	짤리+ㄴ	VERB	_	13	acl	_	_	짤리/pvg+ㄴ/etm
+13	모습으로	모습+으로	ADV	_	14	advcl	_	_	모습/ncn+으로/jca
+14	서	서+어	VERB	_	0	root	_	_	서/pvg+어/ecx
+15	있다	있+다	AUX	_	14	aux	_	_	있/px+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 아직까지 과 , 단대의 역량은 부족했으며 소수 학과만이 자체운영하는 정도였다 .
+1	아직까지	아직+까지	ADV	_	6	advmod	_	_	아직/mag+까지/jxc
+2	과	과	NOUN	_	4	conj	_	_	과/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	단대의	단대+의	NOUN	_	5	nmod	_	_	단대/ncn+의/jcm
+5	역량은	역량+은	NOUN	_	6	dislocated	_	_	역량/ncn+은/jxt
+6	부족했으며	부족+하+었+으며	CCONJ	_	10	conj	_	_	부족/ncps+하/xsm+었/ep+으며/ecc
+7	소수	소수	NOUN	_	8	compound	_	_	소수/ncn
+8	학과만이	학과+만+이	NOUN	_	9	nsubj	_	_	학과/ncn+만/jxc+이/jcs
+9	자체운영하는	자체+운영+하+는	VERB	_	10	ccomp	_	_	자체/ncn+운영/ncpa+하/xsv+는/etm
+10	정도였다	정도+이+었+다	VERB	_	0	root	_	_	정도/ncn+이/jp+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 빌딩에서 시위대로 날아드는 담배 , 빵 , 마스크 심지어는 돌까지도 있었다 .
+1	빌딩에서	빌딩+에서	ADV	_	3	advcl	_	_	빌딩/ncn+에서/jca
+2	시위대로	시위대+로	ADV	_	3	advcl	_	_	시위대/ncn+로/jca
+3	날아드는	날아들+는	VERB	_	10	acl	_	_	날아들/pvg+는/etm
+4	담배	담배	NOUN	_	6	conj	_	_	담배/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	빵	빵	NOUN	_	8	conj	_	_	빵/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	마스크	마스크	NOUN	_	10	compound	_	_	마스크/ncn
+9	심지어는	심지어+는	NOUN	_	10	advmod	_	_	심지어/mag+는/jxt
+10	돌까지도	돌+까지도	ADV	_	11	advcl	_	_	돌/ncn+까지도/jxc
+11	있었다	있+었+다	ADJ	_	0	root	_	_	있/paa+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 육성되는 시기였다 .
+1	육성되는	육성+되+는	VERB	_	2	ccomp	_	_	육성/ncpa+되/xsv+는/etm
+2	시기였다	시기+이+었+다	VERB	_	0	root	_	_	시기/ncpa+이/jp+었/ep+다/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 위의 이러한 기본관점은 반드시 유의해야 하겠다 .
+1	위의	위+의	NOUN	_	3	nmod	_	_	위/ncn+의/jcm
+2	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+3	기본관점은	기본+관점+은	NOUN	_	5	dislocated	_	_	기본/ncn+관점/ncn+은/jxt
+4	반드시	반드시	ADV	_	5	advmod	_	_	반드시/mag
+5	유의해야	유의+하+어야	VERB	_	0	root	_	_	유의/ncps+하/xsm+어야/ecx
+6	하겠다	하+겠+다	AUX	_	5	aux	_	_	하/px+겠/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이는 차후의 보론을 통해 보충하게 될 것이며 더 풍부화 되어야 하리라 믿는다 .
+1	이는	이+는	PRON	_	10	dislocated	_	_	이/npd+는/jxt
+2	차후의	차후+의	NOUN	_	3	nmod	_	_	차후/ncn+의/jcm
+3	보론을	보론+을	NOUN	_	4	obj	_	_	보론/ncn+을/jco
+4	통해	통하+어	SCONJ	_	5	ccomp	_	_	통하/pvg+어/ecs
+5	보충하게	보충+하+게	VERB	_	10	conj	_	_	보충/ncpa+하/xsv+게/ecx
+6	될	되+ㄹ	AUX	_	5	aux	_	_	되/px+ㄹ/etm
+7	것이며	것+이+며	CCONJ	_	5	aux	_	_	것/nbn+이/jp+며/ecc
+8	더	더	ADV	_	10	advmod	_	_	더/mag
+9	풍부화	풍부화	NOUN	_	10	dep	_	_	풍부화/ncn
+10	되어야	되+어야	VERB	_	12	ccomp	_	_	되/pvg+어야/ecx
+11	하리라	하+리라	SCONJ	_	10	aux	_	_	하/px+리라/ecs
+12	믿는다	믿+는다	VERB	_	0	root	_	_	믿/pvg+는다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 설혹 내용이 그 당시의 구체적인 상황과 조금은 다를 수도 있고 잘못 기재되었을 수 있음을 배제하기는 어렵다 .
+1	설혹	설혹	ADV	_	12	advmod	_	_	설혹/mag
+2	내용이	내용+이	NOUN	_	12	nsubj	_	_	내용/ncn+이/jcs
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	당시의	당시+의	NOUN	_	6	nmod	_	_	당시/ncn+의/jcm
+5	구체적인	구체+적+이+ㄴ	VERB	_	6	acl	_	_	구체/ncn+적/xsn+이/jp+ㄴ/etm
+6	상황과	상황+과	CCONJ	_	8	conj	_	_	상황/ncn+과/jct
+7	조금은	조금+은	NOUN	_	8	dislocated	_	_	조금/ncn+은/jxt
+8	다를	다르+ㄹ	ADJ	_	12	conj	_	_	다르/paa+ㄹ/etm
+9	수도	수+도	ADV	_	10	fixed	_	_	수/nbn+도/jxc
+10	있고	있+고	CCONJ	_	8	aux	_	_	있/paa+고/ecc
+11	잘못	잘못	ADV	_	12	advmod	_	_	잘못/mag
+12	기재되었을	기재+되+었+ㄹ	VERB	_	15	obj	_	_	기재/ncpa+되/xsv+었/ep+ㄹ/etm
+13	수	수	NOUN	_	14	fixed	_	_	수/nbn
+14	있음을	있+ㅁ+을	NOUN	_	12	aux	_	_	있/paa+ㅁ/etn+을/jco
+15	배제하기는	배제+하+기+는	NOUN	_	16	dislocated	_	_	배제/ncpa+하/xsv+기/etn+는/jxt
+16	어렵다	어렵+다	ADJ	_	0	root	_	_	어렵/paa+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 학내에는 경찰요원이 상주하게 되었다 .
+1	학내에는	학내+에+는	NOUN	_	3	dislocated	_	_	학내/ncn+에/jca+는/jxt
+2	경찰요원이	경찰요원+이	NOUN	_	3	nsubj	_	_	경찰요원/ncn+이/jcs
+3	상주하게	상주+하+게	VERB	_	0	root	_	_	상주/ncpa+하/xsv+게/ecx
+4	되었다	되+었+다	AUX	_	3	aux	_	_	되/px+었/ep+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+

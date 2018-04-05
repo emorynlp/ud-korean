@@ -1,0 +1,154 @@
+# 현재 이 땅에 살고 있는 우리들도 물론 일정한 인간상을 지니고 살고 있다 .
+1	현재	현재	NOUN	_	4	advmod	_	_	현재/ncn
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	땅에	땅+에	ADV	_	4	obl	_	_	땅/ncn+에/jca
+4	살고	살+고	VERB	_	6	acl	_	_	살/pvg+고/ecx
+5	있는	있+는	AUX	_	4	aux	_	_	있/px+는/etm
+6	우리들도	우리+들+도	ADV	_	11	advcl	_	_	우리/npp+들/xsn+도/jxc
+7	물론	물론	ADV	_	11	advmod	_	_	물론/mag
+8	일정한	일정+하+ㄴ	VERB	_	9	amod	_	_	일정/ncps+하/xsm+ㄴ/etm
+9	인간상을	인간상+을	NOUN	_	10	obj	_	_	인간상/ncn+을/jco
+10	지니고	지니+고	SCONJ	_	11	ccomp	_	_	지니/pvg+고/ecs
+11	살고	살+고	VERB	_	0	root	_	_	살/pvg+고/ecx
+12	있다	있+다	AUX	_	11	aux	_	_	있/px+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그렇다면 무엇이 현대인으로 하여금 이러한 새로운 물음을 묻지 않을 수 없게 만들어 주고 있는가 ?
+1	그렇다면	그렇다면	CCONJ	_	8	cc	_	_	그렇다면/maj
+2	무엇이	무엇+이	PRON	_	8	nsubj	_	_	무엇/npd+이/jcs
+3	현대인으로	현대인+으로	ADV	_	4	advcl	_	_	현대인/ncn+으로/jca
+4	하여금	하여금	ADV	_	8	advmod	_	_	하여금/mag
+5	이러한	이러하+ㄴ	VERB	_	7	amod	_	_	이러하/pad+ㄴ/etm
+6	새로운	새롭+ㄴ	ADJ	_	7	amod	_	_	새롭/paa+ㄴ/etm
+7	물음을	물음+을	NOUN	_	8	obj	_	_	물음/ncn+을/jco
+8	묻지	묻+지	VERB	_	0	root	_	_	묻/pvg+지/ecx
+9	않을	않+ㄹ	AUX	_	8	aux	_	_	않/px+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	없게	없+게	ADJ	_	8	aux	_	_	없/paa+게/ecx
+12	만들어	만들+어	AUX	_	8	aux	_	_	만들/px+어/ecx
+13	주고	주+고	AUX	_	8	aux	_	_	주/px+고/ecx
+14	있는가	있+는가	AUX	_	8	aux	_	_	있/px+는가/ef
+15	?	?	PUNCT	_	14	punct	_	_	?/sf
+
+# 만일 지구상에 인류 이외에는 아무런 생명체가 존재하지 않는다면 인류는 단 며칠도 생존할 수 없게 된다 .
+1	만일	만일	ADV	_	7	advmod	_	_	만일/mag
+2	지구상에	지구상+에	ADV	_	7	obl	_	_	지구상/ncn+에/jca
+3	인류	인류	NOUN	_	4	compound	_	_	인류/ncn
+4	이외에는	이외+에+는	NOUN	_	7	dislocated	_	_	이외/ncn+에/jca+는/jxt
+5	아무런	아무렇+ㄴ	VERB	_	6	amod	_	_	아무렇/pad+ㄴ/etm
+6	생명체가	생명체+가	NOUN	_	7	nsubj	_	_	생명체/ncn+가/jcs
+7	존재하지	존재+하+지	VERB	_	12	ccomp	_	_	존재/ncpa+하/xsv+지/ecx
+8	않는다면	않+는다면	SCONJ	_	7	aux	_	_	않/px+는다면/ecs
+9	인류는	인류+는	NOUN	_	12	dislocated	_	_	인류/ncn+는/jxt
+10	단	단	ADJ	_	11	amod	_	_	단/mma
+11	며칠도	며칠+도	ADV	_	12	advcl	_	_	며칠/ncn+도/jxc
+12	생존할	생존+하+ㄹ	VERB	_	0	root	_	_	생존/ncpa+하/xsv+ㄹ/etm
+13	수	수	NOUN	_	14	fixed	_	_	수/nbn
+14	없게	없+게	ADJ	_	12	aux	_	_	없/paa+게/ecx
+15	된다	되+ㄴ다	AUX	_	12	aux	_	_	되/px+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 즉 인류와 여타 생물종들 사이에 생태적 긴밀성만이 아니라 계통적 일체성 또한 함께 존재한다 .
+1	즉	즉	CCONJ	_	13	cc	_	_	즉/maj
+2	인류와	인류+와	CCONJ	_	4	conj	_	_	인류/ncn+와/jcj
+3	여타	여타	NOUN	_	4	compound	_	_	여타/ncn
+4	생물종들	생물종+들	NOUN	_	5	compound	_	_	생물종/ncn+들/xsn
+5	사이에	사이+에	ADV	_	8	obl	_	_	사이/ncn+에/jca
+6	생태적	생태+적	NOUN	_	7	amod	_	_	생태/ncn+적/xsn
+7	긴밀성만이	긴밀성+만+이	NOUN	_	8	csubj	_	_	긴밀성/ncn+만/jxc+이/jcc
+8	아니라	아니+라	SCONJ	_	13	xcomp	_	_	아니/paa+라/ecs
+9	계통적	계통+적	NOUN	_	10	amod	_	_	계통/ncn+적/xsn
+10	일체성	일체성	NOUN	_	13	advmod	_	_	일체성/ncn
+11	또한	또한	ADV	_	13	advmod	_	_	또한/mag
+12	함께	함께	ADV	_	13	advmod	_	_	함께/mag
+13	존재한다	존재+하+ㄴ다	VERB	_	0	root	_	_	존재/ncpa+하/xsv+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그런데 인간이 이러한 두뇌를 지녔다는 점의 중요성은 동물과의 사이의 상대적 크기에 있는 것이 아니다 .
+1	그런데	그런데	CCONJ	_	14	cc	_	_	그런데/maj
+2	인간이	인간+이	NOUN	_	5	nsubj	_	_	인간/ncn+이/jcs
+3	이러한	이러하+ㄴ	VERB	_	4	amod	_	_	이러하/pad+ㄴ/etm
+4	두뇌를	두뇌+를	NOUN	_	5	obj	_	_	두뇌/ncn+를/jco
+5	지녔다는	지니+었+다는	VERB	_	6	acl	_	_	지니/pvg+었/ep+다는/etm
+6	점의	점+의	NOUN	_	7	nmod	_	_	점/ncn+의/jcm
+7	중요성은	중요성+은	NOUN	_	12	dislocated	_	_	중요성/ncn+은/jxt
+8	동물과의	동물+과+의	NOUN	_	9	nmod	_	_	동물/ncn+과/jct+의/jcm
+9	사이의	사이+의	NOUN	_	11	nmod	_	_	사이/ncn+의/jcm
+10	상대적	상대적	NOUN	_	11	compound	_	_	상대적/ncn
+11	크기에	크기+에	ADV	_	12	obl	_	_	크기/ncn+에/jca
+12	있는	있+는	ADJ	_	13	amod	_	_	있/paa+는/etm
+13	것이	것+이	NOUN	_	14	csubj	_	_	것/nbn+이/jcc
+14	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그리고 다른 하나는 이것이 인간이라는 보다 고차적인 존재 단위를 이룰 때 그 속에서 이것이 지니는 존재론적 위상으로서의 범주이다 .
+1	그리고	그리고	CCONJ	_	18	cc	_	_	그리고/maj
+2	다른	다르+ㄴ	ADJ	_	3	amod	_	_	다르/paa+ㄴ/etm
+3	하나는	하나+는	NUM	_	18	dislocated	_	_	하나/nnc+는/jxt
+4	이것이	이것+이	PRON	_	10	nsubj	_	_	이것/npd+이/jcs
+5	인간이라는	인간+이+라는	VERB	_	9	acl	_	_	인간/ncn+이/jp+라는/etm
+6	보다	보다	ADV	_	7	advmod	_	_	보다/mag
+7	고차적인	고차+적+이+ㄴ	VERB	_	9	acl	_	_	고차/ncn+적/xsn+이/jp+ㄴ/etm
+8	존재	존재	NOUN	_	9	compound	_	_	존재/ncpa
+9	단위를	단위+를	NOUN	_	10	obj	_	_	단위/ncn+를/jco
+10	이룰	이루+ㄹ	VERB	_	11	acl	_	_	이루/pvg+ㄹ/etm
+11	때	때	NOUN	_	18	advmod	_	_	때/ncn
+12	그	그	DET	_	13	det	_	_	그/mmd
+13	속에서	속+에서	ADV	_	15	advcl	_	_	속/ncn+에서/jca
+14	이것이	이것+이	PRON	_	15	nsubj	_	_	이것/npd+이/jcs
+15	지니는	지니+는	VERB	_	17	acl	_	_	지니/pvg+는/etm
+16	존재론적	존재론+적	NOUN	_	17	amod	_	_	존재론/ncn+적/xsn
+17	위상으로서의	위상+으로서+의	NOUN	_	18	nmod	_	_	위상/ncn+으로서/jca+의/jcm
+18	범주이다	범주+이+다	VERB	_	0	root	_	_	범주/ncn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그러나 현실적으로 몇 가지 어려운 문제들이 예상된다 .
+1	그러나	그러나	CCONJ	_	7	cc	_	_	그러나/maj
+2	현실적으로	현실+적+으로	ADV	_	7	advcl	_	_	현실/ncn+적/xsn+으로/jca
+3	몇	몇	ADJ	_	4	amod	_	_	몇/mma
+4	가지	가지	NOUN	_	6	compound	_	_	가지/nbu
+5	어려운	어렵+ㄴ	ADJ	_	6	amod	_	_	어렵/paa+ㄴ/etm
+6	문제들이	문제+들+이	NOUN	_	7	nsubj	_	_	문제/ncn+들/xsn+이/jcs
+7	예상된다	예상+되+ㄴ다	VERB	_	0	root	_	_	예상/ncpa+되/xsv+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 잘 알려진 바와 같이 이것이 바로 암세포들이며 이러한 암세포들이 일단 발생하면 그 모체는 얼마 가지 않아 사멸되고 만다 .
+1	잘	잘	ADV	_	2	advmod	_	_	잘/mag
+2	알려진	알려지+ㄴ	VERB	_	3	acl	_	_	알려지/pvg+ㄴ/etm
+3	바와	바+와	CCONJ	_	4	conj	_	_	바/nbn+와/jct
+4	같이	같+이	SCONJ	_	7	xcomp	_	_	같/paa+이/ecs
+5	이것이	이것+이	PRON	_	7	nsubj	_	_	이것/npd+이/jcs
+6	바로	바로	ADV	_	7	advmod	_	_	바로/mag
+7	암세포들이며	암세포+들+이+며	CCONJ	_	11	conj	_	_	암세포/ncn+들/xsn+이/jp+며/ecc
+8	이러한	이러하+ㄴ	VERB	_	9	amod	_	_	이러하/pad+ㄴ/etm
+9	암세포들이	암세포+들+이	NOUN	_	11	nsubj	_	_	암세포/ncn+들/xsn+이/jcs
+10	일단	일단	ADV	_	11	advmod	_	_	일단/mag
+11	발생하면	발생+하+면	SCONJ	_	17	ccomp	_	_	발생/ncpa+하/xsv+면/ecs
+12	그	그	DET	_	13	det	_	_	그/mmd
+13	모체는	모체+는	NOUN	_	17	dislocated	_	_	모체/ncn+는/jxt
+14	얼마	얼마	ADV	_	15	advmod	_	_	얼마/mad
+15	가지	가+지	VERB	_	17	ccomp	_	_	가/pvg+지/ecx
+16	않아	않+아	SCONJ	_	15	aux	_	_	않/px+아/ecs
+17	사멸되고	사멸+되+고	VERB	_	0	root	_	_	사멸/ncpa+되/xsv+고/ecx
+18	만다	말+ㄴ다	AUX	_	17	aux	_	_	말/px+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 즉 우리는 높은 수준의 정신적 문화를 창조하고 영위하기에 적절한 인위적 환경을 조성하지 않으면 안 된다는 것이다 .
+1	즉	즉	CCONJ	_	15	cc	_	_	즉/maj
+2	우리는	우리+는	PRON	_	15	dislocated	_	_	우리/npp+는/jxt
+3	높은	높+ㄴ	ADJ	_	4	amod	_	_	높/paa+ㄴ/etm
+4	수준의	수준+의	NOUN	_	6	nmod	_	_	수준/ncn+의/jcm
+5	정신적	정신+적	NOUN	_	6	amod	_	_	정신/ncn+적/xsn
+6	문화를	문화+를	NOUN	_	8	obj	_	_	문화/ncn+를/jco
+7	창조하고	창조+하+고	CCONJ	_	8	conj	_	_	창조/ncpa+하/xsv+고/ecc
+8	영위하기에	영위+하+기+에	ADV	_	15	obl	_	_	영위/ncpa+하/xsv+기/etn+에/jca
+9	적절한	적절하+ㄴ	ADJ	_	11	amod	_	_	적절하/paa+ㄴ/etm
+10	인위적	인위+적	NOUN	_	11	dep	_	_	인위/ncn+적/xsn
+11	환경을	환경+을	NOUN	_	12	obj	_	_	환경/ncn+을/jco
+12	조성하지	조성+하+지	VERB	_	15	ccomp	_	_	조성/ncpa+하/xsv+지/ecx
+13	않으면	않+으면	SCONJ	_	12	aux	_	_	않/px+으면/ecs
+14	안	안	ADV	_	15	advmod	_	_	안/mag
+15	된다는	되+ㄴ다는	VERB	_	0	root	_	_	되/pvg+ㄴ다는/etm
+16	것이다	것+이+다	VERB	_	15	aux	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+

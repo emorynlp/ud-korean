@@ -1,0 +1,380 @@
+# 1982년 3월 비교적 보수적인 신학을 가르치는 것으로 알려진 고려신학교 학생들의 부산 미문화원 방화사건은 미관리들의 그 같은 자신감에 찬물을 끼얹었다 .
+1	1982년	1982+년	NOUN	_	2	compound	_	_	1982/nno+년/nbu
+2	3월	3+월	NOUN	_	19	advmod	_	_	3/nno+월/nbu
+3	비교적	비교+적	NOUN	_	4	advmod	_	_	비교/ncpa+적/xsn
+4	보수적인	보수+적+이+ㄴ	VERB	_	5	acl	_	_	보수/ncpa+적/xsn+이/jp+ㄴ/etm
+5	신학을	신학+을	NOUN	_	6	obj	_	_	신학/ncn+을/jco
+6	가르치는	가르치+는	VERB	_	7	acl	_	_	가르치/pvg+는/etm
+7	것으로	것+으로	ADV	_	8	advcl	_	_	것/nbn+으로/jca
+8	알려진	알리+어+지+ㄴ	AUX	_	9	acl	_	_	알리/pvg+어/ecx+지/px+ㄴ/etm
+9	고려신학교	고려신학교	PROPN	_	10	compound	_	_	고려신학교/nq
+10	학생들의	학생+들+의	NOUN	_	13	nmod	_	_	학생/ncn+들/xsn+의/jcm
+11	부산	부산	PROPN	_	12	compound	_	_	부산/nq
+12	미문화원	미문화원	NOUN	_	13	compound	_	_	미문화원/ncn
+13	방화사건은	방화+사건+은	NOUN	_	19	dislocated	_	_	방화/ncpa+사건/ncn+은/jxt
+14	미관리들의	미관리+들+의	NOUN	_	17	nmod	_	_	미관리/ncn+들/xsn+의/jcm
+15	그	그	PRON	_	16	dep	_	_	그/npd
+16	같은	같+ㄴ	ADJ	_	17	amod	_	_	같/paa+ㄴ/etm
+17	자신감에	자신감+에	ADV	_	19	obl	_	_	자신감/ncn+에/jca
+18	찬물을	찬물+을	NOUN	_	19	obj	_	_	찬물/ncn+을/jco
+19	끼얹었다	끼얹+었+다	VERB	_	0	root	_	_	끼얹/pvg+었/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 이 방화를 주동한 문부식이 자신에게 사형을 선고한 재판정에서 행한 최후진술의 다음 일부는 그 후 한국의 저항운동의 정신적 흐름을 보다 정확히 예견한 것이었다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	방화를	방화+를	NOUN	_	3	obj	_	_	방화/ncpa+를/jco
+3	주동한	주동+하+ㄴ	VERB	_	4	acl	_	_	주동/ncpa+하/xsv+ㄴ/etm
+4	문부식이	문부식+이	PROPN	_	9	nsubj	_	_	문부식/nq+이/jcs
+5	자신에게	자신+에게	ADV	_	7	iobj	_	_	자신/ncn+에게/jca
+6	사형을	사형+을	NOUN	_	7	obj	_	_	사형/ncpa+을/jco
+7	선고한	선고+하+ㄴ	VERB	_	8	acl	_	_	선고/ncpa+하/xsv+ㄴ/etm
+8	재판정에서	재판정+에서	ADV	_	9	advcl	_	_	재판정/ncn+에서/jca
+9	행한	행하+ㄴ	VERB	_	10	acl	_	_	행하/pvg+ㄴ/etm
+10	최후진술의	최후+진술+의	NOUN	_	12	nmod	_	_	최후/ncn+진술/ncpa+의/jcm
+11	다음	다음	NOUN	_	12	compound	_	_	다음/ncn
+12	일부는	일부+는	NOUN	_	21	dislocated	_	_	일부/ncn+는/jxt
+13	그	그	DET	_	14	det	_	_	그/mmd
+14	후	후	NOUN	_	16	compound	_	_	후/ncn
+15	한국의	한국+의	PROPN	_	16	nmod	_	_	한국/nq+의/jcm
+16	저항운동의	저항+운동+의	NOUN	_	18	nmod	_	_	저항/ncpa+운동/ncpa+의/jcm
+17	정신적	정신+적	NOUN	_	18	amod	_	_	정신/ncn+적/xsn
+18	흐름을	흐름+을	NOUN	_	21	obj	_	_	흐름/ncn+을/jco
+19	보다	보다	ADV	_	21	advmod	_	_	보다/mag
+20	정확히	정확+히	ADV	_	19	dep	_	_	정확/ncps+히/xsa
+21	예견한	예건+하+ㄴ	VERB	_	0	root	_	_	예건/ncpa+하/xsv+ㄴ/etm
+22	것이었다	것+이+었+다	VERB	_	21	aux	_	_	것/nbn+이/jp+었/ep+다/ef
+23	.	.	PUNCT	_	22	punct	_	_	./sf
+
+# 이런 사태가 누구에게 이로울 것인가라며 이북이 이를 이용할 것이라고 암시했다 .
+1	이런	이런	DET	_	2	det	_	_	이런/mmd
+2	사태가	사태+가	NOUN	_	4	nsubj	_	_	사태/ncn+가/jcs
+3	누구에게	누구+에게	ADV	_	4	iobj	_	_	누구/npp+에게/jca
+4	이로울	이롭+ㄹ	ADJ	_	10	conj	_	_	이롭/paa+ㄹ/etm
+5	것인가라며	것+이+ㄴ가+라며	VERB	_	4	aux	_	_	것/nbn+이/jp+ㄴ가/ef+라며/jcr
+6	이북이	이북+이	NOUN	_	8	nsubj	_	_	이북/ncn+이/jcs
+7	이를	이+를	PRON	_	8	obj	_	_	이/npd+를/jco
+8	이용할	이용+하+ㄹ	VERB	_	10	conj	_	_	이용/ncpa+하/xsv+ㄹ/etm
+9	것이라고	것+이+라+고	VERB	_	8	aux	_	_	것/nbn+이/jp+라/ef+고/jcr
+10	암시했다	암시+하+었+다	VERB	_	0	root	_	_	암시/ncpa+하/xsv+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 한국민의 이익과 열망을 경멸하는 이 같은 미국의 자세는 이 땅에서 반미주의를 가속화시킬 것이다 .
+1	한국민의	한국민+의	NOUN	_	3	nmod	_	_	한국민/ncn+의/jcm
+2	이익과	이익+과	CCONJ	_	3	conj	_	_	이익/ncn+과/jcj
+3	열망을	열망+을	NOUN	_	4	obj	_	_	열망/ncpa+을/jco
+4	경멸하는	경멸+하+는	VERB	_	8	acl	_	_	경멸/ncpa+하/xsv+는/etm
+5	이	이	PRON	_	6	dep	_	_	이/npd
+6	같은	같+ㄴ	ADJ	_	8	amod	_	_	같/paa+ㄴ/etm
+7	미국의	미국+의	PROPN	_	8	nmod	_	_	미국/nq+의/jcm
+8	자세는	자세+는	NOUN	_	12	dislocated	_	_	자세/ncn+는/jxt
+9	이	이	DET	_	10	det	_	_	이/mmd
+10	땅에서	땅+에서	ADV	_	12	advcl	_	_	땅/ncn+에서/jca
+11	반미주의를	반미+주의+를	NOUN	_	12	obj	_	_	반미/ncn+주의/ncn+를/jco
+12	가속화시킬	가속화+시키+ㄹ	VERB	_	0	root	_	_	가속화/ncpa+시키/xsv+ㄹ/etm
+13	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 장차 필연적으로 나와 같은 행동이 다른 이들에 의해 끊임없이 계속될 것이다 .
+1	장차	장차	ADV	_	10	advmod	_	_	장차/mag
+2	필연적으로	필연+적+으로	ADV	_	10	advcl	_	_	필연/ncps+적/xsn+으로/jca
+3	나와	나+와	CCONJ	_	4	conj	_	_	나/npp+와/jct
+4	같은	같+ㄴ	ADJ	_	5	amod	_	_	같/paa+ㄴ/etm
+5	행동이	행동+이	NOUN	_	10	nsubj	_	_	행동/ncpa+이/jcs
+6	다른	다르+ㄴ	ADJ	_	7	amod	_	_	다르/paa+ㄴ/etm
+7	이들에	이+들+에	ADV	_	8	obl	_	_	이/npd+들/xsn+에/jca
+8	의해	의하+어	SCONJ	_	10	ccomp	_	_	의하/pvg+어/ecs
+9	끊임없이	끊임없+이	SCONJ	_	10	xcomp	_	_	끊임없/paa+이/ecs
+10	계속될	계속+되+ㄹ	VERB	_	0	root	_	_	계속/ncpa+되/xsv+ㄹ/etm
+11	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 당시 일부 학원자율화 조치에 따라 자율적 선거로 등장한 각 대학 학생회의 연합인 전국적인 대학생연합체가 결성되어 있었다 .
+1	당시	당시	NOUN	_	5	advmod	_	_	당시/ncn
+2	일부	일부	NOUN	_	4	compound	_	_	일부/ncn
+3	학원자율화	학원+자율화	NOUN	_	4	compound	_	_	학원/ncn+자율화/ncpa
+4	조치에	조치+에	ADV	_	5	obl	_	_	조치/ncpa+에/jca
+5	따라	따르+아	SCONJ	_	8	ccomp	_	_	따르/pvg+아/ecs
+6	자율적	자율+적	NOUN	_	7	amod	_	_	자율/ncpa+적/xsn
+7	선거로	선거+로	ADV	_	8	advcl	_	_	선거/ncpa+로/jca
+8	등장한	등장+하+ㄴ	VERB	_	11	acl	_	_	등장/ncpa+하/xsv+ㄴ/etm
+9	각	각	ADJ	_	10	amod	_	_	각/mma
+10	대학	대학	NOUN	_	11	compound	_	_	대학/ncn
+11	학생회의	학생회+의	NOUN	_	12	nmod	_	_	학생회/ncn+의/jcm
+12	연합인	연합+이+ㄴ	VERB	_	14	acl	_	_	연합/ncpa+이/jp+ㄴ/etm
+13	전국적인	전국+적+이+ㄴ	VERB	_	14	acl	_	_	전국/ncn+적/xsn+이/jp+ㄴ/etm
+14	대학생연합체가	대학생+연합체+가	NOUN	_	15	nsubj	_	_	대학생/ncn+연합체/ncn+가/jcs
+15	결성되어	결성+되+어	VERB	_	0	root	_	_	결성/ncpa+되/xsv+어/ecx
+16	있었다	있+었+다	AUX	_	15	aux	_	_	있/px+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이 점이 미국으로 하여금 사태의 심각성을 인식하게끔 만든 측면을 부인할 수 없다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	점이	점+이	NOUN	_	7	nsubj	_	_	점/ncn+이/jcs
+3	미국으로	미국+으로	ADV	_	4	advcl	_	_	미국/nq+으로/jca
+4	하여금	하여금	ADV	_	7	advmod	_	_	하여금/mag
+5	사태의	사태+의	NOUN	_	6	nmod	_	_	사태/ncn+의/jcm
+6	심각성을	심각성+을	NOUN	_	7	obj	_	_	심각성/ncn+을/jco
+7	인식하게끔	인식+하+게끔	VERB	_	9	acl	_	_	인식/ncpa+하/xsv+게끔/ecx
+8	만든	만들+ㄴ	AUX	_	7	aux	_	_	만들/px+ㄴ/etm
+9	측면을	측면+을	NOUN	_	10	obj	_	_	측면/ncn+을/jco
+10	부인할	부인+하+ㄹ	VERB	_	0	root	_	_	부인/ncpa+하/xsv+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	없다	없+다	ADJ	_	10	aux	_	_	없/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 한국 카톨릭교회는 1982년 부산 미문화원 방화에 참여한 학생들에 동정을 표하는 공개성명을 냈고 , 그것은 다음과 같은 내용을 포함하고 있었다 .
+1	한국	한국	PROPN	_	2	compound	_	_	한국/nq
+2	카톨릭교회는	카톨릭+교회+는	NOUN	_	12	dislocated	_	_	카톨릭/ncn+교회/ncn+는/jxt
+3	1982년	1982+년	NOUN	_	7	advmod	_	_	1982/nno+년/nbu
+4	부산	부산	PROPN	_	5	compound	_	_	부산/nq
+5	미문화원	미문화원	NOUN	_	6	compound	_	_	미문화원/ncn
+6	방화에	방화+에	ADV	_	7	obl	_	_	방화/ncpa+에/jca
+7	참여한	참여+하+ㄴ	VERB	_	8	acl	_	_	참여/ncpa+하/xsv+ㄴ/etm
+8	학생들에	학생+들+에	ADV	_	10	obl	_	_	학생/ncn+들/xsn+에/jca
+9	동정을	동정+을	NOUN	_	10	obj	_	_	동정/ncpa+을/jco
+10	표하는	표하+는	VERB	_	11	acl	_	_	표하/pvg+는/etm
+11	공개성명을	공개+성명+을	NOUN	_	12	obj	_	_	공개/ncpa+성명/ncpa+을/jco
+12	냈고	내+ㅆ+고	CCONJ	_	18	conj	_	_	내/pvg+ㅆ/ep+고/ecc
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	그것은	그것+은	PRON	_	18	dislocated	_	_	그것/npd+은/jxt
+15	다음과	다음+과	CCONJ	_	16	conj	_	_	다음/ncn+과/jct
+16	같은	같+ㄴ	ADJ	_	17	amod	_	_	같/paa+ㄴ/etm
+17	내용을	내용+을	NOUN	_	18	obj	_	_	내용/ncn+을/jco
+18	포함하고	포함+하+고	VERB	_	0	root	_	_	포함/ncpa+하/xsv+고/ecx
+19	있었다	있+었+다	AUX	_	18	aux	_	_	있/px+었/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 문부식도 그의 법정진술에서 광주 이전에 미국이 한국에 있는 이유는 한국의 민주주의를 위해서였다고 믿었다고 말했다 .
+1	문부식도	문부식+도	ADV	_	14	advcl	_	_	문부식/nq+도/jxc
+2	그의	그+의	PRON	_	3	nmod	_	_	그/npp+의/jcm
+3	법정진술에서	법정+진술+에서	ADV	_	14	advcl	_	_	법정/ncn+진술/ncpa+에서/jca
+4	광주	광주	PROPN	_	5	compound	_	_	광주/nq
+5	이전에	이전+에	ADV	_	13	obl	_	_	이전/ncn+에/jca
+6	미국이	미국+이	PROPN	_	8	nsubj	_	_	미국/nq+이/jcs
+7	한국에	한국+에	ADV	_	8	obl	_	_	한국/nq+에/jca
+8	있는	있+는	ADJ	_	9	amod	_	_	있/paa+는/etm
+9	이유는	이유+는	NOUN	_	12	dislocated	_	_	이유/ncn+는/jxt
+10	한국의	한국+의	PROPN	_	11	nmod	_	_	한국/nq+의/jcm
+11	민주주의를	민주주의+를	NOUN	_	12	obj	_	_	민주주의/ncn+를/jco
+12	위해서였다고	위하+어서+이+었+다+고	VERB	_	13	conj	_	_	위하/pvg+어서/ecs+이/jp+었/ep+다/ef+고/jcr
+13	믿었다고	믿+었+다+고	VERB	_	14	conj	_	_	믿/pvg+었/ep+다/ef+고/jcr
+14	말했다	말하+었+다	VERB	_	0	root	_	_	말하/pvg+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그럼 광주에서 미국의 어떤 행태가 그러한 심오한 인식의 변화를 초래한 것인가 ?
+1	그럼	그럼	CCONJ	_	10	cc	_	_	그럼/maj
+2	광주에서	광주+에서	ADV	_	10	advcl	_	_	광주/nq+에서/jca
+3	미국의	미국+의	PROPN	_	5	nmod	_	_	미국/nq+의/jcm
+4	어떤	어떤	DET	_	5	det	_	_	어떤/mmd
+5	행태가	행태+가	NOUN	_	10	nsubj	_	_	행태/ncn+가/jcs
+6	그러한	그러하+ㄴ	VERB	_	8	amod	_	_	그러하/pad+ㄴ/etm
+7	심오한	심오+하+ㄴ	VERB	_	8	amod	_	_	심오/ncps+하/xsm+ㄴ/etm
+8	인식의	인식+의	NOUN	_	9	nmod	_	_	인식/ncpa+의/jcm
+9	변화를	변화+를	NOUN	_	10	obj	_	_	변화/ncpa+를/jco
+10	초래한	초래+하+ㄴ	VERB	_	0	root	_	_	초래/ncpa+하/xsv+ㄴ/etm
+11	것인가	것+이+ㄴ가	VERB	_	10	aux	_	_	것/nbn+이/jp+ㄴ가/ef
+12	?	?	PUNCT	_	11	punct	_	_	?/sf
+
+# 가장 무난하게 광주사태를 정의한다면 군사독재를 철폐하고 민주주의를 실천할 것을 요구하는 광주시민들을 군부가 무력으로 억압한 사건이라고 할 것이다 .
+1	가장	가장	ADV	_	2	advmod	_	_	가장/mag
+2	무난하게	무난+하+게	SCONJ	_	4	xcomp	_	_	무난/ncps+하/xsm+게/ecs
+3	광주사태를	광주사태+를	NOUN	_	4	obj	_	_	광주사태/ncn+를/jco
+4	정의한다면	정의+하+ㄴ다면	SCONJ	_	16	ccomp	_	_	정의/ncpa+하/xsv+ㄴ다면/ecs
+5	군사독재를	군사+독재+를	NOUN	_	6	obj	_	_	군사/ncn+독재/ncpa+를/jco
+6	철폐하고	철폐+하+고	CCONJ	_	8	conj	_	_	철폐/ncpa+하/xsv+고/ecc
+7	민주주의를	민주주의+를	NOUN	_	8	obj	_	_	민주주의/ncn+를/jco
+8	실천할	실천+하+ㄹ	VERB	_	9	acl	_	_	실천/ncpa+하/xsv+ㄹ/etm
+9	것을	것+을	NOUN	_	10	obj	_	_	것/nbn+을/jco
+10	요구하는	요구+하+는	VERB	_	11	acl	_	_	요구/ncpa+하/xsv+는/etm
+11	광주시민들을	광주+시민+들+을	PROPN	_	14	obj	_	_	광주/nq+시민/ncn+들/xsn+을/jco
+12	군부가	군부+가	NOUN	_	14	nsubj	_	_	군부/ncn+가/jcs
+13	무력으로	무력+으로	ADV	_	14	advcl	_	_	무력/ncn+으로/jca
+14	억압한	억압+하+ㄴ	VERB	_	15	acl	_	_	억압/ncpa+하/xsv+ㄴ/etm
+15	사건이라고	사건+이+라+고	VERB	_	16	conj	_	_	사건/ncn+이/jp+라/ef+고/jcr
+16	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+17	것이다	것+이+다	VERB	_	16	aux	_	_	것/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 심지어 미국이 그러한 군부통치의 지속과 , 그것에 저항하는 광주민중에 대한 유혈진압을 교사했다는 인식도 존재한다 .
+1	심지어	심지어	ADV	_	14	advmod	_	_	심지어/mag
+2	미국이	미국+이	PROPN	_	12	nsubj	_	_	미국/nq+이/jcs
+3	그러한	그러하+ㄴ	VERB	_	4	amod	_	_	그러하/pad+ㄴ/etm
+4	군부통치의	군부+통치+의	NOUN	_	5	nmod	_	_	군부/ncn+통치/ncpa+의/jcm
+5	지속과	지속+과	CCONJ	_	11	conj	_	_	지속/ncpa+과/jcj
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	그것에	그것+에	ADV	_	8	obl	_	_	그것/npd+에/jca
+8	저항하는	저항+하+는	VERB	_	9	acl	_	_	저항/ncpa+하/xsv+는/etm
+9	광주민중에	광주+민중+에	ADV	_	10	obl	_	_	광주/nq+민중/ncn+에/jca
+10	대한	대하+ㄴ	VERB	_	11	acl	_	_	대하/pvg+ㄴ/etm
+11	유혈진압을	유혈+진압+을	NOUN	_	12	obj	_	_	유혈/ncn+진압/ncpa+을/jco
+12	교사했다는	교사+하+었+다는	VERB	_	13	acl	_	_	교사/ncpa+하/xsv+었/ep+다는/etm
+13	인식도	인식+도	ADV	_	14	advcl	_	_	인식/ncpa+도/jxc
+14	존재한다	존재+하+ㄴ다	VERB	_	0	root	_	_	존재/ncpa+하/xsv+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 광주에서 군부에 대한 미국의 협조를 인식하고 있는 사람이라고 해서 모두 다 반미의 시각을 갖고 있는 것은 아니다 .
+1	광주에서	광주+에서	ADV	_	5	advcl	_	_	광주/nq+에서/jca
+2	군부에	군부+에	ADV	_	3	obl	_	_	군부/ncn+에/jca
+3	대한	대하+ㄴ	VERB	_	5	acl	_	_	대하/pvg+ㄴ/etm
+4	미국의	미국+의	PROPN	_	5	nmod	_	_	미국/nq+의/jcm
+5	협조를	협조+를	NOUN	_	6	obj	_	_	협조/ncpa+를/jco
+6	인식하고	인식+하+고	VERB	_	8	acl	_	_	인식/ncpa+하/xsv+고/ecx
+7	있는	있+는	AUX	_	6	aux	_	_	있/px+는/etm
+8	사람이라고	사람+이+라+고	VERB	_	9	conj	_	_	사람/ncn+이/jp+라/ef+고/jcr
+9	해서	하+어서	SCONJ	_	17	conj	_	_	하/pvg+어서/ecs
+10	모두	모두	ADV	_	14	advmod	_	_	모두/mag
+11	다	다	ADV	_	10	advmod	_	_	다/mag
+12	반미의	반미+의	NOUN	_	13	nmod	_	_	반미/ncn+의/jcm
+13	시각을	시각+을	NOUN	_	14	obj	_	_	시각/ncn+을/jco
+14	갖고	갖+고	VERB	_	16	acl	_	_	갖/pvg+고/ecx
+15	있는	있+는	AUX	_	14	aux	_	_	있/px+는/etm
+16	것은	것+은	NOUN	_	17	dislocated	_	_	것/nbn+은/jxt
+17	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그러한 사실을 인정하면서도 친미적인 태도를 갖는 시각은 크게 두 가지로 파악될 수 있다 .
+1	그러한	그러하+ㄴ	VERB	_	2	amod	_	_	그러하/pad+ㄴ/etm
+2	사실을	사실+을	NOUN	_	3	obj	_	_	사실/ncn+을/jco
+3	인정하면서도	인정+하+면서+도	ADV	_	6	ccomp	_	_	인정/ncpa+하/xsv+면서/ecc+도/jxc
+4	친미적인	친미+적+이+ㄴ	VERB	_	5	acl	_	_	친미/ncn+적/xsn+이/jp+ㄴ/etm
+5	태도를	태도+를	NOUN	_	6	obj	_	_	태도/ncn+를/jco
+6	갖는	갖+는	VERB	_	7	acl	_	_	갖/pvg+는/etm
+7	시각은	시각+은	NOUN	_	11	dislocated	_	_	시각/ncn+은/jxt
+8	크게	크+게	SCONJ	_	11	xcomp	_	_	크/paa+게/ecs
+9	두	두	NUM	_	10	nummod	_	_	두/nnc
+10	가지로	가지+로	ADV	_	11	advcl	_	_	가지/nbu+로/jca
+11	파악될	파악+되+ㄹ	VERB	_	0	root	_	_	파악/ncpa+되/xsv+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있다	있+다	ADJ	_	11	aux	_	_	있/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그 첫째는 미국은 당연히 할 일을 했다고 보는 입장이다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	첫째는	첫째+는	NUM	_	9	dislocated	_	_	첫째/nno+는/jxt
+3	미국은	미국+은	PROPN	_	7	dislocated	_	_	미국/nq+은/jxt
+4	당연히	당연+히	ADV	_	7	advmod	_	_	당연/ncps+히/xsa
+5	할	하+ㄹ	VERB	_	6	acl	_	_	하/pvg+ㄹ/etm
+6	일을	일+을	NOUN	_	7	obj	_	_	일/ncpa+을/jco
+7	했다고	하+었+다+고	VERB	_	8	conj	_	_	하/pvg+었/ep+다/ef+고/jcr
+8	보는	보+는	VERB	_	9	ccomp	_	_	보/pvg+는/etm
+9	입장이다	입장+이+다	VERB	_	0	root	_	_	입장/ncn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이 입장은 특히 북한과의 대결이라는 안보상황을 이유로 내걸면서 광주에서 시민시위에 대한 군부의 무력진압은 불가피하고 당연한 조치였다고 믿는다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	입장은	입장+은	NOUN	_	17	dislocated	_	_	입장/ncn+은/jxt
+3	특히	특히	ADV	_	8	advmod	_	_	특히/mag
+4	북한과의	북한+과+의	PROPN	_	5	nmod	_	_	북한/nq+과/jct+의/jcm
+5	대결이라는	대결+이+라는	VERB	_	6	acl	_	_	대결/ncpa+이/jp+라는/etm
+6	안보상황을	안보+상황+을	NOUN	_	8	obj	_	_	안보/ncn+상황/ncn+을/jco
+7	이유로	이유+로	ADV	_	8	advcl	_	_	이유/ncn+로/jca
+8	내걸면서	내걸+면서	CCONJ	_	17	conj	_	_	내걸/pvg+면서/ecc
+9	광주에서	광주+에서	ADV	_	16	advcl	_	_	광주/nq+에서/jca
+10	시민시위에	시민+시위+에	ADV	_	11	obl	_	_	시민/ncn+시위/ncpa+에/jca
+11	대한	대하+ㄴ	VERB	_	13	acl	_	_	대하/pvg+ㄴ/etm
+12	군부의	군부+의	NOUN	_	13	nmod	_	_	군부/ncn+의/jcm
+13	무력진압은	무력+진압+은	NOUN	_	14	dislocated	_	_	무력/ncn+진압/ncpa+은/jxt
+14	불가피하고	불가피+하+고	CCONJ	_	16	conj	_	_	불가피/ncps+하/xsm+고/ecc
+15	당연한	당연+하+ㄴ	VERB	_	16	amod	_	_	당연/ncps+하/xsm+ㄴ/etm
+16	조치였다고	조치+이+었+다+고	VERB	_	17	conj	_	_	조치/ncpa+이/jp+었/ep+다/ef+고/jcr
+17	믿는다	믿+는다	VERB	_	0	root	_	_	믿/pvg+는다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그러나 이 입장을 미국의 이런 행태는 일회적인 것에 불과했던 것으로 본다 .
+1	그러나	그러나	CCONJ	_	11	cc	_	_	그러나/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	입장을	입장+은	NOUN	_	11	dislocated	_	_	입장/ncn+은/jxt
+4	미국의	미국+의	PROPN	_	6	nmod	_	_	미국/nq+의/jcm
+5	이런	이런	DET	_	6	det	_	_	이런/mmd
+6	행태는	행태+는	NOUN	_	9	dislocated	_	_	행태/ncn+는/jxt
+7	일회적인	일회+적+이+ㄴ	VERB	_	8	acl	_	_	일회/ncn+적/xsn+이/jp+ㄴ/etm
+8	것에	것+에	ADV	_	9	obl	_	_	것/nbn+에/jca
+9	불과했던	불과+하+었+던	VERB	_	10	amod	_	_	불과/ncps+하/xsm+었/ep+던/etm
+10	것으로	것+으로	ADV	_	11	advcl	_	_	것/nbn+으로/jca
+11	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 또는 광주라는 특수한 상황에서는 미국이 달리 행동하기 어려웠던 점을 인식해야 하기 때문에 이로부터 미국은 군사독재의 파수꾼이라는 반미적인 일반론을 이끌어내는 것은 무리한 논리적 비약이라고 생각한다 .
+1	또는	또는	CCONJ	_	24	cc	_	_	또는/maj
+2	광주라는	광주+이+라는	VERB	_	4	acl	_	_	광주/nq+이/jp+라는/etm
+3	특수한	특수+하+ㄴ	VERB	_	4	amod	_	_	특수/ncps+하/xsm+ㄴ/etm
+4	상황에서는	상황+에서+는	NOUN	_	8	dislocated	_	_	상황/ncn+에서/jca+는/jxt
+5	미국이	미국+이	PROPN	_	7	nsubj	_	_	미국/nq+이/jcs
+6	달리	달리	ADV	_	7	advmod	_	_	달리/mag
+7	행동하기	행동+하+기	VERB	_	8	nmod	_	_	행동/ncpa+하/xsv+기/etn
+8	어려웠던	어렵+었+던	ADJ	_	9	amod	_	_	어렵/paa+었/ep+던/etm
+9	점을	점+을	NOUN	_	10	obj	_	_	점/ncn+을/jco
+10	인식해야	인식+하+어야	VERB	_	12	dep	_	_	인식/ncpa+하/xsv+어야/ecx
+11	하기	하+기	AUX	_	10	aux	_	_	하/px+기/etn
+12	때문에	때문+에	ADV	_	23	obl	_	_	때문/nbn+에/jca
+13	이로부터	이+로+부터	ADV	_	19	advcl	_	_	이/npd+로/jca+부터/jxc
+14	미국은	미국+은	PROPN	_	16	dislocated	_	_	미국/nq+은/jxt
+15	군사독재의	군사+독재+의	NOUN	_	16	nmod	_	_	군사/ncn+독재/ncpa+의/jcm
+16	파수꾼이라는	파수꾼+이+라는	VERB	_	18	acl	_	_	파수꾼/ncn+이/jp+라는/etm
+17	반미적인	반미+적+이+ㄴ	VERB	_	18	acl	_	_	반미/ncn+적/xsn+이/jp+ㄴ/etm
+18	일반론을	일반론+을	NOUN	_	19	obj	_	_	일반론/ncn+을/jco
+19	이끌어내는	이끌+어+내+는	AUX	_	20	acl	_	_	이끌/pvg+어/ecx+내/px+는/etm
+20	것은	것+은	NOUN	_	23	dislocated	_	_	것/nbn+은/jxt
+21	무리한	무리+하+ㄴ	VERB	_	23	amod	_	_	무리/ncps+하/xsm+ㄴ/etm
+22	논리적	논리+적	NOUN	_	23	amod	_	_	논리/ncn+적/xsn
+23	비약이라고	비약+이+라+고	VERB	_	24	conj	_	_	비약/ncpa+이/jp+라/ef+고/jcr
+24	생각한다	생각+하+ㄴ다	VERB	_	0	root	_	_	생각/ncpa+하/xsv+ㄴ다/ef
+25	.	.	PUNCT	_	24	punct	_	_	./sf
+
+# 이 시각은 미국이 일반적으로는 민주주의 편에 서왔다는 이미지에 기초해 있다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	시각은	시각+은	NOUN	_	9	dislocated	_	_	시각/ncn+은/jxt
+3	미국이	미국+이	PROPN	_	7	nsubj	_	_	미국/nq+이/jcs
+4	일반적으로는	일반+적+으로+는	NOUN	_	7	dislocated	_	_	일반/ncn+적/xsn+으로/jca+는/jxt
+5	민주주의	민주주의	NOUN	_	6	compound	_	_	민주주의/ncn
+6	편에	편+에	ADV	_	7	obl	_	_	편/ncn+에/jca
+7	서왔다는	서+어+오+았+다는	AUX	_	8	acl	_	_	서/pvg+어/ecx+오/px+았/ep+다는/etm
+8	이미지에	이미지+에	ADV	_	9	obl	_	_	이미지/ncn+에/jca
+9	기초해	기초하+어	VERB	_	0	root	_	_	기초하/pvg+어/ecx
+10	있다	있+다	AUX	_	9	aux	_	_	있/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이들의 미국관의 저변에는 미국의 현란한 부와 세련된 민주주의 이미지가 있다 .
+1	이들의	이+들+의	PRON	_	2	nmod	_	_	이/npp+들/xsn+의/jcm
+2	미국관의	미국관+의	NOUN	_	3	nmod	_	_	미국관/ncn+의/jcm
+3	저변에는	저변+에+는	NOUN	_	10	dislocated	_	_	저변/ncn+에/jca+는/jxt
+4	미국의	미국+의	PROPN	_	9	nmod	_	_	미국/nq+의/jcm
+5	현란한	현란+하+ㄴ	VERB	_	6	amod	_	_	현란/ncps+하/xsm+ㄴ/etm
+6	부와	부+와	CCONJ	_	9	conj	_	_	부/ncn+와/jcj
+7	세련된	세련되+ㄴ	ADJ	_	9	amod	_	_	세련되/paa+ㄴ/etm
+8	민주주의	민주주의	NOUN	_	9	compound	_	_	민주주의/ncn
+9	이미지가	이미지+가	NOUN	_	10	nsubj	_	_	이미지/ncn+가/jcs
+10	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그리고 대외적으로는 인권외교 또는 도덕주의 등의 개념들이 깊이 잠재해 있다 .
+1	그리고	그리고	CCONJ	_	9	cc	_	_	그리고/maj
+2	대외적으로는	대외+적+으로+는	NOUN	_	9	dislocated	_	_	대외/ncn+적/xsn+으로/jca+는/jxt
+3	인권외교	인권외교	NOUN	_	5	conj	_	_	인권외교/ncn
+4	또는	또는	CCONJ	_	5	cc	_	_	또는/maj
+5	도덕주의	도덕주의	NOUN	_	6	compound	_	_	도덕주의/ncn
+6	등의	등+의	NOUN	_	7	nmod	_	_	등/nbn+의/jcm
+7	개념들이	개념+들+이	NOUN	_	9	nsubj	_	_	개념/ncn+들/xsn+이/jcs
+8	깊이	깊+이	SCONJ	_	9	xcomp	_	_	깊/paa+이/ecs
+9	잠재해	잠재+하+어	VERB	_	0	root	_	_	잠재/ncpa+하/xsv+어/ecx
+10	있다	있+다	AUX	_	9	aux	_	_	있/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이러한 미국관은 광주에서의 한국군부에 대한 미국의 협조를 권위주의적 친미관처럼 폭동진압을 위한 당연한 조치였다고 보지는 않는다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	미국관은	미국관+은	NOUN	_	14	dislocated	_	_	미국관/ncn+은/jxt
+3	광주에서의	광주+에서+의	PROPN	_	7	nmod	_	_	광주/nq+에서/jca+의/jcm
+4	한국군부에	한국+군부+에	ADV	_	5	obl	_	_	한국/nq+군부/ncn+에/jca
+5	대한	대하+ㄴ	VERB	_	7	acl	_	_	대하/pvg+ㄴ/etm
+6	미국의	미국+의	PROPN	_	7	nmod	_	_	미국/nq+의/jcm
+7	협조를	협조+를	NOUN	_	14	obj	_	_	협조/ncpa+를/jco
+8	권위주의적	권위주의+적	NOUN	_	9	amod	_	_	권위주의/ncn+적/xsn
+9	친미관처럼	친미관+처럼	ADV	_	14	advcl	_	_	친미관/ncn+처럼/jca
+10	폭동진압을	폭동+진압+을	NOUN	_	11	obj	_	_	폭동/ncn+진압/ncpa+을/jco
+11	위한	위하+ㄴ	VERB	_	13	acl	_	_	위하/pvg+ㄴ/etm
+12	당연한	당연+하+ㄴ	VERB	_	13	amod	_	_	당연/ncps+하/xsm+ㄴ/etm
+13	조치였다고	조치+이+었+다+고	VERB	_	14	conj	_	_	조치/ncpa+이/jp+었/ep+다/ef+고/jcr
+14	보지는	보+지+는	NOUN	_	0	root	_	_	보/pvg+지/ecx+는/jxt
+15	않는다	않+는다	AUX	_	14	aux	_	_	않/px+는다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+

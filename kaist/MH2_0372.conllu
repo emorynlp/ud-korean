@@ -1,0 +1,2392 @@
+# 그 세미나에는 한스한 , 노이라트 , 크라프트 , 프랑크 , 파이글 , 괴델 , 카르납 등이 활동했으며 1930 년경 하나의 강력한 철학 운동으로 발전해 갔다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	세미나에는	세미나+에+는	NOUN	_	17	dislocated	_	_	세미나/ncn+에/jca+는/jxt
+3	한스한	한스한	PROPN	_	5	conj	_	_	한스한/nq
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	노이라트	노이라트	PROPN	_	7	conj	_	_	노이라트/nq
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	크라프트	크라프트	PROPN	_	9	conj	_	_	크라프트/nq
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	프랑크	프랑크	PROPN	_	11	conj	_	_	프랑크/nq
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	파이글	파이글	PROPN	_	13	conj	_	_	파이글/nq
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	괴델	괴델	PROPN	_	15	conj	_	_	괴델/nq
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	카르납	카르납	PROPN	_	16	compound	_	_	카르납/nq
+16	등이	등+이	NOUN	_	17	nsubj	_	_	등/nbn+이/jcs
+17	활동했으며	활동+하+었+으며	CCONJ	_	24	conj	_	_	활동/ncpa+하/xsv+었/ep+으며/ecc
+18	1930	1930	NUM	_	19	nummod	_	_	1930/nno
+19	년경	년+경	NOUN	_	24	advmod	_	_	년/nbu+경/xsn
+20	하나의	하나+의	NUM	_	23	nmod	_	_	하나/nnc+의/jcm
+21	강력한	강력+하+ㄴ	VERB	_	23	amod	_	_	강력/ncps+하/xsm+ㄴ/etm
+22	철학	철학	NOUN	_	23	compound	_	_	철학/ncn
+23	운동으로	운동+으로	ADV	_	24	advcl	_	_	운동/ncpa+으로/jca
+24	발전해	발전+하+어	VERB	_	0	root	_	_	발전/ncpa+하/xsv+어/ecx
+25	갔다	가+ㅆ+다	AUX	_	24	aux	_	_	가/px+ㅆ/ep+다/ef
+26	.	.	PUNCT	_	25	punct	_	_	./sf
+
+# 포퍼는 논리 실증주의자가 한창 성가를 발휘하고 있던 이러한 시절에서 그의 학문적 생애를 시작했다 .
+1	포퍼는	포퍼+는	PROPN	_	13	dislocated	_	_	포퍼/nq+는/jxt
+2	논리	논리	NOUN	_	3	compound	_	_	논리/ncn
+3	실증주의자가	실증주의자+가	NOUN	_	6	nsubj	_	_	실증주의자/ncn+가/jcs
+4	한창	한창	ADV	_	6	advmod	_	_	한창/mag
+5	성가를	성가+를	NOUN	_	6	obj	_	_	성가/ncn+를/jco
+6	발휘하고	발휘+하+고	VERB	_	9	acl	_	_	발휘/ncpa+하/xsv+고/ecx
+7	있던	있+던	AUX	_	6	aux	_	_	있/px+던/etm
+8	이러한	이러하+ㄴ	VERB	_	9	amod	_	_	이러하/pad+ㄴ/etm
+9	시절에서	시절+에서	ADV	_	13	advcl	_	_	시절/ncn+에서/jca
+10	그의	그+의	PRON	_	12	nmod	_	_	그/npp+의/jcm
+11	학문적	학문+적	NOUN	_	12	amod	_	_	학문/ncpa+적/xsn
+12	생애를	생애+를	NOUN	_	13	obj	_	_	생애/ncn+를/jco
+13	시작했다	시작+하+었+다	VERB	_	0	root	_	_	시작/ncpa+하/xsv+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그리고 그의 처녀작인 탐구논리가 1935 년 이 학파에서 발행하는 총서의 한 권으로 출간되기도 했다 .
+1	그리고	그리고	CCONJ	_	14	cc	_	_	그리고/maj
+2	그의	그+의	PRON	_	3	nmod	_	_	그/npp+의/jcm
+3	처녀작인	처녀작+이+ㄴ	VERB	_	4	acl	_	_	처녀작/ncn+이/jp+ㄴ/etm
+4	탐구논리가	탐구논리+가	PROPN	_	13	nsubj	_	_	탐구논리/nq+가/jcs
+5	1935	1935	NUM	_	6	nummod	_	_	1935/nno
+6	년	년	NOUN	_	13	advmod	_	_	년/nbu
+7	이	이	DET	_	8	det	_	_	이/mmd
+8	학파에서	학파+에서	ADV	_	9	advcl	_	_	학파/ncn+에서/jca
+9	발행하는	발행+하+는	VERB	_	10	acl	_	_	발행/ncpa+하/xsv+는/etm
+10	총서의	총서+의	NOUN	_	12	nmod	_	_	총서/ncn+의/jcm
+11	한	한	NUM	_	12	nummod	_	_	한/nnc
+12	권으로	권+으로	ADV	_	13	advcl	_	_	권/nbu+으로/jca
+13	출간되기도	출간+되+기+도	ADV	_	14	advcl	_	_	출간/ncpa+되/xsv+기/etn+도/jxc
+14	했다	하+었+다	VERB	_	0	root	_	_	하/pvg+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그러나 그는 그 학파의 정규 멤버가 된 적이 없으며 그 학파에 대해서 항상 비판적 국외자로 머물렀다 .
+1	그러나	그러나	CCONJ	_	16	cc	_	_	그러나/maj
+2	그는	그+는	PRON	_	16	dislocated	_	_	그/npp+는/jxt
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	학파의	학파+의	NOUN	_	6	nmod	_	_	학파/ncn+의/jcm
+5	정규	정규	NOUN	_	6	compound	_	_	정규/ncn
+6	멤버가	멤버+가	NOUN	_	7	csubj	_	_	멤버/ncn+가/jcc
+7	된	되+ㄴ	VERB	_	8	acl	_	_	되/pvg+ㄴ/etm
+8	적이	적+이	NOUN	_	9	nsubj	_	_	적/nbn+이/jcs
+9	없으며	없+으며	CCONJ	_	16	conj	_	_	없/paa+으며/ecc
+10	그	그	DET	_	11	det	_	_	그/mmd
+11	학파에	학파+에	ADV	_	12	obl	_	_	학파/ncn+에/jca
+12	대해서	대하+어서	SCONJ	_	16	ccomp	_	_	대하/pvg+어서/ecs
+13	항상	항상	ADV	_	16	advmod	_	_	항상/mag
+14	비판적	비판+적	NOUN	_	15	amod	_	_	비판/ncpa+적/xsn
+15	국외자로	국외자+로	ADV	_	16	advcl	_	_	국외자/ncn+로/jca
+16	머물렀다	머무르+었+다	VERB	_	0	root	_	_	머무르/pvg+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 사실 그는 그 당시 논리 실증주의 철학은 새로운 의상을 걸친 ' 의사 수콜라시즘 ' 이고 ' 언어 지상주의 ' 로 전락할 것이라는 비판을 서슴지 않았다 .
+1	사실	사실	NOUN	_	24	advmod	_	_	사실/ncn
+2	그는	그+는	PRON	_	24	dislocated	_	_	그/npp+는/jxt
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	당시	당시	NOUN	_	24	advmod	_	_	당시/ncn
+5	논리	논리	NOUN	_	6	compound	_	_	논리/ncn
+6	실증주의	실증+주의	NOUN	_	7	compound	_	_	실증/ncpa+주의/ncn
+7	철학은	철학+은	NOUN	_	21	dislocated	_	_	철학/ncn+은/jxt
+8	새로운	새롭+ㄴ	ADJ	_	9	amod	_	_	새롭/paa+ㄴ/etm
+9	의상을	의상+을	NOUN	_	10	obj	_	_	의상/ncn+을/jco
+10	걸친	걸치+ㄴ	VERB	_	13	ccomp	_	_	걸치/pvg+ㄴ/etm
+11	'	'	PUNCT	_	12	punct	_	_	'/sl
+12	의사	의사	NOUN	_	13	compound	_	_	의사/ncn
+13	수콜라시즘	수콜라시즘	NOUN	_	21	conj	_	_	수콜라시즘/ncn
+14	'	'	PUNCT	_	13	punct	_	_	'/sr
+15	이고	이+고	ADP	_	13	cop	_	_	이/jp+고/ecc
+16	'	'	PUNCT	_	17	punct	_	_	'/sl
+17	언어	언어	NOUN	_	18	compound	_	_	언어/ncn
+18	지상주의	지상+주의	NOUN	_	21	advcl	_	_	지상/ncn+주의/ncn
+19	'	'	PUNCT	_	18	punct	_	_	'/sr
+20	로	로	ADP	_	18	case	_	_	로/jca
+21	전락할	전락+하+ㄹ	VERB	_	23	acl	_	_	전락/ncpa+하/xsv+ㄹ/etm
+22	것이라는	것+이+라는	VERB	_	21	aux	_	_	것/nbn+이/jp+라는/etm
+23	비판을	비판+을	NOUN	_	24	obj	_	_	비판/ncpa+을/jco
+24	서슴지	서슴+지	VERB	_	0	root	_	_	서슴/pvg+지/ecx
+25	않았다	않+았+다	AUX	_	24	aux	_	_	않/px+았/ep+다/ef
+26	.	.	PUNCT	_	25	punct	_	_	./sf
+
+# 그러나 이러한 비판은 그 당시 논리 실증주의의 진행 경로에 별다른 영향을 주지는 못했다 .
+1	그러나	그러나	CCONJ	_	12	cc	_	_	그러나/maj
+2	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+3	비판은	비판+은	NOUN	_	12	dislocated	_	_	비판/ncpa+은/jxt
+4	그	그	DET	_	5	det	_	_	그/mmd
+5	당시	당시	NOUN	_	12	advmod	_	_	당시/ncn
+6	논리	논리	NOUN	_	7	compound	_	_	논리/ncn
+7	실증주의의	실증+주의+의	NOUN	_	9	nmod	_	_	실증/ncpa+주의/ncn+의/jcm
+8	진행	진행	NOUN	_	9	compound	_	_	진행/ncpa
+9	경로에	경로+에	ADV	_	12	obl	_	_	경로/ncn+에/jca
+10	별다른	별다르+ㄴ	ADJ	_	11	amod	_	_	별다르/paa+ㄴ/etm
+11	영향을	영향+을	NOUN	_	12	obj	_	_	영향/ncn+을/jco
+12	주지는	주+지+는	NOUN	_	0	root	_	_	주/pvg+지/ecx+는/jxt
+13	못했다	못하+었+다	AUX	_	12	aux	_	_	못하/px+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 포퍼 철학의 특이한 점은 그것이 철학자들보다 오히려 분과 학문의 학자들에게 오늘날 여타의 철학에서는 찾아보기 어려운 강한 영향력을 행사하고 있다는 점이다 .
+1	포퍼	포퍼	PROPN	_	2	compound	_	_	포퍼/nq
+2	철학의	철학+의	NOUN	_	4	nmod	_	_	철학/ncn+의/jcm
+3	특이한	특이+하+ㄴ	VERB	_	4	amod	_	_	특이/ncps+하/xsm+ㄴ/etm
+4	점은	점+은	NOUN	_	20	dislocated	_	_	점/ncn+은/jxt
+5	그것이	그것+이	PRON	_	18	nsubj	_	_	그것/npd+이/jcs
+6	철학자들보다	철학자+들+보다	ADV	_	18	advcl	_	_	철학자/ncn+들/xsn+보다/jca
+7	오히려	오히려	ADV	_	18	advmod	_	_	오히려/mag
+8	분과	분과	NOUN	_	9	compound	_	_	분과/ncpa
+9	학문의	학문+의	NOUN	_	10	nmod	_	_	학문/ncpa+의/jcm
+10	학자들에게	학자+들+에게	ADV	_	18	iobj	_	_	학자/ncn+들/xsn+에게/jca
+11	오늘날	오늘날	NOUN	_	18	advmod	_	_	오늘날/ncn
+12	여타의	여타+의	NOUN	_	13	nmod	_	_	여타/ncn+의/jcm
+13	철학에서는	철학+에서+는	NOUN	_	14	dislocated	_	_	철학/ncn+에서/jca+는/jxt
+14	찾아보기	찾+아+보+기	AUX	_	15	nmod	_	_	찾/pvg+아/ecx+보/px+기/etn
+15	어려운	어렵+ㄴ	ADJ	_	17	amod	_	_	어렵/paa+ㄴ/etm
+16	강한	강하+ㄴ	ADJ	_	17	amod	_	_	강하/paa+ㄴ/etm
+17	영향력을	영향력+을	NOUN	_	18	obj	_	_	영향력/ncn+을/jco
+18	행사하고	행사+하+고	VERB	_	20	ccomp	_	_	행사/ncpa+하/xsv+고/ecx
+19	있다는	있+다는	AUX	_	18	aux	_	_	있/px+다는/etm
+20	점이다	점+이+다	VERB	_	0	root	_	_	점/ncn+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그 외 탁월한 미술사가인 곰브리치 , 노벨 경제학상 수상자인 하이에크 등도 들지 않을 수 없다 .
+1	그	그	PRON	_	2	compound	_	_	그/npd
+2	외	외	NOUN	_	11	compound	_	_	외/ncn
+3	탁월한	탁월+하+ㄴ	VERB	_	4	amod	_	_	탁월/ncps+하/xsm+ㄴ/etm
+4	미술사가인	미술사가+이+ㄴ	VERB	_	5	acl	_	_	미술사가/ncn+이/jp+ㄴ/etm
+5	곰브리치	곰브리치	PROPN	_	10	flat	_	_	곰브리치/nq
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	노벨	노벨	PROPN	_	8	compound	_	_	노벨/nq
+8	경제학상	경제학상	NOUN	_	9	compound	_	_	경제학상/ncn
+9	수상자인	수상자+이+ㄴ	VERB	_	10	acl	_	_	수상자/ncn+이/jp+ㄴ/etm
+10	하이에크	하이에크	PROPN	_	11	compound	_	_	하이에크/nq
+11	등도	등+도	ADV	_	12	advcl	_	_	등/nbn+도/jxc
+12	들지	들+지	VERB	_	0	root	_	_	들/pvg+지/ecx
+13	않을	않+ㄹ	AUX	_	12	aux	_	_	않/px+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	없다	없+다	ADJ	_	12	aux	_	_	없/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이클즈는 실재와 마주서서 다음과 같은 최고의 찬사를 포퍼에게 보내고 있다 .
+1	이클즈는	이클즈+는	PROPN	_	9	dislocated	_	_	이클즈/nq+는/jxt
+2	실재와	실재+와	CCONJ	_	3	conj	_	_	실재/ncpa+와/jct
+3	마주서서	마주서+서	SCONJ	_	9	ccomp	_	_	마주서/pvg+서/ecs
+4	다음과	다음+과	CCONJ	_	5	conj	_	_	다음/ncn+과/jct
+5	같은	같+ㄴ	ADJ	_	7	amod	_	_	같/paa+ㄴ/etm
+6	최고의	최고+의	NOUN	_	7	nmod	_	_	최고/ncn+의/jcm
+7	찬사를	찬사+를	NOUN	_	9	obj	_	_	찬사/ncn+를/jco
+8	포퍼에게	포퍼+에게	ADV	_	9	iobj	_	_	포퍼/nq+에게/jca
+9	보내고	보내+고	VERB	_	0	root	_	_	보내/pvg+고/ecx
+10	있다	있+다	AUX	_	9	aux	_	_	있/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 포퍼의 철학의 이러한 철학 외부 영역에 대한 강한 영향은 우연한 것이 아니며 포퍼 자신의 철학 하는 태도와 밀접하게 관련되어 있다 .
+1	포퍼의	포퍼+의	PROPN	_	2	nmod	_	_	포퍼/nq+의/jcm
+2	철학의	철학+의	NOUN	_	9	nmod	_	_	철학/ncn+의/jcm
+3	이러한	이러하+ㄴ	VERB	_	9	amod	_	_	이러하/pad+ㄴ/etm
+4	철학	철학	NOUN	_	5	compound	_	_	철학/ncn
+5	외부	외부	NOUN	_	6	compound	_	_	외부/ncn
+6	영역에	영역+에	ADV	_	7	obl	_	_	영역/ncn+에/jca
+7	대한	대하+ㄴ	VERB	_	9	acl	_	_	대하/pvg+ㄴ/etm
+8	강한	강하+ㄴ	ADJ	_	9	amod	_	_	강하/paa+ㄴ/etm
+9	영향은	영향+은	NOUN	_	19	dislocated	_	_	영향/ncn+은/jxt
+10	우연한	우연+하+ㄴ	VERB	_	11	amod	_	_	우연/ncps+하/xsm+ㄴ/etm
+11	것이	것+이	NOUN	_	12	csubj	_	_	것/nbn+이/jcc
+12	아니며	아니+며	CCONJ	_	19	conj	_	_	아니/paa+며/ecc
+13	포퍼	포퍼	PROPN	_	14	compound	_	_	포퍼/nq
+14	자신의	자신+의	NOUN	_	17	nmod	_	_	자신/ncn+의/jcm
+15	철학	철학	NOUN	_	16	dep	_	_	철학/ncn
+16	하는	하+는	VERB	_	17	acl	_	_	하/pvg+는/etm
+17	태도와	태도+와	CCONJ	_	18	conj	_	_	태도/ncn+와/jct
+18	밀접하게	밀접+하+게	SCONJ	_	19	xcomp	_	_	밀접/ncps+하/xsm+게/ecs
+19	관련되어	관련+되+어	VERB	_	0	root	_	_	관련/ncpa+되/xsv+어/ecx
+20	있다	있+다	AUX	_	19	aux	_	_	있/px+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그에 따르면 철학의 문제는 항상 철학 밖에 있으며 철학의 문제를 철학 속에서만 갖고 있는 철학은 마치 근친 교배처럼 퇴행하기 쉽다 .
+1	그에	그+에	ADV	_	2	obl	_	_	그/npp+에/jca
+2	따르면	따르+면	SCONJ	_	20	conj	_	_	따르/pvg+면/ecs
+3	철학의	철학+의	NOUN	_	4	nmod	_	_	철학/ncn+의/jcm
+4	문제는	문제+는	NOUN	_	8	dislocated	_	_	문제/ncn+는/jxt
+5	항상	항상	ADV	_	8	advmod	_	_	항상/mag
+6	철학	철학	NOUN	_	7	compound	_	_	철학/ncn
+7	밖에	밖+에	ADV	_	8	obl	_	_	밖/ncn+에/jca
+8	있으며	있+으며	CCONJ	_	20	conj	_	_	있/paa+으며/ecc
+9	철학의	철학+의	NOUN	_	10	nmod	_	_	철학/ncn+의/jcm
+10	문제를	문제+를	NOUN	_	13	obj	_	_	문제/ncn+를/jco
+11	철학	철학	NOUN	_	12	compound	_	_	철학/ncn
+12	속에서만	속+에서+만	ADV	_	13	advcl	_	_	속/ncn+에서/jca+만/jxc
+13	갖고	갖+고	VERB	_	15	acl	_	_	갖/pvg+고/ecx
+14	있는	있+는	AUX	_	13	aux	_	_	있/px+는/etm
+15	철학은	철학+은	NOUN	_	20	dislocated	_	_	철학/ncn+은/jxt
+16	마치	마치	ADV	_	18	advmod	_	_	마치/mag
+17	근친	근친	NOUN	_	18	compound	_	_	근친/ncn
+18	교배처럼	교배+처럼	ADV	_	20	advcl	_	_	교배/ncpa+처럼/jca
+19	퇴행하기	퇴행+하+기	VERB	_	20	nmod	_	_	퇴행/ncpa+하/xsv+기/etn
+20	쉽다	쉽+다	ADJ	_	0	root	_	_	쉽/paa+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그는 언어 분석 학파를 비판하는 가운데서 다음과 같이 말하고 있다 .
+1	그는	그+는	PRON	_	9	dislocated	_	_	그/npp+는/jxt
+2	언어	언어	NOUN	_	3	compound	_	_	언어/ncn
+3	분석	분석	NOUN	_	4	compound	_	_	분석/ncpa
+4	학파를	학파+를	NOUN	_	5	obj	_	_	학파/ncn+를/jco
+5	비판하는	비판+하+는	VERB	_	6	acl	_	_	비판/ncpa+하/xsv+는/etm
+6	가운데서	가운데+서	ADV	_	9	advcl	_	_	가운데/ncn+서/jca
+7	다음과	다음+과	CCONJ	_	8	conj	_	_	다음/ncn+과/jct
+8	같이	같+이	SCONJ	_	9	xcomp	_	_	같/paa+이/ecs
+9	말하고	말하+고	VERB	_	0	root	_	_	말하/pvg+고/ecx
+10	있다	있+다	AUX	_	9	aux	_	_	있/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그 문제를 해결하려는 노력의 과정에서 철학자들은 철학적 방법이나 테크닉 , 혹은 철학적 성공이 필연적으로 보장되는 열쇠를 찾으려고 하기 쉽다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	문제를	문제+를	NOUN	_	3	obj	_	_	문제/ncn+를/jco
+3	해결하려는	해결+하+려는	VERB	_	4	acl	_	_	해결/ncpa+하/xsv+려는/etm
+4	노력의	노력+의	NOUN	_	5	nmod	_	_	노력/ncpa+의/jcm
+5	과정에서	과정+에서	ADV	_	19	advcl	_	_	과정/ncn+에서/jca
+6	철학자들은	철학자+들+은	NOUN	_	19	dislocated	_	_	철학자/ncn+들/xsn+은/jxt
+7	철학적	철학+적	NOUN	_	8	amod	_	_	철학/ncn+적/xsn
+8	방법이나	방법+이나	CCONJ	_	9	conj	_	_	방법/ncn+이나/jcj
+9	테크닉	테크닉	NOUN	_	13	conj	_	_	테크닉/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	혹은	혹은	CCONJ	_	13	cc	_	_	혹은/maj
+12	철학적	철학+적	NOUN	_	13	amod	_	_	철학/ncn+적/xsn
+13	성공이	성공+이	NOUN	_	15	nsubj	_	_	성공/ncpa+이/jcs
+14	필연적으로	필연+적+으로	ADV	_	15	advcl	_	_	필연/ncps+적/xsn+으로/jca
+15	보장되는	보장+되+는	VERB	_	16	acl	_	_	보장/ncpa+되/xsv+는/etm
+16	열쇠를	열쇠+를	NOUN	_	17	obj	_	_	열쇠/ncn+를/jco
+17	찾으려고	찾+으려고	VERB	_	19	ccomp	_	_	찾/pvg+으려고/ecx
+18	하기	하+기	AUX	_	17	aux	_	_	하/px+기/etn
+19	쉽다	쉽+다	ADJ	_	0	root	_	_	쉽/paa+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 그러나 그러한 방법이나 테크닉은 존재하지 않는다 .
+1	그러나	그러나	CCONJ	_	5	cc	_	_	그러나/maj
+2	그러한	그러하+ㄴ	VERB	_	4	amod	_	_	그러하/pad+ㄴ/etm
+3	방법이나	방법+이나	CCONJ	_	4	conj	_	_	방법/ncn+이나/jcj
+4	테크닉은	테크닉+은	NOUN	_	5	dislocated	_	_	테크닉/ncn+은/jxt
+5	존재하지	존재+하+지	VERB	_	0	root	_	_	존재/ncpa+하/xsv+지/ecx
+6	않는다	않+는다	AUX	_	5	aux	_	_	않/px+는다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 철학에 있어서 방법은 중요하지 않다 .
+1	철학에	철학+에	ADV	_	2	obl	_	_	철학/ncn+에/jca
+2	있어서	있+어서	SCONJ	_	4	xcomp	_	_	있/paa+어서/ecs
+3	방법은	방법+은	NOUN	_	4	dislocated	_	_	방법/ncn+은/jxt
+4	중요하지	중요+하+지	VERB	_	0	root	_	_	중요/ncps+하/xsm+지/ecx
+5	않다	않+다	AUX	_	4	aux	_	_	않/px+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그 방법이 합리적으로 논의될 수 있는 결과를 산출한다면 단지 그것으로 그 방법은 정당화될 수 있다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	방법이	방법+이	NOUN	_	8	nsubj	_	_	방법/ncn+이/jcs
+3	합리적으로	합리+적+으로	ADV	_	4	advcl	_	_	합리/ncn+적/xsn+으로/jca
+4	논의될	논의+되+ㄹ	VERB	_	7	acl	_	_	논의/ncpa+되/xsv+ㄹ/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	있는	있+는	ADJ	_	4	aux	_	_	있/paa+는/etm
+7	결과를	결과+를	NOUN	_	8	obj	_	_	결과/ncn+를/jco
+8	산출한다면	산출+하+ㄴ다면	SCONJ	_	13	ccomp	_	_	산출/ncpa+하/xsv+ㄴ다면/ecs
+9	단지	단지	ADV	_	10	advmod	_	_	단지/mag
+10	그것으로	그것+으로	ADV	_	13	advcl	_	_	그것/npd+으로/jca
+11	그	그	DET	_	12	det	_	_	그/mmd
+12	방법은	방법+은	NOUN	_	13	dislocated	_	_	방법/ncn+은/jxt
+13	정당화될	정당화+되+ㄹ	VERB	_	0	root	_	_	정당화/ncpa+되/xsv+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있다	있+다	ADJ	_	13	aux	_	_	있/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그들은 심각하고 절박한 문제를 갖고 있지 않고 , 유행하는 방식으로만 연구한다 .
+1	그들은	그+들+은	PRON	_	11	dislocated	_	_	그/npp+들/xsn+은/jxt
+2	심각하고	심각+하+고	CCONJ	_	3	conj	_	_	심각/ncps+하/xsm+고/ecc
+3	절박한	절박+하+ㄴ	VERB	_	4	amod	_	_	절박/ncps+하/xsm+ㄴ/etm
+4	문제를	문제+를	NOUN	_	5	obj	_	_	문제/ncn+를/jco
+5	갖고	갖+고	VERB	_	11	conj	_	_	갖/pvg+고/ecx
+6	있지	있+지	AUX	_	5	aux	_	_	있/px+지/ecx
+7	않고	않+고	CCONJ	_	5	aux	_	_	않/px+고/ecc
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	유행하는	유행+하+는	VERB	_	10	acl	_	_	유행/ncpa+하/xsv+는/etm
+10	방식으로만	방식+으로+만	ADV	_	11	advcl	_	_	방식/ncn+으로/jca+만/jxc
+11	연구한다	연구+하+ㄴ다	VERB	_	0	root	_	_	연구/ncpa+하/xsv+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그들에게 있어서 철학이라는 것은 탐구라기보다 오히려 적용이다 .
+1	그들에게	그+들+에게	ADV	_	2	iobj	_	_	그/npp+들/xsn+에게/jca
+2	있어서	있+어서	SCONJ	_	7	xcomp	_	_	있/paa+어서/ecs
+3	철학이라는	철학+이+라는	VERB	_	4	acl	_	_	철학/ncn+이/jp+라는/etm
+4	것은	것+은	NOUN	_	7	dislocated	_	_	것/nbn+은/jxt
+5	탐구라기보다	탐구+이+라기+보다	ADV	_	7	advcl	_	_	탐구/ncpa+이/jp+라기/etn+보다/jca
+6	오히려	오히려	ADV	_	7	advmod	_	_	오히려/mag
+7	적용이다	적용+이+다	VERB	_	0	root	_	_	적용/ncpa+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 사실 포퍼의 철학은 철학 외적인 문제의 해결에 골몰해 가는 과정에서 형성된 것이다 .
+1	사실	사실	NOUN	_	11	advmod	_	_	사실/ncn
+2	포퍼의	포퍼+의	PROPN	_	3	nmod	_	_	포퍼/nq+의/jcm
+3	철학은	철학+은	NOUN	_	11	dislocated	_	_	철학/ncn+은/jxt
+4	철학	철학	NOUN	_	5	compound	_	_	철학/ncn
+5	외적인	외+적+이+ㄴ	VERB	_	6	acl	_	_	외/ncn+적/xsn+이/jp+ㄴ/etm
+6	문제의	문제+의	NOUN	_	7	nmod	_	_	문제/ncn+의/jcm
+7	해결에	해결+에	ADV	_	8	obl	_	_	해결/ncpa+에/jca
+8	골몰해	골몰+하+어	VERB	_	10	acl	_	_	골몰/ncpa+하/xsv+어/ecx
+9	가는	가+는	AUX	_	8	aux	_	_	가/px+는/etm
+10	과정에서	과정+에서	ADV	_	11	advcl	_	_	과정/ncn+에서/jca
+11	형성된	형성+되+ㄴ	VERB	_	0	root	_	_	형성/ncpa+되/xsv+ㄴ/etm
+12	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이것이 이클즈와 공저한 자아와뇌이다 .
+1	이것이	이것+이	PRON	_	4	nsubj	_	_	이것/npd+이/jcs
+2	이클즈와	이클즈+와	CCONJ	_	3	conj	_	_	이클즈/nq+와/jct
+3	공저한	공저+하+ㄴ	VERB	_	4	ccomp	_	_	공저/ncpa+하/xsv+ㄴ/etm
+4	자아와뇌이다	자아와뇌+이+다	VERB	_	0	root	_	_	자아와뇌/nq+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 이것이 뒤늦게 출판되기는 했지만 실제로는 1956 년에 씌어진 양자 이론과 물리학에서의 분열이다 .
+1	이것이	이것+이	PRON	_	12	nsubj	_	_	이것/npd+이/jcs
+2	뒤늦게	뒤늦+게	SCONJ	_	3	xcomp	_	_	뒤늦/paa+게/ecs
+3	출판되기는	출판+되+기+는	NOUN	_	4	dislocated	_	_	출판/ncpa+되/xsv+기/etn+는/jxt
+4	했지만	하+었+지만	SCONJ	_	12	ccomp	_	_	하/pvg+었/ep+지만/ecs
+5	실제로는	실제로+는	NOUN	_	12	advmod	_	_	실제로/mag+는/jxt
+6	1956	1956	NUM	_	7	nummod	_	_	1956/nno
+7	년에	년+에	ADV	_	8	obl	_	_	년/nbu+에/jca
+8	씌어진	씌+어+지+ㄴ	AUX	_	12	ccomp	_	_	씌/pvg+어/ecx+지/px+ㄴ/etm
+9	양자	양자	NOUN	_	10	compound	_	_	양자/ncn
+10	이론과	이론+과	CCONJ	_	11	conj	_	_	이론/ncn+과/jcj
+11	물리학에서의	물리학+에서+의	NOUN	_	12	nmod	_	_	물리학/ncn+에서/jca+의/jcm
+12	분열이다	분열+이+다	VERB	_	0	root	_	_	분열/ncpa+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그리고 세 세계론과 빈도 해석 또는 성향 해석이 결부되어 포퍼 특유의 하나의 형이상학을 만들어 내는데 이것이 그의 개방 우주이다 .
+1	그리고	그리고	CCONJ	_	19	cc	_	_	그리고/maj
+2	세	세	NUM	_	3	nummod	_	_	세/nnc
+3	세계론과	세계론+과	CCONJ	_	8	conj	_	_	세계론/ncn+과/jcj
+4	빈도	빈도	NOUN	_	5	compound	_	_	빈도/ncn
+5	해석	해석	NOUN	_	8	conj	_	_	해석/ncpa
+6	또는	또는	CCONJ	_	8	cc	_	_	또는/maj
+7	성향	성향	NOUN	_	8	compound	_	_	성향/ncn
+8	해석이	해석+이	NOUN	_	9	nsubj	_	_	해석/ncpa+이/jcs
+9	결부되어	결부+되+어	SCONJ	_	14	ccomp	_	_	결부/ncpa+되/xsv+어/ecs
+10	포퍼	포퍼	PROPN	_	11	compound	_	_	포퍼/nq
+11	특유의	특유+의	NOUN	_	13	nmod	_	_	특유/ncpa+의/jcm
+12	하나의	하나+의	NUM	_	13	nmod	_	_	하나/nnc+의/jcm
+13	형이상학을	형이상학+을	NOUN	_	14	obj	_	_	형이상학/ncn+을/jco
+14	만들어	만들+어	VERB	_	19	ccomp	_	_	만들/pvg+어/ecx
+15	내는데	내+는데	SCONJ	_	14	aux	_	_	내/px+는데/ecs
+16	이것이	이것+이	PRON	_	19	nsubj	_	_	이것/npd+이/jcs
+17	그의	그+의	PRON	_	19	nmod	_	_	그/npp+의/jcm
+18	개방	개방	NOUN	_	19	compound	_	_	개방/ncpa
+19	우주이다	우주+이+다	VERB	_	0	root	_	_	우주/ncn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 그러므로 그의 철학은 현대의 제 학문의 광범위한 성과 위에 기초하고 있으며 그 성과를 끊임없이 철학화해 가는 과정으로 일관되어 있다 .
+1	그러므로	그러므로	CCONJ	_	18	cc	_	_	그러므로/maj
+2	그의	그+의	PRON	_	3	nmod	_	_	그/npp+의/jcm
+3	철학은	철학+은	NOUN	_	18	dislocated	_	_	철학/ncn+은/jxt
+4	현대의	현대+의	NOUN	_	8	nmod	_	_	현대/ncn+의/jcm
+5	제	제	ADJ	_	6	amod	_	_	제/mma
+6	학문의	학문+의	NOUN	_	8	nmod	_	_	학문/ncn+의/jcm
+7	광범위한	광범위+하+ㄴ	VERB	_	8	amod	_	_	광범위/ncps+하/xsm+ㄴ/etm
+8	성과	성과	NOUN	_	9	compound	_	_	성과/ncn
+9	위에	위+에	ADV	_	10	obl	_	_	위/ncn+에/jca
+10	기초하고	기초+하+고	VERB	_	18	conj	_	_	기초/ncpa+하/xsv+고/ecx
+11	있으며	있+으며	CCONJ	_	10	aux	_	_	있/px+으며/ecc
+12	그	그	DET	_	13	det	_	_	그/mmd
+13	성과를	성과+를	NOUN	_	15	obj	_	_	성과/ncn+를/jco
+14	끊임없이	끊임없이	ADV	_	15	advmod	_	_	끊임없이/mag
+15	철학화해	철학화+하+어	VERB	_	17	acl	_	_	철학화/ncpa+하/xsv+어/ecx
+16	가는	가+는	AUX	_	15	aux	_	_	가/px+는/etm
+17	과정으로	과정+으로	ADV	_	18	advcl	_	_	과정/ncn+으로/jca
+18	일관되어	일관+되+어	VERB	_	0	root	_	_	일관/ncpa+되/xsv+어/ecx
+19	있다	있+다	AUX	_	18	aux	_	_	있/px+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 이것은 자신의 주장을 다른 주장의 비판을 통해서 드러내는 그 특유의 비판적 방법에서 오는 불가피한 것이다 .
+1	이것은	이것+은	PRON	_	15	dislocated	_	_	이것/npd+은/jxt
+2	자신의	자신+의	NOUN	_	3	nmod	_	_	자신/ncn+의/jcm
+3	주장을	주장+을	NOUN	_	8	obj	_	_	주장/ncpa+을/jco
+4	다른	다르+ㄴ	ADJ	_	5	amod	_	_	다르/paa+ㄴ/etm
+5	주장의	주장+의	NOUN	_	6	nmod	_	_	주장/ncpa+의/jcm
+6	비판을	비판+을	NOUN	_	7	obj	_	_	비판/ncpa+을/jco
+7	통해서	통하+어서	SCONJ	_	8	ccomp	_	_	통하/pvg+어서/ecs
+8	드러내는	드러내+는	VERB	_	12	acl	_	_	드러내/pvg+는/etm
+9	그	그	DET	_	10	det	_	_	그/mmd
+10	특유의	특유+의	NOUN	_	12	nmod	_	_	특유/ncpa+의/jcm
+11	비판적	비판+적	NOUN	_	12	amod	_	_	비판/ncpa+적/xsn
+12	방법에서	방법+에서	ADV	_	13	advcl	_	_	방법/ncn+에서/jca
+13	오는	오+는	VERB	_	15	ccomp	_	_	오/pvg+는/etm
+14	불가피한	불가피+하+ㄴ	VERB	_	15	amod	_	_	불가피/ncps+하/xsm+ㄴ/etm
+15	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그래서 포퍼 철학은 단편적으로 접할 때 그의 사상을 오해하기 십상이다 .
+1	그래서	그래서	CCONJ	_	10	cc	_	_	그래서/maj
+2	포퍼	포퍼	PROPN	_	3	compound	_	_	포퍼/nq
+3	철학은	철학+은	NOUN	_	10	dislocated	_	_	철학/ncn+은/jxt
+4	단편적으로	단편+적+으로	ADV	_	5	advcl	_	_	단편/ncn+적/xsn+으로/jca
+5	접할	접하+ㄹ	VERB	_	6	acl	_	_	접하/pvg+ㄹ/etm
+6	때	때	NOUN	_	10	advmod	_	_	때/ncn
+7	그의	그+의	PRON	_	8	nmod	_	_	그/npp+의/jcm
+8	사상을	사상+을	NOUN	_	9	obj	_	_	사상/ncn+을/jco
+9	오해하기	오해+하+기	VERB	_	10	nmod	_	_	오해/ncpa+하/xsv+기/etn
+10	십상이다	십상+이+다	VERB	_	0	root	_	_	십상/ncn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그래서 이 책의 일차적 목적은 포퍼 철학의 중심 사상을 체계적으로 정리해 보고자 하는 데 있다 .
+1	그래서	그래서	CCONJ	_	11	cc	_	_	그래서/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	책의	책+의	NOUN	_	5	nmod	_	_	책/ncn+의/jcm
+4	일차적	일차+적	NOUN	_	5	amod	_	_	일차/ncn+적/xsn
+5	목적은	목적+은	NOUN	_	11	dislocated	_	_	목적/ncpa+은/jxt
+6	포퍼	포퍼	PROPN	_	7	compound	_	_	포퍼/nq
+7	철학의	철학+의	NOUN	_	9	nmod	_	_	철학/ncn+의/jcm
+8	중심	중심	NOUN	_	9	compound	_	_	중심/ncn
+9	사상을	사상+을	NOUN	_	11	obj	_	_	사상/ncn+을/jco
+10	체계적으로	체계+적+으로	ADV	_	11	advcl	_	_	체계/ncn+적/xsn+으로/jca
+11	정리해	정리+하+어	VERB	_	0	root	_	_	정리/ncpa+하/xsv+어/ecx
+12	보고자	보+고자	AUX	_	11	aux	_	_	보/px+고자/ecx
+13	하는	하+는	AUX	_	11	aux	_	_	하/px+는/etm
+14	데	데	NOUN	_	15	fixed	_	_	데/nbn
+15	있다	있+다	ADJ	_	11	aux	_	_	있/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그러나 이 체계화의 작업은 포퍼의 저술들을 단순히 요약하는 것만으로는 달성될 수 없다 .
+1	그러나	그러나	CCONJ	_	10	cc	_	_	그러나/maj
+2	이	이	DET	_	4	det	_	_	이/mmd
+3	체계화의	체계화+의	NOUN	_	4	nmod	_	_	체계화/ncpa+의/jcm
+4	작업은	작업+은	NOUN	_	10	dislocated	_	_	작업/ncpa+은/jxt
+5	포퍼의	포퍼+의	PROPN	_	6	nmod	_	_	포퍼/nq+의/jcm
+6	저술들을	저술+들+을	NOUN	_	8	obj	_	_	저술/ncpa+들/xsn+을/jco
+7	단순히	단순+히	ADV	_	8	advmod	_	_	단순/ncps+히/xsa
+8	요약하는	요약+하+는	VERB	_	9	acl	_	_	요약/ncpa+하/xsv+는/etm
+9	것만으로는	것+만+으로+는	NOUN	_	10	dislocated	_	_	것/nbn+만/jxc+으로/jca+는/jxt
+10	달성될	달성+되+ㄹ	VERB	_	0	root	_	_	달성/ncpa+되/xsv+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	없다	없+다	ADJ	_	10	aux	_	_	없/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그래서 이 책에서는 라카토스가 말하는 ' 합리적 재구성 ' 의 방법을 취했다 .
+1	그래서	그래서	CCONJ	_	12	cc	_	_	그래서/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	책에서는	책+에서+는	NOUN	_	12	dislocated	_	_	책/ncn+에서/jca+는/jxt
+4	라카토스가	라카토스+가	PROPN	_	5	nsubj	_	_	라카토스/nq+가/jcs
+5	말하는	말하+는	VERB	_	8	acl	_	_	말하/pvg+는/etm
+6	'	'	PUNCT	_	7	punct	_	_	'/sl
+7	합리적	합리+적	NOUN	_	8	amod	_	_	합리/ncn+적/xsn
+8	재구성	재구성	NOUN	_	11	nmod	_	_	재구성/ncpa
+9	'	'	PUNCT	_	8	punct	_	_	'/sr
+10	의	의	ADP	_	8	case	_	_	의/jcm
+11	방법을	방법+을	NOUN	_	12	obj	_	_	방법/ncn+을/jco
+12	취했다	취하+었+다	VERB	_	0	root	_	_	취하/pvg+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 즉 오늘의 시점에서 만일 포퍼가 자신의 저술들을 체계화된 형태로 한 권의 저술로 묶고자 한다면 어떻게 구성했을지 스스로 상상해 보았다 .
+1	즉	즉	CCONJ	_	18	cc	_	_	즉/maj
+2	오늘의	오늘+의	NOUN	_	3	nmod	_	_	오늘/ncn+의/jcm
+3	시점에서	시점+에서	ADV	_	13	advcl	_	_	시점/ncn+에서/jca
+4	만일	만일	ADV	_	13	advmod	_	_	만일/mag
+5	포퍼가	포퍼+가	PROPN	_	13	nsubj	_	_	포퍼/nq+가/jcs
+6	자신의	자신+의	NOUN	_	7	nmod	_	_	자신/ncn+의/jcm
+7	저술들을	저술+들+을	NOUN	_	13	obj	_	_	저술/ncpa+들/xsn+을/jco
+8	체계화된	체계화+되+ㄴ	VERB	_	9	acl	_	_	체계화/ncpa+되/xsv+ㄴ/etm
+9	형태로	형태+로	ADV	_	13	advcl	_	_	형태/ncn+로/jca
+10	한	한	NUM	_	11	nummod	_	_	한/nnc
+11	권의	권+의	NOUN	_	12	nmod	_	_	권/nbu+의/jcm
+12	저술로	저술+로	ADV	_	13	advcl	_	_	저술/ncpa+로/jca
+13	묶고자	묶+고자	VERB	_	16	ccomp	_	_	묶/pvg+고자/ecx
+14	한다면	하+ㄴ다면	SCONJ	_	13	aux	_	_	하/px+ㄴ다면/ecs
+15	어떻게	어떻게	ADV	_	16	advmod	_	_	어떻게/mad
+16	구성했을지	구성+하+었+ㄹ지	SCONJ	_	18	ccomp	_	_	구성/ncpa+하/xsv+었/ep+ㄹ지/ecs
+17	스스로	스스로	NOUN	_	18	compound	_	_	스스로/ncn
+18	상상해	상상+하+어	VERB	_	0	root	_	_	상상/ncpa+하/xsv+어/ecx
+19	보았다	보+았+다	AUX	_	18	aux	_	_	보/px+았/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 이미 지금의 시점에서 해소되어 버린 문제도 있을 것이고 논의 중인 상황의 문맥을 떠난다면 대체 가능한 더 좋은 논증도 있을 것이다 .
+1	이미	이미	ADV	_	4	advmod	_	_	이미/mag
+2	지금의	지금+의	NOUN	_	3	nmod	_	_	지금/ncn+의/jcm
+3	시점에서	시점+에서	ADV	_	4	advcl	_	_	시점/ncn+에서/jca
+4	해소되어	해소+되+어	VERB	_	6	acl	_	_	해소/ncpa+되/xsv+어/ecx
+5	버린	버리+ㄴ	AUX	_	4	aux	_	_	버리/px+ㄴ/etm
+6	문제도	문제+도	ADV	_	7	advcl	_	_	문제/ncn+도/jxc
+7	있을	있+ㄹ	ADJ	_	19	conj	_	_	있/paa+ㄹ/etm
+8	것이고	것+이+고	CCONJ	_	7	aux	_	_	것/nbn+이/jp+고/ecc
+9	논의	논의	NOUN	_	10	compound	_	_	논의/ncpa
+10	중인	중+이+ㄴ	VERB	_	11	acl	_	_	중/nbn+이/jp+ㄴ/etm
+11	상황의	상황+의	NOUN	_	12	nmod	_	_	상황/ncn+의/jcm
+12	문맥을	문맥+을	NOUN	_	13	obj	_	_	문맥/ncn+을/jco
+13	떠난다면	떠나+ㄴ다면	SCONJ	_	19	conj	_	_	떠나/pvg+ㄴ다면/ecs
+14	대체	대체	NOUN	_	15	compound	_	_	대체/ncpa
+15	가능한	가능+하+ㄴ	VERB	_	18	amod	_	_	가능/ncps+하/xsm+ㄴ/etm
+16	더	더	ADV	_	17	advmod	_	_	더/mag
+17	좋은	좋+ㄴ	ADJ	_	18	amod	_	_	좋/paa+ㄴ/etm
+18	논증도	논증+도	ADV	_	19	advcl	_	_	논증/ncpa+도/jxc
+19	있을	있+ㄹ	ADJ	_	0	root	_	_	있/paa+ㄹ/etm
+20	것이다	것+이+다	VERB	_	19	aux	_	_	것/nbn+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 또는 체계화를 위해서 보완시켜야 할 부분도 있을 것이다 .
+1	또는	또는	CCONJ	_	7	cc	_	_	또는/maj
+2	체계화를	체계화+를	NOUN	_	3	obj	_	_	체계화/ncpa+를/jco
+3	위해서	위하+어서	SCONJ	_	4	ccomp	_	_	위하/pvg+어서/ecs
+4	보완시켜야	보완+시키+어야	VERB	_	6	acl	_	_	보완/ncpa+시키/xsv+어야/ecx
+5	할	하+ㄹ	AUX	_	4	aux	_	_	하/px+ㄹ/etm
+6	부분도	부분+도	ADV	_	7	advcl	_	_	부분/ncn+도/jxc
+7	있을	있+ㄹ	ADJ	_	0	root	_	_	있/paa+ㄹ/etm
+8	것이다	것+이+다	VERB	_	7	aux	_	_	것/nbn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이 책에서는 이러한 것을 염두에 두면서 최선의 재구성을 시도하고자 했다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	책에서는	책+에서+는	NOUN	_	9	dislocated	_	_	책/ncn+에서/jca+는/jxt
+3	이러한	이러하+ㄴ	VERB	_	4	amod	_	_	이러하/pad+ㄴ/etm
+4	것을	것+을	NOUN	_	6	obj	_	_	것/nbn+을/jco
+5	염두에	염두+에	ADV	_	6	obl	_	_	염두/ncn+에/jca
+6	두면서	두+면서	CCONJ	_	9	conj	_	_	두/pvg+면서/ecc
+7	최선의	최선+의	NOUN	_	8	nmod	_	_	최선/ncn+의/jcm
+8	재구성을	재구성+을	NOUN	_	9	obj	_	_	재구성/ncpa+을/jco
+9	시도하고자	시도+하+고자	VERB	_	0	root	_	_	시도/ncpa+하/xsv+고자/ecx
+10	했다	하+었+다	AUX	_	9	aux	_	_	하/px+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 물론 이것들 사이에는 내적 연관성이 유지되고 있으며 그 연관성을 될 수 있는 한 선명하게 보여주고자 했다 .
+1	물론	물론	ADV	_	6	advmod	_	_	물론/mag
+2	이것들	이것+들	NOUN	_	3	compound	_	_	이것/npd+들/xsn
+3	사이에는	사이+에+는	NOUN	_	6	dislocated	_	_	사이/ncn+에/jca+는/jxt
+4	내적	내+적	NOUN	_	5	amod	_	_	내/ncn+적/xsn
+5	연관성이	연관성+이	NOUN	_	6	nsubj	_	_	연관성/ncn+이/jcs
+6	유지되고	유지+되+고	VERB	_	15	conj	_	_	유지/ncpa+되/xsv+고/ecx
+7	있으며	있+으며	CCONJ	_	6	aux	_	_	있/px+으며/ecc
+8	그	그	DET	_	9	det	_	_	그/mmd
+9	연관성을	연관성+을	NOUN	_	15	obj	_	_	연관성/ncn+을/jco
+10	될	되+ㄹ	VERB	_	13	acl	_	_	되/pvg+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있는	있+는	ADJ	_	10	aux	_	_	있/paa+는/etm
+13	한	한	NOUN	_	14	mark	_	_	한/nbn
+14	선명하게	선명+하+게	SCONJ	_	15	xcomp	_	_	선명/ncps+하/xsm+게/ecs
+15	보여주고자	보이+어+주+고자	AUX	_	0	root	_	_	보이/pvg+어/ecx+주/px+고자/ecx
+16	했다	하+었+다	AUX	_	15	aux	_	_	하/px+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 특히 4 장에 대해서는 약간의 부가적 설명이 필요하다 .
+1	특히	특히	ADV	_	8	advmod	_	_	특히/mag
+2	4	4	NUM	_	3	nummod	_	_	4/nno
+3	장에	장+에	ADV	_	4	obl	_	_	장/ncn+에/jca
+4	대해서는	대하+어서+는	NOUN	_	8	dep	_	_	대하/pvg+어서/ecs+는/jxt
+5	약간의	약간+의	NOUN	_	7	nmod	_	_	약간/ncn+의/jcm
+6	부가적	부가+적	NOUN	_	7	amod	_	_	부가/ncpa+적/xsn
+7	설명이	설명+이	NOUN	_	8	nsubj	_	_	설명/ncpa+이/jcs
+8	필요하다	필요+하+다	VERB	_	0	root	_	_	필요/ncps+하/xsm+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 주지하다시피 포퍼는 그 일생에 걸쳐 객관주의 지식론의 열렬한 옹호자이자 유능한 투사였다 .
+1	주지하다시피	주지+하+다시피	SCONJ	_	11	ccomp	_	_	주지/ncpa+하/xsv+다시피/ecs
+2	포퍼는	포퍼+는	PROPN	_	11	dislocated	_	_	포퍼/nq+는/jxt
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	일생에	일생+에	ADV	_	5	obl	_	_	일생/ncn+에/jca
+5	걸쳐	걸치+어	SCONJ	_	11	ccomp	_	_	걸치/pvg+어/ecs
+6	객관주의	객관+주의	NOUN	_	7	compound	_	_	객관/ncn+주의/ncn
+7	지식론의	지식론+의	NOUN	_	9	nmod	_	_	지식론/ncn+의/jcm
+8	열렬한	열렬+하+ㄴ	VERB	_	9	amod	_	_	열렬/ncps+하/xsm+ㄴ/etm
+9	옹호자이자	옹호자+이자	CCONJ	_	11	conj	_	_	옹호자/ncn+이자/jcj
+10	유능한	유능+하+ㄴ	VERB	_	11	amod	_	_	유능/ncps+하/xsm+ㄴ/etm
+11	투사였다	투사+이+었+다	VERB	_	0	root	_	_	투사/ncn+이/jp+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 앞서 말했듯이 그의 철학적 생애는 1920 30 년대를 풍미한 논리 실증주의와의 대결에서 시작된다 .
+1	앞서	앞서	ADV	_	2	advmod	_	_	앞서/mag
+2	말했듯이	말하+었+듯이	SCONJ	_	13	ccomp	_	_	말하/pvg+었/ep+듯이/ecs
+3	그의	그+의	PRON	_	5	nmod	_	_	그/npp+의/jcm
+4	철학적	철학+적	NOUN	_	5	amod	_	_	철학/ncn+적/xsn
+5	생애는	생애+는	NOUN	_	13	dislocated	_	_	생애/ncn+는/jxt
+6	1920	1920	NUM	_	7	nummod	_	_	1920/nno
+7	30	30	NUM	_	8	nummod	_	_	30/nno
+8	년대를	년대+를	NOUN	_	9	obj	_	_	년대/nbu+를/jco
+9	풍미한	풍미+하+ㄴ	VERB	_	11	acl	_	_	풍미/ncpa+하/xsv+ㄴ/etm
+10	논리	논리	NOUN	_	11	compound	_	_	논리/ncn
+11	실증주의와의	실증+주의+와+의	NOUN	_	12	nmod	_	_	실증/ncpa+주의/ncn+와/jct+의/jcm
+12	대결에서	대결+에서	ADV	_	13	advcl	_	_	대결/ncpa+에서/jca
+13	시작된다	시작+되+ㄴ다	VERB	_	0	root	_	_	시작/ncpa+되/xsv+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그는 논리 실증주의는 스스로를 객관주의로 위장하고 있지만 그 논리적 귀결은 주관주의 지식론이라는 것을 보여주었다 .
+1	그는	그+는	PRON	_	14	dislocated	_	_	그/npp+는/jxt
+2	논리	논리	NOUN	_	3	compound	_	_	논리/ncn
+3	실증주의는	실증+주의+는	NOUN	_	6	dislocated	_	_	실증/ncpa+주의/ncn+는/jxt
+4	스스로를	스스로+를	NOUN	_	6	obj	_	_	스스로/ncn+를/jco
+5	객관주의로	객관+주의+로	ADV	_	6	advcl	_	_	객관/ncn+주의/ncn+로/jca
+6	위장하고	위장+하+고	VERB	_	12	ccomp	_	_	위장/ncpa+하/xsv+고/ecx
+7	있지만	있+지만	SCONJ	_	6	aux	_	_	있/px+지만/ecs
+8	그	그	DET	_	10	det	_	_	그/mmd
+9	논리적	논리+적	NOUN	_	10	amod	_	_	논리/ncn+적/xsn
+10	귀결은	귀결+은	NOUN	_	12	dislocated	_	_	귀결/ncpa+은/jxt
+11	주관주의	주관+주의	NOUN	_	12	compound	_	_	주관/ncn+주의/ncn
+12	지식론이라는	지식론+이+라는	VERB	_	13	acl	_	_	지식론/ncn+이/jp+라는/etm
+13	것을	것+을	NOUN	_	14	obj	_	_	것/nbn+을/jco
+14	보여주었다	보이+어+주+었+다	AUX	_	0	root	_	_	보이/pvg+어/ecx+주/px+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그는 이 대결을 통해서 객관주의 지식론의 기초를 마련했고 논리 실증주의는 결국 붕괴되었다 .
+1	그는	그+는	PRON	_	8	dislocated	_	_	그/npp+는/jxt
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	대결을	대결+을	NOUN	_	4	obj	_	_	대결/ncpa+을/jco
+4	통해서	통하+어서	SCONJ	_	8	ccomp	_	_	통하/pvg+어서/ecs
+5	객관주의	객관+주의	NOUN	_	6	compound	_	_	객관/ncn+주의/ncn
+6	지식론의	지식론+의	NOUN	_	7	nmod	_	_	지식론/ncn+의/jcm
+7	기초를	기초+를	NOUN	_	8	obj	_	_	기초/ncn+를/jco
+8	마련했고	마련+하+었+고	CCONJ	_	12	conj	_	_	마련/ncpa+하/xsv+었/ep+고/ecc
+9	논리	논리	NOUN	_	10	compound	_	_	논리/ncn
+10	실증주의는	실증+주의+는	NOUN	_	12	dislocated	_	_	실증/ncpa+주의/ncn+는/jxt
+11	결국	결국	ADV	_	12	advmod	_	_	결국/mag
+12	붕괴되었다	붕괴+되+었+다	VERB	_	0	root	_	_	붕괴/ncpa+되/xsv+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그러나 그 후 30여년이 지나 , 즉 60 년대에 들어와 새로운 의상을 걸치고 나타난 주관주의와 비합리주의를 보게 된다 .
+1	그러나	그러나	CCONJ	_	17	cc	_	_	그러나/maj
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	후	후	NOUN	_	5	advmod	_	_	후/ncn
+4	30여년이	30+여+년+이	NUM	_	5	nsubj	_	_	30/nnc+여/xsn+년/nbu+이/jcs
+5	지나	지나+아	SCONJ	_	10	ccomp	_	_	지나/pvg+아/ecs
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	즉	즉	CCONJ	_	10	cc	_	_	즉/maj
+8	60	60	NUM	_	9	nummod	_	_	60/nno
+9	년대에	년대+에	ADV	_	10	obl	_	_	년대/nbu+에/jca
+10	들어와	들+어+오+아	SCONJ	_	14	ccomp	_	_	들/pvg+어/ecx+오/px+아/ecs
+11	새로운	새롭+ㄴ	ADJ	_	12	amod	_	_	새롭/paa+ㄴ/etm
+12	의상을	의상+을	NOUN	_	13	obj	_	_	의상/ncn+을/jco
+13	걸치고	걸치+고	SCONJ	_	14	ccomp	_	_	걸치/pvg+고/ecs
+14	나타난	나타나+ㄴ	VERB	_	16	acl	_	_	나타나/pvg+ㄴ/etm
+15	주관주의와	주관+주의+와	CCONJ	_	16	conj	_	_	주관/ncn+주의/ncn+와/jcj
+16	비합리주의를	비+합리+주의+를	PART	_	17	obj	_	_	비/xp+합리/ncn+주의/ncn+를/jco
+17	보게	보+게	VERB	_	0	root	_	_	보/pvg+게/ecx
+18	된다	되+ㄴ다	AUX	_	17	aux	_	_	되/px+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그들은 주관주의적 귀결을 포퍼 자신의 논리를 사용하여 도출하여 공공연히 포퍼의 이름으로 주관주의와 비합리주의를 설파하게 된다 .
+1	그들은	그+들+은	PRON	_	14	dislocated	_	_	그/npp+들/xsn+은/jxt
+2	주관주의적	주관+주의+적	NOUN	_	3	amod	_	_	주관/ncn+주의/ncn+적/xsn
+3	귀결을	귀결+을	NOUN	_	8	obj	_	_	귀결/ncpa+을/jco
+4	포퍼	포퍼	PROPN	_	5	compound	_	_	포퍼/nq
+5	자신의	자신+의	NOUN	_	6	nmod	_	_	자신/ncn+의/jcm
+6	논리를	논리+를	NOUN	_	7	obj	_	_	논리/ncn+를/jco
+7	사용하여	사용+하+어	SCONJ	_	8	ccomp	_	_	사용/ncpa+하/xsv+어/ecs
+8	도출하여	도출+하+어	SCONJ	_	14	ccomp	_	_	도출/ncpa+하/xsv+어/ecs
+9	공공연히	공공연히	ADV	_	14	advmod	_	_	공공연히/mag
+10	포퍼의	포퍼+의	PROPN	_	11	nmod	_	_	포퍼/nq+의/jcm
+11	이름으로	이름+으로	ADV	_	14	advcl	_	_	이름/ncn+으로/jca
+12	주관주의와	주관주의+와	CCONJ	_	13	conj	_	_	주관주의/ncn+와/jcj
+13	비합리주의를	비+합리+주의+를	PART	_	14	obj	_	_	비/xp+합리/ncn+주의/ncn+를/jco
+14	설파하게	설파+하+게	VERB	_	0	root	_	_	설파/ncpa+하/xsv+게/ecx
+15	된다	되+ㄴ다	AUX	_	14	aux	_	_	되/px+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이 새로운 대결은 논리 실증주의와의 대결에 비해서 포퍼로서는 대처하기 어려운 것임이 드러난다 .
+1	이	이	DET	_	3	det	_	_	이/mmd
+2	새로운	새롭+ㄴ	ADJ	_	3	amod	_	_	새롭/paa+ㄴ/etm
+3	대결은	대결+은	NOUN	_	10	dislocated	_	_	대결/ncpa+은/jxt
+4	논리	논리	NOUN	_	5	compound	_	_	논리/ncn
+5	실증주의와의	실증+주의+와+의	NOUN	_	6	nmod	_	_	실증/ncpa+주의/ncn+와/jct+의/jcm
+6	대결에	대결+에	ADV	_	7	obl	_	_	대결/ncpa+에/jca
+7	비해서	비하+어서	SCONJ	_	10	conj	_	_	비하/pvg+어서/ecs
+8	포퍼로서는	포퍼+로서+는	PROPN	_	10	dislocated	_	_	포퍼/nq+로서/jca+는/jxt
+9	대처하기	대처+하+기	VERB	_	10	nmod	_	_	대처/ncpa+하/xsv+기/etn
+10	어려운	어렵+ㄴ	ADJ	_	12	nsubj	_	_	어렵/paa+ㄴ/etm
+11	것임이	것+이+ㅁ+이	NOUN	_	10	aux	_	_	것/nbn+이/jp+ㅁ/etn+이/jcs
+12	드러난다	드러나+ㄴ다	VERB	_	0	root	_	_	드러나/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 왜냐하면 논리 실증주의는 과학의 기초가 객관성과 합리성이라는 이념에서 구성되어야 한다는 점에서는 포퍼와 견해 차이가 없었다 .
+1	왜냐하면	왜냐하면	CCONJ	_	15	cc	_	_	왜냐하면/maj
+2	논리	논리	NOUN	_	3	compound	_	_	논리/ncn
+3	실증주의는	실증+주의+는	NOUN	_	9	dislocated	_	_	실증/ncpa+주의/ncn+는/jxt
+4	과학의	과학+의	NOUN	_	5	nmod	_	_	과학/ncn+의/jcm
+5	기초가	기초+가	NOUN	_	7	nsubj	_	_	기초/ncn+가/jcs
+6	객관성과	객관성+과	CCONJ	_	7	dep	_	_	객관성/ncn+과/jcj
+7	합리성이라는	합리성+이+라는	VERB	_	8	acl	_	_	합리성/ncn+이/jp+라는/etm
+8	이념에서	이념+에서	ADV	_	9	advcl	_	_	이념/ncn+에서/jca
+9	구성되어야	구성+되+어야	VERB	_	11	acl	_	_	구성/ncpa+되/xsv+어야/ecx
+10	한다는	하+ㄴ다는	AUX	_	9	aux	_	_	하/px+ㄴ다는/etm
+11	점에서는	점+에서+는	NOUN	_	15	dislocated	_	_	점/ncn+에서/jca+는/jxt
+12	포퍼와	포퍼+와	CCONJ	_	15	conj	_	_	포퍼/nq+와/jct
+13	견해	견해	NOUN	_	14	compound	_	_	견해/ncn
+14	차이가	차이+가	NOUN	_	15	nsubj	_	_	차이/ncn+가/jcs
+15	없었다	없+었+다	ADJ	_	0	root	_	_	없/paa+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그러므로 포퍼로서는 그들의 지식 이론이 그들의 이념과 양립할 수 없음을 보여주는 것으로 충분했다 .
+1	그러므로	그러므로	CCONJ	_	13	cc	_	_	그러므로/maj
+2	포퍼로서는	포퍼+로서+는	PROPN	_	13	dislocated	_	_	포퍼/nq+로서/jca+는/jxt
+3	그들의	그+들+의	PRON	_	5	nmod	_	_	그/npp+들/xsn+의/jcm
+4	지식	지식	NOUN	_	5	compound	_	_	지식/ncn
+5	이론이	이론+이	NOUN	_	8	nsubj	_	_	이론/ncn+이/jcs
+6	그들의	그+들+의	PRON	_	7	nmod	_	_	그/npp+들/xsn+의/jcm
+7	이념과	이념+과	CCONJ	_	8	conj	_	_	이념/ncn+과/jct
+8	양립할	양립+하+ㄹ	VERB	_	11	obj	_	_	양립/ncpa+하/xsv+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	없음을	없+ㅁ+을	NOUN	_	8	aux	_	_	없/paa+ㅁ/etn+을/jco
+11	보여주는	보이+어+주+는	AUX	_	12	acl	_	_	보이/pvg+어/ecx+주/px+는/etm
+12	것으로	것+으로	ADV	_	13	advcl	_	_	것/nbn+으로/jca
+13	충분했다	충분+하+었+다	VERB	_	0	root	_	_	충분/ncps+하/xsm+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그러나 신흥 주관주의 지식 이론은 과학의 기초가 객관성과 합리성에 있음을 공공연히 부인하고 더구나 그 주장의 근거를 포퍼 철학 속에서 찾아낸다 .
+1	그러나	그러나	CCONJ	_	20	cc	_	_	그러나/maj
+2	신흥	신흥	NOUN	_	3	compound	_	_	신흥/ncpa
+3	주관주의	주관+주의	NOUN	_	5	compound	_	_	주관/ncn+주의/ncn
+4	지식	지식	NOUN	_	5	compound	_	_	지식/ncn
+5	이론은	이론+은	NOUN	_	20	dislocated	_	_	이론/ncn+은/jxt
+6	과학의	과학+의	NOUN	_	7	nmod	_	_	과학/ncn+의/jcm
+7	기초가	기초+가	NOUN	_	10	nsubj	_	_	기초/ncn+가/jcs
+8	객관성과	객관성+과	CCONJ	_	9	conj	_	_	객관성/ncn+과/jcj
+9	합리성에	합리성+에	ADV	_	10	obl	_	_	합리성/ncn+에/jca
+10	있음을	있+ㅁ+을	NOUN	_	12	obj	_	_	있/paa+ㅁ/etn+을/jco
+11	공공연히	공공연히	ADV	_	12	advmod	_	_	공공연히/mag
+12	부인하고	부인+하+고	CCONJ	_	20	conj	_	_	부인/ncpa+하/xsv+고/ecc
+13	더구나	더구나	ADV	_	20	advmod	_	_	더구나/mag
+14	그	그	DET	_	15	det	_	_	그/mmd
+15	주장의	주장+의	NOUN	_	16	nmod	_	_	주장/ncpa+의/jcm
+16	근거를	근거+를	NOUN	_	20	obj	_	_	근거/ncpa+를/jco
+17	포퍼	포퍼	PROPN	_	18	compound	_	_	포퍼/nq
+18	철학	철학	NOUN	_	19	compound	_	_	철학/ncn
+19	속에서	속+에서	ADV	_	20	advcl	_	_	속/ncn+에서/jca
+20	찾아낸다	찾+아+내+ㄴ다	AUX	_	0	root	_	_	찾/pvg+아/ecx+내/px+ㄴ다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 이러한 관점에서 스콜리모브스키는 전자를 ' 방법론적 시기 ' , 후자를 ' 형이상학적 시기 ' 로 구분 짓고 있다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	관점에서	관점+에서	ADV	_	17	advcl	_	_	관점/ncn+에서/jca
+3	스콜리모브스키는	스콜리모브스키+는	PROPN	_	17	dislocated	_	_	스콜리모브스키/nq+는/jxt
+4	전자를	전자+를	NOUN	_	7	obj	_	_	전자/ncn+를/jco
+5	'	'	PUNCT	_	6	punct	_	_	'/sl
+6	방법론적	방법론+적	NOUN	_	7	amod	_	_	방법론/ncn+적/xsn
+7	시기	시기	NOUN	_	13	compound	_	_	시기/ncn
+8	'	'	PUNCT	_	7	punct	_	_	'/sr
+9	,	,	PUNCT	_	7	punct	_	_	,/sp
+10	후자를	후자+를	NOUN	_	13	obj	_	_	후자/ncn+를/jco
+11	'	'	PUNCT	_	12	punct	_	_	'/sl
+12	형이상학적	형이상학+적	NOUN	_	13	amod	_	_	형이상학/ncn+적/xsn
+13	시기	시기	NOUN	_	17	advcl	_	_	시기/ncn
+14	'	'	PUNCT	_	13	punct	_	_	'/sr
+15	로	로	ADP	_	13	case	_	_	로/jca
+16	구분	구분	NOUN	_	17	dep	_	_	구분/ncpa
+17	짓고	짓+고	VERB	_	0	root	_	_	짓/pvg+고/ecx
+18	있다	있+다	AUX	_	17	aux	_	_	있/px+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 전자의 핵심 용어가 ' 반증 가능성 ' 인 데 비해서 후자의 핵심 용어는 ' 세 세계론 ' 이다 .
+1	전자의	전자+의	NOUN	_	3	nmod	_	_	전자/ncn+의/jcm
+2	핵심	핵심	NOUN	_	3	compound	_	_	핵심/ncn
+3	용어가	용어+가	NOUN	_	6	nsubj	_	_	용어/ncn+가/jcs
+4	'	'	PUNCT	_	5	punct	_	_	'/sl
+5	반증	반증	NOUN	_	6	compound	_	_	반증/ncpa
+6	가능성	가능성	NOUN	_	9	acl	_	_	가능성/ncn
+7	'	'	PUNCT	_	6	punct	_	_	'/sr
+8	인	이+ㄴ	ADP	_	6	cop	_	_	이/jp+ㄴ/etm
+9	데	데	NOUN	_	10	mark	_	_	데/nbn
+10	비해서	비하+어서	SCONJ	_	16	ccomp	_	_	비하/pvg+어서/ecs
+11	후자의	후자+의	NOUN	_	13	nmod	_	_	후자/ncn+의/jcm
+12	핵심	핵심	NOUN	_	13	compound	_	_	핵심/ncn
+13	용어는	용어+는	NOUN	_	16	dislocated	_	_	용어/ncn+는/jxt
+14	'	'	PUNCT	_	15	punct	_	_	'/sl
+15	세	세	NUM	_	16	nummod	_	_	세/nnc
+16	세계론	세계론	NOUN	_	0	root	_	_	세계론/ncn
+17	'	'	PUNCT	_	16	punct	_	_	'/sr
+18	이다	이+다	ADP	_	16	cop	_	_	이/jp+다/ef
+19	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 사실 세 세계론이 가지는 중요한 의미는 다른 데 있다 .
+1	사실	사실	NOUN	_	7	dep	_	_	사실/ncn
+2	세	세	NUM	_	3	nummod	_	_	세/nnc
+3	세계론이	세계론+이	NOUN	_	4	nsubj	_	_	세계론/ncn+이/jcs
+4	가지는	가지+는	VERB	_	6	acl	_	_	가지/pvg+는/etm
+5	중요한	중요+하+ㄴ	VERB	_	6	amod	_	_	중요/ncps+하/xsm+ㄴ/etm
+6	의미는	의미+는	NOUN	_	7	dislocated	_	_	의미/ncpa+는/jxt
+7	다른	다르+ㄴ	ADJ	_	0	root	_	_	다르/paa+ㄴ/etm
+8	데	데	NOUN	_	9	fixed	_	_	데/nbn
+9	있다	있+다	ADJ	_	7	aux	_	_	있/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러나 포퍼는 자신이 의미의 기준을 내놓은 적이 없을 뿐 아니라 그러한 일을 하는 것은 커다란 철학적 오류라고 주장해 왔다 .
+1	그러나	그러나	CCONJ	_	18	cc	_	_	그러나/maj
+2	포퍼는	포퍼+는	PROPN	_	18	dislocated	_	_	포퍼/nq+는/jxt
+3	자신이	자신+이	NOUN	_	6	nsubj	_	_	자신/ncn+이/jcs
+4	의미의	의미+의	NOUN	_	5	nmod	_	_	의미/ncpa+의/jcm
+5	기준을	기준+을	NOUN	_	6	obj	_	_	기준/ncn+을/jco
+6	내놓은	내놓+ㄴ	VERB	_	7	acl	_	_	내놓/pvg+ㄴ/etm
+7	적이	적+이	NOUN	_	8	nsubj	_	_	적/nbn+이/jcs
+8	없을	없+ㄹ	ADJ	_	9	amod	_	_	없/paa+ㄹ/etm
+9	뿐	뿐	NOUN	_	10	mark	_	_	뿐/nbn
+10	아니라	아니+라	SCONJ	_	17	xcomp	_	_	아니/paa+라/ecs
+11	그러한	그러하+ㄴ	VERB	_	12	amod	_	_	그러하/pad+ㄴ/etm
+12	일을	일+을	NOUN	_	13	obj	_	_	일/ncpa+을/jco
+13	하는	하+는	VERB	_	14	acl	_	_	하/pvg+는/etm
+14	것은	것+은	NOUN	_	17	dislocated	_	_	것/nbn+은/jxt
+15	커다란	커다랗+ㄴ	ADJ	_	17	amod	_	_	커다랗/paa+ㄴ/etm
+16	철학적	철학+적	NOUN	_	17	amod	_	_	철학/ncn+적/xsn
+17	오류라고	오류+이+라+고	VERB	_	18	conj	_	_	오류/ncn+이/jp+라/ef+고/jcr
+18	주장해	주장+하+어	VERB	_	0	root	_	_	주장/ncpa+하/xsv+어/ecx
+19	왔다	오+았+다	AUX	_	18	aux	_	_	오/px+았/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 포퍼는 단지 과학과 비과학을 가르는 ' 경계 설정의 기준 ' ( the criterion of dematcation ) 으로서 반증 가능성을 제시했을 뿐이다 .
+1	포퍼는	포퍼+는	PROPN	_	20	dislocated	_	_	포퍼/nq+는/jxt
+2	단지	단지	ADV	_	9	advmod	_	_	단지/mag
+3	과학과	과학+과	CCONJ	_	4	conj	_	_	과학/ncn+과/jcj
+4	비과학을	비+과학+을	PART	_	5	obj	_	_	비/xp+과학/ncn+을/jco
+5	가르는	가르+는	VERB	_	9	acl	_	_	가르/pvg+는/etm
+6	'	'	PUNCT	_	7	punct	_	_	'/sl
+7	경계	경계	NOUN	_	8	compound	_	_	경계/ncn
+8	설정의	설정+의	NOUN	_	9	nmod	_	_	설정/ncpa+의/jcm
+9	기준	기준	NOUN	_	20	advcl	_	_	기준/ncn
+10	'	'	PUNCT	_	9	punct	_	_	'/sr
+11	(	(	PUNCT	_	15	punct	_	_	(/sl
+12	the	the	X	_	15	flat	_	_	the/f
+13	criterion	criterion	X	_	15	flat	_	_	criterion/f
+14	of	of	X	_	15	flat	_	_	of/f
+15	dematcation	dematcation	X	_	9	appos	_	_	dematcation/f
+16	)	)	PUNCT	_	15	punct	_	_	)/sr
+17	으로서	으로서	ADP	_	9	case	_	_	으로서/jca
+18	반증	반증	NOUN	_	19	compound	_	_	반증/ncpa
+19	가능성을	가능성+을	NOUN	_	20	obj	_	_	가능성/ncn+을/jco
+20	제시했을	제시+하+었+ㄹ	VERB	_	0	root	_	_	제시/ncpa+하/xsv+었/ep+ㄹ/etm
+21	뿐이다	뿐+이+다	VERB	_	20	aux	_	_	뿐/nbn+이/jp+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 그러나 반증 가능성을 의미의 기준으로 해석할 때 검증 가능성의 원리가 부딪치는 것과 똑같은 곤경에 부딪치게 된다 .
+1	그러나	그러나	CCONJ	_	15	cc	_	_	그러나/maj
+2	반증	반증	NOUN	_	3	compound	_	_	반증/ncpa
+3	가능성을	가능성+을	NOUN	_	6	obj	_	_	가능성/ncn+을/jco
+4	의미의	의미+의	NOUN	_	5	nmod	_	_	의미/ncpa+의/jcm
+5	기준으로	기준+으로	ADV	_	6	advcl	_	_	기준/ncn+으로/jca
+6	해석할	해석+하+ㄹ	VERB	_	7	acl	_	_	해석/ncpa+하/xsv+ㄹ/etm
+7	때	때	NOUN	_	15	advmod	_	_	때/ncn
+8	검증	검증	NOUN	_	9	compound	_	_	검증/ncpa
+9	가능성의	가능성+의	NOUN	_	10	nmod	_	_	가능성/ncn+의/jcm
+10	원리가	원리+가	NOUN	_	11	nsubj	_	_	원리/ncn+가/jcs
+11	부딪치는	부딪치+는	VERB	_	12	acl	_	_	부딪치/pvg+는/etm
+12	것과	것+과	CCONJ	_	13	conj	_	_	것/nbn+과/jct
+13	똑같은	똑같+ㄴ	ADJ	_	14	amod	_	_	똑같/paa+ㄴ/etm
+14	곤경에	곤경+에	ADV	_	15	obl	_	_	곤경/ncn+에/jca
+15	부딪치게	부딪치+게	VERB	_	0	root	_	_	부딪치/pvg+게/ecx
+16	된다	되+ㄴ다	AUX	_	15	aux	_	_	되/px+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그러므로 포퍼가 검증 원리를 향해 쏜 화살은 바로 자신에게 꽂히게 된다 .
+1	그러므로	그러므로	CCONJ	_	10	cc	_	_	그러므로/maj
+2	포퍼가	포퍼+가	PROPN	_	6	nsubj	_	_	포퍼/nq+가/jcs
+3	검증	검증	NOUN	_	4	compound	_	_	검증/ncpa
+4	원리를	원리+를	NOUN	_	5	obj	_	_	원리/ncn+를/jco
+5	향해	향하+어	SCONJ	_	6	ccomp	_	_	향하/pvg+어/ecs
+6	쏜	쏘+ㄴ	VERB	_	7	acl	_	_	쏘/pvg+ㄴ/etm
+7	화살은	화살+은	NOUN	_	10	dislocated	_	_	화살/ncn+은/jxt
+8	바로	바로	ADV	_	10	advmod	_	_	바로/mag
+9	자신에게	자신+에게	ADV	_	10	iobj	_	_	자신/ncn+에게/jca
+10	꽂히게	꽂히+게	VERB	_	0	root	_	_	꽂히/pvg+게/ecx
+11	된다	되+ㄴ다	AUX	_	10	aux	_	_	되/px+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 즉 의미 기준으로서의 반증 가능성은 자기 논박적인 것이 되고 만다 .
+1	즉	즉	CCONJ	_	9	cc	_	_	즉/maj
+2	의미	의미	NOUN	_	3	compound	_	_	의미/ncpa
+3	기준으로서의	기준+으로서+의	NOUN	_	5	nmod	_	_	기준/ncn+으로서/jca+의/jcm
+4	반증	반증	NOUN	_	5	compound	_	_	반증/ncpa
+5	가능성은	가능성+은	NOUN	_	9	dislocated	_	_	가능성/ncn+은/jxt
+6	자기	자기	PRON	_	7	compound	_	_	자기/npp
+7	논박적인	논박+적+이+ㄴ	VERB	_	8	acl	_	_	논박/ncpa+적/xsn+이/jp+ㄴ/etm
+8	것이	것+이	NOUN	_	9	nsubj	_	_	것/nbn+이/jcs
+9	되고	되+고	VERB	_	0	root	_	_	되/pvg+고/ecx
+10	만다	말+ㄴ다	AUX	_	9	aux	_	_	말/px+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그러나 의미 기준이 배제된 과학과 비과학의 경계 설정의 기준으로 반증 원리를 본다면 이러한 자기 논박적 결과는 생기지 않는다 .
+1	그러나	그러나	CCONJ	_	17	cc	_	_	그러나/maj
+2	의미	의미	NOUN	_	3	compound	_	_	의미/ncpa
+3	기준이	기준+이	NOUN	_	4	nsubj	_	_	기준/ncn+이/jcs
+4	배제된	배제+되+ㄴ	VERB	_	9	acl	_	_	배제/ncpa+되/xsv+ㄴ/etm
+5	과학과	과학+과	CCONJ	_	6	conj	_	_	과학/ncn+과/jcj
+6	비과학의	비+과학+의	PART	_	8	nmod	_	_	비/xp+과학/ncn+의/jcm
+7	경계	경계	NOUN	_	8	compound	_	_	경계/ncn
+8	설정의	설정+의	NOUN	_	9	nmod	_	_	설정/ncpa+의/jcm
+9	기준으로	기준+으로	ADV	_	12	advcl	_	_	기준/ncn+으로/jca
+10	반증	반증	NOUN	_	11	compound	_	_	반증/ncpa
+11	원리를	원리+를	NOUN	_	12	obj	_	_	원리/ncn+를/jco
+12	본다면	보+ㄴ다면	SCONJ	_	17	ccomp	_	_	보/pvg+ㄴ다면/ecs
+13	이러한	이러하+ㄴ	VERB	_	16	amod	_	_	이러하/pad+ㄴ/etm
+14	자기	자기	PRON	_	15	compound	_	_	자기/npp
+15	논박적	논박+적	NOUN	_	16	amod	_	_	논박/ncpa+적/xsn
+16	결과는	결과+는	NOUN	_	17	dislocated	_	_	결과/ncn+는/jxt
+17	생기지	생기+지	VERB	_	0	root	_	_	생기/pvg+지/ecx
+18	않는다	않+는다	AUX	_	17	aux	_	_	않/px+는다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그러므로 의미의 경계 설정의 기준과 과학의 경계 설정의 기준은 단순히 용어법의 차이가 아니고 포퍼에게는 본질적인 차이이다 .
+1	그러므로	그러므로	CCONJ	_	16	cc	_	_	그러므로/maj
+2	의미의	의미+의	NOUN	_	4	nmod	_	_	의미/ncpa+의/jcm
+3	경계	경계	NOUN	_	4	compound	_	_	경계/ncn
+4	설정의	설정+의	NOUN	_	5	nmod	_	_	설정/ncpa+의/jcm
+5	기준과	기준+과	CCONJ	_	9	conj	_	_	기준/ncn+과/jcj
+6	과학의	과학+의	NOUN	_	8	nmod	_	_	과학/ncn+의/jcm
+7	경계	경계	NOUN	_	8	compound	_	_	경계/ncn
+8	설정의	설정+의	NOUN	_	9	nmod	_	_	설정/ncpa+의/jcm
+9	기준은	기준+은	NOUN	_	16	dislocated	_	_	기준/ncn+은/jxt
+10	단순히	단순+히	ADV	_	13	advmod	_	_	단순/ncps+히/xsa
+11	용어법의	용어+법+의	NOUN	_	12	nmod	_	_	용어/ncn+법/ncn+의/jcm
+12	차이가	차이+가	NOUN	_	13	csubj	_	_	차이/ncn+가/jcc
+13	아니고	아니+고	CCONJ	_	16	conj	_	_	아니/paa+고/ecc
+14	포퍼에게는	포퍼+에게+는	PROPN	_	16	dislocated	_	_	포퍼/nq+에게/jca+는/jxt
+15	본질적인	본질+적+이+ㄴ	VERB	_	16	ccomp	_	_	본질/ncn+적/xsn+이/jp+ㄴ/etm
+16	차이이다	차이+이+다	VERB	_	0	root	_	_	차이/ncn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 논리 실증주의자들의 주장에 의하면 한 언명의 유의미의 여부는 그 언명의 검증 가능성에 있다고 한다 .
+1	논리	논리	NOUN	_	2	compound	_	_	논리/ncn
+2	실증주의자들의	실증주의자+들+의	NOUN	_	3	nmod	_	_	실증주의자/ncn+들/xsn+의/jcm
+3	주장에	주장+에	ADV	_	4	obl	_	_	주장/ncpa+에/jca
+4	의하면	의하+면	SCONJ	_	14	ccomp	_	_	의하/pvg+면/ecs
+5	한	한	NUM	_	6	nummod	_	_	한/nnc
+6	언명의	언명+의	NOUN	_	8	nmod	_	_	언명/ncpa+의/jcm
+7	유의미의	유+의미+의	PART	_	8	nmod	_	_	유/xp+의미/ncpa+의/jcm
+8	여부는	여부+는	NOUN	_	13	dislocated	_	_	여부/ncn+는/jxt
+9	그	그	DET	_	10	det	_	_	그/mmd
+10	언명의	언명+의	NOUN	_	12	nmod	_	_	언명/ncpa+의/jcm
+11	검증	검증	NOUN	_	12	compound	_	_	검증/ncpa
+12	가능성에	가능성+에	ADV	_	13	obl	_	_	가능성/ncn+에/jca
+13	있다고	있+다+고	VERB	_	14	conj	_	_	있/paa+다/ef+고/jcr
+14	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 즉 경험적으로 그것의 진 위를 검증할 수 있는 언명만이 유의미한 언명이라는 것이다 .
+1	즉	즉	CCONJ	_	11	cc	_	_	즉/maj
+2	경험적으로	경험+적+으로	ADV	_	6	advcl	_	_	경험/ncpa+적/xsn+으로/jca
+3	그것의	그것+의	PRON	_	5	nmod	_	_	그것/npd+의/jcm
+4	진	진	NOUN	_	5	compound	_	_	진/ncn
+5	위를	위+를	NOUN	_	6	obj	_	_	위/ncn+를/jco
+6	검증할	검증+하+ㄹ	VERB	_	9	acl	_	_	검증/ncpa+하/xsv+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	있는	있+는	ADJ	_	6	aux	_	_	있/paa+는/etm
+9	언명만이	언명+만+이	NOUN	_	11	nsubj	_	_	언명/ncpa+만/jxc+이/jcs
+10	유의미한	유+의미+하+ㄴ	PART	_	11	ccomp	_	_	유/xp+의미/ncpa+하/xsv+ㄴ/etm
+11	언명이라는	언명+이+라는	VERB	_	0	root	_	_	언명/ncpa+이/jp+라는/etm
+12	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이 검증 원리가 갖는 난점은 다음 세 가지이다 .
+1	이	이	DET	_	3	det	_	_	이/mmd
+2	검증	검증	NOUN	_	3	compound	_	_	검증/ncpa
+3	원리가	원리+가	NOUN	_	4	nsubj	_	_	원리/ncn+가/jcs
+4	갖는	갖+는	VERB	_	5	acl	_	_	갖/pvg+는/etm
+5	난점은	난점+은	NOUN	_	8	dislocated	_	_	난점/ncn+은/jxt
+6	다음	다음	NOUN	_	8	compound	_	_	다음/ncn
+7	세	세	NUM	_	8	nummod	_	_	세/nnc
+8	가지이다	가지+이+다	VERB	_	0	root	_	_	가지/nbu+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 논리 실증주의자들은 모든 언명을 의미 있는 언명과 의미 없는 언명으로 구분하고 과학적 언명은 전자에 의해서만 이루어진다고 한다 .
+1	논리	논리	NOUN	_	2	compound	_	_	논리/ncn
+2	실증주의자들은	실증주의자+들+은	NOUN	_	16	dislocated	_	_	실증주의자/ncn+들/xsn+은/jxt
+3	모든	모든	ADJ	_	4	amod	_	_	모든/mma
+4	언명을	언명+을	NOUN	_	11	obj	_	_	언명/ncpa+을/jco
+5	의미	의미	NOUN	_	6	dep	_	_	의미/ncpa
+6	있는	있+는	ADJ	_	7	amod	_	_	있/paa+는/etm
+7	언명과	언명+과	CCONJ	_	10	conj	_	_	언명/ncpa+과/jcj
+8	의미	의미	NOUN	_	9	dep	_	_	의미/ncpa
+9	없는	없+는	ADJ	_	10	amod	_	_	없/paa+는/etm
+10	언명으로	언명+으로	ADV	_	11	advcl	_	_	언명/ncpa+으로/jca
+11	구분하고	구분+하+고	CCONJ	_	16	conj	_	_	구분/ncpa+하/xsv+고/ecc
+12	과학적	과학+적	NOUN	_	13	amod	_	_	과학/ncn+적/xsn
+13	언명은	언명+은	NOUN	_	16	dislocated	_	_	언명/ncpa+은/jxt
+14	전자에	전자+에	ADV	_	15	obl	_	_	전자/ncn+에/jca
+15	의해서만	의하+어서+만	ADV	_	16	ccomp	_	_	의하/pvg+어서/ecs+만/jxc
+16	이루어진다고	이루+어+지+ㄴ다+고	VERB	_	17	conj	_	_	이루/pvg+어/ecx+지/px+ㄴ다/ef+고/jcr
+17	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# S를 검증 가능한 유의미한 언명이라고 하고 N을 검증 불가능한 무의미한 언명이라고 하자 .
+1	S를	S+를	NOUN	_	6	obj	_	_	S/f+를/jco
+2	검증	검증	NOUN	_	3	compound	_	_	검증/ncpa
+3	가능한	가능+하+ㄴ	VERB	_	5	amod	_	_	가능/ncps+하/xsm+ㄴ/etm
+4	유의미한	유+의미+하+ㄴ	PART	_	5	acl	_	_	유/xp+의미/ncpa+하/xsv+ㄴ/etm
+5	언명이라고	언명+이+라+고	VERB	_	6	conj	_	_	언명/ncpa+이/jp+라/ef+고/jcr
+6	하고	하+고	CCONJ	_	12	conj	_	_	하/pvg+고/ecc
+7	N을	N+을	NOUN	_	12	obj	_	_	N/f+을/jco
+8	검증	검증	NOUN	_	9	dep	_	_	검증/ncpa
+9	불가능한	불+가능+하+ㄴ	PART	_	11	amod	_	_	불/xp+가능/ncps+하/xsm+ㄴ/etm
+10	무의미한	무+의미+하+ㄴ	PART	_	11	acl	_	_	무/xp+의미/ncpa+하/xsv+ㄴ/etm
+11	언명이라고	언명+이+라+고	VERB	_	12	conj	_	_	언명/ncpa+이/jp+라/ef+고/jcr
+12	하자	하+자	VERB	_	0	root	_	_	하/pvg+자/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이것을 선언 ( disjunction ) 으로 연결하면 S N ( either S or N ) 이 된다 .
+1	이것을	이것+을	PRON	_	7	obj	_	_	이것/npd+을/jco
+2	선언	선언	NOUN	_	7	advcl	_	_	선언/ncpa
+3	(	(	PUNCT	_	4	punct	_	_	(/sl
+4	disjunction	disjunction	X	_	2	appos	_	_	disjunction/f
+5	)	)	PUNCT	_	4	punct	_	_	)/sr
+6	으로	으로	ADP	_	2	case	_	_	으로/jca
+7	연결하면	연결+하+면	SCONJ	_	17	ccomp	_	_	연결/ncpa+하/xsv+면/ecs
+8	S	S	X	_	9	flat	_	_	S/f
+9	N	N	X	_	17	csubj	_	_	N/f
+10	(	(	PUNCT	_	14	punct	_	_	(/sl
+11	either	either	X	_	14	flat	_	_	either/f
+12	S	S	X	_	14	flat	_	_	S/f
+13	or	or	X	_	14	flat	_	_	or/f
+14	N	N	X	_	9	appos	_	_	N/f
+15	)	)	PUNCT	_	14	punct	_	_	)/sr
+16	이	이	ADP	_	9	case	_	_	이/jcc
+17	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 여기서 S N은 검증 가능하다 .
+1	여기서	여기+서	ADV	_	5	advcl	_	_	여기/npd+서/jca
+2	S	S	X	_	3	flat	_	_	S/f
+3	N은	N+은	NOUN	_	5	dislocated	_	_	N/f+은/jxt
+4	검증	검증	NOUN	_	5	compound	_	_	검증/ncpa
+5	가능하다	가능+하+다	VERB	_	0	root	_	_	가능/ncps+하/xsm+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 왜냐하면 S N은 S의 논리적 귀결인데 S는 검증 가능하기 때문이다 .
+1	왜냐하면	왜냐하면	CCONJ	_	9	cc	_	_	왜냐하면/maj
+2	S	S	X	_	3	flat	_	_	S/f
+3	N은	N+은	NOUN	_	6	dislocated	_	_	N/f+은/jxt
+4	S의	S+의	NOUN	_	6	nmod	_	_	S/f+의/jcm
+5	논리적	논리+적	NOUN	_	6	amod	_	_	논리/ncn+적/xsn
+6	귀결인데	귀결+이+ㄴ데	SCONJ	_	9	conj	_	_	귀결/ncpa+이/jp+ㄴ데/ecs
+7	S는	S+는	NOUN	_	9	dislocated	_	_	S/f+는/jxt
+8	검증	검증	NOUN	_	9	compound	_	_	검증/ncn
+9	가능하기	가능+하+기	VERB	_	0	root	_	_	가능/ncps+하/xsm+기/etn
+10	때문이다	때문+이+다	VERB	_	9	aux	_	_	때문/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 따라서 S N은 유의미하다 .
+1	따라서	따라서	CCONJ	_	4	cc	_	_	따라서/maj
+2	S	S	X	_	3	flat	_	_	S/f
+3	N은	N+은	NOUN	_	4	dislocated	_	_	N/f+은/jxt
+4	유의미하다	유+의미+하+다	PART	_	0	root	_	_	유/xp+의미/ncpa+하/xsv+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 그러나 이 경우 검증 가능성의 기준에 의해서 유의미한 것으로 받아들여진 언명이 무의미한 언명을 포함할 수 있다는 역설이 발생한다 .
+1	그러나	그러나	CCONJ	_	18	cc	_	_	그러나/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	경우	경우	NOUN	_	18	advmod	_	_	경우/ncn
+4	검증	검증	NOUN	_	5	compound	_	_	검증/ncpa
+5	가능성의	가능성+의	NOUN	_	6	nmod	_	_	가능성/ncn+의/jcm
+6	기준에	기준+에	ADV	_	7	obl	_	_	기준/ncn+에/jca
+7	의해서	의하+어서	SCONJ	_	18	ccomp	_	_	의하/pvg+어서/ecs
+8	유의미한	유+의미+하+ㄴ	PART	_	9	acl	_	_	유/xp+의미/ncpa+하/xsv+ㄴ/etm
+9	것으로	것+으로	ADV	_	10	advcl	_	_	것/nbn+으로/jca
+10	받아들여진	받아들이+어+지+ㄴ	AUX	_	11	acl	_	_	받아들이/pvg+어/ecx+지/px+ㄴ/etm
+11	언명이	언명+이	NOUN	_	14	nsubj	_	_	언명/ncpa+이/jcs
+12	무의미한	무+의미+하+ㄴ	PART	_	13	acl	_	_	무/xp+의미/ncpa+하/xsv+ㄴ/etm
+13	언명을	언명+을	NOUN	_	14	obj	_	_	언명/ncpa+을/jco
+14	포함할	포함+하+ㄹ	VERB	_	17	acl	_	_	포함/ncpa+하/xsv+ㄹ/etm
+15	수	수	NOUN	_	16	fixed	_	_	수/nbn
+16	있다는	있+다는	ADJ	_	14	aux	_	_	있/paa+다는/etm
+17	역설이	역설+이	NOUN	_	18	nsubj	_	_	역설/ncn+이/jcs
+18	발생한다	발생+하+ㄴ다	VERB	_	0	root	_	_	발생/ncpa+하/xsv+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 검증 가능성의 기준을 엄격하게 적용한다면 과학 언명조차 무의미한 언명으로 배제되어야 한다 .
+1	검증	검증	NOUN	_	2	compound	_	_	검증/ncpa
+2	가능성의	가능성+의	NOUN	_	3	nmod	_	_	가능성/ncn+의/jcm
+3	기준을	기준+을	NOUN	_	5	obj	_	_	기준/ncn+을/jco
+4	엄격하게	엄격+하+게	SCONJ	_	5	xcomp	_	_	엄격/ncps+하/xsm+게/ecs
+5	적용한다면	적용+하+ㄴ다면	SCONJ	_	10	ccomp	_	_	적용/ncpa+하/xsv+ㄴ다면/ecs
+6	과학	과학	NOUN	_	7	compound	_	_	과학/ncn
+7	언명조차	언명+조차	ADV	_	10	advcl	_	_	언명/ncpa+조차/jxc
+8	무의미한	무+의미+하+ㄴ	PART	_	9	acl	_	_	무/xp+의미/ncpa+하/xsv+ㄴ/etm
+9	언명으로	언명+으로	ADV	_	10	advcl	_	_	언명/ncpa+으로/jca
+10	배제되어야	배제+되+어야	VERB	_	0	root	_	_	배제/ncpa+되/xsv+어야/ecx
+11	한다	하+ㄴ다	AUX	_	10	aux	_	_	하/px+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 왜냐하면 과학 언명은 보편 언명의 형식을 갖고 있는데 이 언명은 유한 수의 관찰 언명의 연언 ( conjunction ) 으로부터 도출될 수 없기 때문이다 .
+1	왜냐하면	왜냐하면	CCONJ	_	20	cc	_	_	왜냐하면/maj
+2	과학	과학	NOUN	_	3	compound	_	_	과학/ncn
+3	언명은	언명+은	NOUN	_	7	dislocated	_	_	언명/ncpa+은/jxt
+4	보편	보편	NOUN	_	5	compound	_	_	보편/ncn
+5	언명의	언명+의	NOUN	_	6	nmod	_	_	언명/ncpa+의/jcm
+6	형식을	형식+을	NOUN	_	7	obj	_	_	형식/ncn+을/jco
+7	갖고	갖+고	VERB	_	20	ccomp	_	_	갖/pvg+고/ecx
+8	있는데	있+는데	SCONJ	_	7	aux	_	_	있/px+는데/ecs
+9	이	이	DET	_	10	det	_	_	이/mmd
+10	언명은	언명+은	NOUN	_	20	dislocated	_	_	언명/ncpa+은/jxt
+11	유한	유한	NOUN	_	12	compound	_	_	유한/ncps
+12	수의	수+의	NOUN	_	14	nmod	_	_	수/ncn+의/jcm
+13	관찰	관찰	NOUN	_	14	compound	_	_	관찰/ncpa
+14	언명의	언명+의	NOUN	_	15	nmod	_	_	언명/ncpa+의/jcm
+15	연언	연언	NOUN	_	20	advcl	_	_	연언/ncpa
+16	(	(	PUNCT	_	17	punct	_	_	(/sl
+17	conjunction	conjunction	X	_	15	appos	_	_	conjunction/f
+18	)	)	PUNCT	_	17	punct	_	_	)/sr
+19	으로부터	으로+부터	ADP	_	15	case	_	_	으로/jca+부터/jxc
+20	도출될	도출+되+ㄹ	VERB	_	0	root	_	_	도출/ncpa+되/xsv+ㄹ/etm
+21	수	수	NOUN	_	22	fixed	_	_	수/nbn
+22	없기	없+기	ADJ	_	20	aux	_	_	없/paa+기/etn
+23	때문이다	때문+이+다	VERB	_	20	aux	_	_	때문/nbn+이/jp+다/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+
+# 우선 이것은 종합 언명으로 볼 수 없는데 , 왜냐하면 이것은 관찰 언명의 결합으로 얻어진 것이 아니기 때문이다 .
+1	우선	우선	ADV	_	5	advmod	_	_	우선/mag
+2	이것은	이것+은	PRON	_	5	dislocated	_	_	이것/npd+은/jxt
+3	종합	종합	NOUN	_	4	compound	_	_	종합/ncpa
+4	언명으로	언명+으로	ADV	_	5	advcl	_	_	언명/ncpa+으로/jca
+5	볼	보+ㄹ	VERB	_	16	dep	_	_	보/pvg+ㄹ/etm
+6	수	수	NOUN	_	7	fixed	_	_	수/nbn
+7	없는데	없+는데	SCONJ	_	5	aux	_	_	없/paa+는데/ecs
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	왜냐하면	왜냐하면	ADV	_	16	advmod	_	_	왜냐하면/mag
+10	이것은	이것+은	PRON	_	16	dislocated	_	_	이것/npd+은/jxt
+11	관찰	관찰	NOUN	_	12	compound	_	_	관찰/ncpa
+12	언명의	언명+의	NOUN	_	13	nmod	_	_	언명/ncpa+의/jcm
+13	결합으로	결합+으로	ADV	_	14	advcl	_	_	결합/ncpa+으로/jca
+14	얻어진	얻+어+지+ㄴ	AUX	_	15	acl	_	_	얻/pvg+어/ecx+지/px+ㄴ/etm
+15	것이	것+이	NOUN	_	16	csubj	_	_	것/nbn+이/jcc
+16	아니기	아니+기	ADJ	_	0	root	_	_	아니/paa+기/etn
+17	때문이다	때문+이+다	VERB	_	16	aux	_	_	때문/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그것이 분석적인 것도 종합적인 것도 아니라면 검증 원리는 그 자신의 기준에 의해서 무의미하게 될 것이다 .
+1	그것이	그것+이	PRON	_	6	nsubj	_	_	그것/npd+이/jcs
+2	분석적인	분석+적+이+ㄴ	VERB	_	3	acl	_	_	분석/ncpa+적/xsn+이/jp+ㄴ/etm
+3	것도	것+도	ADV	_	5	advcl	_	_	것/nbn+도/jxc
+4	종합적인	종합+적+이+ㄴ	VERB	_	5	acl	_	_	종합/ncpa+적/xsn+이/jp+ㄴ/etm
+5	것도	것+도	ADV	_	6	advcl	_	_	것/nbn+도/jxc
+6	아니라면	아니+라면	SCONJ	_	13	xcomp	_	_	아니/paa+라면/ecs
+7	검증	검증	NOUN	_	8	compound	_	_	검증/ncpa
+8	원리는	원리+는	NOUN	_	13	dislocated	_	_	원리/ncn+는/jxt
+9	그	그	DET	_	10	det	_	_	그/mmd
+10	자신의	자신+의	NOUN	_	11	nmod	_	_	자신/ncn+의/jcm
+11	기준에	기준+에	ADV	_	12	obl	_	_	기준/ncpa+에/jca
+12	의해서	의하+어서	SCONJ	_	13	conj	_	_	의하/pvg+어서/ecs
+13	무의미하게	무의미+하+게	VERB	_	0	root	_	_	무의미/ncps+하/xsm+게/ecx
+14	될	되+ㄹ	AUX	_	13	aux	_	_	되/px+ㄹ/etm
+15	것이다	것+이+다	VERB	_	13	aux	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그러나 이러한 난점은 의미 기준으로서 해석된 ' 반증 원리 ' 에도 그대로 적용될 수 있을 것이다 .
+1	그러나	그러나	CCONJ	_	13	cc	_	_	그러나/maj
+2	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+3	난점은	난점+은	NOUN	_	13	dislocated	_	_	난점/ncn+은/jxt
+4	의미	의미	NOUN	_	5	compound	_	_	의미/ncpa
+5	기준으로서	기준+으로서	ADV	_	6	advcl	_	_	기준/ncn+으로서/jca
+6	해석된	해석+되+ㄴ	VERB	_	9	acl	_	_	해석/ncpa+되/xsv+ㄴ/etm
+7	'	'	PUNCT	_	8	punct	_	_	'/sl
+8	반증	반증	NOUN	_	9	compound	_	_	반증/ncpa
+9	원리	원리	NOUN	_	13	advcl	_	_	원리/ncn
+10	'	'	PUNCT	_	9	punct	_	_	'/sr
+11	에도	에+도	ADP	_	9	case	_	_	에/jca+도/jxc
+12	그대로	그대로	ADV	_	13	advmod	_	_	그대로/mag
+13	적용될	적용+되+ㄹ	VERB	_	0	root	_	_	적용/ncpa+되/xsv+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있을	있+ㄹ	ADJ	_	13	aux	_	_	있/paa+ㄹ/etm
+16	것이다	것+이+다	VERB	_	13	aux	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# ' 반증 원리 ' 는 유의미한 언명은 모두 반증 가능해야 한다고 주장한다 .
+1	'	'	PUNCT	_	2	punct	_	_	'/sl
+2	반증	반증	NOUN	_	3	compound	_	_	반증/ncpa
+3	원리	원리	NOUN	_	10	dislocated	_	_	원리/ncn
+4	'	'	PUNCT	_	3	punct	_	_	'/sr
+5	는	는	ADP	_	3	case	_	_	는/jxt
+6	유의미한	유+의미+하+ㄴ	PART	_	7	acl	_	_	유/xp+의미/ncpa+하/xsv+ㄴ/etm
+7	언명은	언명+은	NOUN	_	10	dislocated	_	_	언명/ncpa+은/jxt
+8	모두	모두	ADV	_	10	advmod	_	_	모두/mag
+9	반증	반증	NOUN	_	10	compound	_	_	반증/ncpa
+10	가능해야	가능+하+어야	VERB	_	12	conj	_	_	가능/ncps+하/xsm+어야/ecx
+11	한다고	하+ㄴ다+고	VERB	_	10	aux	_	_	하/px+ㄴ다/ef+고/jcr
+12	주장한다	주장+하+ㄴ다	VERB	_	0	root	_	_	주장/ncpa+하/xsv+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 앞서처럼 반증 가능한 유의미한 언명 S와 무의미한 언명 N이 있다고 하자 .
+1	앞서처럼	앞서+처럼	ADV	_	10	advmod	_	_	앞서/mag+처럼/jca
+2	반증	반증	NOUN	_	3	compound	_	_	반증/ncpa
+3	가능한	가능+하+ㄴ	VERB	_	9	amod	_	_	가능/ncps+하/xsm+ㄴ/etm
+4	유의미한	유+의미+하+ㄴ	PART	_	5	acl	_	_	유/xp+의미/ncpa+하/xsv+ㄴ/etm
+5	언명	언명	NOUN	_	6	dep	_	_	언명/ncpa
+6	S와	S+와	CCONJ	_	9	conj	_	_	S/f+와/jcj
+7	무의미한	무+의미+하+ㄴ	PART	_	8	acl	_	_	무/xp+의미/ncpa+하/xsv+ㄴ/etm
+8	언명	언명	NOUN	_	9	dep	_	_	언명/ncpa
+9	N이	N+이	NOUN	_	10	nsubj	_	_	N/f+이/jcs
+10	있다고	있+다+고	VERB	_	11	conj	_	_	있/paa+다/ef+고/jcr
+11	하자	하+자	VERB	_	0	root	_	_	하/pvg+자/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이 두 언명을 연언으로 결합하면 S N ( S and N ) 이라는 새로운 언명을 얻는다 .
+1	이	이	DET	_	3	det	_	_	이/mmd
+2	두	두	NUM	_	3	nummod	_	_	두/nnc
+3	언명을	언명+을	NOUN	_	5	obj	_	_	언명/ncpa+을/jco
+4	연언으로	연언+으로	ADV	_	5	advcl	_	_	연언/ncpa+으로/jca
+5	결합하면	결합+하+면	SCONJ	_	16	ccomp	_	_	결합/ncpa+하/xsv+면/ecs
+6	S	S	X	_	7	dep	_	_	S/f
+7	N	N	X	_	15	compound	_	_	N/f
+8	(	(	PUNCT	_	11	punct	_	_	(/sl
+9	S	S	X	_	11	flat	_	_	S/f
+10	and	and	X	_	11	flat	_	_	and/f
+11	N	N	X	_	7	appos	_	_	N/f
+12	)	)	PUNCT	_	11	punct	_	_	)/sr
+13	이라는	이+라는	ADP	_	7	cop	_	_	이/jp+라는/etm
+14	새로운	새롭+ㄴ	ADJ	_	15	amod	_	_	새롭/paa+ㄴ/etm
+15	언명을	언명+을	NOUN	_	16	obj	_	_	언명/ncpa+을/jco
+16	얻는다	얻+는다	VERB	_	0	root	_	_	얻/pvg+는다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 여기서 S가 위이면 S N도 위이다 .
+1	여기서	여기+서	ADV	_	3	advcl	_	_	여기/npd+서/jca
+2	S가	S+가	NOUN	_	3	nsubj	_	_	S/f+가/jcs
+3	위이면	위+이+면	SCONJ	_	6	ccomp	_	_	위/ncn+이/jp+면/ecs
+4	S	S	X	_	5	flat	_	_	S/f
+5	N도	N+도	ADV	_	6	advcl	_	_	N/f+도/jxc
+6	위이다	위+이+다	VERB	_	0	root	_	_	위/ncn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 따라서 S N은 반증 가능하고 의미 기준에 따라서 유의미하다 .
+1	따라서	따라서	CCONJ	_	9	cc	_	_	따라서/maj
+2	S	S	X	_	3	flat	_	_	S/f
+3	N은	N+은	NOUN	_	9	dislocated	_	_	N/f+은/jxt
+4	반증	반증	NOUN	_	5	compound	_	_	반증/ncpa
+5	가능하고	가능+하+고	CCONJ	_	9	conj	_	_	가능/ncps+하/xsm+고/ecc
+6	의미	의미	NOUN	_	7	compound	_	_	의미/ncpa
+7	기준에	기준+에	ADV	_	8	obl	_	_	기준/ncn+에/jca
+8	따라서	따르+아서	SCONJ	_	9	ccomp	_	_	따르/pvg+아서/ecs
+9	유의미하다	유+의미+하+다	PART	_	0	root	_	_	유/xp+의미/ncpa+하/xsv+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러므로 여기서 반증 가능성의 기준에 따라 유의미한 것으로 받아들여진 언명이 반증 불가능한 무의미한 언명을 포함할 수 있다는 역설이 일어난다 .
+1	그러므로	그러므로	CCONJ	_	19	cc	_	_	그러므로/maj
+2	여기서	여기+서	ADV	_	19	advcl	_	_	여기/npd+서/jca
+3	반증	반증	NOUN	_	4	compound	_	_	반증/ncpa
+4	가능성의	가능성+의	NOUN	_	5	nmod	_	_	가능성/ncn+의/jcm
+5	기준에	기준+에	ADV	_	6	obl	_	_	기준/ncn+에/jca
+6	따라	따르+아	SCONJ	_	9	ccomp	_	_	따르/pvg+아/ecs
+7	유의미한	유+의미+하+ㄴ	PART	_	8	acl	_	_	유/xp+의미/ncpa+하/xsv+ㄴ/etm
+8	것으로	것+으로	ADV	_	9	advcl	_	_	것/nbn+으로/jca
+9	받아들여진	받아들이+어+지+ㄴ	AUX	_	10	acl	_	_	받아들이/pvg+어/ecx+지/px+ㄴ/etm
+10	언명이	언명+이	NOUN	_	15	nsubj	_	_	언명/ncpa+이/jcs
+11	반증	반증	NOUN	_	12	dep	_	_	반증/ncpa
+12	불가능한	불+가능+하+ㄴ	PART	_	14	amod	_	_	불/xp+가능/ncps+하/xsm+ㄴ/etm
+13	무의미한	무+의미+하+ㄴ	PART	_	14	acl	_	_	무/xp+의미/ncpa+하/xsv+ㄴ/etm
+14	언명을	언명+을	NOUN	_	15	obj	_	_	언명/ncpa+을/jco
+15	포함할	포함+하+ㄹ	VERB	_	18	acl	_	_	포함/ncpa+하/xsv+ㄹ/etm
+16	수	수	NOUN	_	17	fixed	_	_	수/nbn
+17	있다는	있+다는	ADJ	_	15	aux	_	_	있/paa+다는/etm
+18	역설이	역설+이	NOUN	_	19	nsubj	_	_	역설/ncn+이/jcs
+19	일어난다	일어나+ㄴ다	VERB	_	0	root	_	_	일어나/pvg+ㄴ다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 포퍼의 기준에 따른다면 형이상학적 언명은 비과학적 언명이라 하더라도 무의미한 언명은 아니다 .
+1	포퍼의	포퍼+의	PROPN	_	2	nmod	_	_	포퍼/nq+의/jcm
+2	기준에	기준+에	ADV	_	3	obl	_	_	기준/ncn+에/jca
+3	따른다면	따르+ㄴ다면	SCONJ	_	11	conj	_	_	따르/pvg+ㄴ다면/ecs
+4	형이상학적	형이상학+적	NOUN	_	5	amod	_	_	형이상학/ncn+적/xsn
+5	언명은	언명+은	NOUN	_	11	dislocated	_	_	언명/ncpa+은/jxt
+6	비과학적	비+과학+적	PART	_	7	amod	_	_	비/xp+과학/ncn+적/xsn
+7	언명이라	언명+이+라	VERB	_	8	ccomp	_	_	언명/ncpa+이/jp+라/ef
+8	하더라도	하+더라+도	ADV	_	11	dep	_	_	하/pvg+더라/ecs+도/jxc
+9	무의미한	무의미+하+ㄴ	VERB	_	10	amod	_	_	무의미/ncps+하/xsm+ㄴ/etm
+10	언명은	언명+은	NOUN	_	11	dislocated	_	_	언명/ncpa+은/jxt
+11	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# ' 반증 원리 ' 를 엄격하게 적용하면 검증 원리가 보편 언명을 무의미하게 하는 똑같은 논리로 존재 언명을 무의미하게 한다 .
+1	'	'	PUNCT	_	2	punct	_	_	'/sl
+2	반증	반증	NOUN	_	3	compound	_	_	반증/ncpa
+3	원리	원리	NOUN	_	7	obj	_	_	원리/ncn
+4	'	'	PUNCT	_	3	punct	_	_	'/sr
+5	를	를	ADP	_	3	case	_	_	를/jco
+6	엄격하게	엄격+하+게	SCONJ	_	7	xcomp	_	_	엄격/ncps+하/xsm+게/ecs
+7	적용하면	적용+하+면	SCONJ	_	18	ccomp	_	_	적용/ncpa+하/xsv+면/ecs
+8	검증	검증	NOUN	_	9	compound	_	_	검증/ncpa
+9	원리가	원리+가	NOUN	_	18	nsubj	_	_	원리/ncn+가/jcs
+10	보편	보편	NOUN	_	11	compound	_	_	보편/ncn
+11	언명을	언명+을	NOUN	_	12	obj	_	_	언명/ncpa+을/jco
+12	무의미하게	무+의미+하+게	PART	_	15	acl	_	_	무/xp+의미/ncpa+하/xsv+게/ecx
+13	하는	하+는	AUX	_	12	aux	_	_	하/px+는/etm
+14	똑같은	똑같+ㄴ	ADJ	_	15	amod	_	_	똑같/paa+ㄴ/etm
+15	논리로	논리+로	ADV	_	18	advcl	_	_	논리/ncn+로/jca
+16	존재	존재	NOUN	_	17	compound	_	_	존재/ncpa
+17	언명을	언명+을	NOUN	_	18	obj	_	_	언명/ncpa+을/jco
+18	무의미하게	무+의미+하+게	PART	_	0	root	_	_	무/xp+의미/ncpa+하/xsv+게/ecx
+19	한다	하+ㄴ다	AUX	_	18	aux	_	_	하/px+ㄴ다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 그런데 존재 언명은 보편 언명의 부정 ( negation ) 의 형식을 갖는다 .
+1	그런데	그런데	CCONJ	_	12	cc	_	_	그런데/maj
+2	존재	존재	NOUN	_	3	compound	_	_	존재/ncpa
+3	언명은	언명+은	NOUN	_	12	dislocated	_	_	언명/ncpa+은/jxt
+4	보편	보편	NOUN	_	5	compound	_	_	보편/ncn
+5	언명의	언명+의	NOUN	_	6	nmod	_	_	언명/ncpa+의/jcm
+6	부정	부정	NOUN	_	11	nmod	_	_	부정/ncpa
+7	(	(	PUNCT	_	8	punct	_	_	(/sl
+8	negation	negation	X	_	6	appos	_	_	negation/f
+9	)	)	PUNCT	_	8	punct	_	_	)/sr
+10	의	의	ADP	_	6	case	_	_	의/jcm
+11	형식을	형식+을	NOUN	_	12	obj	_	_	형식/ncn+을/jco
+12	갖는다	갖+는다	VERB	_	0	root	_	_	갖/pvg+는다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그러므로 ' 반증 원리 ' 는 한 언명을 유의미하다고 하고 그 부정을 무의미하다고 하는 역설에 빠진다 .
+1	그러므로	그러므로	CCONJ	_	16	cc	_	_	그러므로/maj
+2	'	'	PUNCT	_	3	punct	_	_	'/sl
+3	반증	반증	NOUN	_	4	compound	_	_	반증/ncpa
+4	원리	원리	NOUN	_	16	dislocated	_	_	원리/ncn
+5	'	'	PUNCT	_	4	punct	_	_	'/sr
+6	는	는	ADP	_	4	case	_	_	는/jxt
+7	한	한	NUM	_	8	nummod	_	_	한/nnc
+8	언명을	언명+을	NOUN	_	9	obj	_	_	언명/ncpa+을/jco
+9	유의미하다고	유+의미+하+다+고	PART	_	10	conj	_	_	유/xp+의미/ncpa+하/xsv+다/ef+고/jcr
+10	하고	하+고	CCONJ	_	14	conj	_	_	하/pvg+고/ecc
+11	그	그	DET	_	12	det	_	_	그/mmd
+12	부정을	부정+을	NOUN	_	13	obj	_	_	부정/ncpa+을/jco
+13	무의미하다고	무+의미+하+다+고	PART	_	14	conj	_	_	무/xp+의미/ncpa+하/xsv+다/ef+고/jcr
+14	하는	하+는	VERB	_	15	acl	_	_	하/pvg+는/etm
+15	역설에	역설+에	ADV	_	16	obl	_	_	역설/ncn+에/jca
+16	빠진다	빠지+ㄴ다	VERB	_	0	root	_	_	빠지/pvg+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그러나 포퍼의 반증 원리는 이러한 역설에 빠지지 않는다 .
+1	그러나	그러나	CCONJ	_	7	cc	_	_	그러나/maj
+2	포퍼의	포퍼+의	PROPN	_	4	nmod	_	_	포퍼/nq+의/jcm
+3	반증	반증	NOUN	_	4	compound	_	_	반증/ncpa
+4	원리는	원리+는	NOUN	_	7	dislocated	_	_	원리/ncn+는/jxt
+5	이러한	이러하+ㄴ	VERB	_	6	amod	_	_	이러하/pad+ㄴ/etm
+6	역설에	역설+에	ADV	_	7	obl	_	_	역설/ncn+에/jca
+7	빠지지	빠지+지	VERB	_	0	root	_	_	빠지/pvg+지/ecx
+8	않는다	않+는다	AUX	_	7	aux	_	_	않/px+는다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 왜냐하면 무의미한 언명의 부정은 무의미하고 , 유의미한 언명의 부정은 유의미하겠지만 과학적 언명의 부정이 과학적 언명일 필요는 없기 때문이다 .
+1	왜냐하면	왜냐하면	CCONJ	_	17	cc	_	_	왜냐하면/maj
+2	무의미한	무+의미+하+ㄴ	PART	_	3	acl	_	_	무/xp+의미/ncpa+하/xsv+ㄴ/etm
+3	언명의	언명+의	NOUN	_	4	nmod	_	_	언명/ncpa+의/jcm
+4	부정은	부정+은	NOUN	_	5	dislocated	_	_	부정/ncpa+은/jxt
+5	무의미하고	무+의미+하+고	PART	_	10	conj	_	_	무/xp+의미/ncpa+하/xsv+고/ecc
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	유의미한	유+의미+하+ㄴ	PART	_	8	acl	_	_	유/xp+의미/ncpa+하/xsv+ㄴ/etm
+8	언명의	언명+의	NOUN	_	9	nmod	_	_	언명/ncpa+의/jcm
+9	부정은	부정+은	NOUN	_	10	dislocated	_	_	부정/ncpa+은/jxt
+10	유의미하겠지만	유의미+하+겠+지만	SCONJ	_	17	conj	_	_	유의미/ncpa+하/xsv+겠/ep+지만/ecs
+11	과학적	과학+적	NOUN	_	12	amod	_	_	과학/ncn+적/xsn
+12	언명의	언명+의	NOUN	_	13	nmod	_	_	언명/ncpa+의/jcm
+13	부정이	부정+이	NOUN	_	15	nsubj	_	_	부정/ncpa+이/jcs
+14	과학적	과학+적	NOUN	_	15	amod	_	_	과학/ncn+적/xsn
+15	언명일	언명+이+ㄹ	VERB	_	16	acl	_	_	언명/ncpa+이/jp+ㄹ/etm
+16	필요는	필요+는	NOUN	_	17	dislocated	_	_	필요/ncps+는/jxt
+17	없기	없+기	ADJ	_	0	root	_	_	없/paa+기/etn
+18	때문이다	때문+이+다	VERB	_	17	aux	_	_	때문/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 논리 실증주의 검증 원리에 대해서 검증 가능성을 물었듯이 반증 원리에 대해서 역시 반증 가능성을 물을 수 있다 .
+1	논리	논리	NOUN	_	2	compound	_	_	논리/ncn
+2	실증주의	실증+주의	NOUN	_	4	compound	_	_	실증/ncpa+주의/ncn
+3	검증	검증	NOUN	_	4	compound	_	_	검증/ncpa
+4	원리에	원리+에	ADV	_	5	obl	_	_	원리/ncn+에/jca
+5	대해서	대하+어서	SCONJ	_	8	ccomp	_	_	대하/pvg+어서/ecs
+6	검증	검증	NOUN	_	7	compound	_	_	검증/ncpa
+7	가능성을	가능성+을	NOUN	_	8	obj	_	_	가능성/ncn+을/jco
+8	물었듯이	묻+었+듯이	SCONJ	_	15	ccomp	_	_	묻/pvg+었/ep+듯이/ecs
+9	반증	반증	NOUN	_	10	compound	_	_	반증/ncpa
+10	원리에	원리+에	ADV	_	11	obl	_	_	원리/ncn+에/jca
+11	대해서	대하+어서	SCONJ	_	15	ccomp	_	_	대하/pvg+어서/ecs
+12	역시	역시	ADV	_	15	advmod	_	_	역시/mag
+13	반증	반증	NOUN	_	14	compound	_	_	반증/ncpa
+14	가능성을	가능성+을	NOUN	_	15	obj	_	_	가능성/ncn+을/jco
+15	물을	묻+ㄹ	VERB	_	0	root	_	_	묻/pvg+ㄹ/etm
+16	수	수	NOUN	_	17	fixed	_	_	수/nbn
+17	있다	있+다	ADJ	_	15	aux	_	_	있/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 반증 원리 역시 검증 원리처럼 분석 언명도 종합 언명도 아니다 .
+1	반증	반증	NOUN	_	2	compound	_	_	반증/ncpa
+2	원리	원리	NOUN	_	3	dep	_	_	원리/ncn
+3	역시	역시	ADV	_	10	advmod	_	_	역시/mag
+4	검증	검증	NOUN	_	5	compound	_	_	검증/ncpa
+5	원리처럼	원리+처럼	ADV	_	10	advcl	_	_	원리/ncn+처럼/jca
+6	분석	분석	NOUN	_	7	compound	_	_	분석/ncpa
+7	언명도	언명+도	ADV	_	9	advcl	_	_	언명/ncpa+도/jxc
+8	종합	종합	NOUN	_	9	compound	_	_	종합/ncpa
+9	언명도	언명+도	ADV	_	10	advcl	_	_	언명/ncpa+도/jxc
+10	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 따라서 그 자신의 기준에 따라 무의미하다는 역설이 생긴다 .
+1	따라서	따라서	CCONJ	_	8	cc	_	_	따라서/maj
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	자신의	자신+의	NOUN	_	4	nmod	_	_	자신/ncn+의/jcm
+4	기준에	기준+에	ADV	_	5	obl	_	_	기준/ncn+에/jca
+5	따라	따르+아	SCONJ	_	8	ccomp	_	_	따르/pvg+아/ecs
+6	무의미하다는	무+의미+하+다는	PART	_	7	acl	_	_	무/xp+의미/ncpa+하/xsv+다는/etm
+7	역설이	역설+이	NOUN	_	8	nsubj	_	_	역설/ncn+이/jcs
+8	생긴다	생기+ㄴ다	VERB	_	0	root	_	_	생기/pvg+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그러나 포퍼의 반증 원리는 의미의 기준이 아니므로 그 자체 비과학적 언명이지만 무의미한 언명은 아니다 .
+1	그러나	그러나	CCONJ	_	14	cc	_	_	그러나/maj
+2	포퍼의	포퍼+의	PROPN	_	4	nmod	_	_	포퍼/nq+의/jcm
+3	반증	반증	NOUN	_	4	compound	_	_	반증/ncpa
+4	원리는	원리+는	NOUN	_	14	dislocated	_	_	원리/ncn+는/jxt
+5	의미의	의미+의	NOUN	_	6	nmod	_	_	의미/ncpa+의/jcm
+6	기준이	기준+이	NOUN	_	7	csubj	_	_	기준/ncn+이/jcc
+7	아니므로	아니+므로	SCONJ	_	14	xcomp	_	_	아니/paa+므로/ecs
+8	그	그	DET	_	9	det	_	_	그/mmd
+9	자체	자체	NOUN	_	11	advmod	_	_	자체/ncn
+10	비과학적	비+과학+적	PART	_	11	amod	_	_	비/xp+과학/ncn+적/xsn
+11	언명이지만	언명+이+지만	SCONJ	_	14	conj	_	_	언명/ncpa+이/jp+지만/ecs
+12	무의미한	무+의미+하+ㄴ	PART	_	13	acl	_	_	무/xp+의미/ncpa+하/xsv+ㄴ/etm
+13	언명은	언명+은	NOUN	_	14	dislocated	_	_	언명/ncpa+은/jxt
+14	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그러므로 적어도 검증 원리처럼 자신의 주장에 의해서 그 자신이 무의미하게 되는 자기 논박에 빠지지 않는다 .
+1	그러므로	그러므로	CCONJ	_	14	cc	_	_	그러므로/maj
+2	적어도	적어도	ADV	_	14	advmod	_	_	적어도/mag
+3	검증	검증	NOUN	_	4	compound	_	_	검증/ncpa
+4	원리처럼	원리+처럼	ADV	_	14	advcl	_	_	원리/ncn+처럼/jca
+5	자신의	자신+의	NOUN	_	6	nmod	_	_	자신/ncn+의/jcm
+6	주장에	주장+에	ADV	_	7	obl	_	_	주장/ncpa+에/jca
+7	의해서	의하+어서	SCONJ	_	10	ccomp	_	_	의하/pvg+어서/ecs
+8	그	그	DET	_	9	det	_	_	그/mmd
+9	자신이	자신+이	NOUN	_	10	nsubj	_	_	자신/ncn+이/jcs
+10	무의미하게	무+의미+하+게	PART	_	13	acl	_	_	무/xp+의미/ncpa+하/xsv+게/ecx
+11	되는	되+는	AUX	_	10	aux	_	_	되/px+는/etm
+12	자기	자기	PRON	_	13	compound	_	_	자기/npp
+13	논박에	논박+에	ADV	_	14	obl	_	_	논박/ncpa+에/jca
+14	빠지지	빠지+지	VERB	_	0	root	_	_	빠지/pvg+지/ecx
+15	않는다	않+는다	AUX	_	14	aux	_	_	않/px+는다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 포퍼와 논리 실증주의자들의 이러한 차이는 그들의 문제 의식의 유사성에도 불구하고 그들이 깔고 있는 지적 배경의 차이에서 기인한다 .
+1	포퍼와	포퍼+와	CCONJ	_	3	conj	_	_	포퍼/nq+와/jcj
+2	논리	논리	NOUN	_	3	compound	_	_	논리/ncn
+3	실증주의자들의	실증주의자+들+의	NOUN	_	5	nmod	_	_	실증주의자/ncn+들/xsn+의/jcm
+4	이러한	이러하+ㄴ	VERB	_	5	amod	_	_	이러하/pad+ㄴ/etm
+5	차이는	차이+는	NOUN	_	17	dislocated	_	_	차이/ncn+는/jxt
+6	그들의	그+들+의	PRON	_	8	nmod	_	_	그/npp+들/xsn+의/jcm
+7	문제	문제	NOUN	_	8	compound	_	_	문제/ncn
+8	의식의	의식+의	NOUN	_	9	nmod	_	_	의식/ncn+의/jcm
+9	유사성에도	유사성+에+도	ADV	_	10	advcl	_	_	유사성/ncn+에/jca+도/jxc
+10	불구하고	불구하+고	CCONJ	_	17	conj	_	_	불구하/pvg+고/ecc
+11	그들이	그+들+이	PRON	_	12	nsubj	_	_	그/npp+들/xsn+이/jcs
+12	깔고	깔+고	VERB	_	16	acl	_	_	깔/pvg+고/ecx
+13	있는	있+는	AUX	_	12	aux	_	_	있/px+는/etm
+14	지적	지+적	NOUN	_	15	amod	_	_	지/ncn+적/xsn
+15	배경의	배경+의	NOUN	_	16	nmod	_	_	배경/ncn+의/jcm
+16	차이에서	차이+에서	ADV	_	17	advcl	_	_	차이/ncn+에서/jca
+17	기인한다	기인+하+ㄴ다	VERB	_	0	root	_	_	기인/ncpa+하/xsv+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 논리 실증주의자들은 유의미한 문장과 무의미한 문장을 구분하는 비트겐슈타인의 논리철학논고에 그 학문적 배경을 두고 있다 .
+1	논리	논리	NOUN	_	2	compound	_	_	논리/ncn
+2	실증주의자들은	실증주의자+들+은	NOUN	_	13	dislocated	_	_	실증주의자/ncn+들/xsn+은/jxt
+3	유의미한	유+의미+하+ㄴ	PART	_	4	acl	_	_	유/xp+의미/ncpa+하/xsv+ㄴ/etm
+4	문장과	문장+과	CCONJ	_	6	conj	_	_	문장/ncn+과/jcj
+5	무의미한	무+의미+하+ㄴ	PART	_	6	acl	_	_	무/xp+의미/ncpa+하/xsv+ㄴ/etm
+6	문장을	문장+을	NOUN	_	7	obj	_	_	문장/ncn+을/jco
+7	구분하는	구분+하+는	VERB	_	9	acl	_	_	구분/ncpa+하/xsv+는/etm
+8	비트겐슈타인의	비트겐슈타인+의	PROPN	_	9	nmod	_	_	비트겐슈타인/nq+의/jcm
+9	논리철학논고에	논리철학논고+에	ADV	_	13	obl	_	_	논리철학논고/nq+에/jca
+10	그	그	DET	_	12	det	_	_	그/mmd
+11	학문적	학문+적	NOUN	_	12	amod	_	_	학문/ncpa+적/xsn
+12	배경을	배경+을	NOUN	_	13	obj	_	_	배경/ncn+을/jco
+13	두고	두+고	VERB	_	0	root	_	_	두/pvg+고/ecx
+14	있다	있+다	AUX	_	13	aux	_	_	있/px+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 포퍼의 이러한 해명의 과정에 결정적 단서를 제공한 것은 아인슈타인의 일반 상대성 이론에 대한 에딩턴의 실험이었다 .
+1	포퍼의	포퍼+의	PROPN	_	3	nmod	_	_	포퍼/nq+의/jcm
+2	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+3	해명의	해명+의	NOUN	_	4	nmod	_	_	해명/ncpa+의/jcm
+4	과정에	과정+에	ADV	_	7	obl	_	_	과정/ncn+에/jca
+5	결정적	결정+적	NOUN	_	6	amod	_	_	결정/ncpa+적/xsn
+6	단서를	단서+를	NOUN	_	7	obj	_	_	단서/ncn+를/jco
+7	제공한	제공+하+ㄴ	VERB	_	8	acl	_	_	제공/ncpa+하/xsv+ㄴ/etm
+8	것은	것+은	NOUN	_	15	dislocated	_	_	것/nbn+은/jxt
+9	아인슈타인의	아인슈타인+의	PROPN	_	12	nmod	_	_	아인슈타인/nq+의/jcm
+10	일반	일반	NOUN	_	11	compound	_	_	일반/ncn
+11	상대성	상대성	NOUN	_	12	compound	_	_	상대성/ncn
+12	이론에	이론+에	ADV	_	13	obl	_	_	이론/ncn+에/jca
+13	대한	대하+ㄴ	VERB	_	15	ccomp	_	_	대하/pvg+ㄴ/etm
+14	에딩턴의	에딩턴+의	PROPN	_	15	nmod	_	_	에딩턴/nq+의/jcm
+15	실험이었다	실험+이+었+다	VERB	_	0	root	_	_	실험/ncpa+이/jp+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 아인슈타인의 이론의 경우에는 상황은 인상적일 만큼 완전히 다르다 .
+1	아인슈타인의	아인슈타인+의	PROPN	_	2	nmod	_	_	아인슈타인/nq+의/jcm
+2	이론의	이론+의	NOUN	_	3	nmod	_	_	이론/ncn+의/jcm
+3	경우에는	경우+에+는	NOUN	_	8	dislocated	_	_	경우/ncn+에/jca+는/jxt
+4	상황은	상황+은	NOUN	_	8	dislocated	_	_	상황/ncn+은/jxt
+5	인상적일	인상+적+이+ㄹ	VERB	_	6	acl	_	_	인상/ncn+적/xsn+이/jp+ㄹ/etm
+6	만큼	만큼	NOUN	_	8	mark	_	_	만큼/nbn
+7	완전히	완전+히	ADV	_	8	advmod	_	_	완전/ncps+히/xsa
+8	다르다	다르+다	ADJ	_	0	root	_	_	다르/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그 결과 다음과 같은 계산이 도출된다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	결과	결과	NOUN	_	6	advmod	_	_	결과/ncn
+3	다음과	다음+과	CCONJ	_	4	conj	_	_	다음/ncn+과/jct
+4	같은	같+ㄴ	ADJ	_	5	amod	_	_	같/paa+ㄴ/etm
+5	계산이	계산+이	NOUN	_	6	nsubj	_	_	계산/ncpa+이/jcs
+6	도출된다	도출+되+ㄴ다	VERB	_	0	root	_	_	도출/ncpa+되/xsv+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 즉 태양에 근접해 있는 항성은 태양으로부터 약간 이동한 것처럼 보일 것이다 .
+1	즉	즉	CCONJ	_	10	cc	_	_	즉/maj
+2	태양에	태양+에	ADV	_	3	obl	_	_	태양/ncn+에/jca
+3	근접해	근접+하+어	VERB	_	5	acl	_	_	근접/ncpa+하/xsv+어/ecx
+4	있는	있+는	AUX	_	3	aux	_	_	있/px+는/etm
+5	항성은	항성+은	NOUN	_	10	dislocated	_	_	항성/ncn+은/jxt
+6	태양으로부터	태양+으로+부터	ADV	_	8	advcl	_	_	태양/ncn+으로/jca+부터/jxc
+7	약간	약간	NOUN	_	8	compound	_	_	약간/ncn
+8	이동한	이동+하+ㄴ	VERB	_	9	acl	_	_	이동/ncpa+하/xsv+ㄴ/etm
+9	것처럼	것+처럼	ADV	_	10	advcl	_	_	것/nbn+처럼/jca
+10	보일	보이+ㄹ	VERB	_	0	root	_	_	보이/pvg+ㄹ/etm
+11	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이러한 항성들은 태양의 강력한 빛으로 해서 낮에는 보이지 않기 때문에 보통의 경우에는 그 효과가 관측될 수 없다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	항성들은	항성+들+은	NOUN	_	8	dislocated	_	_	항성/ncn+들/xsn+은/jxt
+3	태양의	태양+의	NOUN	_	5	nmod	_	_	태양/ncn+의/jcm
+4	강력한	강력+하+ㄴ	VERB	_	5	amod	_	_	강력/ncps+하/xsm+ㄴ/etm
+5	빛으로	빛+으로	ADV	_	6	advcl	_	_	빛/ncn+으로/jca
+6	해서	하+어서	SCONJ	_	8	ccomp	_	_	하/pvg+어서/ecs
+7	낮에는	낮+에+는	NOUN	_	8	dislocated	_	_	낮/ncn+에/jca+는/jxt
+8	보이지	보이+지	VERB	_	10	dep	_	_	보이/pvg+지/ecx
+9	않기	않+기	AUX	_	8	aux	_	_	않/px+기/etn
+10	때문에	때문+에	ADV	_	15	obl	_	_	때문/nbn+에/jca
+11	보통의	보통+의	NOUN	_	12	nmod	_	_	보통/ncn+의/jcm
+12	경우에는	경우+에+는	NOUN	_	15	dislocated	_	_	경우/ncn+에/jca+는/jxt
+13	그	그	DET	_	14	det	_	_	그/mmd
+14	효과가	효과+가	NOUN	_	15	nsubj	_	_	효과/ncn+가/jcs
+15	관측될	관측+되+ㄹ	VERB	_	0	root	_	_	관측/ncpa+되/xsv+ㄹ/etm
+16	수	수	NOUN	_	17	fixed	_	_	수/nbn
+17	없다	없+다	ADJ	_	15	aux	_	_	없/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그러나 일식이 일어날 경우 그것을 촬영하는 것이 가능하다 .
+1	그러나	그러나	CCONJ	_	8	cc	_	_	그러나/maj
+2	일식이	일식+이	NOUN	_	3	nsubj	_	_	일식/ncn+이/jcs
+3	일어날	일어나+ㄹ	VERB	_	4	acl	_	_	일어나/pvg+ㄹ/etm
+4	경우	경우	NOUN	_	8	compound	_	_	경우/ncn
+5	그것을	그것+을	PRON	_	6	obj	_	_	그것/npd+을/jco
+6	촬영하는	촬영+하+는	VERB	_	7	acl	_	_	촬영/ncpa+하/xsv+는/etm
+7	것이	것+이	NOUN	_	8	nsubj	_	_	것/nbn+이/jcs
+8	가능하다	가능+하+다	VERB	_	0	root	_	_	가능/ncps+하/xsm+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 만일 밤에도 그 항성을 촬영해 둔다면 두 사진의 항성의 거리를 측정할 수 있고 , 예측된 결과를 검사할 수 있을 것이다 .
+1	만일	만일	ADV	_	5	advmod	_	_	만일/mag
+2	밤에도	밤+에+도	ADV	_	5	advcl	_	_	밤/ncn+에/jca+도/jxc
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	항성을	항성+을	NOUN	_	5	obj	_	_	항성/ncn+을/jco
+5	촬영해	촬영+하+어	VERB	_	17	ccomp	_	_	촬영/ncpa+하/xsv+어/ecx
+6	둔다면	두+ㄴ다면	SCONJ	_	5	aux	_	_	두/px+ㄴ다면/ecs
+7	두	두	NUM	_	8	nummod	_	_	두/nnc
+8	사진의	사진+의	NOUN	_	9	nmod	_	_	사진/ncn+의/jcm
+9	항성의	항성+의	NOUN	_	10	nmod	_	_	항성/ncn+의/jcm
+10	거리를	거리+를	NOUN	_	11	obj	_	_	거리/ncn+를/jco
+11	측정할	측정+하+ㄹ	VERB	_	17	conj	_	_	측정/ncpa+하/xsv+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있고	있+고	CCONJ	_	11	aux	_	_	있/paa+고/ecc
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	예측된	예측+되+ㄴ	VERB	_	16	acl	_	_	예측/ncpa+되/xsv+ㄴ/etm
+16	결과를	결과+를	NOUN	_	17	obj	_	_	결과/ncn+를/jco
+17	검사할	검사+하+ㄹ	VERB	_	0	root	_	_	검사/ncpa+하/xsv+ㄹ/etm
+18	수	수	NOUN	_	19	fixed	_	_	수/nbn
+19	있을	있+ㄹ	ADJ	_	17	aux	_	_	있/paa+ㄹ/etm
+20	것이다	것+이+다	VERB	_	17	aux	_	_	것/nbn+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 이 사례의 경우 인상 깊은 것은 이러한 종류의 예측이 가져오는 위험이다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	사례의	사례+의	NOUN	_	3	nmod	_	_	사례/ncn+의/jcm
+3	경우	경우	NOUN	_	5	dep	_	_	경우/ncn
+4	인상	인상	NOUN	_	5	dep	_	_	인상/ncn
+5	깊은	깊+ㄴ	ADJ	_	6	amod	_	_	깊/paa+ㄴ/etm
+6	것은	것+은	NOUN	_	11	dislocated	_	_	것/nbn+은/jxt
+7	이러한	이러하+ㄴ	VERB	_	8	amod	_	_	이러하/pad+ㄴ/etm
+8	종류의	종류+의	NOUN	_	9	nmod	_	_	종류/ncn+의/jcm
+9	예측이	예측+이	NOUN	_	10	nsubj	_	_	예측/ncpa+이/jcs
+10	가져오는	가지+어+오+는	AUX	_	11	ccomp	_	_	가지/pvg+어/ecx+오/px+는/etm
+11	위험이다	위험+이+다	VERB	_	0	root	_	_	위험/ncps+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 만일 예측된 결과가 명백히 관찰되지 않는다고 한다면 그 이론은 반박된다 .
+1	만일	만일	ADV	_	5	advmod	_	_	만일/mag
+2	예측된	예측+되+ㄴ	VERB	_	3	acl	_	_	예측/ncpa+되/xsv+ㄴ/etm
+3	결과가	결과+가	NOUN	_	5	nsubj	_	_	결과/ncn+가/jcs
+4	명백히	명백+히	ADV	_	5	advmod	_	_	명백/ncps+히/xsa
+5	관찰되지	관찰+되+지	VERB	_	7	conj	_	_	관찰/ncpa+되/xsv+지/ecx
+6	않는다고	않+는다+고	VERB	_	5	aux	_	_	않/px+는다/ef+고/jcr
+7	한다면	하+ㄴ다면	SCONJ	_	10	ccomp	_	_	하/pvg+ㄴ다면/ecs
+8	그	그	DET	_	9	det	_	_	그/mmd
+9	이론은	이론+은	NOUN	_	10	dislocated	_	_	이론/ncn+은/jxt
+10	반박된다	반박+되+ㄴ다	VERB	_	0	root	_	_	반박/ncpa+되/xsv+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이 이론은 어떠한 관측 가능한 결과와 부합할 개연성은 아주 작다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	이론은	이론+은	NOUN	_	10	dislocated	_	_	이론/ncn+은/jxt
+3	어떠한	어떠하+ㄴ	VERB	_	6	amod	_	_	어떠하/pad+ㄴ/etm
+4	관측	관측	NOUN	_	5	compound	_	_	관측/ncpa
+5	가능한	가능+하+ㄴ	VERB	_	6	amod	_	_	가능/ncps+하/xsm+ㄴ/etm
+6	결과와	결과+와	CCONJ	_	7	conj	_	_	결과/ncn+와/jct
+7	부합할	부합+하+ㄹ	VERB	_	8	acl	_	_	부합/ncpa+하/xsv+ㄹ/etm
+8	개연성은	개연성+은	NOUN	_	10	dislocated	_	_	개연성/ncn+은/jxt
+9	아주	아주	ADV	_	10	advmod	_	_	아주/mag
+10	작다	작+다	ADJ	_	0	root	_	_	작/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 사실 이것은 아인슈타인 이전의 모든 사람들이 기대하고 있던 결과와 양립할 수 없다 .
+1	사실	사실	NOUN	_	10	advmod	_	_	사실/ncn
+2	이것은	이것+은	PRON	_	10	dislocated	_	_	이것/npd+은/jxt
+3	아인슈타인	아인슈타인	PROPN	_	4	compound	_	_	아인슈타인/nq
+4	이전의	이전+의	NOUN	_	6	nmod	_	_	이전/ncn+의/jcm
+5	모든	모든	ADJ	_	6	amod	_	_	모든/mma
+6	사람들이	사람+들+이	NOUN	_	7	nsubj	_	_	사람/ncn+들/xsn+이/jcs
+7	기대하고	기대+하+고	VERB	_	9	acl	_	_	기대/ncpa+하/xsv+고/ecx
+8	있던	있+던	AUX	_	7	aux	_	_	있/px+던/etm
+9	결과와	결과+와	CCONJ	_	10	conj	_	_	결과/ncn+와/jct
+10	양립할	양립+하+ㄹ	VERB	_	0	root	_	_	양립/ncpa+하/xsv+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	없다	없+다	ADJ	_	10	aux	_	_	없/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 포퍼는 이것을 그 당시 유행하고 있던 마르크스 , 프로이트 , 아들러의 이론과 비교해 보고 상당한 충격을 받았다 .
+1	포퍼는	포퍼+는	PROPN	_	17	dislocated	_	_	포퍼/nq+는/jxt
+2	이것을	이것+을	PRON	_	13	obj	_	_	이것/npd+을/jco
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	당시	당시	NOUN	_	5	compound	_	_	당시/ncn
+5	유행하고	유행+하+고	VERB	_	12	acl	_	_	유행/ncpa+하/xsv+고/ecx
+6	있던	있+던	AUX	_	5	aux	_	_	있/px+던/etm
+7	마르크스	마르크스	PROPN	_	9	conj	_	_	마르크스/nq
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	프로이트	프로이트	PROPN	_	11	conj	_	_	프로이트/nq
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	아들러의	아들러+의	PROPN	_	12	nmod	_	_	아들러/nq+의/jcm
+12	이론과	이론+과	CCONJ	_	13	conj	_	_	이론/ncn+과/jct
+13	비교해	비교+하+어	VERB	_	17	conj	_	_	비교/ncpa+하/xsv+어/ecx
+14	보고	보+고	CCONJ	_	13	aux	_	_	보/px+고/ecc
+15	상당한	상당+하+ㄴ	VERB	_	16	amod	_	_	상당/ncps+하/xsm+ㄴ/etm
+16	충격을	충격+을	NOUN	_	17	obj	_	_	충격/ncn+을/jco
+17	받았다	받+았+다	VERB	_	0	root	_	_	받/pvg+았/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 내가 이러한 세 이론에 불만을 갖게 된 것은 1919 년 가을이었다 .
+1	내가	내+가	PRON	_	6	nsubj	_	_	내/npp+가/jcs
+2	이러한	이러하+ㄴ	VERB	_	4	amod	_	_	이러하/pad+ㄴ/etm
+3	세	세	NUM	_	4	nummod	_	_	세/nnc
+4	이론에	이론+에	ADV	_	6	obl	_	_	이론/ncn+에/jca
+5	불만을	불만+을	NOUN	_	6	obj	_	_	불만/ncps+을/jco
+6	갖게	갖+게	VERB	_	8	acl	_	_	갖/pvg+게/ecx
+7	된	되+ㄴ	AUX	_	6	aux	_	_	되/px+ㄴ/etm
+8	것은	것+은	NOUN	_	11	dislocated	_	_	것/nbn+은/jxt
+9	1919	1919	NUM	_	10	nummod	_	_	1919/nno
+10	년	년	NOUN	_	11	compound	_	_	년/nbu
+11	가을이었다	가을+이+었+다	VERB	_	0	root	_	_	가을/ncn+이/jp+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 나는 이 이론들이 과학적이라는 것에 대해서 미심쩍다고 느끼기 시작했다 .
+1	나는	나+는	PRON	_	9	dislocated	_	_	나/npp+는/jxt
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	이론들이	이론+들+이	NOUN	_	4	nsubj	_	_	이론/ncn+들/xsn+이/jcs
+4	과학적이라는	과학+적+이+라는	VERB	_	5	acl	_	_	과학/ncn+적/xsn+이/jp+라는/etm
+5	것에	것+에	ADV	_	6	obl	_	_	것/nbn+에/jca
+6	대해서	대하+어서	SCONJ	_	8	conj	_	_	대하/pvg+어서/ecs
+7	미심쩍다고	미심쩍+다+고	VERB	_	8	conj	_	_	미심쩍/paa+다/ef+고/jcr
+8	느끼기	느끼+기	VERB	_	9	nmod	_	_	느끼/pvg+기/etn
+9	시작했다	시작+하+었+다	VERB	_	0	root	_	_	시작/ncpa+하/xsv+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이 대비를 명백하게 하기 위해서 그 당시 대부분의 사람들은 아인슈타인의 이론이 진이라는 것을 믿지 않았다는 점을 부기해 둘 필요가 있다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	대비를	대비+를	NOUN	_	3	obj	_	_	대비/ncpa+를/jco
+3	명백하게	명백+하+게	VERB	_	5	ccomp	_	_	명백/ncps+하/xsm+게/ecx
+4	하기	하+기	AUX	_	3	aux	_	_	하/px+기/etn
+5	위해서	위하+어서	SCONJ	_	20	conj	_	_	위하/pvg+어서/ecs
+6	그	그	DET	_	7	det	_	_	그/mmd
+7	당시	당시	NOUN	_	14	advmod	_	_	당시/ncn
+8	대부분의	대부분+의	NOUN	_	9	nmod	_	_	대부분/ncn+의/jcm
+9	사람들은	사람+들+은	NOUN	_	14	dislocated	_	_	사람/ncn+들/xsn+은/jxt
+10	아인슈타인의	아인슈타인+의	PROPN	_	11	nmod	_	_	아인슈타인/nq+의/jcm
+11	이론이	이론+이	NOUN	_	12	nsubj	_	_	이론/ncn+이/jcs
+12	진이라는	진+이+라는	VERB	_	13	acl	_	_	진/ncn+이/jp+라는/etm
+13	것을	것+을	NOUN	_	14	obj	_	_	것/nbn+을/jco
+14	믿지	믿+지	VERB	_	16	acl	_	_	믿/pvg+지/ecx
+15	않았다는	않+았+다는	AUX	_	14	aux	_	_	않/px+았/ep+다는/etm
+16	점을	점+을	NOUN	_	17	obj	_	_	점/ncn+을/jco
+17	부기해	부기+하+어	VERB	_	19	acl	_	_	부기/ncpa+하/xsv+어/ecx
+18	둘	두+ㄹ	AUX	_	17	aux	_	_	두/px+ㄹ/etm
+19	필요가	필요+가	NOUN	_	20	nsubj	_	_	필요/ncps+가/jcs
+20	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 나를 고심하게 한 것은 이 세 이론들의 진리가 의심스럽다고 생각했기 때문이 아니다 .
+1	나를	나+를	PRON	_	2	obj	_	_	나/npp+를/jco
+2	고심하게	고심+하+게	VERB	_	4	acl	_	_	고심/ncpa+하/xsv+게/ecx
+3	한	하+ㄴ	AUX	_	2	aux	_	_	하/px+ㄴ/etm
+4	것은	것+은	NOUN	_	12	dislocated	_	_	것/nbn+은/jxt
+5	이	이	DET	_	7	det	_	_	이/mmd
+6	세	세	NUM	_	7	nummod	_	_	세/nnc
+7	이론들의	이론+들+의	NOUN	_	8	nmod	_	_	이론/ncn+들/xsn+의/jcm
+8	진리가	진리+가	NOUN	_	9	nsubj	_	_	진리/ncn+가/jcs
+9	의심스럽다고	의심+스럽+다+고	VERB	_	10	conj	_	_	의심/ncps+스럽/xsm+다/ef+고/jcr
+10	생각했기	생각+하+었+기	VERB	_	11	nmod	_	_	생각/ncpa+하/xsv+었/ep+기/etn
+11	때문이	때문+이	NOUN	_	12	csubj	_	_	때문/nbn+이/jcc
+12	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그것과는 전혀 다른 것이었다 .
+1	그것과는	그것+과+는	PRON	_	3	dislocated	_	_	그것/npd+과/jct+는/jxt
+2	전혀	전혀	ADV	_	3	advmod	_	_	전혀/mag
+3	다른	다르+ㄴ	ADJ	_	0	root	_	_	다르/paa+ㄴ/etm
+4	것이었다	것+이+었+다	VERB	_	3	aux	_	_	것/nbn+이/jp+었/ep+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 또 내가 수리 물리학이 사회학이나 심리학의 이론보다 더 정확하다고 생각하고 있었기 때문도 아니었다 .
+1	또	또	CCONJ	_	13	cc	_	_	또/maj
+2	내가	내+가	PRON	_	10	nsubj	_	_	내/npp+가/jcs
+3	수리	수리	NOUN	_	4	compound	_	_	수리/ncn
+4	물리학이	물리학+이	NOUN	_	9	nsubj	_	_	물리학/ncn+이/jcs
+5	사회학이나	사회학+이나	CCONJ	_	6	conj	_	_	사회학/ncn+이나/jcj
+6	심리학의	심리학+의	NOUN	_	7	nmod	_	_	심리학/ncn+의/jcm
+7	이론보다	이론+보다	ADV	_	9	advcl	_	_	이론/ncn+보다/jca
+8	더	더	ADV	_	9	advmod	_	_	더/mag
+9	정확하다고	정확+하+다+고	VERB	_	10	conj	_	_	정확/ncps+하/xsm+다/ef+고/jcr
+10	생각하고	생각+하+고	VERB	_	12	dep	_	_	생각/ncpa+하/xsv+고/ecx
+11	있었기	있+었+기	AUX	_	10	aux	_	_	있/px+었/ep+기/etn
+12	때문도	때문+도	ADV	_	13	advcl	_	_	때문/nbn+도/jxc
+13	아니었다	아니+었+다	ADJ	_	0	root	_	_	아니/paa+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이 이론들은 그들이 다루고 있는 분야에서 일어나는 모든 것을 실제로 설명할 수 있는 것처럼 보인다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	이론들은	이론+들+은	NOUN	_	11	dislocated	_	_	이론/ncn+들/xsn+은/jxt
+3	그들이	그+들+이	PRON	_	4	nsubj	_	_	그/npp+들/xsn+이/jcs
+4	다루고	다루+고	VERB	_	6	acl	_	_	다루/pvg+고/ecx
+5	있는	있+는	AUX	_	4	aux	_	_	있/px+는/etm
+6	분야에서	분야+에서	ADV	_	7	advcl	_	_	분야/ncn+에서/jca
+7	일어나는	일어나+는	VERB	_	9	acl	_	_	일어나/pvg+는/etm
+8	모든	모든	ADJ	_	9	amod	_	_	모든/mma
+9	것을	것+을	NOUN	_	11	obj	_	_	것/nbn+을/jco
+10	실제로	실제로	ADV	_	11	advmod	_	_	실제로/mag
+11	설명할	설명+하+ㄹ	VERB	_	14	acl	_	_	설명/ncpa+하/xsv+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있는	있+는	ADJ	_	11	aux	_	_	있/paa+는/etm
+14	것처럼	것+처럼	ADV	_	15	advcl	_	_	것/nbn+처럼/jca
+15	보인다	보이+ㄴ다	VERB	_	0	root	_	_	보이/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이러한 것들 중 어느 것을 연구하더라도 이것들은 지적 개종 혹은 계시를 준다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	것들	것+들	NOUN	_	3	compound	_	_	것/nbn+들/xsn
+3	중	중	NOUN	_	6	advmod	_	_	중/nbn
+4	어느	어느	DET	_	5	det	_	_	어느/mmd
+5	것을	것+을	NOUN	_	6	obj	_	_	것/nbn+을/jco
+6	연구하더라도	연구+하+더라+도	ADV	_	12	ccomp	_	_	연구/ncpa+하/xsv+더라/ecs+도/jxc
+7	이것들은	이것+들+은	PRON	_	12	dislocated	_	_	이것/npd+들/xsn+은/jxt
+8	지적	지+적	NOUN	_	11	amod	_	_	지/ncn+적/xsn
+9	개종	개종	NOUN	_	11	conj	_	_	개종/ncpa
+10	혹은	혹은	CCONJ	_	11	cc	_	_	혹은/maj
+11	계시를	계시+를	NOUN	_	12	obj	_	_	계시/ncpa+를/jco
+12	준다	주+ㄴ다	VERB	_	0	root	_	_	주/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그리고 초심자에게는 지금까지 은폐되어 있던 새로운 진리를 그의 눈 앞에 펼쳐 보인다 .
+1	그리고	그리고	CCONJ	_	12	cc	_	_	그리고/maj
+2	초심자에게는	초심자+에게+는	NOUN	_	11	dislocated	_	_	초심자/ncn+에게/jca+는/jxt
+3	지금까지	지금+까지	ADV	_	4	advcl	_	_	지금/ncn+까지/jxc
+4	은폐되어	은폐+되+어	VERB	_	7	acl	_	_	은폐/ncpa+되/xsv+어/ecx
+5	있던	있+던	AUX	_	4	aux	_	_	있/px+던/etm
+6	새로운	새롭+ㄴ	ADJ	_	7	amod	_	_	새롭/paa+ㄴ/etm
+7	진리를	진리+를	NOUN	_	11	obj	_	_	진리/ncn+를/jco
+8	그의	그+의	PRON	_	9	nmod	_	_	그/npp+의/jcm
+9	눈	눈	NOUN	_	10	compound	_	_	눈/ncn
+10	앞에	앞+에	ADV	_	11	obl	_	_	앞/ncn+에/jca
+11	펼쳐	펼치+어	SCONJ	_	12	ccomp	_	_	펼치/pvg+어/ecs
+12	보인다	보이+ㄴ다	VERB	_	0	root	_	_	보이/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 당신이 일단 눈을 뜬다면 모든 경우에서 이 이론들에 대한 확증 사례 ( confirming instances ) 를 볼 것이다 .
+1	당신이	당신+이	PRON	_	4	nsubj	_	_	당신/npp+이/jcs
+2	일단	일단	ADV	_	4	advmod	_	_	일단/mag
+3	눈을	눈+을	NOUN	_	4	obj	_	_	눈/ncn+을/jco
+4	뜬다면	뜨+ㄴ다면	SCONJ	_	17	ccomp	_	_	뜨/pvg+ㄴ다면/ecs
+5	모든	모든	ADJ	_	6	amod	_	_	모든/mma
+6	경우에서	경우+에서	ADV	_	17	advcl	_	_	경우/ncn+에서/jca
+7	이	이	DET	_	8	det	_	_	이/mmd
+8	이론들에	이론+들+에	ADV	_	9	obl	_	_	이론/ncn+들/xsn+에/jca
+9	대한	대하+ㄴ	VERB	_	11	acl	_	_	대하/pvg+ㄴ/etm
+10	확증	확증	NOUN	_	11	compound	_	_	확증/ncpa
+11	사례	사례	NOUN	_	17	obj	_	_	사례/ncn
+12	(	(	PUNCT	_	14	punct	_	_	(/sl
+13	confirming	confirming	X	_	14	flat	_	_	confirming/f
+14	instances	instances	X	_	11	appos	_	_	instances/f
+15	)	)	PUNCT	_	14	punct	_	_	)/sr
+16	를	를	ADP	_	11	case	_	_	를/jco
+17	볼	보+ㄹ	VERB	_	0	root	_	_	보/pvg+ㄹ/etm
+18	것이다	것+이+다	VERB	_	17	aux	_	_	것/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 세계는 이 이론들에 대한 검증으로 충만해 있다 .
+1	세계는	세계+는	NOUN	_	6	dislocated	_	_	세계/ncn+는/jxt
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	이론들에	이론+들+에	ADV	_	4	obl	_	_	이론/ncn+들/xsn+에/jca
+4	대한	대하+ㄴ	VERB	_	5	acl	_	_	대하/pvg+ㄴ/etm
+5	검증으로	검증+으로	ADV	_	6	advcl	_	_	검증/ncpa+으로/jca
+6	충만해	충만+하+어	VERB	_	0	root	_	_	충만/ncpa+하/xsv+어/ecx
+7	있다	있+다	AUX	_	6	aux	_	_	있/px+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 무엇이 발생하든지 그 이론들을 확증해 준다 .
+1	무엇이	무엇+이	PRON	_	2	nsubj	_	_	무엇/npd+이/jcs
+2	발생하든지	발생+하+든지	CCONJ	_	5	conj	_	_	발생/ncpa+하/xsv+든지/ecc
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	이론들을	이론+들+을	NOUN	_	5	obj	_	_	이론/ncn+들/xsn+을/jco
+5	확증해	확증+하+어	VERB	_	0	root	_	_	확증/ncpa+하/xsv+어/ecx
+6	준다	주+ㄴ다	AUX	_	5	aux	_	_	주/px+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그리고 그것의 진은 자명한 듯이 보인다 .
+1	그리고	그리고	CCONJ	_	6	cc	_	_	그리고/maj
+2	그것의	그것+의	PRON	_	3	nmod	_	_	그것/npd+의/jcm
+3	진은	진+은	NOUN	_	4	dislocated	_	_	진/ncn+은/jxt
+4	자명한	자명+하+ㄴ	VERB	_	5	amod	_	_	자명/ncps+하/xsm+ㄴ/etm
+5	듯이	듯+이	NOUN	_	6	nsubj	_	_	듯/nbn+이/jcs
+6	보인다	보이+ㄴ다	VERB	_	0	root	_	_	보이/pvg+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그 이론들을 믿지 않는 자는 분명 그러한 진리를 보기를 원하지 않는 자일 것이다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	이론들을	이론+들+을	NOUN	_	3	obj	_	_	이론/ncn+들/xsn+을/jco
+3	믿지	믿+지	VERB	_	5	acl	_	_	믿/pvg+지/ecx
+4	않는	않+는	AUX	_	3	aux	_	_	않/px+는/etm
+5	자는	자+는	NOUN	_	12	dislocated	_	_	자/nbn+는/jxt
+6	분명	분명	ADV	_	12	advmod	_	_	분명/mag
+7	그러한	그러하+ㄴ	VERB	_	8	amod	_	_	그러하/pad+ㄴ/etm
+8	진리를	진리+를	NOUN	_	9	obj	_	_	진리/ncn+를/jco
+9	보기를	보+기+를	NOUN	_	10	obj	_	_	보/pvg+기/etn+를/jco
+10	원하지	원하+지	VERB	_	12	ccomp	_	_	원하/pvg+지/ecx
+11	않는	않+는	AUX	_	10	aux	_	_	않/px+는/etm
+12	자일	자+이+ㄹ	VERB	_	0	root	_	_	자/nbn+이/jp+ㄹ/etm
+13	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그리고 바로 이 점이 이 이론들의 신봉자들을 감명시킨다 .
+1	그리고	그리고	CCONJ	_	8	cc	_	_	그리고/maj
+2	바로	바로	ADV	_	4	advmod	_	_	바로/mag
+3	이	이	DET	_	4	det	_	_	이/mmd
+4	점이	점+이	NOUN	_	8	nsubj	_	_	점/ncn+이/jcs
+5	이	이	DET	_	6	det	_	_	이/mmd
+6	이론들의	이론+들+의	NOUN	_	7	nmod	_	_	이론/ncn+들/xsn+의/jcm
+7	신봉자들을	신봉자+들+을	NOUN	_	8	obj	_	_	신봉자/ncn+들/xsn+을/jco
+8	감명시킨다	감명+시키+ㄴ다	VERB	_	0	root	_	_	감명/ncpa+시키/xsv+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 마르크스주의자들은 신문을 펼칠 때마다 모든 페이지에서 그의 역사 해석을 확증하는 증거를 발견한다 .
+1	마르크스주의자들은	마르크스주의자+들+은	NOUN	_	12	dislocated	_	_	마르크스주의자/ncn+들/xsn+은/jxt
+2	신문을	신문+을	NOUN	_	3	obj	_	_	신문/ncn+을/jco
+3	펼칠	펼치+ㄹ	VERB	_	4	acl	_	_	펼치/pvg+ㄹ/etm
+4	때마다	때+마다	ADV	_	12	advcl	_	_	때/ncn+마다/jxc
+5	모든	모든	ADJ	_	6	amod	_	_	모든/mma
+6	페이지에서	페이지+에서	ADV	_	12	advcl	_	_	페이지/ncn+에서/jca
+7	그의	그+의	PRON	_	9	nmod	_	_	그/npp+의/jcm
+8	역사	역사	NOUN	_	9	compound	_	_	역사/ncn
+9	해석을	해석+을	NOUN	_	10	obj	_	_	해석/ncpa+을/jco
+10	확증하는	확증+하+는	VERB	_	11	acl	_	_	확증/ncpa+하/xsv+는/etm
+11	증거를	증거+를	NOUN	_	12	obj	_	_	증거/ncn+를/jco
+12	발견한다	발견+하+ㄴ다	VERB	_	0	root	_	_	발견/ncpa+하/xsv+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 프로이트 학파의 정신 분석의들은 그들의 이론은 ' 임상 관찰 ' 에 의해서 항상 검증되고 있다는 것을 강조한다 .
+1	프로이트	프로이트	PROPN	_	2	compound	_	_	프로이트/nq
+2	학파의	학파+의	NOUN	_	4	nmod	_	_	학파/ncn+의/jcm
+3	정신	정신	NOUN	_	4	compound	_	_	정신/ncn
+4	분석의들은	분석의+들+은	NOUN	_	17	dislocated	_	_	분석의/ncn+들/xsn+은/jxt
+5	그들의	그+들+의	PRON	_	6	nmod	_	_	그/npp+들/xsn+의/jcm
+6	이론은	이론+은	NOUN	_	14	dislocated	_	_	이론/ncn+은/jxt
+7	'	'	PUNCT	_	8	punct	_	_	'/sl
+8	임상	임상	NOUN	_	9	compound	_	_	임상/ncn
+9	관찰	관찰	NOUN	_	12	obl	_	_	관찰/ncpa
+10	'	'	PUNCT	_	9	punct	_	_	'/sr
+11	에	에	ADP	_	9	case	_	_	에/jca
+12	의해서	의하+어서	SCONJ	_	14	ccomp	_	_	의하/pvg+어서/ecs
+13	항상	항상	ADV	_	14	advmod	_	_	항상/mag
+14	검증되고	검증+되+고	VERB	_	16	acl	_	_	검증/ncpa+되/xsv+고/ecx
+15	있다는	있+다는	AUX	_	14	aux	_	_	있/px+다는/etm
+16	것을	것+을	NOUN	_	17	obj	_	_	것/nbn+을/jco
+17	강조한다	강조+하+ㄴ다	VERB	_	0	root	_	_	강조/ncpa+하/xsv+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 아들러에 대해서 나는 잊을 수 없는 하나의 개인적 경험을 갖고 있다 .
+1	아들러에	아들러+에	ADV	_	2	obl	_	_	아들러/nq+에/jca
+2	대해서	대하+어서	SCONJ	_	10	ccomp	_	_	대하/pvg+어서/ecs
+3	나는	나+는	PRON	_	4	dislocated	_	_	나/npp+는/jxt
+4	잊을	잊+ㄹ	VERB	_	9	acl	_	_	잊/pvg+ㄹ/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	없는	없+는	ADJ	_	4	aux	_	_	없/paa+는/etm
+7	하나의	하나+의	NUM	_	9	nmod	_	_	하나/nnc+의/jcm
+8	개인적	개인+적	NOUN	_	9	amod	_	_	개인/ncn+적/xsn
+9	경험을	경험+을	NOUN	_	10	obj	_	_	경험/ncpa+을/jco
+10	갖고	갖+고	VERB	_	0	root	_	_	갖/pvg+고/ecx
+11	있다	있+다	AUX	_	10	aux	_	_	있/px+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 1919 년의 언젠가 나는 그에게 그의 이론과 부합하지 않는 것처럼 보이는 사례를 보고했다 .
+1	1919	1919	NUM	_	2	nummod	_	_	1919/nno
+2	년의	년+의	NOUN	_	3	nmod	_	_	년/nbu+의/jcm
+3	언젠가	언젠가	PRON	_	13	advmod	_	_	언젠가/npd
+4	나는	나+는	PRON	_	13	dislocated	_	_	나/npp+는/jxt
+5	그에게	그+에게	ADV	_	13	iobj	_	_	그/npp+에게/jca
+6	그의	그+의	PRON	_	7	nmod	_	_	그/npp+의/jcm
+7	이론과	이론+과	CCONJ	_	8	conj	_	_	이론/ncn+과/jct
+8	부합하지	부합+하+지	VERB	_	10	acl	_	_	부합/ncpa+하/xsv+지/ecx
+9	않는	않+는	AUX	_	8	aux	_	_	않/px+는/etm
+10	것처럼	것+처럼	ADV	_	11	advcl	_	_	것/nbn+처럼/jca
+11	보이는	보이+는	VERB	_	12	acl	_	_	보이/pvg+는/etm
+12	사례를	사례+를	NOUN	_	13	obj	_	_	사례/ncn+를/jco
+13	보고했다	보고+하+었+다	VERB	_	0	root	_	_	보고/ncpa+하/xsv+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그러나 그는 그의 ' 열등감 이론 ' 의해서 그 당사자인 아동을 본 적이 없으면서도 아무런 어려움 없이 그 행위를 분석해 내었다 .
+1	그러나	그러나	CCONJ	_	20	cc	_	_	그러나/maj
+2	그는	그+는	PRON	_	20	dislocated	_	_	그/npp+는/jxt
+3	그의	그+의	PRON	_	6	nmod	_	_	그/npp+의/jcm
+4	'	'	PUNCT	_	5	punct	_	_	'/sl
+5	열등감	열등감	NOUN	_	6	compound	_	_	열등감/ncn
+6	이론	이론	NOUN	_	8	dep	_	_	이론/ncn
+7	'	'	PUNCT	_	6	punct	_	_	'/sr
+8	의해서	의하+어서	SCONJ	_	20	ccomp	_	_	의하/pvg+어서/ecs
+9	그	그	DET	_	10	det	_	_	그/mmd
+10	당사자인	당사자+이+ㄴ	VERB	_	11	acl	_	_	당사자/ncn+이/jp+ㄴ/etm
+11	아동을	아동+을	NOUN	_	12	obj	_	_	아동/ncn+을/jco
+12	본	보+ㄴ	VERB	_	13	acl	_	_	보/pvg+ㄴ/etm
+13	적이	적+이	NOUN	_	14	nsubj	_	_	적/nbn+이/jcs
+14	없으면서도	없+으면서+도	ADV	_	20	amod	_	_	없/paa+으면서/ecc+도/jxc
+15	아무런	아무렇+ㄴ	VERB	_	16	amod	_	_	아무렇/pad+ㄴ/etm
+16	어려움	어렵+ㅁ	ADJ	_	17	nmod	_	_	어렵/paa+ㅁ/etn
+17	없이	없+이	SCONJ	_	20	xcomp	_	_	없/paa+이/ecs
+18	그	그	DET	_	19	det	_	_	그/mmd
+19	행위를	행위+를	NOUN	_	20	obj	_	_	행위/ncn+를/jco
+20	분석해	분석+하+어	VERB	_	0	root	_	_	분석/ncpa+하/xsv+어/ecx
+21	내었다	내+었+다	AUX	_	20	aux	_	_	내/px+었/ep+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 약간 놀라면서 어떻게 그렇게 확신할 수 있느냐고 물었다 .
+1	약간	약간	ADV	_	2	advmod	_	_	약간/mag
+2	놀라면서	놀라+면서	SCONJ	_	8	ccomp	_	_	놀라/pvg+면서/ecs
+3	어떻게	어떻게	ADV	_	5	advmod	_	_	어떻게/mad
+4	그렇게	그렇게	ADV	_	3	advmod	_	_	그렇게/mag
+5	확신할	확신+하+ㄹ	VERB	_	8	conj	_	_	확신/ncpa+하/xsv+ㄹ/etm
+6	수	수	NOUN	_	7	fixed	_	_	수/nbn
+7	있느냐고	있+느냐+고	VERB	_	5	aux	_	_	있/paa+느냐/ef+고/jcr
+8	물었다	묻+었+다	VERB	_	0	root	_	_	묻/pvg+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그는 " 그와 같은 사례들은 천 번이나 경험했기 때문이다 " 고 말했다 .
+1	그는	그+는	PRON	_	12	dislocated	_	_	그/npp+는/jxt
+2	"	"	PUNCT	_	3	punct	_	_	"/sl
+3	그와	그+와	CCONJ	_	4	conj	_	_	그/npp+와/jct
+4	같은	같+ㄴ	ADJ	_	5	amod	_	_	같/paa+ㄴ/etm
+5	사례들은	사례+들+은	NOUN	_	8	dislocated	_	_	사례/ncn+들/xsn+은/jxt
+6	천	천	NUM	_	7	nummod	_	_	천/nnc
+7	번이나	번+이나	ADV	_	8	advcl	_	_	번/nbu+이나/jxc
+8	경험했기	경험+하+었+기	VERB	_	12	conj	_	_	경험/ncpa+하/xsv+었/ep+기/etn
+9	때문이다	때문+이+다	VERB	_	8	aux	_	_	때문/nbn+이/jp+다/ef
+10	"	"	PUNCT	_	9	punct	_	_	"/sr
+11	고	고	ADP	_	9	case	_	_	고/jcr
+12	말했다	말하+었+다	VERB	_	0	root	_	_	말하/pvg+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이 때 나는 그의 그 이전의 관찰들도 지금의 관찰과 마찬가지로 빈약한 토대에 선 관찰이 아닐까 생각했다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	때	때	NOUN	_	16	advmod	_	_	때/ncn
+3	나는	나+는	PRON	_	16	dislocated	_	_	나/npp+는/jxt
+4	그의	그+의	PRON	_	7	nmod	_	_	그/npp+의/jcm
+5	그	그	DET	_	6	det	_	_	그/mmd
+6	이전의	이전+의	NOUN	_	7	nmod	_	_	이전/ncn+의/jcm
+7	관찰들도	관찰+들+도	ADV	_	15	advcl	_	_	관찰/ncpa+들/xsn+도/jxc
+8	지금의	지금+의	NOUN	_	9	nmod	_	_	지금/ncn+의/jcm
+9	관찰과	관찰+과	CCONJ	_	10	conj	_	_	관찰/ncpa+과/jct
+10	마찬가지로	마찬가지+로	ADV	_	13	advcl	_	_	마찬가지/ncn+로/jca
+11	빈약한	빈약+하+ㄴ	VERB	_	12	amod	_	_	빈약/ncps+하/xsm+ㄴ/etm
+12	토대에	토대+에	ADV	_	13	obl	_	_	토대/ncn+에/jca
+13	선	서+ㄴ	VERB	_	14	acl	_	_	서/pvg+ㄴ/etm
+14	관찰이	관찰+이	NOUN	_	15	csubj	_	_	관찰/ncpa+이/jcc
+15	아닐까	아니+ㄹ까	ADJ	_	16	ccomp	_	_	아니/paa+ㄹ까/ef
+16	생각했다	생각+하+었+다	VERB	_	0	root	_	_	생각/ncpa+하/xsv+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 즉 각 관찰 사례들이 ' 선행한 경험 ' 에 비추어 해석되고 동시에 부가적인 확증으로 간주된다는 것이다 .
+1	즉	즉	CCONJ	_	15	cc	_	_	즉/maj
+2	각	각	ADJ	_	3	amod	_	_	각/mma
+3	관찰	관찰	NOUN	_	4	compound	_	_	관찰/ncpa
+4	사례들이	사례+들+이	NOUN	_	15	nsubj	_	_	사례/ncn+들/xsn+이/jcs
+5	'	'	PUNCT	_	6	punct	_	_	'/sl
+6	선행한	선행+하+ㄴ	VERB	_	7	acl	_	_	선행/ncpa+하/xsv+ㄴ/etm
+7	경험	경험	NOUN	_	10	obl	_	_	경험/ncpa
+8	'	'	PUNCT	_	7	punct	_	_	'/sr
+9	에	에	ADP	_	7	case	_	_	에/jca
+10	비추어	비추+어	SCONJ	_	11	ccomp	_	_	비추/pvg+어/ecs
+11	해석되고	해석+되+고	CCONJ	_	15	conj	_	_	해석/ncpa+되/xsv+고/ecc
+12	동시에	동시+에	ADV	_	15	obl	_	_	동시/ncn+에/jca
+13	부가적인	부가+적+이+ㄴ	VERB	_	14	acl	_	_	부가/ncpa+적/xsn+이/jp+ㄴ/etm
+14	확증으로	확증+으로	ADV	_	15	advcl	_	_	확증/ncpa+으로/jca
+15	간주된다는	간주+되+ㄴ다는	VERB	_	0	root	_	_	간주/ncpa+되/xsv+ㄴ다는/etm
+16	것이다	것+이+다	VERB	_	15	aux	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이것은 도대체 무엇을 확증하는 것일까 하고 스스로에게 자문해 보았다 .
+1	이것은	이것+은	PRON	_	4	dislocated	_	_	이것/npd+은/jxt
+2	도대체	도대체	ADV	_	4	advmod	_	_	도대체/mag
+3	무엇을	무엇+을	PRON	_	4	obj	_	_	무엇/npd+을/jco
+4	확증하는	확증+하+는	VERB	_	6	ccomp	_	_	확증/ncpa+하/xsv+는/etm
+5	것일까	것+이+ㄹ까	VERB	_	4	aux	_	_	것/nbn+이/jp+ㄹ까/ef
+6	하고	하+고	CCONJ	_	8	conj	_	_	하/pvg+고/ecc
+7	스스로에게	스스로+에게	ADV	_	8	iobj	_	_	스스로/ncn+에게/jca
+8	자문해	자문+하+어	VERB	_	0	root	_	_	자문/ncpa+하/xsv+어/ecx
+9	보았다	보+았+다	AUX	_	8	aux	_	_	보/px+았/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 단지 어떤 사례가 그의 이론에 비추어 해석되었을 뿐이다 .
+1	단지	단지	ADV	_	7	advmod	_	_	단지/mag
+2	어떤	어떤	DET	_	3	det	_	_	어떤/mmd
+3	사례가	사례+가	NOUN	_	7	nsubj	_	_	사례/ncn+가/jcs
+4	그의	그+의	PRON	_	5	nmod	_	_	그/npp+의/jcm
+5	이론에	이론+에	ADV	_	6	obl	_	_	이론/ncn+에/jca
+6	비추어	비추+어	SCONJ	_	7	ccomp	_	_	비추/pvg+어/ecs
+7	해석되었을	해석+되+었+ㄹ	VERB	_	0	root	_	_	해석/ncpa+되/xsv+었/ep+ㄹ/etm
+8	뿐이다	뿐+이+다	VERB	_	7	aux	_	_	뿐/nbn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그러나 생각할 수 있는 모든 사례가 아들러의 이론이나 프로이트의 이론에 비추어 해석될 수 있기 때문에 이것은 별 의미가 없다고 생각했다 .
+1	그러나	그러나	CCONJ	_	20	cc	_	_	그러나/maj
+2	생각할	생각+하+ㄹ	VERB	_	6	acl	_	_	생각/ncpa+하/xsv+ㄹ/etm
+3	수	수	NOUN	_	4	fixed	_	_	수/nbn
+4	있는	있+는	ADJ	_	2	aux	_	_	있/paa+는/etm
+5	모든	모든	ADJ	_	6	amod	_	_	모든/mma
+6	사례가	사례+가	NOUN	_	12	nsubj	_	_	사례/ncn+가/jcs
+7	아들러의	아들러+의	PROPN	_	8	nmod	_	_	아들러/nq+의/jcm
+8	이론이나	이론+이나	CCONJ	_	10	conj	_	_	이론/ncn+이나/jcj
+9	프로이트의	프로이트+의	PROPN	_	10	nmod	_	_	프로이트/nq+의/jcm
+10	이론에	이론+에	ADV	_	11	obl	_	_	이론/ncn+에/jca
+11	비추어	비추+어	SCONJ	_	12	ccomp	_	_	비추/pvg+어/ecs
+12	해석될	해석+되+ㄹ	VERB	_	15	dep	_	_	해석/ncpa+되/xsv+ㄹ/etm
+13	수	수	NOUN	_	14	fixed	_	_	수/nbn
+14	있기	있+기	ADJ	_	12	aux	_	_	있/paa+기/etn
+15	때문에	때문+에	ADV	_	20	obl	_	_	때문/nbn+에/jca
+16	이것은	이것+은	PRON	_	19	dislocated	_	_	이것/npd+은/jxt
+17	별	별	ADV	_	18	advmod	_	_	별/mag
+18	의미가	의미+가	NOUN	_	19	nsubj	_	_	의미/ncpa+가/jcs
+19	없다고	없+다고	SCONJ	_	20	xcomp	_	_	없/paa+다고/ecs
+20	생각했다	생각+하+었+다	VERB	_	0	root	_	_	생각/ncpa+하/xsv+었/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 나는 인간의 상이한 두 가지 행위를 가지고 이것을 예증할 수 있다 .
+1	나는	나+는	PRON	_	9	dislocated	_	_	나/npp+는/jxt
+2	인간의	인간+의	NOUN	_	6	nmod	_	_	인간/ncn+의/jcm
+3	상이한	상이+하+ㄴ	VERB	_	6	amod	_	_	상이/ncps+하/xsm+ㄴ/etm
+4	두	두	NUM	_	5	nummod	_	_	두/nnc
+5	가지	가지	NOUN	_	6	compound	_	_	가지/nbu
+6	행위를	행위+를	NOUN	_	7	obj	_	_	행위/ncn+를/jco
+7	가지고	가지+고	CCONJ	_	9	conj	_	_	가지/pvg+고/ecc
+8	이것을	이것+을	PRON	_	9	obj	_	_	이것/npd+을/jco
+9	예증할	예증+하+ㄹ	VERB	_	0	root	_	_	예증/ncpa+하/xsv+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있다	있+다	ADJ	_	9	aux	_	_	있/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 즉 어린애를 익사시키려고 물 속에 밀어넣는 행위와 어린애를 구하려고 자신의 생명을 희생하는 2 개의 상이한 행위가 있다고 하자 .
+1	즉	즉	CCONJ	_	18	cc	_	_	즉/maj
+2	어린애를	어린애+를	NOUN	_	3	obj	_	_	어린애/ncn+를/jco
+3	익사시키려고	익사+시키+려고	SCONJ	_	6	ccomp	_	_	익사/ncpa+시키/xsv+려고/ecs
+4	물	물	NOUN	_	5	compound	_	_	물/ncn
+5	속에	속+에	ADV	_	6	obl	_	_	속/ncn+에/jca
+6	밀어넣는	밀어넣+는	VERB	_	7	acl	_	_	밀어넣/pvg+는/etm
+7	행위와	행위+와	CCONJ	_	16	conj	_	_	행위/ncn+와/jcj
+8	어린애를	어린애+를	NOUN	_	9	obj	_	_	어린애/ncn+를/jco
+9	구하려고	구하+려고	SCONJ	_	12	ccomp	_	_	구하/pvg+려고/ecs
+10	자신의	자신+의	NOUN	_	11	nmod	_	_	자신/ncn+의/jcm
+11	생명을	생명+을	NOUN	_	12	obj	_	_	생명/ncn+을/jco
+12	희생하는	희생+하+는	VERB	_	16	acl	_	_	희생/ncpa+하/xsv+는/etm
+13	2	2	NUM	_	14	nummod	_	_	2/nnc
+14	개의	개+의	NOUN	_	16	nmod	_	_	개/nbu+의/jcm
+15	상이한	상이+하+ㄴ	VERB	_	16	amod	_	_	상이/ncps+하/xsm+ㄴ/etm
+16	행위가	행위+가	NOUN	_	17	nsubj	_	_	행위/ncpa+가/jcs
+17	있다고	있+다+고	VERB	_	18	conj	_	_	있/paa+다/ef+고/jcr
+18	하자	하+자	VERB	_	0	root	_	_	하/pvg+자/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이 상이한 두 가지 사례는 전부 프로이트와 아들러의 이론 어느 것을 가지고도 쉽게 설명이 된다 .
+1	이	이	DET	_	5	det	_	_	이/mmd
+2	상이한	상이+하+ㄴ	VERB	_	5	amod	_	_	상이/ncps+하/xsm+ㄴ/etm
+3	두	두	NUM	_	4	nummod	_	_	두/nnc
+4	가지	가지	NOUN	_	5	compound	_	_	가지/nbu
+5	사례는	사례+는	NOUN	_	15	dislocated	_	_	사례/ncn+는/jxt
+6	전부	전부	NOUN	_	15	advmod	_	_	전부/ncn
+7	프로이트와	프로이트+와	CCONJ	_	8	conj	_	_	프로이트/nq+와/jcj
+8	아들러의	아들러+의	PROPN	_	9	nmod	_	_	아들러/nq+의/jcm
+9	이론	이론	NOUN	_	11	compound	_	_	이론/ncn
+10	어느	어느	DET	_	11	det	_	_	어느/mmd
+11	것을	것+을	NOUN	_	12	obj	_	_	것/nbn+을/jco
+12	가지고도	가지+고+도	ADV	_	15	ccomp	_	_	가지/pvg+고/ecs+도/jxc
+13	쉽게	쉽+게	SCONJ	_	15	xcomp	_	_	쉽/paa+게/ecs
+14	설명이	설명+이	NOUN	_	15	csubj	_	_	설명/ncpa+이/jcc
+15	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 나는 이러한 이론들에 의해서 해석될 수 없는 인간의 행위가 있다고 생각하지 않는다 .
+1	나는	나+는	PRON	_	11	dislocated	_	_	나/npp+는/jxt
+2	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+3	이론들에	이론+들+에	ADV	_	4	obl	_	_	이론/ncn+들/xsn+에/jca
+4	의해서	의하+어서	SCONJ	_	5	ccomp	_	_	의하/pvg+어서/ecs
+5	해석될	해석+되+ㄹ	VERB	_	9	acl	_	_	해석/ncpa+되/xsv+ㄹ/etm
+6	수	수	NOUN	_	7	fixed	_	_	수/nbn
+7	없는	없+는	ADJ	_	5	aux	_	_	없/paa+는/etm
+8	인간의	인간+의	NOUN	_	9	nmod	_	_	인간/ncn+의/jcm
+9	행위가	행위+가	NOUN	_	10	nsubj	_	_	행위/ncn+가/jcs
+10	있다고	있+다고	SCONJ	_	11	xcomp	_	_	있/paa+다고/ecs
+11	생각하지	생각+하+지	VERB	_	0	root	_	_	생각/ncpa+하/xsv+지/ecx
+12	않는다	않+는다	AUX	_	11	aux	_	_	않/px+는다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이 외견상의 강력성은 사실상 그 이론들의 약점이라는 생각이 나에게 들기 시작했다 .
+1	이	이	DET	_	3	det	_	_	이/mmd
+2	외견상의	외견+상+의	NOUN	_	3	nmod	_	_	외견/ncn+상/xsn+의/jcm
+3	강력성은	강력성+은	NOUN	_	7	dislocated	_	_	강력성/ncn+은/jxt
+4	사실상	사실+상	NOUN	_	7	advmod	_	_	사실/ncn+상/xsn
+5	그	그	DET	_	6	det	_	_	그/mmd
+6	이론들의	이론+들+의	NOUN	_	7	nmod	_	_	이론/ncn+들/xsn+의/jcm
+7	약점이라는	약점+이+라는	VERB	_	8	acl	_	_	약점/ncn+이/jp+라는/etm
+8	생각이	생각+이	NOUN	_	10	nsubj	_	_	생각/ncpa+이/jcs
+9	나에게	나+에게	ADV	_	10	iobj	_	_	나/npp+에게/jca
+10	들기	들+기	VERB	_	11	nmod	_	_	들/pvg+기/etn
+11	시작했다	시작+하+었+다	VERB	_	0	root	_	_	시작/ncpa+하/xsv+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이 이론들은 아인슈타인의 이론과는 본질적으로 다르다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	이론들은	이론+들+은	NOUN	_	6	dislocated	_	_	이론/ncn+들/xsn+은/jxt
+3	아인슈타인의	아인슈타인+의	PROPN	_	4	nmod	_	_	아인슈타인/nq+의/jcm
+4	이론과는	이론+과+는	NOUN	_	6	dislocated	_	_	이론/ncn+과/jct+는/jxt
+5	본질적으로	본질+적+으로	ADV	_	6	advcl	_	_	본질/ncn+적/xsn+으로/jca
+6	다르다	다르+다	ADJ	_	0	root	_	_	다르/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그 차이점을 검토한 결과 그는 다음과 같은 일반적인 관점에 도달하게 되었다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	차이점을	차이점+을	NOUN	_	3	obj	_	_	차이점/ncn+을/jco
+3	검토한	검토+하+ㄴ	VERB	_	4	acl	_	_	검토/ncpa+하/xsv+ㄴ/etm
+4	결과	결과	NOUN	_	10	advmod	_	_	결과/ncn
+5	그는	그+는	PRON	_	10	dislocated	_	_	그/npp+는/jxt
+6	다음과	다음+과	CCONJ	_	7	conj	_	_	다음/ncn+과/jct
+7	같은	같+ㄴ	ADJ	_	9	amod	_	_	같/paa+ㄴ/etm
+8	일반적인	일반+적+이+ㄴ	VERB	_	9	acl	_	_	일반/ncn+적/xsn+이/jp+ㄴ/etm
+9	관점에	관점+에	ADV	_	10	obl	_	_	관점/ncn+에/jca
+10	도달하게	도달+하+게	VERB	_	0	root	_	_	도달/ncpa+하/xsv+게/ecx
+11	되었다	되+었+다	AUX	_	10	aux	_	_	되/px+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 만일 우리가 확증을 찾고자 한다면 어떤 이론이든 그것의 확증 사례나 검증 사례를 쉽게 얻을 수 있다 .
+1	만일	만일	ADV	_	4	advmod	_	_	만일/mag
+2	우리가	우리+가	PRON	_	4	nsubj	_	_	우리/npp+가/jcs
+3	확증을	확증+을	NOUN	_	4	obj	_	_	확증/ncpa+을/jco
+4	찾고자	찾+고자	VERB	_	14	ccomp	_	_	찾/pvg+고자/ecx
+5	한다면	하+ㄴ다면	SCONJ	_	4	aux	_	_	하/px+ㄴ다면/ecs
+6	어떤	어떤	DET	_	7	det	_	_	어떤/mmd
+7	이론이든	이론+이든	ADV	_	14	advcl	_	_	이론/ncn+이든/jxc
+8	그것의	그것+의	PRON	_	12	nmod	_	_	그것/npd+의/jcm
+9	확증	확증	NOUN	_	10	compound	_	_	확증/ncpa
+10	사례나	사례+나	CCONJ	_	12	conj	_	_	사례/ncn+나/jcj
+11	검증	검증	NOUN	_	12	compound	_	_	검증/ncpa
+12	사례를	사례+를	NOUN	_	14	obj	_	_	사례/ncn+를/jco
+13	쉽게	쉽+게	SCONJ	_	14	xcomp	_	_	쉽/paa+게/ecs
+14	얻을	얻+ㄹ	VERB	_	0	root	_	_	얻/pvg+ㄹ/etm
+15	수	수	NOUN	_	16	fixed	_	_	수/nbn
+16	있다	있+다	ADJ	_	14	aux	_	_	있/paa+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 확증은 위험한 예측의 결과로서 얻어진 경우에만 의미를 가진다 .
+1	확증은	확증+은	NOUN	_	8	dislocated	_	_	확증/ncpa+은/jxt
+2	위험한	위험+하+ㄴ	VERB	_	3	amod	_	_	위험/ncps+하/xsm+ㄴ/etm
+3	예측의	예측+의	NOUN	_	4	nmod	_	_	예측/ncpa+의/jcm
+4	결과로서	결과+로서	ADV	_	5	advcl	_	_	결과/ncn+로서/jca
+5	얻어진	얻+어+지+ㄴ	AUX	_	6	acl	_	_	얻/pvg+어/ecx+지/px+ㄴ/etm
+6	경우에만	경우+에+만	ADV	_	8	advcl	_	_	경우/ncn+에/jca+만/jxc
+7	의미를	의미+를	NOUN	_	8	obj	_	_	의미/ncpa+를/jco
+8	가진다	가지+ㄴ다	VERB	_	0	root	_	_	가지/pvg+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 즉 통상의 경우 이 이론과 모순되는 사건을 예상할 수 있을 경우에만 의미를 가진다 .
+1	즉	즉	CCONJ	_	13	cc	_	_	즉/maj
+2	통상의	통상+의	NOUN	_	3	nmod	_	_	통상/ncn+의/jcm
+3	경우	경우	NOUN	_	13	advmod	_	_	경우/ncn
+4	이	이	DET	_	5	det	_	_	이/mmd
+5	이론과	이론+과	CCONJ	_	6	conj	_	_	이론/ncn+과/jct
+6	모순되는	모순+되+는	VERB	_	7	acl	_	_	모순/ncn+되/xsv+는/etm
+7	사건을	사건+을	NOUN	_	8	obj	_	_	사건/ncn+을/jco
+8	예상할	예상+하+ㄹ	VERB	_	11	acl	_	_	예상/ncpa+하/xsv+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	있을	있+ㄹ	ADJ	_	8	aux	_	_	있/paa+ㄹ/etm
+11	경우에만	경우+에+만	ADV	_	13	advcl	_	_	경우/ncn+에/jca+만/jxc
+12	의미를	의미+를	NOUN	_	13	obj	_	_	의미/ncpa+를/jco
+13	가진다	가지+ㄴ다	VERB	_	0	root	_	_	가지/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 모든 ' 좋은 ' 과학 이론들은 일종의 금지 기능을 가진다 .
+1	모든	모든	ADJ	_	6	amod	_	_	모든/mma
+2	'	'	PUNCT	_	3	punct	_	_	'/sl
+3	좋은	좋+ㄴ	ADJ	_	6	amod	_	_	좋/paa+ㄴ/etm
+4	'	'	PUNCT	_	3	punct	_	_	'/sr
+5	과학	과학	NOUN	_	6	compound	_	_	과학/ncn
+6	이론들은	이론+들+은	NOUN	_	10	dislocated	_	_	이론/ncn+들/xsn+은/jxt
+7	일종의	일종+의	NOUN	_	9	nmod	_	_	일종/ncn+의/jcm
+8	금지	금지	NOUN	_	9	compound	_	_	금지/ncpa
+9	기능을	기능+을	NOUN	_	10	obj	_	_	기능/ncn+을/jco
+10	가진다	가지+ㄴ다	VERB	_	0	root	_	_	가지/pvg+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 즉 그것은 어떠한 사태의 발생을 금한다 .
+1	즉	즉	CCONJ	_	6	cc	_	_	즉/maj
+2	그것은	그것+은	PRON	_	6	dislocated	_	_	그것/npd+은/jxt
+3	어떠한	어떠하+ㄴ	VERB	_	4	amod	_	_	어떠하/pad+ㄴ/etm
+4	사태의	사태+의	NOUN	_	5	nmod	_	_	사태/ncn+의/jcm
+5	발생을	발생+을	NOUN	_	6	obj	_	_	발생/ncpa+을/jco
+6	금한다	금하+ㄴ다	VERB	_	0	root	_	_	금하/pvg+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 한 이론에 있어서 그것이 금하는 것이 많으면 많을수록 좋은 이론이다 .
+1	한	한	NUM	_	2	nummod	_	_	한/nnc
+2	이론에	이론+에	ADV	_	3	obl	_	_	이론/ncn+에/jca
+3	있어서	있+어서	SCONJ	_	10	xcomp	_	_	있/paa+어서/ecs
+4	그것이	그것+이	PRON	_	5	nsubj	_	_	그것/npd+이/jcs
+5	금하는	금하+는	VERB	_	6	acl	_	_	금하/pvg+는/etm
+6	것이	것+이	NOUN	_	7	nsubj	_	_	것/nbn+이/jcs
+7	많으면	많+으면	SCONJ	_	8	xcomp	_	_	많/paa+으면/ecs
+8	많을수록	많+ㄹ수록	SCONJ	_	10	xcomp	_	_	많/paa+ㄹ수록/ecs
+9	좋은	좋+ㄴ	ADJ	_	10	amod	_	_	좋/paa+ㄴ/etm
+10	이론이다	이론+이+다	VERB	_	0	root	_	_	이론/ncn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 고찰 가능한 어떠한 사례에 의해서도 반박되지 않는 이론은 비과학적이다 .
+1	고찰	고찰	NOUN	_	2	compound	_	_	고찰/ncpa
+2	가능한	가능+하+ㄴ	VERB	_	4	amod	_	_	가능/ncps+하/xsm+ㄴ/etm
+3	어떠한	어떠하+ㄴ	VERB	_	4	amod	_	_	어떠하/pad+ㄴ/etm
+4	사례에	사례+에	ADV	_	5	obl	_	_	사례/ncn+에/jca
+5	의해서도	의하+어서+도	ADV	_	6	ccomp	_	_	의하/pvg+어서/ecs+도/jxc
+6	반박되지	반박+되+지	VERB	_	8	acl	_	_	반박/ncpa+되/xsv+지/ecx
+7	않는	않+는	AUX	_	6	aux	_	_	않/px+는/etm
+8	이론은	이론+은	NOUN	_	9	dislocated	_	_	이론/ncn+은/jxt
+9	비과학적이다	비+과학+적+이+다	PART	_	0	root	_	_	비/xp+과학/ncn+적/xsn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 반박 불가능성은 그 이론의 장점이 아니라 그것이 약점이다 .
+1	반박	반박	NOUN	_	2	dep	_	_	반박/ncpa
+2	불가능성은	불+가능성+은	PART	_	6	dislocated	_	_	불/xp+가능성/ncn+은/jxt
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	이론의	이론+의	NOUN	_	5	nmod	_	_	이론/ncn+의/jcm
+5	장점이	장점+이	NOUN	_	6	csubj	_	_	장점/ncn+이/jcc
+6	아니라	아니+라	SCONJ	_	8	xcomp	_	_	아니/paa+라/ecs
+7	그것이	그것+이	PRON	_	8	nsubj	_	_	그것/npd+이/jcs
+8	약점이다	약점+이+다	VERB	_	0	root	_	_	약점/ncn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이론에 관한 본질적 의미에서의 검사는 그것을 반증 또는 반박하려고 하는 시도이다 .
+1	이론에	이론+에	ADV	_	2	obl	_	_	이론/ncn+에/jca
+2	관한	관하+ㄴ	VERB	_	4	acl	_	_	관하/pvg+ㄴ/etm
+3	본질적	본질+적	NOUN	_	4	amod	_	_	본질/ncn+적/xsn
+4	의미에서의	의미+에서+의	NOUN	_	5	nmod	_	_	의미/ncpa+에서/jca+의/jcm
+5	검사는	검사+는	NOUN	_	11	dislocated	_	_	검사/ncpa+는/jxt
+6	그것을	그것+을	PRON	_	9	obj	_	_	그것/npd+을/jco
+7	반증	반증	NOUN	_	9	compound	_	_	반증/ncpa
+8	또는	또는	CCONJ	_	9	cc	_	_	또는/maj
+9	반박하려고	반박+하+려고	VERB	_	11	ccomp	_	_	반박/ncpa+하/xsv+려고/ecx
+10	하는	하+는	AUX	_	9	aux	_	_	하/px+는/etm
+11	시도이다	시도+이+다	VERB	_	0	root	_	_	시도/ncpa+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 검사 가능성은 반증 가능성이다 .
+1	검사	검사	NOUN	_	2	compound	_	_	검사/ncpa
+2	가능성은	가능성+은	NOUN	_	4	dislocated	_	_	가능성/ncn+은/jxt
+3	반증	반증	NOUN	_	4	compound	_	_	반증/ncpa
+4	가능성이다	가능성+이+다	VERB	_	0	root	_	_	가능성/ncn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 검사 가능도가 높을수록 반박 가능도도 높다 .
+1	검사	검사	NOUN	_	2	compound	_	_	검사/ncpa
+2	가능도가	가능도+가	NOUN	_	3	nsubj	_	_	가능도/ncn+가/jcs
+3	높을수록	높+ㄹ수록	SCONJ	_	6	xcomp	_	_	높/paa+ㄹ수록/ecs
+4	반박	반박	NOUN	_	5	compound	_	_	반박/ncpa
+5	가능도도	가능도+도	ADV	_	6	advcl	_	_	가능도/ncn+도/jxc
+6	높다	높+다	ADJ	_	0	root	_	_	높/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 말하자면 더 높은 위험을 안고 있다 .
+1	말하자면	말하자면	CCONJ	_	5	cc	_	_	말하자면/maj
+2	더	더	ADV	_	3	advmod	_	_	더/mag
+3	높은	높+ㄴ	ADJ	_	4	amod	_	_	높/paa+ㄴ/etm
+4	위험을	위험+을	NOUN	_	5	obj	_	_	위험/ncps+을/jco
+5	안고	안+고	VERB	_	0	root	_	_	안/pvg+고/ecx
+6	있다	있+다	AUX	_	5	aux	_	_	있/px+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이것은 임시 방편적 ( ad hoc ) 방식을 통해서 항상 가능하다 .
+1	이것은	이것+은	PRON	_	11	dislocated	_	_	이것/npd+은/jxt
+2	임시	임시	NOUN	_	3	compound	_	_	임시/ncn
+3	방편적	방편+적	NOUN	_	8	dep	_	_	방편/ncn+적/xsn
+4	(	(	PUNCT	_	6	punct	_	_	(/sl
+5	ad	ad	X	_	6	flat	_	_	ad/f
+6	hoc	hoc	X	_	3	appos	_	_	hoc/f
+7	)	)	PUNCT	_	6	punct	_	_	)/sr
+8	방식을	방식+을	NOUN	_	9	obj	_	_	방식/ncn+을/jco
+9	통해서	통하+어서	SCONJ	_	11	conj	_	_	통하/pvg+어서/ecs
+10	항상	항상	ADV	_	11	advmod	_	_	항상/mag
+11	가능하다	가능+하+다	VERB	_	0	root	_	_	가능/ncps+하/xsm+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러나 그러한 구제 방식은 그 이론의 과학적 지위를 손상시키지 않고는 불가능하다 .
+1	그러나	그러나	CCONJ	_	11	cc	_	_	그러나/maj
+2	그러한	그러하+ㄴ	VERB	_	4	amod	_	_	그러하/pad+ㄴ/etm
+3	구제	구제	NOUN	_	4	compound	_	_	구제/ncpa
+4	방식은	방식+은	NOUN	_	11	dislocated	_	_	방식/ncn+은/jxt
+5	그	그	DET	_	6	det	_	_	그/mmd
+6	이론의	이론+의	NOUN	_	8	nmod	_	_	이론/ncn+의/jcm
+7	과학적	과학+적	NOUN	_	8	amod	_	_	과학/ncn+적/xsn
+8	지위를	지위+를	NOUN	_	9	obj	_	_	지위/ncn+를/jco
+9	손상시키지	손상+시키+지	VERB	_	11	ccomp	_	_	손상/ncpa+시키/xsv+지/ecx
+10	않고는	않+고+는	NOUN	_	9	aux	_	_	않/px+고/ecs+는/jxt
+11	불가능하다	불+가능+하+다	PART	_	0	root	_	_	불/xp+가능/ncps+하/xsm+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러므로 임시 방편적 방식은 원칙적으로 금지되어야 한다 .
+1	그러므로	그러므로	CCONJ	_	6	cc	_	_	그러므로/maj
+2	임시	임시	NOUN	_	3	compound	_	_	임시/ncn
+3	방편적	방편+적	NOUN	_	4	amod	_	_	방편/ncn+적/xsn
+4	방식은	방식+은	NOUN	_	6	dislocated	_	_	방식/ncn+은/jxt
+5	원칙적으로	원칙+적+으로	ADV	_	6	advcl	_	_	원칙/ncn+적/xsn+으로/jca
+6	금지되어야	금지+되+어야	VERB	_	0	root	_	_	금지/ncpa+되/xsv+어야/ecx
+7	한다	하+ㄴ다	AUX	_	6	aux	_	_	하/px+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그러므로 내가 반증 가능성의 기준을 제시함으로써 해결하려고 한 문제는 무의미 혹은 유의미의 문제도 아니고 진리 또는 수용 가능성 ( acceptability ) 문제도 아니었다 .
+1	그러므로	그러므로	CCONJ	_	23	cc	_	_	그러므로/maj
+2	내가	내+가	PRON	_	7	nsubj	_	_	내/npp+가/jcs
+3	반증	반증	NOUN	_	4	compound	_	_	반증/ncpa
+4	가능성의	가능성+의	NOUN	_	5	nmod	_	_	가능성/ncn+의/jcm
+5	기준을	기준+을	NOUN	_	6	obj	_	_	기준/ncn+을/jco
+6	제시함으로써	제시+하+ㅁ+으로써	ADV	_	7	advcl	_	_	제시/ncpa+하/xsv+ㅁ/etn+으로써/jca
+7	해결하려고	해결+하+려고	VERB	_	9	acl	_	_	해결/ncpa+하/xsv+려고/ecx
+8	한	하+ㄴ	AUX	_	7	aux	_	_	하/px+ㄴ/etm
+9	문제는	문제+는	NOUN	_	23	dislocated	_	_	문제/ncn+는/jxt
+10	무의미	무의미	NOUN	_	12	conj	_	_	무의미/ncps
+11	혹은	혹은	CCONJ	_	12	cc	_	_	혹은/maj
+12	유의미의	유의미+의	NOUN	_	13	nmod	_	_	유의미/ncps+의/jcm
+13	문제도	문제+도	ADV	_	14	advcl	_	_	문제/ncn+도/jxc
+14	아니고	아니+고	CCONJ	_	23	conj	_	_	아니/paa+고/ecc
+15	진리	진리	NOUN	_	18	conj	_	_	진리/ncn
+16	또는	또는	CCONJ	_	18	cc	_	_	또는/maj
+17	수용	수용	NOUN	_	18	compound	_	_	수용/ncpa
+18	가능성	가능성	NOUN	_	22	compound	_	_	가능성/ncn
+19	(	(	PUNCT	_	20	punct	_	_	(/sl
+20	acceptability	acceptability	X	_	18	appos	_	_	acceptability/f
+21	)	)	PUNCT	_	20	punct	_	_	)/sr
+22	문제도	문제+도	ADV	_	23	advcl	_	_	문제/ncn+도/jxc
+23	아니었다	아니+었+다	ADJ	_	0	root	_	_	아니/paa+었/ep+다/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+

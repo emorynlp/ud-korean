@@ -1,0 +1,4440 @@
+# 그러나 교수직이나 법조계 직업배경의 지도자 수가 점증하고 있으며 이는 가까운 장래에 국가지도체계에 더 광범위한 전환이 있게 될 것을 시사하고 있다 .
+1	그러나	그러나	CCONJ	_	19	cc	_	_	그러나/maj
+2	교수직이나	교수직+이나	CCONJ	_	3	conj	_	_	교수직/ncn+이나/jcj
+3	법조계	법조계	NOUN	_	4	compound	_	_	법조계/ncn
+4	직업배경의	직업+배경+의	NOUN	_	6	nmod	_	_	직업/ncn+배경/ncn+의/jcm
+5	지도자	지도자	NOUN	_	6	compound	_	_	지도자/ncn
+6	수가	수+가	NOUN	_	7	nsubj	_	_	수/ncn+가/jcs
+7	점증하고	점증+하+고	VERB	_	19	ccomp	_	_	점증/ncpa+하/xsv+고/ecx
+8	있으며	있+으며	SCONJ	_	7	aux	_	_	있/px+으며/ecs
+9	이는	이+는	PRON	_	19	dislocated	_	_	이/npd+는/jxt
+10	가까운	가깝+ㄴ	ADJ	_	11	amod	_	_	가깝/paa+ㄴ/etm
+11	장래에	장래+에	ADV	_	16	obl	_	_	장래/ncn+에/jca
+12	국가지도체계에	국가+지도+체계+에	ADV	_	16	obl	_	_	국가/ncn+지도/ncpa+체계/ncn+에/jca
+13	더	더	ADV	_	14	advmod	_	_	더/mag
+14	광범위한	광범위+하+ㄴ	VERB	_	15	acl	_	_	광범위/ncpa+하/xsv+ㄴ/etm
+15	전환이	전환+이	NOUN	_	16	nsubj	_	_	전환/ncpa+이/jcs
+16	있게	있+게	ADJ	_	18	amod	_	_	있/paa+게/ecx
+17	될	되+ㄹ	AUX	_	16	aux	_	_	되/px+ㄹ/etm
+18	것을	것+을	NOUN	_	19	obj	_	_	것/nbn+을/jco
+19	시사하고	시사+하+고	VERB	_	0	root	_	_	시사/ncpa+하/xsv+고/ecx
+20	있다	있+다	AUX	_	19	aux	_	_	있/px+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 다시 말해서 , 사회 경제발전과 정치지도자 구성 쌍방 간에는 인과관계가 있다고 본다 .
+1	다시	다시	ADV	_	2	advmod	_	_	다시/mag
+2	말해서	말하+어서	SCONJ	_	12	ccomp	_	_	말하/pvg+어서/ecs
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	사회	사회	NOUN	_	5	compound	_	_	사회/ncn
+5	경제발전과	경제발전+과	CCONJ	_	7	conj	_	_	경제발전/ncpa+과/jcj
+6	정치지도자	정치+지도자	NOUN	_	7	compound	_	_	정치/ncpa+지도자/ncn
+7	구성	구성	NOUN	_	8	compound	_	_	구성/ncn
+8	쌍방	쌍방	NOUN	_	9	compound	_	_	쌍방/ncn
+9	간에는	간+에+는	NOUN	_	11	dislocated	_	_	간/nbn+에/jca+는/jxt
+10	인과관계가	인과+관계+가	NOUN	_	11	nsubj	_	_	인과/ncn+관계/ncpa+가/jcs
+11	있다고	있+다+고	VERB	_	12	conj	_	_	있/paa+다/ef+고/jcr
+12	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 사회 경제발전 과정에 있어 지도자들의 직업구성은 순차적 변천형태를 보여준다 .
+1	사회	사회	NOUN	_	2	compound	_	_	사회/ncn
+2	경제발전	경제발전	NOUN	_	3	compound	_	_	경제발전/ncn
+3	과정에	과정+에	ADV	_	4	obl	_	_	과정/ncpa+에/jca
+4	있어	있+어	SCONJ	_	9	xcomp	_	_	있/paa+어/ecs
+5	지도자들의	지도자+들+의	NOUN	_	6	nmod	_	_	지도자/ncn+들/xsn+의/jcm
+6	직업구성은	직업+구성+은	NOUN	_	9	dislocated	_	_	직업/ncn+구성/ncn+은/jxt
+7	순차적	순차+적	NOUN	_	8	amod	_	_	순차/ncn+적/xsn
+8	변천형태를	변천+형태+를	NOUN	_	9	obj	_	_	변천/ncpa+형태/ncn+를/jco
+9	보여준다	보이+어+주+ㄴ다	AUX	_	0	root	_	_	보이/pvg+어/ecx+주/px+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 발전 초기에는 농업 , 상업 및 교사의 직업배경을 가진 지도자들이 국가정부에서 우세하다 .
+1	발전	발전	NOUN	_	2	compound	_	_	발전/ncn
+2	초기에는	초기+에+는	NOUN	_	12	dislocated	_	_	초기/ncn+에/jca+는/jxt
+3	농업	농업	NOUN	_	5	conj	_	_	농업/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	상업	상업	NOUN	_	7	conj	_	_	상업/ncn
+6	및	및	CCONJ	_	7	cc	_	_	및/maj
+7	교사의	교사+의	NOUN	_	8	nmod	_	_	교사/ncn+의/jcm
+8	직업배경을	직업+배경+을	NOUN	_	9	obj	_	_	직업/ncn+배경/ncn+을/jco
+9	가진	가지+ㄴ	VERB	_	10	acl	_	_	가지/pvg+ㄴ/etm
+10	지도자들이	지도자+들+이	NOUN	_	12	nsubj	_	_	지도자/ncn+들/xsn+이/jcs
+11	국가정부에서	국가+정부+에서	ADV	_	12	advcl	_	_	국가/ncn+정부/ncn+에서/jca
+12	우세하다	우세+하+다	VERB	_	0	root	_	_	우세/ncpa+하/xsv+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그리고 후기 발전의 성숙기에 가서는 교수 , 법조인 , 의사 , 약사 그 외 자유직 배경의 지도자들이 우세하게 된다 .
+1	그리고	그리고	CCONJ	_	18	cc	_	_	그리고/maj
+2	후기	후기	NOUN	_	3	compound	_	_	후기/ncn
+3	발전의	발전+의	NOUN	_	4	nmod	_	_	발전/ncpa+의/jcm
+4	성숙기에	성숙기+에	ADV	_	5	obl	_	_	성숙기/ncn+에/jca
+5	가서는	가+서+는	NOUN	_	18	ccomp	_	_	가/pvg+서/ecs+는/jxt
+6	교수	교수	NOUN	_	8	conj	_	_	교수/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	법조인	법조인	NOUN	_	10	conj	_	_	법조인/ncn
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	의사	의사	NOUN	_	12	conj	_	_	의사/ncn
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	약사	약사	NOUN	_	15	compound	_	_	약사/ncn
+13	그	그	DET	_	14	det	_	_	그/mmd
+14	외	외	NOUN	_	15	mark	_	_	외/nbn
+15	자유직	자유직	NOUN	_	16	compound	_	_	자유직/ncn
+16	배경의	배경+의	NOUN	_	17	nmod	_	_	배경/ncn+의/jcm
+17	지도자들이	지도자+들+이	NOUN	_	18	nsubj	_	_	지도자/ncn+들/xsn+이/jcs
+18	우세하게	우세+하+게	VERB	_	0	root	_	_	우세/ncpa+하/xsv+게/ecx
+19	된다	되+ㄴ다	AUX	_	18	aux	_	_	되/px+ㄴ다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 셋째로 경제성장률을 지도자 사회배경의 변천형태와 관계시켜 분석한다 .
+1	셋째로	셋째+로	ADV	_	7	advcl	_	_	셋째/nno+로/jca
+2	경제성장률을	경제성장률+을	NOUN	_	6	obj	_	_	경제성장률/ncn+을/jco
+3	지도자	지도자	NOUN	_	4	compound	_	_	지도자/ncn
+4	사회배경의	사회+배경+의	NOUN	_	5	nmod	_	_	사회/ncn+배경/ncn+의/jcm
+5	변천형태와	변천+형태+와	CCONJ	_	6	conj	_	_	변천/ncpa+형태/ncn+와/jct
+6	관계시켜	관계+시키+어	SCONJ	_	7	ccomp	_	_	관계/ncpa+시키/xsv+어/ecs
+7	분석한다	분석+하+ㄴ다	VERB	_	0	root	_	_	분석/ncpa+하/xsv+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 분석에 들어가기 전에 우선 사회 경제 발전과 지도자 직업배경 변천의 세 단계가 무엇인가에 대해서 알아 보고자 한다 .
+1	분석에	분석+에	ADV	_	2	obl	_	_	분석/ncpa+에/jca
+2	들어가기	들+어+가+기	AUX	_	3	nmod	_	_	들/pvg+어/ecx+가/px+기/etn
+3	전에	전+에	ADV	_	15	obl	_	_	전/ncn+에/jca
+4	우선	우선	ADV	_	15	advmod	_	_	우선/mag
+5	사회	사회	NOUN	_	6	compound	_	_	사회/ncn
+6	경제	경제	NOUN	_	7	compound	_	_	경제/ncn
+7	발전과	발전+과	CCONJ	_	10	conj	_	_	발전/ncpa+과/jcj
+8	지도자	지도자	NOUN	_	9	compound	_	_	지도자/ncn
+9	직업배경	직업+배경	NOUN	_	10	compound	_	_	직업/ncn+배경/ncn
+10	변천의	변천+의	NOUN	_	12	nmod	_	_	변천/ncpa+의/jcm
+11	세	세	NUM	_	12	nummod	_	_	세/nnc
+12	단계가	단계+가	NOUN	_	13	nsubj	_	_	단계/ncn+가/jcs
+13	무엇인가에	무엇+이+ㄴ가+에	ADV	_	14	obl	_	_	무엇/npd+이/jp+ㄴ가/ef+에/jca
+14	대해서	대하+어서	SCONJ	_	15	ccomp	_	_	대하/pvg+어서/ecs
+15	알아	알+아	VERB	_	0	root	_	_	알/pvg+아/ecx
+16	보고자	보+고자	AUX	_	15	aux	_	_	보/px+고자/ecx
+17	한다	하+ㄴ다	AUX	_	15	aux	_	_	하/px+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 본 연구에서는 사회발전의 목적들을 근대생활을 뒷받침하는 문화적 가치관들과 사회형식들로 본다 .
+1	본	본	DET	_	2	det	_	_	본/mmd
+2	연구에서는	연구+에서+는	NOUN	_	10	dislocated	_	_	연구/ncpa+에서/jca+는/jxt
+3	사회발전의	사회발전+의	NOUN	_	4	nmod	_	_	사회발전/ncpa+의/jcm
+4	목적들을	목적+들+을	NOUN	_	10	obj	_	_	목적/ncpa+들/xsn+을/jco
+5	근대생활을	근대+생활+을	NOUN	_	6	obj	_	_	근대/ncn+생활/ncpa+을/jco
+6	뒷받침하는	뒷받침+하+는	VERB	_	9	acl	_	_	뒷받침/ncpa+하/xsv+는/etm
+7	문화적	문화+적	NOUN	_	8	amod	_	_	문화/ncn+적/xsn
+8	가치관들과	가치관+들+과	CCONJ	_	9	conj	_	_	가치관/ncn+들/xsn+과/jcj
+9	사회형식들로	사회형식+들+로	ADV	_	10	advcl	_	_	사회형식/ncn+들/xsn+로/jca
+10	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 근대적 가치관들과 사회형식들을 형성하는 수단들로는 높은 식자율 , 학교교육 , 공중위생과 의료보호 , 사회복지 서비스 , 도시화 그리고 근대적 수송과 통신 등을 포함한다 .
+1	근대적	근대+적	NOUN	_	2	amod	_	_	근대/ncn+적/xsn
+2	가치관들과	가치관+들+과	CCONJ	_	3	conj	_	_	가치관/ncn+들/xsn+과/jcj
+3	사회형식들을	사회형식+들+을	NOUN	_	4	obj	_	_	사회형식/ncn+들/xsn+을/jco
+4	형성하는	형성+하+는	VERB	_	5	acl	_	_	형성/ncpa+하/xsv+는/etm
+5	수단들로는	수단+들+로+는	NOUN	_	23	dislocated	_	_	수단/ncn+들/xsn+로/jca+는/jxt
+6	높은	높+ㄴ	ADJ	_	7	amod	_	_	높/paa+ㄴ/etm
+7	식자율	식자율	NOUN	_	9	compound	_	_	식자율/ncn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	학교교육	학교교육	NOUN	_	11	conj	_	_	학교교육/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	공중위생과	공중+위생+과	CCONJ	_	12	conj	_	_	공중/ncn+위생/ncn+과/jcj
+12	의료보호	의료보호	NOUN	_	14	conj	_	_	의료보호/ncn
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	사회복지	사회복지	NOUN	_	15	compound	_	_	사회복지/ncn
+15	서비스	서비스	NOUN	_	17	conj	_	_	서비스/ncn
+16	,	,	PUNCT	_	15	punct	_	_	,/sp
+17	도시화	도시화	NOUN	_	21	conj	_	_	도시화/ncn
+18	그리고	그리고	CCONJ	_	21	cc	_	_	그리고/maj
+19	근대적	근대+적	NOUN	_	21	amod	_	_	근대/ncn+적/xsn
+20	수송과	수송+과	CCONJ	_	21	conj	_	_	수송/ncpa+과/jcj
+21	통신	통신	NOUN	_	22	conj	_	_	통신/ncn
+22	등을	등+을	NOUN	_	23	obj	_	_	등/ncn+을/jco
+23	포함한다	포함+하+ㄴ다	VERB	_	0	root	_	_	포함/ncpa+하/xsv+ㄴ다/ef
+24	.	.	PUNCT	_	23	punct	_	_	./sf
+
+# 이와 같이 정의된 사회발전은 근대화와 동의어가 되며 경제발전에 필요한 사회조건들을 제공한다 .
+1	이와	이+와	CCONJ	_	2	conj	_	_	이/npd+와/jct
+2	같이	같+이	SCONJ	_	3	xcomp	_	_	같/paa+이/ecs
+3	정의된	정의+되+ㄴ	VERB	_	4	acl	_	_	정의/ncpa+되/xsv+ㄴ/etm
+4	사회발전은	사회발전+은	NOUN	_	7	dislocated	_	_	사회발전/ncpa+은/jxt
+5	근대화와	근대화+와	CCONJ	_	7	conj	_	_	근대화/ncn+와/jct
+6	동의어가	동의어+가	NOUN	_	7	nsubj	_	_	동의어/ncn+가/jcs
+7	되며	되+며	CCONJ	_	11	conj	_	_	되/pvg+며/ecc
+8	경제발전에	경제발전+에	ADV	_	9	obl	_	_	경제발전/ncpa+에/jca
+9	필요한	필요+하+ㄴ	VERB	_	10	amod	_	_	필요/ncps+하/xsm+ㄴ/etm
+10	사회조건들을	사회조건+들+을	NOUN	_	11	obj	_	_	사회조건/ncn+들/xsn+을/jco
+11	제공한다	제공+하+ㄴ다	VERB	_	0	root	_	_	제공/ncpa+하/xsv+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그리고 경제발전은 또 사회생활의 여러 측면들과 정치생활에 영향을 갖는다 .
+1	그리고	그리고	CCONJ	_	9	cc	_	_	그리고/maj
+2	경제발전은	경제발전+은	NOUN	_	9	dislocated	_	_	경제발전/ncpa+은/jxt
+3	또	또	ADV	_	9	advmod	_	_	또/mag
+4	사회생활의	사회생활+의	NOUN	_	6	nmod	_	_	사회생활/ncpa+의/jcm
+5	여러	여러	ADJ	_	6	amod	_	_	여러/mma
+6	측면들과	측면+들+과	CCONJ	_	7	conj	_	_	측면/ncn+들/xsn+과/jcj
+7	정치생활에	정치생활+에	ADV	_	9	obl	_	_	정치생활/ncpa+에/jca
+8	영향을	영향+을	NOUN	_	9	obj	_	_	영향/ncn+을/jco
+9	갖는다	갖+는다	VERB	_	0	root	_	_	갖/pvg+는다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 경제과정에 있어 생존수단으로서의 소규모 농업은 점차적으로 농산물의 상업적 생산으로 발전되어 가고 사람과 동물의 힘의 활용은 점차적으로 동력을 사용하는 기계들로 대치된다 .
+1	경제과정에	경제과정+에	ADV	_	2	obl	_	_	경제과정/ncn+에/jca
+2	있어	있+어	SCONJ	_	20	xcomp	_	_	있/paa+어/ecs
+3	생존수단으로서의	생존+수단+으로서+의	NOUN	_	5	nmod	_	_	생존/ncpa+수단/ncn+으로서/jca+의/jcm
+4	소규모	소규모	NOUN	_	5	compound	_	_	소규모/ncn
+5	농업은	농업+은	NOUN	_	10	dislocated	_	_	농업/ncn+은/jxt
+6	점차적으로	점차적+으로	ADV	_	10	advcl	_	_	점차적/ncn+으로/jca
+7	농산물의	농산물+의	NOUN	_	9	nmod	_	_	농산물/ncn+의/jcm
+8	상업적	상업+적	NOUN	_	9	amod	_	_	상업/ncpa+적/xsn
+9	생산으로	생산+으로	ADV	_	10	advcl	_	_	생산/ncpa+으로/jca
+10	발전되어	발전+되+어	VERB	_	20	conj	_	_	발전/ncpa+되/xsv+어/ecx
+11	가고	가+고	CCONJ	_	10	aux	_	_	가/px+고/ecc
+12	사람과	사람+과	CCONJ	_	13	conj	_	_	사람/ncn+과/jcj
+13	동물의	동물+의	NOUN	_	14	nmod	_	_	동물/ncn+의/jcm
+14	힘의	힘+의	NOUN	_	15	nmod	_	_	힘/ncn+의/jcm
+15	활용은	활용+은	NOUN	_	20	dislocated	_	_	활용/ncpa+은/jxt
+16	점차적으로	점차적+으로	ADV	_	20	advcl	_	_	점차적/ncn+으로/jca
+17	동력을	동력+을	NOUN	_	18	obj	_	_	동력/ncn+을/jco
+18	사용하는	사용+하+는	VERB	_	19	acl	_	_	사용/ncpa+하/xsv+는/etm
+19	기계들로	기계+들+로	ADV	_	20	advcl	_	_	기계/ncn+들/xsn+로/jca
+20	대치된다	대치+되+ㄴ다	VERB	_	0	root	_	_	대치/ncpa+되/xsv+ㄴ다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 사회 경제발전은 서로가 서로를 수반하는 의존적인 과정들이다 .
+1	사회	사회	NOUN	_	2	compound	_	_	사회/ncn
+2	경제발전은	경제발전+은	NOUN	_	7	dislocated	_	_	경제발전/ncpa+은/jxt
+3	서로가	서로+가	NOUN	_	5	nsubj	_	_	서로/ncn+가/jcs
+4	서로를	서로+를	NOUN	_	5	obj	_	_	서로/ncn+를/jco
+5	수반하는	수반+하+는	VERB	_	7	ccomp	_	_	수반/ncpa+하/xsv+는/etm
+6	의존적인	의존+적+이+ㄴ	VERB	_	7	acl	_	_	의존/ncpa+적/xsn+이/jp+ㄴ/etm
+7	과정들이다	과정+들+이+다	VERB	_	0	root	_	_	과정/ncpa+들/xsn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 한 나라의 경제적 후진성은 보편적으로 이의 사회적 후진성을 동반하게 된다 .
+1	한	한	NUM	_	2	nummod	_	_	한/nnc
+2	나라의	나라+의	NOUN	_	4	nmod	_	_	나라/ncn+의/jcm
+3	경제적	경제+적	NOUN	_	4	amod	_	_	경제/ncn+적/xsn
+4	후진성은	후진성+은	NOUN	_	9	dislocated	_	_	후진성/ncn+은/jxt
+5	보편적으로	보편+적+으로	ADV	_	9	advcl	_	_	보편/ncn+적/xsn+으로/jca
+6	이의	이+의	PRON	_	8	nmod	_	_	이/npd+의/jcm
+7	사회적	사회+적	NOUN	_	8	amod	_	_	사회/ncn+적/xsn
+8	후진성을	후진성+을	NOUN	_	9	obj	_	_	후진성/ncn+을/jco
+9	동반하게	동반+하+게	VERB	_	0	root	_	_	동반/ncpa+하/xsv+게/ecx
+10	된다	되+ㄴ다	AUX	_	9	aux	_	_	되/px+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 한 나라의 사회 경제발전 초기에 있어 경제는 아직 농업이 위주가 되고 비교적 적은 비율의 인구가 도시에 살고있다 .
+1	한	한	NUM	_	2	nummod	_	_	한/nnc
+2	나라의	나라+의	NOUN	_	4	nmod	_	_	나라/ncn+의/jcm
+3	사회	사회	NOUN	_	4	compound	_	_	사회/ncn
+4	경제발전	경제발전	NOUN	_	5	compound	_	_	경제발전/ncn
+5	초기에	초기+에	ADV	_	6	obl	_	_	초기/ncn+에/jca
+6	있어	있+어	SCONJ	_	17	xcomp	_	_	있/paa+어/ecs
+7	경제는	경제+는	NOUN	_	11	dislocated	_	_	경제/ncn+는/jxt
+8	아직	아직	ADV	_	11	advmod	_	_	아직/mag
+9	농업이	농업+이	NOUN	_	11	nsubj	_	_	농업/ncn+이/jcs
+10	위주가	위주+가	NOUN	_	11	csubj	_	_	위주/ncpa+가/jcc
+11	되고	되+고	CCONJ	_	17	conj	_	_	되/pvg+고/ecc
+12	비교적	비교+적	NOUN	_	13	amod	_	_	비교/ncpa+적/xsn
+13	적은	적+ㄴ	VERB	_	14	acl	_	_	적/pvg+ㄴ/etm
+14	비율의	비율+의	NOUN	_	15	nmod	_	_	비율/ncn+의/jcm
+15	인구가	인구+가	NOUN	_	17	nsubj	_	_	인구/ncn+가/jcs
+16	도시에	도시+에	ADV	_	17	obl	_	_	도시/ncn+에/jca
+17	살고있다	살+고+있+다	AUX	_	0	root	_	_	살/pvg+고/ecx+있/px+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그러나 근대적 교통 및 통신시설은 점차 이제까지 격리되어 있던 지역들을 서로 연결시키게 된다 .
+1	그러나	그러나	CCONJ	_	12	cc	_	_	그러나/maj
+2	근대적	근대+적	NOUN	_	3	amod	_	_	근대/ncn+적/xsn
+3	교통	교통	NOUN	_	5	conj	_	_	교통/ncn
+4	및	및	CCONJ	_	5	cc	_	_	및/maj
+5	통신시설은	통신+시설+은	NOUN	_	12	dislocated	_	_	통신/ncpa+시설/ncpa+은/jxt
+6	점차	점차	ADV	_	12	advmod	_	_	점차/mag
+7	이제까지	이제+까지	ADV	_	8	advcl	_	_	이제/ncn+까지/jxc
+8	격리되어	격리+되+어	VERB	_	10	acl	_	_	격리/ncpa+되/xsv+어/ecx
+9	있던	있+던	AUX	_	8	aux	_	_	있/px+던/etm
+10	지역들을	지역+들+을	NOUN	_	12	obj	_	_	지역/ncn+들/xsn+을/jco
+11	서로	서로	ADV	_	12	advmod	_	_	서로/mag
+12	연결시키게	연결+시키+게	VERB	_	0	root	_	_	연결/ncpa+시키/xsv+게/ecx
+13	된다	되+ㄴ다	AUX	_	12	aux	_	_	되/px+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 1963 년부터 시작된 사회경제적 도약의 계기는 한국의 첫번째 5 개년 경제계획이 시작된 지 1 년만에 왔다 .
+1	1963	1963	NUM	_	2	nummod	_	_	1963/nnc
+2	년부터	년+부터	ADV	_	3	advcl	_	_	년/nbu+부터/jxc
+3	시작된	시작+되+ㄴ	VERB	_	6	acl	_	_	시작/ncpa+되/xsv+ㄴ/etm
+4	사회경제적	사회경제+적	NOUN	_	5	amod	_	_	사회경제/ncn+적/xsn
+5	도약의	도약+의	NOUN	_	6	nmod	_	_	도약/ncpa+의/jcm
+6	계기는	계기+는	NOUN	_	16	dislocated	_	_	계기/ncn+는/jxt
+7	한국의	한국+의	PROPN	_	11	nmod	_	_	한국/nq+의/jcm
+8	첫번째	첫번+째	NOUN	_	11	advmod	_	_	첫번/ncn+째/xsn
+9	5	5	NUM	_	11	nummod	_	_	5/nnc
+10	개년	개년	NOUN	_	11	compound	_	_	개년/nbu
+11	경제계획이	경제계획+이	NOUN	_	12	nsubj	_	_	경제계획/ncpa+이/jcs
+12	시작된	시작+되+ㄴ	VERB	_	13	acl	_	_	시작/ncpa+되/xsv+ㄴ/etm
+13	지	지	NOUN	_	15	compound	_	_	지/ncn
+14	1	1	NUM	_	15	nummod	_	_	1/nnc
+15	년만에	년+만+에	ADV	_	16	obl	_	_	년/nbu+만/jxc+에/jca
+16	왔다	오+았+다	VERB	_	0	root	_	_	오/pvg+았/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그리고 이들 세 집단의 변인들의 급격한 증가 시기들은 순차적으로 오게 될 것이다 .
+1	그리고	그리고	CCONJ	_	10	cc	_	_	그리고/maj
+2	이들	이+들	NOUN	_	4	compound	_	_	이/npd+들/xsn
+3	세	세	NUM	_	4	nummod	_	_	세/nnc
+4	집단의	집단+의	NOUN	_	5	nmod	_	_	집단/ncn+의/jcm
+5	변인들의	변인+들+의	NOUN	_	7	nmod	_	_	변인/ncn+들/xsn+의/jcm
+6	급격한	급격+하+ㄴ	VERB	_	7	acl	_	_	급격/ncpa+하/xsv+ㄴ/etm
+7	증가	증가	NOUN	_	8	compound	_	_	증가/ncpa
+8	시기들은	시기+들+은	NOUN	_	10	dislocated	_	_	시기/ncn+들/xsn+은/jxt
+9	순차적으로	순차+적+으로	ADV	_	10	advcl	_	_	순차/ncn+적/xsn+으로/jca
+10	오게	오+게	VERB	_	0	root	_	_	오/pvg+게/ecx
+11	될	되+ㄹ	AUX	_	10	aux	_	_	되/px+ㄹ/etm
+12	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 다음에 남한의 자료들을 이러한 기대되는 조합관계와 급격한 증가 시기의 순차에 관련시키어 분석해 보기로 한다 .
+1	다음에	다음+에	ADV	_	11	obl	_	_	다음/ncn+에/jca
+2	남한의	남한+의	PROPN	_	3	nmod	_	_	남한/nq+의/jcm
+3	자료들을	자료+들+을	NOUN	_	11	obj	_	_	자료/ncn+들/xsn+을/jco
+4	이러한	이러하+ㄴ	VERB	_	6	amod	_	_	이러하/pad+ㄴ/etm
+5	기대되는	기대+되+는	VERB	_	6	acl	_	_	기대/ncpa+되/xsv+는/etm
+6	조합관계와	조합+관계+와	CCONJ	_	10	conj	_	_	조합/ncpa+관계/ncn+와/jcj
+7	급격한	급격+하+ㄴ	VERB	_	8	acl	_	_	급격/ncpa+하/xsv+ㄴ/etm
+8	증가	증가	NOUN	_	9	compound	_	_	증가/ncpa
+9	시기의	시기+의	NOUN	_	10	nmod	_	_	시기/ncn+의/jcm
+10	순차에	순차+에	ADV	_	11	obl	_	_	순차/ncn+에/jca
+11	관련시키어	관련+시키+어	SCONJ	_	12	conj	_	_	관련/ncpa+시키/xsv+어/ecs
+12	분석해	분석+하+어	VERB	_	14	advcl	_	_	분석/ncpa+하/xsv+어/ecx
+13	보기로	보+기+로	ADV	_	12	aux	_	_	보/px+기/etn+로/jca
+14	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 통신이 과도로 발전되면 사회적 결합보다는 기존제도의 파열과 사회적 분열을 가져올 수 있다 .
+1	통신이	통신+이	NOUN	_	3	nsubj	_	_	통신/ncpa+이/jcs
+2	과도로	과도+로	ADV	_	3	advcl	_	_	과도/ncn+로/jca
+3	발전되면	발전+되+면	SCONJ	_	10	ccomp	_	_	발전/ncpa+되/xsv+면/ecs
+4	사회적	사회+적	NOUN	_	5	amod	_	_	사회/ncn+적/xsn
+5	결합보다는	결합+보다+는	NOUN	_	10	dislocated	_	_	결합/ncpa+보다/jca+는/jxt
+6	기존제도의	기존+제도+의	NOUN	_	7	nmod	_	_	기존/ncpa+제도/ncn+의/jcm
+7	파열과	파열+과	CCONJ	_	9	conj	_	_	파열/ncpa+과/jcj
+8	사회적	사회+적	NOUN	_	9	amod	_	_	사회/ncn+적/xsn
+9	분열을	분열+을	NOUN	_	10	obj	_	_	분열/ncpa+을/jco
+10	가져올	가지+어+오+ㄹ	AUX	_	0	root	_	_	가지/pvg+어/ecx+오/px+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있다	있+다	ADJ	_	10	aux	_	_	있/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 더구나 인구의 증가는 이러한 상황을 악화시킬 수 있으며 도시지역으로의 이주자들은 전통적 사회규범들로부터 이탈하여 직업적 정치인들에 의한 재중조작에 쉽게 말려들게 된다 .
+1	더구나	더구나	ADV	_	6	advmod	_	_	더구나/mag
+2	인구의	인구+의	NOUN	_	3	nmod	_	_	인구/ncn+의/jcm
+3	증가는	증가+는	NOUN	_	6	dislocated	_	_	증가/ncpa+는/jxt
+4	이러한	이러하+ㄴ	VERB	_	5	amod	_	_	이러하/pad+ㄴ/etm
+5	상황을	상황+을	NOUN	_	6	obj	_	_	상황/ncn+을/jco
+6	악화시킬	악화+시키+ㄹ	VERB	_	19	ccomp	_	_	악화/ncpa+시키/xsv+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	있으며	있+으며	SCONJ	_	6	aux	_	_	있/paa+으며/ecs
+9	도시지역으로의	도시지역+으로+의	NOUN	_	10	nmod	_	_	도시지역/ncn+으로/jca+의/jcm
+10	이주자들은	이주자+들+은	NOUN	_	13	dislocated	_	_	이주자/ncn+들/xsn+은/jxt
+11	전통적	전통+적	NOUN	_	12	amod	_	_	전통/ncn+적/xsn
+12	사회규범들로부터	사회규범+들+로+부터	ADV	_	13	advcl	_	_	사회규범/ncn+들/xsn+로/jca+부터/jxc
+13	이탈하여	이탈+하+어	SCONJ	_	19	ccomp	_	_	이탈/ncpa+하/xsv+어/ecs
+14	직업적	직업+적	NOUN	_	15	amod	_	_	직업/ncn+적/xsn
+15	정치인들에	정치인+들+에	ADV	_	16	obl	_	_	정치인/ncn+들/xsn+에/jca
+16	의한	의하+ㄴ	VERB	_	17	acl	_	_	의하/pvg+ㄴ/etm
+17	재중조작에	재중조작+에	ADV	_	19	obl	_	_	재중조작/ncn+에/jca
+18	쉽게	쉽+게	SCONJ	_	19	xcomp	_	_	쉽/paa+게/ecs
+19	말려들게	말려들+게	VERB	_	0	root	_	_	말려들/pvg+게/ecx
+20	된다	되+ㄴ다	AUX	_	19	aux	_	_	되/px+ㄴ다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그러나 통신변인들과 도시화율과의 상관관계들은 교육변인들과의 그것들보다 높다 .
+1	그러나	그러나	CCONJ	_	7	cc	_	_	그러나/maj
+2	통신변인들과	통신변인+들+과	CCONJ	_	3	conj	_	_	통신변인/ncn+들/xsn+과/jcj
+3	도시화율과의	도시화율+과의	ADV	_	4	advcl	_	_	도시화율/ncn+과의/jxc
+4	상관관계들은	상관관계+들+은	NOUN	_	7	dislocated	_	_	상관관계/ncn+들/xsn+은/jxt
+5	교육변인들과의	교육변인+들+과+의	NOUN	_	6	nmod	_	_	교육변인/ncn+들/xsn+과/jct+의/jcm
+6	그것들보다	그것+들+보다	ADV	_	7	advcl	_	_	그것/npd+들/xsn+보다/jca
+7	높다	높+다	ADJ	_	0	root	_	_	높/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이는 통신의 조기발전은 최근에 들어서 도시화를 수반한 급속한 경제발전을 통하여 이루어졌던 것임을 시사한다 .
+1	이는	이+는	PRON	_	13	dislocated	_	_	이/npd+는/jxt
+2	통신의	통신+의	NOUN	_	3	nmod	_	_	통신/ncpa+의/jcm
+3	조기발전은	조기+발전+은	NOUN	_	11	dislocated	_	_	조기/ncn+발전/ncpa+은/jxt
+4	최근에	최근+에	ADV	_	5	obl	_	_	최근/ncn+에/jca
+5	들어서	들+어서	SCONJ	_	11	ccomp	_	_	들/pvg+어서/ecs
+6	도시화를	도시화+를	NOUN	_	7	obj	_	_	도시화/ncn+를/jco
+7	수반한	수반+하+ㄴ	VERB	_	9	acl	_	_	수반/ncpa+하/xsv+ㄴ/etm
+8	급속한	급속하+ㄴ	ADJ	_	9	amod	_	_	급속하/paa+ㄴ/etm
+9	경제발전을	경제발전+을	NOUN	_	10	obj	_	_	경제발전/ncpa+을/jco
+10	통하여	통하+어	SCONJ	_	11	ccomp	_	_	통하/pvg+어/ecs
+11	이루어졌던	이루+어+지+었+던	AUX	_	12	acl	_	_	이루/pvg+어/ecx+지/px+었/ep+던/etm
+12	것임을	것+이+ㅁ+을	NOUN	_	13	obj	_	_	것/nbn+이/jp+ㅁ/etn+을/jco
+13	시사한다	시사+하+ㄴ다	VERB	_	0	root	_	_	시사/ncpa+하/xsv+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 한편 경제 성장률은 근대화 변인들과 낮은 상관관계를 보여주고 있다 .
+1	한편	한편	CCONJ	_	8	cc	_	_	한편/maj
+2	경제	경제	NOUN	_	3	compound	_	_	경제/ncn
+3	성장률은	성장률+은	NOUN	_	8	dislocated	_	_	성장률/ncn+은/jxt
+4	근대화	근대화	NOUN	_	5	compound	_	_	근대화/ncpa
+5	변인들과	변인+들+과	CCONJ	_	8	conj	_	_	변인/ncn+들/xsn+과/jct
+6	낮은	낮+ㄴ	ADJ	_	7	amod	_	_	낮/paa+ㄴ/etm
+7	상관관계를	상관관계+를	NOUN	_	8	obj	_	_	상관관계/ncn+를/jco
+8	보여주고	보이+어+주+고	AUX	_	0	root	_	_	보이/pvg+어/ecx+주/px+고/ecx
+9	있다	있+다	AUX	_	8	aux	_	_	있/px+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 의사 1 인당 인구수와 1 인당 사회복지 지출은 도시화율과 상관관계가 높다 .
+1	의사	의사	NOUN	_	3	compound	_	_	의사/ncn
+2	1	1	NUM	_	3	nummod	_	_	1/nnc
+3	인당	인+당	NOUN	_	4	advmod	_	_	인/ncn+당/xsn
+4	인구수와	인구수+와	CCONJ	_	8	conj	_	_	인구수/ncn+와/jcj
+5	1	1	NUM	_	6	nummod	_	_	1/nnc
+6	인당	인+당	NOUN	_	8	advmod	_	_	인/ncn+당/xsn
+7	사회복지	사회복지	NOUN	_	8	compound	_	_	사회복지/ncn
+8	지출은	지출+은	NOUN	_	11	dislocated	_	_	지출/ncpa+은/jxt
+9	도시화율과	도시화율+과	NOUN	_	11	dislocated	_	_	도시화율/ncn+과/jxt
+10	상관관계가	상관관계+가	NOUN	_	11	nsubj	_	_	상관관계/ncn+가/jcs
+11	높다	높+다	ADJ	_	0	root	_	_	높/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그들은 또 1 인당 국가총생산과도 높은 상관관계를 가지고 있다 .
+1	그들은	그+들+은	PRON	_	8	dislocated	_	_	그/npp+들/xsn+은/jxt
+2	또	또	ADV	_	8	advmod	_	_	또/mag
+3	1	1	NUM	_	4	nummod	_	_	1/nnc
+4	인당	인+당	NOUN	_	5	advmod	_	_	인/ncn+당/xsn
+5	국가총생산과도	국가+총생산+과도	ADV	_	8	advcl	_	_	국가/ncn+총생산/ncn+과도/jxc
+6	높은	높+ㄴ	ADJ	_	7	amod	_	_	높/paa+ㄴ/etm
+7	상관관계를	상관관계+를	NOUN	_	8	obj	_	_	상관관계/ncn+를/jco
+8	가지고	가지+고	VERB	_	0	root	_	_	가지/pvg+고/ecx
+9	있다	있+다	AUX	_	8	aux	_	_	있/px+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 교사는 초 , 중등 학교 교장과 교사를 포함하고 교수는 대학의 총장 , 학장 그리고 교수를 포함함 .
+1	교사는	교사+는	NOUN	_	8	dislocated	_	_	교사/ncn+는/jxt
+2	초	초	NOUN	_	4	conj	_	_	초/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	중등	중등	NOUN	_	5	compound	_	_	중등/ncn
+5	학교	학교	NOUN	_	7	compound	_	_	학교/ncn
+6	교장과	교장+과	CCONJ	_	7	conj	_	_	교장/ncn+과/jcj
+7	교사를	교사+를	NOUN	_	8	obj	_	_	교사/ncn+를/jco
+8	포함하고	포함+하+고	CCONJ	_	16	conj	_	_	포함/ncpa+하/xsv+고/ecc
+9	교수는	교수+는	NOUN	_	16	dislocated	_	_	교수/ncn+는/jxt
+10	대학의	대학+의	NOUN	_	15	nmod	_	_	대학/ncn+의/jcm
+11	총장	총장	NOUN	_	13	conj	_	_	총장/ncn
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	학장	학장	NOUN	_	15	conj	_	_	학장/ncn
+14	그리고	그리고	CCONJ	_	15	cc	_	_	그리고/maj
+15	교수를	교수+를	NOUN	_	16	obj	_	_	교수/ncn+를/jco
+16	포함함	포함+하+ㅁ	VERB	_	0	root	_	_	포함/ncpa+하/xsv+ㅁ/etn
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 본 난은 신문 , 잡지 기자 , 종교인 , 작가 , 예술인 , 시인 및 음악인을 포함함 .
+1	본	본	DET	_	2	det	_	_	본/mmd
+2	난은	난+은	NOUN	_	17	dislocated	_	_	난/ncn+은/jxt
+3	신문	신문	NOUN	_	5	conj	_	_	신문/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	잡지	잡지	NOUN	_	6	compound	_	_	잡지/ncn
+6	기자	기자	NOUN	_	8	compound	_	_	기자/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	종교인	종교인	NOUN	_	10	conj	_	_	종교인/ncn
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	작가	작가	NOUN	_	12	conj	_	_	작가/ncn
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	예술인	예술인	NOUN	_	14	conj	_	_	예술인/ncn
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	시인	시인	NOUN	_	16	conj	_	_	시인/ncn
+15	및	및	CCONJ	_	16	cc	_	_	및/maj
+16	음악인을	음악인+을	NOUN	_	17	obj	_	_	음악인/ncn+을/jco
+17	포함함	포함+하+ㅁ	VERB	_	0	root	_	_	포함/ncpa+하/xsv+ㅁ/etn
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 보안원은 검사 , 경관 , 정보원 및 공직자 경호원을 포함함 .
+1	보안원은	보안원+은	PRON	_	10	dislocated	_	_	보안원/npp+은/jxt
+2	검사	검사	NOUN	_	4	conj	_	_	검사/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	경관	경관	NOUN	_	6	conj	_	_	경관/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	정보원	정보원	NOUN	_	9	conj	_	_	정보원/ncn
+7	및	및	CCONJ	_	9	cc	_	_	및/maj
+8	공직자	공직자	NOUN	_	9	compound	_	_	공직자/ncn
+9	경호원을	경호원+을	NOUN	_	10	obj	_	_	경호원/ncn+을/jco
+10	포함함	포함+하+ㅁ	VERB	_	0	root	_	_	포함/ncpa+하/xsv+ㅁ/etn
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 본 난은 의사 , 치과의사 , 약제사 , 수의사 , 농업경영학자 및 공학자를 포함함 .
+1	본	본	DET	_	2	det	_	_	본/mmd
+2	난은	난+은	NOUN	_	14	dislocated	_	_	난/ncn+은/jxt
+3	의사	의사	NOUN	_	5	conj	_	_	의사/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	치과의사	치과+의사	NOUN	_	7	conj	_	_	치과/ncn+의사/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	약제사	약제사	NOUN	_	9	conj	_	_	약제사/ncn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	수의사	수의사	NOUN	_	11	conj	_	_	수의사/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	농업경영학자	농업경영+학자	NOUN	_	13	conj	_	_	농업경영/ncn+학자/ncn
+12	및	및	CCONJ	_	13	cc	_	_	및/maj
+13	공학자를	공학자+를	NOUN	_	14	obj	_	_	공학자/ncn+를/jco
+14	포함함	포함+하+ㅁ	VERB	_	0	root	_	_	포함/ncpa+하/xsv+ㅁ/etn
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 본 난은 금융 및 산업기관들의 관리자들도 포함함 .
+1	본	본	DET	_	2	det	_	_	본/mmd
+2	난은	난+은	NOUN	_	7	dislocated	_	_	난/ncn+은/jxt
+3	금융	금융	NOUN	_	6	conj	_	_	금융/ncn
+4	및	및	CCONJ	_	6	cc	_	_	및/maj
+5	산업기관들의	산업+기관+들+의	NOUN	_	6	nmod	_	_	산업/ncn+기관/ncn+들/xsn+의/jcm
+6	관리자들도	관리자+들+도	ADV	_	7	advcl	_	_	관리자/ncn+들/xsn+도/jxc
+7	포함함	포함+하+ㅁ	VERB	_	0	root	_	_	포함/ncpa+하/xsv+ㅁ/etn
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 사회경제 변화와 정치지도자들의 변천 연구기간 중 전통적 지도자들은 근대적 지도자들에 의해 급속히 대체되었다 .
+1	사회경제	사회경제	NOUN	_	2	compound	_	_	사회경제/ncn
+2	변화와	변화+와	CCONJ	_	4	conj	_	_	변화/ncpa+와/jcj
+3	정치지도자들의	정치+지도자+들+의	NOUN	_	4	nmod	_	_	정치/ncpa+지도자/ncn+들/xsn+의/jcm
+4	변천	변천	NOUN	_	5	compound	_	_	변천/ncn
+5	연구기간	연구+기간	NOUN	_	6	compound	_	_	연구/ncpa+기간/ncn
+6	중	중	NOUN	_	13	advmod	_	_	중/nbn
+7	전통적	전통+적	NOUN	_	8	amod	_	_	전통/ncn+적/xsn
+8	지도자들은	지도자+들+은	NOUN	_	13	dislocated	_	_	지도자/ncn+들/xsn+은/jxt
+9	근대적	근대+적	NOUN	_	10	amod	_	_	근대/ncn+적/xsn
+10	지도자들에	지도자+들+에	ADV	_	11	obl	_	_	지도자/ncn+들/xsn+에/jca
+11	의해	의하+어	SCONJ	_	13	ccomp	_	_	의하/pvg+어/ecs
+12	급속히	급속+히	ADV	_	13	advmod	_	_	급속/ncps+히/xsa
+13	대체되었다	대체+되+었+다	VERB	_	0	root	_	_	대체/ncpa+되/xsv+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이 변천을 지도자들의 직업적 배경 , 평균연령 그리고 대학교육과 관계시켜 조사하고자 한다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	변천을	변천+을	NOUN	_	10	obj	_	_	변천/ncpa+을/jco
+3	지도자들의	지도자+들+의	NOUN	_	9	nmod	_	_	지도자/ncn+들/xsn+의/jcm
+4	직업적	직업+적	NOUN	_	5	amod	_	_	직업/ncn+적/xsn
+5	배경	배경	NOUN	_	7	compound	_	_	배경/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	평균연령	평균+연령	NOUN	_	9	conj	_	_	평균/ncpa+연령/ncn
+8	그리고	그리고	CCONJ	_	9	cc	_	_	그리고/maj
+9	대학교육과	대학교육+과	CCONJ	_	10	conj	_	_	대학교육/ncn+과/jct
+10	관계시켜	관계+시키+어	SCONJ	_	11	ccomp	_	_	관계/ncpa+시키/xsv+어/ecs
+11	조사하고자	조사+하+고자	VERB	_	0	root	_	_	조사/ncpa+하/xsv+고자/ecx
+12	한다	하+ㄴ다	AUX	_	11	aux	_	_	하/px+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 다음에 각료들과 국회의원들의 사회배경들을 먼저 시기별로 제시하여 그 변천형태를 분석하고 다음에 이 변천형태를 연구기간 중 사회경제 변천에 관계시켜 설명하기로 한다 .
+1	다음에	다음+에	ADV	_	7	obl	_	_	다음/ncn+에/jca
+2	각료들과	각료+들+과	CCONJ	_	3	conj	_	_	각료/ncn+들/xsn+과/jcj
+3	국회의원들의	국회의원+들+의	NOUN	_	4	nmod	_	_	국회의원/ncn+들/xsn+의/jcm
+4	사회배경들을	사회+배경+들+을	NOUN	_	7	obj	_	_	사회/ncn+배경/ncn+들/xsn+을/jco
+5	먼저	먼저	ADV	_	7	advmod	_	_	먼저/mag
+6	시기별로	시기별+로	ADV	_	7	advcl	_	_	시기별/ncn+로/jca
+7	제시하여	제시+하+어	SCONJ	_	10	ccomp	_	_	제시/ncpa+하/xsv+어/ecs
+8	그	그	DET	_	9	det	_	_	그/mmd
+9	변천형태를	변천+형태+를	NOUN	_	10	obj	_	_	변천/ncpa+형태/ncn+를/jco
+10	분석하고	분석+하+고	CCONJ	_	19	conj	_	_	분석/ncpa+하/xsv+고/ecc
+11	다음에	다음+에	ADV	_	19	obl	_	_	다음/ncn+에/jca
+12	이	이	DET	_	13	det	_	_	이/mmd
+13	변천형태를	변천+형태+를	NOUN	_	19	obj	_	_	변천/ncpa+형태/ncn+를/jco
+14	연구기간	연구+기간	NOUN	_	15	compound	_	_	연구/ncpa+기간/ncn
+15	중	중	NOUN	_	17	mark	_	_	중/nbn
+16	사회경제	사회경제	NOUN	_	17	compound	_	_	사회경제/ncn
+17	변천에	변천+에	ADV	_	18	obl	_	_	변천/ncpa+에/jca
+18	관계시켜	관계+시키+어	SCONJ	_	19	ccomp	_	_	관계/ncpa+시키/xsv+어/ecs
+19	설명하기로	설명+하+기+로	ADV	_	20	advcl	_	_	설명/ncpa+하/xsv+기/etn+로/jca
+20	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 각료들 중 농업과 교사직 배경을 가진 사람들의 비율은 연구기간을 통해 급속히 줄었으며 상업직 배경 각료들의 비율도 조금 감소하였다 .
+1	각료들	각료+들	NOUN	_	2	compound	_	_	각료/ncn+들/xsn
+2	중	중	NOUN	_	6	advmod	_	_	중/ncn
+3	농업과	농업+과	CCONJ	_	4	conj	_	_	농업/ncn+과/jcj
+4	교사직	교사직	NOUN	_	5	compound	_	_	교사직/ncn
+5	배경을	배경+을	NOUN	_	6	obj	_	_	배경/ncn+을/jco
+6	가진	가지+ㄴ	VERB	_	7	acl	_	_	가지/pvg+ㄴ/etm
+7	사람들의	사람+들+의	NOUN	_	8	nmod	_	_	사람/ncn+들/xsn+의/jcm
+8	비율은	비율+은	NOUN	_	12	dislocated	_	_	비율/ncn+은/jxt
+9	연구기간을	연구+기간+을	NOUN	_	10	obj	_	_	연구/ncpa+기간/ncn+을/jco
+10	통해	통하+어	SCONJ	_	12	ccomp	_	_	통하/pvg+어/ecs
+11	급속히	급속+히	ADV	_	12	advmod	_	_	급속/ncps+히/xsa
+12	줄었으며	줄+었+으며	CCONJ	_	18	conj	_	_	줄/pvg+었/ep+으며/ecc
+13	상업직	상업직	NOUN	_	14	compound	_	_	상업직/ncn
+14	배경	배경	NOUN	_	15	compound	_	_	배경/ncn
+15	각료들의	각료+들+의	NOUN	_	16	nmod	_	_	각료/ncn+들/xsn+의/jcm
+16	비율도	비율+도	ADV	_	18	advcl	_	_	비율/ncn+도/jxc
+17	조금	조금	NOUN	_	18	compound	_	_	조금/ncn
+18	감소하였다	감소+하+었+다	VERB	_	0	root	_	_	감소/ncpa+하/xsv+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 웅변을 주된 기술로 가지고 있는 직업적 정치인과 변호사 배경 출신 각료들의 비율 역시 급속히 감소하였다 .
+1	웅변을	웅변+을	NOUN	_	4	obj	_	_	웅변/ncpa+을/jco
+2	주된	주되+ㄴ	VERB	_	3	acl	_	_	주되/pvg+ㄴ/etm
+3	기술로	기술+로	ADV	_	4	advcl	_	_	기술/ncn+로/jca
+4	가지고	가지+고	VERB	_	8	acl	_	_	가지/pvg+고/ecx
+5	있는	있+는	AUX	_	4	aux	_	_	있/px+는/etm
+6	직업적	직업+적	NOUN	_	8	amod	_	_	직업/ncn+적/xsn
+7	정치인과	정치인+과	CCONJ	_	8	conj	_	_	정치인/ncn+과/jcj
+8	변호사	변호사	NOUN	_	9	compound	_	_	변호사/ncn
+9	배경	배경	NOUN	_	10	compound	_	_	배경/ncn
+10	출신	출신	NOUN	_	11	compound	_	_	출신/ncn
+11	각료들의	각료+들+의	NOUN	_	12	nmod	_	_	각료/ncn+들/xsn+의/jcm
+12	비율	비율	NOUN	_	15	advmod	_	_	비율/ncn
+13	역시	역시	ADV	_	15	advmod	_	_	역시/mag
+14	급속히	급속+히	ADV	_	15	advmod	_	_	급속/ncps+히/xsa
+15	감소하였다	감소+하+었+다	VERB	_	0	root	_	_	감소/ncpa+하/xsv+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 공직배경 각료들 중 군 출신 각료들 비율의 급상승은 관료와 보안직 출신 각료들의 비율을 상대적으로 저하시켰다 .
+1	공직배경	공직+배경	NOUN	_	2	compound	_	_	공직/ncn+배경/ncn
+2	각료들	각료+들	NOUN	_	3	compound	_	_	각료/ncn+들/xsn
+3	중	중	NOUN	_	6	mark	_	_	중/nbn
+4	군	군	NOUN	_	5	compound	_	_	군/ncn
+5	출신	출신	NOUN	_	6	compound	_	_	출신/ncn
+6	각료들	각료+들	NOUN	_	7	compound	_	_	각료/ncn+들/xsn
+7	비율의	비율+의	NOUN	_	8	nmod	_	_	비율/ncn+의/jcm
+8	급상승은	급상승+은	NOUN	_	15	dislocated	_	_	급상승/ncpa+은/jxt
+9	관료와	관료+와	CCONJ	_	12	conj	_	_	관료/ncn+와/jcj
+10	보안직	보안직	NOUN	_	11	compound	_	_	보안직/ncn
+11	출신	출신	NOUN	_	12	compound	_	_	출신/ncn
+12	각료들의	각료+들+의	NOUN	_	13	nmod	_	_	각료/ncn+들/xsn+의/jcm
+13	비율을	비율+을	NOUN	_	15	obj	_	_	비율/ncn+을/jco
+14	상대적으로	상대+적+으로	ADV	_	15	advcl	_	_	상대/ncn+적/xsn+으로/jca
+15	저하시켰다	저하+시키+었+다	VERB	_	0	root	_	_	저하/ncpa+시키/xsv+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그러나 최종 10 기에서 보면 관료 출신 각료들의 비율은 아직 군 출신 각료들의 비율 다음으로 높았다 .
+1	그러나	그러나	CCONJ	_	16	cc	_	_	그러나/maj
+2	최종	최종	NOUN	_	4	compound	_	_	최종/ncn
+3	10	10	NUM	_	4	nummod	_	_	10/nnc
+4	기에서	기+에서	ADV	_	5	advcl	_	_	기/nbu+에서/jca
+5	보면	보+면	SCONJ	_	16	conj	_	_	보/pvg+면/ecs
+6	관료	관료	NOUN	_	7	compound	_	_	관료/ncn
+7	출신	출신	NOUN	_	8	compound	_	_	출신/ncn
+8	각료들의	각료+들+의	NOUN	_	9	nmod	_	_	각료/ncn+들/xsn+의/jcm
+9	비율은	비율+은	NOUN	_	16	dislocated	_	_	비율/ncn+은/jxt
+10	아직	아직	ADV	_	16	advmod	_	_	아직/mag
+11	군	군	NOUN	_	12	compound	_	_	군/ncn
+12	출신	출신	NOUN	_	13	compound	_	_	출신/ncn
+13	각료들의	각료+들+의	NOUN	_	14	nmod	_	_	각료/ncn+들/xsn+의/jcm
+14	비율	비율	NOUN	_	15	compound	_	_	비율/ncn
+15	다음으로	다음+으로	ADV	_	16	advcl	_	_	다음/ncn+으로/jca
+16	높았다	높+았+다	ADJ	_	0	root	_	_	높/paa+았/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 조금의 차이들은 있지만 각료들 직업구성의 변천형태와 유사한 변화를 국회의원들의 직업구성에서도 관찰할 수 있었다 .
+1	조금의	조금+의	NOUN	_	2	nmod	_	_	조금/ncn+의/jcm
+2	차이들은	차이+들+은	NOUN	_	3	dislocated	_	_	차이/ncn+들/xsn+은/jxt
+3	있지만	있+지만	SCONJ	_	11	xcomp	_	_	있/paa+지만/ecs
+4	각료들	각료+들	NOUN	_	5	compound	_	_	각료/ncn+들/xsn
+5	직업구성의	직업+구성+의	NOUN	_	6	nmod	_	_	직업/ncn+구성/ncn+의/jcm
+6	변천형태와	변천+형태+와	CCONJ	_	7	conj	_	_	변천/ncpa+형태/ncn+와/jct
+7	유사한	유사+하+ㄴ	VERB	_	8	acl	_	_	유사/ncpa+하/xsv+ㄴ/etm
+8	변화를	변화+를	NOUN	_	11	obj	_	_	변화/ncpa+를/jco
+9	국회의원들의	국회의원+들+의	NOUN	_	10	nmod	_	_	국회의원/ncn+들/xsn+의/jcm
+10	직업구성에서도	직업+구성+에서+도	ADV	_	11	advcl	_	_	직업/ncn+구성/ncn+에서/jca+도/jxc
+11	관찰할	관찰+하+ㄹ	VERB	_	0	root	_	_	관찰/ncpa+하/xsv+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있었다	있+었+다	ADJ	_	11	aux	_	_	있/paa+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 국회의원들 중에서는 근대 산업직과 교사직 배경 의원들의 비율들은 연구기간 중 완만한 감소세를 보였다 .
+1	국회의원들	국회의원+들	NOUN	_	2	compound	_	_	국회의원/ncn+들/xsn
+2	중에서는	중+에서+는	NOUN	_	7	dislocated	_	_	중/nbn+에서/jca+는/jxt
+3	근대	근대	NOUN	_	5	compound	_	_	근대/ncn
+4	산업직과	산업직+과	CCONJ	_	5	conj	_	_	산업직/ncn+과/jcj
+5	교사직	교사직	NOUN	_	6	compound	_	_	교사직/ncn
+6	배경	배경	NOUN	_	7	compound	_	_	배경/ncn
+7	의원들의	의원+들+의	NOUN	_	8	nmod	_	_	의원/ncn+들/xsn+의/jcm
+8	비율들은	비율+들+은	NOUN	_	13	dislocated	_	_	비율/ncn+들/xsn+은/jxt
+9	연구기간	연구+기간	NOUN	_	10	compound	_	_	연구/ncpa+기간/ncn
+10	중	중	NOUN	_	13	advmod	_	_	중/nbn
+11	완만한	완만하+ㄴ	ADJ	_	12	amod	_	_	완만하/paa+ㄴ/etm
+12	감소세를	감소세+를	NOUN	_	13	obj	_	_	감소세/ncn+를/jco
+13	보였다	보이+었+다	VERB	_	0	root	_	_	보이/pvg+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 직업적 정치인과 기자 출신 의원들의 비율 역시 감소하였으나 각료들의 경우와 같이 급속하지는 않았다 .
+1	직업적	직업+적	NOUN	_	2	amod	_	_	직업/ncn+적/xsn
+2	정치인과	정치인+과	CCONJ	_	5	conj	_	_	정치인/ncn+과/jcj
+3	기자	기자	NOUN	_	4	compound	_	_	기자/ncn
+4	출신	출신	NOUN	_	5	compound	_	_	출신/ncn
+5	의원들의	의원+들+의	NOUN	_	6	nmod	_	_	의원/ncn+들/xsn+의/jcm
+6	비율	비율	NOUN	_	8	advmod	_	_	비율/ncn
+7	역시	역시	ADV	_	8	advmod	_	_	역시/mag
+8	감소하였으나	감소+하+었+으나	SCONJ	_	12	conj	_	_	감소/ncpa+하/xsv+었/ep+으나/ecs
+9	각료들의	각료+들+의	NOUN	_	10	nmod	_	_	각료/ncn+들/xsn+의/jcm
+10	경우와	경우+와	CCONJ	_	11	conj	_	_	경우/ncn+와/jct
+11	같이	같+이	SCONJ	_	12	xcomp	_	_	같/paa+이/ecs
+12	급속하지는	급속하+지+는	NOUN	_	0	root	_	_	급속하/paa+지/ecx+는/jxt
+13	않았다	않+았+다	AUX	_	12	aux	_	_	않/px+았/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 자유직업 출신 의원들 중에서는 오직 법조계 출신 의원들의 비율만이 약간 증가하였다 .
+1	자유직업	자유+직업	NOUN	_	2	compound	_	_	자유/ncps+직업/ncn
+2	출신	출신	NOUN	_	3	compound	_	_	출신/ncn
+3	의원들	의원+들	NOUN	_	4	compound	_	_	의원/ncn+들/xsn
+4	중에서는	중+에서+는	NOUN	_	8	dislocated	_	_	중/nbn+에서/jca+는/jxt
+5	오직	오직	ADV	_	8	advmod	_	_	오직/mag
+6	법조계	법조계	NOUN	_	7	compound	_	_	법조계/ncn
+7	출신	출신	NOUN	_	8	compound	_	_	출신/ncn
+8	의원들의	의원+들+의	NOUN	_	9	nmod	_	_	의원/ncn+들/xsn+의/jcm
+9	비율만이	비율+만+이	NOUN	_	11	nsubj	_	_	비율/ncn+만/jxc+이/jcs
+10	약간	약간	ADV	_	11	advmod	_	_	약간/mag
+11	증가하였다	증가+하+었+다	VERB	_	0	root	_	_	증가/ncpa+하/xsv+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 각료들과 국회의원들 중 이 근대사회직 배경 지도자들의 비율들은 낮은 증가세를 보였으며 연구기간 후반보다는 초반에 더 높은비율들을 차지하였다 .
+1	각료들과	각료+들+과	CCONJ	_	2	conj	_	_	각료/ncn+들/xsn+과/jcj
+2	국회의원들	국회의원+들	NOUN	_	3	compound	_	_	국회의원/ncn+들/xsn
+3	중	중	NOUN	_	7	mark	_	_	중/nbn
+4	이	이	DET	_	5	det	_	_	이/mmd
+5	근대사회직	근대+사회직	NOUN	_	6	compound	_	_	근대/ncn+사회직/ncn
+6	배경	배경	NOUN	_	7	compound	_	_	배경/ncn
+7	지도자들의	지도자+들+의	NOUN	_	8	nmod	_	_	지도자/ncn+들/xsn+의/jcm
+8	비율들은	비율+들+은	NOUN	_	11	dislocated	_	_	비율/ncn+들/xsn+은/jxt
+9	낮은	낮+ㄴ	ADJ	_	10	amod	_	_	낮/paa+ㄴ/etm
+10	증가세를	증가세+를	NOUN	_	11	obj	_	_	증가세/ncn+를/jco
+11	보였으며	보이+었+으며	CCONJ	_	17	conj	_	_	보이/pvg+었/ep+으며/ecc
+12	연구기간	연구+기간	NOUN	_	13	compound	_	_	연구/ncpa+기간/ncn
+13	후반보다는	후반+보다+는	NOUN	_	14	dislocated	_	_	후반/ncn+보다/jca+는/jxt
+14	초반에	초반+에	ADV	_	17	obl	_	_	초반/ncn+에/jca
+15	더	더	ADV	_	17	advmod	_	_	더/mag
+16	높은비율들을	높은비율+들+을	NOUN	_	17	obj	_	_	높은비율/ncn+들/xsn+을/jco
+17	차지하였다	차지+하+었+다	VERB	_	0	root	_	_	차지/ncpa+하/xsv+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 숙련공 출신의 지도자들은 오직 국회에서만 조금 찾아볼 수 있었으며 연구기간 중 그 비율은 감소하였다 .
+1	숙련공	숙련공	NOUN	_	2	compound	_	_	숙련공/ncn
+2	출신의	출신+의	NOUN	_	3	nmod	_	_	출신/ncn+의/jcm
+3	지도자들은	지도자+들+은	NOUN	_	7	dislocated	_	_	지도자/ncn+들/xsn+은/jxt
+4	오직	오직	ADV	_	5	advmod	_	_	오직/mag
+5	국회에서만	국회+에서+만	ADV	_	7	advcl	_	_	국회/ncn+에서/jca+만/jxc
+6	조금	조금	NOUN	_	7	dep	_	_	조금/ncn
+7	찾아볼	찾+아+보+ㄹ	AUX	_	14	conj	_	_	찾/pvg+아/ecx+보/px+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있었으며	있+었+으며	CCONJ	_	7	aux	_	_	있/paa+었/ep+으며/ecc
+10	연구기간	연구+기간	NOUN	_	11	compound	_	_	연구/ncpa+기간/ncn
+11	중	중	NOUN	_	14	advmod	_	_	중/nbn
+12	그	그	DET	_	13	det	_	_	그/mmd
+13	비율은	비율+은	NOUN	_	14	dislocated	_	_	비율/ncn+은/jxt
+14	감소하였다	감소+하+었+다	VERB	_	0	root	_	_	감소/ncpa+하/xsv+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 위에 제시된 분석결과들을 보면 연구기간 중 각료들과 국회의원들의 직업구성에 많은 변화들이 있었음을 알 수 있다 .
+1	위에	위+에	ADV	_	2	obl	_	_	위/ncn+에/jca
+2	제시된	제시+되+ㄴ	VERB	_	3	acl	_	_	제시/ncpa+되/xsv+ㄴ/etm
+3	분석결과들을	분석+결과+들+을	NOUN	_	4	obj	_	_	분석/ncpa+결과/ncpa+들/xsn+을/jco
+4	보면	보+면	SCONJ	_	13	ccomp	_	_	보/pvg+면/ecs
+5	연구기간	연구+기간	NOUN	_	6	compound	_	_	연구/ncpa+기간/ncn
+6	중	중	NOUN	_	12	mark	_	_	중/nbn
+7	각료들과	각료+들+과	CCONJ	_	8	conj	_	_	각료/ncn+들/xsn+과/jcj
+8	국회의원들의	국회의원+들+의	NOUN	_	9	nmod	_	_	국회의원/ncn+들/xsn+의/jcm
+9	직업구성에	직업+구성+에	ADV	_	12	obl	_	_	직업/ncn+구성/ncn+에/jca
+10	많은	많+ㄴ	ADJ	_	11	amod	_	_	많/paa+ㄴ/etm
+11	변화들이	변화+들+이	NOUN	_	12	nsubj	_	_	변화/ncpa+들/xsn+이/jcs
+12	있었음을	있+었+ㅁ+을	NOUN	_	13	obj	_	_	있/paa+었/ep+ㅁ/etn+을/jco
+13	알	알+ㄹ	VERB	_	0	root	_	_	알/pvg+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있다	있+다	ADJ	_	13	aux	_	_	있/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 장관과 국회의원 양 국가직들에 있어 공직배경 지도자가 가장 많이 증가하였다 .
+1	장관과	장관+과	CCONJ	_	2	conj	_	_	장관/ncn+과/jcj
+2	국회의원	국회의원	NOUN	_	4	compound	_	_	국회의원/ncn
+3	양	양	ADJ	_	4	amod	_	_	양/mma
+4	국가직들에	국가직+들+에	ADV	_	5	obl	_	_	국가직/ncn+들/xsn+에/jca
+5	있어	있+어	SCONJ	_	10	xcomp	_	_	있/paa+어/ecs
+6	공직배경	공직+배경	NOUN	_	7	compound	_	_	공직/ncn+배경/ncn
+7	지도자가	지도자+가	NOUN	_	10	nsubj	_	_	지도자/ncn+가/jcs
+8	가장	가장	ADV	_	10	advmod	_	_	가장/mag
+9	많이	많이	ADV	_	8	advmod	_	_	많이/mag
+10	증가하였다	증가+하+었+다	VERB	_	0	root	_	_	증가/ncpa+하/xsv+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 교수직은 각료들 중에서 , 법조계직은 국회의원들 중에서 그리고 상공업직은 양 국가직 지도자들 중에서 조금씩 증가하였으나 다른 모든 직업 집단들은 감소하였다 .
+1	교수직은	교수직+은	NOUN	_	3	dislocated	_	_	교수직/ncn+은/jxt
+2	각료들	각료+들	NOUN	_	3	compound	_	_	각료/ncn+들/xsn
+3	중에서	중+에서	ADV	_	8	dep	_	_	중/nbn+에서/jca
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	법조계직은	법조계직+은	NOUN	_	7	dislocated	_	_	법조계직/ncn+은/jxt
+6	국회의원들	국회의원+들	NOUN	_	7	compound	_	_	국회의원/ncn+들/xsn
+7	중에서	중+에서	ADV	_	8	advcl	_	_	중/nbn+에서/jca
+8	그리고	그리고	CCONJ	_	15	cc	_	_	그리고/maj
+9	상공업직은	상공업직+은	NOUN	_	13	dislocated	_	_	상공업직/ncn+은/jxt
+10	양	양	ADJ	_	11	amod	_	_	양/mma
+11	국가직	국가직	NOUN	_	12	compound	_	_	국가직/ncn
+12	지도자들	지도자+들	NOUN	_	13	compound	_	_	지도자/ncn+들/xsn
+13	중에서	중+에서	ADV	_	8	advcl	_	_	중/nbn+에서/jca
+14	조금씩	조금+씩	NOUN	_	15	advmod	_	_	조금/ncn+씩/xsn
+15	증가하였으나	증가+하+었+으나	SCONJ	_	20	ccomp	_	_	증가/ncpa+하/xsv+었/ep+으나/ecs
+16	다른	다르+ㄴ	ADJ	_	19	amod	_	_	다르/paa+ㄴ/etm
+17	모든	모든	DET	_	19	det	_	_	모든/mmd
+18	직업	직업	NOUN	_	19	compound	_	_	직업/ncn
+19	집단들은	집단+들+은	NOUN	_	20	dislocated	_	_	집단/ncn+들/xsn+은/jxt
+20	감소하였다	감소+하+었+다	VERB	_	0	root	_	_	감소/ncpa+하/xsv+었/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 지도자 변천은 또 젊은 세대가 권좌에 있는 구세대를 대치할 때에도 있게 된다 .
+1	지도자	지도자	NOUN	_	2	compound	_	_	지도자/ncn
+2	변천은	변천+은	NOUN	_	11	dislocated	_	_	변천/ncpa+은/jxt
+3	또	또	ADV	_	11	advmod	_	_	또/mag
+4	젊은	젊+ㄴ	ADJ	_	5	amod	_	_	젊/paa+ㄴ/etm
+5	세대가	세대+가	NOUN	_	9	nsubj	_	_	세대/ncn+가/jcs
+6	권좌에	권좌+에	ADV	_	7	obl	_	_	권좌/ncn+에/jca
+7	있는	있+는	ADJ	_	8	amod	_	_	있/paa+는/etm
+8	구세대를	구세대+를	NOUN	_	9	obj	_	_	구세대/ncn+를/jco
+9	대치할	대치+하+ㄹ	VERB	_	10	acl	_	_	대치/ncpa+하/xsv+ㄹ/etm
+10	때에도	때+에+도	ADV	_	11	advcl	_	_	때/ncn+에/jca+도/jxc
+11	있게	있+게	ADJ	_	0	root	_	_	있/paa+게/ecx
+12	된다	되+ㄴ다	AUX	_	11	aux	_	_	되/px+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 더구나 근대적 가치관들은 사회에 평등지향적 태도를 형성하며 , 의무교육의 실시 및 교육기회의 평준화 등으로 지도자 교육자격에도 평준화 영향을 갖는다 .
+1	더구나	더구나	ADV	_	7	advmod	_	_	더구나/mag
+2	근대적	근대+적	NOUN	_	3	amod	_	_	근대/ncn+적/xsn
+3	가치관들은	가치관+들+은	NOUN	_	7	dislocated	_	_	가치관/ncn+들/xsn+은/jxt
+4	사회에	사회+에	ADV	_	7	obl	_	_	사회/ncn+에/jca
+5	평등지향적	평등지향+적	NOUN	_	6	amod	_	_	평등지향/ncn+적/xsn
+6	태도를	태도+를	NOUN	_	7	obj	_	_	태도/ncn+를/jco
+7	형성하며	형성+하+며	CCONJ	_	19	conj	_	_	형성/ncpa+하/xsv+며/ecc
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	의무교육의	의무+교육+의	NOUN	_	10	nmod	_	_	의무/ncn+교육/ncpa+의/jcm
+10	실시	실시	NOUN	_	13	conj	_	_	실시/ncn
+11	및	및	CCONJ	_	13	cc	_	_	및/maj
+12	교육기회의	교육+기회+의	NOUN	_	13	nmod	_	_	교육/ncpa+기회/ncn+의/jcm
+13	평준화	평준화	NOUN	_	14	compound	_	_	평준화/ncn
+14	등으로	등+으로	ADV	_	19	advcl	_	_	등/nbn+으로/jca
+15	지도자	지도자	NOUN	_	16	compound	_	_	지도자/ncn
+16	교육자격에도	교육+자격+에+도	ADV	_	19	advcl	_	_	교육/ncpa+자격/ncn+에/jca+도/jxc
+17	평준화	평준화	NOUN	_	18	compound	_	_	평준화/ncn
+18	영향을	영향+을	NOUN	_	19	obj	_	_	영향/ncn+을/jco
+19	갖는다	갖+는다	VERB	_	0	root	_	_	갖/pvg+는다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 연구기간 중 각료들과 국회의원들 평균연령은 감소했으며 이는 독립운동 지도자들을 포함한 구세대 지도자들이 젊은 세대에 의해 급속히 대치되었음을 의미한다 .
+1	연구기간	연구+기간	NOUN	_	2	compound	_	_	연구/ncpa+기간/ncn
+2	중	중	NOUN	_	6	advmod	_	_	중/nbn
+3	각료들과	각료+들+과	CCONJ	_	4	conj	_	_	각료/ncn+들/xsn+과/jcj
+4	국회의원들	국회의원+들	NOUN	_	5	compound	_	_	국회의원/ncn+들/xsn
+5	평균연령은	평균+연령+은	NOUN	_	6	dislocated	_	_	평균/ncpa+연령/ncn+은/jxt
+6	감소했으며	감소+하+었+으며	CCONJ	_	18	conj	_	_	감소/ncpa+하/xsv+었/ep+으며/ecc
+7	이는	이+는	PRON	_	18	dislocated	_	_	이/npd+는/jxt
+8	독립운동	독립+운동	NOUN	_	9	compound	_	_	독립/ncpa+운동/ncpa
+9	지도자들을	지도자+들+을	NOUN	_	10	obj	_	_	지도자/ncn+들/xsn+을/jco
+10	포함한	포함+하+ㄴ	VERB	_	12	acl	_	_	포함/ncpa+하/xsv+ㄴ/etm
+11	구세대	구세대	NOUN	_	12	compound	_	_	구세대/ncn
+12	지도자들이	지도자+들+이	NOUN	_	15	nsubj	_	_	지도자/ncn+들/xsn+이/jcs
+13	젊은	젊+ㄴ	ADJ	_	14	amod	_	_	젊/paa+ㄴ/etm
+14	세대에	세대+에	ADV	_	15	obl	_	_	세대/ncn+에/jca
+15	의해	의하+어	SCONJ	_	17	conj	_	_	의하/pvg+어/ecs
+16	급속히	급속+히	ADV	_	17	advmod	_	_	급속/ncps+히/xsa
+17	대치되었음을	대치+되+었+ㅁ+을	NOUN	_	18	obj	_	_	대치/ncpa+되/xsv+었/ep+ㅁ/etn+을/jco
+18	의미한다	의미+하+ㄴ다	VERB	_	0	root	_	_	의미/ncps+하/xsm+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그러나 1961 년 5 월에 있었던 군사쿠데타는 젊은 군장교들을 정부직위에 불러들여 지도자 평균연령들을 다시 낮추었다 .
+1	그러나	그러나	CCONJ	_	15	cc	_	_	그러나/maj
+2	1961	1961	NUM	_	3	nummod	_	_	1961/nnc
+3	년	년	NOUN	_	5	compound	_	_	년/nbu
+4	5	5	NUM	_	5	nummod	_	_	5/nnc
+5	월에	월+에	ADV	_	6	obl	_	_	월/nbu+에/jca
+6	있었던	있+었+던	ADJ	_	7	amod	_	_	있/paa+었/ep+던/etm
+7	군사쿠데타는	군사쿠데타+는	NOUN	_	11	dislocated	_	_	군사쿠데타/ncn+는/jxt
+8	젊은	젊+ㄴ	ADJ	_	9	amod	_	_	젊/paa+ㄴ/etm
+9	군장교들을	군장교+들+을	NOUN	_	11	obj	_	_	군장교/ncn+들/xsn+을/jco
+10	정부직위에	정부+직위+에	ADV	_	11	obl	_	_	정부/ncn+직위/ncn+에/jca
+11	불러들여	불러들이+어	SCONJ	_	15	ccomp	_	_	불러들이/pvg+어/ecs
+12	지도자	지도자	NOUN	_	13	compound	_	_	지도자/ncn
+13	평균연령들을	평균+연령+들+을	NOUN	_	15	obj	_	_	평균/ncpa+연령/ncn+들/xsn+을/jco
+14	다시	다시	ADV	_	15	advmod	_	_	다시/mag
+15	낮추었다	낮추+었+다	VERB	_	0	root	_	_	낮추/pvg+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 대학이나 그 이상의 고등교육을 받은 지도자들의 비율은 국회의원들보다는 각료들 중에서 높았다 .
+1	대학이나	대학+이나	CCONJ	_	2	conj	_	_	대학/ncn+이나/jcj
+2	그	그	PRON	_	3	compound	_	_	그/npd
+3	이상의	이상+의	NOUN	_	4	nmod	_	_	이상/ncn+의/jcm
+4	고등교육을	고등교육+을	NOUN	_	5	obj	_	_	고등교육/ncpa+을/jco
+5	받은	받+ㄴ	VERB	_	6	acl	_	_	받/pvg+ㄴ/etm
+6	지도자들의	지도자+들+의	NOUN	_	7	nmod	_	_	지도자/ncn+들/xsn+의/jcm
+7	비율은	비율+은	NOUN	_	11	dislocated	_	_	비율/ncn+은/jxt
+8	국회의원들보다는	국회의원+들+보다+는	NOUN	_	11	dislocated	_	_	국회의원/ncn+들/xsn+보다/jca+는/jxt
+9	각료들	각료+들	NOUN	_	10	compound	_	_	각료/ncn+들/xsn
+10	중에서	중+에서	ADV	_	11	advcl	_	_	중/nbn+에서/jca
+11	높았다	높+았+다	ADJ	_	0	root	_	_	높/paa+았/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러나 근대적 가치관들이 교육자격요건에 가졌던 평준화 영향은 각료들 중에서만 볼 수 있었다 .
+1	그러나	그러나	CCONJ	_	10	cc	_	_	그러나/maj
+2	근대적	근대+적	NOUN	_	3	amod	_	_	근대/ncn+적/xsn
+3	가치관들이	가치관+들+이	NOUN	_	5	nsubj	_	_	가치관/ncn+들/xsn+이/jcs
+4	교육자격요건에	교육+자격요건+에	ADV	_	5	obl	_	_	교육/ncpa+자격요건/ncn+에/jca
+5	가졌던	가지+었+던	VERB	_	7	acl	_	_	가지/pvg+었/ep+던/etm
+6	평준화	평준화	NOUN	_	7	compound	_	_	평준화/ncn
+7	영향은	영향+은	NOUN	_	10	dislocated	_	_	영향/ncn+은/jxt
+8	각료들	각료+들	NOUN	_	9	compound	_	_	각료/ncn+들/xsn
+9	중에서만	중+에서+만	ADV	_	10	advcl	_	_	중/nbn+에서/jca+만/jxc
+10	볼	보+ㄹ	VERB	_	0	root	_	_	보/pvg+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있었다	있+었+다	ADJ	_	10	aux	_	_	있/paa+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 국회에 있어 고등교육을 받은 의원들 비율은 연구 기간을 통해 계속 증가하였다 .
+1	국회에	국회+에	ADV	_	2	obl	_	_	국회/ncn+에/jca
+2	있어	있+어	SCONJ	_	11	xcomp	_	_	있/paa+어/ecs
+3	고등교육을	고등교육+을	NOUN	_	4	obj	_	_	고등교육/ncpa+을/jco
+4	받은	받+ㄴ	VERB	_	5	acl	_	_	받/pvg+ㄴ/etm
+5	의원들	의원+들	NOUN	_	6	compound	_	_	의원/ncn+들/xsn
+6	비율은	비율+은	NOUN	_	11	dislocated	_	_	비율/ncn+은/jxt
+7	연구	연구	NOUN	_	8	compound	_	_	연구/ncn
+8	기간을	기간+을	NOUN	_	9	obj	_	_	기간/ncn+을/jco
+9	통해	통하+어	SCONJ	_	11	ccomp	_	_	통하/pvg+어/ecs
+10	계속	계속	ADV	_	11	advmod	_	_	계속/mag
+11	증가하였다	증가+하+었+다	VERB	_	0	root	_	_	증가/ncpa+하/xsv+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 분석에 포함시킨 16 개 사회경제 변인들 중 사회배경 변천을 가장 잘 설명하는 것 세 개씩을 선택하였다 .
+1	분석에	분석+에	ADV	_	2	obl	_	_	분석/ncpa+에/jca
+2	포함시킨	포함+시키+ㄴ	VERB	_	6	acl	_	_	포함/ncpa+시키/xsv+ㄴ/etm
+3	16	16	NUM	_	4	nummod	_	_	16/nnc
+4	개	개	NOUN	_	6	compound	_	_	개/nbu
+5	사회경제	사회경제	NOUN	_	6	compound	_	_	사회경제/ncn
+6	변인들	변인+들	NOUN	_	7	compound	_	_	변인/ncn+들/xsn
+7	중	중	NOUN	_	9	compound	_	_	중/ncn
+8	사회배경	사회+배경	NOUN	_	9	compound	_	_	사회/ncn+배경/ncn
+9	변천을	변천+을	NOUN	_	12	obj	_	_	변천/ncpa+을/jco
+10	가장	가장	ADV	_	12	advmod	_	_	가장/mag
+11	잘	잘	ADV	_	10	advmod	_	_	잘/mag
+12	설명하는	설명+하+는	VERB	_	13	acl	_	_	설명/ncpa+하/xsv+는/etm
+13	것	것	NOUN	_	15	mark	_	_	것/nbn
+14	세	세	NUM	_	15	nummod	_	_	세/nnc
+15	개씩을	개+씩+을	NOUN	_	16	obj	_	_	개/ncn+씩/xsn+을/jco
+16	선택하였다	선택+하+었+다	VERB	_	0	root	_	_	선택/ncpa+하/xsv+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 지도자들의 직업배경은 전통적 직업 집단 , 공직업 집단 및 자유직업 집단으로 통합하여 분석하였다 .
+1	지도자들의	지도자+들+의	NOUN	_	2	nmod	_	_	지도자/ncn+들/xsn+의/jcm
+2	직업배경은	직업+배경+은	NOUN	_	12	dislocated	_	_	직업/ncn+배경/ncn+은/jxt
+3	전통적	전통+적	NOUN	_	4	amod	_	_	전통/ncn+적/xsn
+4	직업	직업	NOUN	_	5	compound	_	_	직업/ncn
+5	집단	집단	NOUN	_	8	compound	_	_	집단/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	공직업	공직업	NOUN	_	8	compound	_	_	공직업/ncn
+8	집단	집단	NOUN	_	11	conj	_	_	집단/ncn
+9	및	및	CCONJ	_	11	cc	_	_	및/maj
+10	자유직업	자유+직업	NOUN	_	11	compound	_	_	자유/ncps+직업/ncn
+11	집단으로	집단+으로	ADV	_	12	advcl	_	_	집단/ncn+으로/jca
+12	통합하여	통합+하+어	SCONJ	_	13	ccomp	_	_	통합/ncpa+하/xsv+어/ecs
+13	분석하였다	분석+하+었+다	VERB	_	0	root	_	_	분석/ncpa+하/xsv+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 자유직업 집단의 경우에는 필요에 따라서 이를 분리시키어 분석하였다 .
+1	자유직업	자유+직업	NOUN	_	2	compound	_	_	자유/ncps+직업/ncn
+2	집단의	집단+의	NOUN	_	3	nmod	_	_	집단/ncn+의/jcm
+3	경우에는	경우+에+는	NOUN	_	8	dislocated	_	_	경우/ncn+에/jca+는/jxt
+4	필요에	필요+에	ADV	_	5	obl	_	_	필요/ncps+에/jca
+5	따라서	따르+아서	SCONJ	_	8	ccomp	_	_	따르/pvg+아서/ecs
+6	이를	이+를	PRON	_	8	obj	_	_	이/npd+를/jco
+7	분리시키어	분리+시키+어	SCONJ	_	8	ccomp	_	_	분리/ncpa+시키/xsv+어/ecs
+8	분석하였다	분석+하+었+다	VERB	_	0	root	_	_	분석/ncpa+하/xsv+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 자유직업 집단에서 교수직업 집단 배경 각료들과 법조게 배경 국회의원들은 연구기간 중 증가하였으나 이들을 포함한 통합된 자유직업 집단의 비율은 감소하였다 .
+1	자유직업	자유+직업	NOUN	_	2	compound	_	_	자유/ncps+직업/ncn
+2	집단에서	집단+에서	ADV	_	12	advcl	_	_	집단/ncn+에서/jca
+3	교수직업	교수+직업	NOUN	_	4	compound	_	_	교수/ncpa+직업/ncn
+4	집단	집단	NOUN	_	5	compound	_	_	집단/ncn
+5	배경	배경	NOUN	_	6	compound	_	_	배경/ncn
+6	각료들과	각료+들+과	CCONJ	_	9	conj	_	_	각료/ncn+들/xsn+과/jcj
+7	법조게	법조계	NOUN	_	8	compound	_	_	법조계/ncn
+8	배경	배경	NOUN	_	9	compound	_	_	배경/ncn
+9	국회의원들은	국회의원+들+은	NOUN	_	12	dislocated	_	_	국회의원/ncn+들/xsn+은/jxt
+10	연구기간	연구+기간	NOUN	_	11	compound	_	_	연구/ncpa+기간/ncn
+11	중	중	NOUN	_	12	mark	_	_	중/nbn
+12	증가하였으나	증가+하+었+으나	SCONJ	_	19	ccomp	_	_	증가/ncpa+하/xsv+었/ep+으나/ecs
+13	이들을	이+들+을	PRON	_	14	obj	_	_	이/npd+들/xsn+을/jco
+14	포함한	포함+하+ㄴ	VERB	_	17	acl	_	_	포함/ncpa+하/xsv+ㄴ/etm
+15	통합된	통합+되+ㄴ	VERB	_	17	acl	_	_	통합/ncpa+되/xsv+ㄴ/etm
+16	자유직업	자유+직업	NOUN	_	17	compound	_	_	자유/ncps+직업/ncn
+17	집단의	집단+의	NOUN	_	18	nmod	_	_	집단/ncn+의/jcm
+18	비율은	비율+은	NOUN	_	19	dislocated	_	_	비율/ncn+은/jxt
+19	감소하였다	감소+하+었+다	VERB	_	0	root	_	_	감소/ncpa+하/xsv+었/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 각료들 중에서 경제직 배경 지도자들 비율은 연구기간 초반에 있어 한국경제가 아직 농업중심이었던 시기에 상승세를 가졌다 .
+1	각료들	각료+들	NOUN	_	2	compound	_	_	각료/ncn+들/xsn
+2	중에서	중+에서	ADV	_	5	advcl	_	_	중/nbn+에서/jca
+3	경제직	경제직	NOUN	_	4	compound	_	_	경제직/ncn
+4	배경	배경	NOUN	_	5	compound	_	_	배경/ncn
+5	지도자들	지도자+들	NOUN	_	6	compound	_	_	지도자/ncn+들/xsn
+6	비율은	비율+은	NOUN	_	15	dislocated	_	_	비율/ncn+은/jxt
+7	연구기간	연구+기간	NOUN	_	8	compound	_	_	연구/ncpa+기간/ncn
+8	초반에	초반+에	ADV	_	9	obl	_	_	초반/ncn+에/jca
+9	있어	있+어	SCONJ	_	12	xcomp	_	_	있/paa+어/ecs
+10	한국경제가	한국+경제+가	PROPN	_	12	nsubj	_	_	한국/nq+경제/ncn+가/jcs
+11	아직	아직	ADV	_	12	advmod	_	_	아직/mag
+12	농업중심이었던	농업중심+이+었+던	VERB	_	13	acl	_	_	농업중심/ncn+이/jp+었/ep+던/etm
+13	시기에	시기+에	ADV	_	15	obl	_	_	시기/ncn+에/jca
+14	상승세를	상승세+를	NOUN	_	15	obj	_	_	상승세/ncpa+를/jco
+15	가졌다	가지+었+다	VERB	_	0	root	_	_	가지/pvg+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 경제직 배경 지도자들 비율의 변화를 설명하는 세 가지 사회경제 변인들이 가졌던 효과들을 보면 지금 설명한 경제직 배경 지도자들의 약점을 보여주고 있다 .
+1	경제직	경제직	NOUN	_	2	compound	_	_	경제직/ncn
+2	배경	배경	NOUN	_	3	compound	_	_	배경/ncn
+3	지도자들	지도자+들	NOUN	_	4	compound	_	_	지도자/ncn+들/xsn
+4	비율의	비율+의	NOUN	_	5	nmod	_	_	비율/ncn+의/jcm
+5	변화를	변화+를	NOUN	_	6	obj	_	_	변화/ncpa+를/jco
+6	설명하는	설명+하+는	VERB	_	10	acl	_	_	설명/ncpa+하/xsv+는/etm
+7	세	세	NUM	_	8	nummod	_	_	세/nnc
+8	가지	가지	NOUN	_	9	mark	_	_	가지/nbn
+9	사회경제	사회경제	NOUN	_	10	compound	_	_	사회경제/ncn
+10	변인들이	변인+들+이	NOUN	_	11	nsubj	_	_	변인/ncn+들/xsn+이/jcs
+11	가졌던	가지+었+던	VERB	_	12	acl	_	_	가지/pvg+었/ep+던/etm
+12	효과들을	효과+들+을	NOUN	_	13	obj	_	_	효과/ncn+들/xsn+을/jco
+13	보면	보+면	SCONJ	_	20	ccomp	_	_	보/pvg+면/ecs
+14	지금	지금	NOUN	_	15	compound	_	_	지금/ncn
+15	설명한	설명+하+ㄴ	VERB	_	19	acl	_	_	설명/ncpa+하/xsv+ㄴ/etm
+16	경제직	경제직	NOUN	_	17	compound	_	_	경제직/ncn
+17	배경	배경	NOUN	_	18	compound	_	_	배경/ncn
+18	지도자들의	지도자+들+의	NOUN	_	19	nmod	_	_	지도자/ncn+들/xsn+의/jcm
+19	약점을	약점+을	NOUN	_	20	obj	_	_	약점/ncn+을/jco
+20	보여주고	보이+어+주+고	AUX	_	0	root	_	_	보이/pvg+어/ecx+주/px+고/ecx
+21	있다	있+다	AUX	_	20	aux	_	_	있/px+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 위에서 설명했듯이 이들 두 변인들은 근대화 과정의 두번째 단계와 강한 조합관게를 가지고 있다 .
+1	위에서	위+에서	ADV	_	2	advcl	_	_	위/ncn+에서/jca
+2	설명했듯이	설명+하+었+듯이	SCONJ	_	12	ccomp	_	_	설명/ncpa+하/xsv+었/ep+듯이/ecs
+3	이들	이+들	NOUN	_	5	compound	_	_	이/npd+들/xsn
+4	두	두	NUM	_	5	nummod	_	_	두/nnc
+5	변인들은	변인+들+은	NOUN	_	12	dislocated	_	_	변인/ncn+들/xsn+은/jxt
+6	근대화	근대화	NOUN	_	7	compound	_	_	근대화/ncn
+7	과정의	과정+의	NOUN	_	9	nmod	_	_	과정/ncpa+의/jcm
+8	두번째	두번+째	NOUN	_	9	advmod	_	_	두번/ncn+째/xsn
+9	단계와	단계+와	CCONJ	_	11	conj	_	_	단계/ncn+와/jct
+10	강한	강하+ㄴ	ADJ	_	11	amod	_	_	강하/paa+ㄴ/etm
+11	조합관게를	조합관게+를	NOUN	_	12	obj	_	_	조합관게/ncn+를/jco
+12	가지고	가지+고	VERB	_	0	root	_	_	가지/pvg+고/ecx
+13	있다	있+다	AUX	_	12	aux	_	_	있/px+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 사회발전 초기단계에 , 즉 식자율이 낮았던 시기에 한국에 있어 교사는 높은 존경을 받았던 지식인들이었다 .
+1	사회발전	사회발전	NOUN	_	2	compound	_	_	사회발전/ncn
+2	초기단계에	초기단계+에	ADV	_	4	dep	_	_	초기단계/ncn+에/jca
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	즉	즉	CCONJ	_	9	cc	_	_	즉/maj
+5	식자율이	식자율+이	NOUN	_	6	nsubj	_	_	식자율/ncn+이/jcs
+6	낮았던	낮+았+던	ADJ	_	7	amod	_	_	낮/paa+았/ep+던/etm
+7	시기에	시기+에	ADV	_	4	obl	_	_	시기/ncn+에/jca
+8	한국에	한국+에	ADV	_	9	obl	_	_	한국/nq+에/jca
+9	있어	있+어	SCONJ	_	14	xcomp	_	_	있/paa+어/ecs
+10	교사는	교사+는	NOUN	_	14	dislocated	_	_	교사/ncn+는/jxt
+11	높은	높+ㄴ	ADJ	_	12	amod	_	_	높/paa+ㄴ/etm
+12	존경을	존경+을	NOUN	_	13	obj	_	_	존경/ncpa+을/jco
+13	받았던	받+았+던	VERB	_	14	ccomp	_	_	받/pvg+았/ep+던/etm
+14	지식인들이었다	지식인+들+이+었+다	VERB	_	0	root	_	_	지식인/ncn+들/xsn+이/jp+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 특히 일정치하에서 초 중 또는 고등학교에서의 교직은 당시 한국 지식인들에게 열려있던 많지 않은 경력 기회들 중의 하나였다 .
+1	특히	특히	ADV	_	2	advmod	_	_	특히/mag
+2	일정치하에서	일정+치하+에서	ADV	_	17	advcl	_	_	일정/ncn+치하/ncn+에서/jca
+3	초	초	NOUN	_	4	compound	_	_	초/ncn
+4	중	중	NOUN	_	6	conj	_	_	중/ncn
+5	또는	또는	CCONJ	_	6	cc	_	_	또는/maj
+6	고등학교에서의	고등학교+에서+의	NOUN	_	7	nmod	_	_	고등학교/ncn+에서/jca+의/jcm
+7	교직은	교직+은	NOUN	_	17	dislocated	_	_	교직/ncn+은/jxt
+8	당시	당시	NOUN	_	10	compound	_	_	당시/ncn
+9	한국	한국	PROPN	_	10	compound	_	_	한국/nq
+10	지식인들에게	지식인+들+에게	ADV	_	11	iobj	_	_	지식인/ncn+들/xsn+에게/jca
+11	열려있던	열리+어+있+던	AUX	_	15	acl	_	_	열리/pvg+어/ecx+있/px+던/etm
+12	많지	많+지	ADJ	_	15	amod	_	_	많/paa+지/ecx
+13	않은	않+ㄴ	AUX	_	12	aux	_	_	않/px+ㄴ/etm
+14	경력	경력	NOUN	_	15	compound	_	_	경력/ncn
+15	기회들	기회+들	NOUN	_	16	compound	_	_	기회/ncn+들/xsn
+16	중의	중+의	NOUN	_	17	nmod	_	_	중/ncn+의/jcm
+17	하나였다	하나+이+었+다	VERB	_	0	root	_	_	하나/ncn+이/jp+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 또 식민정치에 대한 장기 투쟁에 있어 많은 독립운동자들이 교직을 그들의 직업으로 선택하였다 .
+1	또	또	CCONJ	_	12	cc	_	_	또/maj
+2	식민정치에	식민+정치+에	ADV	_	3	obl	_	_	식민/ncpa+정치/ncpa+에/jca
+3	대한	대하+ㄴ	VERB	_	5	acl	_	_	대하/pvg+ㄴ/etm
+4	장기	장기	NOUN	_	5	compound	_	_	장기/ncn
+5	투쟁에	투쟁+에	ADV	_	6	obl	_	_	투쟁/ncpa+에/jca
+6	있어	있+어	SCONJ	_	12	xcomp	_	_	있/paa+어/ecs
+7	많은	많+ㄴ	ADJ	_	8	amod	_	_	많/paa+ㄴ/etm
+8	독립운동자들이	독립+운동자+들+이	NOUN	_	12	nsubj	_	_	독립/ncpa+운동자/ncn+들/xsn+이/jcs
+9	교직을	교직+을	NOUN	_	12	obj	_	_	교직/ncn+을/jco
+10	그들의	그+들+의	PRON	_	11	nmod	_	_	그/npp+들/xsn+의/jcm
+11	직업으로	직업+으로	ADV	_	12	advcl	_	_	직업/ncn+으로/jca
+12	선택하였다	선택+하+었+다	VERB	_	0	root	_	_	선택/ncpa+하/xsv+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 교사들은 1948 년 정부 수립 후 몇 년 동안 많은 수가 정부직에 등용되었다 .
+1	교사들은	교사+들+은	NOUN	_	13	dislocated	_	_	교사/ncn+들/xsn+은/jxt
+2	1948	1948	NUM	_	3	nummod	_	_	1948/nnc
+3	년	년	NOUN	_	5	compound	_	_	년/nbu
+4	정부	정부	NOUN	_	5	compound	_	_	정부/ncn
+5	수립	수립	NOUN	_	6	compound	_	_	수립/ncn
+6	후	후	NOUN	_	9	compound	_	_	후/ncn
+7	몇	몇	ADJ	_	8	amod	_	_	몇/mma
+8	년	년	NOUN	_	9	compound	_	_	년/nbu
+9	동안	동안	NOUN	_	13	advmod	_	_	동안/ncn
+10	많은	많+ㄴ	ADJ	_	11	amod	_	_	많/paa+ㄴ/etm
+11	수가	수+가	NOUN	_	13	nsubj	_	_	수/nbn+가/jcs
+12	정부직에	정부직+에	ADV	_	13	obl	_	_	정부직/ncn+에/jca
+13	등용되었다	등용+되+었+다	VERB	_	0	root	_	_	등용/ncpa+되/xsv+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그러나 식자율이 높아짐에 따라 그들은 점차로 국가정치에 대한 영향력을 잃어갔다 .
+1	그러나	그러나	CCONJ	_	10	cc	_	_	그러나/maj
+2	식자율이	식자율+이	NOUN	_	3	nsubj	_	_	식자율/ncn+이/jcs
+3	높아짐에	높+아+지+ㅁ+에	ADV	_	4	obl	_	_	높/paa+아/ecx+지/px+ㅁ/etn+에/jca
+4	따라	따르+아	SCONJ	_	10	ccomp	_	_	따르/pvg+아/ecs
+5	그들은	그+들+은	PRON	_	10	dislocated	_	_	그/npp+들/xsn+은/jxt
+6	점차로	점차+로	ADV	_	10	advcl	_	_	점차/ncn+로/jca
+7	국가정치에	국가정치+에	ADV	_	8	obl	_	_	국가정치/ncn+에/jca
+8	대한	대하+ㄴ	VERB	_	9	acl	_	_	대하/pvg+ㄴ/etm
+9	영향력을	영향력+을	NOUN	_	10	obj	_	_	영향력/ncn+을/jco
+10	잃어갔다	잃+어+가+ㅆ+다	AUX	_	0	root	_	_	잃/pvg+어/ecx+가/px+ㅆ/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 독립운동 지도자들 대다수가 직업적 정치인들이었다 .
+1	독립운동	독립+운동	NOUN	_	2	compound	_	_	독립/ncpa+운동/ncpa
+2	지도자들	지도자+들	NOUN	_	3	compound	_	_	지도자/ncn+들/xsn
+3	대다수가	대다수+가	NOUN	_	5	nsubj	_	_	대다수/ncn+가/jcs
+4	직업적	직업+적	NOUN	_	5	amod	_	_	직업/ncn+적/xsn
+5	정치인들이었다	정치인+들+이+었+다	VERB	_	0	root	_	_	정치인/ncn+들/xsn+이/jp+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 독립후 남한에 있어 정당정치를 유지하고 그 결과 국가직에 게속해서 직업적 정치인을 공급하게 된 세 가지 요인이 있다 .
+1	독립후	독립+후	NOUN	_	2	compound	_	_	독립/ncpa+후/ncn
+2	남한에	남한+에	ADV	_	3	obl	_	_	남한/nq+에/jca
+3	있어	있+어	SCONJ	_	17	xcomp	_	_	있/paa+어/ecs
+4	정당정치를	정당정치+를	NOUN	_	5	obj	_	_	정당정치/ncn+를/jco
+5	유지하고	유지+하+고	CCONJ	_	12	conj	_	_	유지/ncpa+하/xsv+고/ecc
+6	그	그	DET	_	7	det	_	_	그/mmd
+7	결과	결과	NOUN	_	12	advmod	_	_	결과/ncn
+8	국가직에	국가직+에	ADV	_	9	obl	_	_	국가직/ncn+에/jca
+9	게속해서	게속+하+어서	SCONJ	_	12	ccomp	_	_	게속/ncpa+하/xsv+어서/ecs
+10	직업적	직업+적	NOUN	_	11	amod	_	_	직업/ncn+적/xsn
+11	정치인을	정치인+을	NOUN	_	12	obj	_	_	정치인/ncn+을/jco
+12	공급하게	공급+하+게	VERB	_	16	acl	_	_	공급/ncpa+하/xsv+게/ecx
+13	된	되+ㄴ	AUX	_	12	aux	_	_	되/px+ㄴ/etm
+14	세	세	NUM	_	15	nummod	_	_	세/nnc
+15	가지	가지	NOUN	_	16	compound	_	_	가지/nbu
+16	요인이	요인+이	NOUN	_	17	nsubj	_	_	요인/ncn+이/jcs
+17	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 첫째 , 세계 제 2차 대전 후 국토가 양분되고 지도자들이 이념적으로 분열되어 국가적 지도체제의 출현이 늦어졌다 .
+1	첫째	첫째	NUM	_	16	nummod	_	_	첫째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	세계	세계	NOUN	_	5	compound	_	_	세계/ncn
+4	제	제	NOUN	_	5	compound	_	_	제/ncn
+5	2차	2+차	NOUN	_	6	compound	_	_	2/nnc+차/nbu
+6	대전	대전	NOUN	_	7	compound	_	_	대전/ncn
+7	후	후	NOUN	_	12	advmod	_	_	후/ncn
+8	국토가	국토+가	NOUN	_	9	nsubj	_	_	국토/ncn+가/jcs
+9	양분되고	양분+되+고	CCONJ	_	12	conj	_	_	양분/ncpa+되/xsv+고/ecc
+10	지도자들이	지도자+들+이	NOUN	_	12	nsubj	_	_	지도자/ncn+들/xsn+이/jcs
+11	이념적으로	이념+적+으로	ADV	_	12	advcl	_	_	이념/ncn+적/xsn+으로/jca
+12	분열되어	분열+되+어	SCONJ	_	16	conj	_	_	분열/ncpa+되/xsv+어/ecs
+13	국가적	국가+적	NOUN	_	14	amod	_	_	국가/ncn+적/xsn
+14	지도체제의	지도+체제+의	NOUN	_	15	nmod	_	_	지도/ncpa+체제/ncn+의/jcm
+15	출현이	출현+이	NOUN	_	16	nsubj	_	_	출현/ncpa+이/jcs
+16	늦어졌다	늦+어+지+었+다	AUX	_	0	root	_	_	늦/paa+어/ecx+지/px+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 둘째 , 초대 이승만대통령은 그의 국가독립을 위한 헌신적 경력 때문에 국민들 간에 상당한 신망을 얻고 있었다 .
+1	둘째	둘째	NUM	_	15	nummod	_	_	둘째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	초대	초대	NOUN	_	4	compound	_	_	초대/ncn
+4	이승만대통령은	이승만+대통령+은	PROPN	_	15	dislocated	_	_	이승만/nq+대통령/ncn+은/jxt
+5	그의	그+의	PRON	_	9	nmod	_	_	그/npp+의/jcm
+6	국가독립을	국가+독립+을	NOUN	_	7	obj	_	_	국가/ncn+독립/ncpa+을/jco
+7	위한	위하+ㄴ	VERB	_	9	acl	_	_	위하/pvg+ㄴ/etm
+8	헌신적	헌신+적	NOUN	_	9	amod	_	_	헌신/ncpa+적/xsn
+9	경력	경력	NOUN	_	10	compound	_	_	경력/ncn
+10	때문에	때문+에	ADV	_	15	obl	_	_	때문/nbn+에/jca
+11	국민들	국민+들	NOUN	_	12	compound	_	_	국민/ncn+들/xsn
+12	간에	간+에	ADV	_	15	obl	_	_	간/ncn+에/jca
+13	상당한	상당하+ㄴ	ADJ	_	14	amod	_	_	상당하/paa+ㄴ/etm
+14	신망을	신망+을	NOUN	_	15	obj	_	_	신망/ncpa+을/jco
+15	얻고	얻+고	VERB	_	0	root	_	_	얻/pvg+고/ecx
+16	있었다	있+었+다	AUX	_	15	aux	_	_	있/px+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그러나 대통령직에 취임하고 몇 년 동안은 어느 한 정당과 제휴하기를 주저했었다 .
+1	그러나	그러나	CCONJ	_	11	cc	_	_	그러나/maj
+2	대통령직에	대통령직+에	ADV	_	3	obl	_	_	대통령직/ncn+에/jca
+3	취임하고	취임+하+고	CCONJ	_	11	conj	_	_	취임/ncpa+하/xsv+고/ecc
+4	몇	몇	ADJ	_	5	amod	_	_	몇/mma
+5	년	년	NOUN	_	6	compound	_	_	년/nbu
+6	동안은	동안+은	NOUN	_	11	dislocated	_	_	동안/ncn+은/jxt
+7	어느	어느	NOUN	_	9	compound	_	_	어느/ncn
+8	한	한	NUM	_	9	nummod	_	_	한/nnc
+9	정당과	정당+과	CCONJ	_	10	conj	_	_	정당/ncn+과/jct
+10	제휴하기를	제휴+하+기+를	NOUN	_	11	obj	_	_	제휴/ncpa+하/xsv+기/etn+를/jco
+11	주저했었다	주저+하+었었+다	VERB	_	0	root	_	_	주저/ncpa+하/xsv+었었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 셋째 , 세계 제 2차 대전 후 지도자들의 대다수가 민주주의를 표방하였으며 남한에 비공산계 반대 정당들이 용인되었다 .
+1	셋째	셋째	NUM	_	16	nummod	_	_	셋째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	세계	세계	NOUN	_	5	compound	_	_	세계/ncn
+4	제	제	NOUN	_	5	compound	_	_	제/ncn
+5	2차	2+차	NOUN	_	6	compound	_	_	2/nnc+차/nbu
+6	대전	대전	NOUN	_	7	compound	_	_	대전/ncn
+7	후	후	NOUN	_	8	compound	_	_	후/ncn
+8	지도자들의	지도자+들+의	NOUN	_	9	nmod	_	_	지도자/ncn+들/xsn+의/jcm
+9	대다수가	대다수+가	NOUN	_	11	nsubj	_	_	대다수/ncn+가/jcs
+10	민주주의를	민주주의+를	NOUN	_	11	obj	_	_	민주주의/ncn+를/jco
+11	표방하였으며	표방+하+었+으며	CCONJ	_	16	conj	_	_	표방/ncpa+하/xsv+었/ep+으며/ecc
+12	남한에	남한+에	ADV	_	16	obl	_	_	남한/nq+에/jca
+13	비공산계	비공산계	NOUN	_	15	compound	_	_	비공산계/ncn
+14	반대	반대	NOUN	_	15	compound	_	_	반대/ncpa
+15	정당들이	정당+들+이	NOUN	_	16	nsubj	_	_	정당/ncn+들/xsn+이/jcs
+16	용인되었다	용인+되+었+다	VERB	_	0	root	_	_	용인/ncpa+되/xsv+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 직업적 정치인들은 사회경제 발전과정에서 동원된 인구층들로부터 온 사람들로서 , 새로운 사회적 주체성과 지위를 그들 자신과 새 시대 사회구성원들을 위하여 수립하고자 한다 .
+1	직업적	직업+적	NOUN	_	2	amod	_	_	직업/ncn+적/xsn
+2	정치인들은	정치인+들+은	NOUN	_	20	dislocated	_	_	정치인/ncn+들/xsn+은/jxt
+3	사회경제	사회경제	NOUN	_	4	compound	_	_	사회경제/ncn
+4	발전과정에서	발전과정+에서	ADV	_	5	advcl	_	_	발전과정/ncn+에서/jca
+5	동원된	동원+되+ㄴ	VERB	_	6	acl	_	_	동원/ncpa+되/xsv+ㄴ/etm
+6	인구층들로부터	인구층+들+로+부터	ADV	_	7	advcl	_	_	인구층/ncn+들/xsn+로/jca+부터/jxc
+7	온	오+ㄴ	VERB	_	8	acl	_	_	오/pvg+ㄴ/etm
+8	사람들로서	사람+들+로서	ADV	_	20	advmod	_	_	사람/ncn+들/xsn+로서/jca
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	새로운	새롭+ㄴ	ADJ	_	13	amod	_	_	새롭/paa+ㄴ/etm
+11	사회적	사회+적	NOUN	_	12	amod	_	_	사회/ncn+적/xsn
+12	주체성과	주체성+과	CCONJ	_	13	conj	_	_	주체성/ncn+과/jcj
+13	지위를	지위+를	NOUN	_	20	obj	_	_	지위/ncn+를/jco
+14	그들	그+들	NOUN	_	15	compound	_	_	그/npp+들/xsn
+15	자신과	자신+과	CCONJ	_	18	conj	_	_	자신/ncn+과/jcj
+16	새	새	NOUN	_	17	compound	_	_	새/ncn
+17	시대	시대	NOUN	_	18	compound	_	_	시대/ncn
+18	사회구성원들을	사회구성원+들+을	NOUN	_	19	obj	_	_	사회구성원/ncn+들/xsn+을/jco
+19	위하여	위하+어	SCONJ	_	20	ccomp	_	_	위하/pvg+어/ecs
+20	수립하고자	수립+하+고자	VERB	_	0	root	_	_	수립/ncpa+하/xsv+고자/ecx
+21	한다	하+ㄴ다	AUX	_	20	aux	_	_	하/px+ㄴ다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 근대 국가의 사회경제발전 초기단계에서 직업적 정치인들은 변화의 역군들이 된다 .
+1	근대	근대	NOUN	_	2	compound	_	_	근대/ncn
+2	국가의	국가+의	NOUN	_	3	nmod	_	_	국가/ncn+의/jcm
+3	사회경제발전	사회경제발전	NOUN	_	4	compound	_	_	사회경제발전/ncn
+4	초기단계에서	초기단계+에서	ADV	_	9	advcl	_	_	초기단계/ncn+에서/jca
+5	직업적	직업+적	NOUN	_	6	amod	_	_	직업/ncn+적/xsn
+6	정치인들은	정치인+들+은	NOUN	_	9	dislocated	_	_	정치인/ncn+들/xsn+은/jxt
+7	변화의	변화+의	NOUN	_	8	nmod	_	_	변화/ncpa+의/jcm
+8	역군들이	역군+들+이	NOUN	_	9	nsubj	_	_	역군/ncn+들/xsn+이/jcs
+9	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 최근 사회 경제분야에 2 차 집단들의 수가 늘어났으며 사회구조는 점점 복잡해지고 있다 .
+1	최근	최근	NOUN	_	3	compound	_	_	최근/ncn
+2	사회	사회	NOUN	_	3	compound	_	_	사회/ncn
+3	경제분야에	경제분야+에	ADV	_	8	obl	_	_	경제분야/ncn+에/jca
+4	2	2	NUM	_	5	nummod	_	_	2/nnc
+5	차	차	NOUN	_	6	compound	_	_	차/ncn
+6	집단들의	집단+들+의	NOUN	_	7	nmod	_	_	집단/ncn+들/xsn+의/jcm
+7	수가	수+가	NOUN	_	8	nsubj	_	_	수/nbn+가/jcs
+8	늘어났으며	늘+어+나+ㅆ+으며	CCONJ	_	11	conj	_	_	늘/pvg+어/ecx+나/px+ㅆ/ep+으며/ecc
+9	사회구조는	사회구조+는	NOUN	_	11	dislocated	_	_	사회구조/ncn+는/jxt
+10	점점	점점	ADV	_	11	advmod	_	_	점점/mag
+11	복잡해지고	복잡하+어+지+고	AUX	_	0	root	_	_	복잡하/paa+어/ecx+지/px+고/ecx
+12	있다	있+다	AUX	_	11	aux	_	_	있/px+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 경제적 변화는 또 도심지의 급격한 팽창을 가져왔다 .
+1	경제적	경제+적	NOUN	_	2	amod	_	_	경제/ncn+적/xsn
+2	변화는	변화+는	NOUN	_	7	dislocated	_	_	변화/ncpa+는/jxt
+3	또	또	ADV	_	7	advmod	_	_	또/mag
+4	도심지의	도심지+의	NOUN	_	6	nmod	_	_	도심지/ncn+의/jcm
+5	급격한	급격+하+ㄴ	VERB	_	6	acl	_	_	급격/ncpa+하/xsv+ㄴ/etm
+6	팽창을	팽창+을	NOUN	_	7	obj	_	_	팽창/ncpa+을/jco
+7	가져왔다	가지+어+오+았+다	AUX	_	0	root	_	_	가지/pvg+어/ecx+오/px+았/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 경제가 발전함으로써 직장을 찾고 새로운 사회적 직위를 갖는 사람들의 수가 늘어났다 .
+1	경제가	경제+가	NOUN	_	2	nsubj	_	_	경제/ncn+가/jcs
+2	발전함으로써	발전+하+ㅁ+으로써	ADV	_	4	advcl	_	_	발전/ncpa+하/xsv+ㅁ/etn+으로써/jca
+3	직장을	직장+을	NOUN	_	4	obj	_	_	직장/ncn+을/jco
+4	찾고	찾+고	CCONJ	_	11	conj	_	_	찾/pvg+고/ecc
+5	새로운	새롭+ㄴ	ADJ	_	7	amod	_	_	새롭/paa+ㄴ/etm
+6	사회적	사회+적	NOUN	_	7	amod	_	_	사회/ncn+적/xsn
+7	직위를	직위+를	NOUN	_	8	obj	_	_	직위/ncn+를/jco
+8	갖는	갖+는	VERB	_	9	acl	_	_	갖/pvg+는/etm
+9	사람들의	사람+들+의	NOUN	_	10	nmod	_	_	사람/ncn+들/xsn+의/jcm
+10	수가	수+가	NOUN	_	11	nsubj	_	_	수/nbn+가/jcs
+11	늘어났다	늘+어+나+ㅆ+다	AUX	_	0	root	_	_	늘/pvg+어/ecx+나/px+ㅆ/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 남한에 있어 사회계층간 구조는 비교적 유동적이었으며 연구기간 중 그것을 바탕으로 한 극단적인 이념적 갈등은 나타나지 않았다 .
+1	남한에	남한+에	ADV	_	2	obl	_	_	남한/nq+에/jca
+2	있어	있+어	SCONJ	_	6	xcomp	_	_	있/paa+어/ecs
+3	사회계층간	사회계층+간	NOUN	_	4	advmod	_	_	사회계층/ncn+간/xsn
+4	구조는	구조+는	NOUN	_	6	dislocated	_	_	구조/ncpa+는/jxt
+5	비교적	비교+적	NOUN	_	6	advmod	_	_	비교/ncpa+적/xsn
+6	유동적이었으며	유동+적+이+었+으며	CCONJ	_	15	conj	_	_	유동/ncn+적/xsn+이/jp+었/ep+으며/ecc
+7	연구기간	연구+기간	NOUN	_	8	compound	_	_	연구/ncpa+기간/ncn
+8	중	중	NOUN	_	15	advmod	_	_	중/nbn
+9	그것을	그것+을	PRON	_	11	obj	_	_	그것/npd+을/jco
+10	바탕으로	바탕+으로	ADV	_	11	advcl	_	_	바탕/ncpa+으로/jca
+11	한	하+ㄴ	VERB	_	14	acl	_	_	하/pvg+ㄴ/etm
+12	극단적인	극단+적+이+ㄴ	VERB	_	14	acl	_	_	극단/ncn+적/xsn+이/jp+ㄴ/etm
+13	이념적	이념+적	NOUN	_	14	amod	_	_	이념/ncn+적/xsn
+14	갈등은	갈등+은	NOUN	_	15	dislocated	_	_	갈등/ncn+은/jxt
+15	나타나지	나타나+지	VERB	_	0	root	_	_	나타나/pvg+지/ecx
+16	않았다	않+았+다	AUX	_	15	aux	_	_	않/px+았/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 웅변술만을 가지고 있는 사람들은 사회가 점차 근대화되고 안정됨에 따라 그들의 정치적 영역을 보존하기 어려워진다 .
+1	웅변술만을	웅변술+만+을	NOUN	_	2	obj	_	_	웅변술/ncn+만/jxc+을/jco
+2	가지고	가지+고	VERB	_	4	acl	_	_	가지/pvg+고/ecx
+3	있는	있+는	AUX	_	2	aux	_	_	있/px+는/etm
+4	사람들은	사람+들+은	NOUN	_	14	dislocated	_	_	사람/ncn+들/xsn+은/jxt
+5	사회가	사회+가	NOUN	_	8	nsubj	_	_	사회/ncn+가/jcs
+6	점차	점차	ADV	_	7	advmod	_	_	점차/mag
+7	근대화되고	근대화+되+고	CCONJ	_	8	conj	_	_	근대화/ncpa+되/xsv+고/ecc
+8	안정됨에	안정+되+ㅁ+에	ADV	_	9	obl	_	_	안정/ncpa+되/xsv+ㅁ/etn+에/jca
+9	따라	따르+아	SCONJ	_	13	conj	_	_	따르/pvg+아/ecs
+10	그들의	그+들+의	PRON	_	12	nmod	_	_	그/npp+들/xsn+의/jcm
+11	정치적	정치+적	NOUN	_	12	amod	_	_	정치/ncpa+적/xsn
+12	영역을	영역+을	NOUN	_	13	obj	_	_	영역/ncn+을/jco
+13	보존하기	보존+하+기	VERB	_	14	nmod	_	_	보존/ncpa+하/xsv+기/etn
+14	어려워진다	어렵+어+지+ㄴ다	AUX	_	0	root	_	_	어렵/paa+어/ecx+지/px+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 기자직군에는 성직자 , 예술가 , 음악가 , 시인 , 작가 그리고 이 직군의 대다수를 구성하는 기자들이 포함된다 .
+1	기자직군에는	기자+직군+에+는	NOUN	_	17	dislocated	_	_	기자/ncn+직군/ncn+에/jca+는/jxt
+2	성직자	성직자	NOUN	_	4	conj	_	_	성직자/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	예술가	예술가	NOUN	_	6	conj	_	_	예술가/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	음악가	음악가	NOUN	_	8	conj	_	_	음악가/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	시인	시인	NOUN	_	10	conj	_	_	시인/ncn
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	작가	작가	NOUN	_	16	conj	_	_	작가/ncn
+11	그리고	그리고	CCONJ	_	16	cc	_	_	그리고/maj
+12	이	이	DET	_	13	det	_	_	이/mmd
+13	직군의	직군+의	NOUN	_	14	nmod	_	_	직군/ncn+의/jcm
+14	대다수를	대다수+를	NOUN	_	15	obj	_	_	대다수/ncn+를/jco
+15	구성하는	구성+하+는	VERB	_	16	acl	_	_	구성/ncpa+하/xsv+는/etm
+16	기자들이	기자+들+이	NOUN	_	17	nsubj	_	_	기자/ncn+들/xsn+이/jcs
+17	포함된다	포함+되+ㄴ다	VERB	_	0	root	_	_	포함/ncpa+되/xsv+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 한국에 있어 신문과 잡지는 서양문화의 영향으로 시작되었다 .
+1	한국에	한국+에	ADV	_	2	obl	_	_	한국/nq+에/jca
+2	있어	있+어	SCONJ	_	7	xcomp	_	_	있/paa+어/ecs
+3	신문과	신문+과	CCONJ	_	4	conj	_	_	신문/ncn+과/jcj
+4	잡지는	잡지+는	NOUN	_	7	dislocated	_	_	잡지/ncn+는/jxt
+5	서양문화의	서양문화+의	NOUN	_	6	nmod	_	_	서양문화/ncn+의/jcm
+6	영향으로	영향+으로	ADV	_	7	advcl	_	_	영향/ncn+으로/jca
+7	시작되었다	시작+되+었+다	VERB	_	0	root	_	_	시작/ncpa+되/xsv+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 한국의 첫번째 신문인 독립신문은 1896 년 4 월 서재필 선생에 의해 발행되었다 .
+1	한국의	한국+의	PROPN	_	3	nmod	_	_	한국/nq+의/jcm
+2	첫번째	첫번+째	NOUN	_	3	advmod	_	_	첫번/ncn+째/xsn
+3	신문인	신문+이+ㄴ	VERB	_	4	acl	_	_	신문/ncn+이/jp+ㄴ/etm
+4	독립신문은	독립신문+은	PROPN	_	12	dislocated	_	_	독립신문/nq+은/jxt
+5	1896	1896	NUM	_	6	nummod	_	_	1896/nnc
+6	년	년	NOUN	_	8	compound	_	_	년/nbu
+7	4	4	NUM	_	8	nummod	_	_	4/nnc
+8	월	월	NOUN	_	11	advmod	_	_	월/nbu
+9	서재필	서재필	PROPN	_	10	compound	_	_	서재필/nq
+10	선생에	선생+에	ADV	_	11	obl	_	_	선생/ncn+에/jca
+11	의해	의하+어	SCONJ	_	12	ccomp	_	_	의하/pvg+어/ecs
+12	발행되었다	발행+되+었+다	VERB	_	0	root	_	_	발행/ncpa+되/xsv+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 일본통치 하에서 신문은 일본식민정치를 비판한 한국 지식인들 , 사회개혁자들 그리고 망명하였던 정치인들의 모임 장소였다 .
+1	일본통치	일본+통치	NOUN	_	2	compound	_	_	일본/nq+통치/ncn
+2	하에서	하+에서	ADV	_	14	advcl	_	_	하/nbn+에서/jca
+3	신문은	신문+은	NOUN	_	14	dislocated	_	_	신문/ncpa+은/jxt
+4	일본식민정치를	일본식민정치+를	NOUN	_	5	obj	_	_	일본식민정치/ncn+를/jco
+5	비판한	비판+하+ㄴ	VERB	_	7	acl	_	_	비판/ncpa+하/xsv+ㄴ/etm
+6	한국	한국	PROPN	_	7	compound	_	_	한국/nq
+7	지식인들	지식인+들	NOUN	_	9	conj	_	_	지식인/ncn+들/xsn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	사회개혁자들	사회개혁자+들	NOUN	_	12	conj	_	_	사회개혁자/ncn+들/xsn
+10	그리고	그리고	CCONJ	_	12	cc	_	_	그리고/maj
+11	망명하였던	망명+하+었+던	VERB	_	12	acl	_	_	망명/ncpa+하/xsv+었/ep+던/etm
+12	정치인들의	정치인+들+의	NOUN	_	14	nmod	_	_	정치인/ncn+들/xsn+의/jcm
+13	모임	모임	NOUN	_	14	compound	_	_	모임/ncn
+14	장소였다	장소+이+었+다	VERB	_	0	root	_	_	장소/ncn+이/jp+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 해방후 신문은 미군정 하에서 번창하였다 .
+1	해방후	해방+후	NOUN	_	2	compound	_	_	해방/ncn+후/ncn
+2	신문은	신문+은	NOUN	_	5	dislocated	_	_	신문/ncn+은/jxt
+3	미군정	미+군정	NOUN	_	4	compound	_	_	미/ncn+군정/ncn
+4	하에서	하+에서	ADV	_	5	advcl	_	_	하/nbn+에서/jca
+5	번창하였다	번창+하+었+다	VERB	_	0	root	_	_	번창/ncpa+하/xsv+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그러나 1946 년 법령 88로 공산주의자들의 출판물을 제한하였다 .
+1	그러나	그러나	CCONJ	_	8	cc	_	_	그러나/maj
+2	1946	1946	NUM	_	3	nummod	_	_	1946/nnc
+3	년	년	NOUN	_	8	advmod	_	_	년/nbu
+4	법령	법령	NOUN	_	5	compound	_	_	법령/ncn
+5	88로	88+로	ADV	_	8	advcl	_	_	88/nnc+로/jca
+6	공산주의자들의	공산주의자+들+의	NOUN	_	7	nmod	_	_	공산주의자/ncn+들/xsn+의/jcm
+7	출판물을	출판물+을	NOUN	_	8	obj	_	_	출판물/ncn+을/jco
+8	제한하였다	제한+하+었+다	VERB	_	0	root	_	_	제한/ncpa+하/xsv+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 연구기간중 비공산계 출판물들에 대해서는 이따금 학생소요 보도를 금지한 것 외에는 제한이 비교적 적었다 .
+1	연구기간중	연구+기간+중	NOUN	_	8	advmod	_	_	연구/ncpa+기간/ncn+중/xsn
+2	비공산계	비공산계	NOUN	_	3	compound	_	_	비공산계/ncn
+3	출판물들에	출판물+들+에	ADV	_	4	obl	_	_	출판물/ncn+들/xsn+에/jca
+4	대해서는	대하+어서+는	NOUN	_	8	ccomp	_	_	대하/pvg+어서/ecs+는/jxt
+5	이따금	이따금	ADV	_	8	advmod	_	_	이따금/mag
+6	학생소요	학생+소요	NOUN	_	7	compound	_	_	학생/ncn+소요/ncn
+7	보도를	보도+를	NOUN	_	8	obj	_	_	보도/ncpa+를/jco
+8	금지한	금지+하+ㄴ	VERB	_	9	acl	_	_	금지/ncpa+하/xsv+ㄴ/etm
+9	것	것	NOUN	_	10	mark	_	_	것/nbn
+10	외에는	외+에+는	NOUN	_	13	dislocated	_	_	외/ncn+에/jca+는/jxt
+11	제한이	제한+이	NOUN	_	13	nsubj	_	_	제한/ncpa+이/jcs
+12	비교적	비교+적	NOUN	_	13	amod	_	_	비교/ncpa+적/xsn
+13	적었다	적+었+다	VERB	_	0	root	_	_	적/pvg+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 남한에 신문사를 가지고 있는 사람은 사회문제들에 활발한 관심을 가지고 있는 지식인으로 인정받는다 .
+1	남한에	남한+에	ADV	_	3	obl	_	_	남한/nq+에/jca
+2	신문사를	신문사+를	NOUN	_	3	obj	_	_	신문사/ncn+를/jco
+3	가지고	가지+고	VERB	_	5	acl	_	_	가지/pvg+고/ecx
+4	있는	있+는	AUX	_	3	aux	_	_	있/px+는/etm
+5	사람은	사람+은	NOUN	_	12	dislocated	_	_	사람/ncn+은/jxt
+6	사회문제들에	사회문제+들+에	ADV	_	9	obl	_	_	사회문제/ncn+들/xsn+에/jca
+7	활발한	활발하+ㄴ	ADJ	_	8	amod	_	_	활발하/paa+ㄴ/etm
+8	관심을	관심+을	NOUN	_	9	obj	_	_	관심/ncpa+을/jco
+9	가지고	가지+고	VERB	_	11	acl	_	_	가지/pvg+고/ecx
+10	있는	있+는	AUX	_	9	aux	_	_	있/px+는/etm
+11	지식인으로	지식인+으로	ADV	_	12	advcl	_	_	지식인/ncn+으로/jca
+12	인정받는다	인정받+는다	VERB	_	0	root	_	_	인정받/pvg+는다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 신문은 라디오나 그 외 다른 대중매체보다 일반대중과의 쉬운 접근수단이었다 .
+1	신문은	신문+은	NOUN	_	9	dislocated	_	_	신문/ncn+은/jxt
+2	라디오나	라디오+나	CCONJ	_	6	conj	_	_	라디오/ncn+나/jcj
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	외	외	NOUN	_	6	compound	_	_	외/ncn
+5	다른	다르+ㄴ	ADJ	_	6	amod	_	_	다르/paa+ㄴ/etm
+6	대중매체보다	대중매체+보다	ADV	_	9	advcl	_	_	대중매체/ncn+보다/jca
+7	일반대중과의	일반대중+과+의	NOUN	_	9	nmod	_	_	일반대중/ncn+과/jct+의/jcm
+8	쉬운	쉽+ㄴ	ADJ	_	9	amod	_	_	쉽/paa+ㄴ/etm
+9	접근수단이었다	접근+수단+이+었+다	VERB	_	0	root	_	_	접근/ncpa+수단/ncn+이/jp+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 연구기간 초기에 신문과 잡지 기자는 하나의 직업으로서 각료들과 국회의원들 중 큰 비율을 차지하고 있다 .
+1	연구기간	연구+기간	NOUN	_	2	compound	_	_	연구/ncpa+기간/ncn
+2	초기에	초기+에	ADV	_	13	obl	_	_	초기/ncn+에/jca
+3	신문과	신문+과	CCONJ	_	4	conj	_	_	신문/ncpa+과/jcj
+4	잡지	잡지	NOUN	_	5	compound	_	_	잡지/ncn
+5	기자는	기자+는	NOUN	_	13	dislocated	_	_	기자/ncn+는/jxt
+6	하나의	하나+의	NOUN	_	7	nmod	_	_	하나/ncn+의/jcm
+7	직업으로서	직업+으로서	ADV	_	13	advcl	_	_	직업/ncn+으로서/jca
+8	각료들과	각료+들+과	CCONJ	_	9	conj	_	_	각료/ncn+들/xsn+과/jcj
+9	국회의원들	국회의원+들	NOUN	_	10	compound	_	_	국회의원/ncn+들/xsn
+10	중	중	NOUN	_	13	advmod	_	_	중/ncn
+11	큰	크+ㄴ	ADJ	_	12	amod	_	_	크/paa+ㄴ/etm
+12	비율을	비율+을	NOUN	_	13	obj	_	_	비율/ncn+을/jco
+13	차지하고	차지+하+고	VERB	_	0	root	_	_	차지/ncpa+하/xsv+고/ecx
+14	있다	있+다	AUX	_	13	aux	_	_	있/px+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그러나 사회가 전문화되면서 그 비율은 감소하였다 .
+1	그러나	그러나	CCONJ	_	6	cc	_	_	그러나/maj
+2	사회가	사회+가	NOUN	_	3	nsubj	_	_	사회/ncn+가/jcs
+3	전문화되면서	전문화+되+면서	CCONJ	_	6	conj	_	_	전문화/ncpa+되/xsv+면서/ecc
+4	그	그	PRON	_	5	compound	_	_	그/npp
+5	비율은	비율+은	NOUN	_	6	dislocated	_	_	비율/ncn+은/jxt
+6	감소하였다	감소+하+었+다	VERB	_	0	root	_	_	감소/ncpa+하/xsv+었/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 신문과 잡지 기자들의 정치적 영향력은 연구 기간중 후반부에 들어서 통신발전에 따라 증대되었던 것으로 나타났다 .
+1	신문과	신문+과	CCONJ	_	2	conj	_	_	신문/ncn+과/jcj
+2	잡지	잡지	NOUN	_	3	compound	_	_	잡지/ncn
+3	기자들의	기자+들+의	NOUN	_	5	nmod	_	_	기자/ncn+들/xsn+의/jcm
+4	정치적	정치+적	NOUN	_	5	amod	_	_	정치/ncpa+적/xsn
+5	영향력은	영향력+은	NOUN	_	14	dislocated	_	_	영향력/ncn+은/jxt
+6	연구	연구	NOUN	_	7	compound	_	_	연구/ncn
+7	기간중	기간+중	NOUN	_	8	advmod	_	_	기간/ncn+중/xsn
+8	후반부에	후반부+에	ADV	_	9	obl	_	_	후반부/ncn+에/jca
+9	들어서	들+어서	SCONJ	_	14	ccomp	_	_	들/pvg+어서/ecs
+10	통신발전에	통신+발전+에	ADV	_	11	obl	_	_	통신/ncpa+발전/ncpa+에/jca
+11	따라	따르+아	SCONJ	_	12	ccomp	_	_	따르/pvg+아/ecs
+12	증대되었던	증대+되+었+던	VERB	_	13	acl	_	_	증대/ncpa+되/xsv+었/ep+던/etm
+13	것으로	것+으로	ADV	_	14	advcl	_	_	것/nbn+으로/jca
+14	나타났다	나타나+ㅆ+다	VERB	_	0	root	_	_	나타나/pvg+ㅆ/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그러나 남한에서 사회개혁에 앞장설 것으로 기대되고 또 사회를 보살피는 실태 고발원으로서의 기자상은 점차 사라져 갔던 것으로 보인다 .
+1	그러나	그러나	CCONJ	_	17	cc	_	_	그러나/maj
+2	남한에서	남한+에서	ADV	_	4	advcl	_	_	남한/nq+에서/jca
+3	사회개혁에	사회개혁+에	ADV	_	4	obl	_	_	사회개혁/ncpa+에/jca
+4	앞장설	앞장서+ㄹ	VERB	_	5	acl	_	_	앞장서/pvg+ㄹ/etm
+5	것으로	것+으로	ADV	_	6	advcl	_	_	것/nbn+으로/jca
+6	기대되고	기대+되+고	CCONJ	_	9	conj	_	_	기대/ncpa+되/xsv+고/ecc
+7	또	또	ADV	_	9	advmod	_	_	또/mag
+8	사회를	사회+를	NOUN	_	9	obj	_	_	사회/ncn+를/jco
+9	보살피는	보살피+는	VERB	_	11	acl	_	_	보살피/pvg+는/etm
+10	실태	실태	NOUN	_	11	compound	_	_	실태/ncn
+11	고발원으로서의	고발원+으로서+의	NOUN	_	12	nmod	_	_	고발원/ncn+으로서/jca+의/jcm
+12	기자상은	기자상+은	NOUN	_	14	dislocated	_	_	기자상/ncn+은/jxt
+13	점차	점차	ADV	_	14	advmod	_	_	점차/mag
+14	사라져	사라지+어	VERB	_	16	acl	_	_	사라지/pvg+어/ecx
+15	갔던	가+ㅆ+던	AUX	_	14	aux	_	_	가/px+ㅆ/ep+던/etm
+16	것으로	것+으로	ADV	_	17	advcl	_	_	것/nbn+으로/jca
+17	보인다	보이+ㄴ다	VERB	_	0	root	_	_	보이/pvg+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 공직에 고용되었던 대다수 사람들은 하위직위에 임용되었다 .
+1	공직에	공직+에	ADV	_	2	obl	_	_	공직/ncn+에/jca
+2	고용되었던	고용+되+었+던	VERB	_	4	acl	_	_	고용/ncpa+되/xsv+었/ep+던/etm
+3	대다수	대다수	NOUN	_	4	compound	_	_	대다수/ncn
+4	사람들은	사람+들+은	NOUN	_	6	dislocated	_	_	사람/ncn+들/xsn+은/jxt
+5	하위직위에	하위+직위+에	ADV	_	6	obl	_	_	하위/ncn+직위/ncn+에/jca
+6	임용되었다	임용+되+었+다	VERB	_	0	root	_	_	임용/ncpa+되/xsv+었/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 일본의 정당에 참여한 사람은 없었으며 정부고위관직으로의 임명은 문관시험에 합격한 사람들 중에서 있었다 .
+1	일본의	일본+의	PROPN	_	2	nmod	_	_	일본/nq+의/jcm
+2	정당에	정당+에	ADV	_	3	obl	_	_	정당/ncn+에/jca
+3	참여한	참여+하+ㄴ	VERB	_	4	acl	_	_	참여/ncpa+하/xsv+ㄴ/etm
+4	사람은	사람+은	NOUN	_	5	dislocated	_	_	사람/ncn+은/jxt
+5	없었으며	없+었+으며	CCONJ	_	12	conj	_	_	없/paa+었/ep+으며/ecc
+6	정부고위관직으로의	정부+고위+관직+으로+의	NOUN	_	7	nmod	_	_	정부/ncn+고위/ncn+관직/ncn+으로/jca+의/jcm
+7	임명은	임명+은	NOUN	_	12	dislocated	_	_	임명/ncpa+은/jxt
+8	문관시험에	문관+시험+에	ADV	_	9	obl	_	_	문관/ncn+시험/ncpa+에/jca
+9	합격한	합격+하+ㄴ	VERB	_	10	acl	_	_	합격/ncpa+하/xsv+ㄴ/etm
+10	사람들	사람+들	NOUN	_	11	compound	_	_	사람/ncn+들/xsn
+11	중에서	중+에서	ADV	_	12	advcl	_	_	중/ncn+에서/jca
+12	있었다	있+었+다	ADJ	_	0	root	_	_	있/paa+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 1945 년 해방 이후 일본통치하에서 양성되었던 관료들이 당시 희소한 행정기술의 인적자원이었으며 이들 중 많은 사람들이 새로 설립된 한국정부에 임용되었다 .
+1	1945	1945	NUM	_	2	nummod	_	_	1945/nnc
+2	년	년	NOUN	_	3	compound	_	_	년/nbu
+3	해방	해방	NOUN	_	4	compound	_	_	해방/ncpa
+4	이후	이후	NOUN	_	5	compound	_	_	이후/ncn
+5	일본통치하에서	일본+통치+하+에서	ADV	_	6	advcl	_	_	일본/nq+통치/ncn+하/ncn+에서/jca
+6	양성되었던	양성+되+었+던	VERB	_	7	acl	_	_	양성/ncpa+되/xsv+었/ep+던/etm
+7	관료들이	관료+들+이	NOUN	_	11	nsubj	_	_	관료/ncn+들/xsn+이/jcs
+8	당시	당시	NOUN	_	9	dep	_	_	당시/ncn
+9	희소한	희소하+ㄴ	ADJ	_	11	amod	_	_	희소하/paa+ㄴ/etm
+10	행정기술의	행정+기술+의	NOUN	_	11	nmod	_	_	행정/ncn+기술/ncn+의/jcm
+11	인적자원이었으며	인적+자원+이+었+으며	CCONJ	_	19	conj	_	_	인적/ncn+자원/ncn+이/jp+었/ep+으며/ecc
+12	이들	이+들	NOUN	_	13	compound	_	_	이/npd+들/xsn
+13	중	중	NOUN	_	15	mark	_	_	중/nbn
+14	많은	많+ㄴ	ADJ	_	15	amod	_	_	많/paa+ㄴ/etm
+15	사람들이	사람+들+이	NOUN	_	19	nsubj	_	_	사람/ncn+들/xsn+이/jcs
+16	새로	새로	ADV	_	17	advmod	_	_	새로/mag
+17	설립된	설립+되+ㄴ	VERB	_	18	acl	_	_	설립/ncpa+되/xsv+ㄴ/etm
+18	한국정부에	한국정부+에	ADV	_	19	obl	_	_	한국정부/ncn+에/jca
+19	임용되었다	임용+되+었+다	VERB	_	0	root	_	_	임용/ncpa+되/xsv+었/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 독립후 정부관료의 수는 급속하게 증가하였다 .
+1	독립후	독립+후	NOUN	_	2	compound	_	_	독립/ncpa+후/ncn
+2	정부관료의	정부관료+의	NOUN	_	3	nmod	_	_	정부관료/ncn+의/jcm
+3	수는	수+는	NOUN	_	5	dislocated	_	_	수/nbn+는/jxt
+4	급속하게	급속하+게	SCONJ	_	5	xcomp	_	_	급속하/paa+게/ecs
+5	증가하였다	증가+하+었+다	VERB	_	0	root	_	_	증가/ncpa+하/xsv+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 남한에서 관료들은 아직 사회의 높은 존경을 받는 구성원들이다 .
+1	남한에서	남한+에서	ADV	_	8	advcl	_	_	남한/nq+에서/jca
+2	관료들은	관료+들+은	NOUN	_	8	dislocated	_	_	관료/ncn+들/xsn+은/jxt
+3	아직	아직	ADV	_	7	advmod	_	_	아직/mag
+4	사회의	사회+의	NOUN	_	6	nmod	_	_	사회/ncn+의/jcm
+5	높은	높+ㄴ	ADJ	_	6	amod	_	_	높/paa+ㄴ/etm
+6	존경을	존경+을	NOUN	_	7	obj	_	_	존경/ncpa+을/jco
+7	받는	받+는	VERB	_	8	ccomp	_	_	받/pvg+는/etm
+8	구성원들이다	구성원+들+이+다	VERB	_	0	root	_	_	구성원/ncn+들/xsn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그러나 한국에서 지도자가 되려고 하는 사람들에게 정부직이 매력이 있는 또 다른 이유들이 있다 .
+1	그러나	그러나	CCONJ	_	13	cc	_	_	그러나/maj
+2	한국에서	한국+에서	ADV	_	4	advcl	_	_	한국/nq+에서/jca
+3	지도자가	지도자+가	NOUN	_	4	csubj	_	_	지도자/ncn+가/jcc
+4	되려고	되+려고	SCONJ	_	5	ccomp	_	_	되/pvg+려고/ecs
+5	하는	하+는	VERB	_	6	acl	_	_	하/pvg+는/etm
+6	사람들에게	사람+들+에게	ADV	_	9	iobj	_	_	사람/ncn+들/xsn+에게/jca
+7	정부직이	정부직+이	NOUN	_	9	nsubj	_	_	정부직/ncpa+이/jcs
+8	매력이	매력+이	NOUN	_	9	nsubj	_	_	매력/ncn+이/jcs
+9	있는	있+는	ADJ	_	12	amod	_	_	있/paa+는/etm
+10	또	또	ADV	_	11	advmod	_	_	또/mag
+11	다른	다르+ㄴ	ADJ	_	12	amod	_	_	다르/paa+ㄴ/etm
+12	이유들이	이유+들+이	NOUN	_	13	nsubj	_	_	이유/ncn+들/xsn+이/jcs
+13	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 최근까지 정부는 최다 고용주이었을 뿐 아니라 또 그 고용자들에게 개인기업들이 주지 못하는 최고의 직업 안정을 보장했다 .
+1	최근까지	최근+까지	ADV	_	4	advcl	_	_	최근/ncn+까지/jxc
+2	정부는	정부+는	NOUN	_	4	dislocated	_	_	정부/ncn+는/jxt
+3	최다	최다	NOUN	_	4	compound	_	_	최다/ncn
+4	고용주이었을	고용주+이+었+ㄹ	VERB	_	5	acl	_	_	고용주/ncn+이/jp+었/ep+ㄹ/etm
+5	뿐	뿐	NOUN	_	6	mark	_	_	뿐/nbn
+6	아니라	아니+라	SCONJ	_	16	xcomp	_	_	아니/paa+라/ecs
+7	또	또	ADV	_	16	advmod	_	_	또/mag
+8	그	그	DET	_	9	det	_	_	그/mmd
+9	고용자들에게	고용자+들+에게	ADV	_	11	iobj	_	_	고용자/ncn+들/xsn+에게/jca
+10	개인기업들이	개인기업+들+이	NOUN	_	11	nsubj	_	_	개인기업/ncn+들/xsn+이/jcs
+11	주지	주+지	VERB	_	15	acl	_	_	주/pvg+지/ecx
+12	못하는	못하+는	AUX	_	11	aux	_	_	못하/px+는/etm
+13	최고의	최고+의	NOUN	_	15	nmod	_	_	최고/ncn+의/jcm
+14	직업	직업	NOUN	_	15	compound	_	_	직업/ncn
+15	안정을	안정+을	NOUN	_	16	obj	_	_	안정/ncpa+을/jco
+16	보장했다	보장+하+었+다	VERB	_	0	root	_	_	보장/ncpa+하/xsv+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 더구나 정부의 지원과 개입은 개인이나 집단의 어떠한 사회적 모험사업에도 필요하였다 .
+1	더구나	더구나	ADV	_	10	advmod	_	_	더구나/mag
+2	정부의	정부+의	NOUN	_	4	nmod	_	_	정부/ncn+의/jcm
+3	지원과	지원+과	CCONJ	_	4	conj	_	_	지원/ncpa+과/jcj
+4	개입은	개입+은	NOUN	_	10	dislocated	_	_	개입/ncpa+은/jxt
+5	개인이나	개인+이나	CCONJ	_	6	conj	_	_	개인/ncn+이나/jcj
+6	집단의	집단+의	NOUN	_	9	nmod	_	_	집단/ncn+의/jcm
+7	어떠한	어떠하+ㄴ	VERB	_	9	amod	_	_	어떠하/pad+ㄴ/etm
+8	사회적	사회+적	NOUN	_	9	amod	_	_	사회/ncn+적/xsn
+9	모험사업에도	모험+사업+에+도	ADV	_	10	advcl	_	_	모험/ncpa+사업/ncn+에/jca+도/jxc
+10	필요하였다	필요+하+었+다	VERB	_	0	root	_	_	필요/ncps+하/xsm+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이 같은 사실들은 정부관리들의 명망을 높이었다 .
+1	이	이	PRON	_	2	dep	_	_	이/npd
+2	같은	같+은	ADJ	_	3	amod	_	_	같/paa+은/etm
+3	사실들은	사실+들+은	NOUN	_	6	dislocated	_	_	사실/ncn+들/xsn+은/jxt
+4	정부관리들의	정부+관리+들+의	NOUN	_	5	nmod	_	_	정부/ncn+관리/ncn+들/xsn+의/jcm
+5	명망을	명망+을	NOUN	_	6	obj	_	_	명망/ncn+을/jco
+6	높이었다	높이+었+다	VERB	_	0	root	_	_	높이/pvg+었/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 지도자들의 정부직 경력을 조사해보면 정부 행정직 경력의 중요성을 알 수 있다 .
+1	지도자들의	지도자+들+의	NOUN	_	3	nmod	_	_	지도자/ncn+들/xsn+의/jcm
+2	정부직	정부직	NOUN	_	3	compound	_	_	정부직/ncn
+3	경력을	경력+을	NOUN	_	4	obj	_	_	경력/ncpa+을/jco
+4	조사해보면	조사+하+어+보+면	SCONJ	_	9	ccomp	_	_	조사/ncpa+하/xsv+어/ecx+보/px+면/ecs
+5	정부	정부	NOUN	_	6	compound	_	_	정부/ncn
+6	행정직	행정직	NOUN	_	7	compound	_	_	행정직/ncn
+7	경력의	경력+의	NOUN	_	8	nmod	_	_	경력/ncpa+의/jcm
+8	중요성을	중요성+을	NOUN	_	9	obj	_	_	중요성/ncn+을/jco
+9	알	알+ㄹ	VERB	_	0	root	_	_	알/pvg+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있다	있+다	ADJ	_	9	aux	_	_	있/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 제 1 공화국과 제 2 공화국 국회의원들 중의 4 분의 1 이상이 당선전 행정직 경력을 가지고 있었다 .
+1	제	제	NOUN	_	2	compound	_	_	제/ncn
+2	1	1	NUM	_	3	nummod	_	_	1/nnc
+3	공화국과	공화국+과	CCONJ	_	6	conj	_	_	공화국/ncn+과/jcj
+4	제	제	NOUN	_	5	compound	_	_	제/ncn
+5	2	2	NUM	_	6	nummod	_	_	2/nnc
+6	공화국	공화국	NOUN	_	7	compound	_	_	공화국/ncn
+7	국회의원들	국회의원+들	NOUN	_	8	compound	_	_	국회의원/ncn+들/xsn
+8	중의	중+의	NOUN	_	12	nmod	_	_	중/nbn+의/jcm
+9	4	4	NUM	_	10	nummod	_	_	4/nnc
+10	분의	분+의	NOUN	_	12	nmod	_	_	분/nbn+의/jcm
+11	1	1	NUM	_	12	nummod	_	_	1/nnc
+12	이상이	이상+이	NOUN	_	16	nsubj	_	_	이상/ncn+이/jcs
+13	당선전	당+선전	NOUN	_	14	compound	_	_	당/ncn+선전/ncpa
+14	행정직	행정직	NOUN	_	15	compound	_	_	행정직/ncn
+15	경력을	경력+을	NOUN	_	16	obj	_	_	경력/ncpa+을/jco
+16	가지고	가지+고	VERB	_	0	root	_	_	가지/pvg+고/ecx
+17	있었다	있+었+다	AUX	_	16	aux	_	_	있/px+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 1961 년 5 월 이후 많은 수의 퇴직한 군장교들이 정부직을 취하였고 국가의 사회경제발전을 위한 지도력을 발휘하였다 .
+1	1961	1961	NUM	_	2	nummod	_	_	1961/nnc
+2	년	년	NOUN	_	4	compound	_	_	년/nbu
+3	5	5	NUM	_	4	nummod	_	_	5/nnc
+4	월	월	NOUN	_	5	compound	_	_	월/nbu
+5	이후	이후	NOUN	_	16	advmod	_	_	이후/ncn
+6	많은	많+ㄴ	ADJ	_	7	amod	_	_	많/paa+ㄴ/etm
+7	수의	수+의	NOUN	_	9	nmod	_	_	수/nbn+의/jcm
+8	퇴직한	퇴직+하+ㄴ	VERB	_	9	acl	_	_	퇴직/ncpa+하/xsv+ㄴ/etm
+9	군장교들이	군장교+들+이	NOUN	_	11	nsubj	_	_	군장교/ncn+들/xsn+이/jcs
+10	정부직을	정부직+을	NOUN	_	11	obj	_	_	정부직/ncn+을/jco
+11	취하였고	취하+었+고	CCONJ	_	16	conj	_	_	취하/pvg+었/ep+고/ecc
+12	국가의	국가+의	NOUN	_	13	nmod	_	_	국가/ncn+의/jcm
+13	사회경제발전을	사회경제발전+을	NOUN	_	14	obj	_	_	사회경제발전/ncpa+을/jco
+14	위한	위하+ㄴ	VERB	_	15	acl	_	_	위하/pvg+ㄴ/etm
+15	지도력을	지도력+을	NOUN	_	16	obj	_	_	지도력/ncn+을/jco
+16	발휘하였다	발휘+하+었+다	VERB	_	0	root	_	_	발휘/ncpa+하/xsv+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 군사쿠데타는 계급혁명은 아니었다 .
+1	군사쿠데타는	군사쿠데타+는	NOUN	_	3	dislocated	_	_	군사쿠데타/ncn+는/jxt
+2	계급혁명은	계급+혁명+은	NOUN	_	3	dislocated	_	_	계급/ncn+혁명/ncpa+은/jxt
+3	아니었다	아니+었+다	ADJ	_	0	root	_	_	아니/paa+었/ep+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 군지도자들의 대다수가 소지주나 노동자의 후손들이었다 .
+1	군지도자들의	군지도자+들+의	NOUN	_	2	nmod	_	_	군지도자/ncn+들/xsn+의/jcm
+2	대다수가	대다수+가	NOUN	_	5	nsubj	_	_	대다수/ncn+가/jcs
+3	소지주나	소지주+나	CCONJ	_	4	conj	_	_	소지주/ncn+나/jcj
+4	노동자의	노동자+의	NOUN	_	5	nmod	_	_	노동자/ncn+의/jcm
+5	후손들이었다	후손+들+이+었+다	VERB	_	0	root	_	_	후손/ncn+들/xsn+이/jp+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그러나 그 당시 국내에 좌익세력으로부터의 심각한 위협은 없었다 .
+1	그러나	그러나	CCONJ	_	8	cc	_	_	그러나/maj
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	당시	당시	NOUN	_	4	compound	_	_	당시/ncn
+4	국내에	국내+에	ADV	_	8	obl	_	_	국내/ncn+에/jca
+5	좌익세력으로부터의	좌익+세력+으로+부터+의	NOUN	_	7	nmod	_	_	좌익/ncn+세력/ncn+으로/jca+부터/jxc+의/jcm
+6	심각한	심각하+ㄴ	ADJ	_	7	amod	_	_	심각하/paa+ㄴ/etm
+7	위협은	위협+은	NOUN	_	8	dislocated	_	_	위협/ncpa+은/jxt
+8	없었다	없+었+다	ADJ	_	0	root	_	_	없/paa+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그리고 군사정권은 정치적 정당성을 얻기 위해 곧 사회개혁과 경제발전 사업에 착수하였다 .
+1	그리고	그리고	CCONJ	_	11	cc	_	_	그리고/maj
+2	군사정권은	군사정권+은	NOUN	_	11	dislocated	_	_	군사정권/ncn+은/jxt
+3	정치적	정치+적	NOUN	_	4	amod	_	_	정치/ncpa+적/xsn
+4	정당성을	정당성+을	NOUN	_	5	obj	_	_	정당성/ncn+을/jco
+5	얻기	얻+기	VERB	_	6	nmod	_	_	얻/pvg+기/etn
+6	위해	위하+어	SCONJ	_	11	ccomp	_	_	위하/pvg+어/ecs
+7	곧	곧	ADV	_	11	advmod	_	_	곧/mag
+8	사회개혁과	사회개혁+과	CCONJ	_	9	conj	_	_	사회개혁/ncpa+과/jcj
+9	경제발전	경제발전	NOUN	_	10	compound	_	_	경제발전/ncn
+10	사업에	사업+에	ADV	_	11	obl	_	_	사업/ncn+에/jca
+11	착수하였다	착수+하+었+다	VERB	_	0	root	_	_	착수/ncpa+하/xsv+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이러한 사업들은 정부의 성취를 과시하기는 하였지만 기본적인 사회구조를 변화시키지 못했다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	사업들은	사업+들+은	NOUN	_	6	dislocated	_	_	사업/ncn+들/xsn+은/jxt
+3	정부의	정부+의	NOUN	_	4	nmod	_	_	정부/ncn+의/jcm
+4	성취를	성취+를	NOUN	_	5	obj	_	_	성취/ncpa+를/jco
+5	과시하기는	과시+하+기+는	NOUN	_	6	dislocated	_	_	과시/ncpa+하/xsv+기/etn+는/jxt
+6	하였지만	하+었+지만	SCONJ	_	9	ccomp	_	_	하/pvg+었/ep+지만/ecs
+7	기본적인	기본+적+이+ㄴ	VERB	_	8	acl	_	_	기본/ncn+적/xsn+이/jp+ㄴ/etm
+8	사회구조를	사회구조+를	NOUN	_	9	obj	_	_	사회구조/ncn+를/jco
+9	변화시키지	변화+시키+지	VERB	_	0	root	_	_	변화/ncpa+시키/xsv+지/ecx
+10	못했다	못하+었+다	AUX	_	9	aux	_	_	못하/px+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 통신시설과 도심지 개발 등 사회하부구조의 확장은 풍경을 바꾸기는 하였지만 사람들의 사회적 가치관에 즉각적인 변화를 주지는 못하였다 .
+1	통신시설과	통신+시설+과	CCONJ	_	3	conj	_	_	통신/ncpa+시설/ncpa+과/jcj
+2	도심지	도심지	NOUN	_	3	compound	_	_	도심지/ncn
+3	개발	개발	NOUN	_	4	compound	_	_	개발/ncn
+4	등	등	NOUN	_	5	mark	_	_	등/nbn
+5	사회하부구조의	사회+하부구조+의	NOUN	_	6	nmod	_	_	사회/ncn+하부구조/ncn+의/jcm
+6	확장은	확장+은	NOUN	_	15	dislocated	_	_	확장/ncpa+은/jxt
+7	풍경을	풍경+을	NOUN	_	8	obj	_	_	풍경/ncn+을/jco
+8	바꾸기는	바꾸+기+는	NOUN	_	9	dislocated	_	_	바꾸/pvg+기/etn+는/jxt
+9	하였지만	하+었+지만	SCONJ	_	15	ccomp	_	_	하/pvg+었/ep+지만/ecs
+10	사람들의	사람+들+의	NOUN	_	12	nmod	_	_	사람/ncn+들/xsn+의/jcm
+11	사회적	사회+적	NOUN	_	12	amod	_	_	사회/ncn+적/xsn
+12	가치관에	가치관+에	ADV	_	15	obl	_	_	가치관/ncn+에/jca
+13	즉각적인	즉각+적+이+ㄴ	VERB	_	14	acl	_	_	즉각/ncn+적/xsn+이/jp+ㄴ/etm
+14	변화를	변화+를	NOUN	_	15	obj	_	_	변화/ncpa+를/jco
+15	주지는	주+지+는	NOUN	_	0	root	_	_	주/pvg+지/ecx+는/jxt
+16	못하였다	못하+었+다	AUX	_	15	aux	_	_	못하/px+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그러나 점점 많은 사람들이 동원되고 또 근대적 가치관을 포용하게되면 현 지도체제는 새로운 사회문제들을 맞게 될 것으로 본다 .
+1	그러나	그러나	CCONJ	_	17	cc	_	_	그러나/maj
+2	점점	점점	ADV	_	3	advmod	_	_	점점/mag
+3	많은	많+ㄴ	ADJ	_	4	amod	_	_	많/paa+ㄴ/etm
+4	사람들이	사람+들+이	NOUN	_	5	nsubj	_	_	사람/ncn+들/xsn+이/jcs
+5	동원되고	동원+되+고	CCONJ	_	9	conj	_	_	동원/ncpa+되/xsv+고/ecc
+6	또	또	ADV	_	9	advmod	_	_	또/mag
+7	근대적	근대+적	NOUN	_	8	amod	_	_	근대/ncn+적/xsn
+8	가치관을	가치관+을	NOUN	_	9	obj	_	_	가치관/ncn+을/jco
+9	포용하게되면	포용+하+게+되+면	SCONJ	_	14	ccomp	_	_	포용/ncpa+하/xsv+게/ecx+되/px+면/ecs
+10	현	현	ADJ	_	11	amod	_	_	현/mma
+11	지도체제는	지도+체제+는	NOUN	_	14	dislocated	_	_	지도/ncpa+체제/ncn+는/jxt
+12	새로운	새롭+ㄴ	ADJ	_	13	amod	_	_	새롭/paa+ㄴ/etm
+13	사회문제들을	사회문제+들+을	NOUN	_	14	obj	_	_	사회문제/ncn+들/xsn+을/jco
+14	맞게	맞+게	VERB	_	16	acl	_	_	맞/pvg+게/ecx
+15	될	되+ㄹ	AUX	_	14	aux	_	_	되/px+ㄹ/etm
+16	것으로	것+으로	ADV	_	17	advcl	_	_	것/nbn+으로/jca
+17	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 위에서 진술되었듯이 성숙한 발전단계에 들어가면 정부의 사회복지 지급이 증가하고 통신이 크게 발달하여 인구 증가율은 감소한다 .
+1	위에서	위+에서	ADV	_	2	advcl	_	_	위/ncn+에서/jca
+2	진술되었듯이	진술+되+었+듯이	SCONJ	_	15	ccomp	_	_	진술/ncpa+되/xsv+었/ep+듯이/ecs
+3	성숙한	성숙+하+ㄴ	VERB	_	4	acl	_	_	성숙/ncpa+하/xsv+ㄴ/etm
+4	발전단계에	발전단계+에	ADV	_	5	obl	_	_	발전단계/ncn+에/jca
+5	들어가면	들+어+가+면	SCONJ	_	12	ccomp	_	_	들/pvg+어/ecx+가/px+면/ecs
+6	정부의	정부+의	NOUN	_	8	nmod	_	_	정부/ncn+의/jcm
+7	사회복지	사회복지	NOUN	_	8	compound	_	_	사회복지/ncn
+8	지급이	지급+이	NOUN	_	9	nsubj	_	_	지급/ncpa+이/jcs
+9	증가하고	증가+하+고	CCONJ	_	12	conj	_	_	증가/ncpa+하/xsv+고/ecc
+10	통신이	통신+이	NOUN	_	12	nsubj	_	_	통신/ncpa+이/jcs
+11	크게	크+게	SCONJ	_	12	xcomp	_	_	크/paa+게/ecs
+12	발달하여	발달+하+어	SCONJ	_	15	ccomp	_	_	발달/ncpa+하/xsv+어/ecs
+13	인구	인구	NOUN	_	14	compound	_	_	인구/ncn
+14	증가율은	증가율+은	NOUN	_	15	dislocated	_	_	증가율/ncn+은/jxt
+15	감소한다	감소+하+ㄴ다	VERB	_	0	root	_	_	감소/ncpa+하/xsv+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 다중회기분석 결과들은 보편적으로 이와 같은 기대된 경향들을 보여주고 있다 .
+1	다중회기분석	다중+회기+분석	NOUN	_	2	compound	_	_	다중/ncn+회기/ncn+분석/ncpa
+2	결과들은	결과+들+은	NOUN	_	8	dislocated	_	_	결과/ncpa+들/xsn+은/jxt
+3	보편적으로	보편+적+으로	ADV	_	8	advcl	_	_	보편/ncn+적/xsn+으로/jca
+4	이와	이+와	CCONJ	_	5	conj	_	_	이/npd+와/jct
+5	같은	같+ㄴ	ADJ	_	7	amod	_	_	같/paa+ㄴ/etm
+6	기대된	기대+되+ㄴ	VERB	_	7	acl	_	_	기대/ncpa+되/xsv+ㄴ/etm
+7	경향들을	경향+들+을	NOUN	_	8	obj	_	_	경향/ncn+들/xsn+을/jco
+8	보여주고	보이+어+주+고	AUX	_	0	root	_	_	보이/pvg+어/ecx+주/px+고/ecx
+9	있다	있+다	AUX	_	8	aux	_	_	있/px+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 유교적 전통에서 학자적 직업은 높은 존경을 받았다 .
+1	유교적	유교+적	NOUN	_	2	amod	_	_	유교/ncn+적/xsn
+2	전통에서	전통+에서	ADV	_	7	advcl	_	_	전통/ncn+에서/jca
+3	학자적	학자+적	NOUN	_	4	amod	_	_	학자/ncn+적/xsn
+4	직업은	직업+은	NOUN	_	7	dislocated	_	_	직업/ncn+은/jxt
+5	높은	높+ㄴ	ADJ	_	6	amod	_	_	높/paa+ㄴ/etm
+6	존경을	존경+을	NOUN	_	7	obj	_	_	존경/ncpa+을/jco
+7	받았다	받+았+다	VERB	_	0	root	_	_	받/pvg+았/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 특히 군사정부와 제 3 공화국 정부 시기에는 많은 수의 대학교수들이 자문과 조언을 위하여 초빙되었으며 또 각료직에 임용되었다 .
+1	특히	특히	ADV	_	14	advmod	_	_	특히/mag
+2	군사정부와	군사+정부+와	CCONJ	_	6	conj	_	_	군사/ncn+정부/ncn+와/jcj
+3	제	제	NOUN	_	4	compound	_	_	제/ncn
+4	3	3	NUM	_	5	nummod	_	_	3/nnc
+5	공화국	공화국	NOUN	_	6	compound	_	_	공화국/ncn
+6	정부	정부	NOUN	_	7	compound	_	_	정부/ncn
+7	시기에는	시기+에+는	NOUN	_	14	dislocated	_	_	시기/ncn+에/jca+는/jxt
+8	많은	많+ㄴ	ADJ	_	9	amod	_	_	많/paa+ㄴ/etm
+9	수의	수+의	NOUN	_	10	nmod	_	_	수/nbn+의/jcm
+10	대학교수들이	대학교수+들+이	NOUN	_	14	nsubj	_	_	대학교수/ncn+들/xsn+이/jcs
+11	자문과	자문+과	CCONJ	_	12	conj	_	_	자문/ncpa+과/jcj
+12	조언을	조언+을	NOUN	_	13	obj	_	_	조언/ncpa+을/jco
+13	위하여	위하+어	SCONJ	_	14	ccomp	_	_	위하/pvg+어/ecs
+14	초빙되었으며	초빙+되+었+으며	CCONJ	_	17	conj	_	_	초빙/ncpa+되/xsv+었/ep+으며/ecc
+15	또	또	ADV	_	17	advmod	_	_	또/mag
+16	각료직에	각료직+에	ADV	_	17	obl	_	_	각료직/ncn+에/jca
+17	임용되었다	임용+되+었+다	VERB	_	0	root	_	_	임용/ncpa+되/xsv+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 많은 은행가들과 회계사들이 일본식민 정부와 독립후 한국정부의 금융기관들에 의해 양성되었다 .
+1	많은	많+ㄴ	ADJ	_	3	amod	_	_	많/paa+ㄴ/etm
+2	은행가들과	은행가+들+과	CCONJ	_	3	conj	_	_	은행가/ncn+들/xsn+과/jcj
+3	회계사들이	회계사+들+이	NOUN	_	10	nsubj	_	_	회계사/ncn+들/xsn+이/jcs
+4	일본식민	일본+식민	NOUN	_	5	compound	_	_	일본/nq+식민/ncn
+5	정부와	정부+와	CCONJ	_	7	conj	_	_	정부/ncn+와/jct
+6	독립후	독립+후	NOUN	_	7	compound	_	_	독립/ncpa+후/ncn
+7	한국정부의	한국정부+의	NOUN	_	8	nmod	_	_	한국정부/ncn+의/jcm
+8	금융기관들에	금융기관+들+에	ADV	_	9	obl	_	_	금융기관/ncn+들/xsn+에/jca
+9	의해	의하+어	SCONJ	_	10	ccomp	_	_	의하/pvg+어/ecs
+10	양성되었다	양성+되+었+다	VERB	_	0	root	_	_	양성/ncpa+되/xsv+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그리고 서기들 중 많은 사람들은 정부 행정조직의 하위 고용인들이었다 .
+1	그리고	그리고	CCONJ	_	9	cc	_	_	그리고/maj
+2	서기들	서기+들	NOUN	_	3	compound	_	_	서기/ncn+들/xsn
+3	중	중	NOUN	_	5	mark	_	_	중/nbn
+4	많은	많+ㄴ	ADJ	_	5	amod	_	_	많/paa+ㄴ/etm
+5	사람들은	사람+들+은	NOUN	_	9	dislocated	_	_	사람/ncn+들/xsn+은/jxt
+6	정부	정부	NOUN	_	7	compound	_	_	정부/ncn
+7	행정조직의	행정조직+의	NOUN	_	9	nmod	_	_	행정조직/ncn+의/jcm
+8	하위	하위	NOUN	_	9	compound	_	_	하위/ncn
+9	고용인들이었다	고용인+들+이+었+다	VERB	_	0	root	_	_	고용인/ncn+들/xsn+이/jp+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이 직업인들은 한국에서 관리와 변호사 다음 가는 사회적 명망이 주어지고 있다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	직업인들은	직업인+들+은	NOUN	_	10	dislocated	_	_	직업인/ncn+들/xsn+은/jxt
+3	한국에서	한국+에서	ADV	_	10	advcl	_	_	한국/nq+에서/jca
+4	관리와	관리+와	CCONJ	_	5	conj	_	_	관리/ncn+와/jcj
+5	변호사	변호사	NOUN	_	6	compound	_	_	변호사/ncn
+6	다음	다음	NOUN	_	7	dep	_	_	다음/ncn
+7	가는	가+는	VERB	_	9	acl	_	_	가/pvg+는/etm
+8	사회적	사회+적	NOUN	_	9	amod	_	_	사회/ncn+적/xsn
+9	명망이	명망+이	NOUN	_	10	nsubj	_	_	명망/ncn+이/jcs
+10	주어지고	주+어+지+고	AUX	_	0	root	_	_	주/pvg+어/ecx+지/px+고/ecx
+11	있다	있+다	AUX	_	10	aux	_	_	있/px+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 사회에 산업화 과정이 합리화되고 또 기술이 분화됨에 따라 더 많은 지도자들이 상업과 공업 분야에서 등용될 것으로 기대된다 .
+1	사회에	사회+에	ADV	_	4	obl	_	_	사회/ncn+에/jca
+2	산업화	산업화	NOUN	_	3	compound	_	_	산업화/ncn
+3	과정이	과정+이	NOUN	_	4	nsubj	_	_	과정/ncpa+이/jcs
+4	합리화되고	합리화+되+고	CCONJ	_	7	conj	_	_	합리화/ncpa+되/xsv+고/ecc
+5	또	또	ADV	_	7	advmod	_	_	또/mag
+6	기술이	기술+이	NOUN	_	7	nsubj	_	_	기술/ncn+이/jcs
+7	분화됨에	분화+되+ㅁ+에	ADV	_	8	obl	_	_	분화/ncpa+되/xsv+ㅁ/etn+에/jca
+8	따라	따르+아	SCONJ	_	15	ccomp	_	_	따르/pvg+아/ecs
+9	더	더	ADV	_	10	advmod	_	_	더/mag
+10	많은	많+ㄴ	ADJ	_	11	amod	_	_	많/paa+ㄴ/etm
+11	지도자들이	지도자+들+이	NOUN	_	15	nsubj	_	_	지도자/ncn+들/xsn+이/jcs
+12	상업과	상업+과	CCONJ	_	13	conj	_	_	상업/ncpa+과/jcj
+13	공업	공업	NOUN	_	14	compound	_	_	공업/ncn
+14	분야에서	분야+에서	ADV	_	15	advcl	_	_	분야/ncn+에서/jca
+15	등용될	등용+되+ㄹ	VERB	_	16	acl	_	_	등용/ncpa+되/xsv+ㄹ/etm
+16	것으로	것+으로	ADV	_	17	advcl	_	_	것/nbn+으로/jca
+17	기대된다	기대+되+ㄴ다	VERB	_	0	root	_	_	기대/ncpa+되/xsv+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이들이야말로 합리적 과정을 습득하고 그것을 정치와 경제 전반에 적용할 수 있는 능력을 가지고 있다 .
+1	이들이야말로	이+들+이야말로	ADV	_	13	advcl	_	_	이/npd+들/xsn+이야말로/jxc
+2	합리적	합리+적	NOUN	_	3	amod	_	_	합리/ncn+적/xsn
+3	과정을	과정+을	NOUN	_	4	obj	_	_	과정/ncpa+을/jco
+4	습득하고	습득+하+고	CCONJ	_	9	conj	_	_	습득/ncpa+하/xsv+고/ecc
+5	그것을	그것+을	PRON	_	9	obj	_	_	그것/npd+을/jco
+6	정치와	정치+와	CCONJ	_	7	conj	_	_	정치/ncpa+와/jcj
+7	경제	경제	NOUN	_	8	compound	_	_	경제/ncn
+8	전반에	전반+에	ADV	_	9	obl	_	_	전반/ncn+에/jca
+9	적용할	적용+하+ㄹ	VERB	_	12	acl	_	_	적용/ncpa+하/xsv+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있는	있+는	ADJ	_	9	aux	_	_	있/paa+는/etm
+12	능력을	능력+을	NOUN	_	13	obj	_	_	능력/ncn+을/jco
+13	가지고	가지+고	VERB	_	0	root	_	_	가지/pvg+고/ecx
+14	있다	있+다	AUX	_	13	aux	_	_	있/px+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 본 연구자료에 의하면 1 인당 총국가생산은 이와 같은 영향을 예고하는 강한 척도이다 .
+1	본	본	DET	_	2	det	_	_	본/mmd
+2	연구자료에	연구자료+에	ADV	_	3	obl	_	_	연구자료/ncn+에/jca
+3	의하면	의하+면	SCONJ	_	12	ccomp	_	_	의하/pvg+면/ecs
+4	1	1	NUM	_	5	nummod	_	_	1/nnc
+5	인당	인+당	NOUN	_	6	advmod	_	_	인/ncn+당/xsn
+6	총국가생산은	총국가생산+은	NOUN	_	12	dislocated	_	_	총국가생산/ncn+은/jxt
+7	이와	이+와	CCONJ	_	8	conj	_	_	이/npd+와/jct
+8	같은	같+ㄴ	ADJ	_	9	amod	_	_	같/paa+ㄴ/etm
+9	영향을	영향+을	NOUN	_	10	obj	_	_	영향/ncn+을/jco
+10	예고하는	예고+하+는	VERB	_	12	ccomp	_	_	예고/ncpa+하/xsv+는/etm
+11	강한	강하+ㄴ	ADJ	_	12	amod	_	_	강하/paa+ㄴ/etm
+12	척도이다	척도+이+다	VERB	_	0	root	_	_	척도/ncn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 경제가 더욱 발전함에 따라 더 많은 수의 상고직 배경 지도자들이 국가직에 등용될 수도 있다 .
+1	경제가	경제+가	NOUN	_	3	nsubj	_	_	경제/ncn+가/jcs
+2	더욱	더욱	ADV	_	3	advmod	_	_	더욱/mag
+3	발전함에	발전+하+ㅁ+에	ADV	_	4	obl	_	_	발전/ncpa+하/xsv+ㅁ/etn+에/jca
+4	따라	따르+아	SCONJ	_	12	ccomp	_	_	따르/pvg+아/ecs
+5	더	더	ADV	_	6	advmod	_	_	더/mag
+6	많은	많+ㄴ	ADJ	_	7	amod	_	_	많/paa+ㄴ/etm
+7	수의	수+의	NOUN	_	10	nmod	_	_	수/nbn+의/jcm
+8	상고직	상고직	NOUN	_	9	compound	_	_	상고직/ncn
+9	배경	배경	NOUN	_	10	compound	_	_	배경/ncn
+10	지도자들이	지도자+들+이	NOUN	_	12	nsubj	_	_	지도자/ncn+들/xsn+이/jcs
+11	국가직에	국가직+에	ADV	_	12	obl	_	_	국가직/ncn+에/jca
+12	등용될	등용+되+ㄹ	VERB	_	0	root	_	_	등용/ncpa+되/xsv+ㄹ/etm
+13	수도	수+도	ADV	_	14	fixed	_	_	수/nbn+도/jxc
+14	있다	있+다	ADJ	_	12	aux	_	_	있/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이러한 현상은 농업에 종사하는 인구와 산업에 종사하는 인구 비율에서 찾아 볼 수 있다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	현상은	현상+은	NOUN	_	10	dislocated	_	_	현상/ncn+은/jxt
+3	농업에	농업+에	ADV	_	4	obl	_	_	농업/ncn+에/jca
+4	종사하는	종사+하+는	VERB	_	5	acl	_	_	종사/ncpa+하/xsv+는/etm
+5	인구와	인구+와	CCONJ	_	8	conj	_	_	인구/ncn+와/jcj
+6	산업에	산업+에	ADV	_	7	obl	_	_	산업/ncn+에/jca
+7	종사하는	종사+하+는	VERB	_	8	acl	_	_	종사/ncpa+하/xsv+는/etm
+8	인구	인구	NOUN	_	9	compound	_	_	인구/ncn
+9	비율에서	비율+에서	ADV	_	10	advcl	_	_	비율/ncn+에서/jca
+10	찾아	찾+아	VERB	_	0	root	_	_	찾/pvg+아/ecx
+11	볼	보+ㄹ	AUX	_	10	aux	_	_	보/px+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있다	있+다	ADJ	_	10	aux	_	_	있/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이 양 비율들은 지도자들 중 노무직 배경 지도자들 비율을 결정하는 강한 효과를 보여주고 있다 .
+1	이	이	PRON	_	3	compound	_	_	이/npd
+2	양	양	NOUN	_	3	compound	_	_	양/ncn
+3	비율들은	비율+들+은	NOUN	_	13	dislocated	_	_	비율/ncn+들/xsn+은/jxt
+4	지도자들	지도자+들	NOUN	_	5	compound	_	_	지도자/ncn+들/xsn
+5	중	중	NOUN	_	9	compound	_	_	중/ncn
+6	노무직	노무직	NOUN	_	7	compound	_	_	노무직/ncn
+7	배경	배경	NOUN	_	8	compound	_	_	배경/ncn
+8	지도자들	지도자+들	NOUN	_	9	compound	_	_	지도자/ncn+들/xsn
+9	비율을	비율+을	NOUN	_	10	obj	_	_	비율/ncn+을/jco
+10	결정하는	결정+하+는	VERB	_	12	acl	_	_	결정/ncpa+하/xsv+는/etm
+11	강한	강하+ㄴ	ADJ	_	12	amod	_	_	강하/paa+ㄴ/etm
+12	효과를	효과+를	NOUN	_	13	obj	_	_	효과/ncn+를/jco
+13	보여주고	보이+어+주+고	AUX	_	0	root	_	_	보이/pvg+어/ecx+주/px+고/ecx
+14	있다	있+다	AUX	_	13	aux	_	_	있/px+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이 역의 효과들은 연구기간중 경제변화가 노무직 배경 지도자들 비율에 가졌던 효과가 적었음을 의미한다 .
+1	이	이	PRON	_	3	compound	_	_	이/npd
+2	역의	역+의	NOUN	_	3	nmod	_	_	역/ncn+의/jcm
+3	효과들은	효과+들+은	NOUN	_	13	dislocated	_	_	효과/ncn+들/xsn+은/jxt
+4	연구기간중	연구+기간+중	NOUN	_	5	advmod	_	_	연구/ncpa+기간/ncn+중/xsn
+5	경제변화가	경제+변화+가	NOUN	_	10	nsubj	_	_	경제/ncn+변화/ncpa+가/jcs
+6	노무직	노무직	NOUN	_	7	compound	_	_	노무직/ncn
+7	배경	배경	NOUN	_	8	compound	_	_	배경/ncn
+8	지도자들	지도자+들	NOUN	_	9	compound	_	_	지도자/ncn+들/xsn
+9	비율에	비율+에	ADV	_	10	obl	_	_	비율/ncn+에/jca
+10	가졌던	가지+었+던	VERB	_	11	acl	_	_	가지/pvg+었/ep+던/etm
+11	효과가	효과+가	NOUN	_	12	nsubj	_	_	효과/ncn+가/jcs
+12	적었음을	적+었+ㅁ+을	NOUN	_	13	obj	_	_	적/paa+었/ep+ㅁ/etn+을/jco
+13	의미한다	의미+하+ㄴ다	VERB	_	0	root	_	_	의미/ncpa+하/xsv+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 더구나 연구기간에 걸쳐 달성한 사회경제적 발전의 결과로는 내각과 국회에 노무직 집단을 대의하는 지도자의 수가 많기를 기대하기는 좀 이른 것 같다 .
+1	더구나	더구나	ADV	_	16	advmod	_	_	더구나/mag
+2	연구기간에	연구+기간+에	ADV	_	3	obl	_	_	연구/ncpa+기간/ncn+에/jca
+3	걸쳐	걸치+어	SCONJ	_	4	ccomp	_	_	걸치/pvg+어/ecs
+4	달성한	달성+하+ㄴ	VERB	_	7	acl	_	_	달성/ncpa+하/xsv+ㄴ/etm
+5	사회경제적	사회경제+적	NOUN	_	6	amod	_	_	사회경제/ncn+적/xsn
+6	발전의	발전+의	NOUN	_	7	nmod	_	_	발전/ncpa+의/jcm
+7	결과로는	결과+로+는	NOUN	_	16	dislocated	_	_	결과/ncpa+로/jca+는/jxt
+8	내각과	내각+과	CCONJ	_	9	conj	_	_	내각/ncn+과/jcj
+9	국회에	국회+에	ADV	_	15	obl	_	_	국회/ncn+에/jca
+10	노무직	노무직	NOUN	_	11	compound	_	_	노무직/ncn
+11	집단을	집단+을	NOUN	_	12	obj	_	_	집단/ncn+을/jco
+12	대의하는	대의하+는	VERB	_	13	acl	_	_	대의하/pvg+는/etm
+13	지도자의	지도자+의	NOUN	_	14	nmod	_	_	지도자/ncn+의/jcm
+14	수가	수+가	NOUN	_	15	nsubj	_	_	수/nbn+가/jcs
+15	많기를	많+기+를	NOUN	_	16	obj	_	_	많/paa+기/etn+를/jco
+16	기대하기는	기대+하+기+는	NOUN	_	18	dislocated	_	_	기대/ncpa+하/xsv+기/etn+는/jxt
+17	좀	좀	ADV	_	18	advmod	_	_	좀/mag
+18	이른	이르+ㄴ	ADJ	_	0	root	_	_	이르/paa+ㄴ/etm
+19	것	것	NOUN	_	20	fixed	_	_	것/nbn
+20	같다	같+다	ADJ	_	18	aux	_	_	같/paa+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그 예로서 미국의 정치학 독본 저자들은 상원의원들과 하원의원들의 평균연령은 50이며 전체인구의 평균연령은 20 대인 것을 지적하고 있다 .
+1	그	그	PRON	_	2	compound	_	_	그/npp
+2	예로서	예+로서	ADV	_	16	advcl	_	_	예/ncn+로서/jca
+3	미국의	미국+의	PROPN	_	6	nmod	_	_	미국/nq+의/jcm
+4	정치학	정치학	NOUN	_	5	compound	_	_	정치학/ncn
+5	독본	독본	NOUN	_	6	compound	_	_	독본/ncn
+6	저자들은	저자+들+은	NOUN	_	16	dislocated	_	_	저자/ncn+들/xsn+은/jxt
+7	상원의원들과	상원의원+들+과	CCONJ	_	8	conj	_	_	상원의원/ncn+들/xsn+과/jcj
+8	하원의원들의	하원의원+들+의	NOUN	_	9	nmod	_	_	하원의원/ncn+들/xsn+의/jcm
+9	평균연령은	평균+연령+은	NOUN	_	10	dislocated	_	_	평균/ncpa+연령/ncn+은/jxt
+10	50이며	50+이+며	CCONJ	_	14	conj	_	_	50/nnc+이/jp+며/ecc
+11	전체인구의	전체인구+의	NOUN	_	12	nmod	_	_	전체인구/ncn+의/jcm
+12	평균연령은	평균+연령+은	NOUN	_	14	dislocated	_	_	평균/ncpa+연령/ncn+은/jxt
+13	20	20	NUM	_	14	nummod	_	_	20/nnc
+14	대인	대+이+ㄴ	VERB	_	15	acl	_	_	대/nbu+이/jp+ㄴ/etm
+15	것을	것+을	NOUN	_	16	obj	_	_	것/nbn+을/jco
+16	지적하고	지적+하+고	VERB	_	0	root	_	_	지적/ncpa+하/xsv+고/ecx
+17	있다	있+다	AUX	_	16	aux	_	_	있/px+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 먼저 식민통치가 끝나고 국가독립을 이룩한 초기단계에 있어 모든 연령층 사람들이 지도자 역할을 취할 기회가 주어졌다고 보자 .
+1	먼저	먼저	ADV	_	16	advmod	_	_	먼저/mag
+2	식민통치가	식민통치+가	NOUN	_	3	nsubj	_	_	식민통치/ncpa+가/jcs
+3	끝나고	끝나+고	CCONJ	_	5	conj	_	_	끝나/pvg+고/ecc
+4	국가독립을	국가+독립+을	NOUN	_	5	obj	_	_	국가/ncn+독립/ncpa+을/jco
+5	이룩한	이룩하+ㄴ	VERB	_	6	acl	_	_	이룩하/pvg+ㄴ/etm
+6	초기단계에	초기단계+에	ADV	_	7	obl	_	_	초기단계/ncn+에/jca
+7	있어	있+어	SCONJ	_	15	xcomp	_	_	있/paa+어/ecs
+8	모든	모든	DET	_	10	det	_	_	모든/mmd
+9	연령층	연령층	NOUN	_	10	compound	_	_	연령층/ncn
+10	사람들이	사람+들+이	NOUN	_	13	nsubj	_	_	사람/ncn+들/xsn+이/jcs
+11	지도자	지도자	NOUN	_	12	compound	_	_	지도자/ncn
+12	역할을	역할+을	NOUN	_	13	obj	_	_	역할/ncn+을/jco
+13	취할	취하+ㄹ	VERB	_	14	acl	_	_	취하/pvg+ㄹ/etm
+14	기회가	기회+가	NOUN	_	15	nsubj	_	_	기회/ncn+가/jcs
+15	주어졌다고	주+어+지+었+다+고	VERB	_	16	conj	_	_	주/pvg+어/ecx+지/px+었/ep+다/ef+고/jcr
+16	보자	보+자	VERB	_	0	root	_	_	보/pvg+자/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 처음의 지도자들은 독립운동 출신의 구정치인들이었으나 이들을 계승한 새세대는 더 젊어지고 또 더 높은 교육을 받게 된다 .
+1	처음의	처음+의	NOUN	_	2	nmod	_	_	처음/ncn+의/jcm
+2	지도자들은	지도자+들+은	NOUN	_	5	dislocated	_	_	지도자/ncn+들/xsn+은/jxt
+3	독립운동	독립+운동	NOUN	_	4	compound	_	_	독립/ncpa+운동/ncpa
+4	출신의	출신+의	NOUN	_	5	nmod	_	_	출신/ncn+의/jcm
+5	구정치인들이었으나	구정치인+들+이+었+으나	SCONJ	_	15	ccomp	_	_	구정치인/ncn+들/xsn+이/jp+었/ep+으나/ecs
+6	이들을	이+들+을	PRON	_	7	obj	_	_	이/npd+들/xsn+을/jco
+7	계승한	계승+하+ㄴ	VERB	_	8	acl	_	_	계승/ncpa+하/xsv+ㄴ/etm
+8	새세대는	새세대+는	NOUN	_	15	dislocated	_	_	새세대/ncn+는/jxt
+9	더	더	ADV	_	10	advmod	_	_	더/mag
+10	젊어지고	젊+어+지+고	CCONJ	_	11	conj	_	_	젊/paa+어/ecx+지/px+고/ecc
+11	또	또	CCONJ	_	15	conj	_	_	또/maj
+12	더	더	ADV	_	13	advmod	_	_	더/mag
+13	높은	높+ㄴ	ADJ	_	14	amod	_	_	높/paa+ㄴ/etm
+14	교육을	교육+을	NOUN	_	15	obj	_	_	교육/ncpa+을/jco
+15	받게	받+게	VERB	_	0	root	_	_	받/pvg+게/ecx
+16	된다	되+ㄴ다	AUX	_	15	aux	_	_	되/px+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 의무교육은 국민들의 교육을 평준화 하지만 지도자들의 교육수준은 낮아지는 경향이 있다 .
+1	의무교육은	의무+교육+은	NOUN	_	5	dislocated	_	_	의무/ncn+교육/ncpa+은/jxt
+2	국민들의	국민+들+의	NOUN	_	3	nmod	_	_	국민/ncn+들/xsn+의/jcm
+3	교육을	교육+을	NOUN	_	5	obj	_	_	교육/ncpa+을/jco
+4	평준화	평준화	NOUN	_	5	dep	_	_	평준화/ncpa
+5	하지만	하+지만	SCONJ	_	8	conj	_	_	하/pvg+지만/ecs
+6	지도자들의	지도자+들+의	NOUN	_	7	nmod	_	_	지도자/ncn+들/xsn+의/jcm
+7	교육수준은	교육수준+은	NOUN	_	8	dislocated	_	_	교육수준/ncn+은/jxt
+8	낮아지는	낮+아+지+는	AUX	_	9	amod	_	_	낮/paa+아/ecx+지/px+는/etm
+9	경향이	경향+이	NOUN	_	10	nsubj	_	_	경향/ncn+이/jcs
+10	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이러한 사회변화 과정과 이것이 지도자 사회배경에 미치는 영향을 본 연구자료에 적용해 보면 대략 기대되었던 대로 나타난다 .
+1	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+2	사회변화	사회변화	NOUN	_	3	compound	_	_	사회변화/ncn
+3	과정과	과정+과	CCONJ	_	8	conj	_	_	과정/ncpa+과/jcj
+4	이것이	이것+이	PRON	_	7	nsubj	_	_	이것/npd+이/jcs
+5	지도자	지도자	NOUN	_	6	compound	_	_	지도자/ncn
+6	사회배경에	사회+배경+에	ADV	_	7	obl	_	_	사회/ncn+배경/ncn+에/jca
+7	미치는	미치+는	VERB	_	8	acl	_	_	미치/pvg+는/etm
+8	영향을	영향+을	NOUN	_	11	obj	_	_	영향/ncn+을/jco
+9	본	본	NOUN	_	10	compound	_	_	본/ncn
+10	연구자료에	연구자료+에	ADV	_	11	obl	_	_	연구자료/ncn+에/jca
+11	적용해	적용+하+어	VERB	_	16	ccomp	_	_	적용/ncpa+하/xsv+어/ecx
+12	보면	보+면	SCONJ	_	11	aux	_	_	보/px+면/ecs
+13	대략	대략	ADV	_	14	advmod	_	_	대략/mag
+14	기대되었던	기대+되+었+던	VERB	_	15	acl	_	_	기대/ncpa+되/xsv+었/ep+던/etm
+15	대로	대로	NOUN	_	16	mark	_	_	대로/nbn
+16	나타난다	나타나+ㄴ다	VERB	_	0	root	_	_	나타나/pvg+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 즉 정치지도자들의 평균연령과 이들 중 대학교육을 받은 사람들의 비율은 사회발전 초기에 높았다 .
+1	즉	즉	CCONJ	_	12	cc	_	_	즉/maj
+2	정치지도자들의	정치+지도자+들+의	NOUN	_	3	nmod	_	_	정치/ncpa+지도자/ncn+들/xsn+의/jcm
+3	평균연령과	평균+연령+과	CCONJ	_	8	conj	_	_	평균/ncpa+연령/ncn+과/jcj
+4	이들	이+들	NOUN	_	5	compound	_	_	이/npd+들/xsn
+5	중	중	NOUN	_	7	advmod	_	_	중/ncn
+6	대학교육을	대학교육+을	NOUN	_	7	obj	_	_	대학교육/ncn+을/jco
+7	받은	받+ㄴ	VERB	_	8	acl	_	_	받/pvg+ㄴ/etm
+8	사람들의	사람+들+의	NOUN	_	9	nmod	_	_	사람/ncn+들/xsn+의/jcm
+9	비율은	비율+은	NOUN	_	12	dislocated	_	_	비율/ncn+은/jxt
+10	사회발전	사회발전	NOUN	_	11	compound	_	_	사회발전/ncn
+11	초기에	초기+에	ADV	_	12	obl	_	_	초기/ncn+에/jca
+12	높았다	높+았+다	ADJ	_	0	root	_	_	높/paa+았/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이러한 추세는 1 인당 국가총생산이 국회 의원들의 평균연령과 가지는 강한 순의 관계에서 볼 수 있다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	추세는	추세+는	NOUN	_	13	dislocated	_	_	추세/ncn+는/jxt
+3	1	1	NUM	_	4	nummod	_	_	1/nnc
+4	인당	인+당	NOUN	_	5	advmod	_	_	인/ncn+당/xsn
+5	국가총생산이	국가+총생산+이	NOUN	_	9	nsubj	_	_	국가/ncn+총생산/ncn+이/jcs
+6	국회	국회	NOUN	_	7	compound	_	_	국회/ncn
+7	의원들의	의원+들+의	NOUN	_	8	nmod	_	_	의원/ncn+들/xsn+의/jcm
+8	평균연령과	평균+연령+과	CCONJ	_	9	conj	_	_	평균/ncpa+연령/ncn+과/jct
+9	가지는	가지+는	VERB	_	12	acl	_	_	가지/pvg+는/etm
+10	강한	강하+ㄴ	ADJ	_	11	amod	_	_	강하/paa+ㄴ/etm
+11	순의	순+의	NOUN	_	12	nmod	_	_	순/ncn+의/jcm
+12	관계에서	관계+에서	ADV	_	13	advcl	_	_	관계/ncn+에서/jca
+13	볼	보+ㄹ	VERB	_	0	root	_	_	보/pvg+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있다	있+다	ADJ	_	13	aux	_	_	있/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 경제발전과 사회하부구조 발전의 또 다른 지표로 볼 수 있는 라디오 대수 역시 각료들의 평균연령에 강한 순의 효과를 가지고 있다 .
+1	경제발전과	경제발전+과	CCONJ	_	3	conj	_	_	경제발전/ncpa+과/jcj
+2	사회하부구조	사회+하부구조	NOUN	_	3	compound	_	_	사회/ncn+하부구조/ncn
+3	발전의	발전+의	NOUN	_	6	nmod	_	_	발전/ncpa+의/jcm
+4	또	또	ADV	_	5	advmod	_	_	또/mag
+5	다른	다르+ㄴ	ADJ	_	6	amod	_	_	다르/paa+ㄴ/etm
+6	지표로	지표+로	ADV	_	7	advcl	_	_	지표/ncn+로/jca
+7	볼	보+ㄹ	VERB	_	11	acl	_	_	보/pvg+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있는	있+는	ADJ	_	7	aux	_	_	있/paa+는/etm
+10	라디오	라디오	NOUN	_	11	compound	_	_	라디오/ncn
+11	대수	대수	NOUN	_	18	advmod	_	_	대수/ncn
+12	역시	역시	ADV	_	18	advmod	_	_	역시/mag
+13	각료들의	각료+들+의	NOUN	_	14	nmod	_	_	각료/ncn+들/xsn+의/jcm
+14	평균연령에	평균+연령+에	ADV	_	18	obl	_	_	평균/ncpa+연령/ncn+에/jca
+15	강한	강하+ㄴ	ADJ	_	17	amod	_	_	강하/paa+ㄴ/etm
+16	순의	순+의	NOUN	_	17	nmod	_	_	순/ncn+의/jcm
+17	효과를	효과+를	NOUN	_	18	obj	_	_	효과/ncn+를/jco
+18	가지고	가지+고	VERB	_	0	root	_	_	가지/pvg+고/ecx
+19	있다	있+다	AUX	_	18	aux	_	_	있/px+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 화물 교통량은 라디오 대수와 마찬가지로 통신과 기술발전의 척도이다 .
+1	화물	화물	NOUN	_	2	compound	_	_	화물/ncn
+2	교통량은	교통량+은	NOUN	_	8	dislocated	_	_	교통량/ncn+은/jxt
+3	라디오	라디오	NOUN	_	4	compound	_	_	라디오/ncn
+4	대수와	대수+와	CCONJ	_	5	conj	_	_	대수/ncn+와/jct
+5	마찬가지로	마찬가지+로	ADV	_	8	advcl	_	_	마찬가지/ncn+로/jca
+6	통신과	통신+과	CCONJ	_	7	conj	_	_	통신/ncpa+과/jcj
+7	기술발전의	기술+발전+의	NOUN	_	8	nmod	_	_	기술/ncpa+발전/ncpa+의/jcm
+8	척도이다	척도+이+다	VERB	_	0	root	_	_	척도/ncn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이의 역의 효과는 사람들의 국내 유동이 빈번해지면 드용되는 각료들의 연령 수준은 낮아지는 경향이 있음을 시사한다 .
+1	이의	이+의	PRON	_	3	nmod	_	_	이/npd+의/jcm
+2	역의	역+의	NOUN	_	3	nmod	_	_	역/ncn+의/jcm
+3	효과는	효과+는	NOUN	_	15	dislocated	_	_	효과/ncn+는/jxt
+4	사람들의	사람+들+의	NOUN	_	6	nmod	_	_	사람/ncn+들/xsn+의/jcm
+5	국내	국내	NOUN	_	6	compound	_	_	국내/ncn
+6	유동이	유동+이	NOUN	_	7	nsubj	_	_	유동/ncn+이/jcs
+7	빈번해지면	빈번하+어+지+면	SCONJ	_	12	xcomp	_	_	빈번하/paa+어/ecx+지/px+면/ecs
+8	드용되는	등용+되+는	VERB	_	9	acl	_	_	등용/ncpa+되/xsv+는/etm
+9	각료들의	각료+들+의	NOUN	_	11	nmod	_	_	각료/ncn+들/xsn+의/jcm
+10	연령	연령	NOUN	_	11	compound	_	_	연령/ncn
+11	수준은	수준+은	NOUN	_	12	dislocated	_	_	수준/ncn+은/jxt
+12	낮아지는	낮+아+지+는	AUX	_	13	amod	_	_	낮/paa+아/ecx+지/px+는/etm
+13	경향이	경향+이	NOUN	_	14	nsubj	_	_	경향/ncn+이/jcs
+14	있음을	있+ㅁ+을	NOUN	_	15	obj	_	_	있/paa+ㅁ/etn+을/jco
+15	시사한다	시사+하+ㄴ다	VERB	_	0	root	_	_	시사/ncpa+하/xsv+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 대통령선거 투표자수의 등록된 총유권자수에 대한 비율 .
+1	대통령선거	대통령+선거	NOUN	_	2	compound	_	_	대통령/ncn+선거/ncpa
+2	투표자수의	투표자+수+의	NOUN	_	6	nmod	_	_	투표자/ncn+수/ncn+의/jcm
+3	등록된	등록+되+ㄴ	VERB	_	4	acl	_	_	등록/ncpa+되/xsv+ㄴ/etm
+4	총유권자수에	총유권자수+에	ADV	_	5	obl	_	_	총유권자수/ncn+에/jca
+5	대한	대하+ㄴ	VERB	_	6	acl	_	_	대하/pvg+ㄴ/etm
+6	비율	비율	NOUN	_	0	root	_	_	비율/ncn
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그 중에 화살표는 효과의 방향을 가리킨다 .
+1	그	그	PRON	_	2	compound	_	_	그/npp
+2	중에	중+에	ADV	_	6	obl	_	_	중/ncn+에/jca
+3	화살표는	화살표+는	NOUN	_	6	dislocated	_	_	화살표/ncn+는/jxt
+4	효과의	효과+의	NOUN	_	5	nmod	_	_	효과/ncn+의/jcm
+5	방향을	방향+을	NOUN	_	6	obj	_	_	방향/ncn+을/jco
+6	가리킨다	가리키+ㄴ다	VERB	_	0	root	_	_	가리키/pvg+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이 분석틀에 기초하여 세 개의 분석모형을 형성하였다 .
+1	이	이	PRON	_	2	compound	_	_	이/npd
+2	분석틀에	분석틀+에	ADV	_	3	obl	_	_	분석틀/ncn+에/jca
+3	기초하여	기초+하+어	SCONJ	_	7	ccomp	_	_	기초/ncpa+하/xsv+어/ecs
+4	세	세	NUM	_	5	nummod	_	_	세/nnc
+5	개의	개+의	NOUN	_	6	nmod	_	_	개/nbu+의/jcm
+6	분석모형을	분석+모형+을	NOUN	_	7	obj	_	_	분석/ncpa+모형/ncn+을/jco
+7	형성하였다	형성+하+었+다	VERB	_	0	root	_	_	형성/ncpa+하/xsv+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 연구기간중에 자원배분이 선거참여에 준 효과를 분석하는 데는 각 자원배분변수를 각 선거참여 척도에 회귀시켰다 .
+1	연구기간중에	연구+기간+중+에	ADV	_	6	obl	_	_	연구/ncpa+기간/ncn+중/xsn+에/jca
+2	자원배분이	자원+배분+이	NOUN	_	4	nsubj	_	_	자원/ncpa+배분/ncpa+이/jcs
+3	선거참여에	선거+참여+에	ADV	_	4	obl	_	_	선거/ncpa+참여/ncpa+에/jca
+4	준	주+ㄴ	VERB	_	5	acl	_	_	주/pvg+ㄴ/etm
+5	효과를	효과+를	NOUN	_	6	obj	_	_	효과/ncn+를/jco
+6	분석하는	분석+하+는	VERB	_	7	acl	_	_	분석/ncpa+하/xsv+는/etm
+7	데는	데+는	NOUN	_	13	dislocated	_	_	데/nbn+는/jxt
+8	각	각	ADJ	_	9	amod	_	_	각/mma
+9	자원배분변수를	자원+배분+변수+를	NOUN	_	13	obj	_	_	자원/ncn+배분/ncpa+변수/ncn+를/jco
+10	각	각	ADJ	_	11	amod	_	_	각/mma
+11	선거참여	선거참여	NOUN	_	12	compound	_	_	선거참여/ncpa
+12	척도에	척도+에	ADV	_	13	obl	_	_	척도/ncn+에/jca
+13	회귀시켰다	회귀+시키+었+다	VERB	_	0	root	_	_	회귀/ncpa+시키/xsv+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 헌법의 게속성은 정치안정의 척도라고도 볼 수 있으나 , 또 시민들의 초헌법적 참여의 척도로 볼 수도 있다 .
+1	헌법의	헌법+의	NOUN	_	2	nmod	_	_	헌법/ncn+의/jcm
+2	게속성은	게속성+은	NOUN	_	4	dislocated	_	_	게속성/ncn+은/jxt
+3	정치안정의	정치+안정+의	NOUN	_	4	nmod	_	_	정치/ncn+안정/ncn+의/jcm
+4	척도라고도	척도+이+라+고+도	ADV	_	5	advcl	_	_	척도/ncn+이/jp+라/ef+고/jcr+도/jxc
+5	볼	보+ㄹ	VERB	_	14	ccomp	_	_	보/pvg+ㄹ/etm
+6	수	수	NOUN	_	7	fixed	_	_	수/nbn
+7	있으나	있+으나	SCONJ	_	5	aux	_	_	있/paa+으나/ecs
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	또	또	ADV	_	14	advmod	_	_	또/mag
+10	시민들의	시민+들+의	NOUN	_	12	nmod	_	_	시민/ncn+들/xsn+의/jcm
+11	초헌법적	초헌법+적	NOUN	_	12	amod	_	_	초헌법/ncn+적/xsn
+12	참여의	참여+의	NOUN	_	13	nmod	_	_	참여/ncpa+의/jcm
+13	척도로	척도+로	ADV	_	14	advcl	_	_	척도/ncn+로/jca
+14	볼	보+ㄹ	VERB	_	0	root	_	_	보/pvg+ㄹ/etm
+15	수도	수+도	ADV	_	16	fixed	_	_	수/nbn+도/jxc
+16	있다	있+다	ADJ	_	14	aux	_	_	있/paa+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 시민들은 정당을 포함한 정치체계의 중개통로가 그 기능을 제대로 발휘하지 못할 경우에는 초헌법적인 참여의 형태를 취할 수도 있다 .
+1	시민들은	시민+들+은	NOUN	_	15	dislocated	_	_	시민/ncn+들/xsn+은/jxt
+2	정당을	정당+을	NOUN	_	3	obj	_	_	정당/ncn+을/jco
+3	포함한	포함+하+ㄴ	VERB	_	5	acl	_	_	포함/ncpa+하/xsv+ㄴ/etm
+4	정치체계의	정치체계+의	NOUN	_	5	nmod	_	_	정치체계/ncn+의/jcm
+5	중개통로가	중개+통로+가	NOUN	_	9	nsubj	_	_	중개/ncpa+통로/ncn+가/jcs
+6	그	그	PRON	_	7	compound	_	_	그/npp
+7	기능을	기능+을	NOUN	_	9	obj	_	_	기능/ncn+을/jco
+8	제대로	제+대로	ADV	_	9	advcl	_	_	제/ncn+대로/jca
+9	발휘하지	발휘+하+지	VERB	_	11	acl	_	_	발휘/ncpa+하/xsv+지/ecx
+10	못할	못하+ㄹ	AUX	_	9	aux	_	_	못하/px+ㄹ/etm
+11	경우에는	경우+에+는	NOUN	_	15	dislocated	_	_	경우/ncn+에/jca+는/jxt
+12	초헌법적인	초헌법+적+이+ㄴ	VERB	_	13	acl	_	_	초헌법/ncn+적/xsn+이/jp+ㄴ/etm
+13	참여의	참여+의	NOUN	_	14	nmod	_	_	참여/ncpa+의/jcm
+14	형태를	형태+를	NOUN	_	15	obj	_	_	형태/ncn+를/jco
+15	취할	취하+ㄹ	VERB	_	0	root	_	_	취하/pvg+ㄹ/etm
+16	수도	수+도	ADV	_	17	fixed	_	_	수/nbn+도/jxc
+17	있다	있+다	ADJ	_	15	aux	_	_	있/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 연구기간중 한국의 정치체계는 보편적으로 불안정하였다 .
+1	연구기간중	연구+기간+중	NOUN	_	5	advmod	_	_	연구/ncpa+기간/ncn+중/xsn
+2	한국의	한국+의	PROPN	_	3	nmod	_	_	한국/nq+의/jcm
+3	정치체계는	정치체계+는	NOUN	_	5	dislocated	_	_	정치체계/ncn+는/jxt
+4	보편적으로	보편+적+으로	ADV	_	5	advcl	_	_	보편/ncn+적/xsn+으로/jca
+5	불안정하였다	불안정+하+었+다	VERB	_	0	root	_	_	불안정/ncps+하/xsm+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 각 자원배분변수는 국가지도층 대표성 범위에 회귀되었다 .
+1	각	각	ADJ	_	2	amod	_	_	각/mma
+2	자원배분변수는	자원+배분+변수+는	NOUN	_	6	dislocated	_	_	자원/ncn+배분/ncpa+변수/ncn+는/jxt
+3	국가지도층	국가지도층	NOUN	_	4	compound	_	_	국가지도층/ncn
+4	대표성	대표성	NOUN	_	5	compound	_	_	대표성/ncn
+5	범위에	범위+에	ADV	_	6	obl	_	_	범위/ncn+에/jca
+6	회귀되었다	회귀+되+었+다	VERB	_	0	root	_	_	회귀/ncpa+되/xsv+었/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그러나 이 분석에 있어서 선거참여는 두번째 단계에서 그리고 헌법의 계속성은 세번째 단계에서 각각 선출되었다 .
+1	그러나	그러나	CCONJ	_	14	cc	_	_	그러나/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	분석에	분석+에	ADV	_	4	obl	_	_	분석/ncpa+에/jca
+4	있어서	있+어서	SCONJ	_	14	xcomp	_	_	있/paa+어서/ecs
+5	선거참여는	선거+참여+는	NOUN	_	7	dislocated	_	_	선거/ncpa+참여/ncpa+는/jxt
+6	두번째	두번+째	NOUN	_	7	advmod	_	_	두번/ncn+째/xsn
+7	단계에서	단계+에서	ADV	_	8	advcl	_	_	단계/ncn+에서/jca
+8	그리고	그리고	CCONJ	_	14	cc	_	_	그리고/maj
+9	헌법의	헌법+의	NOUN	_	10	nmod	_	_	헌법/ncn+의/jcm
+10	계속성은	계속성+은	NOUN	_	12	dislocated	_	_	계속성/ncn+은/jxt
+11	세번째	세번+째	NOUN	_	12	advmod	_	_	세번/ncn+째/xsn
+12	단계에서	단계+에서	ADV	_	8	advcl	_	_	단계/ncn+에서/jca
+13	각각	각각	ADV	_	14	advmod	_	_	각각/mag
+14	선출되었다	선출+되+었+다	VERB	_	0	root	_	_	선출/ncpa+되/xsv+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이 사실은 식자율과 공공교육비용의 역의 효과들을 보아도 알 수 있다 .
+1	이	이	PRON	_	2	compound	_	_	이/npd
+2	사실은	사실+은	NOUN	_	8	dislocated	_	_	사실/ncn+은/jxt
+3	식자율과	식자율+과	CCONJ	_	6	conj	_	_	식자율/ncn+과/jcj
+4	공공교육비용의	공공+교육+비용+의	NOUN	_	6	nmod	_	_	공공/ncn+교육/ncpa+비용/ncn+의/jcm
+5	역의	역+의	NOUN	_	6	nmod	_	_	역/ncn+의/jcm
+6	효과들을	효과+들+을	NOUN	_	7	obj	_	_	효과/ncn+들/xsn+을/jco
+7	보아도	보+아+도	ADV	_	8	ccomp	_	_	보/pvg+아/ecs+도/jxc
+8	알	알+ㄹ	VERB	_	0	root	_	_	알/pvg+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	있다	있+다	ADJ	_	8	aux	_	_	있/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이 두 변수들은 한국인구가 달성한 근대교욱의 정도를 나타내고 있다고 보겠다 .
+1	이	이	PRON	_	3	compound	_	_	이/npd
+2	두	두	NUM	_	3	nummod	_	_	두/nnc
+3	변수들은	변수+들+은	NOUN	_	8	dislocated	_	_	변수/ncn+들/xsn+은/jxt
+4	한국인구가	한국+인구+가	NOUN	_	5	nsubj	_	_	한국/ncn+인구/ncn+가/jcs
+5	달성한	달성+하+ㄴ	VERB	_	6	acl	_	_	달성/ncpa+하/xsv+ㄴ/etm
+6	근대교욱의	근대교욱+의	NOUN	_	7	nmod	_	_	근대교욱/ncn+의/jcm
+7	정도를	정도+를	NOUN	_	8	obj	_	_	정도/ncn+를/jco
+8	나타내고	나타내+고	VERB	_	10	conj	_	_	나타내/pvg+고/ecx
+9	있다고	있+다+고	VERB	_	8	aux	_	_	있/px+다/ef+고/jcr
+10	보겠다	보+겠+다	VERB	_	0	root	_	_	보/pvg+겠/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 농업에 있어 기술향상은 소규모 농자의 수를 감소시키는 경향이 있다 .
+1	농업에	농업+에	ADV	_	2	obl	_	_	농업/ncn+에/jca
+2	있어	있+어	SCONJ	_	9	xcomp	_	_	있/paa+어/ecs
+3	기술향상은	기술+향상+은	NOUN	_	7	dislocated	_	_	기술/ncpa+향상/ncpa+은/jxt
+4	소규모	소규모	NOUN	_	5	compound	_	_	소규모/ncn
+5	농자의	농자+의	NOUN	_	6	nmod	_	_	농자/ncn+의/jcm
+6	수를	수+를	NOUN	_	7	obj	_	_	수/nbn+를/jco
+7	감소시키는	감소+시키+는	VERB	_	8	acl	_	_	감소/ncpa+시키/xsv+는/etm
+8	경향이	경향+이	NOUN	_	9	nsubj	_	_	경향/ncn+이/jcs
+9	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이와 유사한 감소과정이 소규모 농장주들 간에도 있었다 .
+1	이와	이+와	CCONJ	_	2	conj	_	_	이/npd+와/jct
+2	유사한	유사+하+ㄴ	VERB	_	3	amod	_	_	유사/ncps+하/xsm+ㄴ/etm
+3	감소과정이	감소+과정+이	NOUN	_	7	nsubj	_	_	감소/ncpa+과정/ncpa+이/jcs
+4	소규모	소규모	NOUN	_	5	compound	_	_	소규모/ncn
+5	농장주들	농장주+들	NOUN	_	6	compound	_	_	농장주/ncn+들/xsn
+6	간에도	간+에+도	ADV	_	7	advcl	_	_	간/ncn+에/jca+도/jxc
+7	있었다	있+었+다	ADJ	_	0	root	_	_	있/paa+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 사회복지비용도 이들 두 직업군의 종사자 수에 순의 효과를 보여주고 있다 .
+1	사회복지비용도	사회복지+비용+도	ADV	_	9	advcl	_	_	사회복지/ncn+비용/ncn+도/jxc
+2	이들	이+들	NOUN	_	4	compound	_	_	이/npd+들/xsn
+3	두	두	NUM	_	4	nummod	_	_	두/nnc
+4	직업군의	직업군+의	NOUN	_	5	nmod	_	_	직업군/ncn+의/jcm
+5	종사자	종사자	NOUN	_	6	compound	_	_	종사자/ncn
+6	수에	수+에	ADV	_	9	obl	_	_	수/nbn+에/jca
+7	순의	순+의	NOUN	_	8	nmod	_	_	순/ncn+의/jcm
+8	효과를	효과+를	NOUN	_	9	obj	_	_	효과/ncn+를/jco
+9	보여주고	보이+어+주+고	AUX	_	0	root	_	_	보이/pvg+어/ecx+주/px+고/ecx
+10	있다	있+다	AUX	_	9	aux	_	_	있/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그러나 그 외의 정책변수들은 역의 효고를 보여주고 있다 .
+1	그러나	그러나	CCONJ	_	7	cc	_	_	그러나/maj
+2	그	그	PRON	_	3	compound	_	_	그/npp
+3	외의	외+의	NOUN	_	4	nmod	_	_	외/ncn+의/jcm
+4	정책변수들은	정책+변수+들+은	NOUN	_	7	dislocated	_	_	정책/ncn+변수/ncn+들/xsn+은/jxt
+5	역의	역+의	NOUN	_	6	nmod	_	_	역/ncn+의/jcm
+6	효고를	효과+를	NOUN	_	7	obj	_	_	효과/ncn+를/jco
+7	보여주고	보이+어+주+고	AUX	_	0	root	_	_	보이/pvg+어/ecx+주/px+고/ecx
+8	있다	있+다	AUX	_	7	aux	_	_	있/px+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이들 역의 효과는 산업을 장려하기 위한 정책이 이들 직업군의 종사자 수를 증가시키지 못했음을 의미한다 .
+1	이들	이+들	NOUN	_	3	compound	_	_	이/npd+들/xsn
+2	역의	역+의	NOUN	_	3	nmod	_	_	역/ncn+의/jcm
+3	효과는	효과+는	NOUN	_	14	dislocated	_	_	효과/ncn+는/jxt
+4	산업을	산업+을	NOUN	_	5	obj	_	_	산업/ncn+을/jco
+5	장려하기	장려+하+기	VERB	_	6	nmod	_	_	장려/ncpa+하/xsv+기/etn
+6	위한	위하+ㄴ	VERB	_	7	acl	_	_	위하/pvg+ㄴ/etm
+7	정책이	정책+이	NOUN	_	12	nsubj	_	_	정책/ncn+이/jcs
+8	이들	이+들	NOUN	_	9	compound	_	_	이/npd+들/xsn
+9	직업군의	직업군+의	NOUN	_	10	nmod	_	_	직업군/ncn+의/jcm
+10	종사자	종사자	NOUN	_	11	compound	_	_	종사자/ncn
+11	수를	수+를	NOUN	_	12	obj	_	_	수/nbn+를/jco
+12	증가시키지	증가+시키+지	VERB	_	14	obj	_	_	증가/ncpa+시키/xsv+지/ecx
+13	못했음을	못하+었+ㅁ+을	NOUN	_	12	aux	_	_	못하/px+었/ep+ㅁ/etn+을/jco
+14	의미한다	의미+하+ㄴ다	VERB	_	0	root	_	_	의미/ncpa+하/xsv+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 제 3 공화국 하에서 정부는 산업생산 증대를 위한 일치된 노력을 하였다 .
+1	제	제	NOUN	_	3	compound	_	_	제/ncn
+2	3	3	NUM	_	3	nummod	_	_	3/nnc
+3	공화국	공화국	NOUN	_	4	compound	_	_	공화국/ncn
+4	하에서	하+에서	ADV	_	11	advcl	_	_	하/nbn+에서/jca
+5	정부는	정부+는	NOUN	_	11	dislocated	_	_	정부/ncn+는/jxt
+6	산업생산	산업생산	NOUN	_	7	compound	_	_	산업생산/ncn
+7	증대를	증대+를	NOUN	_	8	obj	_	_	증대/ncpa+를/jco
+8	위한	위하+ㄴ	VERB	_	10	acl	_	_	위하/pvg+ㄴ/etm
+9	일치된	일치+되+ㄴ	VERB	_	10	acl	_	_	일치/ncpa+되/xsv+ㄴ/etm
+10	노력을	노력+을	NOUN	_	11	obj	_	_	노력/ncpa+을/jco
+11	하였다	하+었+다	VERB	_	0	root	_	_	하/pvg+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러나 공기업을 육성하기 위한 정책은 서어비스 , 기타 산업노동자의 수를 많이 증가시키지 못한 것으로 본다 .
+1	그러나	그러나	CCONJ	_	15	cc	_	_	그러나/maj
+2	공기업을	공기업+을	NOUN	_	3	obj	_	_	공기업/ncn+을/jco
+3	육성하기	육성+하+기	VERB	_	4	nmod	_	_	육성/ncpa+하/xsv+기/etn
+4	위한	위하+ㄴ	VERB	_	5	acl	_	_	위하/pvg+ㄴ/etm
+5	정책은	정책+은	NOUN	_	12	dislocated	_	_	정책/ncn+은/jxt
+6	서어비스	서어비스	NOUN	_	9	conj	_	_	서어비스/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	기타	기타	NOUN	_	9	compound	_	_	기타/ncn
+9	산업노동자의	산업노동자+의	NOUN	_	10	nmod	_	_	산업노동자/ncn+의/jcm
+10	수를	수+를	NOUN	_	12	obj	_	_	수/nbn+를/jco
+11	많이	많이	ADV	_	12	advmod	_	_	많이/mag
+12	증가시키지	증가+시키+지	VERB	_	14	acl	_	_	증가/ncpa+시키/xsv+지/ecx
+13	못한	못하+ㄴ	AUX	_	12	aux	_	_	못하/px+ㄴ/etm
+14	것으로	것+으로	ADV	_	15	advcl	_	_	것/nbn+으로/jca
+15	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이것은 공기업이 일반노동자를 많이 필요로 하지않는 근대적 기계장비로 운영되고 있기 때문이라 보겠다 .
+1	이것은	이것+은	PRON	_	12	dislocated	_	_	이것/npd+은/jxt
+2	공기업이	공기업+이	NOUN	_	9	nsubj	_	_	공기업/ncn+이/jcs
+3	일반노동자를	일반+노동자+를	NOUN	_	6	obj	_	_	일반/ncn+노동자/ncn+를/jco
+4	많이	많이	ADV	_	6	advmod	_	_	많이/mag
+5	필요로	필요+로	ADV	_	6	advcl	_	_	필요/ncpa+로/jca
+6	하지않는	하+지+않+는	AUX	_	8	acl	_	_	하/pvg+지/ecx+않/px+는/etm
+7	근대적	근대+적	NOUN	_	8	amod	_	_	근대/ncn+적/xsn
+8	기계장비로	기계+장비+로	ADV	_	9	advcl	_	_	기계/ncn+장비/ncpa+로/jca
+9	운영되고	운영+되+고	VERB	_	12	ccomp	_	_	운영/ncpa+되/xsv+고/ecx
+10	있기	있+기	AUX	_	9	aux	_	_	있/px+기/etn
+11	때문이라	때문+이+라	VERB	_	9	aux	_	_	때문/nbn+이/jp+라/ef
+12	보겠다	보+겠+다	VERB	_	0	root	_	_	보/pvg+겠/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 보편적으로 통신의 발전은 사회기동과 산업노동자 수를 증가시키는 효과를 갖는다 .
+1	보편적으로	보편+적+으로	ADV	_	9	advcl	_	_	보편/ncn+적/xsn+으로/jca
+2	통신의	통신+의	NOUN	_	3	nmod	_	_	통신/ncpa+의/jcm
+3	발전은	발전+은	NOUN	_	9	dislocated	_	_	발전/ncpa+은/jxt
+4	사회기동과	사회기동+과	CCONJ	_	6	conj	_	_	사회기동/ncn+과/jcj
+5	산업노동자	산업노동자	NOUN	_	6	compound	_	_	산업노동자/ncn
+6	수를	수+를	NOUN	_	7	obj	_	_	수/nbn+를/jco
+7	증가시키는	증가+시키+는	VERB	_	8	acl	_	_	증가/ncpa+시키/xsv+는/etm
+8	효과를	효과+를	NOUN	_	9	obj	_	_	효과/ncn+를/jco
+9	갖는다	갖+는다	VERB	_	0	root	_	_	갖/pvg+는다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러나 연구기간중 산업은 증가된 노동자 수를 충분히 흡수하지 못하였다 .
+1	그러나	그러나	CCONJ	_	8	cc	_	_	그러나/maj
+2	연구기간중	연구+기간+중	NOUN	_	3	advmod	_	_	연구/ncpa+기간/ncn+중/xsn
+3	산업은	산업+은	NOUN	_	8	dislocated	_	_	산업/ncn+은/jxt
+4	증가된	증가+되+ㄴ	VERB	_	6	acl	_	_	증가/ncpa+되/xsv+ㄴ/etm
+5	노동자	노동자	NOUN	_	6	compound	_	_	노동자/ncn
+6	수를	수+를	NOUN	_	8	obj	_	_	수/nbn+를/jco
+7	충분히	충분+히	ADV	_	8	advmod	_	_	충분/ncps+히/xsa
+8	흡수하지	흡수+하+지	VERB	_	0	root	_	_	흡수/ncpa+하/xsv+지/ecx
+9	못하였다	못하+었+다	AUX	_	8	aux	_	_	못하/px+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 보편적으로 신기업체수 , 농산물생산자수 그리고 산업생산지수는 급료나 노임을 받는 사람들의 잡비 비율에 역의 효과를 보여주고 있다 .
+1	보편적으로	보편+적+으로	ADV	_	15	advcl	_	_	보편/ncn+적/xsn+으로/jca
+2	신기업체수	신기업체+수	NOUN	_	4	conj	_	_	신기업체/ncn+수/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	농산물생산자수	농산물+생산자+수	NOUN	_	6	conj	_	_	농산물/ncn+생산자/ncn+수/ncn
+5	그리고	그리고	CCONJ	_	6	cc	_	_	그리고/maj
+6	산업생산지수는	산업생산+지수+는	NOUN	_	15	dislocated	_	_	산업생산/ncn+지수/ncn+는/jxt
+7	급료나	급료+나	CCONJ	_	8	conj	_	_	급료/ncpa+나/jcj
+8	노임을	노임+을	NOUN	_	9	obj	_	_	노임/ncn+을/jco
+9	받는	받+는	VERB	_	10	acl	_	_	받/pvg+는/etm
+10	사람들의	사람+들+의	NOUN	_	12	nmod	_	_	사람/ncn+들/xsn+의/jcm
+11	잡비	잡비	NOUN	_	12	compound	_	_	잡비/ncn
+12	비율에	비율+에	ADV	_	15	obl	_	_	비율/ncn+에/jca
+13	역의	역+의	NOUN	_	14	nmod	_	_	역/ncn+의/jcm
+14	효과를	효과+를	NOUN	_	15	obj	_	_	효과/ncn+를/jco
+15	보여주고	보이+어+주+고	AUX	_	0	root	_	_	보이/pvg+어/ecx+주/px+고/ecx
+16	있다	있+다	AUX	_	15	aux	_	_	있/px+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 사회복지비용 , 이전 , 그리고 물가보조 역시 역의 효과를 가져왔다 .
+1	사회복지비용	사회복지+비용	NOUN	_	3	conj	_	_	사회복지/ncn+비용/ncn
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	이전	이전	NOUN	_	6	conj	_	_	이전/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	그리고	그리고	CCONJ	_	6	cc	_	_	그리고/maj
+6	물가보조	물가보조	NOUN	_	10	advmod	_	_	물가보조/ncn
+7	역시	역시	ADV	_	10	advmod	_	_	역시/mag
+8	역의	역+의	NOUN	_	9	nmod	_	_	역/ncn+의/jcm
+9	효과를	효과+를	NOUN	_	10	obj	_	_	효과/ncn+를/jco
+10	가져왔다	가지+어+오+았+다	AUX	_	0	root	_	_	가지/pvg+어/ecx+오/px+았/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그러나 소득 및 재산세 그리고 보건비용만은 순의 효과를 보여주고 있다 .
+1	그러나	그러나	CCONJ	_	9	cc	_	_	그러나/maj
+2	소득	소득	NOUN	_	4	conj	_	_	소득/ncn
+3	및	및	CCONJ	_	4	cc	_	_	및/maj
+4	재산세	재산세	NOUN	_	6	conj	_	_	재산세/ncn
+5	그리고	그리고	CCONJ	_	6	cc	_	_	그리고/maj
+6	보건비용만은	보건+비용+만은	ADV	_	9	advcl	_	_	보건/ncn+비용/ncn+만은/jxc
+7	순의	순+의	NOUN	_	8	nmod	_	_	순/ncn+의/jcm
+8	효과를	효과+를	NOUN	_	9	obj	_	_	효과/ncn+를/jco
+9	보여주고	보이+어+주+고	AUX	_	0	root	_	_	보이/pvg+어/ecx+주/px+고/ecx
+10	있다	있+다	AUX	_	9	aux	_	_	있/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 공공교육과 사회복지는 농가구의 생활수준을 향상시켰다 .
+1	공공교육과	공공+교육+과	CCONJ	_	2	conj	_	_	공공/ncn+교육/ncpa+과/jcj
+2	사회복지는	사회복지+는	NOUN	_	5	dislocated	_	_	사회복지/ncn+는/jxt
+3	농가구의	농가구+의	NOUN	_	4	nmod	_	_	농가구/ncn+의/jcm
+4	생활수준을	생활수준+을	NOUN	_	5	obj	_	_	생활수준/ncn+을/jco
+5	향상시켰다	향상+시키+었+다	VERB	_	0	root	_	_	향상/ncpa+시키/xsv+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그러나 사회복지를 위한 세금은 농가소득을 감소시켰으며 그로 인하여 그들의 생화수준에 역의 효과를 가져오기도 했다 .
+1	그러나	그러나	CCONJ	_	13	cc	_	_	그러나/maj
+2	사회복지를	사회복지+를	NOUN	_	3	obj	_	_	사회복지/ncn+를/jco
+3	위한	위하+ㄴ	VERB	_	4	acl	_	_	위하/pvg+ㄴ/etm
+4	세금은	세금+은	NOUN	_	6	dislocated	_	_	세금/ncn+은/jxt
+5	농가소득을	농가+소득+을	NOUN	_	6	obj	_	_	농가/ncn+소득/ncn+을/jco
+6	감소시켰으며	감소+시키+었+으며	CCONJ	_	13	conj	_	_	감소/ncpa+시키/xsv+었/ep+으며/ecc
+7	그로	그+로	ADV	_	8	advcl	_	_	그/npp+로/jca
+8	인하여	인하+어	SCONJ	_	13	ccomp	_	_	인하/pvg+어/ecs
+9	그들의	그+들+의	PRON	_	10	nmod	_	_	그/npp+들/xsn+의/jcm
+10	생화수준에	생화수준+에	ADV	_	13	obl	_	_	생화수준/ncn+에/jca
+11	역의	역+의	NOUN	_	12	nmod	_	_	역/ncn+의/jcm
+12	효과를	효과+를	NOUN	_	13	obj	_	_	효과/ncn+를/jco
+13	가져오기도	가지+어+오+기+도	ADV	_	0	root	_	_	가지/pvg+어/ecx+오/px+기/etn+도/jxc
+14	했다	하+었+다	AUX	_	13	aux	_	_	하/px+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 더구나 식자율의 증가는 주로 노동집약적 경작방식에 의존하고 있는 농가구의 생활수준을 낮게 하는 효과를 주었던 것으로 보인다 .
+1	더구나	더구나	ADV	_	16	advmod	_	_	더구나/mag
+2	식자율의	식자율+의	NOUN	_	3	nmod	_	_	식자율/ncn+의/jcm
+3	증가는	증가+는	NOUN	_	14	dislocated	_	_	증가/ncpa+는/jxt
+4	주로	주로	ADV	_	11	advmod	_	_	주로/mag
+5	노동집약적	노동+집약+적	NOUN	_	6	amod	_	_	노동/ncpa+집약/ncpa+적/xsn
+6	경작방식에	경작+방식+에	ADV	_	7	obl	_	_	경작/ncpa+방식/ncn+에/jca
+7	의존하고	의존+하+고	VERB	_	9	acl	_	_	의존/ncpa+하/xsv+고/ecx
+8	있는	있+는	AUX	_	7	aux	_	_	있/px+는/etm
+9	농가구의	농가구+의	NOUN	_	10	nmod	_	_	농가구/ncn+의/jcm
+10	생활수준을	생활수준+을	NOUN	_	11	obj	_	_	생활수준/ncn+을/jco
+11	낮게	낮+게	ADJ	_	13	amod	_	_	낮/paa+게/ecx
+12	하는	하+는	AUX	_	11	aux	_	_	하/px+는/etm
+13	효과를	효과+를	NOUN	_	14	obj	_	_	효과/ncn+를/jco
+14	주었던	주+었+던	VERB	_	15	acl	_	_	주/pvg+었/ep+던/etm
+15	것으로	것+으로	ADV	_	16	advcl	_	_	것/nbn+으로/jca
+16	보인다	보이+ㄴ다	VERB	_	0	root	_	_	보이/pvg+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 경제적 변화는 5 단보 이하를 경작하는 소규모 농장의 비율에 가장 많은 역의 효과를 가졌다 .
+1	경제적	경제+적	NOUN	_	2	amod	_	_	경제/ncn+적/xsn
+2	변화는	변화+는	NOUN	_	14	dislocated	_	_	변화/ncpa+는/jxt
+3	5	5	NUM	_	4	nummod	_	_	5/nnc
+4	단보	단보	NOUN	_	5	compound	_	_	단보/nbu
+5	이하를	이하+를	NOUN	_	6	obj	_	_	이하/ncn+를/jco
+6	경작하는	경작+하+는	VERB	_	8	acl	_	_	경작/ncpa+하/xsv+는/etm
+7	소규모	소규모	NOUN	_	8	compound	_	_	소규모/ncn
+8	농장의	농장+의	NOUN	_	9	nmod	_	_	농장/ncn+의/jcm
+9	비율에	비율+에	ADV	_	14	obl	_	_	비율/ncn+에/jca
+10	가장	가장	ADV	_	11	advmod	_	_	가장/mag
+11	많은	많+ㄴ	ADJ	_	13	amod	_	_	많/paa+ㄴ/etm
+12	역의	역+의	NOUN	_	13	nmod	_	_	역/ncn+의/jcm
+13	효과를	효과+를	NOUN	_	14	obj	_	_	효과/ncn+를/jco
+14	가졌다	가지+었+다	VERB	_	0	root	_	_	가지/pvg+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 농산물생산지수와 신기업체수는 소규모 농장비율에 약하나마 역의 효과를 보여주고 있다 .
+1	농산물생산지수와	농산물+생산+지수+와	CCONJ	_	2	conj	_	_	농산물/ncn+생산/ncpa+지수/ncn+와/jcj
+2	신기업체수는	신기업체수+는	NOUN	_	8	dislocated	_	_	신기업체수/paa+는/jxt
+3	소규모	소규모	NOUN	_	4	compound	_	_	소규모/ncn
+4	농장비율에	농장+비율+에	ADV	_	8	obl	_	_	농장/ncn+비율/ncn+에/jca
+5	약하나마	약하+나마	SCONJ	_	8	xcomp	_	_	약하/paa+나마/ecs
+6	역의	역+의	NOUN	_	7	nmod	_	_	역/ncn+의/jcm
+7	효과를	효과+를	NOUN	_	8	obj	_	_	효과/ncn+를/jco
+8	보여주고	보이+어+주+고	AUX	_	0	root	_	_	보이/pvg+어/ecx+주/px+고/ecx
+9	있다	있+다	AUX	_	8	aux	_	_	있/px+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그리고 이를 위하여 농업인구들은 정부로부터 대부를 받을 수 있었다 .
+1	그리고	그리고	CCONJ	_	7	cc	_	_	그리고/maj
+2	이를	이+를	PRON	_	3	obj	_	_	이/npd+를/jco
+3	위하여	위하+어	SCONJ	_	7	ccomp	_	_	위하/pvg+어/ecs
+4	농업인구들은	농업+인구+들+은	NOUN	_	7	dislocated	_	_	농업/ncn+인구/ncn+들/xsn+은/jxt
+5	정부로부터	정부+로+부터	ADV	_	7	advcl	_	_	정부/ncn+로/jca+부터/jxc
+6	대부를	대부+를	NOUN	_	7	obj	_	_	대부/ncpa+를/jco
+7	받을	받+ㄹ	VERB	_	0	root	_	_	받/pvg+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있었다	있+었+다	ADJ	_	7	aux	_	_	있/paa+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 도시에 있어서 많은 소규모 사업들이 경쟁에서 축출되었다는 것은 이미 위에서 알아 보았다 .
+1	도시에	도시+에	ADV	_	2	obl	_	_	도시/ncn+에/jca
+2	있어서	있+어서	SCONJ	_	7	xcomp	_	_	있/paa+어서/ecs
+3	많은	많+ㄴ	ADJ	_	5	amod	_	_	많/paa+ㄴ/etm
+4	소규모	소규모	NOUN	_	5	compound	_	_	소규모/ncn
+5	사업들이	사업+들+이	NOUN	_	7	nsubj	_	_	사업/ncn+들/xsn+이/jcs
+6	경쟁에서	경쟁+에서	ADV	_	7	advcl	_	_	경쟁/ncpa+에서/jca
+7	축출되었다는	축출+되+었+다는	VERB	_	8	acl	_	_	축출/ncpa+되/xsv+었/ep+다는/etm
+8	것은	것+은	NOUN	_	11	dislocated	_	_	것/nbn+은/jxt
+9	이미	이미	ADV	_	11	advmod	_	_	이미/mag
+10	위에서	위+에서	ADV	_	11	advcl	_	_	위/ncn+에서/jca
+11	알아	알+아	VERB	_	0	root	_	_	알/pvg+아/ecx
+12	보았다	보+았+다	AUX	_	11	aux	_	_	보/px+았/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이와 같이 중규모 농장 비율을 감소시켰던 효과들은 소규모 농장 비율에 역의 효과를 가져왔다 .
+1	이와	이+와	CCONJ	_	2	conj	_	_	이/npd+와/jct
+2	같이	같+이	SCONJ	_	6	xcomp	_	_	같/paa+이/ecs
+3	중규모	중규모	NOUN	_	4	compound	_	_	중규모/ncn
+4	농장	농장	NOUN	_	5	compound	_	_	농장/ncn
+5	비율을	비율+을	NOUN	_	6	obj	_	_	비율/ncn+을/jco
+6	감소시켰던	감소+시키+었+던	VERB	_	7	acl	_	_	감소/ncpa+시키/xsv+었/ep+던/etm
+7	효과들은	효과+들+은	NOUN	_	13	dislocated	_	_	효과/ncn+들/xsn+은/jxt
+8	소규모	소규모	NOUN	_	9	compound	_	_	소규모/ncn
+9	농장	농장	NOUN	_	10	compound	_	_	농장/ncn
+10	비율에	비율+에	ADV	_	13	obl	_	_	비율/ncn+에/jca
+11	역의	역+의	NOUN	_	12	nmod	_	_	역/ncn+의/jcm
+12	효과를	효과+를	NOUN	_	13	obj	_	_	효과/ncn+를/jco
+13	가져왔다	가지+어+오+았+다	AUX	_	0	root	_	_	가지/pvg+어/ecx+오/px+았/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 중규모농장주들은 소규모 농장주들보다 재정적으로 풍요했으며 그들의 일부가 도시로 이주하였을 경우 이들은 장래에 대한 더 나은 계획을 가질 수 있었다고 본다 .
+1	중규모농장주들은	중규모농장주+들+은	NOUN	_	5	dislocated	_	_	중규모농장주/ncn+들/xsn+은/jxt
+2	소규모	소규모	NOUN	_	3	compound	_	_	소규모/ncn
+3	농장주들보다	농장주+들+보다	ADV	_	5	advcl	_	_	농장주/ncn+들/xsn+보다/jca
+4	재정적으로	재정+적+으로	ADV	_	5	advcl	_	_	재정/ncn+적/xsn+으로/jca
+5	풍요했으며	풍요하+었+으며	CCONJ	_	17	conj	_	_	풍요하/paa+었/ep+으며/ecc
+6	그들의	그+들+의	PRON	_	7	nmod	_	_	그/npp+들/xsn+의/jcm
+7	일부가	일부+가	NOUN	_	9	nsubj	_	_	일부/ncn+가/jcs
+8	도시로	도시+로	ADV	_	9	advcl	_	_	도시/ncn+로/jca
+9	이주하였을	이주+하+었+ㄹ	VERB	_	10	acl	_	_	이주/ncpa+하/xsv+었/ep+ㄹ/etm
+10	경우	경우	NOUN	_	17	advmod	_	_	경우/ncn
+11	이들은	이+들+은	PRON	_	17	dislocated	_	_	이/npd+들/xsn+은/jxt
+12	장래에	장래+에	ADV	_	13	obl	_	_	장래/ncn+에/jca
+13	대한	대하+ㄴ	VERB	_	16	acl	_	_	대하/pvg+ㄴ/etm
+14	더	더	ADV	_	15	advmod	_	_	더/mag
+15	나은	낫+ㄴ	ADJ	_	16	amod	_	_	낫/paa+ㄴ/etm
+16	계획을	계획+을	NOUN	_	17	obj	_	_	계획/ncpa+을/jco
+17	가질	가지+ㄹ	VERB	_	20	conj	_	_	가지/pvg+ㄹ/etm
+18	수	수	NOUN	_	19	fixed	_	_	수/nbn
+19	있었다고	있+었+다+고	VERB	_	17	aux	_	_	있/paa+었/ep+다/ef+고/jcr
+20	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그러나 보편적으로 중규모 농장 비율은 연구기간중 경제적 변화에서 득을 보았으며 또 정부정책도 중규모 농장주들에게 호의적이었다고 본다 .
+1	그러나	그러나	CCONJ	_	16	cc	_	_	그러나/maj
+2	보편적으로	보편적+으로	ADV	_	10	advcl	_	_	보편적/ncn+으로/jca
+3	중규모	중규모	NOUN	_	4	compound	_	_	중규모/ncn
+4	농장	농장	NOUN	_	5	compound	_	_	농장/ncn
+5	비율은	비율+은	NOUN	_	10	dislocated	_	_	비율/ncn+은/jxt
+6	연구기간중	연구+기간+중	NOUN	_	8	advmod	_	_	연구/ncpa+기간/ncn+중/xsn
+7	경제적	경제+적	NOUN	_	8	amod	_	_	경제/ncn+적/xsn
+8	변화에서	변화+에서	ADV	_	10	advcl	_	_	변화/ncpa+에서/jca
+9	득을	득+을	NOUN	_	10	obj	_	_	득/ncn+을/jco
+10	보았으며	보+았+으며	CCONJ	_	15	conj	_	_	보/pvg+았/ep+으며/ecc
+11	또	또	ADV	_	15	advmod	_	_	또/mag
+12	정부정책도	정부정책+도	ADV	_	15	advcl	_	_	정부정책/ncn+도/jxc
+13	중규모	중+규모	NOUN	_	14	compound	_	_	중/ncn+규모/ncn
+14	농장주들에게	농장주+들+에게	ADV	_	15	iobj	_	_	농장주/ncn+들/xsn+에게/jca
+15	호의적이었다고	호의+적+이+었+다+고	VERB	_	16	conj	_	_	호의/ncn+적/xsn+이/jp+었/ep+다/ef+고/jcr
+16	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 사회복지와 보건비용은 중규모 농장비율을 증가시키는 효과를 가졌다 .
+1	사회복지와	사회복지+와	CCONJ	_	2	conj	_	_	사회복지/ncn+와/jcj
+2	보건비용은	보건+비용+은	NOUN	_	7	dislocated	_	_	보건/ncn+비용/ncn+은/jxt
+3	중규모	중+규모	NOUN	_	4	compound	_	_	중/ncn+규모/ncn
+4	농장비율을	농장+비율+을	NOUN	_	5	obj	_	_	농장/ncn+비율/ncn+을/jco
+5	증가시키는	증가+시키+는	VERB	_	6	acl	_	_	증가/ncpa+시키/xsv+는/etm
+6	효과를	효과+를	NOUN	_	7	obj	_	_	효과/ncn+를/jco
+7	가졌다	가지+었+다	VERB	_	0	root	_	_	가지/pvg+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 정부의 관개 , 산림녹화 그리고 그 외 농업사업들 역시 그 비율을 증가시키는 효과를 가졌다 .
+1	정부의	정부+의	NOUN	_	8	nmod	_	_	정부/ncn+의/jcm
+2	관개	관개	NOUN	_	4	conj	_	_	관개/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	산림녹화	산림녹화	NOUN	_	8	conj	_	_	산림녹화/ncn
+5	그리고	그리고	CCONJ	_	8	cc	_	_	그리고/maj
+6	그	그	PRON	_	7	compound	_	_	그/npp
+7	외	외	NOUN	_	8	mark	_	_	외/nbn
+8	농업사업들	농업+사업+들	NOUN	_	14	advmod	_	_	농업/ncn+사업/ncn+들/xsn
+9	역시	역시	ADV	_	14	advmod	_	_	역시/mag
+10	그	그	PRON	_	11	compound	_	_	그/npp
+11	비율을	비율+을	NOUN	_	12	obj	_	_	비율/ncn+을/jco
+12	증가시키는	증가+시키+는	VERB	_	13	acl	_	_	증가/ncpa+시키/xsv+는/etm
+13	효과를	효과+를	NOUN	_	14	obj	_	_	효과/ncn+를/jco
+14	가졌다	가지+었+다	VERB	_	0	root	_	_	가지/pvg+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 물가 보조는 보편적으로 농가소득에 해를 주었지만 중규모 농장에 대한 역의 효과는 적었다 .
+1	물가	물가	NOUN	_	2	compound	_	_	물가/ncn
+2	보조는	보조+는	NOUN	_	6	dislocated	_	_	보조/ncpa+는/jxt
+3	보편적으로	보편+적+으로	ADV	_	6	advcl	_	_	보편/ncn+적/xsn+으로/jca
+4	농가소득에	농가+소득+에	ADV	_	6	obl	_	_	농가/ncn+소득/ncn+에/jca
+5	해를	해+를	NOUN	_	6	obj	_	_	해/ncn+를/jco
+6	주었지만	주+었+지만	SCONJ	_	12	conj	_	_	주/pvg+었/ep+지만/ecs
+7	중규모	중+규모	NOUN	_	8	compound	_	_	중/ncn+규모/ncn
+8	농장에	농장+에	ADV	_	9	obl	_	_	농장/ncn+에/jca
+9	대한	대하+ㄴ	VERB	_	11	acl	_	_	대하/pvg+ㄴ/etm
+10	역의	역+의	NOUN	_	11	nmod	_	_	역/ncn+의/jcm
+11	효과는	효과+는	NOUN	_	12	dislocated	_	_	효과/ncn+는/jxt
+12	적었다	적+었+다	ADJ	_	0	root	_	_	적/paa+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그러나 소득 및 재산세 , 대민간 자본이전 그리고 보건비용은 중규모 농자의 비율을 감소시키는 효과들을 가졌다 .
+1	그러나	그러나	CCONJ	_	15	cc	_	_	그러나/maj
+2	소득	소득	NOUN	_	4	conj	_	_	소득/ncn
+3	및	및	CCONJ	_	4	cc	_	_	및/maj
+4	재산세	재산세	NOUN	_	7	conj	_	_	재산세/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	대민간	대민+간	NOUN	_	7	advmod	_	_	대민/ncn+간/xsn
+7	자본이전	자본+이전	NOUN	_	9	conj	_	_	자본/ncn+이전/ncn
+8	그리고	그리고	CCONJ	_	9	cc	_	_	그리고/maj
+9	보건비용은	보건+비용+은	NOUN	_	15	dislocated	_	_	보건/ncn+비용/ncn+은/jxt
+10	중규모	중+규모	NOUN	_	11	compound	_	_	중/ncn+규모/ncn
+11	농자의	농자+의	NOUN	_	12	nmod	_	_	농자/ncn+의/jcm
+12	비율을	비율+을	NOUN	_	13	obj	_	_	비율/ncn+을/jco
+13	감소시키는	감소+시키+는	VERB	_	14	acl	_	_	감소/ncpa+시키/xsv+는/etm
+14	효과들을	효과+들+을	NOUN	_	15	obj	_	_	효과/ncn+들/xsn+을/jco
+15	가졌다	가지+었+다	VERB	_	0	root	_	_	가지/pvg+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 대규모 농장주는 정부의 농작물 물가보조정책으로부터 위협을 받지 않았으며 오히려 그러한 정부정책이 그들의 비율을 증가시키는 효과를 가졌다 .
+1	대규모	대규모	NOUN	_	2	compound	_	_	대규모/ncn
+2	농장주는	농장주+는	NOUN	_	7	dislocated	_	_	농장주/ncn+는/jxt
+3	정부의	정부+의	NOUN	_	5	nmod	_	_	정부/ncn+의/jcm
+4	농작물	농작물	NOUN	_	5	compound	_	_	농작물/ncn
+5	물가보조정책으로부터	물가+보조+정책+으로+부터	ADV	_	7	advcl	_	_	물가/ncn+보조/ncpa+정책/ncn+으로/jca+부터/jxc
+6	위협을	위협+을	NOUN	_	7	obj	_	_	위협/ncpa+을/jco
+7	받지	받+지	VERB	_	16	conj	_	_	받/pvg+지/ecx
+8	않았으며	않+았+으며	CCONJ	_	7	aux	_	_	않/px+았/ep+으며/ecc
+9	오히려	오히려	ADV	_	16	advmod	_	_	오히려/mag
+10	그러한	그러하+ㄴ	VERB	_	11	amod	_	_	그러하/pad+ㄴ/etm
+11	정부정책이	정부정책+이	NOUN	_	14	nsubj	_	_	정부정책/ncn+이/jcs
+12	그들의	그+들+의	PRON	_	13	nmod	_	_	그/npp+들/xsn+의/jcm
+13	비율을	비율+을	NOUN	_	14	obj	_	_	비율/ncn+을/jco
+14	증가시키는	증가+시키+는	VERB	_	15	acl	_	_	증가/ncpa+시키/xsv+는/etm
+15	효과를	효과+를	NOUN	_	16	obj	_	_	효과/ncn+를/jco
+16	가졌다	가지+었+다	VERB	_	0	root	_	_	가지/pvg+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그러나 전체적으로 볼 때 연구기간중 산업과 사회발전은 그 비율에 역의 효과를 가져다 .
+1	그러나	그러나	CCONJ	_	12	cc	_	_	그러나/maj
+2	전체적으로	전체+적+으로	ADV	_	3	advcl	_	_	전체/ncn+적/xsn+으로/jca
+3	볼	보+ㄹ	VERB	_	4	acl	_	_	보/pvg+ㄹ/etm
+4	때	때	NOUN	_	12	advmod	_	_	때/nbn
+5	연구기간중	연구+기간+중	NOUN	_	7	advmod	_	_	연구/ncpa+기간/ncn+중/xsn
+6	산업과	산업+과	CCONJ	_	7	conj	_	_	산업/ncn+과/jcj
+7	사회발전은	사회발전+은	NOUN	_	12	dislocated	_	_	사회발전/ncpa+은/jxt
+8	그	그	PRON	_	9	compound	_	_	그/npp
+9	비율에	비율+에	ADV	_	12	obl	_	_	비율/ncn+에/jca
+10	역의	역+의	NOUN	_	11	nmod	_	_	역/ncn+의/jcm
+11	효과를	효과+를	NOUN	_	12	obj	_	_	효과/ncn+를/jco
+12	가져다	가지+어다	SCONJ	_	0	root	_	_	가지/pvg+어다/ecs
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 1949 년에 시행된 농지개혁법에는 한 사람이 3 정보 이상 소유하는 것이 금지되어 있다 .
+1	1949	1949	NUM	_	2	nummod	_	_	1949/nnc
+2	년에	년+에	ADV	_	3	obl	_	_	년/nbu+에/jca
+3	시행된	시행+되+ㄴ	VERB	_	4	acl	_	_	시행/ncpa+되/xsv+ㄴ/etm
+4	농지개혁법에는	농지개혁법+에+는	NOUN	_	12	dislocated	_	_	농지개혁법/ncn+에/jca+는/jxt
+5	한	한	NUM	_	6	nummod	_	_	한/nnc
+6	사람이	사람+이	NOUN	_	10	nsubj	_	_	사람/ncn+이/jcs
+7	3	3	NUM	_	8	nummod	_	_	3/nnc
+8	정보	정보	NOUN	_	9	compound	_	_	정보/ncn
+9	이상	이상	NOUN	_	10	compound	_	_	이상/ncn
+10	소유하는	소유+하+는	VERB	_	11	acl	_	_	소유/ncpa+하/xsv+는/etm
+11	것이	것+이	NOUN	_	12	nsubj	_	_	것/nbn+이/jcs
+12	금지되어	금지+되+어	VERB	_	0	root	_	_	금지/ncpa+되/xsv+어/ecx
+13	있다	있+다	AUX	_	12	aux	_	_	있/px+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그러나 본 연구기간중 초과규모농장의 비율은 점증하였다 .
+1	그러나	그러나	CCONJ	_	6	cc	_	_	그러나/maj
+2	본	본	DET	_	3	det	_	_	본/mmd
+3	연구기간중	연구+기간+중	NOUN	_	6	advmod	_	_	연구/ncpa+기간/ncn+중/xsn
+4	초과규모농장의	초과+규모+농장+의	NOUN	_	5	nmod	_	_	초과/ncpa+규모/ncn+농장/ncn+의/jcm
+5	비율은	비율+은	NOUN	_	6	dislocated	_	_	비율/ncn+은/jxt
+6	점증하였다	점증+하+었+다	VERB	_	0	root	_	_	점증/ncpa+하/xsv+었/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 연구기간중에 경제적 변화와 도시화의 비율은 보편적으로 초과규모비율을 증가시키는 효과를 가졌다 .
+1	연구기간중에	연구+기간+중+에	ADV	_	10	obl	_	_	연구/ncpa+기간/ncn+중/xsn+에/jca
+2	경제적	경제+적	NOUN	_	3	amod	_	_	경제/ncn+적/xsn
+3	변화와	변화+와	CCONJ	_	4	conj	_	_	변화/ncpa+와/jcj
+4	도시화의	도시화+의	NOUN	_	5	nmod	_	_	도시화/ncn+의/jcm
+5	비율은	비율+은	NOUN	_	10	dislocated	_	_	비율/ncn+은/jxt
+6	보편적으로	보편+적+으로	ADV	_	8	advcl	_	_	보편/ncn+적/xsn+으로/jca
+7	초과규모비율을	초과+규모+비율+을	NOUN	_	8	obj	_	_	초과/ncpa+규모/ncn+비율/ncn+을/jco
+8	증가시키는	증가+시키+는	VERB	_	9	acl	_	_	증가/ncpa+시키/xsv+는/etm
+9	효과를	효과+를	NOUN	_	10	obj	_	_	효과/ncn+를/jco
+10	가졌다	가지+었+다	VERB	_	0	root	_	_	가지/pvg+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 농작물 물가보조정책은 초과규모농장주의 이윤동기에 장애가 되었으며 , 따라서 그 비율에 역의 효과를 가졌다 .
+1	농작물	농작물	NOUN	_	2	compound	_	_	농작물/ncn
+2	물가보조정책은	물가+보조+정책+은	NOUN	_	6	dislocated	_	_	물가/ncn+보조/ncpa+정책/ncn+은/jxt
+3	초과규모농장주의	초과+규모+농장+주의	NOUN	_	4	compound	_	_	초과/ncpa+규모/ncn+농장/ncn+주의/ncn
+4	이윤동기에	이윤+동기+에	ADV	_	6	obl	_	_	이윤/ncn+동기/ncn+에/jca
+5	장애가	장애+가	NOUN	_	6	nsubj	_	_	장애/ncn+가/jcs
+6	되었으며	되+었+으며	CCONJ	_	13	conj	_	_	되/pvg+었/ep+으며/ecc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	따라서	따라서	ADV	_	13	advmod	_	_	따라서/mag
+9	그	그	PRON	_	10	compound	_	_	그/npp
+10	비율에	비율+에	ADV	_	13	obl	_	_	비율/ncn+에/jca
+11	역의	역+의	NOUN	_	12	nmod	_	_	역/ncn+의/jcm
+12	효과를	효과+를	NOUN	_	13	obj	_	_	효과/ncn+를/jco
+13	가졌다	가지+었+다	VERB	_	0	root	_	_	가지/pvg+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 사회복지비용은 그 비율을 증가시켰는데 이러한 효과를 정책 결정자들이 의도하지는 않았을 것으로 본다 .
+1	사회복지비용은	사회복지+비용+은	NOUN	_	4	dislocated	_	_	사회복지/ncn+비용/ncn+은/jxt
+2	그	그	PRON	_	3	compound	_	_	그/npp
+3	비율을	비율+을	NOUN	_	4	obj	_	_	비율/ncn+을/jco
+4	증가시켰는데	증가+시키+었+는데	SCONJ	_	12	ccomp	_	_	증가/ncpa+시키/xsv+었/ep+는데/ecs
+5	이러한	이러하+ㄴ	VERB	_	6	amod	_	_	이러하/pad+ㄴ/etm
+6	효과를	효과+를	NOUN	_	9	obj	_	_	효과/ncn+를/jco
+7	정책	정책	NOUN	_	8	compound	_	_	정책/ncn
+8	결정자들이	결정자+들+이	NOUN	_	9	nsubj	_	_	결정자/ncn+들/xsn+이/jcs
+9	의도하지는	의도+하+지+는	NOUN	_	11	acl	_	_	의도/ncpa+하/xsv+지/ecx+는/jxt
+10	않았을	않+았+ㄹ	AUX	_	9	aux	_	_	않/px+았/ep+ㄹ/etm
+11	것으로	것+으로	ADV	_	12	advcl	_	_	것/nbn+으로/jca
+12	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이 지수는 1955 년 이후의 것만을 얻을 수 있었는데 연구기간중 농지배분의 불평등이 다소 증대하였다 .
+1	이	이	PRON	_	2	compound	_	_	이/npd
+2	지수는	지수+는	NOUN	_	7	dislocated	_	_	지수/ncn+는/jxt
+3	1955	1955	NUM	_	4	nummod	_	_	1955/nnc
+4	년	년	NOUN	_	5	compound	_	_	년/nbu
+5	이후의	이후+의	NOUN	_	6	nmod	_	_	이후/ncn+의/jcm
+6	것만을	것+만+을	NOUN	_	7	obj	_	_	것/nbn+만/jxc+을/jco
+7	얻을	얻+ㄹ	VERB	_	14	ccomp	_	_	얻/pvg+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있었는데	있+었+는데	SCONJ	_	7	aux	_	_	있/paa+었/ep+는데/ecs
+10	연구기간중	연구+기간+중	NOUN	_	11	advmod	_	_	연구/ncpa+기간/ncn+중/xsn
+11	농지배분의	농지+배분+의	NOUN	_	12	nmod	_	_	농지/ncn+배분/ncpa+의/jcm
+12	불평등이	불평등+이	NOUN	_	14	nsubj	_	_	불평등/ncn+이/jcs
+13	다소	다소	ADV	_	14	advmod	_	_	다소/mag
+14	증대하였다	증대+하+었+다	VERB	_	0	root	_	_	증대/ncpa+하/xsv+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 수는 순의 효과를 보여주고 있는데 이것은 신흥재벌들이 농지를 매입하여 불평등비율을 증가시켰다는 것을 의미한다 .
+1	수는	수+는	NOUN	_	4	dislocated	_	_	수/ncn+는/jxt
+2	순의	순+의	NOUN	_	3	nmod	_	_	순/ncn+의/jcm
+3	효과를	효과+를	NOUN	_	4	obj	_	_	효과/ncn+를/jco
+4	보여주고	보이+어+주+고	AUX	_	13	ccomp	_	_	보이/pvg+어/ecx+주/px+고/ecx
+5	있는데	있+는데	SCONJ	_	4	aux	_	_	있/px+는데/ecs
+6	이것은	이것+은	PRON	_	13	dislocated	_	_	이것/npd+은/jxt
+7	신흥재벌들이	신흥+재벌+들+이	NOUN	_	11	nsubj	_	_	신흥/ncpa+재벌/ncn+들/xsn+이/jcs
+8	농지를	농지+를	NOUN	_	9	obj	_	_	농지/ncn+를/jco
+9	매입하여	매입+하+어	SCONJ	_	11	ccomp	_	_	매입/ncpa+하/xsv+어/ecs
+10	불평등비율을	불평등+비율+을	NOUN	_	11	obj	_	_	불평등/ncpa+비율/ncn+을/jco
+11	증가시켰다는	증가+시키+었+다는	VERB	_	12	acl	_	_	증가/ncpa+시키/xsv+었/ep+다는/etm
+12	것을	것+을	NOUN	_	13	obj	_	_	것/nbn+을/jco
+13	의미한다	의미+하+ㄴ다	VERB	_	0	root	_	_	의미/ncpa+하/xsv+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그러나 소득과 재산세는 보편적으로 대규모 및 초과규모 농자의 비율들을 억제하는 효과를 가졌다 .
+1	그러나	그러나	CCONJ	_	12	cc	_	_	그러나/maj
+2	소득과	소득+과	CCONJ	_	3	conj	_	_	소득/ncn+과/jcj
+3	재산세는	재산세+는	NOUN	_	12	dislocated	_	_	재산세/ncn+는/jxt
+4	보편적으로	보편+적+으로	ADV	_	12	advcl	_	_	보편/ncn+적/xsn+으로/jca
+5	대규모	대규모	NOUN	_	7	conj	_	_	대규모/ncn
+6	및	및	CCONJ	_	7	cc	_	_	및/maj
+7	초과규모	초과+규모	NOUN	_	8	compound	_	_	초과/ncpa+규모/ncpa
+8	농자의	농자+의	NOUN	_	9	nmod	_	_	농자/ncn+의/jcm
+9	비율들을	비율+들+을	NOUN	_	10	obj	_	_	비율/ncn+들/xsn+을/jco
+10	억제하는	억제+하+는	VERB	_	11	acl	_	_	억제/ncpa+하/xsv+는/etm
+11	효과를	효과+를	NOUN	_	12	obj	_	_	효과/ncn+를/jco
+12	가졌다	가지+었+다	VERB	_	0	root	_	_	가지/pvg+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 더구나 농촌지역의 낮은 사회보험수준은 불평등을 증가시키는 데 장애요인이 되었다고 본다 .
+1	더구나	더구나	ADV	_	9	advmod	_	_	더구나/mag
+2	농촌지역의	농촌지역+의	NOUN	_	4	nmod	_	_	농촌지역/ncn+의/jcm
+3	낮은	낮+ㄴ	ADJ	_	4	amod	_	_	낮/paa+ㄴ/etm
+4	사회보험수준은	사회+보험+수준+은	NOUN	_	9	dislocated	_	_	사회/ncn+보험/ncn+수준/ncn+은/jxt
+5	불평등을	불평등+을	NOUN	_	6	obj	_	_	불평등/ncn+을/jco
+6	증가시키는	증가+시키+는	VERB	_	7	acl	_	_	증가/ncpa+시키/xsv+는/etm
+7	데	데	NOUN	_	9	advmod	_	_	데/nbn
+8	장애요인이	장애요인+이	NOUN	_	9	nsubj	_	_	장애요인/ncn+이/jcs
+9	되었다고	되+었+다+고	VERB	_	10	conj	_	_	되/pvg+었/ep+다/ef+고/jcr
+10	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 총고용인수에는 농지 소유자도 포함하여 계산하였다 .
+1	총고용인수에는	총고용인수+에+는	NOUN	_	5	dislocated	_	_	총고용인수/ncn+에/jca+는/jxt
+2	농지	농지	NOUN	_	3	compound	_	_	농지/ncn
+3	소유자도	소유자+도	ADV	_	4	advcl	_	_	소유자/ncn+도/jxc
+4	포함하여	포함+하+어	SCONJ	_	5	ccomp	_	_	포함/ncpa+하/xsv+어/ecs
+5	계산하였다	계산+하+었+다	VERB	_	0	root	_	_	계산/ncpa+하/xsv+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 특기할 것은 총고용자수에 순의 효과를 가졌던 사회적 , 경제적 변인은 하나도 없었다는 사실이다 .
+1	특기할	특기+하+ㄹ	VERB	_	2	acl	_	_	특기/ncpa+하/xsv+ㄹ/etm
+2	것은	것+은	NOUN	_	13	dislocated	_	_	것/nbn+은/jxt
+3	총고용자수에	총고용자수+에	ADV	_	6	obl	_	_	총고용자수/ncn+에/jca
+4	순의	순+의	NOUN	_	5	nmod	_	_	순/ncn+의/jcm
+5	효과를	효과+를	NOUN	_	6	obj	_	_	효과/ncn+를/jco
+6	가졌던	가지+었+던	VERB	_	10	acl	_	_	가지/pvg+었/ep+던/etm
+7	사회적	사회+적	NOUN	_	9	conj	_	_	사회/ncn+적/xsn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	경제적	경제+적	NOUN	_	10	amod	_	_	경제/ncn+적/xsn
+10	변인은	변인+은	NOUN	_	12	dislocated	_	_	변인/ncn+은/jxt
+11	하나도	하나+도	ADV	_	12	advcl	_	_	하나/ncn+도/jxc
+12	없었다는	없+었+다는	ADJ	_	13	amod	_	_	없/paa+었/ep+다는/etm
+13	사실이다	사실+이+다	VERB	_	0	root	_	_	사실/ncn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 단지 농산물 생산지수만이 순의 효과를 보여주고 있지만 이것은 통계적의미가 약하다 .
+1	단지	단지	ADV	_	6	advmod	_	_	단지/mag
+2	농산물	농산물	NOUN	_	3	compound	_	_	농산물/ncn
+3	생산지수만이	생산+지수+만+이	NOUN	_	6	csubj	_	_	생산/ncpa+지수/ncn+만/jxc+이/jcc
+4	순의	순+의	NOUN	_	5	nmod	_	_	순/ncn+의/jcm
+5	효과를	효과+를	NOUN	_	6	obj	_	_	효과/ncn+를/jco
+6	보여주고	보이+어+주+고	AUX	_	10	conj	_	_	보이/pvg+어/ecx+주/px+고/ecx
+7	있지만	있+지만	SCONJ	_	6	aux	_	_	있/px+지만/ecs
+8	이것은	이것+은	PRON	_	10	dislocated	_	_	이것/npd+은/jxt
+9	통계적의미가	통계+적+의미+가	NOUN	_	10	nsubj	_	_	통계/ncn+적/xsn+의미/ncn+가/jcs
+10	약하다	약하+다	ADJ	_	0	root	_	_	약하/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 신기업체수는 총고용인수에 역의 효과를 가졌다 .
+1	신기업체수는	신기업체수+는	PRON	_	5	dislocated	_	_	신기업체수/npp+는/jxt
+2	총고용인수에	총고용인수+에	ADV	_	5	obl	_	_	총고용인수/ncn+에/jca
+3	역의	역+의	NOUN	_	4	nmod	_	_	역/ncn+의/jcm
+4	효과를	효과+를	NOUN	_	5	obj	_	_	효과/ncn+를/jco
+5	가졌다	가지+었+다	VERB	_	0	root	_	_	가지/pvg+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 통계적 의미는 약하지만 산업생산지수와 1 인당 국민총생산도 역의 효과를 보여주고 있다 .
+1	통계적	통계+적	NOUN	_	2	amod	_	_	통계/ncn+적/xsn
+2	의미는	의미+는	NOUN	_	3	dislocated	_	_	의미/ncpa+는/jxt
+3	약하지만	약하+지만	SCONJ	_	10	xcomp	_	_	약하/paa+지만/ecs
+4	산업생산지수와	산업생산+지수+와	CCONJ	_	7	conj	_	_	산업생산/ncn+지수/ncn+와/jcj
+5	1	1	NUM	_	6	nummod	_	_	1/nnc
+6	인당	인+당	NOUN	_	7	advmod	_	_	인/ncn+당/xsn
+7	국민총생산도	국민총생산+도	ADV	_	10	advcl	_	_	국민총생산/ncn+도/jxc
+8	역의	역+의	NOUN	_	9	nmod	_	_	역/ncn+의/jcm
+9	효과를	효과+를	NOUN	_	10	obj	_	_	효과/ncn+를/jco
+10	보여주고	보이+어+주+고	AUX	_	0	root	_	_	보이/pvg+어/ecx+주/px+고/ecx
+11	있다	있+다	AUX	_	10	aux	_	_	있/px+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 여기서 1 인당 국가총생산의 효과는 경제변화의 보편적 효과를 나타낸다고 보겠다 .
+1	여기서	여기+서	ADV	_	9	advcl	_	_	여기/npd+서/jca
+2	1	1	NUM	_	3	nummod	_	_	1/nnc
+3	인당	인+당	NOUN	_	4	advmod	_	_	인/ncn+당/xsn
+4	국가총생산의	국가+총생산+의	NOUN	_	5	nmod	_	_	국가/ncn+총생산/ncn+의/jcm
+5	효과는	효과+는	NOUN	_	9	dislocated	_	_	효과/ncn+는/jxt
+6	경제변화의	경제+변화+의	NOUN	_	8	nmod	_	_	경제/ncn+변화/ncpa+의/jcm
+7	보편적	보편+적	NOUN	_	8	amod	_	_	보편/ncn+적/xsn
+8	효과를	효과+를	NOUN	_	9	obj	_	_	효과/ncn+를/jco
+9	나타낸다고	나타내+ㄴ다+고	VERB	_	10	conj	_	_	나타내/pvg+ㄴ다/ef+고/jcr
+10	보겠다	보+겠+다	VERB	_	0	root	_	_	보/pvg+겠/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 사회복지비용은 도시화율을 증가시켰으며 정부의 경제사업은 총고용인수를 증대시키는 효과를 가졌다 .
+1	사회복지비용은	사회복지+비용+은	NOUN	_	3	dislocated	_	_	사회복지/ncn+비용/ncn+은/jxt
+2	도시화율을	도시화율+을	NOUN	_	3	obj	_	_	도시화율/ncn+을/jco
+3	증가시켰으며	증가+시키+었+으며	CCONJ	_	7	conj	_	_	증가/ncpa+시키/xsv+었/ep+으며/ecc
+4	정부의	정부+의	NOUN	_	5	nmod	_	_	정부/ncn+의/jcm
+5	경제사업은	경제+사업+은	NOUN	_	7	dislocated	_	_	경제/ncn+사업/ncn+은/jxt
+6	총고용인수를	총고용인수+를	NOUN	_	7	obj	_	_	총고용인수/ncn+를/jco
+7	증대시키는	증대+시키+는	VERB	_	8	acl	_	_	증대/ncpa+시키/xsv+는/etm
+8	효과를	효과+를	NOUN	_	9	obj	_	_	효과/ncn+를/jco
+9	가졌다	가지+었+다	VERB	_	0	root	_	_	가지/pvg+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 경제적 변화에만 적용되는 것으로 본다 .
+1	경제적	경제+적	NOUN	_	2	amod	_	_	경제/ncn+적/xsn
+2	변화에만	변화+에+만	ADV	_	3	advcl	_	_	변화/ncpa+에/jca+만/jxc
+3	적용되는	적용+되+는	VERB	_	4	acl	_	_	적용/ncpa+되/xsv+는/etm
+4	것으로	것+으로	ADV	_	5	advcl	_	_	것/nbn+으로/jca
+5	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 제 3 공화국 초기에 실업자 및 비율은 조금 증가하였다 .
+1	제	제	NOUN	_	2	compound	_	_	제/ncn
+2	3	3	NUM	_	3	nummod	_	_	3/nnc
+3	공화국	공화국	NOUN	_	4	compound	_	_	공화국/ncn
+4	초기에	초기+에	ADV	_	9	obl	_	_	초기/ncn+에/jca
+5	실업자	실업자	NOUN	_	7	conj	_	_	실업자/ncn
+6	및	및	CCONJ	_	7	cc	_	_	및/maj
+7	비율은	비율+은	NOUN	_	9	dislocated	_	_	비율/ncn+은/jxt
+8	조금	조금	ADV	_	9	advmod	_	_	조금/mag
+9	증가하였다	증가+하+었+다	VERB	_	0	root	_	_	증가/ncpa+하/xsv+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러나 후기에 가서는 감소되었다 .
+1	그러나	그러나	CCONJ	_	4	cc	_	_	그러나/maj
+2	후기에	후기+에	ADV	_	3	obl	_	_	후기/ncn+에/jca
+3	가서는	가+서+는	NOUN	_	4	ccomp	_	_	가/pvg+서/ecs+는/jxt
+4	감소되었다	감소+되+었+다	VERB	_	0	root	_	_	감소/ncpa+되/xsv+었/ep+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 농산물생산지수와 도시화율은 실업자 및 비율을 증가시키는 효과를 가졌다 .
+1	농산물생산지수와	농산물+생산+지수+와	CCONJ	_	2	conj	_	_	농산물/ncn+생산/ncpa+지수/ncn+와/jcj
+2	도시화율은	도시화율+은	NOUN	_	8	dislocated	_	_	도시화율/ncn+은/jxt
+3	실업자	실업자	NOUN	_	5	conj	_	_	실업자/ncn
+4	및	및	CCONJ	_	5	cc	_	_	및/maj
+5	비율을	비율+을	NOUN	_	6	obj	_	_	비율/ncn+을/jco
+6	증가시키는	증가+시키+는	VERB	_	7	acl	_	_	증가/ncpa+시키/xsv+는/etm
+7	효과를	효과+를	NOUN	_	8	obj	_	_	효과/ncn+를/jco
+8	가졌다	가지+었+다	VERB	_	0	root	_	_	가지/pvg+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 사회복지와 보건비용은 노동력을 증대시켰으며 그로 인하여 실업자 및 비율을 증가시키게 되었다 .
+1	사회복지와	사회+복지+와	CCONJ	_	2	conj	_	_	사회/ncn+복지/ncn+와/jcj
+2	보건비용은	보건+비용+은	NOUN	_	4	dislocated	_	_	보건/ncn+비용/ncn+은/jxt
+3	노동력을	노동력+을	NOUN	_	4	obj	_	_	노동력/ncn+을/jco
+4	증대시켰으며	증대+시키+었+으며	CCONJ	_	10	conj	_	_	증대/ncpa+시키/xsv+었/ep+으며/ecc
+5	그로	그+로	ADV	_	6	advcl	_	_	그/npp+로/jca
+6	인하여	인하+어	SCONJ	_	10	ccomp	_	_	인하/pvg+어/ecs
+7	실업자	실업자	NOUN	_	9	conj	_	_	실업자/ncn
+8	및	및	CCONJ	_	9	cc	_	_	및/maj
+9	비율을	비율+을	NOUN	_	10	obj	_	_	비율/ncn+을/jco
+10	증가시키게	증가+시키+게	VERB	_	0	root	_	_	증가/ncpa+시키/xsv+게/ecx
+11	되었다	되+었+다	AUX	_	10	aux	_	_	되/px+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 산업체에 대한 소득 및 재산세 그리고 정부 경제사업은 실업자 및 비율을 저하시키는 데 공헌하였다 .
+1	산업체에	산업체+에	ADV	_	2	obl	_	_	산업체/ncn+에/jca
+2	대한	대하+ㄴ	VERB	_	8	acl	_	_	대하/pvg+ㄴ/etm
+3	소득	소득	NOUN	_	5	conj	_	_	소득/ncn
+4	및	및	CCONJ	_	5	cc	_	_	및/maj
+5	재산세	재산세	NOUN	_	8	conj	_	_	재산세/ncn
+6	그리고	그리고	CCONJ	_	8	cc	_	_	그리고/maj
+7	정부	정부	NOUN	_	8	compound	_	_	정부/ncn
+8	경제사업은	경제+사업+은	NOUN	_	14	dislocated	_	_	경제/ncn+사업/ncn+은/jxt
+9	실업자	실업자	NOUN	_	11	conj	_	_	실업자/ncn
+10	및	및	CCONJ	_	11	cc	_	_	및/maj
+11	비율을	비율+을	NOUN	_	12	obj	_	_	비율/ncn+을/jco
+12	저하시키는	저하+시키+는	VERB	_	13	acl	_	_	저하/ncpa+시키/xsv+는/etm
+13	데	데	NOUN	_	14	mark	_	_	데/nbn
+14	공헌하였다	공헌+하+었+다	VERB	_	0	root	_	_	공헌/ncpa+하/xsv+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그리고 보건비용 역시 그 비율을 저하시켰다 .
+1	그리고	그리고	CCONJ	_	6	cc	_	_	그리고/maj
+2	보건비용	보건+비용	NOUN	_	6	advmod	_	_	보건/ncn+비용/ncn
+3	역시	역시	ADV	_	6	advmod	_	_	역시/mag
+4	그	그	PRON	_	5	compound	_	_	그/npp
+5	비율을	비율+을	NOUN	_	6	obj	_	_	비율/ncn+을/jco
+6	저하시켰다	저하+시키+었+다	VERB	_	0	root	_	_	저하/ncpa+시키/xsv+었/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 한국에서는 1948 년 5 월에 전시민들이 참정권을 가지고 제헌국회 대의원들을 선출하는 첫 보통선거가 있었다 .
+1	한국에서는	한국+에서+는	PROPN	_	14	dislocated	_	_	한국/nq+에서/jca+는/jxt
+2	1948	1948	NUM	_	3	nummod	_	_	1948/nnc
+3	년	년	NOUN	_	5	compound	_	_	년/nbu
+4	5	5	NUM	_	5	nummod	_	_	5/nnc
+5	월에	월+에	ADV	_	14	obl	_	_	월/nbu+에/jca
+6	전시민들이	전시민+들+이	NOUN	_	11	nsubj	_	_	전시민/ncn+들/xsn+이/jcs
+7	참정권을	참정권+을	NOUN	_	8	obj	_	_	참정권/ncn+을/jco
+8	가지고	가지+고	CCONJ	_	11	conj	_	_	가지/pvg+고/ecc
+9	제헌국회	제헌국회	NOUN	_	10	compound	_	_	제헌국회/ncn
+10	대의원들을	대의원+들+을	NOUN	_	11	obj	_	_	대의원/ncn+들/xsn+을/jco
+11	선출하는	선출+하+는	VERB	_	13	acl	_	_	선출/ncpa+하/xsv+는/etm
+12	첫	첫	NUM	_	13	nummod	_	_	첫/nnc
+13	보통선거가	보통선거+가	NOUN	_	14	nsubj	_	_	보통선거/ncn+가/jcs
+14	있었다	있+었+다	ADJ	_	0	root	_	_	있/paa+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 국민투료는 제 3 공화국 하에서만 있었으며 이들은 개헌에 관한 국민의 최종적인 승인을 얻기 위한 것이었다 .
+1	국민투료는	국민투표+는	NOUN	_	6	dislocated	_	_	국민투표/ncn+는/jxt
+2	제	제	NOUN	_	3	compound	_	_	제/ncn
+3	3	3	NUM	_	4	nummod	_	_	3/nnc
+4	공화국	공화국	NOUN	_	5	compound	_	_	공화국/ncn
+5	하에서만	하+에서+만	ADV	_	6	advcl	_	_	하/nbn+에서/jca+만/jxc
+6	있었으며	있+었+으며	CCONJ	_	14	conj	_	_	있/paa+었/ep+으며/ecc
+7	이들은	이+들+은	PRON	_	13	dislocated	_	_	이/npd+들/xsn+은/jxt
+8	개헌에	개헌+에	ADV	_	9	obl	_	_	개헌/ncpa+에/jca
+9	관한	관하+ㄴ	VERB	_	12	acl	_	_	관하/pvg+ㄴ/etm
+10	국민의	국민+의	NOUN	_	12	nmod	_	_	국민/ncn+의/jcm
+11	최종적인	최종+적+이+ㄴ	VERB	_	12	acl	_	_	최종/ncn+적/xsn+이/jp+ㄴ/etm
+12	승인을	승인+을	NOUN	_	13	obj	_	_	승인/ncpa+을/jco
+13	얻기	얻+기	VERB	_	14	nmod	_	_	얻/pvg+기/etn
+14	위한	위하+ㄴ	VERB	_	0	root	_	_	위하/pvg+ㄴ/etm
+15	것이었다	것+이+었+다	VERB	_	14	aux	_	_	것/nbn+이/jp+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그러므로 본 분석결과는 단지 한국 유권자들 투펴형태의 보편적 형태만을 보여줄 수 있는 것으로 본다 .
+1	그러므로	그러므로	CCONJ	_	14	cc	_	_	그러므로/maj
+2	본	본	DET	_	3	det	_	_	본/mmd
+3	분석결과는	분석+결과+는	NOUN	_	10	dislocated	_	_	분석/ncpa+결과/ncpa+는/jxt
+4	단지	단지	ADV	_	10	advmod	_	_	단지/mag
+5	한국	한국	PROPN	_	6	compound	_	_	한국/nq
+6	유권자들	유권자+들	NOUN	_	7	compound	_	_	유권자/ncn+들/xsn
+7	투펴형태의	투표형태+의	NOUN	_	9	nmod	_	_	투표형태/ncn+의/jcm
+8	보편적	보편+적	NOUN	_	9	amod	_	_	보편/ncn+적/xsn
+9	형태만을	형태+만+을	NOUN	_	10	obj	_	_	형태/ncn+만/jxc+을/jco
+10	보여줄	보이+어+주+ㄹ	AUX	_	13	acl	_	_	보이/pvg+어/ecx+주/px+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있는	있+는	ADJ	_	10	aux	_	_	있/paa+는/etm
+13	것으로	것+으로	ADV	_	14	advcl	_	_	것/nbn+으로/jca
+14	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 더구나 변수들의 효과형태도 대통령선거와 의원선거 참여울에 관한 것과 국민투표 참여율에 관한 것들이 대단히 상이하다 .
+1	더구나	더구나	ADV	_	14	advmod	_	_	더구나/mag
+2	변수들의	변수+들+의	NOUN	_	3	nmod	_	_	변수/ncn+들/xsn+의/jcm
+3	효과형태도	효과+형태+도	ADV	_	14	advcl	_	_	효과/ncn+형태/ncn+도/jxc
+4	대통령선거와	대통령+선거+와	CCONJ	_	5	conj	_	_	대통령/ncn+선거/ncpa+와/jcj
+5	의원선거	의원선거	NOUN	_	6	compound	_	_	의원선거/ncn
+6	참여울에	참여율+에	ADV	_	7	obl	_	_	참여율/ncn+에/jca
+7	관한	관하+ㄴ	VERB	_	8	acl	_	_	관하/pvg+ㄴ/etm
+8	것과	것+과	CCONJ	_	12	conj	_	_	것/nbn+과/jcj
+9	국민투표	국민투표	NOUN	_	10	compound	_	_	국민투표/ncn
+10	참여율에	참여율+에	ADV	_	11	obl	_	_	참여율/ncn+에/jca
+11	관한	관하+ㄴ	VERB	_	12	acl	_	_	관하/pvg+ㄴ/etm
+12	것들이	것+들+이	NOUN	_	14	nsubj	_	_	것/nbn+들/xsn+이/jcs
+13	대단히	대단+히	ADV	_	14	advmod	_	_	대단/ncps+히/xsa
+14	상이하다	상이하+다	ADJ	_	0	root	_	_	상이하/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 먼저 대통령선거와 의원선거 참여율에 관한 효과형태들을 알아보기로 하고 그 다음에 국민투표에 관한 효과형태들을 알아보기로 한다 .
+1	먼저	먼저	ADV	_	7	advmod	_	_	먼저/mag
+2	대통령선거와	대통령+선거+와	CCONJ	_	3	conj	_	_	대통령/ncn+선거/ncpa+와/jcj
+3	의원선거	의원선거	NOUN	_	4	compound	_	_	의원선거/ncn
+4	참여율에	참여율+에	ADV	_	5	obl	_	_	참여율/ncn+에/jca
+5	관한	관하+ㄴ	VERB	_	6	acl	_	_	관하/pvg+ㄴ/etm
+6	효과형태들을	효과+형태+들+을	NOUN	_	7	obj	_	_	효과/ncn+형태/ncn+들/xsn+을/jco
+7	알아보기로	알+아+보+기+로	ADV	_	8	advcl	_	_	알/pvg+아/ecx+보/px+기/etn+로/jca
+8	하고	하+고	CCONJ	_	15	conj	_	_	하/pvg+고/ecc
+9	그	그	PRON	_	10	compound	_	_	그/npp
+10	다음에	다음+에	ADV	_	14	obl	_	_	다음/ncn+에/jca
+11	국민투표에	국민투표+에	ADV	_	12	obl	_	_	국민투표/ncpa+에/jca
+12	관한	관하+ㄴ	VERB	_	13	acl	_	_	관하/pvg+ㄴ/etm
+13	효과형태들을	효과+형태+들+을	NOUN	_	14	obj	_	_	효과/ncn+형태/ncn+들/xsn+을/jco
+14	알아보기로	알+아+보+기+로	ADV	_	15	advcl	_	_	알/pvg+아/ecx+보/px+기/etn+로/jca
+15	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 증가는 대통령선거와 의원선거 참여비율을 저하시키는 경향이 있다 .
+1	증가는	증가+는	NOUN	_	7	dislocated	_	_	증가/ncpa+는/jxt
+2	대통령선거와	대통령+선거+와	CCONJ	_	3	conj	_	_	대통령/ncn+선거/ncpa+와/jcj
+3	의원선거	의원+선거	NOUN	_	4	compound	_	_	의원/ncn+선거/ncpa
+4	참여비율을	참여+비율+을	NOUN	_	5	obj	_	_	참여/ncpa+비율/ncn+을/jco
+5	저하시키는	저하+시키+는	VERB	_	6	acl	_	_	저하/ncpa+시키/xsv+는/etm
+6	경향이	경향+이	NOUN	_	7	nsubj	_	_	경향/ncn+이/jcs
+7	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 경제적 자원이 증대하면 그들의 많은 수가 정부의 권위를 나누어 갖기 위해 국가선거에 참여하게 될 것이라는 기대와는 바대된다 .
+1	경제적	경제+적	NOUN	_	2	amod	_	_	경제/ncn+적/xsn
+2	자원이	자원+이	NOUN	_	3	nsubj	_	_	자원/ncn+이/jcs
+3	증대하면	증대+하+면	SCONJ	_	13	ccomp	_	_	증대/ncpa+하/xsv+면/ecs
+4	그들의	그+들+의	PRON	_	6	nmod	_	_	그/npp+들/xsn+의/jcm
+5	많은	많+ㄴ	ADJ	_	6	amod	_	_	많/paa+ㄴ/etm
+6	수가	수+가	NOUN	_	13	nsubj	_	_	수/nbn+가/jcs
+7	정부의	정부+의	NOUN	_	8	nmod	_	_	정부/ncn+의/jcm
+8	권위를	권위+를	NOUN	_	10	obj	_	_	권위/ncn+를/jco
+9	나누어	나누+어	SCONJ	_	10	ccomp	_	_	나누/pvg+어/ecs
+10	갖기	갖+기	VERB	_	11	nmod	_	_	갖/pvg+기/etn
+11	위해	위하+어	SCONJ	_	13	ccomp	_	_	위하/pvg+어/ecs
+12	국가선거에	국가+선거+에	ADV	_	13	obl	_	_	국가/ncn+선거/ncpa+에/jca
+13	참여하게	참여+하+게	VERB	_	16	acl	_	_	참여/ncpa+하/xsv+게/ecx
+14	될	되+ㄹ	AUX	_	13	aux	_	_	되/px+ㄹ/etm
+15	것이라는	것+이+라는	VERB	_	13	aux	_	_	것/nbn+이/jp+라는/etm
+16	기대와는	기대+와+는	NOUN	_	17	dislocated	_	_	기대/ncpa+와/jct+는/jxt
+17	바대된다	반대+되+ㄴ다	VERB	_	0	root	_	_	반대/ncpa+되/xsv+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 연구기간을 통해서 자영업자의 수는 감소하였다 .
+1	연구기간을	연구+기간+을	NOUN	_	2	obj	_	_	연구/ncpa+기간/ncn+을/jco
+2	통해서	통하+어서	SCONJ	_	5	ccomp	_	_	통하/pvg+어서/ecs
+3	자영업자의	자영업자+의	NOUN	_	4	nmod	_	_	자영업자/ncn+의/jcm
+4	수는	수+는	NOUN	_	5	dislocated	_	_	수/nbn+는/jxt
+5	감소하였다	감소+하+었+다	VERB	_	0	root	_	_	감소/ncpa+하/xsv+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 다음에 이들 실업자와 비완전고용자들의 투표형태를 더 자세히 조사해 보기로 한다 .
+1	다음에	다음+에	ADV	_	8	obl	_	_	다음/ncn+에/jca
+2	이들	이+들	NOUN	_	4	compound	_	_	이/npd+들/xsn
+3	실업자와	실업자+와	CCONJ	_	4	conj	_	_	실업자/ncn+와/jcj
+4	비완전고용자들의	비완전고용자+들+의	NOUN	_	5	nmod	_	_	비완전고용자/ncn+들/xsn+의/jcm
+5	투표형태를	투표형태+를	NOUN	_	8	obj	_	_	투표형태/ncn+를/jco
+6	더	더	ADV	_	8	advmod	_	_	더/mag
+7	자세히	자세+히	ADV	_	6	dep	_	_	자세/ncps+히/xsa
+8	조사해	조사+하+어	VERB	_	10	advcl	_	_	조사/ncpa+하/xsv+어/ecx
+9	보기로	보+기+로	ADV	_	8	aux	_	_	보/px+기/etn+로/jca
+10	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이들은 또 의원선거에서도 소외되었다 .
+1	이들은	이+들+은	PRON	_	4	dislocated	_	_	이/npd+들/xsn+은/jxt
+2	또	또	ADV	_	4	advmod	_	_	또/mag
+3	의원선거에서도	의원+선거+에서+도	ADV	_	4	advcl	_	_	의원/ncn+선거/ncpa+에서/jca+도/jxc
+4	소외되었다	소외+되+었+다	VERB	_	0	root	_	_	소외/ncpa+되/xsv+었/ep+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 국회내 정당수는 모든 자원배분변수들의 통제조건하에서 의원선거 참가율에 대하여 순의 효과를 보여주고 있다 .
+1	국회내	국회+내	NOUN	_	2	compound	_	_	국회/ncn+내/ncn
+2	정당수는	정당수+는	NOUN	_	11	dislocated	_	_	정당수/ncn+는/jxt
+3	모든	모든	ADJ	_	4	amod	_	_	모든/mma
+4	자원배분변수들의	자원+배분+변수+들+의	NOUN	_	5	nmod	_	_	자원/ncn+배분/ncpa+변수/ncn+들/xsn+의/jcm
+5	통제조건하에서	통제+조건하+에서	ADV	_	11	advcl	_	_	통제/ncpa+조건하/ncn+에서/jca
+6	의원선거	의원+선거	NOUN	_	7	compound	_	_	의원/ncn+선거/ncpa
+7	참가율에	참가율+에	ADV	_	8	obl	_	_	참가율/ncn+에/jca
+8	대하여	대하+어	SCONJ	_	11	ccomp	_	_	대하/pvg+어/ecs
+9	순의	순+의	NOUN	_	10	nmod	_	_	순/ncn+의/jcm
+10	효과를	효과+를	NOUN	_	11	obj	_	_	효과/ncn+를/jco
+11	보여주고	보이+어+주+고	AUX	_	0	root	_	_	보이/pvg+어/ecx+주/px+고/ecx
+12	있다	있+다	AUX	_	11	aux	_	_	있/px+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이것은 연구기간 중 정당들은 대통령선거보다는 의원선거에 있어서 그들의 중개역할을 더 효과적으로 수행했다는 것을 의미한다 .
+1	이것은	이것+은	PRON	_	14	dislocated	_	_	이것/npd+은/jxt
+2	연구기간	연구+기간	NOUN	_	3	compound	_	_	연구/ncpa+기간/ncn
+3	중	중	NOUN	_	4	compound	_	_	중/ncn
+4	정당들은	정당+들+은	NOUN	_	12	dislocated	_	_	정당/ncn+들/xsn+은/jxt
+5	대통령선거보다는	대통령+선거+보다+는	NOUN	_	7	dislocated	_	_	대통령/ncn+선거/ncpa+보다/jca+는/jxt
+6	의원선거에	의원+선거+에	ADV	_	7	obl	_	_	의원/ncn+선거/ncpa+에/jca
+7	있어서	있+어서	SCONJ	_	12	xcomp	_	_	있/paa+어서/ecs
+8	그들의	그+들+의	PRON	_	9	nmod	_	_	그/npp+들/xsn+의/jcm
+9	중개역할을	중개+역할+을	NOUN	_	12	obj	_	_	중개/ncpa+역할/ncn+을/jco
+10	더	더	ADV	_	11	advmod	_	_	더/mag
+11	효과적으로	효과+적+으로	ADV	_	12	advcl	_	_	효과/ncn+적/xsn+으로/jca
+12	수행했다는	수행+하+었+다는	VERB	_	13	acl	_	_	수행/ncpa+하/xsv+었/ep+다는/etm
+13	것을	것+을	NOUN	_	14	obj	_	_	것/nbn+을/jco
+14	의미한다	의미+하+ㄴ다	VERB	_	0	root	_	_	의미/ncpa+하/xsv+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그러나 의원선거에서 초헌법적 활동에 참여하였던 실업자 및 비완전고용자들은 극소수에 지나지 않았다 .
+1	그러나	그러나	CCONJ	_	10	cc	_	_	그러나/maj
+2	의원선거에서	의원+선거+에서	ADV	_	5	advcl	_	_	의원/ncn+선거/ncpa+에서/jca
+3	초헌법적	초헌법+적	NOUN	_	4	amod	_	_	초헌법/ncn+적/xsn
+4	활동에	활동+에	ADV	_	5	obl	_	_	활동/ncpa+에/jca
+5	참여하였던	참여+하+었+던	VERB	_	8	acl	_	_	참여/ncpa+하/xsv+었/ep+던/etm
+6	실업자	실업자	NOUN	_	8	conj	_	_	실업자/ncn
+7	및	및	CCONJ	_	8	cc	_	_	및/maj
+8	비완전고용자들은	비완전고용자+들+은	NOUN	_	10	dislocated	_	_	비완전고용자/ncn+들/xsn+은/jxt
+9	극소수에	극소수+에	ADV	_	10	obl	_	_	극소수/ncn+에/jca
+10	지나지	지나+지	VERB	_	0	root	_	_	지나/pvg+지/ecx
+11	않았다	않+았+다	AUX	_	10	aux	_	_	않/px+았/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이에 대한 부분적 설명은 최근에 고용사정이 일반적으로 향상되었다는 사실에서 찾아 볼 수 있다고 본다 .
+1	이에	이+에	ADV	_	2	obl	_	_	이/npd+에/jca
+2	대한	대하+ㄴ	VERB	_	4	acl	_	_	대하/pvg+ㄴ/etm
+3	부분적	부분+적	NOUN	_	4	amod	_	_	부분/ncn+적/xsn
+4	설명은	설명+은	NOUN	_	10	dislocated	_	_	설명/ncpa+은/jxt
+5	최근에	최근+에	ADV	_	8	obl	_	_	최근/ncn+에/jca
+6	고용사정이	고용+사정+이	NOUN	_	8	nsubj	_	_	고용/ncpa+사정/ncn+이/jcs
+7	일반적으로	일반+적+으로	ADV	_	8	advcl	_	_	일반/ncn+적/xsn+으로/jca
+8	향상되었다는	향상+되+었+다는	VERB	_	9	acl	_	_	향상/ncpa+되/xsv+었/ep+다는/etm
+9	사실에서	사실+에서	ADV	_	10	advcl	_	_	사실/ncn+에서/jca
+10	찾아	찾+아	VERB	_	14	conj	_	_	찾/pvg+아/ecx
+11	볼	보+ㄹ	AUX	_	10	aux	_	_	보/px+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있다고	있+다+고	VERB	_	10	aux	_	_	있/paa+다/ef+고/jcr
+14	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 자원배분변수의 국민투표 참여율에 대한 효과형태는 위에서 본 대통령선고와 의원선거 참여율에 대한 형태들과는 판이하다 .
+1	자원배분변수의	자원+배분+변수+의	NOUN	_	5	nmod	_	_	자원/ncn+배분/ncpa+변수/ncn+의/jcm
+2	국민투표	국민투표	NOUN	_	3	compound	_	_	국민투표/ncn
+3	참여율에	참여율+에	ADV	_	4	obl	_	_	참여율/ncn+에/jca
+4	대한	대하+ㄴ	VERB	_	5	acl	_	_	대하/pvg+ㄴ/etm
+5	효과형태는	효과+형태+는	NOUN	_	13	dislocated	_	_	효과/ncn+형태/ncn+는/jxt
+6	위에서	위+에서	ADV	_	7	advcl	_	_	위/ncn+에서/jca
+7	본	보+ㄴ	VERB	_	10	acl	_	_	보/pvg+ㄴ/etm
+8	대통령선고와	대통령+선거+와	CCONJ	_	9	conj	_	_	대통령/ncn+선거/ncpa+와/jcj
+9	의원선거	의원선거	NOUN	_	10	compound	_	_	의원선거/ncn
+10	참여율에	참여율+에	ADV	_	11	obl	_	_	참여율/ncn+에/jca
+11	대한	대하+ㄴ	VERB	_	12	acl	_	_	대하/pvg+ㄴ/etm
+12	형태들과는	형태+들+과는	ADV	_	13	advcl	_	_	형태/ncn+들/xsn+과는/jxc
+13	판이하다	판이+하+다	VERB	_	0	root	_	_	판이/ncpa+하/xsv+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 증가와 농가 생활 수준의 향상은 시민들의 국민투표 참여율을 상승시켰다 .
+1	증가와	증가+와	CCONJ	_	5	conj	_	_	증가/ncpa+와/jcj
+2	농가	농가	NOUN	_	3	compound	_	_	농가/ncn
+3	생활	생활	NOUN	_	4	compound	_	_	생활/ncn
+4	수준의	수준+의	NOUN	_	5	nmod	_	_	수준/ncn+의/jcm
+5	향상은	향상+은	NOUN	_	9	dislocated	_	_	향상/ncpa+은/jxt
+6	시민들의	시민+들+의	NOUN	_	8	nmod	_	_	시민/ncn+들/xsn+의/jcm
+7	국민투표	국민투표	NOUN	_	8	compound	_	_	국민투표/ncn
+8	참여율을	참여율+을	NOUN	_	9	obj	_	_	참여율/ncn+을/jco
+9	상승시켰다	상승+시키+었+다	VERB	_	0	root	_	_	상승/ncpa+시키/xsv+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이 결과는 상기한 최초의 기대에 부합된 것 같다 .
+1	이	이	PRON	_	2	compound	_	_	이/npd
+2	결과는	결과+는	NOUN	_	6	dislocated	_	_	결과/ncpa+는/jxt
+3	상기한	상기+하+ㄴ	VERB	_	5	acl	_	_	상기/ncpa+하/xsv+ㄴ/etm
+4	최초의	최초+의	NOUN	_	5	nmod	_	_	최초/ncn+의/jcm
+5	기대에	기대+에	ADV	_	6	obl	_	_	기대/ncpa+에/jca
+6	부합된	부합+되+ㄴ	VERB	_	0	root	_	_	부합/ncpa+되/xsv+ㄴ/etm
+7	것	것	NOUN	_	8	fixed	_	_	것/nbn
+8	같다	같+다	ADJ	_	6	aux	_	_	같/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그러나 더 자세한 분석결과는 그 반대를 가리키고 있다 .
+1	그러나	그러나	CCONJ	_	7	cc	_	_	그러나/maj
+2	더	더	ADV	_	3	advmod	_	_	더/mag
+3	자세한	자세하+ㄴ	ADJ	_	4	amod	_	_	자세하/paa+ㄴ/etm
+4	분석결과는	분석+결과+는	NOUN	_	7	dislocated	_	_	분석/ncpa+결과/ncpa+는/jxt
+5	그	그	PRON	_	6	compound	_	_	그/npp
+6	반대를	반대+를	NOUN	_	7	obj	_	_	반대/ncpa+를/jco
+7	가리키고	가리키+고	VERB	_	0	root	_	_	가리키/pvg+고/ecx
+8	있다	있+다	AUX	_	7	aux	_	_	있/px+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 전술한 바와 같이 많은 수의 실업자와 비완고용자가 대통령선거와 의원선거에 불참하였다 .
+1	전술한	전술+하+ㄴ	VERB	_	2	acl	_	_	전술/ncpa+하/xsv+ㄴ/etm
+2	바와	바+와	CCONJ	_	3	conj	_	_	바/nbn+와/jct
+3	같이	같+이	SCONJ	_	10	xcomp	_	_	같/paa+이/ecs
+4	많은	많+ㄴ	ADJ	_	5	amod	_	_	많/paa+ㄴ/etm
+5	수의	수+의	NOUN	_	7	nmod	_	_	수/nbn+의/jcm
+6	실업자와	실업자+와	CCONJ	_	7	conj	_	_	실업자/ncn+와/jcj
+7	비완고용자가	비완고용자+가	NOUN	_	10	nsubj	_	_	비완고용자/ncn+가/jcs
+8	대통령선거와	대통령+선거+와	CCONJ	_	9	conj	_	_	대통령/ncn+선거/ncpa+와/jcj
+9	의원선거에	의원+선거+에	ADV	_	10	obl	_	_	의원/ncn+선거/ncpa+에/jca
+10	불참하였다	불참+하+었+다	VERB	_	0	root	_	_	불참/ncpa+하/xsv+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그러나 그들의 대다수가 국민투표에는 참여하였다 .
+1	그러나	그러나	CCONJ	_	5	cc	_	_	그러나/maj
+2	그들의	그+들+의	PRON	_	3	nmod	_	_	그/npp+들/xsn+의/jcm
+3	대다수가	대다수+가	NOUN	_	5	nsubj	_	_	대다수/ncn+가/jcs
+4	국민투표에는	국민투표+에+는	NOUN	_	5	dislocated	_	_	국민투표/ncpa+에/jca+는/jxt
+5	참여하였다	참여+하+었+다	VERB	_	0	root	_	_	참여/ncpa+하/xsv+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 총 10 개 소기간을 설정하였는데 이들은 다섯번째와 일곱번째 소기간을 제외하고는 8 개 국회임기들에 상응된다 .
+1	총	총	NOUN	_	3	compound	_	_	총/ncn
+2	10	10	NUM	_	3	nummod	_	_	10/nnc
+3	개	개	NOUN	_	4	compound	_	_	개/nbu
+4	소기간을	소기간+을	NOUN	_	5	obj	_	_	소기간/ncn+을/jco
+5	설정하였는데	설정+하+었+는데	SCONJ	_	14	ccomp	_	_	설정/ncpa+하/xsv+었/ep+는데/ecs
+6	이들은	이+들+은	PRON	_	14	dislocated	_	_	이/npd+들/xsn+은/jxt
+7	다섯번째와	다섯번+째+와	CCONJ	_	8	conj	_	_	다섯번/ncn+째/xsn+와/jcj
+8	일곱번째	일곱번+째	NOUN	_	9	advmod	_	_	일곱번/ncn+째/xsn
+9	소기간을	소기간+을	NOUN	_	10	obj	_	_	소기간/ncn+을/jco
+10	제외하고는	제외+하+고+는	NOUN	_	14	ccomp	_	_	제외/ncpa+하/xsv+고/ecc+는/jxt
+11	8	8	NUM	_	12	nummod	_	_	8/nnc
+12	개	개	NOUN	_	13	compound	_	_	개/nbu
+13	국회임기들에	국회+임기+들+에	ADV	_	14	obl	_	_	국회/ncn+임기/ncn+들/xsn+에/jca
+14	상응된다	상응+되+ㄴ다	VERB	_	0	root	_	_	상응/ncpa+되/xsv+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그러나 전기간을 통하여 근대적 사회층은 분화되었고 또 그들의 인구수도 증가하였다 .
+1	그러나	그러나	CCONJ	_	10	cc	_	_	그러나/maj
+2	전기간을	전기간+을	NOUN	_	3	obj	_	_	전기간/ncn+을/jco
+3	통하여	통하+어	SCONJ	_	10	ccomp	_	_	통하/pvg+어/ecs
+4	근대적	근대+적	NOUN	_	5	amod	_	_	근대/ncn+적/xsn
+5	사회층은	사회층+은	NOUN	_	6	dislocated	_	_	사회층/ncn+은/jxt
+6	분화되었고	분화+되+었+고	CCONJ	_	7	conj	_	_	분화/ncpa+되/xsv+었/ep+고/ecc
+7	또	또	CCONJ	_	10	conj	_	_	또/maj
+8	그들의	그+들+의	PRON	_	9	nmod	_	_	그/npp+들/xsn+의/jcm
+9	인구수도	인구수+도	ADV	_	10	advcl	_	_	인구수/ncn+도/jxc
+10	증가하였다	증가+하+었+다	VERB	_	0	root	_	_	증가/ncpa+하/xsv+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 자원배분 변수들은 국가지도층의 대표성에 보편적으로 역의 효과들을 가졌으며 이는 특히 대통령과 의원선거를 통제한 조건하에 그러하다 .
+1	자원배분	자원+배분	NOUN	_	2	compound	_	_	자원/ncn+배분/ncpa
+2	변수들은	변수+들+은	NOUN	_	8	dislocated	_	_	변수/ncn+들/xsn+은/jxt
+3	국가지도층의	국가+지도층+의	NOUN	_	4	nmod	_	_	국가/ncn+지도층/ncn+의/jcm
+4	대표성에	대표성+에	ADV	_	8	obl	_	_	대표성/ncn+에/jca
+5	보편적으로	보편+적+으로	ADV	_	8	advcl	_	_	보편/ncn+적/xsn+으로/jca
+6	역의	역+의	NOUN	_	7	nmod	_	_	역/ncn+의/jcm
+7	효과들을	효과+들+을	NOUN	_	8	obj	_	_	효과/ncn+들/xsn+을/jco
+8	가졌으며	가지+었+으며	CCONJ	_	15	conj	_	_	가지/pvg+었/ep+으며/ecc
+9	이는	이+는	PRON	_	15	dislocated	_	_	이/npd+는/jxt
+10	특히	특히	ADV	_	13	advmod	_	_	특히/mag
+11	대통령과	대통령+과	CCONJ	_	12	conj	_	_	대통령/ncn+과/jcj
+12	의원선거를	의원+선거+를	NOUN	_	13	obj	_	_	의원/ncn+선거/ncpa+를/jco
+13	통제한	통제+하+ㄴ	VERB	_	14	acl	_	_	통제/ncpa+하/xsv+ㄴ/etm
+14	조건하에	조건하+에	ADV	_	15	obl	_	_	조건하/ncn+에/jca
+15	그러하다	그러하+다	VERB	_	0	root	_	_	그러하/pad+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이것은 두번 있었던 정부변화들이 대표성을 확대시키지 못했음을 의미한다 .
+1	이것은	이것+은	PRON	_	8	dislocated	_	_	이것/npd+은/jxt
+2	두번	두+번	NOUN	_	3	dep	_	_	두/nnc+번/nbu
+3	있었던	있+었+던	ADJ	_	4	amod	_	_	있/paa+었/ep+던/etm
+4	정부변화들이	정부+변화+들+이	NOUN	_	6	nsubj	_	_	정부/ncn+변화/ncpa+들/xsn+이/jcs
+5	대표성을	대표성+을	NOUN	_	6	obj	_	_	대표성/ncn+을/jco
+6	확대시키지	확대+시키+지	VERB	_	8	obj	_	_	확대/ncpa+시키/xsv+지/ecx
+7	못했음을	못하+었+ㅁ+을	NOUN	_	6	aux	_	_	못하/px+었/ep+ㅁ/etn+을/jco
+8	의미한다	의미+하+ㄴ다	VERB	_	0	root	_	_	의미/ncpa+하/xsv+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이것은 이번 한국자료분석에 잘 나타나 있다 .
+1	이것은	이것+은	PRON	_	5	dislocated	_	_	이것/npd+은/jxt
+2	이번	이번	NOUN	_	3	compound	_	_	이번/ncn
+3	한국자료분석에	한국+자료+분석+에	ADV	_	5	obl	_	_	한국/nq+자료/ncn+분석/ncpa+에/jca
+4	잘	잘	ADV	_	5	advmod	_	_	잘/mag
+5	나타나	나타나+아	VERB	_	0	root	_	_	나타나/pvg+아/ecx
+6	있다	있+다	AUX	_	5	aux	_	_	있/px+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 국가적 선거에 참여율이 높았음에도 불구하고 , 정치체계는 아주 불안정 했다 .
+1	국가적	국가+적	NOUN	_	2	amod	_	_	국가/ncn+적/xsn
+2	선거에	선거+에	ADV	_	4	obl	_	_	선거/ncpa+에/jca
+3	참여율이	참여율+이	NOUN	_	4	nsubj	_	_	참여율/ncpa+이/jcs
+4	높았음에도	높+았+ㅁ+에+도	ADV	_	5	advcl	_	_	높/paa+았/ep+ㅁ/etn+에/jca+도/jxc
+5	불구하고	불구하+고	SCONJ	_	10	ccomp	_	_	불구하/pvg+고/ecs
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	정치체계는	정치체계+는	NOUN	_	10	dislocated	_	_	정치체계/ncn+는/jxt
+8	아주	아주	ADV	_	10	advmod	_	_	아주/mag
+9	불안정	불안정	NOUN	_	10	dep	_	_	불안정/ncn
+10	했다	하+었+다	VERB	_	0	root	_	_	하/pvg+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 더구나 선거참여율은 국가지도층의 대표성을 확대시키지 못했다 .
+1	더구나	더구나	ADV	_	5	advmod	_	_	더구나/mag
+2	선거참여율은	선거참여율+은	NOUN	_	5	dislocated	_	_	선거참여율/ncn+은/jxt
+3	국가지도층의	국가지도층+의	NOUN	_	4	nmod	_	_	국가지도층/ncn+의/jcm
+4	대표성을	대표성+을	NOUN	_	5	obj	_	_	대표성/ncn+을/jco
+5	확대시키지	확대+시키+지	VERB	_	0	root	_	_	확대/ncpa+시키/xsv+지/ecx
+6	못했다	못하+었+다	AUX	_	5	aux	_	_	못하/px+었/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그 실패원인은 사회 경제 자원이 시민들 간에 불평등하게 분배되었던 데에 원인이 있었다고 보겠다 .
+1	그	그	PRON	_	2	compound	_	_	그/npp
+2	실패원인은	실패원인+은	NOUN	_	12	dislocated	_	_	실패원인/ncn+은/jxt
+3	사회	사회	NOUN	_	4	compound	_	_	사회/ncn
+4	경제	경제	NOUN	_	5	compound	_	_	경제/ncn
+5	자원이	자원+이	NOUN	_	9	nsubj	_	_	자원/ncn+이/jcs
+6	시민들	시민+들	NOUN	_	7	compound	_	_	시민/ncn+들/xsn
+7	간에	간+에	ADV	_	9	obl	_	_	간/ncn+에/jca
+8	불평등하게	불평등+하+게	SCONJ	_	9	xcomp	_	_	불평등/ncps+하/xsm+게/ecs
+9	분배되었던	분배+되+었+던	VERB	_	10	acl	_	_	분배/ncpa+되/xsv+었/ep+던/etm
+10	데에	데+에	ADV	_	12	obl	_	_	데/nbn+에/jca
+11	원인이	원인+이	NOUN	_	12	nsubj	_	_	원인/ncn+이/jcs
+12	있었다고	있+었+다+고	VERB	_	13	conj	_	_	있/paa+었/ep+다/ef+고/jcr
+13	보겠다	보+겠+다	VERB	_	0	root	_	_	보/pvg+겠/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 연구기간중 많은 시민들이 정부의 결정에 영향을 주고자 초헌법적 정치 활도에 참여하였다 .
+1	연구기간중	연구+기간+중	NOUN	_	11	advmod	_	_	연구/ncpa+기간/ncn+중/xsn
+2	많은	많+ㄴ	ADJ	_	3	amod	_	_	많/paa+ㄴ/etm
+3	시민들이	시민+들+이	NOUN	_	11	nsubj	_	_	시민/ncn+들/xsn+이/jcs
+4	정부의	정부+의	NOUN	_	5	nmod	_	_	정부/ncn+의/jcm
+5	결정에	결정+에	ADV	_	7	obl	_	_	결정/ncpa+에/jca
+6	영향을	영향+을	NOUN	_	7	obj	_	_	영향/ncn+을/jco
+7	주고자	주+고자	SCONJ	_	11	ccomp	_	_	주/pvg+고자/ecs
+8	초헌법적	초헌법+적	NOUN	_	10	amod	_	_	초헌법/ncn+적/xsn
+9	정치	정치	NOUN	_	10	compound	_	_	정치/ncn
+10	활도에	활동+에	ADV	_	11	obl	_	_	활동/ncn+에/jca
+11	참여하였다	참여+하+었+다	VERB	_	0	root	_	_	참여/ncpa+하/xsv+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러나 이러한 활동은 국가지도자의 대표성에 일반적으로 역의 효과를 가져왔다 .
+1	그러나	그러나	CCONJ	_	9	cc	_	_	그러나/maj
+2	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+3	활동은	활동+은	NOUN	_	9	dislocated	_	_	활동/ncpa+은/jxt
+4	국가지도자의	국가+지도+자+의	NOUN	_	5	nmod	_	_	국가/ncn+지도/ncpa+자/ncn+의/jcm
+5	대표성에	대표성+에	ADV	_	9	obl	_	_	대표성/ncn+에/jca
+6	일반적으로	일반+적+으로	ADV	_	9	advcl	_	_	일반/ncn+적/xsn+으로/jca
+7	역의	역+의	NOUN	_	8	nmod	_	_	역/ncn+의/jcm
+8	효과를	효과+를	NOUN	_	9	obj	_	_	효과/ncn+를/jco
+9	가져왔다	가지+어+오+았+다	AUX	_	0	root	_	_	가지/pvg+어/ecx+오/px+았/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 더 나아가서 사회 경제 자원의 불평등한 분배는 근대사회층의 발전을 지연시켰으며 정치계층을 동결시키는 주된 원인이 되었다 .
+1	더	더	ADV	_	2	advmod	_	_	더/mag
+2	나아가서	나아가+서	SCONJ	_	15	ccomp	_	_	나아가/pvg+서/ecs
+3	사회	사회	NOUN	_	4	compound	_	_	사회/ncn
+4	경제	경제	NOUN	_	5	compound	_	_	경제/ncn
+5	자원의	자원+의	NOUN	_	7	nmod	_	_	자원/ncn+의/jcm
+6	불평등한	불평등+하+ㄴ	VERB	_	7	amod	_	_	불평등/ncps+하/xsm+ㄴ/etm
+7	분배는	분배+는	NOUN	_	15	dislocated	_	_	분배/ncpa+는/jxt
+8	근대사회층의	근대+사회층+의	NOUN	_	9	nmod	_	_	근대/ncn+사회층/ncn+의/jcm
+9	발전을	발전+을	NOUN	_	10	obj	_	_	발전/ncpa+을/jco
+10	지연시켰으며	지연+시키+었+으며	CCONJ	_	15	conj	_	_	지연/ncpa+시키/xsv+었/ep+으며/ecc
+11	정치계층을	정치+계층+을	NOUN	_	12	obj	_	_	정치/ncpa+계층/ncn+을/jco
+12	동결시키는	동결+시키+는	VERB	_	14	acl	_	_	동결/ncpa+시키/xsv+는/etm
+13	주된	주되+ㄴ	VERB	_	14	acl	_	_	주되/pvg+ㄴ/etm
+14	원인이	원인+이	NOUN	_	15	nsubj	_	_	원인/ncn+이/jcs
+15	되었다	되+었+다	VERB	_	0	root	_	_	되/pvg+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그러나 급료 및 노임 소득자들의 절대적 소득은 보편적으로 농가종사자들의 그것보다는 높았다 .
+1	그러나	그러나	CCONJ	_	11	cc	_	_	그러나/maj
+2	급료	급료	NOUN	_	4	conj	_	_	급료/ncn
+3	및	및	CCONJ	_	4	cc	_	_	및/maj
+4	노임	노임	NOUN	_	5	compound	_	_	노임/ncn
+5	소득자들의	소득자+들+의	NOUN	_	7	nmod	_	_	소득자/ncn+들/xsn+의/jcm
+6	절대적	절대+적	NOUN	_	7	amod	_	_	절대/ncn+적/xsn
+7	소득은	소득+은	NOUN	_	11	dislocated	_	_	소득/ncn+은/jxt
+8	보편적으로	보편+적+으로	ADV	_	11	advcl	_	_	보편/ncn+적/xsn+으로/jca
+9	농가종사자들의	농가+종사자+들+의	NOUN	_	10	nmod	_	_	농가/ncn+종사자/ncn+들/xsn+의/jcm
+10	그것보다는	그것+보다+는	PRON	_	11	dislocated	_	_	그것/npd+보다/jca+는/jxt
+11	높았다	높+았+다	ADJ	_	0	root	_	_	높/paa+았/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 농촌인구의 생활수준이 향상됨으로서 그들이 국가정치에 더 활발히 참여하게 될 것이 기대되며 그렇게 됨으로서 정치계층의 변화도 있을 것이라 본다 .
+1	농촌인구의	농촌인구+의	NOUN	_	2	nmod	_	_	농촌인구/ncn+의/jcm
+2	생활수준이	생활수준+이	NOUN	_	3	nsubj	_	_	생활수준/ncn+이/jcs
+3	향상됨으로서	향상+되+ㅁ+으로서	ADV	_	11	advcl	_	_	향상/ncpa+되/xsv+ㅁ/etn+으로서/jca
+4	그들이	그+들+이	PRON	_	8	nsubj	_	_	그/npp+들/xsn+이/jcs
+5	국가정치에	국가정치+에	ADV	_	8	obl	_	_	국가정치/ncn+에/jca
+6	더	더	ADV	_	8	advmod	_	_	더/mag
+7	활발히	활발+히	ADV	_	6	dep	_	_	활발/ncps+히/xsa
+8	참여하게	참여+하+게	VERB	_	10	acl	_	_	참여/ncpa+하/xsv+게/ecx
+9	될	되+ㄹ	AUX	_	8	aux	_	_	되/px+ㄹ/etm
+10	것이	것+이	NOUN	_	11	nsubj	_	_	것/nbn+이/jcs
+11	기대되며	기대+되+며	CCONJ	_	18	conj	_	_	기대/ncpa+되/xsv+며/ecc
+12	그렇게	그렇+게	VERB	_	16	advcl	_	_	그렇/pad+게/ecx
+13	됨으로서	되+ㅁ+으로서	ADV	_	12	aux	_	_	되/px+ㅁ/etn+으로서/jca
+14	정치계층의	정치+계층+의	NOUN	_	15	nmod	_	_	정치/ncpa+계층/ncn+의/jcm
+15	변화도	변화+도	ADV	_	16	advcl	_	_	변화/ncpa+도/jxc
+16	있을	있+ㄹ	ADJ	_	18	ccomp	_	_	있/paa+ㄹ/etm
+17	것이라	것+이+라	VERB	_	16	aux	_	_	것/nbn+이/jp+라/ef
+18	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 대체로 보아서 연구기간중 정부 발전 정책에는 상당한 낭비가 있었다고 본다 .
+1	대체로	대체+로	ADV	_	2	advcl	_	_	대체/ncn+로/jca
+2	보아서	보+아서	SCONJ	_	10	ccomp	_	_	보/pvg+아서/ecs
+3	연구기간중	연구+기간+중	NOUN	_	6	advmod	_	_	연구/ncpa+기간/ncn+중/xsn
+4	정부	정부	NOUN	_	6	compound	_	_	정부/ncn
+5	발전	발전	NOUN	_	6	compound	_	_	발전/ncn
+6	정책에는	정책+에+는	NOUN	_	9	dislocated	_	_	정책/ncn+에/jca+는/jxt
+7	상당한	상당하+ㄴ	ADJ	_	8	amod	_	_	상당하/paa+ㄴ/etm
+8	낭비가	낭비+가	NOUN	_	9	nsubj	_	_	낭비/ncpa+가/jcs
+9	있었다고	있+었+다+고	VERB	_	10	conj	_	_	있/paa+었/ep+다/ef+고/jcr
+10	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 28 퍼센트로 별로 높지 않았다 .
+1	28	28	NUM	_	2	nummod	_	_	28/nnc
+2	퍼센트로	퍼센트+로	ADV	_	4	advcl	_	_	퍼센트/ncn+로/jca
+3	별로	별+로	ADV	_	4	advcl	_	_	별/ncn+로/jca
+4	높지	높+지	ADJ	_	0	root	_	_	높/paa+지/ecx
+5	않았다	않+았+다	AUX	_	4	aux	_	_	않/px+았/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 이 두 과업들은 모두 신생국가의 총인적 및 물질적 자원의 동원을 필요로 하였다 .
+1	이	이	PRON	_	3	compound	_	_	이/npd
+2	두	두	NUM	_	3	nummod	_	_	두/nnc
+3	과업들은	과업+들+은	NOUN	_	12	dislocated	_	_	과업/ncn+들/xsn+은/jxt
+4	모두	모두	ADV	_	12	advmod	_	_	모두/mag
+5	신생국가의	신생국가+의	NOUN	_	10	nmod	_	_	신생국가/ncn+의/jcm
+6	총인적	총인+적	NOUN	_	8	conj	_	_	총인/ncn+적/xsn
+7	및	및	CCONJ	_	8	cc	_	_	및/maj
+8	물질적	물질+적	NOUN	_	9	amod	_	_	물질/ncn+적/xsn
+9	자원의	자원+의	NOUN	_	10	nmod	_	_	자원/ncn+의/jcm
+10	동원을	동원+을	NOUN	_	12	obj	_	_	동원/ncn+을/jco
+11	필요로	필요+로	ADV	_	12	advcl	_	_	필요/ncpa+로/jca
+12	하였다	하+었+다	VERB	_	0	root	_	_	하/pvg+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그러나 사회 경제 정책들의 효과들과 관련시켜 고려해 볼 경우 , 정치지도층은 둘째 과업보다는 첫째 과업에 더 많은 노력을 경주했던 것으로 보인다 .
+1	그러나	그러나	CCONJ	_	21	cc	_	_	그러나/maj
+2	사회	사회	NOUN	_	3	compound	_	_	사회/ncn
+3	경제	경제	NOUN	_	4	compound	_	_	경제/ncn
+4	정책들의	정책+들+의	NOUN	_	5	nmod	_	_	정책/ncn+들/xsn+의/jcm
+5	효과들과	효과+들+과	CCONJ	_	6	conj	_	_	효과/ncn+들/xsn+과/jct
+6	관련시켜	관련+시키+어	SCONJ	_	7	ccomp	_	_	관련/ncpa+시키/xsv+어/ecs
+7	고려해	고려+하+어	VERB	_	9	acl	_	_	고려/ncpa+하/xsv+어/ecx
+8	볼	보+ㄹ	AUX	_	7	aux	_	_	보/px+ㄹ/etm
+9	경우	경우	NOUN	_	19	advmod	_	_	경우/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	정치지도층은	정치+지도층+은	NOUN	_	19	dislocated	_	_	정치/ncpa+지도층/ncn+은/jxt
+12	둘째	둘째	NUM	_	13	nummod	_	_	둘째/nno
+13	과업보다는	과업+보다+는	NOUN	_	19	dislocated	_	_	과업/ncn+보다/jca+는/jxt
+14	첫째	첫째	NUM	_	15	nummod	_	_	첫째/nno
+15	과업에	과업+에	ADV	_	19	obl	_	_	과업/ncn+에/jca
+16	더	더	ADV	_	17	advmod	_	_	더/mag
+17	많은	많+ㄴ	ADJ	_	18	amod	_	_	많/paa+ㄴ/etm
+18	노력을	노력+을	NOUN	_	19	obj	_	_	노력/ncpa+을/jco
+19	경주했던	경주+하+었+던	VERB	_	20	acl	_	_	경주/ncpa+하/xsv+었/ep+던/etm
+20	것으로	것+으로	ADV	_	21	advcl	_	_	것/nbn+으로/jca
+21	보인다	보이+ㄴ다	VERB	_	0	root	_	_	보이/pvg+ㄴ다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 다분히 이러한 경향은 불가피했을 것으로 본다 .
+1	다분히	다분+히	ADV	_	2	advmod	_	_	다분/ncps+히/xsa
+2	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+3	경향은	경향+은	NOUN	_	4	dislocated	_	_	경향/ncn+은/jxt
+4	불가피했을	불가피하+었+ㄹ	ADJ	_	5	amod	_	_	불가피하/paa+었/ep+ㄹ/etm
+5	것으로	것+으로	ADV	_	6	advcl	_	_	것/nbn+으로/jca
+6	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 권력을 정상에서 장악하고 있는 사람들은 정부와 국가정치에 필요한 기술과 지도력을 지닌 하위지도급 사람들을 필요로 했다 .
+1	권력을	권력+을	NOUN	_	3	obj	_	_	권력/ncn+을/jco
+2	정상에서	정상+에서	ADV	_	3	advcl	_	_	정상/ncn+에서/jca
+3	장악하고	장악+하+고	VERB	_	5	acl	_	_	장악/ncpa+하/xsv+고/ecx
+4	있는	있+는	AUX	_	3	aux	_	_	있/px+는/etm
+5	사람들은	사람+들+은	NOUN	_	15	dislocated	_	_	사람/ncn+들/xsn+은/jxt
+6	정부와	정부+와	CCONJ	_	7	conj	_	_	정부/ncn+와/jcj
+7	국가정치에	국가정치+에	ADV	_	8	obl	_	_	국가정치/ncn+에/jca
+8	필요한	필요+하+ㄴ	VERB	_	10	acl	_	_	필요/ncpa+하/xsv+ㄴ/etm
+9	기술과	기술+과	CCONJ	_	10	conj	_	_	기술/ncpa+과/jcj
+10	지도력을	지도력+을	NOUN	_	11	obj	_	_	지도력/ncn+을/jco
+11	지닌	지니+ㄴ	VERB	_	13	acl	_	_	지니/pvg+ㄴ/etm
+12	하위지도급	하위+지도급	NOUN	_	13	compound	_	_	하위/ncn+지도급/ncn
+13	사람들을	사람+들+을	NOUN	_	15	obj	_	_	사람/ncn+들/xsn+을/jco
+14	필요로	필요+로	ADV	_	15	advcl	_	_	필요/ncpa+로/jca
+15	했다	하+었+다	VERB	_	0	root	_	_	하/pvg+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 연구기간중 한국의 정치지도층은 상기 두 과업수행에 있어 상당한 상공을 거두었다 .
+1	연구기간중	연구+기간+중	NOUN	_	3	advmod	_	_	연구/ncpa+기간/ncn+중/xsn
+2	한국의	한국+의	PROPN	_	3	nmod	_	_	한국/nq+의/jcm
+3	정치지도층은	정치+지도층+은	NOUN	_	10	dislocated	_	_	정치/ncpa+지도층/ncn+은/jxt
+4	상기	상기	NOUN	_	6	compound	_	_	상기/ncn
+5	두	두	NUM	_	6	nummod	_	_	두/nnc
+6	과업수행에	과업+수행+에	ADV	_	7	obl	_	_	과업/ncn+수행/ncpa+에/jca
+7	있어	있+어	SCONJ	_	10	xcomp	_	_	있/paa+어/ecs
+8	상당한	상당하+ㄴ	ADJ	_	9	amod	_	_	상당하/paa+ㄴ/etm
+9	상공을	성공+을	NOUN	_	10	obj	_	_	성공/ncpa+을/jco
+10	거두었다	거두+었+다	VERB	_	0	root	_	_	거두/pvg+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 연구기간중 사회 경제적 변화는 사회구조의 상층직업군에까지 침투되지 못앴다 .
+1	연구기간중	연구+기간+중	NOUN	_	4	advmod	_	_	연구/ncpa+기간/ncn+중/xsn
+2	사회	사회	NOUN	_	3	compound	_	_	사회/ncn
+3	경제적	경제+적	NOUN	_	4	amod	_	_	경제/ncn+적/xsn
+4	변화는	변화+는	NOUN	_	7	dislocated	_	_	변화/ncpa+는/jxt
+5	사회구조의	사회+구조+의	NOUN	_	6	nmod	_	_	사회/ncn+구조/ncn+의/jcm
+6	상층직업군에까지	상층직업군+에+까지	ADV	_	7	advcl	_	_	상층직업군/ncn+에/jca+까지/jxc
+7	침투되지	침투+되+지	VERB	_	0	root	_	_	침투/ncpa+되/xsv+지/ecx
+8	못앴다	못하+ㅆ+다	AUX	_	7	aux	_	_	못하/px+ㅆ/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 근년에 와서 농가의 사회 경제적 조건은 상당히 향상되었다 .
+1	근년에	근년+에	ADV	_	2	obl	_	_	근년/ncn+에/jca
+2	와서	오+아서	SCONJ	_	8	ccomp	_	_	오/pvg+아서/ecs
+3	농가의	농가+의	NOUN	_	6	nmod	_	_	농가/ncn+의/jcm
+4	사회	사회	NOUN	_	5	compound	_	_	사회/ncn
+5	경제적	경제+적	NOUN	_	6	amod	_	_	경제/ncn+적/xsn
+6	조건은	조건+은	NOUN	_	8	dislocated	_	_	조건/ncn+은/jxt
+7	상당히	상당+히	ADV	_	8	advmod	_	_	상당/ncps+히/xsa
+8	향상되었다	향상+되+었+다	VERB	_	0	root	_	_	향상/ncpa+되/xsv+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그러나 중산층과 노동계층 직업 종사자들의 사회적 이익들은 정부 정책결정자들에 의하여 소홀히 취급되었던 것으로 본다 .
+1	그러나	그러나	CCONJ	_	14	cc	_	_	그러나/maj
+2	중산층과	중산층+과	CCONJ	_	3	conj	_	_	중산층/ncn+과/jcj
+3	노동계층	노동계층	NOUN	_	4	compound	_	_	노동계층/ncn
+4	직업	직업	NOUN	_	5	compound	_	_	직업/ncn
+5	종사자들의	종사자+들+의	NOUN	_	7	nmod	_	_	종사자/ncn+들/xsn+의/jcm
+6	사회적	사회+적	NOUN	_	7	amod	_	_	사회/ncn+적/xsn
+7	이익들은	이익+들+은	NOUN	_	12	dislocated	_	_	이익/ncn+들/xsn+은/jxt
+8	정부	정부	NOUN	_	9	compound	_	_	정부/ncn
+9	정책결정자들에	정책결정자+들+에	ADV	_	10	obl	_	_	정책결정자/ncn+들/xsn+에/jca
+10	의하여	의하+어	SCONJ	_	12	ccomp	_	_	의하/pvg+어/ecs
+11	소홀히	소홀+히	ADV	_	12	advmod	_	_	소홀/ncps+히/xsa
+12	취급되었던	취급+되+었+던	VERB	_	13	acl	_	_	취급/ncpa+되/xsv+었/ep+던/etm
+13	것으로	것+으로	ADV	_	14	advcl	_	_	것/nbn+으로/jca
+14	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 더구나 노동계층과 농촌인구층은 국가지도층에 대표자들을 소수밖에 보내지 못하였으며 따라서 이들의 이익들은 상호 다른층의 관직배경 사람들이나 지식인들에 의해 대변되어 왔다 .
+1	더구나	더구나	ADV	_	7	advmod	_	_	더구나/mag
+2	노동계층과	노동계층+과	CCONJ	_	3	conj	_	_	노동계층/ncn+과/jcj
+3	농촌인구층은	농촌인구층+은	NOUN	_	7	dislocated	_	_	농촌인구층/ncn+은/jxt
+4	국가지도층에	국가지도층+에	ADV	_	7	obl	_	_	국가지도층/ncn+에/jca
+5	대표자들을	대표자+들+을	NOUN	_	7	obj	_	_	대표자/ncn+들/xsn+을/jco
+6	소수밖에	소수+밖에	ADV	_	7	advcl	_	_	소수/ncpa+밖에/jxc
+7	보내지	보내+지	VERB	_	18	ccomp	_	_	보내/pvg+지/ecx
+8	못하였으며	못하+었+으며	SCONJ	_	7	aux	_	_	못하/px+었/ep+으며/ecs
+9	따라서	따라서	ADV	_	18	advmod	_	_	따라서/mag
+10	이들의	이+들+의	PRON	_	11	nmod	_	_	이/npd+들/xsn+의/jcm
+11	이익들은	이익+들+은	NOUN	_	18	dislocated	_	_	이익/ncn+들/xsn+은/jxt
+12	상호	상호	NOUN	_	13	compound	_	_	상호/ncn
+13	다른층의	다른층+의	NOUN	_	16	nmod	_	_	다른층/ncn+의/jcm
+14	관직배경	관직+배경	NOUN	_	15	compound	_	_	관직/ncn+배경/ncn
+15	사람들이나	사람+들+이나	CCONJ	_	16	conj	_	_	사람/ncn+들/xsn+이나/jcj
+16	지식인들에	지식인+들+에	ADV	_	17	obl	_	_	지식인/ncn+들/xsn+에/jca
+17	의해	의하+어	SCONJ	_	18	ccomp	_	_	의하/pvg+어/ecs
+18	대변되어	대변+되+어	VERB	_	0	root	_	_	대변/ncpa+되/xsv+어/ecx
+19	왔다	오+았+다	AUX	_	18	aux	_	_	오/px+았/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 최근에 정부개발 정책들에도 불구하고 실업자와 비완전고용자는 점차 도시까지 확장되어가고 있다 .
+1	최근에	최근+에	ADV	_	4	obl	_	_	최근/ncn+에/jca
+2	정부개발	정부+개발	NOUN	_	3	compound	_	_	정부/ncn+개발/ncn
+3	정책들에도	정책+들+에+도	ADV	_	4	advcl	_	_	정책/ncn+들/xsn+에/jca+도/jxc
+4	불구하고	불구하+고	SCONJ	_	9	ccomp	_	_	불구하/pvg+고/ecs
+5	실업자와	실업자+와	CCONJ	_	6	conj	_	_	실업자/ncn+와/jcj
+6	비완전고용자는	비완전고용자+는	NOUN	_	9	dislocated	_	_	비완전고용자/ncn+는/jxt
+7	점차	점차	ADV	_	9	advmod	_	_	점차/mag
+8	도시까지	도시+까지	ADV	_	9	advcl	_	_	도시/ncn+까지/jxc
+9	확장되어가고	확장+되+어+가+고	AUX	_	0	root	_	_	확장/ncpa+되/xsv+어/ecx+가/px+고/ecx
+10	있다	있+다	AUX	_	9	aux	_	_	있/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그러나 가까운 장래에 국가적 지도자는 계속해서 사회구조의 상층에서 등용될 것으로 보인다 .
+1	그러나	그러나	CCONJ	_	11	cc	_	_	그러나/maj
+2	가까운	가깝+ㄴ	ADJ	_	3	amod	_	_	가깝/paa+ㄴ/etm
+3	장래에	장래+에	ADV	_	9	obl	_	_	장래/ncn+에/jca
+4	국가적	국가+적	NOUN	_	5	amod	_	_	국가/ncn+적/xsn
+5	지도자는	지도자+는	NOUN	_	9	dislocated	_	_	지도자/ncn+는/jxt
+6	계속해서	계속+하+어서	SCONJ	_	9	ccomp	_	_	계속/ncpa+하/xsv+어서/ecs
+7	사회구조의	사회구조+의	NOUN	_	8	nmod	_	_	사회구조/ncn+의/jcm
+8	상층에서	상층+에서	ADV	_	9	advcl	_	_	상층/ncn+에서/jca
+9	등용될	등용+되+ㄹ	VERB	_	10	acl	_	_	등용/ncpa+되/xsv+ㄹ/etm
+10	것으로	것+으로	ADV	_	11	advcl	_	_	것/nbn+으로/jca
+11	보인다	보이+ㄴ다	VERB	_	0	root	_	_	보이/pvg+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 연구기간 후기에 들어 교수와 변호사와 같은 자유직업 배경을 가진 지도자들의 비율이 특히 국회에서 많이 높아지고 있었다 .
+1	연구기간	연구+기간	NOUN	_	2	compound	_	_	연구/ncpa+기간/ncn
+2	후기에	후기+에	ADV	_	3	obl	_	_	후기/ncn+에/jca
+3	들어	들+어	SCONJ	_	15	conj	_	_	들/pvg+어/ecs
+4	교수와	교수+와	CCONJ	_	5	conj	_	_	교수/ncpa+와/jcj
+5	변호사와	변호사+와	CCONJ	_	6	conj	_	_	변호사/ncn+와/jct
+6	같은	같+ㄴ	ADJ	_	8	amod	_	_	같/paa+ㄴ/etm
+7	자유직업	자유+직업	NOUN	_	8	compound	_	_	자유/ncps+직업/ncn
+8	배경을	배경+을	NOUN	_	9	obj	_	_	배경/ncn+을/jco
+9	가진	가지+ㄴ	VERB	_	10	acl	_	_	가지/pvg+ㄴ/etm
+10	지도자들의	지도자+들+의	NOUN	_	11	nmod	_	_	지도자/ncn+들/xsn+의/jcm
+11	비율이	비율+이	NOUN	_	15	nsubj	_	_	비율/ncn+이/jcs
+12	특히	특히	ADV	_	13	advmod	_	_	특히/mag
+13	국회에서	국회+에서	ADV	_	15	advcl	_	_	국회/ncn+에서/jca
+14	많이	많이	ADV	_	15	advmod	_	_	많이/mag
+15	높아지고	높+아+지+고	AUX	_	0	root	_	_	높/paa+아/ecx+지/px+고/ecx
+16	있었다	있+었+다	AUX	_	15	aux	_	_	있/px+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 위와 같이 정의된 정치지도자들은 그 정치공동사회에서 세력 있는 사람들이라고 볼 수 있다 .
+1	위와	위+와	CCONJ	_	2	conj	_	_	위/ncn+와/jct
+2	같이	같+이	SCONJ	_	3	xcomp	_	_	같/paa+이/ecs
+3	정의된	정의+되+ㄴ	VERB	_	4	acl	_	_	정의/ncpa+되/xsv+ㄴ/etm
+4	정치지도자들은	정치지도자+들+은	NOUN	_	9	dislocated	_	_	정치지도자/ncn+들/xsn+은/jxt
+5	그	그	PRON	_	6	compound	_	_	그/npp
+6	정치공동사회에서	정치+공동사회+에서	ADV	_	8	advcl	_	_	정치/ncpa+공동사회/ncn+에서/jca
+7	세력	세력	NOUN	_	8	dep	_	_	세력/ncn
+8	있는	있+는	ADJ	_	9	amod	_	_	있/paa+는/etm
+9	사람들이라고	사람+들+이+라+고	VERB	_	10	conj	_	_	사람/ncn+들/xsn+이/jp+라/ef+고/jcr
+10	볼	보+ㄹ	VERB	_	0	root	_	_	보/pvg+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있다	있+다	ADJ	_	10	aux	_	_	있/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 물론 이 정치지도자 외에 이들보다 낮은 정부직위를 가졌던 관료들이나 사회지도자들로서 귄위적인 정책결정에 영향력을 가졌던 사람들이 있다고 본다 .
+1	물론	물론	ADV	_	16	advmod	_	_	물론/mag
+2	이	이	PRON	_	3	compound	_	_	이/npd
+3	정치지도자	정치지도자	NOUN	_	4	compound	_	_	정치지도자/ncn
+4	외에	외+에	ADV	_	16	obl	_	_	외/ncn+에/jca
+5	이들보다	이+들+보다	ADV	_	6	advcl	_	_	이/npd+들/xsn+보다/jca
+6	낮은	낮+ㄴ	ADJ	_	7	amod	_	_	낮/paa+ㄴ/etm
+7	정부직위를	정부+직위+를	NOUN	_	8	obj	_	_	정부/ncn+직위/ncn+를/jco
+8	가졌던	가지+었+던	VERB	_	10	acl	_	_	가지/pvg+었/ep+던/etm
+9	관료들이나	관료+들+이나	CCONJ	_	10	conj	_	_	관료/ncn+들/xsn+이나/jcj
+10	사회지도자들로서	사회+지도자+들+로서	ADV	_	14	advcl	_	_	사회/ncn+지도자/ncn+들/xsn+로서/jca
+11	귄위적인	귄위+적+이+ㄴ	VERB	_	12	acl	_	_	귄위/ncn+적/xsn+이/jp+ㄴ/etm
+12	정책결정에	정책결정+에	ADV	_	14	obl	_	_	정책결정/ncpa+에/jca
+13	영향력을	영향력+을	NOUN	_	14	obj	_	_	영향력/ncn+을/jco
+14	가졌던	가지+었+던	VERB	_	15	acl	_	_	가지/pvg+었/ep+던/etm
+15	사람들이	사람+들+이	NOUN	_	16	nsubj	_	_	사람/ncn+들/xsn+이/jcs
+16	있다고	있+다+고	VERB	_	17	conj	_	_	있/paa+다/ef+고/jcr
+17	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 다음에 우선 한국 정치지도층의 역사적 변천배경을 살펴보고나서 독립후 정치지도층 형성과정을 살펴보기로 한다 .
+1	다음에	다음+에	ADV	_	7	obl	_	_	다음/ncn+에/jca
+2	우선	우선	ADV	_	7	advmod	_	_	우선/mag
+3	한국	한국	PROPN	_	4	compound	_	_	한국/nq
+4	정치지도층의	정치+지도층+의	NOUN	_	6	nmod	_	_	정치/ncpa+지도층/ncn+의/jcm
+5	역사적	역사+적	NOUN	_	6	amod	_	_	역사/ncn+적/xsn
+6	변천배경을	변천+배경+을	NOUN	_	7	obj	_	_	변천/ncpa+배경/ncn+을/jco
+7	살펴보고나서	살피+어+보+고+나+서	SCONJ	_	12	ccomp	_	_	살피/pvg+어/ecx+보/px+고/ecx+나/px+서/ecs
+8	독립후	독립+후	NOUN	_	9	compound	_	_	독립/ncn+후/ncn
+9	정치지도층	정치+지도층	NOUN	_	10	compound	_	_	정치/ncpa+지도층/ncn
+10	형성과정을	형성과정+을	NOUN	_	11	obj	_	_	형성과정/ncn+을/jco
+11	살펴보기로	살피+어+보+기+로	ADV	_	12	advcl	_	_	살피/pvg+어/ecx+보/px+기/etn+로/jca
+12	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 조선왕조의 정치 권력은 양반계층에 있었다 .
+1	조선왕조의	조선왕조+의	NOUN	_	3	nmod	_	_	조선왕조/ncn+의/jcm
+2	정치	정치	NOUN	_	3	compound	_	_	정치/ncn
+3	권력은	권력+은	NOUN	_	5	dislocated	_	_	권력/ncn+은/jxt
+4	양반계층에	양반+계층+에	ADV	_	5	obl	_	_	양반/ncn+계층/ncn+에/jca
+5	있었다	있+었+다	ADJ	_	0	root	_	_	있/paa+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 양반계급은 이들 유명씨족들과 명성있는 유학자들로 구성디었으며 이들은 소위 사대부계급이라 하여 정부 고위직에 등용되었다 .
+1	양반계급은	양반계급+은	NOUN	_	6	dislocated	_	_	양반계급/ncn+은/jxt
+2	이들	이+들	NOUN	_	3	compound	_	_	이/npd+들/xsn
+3	유명씨족들과	유명+씨족+들+과	CCONJ	_	5	conj	_	_	유명/ncn+씨족/ncn+들/xsn+과/jcj
+4	명성있는	명성있+는	ADJ	_	5	amod	_	_	명성있/paa+는/etm
+5	유학자들로	유학자+들+로	ADV	_	6	advcl	_	_	유학자/ncn+들/xsn+로/jca
+6	구성디었으며	구성+되+었+으며	SCONJ	_	13	ccomp	_	_	구성/ncpa+되/xsv+었/ep+으며/ecs
+7	이들은	이+들+은	PRON	_	13	dislocated	_	_	이/npd+들/xsn+은/jxt
+8	소위	소위	ADV	_	10	advmod	_	_	소위/mag
+9	사대부계급이라	사대부+계급+이라	ADV	_	10	advcl	_	_	사대부/ncn+계급/ncn+이라/jca
+10	하여	하+어	SCONJ	_	13	ccomp	_	_	하/pvg+어/ecs
+11	정부	정부	NOUN	_	12	compound	_	_	정부/ncn
+12	고위직에	고위직+에	ADV	_	13	obl	_	_	고위직/ncn+에/jca
+13	등용되었다	등용+되+었+다	VERB	_	0	root	_	_	등용/ncpa+되/xsv+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 조선조의 관리들은 벌써 일정한 보수를 받는 현대 관료로서의 요소를 갖추게 되었다 .
+1	조선조의	조선조+의	NOUN	_	2	nmod	_	_	조선조/ncn+의/jcm
+2	관리들은	관리+들+은	NOUN	_	10	dislocated	_	_	관리/ncn+들/xsn+은/jxt
+3	벌써	벌써	ADV	_	6	advmod	_	_	벌써/mag
+4	일정한	일정하+ㄴ	ADJ	_	5	amod	_	_	일정하/paa+ㄴ/etm
+5	보수를	보수+를	NOUN	_	6	obj	_	_	보수/ncn+를/jco
+6	받는	받+는	VERB	_	9	acl	_	_	받/pvg+는/etm
+7	현대	현대	NOUN	_	8	compound	_	_	현대/ncn
+8	관료로서의	관료+로서+의	NOUN	_	9	nmod	_	_	관료/ncn+로서/jca+의/jcm
+9	요소를	요소+를	NOUN	_	10	obj	_	_	요소/ncn+를/jco
+10	갖추게	갖추+게	VERB	_	0	root	_	_	갖추/pvg+게/ecx
+11	되었다	되+었+다	AUX	_	10	aux	_	_	되/px+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 임진왜란 후에는 국가재정이 위기에 빠지게 되어 정부직은 사회계급을 무시하고 누구에게나 고액을 지불하는 사람에게 팔게되어 양반의 수는 늘었다 .
+1	임진왜란	임진왜란	PROPN	_	2	compound	_	_	임진왜란/nq
+2	후에는	후+에+는	NOUN	_	5	dislocated	_	_	후/ncn+에/jca+는/jxt
+3	국가재정이	국가재정+이	NOUN	_	5	nsubj	_	_	국가재정/ncn+이/jcs
+4	위기에	위기+에	ADV	_	5	obl	_	_	위기/ncn+에/jca
+5	빠지게	빠지+게	VERB	_	17	ccomp	_	_	빠지/pvg+게/ecx
+6	되어	되+어	SCONJ	_	5	aux	_	_	되/px+어/ecs
+7	정부직은	정부직+은	NOUN	_	14	dislocated	_	_	정부직/ncn+은/jxt
+8	사회계급을	사회계급+을	NOUN	_	9	obj	_	_	사회계급/ncn+을/jco
+9	무시하고	무시+하+고	CCONJ	_	14	conj	_	_	무시/ncpa+하/xsv+고/ecc
+10	누구에게나	누구+에게+나	ADV	_	14	advcl	_	_	누구/npp+에게/jca+나/jxc
+11	고액을	고액+을	NOUN	_	12	obj	_	_	고액/ncn+을/jco
+12	지불하는	지불+하+는	VERB	_	13	acl	_	_	지불/ncpa+하/xsv+는/etm
+13	사람에게	사람+에게	ADV	_	14	iobj	_	_	사람/ncn+에게/jca
+14	팔게되어	팔+게+되+어	SCONJ	_	17	ccomp	_	_	팔/pvg+게/ecx+되/px+어/ecs
+15	양반의	양반+의	NOUN	_	16	nmod	_	_	양반/ncn+의/jcm
+16	수는	수+는	NOUN	_	17	dislocated	_	_	수/nbn+는/jxt
+17	늘었다	늘+었+다	VERB	_	0	root	_	_	늘/pvg+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이는 양반들의 계급적 의식을 약화시켰으나 또 한편으로는 사회계층간의 이동을 촉진시켰다고 보겠다 .
+1	이는	이+는	PRON	_	5	dislocated	_	_	이/npd+는/jxt
+2	양반들의	양반+들+의	NOUN	_	4	nmod	_	_	양반/ncn+들/xsn+의/jcm
+3	계급적	계급+적	NOUN	_	4	amod	_	_	계급/ncn+적/xsn
+4	의식을	의식+을	NOUN	_	5	obj	_	_	의식/ncpa+을/jco
+5	약화시켰으나	약화+시키+었+으나	SCONJ	_	10	conj	_	_	약화/ncpa+시키/xsv+었/ep+으나/ecs
+6	또	또	ADV	_	7	advmod	_	_	또/mag
+7	한편으로는	한편+으로+는	NOUN	_	10	dislocated	_	_	한편/ncn+으로/jca+는/jxt
+8	사회계층간의	사회+계층간+의	NOUN	_	9	nmod	_	_	사회/ncn+계층간/ncn+의/jcm
+9	이동을	이동+을	NOUN	_	10	obj	_	_	이동/ncn+을/jco
+10	촉진시켰다고	촉진+시키+었+다+고	VERB	_	11	conj	_	_	촉진/ncpa+시키/xsv+었/ep+다/ef+고/jcr
+11	보겠다	보+겠+다	VERB	_	0	root	_	_	보/pvg+겠/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 한일합방후 일정하에 한국의 전통족 지도층은 더욱 빈곤화하여 붕괴되어 갔다 .
+1	한일합방후	한일합방+후	NOUN	_	2	compound	_	_	한일합방/nq+후/ncn
+2	일정하에	일정하+에	ADV	_	8	obl	_	_	일정하/ncn+에/jca
+3	한국의	한국+의	PROPN	_	5	nmod	_	_	한국/nq+의/jcm
+4	전통족	전통족	NOUN	_	5	compound	_	_	전통족/ncn
+5	지도층은	지도층+은	NOUN	_	8	dislocated	_	_	지도층/ncn+은/jxt
+6	더욱	더욱	ADV	_	7	advmod	_	_	더욱/mag
+7	빈곤화하여	빈곤화+하+어	SCONJ	_	8	ccomp	_	_	빈곤화/ncpa+하/xsv+어/ecs
+8	붕괴되어	붕괴+되+어	VERB	_	0	root	_	_	붕괴/ncpa+되/xsv+어/ecx
+9	갔다	가+ㅆ+다	AUX	_	8	aux	_	_	가/px+ㅆ/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 일정하에서 관직을 추구하였던 한국인들은 대다수가 통치정부의 하급직에 등용되었으며 그 중에서도 많은 수가 순사이었다 .
+1	일정하에서	일정하+에서	ADV	_	3	advcl	_	_	일정하/ncn+에서/jca
+2	관직을	관직+을	NOUN	_	3	obj	_	_	관직/ncn+을/jco
+3	추구하였던	추구+하+었+던	VERB	_	4	acl	_	_	추구/ncpa+하/xsv+었/ep+던/etm
+4	한국인들은	한국인+들+은	NOUN	_	8	dislocated	_	_	한국인/ncn+들/xsn+은/jxt
+5	대다수가	대다수+가	NOUN	_	8	nsubj	_	_	대다수/ncn+가/jcs
+6	통치정부의	통치+정부+의	NOUN	_	7	nmod	_	_	통치/ncpa+정부/ncn+의/jcm
+7	하급직에	하급직+에	ADV	_	8	obl	_	_	하급직/ncn+에/jca
+8	등용되었으며	등용+되+었+으며	SCONJ	_	13	ccomp	_	_	등용/ncpa+되/xsv+었/ep+으며/ecs
+9	그	그	PRON	_	10	compound	_	_	그/npp
+10	중에서도	중+에서+도	ADV	_	13	advcl	_	_	중/ncn+에서/jca+도/jxc
+11	많은	많+ㄴ	ADJ	_	12	amod	_	_	많/paa+ㄴ/etm
+12	수가	수+가	NOUN	_	13	nsubj	_	_	수/nbn+가/jcs
+13	순사이었다	순사+이+었+다	VERB	_	0	root	_	_	순사/ncn+이/jp+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 한일합병조약은 일제가 역적들을 효과족으로 이용하여 강행한 탈취 행위이었다 .
+1	한일합병조약은	한일합병+조약+은	NOUN	_	8	dislocated	_	_	한일합병/ncn+조약/ncn+은/jxt
+2	일제가	일제+가	NOUN	_	6	nsubj	_	_	일제/ncn+가/jcs
+3	역적들을	역적+들+을	NOUN	_	5	obj	_	_	역적/ncn+들/xsn+을/jco
+4	효과족으로	효과적+으로	ADV	_	5	advcl	_	_	효과적/ncps+으로/jca
+5	이용하여	이용+하+어	SCONJ	_	6	ccomp	_	_	이용/ncpa+하/xsv+어/ecs
+6	강행한	강행+하+ㄴ	VERB	_	8	ccomp	_	_	강행/ncpa+하/xsv+ㄴ/etm
+7	탈취	탈취	NOUN	_	8	compound	_	_	탈취/ncn
+8	행위이었다	행위+이+었+다	VERB	_	0	root	_	_	행위/ncpa+이/jp+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 뒤에 알려진 사실이지만 고종황제는 국가는 국민의 것이라는 신념으로 합병조약에 조인하지 아니하였다 .
+1	뒤에	뒤+에	ADV	_	2	obl	_	_	뒤/ncn+에/jca
+2	알려진	알리+어+지+ㄴ	AUX	_	3	ccomp	_	_	알리/pvg+어/ecx+지/px+ㄴ/etm
+3	사실이지만	사실+이+지만	SCONJ	_	10	ccomp	_	_	사실/ncn+이/jp+지만/ecs
+4	고종황제는	고종+황제+는	PROPN	_	10	dislocated	_	_	고종/nq+황제/ncn+는/jxt
+5	국가는	국가+는	NOUN	_	7	dislocated	_	_	국가/ncn+는/jxt
+6	국민의	국민+의	NOUN	_	7	nmod	_	_	국민/ncn+의/jcm
+7	것이라는	것+이+라는	VERB	_	8	acl	_	_	것/nbn+이/jp+라는/etm
+8	신념으로	신념+으로	ADV	_	10	advcl	_	_	신념/ncn+으로/jca
+9	합병조약에	합병조약+에	ADV	_	10	obl	_	_	합병조약/ncn+에/jca
+10	조인하지	조인+하+지	VERB	_	0	root	_	_	조인/ncpa+하/xsv+지/ecx
+11	아니하였다	아니하+었+다	AUX	_	10	aux	_	_	아니하/px+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 일제는 분산되 일개 소집단을 장악하게 됨으로서 식민통치의 합법성을 약탈하게 되었다 .
+1	일제는	일제+는	NOUN	_	9	dislocated	_	_	일제/ncn+는/jxt
+2	분산되	분산+되+ㄴ	VERB	_	4	acl	_	_	분산/ncpa+되/xsv+ㄴ/etm
+3	일개	일개	NOUN	_	4	compound	_	_	일개/ncn
+4	소집단을	소집단+을	NOUN	_	5	obj	_	_	소집단/ncn+을/jco
+5	장악하게	장악+하+게	VERB	_	9	advcl	_	_	장악/ncpa+하/xsv+게/ecx
+6	됨으로서	되+ㅁ+으로서	ADV	_	5	aux	_	_	되/px+ㅁ/etn+으로서/jca
+7	식민통치의	식민통치+의	NOUN	_	8	nmod	_	_	식민통치/ncpa+의/jcm
+8	합법성을	합법성+을	NOUN	_	9	obj	_	_	합법성/ncn+을/jco
+9	약탈하게	약탈+하+게	VERB	_	0	root	_	_	약탈/ncpa+하/xsv+게/ecx
+10	되었다	되+었+다	AUX	_	9	aux	_	_	되/px+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 정치적권력을 상실한 한국인 사회는 그의 지도력을 사회지도층에서 찾게 되었다 .
+1	정치적권력을	정치적권력+을	NOUN	_	2	obj	_	_	정치적권력/ncn+을/jco
+2	상실한	상실+하+ㄴ	VERB	_	4	acl	_	_	상실/ncpa+하/xsv+ㄴ/etm
+3	한국인	한국인	NOUN	_	4	compound	_	_	한국인/ncn
+4	사회는	사회+는	NOUN	_	8	dislocated	_	_	사회/ncn+는/jxt
+5	그의	그+의	PRON	_	6	nmod	_	_	그/npp+의/jcm
+6	지도력을	지도력+을	NOUN	_	8	obj	_	_	지도력/ncn+을/jco
+7	사회지도층에서	사회+지도층+에서	ADV	_	8	advcl	_	_	사회/ncn+지도층/ncn+에서/jca
+8	찾게	찾+게	VERB	_	0	root	_	_	찾/pvg+게/ecx
+9	되었다	되+었+다	AUX	_	8	aux	_	_	되/px+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 독립선언서에 서명한 33 인과 그 배후에 남아 있던 16 명은 모두가 종교계인사들이었다 .
+1	독립선언서에	독립선언서+에	ADV	_	2	obl	_	_	독립선언서/ncn+에/jca
+2	서명한	서명+하+ㄴ	VERB	_	4	acl	_	_	서명/ncpa+하/xsv+ㄴ/etm
+3	33	33	NUM	_	4	nummod	_	_	33/nnc
+4	인과	인+과	CCONJ	_	10	conj	_	_	인/ncn+과/jcj
+5	그	그	PRON	_	6	compound	_	_	그/npp
+6	배후에	배후+에	ADV	_	7	obl	_	_	배후/ncn+에/jca
+7	남아	남+아	VERB	_	10	acl	_	_	남/pvg+아/ecx
+8	있던	있+던	AUX	_	7	aux	_	_	있/px+던/etm
+9	16	16	NUM	_	10	nummod	_	_	16/nnc
+10	명은	명+은	NOUN	_	12	dislocated	_	_	명/nbu+은/jxt
+11	모두가	모두+가	NOUN	_	12	nsubj	_	_	모두/ncn+가/jcs
+12	종교계인사들이었다	종교계+인사+들+이+었+다	VERB	_	0	root	_	_	종교계/ncn+인사/ncn+들/xsn+이/jp+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 한일합방을 전후하여 한국사회지도층은 급격히 변화하고 있었다 .
+1	한일합방을	한일합방+을	PROPN	_	2	obj	_	_	한일합방/nq+을/jco
+2	전후하여	전후하+어	SCONJ	_	5	ccomp	_	_	전후하/pvg+어/ecs
+3	한국사회지도층은	한국사회+지도층+은	NOUN	_	5	dislocated	_	_	한국사회/ncn+지도층/ncn+은/jxt
+4	급격히	급격+히	ADV	_	5	advmod	_	_	급격/ncps+히/xsa
+5	변화하고	변화+하+고	VERB	_	0	root	_	_	변화/ncpa+하/xsv+고/ecx
+6	있었다	있+었+다	AUX	_	5	aux	_	_	있/px+었/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그러나 독립운동이 국내적으로 일제의 탄압을 받게되고 또 국외에서도 임시정부가 열강국들의 승인을 받지 못하게 되자 이들 신흥지도자들은 후세교육에 힘을 쓰게 되었다 .
+1	그러나	그러나	CCONJ	_	19	cc	_	_	그러나/maj
+2	독립운동이	독립운동+이	NOUN	_	6	nsubj	_	_	독립운동/ncn+이/jcs
+3	국내적으로	국내+적+으로	ADV	_	6	advcl	_	_	국내/ncn+적/xsn+으로/jca
+4	일제의	일제+의	NOUN	_	5	nmod	_	_	일제/ncn+의/jcm
+5	탄압을	탄압+을	NOUN	_	6	obj	_	_	탄압/ncpa+을/jco
+6	받게되고	받+게+되+고	CCONJ	_	7	conj	_	_	받/pvg+게/ecx+되/px+고/ecc
+7	또	또	CCONJ	_	12	conj	_	_	또/maj
+8	국외에서도	국외+에서+도	ADV	_	12	advcl	_	_	국외/ncn+에서/jca+도/jxc
+9	임시정부가	임시정부+가	NOUN	_	12	nsubj	_	_	임시정부/ncn+가/jcs
+10	열강국들의	열강국+들+의	NOUN	_	11	nmod	_	_	열강국/ncn+들/xsn+의/jcm
+11	승인을	승인+을	NOUN	_	12	obj	_	_	승인/ncpa+을/jco
+12	받지	받+지	VERB	_	19	ccomp	_	_	받/pvg+지/ecx
+13	못하게	못하+게	AUX	_	12	aux	_	_	못하/px+게/ecx
+14	되자	되+자	SCONJ	_	12	aux	_	_	되/px+자/ecs
+15	이들	이+들	NOUN	_	16	compound	_	_	이/npd+들/xsn
+16	신흥지도자들은	신흥+지도자+들+은	NOUN	_	19	dislocated	_	_	신흥/ncpa+지도자/ncn+들/xsn+은/jxt
+17	후세교육에	후세+교육+에	ADV	_	19	obl	_	_	후세/ncn+교육/ncpa+에/jca
+18	힘을	힘+을	NOUN	_	19	obj	_	_	힘/ncn+을/jco
+19	쓰게	쓰+게	VERB	_	0	root	_	_	쓰/pvg+게/ecx
+20	되었다	되+었+다	AUX	_	19	aux	_	_	되/px+었/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 우리나라에 있어 근대국민국가의 형성은 1948 년 8 월 대한민국이 수립된 이후에 이루어졌다 .
+1	우리나라에	우리나라+에	ADV	_	2	obl	_	_	우리나라/ncn+에/jca
+2	있어	있+어	SCONJ	_	12	xcomp	_	_	있/paa+어/ecs
+3	근대국민국가의	근대+국민국가+의	NOUN	_	4	nmod	_	_	근대/ncn+국민국가/ncn+의/jcm
+4	형성은	형성+은	NOUN	_	12	dislocated	_	_	형성/ncpa+은/jxt
+5	1948	1948	NUM	_	6	nummod	_	_	1948/nnc
+6	년	년	NOUN	_	8	compound	_	_	년/nbu
+7	8	8	NUM	_	8	nummod	_	_	8/nnc
+8	월	월	NOUN	_	10	advmod	_	_	월/nbu
+9	대한민국이	대한민국+이	PROPN	_	10	nsubj	_	_	대한민국/nq+이/jcs
+10	수립된	수립+되+ㄴ	VERB	_	11	acl	_	_	수립/ncpa+되/xsv+ㄴ/etm
+11	이후에	이후+에	ADV	_	12	obl	_	_	이후/ncn+에/jca
+12	이루어졌다	이루어지+었+다	VERB	_	0	root	_	_	이루어지/pvg+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 민족국가형성의 사회 , 문화적 요건들은 다음 네 가지로 본다 .
+1	민족국가형성의	민족국가+형성+의	NOUN	_	5	nmod	_	_	민족국가/ncn+형성/ncpa+의/jcm
+2	사회	사회	NOUN	_	4	conj	_	_	사회/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	문화적	문화+적	NOUN	_	5	amod	_	_	문화/ncn+적/xsn
+5	요건들은	요건+들+은	NOUN	_	9	dislocated	_	_	요건/ncn+들/xsn+은/jxt
+6	다음	다음	NOUN	_	8	compound	_	_	다음/ncn
+7	네	네	PRON	_	8	compound	_	_	네/npp
+8	가지로	가지+로	ADV	_	9	advcl	_	_	가지/nbu+로/jca
+9	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이것은 쇄국주의를 의미하는 것은 아니며 민족사회를 형성할 수 있는 사회 , 경제적 의존성을 의미하는 것이다 .
+1	이것은	이것+은	PRON	_	14	dislocated	_	_	이것/npd+은/jxt
+2	쇄국주의를	쇄국주의+를	NOUN	_	3	obj	_	_	쇄국주의/ncn+를/jco
+3	의미하는	의미+하+는	VERB	_	4	acl	_	_	의미/ncpa+하/xsv+는/etm
+4	것은	것+은	NOUN	_	5	dislocated	_	_	것/nbn+은/jxt
+5	아니며	아니+며	CCONJ	_	14	conj	_	_	아니/paa+며/ecc
+6	민족사회를	민족사회+를	NOUN	_	7	obj	_	_	민족사회/ncn+를/jco
+7	형성할	형성+하+ㄹ	VERB	_	13	acl	_	_	형성/ncpa+하/xsv+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있는	있+는	ADJ	_	7	aux	_	_	있/paa+는/etm
+10	사회	사회	NOUN	_	12	conj	_	_	사회/ncn
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	경제적	경제+적	NOUN	_	13	amod	_	_	경제/ncn+적/xsn
+13	의존성을	의존성+을	NOUN	_	14	obj	_	_	의존성/ncn+을/jco
+14	의미하는	의미+하+는	VERB	_	0	root	_	_	의미/ncpa+하/xsv+는/etm
+15	것이다	것+이+다	VERB	_	14	aux	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 셋째로 성공적인 집단 활동에 경제적 , 심리적 보상을 배정하는 산업주의와 근대 시장경제의 대두이다 .
+1	셋째로	셋째+로	ADV	_	13	advcl	_	_	셋째/nno+로/jca
+2	성공적인	성공+적+이+ㄴ	VERB	_	4	acl	_	_	성공/ncpa+적/xsn+이/jp+ㄴ/etm
+3	집단	집단	NOUN	_	4	compound	_	_	집단/ncn
+4	활동에	활동+에	ADV	_	9	obl	_	_	활동/ncpa+에/jca
+5	경제적	경제+적	NOUN	_	7	conj	_	_	경제/ncn+적/xsn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	심리적	심리+적	NOUN	_	8	amod	_	_	심리/ncn+적/xsn
+8	보상을	보상+을	NOUN	_	9	obj	_	_	보상/ncpa+을/jco
+9	배정하는	배정+하+는	VERB	_	12	acl	_	_	배정/ncpa+하/xsv+는/etm
+10	산업주의와	산업+주의+와	CCONJ	_	12	conj	_	_	산업/ncn+주의/ncn+와/jcj
+11	근대	근대	NOUN	_	12	compound	_	_	근대/ncn
+12	시장경제의	시장경제+의	NOUN	_	13	nmod	_	_	시장경제/ncn+의/jcm
+13	대두이다	대두+이+다	VERB	_	0	root	_	_	대두/ncn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 다시 말해서 근대산업주의와 시장경제는 집단활동을 필요로 하며 한 민족사회는 국제적으로 거대한 집단단위가 되는 것이다 .
+1	다시	다시	ADV	_	2	advmod	_	_	다시/mag
+2	말해서	말하+어서	SCONJ	_	13	ccomp	_	_	말하/pvg+어서/ecs
+3	근대산업주의와	근대+산업+주의+와	CCONJ	_	4	conj	_	_	근대/ncn+산업/ncn+주의/ncn+와/jcj
+4	시장경제는	시장경제+는	NOUN	_	7	dislocated	_	_	시장경제/ncn+는/jxt
+5	집단활동을	집단+활동+을	NOUN	_	7	obj	_	_	집단/ncn+활동/ncpa+을/jco
+6	필요로	필요+로	ADV	_	7	advcl	_	_	필요/ncpa+로/jca
+7	하며	하+며	CCONJ	_	13	conj	_	_	하/pvg+며/ecc
+8	한	한	NUM	_	9	nummod	_	_	한/nnc
+9	민족사회는	민족사회+는	NOUN	_	13	dislocated	_	_	민족사회/ncn+는/jxt
+10	국제적으로	국제+적+으로	ADV	_	13	advcl	_	_	국제/ncn+적/xsn+으로/jca
+11	거대한	거대+하+ㄴ	VERB	_	12	amod	_	_	거대/ncps+하/xsm+ㄴ/etm
+12	집단단위가	집단+단위+가	NOUN	_	13	nsubj	_	_	집단/ncn+단위/ncn+가/jcs
+13	되는	되+는	VERB	_	0	root	_	_	되/pvg+는/etm
+14	것이다	것+이+다	VERB	_	13	aux	_	_	것/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 민족국가형성의 마지막 요건은 정치이념의 개혁이다 .
+1	민족국가형성의	민족국가+형성+의	NOUN	_	3	nmod	_	_	민족국가/ncn+형성/ncpa+의/jcm
+2	마지막	마지막	NOUN	_	3	compound	_	_	마지막/ncn
+3	요건은	요건+은	NOUN	_	5	dislocated	_	_	요건/ncn+은/jxt
+4	정치이념의	정치이념+의	NOUN	_	5	nmod	_	_	정치이념/ncn+의/jcm
+5	개혁이다	개혁+이+다	VERB	_	0	root	_	_	개혁/ncpa+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 이것은 국가의 목적들을 추구하는데 신하들의 용역을 강요하던 전통적인 권위주의 국가에서의 이념과는 판이하다고 하겠다 .
+1	이것은	이것+은	PRON	_	4	dislocated	_	_	이것/npd+은/jxt
+2	국가의	국가+의	NOUN	_	3	nmod	_	_	국가/ncn+의/jcm
+3	목적들을	목적+들+을	NOUN	_	4	obj	_	_	목적/ncpa+들/xsn+을/jco
+4	추구하는데	추구+하+는데	SCONJ	_	12	conj	_	_	추구/ncpa+하/xsv+는데/ecs
+5	신하들의	신하+들+의	NOUN	_	6	nmod	_	_	신하/ncn+들/xsn+의/jcm
+6	용역을	용역+을	NOUN	_	7	obj	_	_	용역/ncn+을/jco
+7	강요하던	강요+하+던	VERB	_	10	acl	_	_	강요/ncpa+하/xsv+던/etm
+8	전통적인	전통+적+이+ㄴ	VERB	_	10	acl	_	_	전통/ncn+적/xsn+이/jp+ㄴ/etm
+9	권위주의	권위주의	NOUN	_	10	compound	_	_	권위주의/ncn
+10	국가에서의	국가+에서+의	NOUN	_	11	nmod	_	_	국가/ncn+에서/jca+의/jcm
+11	이념과는	이념+과는	ADV	_	12	advcl	_	_	이념/ncn+과는/jxc
+12	판이하다고	판이+하+다+고	VERB	_	13	conj	_	_	판이/ncps+하/xsm+다/ef+고/jcr
+13	하겠다	하+겠+다	VERB	_	0	root	_	_	하/pvg+겠/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 민족국가 형성과정에서 정치지도층은 양 , 질적 변화를 갖게된다 .
+1	민족국가	민족국가	NOUN	_	2	compound	_	_	민족국가/ncn
+2	형성과정에서	형성과정+에서	ADV	_	8	advcl	_	_	형성과정/ncn+에서/jca
+3	정치지도층은	정치+지도층+은	NOUN	_	8	dislocated	_	_	정치/ncpa+지도층/ncn+은/jxt
+4	양	양	NOUN	_	6	conj	_	_	양/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	질적	질+적	NOUN	_	7	amod	_	_	질/ncn+적/xsn
+7	변화를	변화+를	NOUN	_	8	obj	_	_	변화/ncpa+를/jco
+8	갖게된다	갖+게+되+ㄴ다	AUX	_	0	root	_	_	갖/pvg+게/ecx+되/px+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 다음에 우선 전자를 다루어 보기로 한다 .
+1	다음에	다음+에	ADV	_	4	obl	_	_	다음/ncn+에/jca
+2	우선	우선	ADV	_	4	advmod	_	_	우선/mag
+3	전자를	전자+를	NOUN	_	4	obj	_	_	전자/ncn+를/jco
+4	다루어	다루+어	VERB	_	6	advcl	_	_	다루/pvg+어/ecx
+5	보기로	보+기+로	ADV	_	4	aux	_	_	보/px+기/etn+로/jca
+6	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 수의 수에 대한 비율의 기별 추세를 보면 제 1 공화국시 신각료와 비율은 후기로 갈수록 줄어들고 있다 .
+1	수의	수+의	NOUN	_	2	nmod	_	_	수/ncn+의/jcm
+2	수에	수+에	ADV	_	3	obl	_	_	수/ncn+에/jca
+3	대한	대하+ㄴ	VERB	_	4	acl	_	_	대하/pvg+ㄴ/etm
+4	비율의	비율+의	NOUN	_	6	nmod	_	_	비율/ncn+의/jcm
+5	기별	기별	NOUN	_	6	compound	_	_	기별/ncn
+6	추세를	추세+를	NOUN	_	7	obj	_	_	추세/ncn+를/jco
+7	보면	보+면	SCONJ	_	15	ccomp	_	_	보/pvg+면/ecs
+8	제	제	ADJ	_	9	amod	_	_	제/mma
+9	1	1	NUM	_	10	nummod	_	_	1/nnc
+10	공화국시	공화국+시	NOUN	_	15	advmod	_	_	공화국/ncn+시/ncn
+11	신각료와	신각료+와	CCONJ	_	12	conj	_	_	신각료/ncn+와/jcj
+12	비율은	비율+은	NOUN	_	15	dislocated	_	_	비율/ncn+은/jxt
+13	후기로	후기+로	ADV	_	14	advcl	_	_	후기/ncn+로/jca
+14	갈수록	가+ㄹ수록	SCONJ	_	15	ccomp	_	_	가/pvg+ㄹ수록/ecs
+15	줄어들고	줄어들+고	VERB	_	0	root	_	_	줄어들/pvg+고/ecx
+16	있다	있+다	AUX	_	15	aux	_	_	있/px+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그 추세로 보아 제 1 공화국이 지속되었다면 그 비율들은 더 적어졌을 것으로 추정된다 .
+1	그	그	PRON	_	2	compound	_	_	그/npp
+2	추세로	추세+로	ADV	_	3	advcl	_	_	추세/ncn+로/jca
+3	보아	보+아	SCONJ	_	13	ccomp	_	_	보/pvg+아/ecs
+4	제	제	NOUN	_	6	compound	_	_	제/ncn
+5	1	1	NUM	_	6	nummod	_	_	1/nnc
+6	공화국이	공화국+이	NOUN	_	7	nsubj	_	_	공화국/ncn+이/jcs
+7	지속되었다면	지속+되+었+다면	SCONJ	_	13	ccomp	_	_	지속/ncpa+되/xsv+었/ep+다면/ecs
+8	그	그	PRON	_	9	compound	_	_	그/npp
+9	비율들은	비율+들+은	NOUN	_	11	dislocated	_	_	비율/ncn+들/xsn+은/jxt
+10	더	더	ADV	_	11	advmod	_	_	더/mag
+11	적어졌을	적+어+지+었+ㄹ	AUX	_	12	acl	_	_	적/pvg+어/ecx+지/px+었/ep+ㄹ/etm
+12	것으로	것+으로	ADV	_	13	advcl	_	_	것/nbn+으로/jca
+13	추정된다	추정+되+ㄴ다	VERB	_	0	root	_	_	추정/ncpa+되/xsv+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 정치지도자들의 특성은 개인적인 것과 집단적인 것으로 나누어 볼 수 있다 .
+1	정치지도자들의	정치지도자+들+의	NOUN	_	2	nmod	_	_	정치지도자/ncn+들/xsn+의/jcm
+2	특성은	특성+은	NOUN	_	7	dislocated	_	_	특성/ncn+은/jxt
+3	개인적인	개인+적+이+ㄴ	VERB	_	4	acl	_	_	개인/ncn+적/xsn+이/jp+ㄴ/etm
+4	것과	것+과	CCONJ	_	6	conj	_	_	것/nbn+과/jcj
+5	집단적인	집단+적+이+ㄴ	VERB	_	6	acl	_	_	집단/ncn+적/xsn+이/jp+ㄴ/etm
+6	것으로	것+으로	ADV	_	7	advcl	_	_	것/nbn+으로/jca
+7	나누어	나누+어	VERB	_	0	root	_	_	나누/pvg+어/ecx
+8	볼	보+ㄹ	AUX	_	7	aux	_	_	보/px+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	있다	있+다	ADJ	_	7	aux	_	_	있/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 지도자들의 특성에 관한 연구는 그들의 정치적 형태를 설명하고 또는 예측하는 데 그 목적이 있다 .
+1	지도자들의	지도자+들+의	NOUN	_	2	nmod	_	_	지도자/ncn+들/xsn+의/jcm
+2	특성에	특성+에	ADV	_	3	obl	_	_	특성/ncn+에/jca
+3	관한	관하+ㄴ	VERB	_	4	acl	_	_	관하/pvg+ㄴ/etm
+4	연구는	연구+는	NOUN	_	14	dislocated	_	_	연구/ncpa+는/jxt
+5	그들의	그+들+의	PRON	_	7	nmod	_	_	그/npp+들/xsn+의/jcm
+6	정치적	정치+적	NOUN	_	7	amod	_	_	정치/ncpa+적/xsn
+7	형태를	형태+를	NOUN	_	10	obj	_	_	형태/ncn+를/jco
+8	설명하고	설명+하+고	CCONJ	_	9	conj	_	_	설명/ncpa+하/xsv+고/ecc
+9	또는	또는	CCONJ	_	10	conj	_	_	또는/maj
+10	예측하는	예측+하+는	VERB	_	11	acl	_	_	예측/ncpa+하/xsv+는/etm
+11	데	데	NOUN	_	14	mark	_	_	데/nbn
+12	그	그	PRON	_	13	compound	_	_	그/npp
+13	목적이	목+적+이	NOUN	_	14	nsubj	_	_	목/ncn+적/xsn+이/jcs
+14	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 더구나 근대 교육시설은 농촌보다는 도시에 먼저 설립 되고 도회주민들은 교육을 받을 기회가 많다 .
+1	더구나	더구나	ADV	_	8	advmod	_	_	더구나/mag
+2	근대	근대	NOUN	_	3	compound	_	_	근대/ncn
+3	교육시설은	교육+시설+은	NOUN	_	8	dislocated	_	_	교육/ncpa+시설/ncpa+은/jxt
+4	농촌보다는	농촌+보다+는	NOUN	_	8	dislocated	_	_	농촌/ncn+보다/jca+는/jxt
+5	도시에	도시+에	ADV	_	8	obl	_	_	도시/ncn+에/jca
+6	먼저	먼저	ADV	_	8	advmod	_	_	먼저/mag
+7	설립	설립	NOUN	_	8	dep	_	_	설립/ncn
+8	되고	되+고	CCONJ	_	13	conj	_	_	되/pvg+고/ecc
+9	도회주민들은	도회+주민+들+은	NOUN	_	13	dislocated	_	_	도회/ncn+주민/ncn+들/xsn+은/jxt
+10	교육을	교육+을	NOUN	_	11	obj	_	_	교육/ncpa+을/jco
+11	받을	받+ㄹ	VERB	_	12	acl	_	_	받/pvg+ㄹ/etm
+12	기회가	기회+가	NOUN	_	13	nsubj	_	_	기회/ncn+가/jcs
+13	많다	많+다	ADJ	_	0	root	_	_	많/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 5 퍼센트가 2 만 이상의 읍이나 시에 거주하고 있었다 .
+1	5	5	NUM	_	2	nummod	_	_	5/nnc
+2	퍼센트가	퍼센트+가	NOUN	_	8	nsubj	_	_	퍼센트/ncn+가/jcs
+3	2	2	NUM	_	4	nummod	_	_	2/nnc
+4	만	만	NUM	_	5	nummod	_	_	만/nnc
+5	이상의	이상+의	NOUN	_	7	nmod	_	_	이상/ncn+의/jcm
+6	읍이나	읍+이나	CCONJ	_	7	conj	_	_	읍/ncn+이나/jcj
+7	시에	시+에	ADV	_	8	obl	_	_	시/ncn+에/jca
+8	거주하고	거주+하+고	VERB	_	0	root	_	_	거주/ncpa+하/xsv+고/ecx
+9	있었다	있+었+다	AUX	_	8	aux	_	_	있/px+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 더구나 일정의 독단적인 한국 내 공업지 선택 그리고 만주 침입정책을 위한 철도시설 등은 불균등한 도시화를 가져왔다 .
+1	더구나	더구나	ADV	_	16	advmod	_	_	더구나/mag
+2	일정의	일정+의	NOUN	_	7	nmod	_	_	일정/ncn+의/jcm
+3	독단적인	독단+적+이+ㄴ	VERB	_	7	acl	_	_	독단/ncpa+적/xsn+이/jp+ㄴ/etm
+4	한국	한국	PROPN	_	5	compound	_	_	한국/nq
+5	내	내	NOUN	_	6	compound	_	_	내/ncn
+6	공업지	공업지	NOUN	_	7	compound	_	_	공업지/ncn
+7	선택	선택	NOUN	_	12	conj	_	_	선택/ncn
+8	그리고	그리고	CCONJ	_	12	cc	_	_	그리고/maj
+9	만주	만주	PROPN	_	10	compound	_	_	만주/nq
+10	침입정책을	침입+정책+을	NOUN	_	11	obj	_	_	침입/ncpa+정책/ncn+을/jco
+11	위한	위하+ㄴ	VERB	_	12	acl	_	_	위하/pvg+ㄴ/etm
+12	철도시설	철도+시설	NOUN	_	13	compound	_	_	철도/ncn+시설/ncpa
+13	등은	등+은	NOUN	_	16	dislocated	_	_	등/nbn+은/jxt
+14	불균등한	불균등+하+ㄴ	VERB	_	15	amod	_	_	불균등/ncps+하/xsm+ㄴ/etm
+15	도시화를	도시화+를	NOUN	_	16	obj	_	_	도시화/ncn+를/jco
+16	가져왔다	가지+어+오+았+다	AUX	_	0	root	_	_	가지/pvg+어/ecx+오/px+았/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그러나 이와같은 지방주의는 도별 도시화의 격차로 설명될 수 있는 것으로 본다 .
+1	그러나	그러나	CCONJ	_	11	cc	_	_	그러나/maj
+2	이와같은	이와같+은	ADJ	_	3	amod	_	_	이와같/paa+은/etm
+3	지방주의는	지방주의+는	NOUN	_	7	dislocated	_	_	지방주의/ncn+는/jxt
+4	도별	도별	NOUN	_	5	compound	_	_	도별/ncn
+5	도시화의	도시화+의	NOUN	_	6	nmod	_	_	도시화/ncn+의/jcm
+6	격차로	격차+로	ADV	_	7	advcl	_	_	격차/ncn+로/jca
+7	설명될	설명+되+ㄹ	VERB	_	10	acl	_	_	설명/ncpa+되/xsv+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있는	있+는	ADJ	_	7	aux	_	_	있/paa+는/etm
+10	것으로	것+으로	ADV	_	11	advcl	_	_	것/nbn+으로/jca
+11	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이것은 이들 지방도 출신지도자들이 대한민국 정부직 등용에서 대표성이 낮았음을 보여주고 있다 .
+1	이것은	이것+은	PRON	_	10	dislocated	_	_	이것/npd+은/jxt
+2	이들	이+들	NOUN	_	4	compound	_	_	이/npd+들/xsn
+3	지방도	지방도	NOUN	_	4	compound	_	_	지방도/ncn
+4	출신지도자들이	출신+지도자+들+이	NOUN	_	9	nsubj	_	_	출신/ncn+지도자/ncn+들/xsn+이/jcs
+5	대한민국	대한민국	PROPN	_	6	compound	_	_	대한민국/nq
+6	정부직	정부직	NOUN	_	7	compound	_	_	정부직/ncn
+7	등용에서	등용+에서	ADV	_	9	advcl	_	_	등용/ncpa+에서/jca
+8	대표성이	대표성+이	NOUN	_	9	nsubj	_	_	대표성/ncn+이/jcs
+9	낮았음을	낮+았+ㅁ+을	NOUN	_	10	obj	_	_	낮/paa+았/ep+ㅁ/etn+을/jco
+10	보여주고	보이+어+주+고	AUX	_	0	root	_	_	보이/pvg+어/ecx+주/px+고/ecx
+11	있다	있+다	AUX	_	10	aux	_	_	있/px+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 현재 대한민국 주권하에 있는 나머지 5 개도들을 보면 서울시와 이에 인접한 경기도와 충청도는 모든 세 공화국 기간들에서 과도비율들을 차지하고 있다 .
+1	현재	현재	NOUN	_	4	dep	_	_	현재/ncn
+2	대한민국	대한민국	PROPN	_	3	compound	_	_	대한민국/nq
+3	주권하에	주권하+에	ADV	_	4	obl	_	_	주권하/ncn+에/jca
+4	있는	있+는	ADJ	_	7	amod	_	_	있/paa+는/etm
+5	나머지	나머지	NOUN	_	7	compound	_	_	나머지/ncn
+6	5	5	NUM	_	7	nummod	_	_	5/nnc
+7	개도들을	개도+들+을	NOUN	_	8	obj	_	_	개도/ncn+들/xsn+을/jco
+8	보면	보+면	SCONJ	_	19	ccomp	_	_	보/pvg+면/ecs
+9	서울시와	서울시+와	CCONJ	_	13	conj	_	_	서울시/nq+와/jcj
+10	이에	이+에	ADV	_	11	obl	_	_	이/npd+에/jca
+11	인접한	인접+하+ㄴ	VERB	_	13	acl	_	_	인접/ncpa+하/xsv+ㄴ/etm
+12	경기도와	경기도+와	CCONJ	_	13	conj	_	_	경기도/nq+와/jcj
+13	충청도는	충청도+는	PROPN	_	19	dislocated	_	_	충청도/nq+는/jxt
+14	모든	모든	ADJ	_	17	amod	_	_	모든/mma
+15	세	세	NUM	_	16	nummod	_	_	세/nnc
+16	공화국	공화국	NOUN	_	17	compound	_	_	공화국/ncn
+17	기간들에서	기간+들+에서	ADV	_	19	advcl	_	_	기간/ncn+들/xsn+에서/jca
+18	과도비율들을	과도+비율+들+을	NOUN	_	19	obj	_	_	과도/ncn+비율/ncn+들/xsn+을/jco
+19	차지하고	차지+하+고	VERB	_	0	root	_	_	차지/ncpa+하/xsv+고/ecx
+20	있다	있+다	AUX	_	19	aux	_	_	있/px+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 조선시대에 경기도와 충청도 출신 정부관리들은 총관리수에 대해 높은 비율을 차지하고 있었다 .
+1	조선시대에	조선시대+에	ADV	_	10	obl	_	_	조선시대/ncn+에/jca
+2	경기도와	경기도+와	CCONJ	_	3	conj	_	_	경기도/nq+와/jcj
+3	충청도	충청도	PROPN	_	4	compound	_	_	충청도/nq
+4	출신	출신	NOUN	_	5	compound	_	_	출신/ncn
+5	정부관리들은	정부+관리+들+은	NOUN	_	10	dislocated	_	_	정부/ncn+관리/ncn+들/xsn+은/jxt
+6	총관리수에	총관리수+에	ADV	_	7	obl	_	_	총관리수/ncn+에/jca
+7	대해	대하+어	SCONJ	_	10	ccomp	_	_	대하/pvg+어/ecs
+8	높은	높+ㄴ	ADJ	_	9	amod	_	_	높/paa+ㄴ/etm
+9	비율을	비율+을	NOUN	_	10	obj	_	_	비율/ncn+을/jco
+10	차지하고	차지+하+고	VERB	_	0	root	_	_	차지/ncpa+하/xsv+고/ecx
+11	있었다	있+었+다	AUX	_	10	aux	_	_	있/px+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러나 높은 도시화를 달성했던 전라도는 모든 세 공화국시기들에 있어 비교적 낮은 비율들의 지도자들이 임명되었다 .
+1	그러나	그러나	CCONJ	_	14	cc	_	_	그러나/maj
+2	높은	높+ㄴ	ADJ	_	3	amod	_	_	높/paa+ㄴ/etm
+3	도시화를	도시화+를	NOUN	_	4	obj	_	_	도시화/ncn+를/jco
+4	달성했던	달성+하+었+던	VERB	_	5	acl	_	_	달성/ncpa+하/xsv+었/ep+던/etm
+5	전라도는	전라도+는	PROPN	_	14	dislocated	_	_	전라도/nq+는/jxt
+6	모든	모든	ADJ	_	8	amod	_	_	모든/mma
+7	세	세	NUM	_	8	nummod	_	_	세/nnc
+8	공화국시기들에	공화국+시기+들+에	ADV	_	9	obl	_	_	공화국/ncn+시기/ncn+들/xsn+에/jca
+9	있어	있+어	SCONJ	_	14	xcomp	_	_	있/paa+어/ecs
+10	비교적	비교+적	NOUN	_	11	amod	_	_	비교/ncpa+적/xsn
+11	낮은	낮+ㄴ	ADJ	_	12	amod	_	_	낮/paa+ㄴ/etm
+12	비율들의	비율+들+의	NOUN	_	13	nmod	_	_	비율/ncn+들/xsn+의/jcm
+13	지도자들이	지도자+들+이	NOUN	_	14	nsubj	_	_	지도자/ncn+들/xsn+이/jcs
+14	임명되었다	임명+되+었+다	VERB	_	0	root	_	_	임명/ncpa+되/xsv+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 경상도는 도시화도 높았지만 제 2 공화국과 제 3 공화국 시기들에서 최고율들의 지도자들을 내고 있다 .
+1	경상도는	경상도+는	PROPN	_	13	dislocated	_	_	경상도/nq+는/jxt
+2	도시화도	도시화+도	ADV	_	3	advcl	_	_	도시화/ncn+도/jxc
+3	높았지만	높+았+지만	SCONJ	_	13	xcomp	_	_	높/paa+았/ep+지만/ecs
+4	제	제	NOUN	_	5	compound	_	_	제/ncn
+5	2	2	NUM	_	6	nummod	_	_	2/nnc
+6	공화국과	공화국+과	CCONJ	_	9	conj	_	_	공화국/ncn+과/jcj
+7	제	제	NOUN	_	8	compound	_	_	제/ncn
+8	3	3	NUM	_	9	nummod	_	_	3/nnc
+9	공화국	공화국	NOUN	_	10	compound	_	_	공화국/ncn
+10	시기들에서	시기+들+에서	ADV	_	13	advcl	_	_	시기/ncn+들/xsn+에서/jca
+11	최고율들의	최고율+들+의	NOUN	_	12	nmod	_	_	최고율/ncn+들/xsn+의/jcm
+12	지도자들을	지도자+들+을	NOUN	_	13	obj	_	_	지도자/ncn+들/xsn+을/jco
+13	내고	내+고	VERB	_	0	root	_	_	내/pvg+고/ecx
+14	있다	있+다	AUX	_	13	aux	_	_	있/px+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 농촌출신 국회의원이 많았던 것은 다음 두 가지 이유로서 설명될 수 있다고 본다 .
+1	농촌출신	농촌출신	NOUN	_	2	compound	_	_	농촌출신/ncn
+2	국회의원이	국회의원+이	NOUN	_	3	nsubj	_	_	국회의원/ncn+이/jcs
+3	많았던	많+았+던	ADJ	_	4	amod	_	_	많/paa+았/ep+던/etm
+4	것은	것+은	NOUN	_	9	dislocated	_	_	것/nbn+은/jxt
+5	다음	다음	NOUN	_	8	compound	_	_	다음/ncn
+6	두	두	NUM	_	7	nummod	_	_	두/nnc
+7	가지	가지	NOUN	_	8	compound	_	_	가지/nbu
+8	이유로서	이유+로서	ADV	_	9	advcl	_	_	이유/ncn+로서/jca
+9	설명될	설명+되+ㄹ	VERB	_	12	conj	_	_	설명/ncpa+되/xsv+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있다고	있+다+고	VERB	_	9	aux	_	_	있/paa+다/ef+고/jcr
+12	본다	보+ㄴ다	VERB	_	0	root	_	_	보/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 6 퍼센트가 농촌지역의 의석들이었다 .
+1	6	6	NUM	_	2	nummod	_	_	6/nnc
+2	퍼센트가	퍼센트+가	NOUN	_	4	nsubj	_	_	퍼센트/ncn+가/jcs
+3	농촌지역의	농촌지역+의	NOUN	_	4	nmod	_	_	농촌지역/ncn+의/jcm
+4	의석들이었다	의석+들+이+었+다	VERB	_	0	root	_	_	의석/ncn+들/xsn+이/jp+었/ep+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 둘째 , 지방유지들은 그들 출신 선거지구에서 외래인들보다 득표상 이점을 가지고 있다 .
+1	둘째	둘째	NUM	_	10	nummod	_	_	둘째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	지방유지들은	지방+유지+들+은	NOUN	_	10	dislocated	_	_	지방/ncn+유지/ncpa+들/xsn+은/jxt
+4	그들	그+들	NOUN	_	5	compound	_	_	그/npp+들/xsn
+5	출신	출신	NOUN	_	6	compound	_	_	출신/ncn
+6	선거지구에서	선거+지구+에서	ADV	_	10	advcl	_	_	선거/ncpa+지구/ncn+에서/jca
+7	외래인들보다	외래인+들+보다	ADV	_	10	advcl	_	_	외래인/ncn+들/xsn+보다/jca
+8	득표상	득표+상	NOUN	_	9	advmod	_	_	득표/ncpa+상/xsn
+9	이점을	이점+을	NOUN	_	10	obj	_	_	이점/ncn+을/jco
+10	가지고	가지+고	VERB	_	0	root	_	_	가지/pvg+고/ecx
+11	있다	있+다	AUX	_	10	aux	_	_	있/px+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 대통령과 부통령 , 정부각료와 대법관들 중에도 농촌출신 지도자들은 3분지 2 이상이 된다 .
+1	대통령과	대통령+과	CCONJ	_	2	conj	_	_	대통령/ncn+과/jcj
+2	부통령	부통령	NOUN	_	4	conj	_	_	부통령/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	정부각료와	정부+각료+와	CCONJ	_	5	conj	_	_	정부/ncn+각료/ncn+와/jcj
+5	대법관들	대법관+들	NOUN	_	6	compound	_	_	대법관/ncn+들/xsn
+6	중에도	중+에+도	ADV	_	12	advcl	_	_	중/ncn+에/jca+도/jxc
+7	농촌출신	농촌출신	NOUN	_	8	compound	_	_	농촌출신/ncn
+8	지도자들은	지도자+들+은	NOUN	_	12	dislocated	_	_	지도자/ncn+들/xsn+은/jxt
+9	3분지	3+분지	NOUN	_	10	advmod	_	_	3/nnc+분지/xsn
+10	2	2	NUM	_	11	nummod	_	_	2/nnc
+11	이상이	이상+이	NOUN	_	12	csubj	_	_	이상/ncn+이/jcc
+12	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이것은 비율적으로 적은 수의 농촌출신 사람들이 근대교육을 받아서 정부 고위직위에 등용될 자격을 갖출 수 있었던 것을 보여주고 있다 .
+1	이것은	이것+은	PRON	_	17	dislocated	_	_	이것/npd+은/jxt
+2	비율적으로	비율+적+으로	ADV	_	3	advcl	_	_	비율/ncn+적/xsn+으로/jca
+3	적은	적+ㄴ	ADJ	_	4	amod	_	_	적/paa+ㄴ/etm
+4	수의	수+의	NOUN	_	6	nmod	_	_	수/nbn+의/jcm
+5	농촌출신	농촌출신	NOUN	_	6	compound	_	_	농촌출신/ncn
+6	사람들이	사람+들+이	NOUN	_	13	nsubj	_	_	사람/ncn+들/xsn+이/jcs
+7	근대교육을	근대교육+을	NOUN	_	8	obj	_	_	근대교육/ncn+을/jco
+8	받아서	받+아서	SCONJ	_	13	ccomp	_	_	받/pvg+아서/ecs
+9	정부	정부	NOUN	_	10	compound	_	_	정부/ncn
+10	고위직위에	고위+직위+에	ADV	_	11	obl	_	_	고위/ncn+직위/ncn+에/jca
+11	등용될	등용+되+ㄹ	VERB	_	12	acl	_	_	등용/ncpa+되/xsv+ㄹ/etm
+12	자격을	자격+을	NOUN	_	13	obj	_	_	자격/ncn+을/jco
+13	갖출	갖추+ㄹ	VERB	_	16	acl	_	_	갖추/pvg+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있었던	있+었+던	ADJ	_	13	aux	_	_	있/paa+었/ep+던/etm
+16	것을	것+을	NOUN	_	17	obj	_	_	것/nbn+을/jco
+17	보여주고	보이+어+주+고	AUX	_	0	root	_	_	보이/pvg+어/ecx+주/px+고/ecx
+18	있다	있+다	AUX	_	17	aux	_	_	있/px+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그러나 지도자로서의 정치적 경력을 위해서 읍이나 소도시 환경보다는 10 만 이상 도시의 환경이 더 중요하다 .
+1	그러나	그러나	CCONJ	_	15	cc	_	_	그러나/maj
+2	지도자로서의	지도자+로서+의	NOUN	_	4	nmod	_	_	지도자/ncn+로서/jca+의/jcm
+3	정치적	정치+적	NOUN	_	4	amod	_	_	정치/ncpa+적/xsn
+4	경력을	경력+을	NOUN	_	5	obj	_	_	경력/ncpa+을/jco
+5	위해서	위하+어서	SCONJ	_	15	conj	_	_	위하/pvg+어서/ecs
+6	읍이나	읍+이나	CCONJ	_	7	conj	_	_	읍/ncn+이나/jcj
+7	소도시	소도시	NOUN	_	8	compound	_	_	소도시/ncn
+8	환경보다는	환경+보다+는	NOUN	_	15	dislocated	_	_	환경/ncn+보다/jca+는/jxt
+9	10	10	NUM	_	10	nummod	_	_	10/nnc
+10	만	만	NUM	_	11	nummod	_	_	만/nnc
+11	이상	이상	NOUN	_	12	compound	_	_	이상/ncn
+12	도시의	도시+의	NOUN	_	13	nmod	_	_	도시/ncn+의/jcm
+13	환경이	환경+이	NOUN	_	15	nsubj	_	_	환경/ncn+이/jcs
+14	더	더	ADV	_	15	advmod	_	_	더/mag
+15	중요하다	중요+하+다	VERB	_	0	root	_	_	중요/ncps+하/xsm+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이 후자 도시군에서 출생한 지도자들은 그 군의 인구비보다는 훨씬 높은 비율이 정부고위직들에 등용되었다 .
+1	이	이	PRON	_	3	compound	_	_	이/npd
+2	후자	후자	NOUN	_	3	compound	_	_	후자/ncn
+3	도시군에서	도시군+에서	ADV	_	4	advcl	_	_	도시군/ncn+에서/jca
+4	출생한	출생+하+ㄴ	VERB	_	5	acl	_	_	출생/ncpa+하/xsv+ㄴ/etm
+5	지도자들은	지도자+들+은	NOUN	_	13	dislocated	_	_	지도자/ncn+들/xsn+은/jxt
+6	그	그	PRON	_	7	compound	_	_	그/npp
+7	군의	군+의	NOUN	_	8	nmod	_	_	군/ncn+의/jcm
+8	인구비보다는	인구비+보다+는	NOUN	_	10	dislocated	_	_	인구비/ncn+보다/jca+는/jxt
+9	훨씬	훨씬	ADV	_	10	advmod	_	_	훨씬/mag
+10	높은	높+ㄴ	ADJ	_	11	amod	_	_	높/paa+ㄴ/etm
+11	비율이	비율+이	NOUN	_	13	nsubj	_	_	비율/ncn+이/jcs
+12	정부고위직들에	정부+고위직+들+에	ADV	_	13	obl	_	_	정부/ncn+고위직/ncn+들/xsn+에/jca
+13	등용되었다	등용+되+었+다	VERB	_	0	root	_	_	등용/ncpa+되/xsv+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그 중에서도 서울 출신 각료들과 대법관들의 비율들은 대단히 높다 .
+1	그	그	PRON	_	2	compound	_	_	그/npp
+2	중에서도	중+에서+도	ADV	_	9	advcl	_	_	중/ncn+에서/jca+도/jxc
+3	서울	서울	PROPN	_	4	compound	_	_	서울/nq
+4	출신	출신	NOUN	_	6	compound	_	_	출신/ncn
+5	각료들과	각료+들+과	CCONJ	_	6	conj	_	_	각료/ncn+들/xsn+과/jcj
+6	대법관들의	대법관+들+의	NOUN	_	7	nmod	_	_	대법관/ncn+들/xsn+의/jcm
+7	비율들은	비율+들+은	NOUN	_	9	dislocated	_	_	비율/ncn+들/xsn+은/jxt
+8	대단히	대단+히	ADV	_	9	advmod	_	_	대단/ncps+히/xsa
+9	높다	높+다	ADJ	_	0	root	_	_	높/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그 중에서도 고등정도의 교육을 마친 지도자들은 초등이나 중등정도의 교육만을 마친 지도자들보다 빨리 정부직위에 등용되었고 그리고 오랜 시일의 정부경력을 가지고 있다 .
+1	그	그	PRON	_	2	compound	_	_	그/npp
+2	중에서도	중+에서+도	ADV	_	5	advcl	_	_	중/ncn+에서/jca+도/jxc
+3	고등정도의	고등+정도+의	NOUN	_	4	nmod	_	_	고등/ncpa+정도/ncn+의/jcm
+4	교육을	교육+을	NOUN	_	5	obj	_	_	교육/ncpa+을/jco
+5	마친	마치+ㄴ	VERB	_	6	acl	_	_	마치/pvg+ㄴ/etm
+6	지도자들은	지도자+들+은	NOUN	_	19	dislocated	_	_	지도자/ncn+들/xsn+은/jxt
+7	초등이나	초등+이나	CCONJ	_	8	conj	_	_	초등/ncn+이나/jcj
+8	중등정도의	중등+정도+의	NOUN	_	9	nmod	_	_	중등/ncn+정도/ncn+의/jcm
+9	교육만을	교육+만+을	NOUN	_	10	obj	_	_	교육/ncpa+만/jxc+을/jco
+10	마친	마치+ㄴ	VERB	_	11	acl	_	_	마치/pvg+ㄴ/etm
+11	지도자들보다	지도자+들+보다	ADV	_	14	advcl	_	_	지도자/ncn+들/xsn+보다/jca
+12	빨리	빨리	ADV	_	14	advmod	_	_	빨리/mag
+13	정부직위에	정부+직위+에	ADV	_	14	obl	_	_	정부/ncn+직위/ncn+에/jca
+14	등용되었고	등용+되+었+고	CCONJ	_	15	conj	_	_	등용/ncpa+되/xsv+었/ep+고/ecc
+15	그리고	그리고	CCONJ	_	19	conj	_	_	그리고/maj
+16	오랜	오래+ㄴ	ADJ	_	17	amod	_	_	오래/paa+ㄴ/etm
+17	시일의	시일+의	NOUN	_	18	nmod	_	_	시일/ncn+의/jcm
+18	정부경력을	정부+경력+을	NOUN	_	19	obj	_	_	정부/ncn+경력/ncpa+을/jco
+19	가지고	가지+고	VERB	_	0	root	_	_	가지/pvg+고/ecx
+20	있다	있+다	AUX	_	19	aux	_	_	있/px+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+

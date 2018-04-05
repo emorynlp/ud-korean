@@ -1,0 +1,956 @@
+# 이 조약에 의해 영국은 관세를 거의 내지 않고 자기 나라 상품을 청에 팔 수 있게 되었다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	조약에	조약+에	ADV	_	3	obl	_	_	조약/ncn+에/jca
+3	의해	의하+어	SCONJ	_	13	ccomp	_	_	의하/pvg+어/ecs
+4	영국은	영국+은	PROPN	_	13	dislocated	_	_	영국/nq+은/jxt
+5	관세를	관세+를	NOUN	_	7	obj	_	_	관세/ncn+를/jco
+6	거의	거의	ADV	_	7	advmod	_	_	거의/mag
+7	내지	내+지	VERB	_	13	conj	_	_	내/pvg+지/ecx
+8	않고	않+고	CCONJ	_	7	aux	_	_	않/px+고/ecc
+9	자기	자기	PRON	_	10	compound	_	_	자기/npp
+10	나라	나라	NOUN	_	11	compound	_	_	나라/ncn
+11	상품을	상품+을	NOUN	_	13	obj	_	_	상품/ncn+을/jco
+12	청에	청+에	ADV	_	13	obl	_	_	청/nq+에/jca
+13	팔	팔+ㄹ	VERB	_	0	root	_	_	팔/pvg+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있게	있+게	ADJ	_	13	aux	_	_	있/paa+게/ecx
+16	되었다	되+었+다	AUX	_	13	aux	_	_	되/px+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이제 잠자는 사자가 아니라 종이 호랑이가 된 청은 자본주의 열강의 식민지가 될 위기에 놓였다 .
+1	이제	이제	ADV	_	14	advmod	_	_	이제/mag
+2	잠자는	잠자+는	VERB	_	3	acl	_	_	잠자/pvg+는/etm
+3	사자가	사자+가	NOUN	_	4	csubj	_	_	사자/ncn+가/jcc
+4	아니라	아니+라	SCONJ	_	7	xcomp	_	_	아니/paa+라/ecs
+5	종이	종이	NOUN	_	6	compound	_	_	종이/ncn
+6	호랑이가	호랑이+가	NOUN	_	7	csubj	_	_	호랑이/ncn+가/jcc
+7	된	되+ㄴ	VERB	_	8	acl	_	_	되/pvg+ㄴ/etm
+8	청은	청+은	PROPN	_	14	dislocated	_	_	청/nq+은/jxt
+9	자본주의	자본주의	NOUN	_	10	compound	_	_	자본주의/ncn
+10	열강의	열강+의	NOUN	_	11	nmod	_	_	열강/ncn+의/jcm
+11	식민지가	식민지+가	NOUN	_	12	csubj	_	_	식민지/ncn+가/jcc
+12	될	되+ㄹ	VERB	_	13	acl	_	_	되/pvg+ㄹ/etm
+13	위기에	위기+에	ADV	_	14	obl	_	_	위기/ncn+에/jca
+14	놓였다	놓이+었+다	VERB	_	0	root	_	_	놓이/pvg+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그 결과 , 구미 열강은 일본에서도 청에서처럼 관세를 거의 물지 않고 자기 나라 상품을 팔게 되었다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	결과	결과	NOUN	_	15	advmod	_	_	결과/ncpa
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	구미	구미	PROPN	_	5	compound	_	_	구미/nq
+5	열강은	열강+은	NOUN	_	15	dislocated	_	_	열강/ncn+은/jxt
+6	일본에서도	일본+에서+도	ADV	_	15	advcl	_	_	일본/nq+에서/jca+도/jxc
+7	청에서처럼	청+에서+처럼	ADV	_	10	advcl	_	_	청/nq+에서/jca+처럼/jxc
+8	관세를	관세+를	NOUN	_	10	obj	_	_	관세/ncn+를/jco
+9	거의	거의	ADV	_	10	advmod	_	_	거의/mag
+10	물지	물+지	VERB	_	15	conj	_	_	물/pvg+지/ecx
+11	않고	않+고	CCONJ	_	10	aux	_	_	않/px+고/ecc
+12	자기	자기	PRON	_	13	compound	_	_	자기/npp
+13	나라	나라	NOUN	_	14	compound	_	_	나라/ncn
+14	상품을	상품+을	NOUN	_	15	obj	_	_	상품/ncn+을/jco
+15	팔게	팔+게	VERB	_	0	root	_	_	팔/pvg+게/ecx
+16	되었다	되+었+다	AUX	_	15	aux	_	_	되/px+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이런 상황에서 조선 사회가 나아가야 할 방향에 대해 여러 가지 방안이 제시되었다 .
+1	이런	이런	DET	_	2	det	_	_	이런/mmd
+2	상황에서	상황+에서	ADV	_	5	advcl	_	_	상황/ncn+에서/jca
+3	조선	조선	PROPN	_	4	compound	_	_	조선/nq
+4	사회가	사회+가	NOUN	_	5	nsubj	_	_	사회/ncn+가/jcs
+5	나아가야	나아가+아야	VERB	_	7	acl	_	_	나아가/pvg+아야/ecx
+6	할	하+ㄹ	AUX	_	5	aux	_	_	하/px+ㄹ/etm
+7	방향에	방향+에	ADV	_	8	obl	_	_	방향/ncn+에/jca
+8	대해	대하+어	SCONJ	_	12	ccomp	_	_	대하/pvg+어/ecs
+9	여러	여러	ADJ	_	10	amod	_	_	여러/mma
+10	가지	가지	NOUN	_	11	compound	_	_	가지/nbu
+11	방안이	방안+이	NOUN	_	12	nsubj	_	_	방안/ncn+이/jcs
+12	제시되었다	제시+되+었+다	VERB	_	0	root	_	_	제시/ncpa+되/xsv+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 하나의 흐름은 문을 닫아걸고 싸우면서 봉건 사호를 그대로 유지하자는 척사 사상이었다 .
+1	하나의	하나+의	NUM	_	2	nmod	_	_	하나/nnc+의/jcm
+2	흐름은	흐름+은	NOUN	_	11	dislocated	_	_	흐름/ncn+은/jxt
+3	문을	문+을	NOUN	_	4	obj	_	_	문/ncn+을/jco
+4	닫아걸고	닫아걸+고	CCONJ	_	5	conj	_	_	닫아걸/pvg+고/ecc
+5	싸우면서	싸우+면서	CCONJ	_	9	conj	_	_	싸우/pvg+면서/ecc
+6	봉건	봉건	NOUN	_	7	compound	_	_	봉건/ncn
+7	사호를	사호+를	NOUN	_	9	obj	_	_	사호/ncn+를/jco
+8	그대로	그대로	ADV	_	9	advmod	_	_	그대로/mag
+9	유지하자는	유지+하+자는	VERB	_	11	ccomp	_	_	유지/ncpa+하/xsv+자는/etm
+10	척사	척사	NOUN	_	11	compound	_	_	척사/ncn
+11	사상이었다	사상+이+었+다	VERB	_	0	root	_	_	사상/ncpa+이/jp+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러나 민중은 밖으로는 침략해 들어오는 외세를 배격할 뿐만 아니라 안으로는 봉건 제도를 청산할 것을 요구하였다 .
+1	그러나	그러나	CCONJ	_	15	cc	_	_	그러나/maj
+2	민중은	민중+은	NOUN	_	15	dislocated	_	_	민중/ncn+은/jxt
+3	밖으로는	밖+으로+는	NOUN	_	7	dislocated	_	_	밖/ncn+으로/jca+는/jxt
+4	침략해	침략+하+어	SCONJ	_	5	ccomp	_	_	침략/ncpa+하/xsv+어/ecs
+5	들어오는	들어오+는	VERB	_	6	acl	_	_	들어오/pvg+는/etm
+6	외세를	외세+를	NOUN	_	7	obj	_	_	외세/ncn+를/jco
+7	배격할	배격+하+ㄹ	VERB	_	15	ccomp	_	_	배격/ncpa+하/xsv+ㄹ/etm
+8	뿐만	뿐+만	ADV	_	9	fixed	_	_	뿐/nbn+만/jxc
+9	아니라	아니+라	SCONJ	_	7	aux	_	_	아니/paa+라/ecs
+10	안으로는	안+으로+는	NOUN	_	15	dislocated	_	_	안/ncn+으로/jca+는/jxt
+11	봉건	봉건	NOUN	_	12	compound	_	_	봉건/ncn
+12	제도를	제도+를	NOUN	_	13	obj	_	_	제도/ncn+를/jco
+13	청산할	청산+하+ㄹ	VERB	_	14	acl	_	_	청산/ncpa+하/xsv+ㄹ/etm
+14	것을	것+을	NOUN	_	15	obj	_	_	것/nbn+을/jco
+15	요구하였다	요구+하+었+다	VERB	_	0	root	_	_	요구/ncpa+하/xsv+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 중앙과 지방의 벼슬 가운데 노른자위는 이들이 독차지하고 나머지는 돈을 받고 팔기가 일쑤였다 .
+1	중앙과	중앙+과	CCONJ	_	2	conj	_	_	중앙/ncn+과/jcj
+2	지방의	지방+의	NOUN	_	3	nmod	_	_	지방/ncn+의/jcm
+3	벼슬	벼슬	NOUN	_	4	compound	_	_	벼슬/ncn
+4	가운데	가운데	NOUN	_	5	compound	_	_	가운데/ncn
+5	노른자위는	노른자위+는	NOUN	_	7	dislocated	_	_	노른자위/ncn+는/jxt
+6	이들이	이+들+이	PRON	_	7	nsubj	_	_	이/npp+들/xsn+이/jcs
+7	독차지하고	독차지+하+고	CCONJ	_	11	conj	_	_	독차지/ncpa+하/xsv+고/ecc
+8	나머지는	나머지+는	NOUN	_	11	dislocated	_	_	나머지/ncn+는/jxt
+9	돈을	돈+을	NOUN	_	10	obj	_	_	돈/ncn+을/jco
+10	받고	받+고	CCONJ	_	11	conj	_	_	받/pvg+고/ecc
+11	팔기가	팔+기+가	NOUN	_	12	nsubj	_	_	팔/pvg+기/etn+가/jcs
+12	일쑤였다	일쑤+이+었+다	VERB	_	0	root	_	_	일쑤/ncn+이/jp+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 백성들은 무거운 세금과 갖가지 잡세 때문에 죽을 지경이었으나 썩은 관리들이 중간에서 세금을 가로챔으로써 국고는 텅텅 비었다 .
+1	백성들은	백성+들+은	NOUN	_	7	dislocated	_	_	백성/ncn+들/xsn+은/jxt
+2	무거운	무겁+ㄴ	ADJ	_	3	amod	_	_	무겁/paa+ㄴ/etm
+3	세금과	세금+과	CCONJ	_	5	conj	_	_	세금/ncn+과/jcj
+4	갖가지	갖가지	ADJ	_	5	amod	_	_	갖가지/mma
+5	잡세	잡세	NOUN	_	6	compound	_	_	잡세/ncn
+6	때문에	때문+에	ADV	_	7	advcl	_	_	때문/nbn+에/jxc
+7	죽을	죽+ㄹ	VERB	_	8	ccomp	_	_	죽/pvg+ㄹ/etm
+8	지경이었으나	지경+이+었+으나	SCONJ	_	13	conj	_	_	지경/ncn+이/jp+었/ep+으나/ecs
+9	썩은	썩+ㄴ	VERB	_	10	acl	_	_	썩/pvg+ㄴ/etm
+10	관리들이	관리+들+이	NOUN	_	13	nsubj	_	_	관리/ncpa+들/xsn+이/jcs
+11	중간에서	중간+에서	ADV	_	13	advcl	_	_	중간/ncn+에서/jca
+12	세금을	세금+을	NOUN	_	13	obj	_	_	세금/ncn+을/jco
+13	가로챔으로써	가로채+ㅁ+으로써	ADV	_	16	advcl	_	_	가로채/pvg+ㅁ/etn+으로써/jca
+14	국고는	국고+는	NOUN	_	16	dislocated	_	_	국고/ncn+는/jxt
+15	텅텅	텅텅	ADV	_	16	advmod	_	_	텅텅/mag
+16	비었다	비+었+다	ADJ	_	0	root	_	_	비/paa+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 나라의 국방력도 약해질 대로 약해졌다 .
+1	나라의	나라+의	NOUN	_	2	nmod	_	_	나라/ncn+의/jcm
+2	국방력도	국방력+도	ADV	_	5	advcl	_	_	국방력/ncn+도/jxc
+3	약해질	약하+어+지+ㄹ	AUX	_	4	amod	_	_	약하/paa+어/ecx+지/px+ㄹ/etm
+4	대로	대로	NOUN	_	5	mark	_	_	대로/nbn
+5	약해졌다	약하+어+지+었+다	AUX	_	0	root	_	_	약하/paa+어/ecx+지/px+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 대원군은 먼저 안동 김씨 가운데 높은 벼슬을 하고 있던 핵심 세력을 벼슬에서 쫓아내었다 .
+1	대원군은	대원군+은	NOUN	_	13	dislocated	_	_	대원군/ncn+은/jxt
+2	먼저	먼저	ADV	_	13	advmod	_	_	먼저/mag
+3	안동	안동	PROPN	_	4	flat	_	_	안동/nq
+4	김씨	김+씨	NOUN	_	5	advmod	_	_	김/nq+씨/xsn
+5	가운데	가운데	NOUN	_	11	compound	_	_	가운데/ncn
+6	높은	높+ㄴ	ADJ	_	7	amod	_	_	높/paa+ㄴ/etm
+7	벼슬을	벼슬+을	NOUN	_	8	obj	_	_	벼슬/ncn+을/jco
+8	하고	하+고	VERB	_	11	acl	_	_	하/pvg+고/ecx
+9	있던	있+던	AUX	_	8	aux	_	_	있/px+던/etm
+10	핵심	핵심	NOUN	_	11	compound	_	_	핵심/ncn
+11	세력을	세력+을	NOUN	_	13	obj	_	_	세력/ncn+을/jco
+12	벼슬에서	벼슬+에서	ADV	_	13	advcl	_	_	벼슬/ncn+에서/jca
+13	쫓아내었다	쫓아내+었+다	VERB	_	0	root	_	_	쫓아내/pvg+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그리고 왕의 친척이 벼슬을 할 수 있도록 종친 과거 제도를 실시하였다 .
+1	그리고	그리고	CCONJ	_	11	cc	_	_	그리고/maj
+2	왕의	왕+의	NOUN	_	3	nmod	_	_	왕/ncn+의/jcm
+3	친척이	친척+이	NOUN	_	5	nsubj	_	_	친척/ncn+이/jcs
+4	벼슬을	벼슬+을	NOUN	_	5	obj	_	_	벼슬/ncn+을/jco
+5	할	하+ㄹ	VERB	_	11	ccomp	_	_	하/pvg+ㄹ/etm
+6	수	수	NOUN	_	7	fixed	_	_	수/nbn
+7	있도록	있+도록	SCONJ	_	5	aux	_	_	있/paa+도록/ecs
+8	종친	종친	NOUN	_	10	compound	_	_	종친/ncn
+9	과거	과거	NOUN	_	10	compound	_	_	과거/ncn
+10	제도를	제도+를	NOUN	_	11	obj	_	_	제도/ncn+를/jco
+11	실시하였다	실시+하+었+다	VERB	_	0	root	_	_	실시/ncpa+하/xsv+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 왕권의 위엄을 내세우려고 임진 왜란 때 불타버린 경북궁을 다시 짓고 법전도 다시 편찬하였다 .
+1	왕권의	왕권+의	NOUN	_	2	nmod	_	_	왕권/ncn+의/jcm
+2	위엄을	위엄+을	NOUN	_	3	obj	_	_	위엄/ncn+을/jco
+3	내세우려고	내세우+려고	SCONJ	_	13	ccomp	_	_	내세우/pvg+려고/ecs
+4	임진	임진	NOUN	_	5	compound	_	_	임진/ncn
+5	왜란	왜란	NOUN	_	6	compound	_	_	왜란/ncn
+6	때	때	NOUN	_	7	dep	_	_	때/ncn
+7	불타버린	불타+어+버리+ㄴ	AUX	_	8	acl	_	_	불타/pvg+어/ecx+버리/px+ㄴ/etm
+8	경북궁을	경북궁+을	PROPN	_	10	obj	_	_	경북궁/nq+을/jco
+9	다시	다시	ADV	_	10	advmod	_	_	다시/mag
+10	짓고	짓+고	CCONJ	_	13	conj	_	_	짓/pvg+고/ecc
+11	법전도	법전+도	ADV	_	13	advcl	_	_	법전/ncn+도/jxc
+12	다시	다시	ADV	_	13	advmod	_	_	다시/mag
+13	편찬하였다	편찬+하+었+다	VERB	_	0	root	_	_	편찬/ncpa+하/xsv+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 많은 땅을 가지고 있으면서 세금을 내지 않던 양반 지주들에게 세금을 물렸으며 , 국가 재정을 축내던 썩은 관리들을 처벌하였다 .
+1	많은	많+ㄴ	ADJ	_	2	amod	_	_	많/paa+ㄴ/etm
+2	땅을	땅+을	NOUN	_	3	obj	_	_	땅/ncn+을/jco
+3	가지고	가지+고	VERB	_	6	conj	_	_	가지/pvg+고/ecx
+4	있으면서	있+으면서	CCONJ	_	3	aux	_	_	있/px+으면서/ecc
+5	세금을	세금+을	NOUN	_	6	obj	_	_	세금/ncn+을/jco
+6	내지	내+지	VERB	_	9	acl	_	_	내/pvg+지/ecx
+7	않던	않+더+ㄴ	AUX	_	6	aux	_	_	않/px+더/ep+ㄴ/etm
+8	양반	양반	NOUN	_	9	compound	_	_	양반/ncn
+9	지주들에게	지주+들+에게	ADV	_	11	iobj	_	_	지주/ncn+들/xsn+에게/jca
+10	세금을	세금+을	NOUN	_	11	obj	_	_	세금/ncn+을/jco
+11	물렸으며	물리+었+으며	CCONJ	_	18	conj	_	_	물리/pvg+었/ep+으며/ecc
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	국가	국가	NOUN	_	14	compound	_	_	국가/ncn
+14	재정을	재정+을	NOUN	_	15	obj	_	_	재정/ncn+을/jco
+15	축내던	축내+더+ㄴ	VERB	_	17	acl	_	_	축내/pvg+더/ep+ㄴ/etm
+16	썩은	썩+ㄴ	VERB	_	17	acl	_	_	썩/pvg+ㄴ/etm
+17	관리들을	관리+들+을	NOUN	_	18	obj	_	_	관리/ncpa+들/xsn+을/jco
+18	처벌하였다	처벌+하+었+다	VERB	_	0	root	_	_	처벌/ncpa+하/xsv+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 호포제를 실시하여 , 그 동안 군포를 물지 않았던 양반에게도 국방비를 내게 하였다 .
+1	호포제를	호포제+를	NOUN	_	2	obj	_	_	호포제/ncn+를/jco
+2	실시하여	실시+하+어	SCONJ	_	11	ccomp	_	_	실시/ncpa+하/xsv+어/ecs
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	그	그	DET	_	5	det	_	_	그/mmd
+5	동안	동안	NOUN	_	7	advmod	_	_	동안/ncn
+6	군포를	군포+를	NOUN	_	7	obj	_	_	군포/ncn+를/jco
+7	물지	물+지	VERB	_	9	acl	_	_	물/pvg+지/ecx
+8	않았던	않+았더+ㄴ	AUX	_	7	aux	_	_	않/px+았더/ep+ㄴ/etm
+9	양반에게도	양반+에게+도	ADV	_	11	advcl	_	_	양반/ncn+에게/jca+도/jxc
+10	국방비를	국방비+를	NOUN	_	11	obj	_	_	국방비/ncn+를/jco
+11	내게	내+게	VERB	_	0	root	_	_	내/pvg+게/ecx
+12	하였다	하+었+다	AUX	_	11	aux	_	_	하/px+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 대원군은 국가 재정을 좀먹으며 인민을 억압하고 수탈하던 서원을 정리하였다 .
+1	대원군은	대원군+은	PROPN	_	9	dislocated	_	_	대원군/nq+은/jxt
+2	국가	국가	NOUN	_	3	compound	_	_	국가/ncn
+3	재정을	재정+을	NOUN	_	4	obj	_	_	재정/ncn+을/jco
+4	좀먹으며	좀먹+으며	CCONJ	_	7	conj	_	_	좀먹/pvg+으며/ecc
+5	인민을	인민+을	NOUN	_	7	obj	_	_	인민/ncn+을/jco
+6	억압하고	억압+하+고	CCONJ	_	7	conj	_	_	억압/ncpa+하/xsv+고/ecc
+7	수탈하던	수탈+하+더+ㄴ	VERB	_	8	acl	_	_	수탈/ncpa+하/xsv+더/ep+ㄴ/etm
+8	서원을	서원+을	NOUN	_	9	obj	_	_	서원/ncn+을/jco
+9	정리하였다	정리+하+었+다	VERB	_	0	root	_	_	정리/ncpa+하/xsv+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 셔먼 호는 이 배에 부딪혀 불에 타서 대동강에 가라앉았다 .
+1	셔먼	셔먼	PROPN	_	2	compound	_	_	셔먼/nq
+2	호는	호+는	NOUN	_	9	dislocated	_	_	호/ncn+는/jxt
+3	이	이	DET	_	4	det	_	_	이/mmd
+4	배에	배+에	ADV	_	5	obl	_	_	배/ncn+에/jca
+5	부딪혀	부딪히+어	SCONJ	_	7	ccomp	_	_	부딪히/pvg+어/ecs
+6	불에	불+에	ADV	_	7	obl	_	_	불/ncn+에/jca
+7	타서	타+서	SCONJ	_	9	ccomp	_	_	타/pvg+서/ecs
+8	대동강에	대동강+에	ADV	_	9	obl	_	_	대동강/nq+에/jca
+9	가라앉았다	가라앉+았+다	VERB	_	0	root	_	_	가라앉/pvg+았/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 미국에 이어 프랑스도 침입하여 왔다 .
+1	미국에	미국+에	ADV	_	2	obl	_	_	미국/nq+에/jca
+2	이어	잇+어	SCONJ	_	4	ccomp	_	_	잇/pvg+어/ecs
+3	프랑스도	프랑스+도	ADV	_	4	advcl	_	_	프랑스/nq+도/jxc
+4	침입하여	침입+하+어	VERB	_	0	root	_	_	침입/ncpa+하/xsv+어/ecx
+5	왔다	오+았+다	AUX	_	4	aux	_	_	오/px+았/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 이에 침략자들은 그 동안 빼앗은 재물과 문화재들을 배에 싣고 도망쳐 버렸다 .
+1	이에	이에	CCONJ	_	10	cc	_	_	이에/maj
+2	침략자들은	침략자+들+은	NOUN	_	10	dislocated	_	_	침략자/ncn+들/xsn+은/jxt
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	동안	동안	NOUN	_	5	dep	_	_	동안/ncn
+5	빼앗은	빼앗+ㄴ	VERB	_	6	acl	_	_	빼앗/pvg+ㄴ/etm
+6	재물과	재물+과	CCONJ	_	7	conj	_	_	재물/ncn+과/jcj
+7	문화재들을	문화재+들+을	NOUN	_	9	obj	_	_	문화재/ncn+들/xsn+을/jco
+8	배에	배+에	ADV	_	9	obl	_	_	배/ncn+에/jca
+9	싣고	싣+고	CCONJ	_	10	conj	_	_	싣/pvg+고/ecc
+10	도망쳐	도망치+어	VERB	_	0	root	_	_	도망치/pvg+어/ecx
+11	버렸다	버리+었+다	AUX	_	10	aux	_	_	버리/px+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 프랑스에 비해 미국은 더욱 끈질기게 침략하여 왔다 .
+1	프랑스에	프랑스+에	ADV	_	2	obl	_	_	프랑스/nq+에/jca
+2	비해	비하+어	SCONJ	_	6	ccomp	_	_	비하/pvg+어/ecs
+3	미국은	미국+은	PROPN	_	6	dislocated	_	_	미국/nq+은/jxt
+4	더욱	더욱	ADV	_	6	advmod	_	_	더욱/mag
+5	끈질기게	끈질기+게	SCONJ	_	6	xcomp	_	_	끈질기/paa+게/ecs
+6	침략하여	침략+하+어	VERB	_	0	root	_	_	침략/ncpa+하/xsv+어/ecx
+7	왔다	오+았+다	AUX	_	6	aux	_	_	오/px+았/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 새겨져 있다 .
+1	새겨져	새기+어+지+어	AUX	_	0	root	_	_	새기/pvg+어/ecx+지/px+어/ecx
+2	있다	있+다	AUX	_	1	aux	_	_	있/px+다/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 철폐되었던 서원도 다시 복구되었다 .
+1	철폐되었던	철폐+되+었더+ㄴ	VERB	_	2	acl	_	_	철폐/ncpa+되/xsv+었더/ep+ㄴ/etm
+2	서원도	서원+도	ADV	_	4	advcl	_	_	서원/ncpa+도/jxc
+3	다시	다시	ADV	_	4	advmod	_	_	다시/mag
+4	복구되었다	복구+되+었+다	VERB	_	0	root	_	_	복구/ncpa+되/xsv+었/ep+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 더구나 수입품은 대부분 영국산 면제품과 봉건 지배층이 소비하는 사치품이었다 .
+1	더구나	더구나	ADV	_	9	advmod	_	_	더구나/mag
+2	수입품은	수입품+은	NOUN	_	9	dislocated	_	_	수입품/ncn+은/jxt
+3	대부분	대부분	ADV	_	9	advmod	_	_	대부분/mag
+4	영국산	영국산	NOUN	_	5	compound	_	_	영국산/ncn
+5	면제품과	면제품+과	CCONJ	_	9	conj	_	_	면제품/ncn+과/jcj
+6	봉건	봉건	NOUN	_	7	compound	_	_	봉건/ncn
+7	지배층이	지배층+이	NOUN	_	8	nsubj	_	_	지배층/ncn+이/jcs
+8	소비하는	소비+하+는	VERB	_	9	acl	_	_	소비/ncpa+하/xsv+는/etm
+9	사치품이었다	사치품+이+었+다	VERB	_	0	root	_	_	사치품/ncn+이/jp+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이 나라들과 맺은 조약도 일본과 맺은 조약처럼 불평등한 것이었다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	나라들과	나라+들+과	CCONJ	_	3	conj	_	_	나라/ncn+들/xsn+과/jct
+3	맺은	맺+ㄴ	VERB	_	4	acl	_	_	맺/pvg+ㄴ/etm
+4	조약도	조약+도	ADV	_	8	advcl	_	_	조약/ncn+도/jxc
+5	일본과	일본+과	CCONJ	_	6	conj	_	_	일본/nq+과/jct
+6	맺은	맺+ㄴ	VERB	_	7	acl	_	_	맺/pvg+ㄴ/etm
+7	조약처럼	조약+처럼	ADV	_	8	advcl	_	_	조약/ncn+처럼/jca
+8	불평등한	불평등+하+ㄴ	VERB	_	0	root	_	_	불평등/ncps+하/xsm+ㄴ/etm
+9	것이었다	것+이+었+다	VERB	_	8	aux	_	_	것/nbn+이/jp+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 다만 낮은 비율이나마 관세를 물릴 수 있게 규정한 점이 달랐다 .
+1	다만	다만	CCONJ	_	10	cc	_	_	다만/maj
+2	낮은	낮+ㄴ	ADJ	_	3	amod	_	_	낮/paa+ㄴ/etm
+3	비율이나마	비율+이+나마	SCONJ	_	5	ccomp	_	_	비율/ncn+이/jp+나마/ecs
+4	관세를	관세+를	NOUN	_	5	obj	_	_	관세/ncn+를/jco
+5	물릴	물리+ㄹ	VERB	_	8	ccomp	_	_	물리/pvg+ㄹ/etm
+6	수	수	NOUN	_	7	fixed	_	_	수/nbn
+7	있게	있+게	SCONJ	_	5	aux	_	_	있/paa+게/ecs
+8	규정한	규정+하+ㄴ	VERB	_	9	acl	_	_	규정/ncpa+하/xsv+ㄴ/etm
+9	점이	점+이	NOUN	_	10	nsubj	_	_	점/ncn+이/jcs
+10	달랐다	다르+았+다	ADJ	_	0	root	_	_	다르/paa+았/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 민씨 정권의 부국강병 정책은 봉건 왕조 체제를 그대로 둔 채 서양의 과학 기술 문명을 받아들이려는 것이었다 .
+1	민씨	민+씨	NOUN	_	2	advmod	_	_	민/nq+씨/xsn
+2	정권의	정권+의	NOUN	_	4	nmod	_	_	정권/ncn+의/jcm
+3	부국강병	부국강병	NOUN	_	4	compound	_	_	부국강병/ncn
+4	정책은	정책+은	NOUN	_	15	dislocated	_	_	정책/ncn+은/jxt
+5	봉건	봉건	NOUN	_	6	compound	_	_	봉건/ncn
+6	왕조	왕조	NOUN	_	7	compound	_	_	왕조/ncn
+7	체제를	체제+를	NOUN	_	9	obj	_	_	체제/ncn+를/jco
+8	그대로	그대로	ADV	_	9	advmod	_	_	그대로/mag
+9	둔	두+ㄴ	VERB	_	10	acl	_	_	두/pvg+ㄴ/etm
+10	채	채	NOUN	_	15	advmod	_	_	채/nbn
+11	서양의	서양+의	NOUN	_	14	nmod	_	_	서양/ncn+의/jcm
+12	과학	과학	NOUN	_	14	compound	_	_	과학/ncn
+13	기술	기술	NOUN	_	14	compound	_	_	기술/ncpa
+14	문명을	문명+을	NOUN	_	15	obj	_	_	문명/ncn+을/jco
+15	받아들이려는	받아들이+려는	VERB	_	0	root	_	_	받아들이/pvg+려는/etm
+16	것이었다	것+이+었+다	VERB	_	15	aux	_	_	것/nbn+이/jp+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 민씨 정권은 이에 따라 구미 열강을 맞아들이기로 결정하였던 것이다 .
+1	민씨	민+씨	NOUN	_	2	advmod	_	_	민/nq+씨/xsn
+2	정권은	정권+은	NOUN	_	8	dislocated	_	_	정권/ncn+은/jxt
+3	이에	이+에	ADV	_	4	obl	_	_	이/npd+에/jca
+4	따라	따르+아	SCONJ	_	7	conj	_	_	따르/pvg+아/ecs
+5	구미	구미	PROPN	_	6	compound	_	_	구미/nq
+6	열강을	열강+을	NOUN	_	7	obj	_	_	열강/ncn+을/jco
+7	맞아들이기로	맞아들이+기+로	ADV	_	8	advcl	_	_	맞아들이/pvg+기/etn+로/jca
+8	결정하였던	결정+하+었더+ㄴ	VERB	_	0	root	_	_	결정/ncpa+하/xsv+었더/ep+ㄴ/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 직접 동기는 군인들이 제 때에 정해진 월급을 제대로 받지 못한 것이었다 .
+1	직접	직접	NOUN	_	2	compound	_	_	직접/ncn
+2	동기는	동기+는	NOUN	_	9	dislocated	_	_	동기/ncn+는/jxt
+3	군인들이	군인+들+이	NOUN	_	9	nsubj	_	_	군인/ncn+들/xsn+이/jcs
+4	제	제	DET	_	5	det	_	_	제/mmd
+5	때에	때+에	ADV	_	9	obl	_	_	때/ncn+에/jca
+6	정해진	정하+어+지+ㄴ	AUX	_	7	acl	_	_	정하/pvg+어/ecx+지/px+ㄴ/etm
+7	월급을	월급+을	NOUN	_	9	obj	_	_	월급/ncn+을/jco
+8	제대로	제대로	ADV	_	9	advmod	_	_	제대로/mag
+9	받지	받+지	VERB	_	0	root	_	_	받/pvg+지/ecx
+10	못한	못하+ㄴ	AUX	_	9	aux	_	_	못하/px+ㄴ/etm
+11	것이었다	것+이+었+다	VERB	_	9	aux	_	_	것/nbn+이/jp+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이들은 정부로부터 급료를 받는 군인으로 주로 이태원과 왕십리 지역에 살고 있는 도시 빈민들이었다 .
+1	이들은	이+들+은	PRON	_	13	dislocated	_	_	이/npp+들/xsn+은/jxt
+2	정부로부터	정부+로+부터	ADV	_	4	advcl	_	_	정부/ncn+로/jca+부터/jxc
+3	급료를	급료+를	NOUN	_	4	obj	_	_	급료/ncn+를/jco
+4	받는	받+는	VERB	_	5	acl	_	_	받/pvg+는/etm
+5	군인으로	군인+으로	ADV	_	13	advcl	_	_	군인/ncn+으로/jca
+6	주로	주로	ADV	_	13	advmod	_	_	주로/mag
+7	이태원과	이태원+과	CCONJ	_	9	conj	_	_	이태원/nq+과/jcj
+8	왕십리	왕십리	PROPN	_	9	compound	_	_	왕십리/nq
+9	지역에	지역+에	ADV	_	10	obl	_	_	지역/ncn+에/jca
+10	살고	살+고	VERB	_	13	ccomp	_	_	살/pvg+고/ecx
+11	있는	있+는	AUX	_	10	aux	_	_	있/px+는/etm
+12	도시	도시	NOUN	_	13	compound	_	_	도시/ncn
+13	빈민들이었다	빈민+들+이+었+다	VERB	_	0	root	_	_	빈민/ncn+들/xsn+이/jp+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이 지역들은 조선 후기 이래 몰락한 농민 , 수공업자 , 소상인 등이 집단적으로 모여 살고 있는 곳이었다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	지역들은	지역+들+은	NOUN	_	17	dislocated	_	_	지역/ncn+들/xsn+은/jxt
+3	조선	조선	PROPN	_	4	compound	_	_	조선/nq
+4	후기	후기	NOUN	_	5	compound	_	_	후기/ncn
+5	이래	이래	NOUN	_	15	advmod	_	_	이래/ncn
+6	몰락한	몰락+하+ㄴ	VERB	_	7	acl	_	_	몰락/ncpa+하/xsv+ㄴ/etm
+7	농민	농민	NOUN	_	9	compound	_	_	농민/ncn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	수공업자	수공업자	NOUN	_	11	conj	_	_	수공업자/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	소상인	소상인	NOUN	_	12	compound	_	_	소상인/ncn
+12	등이	등+이	NOUN	_	15	nsubj	_	_	등/nbn+이/jcs
+13	집단적으로	집단+적+으로	ADV	_	15	advcl	_	_	집단/ncn+적/xsn+으로/jca
+14	모여	모이+어	SCONJ	_	15	ccomp	_	_	모이/pvg+어/ecs
+15	살고	살+고	VERB	_	17	ccomp	_	_	살/pvg+고/ecx
+16	있는	있+는	AUX	_	15	aux	_	_	있/px+는/etm
+17	곳이었다	곳+이+었+다	VERB	_	0	root	_	_	곳/ncn+이/jp+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이들의 월급은 형편없이 적었다 .
+1	이들의	이+들+의	PRON	_	2	nmod	_	_	이/npp+들/xsn+의/jcm
+2	월급은	월급+은	NOUN	_	4	dislocated	_	_	월급/ncn+은/jxt
+3	형편없이	형편없이	ADV	_	4	advmod	_	_	형편없이/mag
+4	적었다	적+었+다	ADJ	_	0	root	_	_	적/paa+었/ep+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 군인들의 불만은 쌓일 대로 쌓였다 .
+1	군인들의	군인+들+의	NOUN	_	2	nmod	_	_	군인/ncn+들/xsn+의/jcm
+2	불만은	불만+은	NOUN	_	5	dislocated	_	_	불만/ncn+은/jxt
+3	쌓일	쌓이+ㄹ	VERB	_	4	acl	_	_	쌓이/pvg+ㄹ/etm
+4	대로	대로	NOUN	_	5	mark	_	_	대로/nbn
+5	쌓였다	쌓이+었+다	VERB	_	0	root	_	_	쌓이/pvg+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 열석 달 만에 월급으로 받은 쌀이 분량도 제대로 채워지지 않았고 겨까지 섞여 있었다 .
+1	열석	열석	NUM	_	2	nummod	_	_	열석/nnc
+2	달	달	NOUN	_	3	compound	_	_	달/nbu
+3	만에	만+에	ADV	_	5	obl	_	_	만/nbn+에/jca
+4	월급으로	월급+으로	ADV	_	5	advcl	_	_	월급/ncn+으로/jca
+5	받은	받+ㄴ	VERB	_	6	acl	_	_	받/pvg+ㄴ/etm
+6	쌀이	쌀+이	NOUN	_	12	nsubj	_	_	쌀/ncn+이/jcs
+7	분량도	분량+도	ADV	_	9	advcl	_	_	분량/ncn+도/jxc
+8	제대로	제대로	ADV	_	9	advmod	_	_	제대로/mag
+9	채워지지	채우+어+지+지	AUX	_	12	ccomp	_	_	채우/pvg+어/ecx+지/px+지/ecx
+10	않았고	않+았+고	SCONJ	_	9	aux	_	_	않/px+았/ep+고/ecs
+11	겨까지	겨+까지	ADV	_	12	advcl	_	_	겨/ncn+까지/jxc
+12	섞여	섞이+어	VERB	_	0	root	_	_	섞이/pvg+어/ecx
+13	있었다	있+었+다	AUX	_	12	aux	_	_	있/px+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 군인들은 쌀 창고 앞마당에서 고지기를 때려눕히고 민씨 일당의 집을 공격하였다 .
+1	군인들은	군인+들+은	NOUN	_	10	dislocated	_	_	군인/ncn+들/xsn+은/jxt
+2	쌀	쌀	NOUN	_	3	compound	_	_	쌀/ncn
+3	창고	창고	NOUN	_	4	compound	_	_	창고/ncn
+4	앞마당에서	앞마당+에서	ADV	_	6	advcl	_	_	앞마당/ncn+에서/jca
+5	고지기를	고지기+를	NOUN	_	6	obj	_	_	고지기/ncn+를/jco
+6	때려눕히고	때려눕히+고	CCONJ	_	10	conj	_	_	때려눕히/pvg+고/ecc
+7	민씨	민+씨	NOUN	_	8	advmod	_	_	민/nq+씨/xsn
+8	일당의	일당+의	NOUN	_	9	nmod	_	_	일당/ncn+의/jcm
+9	집을	집+을	NOUN	_	10	obj	_	_	집/ncn+을/jco
+10	공격하였다	공격+하+었+다	VERB	_	0	root	_	_	공격/ncpa+하/xsv+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 서울의 일반 시민들도 가세하기 시작하였다 .
+1	서울의	서울+의	PROPN	_	3	nmod	_	_	서울/nq+의/jcm
+2	일반	일반	NOUN	_	3	compound	_	_	일반/ncn
+3	시민들도	시민+들+도	ADV	_	4	advcl	_	_	시민/ncn+들/xsn+도/jxc
+4	가세하기	가세+하+기	VERB	_	5	nmod	_	_	가세/ncpa+하/xsv+기/etn
+5	시작하였다	시작+하+었+다	VERB	_	0	root	_	_	시작/ncpa+하/xsv+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 군인과 시민들은 일본인 교관 호리모토를 죽이고 일본 공사관을 습격하였다 .
+1	군인과	군인+과	CCONJ	_	2	conj	_	_	군인/ncn+과/jcj
+2	시민들은	시민+들+은	NOUN	_	9	dislocated	_	_	시민/ncn+들/xsn+은/jxt
+3	일본인	일본인	NOUN	_	4	compound	_	_	일본인/ncn
+4	교관	교관	NOUN	_	5	compound	_	_	교관/ncn
+5	호리모토를	호리모토+를	PROPN	_	6	obj	_	_	호리모토/nq+를/jco
+6	죽이고	죽이+고	SCONJ	_	9	ccomp	_	_	죽이/pvg+고/ecs
+7	일본	일본	PROPN	_	8	compound	_	_	일본/nq
+8	공사관을	공사관+을	NOUN	_	9	obj	_	_	공사관/ncn+을/jco
+9	습격하였다	습격+하+었+다	VERB	_	0	root	_	_	습격/ncpa+하/xsv+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 왕국에 몸을 숨긴 민씨 일당과 정부 관료를 처단하고 민비를 찾았으나 민비는 이미 도망치고 없었다 .
+1	왕국에	왕국+에	ADV	_	3	obl	_	_	왕국/ncn+에/jca
+2	몸을	몸+을	NOUN	_	3	obj	_	_	몸/ncn+을/jco
+3	숨긴	숨기+ㄴ	VERB	_	5	acl	_	_	숨기/pvg+ㄴ/etm
+4	민씨	민+씨	NOUN	_	5	advmod	_	_	민/nq+씨/xsn
+5	일당과	일당+과	CCONJ	_	7	conj	_	_	일당/ncn+과/jcj
+6	정부	정부	NOUN	_	7	compound	_	_	정부/ncn
+7	관료를	관료+를	NOUN	_	8	obj	_	_	관료/ncn+를/jco
+8	처단하고	처단+하+고	CCONJ	_	10	conj	_	_	처단/ncpa+하/xsv+고/ecc
+9	민비를	민비+를	PROPN	_	10	obj	_	_	민비/nq+를/jco
+10	찾았으나	찾+았+으나	SCONJ	_	14	conj	_	_	찾/pvg+았/ep+으나/ecs
+11	민비는	민비+는	PROPN	_	14	dislocated	_	_	민비/nq+는/jxt
+12	이미	이미	ADV	_	14	advmod	_	_	이미/mag
+13	도망치고	도망치+고	SCONJ	_	14	conj	_	_	도망치/pvg+고/ecs
+14	없었다	없+었+다	ADJ	_	0	root	_	_	없/paa+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이에 대원군이 다시 정권을 잡게 되었다 .
+1	이에	이에	CCONJ	_	5	cc	_	_	이에/maj
+2	대원군이	대원군+이	NOUN	_	5	nsubj	_	_	대원군/ncn+이/jcs
+3	다시	다시	ADV	_	5	advmod	_	_	다시/mag
+4	정권을	정권+을	NOUN	_	5	obj	_	_	정권/ncn+을/jco
+5	잡게	잡+게	VERB	_	0	root	_	_	잡/pvg+게/ecx
+6	되었다	되+었+다	AUX	_	5	aux	_	_	되/px+었/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그러나 대원군은 폭동 군중이 제기한 과제를 올바로 해결하지 못하였다 .
+1	그러나	그러나	CCONJ	_	8	cc	_	_	그러나/maj
+2	대원군은	대원군+은	NOUN	_	8	dislocated	_	_	대원군/ncn+은/jxt
+3	폭동	폭동	NOUN	_	4	compound	_	_	폭동/ncn
+4	군중이	군중+이	NOUN	_	5	nsubj	_	_	군중/ncn+이/jcs
+5	제기한	제기+하+ㄴ	VERB	_	6	acl	_	_	제기/ncpa+하/xsv+ㄴ/etm
+6	과제를	과제+를	NOUN	_	8	obj	_	_	과제/ncn+를/jco
+7	올바로	올바로	ADV	_	8	advmod	_	_	올바로/mag
+8	해결하지	해결+하+지	VERB	_	0	root	_	_	해결/ncpa+하/xsv+지/ecx
+9	못하였다	못하+었+다	AUX	_	8	aux	_	_	못하/px+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 일본도 제멋대로 침략군을 서울에 침투시켰다 .
+1	일본도	일본+도	ADV	_	5	advcl	_	_	일본/nq+도/jxc
+2	제멋대로	제멋대로	ADV	_	5	advmod	_	_	제멋대로/mag
+3	침략군을	침략군+을	NOUN	_	5	obj	_	_	침략군/ncn+을/jco
+4	서울에	서울+에	ADV	_	5	obl	_	_	서울/nq+에/jca
+5	침투시켰다	침투+시키+었+다	VERB	_	0	root	_	_	침투/ncpa+시키/xsv+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그리고 이틀에 걸쳐 이태원 , 왕십리 지역에서 폭동 군인을 무자비하게 학살하였다 .
+1	그리고	그리고	CCONJ	_	11	cc	_	_	그리고/maj
+2	이틀에	이틀+에	ADV	_	3	obl	_	_	이틀/ncn+에/jca
+3	걸쳐	걸치+어	SCONJ	_	11	ccomp	_	_	걸치/pvg+어/ecs
+4	이태원	이태원	PROPN	_	6	conj	_	_	이태원/nq
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	왕십리	왕십리	PROPN	_	7	compound	_	_	왕십리/nq
+7	지역에서	지역+에서	ADV	_	11	advcl	_	_	지역/ncn+에서/jca
+8	폭동	폭동	NOUN	_	9	compound	_	_	폭동/ncn
+9	군인을	군인+을	NOUN	_	11	obj	_	_	군인/ncn+을/jco
+10	무자비하게	무자비하+게	SCONJ	_	11	xcomp	_	_	무자비하/paa+게/ecs
+11	학살하였다	학살+하+었+다	VERB	_	0	root	_	_	학살/ncpa+하/xsv+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 폭동 군인들은 용감하게 마주 싸웠으나 진압되고 말았다 .
+1	폭동	폭동	NOUN	_	2	compound	_	_	폭동/ncn
+2	군인들은	군인+들+은	NOUN	_	6	dislocated	_	_	군인/ncn+들/xsn+은/jxt
+3	용감하게	용감+하+게	SCONJ	_	5	xcomp	_	_	용감/ncps+하/xsm+게/ecs
+4	마주	마주	ADV	_	5	advmod	_	_	마주/mag
+5	싸웠으나	싸우+었+으나	SCONJ	_	6	ccomp	_	_	싸우/pvg+었/ep+으나/ecs
+6	진압되고	진압+되+고	VERB	_	0	root	_	_	진압/ncpa+되/xsv+고/ecx
+7	말았다	말+았+다	AUX	_	6	aux	_	_	말/px+았/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 민비가 궁중으로 되돌아오고 민씨 정권이 다시 들어섰다 .
+1	민비가	민비+가	PROPN	_	3	nsubj	_	_	민비/nq+가/jcs
+2	궁중으로	궁중+으로	ADV	_	3	advcl	_	_	궁중/ncn+으로/jca
+3	되돌아오고	되돌아오+고	CCONJ	_	7	conj	_	_	되돌아오/pvg+고/ecc
+4	민씨	민+씨	NOUN	_	5	advmod	_	_	민/nq+씨/xsn
+5	정권이	정권+이	NOUN	_	7	nsubj	_	_	정권/ncn+이/jcs
+6	다시	다시	ADV	_	7	advmod	_	_	다시/mag
+7	들어섰다	들어서+ㅆ+다	VERB	_	0	root	_	_	들어서/pvg+ㅆ/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그러나 이 폭동은 민씨 정권과 일본 침략자들에게 엄청난 타격을 주었다 .
+1	그러나	그러나	CCONJ	_	10	cc	_	_	그러나/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	폭동은	폭동+은	NOUN	_	10	dislocated	_	_	폭동/ncn+은/jxt
+4	민씨	민+씨	NOUN	_	5	advmod	_	_	민/nq+씨/xsn
+5	정권과	정권+과	CCONJ	_	7	conj	_	_	정권/ncn+과/jcj
+6	일본	일본	PROPN	_	7	compound	_	_	일본/nq
+7	침략자들에게	침략자+들+에게	ADV	_	10	iobj	_	_	침략자/ncn+들/xsn+에게/jca
+8	엄청난	엄청나+ㄴ	ADJ	_	9	amod	_	_	엄청나/paa+ㄴ/etm
+9	타격을	타격+을	NOUN	_	10	obj	_	_	타격/ncn+을/jco
+10	주었다	주+었+다	VERB	_	0	root	_	_	주/pvg+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 중인층은 행정 실무나 기술직을 맡은 말단 관리였기 때문에 과학 기술 지식을 습득하는 것이 다른 어떤 계층보다 빨랐다 .
+1	중인층은	중인층+은	NOUN	_	17	dislocated	_	_	중인층/ncn+은/jxt
+2	행정	행정	NOUN	_	3	compound	_	_	행정/ncn
+3	실무나	실무+나	CCONJ	_	4	conj	_	_	실무/ncn+나/jcj
+4	기술직을	기술직+을	NOUN	_	5	obj	_	_	기술직/ncn+을/jco
+5	맡은	맡+ㄴ	VERB	_	7	acl	_	_	맡/pvg+ㄴ/etm
+6	말단	말단	NOUN	_	7	compound	_	_	말단/ncn
+7	관리였기	관리+이+었+기	VERB	_	8	nmod	_	_	관리/ncpa+이/jp+었/ep+기/etn
+8	때문에	때문+에	ADV	_	17	obl	_	_	때문/nbn+에/jca
+9	과학	과학	NOUN	_	10	compound	_	_	과학/ncn
+10	기술	기술	NOUN	_	11	compound	_	_	기술/ncn
+11	지식을	지식+을	NOUN	_	12	obj	_	_	지식/ncn+을/jco
+12	습득하는	습득+하+는	VERB	_	13	acl	_	_	습득/ncpa+하/xsv+는/etm
+13	것이	것+이	NOUN	_	17	nsubj	_	_	것/nbn+이/jcs
+14	다른	다른	DET	_	16	det	_	_	다른/mmd
+15	어떤	어떻+ㄴ	VERB	_	16	amod	_	_	어떻/pad+ㄴ/etm
+16	계층보다	계층+보다	ADV	_	17	advcl	_	_	계층/ncn+보다/jca
+17	빨랐다	빠르+았+다	ADJ	_	0	root	_	_	빠르/paa+았/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 개화파의 중심 인물은 김옥균이었다 .
+1	개화파의	개화파+의	NOUN	_	3	nmod	_	_	개화파/ncn+의/jcm
+2	중심	중심	NOUN	_	3	compound	_	_	중심/ncn
+3	인물은	인물+은	NOUN	_	4	dislocated	_	_	인물/ncn+은/jxt
+4	김옥균이었다	김옥균+이+었+다	VERB	_	0	root	_	_	김옥균/nq+이/jp+었/ep+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 김옥균은 유대치와 박규수 두 사람의 영향을 받아 당시의 세계 정세를 파악하고 조선이 나아가야 할 새로운 길을 찾기 시작하였다 .
+1	김옥균은	김옥균+은	PROPN	_	18	dislocated	_	_	김옥균/nq+은/jxt
+2	유대치와	유대치+와	CCONJ	_	3	conj	_	_	유대치/nq+와/jcj
+3	박규수	박규수	PROPN	_	5	compound	_	_	박규수/nq
+4	두	두	NUM	_	5	nummod	_	_	두/nnc
+5	사람의	사람+의	NOUN	_	6	nmod	_	_	사람/ncn+의/jcm
+6	영향을	영향+을	NOUN	_	7	obj	_	_	영향/ncn+을/jco
+7	받아	받+아	SCONJ	_	11	ccomp	_	_	받/pvg+아/ecs
+8	당시의	당시+의	NOUN	_	10	nmod	_	_	당시/ncn+의/jcm
+9	세계	세계	NOUN	_	10	compound	_	_	세계/ncn
+10	정세를	정세+를	NOUN	_	11	obj	_	_	정세/ncn+를/jco
+11	파악하고	파악+하+고	CCONJ	_	17	conj	_	_	파악/ncpa+하/xsv+고/ecc
+12	조선이	조선+이	PROPN	_	13	nsubj	_	_	조선/nq+이/jcs
+13	나아가야	나아가+아야	VERB	_	16	acl	_	_	나아가/pvg+아야/ecx
+14	할	하+ㄹ	AUX	_	13	aux	_	_	하/px+ㄹ/etm
+15	새로운	새롭+ㄴ	ADJ	_	16	amod	_	_	새롭/paa+ㄴ/etm
+16	길을	길+을	NOUN	_	17	obj	_	_	길/ncn+을/jco
+17	찾기	찾+기	VERB	_	18	nmod	_	_	찾/pvg+기/etn
+18	시작하였다	시작+하+었+다	VERB	_	0	root	_	_	시작/ncpa+하/xsv+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이 충의계에는 유생 군인 궁녀 내시 상인 등 여러 계층이 포함되어 있었으나 , 실제 세력은 그다지 크지 못하였다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	충의계에는	충의계+에+는	PROPN	_	11	dislocated	_	_	충의계/nq+에/jca+는/jxt
+3	유생	유생	NOUN	_	7	compound	_	_	유생/ncn
+4	군인	군인	NOUN	_	7	compound	_	_	군인/ncn
+5	궁녀	궁녀	NOUN	_	7	compound	_	_	궁녀/ncn
+6	내시	내시	NOUN	_	7	compound	_	_	내시/ncn
+7	상인	상인	NOUN	_	8	compound	_	_	상인/ncn
+8	등	등	NOUN	_	10	mark	_	_	등/nbn
+9	여러	여러	ADJ	_	10	amod	_	_	여러/mma
+10	계층이	계층+이	NOUN	_	11	nsubj	_	_	계층/ncn+이/jcs
+11	포함되어	포함+되+어	VERB	_	17	dep	_	_	포함/ncpa+되/xsv+어/ecx
+12	있었으나	있+었+으나	SCONJ	_	11	aux	_	_	있/px+었/ep+으나/ecs
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	실제	실제	NOUN	_	15	compound	_	_	실제/ncn
+15	세력은	세력+은	NOUN	_	17	dislocated	_	_	세력/ncn+은/jxt
+16	그다지	그다지	ADV	_	17	advmod	_	_	그다지/mag
+17	크지	크+지	ADJ	_	0	root	_	_	크/paa+지/ecx
+18	못하였다	못하+었+다	AUX	_	17	aux	_	_	못하/px+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 민씨 세력은 봉건 왕조 체제를 그대로 둔 채 서양의 기술만을 받아들이자는 입장이었다 .
+1	민씨	민+씨	NOUN	_	2	advmod	_	_	민/nq+씨/xsn
+2	세력은	세력+은	NOUN	_	11	dislocated	_	_	세력/ncn+은/jxt
+3	봉건	봉건	NOUN	_	4	compound	_	_	봉건/ncn
+4	왕조	왕조	NOUN	_	5	compound	_	_	왕조/ncn
+5	체제를	체제+를	NOUN	_	7	obj	_	_	체제/ncn+를/jco
+6	그대로	그대로	ADV	_	7	advmod	_	_	그대로/mag
+7	둔	두+ㄴ	VERB	_	8	acl	_	_	두/pvg+ㄴ/etm
+8	채	채	NOUN	_	11	advmod	_	_	채/nbn
+9	서양의	서양+의	NOUN	_	10	nmod	_	_	서양/ncn+의/jcm
+10	기술만을	기술+만+을	NOUN	_	11	obj	_	_	기술/ncn+만/jxc+을/jco
+11	받아들이자는	받아들이+자는	VERB	_	12	ccomp	_	_	받아들이/pvg+자는/etm
+12	입장이었다	입장+이+었+다	VERB	_	0	root	_	_	입장/ncn+이/jp+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 한편 임오 군인 폭동이 일어난 뒤 청은 조선의 내정을 지나치게 간섭하고 있었다 .
+1	한편	한편	CCONJ	_	11	cc	_	_	한편/maj
+2	임오	임오	NOUN	_	4	compound	_	_	임오/ncn
+3	군인	군인	NOUN	_	4	compound	_	_	군인/ncn
+4	폭동이	폭동+이	NOUN	_	5	nsubj	_	_	폭동/ncn+이/jcs
+5	일어난	일어나+ㄴ	VERB	_	6	acl	_	_	일어나/pvg+ㄴ/etm
+6	뒤	뒤	NOUN	_	11	advmod	_	_	뒤/ncn
+7	청은	청+은	PROPN	_	11	dislocated	_	_	청/nq+은/jxt
+8	조선의	조선+의	PROPN	_	9	nmod	_	_	조선/nq+의/jcm
+9	내정을	내정+을	NOUN	_	11	obj	_	_	내정/ncn+을/jco
+10	지나치게	지나치+게	SCONJ	_	11	ccomp	_	_	지나치/pvg+게/ecs
+11	간섭하고	간섭+하+고	VERB	_	0	root	_	_	간섭/ncpa+하/xsv+고/ecx
+12	있었다	있+었+다	AUX	_	11	aux	_	_	있/px+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그러나 정변을 일으키는 일이 순탄하지만은 않았다 .
+1	그러나	그러나	CCONJ	_	5	cc	_	_	그러나/maj
+2	정변을	정변+을	NOUN	_	3	obj	_	_	정변/ncn+을/jco
+3	일으키는	일으키+는	VERB	_	4	acl	_	_	일으키/pvg+는/etm
+4	일이	일+이	NOUN	_	5	nsubj	_	_	일/ncpa+이/jcs
+5	순탄하지만은	순탄+하+지+만은	NOUN	_	0	root	_	_	순탄/ncps+하/xsm+지/ecx+만은/jxt
+6	않았다	않+았+다	AUX	_	5	aux	_	_	않/px+았/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 개화파는 이미 대부분 주요 벼슬에서 쫓겨난 상태였다 .
+1	개화파는	개화파+는	NOUN	_	6	dislocated	_	_	개화파/ncn+는/jxt
+2	이미	이미	ADV	_	6	advmod	_	_	이미/mag
+3	대부분	대부분	ADV	_	6	advmod	_	_	대부분/mag
+4	주요	주요	NOUN	_	5	compound	_	_	주요/ncps
+5	벼슬에서	벼슬+에서	ADV	_	6	advcl	_	_	벼슬/ncn+에서/jca
+6	쫓겨난	쫓겨나+ㄴ	VERB	_	7	ccomp	_	_	쫓겨나/pvg+ㄴ/etm
+7	상태였다	상태+이+었+다	VERB	_	0	root	_	_	상태/ncn+이/jp+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 개화파 앞에는 커다란 장애가 놓여 있었지만 , 여건이 불리하기만 한 것은 아니었다 .
+1	개화파	개화파	NOUN	_	2	compound	_	_	개화파/ncn
+2	앞에는	앞+에+는	NOUN	_	5	dislocated	_	_	앞/ncn+에/jca+는/jxt
+3	커다란	커다랗+ㄴ	ADJ	_	4	amod	_	_	커다랗/paa+ㄴ/etm
+4	장애가	장애+가	NOUN	_	5	nsubj	_	_	장애/ncn+가/jcs
+5	놓여	놓이+어	VERB	_	12	dep	_	_	놓이/pvg+어/ecx
+6	있었지만	있+었+지만	SCONJ	_	5	aux	_	_	있/px+었/ep+지만/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	여건이	여건+이	NOUN	_	9	nsubj	_	_	여건/ncn+이/jcs
+9	불리하기만	불리하+기+만	ADV	_	11	amod	_	_	불리하/paa+기/etn+만/jxc
+10	한	하+ㄴ	AUX	_	9	aux	_	_	하/px+ㄴ/etm
+11	것은	것+은	NOUN	_	12	dislocated	_	_	것/nbn+은/jxt
+12	아니었다	아니+었+다	ADJ	_	0	root	_	_	아니/paa+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그에 따라 그 동안 청에 기대어 온 민씨 일파도 위축되어 있었다 .
+1	그에	그+에	ADV	_	2	obl	_	_	그/npd+에/jca
+2	따라	따르+아	SCONJ	_	10	ccomp	_	_	따르/pvg+아/ecs
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	동안	동안	NOUN	_	6	advmod	_	_	동안/ncn
+5	청에	청+에	ADV	_	6	obl	_	_	청/nq+에/jca
+6	기대어	기대+어	VERB	_	9	acl	_	_	기대/pvg+어/ecx
+7	온	오+ㄴ	AUX	_	6	aux	_	_	오/px+ㄴ/etm
+8	민씨	민+씨	NOUN	_	9	advmod	_	_	민/nq+씨/xsn
+9	일파도	일파+도	ADV	_	10	advcl	_	_	일파/ncn+도/jxc
+10	위축되어	위축+되+어	VERB	_	0	root	_	_	위축/ncpa+되/xsv+어/ecx
+11	있었다	있+었+다	AUX	_	10	aux	_	_	있/px+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 민씨 정권의 요인들을 모두 처단하지는 못하였지만 , 개화파는 국왕을 자기 손안에 넣음으로써 실질적으로 권력을 장악하였다 .
+1	민씨	민+씨	NOUN	_	2	advmod	_	_	민/nq+씨/xsn
+2	정권의	정권+의	NOUN	_	3	nmod	_	_	정권/ncn+의/jcm
+3	요인들을	요인+들+을	NOUN	_	5	obj	_	_	요인/ncn+들/xsn+을/jco
+4	모두	모두	ADV	_	5	advmod	_	_	모두/mag
+5	처단하지는	처단+하+지+는	NOUN	_	15	ccomp	_	_	처단/ncpa+하/xsv+지/ecx+는/jxt
+6	못하였지만	못하+었+지만	SCONJ	_	5	aux	_	_	못하/px+었/ep+지만/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	개화파는	개화파+는	NOUN	_	15	dislocated	_	_	개화파/ncn+는/jxt
+9	국왕을	국왕+을	NOUN	_	12	obj	_	_	국왕/ncn+을/jco
+10	자기	자기	PRON	_	11	compound	_	_	자기/npp
+11	손안에	손안+에	ADV	_	12	advcl	_	_	손안/ncn+에/jxc
+12	넣음으로써	넣+ㅁ+으로써	ADV	_	15	advcl	_	_	넣/pvg+ㅁ/etn+으로써/jca
+13	실질적으로	실질+적+으로	ADV	_	15	advcl	_	_	실질/ncn+적/xsn+으로/jca
+14	권력을	권력+을	NOUN	_	15	obj	_	_	권력/ncn+을/jco
+15	장악하였다	장악+하+었+다	VERB	_	0	root	_	_	장악/ncpa+하/xsv+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 개화파는 갑신 정변을 통하여 나름대로 근대 사회를 이룩하여 당시의 역사적 과제를 해결하려고 노력하였다 .
+1	개화파는	개화파+는	NOUN	_	13	dislocated	_	_	개화파/ncn+는/jxt
+2	갑신	갑신	NOUN	_	3	compound	_	_	갑신/ncn
+3	정변을	정변+을	NOUN	_	4	obj	_	_	정변/ncn+을/jco
+4	통하여	통하+어	SCONJ	_	12	ccomp	_	_	통하/pvg+어/ecs
+5	나름대로	나름대로	ADV	_	12	advmod	_	_	나름대로/mag
+6	근대	근대	NOUN	_	7	compound	_	_	근대/ncn
+7	사회를	사회+를	NOUN	_	8	obj	_	_	사회/ncn+를/jco
+8	이룩하여	이룩하+어	SCONJ	_	12	ccomp	_	_	이룩하/pvg+어/ecs
+9	당시의	당시+의	NOUN	_	11	nmod	_	_	당시/ncn+의/jcm
+10	역사적	역사+적	NOUN	_	11	amod	_	_	역사/ncn+적/xsn
+11	과제를	과제+를	NOUN	_	12	obj	_	_	과제/ncn+를/jco
+12	해결하려고	해결+하+려고	SCONJ	_	13	ccomp	_	_	해결/ncpa+하/xsv+려고/ecs
+13	노력하였다	노력+하+었+다	VERB	_	0	root	_	_	노력/ncpa+하/xsv+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 민씨 세력은 더욱 청에 의존하게 되었다 .
+1	민씨	민+씨	NOUN	_	2	advmod	_	_	민/nq+씨/xsn
+2	세력은	세력+은	NOUN	_	5	dislocated	_	_	세력/ncn+은/jxt
+3	더욱	더욱	ADV	_	5	advmod	_	_	더욱/mag
+4	청에	청+에	ADV	_	5	obl	_	_	청/nq+에/jca
+5	의존하게	의존+하+게	VERB	_	0	root	_	_	의존/ncpa+하/xsv+게/ecx
+6	되었다	되+었+다	AUX	_	5	aux	_	_	되/px+었/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이는 청과 일본 두 나라가 똑같이 조선을 침략할 수 있는 권리를 가짐을 자기들끼리 확인한 것이다 .
+1	이는	이+는	PRON	_	14	dislocated	_	_	이/npd+는/jxt
+2	청과	청+과	CCONJ	_	3	conj	_	_	청/nq+과/jcj
+3	일본	일본	PROPN	_	5	compound	_	_	일본/nq
+4	두	두	NUM	_	5	nummod	_	_	두/nnc
+5	나라가	나라+가	NOUN	_	12	nsubj	_	_	나라/ncn+가/jcs
+6	똑같이	똑같이	ADV	_	12	advmod	_	_	똑같이/mag
+7	조선을	조선+을	PROPN	_	8	obj	_	_	조선/nq+을/jco
+8	침략할	침략+하+ㄹ	VERB	_	11	acl	_	_	침략/ncpa+하/xsv+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	있는	있+는	ADJ	_	8	aux	_	_	있/paa+는/etm
+11	권리를	권리+를	NOUN	_	12	obj	_	_	권리/ncn+를/jco
+12	가짐을	가지+ㅁ+을	NOUN	_	14	obj	_	_	가지/pvg+ㅁ/etn+을/jco
+13	자기들끼리	자기+들+끼리	NOUN	_	14	advmod	_	_	자기/npp+들/xsn+끼리/xsn
+14	확인한	확인+하+ㄴ	VERB	_	0	root	_	_	확인/ncpa+하/xsv+ㄴ/etm
+15	것이다	것+이+다	VERB	_	14	aux	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 러시아와 프랑스도 조선을 침략하려고 기회를 엿보고 있었다 .
+1	러시아와	러시아+와	CCONJ	_	2	conj	_	_	러시아/nq+와/jcj
+2	프랑스도	프랑스+도	ADV	_	6	advcl	_	_	프랑스/nq+도/jxc
+3	조선을	조선+을	PROPN	_	4	obj	_	_	조선/nq+을/jco
+4	침략하려고	침략+하+려고	SCONJ	_	6	ccomp	_	_	침략/ncpa+하/xsv+려고/ecs
+5	기회를	기회+를	NOUN	_	6	obj	_	_	기회/ncn+를/jco
+6	엿보고	엿보+고	VERB	_	0	root	_	_	엿보/pvg+고/ecx
+7	있었다	있+었+다	AUX	_	6	aux	_	_	있/px+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 개항한 뒤 조선은 일본의 식량 공급지가 되고 있었다 .
+1	개항한	개항+하+ㄴ	VERB	_	2	acl	_	_	개항/ncpa+하/xsv+ㄴ/etm
+2	뒤	뒤	NOUN	_	7	advmod	_	_	뒤/ncn
+3	조선은	조선+은	PROPN	_	7	dislocated	_	_	조선/nq+은/jxt
+4	일본의	일본+의	PROPN	_	6	nmod	_	_	일본/nq+의/jcm
+5	식량	식량	NOUN	_	6	compound	_	_	식량/ncn
+6	공급지가	공급지+가	NOUN	_	7	csubj	_	_	공급지/ncn+가/jcc
+7	되고	되+고	VERB	_	0	root	_	_	되/pvg+고/ecx
+8	있었다	있+었+다	AUX	_	7	aux	_	_	있/px+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 일본은 자기 나라 노동자의 임금을 값싸게 하려고 제 나라 쌀보다 값이 싼 조선 쌀을 수입하여 쌀값을 낮추려고 하였다 .
+1	일본은	일본+은	PROPN	_	17	dislocated	_	_	일본/nq+은/jxt
+2	자기	자기	PRON	_	3	compound	_	_	자기/npp
+3	나라	나라	NOUN	_	4	compound	_	_	나라/ncn
+4	노동자의	노동자+의	NOUN	_	5	nmod	_	_	노동자/ncn+의/jcm
+5	임금을	임금+을	NOUN	_	7	obj	_	_	임금/ncn+을/jco
+6	값싸게	값싸+게	SCONJ	_	7	xcomp	_	_	값싸/paa+게/ecs
+7	하려고	하+려고	SCONJ	_	15	ccomp	_	_	하/pvg+려고/ecs
+8	제	제	PRON	_	9	compound	_	_	제/npp
+9	나라	나라	NOUN	_	10	compound	_	_	나라/ncn
+10	쌀보다	쌀+보다	ADV	_	12	advcl	_	_	쌀/ncn+보다/jca
+11	값이	값+이	NOUN	_	12	nsubj	_	_	값/ncn+이/jcs
+12	싼	싸+ㄴ	ADJ	_	14	amod	_	_	싸/paa+ㄴ/etm
+13	조선	조선	PROPN	_	14	compound	_	_	조선/nq
+14	쌀을	쌀+을	NOUN	_	15	obj	_	_	쌀/ncn+을/jco
+15	수입하여	수입+하+어	SCONJ	_	17	ccomp	_	_	수입/ncpa+하/xsv+어/ecs
+16	쌀값을	쌀값+을	NOUN	_	17	obj	_	_	쌀값/ncn+을/jco
+17	낮추려고	낮추+려고	VERB	_	0	root	_	_	낮추/pvg+려고/ecx
+18	하였다	하+었+다	AUX	_	17	aux	_	_	하/px+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 지주들이 땅을 늘려 감에 따라 그나마 적은 땅이라도 가지고 있던 농민들은 땅을 팔아 치우고 순전한 소작농으로 전락하였다 .
+1	지주들이	지주+들+이	NOUN	_	3	nsubj	_	_	지주/ncn+들/xsn+이/jcs
+2	땅을	땅+을	NOUN	_	3	obj	_	_	땅/ncn+을/jco
+3	늘려	늘리+어	VERB	_	5	obl	_	_	늘리/pvg+어/ecx
+4	감에	가+ㅁ+에	ADV	_	3	aux	_	_	가/px+ㅁ/etn+에/jca
+5	따라	따르+아	SCONJ	_	17	ccomp	_	_	따르/pvg+아/ecs
+6	그나마	그나마	ADV	_	7	advmod	_	_	그나마/mag
+7	적은	적+ㄴ	ADJ	_	8	amod	_	_	적/paa+ㄴ/etm
+8	땅이라도	땅+이라도	ADV	_	9	advcl	_	_	땅/ncn+이라도/jxc
+9	가지고	가지+고	VERB	_	11	acl	_	_	가지/pvg+고/ecx
+10	있던	있+더+ㄴ	AUX	_	9	aux	_	_	있/px+더/ep+ㄴ/etm
+11	농민들은	농민+들+은	NOUN	_	17	dislocated	_	_	농민/ncn+들/xsn+은/jxt
+12	땅을	땅+을	NOUN	_	13	obj	_	_	땅/ncn+을/jco
+13	팔아	팔+아	VERB	_	17	ccomp	_	_	팔/pvg+아/ecx
+14	치우고	치우+고	SCONJ	_	13	aux	_	_	치우/px+고/ecs
+15	순전한	순전하+ㄴ	ADJ	_	16	amod	_	_	순전하/paa+ㄴ/etm
+16	소작농으로	소작농+으로	ADV	_	17	advcl	_	_	소작농/ncn+으로/jca
+17	전락하였다	전락+하+었+다	VERB	_	0	root	_	_	전락/ncpa+하/xsv+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 농민들은 부족한 농사 자금을 채우고 보릿고개를 넘기려고 먼저 돈을 받아 써 버리게 되는 것이다 .
+1	농민들은	농민+들+은	NOUN	_	11	dislocated	_	_	농민/ncn+들/xsn+은/jxt
+2	부족한	부족+하+ㄴ	VERB	_	4	acl	_	_	부족/ncpa+하/xsv+ㄴ/etm
+3	농사	농사	NOUN	_	4	compound	_	_	농사/ncn
+4	자금을	자금+을	NOUN	_	5	obj	_	_	자금/ncn+을/jco
+5	채우고	채우+고	CCONJ	_	7	conj	_	_	채우/pvg+고/ecc
+6	보릿고개를	보릿고개+를	NOUN	_	7	obj	_	_	보릿고개/ncn+를/jco
+7	넘기려고	넘기+려고	SCONJ	_	11	ccomp	_	_	넘기/pvg+려고/ecs
+8	먼저	먼저	ADV	_	11	advmod	_	_	먼저/mag
+9	돈을	돈+을	NOUN	_	11	obj	_	_	돈/ncn+을/jco
+10	받아	받+아	SCONJ	_	11	ccomp	_	_	받/pvg+아/ecs
+11	써	쓰+어	VERB	_	0	root	_	_	쓰/pvg+어/ecx
+12	버리게	버리+게	AUX	_	11	aux	_	_	버리/px+게/ecx
+13	되는	되+는	AUX	_	11	aux	_	_	되/px+는/etm
+14	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 가을이 되어 일본 상인이 수확한 벼를 모두 가져갈 때 , 농민들은 이미 빈털터리가 되어 있었다 .
+1	가을이	가을+이	NOUN	_	2	csubj	_	_	가을/ncn+이/jcc
+2	되어	되+어	SCONJ	_	8	ccomp	_	_	되/pvg+어/ecs
+3	일본	일본	PROPN	_	4	compound	_	_	일본/nq
+4	상인이	상인+이	NOUN	_	8	nsubj	_	_	상인/ncn+이/jcs
+5	수확한	수확+하+ㄴ	VERB	_	6	acl	_	_	수확/ncpa+하/xsv+ㄴ/etm
+6	벼를	벼+를	NOUN	_	8	obj	_	_	벼/ncn+를/jco
+7	모두	모두	ADV	_	8	advmod	_	_	모두/mag
+8	가져갈	가지+어+가+ㄹ	AUX	_	9	acl	_	_	가지/pvg+어/ecx+가/px+ㄹ/etm
+9	때	때	NOUN	_	14	advmod	_	_	때/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	농민들은	농민+들+은	NOUN	_	14	dislocated	_	_	농민/ncn+들/xsn+은/jxt
+12	이미	이미	ADV	_	14	advmod	_	_	이미/mag
+13	빈털터리가	빈털터리+가	NOUN	_	14	csubj	_	_	빈털터리/ncn+가/jcc
+14	되어	되+어	VERB	_	0	root	_	_	되/pvg+어/ecx
+15	있었다	있+었+다	AUX	_	14	aux	_	_	있/px+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 새로운 방직 기계를 이용하여 대규모로 생산하는 서양 섬유업과 경쟁하여 이길 수 없었다 .
+1	새로운	새롭+ㄴ	ADJ	_	3	amod	_	_	새롭/paa+ㄴ/etm
+2	방직	방직	NOUN	_	3	compound	_	_	방직/ncn
+3	기계를	기계+를	NOUN	_	4	obj	_	_	기계/ncn+를/jco
+4	이용하여	이용+하+어	SCONJ	_	6	ccomp	_	_	이용/ncpa+하/xsv+어/ecs
+5	대규모로	대규모+로	ADV	_	6	advcl	_	_	대규모/ncn+로/jca
+6	생산하는	생산+하+는	VERB	_	8	acl	_	_	생산/ncpa+하/xsv+는/etm
+7	서양	서양	NOUN	_	8	compound	_	_	서양/ncn
+8	섬유업과	섬유업+과	CCONJ	_	9	conj	_	_	섬유업/ncn+과/jct
+9	경쟁하여	경쟁+하+어	SCONJ	_	10	ccomp	_	_	경쟁/ncpa+하/xsv+어/ecs
+10	이길	이기+ㄹ	VERB	_	0	root	_	_	이기/pvg+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	없었다	없+었+다	ADJ	_	10	aux	_	_	없/paa+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 조선 소가 급격히 줄어들어 농사를 짓는 데 큰 어려움을 겪었다 .
+1	조선	조선	PROPN	_	2	compound	_	_	조선/nq
+2	소가	소+가	NOUN	_	4	nsubj	_	_	소/ncn+가/jcs
+3	급격히	급격+히	ADV	_	4	advmod	_	_	급격/ncps+히/xsa
+4	줄어들어	줄어들+어	SCONJ	_	10	ccomp	_	_	줄어들/pvg+어/ecs
+5	농사를	농사+를	NOUN	_	6	obj	_	_	농사/ncn+를/jco
+6	짓는	짓+는	VERB	_	7	acl	_	_	짓/pvg+는/etm
+7	데	데	NOUN	_	10	advmod	_	_	데/ncn
+8	큰	크+ㄴ	ADJ	_	9	amod	_	_	크/paa+ㄴ/etm
+9	어려움을	어려움+을	NOUN	_	10	obj	_	_	어려움/ncn+을/jco
+10	겪었다	겪+었+다	VERB	_	0	root	_	_	겪/pvg+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 민씨 정권은 이전보다 세금을 훨씬 많이 거둬 민중을 쥐어 짰다 .
+1	민씨	민+씨	NOUN	_	2	advmod	_	_	민/nq+씨/xsn
+2	정권은	정권+은	NOUN	_	10	dislocated	_	_	정권/ncn+은/jxt
+3	이전보다	이전+보다	ADV	_	7	advcl	_	_	이전/ncn+보다/jca
+4	세금을	세금+을	NOUN	_	7	obj	_	_	세금/ncn+을/jco
+5	훨씬	훨씬	ADV	_	7	advmod	_	_	훨씬/mag
+6	많이	많이	ADV	_	7	advmod	_	_	많이/mag
+7	거둬	거두+어	SCONJ	_	10	ccomp	_	_	거두/pvg+어/ecs
+8	민중을	민중+을	NOUN	_	10	obj	_	_	민중/ncn+을/jco
+9	쥐어	쥐+어	SCONJ	_	10	ccomp	_	_	쥐/pvg+어/ecs
+10	짰다	짜+ㅆ+다	VERB	_	0	root	_	_	짜/pvg+ㅆ/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 세금의 종류도 많이 늘어났다 .
+1	세금의	세금+의	NOUN	_	2	nmod	_	_	세금/ncn+의/jcm
+2	종류도	종류+도	ADV	_	4	advcl	_	_	종류/ncn+도/jxc
+3	많이	많이	ADV	_	4	advmod	_	_	많이/mag
+4	늘어났다	늘어나+ㅆ+다	VERB	_	0	root	_	_	늘어나/pvg+ㅆ/ep+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 여기에 동학도 한몫을 하였다 .
+1	여기에	여기+에	ADV	_	4	obl	_	_	여기/npd+에/jca
+2	동학도	동학+도	ADV	_	4	advcl	_	_	동학/ncn+도/jxc
+3	한몫을	한몫+을	NOUN	_	4	obj	_	_	한몫/ncn+을/jco
+4	하였다	하+었+다	VERB	_	0	root	_	_	하/pvg+었/ep+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 동학은 성리학을 신주처럼 떠받들던 봉건 지배층에게 큰 타격을 주었다 .
+1	동학은	동학+은	NOUN	_	9	dislocated	_	_	동학/ncn+은/jxt
+2	성리학을	성리학+을	NOUN	_	4	obj	_	_	성리학/ncn+을/jco
+3	신주처럼	신주+처럼	ADV	_	4	advcl	_	_	신주/ncn+처럼/jca
+4	떠받들던	떠받들+더+ㄴ	VERB	_	6	acl	_	_	떠받들/pvg+더/ep+ㄴ/etm
+5	봉건	봉건	NOUN	_	6	compound	_	_	봉건/ncn
+6	지배층에게	지배층+에게	ADV	_	9	iobj	_	_	지배층/ncn+에게/jca
+7	큰	크+ㄴ	ADJ	_	8	amod	_	_	크/paa+ㄴ/etm
+8	타격을	타격+을	NOUN	_	9	obj	_	_	타격/ncn+을/jco
+9	주었다	주+었+다	VERB	_	0	root	_	_	주/pvg+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 민씨 정권 밑에서 비참하게 살아야 하였던 민중 사이에 동학은 널리 퍼져 나갔다 .
+1	민씨	민+씨	NOUN	_	2	advmod	_	_	민/nq+씨/xsn
+2	정권	정권	NOUN	_	3	compound	_	_	정권/ncn
+3	밑에서	밑+에서	ADV	_	5	advcl	_	_	밑/ncn+에서/jca
+4	비참하게	비참하+게	SCONJ	_	5	xcomp	_	_	비참하/paa+게/ecs
+5	살아야	살+아야	VERB	_	7	acl	_	_	살/pvg+아야/ecx
+6	하였던	하+었더+ㄴ	AUX	_	5	aux	_	_	하/px+었더/ep+ㄴ/etm
+7	민중	민중	NOUN	_	8	compound	_	_	민중/ncn
+8	사이에	사이+에	ADV	_	11	obl	_	_	사이/ncn+에/jca
+9	동학은	동학+은	NOUN	_	11	dislocated	_	_	동학/ncn+은/jxt
+10	널리	널리	ADV	_	11	advmod	_	_	널리/mag
+11	퍼져	퍼지+어	VERB	_	0	root	_	_	퍼지/pvg+어/ecx
+12	나갔다	나가+ㅆ+다	AUX	_	11	aux	_	_	나가/px+ㅆ/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+

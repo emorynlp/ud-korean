@@ -1,0 +1,118 @@
+# 형사절차에서는 소위 규문주의가 채택되었다 .
+1	형사절차에서는	형사+절차+에서+는	NOUN	_	4	dislocated	_	_	형사/ncn+절차/ncn+에서/jca+는/jxt
+2	소위	소위	ADV	_	3	advmod	_	_	소위/mag
+3	규문주의가	규문주의+가	NOUN	_	4	nsubj	_	_	규문주의/ncn+가/jcs
+4	채택되었다	채택+되+었+다	VERB	_	0	root	_	_	채택/ncpa+되/xsv+었/ep+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 이것은 유럽대륙의 법제도의 일환을 이루어 통상적인 형사절차의 일부로서 고문법을 형성하였다 .
+1	이것은	이것+은	PRON	_	10	dislocated	_	_	이것/npd+은/jxt
+2	유럽대륙의	유럽대륙+의	PROPN	_	3	nmod	_	_	유럽대륙/nq+의/jcm
+3	법제도의	법제도+의	NOUN	_	4	nmod	_	_	법제도/ncn+의/jcm
+4	일환을	일환+을	NOUN	_	5	obj	_	_	일환/ncn+을/jco
+5	이루어	이루+어	SCONJ	_	10	ccomp	_	_	이루/pvg+어/ecs
+6	통상적인	통상+적+이+ㄴ	VERB	_	7	acl	_	_	통상/ncn+적/xsn+이/jp+ㄴ/etm
+7	형사절차의	형사+절차+의	NOUN	_	8	nmod	_	_	형사/ncn+절차/ncn+의/jcm
+8	일부로서	일부+로서	ADV	_	10	advcl	_	_	일부/ncn+로서/jca
+9	고문법을	고문법+을	NOUN	_	10	obj	_	_	고문법/ncn+을/jco
+10	형성하였다	형성+하+었+다	VERB	_	0	root	_	_	형성/ncpa+하/xsv+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 고문법은 그 자신의 규칙과 학설 및 학자를 갖는 하나의 법학을 형성하였다 .
+1	고문법은	고문법+은	NOUN	_	11	dislocated	_	_	고문법/ncn+은/jxt
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	자신의	자신+의	NOUN	_	4	nmod	_	_	자신/ncn+의/jcm
+4	규칙과	규칙+과	CCONJ	_	5	conj	_	_	규칙/ncn+과/jcj
+5	학설	학설	NOUN	_	7	conj	_	_	학설/ncn
+6	및	및	CCONJ	_	7	cc	_	_	및/maj
+7	학자를	학자+를	NOUN	_	8	obj	_	_	학자/ncn+를/jco
+8	갖는	갖+는	VERB	_	10	acl	_	_	갖/pvg+는/etm
+9	하나의	하나+의	NUM	_	10	nmod	_	_	하나/nnc+의/jcm
+10	법학을	법학+을	NOUN	_	11	obj	_	_	법학/ncn+을/jco
+11	형성하였다	형성+하+었+다	VERB	_	0	root	_	_	형성/ncpa+하/xsv+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 전자는 도외적 응보형론 심정형법론 , 후자는 사회방위형론 주관주의 형법론의 극단형태를 취하였다 .
+1	전자는	전자+는	NOUN	_	4	dislocated	_	_	전자/ncn+는/jxt
+2	도외적	도외+적	NOUN	_	4	amod	_	_	도외/ncn+적/xsn
+3	응보형론	응보형론	NOUN	_	4	compound	_	_	응보형론/ncn
+4	심정형법론	심정형법론	NOUN	_	9	compound	_	_	심정형법론/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	후자는	후자+는	NOUN	_	9	dislocated	_	_	후자/ncn+는/jxt
+7	사회방위형론	사회방위형론	NOUN	_	9	compound	_	_	사회방위형론/ncn
+8	주관주의	주관+주의	NOUN	_	9	compound	_	_	주관/ncn+주의/ncn
+9	형법론의	형법론+의	NOUN	_	10	nmod	_	_	형법론/ncn+의/jcm
+10	극단형태를	극단+형태+를	NOUN	_	11	obj	_	_	극단/ncn+형태/ncn+를/jco
+11	취하였다	취하+었+다	VERB	_	0	root	_	_	취하/pvg+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 한마디로 극형을 통한 위하작용을 극도로 발휘한 공포와 암흑의 시대였다 .
+1	한마디로	한마디+로	ADV	_	9	advcl	_	_	한마디/ncn+로/jca
+2	극형을	극형+을	NOUN	_	3	obj	_	_	극형/ncn+을/jco
+3	통한	통하+ㄴ	VERB	_	4	acl	_	_	통하/pvg+ㄴ/etm
+4	위하작용을	위하작용+을	NOUN	_	6	obj	_	_	위하작용/ncn+을/jco
+5	극도로	극도+로	ADV	_	6	advcl	_	_	극도/ncn+로/jca
+6	발휘한	발휘+하+ㄴ	VERB	_	9	ccomp	_	_	발휘/ncpa+하/xsv+ㄴ/etm
+7	공포와	공포+와	CCONJ	_	8	conj	_	_	공포/ncn+와/jcj
+8	암흑의	암흑+의	NOUN	_	9	nmod	_	_	암흑/ncn+의/jcm
+9	시대였다	시대+이+었+다	VERB	_	0	root	_	_	시대/ncn+이/jp+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 베카리아는 다음과 같은 논지를 펴고 있다 .
+1	베카리아는	베카리아+는	PROPN	_	5	dislocated	_	_	베카리아/nq+는/jxt
+2	다음과	다음+과	CCONJ	_	3	conj	_	_	다음/ncn+과/jct
+3	같은	같+ㄴ	ADJ	_	4	amod	_	_	같/paa+ㄴ/etm
+4	논지를	논지+를	NOUN	_	5	obj	_	_	논지/ncn+를/jco
+5	펴고	펴+고	VERB	_	0	root	_	_	펴/pvg+고/ecx
+6	있다	있+다	AUX	_	5	aux	_	_	있/px+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 훼리는 다음과 같이 무서운 견해를 전개하였다 .
+1	훼리는	훼리+는	PROPN	_	6	dislocated	_	_	훼리/nq+는/jxt
+2	다음과	다음+과	CCONJ	_	3	conj	_	_	다음/ncn+과/jct
+3	같이	같+이	SCONJ	_	6	xcomp	_	_	같/paa+이/ecs
+4	무서운	무섭+ㄴ	ADJ	_	5	amod	_	_	무섭/paa+ㄴ/etm
+5	견해를	견해+를	NOUN	_	6	obj	_	_	견해/ncn+를/jco
+6	전개하였다	전개+하+었+다	VERB	_	0	root	_	_	전개/ncpa+하/xsv+었/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그 어느 편에게도 유리하게 계량될 수 없기 때문이다 .
+1	그	그	DET	_	3	det	_	_	그/mmd
+2	어느	어느	DET	_	3	det	_	_	어느/mmd
+3	편에게도	편+에게+도	ADV	_	5	advcl	_	_	편/ncn+에게/jca+도/jxc
+4	유리하게	유리+하+게	SCONJ	_	5	xcomp	_	_	유리/ncps+하/xsm+게/ecs
+5	계량될	계량+되+ㄹ	VERB	_	0	root	_	_	계량/ncpa+되/xsv+ㄹ/etm
+6	수	수	NOUN	_	7	fixed	_	_	수/nbn
+7	없기	없+기	ADJ	_	5	aux	_	_	없/paa+기/etn
+8	때문이다	때문+이+다	VERB	_	5	aux	_	_	때문/nbn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 각각의 입장에서 주장된 논거의 요점은 다음과 같다 .
+1	각각의	각각+의	NOUN	_	2	nmod	_	_	각각/ncn+의/jcm
+2	입장에서	입장+에서	ADV	_	3	advcl	_	_	입장/ncn+에서/jca
+3	주장된	주장+되+ㄴ	VERB	_	4	acl	_	_	주장/ncpa+되/xsv+ㄴ/etm
+4	논거의	논거+의	NOUN	_	5	nmod	_	_	논거/ncn+의/jcm
+5	요점은	요점+은	NOUN	_	7	dislocated	_	_	요점/ncn+은/jxt
+6	다음과	다음+과	CCONJ	_	7	conj	_	_	다음/ncn+과/jct
+7	같다	같+다	ADJ	_	0	root	_	_	같/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 일정기간의 행적을 신중히 검토하여 무기형으로의 감형여부를 최종적으로 검토하는 방법이다 .
+1	일정기간의	일정+기간+의	NOUN	_	2	nmod	_	_	일정/ncn+기간/ncn+의/jcm
+2	행적을	행적+을	NOUN	_	4	obj	_	_	행적/ncn+을/jco
+3	신중히	신중히	ADV	_	4	advmod	_	_	신중히/mag
+4	검토하여	검토+하+어	SCONJ	_	8	ccomp	_	_	검토/ncpa+하/xsv+어/ecs
+5	무기형으로의	무기형+으로+의	NOUN	_	6	nmod	_	_	무기형/ncn+으로/jca+의/jcm
+6	감형여부를	감형여부+를	NOUN	_	8	obj	_	_	감형여부/ncn+를/jco
+7	최종적으로	최종+적+으로	ADV	_	8	advcl	_	_	최종/ncn+적/xsn+으로/jca
+8	검토하는	검토+하+는	VERB	_	9	ccomp	_	_	검토/ncpa+하/xsv+는/etm
+9	방법이다	방법+이+다	VERB	_	0	root	_	_	방법/ncn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 양심에의 영향에 두고 있다 .
+1	양심에의	양심+에+의	NOUN	_	2	nmod	_	_	양심/ncn+에/jca+의/jcm
+2	영향에	영향+에	ADV	_	3	obl	_	_	영향/ncn+에/jca
+3	두고	두+고	VERB	_	0	root	_	_	두/pvg+고/ecx
+4	있다	있+다	AUX	_	3	aux	_	_	있/px+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+

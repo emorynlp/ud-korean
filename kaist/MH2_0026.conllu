@@ -1,0 +1,1503 @@
+# 삶의 모습 , 도시의 모습 사라진 시냇물 불볕 더위가 엄청난 인파를 바다와 계곡으로 몰아내고 있다 .
+1	삶의	삶+의	NOUN	_	2	nmod	_	_	삶/ncn+의/jcm
+2	모습	모습	NOUN	_	9	compound	_	_	모습/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	도시의	도시+의	NOUN	_	5	nmod	_	_	도시/ncn+의/jcm
+5	모습	모습	NOUN	_	9	compound	_	_	모습/ncn
+6	사라진	사라지+ㄴ	VERB	_	7	acl	_	_	사라지/pvg+ㄴ/etm
+7	시냇물	시냇물	NOUN	_	9	compound	_	_	시냇물/ncn
+8	불볕	불볕	NOUN	_	9	compound	_	_	불볕/ncn
+9	더위가	더위+가	NOUN	_	14	nsubj	_	_	더위/ncn+가/jcs
+10	엄청난	엄청나+ㄴ	ADJ	_	11	amod	_	_	엄청나/paa+ㄴ/etm
+11	인파를	인파+를	NOUN	_	14	obj	_	_	인파/ncn+를/jco
+12	바다와	바다+와	CCONJ	_	13	conj	_	_	바다/ncn+와/jcj
+13	계곡으로	계곡+으로	ADV	_	14	advcl	_	_	계곡/ncn+으로/jca
+14	몰아내고	몰+아+내+고	AUX	_	0	root	_	_	몰/pvg+아/ecx+내/px+고/ecx
+15	있다	있+다	AUX	_	14	aux	_	_	있/px+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 구름 한 점 없는 하늘 아래 사람들로 북새통을 이룬 해수욕장은 보는 이로 하여금 더더욱 더위를 느끼게 한다 .
+1	구름	구름	NOUN	_	3	compound	_	_	구름/ncn
+2	한	한	NUM	_	3	nummod	_	_	한/nnc
+3	점	점	NOUN	_	4	dep	_	_	점/nbu
+4	없는	없+는	ADJ	_	5	amod	_	_	없/paa+는/etm
+5	하늘	하늘	NOUN	_	6	compound	_	_	하늘/ncn
+6	아래	아래	NOUN	_	16	advmod	_	_	아래/ncn
+7	사람들로	사람+들+로	ADV	_	9	advcl	_	_	사람/ncn+들/xsn+로/jca
+8	북새통을	북새통+을	NOUN	_	9	obj	_	_	북새통/ncn+을/jco
+9	이룬	이루+ㄴ	VERB	_	10	acl	_	_	이루/pvg+ㄴ/etm
+10	해수욕장은	해수욕장+은	NOUN	_	16	dislocated	_	_	해수욕장/ncn+은/jxt
+11	보는	보+는	VERB	_	12	acl	_	_	보/pvg+는/etm
+12	이로	이+로	ADV	_	13	advcl	_	_	이/npd+로/jca
+13	하여금	하여금	ADV	_	16	advmod	_	_	하여금/mag
+14	더더욱	더더욱	ADV	_	16	advmod	_	_	더더욱/mag
+15	더위를	더위+를	NOUN	_	16	obj	_	_	더위/ncn+를/jco
+16	느끼게	느끼+게	VERB	_	0	root	_	_	느끼/pvg+게/ecx
+17	한다	하+ㄴ다	AUX	_	16	aux	_	_	하/px+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그러나 山은 다르다 .
+1	그러나	그러나	CCONJ	_	3	cc	_	_	그러나/maj
+2	山은	山+은	NOUN	_	3	dislocated	_	_	山/ncn+은/jxt
+3	다르다	다르+다	ADJ	_	0	root	_	_	다르/paa+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 나무 그늘이 드리워져 있고 나뭇잎이 바람에 흔들거리는 것을 보면 어느덧 더위를 잊는다 .
+1	나무	나무	NOUN	_	2	compound	_	_	나무/ncn
+2	그늘이	그늘+이	NOUN	_	3	nsubj	_	_	그늘/ncn+이/jcs
+3	드리워져	드리우+어+지+어	AUX	_	7	conj	_	_	드리우/pvg+어/ecx+지/px+어/ecx
+4	있고	있+고	CCONJ	_	3	aux	_	_	있/px+고/ecc
+5	나뭇잎이	나뭇잎+이	NOUN	_	7	nsubj	_	_	나뭇잎/ncn+이/jcs
+6	바람에	바람+에	ADV	_	7	obl	_	_	바람/ncn+에/jca
+7	흔들거리는	흔들거리+는	VERB	_	8	acl	_	_	흔들거리/pvg+는/etm
+8	것을	것+을	NOUN	_	9	obj	_	_	것/nbn+을/jco
+9	보면	보+면	SCONJ	_	12	ccomp	_	_	보/pvg+면/ecs
+10	어느덧	어느덧	ADV	_	12	advmod	_	_	어느덧/mag
+11	더위를	더위+를	NOUN	_	12	obj	_	_	더위/ncn+를/jco
+12	잊는다	잊+는다	VERB	_	0	root	_	_	잊/pvg+는다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 거기가 계곡이라면 더욱 서늘할 것 같다 .
+1	거기가	거기+가	PRON	_	2	nsubj	_	_	거기/npd+가/jcs
+2	계곡이라면	계곡+이+라면	SCONJ	_	4	conj	_	_	계곡/ncn+이/jp+라면/ecs
+3	더욱	더욱	ADV	_	4	advmod	_	_	더욱/mag
+4	서늘할	서늘하+ㄹ	ADJ	_	0	root	_	_	서늘하/paa+ㄹ/etm
+5	것	것	NOUN	_	6	fixed	_	_	것/nbn
+6	같다	같+다	ADJ	_	4	aux	_	_	같/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 거기에다 바가지 요금과 자릿세 시비까지 붙고 보면 몸은 고사하고 속마저 답답해지기 십상이다 .
+1	거기에다	거기+에다	ADV	_	6	advcl	_	_	거기/npd+에다/jca
+2	바가지	바가지	NOUN	_	3	compound	_	_	바가지/ncn
+3	요금과	요금+과	CCONJ	_	5	conj	_	_	요금/ncn+과/jcj
+4	자릿세	자릿세	NOUN	_	5	compound	_	_	자릿세/ncn
+5	시비까지	시비+까지	ADV	_	6	advcl	_	_	시비/ncpa+까지/jxc
+6	붙고	붙+고	VERB	_	12	ccomp	_	_	붙/pvg+고/ecx
+7	보면	보+면	SCONJ	_	6	aux	_	_	보/px+면/ecs
+8	몸은	몸+은	NOUN	_	9	dislocated	_	_	몸/ncn+은/jxt
+9	고사하고	고사+하+고	CCONJ	_	11	conj	_	_	고사/ncpa+하/xsv+고/ecc
+10	속마저	속+마저	ADV	_	11	advcl	_	_	속/ncn+마저/jxc
+11	답답해지기	답답하+어+지+기	AUX	_	12	advmod	_	_	답답하/paa+어/ecx+지/px+기/etn
+12	십상이다	십상+이+다	VERB	_	0	root	_	_	십상/ncn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 서울이 본디 이렇게 메마른 곳이었는가 하면 전혀 그렇지 않다 .
+1	서울이	서울+이	PROPN	_	5	nsubj	_	_	서울/nq+이/jcs
+2	본디	본디	ADV	_	4	advmod	_	_	본디/mag
+3	이렇게	이러하+게	SCONJ	_	4	xcomp	_	_	이러하/pad+게/ecs
+4	메마른	메마르+ㄴ	VERB	_	5	ccomp	_	_	메마르/pvg+ㄴ/etm
+5	곳이었는가	곳+이+었+는가	VERB	_	6	ccomp	_	_	곳/ncn+이/jp+었/ep+는가/ef
+6	하면	하+면	SCONJ	_	8	conj	_	_	하/pvg+면/ecs
+7	전혀	전혀	ADV	_	8	advmod	_	_	전혀/mag
+8	그렇지	그러하+지	VERB	_	0	root	_	_	그러하/pad+지/ecx
+9	않다	않+다	AUX	_	8	aux	_	_	않/px+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 서울의 古地圖와 문헌을 보면 오히려 그 반대임을 알 수 있다 .
+1	서울의	서울+의	PROPN	_	3	nmod	_	_	서울/nq+의/jcm
+2	古地圖와	古地圖+와	CCONJ	_	3	conj	_	_	古地圖/ncn+와/jcj
+3	문헌을	문헌+을	NOUN	_	4	obj	_	_	문헌/ncn+을/jco
+4	보면	보+면	SCONJ	_	10	conj	_	_	보/pvg+면/ecs
+5	오히려	오히려	ADV	_	7	advmod	_	_	오히려/mag
+6	그	그	DET	_	7	det	_	_	그/mmd
+7	반대임을	반대+이+ㅁ+을	NOUN	_	8	obj	_	_	반대/ncpa+이/jp+ㅁ/etn+을/jco
+8	알	알+ㄹ	VERB	_	9	acl	_	_	알/pvg+ㄹ/etm
+9	수	수	NOUN	_	10	mark	_	_	수/nbn
+10	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 옛 서울은 분지 서울의 산세는 잘 알려져 있듯 북악산 , 낙타산 , 남산 , 인왕산이 시계바늘 돌듯 사방을 둘러싸고 있다 .
+1	옛	옛	ADJ	_	2	amod	_	_	옛/mma
+2	서울은	서울+은	PROPN	_	19	dislocated	_	_	서울/nq+은/jxt
+3	분지	분지	NOUN	_	4	compound	_	_	분지/ncn
+4	서울의	서울+의	PROPN	_	5	nmod	_	_	서울/nq+의/jcm
+5	산세는	산세+는	NOUN	_	7	dislocated	_	_	산세/ncn+는/jxt
+6	잘	잘	ADV	_	7	advmod	_	_	잘/mag
+7	알려져	알리+어+지+어	AUX	_	19	ccomp	_	_	알리/pvg+어/ecx+지/px+어/ecx
+8	있듯	있+듯	SCONJ	_	7	aux	_	_	있/px+듯/ecs
+9	북악산	북악산	PROPN	_	11	conj	_	_	북악산/nq
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	낙타산	낙타산	PROPN	_	13	conj	_	_	낙타산/nq
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	남산	남산	PROPN	_	15	conj	_	_	남산/nq
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	인왕산이	인왕산+이	PROPN	_	19	nsubj	_	_	인왕산/nq+이/jcs
+16	시계바늘	시계+바늘	NOUN	_	17	dep	_	_	시계/ncn+바늘/ncn
+17	돌듯	돌+듯	CCONJ	_	19	conj	_	_	돌/pvg+듯/ecc
+18	사방을	사방+을	NOUN	_	19	obj	_	_	사방/ncn+을/jco
+19	둘러싸고	둘러싸+고	VERB	_	0	root	_	_	둘러싸/pvg+고/ecx
+20	있다	있+다	AUX	_	19	aux	_	_	있/px+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 일반적으로 한국의 산세는 험준하여 계곡을 흐르는 냇물은 빨리 흘러 내려가 버린다 .
+1	일반적으로	일반+적+으로	ADV	_	4	advcl	_	_	일반/ncn+적/xsn+으로/jca
+2	한국의	한국+의	PROPN	_	3	nmod	_	_	한국/nq+의/jcm
+3	산세는	산세+는	NOUN	_	4	dislocated	_	_	산세/ncn+는/jxt
+4	험준하여	험준하+어	SCONJ	_	10	xcomp	_	_	험준하/paa+어/ecs
+5	계곡을	계곡+을	NOUN	_	6	obj	_	_	계곡/ncn+을/jco
+6	흐르는	흐르+는	VERB	_	7	acl	_	_	흐르/pvg+는/etm
+7	냇물은	냇물+은	NOUN	_	10	dislocated	_	_	냇물/ncn+은/jxt
+8	빨리	빨리	ADV	_	9	advmod	_	_	빨리/mag
+9	흘러	흐르+어	SCONJ	_	10	ccomp	_	_	흐르/pvg+어/ecs
+10	내려가	내리+어+가+아	AUX	_	0	root	_	_	내리/pvg+어/ecx+가/px+아/ecx
+11	버린다	버리+ㄴ다	AUX	_	10	aux	_	_	버리/px+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 비가 왔다 하면 넘칠 정도로 급류를 이루고 , 가물었다 하면 물 한오라기가 흐르지 않는 乾川이 되기 쉽다고 한다 .
+1	비가	비+가	NOUN	_	2	nsubj	_	_	비/ncn+가/jcs
+2	왔다	오+았+다	VERB	_	3	ccomp	_	_	오/pvg+았/ep+다/ef
+3	하면	하+면	SCONJ	_	7	ccomp	_	_	하/pvg+면/ecs
+4	넘칠	넘치+ㄹ	VERB	_	5	acl	_	_	넘치/pvg+ㄹ/etm
+5	정도로	정도+로	ADV	_	7	advcl	_	_	정도/ncn+로/jca
+6	급류를	급류+를	NOUN	_	7	obj	_	_	급류/ncn+를/jco
+7	이루고	이루+고	CCONJ	_	16	conj	_	_	이루/pvg+고/ecc
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	가물었다	가물+었+다	VERB	_	10	ccomp	_	_	가물/pvg+었/ep+다/ef
+10	하면	하+면	SCONJ	_	16	ccomp	_	_	하/pvg+면/ecs
+11	물	물	NOUN	_	12	compound	_	_	물/ncn
+12	한오라기가	한오라기+가	NOUN	_	13	nsubj	_	_	한오라기/ncn+가/jcs
+13	흐르지	흐르+지	VERB	_	15	acl	_	_	흐르/pvg+지/ecx
+14	않는	않+는	AUX	_	13	aux	_	_	않/px+는/etm
+15	乾川이	乾川+이	NOUN	_	16	csubj	_	_	乾川/ncn+이/jcc
+16	되기	되+기	VERB	_	17	nmod	_	_	되/pvg+기/etn
+17	쉽다고	쉽+다+고	VERB	_	18	conj	_	_	쉽/paa+다/ef+고/jcr
+18	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 즉 , 계곡이 있다 하여도 언제나 물이 흐르지는 않는다 .
+1	즉	즉	CCONJ	_	8	cc	_	_	즉/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	계곡이	계곡+이	NOUN	_	4	nsubj	_	_	계곡/ncn+이/jcs
+4	있다	있+다	ADJ	_	5	ccomp	_	_	있/paa+다/ef
+5	하여도	하+어도	SCONJ	_	8	ccomp	_	_	하/pvg+어도/ecs
+6	언제나	언제나	ADV	_	8	advmod	_	_	언제나/mag
+7	물이	물+이	NOUN	_	8	nsubj	_	_	물/ncn+이/jcs
+8	흐르지는	흐르+지+는	NOUN	_	0	root	_	_	흐르/pvg+지/ecx+는/jxt
+9	않는다	않+는다	AUX	_	8	aux	_	_	않/px+는다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러나 옛 서울은 달랐을 것이다 .
+1	그러나	그러나	CCONJ	_	4	cc	_	_	그러나/maj
+2	옛	옛	ADJ	_	3	amod	_	_	옛/mma
+3	서울은	서울+은	PROPN	_	4	dislocated	_	_	서울/nq+은/jxt
+4	달랐을	다르+았+ㄹ	ADJ	_	0	root	_	_	다르/paa+았/ep+ㄹ/etm
+5	것이다	것+이+다	VERB	_	4	aux	_	_	것/nbn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 왜 이렇게 다리가 많았을까 ?
+1	왜	왜	ADV	_	4	advmod	_	_	왜/mag
+2	이렇게	이러하+게	SCONJ	_	4	xcomp	_	_	이러하/pad+게/ecs
+3	다리가	다리+가	NOUN	_	4	nsubj	_	_	다리/ncn+가/jcs
+4	많았을까	많+았+ㄹ까	ADJ	_	0	root	_	_	많/paa+았/ep+ㄹ까/ef
+5	?	?	PUNCT	_	4	punct	_	_	?/sf
+
+# 이렇듯 많고 가까웠던 시냇물과 다리가 불과 80여년 사이에 거의 사라지고 겨우 몇 개 地名으로 남아 있을 뿐이다 .
+1	이렇듯	이러하+듯	CCONJ	_	3	conj	_	_	이러하/pad+듯/ecc
+2	많고	많+고	CCONJ	_	3	conj	_	_	많/paa+고/ecc
+3	가까웠던	가깝+었+던	ADJ	_	5	amod	_	_	가깝/paa+었/ep+던/etm
+4	시냇물과	시냇물+과	CCONJ	_	5	conj	_	_	시냇물/ncn+과/jcj
+5	다리가	다리+가	NOUN	_	10	nsubj	_	_	다리/ncn+가/jcs
+6	불과	불과	ADV	_	10	advmod	_	_	불과/mag
+7	80여년	80+여+년	NOUN	_	8	compound	_	_	80/nnc+여/xsn+년/nbu
+8	사이에	사이+에	ADV	_	10	obl	_	_	사이/ncn+에/jca
+9	거의	거의	ADV	_	10	advmod	_	_	거의/mag
+10	사라지고	사라지+고	CCONJ	_	15	conj	_	_	사라지/pvg+고/ecc
+11	겨우	겨우	ADV	_	15	advmod	_	_	겨우/mag
+12	몇	몇	ADJ	_	13	amod	_	_	몇/mma
+13	개	개	NOUN	_	14	compound	_	_	개/nbu
+14	地名으로	地名+으로	ADV	_	15	advcl	_	_	地名/ncn+으로/jca
+15	남아	남+아	VERB	_	0	root	_	_	남/pvg+아/ecx
+16	있을	있+ㄹ	AUX	_	15	aux	_	_	있/px+ㄹ/etm
+17	뿐이다	뿐+이+다	VERB	_	15	aux	_	_	뿐/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 당시만 해도 개천은 말 그대로 開川이어서 복개되어 있지 않았다 .
+1	당시만	당시+만	ADV	_	2	advcl	_	_	당시/ncn+만/jxc
+2	해도	하+어도	SCONJ	_	6	ccomp	_	_	하/pvg+어도/ecs
+3	개천은	개천+은	NOUN	_	6	dislocated	_	_	개천/ncn+은/jxt
+4	말	말	NOUN	_	5	dep	_	_	말/ncpa
+5	그대로	그대로	ADV	_	6	advmod	_	_	그대로/mag
+6	開川이어서	開川+이+어서	SCONJ	_	7	ccomp	_	_	開川/ncn+이/jp+어서/ecs
+7	복개되어	복개+되+어	VERB	_	0	root	_	_	복개/ncpa+되/xsv+어/ecx
+8	있지	있+지	AUX	_	7	aux	_	_	있/px+지/ecx
+9	않았다	않+았+다	AUX	_	7	aux	_	_	않/px+았/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 하지만 아직도 그 양이 문제될 정도가 아니었을 때는 가제가 서식하고 어린 아이들이 물장구를 칠 수 있었다 .
+1	하지만	하지만	ADV	_	7	advmod	_	_	하지만/mag
+2	아직도	아직도	ADV	_	1	advmod	_	_	아직도/mag
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	양이	양+이	NOUN	_	5	nsubj	_	_	양/ncn+이/jcs
+5	문제될	문제되+ㄹ	VERB	_	6	acl	_	_	문제되/pvg+ㄹ/etm
+6	정도가	정도+가	NOUN	_	7	csubj	_	_	정도/ncn+가/jcc
+7	아니었을	아니+었+ㄹ	ADJ	_	8	amod	_	_	아니/paa+었/ep+ㄹ/etm
+8	때는	때+는	NOUN	_	16	dislocated	_	_	때/nbn+는/jxt
+9	가제가	가제+가	NOUN	_	10	nsubj	_	_	가제/ncn+가/jcs
+10	서식하고	서식+하+고	CCONJ	_	14	conj	_	_	서식/ncpa+하/xsv+고/ecc
+11	어린	어리+ㄴ	ADJ	_	12	amod	_	_	어리/paa+ㄴ/etm
+12	아이들이	아이+들+이	NOUN	_	14	nsubj	_	_	아이/ncn+들/xsn+이/jcs
+13	물장구를	물장구+를	NOUN	_	14	obj	_	_	물장구/ncn+를/jco
+14	칠	치+ㄹ	VERB	_	15	acl	_	_	치/pvg+ㄹ/etm
+15	수	수	NOUN	_	16	mark	_	_	수/nbn
+16	있었다	있+었+다	ADJ	_	0	root	_	_	있/paa+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 도시에 보다 많은 민가와 활동이 모이면서 전보다 많은 도로가 필요하게 되었다 .
+1	도시에	도시+에	ADV	_	6	obl	_	_	도시/ncn+에/jca
+2	보다	보다	ADV	_	3	advmod	_	_	보다/mag
+3	많은	많+ㄴ	ADJ	_	5	amod	_	_	많/paa+ㄴ/etm
+4	민가와	민가+와	CCONJ	_	5	conj	_	_	민가/ncn+와/jcj
+5	활동이	활동+이	NOUN	_	6	nsubj	_	_	활동/ncpa+이/jcs
+6	모이면서	모이+면서	SCONJ	_	10	conj	_	_	모이/pvg+면서/ecs
+7	전보다	전+보다	ADV	_	8	advcl	_	_	전/ncn+보다/jca
+8	많은	많+ㄴ	ADJ	_	9	amod	_	_	많/paa+ㄴ/etm
+9	도로가	도로+가	NOUN	_	10	nsubj	_	_	도로/ncn+가/jcs
+10	필요하게	필요+하+게	VERB	_	0	root	_	_	필요/ncps+하/xsm+게/ecx
+11	되었다	되+었+다	AUX	_	10	aux	_	_	되/px+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이런 우여곡절을 거치며 서울의 시냇물은 흔적도 없이 사라져간 것이다 .
+1	이런	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	우여곡절을	우여곡절+을	NOUN	_	3	obj	_	_	우여곡절/ncn+을/jco
+3	거치며	거치+며	CCONJ	_	8	conj	_	_	거치/pvg+며/ecc
+4	서울의	서울+의	PROPN	_	5	nmod	_	_	서울/nq+의/jcm
+5	시냇물은	시냇물+은	NOUN	_	8	dislocated	_	_	시냇물/ncn+은/jxt
+6	흔적도	흔적+도	ADV	_	7	advcl	_	_	흔적/ncn+도/jxc
+7	없이	없+이	SCONJ	_	8	xcomp	_	_	없/paa+이/ecs
+8	사라져간	사라지+어+가+ㄴ	AUX	_	0	root	_	_	사라지/pvg+어/ecx+가/px+ㄴ/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 얼마전 서울시는 구 서울 문리대 앞 대학로를 문화의 거리로 정비정돈하고 차 없는 날까지 정하였다 .
+1	얼마전	얼마+전	NOUN	_	14	advmod	_	_	얼마/ncn+전/ncn
+2	서울시는	서울시+는	PROPN	_	14	dislocated	_	_	서울시/nq+는/jxt
+3	구	구	ADJ	_	5	amod	_	_	구/mma
+4	서울	서울	PROPN	_	5	compound	_	_	서울/nq
+5	문리대	문리대	NOUN	_	6	compound	_	_	문리대/ncn
+6	앞	앞	NOUN	_	7	compound	_	_	앞/ncn
+7	대학로를	대학로+를	NOUN	_	10	obj	_	_	대학로/ncn+를/jco
+8	문화의	문화+의	NOUN	_	9	nmod	_	_	문화/ncn+의/jcm
+9	거리로	거리+로	ADV	_	10	advcl	_	_	거리/ncn+로/jca
+10	정비정돈하고	정비+정돈+하+고	CCONJ	_	14	conj	_	_	정비/ncpa+정돈/ncpa+하/xsv+고/ecc
+11	차	차	NOUN	_	12	dep	_	_	차/ncn
+12	없는	없+는	ADJ	_	13	amod	_	_	없/paa+는/etm
+13	날까지	날+까지	ADV	_	14	advcl	_	_	날/ncn+까지/jxc
+14	정하였다	정하+었+다	VERB	_	0	root	_	_	정하/pvg+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이 거리에는 아마 7 8년 전까지만 해도 大學川이 마지막 개천으로 남아 흐르고 있었으나 교통소통의 대의명분 아래 복개되고 말았다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	거리에는	거리+에+는	NOUN	_	11	dislocated	_	_	거리/ncn+에/jca+는/jxt
+3	아마	아마	ADV	_	7	advmod	_	_	아마/mag
+4	7	7	NUM	_	5	nummod	_	_	7/nnc
+5	8년	8+년	NOUN	_	6	compound	_	_	8/nnc+년/nbu
+6	전까지만	전+까지+만	ADV	_	7	advcl	_	_	전/ncn+까지/jxc+만/jxc
+7	해도	하+어도	SCONJ	_	11	ccomp	_	_	하/pvg+어도/ecs
+8	大學川이	大學川+이	PROPN	_	11	nsubj	_	_	大學川/nq+이/jcs
+9	마지막	마지막	NOUN	_	10	compound	_	_	마지막/ncn
+10	개천으로	개천+으로	ADV	_	11	advcl	_	_	개천/ncn+으로/jca
+11	남아	남+아	SCONJ	_	12	ccomp	_	_	남/pvg+아/ecs
+12	흐르고	흐르+고	VERB	_	17	conj	_	_	흐르/pvg+고/ecx
+13	있었으나	있+었+으나	CCONJ	_	12	aux	_	_	있/px+었/ep+으나/ecc
+14	교통소통의	교통+소통+의	NOUN	_	15	nmod	_	_	교통/ncn+소통/ncpa+의/jcm
+15	대의명분	대의+명분	NOUN	_	16	compound	_	_	대의/ncn+명분/ncn
+16	아래	아래	NOUN	_	17	compound	_	_	아래/ncn
+17	복개되고	복개+되+고	VERB	_	0	root	_	_	복개/ncpa+되/xsv+고/ecx
+18	말았다	말+았+다	AUX	_	17	aux	_	_	말/px+았/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 문화의 거리에 차가 다니지 않고 맑게 소생된 大學川이 흘렀다면 진정 문화의 거리에 걸맞았을 것이고 여름철 더위도 조금은 가셨을 것이다 .
+1	문화의	문화+의	NOUN	_	2	nmod	_	_	문화/ncn+의/jcm
+2	거리에	거리+에	ADV	_	4	obl	_	_	거리/ncn+에/jca
+3	차가	차+가	NOUN	_	4	nsubj	_	_	차/ncn+가/jcs
+4	다니지	다니+지	VERB	_	9	conj	_	_	다니/pvg+지/ecx
+5	않고	않+고	CCONJ	_	4	aux	_	_	않/px+고/ecc
+6	맑게	맑+게	SCONJ	_	7	xcomp	_	_	맑/paa+게/ecs
+7	소생된	소생+되+ㄴ	VERB	_	8	acl	_	_	소생/ncpa+되/xsv+ㄴ/etm
+8	大學川이	大學川+이	PROPN	_	9	nsubj	_	_	大學川/nq+이/jcs
+9	흘렀다면	흐르+었+다면	SCONJ	_	18	ccomp	_	_	흐르/pvg+었/ep+다면/ecs
+10	진정	진정	NOUN	_	13	dep	_	_	진정/ncn
+11	문화의	문화+의	NOUN	_	12	nmod	_	_	문화/ncn+의/jcm
+12	거리에	거리+에	ADV	_	13	obl	_	_	거리/ncn+에/jca
+13	걸맞았을	걸맞+았+ㄹ	ADJ	_	18	conj	_	_	걸맞/paa+았/ep+ㄹ/etm
+14	것이고	것+이+고	CCONJ	_	13	aux	_	_	것/nbn+이/jp+고/ecc
+15	여름철	여름철	NOUN	_	16	compound	_	_	여름철/ncn
+16	더위도	더위+도	ADV	_	18	advcl	_	_	더위/ncn+도/jxc
+17	조금은	조금+은	NOUN	_	18	dislocated	_	_	조금/ncn+은/jxt
+18	가셨을	가+셨+ㄹ	VERB	_	0	root	_	_	가/pvg+셨/ep+ㄹ/etm
+19	것이다	것+이+다	VERB	_	18	aux	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 뒤돌아보면 참으로 아쉽기 짝이 없는 일이다 .
+1	뒤돌아보면	뒤돌+아+보+면	SCONJ	_	6	ccomp	_	_	뒤돌/pvg+아/ecx+보/px+면/ecs
+2	참으로	참으로	ADV	_	3	advmod	_	_	참으로/mag
+3	아쉽기	아쉽+기	ADJ	_	5	nmod	_	_	아쉽/paa+기/etn
+4	짝이	짝+이	NOUN	_	5	nsubj	_	_	짝/ncn+이/jcs
+5	없는	없+는	ADJ	_	6	amod	_	_	없/paa+는/etm
+6	일이다	일+이+다	VERB	_	0	root	_	_	일/ncpa+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 사람은 꼴값을 한다는 옛 어른들의 말이 있다 .
+1	사람은	사람+은	NOUN	_	3	dislocated	_	_	사람/ncn+은/jxt
+2	꼴값을	꼴값+을	NOUN	_	3	obj	_	_	꼴값/ncn+을/jco
+3	한다는	하+ㄴ다는	VERB	_	6	acl	_	_	하/pvg+ㄴ다는/etm
+4	옛	옛	ADJ	_	5	amod	_	_	옛/mma
+5	어른들의	어른+들+의	NOUN	_	6	nmod	_	_	어른/ncn+들/xsn+의/jcm
+6	말이	말+이	NOUN	_	7	nsubj	_	_	말/ncpa+이/jcs
+7	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 하지만 , 이 세상에서 자기가 좋아하는 얼굴을 선택하여 붙이고 다니는 사람은 없다 .
+1	하지만	하지만	CCONJ	_	12	cc	_	_	하지만/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	이	이	DET	_	4	det	_	_	이/mmd
+4	세상에서	세상+에서	ADV	_	12	advcl	_	_	세상/ncn+에서/jca
+5	자기가	자기+가	PRON	_	6	nsubj	_	_	자기/npp+가/jcs
+6	좋아하는	좋아하+는	VERB	_	7	acl	_	_	좋아하/pvg+는/etm
+7	얼굴을	얼굴+을	NOUN	_	8	obj	_	_	얼굴/ncn+을/jco
+8	선택하여	선택+하+어	SCONJ	_	9	ccomp	_	_	선택/ncpa+하/xsv+어/ecs
+9	붙이고	붙이+고	SCONJ	_	10	ccomp	_	_	붙이/pvg+고/ecs
+10	다니는	다니+는	VERB	_	11	acl	_	_	다니/pvg+는/etm
+11	사람은	사람+은	NOUN	_	12	dislocated	_	_	사람/ncn+은/jxt
+12	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 다른 얘기로는 중년 이후의 얼굴은 자기가 책임지라는 말이 있다 .
+1	다른	다르+ㄴ	ADJ	_	2	amod	_	_	다르/paa+ㄴ/etm
+2	얘기로는	얘기+로+는	NOUN	_	9	dislocated	_	_	얘기/ncpa+로/jca+는/jxt
+3	중년	중년	NOUN	_	4	compound	_	_	중년/ncn
+4	이후의	이후+의	NOUN	_	5	nmod	_	_	이후/ncn+의/jcm
+5	얼굴은	얼굴+은	NOUN	_	7	dislocated	_	_	얼굴/ncn+은/jxt
+6	자기가	자기+가	PRON	_	7	nsubj	_	_	자기/npp+가/jcs
+7	책임지라는	책임지+라는	VERB	_	8	acl	_	_	책임지/pvg+라는/etm
+8	말이	말+이	NOUN	_	9	nsubj	_	_	말/ncpa+이/jcs
+9	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그 말이 타당하다면 부모님이 만들어 주신 얼굴은 스스로의 책임으로 자기 얼굴을 만들어가기 위한 바탕에 지나지 않다는 뜻이 된다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	말이	말+이	NOUN	_	3	nsubj	_	_	말/ncpa+이/jcs
+3	타당하다면	타당하+다면	SCONJ	_	18	xcomp	_	_	타당하/paa+다면/ecs
+4	부모님이	부모+님+이	NOUN	_	5	nsubj	_	_	부모/ncn+님/xsn+이/jcs
+5	만들어	만들+어	VERB	_	7	acl	_	_	만들/pvg+어/ecx
+6	주신	주+시+ㄴ	AUX	_	5	aux	_	_	주/px+시/ep+ㄴ/etm
+7	얼굴은	얼굴+은	NOUN	_	15	dislocated	_	_	얼굴/ncn+은/jxt
+8	스스로의	스스로+의	NOUN	_	9	nmod	_	_	스스로/ncn+의/jcm
+9	책임으로	책임+으로	ADV	_	12	advcl	_	_	책임/ncn+으로/jca
+10	자기	자기	PRON	_	11	compound	_	_	자기/npp
+11	얼굴을	얼굴+을	NOUN	_	12	obj	_	_	얼굴/ncn+을/jco
+12	만들어가기	만들+어+가+기	AUX	_	13	nmod	_	_	만들/pvg+어/ecx+가/px+기/etn
+13	위한	위하+ㄴ	VERB	_	14	acl	_	_	위하/pvg+ㄴ/etm
+14	바탕에	바탕+에	ADV	_	15	obl	_	_	바탕/ncpa+에/jca
+15	지나지	지나+지	VERB	_	17	acl	_	_	지나/pvg+지/ecx
+16	않다는	않+다는	AUX	_	15	aux	_	_	않/px+다는/etm
+17	뜻이	뜻+이	NOUN	_	18	csubj	_	_	뜻/ncpa+이/jcc
+18	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그렇다고 중년 이후의 얼굴이 그 전의 얼굴 , 또는 어릴 때의 얼굴과 판이하게 아주 달라지는 것은 아니다 .
+1	그렇다고	그러하+다+고	VERB	_	17	conj	_	_	그러하/pad+다/ef+고/jcr
+2	중년	중년	NOUN	_	3	compound	_	_	중년/ncn
+3	이후의	이후+의	NOUN	_	4	nmod	_	_	이후/ncn+의/jcm
+4	얼굴이	얼굴+이	NOUN	_	15	nsubj	_	_	얼굴/ncn+이/jcs
+5	그	그	DET	_	6	det	_	_	그/mmd
+6	전의	전+의	NOUN	_	7	nmod	_	_	전/ncn+의/jcm
+7	얼굴	얼굴	NOUN	_	12	conj	_	_	얼굴/ncn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	또는	또는	CCONJ	_	12	cc	_	_	또는/maj
+10	어릴	어리+ㄹ	ADJ	_	11	amod	_	_	어리/paa+ㄹ/etm
+11	때의	때+의	NOUN	_	12	nmod	_	_	때/nbn+의/jcm
+12	얼굴과	얼굴+과	CCONJ	_	15	conj	_	_	얼굴/ncn+과/jct
+13	판이하게	판이하+게	SCONJ	_	15	xcomp	_	_	판이하/paa+게/ecs
+14	아주	아주	ADV	_	15	advmod	_	_	아주/mag
+15	달라지는	다르+아+지+는	AUX	_	16	amod	_	_	다르/paa+아/ecx+지/px+는/etm
+16	것은	것+은	NOUN	_	17	dislocated	_	_	것/nbn+은/jxt
+17	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 무엇이 달라지는가 ?
+1	무엇이	무엇+이	PRON	_	2	nsubj	_	_	무엇/npd+이/jcs
+2	달라지는가	다르+아+지+는가	AUX	_	0	root	_	_	다르/paa+아/ecx+지/px+는가/ef
+3	?	?	PUNCT	_	2	punct	_	_	?/sf
+
+# 가장 본질적인 변화는 눈빛이 아닌가 생각한다 .
+1	가장	가장	ADV	_	2	advmod	_	_	가장/mag
+2	본질적인	본질+적+이+ㄴ	VERB	_	3	acl	_	_	본질/ncn+적/xsn+이/jp+ㄴ/etm
+3	변화는	변화+는	NOUN	_	5	dislocated	_	_	변화/ncpa+는/jxt
+4	눈빛이	눈빛+이	NOUN	_	5	csubj	_	_	눈빛/ncn+이/jcc
+5	아닌가	아니+ㄴ가	ADJ	_	6	ccomp	_	_	아니/paa+ㄴ가/ef
+6	생각한다	생각+하+ㄴ다	VERB	_	0	root	_	_	생각/ncpa+하/xsv+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 사람이 중년이면 좋든 나쁘든 스스로 자아를 확립한 나이이다 .
+1	사람이	사람+이	NOUN	_	2	nsubj	_	_	사람/ncn+이/jcs
+2	중년이면	중년+이+면	SCONJ	_	8	ccomp	_	_	중년/ncn+이/jp+면/ecs
+3	좋든	좋+든	CCONJ	_	4	conj	_	_	좋/paa+든/ecc
+4	나쁘든	나쁘+든	SCONJ	_	7	xcomp	_	_	나쁘/paa+든/ecs
+5	스스로	스스로	ADV	_	7	advmod	_	_	스스로/mag
+6	자아를	자아+를	NOUN	_	7	obj	_	_	자아/ncn+를/jco
+7	확립한	확립+하+ㄴ	VERB	_	8	ccomp	_	_	확립/ncpa+하/xsv+ㄴ/etm
+8	나이이다	나이+이+다	VERB	_	0	root	_	_	나이/ncn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이 개인적 自我가 눈빛에 응고하여 나타나는 것이 아닌가 한다 .
+1	이	이	DET	_	3	det	_	_	이/mmd
+2	개인적	개인+적	NOUN	_	3	amod	_	_	개인/ncn+적/xsn
+3	自我가	自我+가	NOUN	_	6	nsubj	_	_	自我/ncn+가/jcs
+4	눈빛에	눈빛+에	ADV	_	6	obl	_	_	눈빛/ncn+에/jca
+5	응고하여	응고+하+어	SCONJ	_	6	ccomp	_	_	응고/ncpa+하/xsv+어/ecs
+6	나타나는	나타나+는	VERB	_	7	acl	_	_	나타나/pvg+는/etm
+7	것이	것+이	NOUN	_	8	csubj	_	_	것/nbn+이/jcc
+8	아닌가	아니+ㄴ가	ADJ	_	9	ccomp	_	_	아니/paa+ㄴ가/ef
+9	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 따라서 어떤 사람의 정신적 깊이는 바로 이 눈빛을 통해서 발로되는 것이다 .
+1	따라서	따라서	CCONJ	_	10	cc	_	_	따라서/maj
+2	어떤	어떤	DET	_	3	det	_	_	어떤/mmd
+3	사람의	사람+의	NOUN	_	5	nmod	_	_	사람/ncn+의/jcm
+4	정신적	정신+적	NOUN	_	5	amod	_	_	정신/ncn+적/xsn
+5	깊이는	깊이+는	NOUN	_	10	dislocated	_	_	깊이/ncn+는/jxt
+6	바로	바로	ADV	_	9	advmod	_	_	바로/mag
+7	이	이	DET	_	8	det	_	_	이/mmd
+8	눈빛을	눈빛+을	NOUN	_	9	obj	_	_	눈빛/ncn+을/jco
+9	통해서	통하+어서	SCONJ	_	10	ccomp	_	_	통하/pvg+어서/ecs
+10	발로되는	발로+되+는	VERB	_	0	root	_	_	발로/ncpa+되/xsv+는/etm
+11	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 얼굴을 보자마자 느껴지는 상대방의 인품에 대한 평가가 첫 인상이란 것이고 기타의 정보는 그 바탕위에 겹쳐질 따름이다 .
+1	얼굴을	얼굴+을	NOUN	_	2	obj	_	_	얼굴/ncn+을/jco
+2	보자마자	보+자마자	SCONJ	_	3	ccomp	_	_	보/pvg+자마자/ecs
+3	느껴지는	느끼+어+지+는	AUX	_	5	acl	_	_	느끼/pvg+어/ecx+지/px+는/etm
+4	상대방의	상대방+의	NOUN	_	5	nmod	_	_	상대방/ncn+의/jcm
+5	인품에	인품+에	ADV	_	6	obl	_	_	인품/ncn+에/jca
+6	대한	대하+ㄴ	VERB	_	7	acl	_	_	대하/pvg+ㄴ/etm
+7	평가가	평가+가	NOUN	_	10	nsubj	_	_	평가/ncpa+가/jcs
+8	첫	첫	NUM	_	9	nummod	_	_	첫/nno
+9	인상이란	인상+이+란	VERB	_	10	ccomp	_	_	인상/ncn+이/jp+란/etm
+10	것이고	것+이+고	CCONJ	_	16	conj	_	_	것/nbn+이/jp+고/ecc
+11	기타의	기타+의	NOUN	_	12	nmod	_	_	기타/ncn+의/jcm
+12	정보는	정보+는	NOUN	_	15	dislocated	_	_	정보/ncn+는/jxt
+13	그	그	DET	_	14	det	_	_	그/mmd
+14	바탕위에	바탕위+에	ADV	_	15	obl	_	_	바탕위/ncn+에/jca
+15	겹쳐질	겹치+어+지+ㄹ	AUX	_	16	ccomp	_	_	겹치/pvg+어/ecx+지/px+ㄹ/etm
+16	따름이다	따르+ㅁ+이+다	VERB	_	0	root	_	_	따르/pvg+ㅁ/etn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 사람 얼굴의 경우와 마찬가지로 도시의 경관은 그 도시가 어떠한 도시인가를 말해준다 .
+1	사람	사람	NOUN	_	2	compound	_	_	사람/ncn
+2	얼굴의	얼굴+의	NOUN	_	3	nmod	_	_	얼굴/ncn+의/jcm
+3	경우와	경우+와	CCONJ	_	4	conj	_	_	경우/ncn+와/jct
+4	마찬가지로	마찬가지+로	ADV	_	10	advcl	_	_	마찬가지/ncn+로/jca
+5	도시의	도시+의	NOUN	_	6	nmod	_	_	도시/ncn+의/jcm
+6	경관은	경관+은	NOUN	_	10	dislocated	_	_	경관/ncn+은/jxt
+7	그	그	DET	_	8	det	_	_	그/mmd
+8	도시가	도시+가	NOUN	_	10	nsubj	_	_	도시/ncn+가/jcs
+9	어떠한	어떠하+ㄴ	VERB	_	10	amod	_	_	어떠하/pad+ㄴ/etm
+10	도시인가를	도시+이+가+를	NOUN	_	11	obj	_	_	도시/ncn+이/jp+가/ef+를/jco
+11	말해준다	말하+어+주+ㄴ다	AUX	_	0	root	_	_	말하/pvg+어/ecx+주/px+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 도시의 경관을 도시의 얼굴이라고 한다면 눈빛에 해당하는 것은 무엇일까 ?
+1	도시의	도시+의	NOUN	_	2	nmod	_	_	도시/ncn+의/jcm
+2	경관을	경관+을	NOUN	_	4	obj	_	_	경관/ncn+을/jco
+3	도시의	도시+의	NOUN	_	4	nmod	_	_	도시/ncn+의/jcm
+4	얼굴이라고	얼굴+이+라고	SCONJ	_	5	ccomp	_	_	얼굴/ncn+이/jp+라고/ecs
+5	한다면	하+ㄴ다면	SCONJ	_	9	ccomp	_	_	하/pvg+ㄴ다면/ecs
+6	눈빛에	눈빛+에	ADV	_	7	obl	_	_	눈빛/ncn+에/jca
+7	해당하는	해당+하+는	VERB	_	8	acl	_	_	해당/ncpa+하/xsv+는/etm
+8	것은	것+은	NOUN	_	9	dislocated	_	_	것/nbn+은/jxt
+9	무엇일까	무엇+이+ㄹ까	VERB	_	0	root	_	_	무엇/npd+이/jp+ㄹ까/ef
+10	?	?	PUNCT	_	9	punct	_	_	?/sf
+
+# 사람의 경우와 마찬가지로 그것은 도시의 정신적 측면을 나타내 주는 것이어야 하고 첫 인상을 결정지워 주는 것이라야 한다 .
+1	사람의	사람+의	NOUN	_	2	nmod	_	_	사람/ncn+의/jcm
+2	경우와	경우+와	CCONJ	_	3	conj	_	_	경우/ncn+와/jct
+3	마찬가지로	마찬가지+로	ADV	_	14	advcl	_	_	마찬가지/ncn+로/jca
+4	그것은	그것+은	PRON	_	8	dislocated	_	_	그것/npd+은/jxt
+5	도시의	도시+의	NOUN	_	7	nmod	_	_	도시/ncn+의/jcm
+6	정신적	정신+적	NOUN	_	7	amod	_	_	정신/ncn+적/xsn
+7	측면을	측면+을	NOUN	_	8	obj	_	_	측면/ncn+을/jco
+8	나타내	나타내+어	VERB	_	14	conj	_	_	나타내/pvg+어/ecx
+9	주는	주+는	AUX	_	8	aux	_	_	주/px+는/etm
+10	것이어야	것+이+어야	VERB	_	8	aux	_	_	것/nbn+이/jp+어야/ecx
+11	하고	하+고	CCONJ	_	8	aux	_	_	하/px+고/ecc
+12	첫	첫	NUM	_	13	nummod	_	_	첫/nno
+13	인상을	인상+을	NOUN	_	14	obj	_	_	인상/ncn+을/jco
+14	결정지워	결정짓+어	VERB	_	17	ccomp	_	_	결정짓/pvg+어/ecx
+15	주는	주+는	AUX	_	14	aux	_	_	주/px+는/etm
+16	것이라야	것+이+라야	SCONJ	_	14	aux	_	_	것/nbn+이/jp+라야/ecs
+17	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그것을 나는 도시에 사는 사람 즉 , 시민들의 생활 속에 흐르고 있는 질서감 혹은 생활 질서 속에서 찾아보고 싶다 .
+1	그것을	그것+을	PRON	_	18	obj	_	_	그것/npd+을/jco
+2	나는	나+는	PRON	_	18	dislocated	_	_	나/npp+는/jxt
+3	도시에	도시+에	ADV	_	4	obl	_	_	도시/ncn+에/jca
+4	사는	살+는	VERB	_	5	acl	_	_	살/pvg+는/etm
+5	사람	사람	NOUN	_	8	conj	_	_	사람/ncn
+6	즉	즉	CCONJ	_	7	cc	_	_	즉/maj
+7	,	,	PUNCT	_	5	punct	_	_	,/sp
+8	시민들의	시민+들+의	NOUN	_	9	nmod	_	_	시민/ncn+들/xsn+의/jcm
+9	생활	생활	NOUN	_	10	compound	_	_	생활/ncpa
+10	속에	속+에	ADV	_	11	obl	_	_	속/ncn+에/jca
+11	흐르고	흐르+고	VERB	_	13	acl	_	_	흐르/pvg+고/ecx
+12	있는	있+는	AUX	_	11	aux	_	_	있/px+는/etm
+13	질서감	질서감	NOUN	_	16	conj	_	_	질서감/ncn
+14	혹은	혹은	CCONJ	_	16	cc	_	_	혹은/maj
+15	생활	생활	NOUN	_	16	compound	_	_	생활/ncpa
+16	질서	질서	NOUN	_	17	compound	_	_	질서/ncn
+17	속에서	속+에서	ADV	_	18	advcl	_	_	속/ncn+에서/jca
+18	찾아보고	찾+아+보+고	AUX	_	0	root	_	_	찾/pvg+아/ecx+보/px+고/ecx
+19	싶다	싶+다	AUX	_	18	aux	_	_	싶/px+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 그것은 시민들이 그들의 생활을 쌓아 올리는 과정을 통해서 하나의 양식으로 승화되기도 한다 .
+1	그것은	그것+은	PRON	_	11	dislocated	_	_	그것/npd+은/jxt
+2	시민들이	시민+들+이	NOUN	_	6	nsubj	_	_	시민/ncn+들/xsn+이/jcs
+3	그들의	그+들+의	PRON	_	4	nmod	_	_	그/npp+들/xsn+의/jcm
+4	생활을	생활+을	NOUN	_	6	obj	_	_	생활/ncpa+을/jco
+5	쌓아	쌓+아	SCONJ	_	6	ccomp	_	_	쌓/pvg+아/ecs
+6	올리는	올리+는	VERB	_	7	acl	_	_	올리/pvg+는/etm
+7	과정을	과정+을	NOUN	_	8	obj	_	_	과정/ncn+을/jco
+8	통해서	통하+어서	SCONJ	_	11	ccomp	_	_	통하/pvg+어서/ecs
+9	하나의	하나+의	NUM	_	10	nmod	_	_	하나/nnc+의/jcm
+10	양식으로	양식+으로	ADV	_	11	advcl	_	_	양식/ncn+으로/jca
+11	승화되기도	승화+되+기+도	ADV	_	12	advcl	_	_	승화/ncpa+되/xsv+기/etn+도/jxc
+12	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 어떤 질서가 양식으로 고정되기까지는 숱한 반복의 과정을 거쳐야 하기 때문에 어느 정도 긴 역사라는 연륜을 요한다 .
+1	어떤	어떤	DET	_	2	det	_	_	어떤/mmd
+2	질서가	질서+가	NOUN	_	4	nsubj	_	_	질서/ncn+가/jcs
+3	양식으로	양식+으로	ADV	_	4	advcl	_	_	양식/ncn+으로/jca
+4	고정되기까지는	고정+되+기+까지+는	NOUN	_	8	dislocated	_	_	고정/ncpa+되/xsv+기/etn+까지/jxc+는/jxt
+5	숱한	숱하+ㄴ	ADJ	_	6	amod	_	_	숱하/paa+ㄴ/etm
+6	반복의	반복+의	NOUN	_	7	nmod	_	_	반복/ncpa+의/jcm
+7	과정을	과정+을	NOUN	_	8	obj	_	_	과정/ncn+을/jco
+8	거쳐야	거치+어야	VERB	_	10	dep	_	_	거치/pvg+어야/ecx
+9	하기	하+기	AUX	_	8	aux	_	_	하/px+기/etn
+10	때문에	때문+에	ADV	_	16	obl	_	_	때문/nbn+에/jca
+11	어느	어느	DET	_	12	det	_	_	어느/mmd
+12	정도	정도	NOUN	_	13	dep	_	_	정도/ncn
+13	긴	길+ㄴ	ADJ	_	14	amod	_	_	길/paa+ㄴ/etm
+14	역사라는	역사+이+라는	VERB	_	15	acl	_	_	역사/ncn+이/jp+라는/etm
+15	연륜을	연륜+을	NOUN	_	16	obj	_	_	연륜/ncn+을/jco
+16	요한다	요하+ㄴ다	VERB	_	0	root	_	_	요하/pvg+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 절묘한 都市景觀을 이룬 멕시코 타스코 마을 필자는 아직 멕시코에 가보지 못했지만 다녀온 친구의 말을 소개한다 .
+1	절묘한	절묘+하+ㄴ	VERB	_	2	amod	_	_	절묘/ncps+하/xsm+ㄴ/etm
+2	都市景觀을	都市+景觀+을	NOUN	_	3	obj	_	_	都市/ncn+景觀/ncn+을/jco
+3	이룬	이루+ㄴ	VERB	_	6	acl	_	_	이루/pvg+ㄴ/etm
+4	멕시코	멕시코	PROPN	_	5	flat	_	_	멕시코/nq
+5	타스코	타스코	PROPN	_	6	compound	_	_	타스코/nq
+6	마을	마을	NOUN	_	10	advmod	_	_	마을/ncn
+7	필자는	필자+는	NOUN	_	10	dislocated	_	_	필자/ncn+는/jxt
+8	아직	아직	ADV	_	10	advmod	_	_	아직/mag
+9	멕시코에	멕시코+에	ADV	_	10	obl	_	_	멕시코/nq+에/jca
+10	가보지	가+아+보+지	AUX	_	15	ccomp	_	_	가/pvg+아/ecx+보/px+지/ecx
+11	못했지만	못하+었+지만	SCONJ	_	10	aux	_	_	못하/px+었/ep+지만/ecs
+12	다녀온	다니+어+오+ㄴ	AUX	_	13	acl	_	_	다니/pvg+어/ecx+오/px+ㄴ/etm
+13	친구의	친구+의	NOUN	_	14	nmod	_	_	친구/ncn+의/jcm
+14	말을	말+을	NOUN	_	15	obj	_	_	말/ncpa+을/jco
+15	소개한다	소개+하+ㄴ다	VERB	_	0	root	_	_	소개/ncpa+하/xsv+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 멕시코시티에서 남쪽으로 백육십 킬로미터쯤 떨어진 곳에 타스코라는 인구 15 , 000 명의 銀鑛마을이 있다고 한다 .
+1	멕시코시티에서	멕시코+시티+에서	ADV	_	5	advcl	_	_	멕시코/nq+시티/ncn+에서/jca
+2	남쪽으로	남쪽+으로	ADV	_	5	advcl	_	_	남쪽/ncn+으로/jca
+3	백육십	백육십	NUM	_	4	nummod	_	_	백육십/nnc
+4	킬로미터쯤	킬로미터+쯤	NOUN	_	5	advmod	_	_	킬로미터/nbu+쯤/xsn
+5	떨어진	떨어지+ㄴ	VERB	_	6	acl	_	_	떨어지/pvg+ㄴ/etm
+6	곳에	곳+에	ADV	_	14	obl	_	_	곳/ncn+에/jca
+7	타스코라는	타스코+이+라는	VERB	_	13	acl	_	_	타스코/nq+이/jp+라는/etm
+8	인구	인구	NOUN	_	12	compound	_	_	인구/ncn
+9	15	15	NUM	_	11	conj	_	_	15/nnc
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	000	000	NUM	_	12	nummod	_	_	000/nnc
+12	명의	명+의	NOUN	_	13	nmod	_	_	명/nbu+의/jcm
+13	銀鑛마을이	銀鑛+마을+이	PROPN	_	14	nsubj	_	_	銀鑛/nq+마을/ncn+이/jcs
+14	있다고	있+다+고	VERB	_	15	conj	_	_	있/paa+다/ef+고/jcr
+15	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그런 고갯길을 올라 가노라면 높다란 鐘樓가 있는 교회가 나타나고 교회 앞은 한층 넓다란 광장으로 되어 있는데 여기가 마을의 중심이다 .
+1	그런	그런	DET	_	2	det	_	_	그런/mmd
+2	고갯길을	고갯길+을	NOUN	_	3	obj	_	_	고갯길/ncn+을/jco
+3	올라	오르+아	SCONJ	_	4	ccomp	_	_	오르/pvg+아/ecs
+4	가노라면	가+노라면	SCONJ	_	15	ccomp	_	_	가/pvg+노라면/ecs
+5	높다란	높다랗+ㄴ	ADJ	_	6	amod	_	_	높다랗/paa+ㄴ/etm
+6	鐘樓가	鐘樓+가	NOUN	_	7	nsubj	_	_	鐘樓/ncn+가/jcs
+7	있는	있+는	ADJ	_	8	amod	_	_	있/paa+는/etm
+8	교회가	교회+가	NOUN	_	9	nsubj	_	_	교회/ncn+가/jcs
+9	나타나고	나타나+고	CCONJ	_	15	conj	_	_	나타나/pvg+고/ecc
+10	교회	교회	NOUN	_	11	compound	_	_	교회/ncn
+11	앞은	앞+은	NOUN	_	15	dislocated	_	_	앞/ncn+은/jxt
+12	한층	한층	ADV	_	13	advmod	_	_	한층/mag
+13	넓다란	넓다랗+ㄴ	ADJ	_	14	amod	_	_	넓다랗/paa+ㄴ/etm
+14	광장으로	광장+으로	ADV	_	15	advcl	_	_	광장/ncn+으로/jca
+15	되어	되+어	VERB	_	19	ccomp	_	_	되/pvg+어/ecx
+16	있는데	있+는데	SCONJ	_	15	aux	_	_	있/px+는데/ecs
+17	여기가	여기+가	PRON	_	19	nsubj	_	_	여기/npd+가/jcs
+18	마을의	마을+의	NOUN	_	19	nmod	_	_	마을/ncn+의/jcm
+19	중심이다	중심+이+다	VERB	_	0	root	_	_	중심/ncn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 건축가인 친구는 매우 흥분을 느꼈던 모양이다 .
+1	건축가인	건축가+이+ㄴ	VERB	_	2	acl	_	_	건축가/ncn+이/jp+ㄴ/etm
+2	친구는	친구+는	NOUN	_	5	dislocated	_	_	친구/ncn+는/jxt
+3	매우	매우	ADV	_	5	advmod	_	_	매우/mag
+4	흥분을	흥분+을	NOUN	_	5	obj	_	_	흥분/ncpa+을/jco
+5	느꼈던	느끼+었+던	VERB	_	6	ccomp	_	_	느끼/pvg+었/ep+던/etm
+6	모양이다	모양+이+다	VERB	_	0	root	_	_	모양/ncn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 이러한 멋있는 마을을 어떤 사람이 만들었을까 .
+1	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+2	멋있는	멋있+는	ADJ	_	3	amod	_	_	멋있/paa+는/etm
+3	마을을	마을+을	NOUN	_	6	obj	_	_	마을/ncn+을/jco
+4	어떤	어떤	DET	_	5	det	_	_	어떤/mmd
+5	사람이	사람+이	NOUN	_	6	nsubj	_	_	사람/ncn+이/jcs
+6	만들었을까	만들+었+ㄹ까	VERB	_	0	root	_	_	만들/pvg+었/ep+ㄹ까/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 수백년 동안 걸려서 만들어진 마을이겠지만 그 동안 이렇다 할 건축가나 고명한 도시계획가가 참여한 것도 아닐 것이다 .
+1	수백년	수백+년	NOUN	_	2	compound	_	_	수백/nno+년/nbu
+2	동안	동안	NOUN	_	3	mark	_	_	동안/nbn
+3	걸려서	걸리+어서	SCONJ	_	4	ccomp	_	_	걸리/pvg+어서/ecs
+4	만들어진	만들+어+지+ㄴ	AUX	_	5	ccomp	_	_	만들/pvg+어/ecx+지/px+ㄴ/etm
+5	마을이겠지만	마을+이+겠+지만	SCONJ	_	15	conj	_	_	마을/ncn+이/jp+겠/ep+지만/ecs
+6	그	그	DET	_	7	det	_	_	그/mmd
+7	동안	동안	NOUN	_	13	advmod	_	_	동안/nbn
+8	이렇다	이러하+다	VERB	_	9	dep	_	_	이러하/pad+다/ef
+9	할	하+ㄹ	VERB	_	10	acl	_	_	하/pvg+ㄹ/etm
+10	건축가나	건축가+나	ADV	_	12	advcl	_	_	건축가/ncn+나/jxc
+11	고명한	고명+하+ㄴ	VERB	_	12	amod	_	_	고명/ncps+하/xsm+ㄴ/etm
+12	도시계획가가	도시+계획가+가	NOUN	_	13	nsubj	_	_	도시/ncn+계획가/ncn+가/jcs
+13	참여한	참여+하+ㄴ	VERB	_	14	acl	_	_	참여/ncpa+하/xsv+ㄴ/etm
+14	것도	것+도	ADV	_	15	advcl	_	_	것/nbn+도/jxc
+15	아닐	아니+ㄹ	ADJ	_	0	root	_	_	아니/paa+ㄹ/etm
+16	것이다	것+이+다	VERB	_	15	aux	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 궁금하던 차에 한번은 마을의 전경을 찍으려고 교회의 종루에 올라갔다고 한다 .
+1	궁금하던	궁금하+던	ADJ	_	2	amod	_	_	궁금하/paa+던/etm
+2	차에	차+에	ADV	_	6	obl	_	_	차/nbn+에/jca
+3	한번은	한+번+은	NUM	_	6	dislocated	_	_	한/nnc+번/nbu+은/jxt
+4	마을의	마을+의	NOUN	_	5	nmod	_	_	마을/ncn+의/jcm
+5	전경을	전경+을	NOUN	_	6	obj	_	_	전경/ncn+을/jco
+6	찍으려고	찍+으려고	SCONJ	_	9	conj	_	_	찍/pvg+으려고/ecs
+7	교회의	교회+의	NOUN	_	8	nmod	_	_	교회/ncn+의/jcm
+8	종루에	종루+에	ADV	_	9	obl	_	_	종루/ncn+에/jca
+9	올라갔다고	오르+아+가+ㅆ+다+고	VERB	_	10	conj	_	_	오르/pvg+아/ecx+가/px+ㅆ/ep+다/ef+고/jcr
+10	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 올라가서 마을을 내려다 보고는 덜컹 놀랐다 .
+1	올라가서	오르+아+가+서	SCONJ	_	4	ccomp	_	_	오르/pvg+아/ecx+가/px+서/ecs
+2	마을을	마을+을	NOUN	_	3	obj	_	_	마을/ncn+을/jco
+3	내려다	내리+어다	SCONJ	_	4	ccomp	_	_	내리/pvg+어다/ecs
+4	보고는	보+고+는	NOUN	_	6	ccomp	_	_	보/pvg+고/ecc+는/jxt
+5	덜컹	덜컹	ADV	_	6	advmod	_	_	덜컹/mag
+6	놀랐다	놀라+ㅆ+다	VERB	_	0	root	_	_	놀라/pvg+ㅆ/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 즉 , 하나의 共涌된 原則이 눈에 보이지 않는 질서를 마을의 경관속에 느끼게 만들고 있더라는 말이었다 .
+1	즉	즉	CCONJ	_	15	cc	_	_	즉/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	하나의	하나+의	NUM	_	5	nmod	_	_	하나/nnc+의/jcm
+4	共涌된	共涌되+ㄴ	VERB	_	5	acl	_	_	共涌되/pvg+ㄴ/etm
+5	原則이	原則+이	NOUN	_	12	nsubj	_	_	原則/ncn+이/jcs
+6	눈에	눈+에	ADV	_	7	obl	_	_	눈/ncn+에/jca
+7	보이지	보이+지	VERB	_	9	acl	_	_	보이/pvg+지/ecx
+8	않는	않+는	AUX	_	7	aux	_	_	않/px+는/etm
+9	질서를	질서+를	NOUN	_	12	obj	_	_	질서/ncn+를/jco
+10	마을의	마을+의	NOUN	_	11	nmod	_	_	마을/ncn+의/jcm
+11	경관속에	경관속+에	ADV	_	12	obl	_	_	경관속/ncn+에/jca
+12	느끼게	느끼+게	VERB	_	15	ccomp	_	_	느끼/pvg+게/ecx
+13	만들고	만들+고	AUX	_	12	aux	_	_	만들/px+고/ecx
+14	있더라는	있+더+라는	AUX	_	12	aux	_	_	있/px+더/ep+라는/etm
+15	말이었다	말+이+었+다	VERB	_	0	root	_	_	말/ncpa+이/jp+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 왜 그랬을까 ?
+1	왜	왜	ADV	_	2	advmod	_	_	왜/mad
+2	그랬을까	그렇+었+ㄹ까	VERB	_	0	root	_	_	그렇/pad+었/ep+ㄹ까/ef
+3	?	?	PUNCT	_	2	punct	_	_	?/sf
+
+# 마을에서 무슨 일이 있으면 교회의 종이 울리고 자기네들이 정한 무슨 신호가 나부꼈을 것이다 .
+1	마을에서	마을+에서	ADV	_	4	advcl	_	_	마을/ncn+에서/jca
+2	무슨	무슨	DET	_	3	det	_	_	무슨/mmd
+3	일이	일+이	NOUN	_	4	nsubj	_	_	일/ncpa+이/jcs
+4	있으면	있+으면	SCONJ	_	12	xcomp	_	_	있/paa+으면/ecs
+5	교회의	교회+의	NOUN	_	6	nmod	_	_	교회/ncn+의/jcm
+6	종이	종+이	NOUN	_	7	nsubj	_	_	종/ncn+이/jcs
+7	울리고	울리+고	CCONJ	_	12	conj	_	_	울리/pvg+고/ecc
+8	자기네들이	자기네+들+이	PRON	_	9	nsubj	_	_	자기네/npp+들/xsn+이/jcs
+9	정한	정하+ㄴ	VERB	_	11	acl	_	_	정하/pvg+ㄴ/etm
+10	무슨	무슨	DET	_	11	det	_	_	무슨/mmd
+11	신호가	신호+가	NOUN	_	12	nsubj	_	_	신호/ncpa+가/jcs
+12	나부꼈을	나부끼+었+ㄹ	VERB	_	0	root	_	_	나부끼/pvg+었/ep+ㄹ/etm
+13	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 사람들은 아침 저녁으로 교회를 바라보고 자기네들의 무사함을 확인했을 것이다 .
+1	사람들은	사람+들+은	NOUN	_	5	dislocated	_	_	사람/ncn+들/xsn+은/jxt
+2	아침	아침	NOUN	_	3	compound	_	_	아침/ncn
+3	저녁으로	저녁+으로	ADV	_	5	advcl	_	_	저녁/ncn+으로/jca
+4	교회를	교회+를	NOUN	_	5	obj	_	_	교회/ncn+를/jco
+5	바라보고	바라보+고	CCONJ	_	8	conj	_	_	바라보/pvg+고/ecc
+6	자기네들의	자기네+들+의	NOUN	_	7	nmod	_	_	자기네/ncn+들/xsn+의/jcm
+7	무사함을	무사하+ㅁ+을	NOUN	_	8	obj	_	_	무사하/paa+ㅁ/etn+을/jco
+8	확인했을	확인+하+었+ㄹ	VERB	_	0	root	_	_	확인/ncpa+하/xsv+었/ep+ㄹ/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 권력자의 명령에 의한 것도 아니고 미리 어떤 계획이 있어서 그 의도에 강제적으로 따르게 한 것도 아닐 것이다 .
+1	권력자의	권력자+의	NOUN	_	2	nmod	_	_	권력자/ncn+의/jcm
+2	명령에	명령+에	ADV	_	3	obl	_	_	명령/ncpa+에/jca
+3	의한	의하+ㄴ	VERB	_	4	acl	_	_	의하/pvg+ㄴ/etm
+4	것도	것+도	ADV	_	5	advcl	_	_	것/nbn+도/jxc
+5	아니고	아니+고	CCONJ	_	16	conj	_	_	아니/paa+고/ecc
+6	미리	미리	ADV	_	9	advmod	_	_	미리/mag
+7	어떤	어떤	DET	_	8	det	_	_	어떤/mmd
+8	계획이	계획+이	NOUN	_	9	nsubj	_	_	계획/ncpa+이/jcs
+9	있어서	있+어서	SCONJ	_	13	xcomp	_	_	있/paa+어서/ecs
+10	그	그	DET	_	11	det	_	_	그/mmd
+11	의도에	의도+에	ADV	_	13	obl	_	_	의도/ncpa+에/jca
+12	강제적으로	강제+적+으로	ADV	_	13	advcl	_	_	강제/ncpa+적/xsn+으로/jca
+13	따르게	따르+게	VERB	_	15	acl	_	_	따르/pvg+게/ecx
+14	한	하+ㄴ	AUX	_	13	aux	_	_	하/px+ㄴ/etm
+15	것도	것+도	ADV	_	16	advcl	_	_	것/nbn+도/jxc
+16	아닐	아니+ㄹ	ADJ	_	0	root	_	_	아니/paa+ㄹ/etm
+17	것이다	것+이+다	VERB	_	16	aux	_	_	것/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 주민들이 생활을 영위하는 과정에서 자연히 형성된 질서이기 쉬웠다 .
+1	주민들이	주민+들+이	NOUN	_	3	nsubj	_	_	주민/ncn+들/xsn+이/jcs
+2	생활을	생활+을	NOUN	_	3	obj	_	_	생활/ncpa+을/jco
+3	영위하는	영위+하+는	VERB	_	4	acl	_	_	영위/ncpa+하/xsv+는/etm
+4	과정에서	과정+에서	ADV	_	6	advcl	_	_	과정/ncn+에서/jca
+5	자연히	자연+히	ADV	_	6	advmod	_	_	자연/ncn+히/xsa
+6	형성된	형성+되+ㄴ	VERB	_	7	acl	_	_	형성/ncpa+되/xsv+ㄴ/etm
+7	질서이기	질서+이+기	VERB	_	8	nmod	_	_	질서/ncn+이/jp+기/etn
+8	쉬웠다	쉽+었+다	ADJ	_	0	root	_	_	쉽/paa+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 종교적 계율도 이러한 질서 형성에 작용하지 않았겠느냐 하는 나의 질문에 친구는 고개를 끄덕였다 .
+1	종교적	종교+적	NOUN	_	2	amod	_	_	종교/ncn+적/xsn
+2	계율도	계율+도	ADV	_	6	advcl	_	_	계율/ncn+도/jxc
+3	이러한	이러하+ㄴ	VERB	_	5	amod	_	_	이러하/pad+ㄴ/etm
+4	질서	질서	NOUN	_	5	compound	_	_	질서/ncn
+5	형성에	형성+에	ADV	_	6	obl	_	_	형성/ncpa+에/jca
+6	작용하지	작용+하+지	VERB	_	8	ccomp	_	_	작용/ncpa+하/xsv+지/ecx
+7	않았겠느냐	않+았+겠+느냐	AUX	_	6	aux	_	_	않/px+았/ep+겠/ep+느냐/ef
+8	하는	하+는	VERB	_	10	acl	_	_	하/pvg+는/etm
+9	나의	나+의	PRON	_	10	nmod	_	_	나/npp+의/jcm
+10	질문에	질문+에	ADV	_	13	obl	_	_	질문/ncpa+에/jca
+11	친구는	친구+는	NOUN	_	13	dislocated	_	_	친구/ncn+는/jxt
+12	고개를	고개+를	NOUN	_	13	obj	_	_	고개/ncn+를/jco
+13	끄덕였다	끄덕이+었+다	VERB	_	0	root	_	_	끄덕이/pvg+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 都市의 모습은 精神에 영향을 준다 .
+1	都市의	都市+의	PROPN	_	2	nmod	_	_	都市/nq+의/jcm
+2	모습은	모습+은	NOUN	_	5	dislocated	_	_	모습/ncn+은/jxt
+3	精神에	精神+에	ADV	_	5	obl	_	_	精神/ncn+에/jca
+4	영향을	영향+을	NOUN	_	5	obj	_	_	영향/ncn+을/jco
+5	준다	주+ㄴ다	VERB	_	0	root	_	_	주/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 여기서 또 하나 흥미로운 점은 이 마을을 지배하는 질서란 건 그것이 보이는 특정한 지점에 서지 않으면 뚜렷하게 보이지 않는다는 점이다 .
+1	여기서	여기+서	ADV	_	4	advcl	_	_	여기/npd+서/jca
+2	또	또	ADV	_	4	advmod	_	_	또/mag
+3	하나	하나	NUM	_	4	nummod	_	_	하나/nnc
+4	흥미로운	흥미+롭+ㄴ	VERB	_	5	amod	_	_	흥미/ncn+롭/xsm+ㄴ/etm
+5	점은	점+은	NOUN	_	18	dislocated	_	_	점/ncn+은/jxt
+6	이	이	DET	_	7	det	_	_	이/mmd
+7	마을을	마을+을	NOUN	_	8	obj	_	_	마을/ncn+을/jco
+8	지배하는	지배+하+는	VERB	_	9	ccomp	_	_	지배/ncpa+하/xsv+는/etm
+9	질서란	질서+이+란	VERB	_	10	acl	_	_	질서/ncn+이/jp+란/etm
+10	건	것+은	NOUN	_	18	dislocated	_	_	것/nbn+은/jxt
+11	그것이	그것+이	PRON	_	12	nsubj	_	_	그것/npd+이/jcs
+12	보이는	보이+는	VERB	_	14	acl	_	_	보이/pvg+는/etm
+13	특정한	특정+하+ㄴ	VERB	_	14	amod	_	_	특정/ncps+하/xsm+ㄴ/etm
+14	지점에	지점+에	ADV	_	15	obl	_	_	지점/ncn+에/jca
+15	서지	서+지	VERB	_	18	ccomp	_	_	서/pvg+지/ecx
+16	않으면	않+으면	SCONJ	_	15	aux	_	_	않/px+으면/ecs
+17	뚜렷하게	뚜렷하+게	SCONJ	_	18	xcomp	_	_	뚜렷하/paa+게/ecs
+18	보이지	보이+지	VERB	_	20	ccomp	_	_	보이/pvg+지/ecx
+19	않는다는	않+는다는	AUX	_	18	aux	_	_	않/px+는다는/etm
+20	점이다	점+이+다	VERB	_	0	root	_	_	점/nbu+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 어쩌다 교회의 종루에 올라간 사람에게는 드러나 보이겠지만 그렇지 아니한 사람에게는 매우 무질서한 것으로 밖에 보이지 않을 지도 모른다 .
+1	어쩌다	어쩌다	ADV	_	4	advmod	_	_	어쩌다/mag
+2	교회의	교회+의	NOUN	_	3	nmod	_	_	교회/ncn+의/jcm
+3	종루에	종루+에	ADV	_	4	obl	_	_	종루/ncn+에/jca
+4	올라간	오르+아+가+ㄴ	AUX	_	5	acl	_	_	오르/pvg+아/ecx+가/px+ㄴ/etm
+5	사람에게는	사람+에게+는	NOUN	_	7	dislocated	_	_	사람/ncn+에게/jca+는/jxt
+6	드러나	드러나+아	SCONJ	_	7	ccomp	_	_	드러나/pvg+아/ecs
+7	보이겠지만	보이+겠+지만	CCONJ	_	18	conj	_	_	보이/pvg+겠/ep+지만/ecc
+8	그렇지	그렇+지	SCONJ	_	9	xcomp	_	_	그렇/pad+지/ecs
+9	아니한	아니하+ㄴ	VERB	_	10	acl	_	_	아니하/pvg+ㄴ/etm
+10	사람에게는	사람+에게+는	NOUN	_	15	dislocated	_	_	사람/ncn+에게/jca+는/jxt
+11	매우	매우	ADV	_	12	advmod	_	_	매우/mag
+12	무질서한	무질서+하+ㄴ	VERB	_	13	amod	_	_	무질서/ncps+하/xsm+ㄴ/etm
+13	것으로	것+으로	ADV	_	15	advcl	_	_	것/nbn+으로/jca
+14	밖에	밖+에	ADV	_	15	obl	_	_	밖/ncn+에/jca
+15	보이지	보이+지	VERB	_	17	acl	_	_	보이/pvg+지/ecx
+16	않을	않+ㄹ	AUX	_	15	aux	_	_	않/px+ㄹ/etm
+17	지도	지+도	ADV	_	18	advcl	_	_	지/nbn+도/jxc
+18	모른다	모르+ㄴ다	VERB	_	0	root	_	_	모르/pvg+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 최근의 문화 인류학의 발달과 공헌으로 지금까지 무질서하게 보이고 미개한 인간집단으로만 여겨져 왔던 이른바 미개족에 대해 새로운 사실이 밝혀지고 있다 .
+1	최근의	최근+의	NOUN	_	5	nmod	_	_	최근/ncn+의/jcm
+2	문화	문화	NOUN	_	3	compound	_	_	문화/ncn
+3	인류학의	인류학+의	NOUN	_	5	nmod	_	_	인류학/ncn+의/jcm
+4	발달과	발달+과	CCONJ	_	5	conj	_	_	발달/ncpa+과/jcj
+5	공헌으로	공헌+으로	ADV	_	18	advcl	_	_	공헌/ncpa+으로/jca
+6	지금까지	지금+까지	ADV	_	11	advcl	_	_	지금/ncn+까지/jxc
+7	무질서하게	무질서+하+게	SCONJ	_	8	xcomp	_	_	무질서/ncps+하/xsm+게/ecs
+8	보이고	보이+고	CCONJ	_	11	conj	_	_	보이/pvg+고/ecc
+9	미개한	미개+하+ㄴ	VERB	_	10	amod	_	_	미개/ncps+하/xsm+ㄴ/etm
+10	인간집단으로만	인간집단+으로+만	ADV	_	11	advcl	_	_	인간집단/ncn+으로/jca+만/jxc
+11	여겨져	여기+어+지+어	AUX	_	14	acl	_	_	여기/pvg+어/ecx+지/px+어/ecx
+12	왔던	오+았+던	AUX	_	11	aux	_	_	오/px+았/ep+던/etm
+13	이른바	이른바	ADV	_	14	advmod	_	_	이른바/mag
+14	미개족에	미개족+에	ADV	_	15	obl	_	_	미개족/ncn+에/jca
+15	대해	대하+어	SCONJ	_	18	ccomp	_	_	대하/pvg+어/ecs
+16	새로운	새+롭+ㄴ	VERB	_	17	amod	_	_	새/ncn+롭/xsm+ㄴ/etm
+17	사실이	사실+이	NOUN	_	18	nsubj	_	_	사실/ncn+이/jcs
+18	밝혀지고	밝히+어+지+고	AUX	_	0	root	_	_	밝히/pvg+어/ecx+지/px+고/ecx
+19	있다	있+다	AUX	_	18	aux	_	_	있/px+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 문명적으로는 미개와 후진의 단계에 머무르고 있지만 의외로 문화적인 면에서는 나름대로의 독자적인 생활의 秩序와 樣式을 갖고 있다는 것이다 .
+1	문명적으로는	문명+적+으로+는	NOUN	_	5	dislocated	_	_	문명/ncn+적/xsn+으로/jca+는/jxt
+2	미개와	미개+와	CCONJ	_	3	conj	_	_	미개/ncps+와/jcj
+3	후진의	후진+의	NOUN	_	4	nmod	_	_	후진/ncn+의/jcm
+4	단계에	단계+에	ADV	_	5	obl	_	_	단계/ncn+에/jca
+5	머무르고	머무르+고	VERB	_	17	conj	_	_	머무르/pvg+고/ecx
+6	있지만	있+지만	CCONJ	_	5	aux	_	_	있/px+지만/ecc
+7	의외로	의외로	ADV	_	15	advmod	_	_	의외로/mag
+8	문화적인	문화+적+이+ㄴ	VERB	_	9	acl	_	_	문화/ncn+적/xsn+이/jp+ㄴ/etm
+9	면에서는	면+에서+는	NOUN	_	15	dislocated	_	_	면/nbn+에서/jca+는/jxt
+10	나름대로의	나름+대로+의	NOUN	_	14	nmod	_	_	나름/ncn+대로/jca+의/jcm
+11	독자적인	독자+적+이+ㄴ	VERB	_	14	acl	_	_	독자/ncn+적/xsn+이/jp+ㄴ/etm
+12	생활의	생활+의	NOUN	_	14	nmod	_	_	생활/ncpa+의/jcm
+13	秩序와	秩序+와	CCONJ	_	14	conj	_	_	秩序/ncn+와/jcj
+14	樣式을	樣式+을	NOUN	_	15	obj	_	_	樣式/ncn+을/jco
+15	갖고	갖+고	VERB	_	17	ccomp	_	_	갖/pvg+고/ecx
+16	있다는	있+다는	AUX	_	15	aux	_	_	있/px+다는/etm
+17	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이러한 사실은 이른바 문명사회를 자처하는 선진국들에 알려지게 되었다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	사실은	사실+은	NOUN	_	7	dislocated	_	_	사실/ncn+은/jxt
+3	이른바	이른바	ADV	_	6	advmod	_	_	이른바/mag
+4	문명사회를	문명사회+를	NOUN	_	5	obj	_	_	문명사회/ncn+를/jco
+5	자처하는	자처+하+는	VERB	_	6	acl	_	_	자처/ncpa+하/xsv+는/etm
+6	선진국들에	선진국+들+에	ADV	_	7	obl	_	_	선진국/ncn+들/xsn+에/jca
+7	알려지게	알리+어+지+게	AUX	_	0	root	_	_	알리/pvg+어/ecx+지/px+게/ecx
+8	되었다	되+었+다	AUX	_	7	aux	_	_	되/px+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그러한 그들이 왜 우리의 초가집을 보고는 돼지우리 같다는 말을 했으며 , 우리의 생활양식을 뒤진 것으로 보았을까 .
+1	그러한	그러하+ㄴ	VERB	_	2	amod	_	_	그러하/pad+ㄴ/etm
+2	그들이	그+들+이	PRON	_	10	nsubj	_	_	그/npp+들/xsn+이/jcs
+3	왜	왜	ADV	_	10	advmod	_	_	왜/mag
+4	우리의	우리+의	PRON	_	5	nmod	_	_	우리/npp+의/jcm
+5	초가집을	초가집+을	NOUN	_	6	obj	_	_	초가집/ncn+을/jco
+6	보고는	보+고+는	NOUN	_	8	dep	_	_	보/pvg+고/ecc+는/jxt
+7	돼지우리	돼지우리	NOUN	_	8	dep	_	_	돼지우리/ncn
+8	같다는	같+다는	ADJ	_	9	amod	_	_	같/paa+다는/etm
+9	말을	말+을	NOUN	_	10	obj	_	_	말/ncpa+을/jco
+10	했으며	하+었+으며	CCONJ	_	16	conj	_	_	하/pvg+었/ep+으며/ecc
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	우리의	우리+의	PRON	_	13	nmod	_	_	우리/npp+의/jcm
+13	생활양식을	생활양식+을	NOUN	_	16	obj	_	_	생활양식/ncn+을/jco
+14	뒤진	뒤지+ㄴ	VERB	_	15	acl	_	_	뒤지/pvg+ㄴ/etm
+15	것으로	것+으로	ADV	_	16	advcl	_	_	것/nbn+으로/jca
+16	보았을까	보+았+ㄹ까	VERB	_	0	root	_	_	보/pvg+았/ep+ㄹ까/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이유는 간단하다 .
+1	이유는	이유+는	NOUN	_	2	dislocated	_	_	이유/ncn+는/jxt
+2	간단하다	간단+하+다	VERB	_	0	root	_	_	간단/ncps+하/xsm+다/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 타스코 마을의 종루를 찾아내지 못했기 때문이다 .
+1	타스코	타스코	PROPN	_	2	compound	_	_	타스코/nq
+2	마을의	마을+의	NOUN	_	3	nmod	_	_	마을/ncn+의/jcm
+3	종루를	종루+를	NOUN	_	4	obj	_	_	종루/ncn+를/jco
+4	찾아내지	찾+아+내+지	AUX	_	0	root	_	_	찾/pvg+아/ecx+내/px+지/ecx
+5	못했기	못하+었+기	AUX	_	4	aux	_	_	못하/px+었/ep+기/etn
+6	때문이다	때문+이+다	VERB	_	4	aux	_	_	때문/nbn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 우리의 생활이나 문화의 질서가 드러나 보이지 않았던 것이다 .
+1	우리의	우리+의	PRON	_	2	nmod	_	_	우리/npp+의/jcm
+2	생활이나	생활+이나	ADV	_	3	advcl	_	_	생활/ncpa+이나/jxc
+3	문화의	문화+의	NOUN	_	4	nmod	_	_	문화/ncn+의/jcm
+4	질서가	질서+가	NOUN	_	6	nsubj	_	_	질서/ncn+가/jcs
+5	드러나	드러나+아	SCONJ	_	6	ccomp	_	_	드러나/pvg+아/ecs
+6	보이지	보이+지	VERB	_	0	root	_	_	보이/pvg+지/ecx
+7	않았던	않+았+던	AUX	_	6	aux	_	_	않/px+았/ep+던/etm
+8	것이다	것+이+다	VERB	_	6	aux	_	_	것/nbn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그들은 따끈한 아랫목에 등을 대고 하루의 피로를 푸는 아늑한 행복감을 모른다 .
+1	그들은	그+들+은	PRON	_	11	dislocated	_	_	그/npp+들/xsn+은/jxt
+2	따끈한	따끈하+ㄴ	ADJ	_	3	amod	_	_	따끈하/paa+ㄴ/etm
+3	아랫목에	아랫목+에	ADV	_	5	obl	_	_	아랫목/ncn+에/jca
+4	등을	등+을	NOUN	_	5	obj	_	_	등/ncn+을/jco
+5	대고	대+고	CCONJ	_	8	conj	_	_	대/pvg+고/ecc
+6	하루의	하루+의	NOUN	_	7	nmod	_	_	하루/ncn+의/jcm
+7	피로를	피로+를	NOUN	_	8	obj	_	_	피로/ncpa+를/jco
+8	푸는	풀+는	VERB	_	10	acl	_	_	풀/pvg+는/etm
+9	아늑한	아늑하+ㄴ	ADJ	_	10	amod	_	_	아늑하/paa+ㄴ/etm
+10	행복감을	행복감+을	NOUN	_	11	obj	_	_	행복감/ncn+을/jco
+11	모른다	모르+ㄴ다	VERB	_	0	root	_	_	모르/pvg+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 앞뒤 창문을 열어 젖힌 대청마루에 큰 大자로 드러누워 스쳐가는 산들바람에 땀을 식히는 우리의 멋을 알 길이 없었던 것이다 .
+1	앞뒤	앞뒤	NOUN	_	2	compound	_	_	앞뒤/ncn
+2	창문을	창문+을	NOUN	_	4	obj	_	_	창문/ncn+을/jco
+3	열어	열+어	SCONJ	_	4	ccomp	_	_	열/pvg+어/ecs
+4	젖힌	젖히+ㄴ	VERB	_	5	acl	_	_	젖히/pvg+ㄴ/etm
+5	대청마루에	대청마루+에	ADV	_	8	obl	_	_	대청마루/ncn+에/jca
+6	큰	크+ㄴ	ADJ	_	7	amod	_	_	크/paa+ㄴ/etm
+7	大자로	大자+로	ADV	_	8	advcl	_	_	大자/ncn+로/jca
+8	드러누워	드러눕+어	SCONJ	_	12	ccomp	_	_	드러눕/pvg+어/ecs
+9	스쳐가는	스치+어+가+는	AUX	_	10	acl	_	_	스치/pvg+어/ecx+가/px+는/etm
+10	산들바람에	산들바람+에	ADV	_	12	obl	_	_	산들바람/ncn+에/jca
+11	땀을	땀+을	NOUN	_	12	obj	_	_	땀/ncn+을/jco
+12	식히는	식히+는	VERB	_	14	acl	_	_	식히/pvg+는/etm
+13	우리의	우리+의	PRON	_	14	nmod	_	_	우리/npp+의/jcm
+14	멋을	멋+을	NOUN	_	15	obj	_	_	멋/ncn+을/jco
+15	알	알+ㄹ	VERB	_	16	acl	_	_	알/pvg+ㄹ/etm
+16	길이	길+이	NOUN	_	17	nsubj	_	_	길/ncn+이/jcs
+17	없었던	없+었+던	ADJ	_	0	root	_	_	없/paa+었/ep+던/etm
+18	것이다	것+이+다	VERB	_	17	aux	_	_	것/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 유럽 여행을 하고 돌아오는 사람들은 異口同聲으로 그들의 도시가 오랜 역사와 문화의 깊이를 간직한 분위기 있는 도시들이라고 말한다 .
+1	유럽	유럽	PROPN	_	2	compound	_	_	유럽/nq
+2	여행을	여행+을	NOUN	_	3	obj	_	_	여행/ncpa+을/jco
+3	하고	하+고	SCONJ	_	4	ccomp	_	_	하/pvg+고/ecs
+4	돌아오는	돌+아+오+는	AUX	_	5	acl	_	_	돌/pvg+아/ecx+오/px+는/etm
+5	사람들은	사람+들+은	NOUN	_	17	dislocated	_	_	사람/ncn+들/xsn+은/jxt
+6	異口同聲으로	異口同聲+으로	ADV	_	17	advcl	_	_	異口同聲/ncn+으로/jca
+7	그들의	그+들+의	PRON	_	8	nmod	_	_	그/npp+들/xsn+의/jcm
+8	도시가	도시+가	NOUN	_	13	nsubj	_	_	도시/ncn+가/jcs
+9	오랜	오래+ㄴ	ADJ	_	10	amod	_	_	오래/paa+ㄴ/etm
+10	역사와	역사+와	CCONJ	_	12	conj	_	_	역사/ncn+와/jcj
+11	문화의	문화+의	NOUN	_	12	nmod	_	_	문화/ncn+의/jcm
+12	깊이를	깊이+를	NOUN	_	13	obj	_	_	깊이/ncn+를/jco
+13	간직한	간직+하+ㄴ	VERB	_	16	acl	_	_	간직/ncpa+하/xsv+ㄴ/etm
+14	분위기	분위기	NOUN	_	15	dep	_	_	분위기/ncn
+15	있는	있+는	ADJ	_	16	amod	_	_	있/paa+는/etm
+16	도시들이라고	도시+들+이+라+고	VERB	_	17	conj	_	_	도시/ncn+들/xsn+이/jp+라/ef+고/jcr
+17	말한다	말하+ㄴ다	VERB	_	0	root	_	_	말하/pvg+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 친밀감을 느낀다고 말하는 사람도 있다 .
+1	친밀감을	친밀감+을	NOUN	_	2	obj	_	_	친밀감/ncn+을/jco
+2	느낀다고	느끼+ㄴ다+고	VERB	_	3	conj	_	_	느끼/pvg+ㄴ다/ef+고/jcr
+3	말하는	말하+는	VERB	_	4	acl	_	_	말하/pvg+는/etm
+4	사람도	사람+도	ADV	_	5	advcl	_	_	사람/ncn+도/jxc
+5	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그러나 유럽에도 도시의 경관이란 점에서는 둔중하고 낡았고 말쑥하지 못한 도시들이 많다 .
+1	그러나	그러나	CCONJ	_	11	cc	_	_	그러나/maj
+2	유럽에도	유럽+에+도	ADV	_	11	advcl	_	_	유럽/nq+에/jca+도/jxc
+3	도시의	도시+의	NOUN	_	4	nmod	_	_	도시/ncn+의/jcm
+4	경관이란	경관+이+란	VERB	_	5	acl	_	_	경관/ncn+이/jp+란/etm
+5	점에서는	점+에서+는	NOUN	_	11	dislocated	_	_	점/ncn+에서/jca+는/jxt
+6	둔중하고	둔중하+고	CCONJ	_	7	conj	_	_	둔중하/paa+고/ecc
+7	낡았고	낡+았+고	CCONJ	_	8	conj	_	_	낡/paa+았/ep+고/ecc
+8	말쑥하지	말쑥하+지	ADJ	_	10	amod	_	_	말쑥하/paa+지/ecx
+9	못한	못하+ㄴ	AUX	_	8	aux	_	_	못하/px+ㄴ/etm
+10	도시들이	도시+들+이	NOUN	_	11	nsubj	_	_	도시/ncn+들/xsn+이/jcs
+11	많다	많+다	ADJ	_	0	root	_	_	많/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 하지만 空間과 精神이 서로 영향을 주고 받은 흔적이 바탕이 되어 있기에 깊이와 무게를 느낄 수 있는 것이다 .
+1	하지만	하지만	CCONJ	_	16	cc	_	_	하지만/maj
+2	空間과	空間+과	CCONJ	_	3	conj	_	_	空間/ncn+과/jcj
+3	精神이	精神+이	NOUN	_	6	nsubj	_	_	精神/ncn+이/jcs
+4	서로	서로	ADV	_	6	advmod	_	_	서로/mag
+5	영향을	영향+을	NOUN	_	6	obj	_	_	영향/ncn+을/jco
+6	주고	주+고	CCONJ	_	7	conj	_	_	주/pvg+고/ecc
+7	받은	받+ㄴ	VERB	_	8	acl	_	_	받/pvg+ㄴ/etm
+8	흔적이	흔적+이	NOUN	_	10	nsubj	_	_	흔적/ncn+이/jcs
+9	바탕이	바탕+이	NOUN	_	10	csubj	_	_	바탕/ncpa+이/jcc
+10	되어	되+어	VERB	_	14	obl	_	_	되/pvg+어/ecx
+11	있기에	있+기+에	ADV	_	10	aux	_	_	있/px+기/etn+에/jca
+12	깊이와	깊이+와	CCONJ	_	13	conj	_	_	깊이/ncn+와/jcj
+13	무게를	무게+를	NOUN	_	14	obj	_	_	무게/ncn+를/jco
+14	느낄	느끼+ㄹ	VERB	_	15	acl	_	_	느끼/pvg+ㄹ/etm
+15	수	수	NOUN	_	16	mark	_	_	수/nbn
+16	있는	있+는	ADJ	_	0	root	_	_	있/paa+는/etm
+17	것이다	것+이+다	VERB	_	16	aux	_	_	것/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 우리의 문화 , 우리의 공간 앞에서 언급한 이러한 정신과 공간의 호응과정은 우리 나라에서도 엄연히 존재했다고 보아진다 .
+1	우리의	우리+의	PRON	_	2	nmod	_	_	우리/npp+의/jcm
+2	문화	문화	NOUN	_	5	compound	_	_	문화/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	우리의	우리+의	PRON	_	5	nmod	_	_	우리/npp+의/jcm
+5	공간	공간	NOUN	_	6	compound	_	_	공간/ncn
+6	앞에서	앞+에서	ADV	_	7	advcl	_	_	앞/ncn+에서/jca
+7	언급한	언급+하+ㄴ	VERB	_	11	acl	_	_	언급/ncpa+하/xsv+ㄴ/etm
+8	이러한	이러하+ㄴ	VERB	_	11	amod	_	_	이러하/pad+ㄴ/etm
+9	정신과	정신+과	CCONJ	_	10	conj	_	_	정신/ncn+과/jcj
+10	공간의	공간+의	NOUN	_	11	nmod	_	_	공간/ncn+의/jcm
+11	호응과정은	호응+과정+은	NOUN	_	15	dislocated	_	_	호응/ncpa+과정/ncn+은/jxt
+12	우리	우리	PRON	_	13	compound	_	_	우리/npp
+13	나라에서도	나라+에서+도	ADV	_	15	advcl	_	_	나라/ncn+에서/jca+도/jxc
+14	엄연히	엄연+히	ADV	_	15	advmod	_	_	엄연/ncps+히/xsa
+15	존재했다고	존재+하+었+다+고	VERB	_	16	conj	_	_	존재/ncpa+하/xsv+었/ep+다/ef+고/jcr
+16	보아진다	보+아+지+ㄴ다	AUX	_	0	root	_	_	보/pvg+아/ecx+지/px+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 양쪽의 정신세계는 극단과 극단에 맞선 별개의 체계를 갖고 있는 것이다 .
+1	양쪽의	양쪽+의	NOUN	_	2	nmod	_	_	양쪽/ncn+의/jcm
+2	정신세계는	정신세계+는	NOUN	_	8	dislocated	_	_	정신세계/ncn+는/jxt
+3	극단과	극단+과	CCONJ	_	7	conj	_	_	극단/ncn+과/jcj
+4	극단에	극단+에	ADV	_	5	obl	_	_	극단/ncn+에/jca
+5	맞선	맞서+ㄴ	VERB	_	7	acl	_	_	맞서/pvg+ㄴ/etm
+6	별개의	별개+의	NOUN	_	7	nmod	_	_	별개/ncn+의/jcm
+7	체계를	체계+를	NOUN	_	8	obj	_	_	체계/ncn+를/jco
+8	갖고	갖+고	VERB	_	0	root	_	_	갖/pvg+고/ecx
+9	있는	있+는	AUX	_	8	aux	_	_	있/px+는/etm
+10	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 미리 타스코 마을의 종루를 암시 받은 것이다 .
+1	미리	미리	ADV	_	6	advmod	_	_	미리/mag
+2	타스코	타스코	PROPN	_	3	compound	_	_	타스코/nq
+3	마을의	마을+의	NOUN	_	4	nmod	_	_	마을/ncn+의/jcm
+4	종루를	종루+를	NOUN	_	6	obj	_	_	종루/ncn+를/jco
+5	암시	암시	NOUN	_	6	dep	_	_	암시/ncpa
+6	받은	받+ㄴ	VERB	_	0	root	_	_	받/pvg+ㄴ/etm
+7	것이다	것+이+다	VERB	_	6	aux	_	_	것/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이와는 거꾸로 서구사람들에겐 우리의 정신세계나 문화에 관한 아무런 예비지식이 없다 .
+1	이와는	이+와+는	PRON	_	2	dislocated	_	_	이/npd+와/jct+는/jxt
+2	거꾸로	거꾸로	ADV	_	10	advmod	_	_	거꾸로/mag
+3	서구사람들에겐	서구+사람+들+에게+ㄴ	NOUN	_	10	dislocated	_	_	서구/ncn+사람/ncn+들/xsn+에게/jca+ㄴ/jxt
+4	우리의	우리+의	PRON	_	6	nmod	_	_	우리/npp+의/jcm
+5	정신세계나	정신세계+나	CCONJ	_	6	conj	_	_	정신세계/ncn+나/jcj
+6	문화에	문화+에	ADV	_	7	obl	_	_	문화/ncn+에/jca
+7	관한	관하+ㄴ	VERB	_	9	acl	_	_	관하/pvg+ㄴ/etm
+8	아무런	아무런	DET	_	9	det	_	_	아무런/mmd
+9	예비지식이	예비+지식+이	NOUN	_	10	nsubj	_	_	예비/ncpa+지식/ncn+이/jcs
+10	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 저마다 제멋에 사는 것인데 말이다 .
+1	저마다	저마다	ADV	_	3	advmod	_	_	저마다/mag
+2	제멋에	제멋+에	ADV	_	3	obl	_	_	제멋/ncn+에/jca
+3	사는	살+는	VERB	_	5	ccomp	_	_	살/pvg+는/etm
+4	것인데	것+이+ㄴ데	SCONJ	_	3	aux	_	_	것/nbn+이/jp+ㄴ데/ecs
+5	말이다	말+이+다	VERB	_	0	root	_	_	말/ncpa+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 남의 눈을 의식한 공간형성이 너무나 범람해 가는 느낌이다 .
+1	남의	남+의	PRON	_	2	nmod	_	_	남/npp+의/jcm
+2	눈을	눈+을	NOUN	_	3	obj	_	_	눈/ncn+을/jco
+3	의식한	의식+하+ㄴ	VERB	_	4	acl	_	_	의식/ncpa+하/xsv+ㄴ/etm
+4	공간형성이	공간+형성+이	NOUN	_	6	nsubj	_	_	공간/ncn+형성/ncpa+이/jcs
+5	너무나	너무나	ADV	_	6	advmod	_	_	너무나/mag
+6	범람해	범람+하+어	VERB	_	8	ccomp	_	_	범람/ncpa+하/xsv+어/ecx
+7	가는	가+는	AUX	_	6	aux	_	_	가/px+는/etm
+8	느낌이다	느끼+ㅁ+이+다	VERB	_	0	root	_	_	느끼/pvg+ㅁ/etn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 내노라는 기업가와 건축가들이 이른바 일생일대의 작품들을 만들어내고 있다 .
+1	내노라는	내놓+라는	VERB	_	3	acl	_	_	내놓/pvg+라는/etm
+2	기업가와	기업가+와	CCONJ	_	3	conj	_	_	기업가/ncn+와/jcj
+3	건축가들이	건축가+들+이	NOUN	_	7	nsubj	_	_	건축가/ncn+들/xsn+이/jcs
+4	이른바	이른바	ADV	_	6	advmod	_	_	이른바/mag
+5	일생일대의	일생+일대+의	NOUN	_	6	nmod	_	_	일생/ncn+일대/ncn+의/jcm
+6	작품들을	작품+들+을	NOUN	_	7	obj	_	_	작품/ncn+들/xsn+을/jco
+7	만들어내고	만들+어+내+고	AUX	_	0	root	_	_	만들/pvg+어/ecx+내/px+고/ecx
+8	있다	있+다	AUX	_	7	aux	_	_	있/px+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 허름하고 남루하지만 우리의 손때가 묻고 정이 들었던 집들과 동네가 뜯겨나가고 그 후에 산뜻하고 새로운 건물과 동네가 들어서는 재개발사업도 많이 진행 중이다 .
+1	허름하고	허름+하+고	CCONJ	_	2	conj	_	_	허름/ncps+하/xsm+고/ecc
+2	남루하지만	남루+하+지만	CCONJ	_	7	conj	_	_	남루/ncps+하/xsm+지만/ecc
+3	우리의	우리+의	PRON	_	4	nmod	_	_	우리/npp+의/jcm
+4	손때가	손때+가	NOUN	_	5	nsubj	_	_	손때/ncn+가/jcs
+5	묻고	묻+고	CCONJ	_	7	conj	_	_	묻/pvg+고/ecc
+6	정이	정+이	NOUN	_	7	nsubj	_	_	정/ncn+이/jcs
+7	들었던	들+었+던	VERB	_	9	acl	_	_	들/pvg+었/ep+던/etm
+8	집들과	집+들+과	CCONJ	_	9	conj	_	_	집/ncn+들/xsn+과/jcj
+9	동네가	동네+가	NOUN	_	10	nsubj	_	_	동네/ncn+가/jcs
+10	뜯겨나가고	뜯기+어+나+아+가+고	CCONJ	_	17	conj	_	_	뜯기/pvg+어/ecx+나/px+아/ecx+가/px+고/ecc
+11	그	그	DET	_	12	det	_	_	그/mmd
+12	후에	후+에	ADV	_	17	obl	_	_	후/ncn+에/jca
+13	산뜻하고	산뜻하+고	CCONJ	_	14	conj	_	_	산뜻하/paa+고/ecc
+14	새로운	새롭+ㄴ	ADJ	_	16	amod	_	_	새롭/paa+ㄴ/etm
+15	건물과	건물+과	CCONJ	_	16	conj	_	_	건물/ncn+과/jcj
+16	동네가	동네+가	NOUN	_	17	nsubj	_	_	동네/ncn+가/jcs
+17	들어서는	들어서+는	VERB	_	18	acl	_	_	들어서/pvg+는/etm
+18	재개발사업도	재개발+사업+도	ADV	_	21	advcl	_	_	재개발/ncpa+사업/ncpa+도/jxc
+19	많이	많이	ADV	_	21	advmod	_	_	많이/mag
+20	진행	진행	NOUN	_	21	compound	_	_	진행/ncpa
+21	중이다	중+이+다	VERB	_	0	root	_	_	중/nbn+이/jp+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 남루하고 허술한 집들 대신 언필칭 기능적이고 아름답게 단장된 작품들이 들어선다면 도시는 한층 아름다워질 수 있을 터이다 .
+1	남루하고	남루+하+고	CCONJ	_	2	conj	_	_	남루/ncps+하/xsm+고/ecc
+2	허술한	허술+하+ㄴ	VERB	_	3	amod	_	_	허술/ncps+하/xsm+ㄴ/etm
+3	집들	집+들	NOUN	_	4	compound	_	_	집/ncn+들/xsn
+4	대신	대신	NOUN	_	10	advmod	_	_	대신/ncpa
+5	언필칭	언필칭	ADV	_	6	advmod	_	_	언필칭/mag
+6	기능적이고	기능+적+이+고	CCONJ	_	8	conj	_	_	기능/ncpa+적/xsn+이/jp+고/ecc
+7	아름답게	아름답+게	SCONJ	_	8	xcomp	_	_	아름답/paa+게/ecs
+8	단장된	단장+되+ㄴ	VERB	_	9	acl	_	_	단장/ncpa+되/xsv+ㄴ/etm
+9	작품들이	작품+들+이	NOUN	_	10	nsubj	_	_	작품/ncn+들/xsn+이/jcs
+10	들어선다면	들어서+ㄴ다면	SCONJ	_	13	conj	_	_	들어서/pvg+ㄴ다면/ecs
+11	도시는	도시+는	NOUN	_	13	dislocated	_	_	도시/ncn+는/jxt
+12	한층	한층	ADV	_	13	advmod	_	_	한층/mag
+13	아름다워질	아름답+어+지+ㄹ	AUX	_	0	root	_	_	아름답/paa+어/ecx+지/px+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있을	있+ㄹ	ADJ	_	13	aux	_	_	있/paa+ㄹ/etm
+16	터이다	터+이+다	VERB	_	13	aux	_	_	터/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 도시 자체가 생소하고 삭막한 환경으로 변한 탓에 서민들은 마음 붙일 곳을 찾지 못하고 서성거리기조차 민망스럽게 느끼고 있는 것은 아닌지 걱정스럽다 .
+1	도시	도시	NOUN	_	2	compound	_	_	도시/ncn
+2	자체가	자체+가	NOUN	_	6	nsubj	_	_	자체/ncn+가/jcs
+3	생소하고	생소하+고	CCONJ	_	4	conj	_	_	생소하/paa+고/ecc
+4	삭막한	삭막하+ㄴ	ADJ	_	5	amod	_	_	삭막하/paa+ㄴ/etm
+5	환경으로	환경+으로	ADV	_	6	advcl	_	_	환경/ncn+으로/jca
+6	변한	변하+ㄴ	VERB	_	7	acl	_	_	변하/pvg+ㄴ/etm
+7	탓에	탓+에	ADV	_	16	obl	_	_	탓/ncpa+에/jca
+8	서민들은	서민+들+은	NOUN	_	12	dislocated	_	_	서민/ncn+들/xsn+은/jxt
+9	마음	마음	NOUN	_	10	dep	_	_	마음/ncn
+10	붙일	붙이+ㄹ	VERB	_	11	acl	_	_	붙이/pvg+ㄹ/etm
+11	곳을	곳+을	NOUN	_	12	obj	_	_	곳/ncn+을/jco
+12	찾지	찾+지	VERB	_	16	conj	_	_	찾/pvg+지/ecx
+13	못하고	못하+고	CCONJ	_	12	aux	_	_	못하/px+고/ecc
+14	서성거리기조차	서성거리+기+조차	ADV	_	16	advcl	_	_	서성거리/pvg+기/etn+조차/jxc
+15	민망스럽게	민망+스럽+게	SCONJ	_	16	xcomp	_	_	민망/ncps+스럽/xsm+게/ecs
+16	느끼고	느끼+고	VERB	_	18	acl	_	_	느끼/pvg+고/ecx
+17	있는	있+는	AUX	_	16	aux	_	_	있/px+는/etm
+18	것은	것+은	NOUN	_	19	dislocated	_	_	것/nbn+은/jxt
+19	아닌지	아니+ㄴ지	SCONJ	_	20	xcomp	_	_	아니/paa+ㄴ지/ecs
+20	걱정스럽다	걱정+스럽+다	VERB	_	0	root	_	_	걱정/ncps+스럽/xsm+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 아름답다고 느끼는 일은 주관적 느낌이고 따라서 내가 아름답다고 느낄 때 비로소 아름다운 것이다 .
+1	아름답다고	아름답+다+고	SCONJ	_	2	xcomp	_	_	아름답/paa+다/ef+고/ecs
+2	느끼는	느끼+는	VERB	_	3	acl	_	_	느끼/pvg+는/etm
+3	일은	일+은	NOUN	_	5	dislocated	_	_	일/ncpa+은/jxt
+4	주관적	주관+적	NOUN	_	5	amod	_	_	주관/ncpa+적/xsn
+5	느낌이고	느끼+ㅁ+이+고	CCONJ	_	12	conj	_	_	느끼/pvg+ㅁ/etn+이/jp+고/ecc
+6	따라서	따라서	ADV	_	9	advmod	_	_	따라서/mag
+7	내가	내+가	PRON	_	9	nsubj	_	_	내/npp+가/jcs
+8	아름답다고	아름답+다+고	SCONJ	_	9	xcomp	_	_	아름답/paa+다/ef+고/ecs
+9	느낄	느끼+ㄹ	VERB	_	10	acl	_	_	느끼/pvg+ㄹ/etm
+10	때	때	NOUN	_	12	mark	_	_	때/nbn
+11	비로소	비로소	ADV	_	12	advmod	_	_	비로소/mag
+12	아름다운	아름답+ㄴ	ADJ	_	0	root	_	_	아름답/paa+ㄴ/etm
+13	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 무엇인가 아름다운 것이 있어 그것을 대하는 사람은 모두 다 아름답다고 느껴야 한다는 오해가 도시경관의 아이러니를 빚고 있다 .
+1	무엇인가	무엇+이+ㄴ가	VERB	_	4	dep	_	_	무엇/npd+이/jp+ㄴ가/ef
+2	아름다운	아름답+ㄴ	ADJ	_	3	amod	_	_	아름답/paa+ㄴ/etm
+3	것이	것+이	NOUN	_	4	nsubj	_	_	것/nbn+이/jcs
+4	있어	있+어	SCONJ	_	11	xcomp	_	_	있/paa+어/ecs
+5	그것을	그것+을	PRON	_	6	obj	_	_	그것/npd+을/jco
+6	대하는	대하+는	VERB	_	7	acl	_	_	대하/pvg+는/etm
+7	사람은	사람+은	NOUN	_	11	dislocated	_	_	사람/ncn+은/jxt
+8	모두	모두	ADV	_	10	advmod	_	_	모두/mag
+9	다	다	ADV	_	8	advmod	_	_	다/mag
+10	아름답다고	아름답+다+고	SCONJ	_	11	xcomp	_	_	아름답/paa+다/ef+고/ecs
+11	느껴야	느끼+어야	VERB	_	13	acl	_	_	느끼/pvg+어야/ecx
+12	한다는	하+ㄴ다는	AUX	_	11	aux	_	_	하/px+ㄴ다는/etm
+13	오해가	오해+가	NOUN	_	16	nsubj	_	_	오해/ncpa+가/jcs
+14	도시경관의	도시+경관+의	NOUN	_	15	nmod	_	_	도시/ncn+경관/ncn+의/jcm
+15	아이러니를	아이러니+를	NOUN	_	16	obj	_	_	아이러니/ncn+를/jco
+16	빚고	빚+고	VERB	_	0	root	_	_	빚/pvg+고/ecx
+17	있다	있+다	AUX	_	16	aux	_	_	있/px+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 도시의 건축물은 도시공간의 한 구성 요소가 되기보다는 강력한 자기주장을 통하여 도시공간의 지배자가 되려 하고 군림하려 든다 .
+1	도시의	도시+의	NOUN	_	2	nmod	_	_	도시/ncn+의/jcm
+2	건축물은	건축물+은	NOUN	_	7	dislocated	_	_	건축물/ncn+은/jxt
+3	도시공간의	도시+공간+의	NOUN	_	6	nmod	_	_	도시/ncn+공간/ncn+의/jcm
+4	한	한	NUM	_	6	nummod	_	_	한/nnc
+5	구성	구성	NOUN	_	6	compound	_	_	구성/ncpa
+6	요소가	요소+가	NOUN	_	7	csubj	_	_	요소/ncn+가/jcc
+7	되기보다는	되+기+보다+는	NOUN	_	14	dislocated	_	_	되/pvg+기/etn+보다/jca+는/jxt
+8	강력한	강력하+ㄴ	ADJ	_	9	amod	_	_	강력하/paa+ㄴ/etm
+9	자기주장을	자기+주장+을	PRON	_	10	obj	_	_	자기/npp+주장/ncpa+을/jco
+10	통하여	통하+어	SCONJ	_	14	ccomp	_	_	통하/pvg+어/ecs
+11	도시공간의	도시+공간+의	NOUN	_	12	nmod	_	_	도시/ncn+공간/ncn+의/jcm
+12	지배자가	지배자+가	NOUN	_	13	csubj	_	_	지배자/ncn+가/jcc
+13	되려	되+려	SCONJ	_	14	ccomp	_	_	되/pvg+려/ecs
+14	하고	하+고	SCONJ	_	15	ccomp	_	_	하/pvg+고/ecs
+15	군림하려	군림+하+려	SCONJ	_	16	ccomp	_	_	군림/ncpa+하/xsv+려/ecs
+16	든다	들+ㄴ다	VERB	_	0	root	_	_	들/pvg+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 마치 간판을 남들보다 더 눈에 띄게 하려고 경쟁한 나머지 결국 서로가 서로를 눈에 띄지 못하게 해버리는 혼란을 가져오는 꼴과도 같다 .
+1	마치	마치	ADV	_	20	advmod	_	_	마치/mag
+2	간판을	간판+을	NOUN	_	6	obj	_	_	간판/ncn+을/jco
+3	남들보다	남+들+보다	ADV	_	6	advcl	_	_	남/npp+들/xsn+보다/jca
+4	더	더	ADV	_	6	advmod	_	_	더/mag
+5	눈에	눈+에	ADV	_	6	obl	_	_	눈/ncn+에/jca
+6	띄게	띄+게	VERB	_	8	ccomp	_	_	띄/pvg+게/ecx
+7	하려고	하+려고	SCONJ	_	6	aux	_	_	하/px+려고/ecs
+8	경쟁한	경쟁+하+ㄴ	VERB	_	9	acl	_	_	경쟁/ncpa+하/xsv+ㄴ/etm
+9	나머지	나머지	NOUN	_	18	advmod	_	_	나머지/ncn
+10	결국	결국	ADV	_	14	advmod	_	_	결국/mag
+11	서로가	서로+가	NOUN	_	14	nsubj	_	_	서로/ncn+가/jcs
+12	서로를	서로+를	NOUN	_	14	obj	_	_	서로/ncn+를/jco
+13	눈에	눈+에	ADV	_	14	obl	_	_	눈/ncn+에/jca
+14	띄지	띄+지	VERB	_	17	acl	_	_	띄/pvg+지/ecx
+15	못하게	못하+게	AUX	_	14	aux	_	_	못하/px+게/ecx
+16	해버리는	하+어+버리+는	AUX	_	14	aux	_	_	하/px+어/ecx+버리/px+는/etm
+17	혼란을	혼란+을	NOUN	_	18	obj	_	_	혼란/ncps+을/jco
+18	가져오는	가지+어+오+는	AUX	_	19	acl	_	_	가지/pvg+어/ecx+오/px+는/etm
+19	꼴과도	꼴+과+도	ADV	_	20	advcl	_	_	꼴/ncn+과/jct+도/jxc
+20	같다	같+다	ADJ	_	0	root	_	_	같/paa+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 어떤 건물이 도시 속에서 의미를 가지려면 이웃하는 건물이나 사람들과 의미를 상통시킬 수 있는 표현언어를 쓰는 일이 첫 걸음이다 .
+1	어떤	어떤	DET	_	2	det	_	_	어떤/mmd
+2	건물이	건물+이	NOUN	_	6	nsubj	_	_	건물/ncn+이/jcs
+3	도시	도시	NOUN	_	4	compound	_	_	도시/ncn
+4	속에서	속+에서	ADV	_	6	advcl	_	_	속/ncn+에서/jca
+5	의미를	의미+를	NOUN	_	6	obj	_	_	의미/ncpa+를/jco
+6	가지려면	가지+려면	SCONJ	_	18	ccomp	_	_	가지/pvg+려면/ecs
+7	이웃하는	이웃+하+는	VERB	_	9	acl	_	_	이웃/ncpa+하/xsv+는/etm
+8	건물이나	건물+이나	CCONJ	_	9	conj	_	_	건물/ncn+이나/jcj
+9	사람들과	사람+들+과	CCONJ	_	15	conj	_	_	사람/ncn+들/xsn+과/jct
+10	의미를	의미+를	NOUN	_	11	obj	_	_	의미/ncpa+를/jco
+11	상통시킬	상통+시키+ㄹ	VERB	_	14	acl	_	_	상통/ncpa+시키/xsv+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있는	있+는	ADJ	_	11	aux	_	_	있/paa+는/etm
+14	표현언어를	표현+언어+를	NOUN	_	15	obj	_	_	표현/ncpa+언어/ncn+를/jco
+15	쓰는	쓰+는	VERB	_	16	acl	_	_	쓰/pvg+는/etm
+16	일이	일+이	NOUN	_	18	nsubj	_	_	일/ncpa+이/jcs
+17	첫	첫	NUM	_	18	nummod	_	_	첫/nnc
+18	걸음이다	걷+ㅁ+이+다	VERB	_	0	root	_	_	걷/pvg+ㅁ/etn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 좀 서툴러서 답답하기야 하지만 우리가 아는 말이고 체험이기에 우리 가슴을 두드리는 인간적인 그 무엇인가가 내재되어 있다는 말이다 .
+1	좀	좀	ADV	_	2	advmod	_	_	좀/mag
+2	서툴러서	서툴르+어서	SCONJ	_	3	conj	_	_	서툴르/pvg+어서/ecs
+3	답답하기야	답답하+기+야	ADV	_	4	advcl	_	_	답답하/paa+기/etn+야/jxc
+4	하지만	하+지만	SCONJ	_	17	ccomp	_	_	하/pvg+지만/ecs
+5	우리가	우리+가	PRON	_	6	nsubj	_	_	우리/npp+가/jcs
+6	아는	알+는	VERB	_	7	ccomp	_	_	알/pvg+는/etm
+7	말이고	말+이+고	CCONJ	_	8	conj	_	_	말/ncpa+이/jp+고/ecc
+8	체험이기에	체험+이+기+에	ADV	_	15	obl	_	_	체험/ncpa+이/jp+기/etn+에/jca
+9	우리	우리	PRON	_	10	compound	_	_	우리/npp
+10	가슴을	가슴+을	NOUN	_	11	obj	_	_	가슴/ncn+을/jco
+11	두드리는	두드리+는	VERB	_	14	acl	_	_	두드리/pvg+는/etm
+12	인간적인	인간+적+이+ㄴ	VERB	_	14	acl	_	_	인간/ncn+적/xsn+이/jp+ㄴ/etm
+13	그	그	DET	_	14	det	_	_	그/mmd
+14	무엇인가가	무엇+이+ㄴ가+가	PRON	_	15	nsubj	_	_	무엇/npd+이/jp+ㄴ가/ef+가/jcs
+15	내재되어	내재+되+어	VERB	_	17	ccomp	_	_	내재/ncpa+되/xsv+어/ecx
+16	있다는	있+다는	AUX	_	15	aux	_	_	있/px+다는/etm
+17	말이다	말+이+다	VERB	_	0	root	_	_	말/ncpa+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그러나 감동적이다 .
+1	그러나	그러나	CCONJ	_	2	cc	_	_	그러나/maj
+2	감동적이다	감동+적+이+다	VERB	_	0	root	_	_	감동/ncpa+적/xsn+이/jp+다/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 무엇이 진정한 아름다움일까 ?
+1	무엇이	무엇+이	PRON	_	3	nsubj	_	_	무엇/npd+이/jcs
+2	진정한	진정+하+ㄴ	VERB	_	3	amod	_	_	진정/ncps+하/xsm+ㄴ/etm
+3	아름다움일까	아름답+ㅁ+이+까	ADJ	_	0	root	_	_	아름답/paa+ㅁ/etn+이/jp+까/ef
+4	?	?	PUNCT	_	3	punct	_	_	?/sf
+
+# 오고 가기엔 불편한 점이 많지만 강의실이나 연구실을 한발짝씩만 나서면 어디서나 먼 곳의 도시 풍경이 건너다 보여서 좋다 .
+1	오고	오+고	CCONJ	_	2	conj	_	_	오/pvg+고/ecc
+2	가기엔	가+기+에+는	NOUN	_	3	dislocated	_	_	가/pvg+기/etn+에/jca+는/jxt
+3	불편한	불편+하+ㄴ	VERB	_	4	amod	_	_	불편/ncps+하/xsm+ㄴ/etm
+4	점이	점+이	NOUN	_	5	nsubj	_	_	점/nbu+이/jcs
+5	많지만	많+지만	CCONJ	_	17	conj	_	_	많/paa+지만/ecc
+6	강의실이나	강의실+이나	ADV	_	7	advcl	_	_	강의실/ncn+이나/jxc
+7	연구실을	연구실+을	NOUN	_	9	obj	_	_	연구실/ncn+을/jco
+8	한발짝씩만	한발짝+씩+만	ADV	_	9	advcl	_	_	한발짝/ncn+씩/xsn+만/jxc
+9	나서면	나서+면	SCONJ	_	16	ccomp	_	_	나서/pvg+면/ecs
+10	어디서나	어디서나	ADV	_	16	advmod	_	_	어디서나/mag
+11	먼	멀+ㄴ	ADJ	_	12	amod	_	_	멀/paa+ㄴ/etm
+12	곳의	곳+의	NOUN	_	14	nmod	_	_	곳/ncn+의/jcm
+13	도시	도시	NOUN	_	14	compound	_	_	도시/ncn
+14	풍경이	풍경+이	NOUN	_	15	nsubj	_	_	풍경/ncn+이/jcs
+15	건너다	건너+다	SCONJ	_	16	ccomp	_	_	건너/pvg+다/ecs
+16	보여서	보이+어서	SCONJ	_	17	conj	_	_	보이/pvg+어서/ecs
+17	좋다	좋+다	ADJ	_	0	root	_	_	좋/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 학생들이 한마당이라고 이름 지은 학생회관 앞뜰에서부터 석조 본관 앞뜰까지는 제법 앞이 트여 있다 .
+1	학생들이	학생+들+이	NOUN	_	4	nsubj	_	_	학생/ncn+들/xsn+이/jcs
+2	한마당이라고	한마당+이+라고	SCONJ	_	4	ccomp	_	_	한마당/ncn+이/jp+라고/ecs
+3	이름	이름	NOUN	_	4	dep	_	_	이름/ncn
+4	지은	짓+ㄴ	VERB	_	5	acl	_	_	짓/pvg+ㄴ/etm
+5	학생회관	학생+회관	NOUN	_	6	compound	_	_	학생/ncn+회관/ncn
+6	앞뜰에서부터	앞뜰+에서+부터	ADV	_	12	advcl	_	_	앞뜰/ncn+에서/jca+부터/jxc
+7	석조	석조	NOUN	_	8	compound	_	_	석조/ncpa
+8	본관	본관	NOUN	_	9	compound	_	_	본관/ncn
+9	앞뜰까지는	앞뜰+까지+는	NOUN	_	12	dislocated	_	_	앞뜰/ncn+까지/jxc+는/jxt
+10	제법	제법	ADV	_	12	advmod	_	_	제법/mag
+11	앞이	앞+이	NOUN	_	12	nsubj	_	_	앞/ncn+이/jcs
+12	트여	트이+어	VERB	_	0	root	_	_	트이/pvg+어/ecx
+13	있다	있+다	AUX	_	12	aux	_	_	있/px+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 멀리 응봉동 , 무학동 등지의 산동네가 한눈에 들어온다 .
+1	멀리	멀리	ADV	_	8	advmod	_	_	멀리/mag
+2	응봉동	응봉동	PROPN	_	4	conj	_	_	응봉동/nq
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	무학동	무학동	PROPN	_	5	compound	_	_	무학동/nq
+5	등지의	등지+의	NOUN	_	6	nmod	_	_	등지/nbn+의/jcm
+6	산동네가	산동네+가	NOUN	_	8	nsubj	_	_	산동네/ncn+가/jcs
+7	한눈에	한눈+에	ADV	_	8	obl	_	_	한눈/ncn+에/jca
+8	들어온다	들+어+오+ㄴ다	AUX	_	0	root	_	_	들/pvg+어/ecx+오/px+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 산등성이를 꽉 채우고 꼭대기까지 올라가 있는 게딱지 만 한 집들이 서로 어깨를 기대고 등을 산에 붙이고 있는 모습이 보인다 .
+1	산등성이를	산등성이+를	NOUN	_	3	obj	_	_	산등성이/ncn+를/jco
+2	꽉	꽉	ADV	_	3	advmod	_	_	꽉/mag
+3	채우고	채우+고	CCONJ	_	5	conj	_	_	채우/pvg+고/ecc
+4	꼭대기까지	꼭대기+까지	ADV	_	5	advcl	_	_	꼭대기/ncn+까지/jxc
+5	올라가	오르+아+가+아	AUX	_	10	acl	_	_	오르/pvg+아/ecx+가/px+아/ecx
+6	있는	있+는	AUX	_	5	aux	_	_	있/px+는/etm
+7	게딱지	게딱지	NOUN	_	8	compound	_	_	게딱지/ncn
+8	만	만	NOUN	_	9	mark	_	_	만/nbn
+9	한	하+ㄴ	VERB	_	10	acl	_	_	하/pvg+ㄴ/etm
+10	집들이	집+들+이	NOUN	_	16	nsubj	_	_	집/ncn+들/xsn+이/jcs
+11	서로	서로	ADV	_	13	advmod	_	_	서로/mag
+12	어깨를	어깨+를	NOUN	_	13	obj	_	_	어깨/ncn+를/jco
+13	기대고	기대+고	CCONJ	_	16	conj	_	_	기대/pvg+고/ecc
+14	등을	등+을	NOUN	_	16	obj	_	_	등/ncn+을/jco
+15	산에	산+에	ADV	_	16	obl	_	_	산/ncn+에/jca
+16	붙이고	붙이+고	VERB	_	18	acl	_	_	붙이/pvg+고/ecx
+17	있는	있+는	AUX	_	16	aux	_	_	있/px+는/etm
+18	모습이	모습+이	NOUN	_	19	nsubj	_	_	모습/ncn+이/jcs
+19	보인다	보이+ㄴ다	VERB	_	0	root	_	_	보이/pvg+ㄴ다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 그 모습을 보고 있노라면 나는 우리네 서민들의 잡초같은 강인한 생명력과 끈질긴 생활력에 탄복한다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	모습을	모습+을	NOUN	_	3	obj	_	_	모습/ncn+을/jco
+3	보고	보+고	VERB	_	13	ccomp	_	_	보/pvg+고/ecx
+4	있노라면	있+노라면	SCONJ	_	3	aux	_	_	있/px+노라면/ecs
+5	나는	나+는	PRON	_	13	dislocated	_	_	나/npp+는/jxt
+6	우리네	우리네	PRON	_	7	compound	_	_	우리네/npp
+7	서민들의	서민+들+의	NOUN	_	12	nmod	_	_	서민/ncn+들/xsn+의/jcm
+8	잡초같은	잡초같+은	ADJ	_	10	amod	_	_	잡초같/paa+은/etm
+9	강인한	강인하+ㄴ	ADJ	_	10	amod	_	_	강인하/paa+ㄴ/etm
+10	생명력과	생명력+과	CCONJ	_	12	conj	_	_	생명력/ncn+과/jcj
+11	끈질긴	끈질기+ㄴ	ADJ	_	12	amod	_	_	끈질기/paa+ㄴ/etm
+12	생활력에	생활력+에	ADV	_	13	obl	_	_	생활력/ncn+에/jca
+13	탄복한다	탄복+하+ㄴ다	VERB	_	0	root	_	_	탄복/ncpa+하/xsv+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그들의 삶터와 잠자리는 보기에 딱할 정도로 남루하고 열악하다 .
+1	그들의	그+들+의	PRON	_	3	nmod	_	_	그/npp+들/xsn+의/jcm
+2	삶터와	삶터+와	CCONJ	_	3	conj	_	_	삶터/ncn+와/jcj
+3	잠자리는	잠자리+는	NOUN	_	7	dislocated	_	_	잠자리/ncn+는/jxt
+4	보기에	보+기+에	ADV	_	5	obl	_	_	보/pvg+기/etn+에/jca
+5	딱할	딱하+ㄹ	ADJ	_	6	amod	_	_	딱하/paa+ㄹ/etm
+6	정도로	정도+로	ADV	_	7	advcl	_	_	정도/ncn+로/jca
+7	남루하고	남루+하+고	SCONJ	_	8	xcomp	_	_	남루/ncps+하/xsm+고/ecs
+8	열악하다	열악하+다	ADJ	_	0	root	_	_	열악하/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그러한 물질적 약점을 그들은 서로 기대어 살고 나누어 살고 더불어 사는 공동체로서 대처해 나가고 있다 .
+1	그러한	그러하+ㄴ	VERB	_	3	amod	_	_	그러하/pad+ㄴ/etm
+2	물질적	물질+적	NOUN	_	3	amod	_	_	물질/ncn+적/xsn
+3	약점을	약점+을	NOUN	_	13	obj	_	_	약점/ncn+을/jco
+4	그들은	그+들+은	PRON	_	13	dislocated	_	_	그/npp+들/xsn+은/jxt
+5	서로	서로	ADV	_	6	advmod	_	_	서로/mag
+6	기대어	기대+어	SCONJ	_	7	ccomp	_	_	기대/pvg+어/ecs
+7	살고	살+고	CCONJ	_	9	conj	_	_	살/pvg+고/ecc
+8	나누어	나누+어	SCONJ	_	9	ccomp	_	_	나누/pvg+어/ecs
+9	살고	살+고	CCONJ	_	11	conj	_	_	살/pvg+고/ecc
+10	더불어	더불+어	SCONJ	_	11	ccomp	_	_	더불/pvg+어/ecs
+11	사는	살+는	VERB	_	12	acl	_	_	살/pvg+는/etm
+12	공동체로서	공동체+로서	ADV	_	13	advcl	_	_	공동체/ncn+로서/jca
+13	대처해	대처+하+어	SCONJ	_	14	ccomp	_	_	대처/ncpa+하/xsv+어/ecs
+14	나가고	나가+고	VERB	_	0	root	_	_	나가/pvg+고/ecx
+15	있다	있+다	AUX	_	14	aux	_	_	있/px+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 재개발을 한 것이다 .
+1	재개발을	재개발+을	NOUN	_	2	obj	_	_	재개발/ncpa+을/jco
+2	한	하+ㄴ	VERB	_	0	root	_	_	하/pvg+ㄴ/etm
+3	것이다	것+이+다	VERB	_	2	aux	_	_	것/nbn+이/jp+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 그러나 , 산등성이에 너무 큰 덩어리가 들어서서 그림으로서는 좋지 않다 .
+1	그러나	그러나	CCONJ	_	9	cc	_	_	그러나/maj
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	산등성이에	산등성이+에	ADV	_	7	obl	_	_	산등성이/ncn+에/jca
+4	너무	너무	ADV	_	5	advmod	_	_	너무/mag
+5	큰	크+ㄴ	ADJ	_	6	amod	_	_	크/paa+ㄴ/etm
+6	덩어리가	덩어리+가	NOUN	_	7	nsubj	_	_	덩어리/ncn+가/jcs
+7	들어서서	들어서+서	SCONJ	_	9	conj	_	_	들어서/pvg+서/ecs
+8	그림으로서는	그리+ㅁ+으로서+는	NOUN	_	9	dislocated	_	_	그리/pvg+ㅁ/etn+으로서/jca+는/jxt
+9	좋지	좋+지	ADJ	_	0	root	_	_	좋/paa+지/ecx
+10	않다	않+다	AUX	_	9	aux	_	_	않/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 저렇게 자꾸 늘어나는 불량 주택지 재개발이 과연 산동네 주민들에게 진정 주택을 마련해 줄 수 있을 것인가 생각해 본다 .
+1	저렇게	저러하+게	SCONJ	_	3	xcomp	_	_	저러하/pad+게/ecs
+2	자꾸	자꾸	ADV	_	3	advmod	_	_	자꾸/mag
+3	늘어나는	늘+어+나+는	AUX	_	6	acl	_	_	늘/pvg+어/ecx+나/px+는/etm
+4	불량	불량	NOUN	_	5	compound	_	_	불량/ncps
+5	주택지	주택지	NOUN	_	6	compound	_	_	주택지/ncn
+6	재개발이	재개발+이	NOUN	_	12	nsubj	_	_	재개발/ncpa+이/jcs
+7	과연	과연	ADV	_	12	advmod	_	_	과연/mag
+8	산동네	산동네	NOUN	_	9	compound	_	_	산동네/ncn
+9	주민들에게	주민+들+에게	ADV	_	12	iobj	_	_	주민/ncn+들/xsn+에게/jca
+10	진정	진정	ADV	_	12	advmod	_	_	진정/mag
+11	주택을	주택+을	NOUN	_	12	obj	_	_	주택/ncn+을/jco
+12	마련해	마련+하+어	VERB	_	17	ccomp	_	_	마련/ncpa+하/xsv+어/ecx
+13	줄	주+ㄹ	AUX	_	12	aux	_	_	주/px+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있을	있+ㄹ	ADJ	_	12	aux	_	_	있/paa+ㄹ/etm
+16	것인가	것+이+ㄴ가	VERB	_	12	aux	_	_	것/nbn+이/jp+ㄴ가/ef
+17	생각해	생각+하+어	VERB	_	0	root	_	_	생각/ncpa+하/xsv+어/ecx
+18	본다	보+ㄴ다	AUX	_	17	aux	_	_	보/px+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 산동네 판자집은 새로 지어진 아파트에 비하면 잠자리라고 명함도 내놓을 수 없을 만큼 크기로나 질적으로나 뒤떨어진다 .
+1	산동네	산동네	NOUN	_	2	compound	_	_	산동네/ncn
+2	판자집은	판자집+은	NOUN	_	6	dislocated	_	_	판자집/ncn+은/jxt
+3	새로	새로	ADV	_	4	advmod	_	_	새로/mag
+4	지어진	짓+어+지+ㄴ	AUX	_	5	acl	_	_	짓/pvg+어/ecx+지/px+ㄴ/etm
+5	아파트에	아파트+에	ADV	_	6	obl	_	_	아파트/ncn+에/jca
+6	비하면	비하+면	SCONJ	_	15	ccomp	_	_	비하/pvg+면/ecs
+7	잠자리라고	잠자리+이+라고	SCONJ	_	9	ccomp	_	_	잠자리/ncpa+이/jp+라고/ecs
+8	명함도	명함+도	ADV	_	9	advcl	_	_	명함/ncn+도/jxc
+9	내놓을	내+어+놓+ㄹ	AUX	_	12	acl	_	_	내/pvg+어/ecx+놓/px+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	없을	없+ㄹ	ADJ	_	9	aux	_	_	없/paa+ㄹ/etm
+12	만큼	만큼	NOUN	_	15	advmod	_	_	만큼/nbn
+13	크기로나	크기+로+나	CCONJ	_	14	conj	_	_	크기/ncn+로/jca+나/jcj
+14	질적으로나	질+적+으로+나	CCONJ	_	15	conj	_	_	질/ncn+적/xsn+으로/jca+나/jcj
+15	뒤떨어진다	뒤떨어지+ㄴ다	VERB	_	0	root	_	_	뒤떨어지/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+

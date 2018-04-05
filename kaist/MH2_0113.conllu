@@ -1,0 +1,2677 @@
+# 1989 년에는 동유럽에 혁명이 일어나고 베를린장벽이 붕괴되었다 .
+1	1989	1989	NUM	_	2	nummod	_	_	1989/nno
+2	년에는	년+에+는	NOUN	_	7	dislocated	_	_	년/nbu+에/jca+는/jxt
+3	동유럽에	동유럽+에	ADV	_	5	obl	_	_	동유럽/nq+에/jca
+4	혁명이	혁명+이	NOUN	_	5	nsubj	_	_	혁명/ncpa+이/jcs
+5	일어나고	일어나+고	CCONJ	_	7	conj	_	_	일어나/pvg+고/ecc
+6	베를린장벽이	베를린장벽+이	PROPN	_	7	nsubj	_	_	베를린장벽/nq+이/jcs
+7	붕괴되었다	붕괴+되+었+다	VERB	_	0	root	_	_	붕괴/ncpa+되/xsv+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그 다음해인 1990 년에는 독일이 통일되어 동서 냉전시대가 종결되었고 , 1991 년에는 러시아에 새로운 혁명이 일어나 소연방이 해체되었다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	다음해인	다음+해+이+ㄴ	VERB	_	4	acl	_	_	다음/ncn+해/ncn+이/jp+ㄴ/etm
+3	1990	1990	NUM	_	4	nummod	_	_	1990/nno
+4	년에는	년+에+는	NOUN	_	6	dislocated	_	_	년/nbu+에/jca+는/jxt
+5	독일이	독일+이	PROPN	_	6	nsubj	_	_	독일/nq+이/jcs
+6	통일되어	통일+되+어	SCONJ	_	9	ccomp	_	_	통일/ncpa+되/xsv+어/ecs
+7	동서	동서	NOUN	_	8	compound	_	_	동서/ncn
+8	냉전시대가	냉전+시대+가	NOUN	_	9	nsubj	_	_	냉전/ncn+시대/ncn+가/jcs
+9	종결되었고	종결+되+었+고	CCONJ	_	18	conj	_	_	종결/ncpa+되/xsv+었/ep+고/ecc
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	1991	1991	NUM	_	12	nummod	_	_	1991/nno
+12	년에는	년+에+는	NOUN	_	16	dislocated	_	_	년/nbu+에/jca+는/jxt
+13	러시아에	러시아+에	ADV	_	16	obl	_	_	러시아/nq+에/jca
+14	새로운	새롭+ㄴ	ADJ	_	15	amod	_	_	새롭/paa+ㄴ/etm
+15	혁명이	혁명+이	NOUN	_	16	nsubj	_	_	혁명/ncpa+이/jcs
+16	일어나	일어나+아	SCONJ	_	18	ccomp	_	_	일어나/pvg+아/ecs
+17	소연방이	소연방+이	PROPN	_	18	nsubj	_	_	소연방/nq+이/jcs
+18	해체되었다	해체+되+었+다	VERB	_	0	root	_	_	해체/ncpa+되/xsv+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 양차 세계대전과 그에 따른 동서 냉전시대로 인해 20 세기는 전쟁의 시대라고 불리웠는데 이제 그 시대가 종말을 고하고 있는 것이다 .
+1	양차	양차	NOUN	_	2	compound	_	_	양차/ncn
+2	세계대전과	세계+대전+과	CCONJ	_	6	conj	_	_	세계/ncn+대전/ncn+과/jcj
+3	그에	그+에	ADV	_	4	obl	_	_	그/npp+에/jca
+4	따른	따르+ㄴ	VERB	_	6	acl	_	_	따르/pvg+ㄴ/etm
+5	동서	동서	NOUN	_	6	compound	_	_	동서/ncn
+6	냉전시대로	냉전+시대+로	ADV	_	7	advcl	_	_	냉전/ncn+시대/ncn+로/jca
+7	인해	인하+어	SCONJ	_	12	ccomp	_	_	인하/pvg+어/ecs
+8	20	20	NUM	_	9	nummod	_	_	20/nno
+9	세기는	세기+는	NOUN	_	12	dislocated	_	_	세기/ncn+는/jxt
+10	전쟁의	전쟁+의	NOUN	_	11	nmod	_	_	전쟁/ncpa+의/jcm
+11	시대라고	시대+라고	VERB	_	12	conj	_	_	시대/ncn+라고/jcr
+12	불리웠는데	불리우+었+는데	SCONJ	_	17	ccomp	_	_	불리우/pvg+었/ep+는데/ecs
+13	이제	이제	ADV	_	17	advmod	_	_	이제/mag
+14	그	그	DET	_	15	det	_	_	그/mmd
+15	시대가	시대+가	NOUN	_	17	nsubj	_	_	시대/ncn+가/jcs
+16	종말을	종말+을	NOUN	_	17	obj	_	_	종말/ncn+을/jco
+17	고하고	고하+고	VERB	_	0	root	_	_	고하/pvg+고/ecx
+18	있는	있+는	AUX	_	17	aux	_	_	있/px+는/etm
+19	것이다	것+이+다	VERB	_	17	aux	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 서방의 종주국인 미국은 전쟁에서 승리를 거두었지만 그 과정에서 커다란 대가를 치르었다 .
+1	서방의	서방+의	NOUN	_	2	nmod	_	_	서방/ncn+의/jcm
+2	종주국인	종주국+이+ㄴ	VERB	_	3	acl	_	_	종주국/ncn+이/jp+ㄴ/etm
+3	미국은	미국+은	PROPN	_	11	dislocated	_	_	미국/nq+은/jxt
+4	전쟁에서	전쟁+에서	ADV	_	6	advcl	_	_	전쟁/ncpa+에서/jca
+5	승리를	승리+를	NOUN	_	6	obj	_	_	승리/ncpa+를/jco
+6	거두었지만	거두+었+지만	SCONJ	_	11	ccomp	_	_	거두/pvg+었/ep+지만/ecs
+7	그	그	DET	_	8	det	_	_	그/mmd
+8	과정에서	과정+에서	ADV	_	11	advcl	_	_	과정/ncn+에서/jca
+9	커다란	커다랗+ㄴ	ADJ	_	10	amod	_	_	커다랗/paa+ㄴ/etm
+10	대가를	대가+를	NOUN	_	11	obj	_	_	대가/ncn+를/jco
+11	치르었다	치르+었+다	VERB	_	0	root	_	_	치르/pvg+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 미국은 재정이 파탄되어 채권국에서 채무국으로 전락했고 곤충이 점점 더 넓어지는 왜곡현상마저 겪고 있는 것이다 .
+1	미국은	미국+은	PROPN	_	12	dislocated	_	_	미국/nq+은/jxt
+2	재정이	재정+이	NOUN	_	3	nsubj	_	_	재정/ncn+이/jcs
+3	파탄되어	파탄+되+어	SCONJ	_	6	ccomp	_	_	파탄/ncpa+되/xsv+어/ecs
+4	채권국에서	채권국+에서	ADV	_	6	advcl	_	_	채권국/ncn+에서/jca
+5	채무국으로	채무국+으로	ADV	_	6	advcl	_	_	채무국/ncn+으로/jca
+6	전락했고	전락+하+었+고	CCONJ	_	12	conj	_	_	전락/ncpa+하/xsv+었/ep+고/ecc
+7	곤충이	곤충+이	NOUN	_	10	nsubj	_	_	곤충/ncn+이/jcs
+8	점점	점점	ADV	_	10	advmod	_	_	점점/mag
+9	더	더	ADV	_	8	advmod	_	_	더/mag
+10	넓어지는	넓+어+지+는	AUX	_	11	amod	_	_	넓/paa+어/ecx+지/px+는/etm
+11	왜곡현상마저	왜곡+현상+마저	ADV	_	12	advcl	_	_	왜곡/ncpa+현상/ncn+마저/jxc
+12	겪고	겪+고	VERB	_	0	root	_	_	겪/pvg+고/ecx
+13	있는	있+는	AUX	_	12	aux	_	_	있/px+는/etm
+14	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 1992 년 4 월의 로스엔젤레스 폭동사건에서 드러난 바와 같이 미국 사회는 안정도가 현저하게 떨어졌다 .
+1	1992	1992	NUM	_	2	nummod	_	_	1992/nno
+2	년	년	NOUN	_	4	compound	_	_	년/nbu
+3	4	4	NUM	_	4	nummod	_	_	4/nno
+4	월의	월+의	NOUN	_	6	nmod	_	_	월/nbu+의/jcm
+5	로스엔젤레스	로스엔젤레스	PROPN	_	6	compound	_	_	로스엔젤레스/nq
+6	폭동사건에서	폭동+사건+에서	ADV	_	7	advcl	_	_	폭동/ncn+사건/ncn+에서/jca
+7	드러난	드러나+ㄴ	VERB	_	8	acl	_	_	드러나/pvg+ㄴ/etm
+8	바와	바+와	CCONJ	_	9	conj	_	_	바/nbn+와/jct
+9	같이	같+이	SCONJ	_	14	xcomp	_	_	같/paa+이/ecs
+10	미국	미국	PROPN	_	11	compound	_	_	미국/nq
+11	사회는	사회+는	NOUN	_	14	dislocated	_	_	사회/ncn+는/jxt
+12	안정도가	안정도+가	NOUN	_	14	nsubj	_	_	안정도/ncn+가/jcs
+13	현저하게	현저+하+게	SCONJ	_	14	xcomp	_	_	현저/ncps+하/xsm+게/ecs
+14	떨어졌다	떨어지+었+다	VERB	_	0	root	_	_	떨어지/pvg+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이 때문에 구 서유럽과 일본의 국제적 책임이 점점 더 커지고 있다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	때문에	때문+에	ADV	_	10	obl	_	_	때문/nbn+에/jca
+3	구	구	NOUN	_	4	compound	_	_	구/ncn
+4	서유럽과	서유럽+과	CCONJ	_	5	conj	_	_	서유럽/nq+과/jcj
+5	일본의	일본+의	PROPN	_	7	nmod	_	_	일본/nq+의/jcm
+6	국제적	국제+적	NOUN	_	7	amod	_	_	국제/ncn+적/xsn
+7	책임이	책임+이	NOUN	_	10	nsubj	_	_	책임/ncn+이/jcs
+8	점점	점점	ADV	_	10	advmod	_	_	점점/mag
+9	더	더	ADV	_	8	advmod	_	_	더/mag
+10	커지고	크+어+지+고	AUX	_	0	root	_	_	크/paa+어/ecx+지/px+고/ecx
+11	있다	있+다	AUX	_	10	aux	_	_	있/px+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그 동안 유럽은 동서 냉전의 최전선이 되어 왔다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	동안	동안	NOUN	_	7	advmod	_	_	동안/nbn
+3	유럽은	유럽+은	PROPN	_	7	dislocated	_	_	유럽/nq+은/jxt
+4	동서	동서	NOUN	_	5	compound	_	_	동서/ncn
+5	냉전의	냉전+의	NOUN	_	6	nmod	_	_	냉전/ncn+의/jcm
+6	최전선이	최전선+이	NOUN	_	7	csubj	_	_	최전선/ncn+이/jcc
+7	되어	되+어	VERB	_	0	root	_	_	되/pvg+어/ecx
+8	왔다	오+았+다	AUX	_	7	aux	_	_	오/px+았/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 역설적으로 들릴지도 모르겠지만 미 소의 양극구조 , 동서의 대치상황이 오히려 대규모 무력 충돌을 방지하는 역할을 했다 .
+1	역설적으로	역설+적+으로	ADV	_	2	advcl	_	_	역설/ncn+적/xsn+으로/jca
+2	들릴지도	들리+ㄹ지+도	ADV	_	3	ccomp	_	_	들리/pvg+ㄹ지/ecs+도/jxc
+3	모르겠지만	모르+겠+지만	SCONJ	_	16	ccomp	_	_	모르/pvg+겠/ep+지만/ecs
+4	미	미	PROPN	_	5	flat	_	_	미/nq
+5	소의	소+의	PROPN	_	6	nmod	_	_	소/nq+의/jcm
+6	양극구조	양극+구조	NOUN	_	9	compound	_	_	양극/ncn+구조/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	동서의	동서+의	NOUN	_	9	nmod	_	_	동서/ncn+의/jcm
+9	대치상황이	대치+상황+이	NOUN	_	14	nsubj	_	_	대치/ncpa+상황/ncn+이/jcs
+10	오히려	오히려	ADV	_	14	advmod	_	_	오히려/mag
+11	대규모	대규모	NOUN	_	13	compound	_	_	대규모/ncn
+12	무력	무력	NOUN	_	13	compound	_	_	무력/ncn
+13	충돌을	충돌+을	NOUN	_	14	obj	_	_	충돌/ncpa+을/jco
+14	방지하는	방지+하+는	VERB	_	15	acl	_	_	방지/ncpa+하/xsv+는/etm
+15	역할을	역할+을	NOUN	_	16	obj	_	_	역할/ncn+을/jco
+16	했다	하+었+다	VERB	_	0	root	_	_	하/pvg+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그리고 이 개혁을 추진하기 위해서는 서방과의 대립을 완화해야 할 필요가 있었다 .
+1	그리고	그리고	CCONJ	_	11	cc	_	_	그리고/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	개혁을	개혁+을	NOUN	_	4	obj	_	_	개혁/ncpa+을/jco
+4	추진하기	추진+하+기	VERB	_	5	nmod	_	_	추진/ncpa+하/xsv+기/etn
+5	위해서는	위하+어서+는	NOUN	_	11	dep	_	_	위하/pvg+어서/ecs+는/jxt
+6	서방과의	서방+과+의	NOUN	_	7	nmod	_	_	서방/ncn+과/jct+의/jcm
+7	대립을	대립+을	NOUN	_	8	obj	_	_	대립/ncpa+을/jco
+8	완화해야	완화+하+어야	VERB	_	10	acl	_	_	완화/ncpa+하/xsv+어야/ecx
+9	할	하+ㄹ	AUX	_	8	aux	_	_	하/px+ㄹ/etm
+10	필요가	필요+가	NOUN	_	11	nsubj	_	_	필요/ncpa+가/jcs
+11	있었다	있+었+다	ADJ	_	0	root	_	_	있/paa+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 고르바초프는 동유럽의 혁명을 방관 내지는 측면 지원했고 독일의 통일을 용인했다 .
+1	고르바초프는	고르바초프+는	PROPN	_	10	dislocated	_	_	고르바초프/nq+는/jxt
+2	동유럽의	동유럽+의	PROPN	_	3	nmod	_	_	동유럽/nq+의/jcm
+3	혁명을	혁명+을	NOUN	_	7	obj	_	_	혁명/ncpa+을/jco
+4	방관	방관	NOUN	_	7	compound	_	_	방관/ncpa
+5	내지는	내지+는	NOUN	_	7	cc	_	_	내지/maj+는/jxt
+6	측면	측면	NOUN	_	7	compound	_	_	측면/ncn
+7	지원했고	지원+하+었+고	CCONJ	_	10	conj	_	_	지원/ncpa+하/xsv+었/ep+고/ecc
+8	독일의	독일+의	PROPN	_	9	nmod	_	_	독일/nq+의/jcm
+9	통일을	통일+을	NOUN	_	10	obj	_	_	통일/ncpa+을/jco
+10	용인했다	용인+하+었+다	VERB	_	0	root	_	_	용인/ncpa+하/xsv+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이것이 거꾸로 소련에게 영향을 미쳐 소연방의 붕괴를 촉진시켰다 .
+1	이것이	이것+이	PRON	_	5	nsubj	_	_	이것/npd+이/jcs
+2	거꾸로	거꾸로	ADV	_	5	advmod	_	_	거꾸로/mag
+3	소련에게	소련+에게	ADV	_	5	iobj	_	_	소련/nq+에게/jca
+4	영향을	영향+을	NOUN	_	5	obj	_	_	영향/ncn+을/jco
+5	미쳐	미치+어	SCONJ	_	8	ccomp	_	_	미치/pvg+어/ecs
+6	소연방의	소연방+의	PROPN	_	7	nmod	_	_	소연방/nq+의/jcm
+7	붕괴를	붕괴+를	NOUN	_	8	obj	_	_	붕괴/ncpa+를/jco
+8	촉진시켰다	촉진+시키+었+다	VERB	_	0	root	_	_	촉진/ncpa+시키/xsv+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이 회담에는 미국의 루스벨트 대통령 , 처칠 영국 수상 , 그리고 소련의 스탈린 서기장이 참석했다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	회담에는	회담+에+는	NOUN	_	15	dislocated	_	_	회담/ncpa+에/jca+는/jxt
+3	미국의	미국+의	PROPN	_	5	nmod	_	_	미국/nq+의/jcm
+4	루스벨트	루스벨트	PROPN	_	5	compound	_	_	루스벨트/nq
+5	대통령	대통령	NOUN	_	9	compound	_	_	대통령/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	처칠	처칠	PROPN	_	9	compound	_	_	처칠/nq
+8	영국	영국	PROPN	_	9	compound	_	_	영국/nq
+9	수상	수상	NOUN	_	14	conj	_	_	수상/ncn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	그리고	그리고	CCONJ	_	14	cc	_	_	그리고/maj
+12	소련의	소련+의	PROPN	_	14	nmod	_	_	소련/nq+의/jcm
+13	스탈린	스탈린	PROPN	_	14	compound	_	_	스탈린/nq
+14	서기장이	서기장+이	NOUN	_	15	nsubj	_	_	서기장/ncn+이/jcs
+15	참석했다	참석+하+었+다	VERB	_	0	root	_	_	참석/ncpa+하/xsv+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이후 소련은 유럽의 동반부에 사회주의 정권을 수립시켜 철의 장막을 만들어냈다 .
+1	이후	이후	NOUN	_	10	advmod	_	_	이후/ncn
+2	소련은	소련+은	PROPN	_	10	dislocated	_	_	소련/nq+은/jxt
+3	유럽의	유럽+의	PROPN	_	4	nmod	_	_	유럽/nq+의/jcm
+4	동반부에	동반부+에	ADV	_	7	obl	_	_	동반부/ncn+에/jca
+5	사회주의	사회주의	NOUN	_	6	compound	_	_	사회주의/ncn
+6	정권을	정권+을	NOUN	_	7	obj	_	_	정권/ncn+을/jco
+7	수립시켜	수립+시키+어	SCONJ	_	10	ccomp	_	_	수립/ncpa+시키/xsv+어/ecs
+8	철의	철+의	NOUN	_	9	nmod	_	_	철/ncn+의/jcm
+9	장막을	장막+을	NOUN	_	10	obj	_	_	장막/ncn+을/jco
+10	만들어냈다	만들+어+내+었+다	AUX	_	0	root	_	_	만들/pvg+어/ecx+내/px+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그 결과 수세기에 걸쳐 존속되어 왔던 중부 유럽은 그 모습을 감추게 되었다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	결과	결과	NOUN	_	11	advmod	_	_	결과/ncpa
+3	수세기에	수세기+에	ADV	_	4	obl	_	_	수세기/ncn+에/jca
+4	걸쳐	걸치+어	SCONJ	_	5	ccomp	_	_	걸치/pvg+어/ecs
+5	존속되어	존속+되+어	VERB	_	8	acl	_	_	존속/ncpa+되/xsv+어/ecx
+6	왔던	오+았+던	AUX	_	5	aux	_	_	오/px+았/ep+던/etm
+7	중부	중부	NOUN	_	8	compound	_	_	중부/ncn
+8	유럽은	유럽+은	PROPN	_	11	dislocated	_	_	유럽/nq+은/jxt
+9	그	그	DET	_	10	det	_	_	그/mmd
+10	모습을	모습+을	NOUN	_	11	obj	_	_	모습/ncn+을/jco
+11	감추게	감추+게	VERB	_	0	root	_	_	감추/pvg+게/ecx
+12	되었다	되+었+다	AUX	_	11	aux	_	_	되/px+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 현실적으로 보아 민족 문제는 무력에 의해 억압되었지만 그렇다고 해서 언어와 습관마저 말살할 수는 없었다 .
+1	현실적으로	현실+적+으로	ADV	_	2	advcl	_	_	현실/ncn+적/xsn+으로/jca
+2	보아	보+아	SCONJ	_	7	ccomp	_	_	보/pvg+아/ecs
+3	민족	민족	NOUN	_	4	compound	_	_	민족/ncn
+4	문제는	문제+는	NOUN	_	7	dislocated	_	_	문제/ncn+는/jxt
+5	무력에	무력+에	ADV	_	6	obl	_	_	무력/ncn+에/jca
+6	의해	의하+어	SCONJ	_	7	ccomp	_	_	의하/pvg+어/ecs
+7	억압되었지만	억압+되+었+지만	SCONJ	_	12	ccomp	_	_	억압/ncpa+되/xsv+었/ep+지만/ecs
+8	그렇다고	그렇+다+고	VERB	_	9	conj	_	_	그렇/pad+다/ef+고/jcr
+9	해서	하+어서	SCONJ	_	12	ccomp	_	_	하/pvg+어서/ecs
+10	언어와	언어+와	CCONJ	_	11	conj	_	_	언어/ncn+와/jcj
+11	습관마저	습관+마저	ADV	_	12	advcl	_	_	습관/ncn+마저/jxc
+12	말살할	말살+하+ㄹ	VERB	_	0	root	_	_	말살/ncpa+하/xsv+ㄹ/etm
+13	수는	수+는	NOUN	_	14	fixed	_	_	수/nbn+는/jxt
+14	없었다	없+었+다	ADJ	_	12	aux	_	_	없/paa+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 동유럽의 혁명과 소련의 붕괴에 따라 사회주의 내부에 겹겹이 쌓여 있던 모순이 일거에 분출했다 .
+1	동유럽의	동유럽+의	PROPN	_	2	nmod	_	_	동유럽/nq+의/jcm
+2	혁명과	혁명+과	CCONJ	_	4	conj	_	_	혁명/ncpa+과/jcj
+3	소련의	소련+의	PROPN	_	4	nmod	_	_	소련/nq+의/jcm
+4	붕괴에	붕괴+에	ADV	_	5	obl	_	_	붕괴/ncpa+에/jca
+5	따라	따르+아	SCONJ	_	13	ccomp	_	_	따르/pvg+아/ecs
+6	사회주의	사회주의	NOUN	_	7	compound	_	_	사회주의/ncn
+7	내부에	내부+에	ADV	_	9	obl	_	_	내부/ncn+에/jca
+8	겹겹이	겹겹이	ADV	_	9	advmod	_	_	겹겹이/mag
+9	쌓여	쌓이+어	VERB	_	11	acl	_	_	쌓이/pvg+어/ecx
+10	있던	있+던	AUX	_	9	aux	_	_	있/px+던/etm
+11	모순이	모순+이	NOUN	_	13	nsubj	_	_	모순/ncpa+이/jcs
+12	일거에	일거+에	ADV	_	13	obl	_	_	일거/ncn+에/jca
+13	분출했다	분출+하+었+다	VERB	_	0	root	_	_	분출/ncpa+하/xsv+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 민족 , 역사 , 문화 등이 개념을 무시하고 패전국측에 가혹한 희생을 강요한 인위적인 국경선 변경은 후유증을 낳았다 .
+1	민족	민족	NOUN	_	3	conj	_	_	민족/ncn
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	역사	역사	NOUN	_	5	conj	_	_	역사/ncn
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	문화	문화	NOUN	_	6	compound	_	_	문화/ncn
+6	등이	등+의	NOUN	_	7	nmod	_	_	등/nbn+의/jcm
+7	개념을	개념+을	NOUN	_	8	obj	_	_	개념/ncn+을/jco
+8	무시하고	무시+하+고	CCONJ	_	12	conj	_	_	무시/ncpa+하/xsv+고/ecc
+9	패전국측에	패전국+측+에	ADV	_	12	obl	_	_	패전국/ncn+측/xsn+에/jca
+10	가혹한	가혹+하+ㄴ	VERB	_	11	amod	_	_	가혹/ncps+하/xsm+ㄴ/etm
+11	희생을	희생+을	NOUN	_	12	obj	_	_	희생/ncpa+을/jco
+12	강요한	강요+하+ㄴ	VERB	_	15	acl	_	_	강요/ncpa+하/xsv+ㄴ/etm
+13	인위적인	인위+적+이+ㄴ	VERB	_	15	acl	_	_	인위/ncn+적/xsn+이/jp+ㄴ/etm
+14	국경선	국경선	NOUN	_	15	compound	_	_	국경선/ncn
+15	변경은	변경+은	NOUN	_	17	dislocated	_	_	변경/ncpa+은/jxt
+16	후유증을	후유증+을	NOUN	_	17	obj	_	_	후유증/ncn+을/jco
+17	낳았다	낳+았+다	VERB	_	0	root	_	_	낳/pvg+았/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그리고 유고 분쟁 , 체코슬로바키아의 분열이라는 형태로 그 후유증이 냉전 종식 후의 유럽에서 드러나고 있는 것이다 .
+1	그리고	그리고	CCONJ	_	14	cc	_	_	그리고/maj
+2	유고	유고	PROPN	_	3	compound	_	_	유고/nq
+3	분쟁	분쟁	NOUN	_	6	compound	_	_	분쟁/ncpa
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	체코슬로바키아의	체코슬로바키아+의	PROPN	_	6	nmod	_	_	체코슬로바키아/nq+의/jcm
+6	분열이라는	분열+이+라는	VERB	_	7	acl	_	_	분열/ncpa+이/jp+라는/etm
+7	형태로	형태+로	ADV	_	14	advcl	_	_	형태/ncn+로/jca
+8	그	그	DET	_	9	det	_	_	그/mmd
+9	후유증이	후유증+이	NOUN	_	14	nsubj	_	_	후유증/ncn+이/jcs
+10	냉전	냉전	NOUN	_	11	compound	_	_	냉전/ncn
+11	종식	종식	NOUN	_	12	compound	_	_	종식/ncn
+12	후의	후+의	NOUN	_	13	nmod	_	_	후/ncn+의/jcm
+13	유럽에서	유럽+에서	ADV	_	14	advcl	_	_	유럽/nq+에서/jca
+14	드러나고	드러나+고	VERB	_	0	root	_	_	드러나/pvg+고/ecx
+15	있는	있+는	AUX	_	14	aux	_	_	있/px+는/etm
+16	것이다	것+이+다	VERB	_	14	aux	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 사회주의를 포기한 구소련과 동유럽 지역이 민주주의와 시장경제를 확립하여 안정된 상태로 들어가기까지에는 상당한 시간이 소요될 것이다 .
+1	사회주의를	사회주의+를	NOUN	_	2	obj	_	_	사회주의/ncn+를/jco
+2	포기한	포기+하+ㄴ	VERB	_	5	acl	_	_	포기/ncpa+하/xsv+ㄴ/etm
+3	구소련과	구소련+과	CCONJ	_	5	conj	_	_	구소련/nq+과/jcj
+4	동유럽	동유럽	PROPN	_	5	compound	_	_	동유럽/nq
+5	지역이	지역+이	NOUN	_	11	nsubj	_	_	지역/ncn+이/jcs
+6	민주주의와	민주주의+와	CCONJ	_	7	conj	_	_	민주주의/ncn+와/jcj
+7	시장경제를	시장경제+를	NOUN	_	8	obj	_	_	시장경제/ncn+를/jco
+8	확립하여	확립+하+어	SCONJ	_	11	ccomp	_	_	확립/ncpa+하/xsv+어/ecs
+9	안정된	안정+되+ㄴ	VERB	_	10	amod	_	_	안정/ncps+되/xsm+ㄴ/etm
+10	상태로	상태+로	ADV	_	11	advcl	_	_	상태/ncn+로/jca
+11	들어가기까지에는	들어가+기+까지+에+는	NOUN	_	14	dislocated	_	_	들어가/pvg+기/etn+까지/jxc+에/jca+는/jxt
+12	상당한	상당+하+ㄴ	VERB	_	13	amod	_	_	상당/ncps+하/xsm+ㄴ/etm
+13	시간이	시간+이	NOUN	_	14	nsubj	_	_	시간/ncn+이/jcs
+14	소요될	소요+되+ㄹ	VERB	_	0	root	_	_	소요/ncpa+되/xsv+ㄹ/etm
+15	것이다	것+이+다	VERB	_	14	aux	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그 동안 구소련은 몇 차례에 걸쳐 정치적 사회적 혼란 내지는 변혁을 경험하게 될 것이다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	동안	동안	NOUN	_	12	advmod	_	_	동안/nbn
+3	구소련은	구소련+은	PROPN	_	12	dislocated	_	_	구소련/nq+은/jxt
+4	몇	몇	NUM	_	5	nummod	_	_	몇/nnc
+5	차례에	차례+에	ADV	_	6	obl	_	_	차례/ncn+에/jca
+6	걸쳐	걸치+어	SCONJ	_	12	ccomp	_	_	걸치/pvg+어/ecs
+7	정치적	정치+적	NOUN	_	8	dep	_	_	정치/ncpa+적/xsn
+8	사회적	사회+적	NOUN	_	11	amod	_	_	사회/ncn+적/xsn
+9	혼란	혼란	NOUN	_	11	compound	_	_	혼란/ncpa
+10	내지는	내지+는	NOUN	_	11	cc	_	_	내지/maj+는/jxt
+11	변혁을	변혁+을	NOUN	_	12	obj	_	_	변혁/ncpa+을/jco
+12	경험하게	경험+하+게	VERB	_	0	root	_	_	경험/ncpa+하/xsv+게/ecx
+13	될	되+ㄹ	AUX	_	12	aux	_	_	되/px+ㄹ/etm
+14	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 경제를 개혁하고 시민생활을 안전시키기 위해서는 엄청난 노력을 경주해야 하며 인내가 절대 불가결의 요소이기 때문이다 .
+1	경제를	경제+를	NOUN	_	2	obj	_	_	경제/ncn+를/jco
+2	개혁하고	개혁+하+고	CCONJ	_	4	conj	_	_	개혁/ncpa+하/xsv+고/ecc
+3	시민생활을	시민+생활+을	NOUN	_	4	obj	_	_	시민/ncn+생활/ncpa+을/jco
+4	안전시키기	안전+시키+기	VERB	_	5	nmod	_	_	안전/ncpa+시키/xsv+기/etn
+5	위해서는	위하+어서+는	NOUN	_	13	ccomp	_	_	위하/pvg+어서/ecs+는/jxt
+6	엄청난	엄청나+ㄴ	ADJ	_	7	amod	_	_	엄청나/paa+ㄴ/etm
+7	노력을	노력+을	NOUN	_	8	obj	_	_	노력/ncpa+을/jco
+8	경주해야	경주+하+어야	VERB	_	13	conj	_	_	경주/ncpa+하/xsv+어야/ecx
+9	하며	하+며	CCONJ	_	8	aux	_	_	하/px+며/ecc
+10	인내가	인내+가	NOUN	_	13	nsubj	_	_	인내/ncn+가/jcs
+11	절대	절대	NOUN	_	12	compound	_	_	절대/ncn
+12	불가결의	불가결+의	NOUN	_	13	nmod	_	_	불가결/ncpa+의/jcm
+13	요소이기	요소+이+기	VERB	_	0	root	_	_	요소/ncn+이/jp+기/etn
+14	때문이다	때문+이+다	VERB	_	13	aux	_	_	때문/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 특히 지역적으로 같은 기독교 문화권에 속하는 구 서유럽 각국의 역할은 매우 중요하다고 할 수 있다 .
+1	특히	특히	ADV	_	3	advmod	_	_	특히/mag
+2	지역적으로	지역+적+으로	ADV	_	3	advcl	_	_	지역/ncn+적/xsn+으로/jca
+3	같은	같+ㄴ	ADJ	_	9	amod	_	_	같/paa+ㄴ/etm
+4	기독교	기독교	NOUN	_	5	compound	_	_	기독교/ncn
+5	문화권에	문화권+에	ADV	_	6	obl	_	_	문화권/ncn+에/jca
+6	속하는	속하+는	VERB	_	9	acl	_	_	속하/pvg+는/etm
+7	구	구	PROPN	_	8	flat	_	_	구/nq
+8	서유럽	서유럽	PROPN	_	9	compound	_	_	서유럽/nq
+9	각국의	각국+의	NOUN	_	10	nmod	_	_	각국/ncn+의/jcm
+10	역할은	역할+은	NOUN	_	12	dislocated	_	_	역할/ncn+은/jxt
+11	매우	매우	ADV	_	12	advmod	_	_	매우/mag
+12	중요하다고	중요+하+다+고	VERB	_	13	conj	_	_	중요/ncps+하/xsm+다/ef+고/jcr
+13	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있다	있+다	ADJ	_	13	aux	_	_	있/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그러나 EC 통합의 심화 확대가 배타적인 경제 블록을 형성하는 데 그치고 만다면 세계경제의 발전을 저해하는 결과를 낳게 될 것이다 .
+1	그러나	그러나	CCONJ	_	17	cc	_	_	그러나/maj
+2	EC	EC	X	_	3	compound	_	_	EC/f
+3	통합의	통합+의	NOUN	_	5	nmod	_	_	통합/ncpa+의/jcm
+4	심화	심화	NOUN	_	5	compound	_	_	심화/ncpa
+5	확대가	확대+가	NOUN	_	11	nsubj	_	_	확대/ncpa+가/jcs
+6	배타적인	배타+적+이+ㄴ	VERB	_	8	acl	_	_	배타/ncn+적/xsn+이/jp+ㄴ/etm
+7	경제	경제	NOUN	_	8	compound	_	_	경제/ncn
+8	블록을	블록+을	NOUN	_	9	obj	_	_	블록/ncn+을/jco
+9	형성하는	형성+하+는	VERB	_	10	acl	_	_	형성/ncpa+하/xsv+는/etm
+10	데	데	NOUN	_	11	mark	_	_	데/nbn
+11	그치고	그치+고	VERB	_	17	ccomp	_	_	그치/pvg+고/ecx
+12	만다면	말+ㄴ다면	SCONJ	_	11	aux	_	_	말/px+ㄴ다면/ecs
+13	세계경제의	세계+경제+의	NOUN	_	14	nmod	_	_	세계/ncn+경제/ncn+의/jcm
+14	발전을	발전+을	NOUN	_	15	obj	_	_	발전/ncpa+을/jco
+15	저해하는	저해+하+는	VERB	_	16	acl	_	_	저해/ncpa+하/xsv+는/etm
+16	결과를	결과+를	NOUN	_	17	obj	_	_	결과/ncpa+를/jco
+17	낳게	낳+게	VERB	_	0	root	_	_	낳/pvg+게/ecx
+18	될	되+ㄹ	AUX	_	17	aux	_	_	되/px+ㄹ/etm
+19	것이다	것+이+다	VERB	_	17	aux	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 따라서 보호주의를 배제하고 자유무역을 유지하는 것이 경제 발전의 필수불가결한 요소인 것이다 .
+1	따라서	따라서	CCONJ	_	11	cc	_	_	따라서/maj
+2	보호주의를	보호주의+를	NOUN	_	3	obj	_	_	보호주의/ncn+를/jco
+3	배제하고	배제+하+고	CCONJ	_	5	conj	_	_	배제/ncpa+하/xsv+고/ecc
+4	자유무역을	자유+무역+을	NOUN	_	5	obj	_	_	자유/ncn+무역/ncpa+을/jco
+5	유지하는	유지+하+는	VERB	_	6	acl	_	_	유지/ncpa+하/xsv+는/etm
+6	것이	것+이	NOUN	_	10	nsubj	_	_	것/nbn+이/jcs
+7	경제	경제	NOUN	_	8	compound	_	_	경제/ncn
+8	발전의	발전+의	NOUN	_	10	nmod	_	_	발전/ncpa+의/jcm
+9	필수불가결한	필수불가결+하+ㄴ	VERB	_	10	amod	_	_	필수불가결/ncps+하/xsm+ㄴ/etm
+10	요소인	요소+이+ㄴ	VERB	_	11	ccomp	_	_	요소/ncn+이/jp+ㄴ/etm
+11	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 여기서 경제대국인 독일의 역할을 잠시 짚어보기로 하자 .
+1	여기서	여기+서	ADV	_	6	advcl	_	_	여기/npd+서/jca
+2	경제대국인	경제+대국+이+ㄴ	VERB	_	3	acl	_	_	경제/ncn+대국/ncn+이/jp+ㄴ/etm
+3	독일의	독일+의	PROPN	_	4	nmod	_	_	독일/nq+의/jcm
+4	역할을	역할+을	NOUN	_	6	obj	_	_	역할/ncn+을/jco
+5	잠시	잠시	ADV	_	6	advmod	_	_	잠시/mag
+6	짚어보기로	짚+어+보+기+로	ADV	_	7	advcl	_	_	짚/pvg+어/ecx+보/px+기/etn+로/jca
+7	하자	하+자	VERB	_	0	root	_	_	하/pvg+자/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 통일 전의 서독은 미국 , 일본에 다음 가는 경제 규모를 유지했고 그 통화인 마르크화는 달러화에 다음 가는 준비통화로서 기능을 발휘했었다 .
+1	통일	통일	NOUN	_	2	compound	_	_	통일/ncpa
+2	전의	전+의	NOUN	_	3	nmod	_	_	전/ncn+의/jcm
+3	서독은	서독+은	PROPN	_	11	dislocated	_	_	서독/nq+은/jxt
+4	미국	미국	PROPN	_	6	conj	_	_	미국/nq
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	일본에	일본+에	ADV	_	8	obl	_	_	일본/nq+에/jca
+7	다음	다음	NOUN	_	8	dep	_	_	다음/ncn
+8	가는	가+는	VERB	_	10	acl	_	_	가/pvg+는/etm
+9	경제	경제	NOUN	_	10	compound	_	_	경제/ncn
+10	규모를	규모+를	NOUN	_	11	obj	_	_	규모/ncn+를/jco
+11	유지했고	유지+하+었+고	CCONJ	_	20	conj	_	_	유지/ncpa+하/xsv+었/ep+고/ecc
+12	그	그	DET	_	13	det	_	_	그/mmd
+13	통화인	통화+이+ㄴ	VERB	_	14	acl	_	_	통화/ncn+이/jp+ㄴ/etm
+14	마르크화는	마르크화+는	PROPN	_	20	dislocated	_	_	마르크화/nq+는/jxt
+15	달러화에	달러화+에	ADV	_	17	obl	_	_	달러화/nq+에/jca
+16	다음	다음	NOUN	_	17	dep	_	_	다음/ncn
+17	가는	가+는	VERB	_	18	acl	_	_	가/pvg+는/etm
+18	준비통화로서	준비+통화+로서	ADV	_	20	advcl	_	_	준비/ncpa+통화/ncn+로서/jca
+19	기능을	기능+을	NOUN	_	20	obj	_	_	기능/ncpa+을/jco
+20	발휘했었다	발휘+하+었었+다	VERB	_	0	root	_	_	발휘/ncpa+하/xsv+었었/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 동 서독이 통일되면서 유럽 대륙의 중앙부에 인구 약 8 , 000 만의 대국인 독일이 부활하게 되었다 .
+1	동	동	PROPN	_	2	flat	_	_	동/nq
+2	서독이	서독+이	PROPN	_	3	nsubj	_	_	서독/nq+이/jcs
+3	통일되면서	통일+되+면서	CCONJ	_	15	conj	_	_	통일/ncpa+되/xsv+면서/ecc
+4	유럽	유럽	PROPN	_	5	compound	_	_	유럽/nq
+5	대륙의	대륙+의	NOUN	_	6	nmod	_	_	대륙/ncn+의/jcm
+6	중앙부에	중앙부+에	ADV	_	15	obl	_	_	중앙부/ncn+에/jca
+7	인구	인구	NOUN	_	12	compound	_	_	인구/ncn
+8	약	약	ADJ	_	12	amod	_	_	약/mma
+9	8	8	NUM	_	11	conj	_	_	8/nnc
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	000	000	NUM	_	12	nummod	_	_	000/nnc
+12	만의	만+의	NUM	_	13	nmod	_	_	만/nnc+의/jcm
+13	대국인	대국+이+ㄴ	VERB	_	14	acl	_	_	대국/ncn+이/jp+ㄴ/etm
+14	독일이	독일+이	PROPN	_	15	nsubj	_	_	독일/nq+이/jcs
+15	부활하게	부활+하+게	VERB	_	0	root	_	_	부활/ncpa+하/xsv+게/ecx
+16	되었다	되+었+다	AUX	_	15	aux	_	_	되/px+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 독일은 구동독 지역을 시장경제화하여 재건하는 데에는 당초의 예상을 훨씬 상회하는 자금이 필요하다는 것을 분명하게 알게 되었다 .
+1	독일은	독일+은	PROPN	_	15	dislocated	_	_	독일/nq+은/jxt
+2	구동독	구동독	PROPN	_	3	compound	_	_	구동독/nq
+3	지역을	지역+을	NOUN	_	4	obj	_	_	지역/ncn+을/jco
+4	시장경제화하여	시장+경제화+하+어	SCONJ	_	5	ccomp	_	_	시장/ncn+경제화/ncpa+하/xsv+어/ecs
+5	재건하는	재건+하+는	VERB	_	6	acl	_	_	재건/ncpa+하/xsv+는/etm
+6	데에는	데+에+는	NOUN	_	12	dislocated	_	_	데/nbn+에/jca+는/jxt
+7	당초의	당초+의	NOUN	_	8	nmod	_	_	당초/ncn+의/jcm
+8	예상을	예상+을	NOUN	_	10	obj	_	_	예상/ncpa+을/jco
+9	훨씬	훨씬	ADV	_	10	advmod	_	_	훨씬/mag
+10	상회하는	상회+하+는	VERB	_	11	acl	_	_	상회/ncpa+하/xsv+는/etm
+11	자금이	자금+이	NOUN	_	12	nsubj	_	_	자금/ncn+이/jcs
+12	필요하다는	필요+하+다는	VERB	_	13	acl	_	_	필요/ncpa+하/xsv+다는/etm
+13	것을	것+을	NOUN	_	15	obj	_	_	것/nbn+을/jco
+14	분명하게	분명+하+게	SCONJ	_	15	xcomp	_	_	분명/ncps+하/xsm+게/ecs
+15	알게	알+게	VERB	_	0	root	_	_	알/pvg+게/ecx
+16	되었다	되+었+다	AUX	_	15	aux	_	_	되/px+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 따라서 독일 정부는 현재 고전을 하고 있지만 시간을 들여 가며 이 문제를 해결해야 할 것이다 .
+1	따라서	따라서	CCONJ	_	13	cc	_	_	따라서/maj
+2	독일	독일	PROPN	_	3	compound	_	_	독일/nq
+3	정부는	정부+는	NOUN	_	13	dislocated	_	_	정부/ncn+는/jxt
+4	현재	현재	NOUN	_	6	advmod	_	_	현재/ncn
+5	고전을	고전+을	NOUN	_	6	obj	_	_	고전/ncpa+을/jco
+6	하고	하+고	VERB	_	13	ccomp	_	_	하/pvg+고/ecx
+7	있지만	있+지만	SCONJ	_	6	aux	_	_	있/px+지만/ecs
+8	시간을	시간+을	NOUN	_	9	obj	_	_	시간/ncn+을/jco
+9	들여	들이+어	VERB	_	13	conj	_	_	들이/pvg+어/ecx
+10	가며	가+며	CCONJ	_	9	aux	_	_	가/px+며/ecc
+11	이	이	DET	_	12	det	_	_	이/mmd
+12	문제를	문제+를	NOUN	_	13	obj	_	_	문제/ncn+를/jco
+13	해결해야	해결+하+어야	VERB	_	0	root	_	_	해결/ncpa+하/xsv+어야/ecx
+14	할	하+ㄹ	AUX	_	13	aux	_	_	하/px+ㄹ/etm
+15	것이다	것+이+다	VERB	_	13	aux	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그러나 프랑스의 지도자들은 냉전 사고에서 벗어나지 못하고 독일을 억제해야 한다는 의식이 앞서 장기적인 전망을 세우지 못하고 있는 실정이다 .
+1	그러나	그러나	CCONJ	_	18	cc	_	_	그러나/maj
+2	프랑스의	프랑스+의	PROPN	_	3	nmod	_	_	프랑스/nq+의/jcm
+3	지도자들은	지도자+들+은	NOUN	_	15	dislocated	_	_	지도자/ncn+들/xsn+은/jxt
+4	냉전	냉전	NOUN	_	5	compound	_	_	냉전/ncn
+5	사고에서	사고+에서	ADV	_	6	advcl	_	_	사고/ncpa+에서/jca
+6	벗어나지	벗어나+지	VERB	_	12	conj	_	_	벗어나/pvg+지/ecx
+7	못하고	못하+고	CCONJ	_	6	aux	_	_	못하/px+고/ecc
+8	독일을	독일+을	PROPN	_	9	obj	_	_	독일/nq+을/jco
+9	억제해야	억제+하+어야	VERB	_	11	acl	_	_	억제/ncpa+하/xsv+어야/ecx
+10	한다는	하+ㄴ다는	AUX	_	9	aux	_	_	하/px+ㄴ다는/etm
+11	의식이	의식+이	NOUN	_	12	nsubj	_	_	의식/ncpa+이/jcs
+12	앞서	앞서+어	SCONJ	_	15	ccomp	_	_	앞서/pvg+어/ecs
+13	장기적인	장기+적+이+ㄴ	VERB	_	14	acl	_	_	장기/ncn+적/xsn+이/jp+ㄴ/etm
+14	전망을	전망+을	NOUN	_	15	obj	_	_	전망/ncn+을/jco
+15	세우지	세우+지	VERB	_	18	ccomp	_	_	세우/pvg+지/ecx
+16	못하고	못하+고	AUX	_	15	aux	_	_	못하/px+고/ecx
+17	있는	있+는	AUX	_	15	aux	_	_	있/px+는/etm
+18	실정이다	실정+이+다	VERB	_	0	root	_	_	실정/ncn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이 가교 역할은 지리적인 관계로 보아 당연한 것이지만 역사적 문화적으로도 필연성이 있는 것이다 .
+1	이	이	DET	_	3	det	_	_	이/mmd
+2	가교	가교	NOUN	_	3	compound	_	_	가교/ncn
+3	역할은	역할+은	NOUN	_	12	dislocated	_	_	역할/ncn+은/jxt
+4	지리적인	지리+적+이+ㄴ	VERB	_	5	acl	_	_	지리/ncn+적/xsn+이/jp+ㄴ/etm
+5	관계로	관계+로	ADV	_	6	advcl	_	_	관계/ncpa+로/jca
+6	보아	보+아	SCONJ	_	7	conj	_	_	보/pvg+아/ecs
+7	당연한	당연+하+ㄴ	VERB	_	8	amod	_	_	당연/ncps+하/xsm+ㄴ/etm
+8	것이지만	것+이+지만	SCONJ	_	12	conj	_	_	것/nbn+이/jp+지만/ecs
+9	역사적	역사+적	NOUN	_	10	dep	_	_	역사/ncn+적/xsn
+10	문화적으로도	문화+적+으로+도	ADV	_	12	advcl	_	_	문화/ncn+적/xsn+으로/jca+도/jxc
+11	필연성이	필연성+이	NOUN	_	12	nsubj	_	_	필연성/ncn+이/jcs
+12	있는	있+는	ADJ	_	0	root	_	_	있/paa+는/etm
+13	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 히틀러는 동방 지역을 독일의 생존권으로 삼기 위해 폴란드를 침공하여 제2차 세계대전의 단초를 마련했다 .
+1	히틀러는	히틀러+는	PROPN	_	13	dislocated	_	_	히틀러/nq+는/jxt
+2	동방	동방	NOUN	_	3	compound	_	_	동방/ncn
+3	지역을	지역+을	NOUN	_	6	obj	_	_	지역/ncn+을/jco
+4	독일의	독일+의	PROPN	_	5	nmod	_	_	독일/nq+의/jcm
+5	생존권으로	생존권+으로	ADV	_	6	advcl	_	_	생존권/ncn+으로/jca
+6	삼기	삼+기	VERB	_	7	nmod	_	_	삼/pvg+기/etn
+7	위해	위하+어	SCONJ	_	13	ccomp	_	_	위하/pvg+어/ecs
+8	폴란드를	폴란드+를	PROPN	_	9	obj	_	_	폴란드/nq+를/jco
+9	침공하여	침공+하+어	SCONJ	_	13	ccomp	_	_	침공/ncpa+하/xsv+어/ecs
+10	제2차	제+2+차	PART	_	11	compound	_	_	제/xp+2/nno+차/nbu
+11	세계대전의	세계+대전+의	NOUN	_	12	nmod	_	_	세계/ncn+대전/ncn+의/jcm
+12	단초를	단초+를	NOUN	_	13	obj	_	_	단초/ncn+를/jco
+13	마련했다	마련+하+었+다	VERB	_	0	root	_	_	마련/ncpa+하/xsv+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 물론 역사적으로 볼 때 불행한 일이라 아니할 수 없다 .
+1	물론	물론	ADV	_	6	advmod	_	_	물론/mag
+2	역사적으로	역사+적+으로	ADV	_	3	advcl	_	_	역사/ncn+적/xsn+으로/jca
+3	볼	보+ㄹ	VERB	_	4	acl	_	_	보/pvg+ㄹ/etm
+4	때	때	NOUN	_	6	advmod	_	_	때/ncn
+5	불행한	불행+하+ㄴ	VERB	_	6	amod	_	_	불행/ncps+하/xsm+ㄴ/etm
+6	일이라	일+이+라	VERB	_	7	ccomp	_	_	일/ncpa+이/jp+라/ef
+7	아니할	아니하+ㄹ	VERB	_	0	root	_	_	아니하/pvg+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	없다	없+다	ADJ	_	7	aux	_	_	없/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러나 그 이전에 독일이 이들 지역에 근대문명을 전하는 중심적 역할을 수행했던 시기가 오랫동안 계속되었던 것도 사실이다 .
+1	그러나	그러나	CCONJ	_	16	cc	_	_	그러나/maj
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	이전에	이전+에	ADV	_	11	obl	_	_	이전/ncn+에/jca
+4	독일이	독일+이	PROPN	_	11	nsubj	_	_	독일/nq+이/jcs
+5	이들	이+들	NOUN	_	6	compound	_	_	이/npd+들/xsn
+6	지역에	지역+에	ADV	_	8	obl	_	_	지역/ncn+에/jca
+7	근대문명을	근대+문명+을	NOUN	_	8	obj	_	_	근대/ncn+문명/ncn+을/jco
+8	전하는	전하+는	VERB	_	10	acl	_	_	전하/pvg+는/etm
+9	중심적	중심+적	NOUN	_	10	amod	_	_	중심/ncn+적/xsn
+10	역할을	역할+을	NOUN	_	11	obj	_	_	역할/ncn+을/jco
+11	수행했던	수행+하+었+던	VERB	_	12	acl	_	_	수행/ncpa+하/xsv+었/ep+던/etm
+12	시기가	시기+가	NOUN	_	14	nsubj	_	_	시기/ncn+가/jcs
+13	오랫동안	오랫동안	NOUN	_	14	compound	_	_	오랫동안/ncn
+14	계속되었던	계속+되+었+던	VERB	_	15	acl	_	_	계속/ncpa+되/xsv+었/ep+던/etm
+15	것도	것+도	ADV	_	16	advcl	_	_	것/nbn+도/jxc
+16	사실이다	사실+이+다	VERB	_	0	root	_	_	사실/ncn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 독일의 동방 진출 성향은 여전하여 1989 년의 동유럽혁명 이래 독일의 기업들은 발빠르게 자본 진출을 진행하고 있다 .
+1	독일의	독일+의	PROPN	_	4	nmod	_	_	독일/nq+의/jcm
+2	동방	동방	NOUN	_	3	compound	_	_	동방/ncn
+3	진출	진출	NOUN	_	4	compound	_	_	진출/ncpa
+4	성향은	성향+은	NOUN	_	5	dislocated	_	_	성향/ncn+은/jxt
+5	여전하여	여전+하+어	SCONJ	_	15	xcomp	_	_	여전/ncps+하/xsm+어/ecs
+6	1989	1989	NUM	_	7	nummod	_	_	1989/nno
+7	년의	년+의	NOUN	_	8	nmod	_	_	년/nbu+의/jcm
+8	동유럽혁명	동유럽+혁명	NOUN	_	9	compound	_	_	동유럽/nq+혁명/ncpa
+9	이래	이래	NOUN	_	15	advmod	_	_	이래/ncn
+10	독일의	독일+의	PROPN	_	11	nmod	_	_	독일/nq+의/jcm
+11	기업들은	기업+들+은	NOUN	_	15	dislocated	_	_	기업/ncn+들/xsn+은/jxt
+12	발빠르게	발빠르+게	SCONJ	_	15	xcomp	_	_	발빠르/paa+게/ecs
+13	자본	자본	NOUN	_	14	compound	_	_	자본/ncn
+14	진출을	진출+을	NOUN	_	15	obj	_	_	진출/ncpa+을/jco
+15	진행하고	진행+하+고	VERB	_	0	root	_	_	진행/ncpa+하/xsv+고/ecx
+16	있다	있+다	AUX	_	15	aux	_	_	있/px+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 따라서 독일의 경제적 영향력이 중 동부 유럽으로 이동하는 것은 아주 자연스러운 일이라고 하겠다 .
+1	따라서	따라서	CCONJ	_	13	cc	_	_	따라서/maj
+2	독일의	독일+의	PROPN	_	4	nmod	_	_	독일/nq+의/jcm
+3	경제적	경제+적	NOUN	_	4	amod	_	_	경제/ncn+적/xsn
+4	영향력이	영향력+이	NOUN	_	8	nsubj	_	_	영향력/ncn+이/jcs
+5	중	중	NOUN	_	6	compound	_	_	중/ncn
+6	동부	동부	NOUN	_	7	compound	_	_	동부/ncn
+7	유럽으로	유럽+으로	ADV	_	8	advcl	_	_	유럽/nq+으로/jca
+8	이동하는	이동+하+는	VERB	_	9	acl	_	_	이동/ncpa+하/xsv+는/etm
+9	것은	것+은	NOUN	_	12	dislocated	_	_	것/nbn+은/jxt
+10	아주	아주	ADV	_	11	advmod	_	_	아주/mag
+11	자연스러운	자연+스럽+ㄴ	VERB	_	12	amod	_	_	자연/ncps+스럽/xsm+ㄴ/etm
+12	일이라고	일+이+라+고	VERB	_	13	conj	_	_	일/ncpa+이/jp+라/ef+고/jcr
+13	하겠다	하+겠+다	VERB	_	0	root	_	_	하/pvg+겠/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 서부 유럽이 통합을 추진하려는 배경에는 오랫동안 대립 항쟁해 온 역사의 쓰린 교훈으로부터 통합의 유익함을 배운 바가 있었기 때문이다 .
+1	서부	서부	NOUN	_	2	compound	_	_	서부/ncn
+2	유럽이	유럽+이	PROPN	_	4	nsubj	_	_	유럽/nq+이/jcs
+3	통합을	통합+을	NOUN	_	4	obj	_	_	통합/ncpa+을/jco
+4	추진하려는	추진+하+려는	VERB	_	5	acl	_	_	추진/ncpa+하/xsv+려는/etm
+5	배경에는	배경+에+는	NOUN	_	15	dislocated	_	_	배경/ncn+에/jca+는/jxt
+6	오랫동안	오랫동안	NOUN	_	8	advmod	_	_	오랫동안/ncn
+7	대립	대립	NOUN	_	8	compound	_	_	대립/ncpa
+8	항쟁해	항쟁+하+어	VERB	_	12	acl	_	_	항쟁/ncpa+하/xsv+어/ecx
+9	온	오+ㄴ	AUX	_	8	aux	_	_	오/px+ㄴ/etm
+10	역사의	역사+의	NOUN	_	12	nmod	_	_	역사/ncn+의/jcm
+11	쓰린	쓰리+ㄴ	ADJ	_	12	amod	_	_	쓰리/paa+ㄴ/etm
+12	교훈으로부터	교훈+으로+부터	ADV	_	15	advcl	_	_	교훈/ncn+으로/jca+부터/jxc
+13	통합의	통합+의	NOUN	_	14	nmod	_	_	통합/ncpa+의/jcm
+14	유익함을	유익+하+ㅁ+을	NOUN	_	15	obj	_	_	유익/ncps+하/xsm+ㅁ/etn+을/jco
+15	배운	배우+ㄴ	VERB	_	0	root	_	_	배우/pvg+ㄴ/etm
+16	바가	바+가	NOUN	_	17	fixed	_	_	바/nbn+가/jcs
+17	있었기	있+었+기	ADJ	_	15	aux	_	_	있/paa+었/ep+기/etn
+18	때문이다	때문+이+다	VERB	_	15	aux	_	_	때문/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그리고 빈곤이 과격한 민족주의를 조장하고 있는 면도 부인하기 어렵다 .
+1	그리고	그리고	CCONJ	_	9	cc	_	_	그리고/maj
+2	빈곤이	빈곤+이	NOUN	_	5	nsubj	_	_	빈곤/ncps+이/jcs
+3	과격한	과격+하+ㄴ	VERB	_	4	amod	_	_	과격/ncps+하/xsm+ㄴ/etm
+4	민족주의를	민족주의+를	NOUN	_	5	obj	_	_	민족주의/ncn+를/jco
+5	조장하고	조장+하+고	VERB	_	7	acl	_	_	조장/ncpa+하/xsv+고/ecx
+6	있는	있+는	AUX	_	5	aux	_	_	있/px+는/etm
+7	면도	면+도	ADV	_	8	advcl	_	_	면/nbn+도/jxc
+8	부인하기	부인+하+기	VERB	_	9	nmod	_	_	부인/ncpa+하/xsv+기/etn
+9	어렵다	어렵+다	ADJ	_	0	root	_	_	어렵/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이들 개발도상국 중 특히 인구가 1 , 000 만 이하의 작은 나라들은 경제 면에서 자립하기가 대단히 어렵다 .
+1	이들	이+들	NOUN	_	2	compound	_	_	이/npd+들/xsn
+2	개발도상국	개발+도상국	NOUN	_	3	compound	_	_	개발/ncpa+도상국/ncn
+3	중	중	NOUN	_	12	compound	_	_	중/ncn
+4	특히	특히	ADV	_	10	advmod	_	_	특히/mag
+5	인구가	인구+가	NOUN	_	10	nsubj	_	_	인구/ncn+가/jcs
+6	1	1	NUM	_	8	conj	_	_	1/nnc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	000	000	NUM	_	9	nummod	_	_	000/nnc
+9	만	만	NUM	_	10	nummod	_	_	만/nnc
+10	이하의	이하+의	NOUN	_	12	nmod	_	_	이하/ncn+의/jcm
+11	작은	작+ㄴ	ADJ	_	12	amod	_	_	작/paa+ㄴ/etm
+12	나라들은	나라+들+은	NOUN	_	17	dislocated	_	_	나라/ncn+들/xsn+은/jxt
+13	경제	경제	NOUN	_	14	compound	_	_	경제/ncn
+14	면에서	면+에서	ADV	_	17	advcl	_	_	면/nbn+에서/jca
+15	자립하기가	자립+하+기+가	NOUN	_	17	nsubj	_	_	자립/ncpa+하/xsv+기/etn+가/jcs
+16	대단히	대단+히	ADV	_	17	advmod	_	_	대단/ncpa+히/xsa
+17	어렵다	어렵+다	ADJ	_	0	root	_	_	어렵/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 전쟁의 시대가 끝나면서 군사동맹은 의미가 없어지게 되었다 .
+1	전쟁의	전쟁+의	NOUN	_	2	nmod	_	_	전쟁/ncpa+의/jcm
+2	시대가	시대+가	NOUN	_	3	nsubj	_	_	시대/ncn+가/jcs
+3	끝나면서	끝나+면서	CCONJ	_	6	conj	_	_	끝나/pvg+면서/ecc
+4	군사동맹은	군사+동맹+은	NOUN	_	6	dislocated	_	_	군사/ncn+동맹/ncpa+은/jxt
+5	의미가	의미+가	NOUN	_	6	nsubj	_	_	의미/ncpa+가/jcs
+6	없어지게	없+어+지+게	AUX	_	0	root	_	_	없/paa+어/ecx+지/px+게/ecx
+7	되었다	되+었+다	AUX	_	6	aux	_	_	되/px+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 동유럽의 바르샤바조약기구는 해체되었다 .
+1	동유럽의	동유럽+의	PROPN	_	2	nmod	_	_	동유럽/nq+의/jcm
+2	바르샤바조약기구는	바르샤바조약기구+는	PROPN	_	3	dislocated	_	_	바르샤바조약기구/nq+는/jxt
+3	해체되었다	해체+되+었+다	VERB	_	0	root	_	_	해체/ncpa+되/xsv+었/ep+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 유럽은 이제 군사력이 아닌 경제력이 안전 보장에 중요한 지렛대 역할을 하는 시대로 이행하고 있는 것이다 .
+1	유럽은	유럽+은	PROPN	_	13	dislocated	_	_	유럽/nq+은/jxt
+2	이제	이제	ADV	_	13	advmod	_	_	이제/mag
+3	군사력이	군사력+이	NOUN	_	4	nsubj	_	_	군사력/ncn+이/jcs
+4	아닌	아니+ㄴ	ADJ	_	5	amod	_	_	아니/paa+ㄴ/etm
+5	경제력이	경제력+이	NOUN	_	11	nsubj	_	_	경제력/ncn+이/jcs
+6	안전	안전	NOUN	_	7	compound	_	_	안전/ncps
+7	보장에	보장+에	ADV	_	8	obl	_	_	보장/ncpa+에/jca
+8	중요한	중요+하+ㄴ	VERB	_	10	amod	_	_	중요/ncps+하/xsm+ㄴ/etm
+9	지렛대	지렛대	NOUN	_	10	compound	_	_	지렛대/ncn
+10	역할을	역할+을	NOUN	_	11	obj	_	_	역할/ncn+을/jco
+11	하는	하+는	VERB	_	12	acl	_	_	하/pvg+는/etm
+12	시대로	시대+로	ADV	_	13	advcl	_	_	시대/ncn+로/jca
+13	이행하고	이행+하+고	VERB	_	0	root	_	_	이행/ncpa+하/xsv+고/ecx
+14	있는	있+는	AUX	_	13	aux	_	_	있/px+는/etm
+15	것이다	것+이+다	VERB	_	13	aux	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이 경우 새로운 역사를 쌓아 올리는 데 중추적 역할을 하게 될 것은 대륙의 중앙부에 위치한 독일의 경제력일 것이다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	경우	경우	NOUN	_	10	advmod	_	_	경우/ncn
+3	새로운	새롭+ㄴ	ADJ	_	4	amod	_	_	새롭/paa+ㄴ/etm
+4	역사를	역사+를	NOUN	_	5	obj	_	_	역사/ncn+를/jco
+5	쌓아	쌓+아	SCONJ	_	6	ccomp	_	_	쌓/pvg+아/ecs
+6	올리는	올리+는	VERB	_	7	acl	_	_	올리/pvg+는/etm
+7	데	데	NOUN	_	10	advmod	_	_	데/nbn
+8	중추적	중추+적	NOUN	_	9	amod	_	_	중추/ncn+적/xsn
+9	역할을	역할+을	NOUN	_	10	obj	_	_	역할/ncn+을/jco
+10	하게	하+게	VERB	_	12	acl	_	_	하/pvg+게/ecx
+11	될	되+ㄹ	AUX	_	10	aux	_	_	되/px+ㄹ/etm
+12	것은	것+은	NOUN	_	17	dislocated	_	_	것/nbn+은/jxt
+13	대륙의	대륙+의	NOUN	_	14	nmod	_	_	대륙/ncn+의/jcm
+14	중앙부에	중앙부+에	ADV	_	15	obl	_	_	중앙부/ncn+에/jca
+15	위치한	위치+하+ㄴ	VERB	_	16	acl	_	_	위치/ncpa+하/xsv+ㄴ/etm
+16	독일의	독일+의	PROPN	_	17	nmod	_	_	독일/nq+의/jcm
+17	경제력일	경제력+이+ㄹ	VERB	_	18	ccomp	_	_	경제력/ncn+이/jp+ㄹ/etm
+18	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 유럽은 어디서부터 어디까지인가 ?
+1	유럽은	유럽+은	PROPN	_	3	dislocated	_	_	유럽/nq+은/jxt
+2	어디서부터	어디+서+부터	ADV	_	3	advcl	_	_	어디/npd+서/jca+부터/jxc
+3	어디까지인가	어디+까지+이+ㄴ가	VERB	_	0	root	_	_	어디/npd+까지/jxc+이/jp+ㄴ가/ef
+4	?	?	PUNCT	_	3	punct	_	_	?/sf
+
+# 이 의견을 따른다면 유럽 공통의 문화 혹은 문명을 하나의 척도로 한다면 기독교권이라는 기준을 상정할 수 있다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	의견을	의견+을	NOUN	_	3	obj	_	_	의견/ncn+을/jco
+3	따른다면	따르+ㄴ다면	SCONJ	_	14	ccomp	_	_	따르/pvg+ㄴ다면/ecs
+4	유럽	유럽	PROPN	_	5	compound	_	_	유럽/nq
+5	공통의	공통+의	NOUN	_	8	nmod	_	_	공통/ncpa+의/jcm
+6	문화	문화	NOUN	_	8	conj	_	_	문화/ncn
+7	혹은	혹은	CCONJ	_	8	cc	_	_	혹은/maj
+8	문명을	문명+을	NOUN	_	11	obj	_	_	문명/ncn+을/jco
+9	하나의	하나+의	NOUN	_	10	nmod	_	_	하나/ncn+의/jcm
+10	척도로	척도+로	ADV	_	11	advcl	_	_	척도/ncn+로/jca
+11	한다면	하+ㄴ다면	SCONJ	_	14	ccomp	_	_	하/pvg+ㄴ다면/ecs
+12	기독교권이라는	기독교권+이+라는	VERB	_	13	acl	_	_	기독교권/ncn+이/jp+라는/etm
+13	기준을	기준+을	NOUN	_	14	obj	_	_	기준/ncn+을/jco
+14	상정할	상정+하+ㄹ	VERB	_	0	root	_	_	상정/ncpa+하/xsv+ㄹ/etm
+15	수	수	NOUN	_	16	fixed	_	_	수/nbn
+16	있다	있+다	ADJ	_	14	aux	_	_	있/paa+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 결국 당시의 유럽은 바티칸 같은 미니 국가를 포함하여 35 개국으로 구성되어 있었다 할 수 있는 것이다 .
+1	결국	결국	ADV	_	11	advmod	_	_	결국/mag
+2	당시의	당시+의	NOUN	_	3	nmod	_	_	당시/ncn+의/jcm
+3	유럽은	유럽+은	PROPN	_	11	dislocated	_	_	유럽/nq+은/jxt
+4	바티칸	바티칸	PROPN	_	5	dep	_	_	바티칸/nq
+5	같은	같+ㄴ	ADJ	_	7	amod	_	_	같/paa+ㄴ/etm
+6	미니	미니	NOUN	_	7	compound	_	_	미니/ncn
+7	국가를	국가+를	NOUN	_	8	obj	_	_	국가/ncn+를/jco
+8	포함하여	포함+하+어	SCONJ	_	11	ccomp	_	_	포함/ncpa+하/xsv+어/ecs
+9	35	35	NUM	_	10	nummod	_	_	35/nnc
+10	개국으로	개국+으로	ADV	_	11	advcl	_	_	개국/nbu+으로/jca
+11	구성되어	구성+되+어	VERB	_	13	ccomp	_	_	구성/ncpa+되/xsv+어/ecx
+12	있었다	있+었+다	AUX	_	11	aux	_	_	있/px+었/ep+다/ef
+13	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있는	있+는	ADJ	_	13	aux	_	_	있/paa+는/etm
+16	것이다	것+이+다	VERB	_	13	aux	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 여기에는 물론 이슬람 국가인 터키도 가담하고 있었다 .
+1	여기에는	여기+에+는	PRON	_	6	dislocated	_	_	여기/npd+에/jca+는/jxt
+2	물론	물론	ADV	_	6	advmod	_	_	물론/mag
+3	이슬람	이슬람	NOUN	_	4	compound	_	_	이슬람/ncn
+4	국가인	국가+이+ㄴ	VERB	_	5	acl	_	_	국가/ncn+이/jp+ㄴ/etm
+5	터키도	터키+도	ADV	_	6	advcl	_	_	터키/nq+도/jxc
+6	가담하고	가담+하+고	VERB	_	0	root	_	_	가담/ncpa+하/xsv+고/ecx
+7	있었다	있+었+다	AUX	_	6	aux	_	_	있/px+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그렇다고 해서 지리학자의 경계 구분을 무시하려는 것은 아니다 .
+1	그렇다고	그렇+다+고	VERB	_	2	conj	_	_	그렇/pad+다/ef+고/jcr
+2	해서	하+어서	SCONJ	_	8	conj	_	_	하/pvg+어서/ecs
+3	지리학자의	지리학자+의	NOUN	_	5	nmod	_	_	지리학자/ncn+의/jcm
+4	경계	경계	NOUN	_	5	compound	_	_	경계/ncn
+5	구분을	구분+을	NOUN	_	6	obj	_	_	구분/ncpa+을/jco
+6	무시하려는	무시+하+려는	VERB	_	7	acl	_	_	무시/ncpa+하/xsv+려는/etm
+7	것은	것+은	NOUN	_	8	dislocated	_	_	것/nbn+은/jxt
+8	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그럼에도 불구하고 이들 5 개국을 CSCE에 참가시킨 것은 이란의 이슬람근본주의가 이들 지역에 침투하는 것을 막기 위해서이다 .
+1	그럼에도	그럼에도	ADV	_	2	advmod	_	_	그럼에도/mag
+2	불구하고	불구+하+고	CCONJ	_	7	conj	_	_	불구/ncpa+하/xsv+고/ecc
+3	이들	이+들	NOUN	_	5	compound	_	_	이/npd+들/xsn
+4	5	5	NUM	_	5	nummod	_	_	5/nnc
+5	개국을	개국+을	NOUN	_	7	obj	_	_	개국/nbu+을/jco
+6	CSCE에	CSCE+에	ADV	_	7	obl	_	_	CSCE/f+에/jca
+7	참가시킨	참가+시키+ㄴ	VERB	_	8	acl	_	_	참가/ncpa+시키/xsv+ㄴ/etm
+8	것은	것+은	NOUN	_	16	dislocated	_	_	것/nbn+은/jxt
+9	이란의	이란+의	PROPN	_	10	nmod	_	_	이란/nq+의/jcm
+10	이슬람근본주의가	이슬람+근본주의+가	NOUN	_	13	nsubj	_	_	이슬람/ncn+근본주의/ncn+가/jcs
+11	이들	이+들	NOUN	_	12	compound	_	_	이/npd+들/xsn
+12	지역에	지역+에	ADV	_	13	obl	_	_	지역/ncn+에/jca
+13	침투하는	침투+하+는	VERB	_	14	acl	_	_	침투/ncpa+하/xsv+는/etm
+14	것을	것+을	NOUN	_	15	obj	_	_	것/nbn+을/jco
+15	막기	막+기	VERB	_	16	nmod	_	_	막/pvg+기/etn
+16	위해서이다	위하+어서+이+다	VERB	_	0	root	_	_	위하/pvg+어서/ecs+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이러한 사정을 감안하면 현 시점에서 유럽의 국가 수는 47 개가 된다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	사정을	사정+을	NOUN	_	3	obj	_	_	사정/ncn+을/jco
+3	감안하면	감안+하+면	SCONJ	_	11	ccomp	_	_	감안/ncpa+하/xsv+면/ecs
+4	현	현	NOUN	_	5	compound	_	_	현/ncn
+5	시점에서	시점+에서	ADV	_	11	advcl	_	_	시점/ncn+에서/jca
+6	유럽의	유럽+의	PROPN	_	7	nmod	_	_	유럽/nq+의/jcm
+7	국가	국가	NOUN	_	8	compound	_	_	국가/ncn
+8	수는	수+는	NOUN	_	11	dislocated	_	_	수/ncn+는/jxt
+9	47	47	NUM	_	10	nummod	_	_	47/nnc
+10	개가	개+가	NOUN	_	11	csubj	_	_	개/nbu+가/jcc
+11	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 더욱이 제1차 세계대전 이후 독립한 체코슬로바키아가 1993 년 1 월부터 체코와 슬로바키아로 나뉘어져 48 개국이 되었다 .
+1	더욱이	더욱이	ADV	_	13	advmod	_	_	더욱이/mag
+2	제1차	제+1+차	PART	_	3	compound	_	_	제/xp+1/nno+차/nbu
+3	세계대전	세계+대전	NOUN	_	4	compound	_	_	세계/ncn+대전/ncn
+4	이후	이후	NOUN	_	5	compound	_	_	이후/ncn
+5	독립한	독립+하+ㄴ	VERB	_	6	acl	_	_	독립/ncpa+하/xsv+ㄴ/etm
+6	체코슬로바키아가	체코슬로바키아+가	PROPN	_	13	nsubj	_	_	체코슬로바키아/nq+가/jcs
+7	1993	1993	NUM	_	8	nummod	_	_	1993/nno
+8	년	년	NOUN	_	10	compound	_	_	년/nbu
+9	1	1	NUM	_	10	nummod	_	_	1/nno
+10	월부터	월+부터	ADV	_	13	advcl	_	_	월/nbu+부터/jxc
+11	체코와	체코+와	CCONJ	_	12	conj	_	_	체코/nq+와/jcj
+12	슬로바키아로	슬로바키아+로	ADV	_	13	advcl	_	_	슬로바키아/nq+로/jca
+13	나뉘어져	나뉘+어져	SCONJ	_	16	ccomp	_	_	나뉘/pvg+어져/ecs
+14	48	48	NUM	_	15	nummod	_	_	48/nnc
+15	개국이	개국+이	NOUN	_	16	csubj	_	_	개국/nbu+이/jcc
+16	되었다	되+었+다	VERB	_	0	root	_	_	되/pvg+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 사회주의 체제의 붕괴는 급격한 변화를 불러 일으켜 민족자결 국민국가의 탄생을 재촉했던 것인데 구유고 등지에서는 무력충돌과 유혈을 수반한 불행한 경과과정이 있었다 .
+1	사회주의	사회주의	NOUN	_	2	compound	_	_	사회주의/ncn
+2	체제의	체제+의	NOUN	_	3	nmod	_	_	체제/ncn+의/jcm
+3	붕괴는	붕괴+는	NOUN	_	7	dislocated	_	_	붕괴/ncpa+는/jxt
+4	급격한	급격+하+ㄴ	VERB	_	5	amod	_	_	급격/ncps+하/xsm+ㄴ/etm
+5	변화를	변화+를	NOUN	_	7	obj	_	_	변화/ncpa+를/jco
+6	불러	부르+어	SCONJ	_	7	ccomp	_	_	부르/pvg+어/ecs
+7	일으켜	일으키+어	SCONJ	_	11	ccomp	_	_	일으키/pvg+어/ecs
+8	민족자결	민족+자결	NOUN	_	9	compound	_	_	민족/ncn+자결/ncn
+9	국민국가의	국민+국가+의	NOUN	_	10	nmod	_	_	국민/ncn+국가/ncn+의/jcm
+10	탄생을	탄생+을	NOUN	_	11	obj	_	_	탄생/ncpa+을/jco
+11	재촉했던	재촉+하+었+던	VERB	_	20	conj	_	_	재촉/ncpa+하/xsv+었/ep+던/etm
+12	것인데	것+이+ㄴ데	SCONJ	_	11	aux	_	_	것/nbn+이/jp+ㄴ데/ecs
+13	구유고	구유고	PROPN	_	14	compound	_	_	구유고/nq
+14	등지에서는	등지+에서+는	NOUN	_	20	dislocated	_	_	등지/nbn+에서/jca+는/jxt
+15	무력충돌과	무력+충돌+과	CCONJ	_	16	conj	_	_	무력/ncn+충돌/ncpa+과/jcj
+16	유혈을	유혈+을	NOUN	_	17	obj	_	_	유혈/ncn+을/jco
+17	수반한	수반+하+ㄴ	VERB	_	19	acl	_	_	수반/ncpa+하/xsv+ㄴ/etm
+18	불행한	불행+하+ㄴ	VERB	_	19	amod	_	_	불행/ncps+하/xsm+ㄴ/etm
+19	경과과정이	경과+과정+이	NOUN	_	20	nsubj	_	_	경과/ncpa+과정/ncn+이/jcs
+20	있었다	있+었+다	ADJ	_	0	root	_	_	있/paa+었/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그리고 중근동의 국경을 자의적으로 결정했는데 이것이 팔레스타인 문제 등 현재의 심각한 분쟁의 근본적인 원인이 되었다 .
+1	그리고	그리고	CCONJ	_	15	cc	_	_	그리고/maj
+2	중근동의	중근동+의	PROPN	_	3	nmod	_	_	중근동/nq+의/jcm
+3	국경을	국경+을	NOUN	_	5	obj	_	_	국경/ncn+을/jco
+4	자의적으로	자의+적+으로	ADV	_	5	advcl	_	_	자의/ncn+적/xsn+으로/jca
+5	결정했는데	결정+하+었+는데	SCONJ	_	15	ccomp	_	_	결정/ncpa+하/xsv+었/ep+는데/ecs
+6	이것이	이것+이	PRON	_	15	nsubj	_	_	이것/npd+이/jcs
+7	팔레스타인	팔레스타인	PROPN	_	8	compound	_	_	팔레스타인/nq
+8	문제	문제	NOUN	_	9	compound	_	_	문제/ncn
+9	등	등	NOUN	_	12	mark	_	_	등/nbn
+10	현재의	현재+의	NOUN	_	12	nmod	_	_	현재/ncn+의/jcm
+11	심각한	심각+하+ㄴ	VERB	_	12	amod	_	_	심각/ncps+하/xsm+ㄴ/etm
+12	분쟁의	분쟁+의	NOUN	_	14	nmod	_	_	분쟁/ncpa+의/jcm
+13	근본적인	근본+적+이+ㄴ	VERB	_	14	acl	_	_	근본/ncn+적/xsn+이/jp+ㄴ/etm
+14	원인이	원인+이	NOUN	_	15	csubj	_	_	원인/ncn+이/jcc
+15	되었다	되+었+다	VERB	_	0	root	_	_	되/pvg+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이에 대해 합스부르크 씨는 이러한 문제의 해결에 터키가 힘을 발휘할 수 있을 것이라고 보고 있다 .
+1	이에	이+에	ADV	_	2	obl	_	_	이/npd+에/jca
+2	대해	대하+어	SCONJ	_	14	ccomp	_	_	대하/pvg+어/ecs
+3	합스부르크	합스부르크	PROPN	_	4	compound	_	_	합스부르크/nq
+4	씨는	씨+는	NOUN	_	14	dislocated	_	_	씨/ncn+는/jxt
+5	이러한	이러하+ㄴ	VERB	_	6	amod	_	_	이러하/pad+ㄴ/etm
+6	문제의	문제+의	NOUN	_	7	nmod	_	_	문제/ncn+의/jcm
+7	해결에	해결+에	ADV	_	10	obl	_	_	해결/ncpa+에/jca
+8	터키가	터키+가	PROPN	_	10	nsubj	_	_	터키/nq+가/jcs
+9	힘을	힘+을	NOUN	_	10	obj	_	_	힘/ncn+을/jco
+10	발휘할	발휘+하+ㄹ	VERB	_	14	conj	_	_	발휘/ncpa+하/xsv+ㄹ/etm
+11	수	수	NOUN	_	12	fixed	_	_	수/nbn
+12	있을	있+ㄹ	ADJ	_	10	aux	_	_	있/paa+ㄹ/etm
+13	것이라고	것+이+라+고	VERB	_	10	aux	_	_	것/nbn+이/jp+라/ef+고/jcr
+14	보고	보+고	VERB	_	0	root	_	_	보/pvg+고/ecx
+15	있다	있+다	AUX	_	14	aux	_	_	있/px+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 또 구소련 중앙아시아에 위치한 이슬람계의 각 국가에 대해서도 민족적으로 가까운 터키가 영향력을 행사할 것이라도 예상하고 있다 .
+1	또	또	CCONJ	_	15	cc	_	_	또/maj
+2	구소련	구소련	PROPN	_	3	flat	_	_	구소련/nq
+3	중앙아시아에	중앙아시아+에	ADV	_	4	obl	_	_	중앙아시아/nq+에/jca
+4	위치한	위치+하+ㄴ	VERB	_	7	acl	_	_	위치/ncpa+하/xsv+ㄴ/etm
+5	이슬람계의	이슬람계+의	NOUN	_	7	nmod	_	_	이슬람계/ncn+의/jcm
+6	각	각	ADJ	_	7	amod	_	_	각/mma
+7	국가에	국가+에	ADV	_	8	obl	_	_	국가/ncn+에/jca
+8	대해서도	대하+어서+도	ADV	_	15	ccomp	_	_	대하/pvg+어서/ecs+도/jxc
+9	민족적으로	민족+적+으로	ADV	_	10	advcl	_	_	민족/ncn+적/xsn+으로/jca
+10	가까운	가깝+ㄴ	ADJ	_	11	amod	_	_	가깝/paa+ㄴ/etm
+11	터키가	터키+가	PROPN	_	13	nsubj	_	_	터키/nq+가/jcs
+12	영향력을	영향력+을	NOUN	_	13	obj	_	_	영향력/ncn+을/jco
+13	행사할	행사+하+ㄹ	VERB	_	14	acl	_	_	행사/ncpa+하/xsv+ㄹ/etm
+14	것이라도	것+이라도	ADV	_	15	advcl	_	_	것/nbn+이라도/jxc
+15	예상하고	예상+하+고	VERB	_	0	root	_	_	예상/ncpa+하/xsv+고/ecx
+16	있다	있+다	AUX	_	15	aux	_	_	있/px+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 아라곤과 카스틸랴의 연합군이 그라나다 왕국군을 격파하고 이슬람 세력을 이베리아 반도로부터 북아프리카에 되돌려 보내면서 역사적 전환점을 마련한 것이다 .
+1	아라곤과	아라곤+과	CCONJ	_	2	conj	_	_	아라곤/nq+과/jcj
+2	카스틸랴의	카스틸랴+의	NOUN	_	3	nmod	_	_	카스틸랴/ncn+의/jcm
+3	연합군이	연합군+이	NOUN	_	13	nsubj	_	_	연합군/ncn+이/jcs
+4	그라나다	그라나다	PROPN	_	5	compound	_	_	그라나다/nq
+5	왕국군을	왕국군+을	NOUN	_	6	obj	_	_	왕국군/ncn+을/jco
+6	격파하고	격파+하+고	CCONJ	_	13	conj	_	_	격파/ncpa+하/xsv+고/ecc
+7	이슬람	이슬람	NOUN	_	8	compound	_	_	이슬람/ncn
+8	세력을	세력+을	NOUN	_	13	obj	_	_	세력/ncn+을/jco
+9	이베리아	이베리아	PROPN	_	10	compound	_	_	이베리아/nq
+10	반도로부터	반도+로+부터	ADV	_	13	advcl	_	_	반도/ncn+로/jca+부터/jxc
+11	북아프리카에	북아프리카+에	ADV	_	13	obl	_	_	북아프리카/nq+에/jca
+12	되돌려	되돌리+어	SCONJ	_	13	ccomp	_	_	되돌리/pvg+어/ecs
+13	보내면서	보내+면서	SCONJ	_	16	ccomp	_	_	보내/pvg+면서/ecs
+14	역사적	역사+적	NOUN	_	15	amod	_	_	역사/ncn+적/xsn
+15	전환점을	전환점+을	NOUN	_	16	obj	_	_	전환점/ncn+을/jco
+16	마련한	마련+하+ㄴ	VERB	_	0	root	_	_	마련/ncpa+하/xsv+ㄴ/etm
+17	것이다	것+이+다	VERB	_	16	aux	_	_	것/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이 시대를 대표하는 사건이다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	시대를	시대+를	NOUN	_	3	obj	_	_	시대/ncn+를/jco
+3	대표하는	대표+하+는	VERB	_	4	ccomp	_	_	대표/ncpa+하/xsv+는/etm
+4	사건이다	사건+이+다	VERB	_	0	root	_	_	사건/ncn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 그 결과 중근동 및 아시아와의 동방교역으로 번영했던 베네치아와 제노바 등의 지중해 연안 도시국가는 쇠퇴의 길을 걸었다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	결과	결과	NOUN	_	16	advmod	_	_	결과/ncpa
+3	중근동	중근동	NOUN	_	5	conj	_	_	중근동/ncn
+4	및	및	CCONJ	_	5	cc	_	_	및/maj
+5	아시아와의	아시아+와+의	PROPN	_	6	nmod	_	_	아시아/nq+와/jct+의/jcm
+6	동방교역으로	동방+교역+으로	ADV	_	7	advcl	_	_	동방/ncn+교역/ncpa+으로/jca
+7	번영했던	번영+하+었+던	VERB	_	13	acl	_	_	번영/ncpa+하/xsv+었/ep+던/etm
+8	베네치아와	베네치아+와	CCONJ	_	9	conj	_	_	베네치아/nq+와/jcj
+9	제노바	제노바	PROPN	_	10	compound	_	_	제노바/nq
+10	등의	등+의	NOUN	_	13	nmod	_	_	등/nbn+의/jcm
+11	지중해	지중해	PROPN	_	12	compound	_	_	지중해/nq
+12	연안	연안	NOUN	_	13	compound	_	_	연안/ncn
+13	도시국가는	도시+국가+는	NOUN	_	16	dislocated	_	_	도시/ncn+국가/ncn+는/jxt
+14	쇠퇴의	쇠퇴+의	NOUN	_	15	nmod	_	_	쇠퇴/ncpa+의/jcm
+15	길을	길+을	NOUN	_	16	obj	_	_	길/ncn+을/jco
+16	걸었다	걷+었+다	VERB	_	0	root	_	_	걷/pvg+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그러나 스페인과 포르투갈은 광대한 식민지를 얻게 되었음에도 불구하고 이 패권을 오랫동안 유지하지 못했다 .
+1	그러나	그러나	CCONJ	_	12	cc	_	_	그러나/maj
+2	스페인과	스페인+과	CCONJ	_	3	conj	_	_	스페인/nq+과/jcj
+3	포르투갈은	포르투갈+은	NOUN	_	6	dislocated	_	_	포르투갈/ncn+은/jxt
+4	광대한	광대+하+ㄴ	VERB	_	5	amod	_	_	광대/ncps+하/xsm+ㄴ/etm
+5	식민지를	식민지+를	NOUN	_	6	obj	_	_	식민지/ncn+를/jco
+6	얻게	얻+게	VERB	_	8	advcl	_	_	얻/pvg+게/ecx
+7	되었음에도	되+었+ㅁ+에+도	ADV	_	6	aux	_	_	되/px+었/ep+ㅁ/etn+에/jca+도/jxc
+8	불구하고	불구+하+고	SCONJ	_	12	ccomp	_	_	불구/ncpa+하/xsv+고/ecs
+9	이	이	DET	_	10	det	_	_	이/mmd
+10	패권을	패권+을	NOUN	_	12	obj	_	_	패권/ncn+을/jco
+11	오랫동안	오랫동안	NOUN	_	12	compound	_	_	오랫동안/ncn
+12	유지하지	유지+하+지	VERB	_	0	root	_	_	유지/ncpa+하/xsv+지/ecx
+13	못했다	못하+었+다	AUX	_	12	aux	_	_	못하/px+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 17 세기에 들어와 네덜란드가 세계 무역의 주역으로서 부상했던 것이다 .
+1	17	17	NUM	_	2	nummod	_	_	17/nno
+2	세기에	세기+에	ADV	_	3	obl	_	_	세기/ncn+에/jca
+3	들어와	들어오+아	SCONJ	_	8	ccomp	_	_	들어오/pvg+아/ecs
+4	네덜란드가	네덜란드+가	PROPN	_	8	nsubj	_	_	네덜란드/nq+가/jcs
+5	세계	세계	NOUN	_	6	compound	_	_	세계/ncn
+6	무역의	무역+의	NOUN	_	7	nmod	_	_	무역/ncpa+의/jcm
+7	주역으로서	주역+으로서	ADV	_	8	advcl	_	_	주역/nq+으로서/jca
+8	부상했던	부상+하+었+던	VERB	_	0	root	_	_	부상/ncpa+하/xsv+었/ep+던/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 산업혁명과 자본주의의 확립 그 다음에 온 것이 소위 산업혁명의 시대였다 .
+1	산업혁명과	산업+혁명+과	CCONJ	_	2	conj	_	_	산업/ncn+혁명/ncpa+과/jcj
+2	자본주의의	자본주의+의	NOUN	_	3	nmod	_	_	자본주의/ncn+의/jcm
+3	확립	확립	NOUN	_	5	compound	_	_	확립/ncpa
+4	그	그	DET	_	5	det	_	_	그/mmd
+5	다음에	다음+에	ADV	_	6	obl	_	_	다음/ncn+에/jca
+6	온	오+ㄴ	VERB	_	7	acl	_	_	오/pvg+ㄴ/etm
+7	것이	것+이	NOUN	_	10	nsubj	_	_	것/nbn+이/jcs
+8	소위	소위	ADV	_	10	advmod	_	_	소위/mag
+9	산업혁명의	산업+혁명+의	NOUN	_	10	nmod	_	_	산업/ncn+혁명/ncpa+의/jcm
+10	시대였다	시대+이+었+다	VERB	_	0	root	_	_	시대/ncn+이/jp+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 1760 년대부터 1830 년대경까지 영국에서 일어난 산업의 일대 변혁 공업화를 산업혁명이라고 부른다 .
+1	1760	1760	NUM	_	2	nummod	_	_	1760/nno
+2	년대부터	년대+부터	ADV	_	6	advcl	_	_	년대/nbu+부터/jxc
+3	1830	1830	NUM	_	4	nummod	_	_	1830/nno
+4	년대경까지	년대+경+까지	ADV	_	6	advcl	_	_	년대/nbu+경/xsn+까지/jxc
+5	영국에서	영국+에서	ADV	_	6	advcl	_	_	영국/nq+에서/jca
+6	일어난	일어나+ㄴ	VERB	_	10	acl	_	_	일어나/pvg+ㄴ/etm
+7	산업의	산업+의	NOUN	_	9	nmod	_	_	산업/ncn+의/jcm
+8	일대	일대	NOUN	_	9	compound	_	_	일대/ncn
+9	변혁	변혁	NOUN	_	10	compound	_	_	변혁/ncpa
+10	공업화를	공업화+를	NOUN	_	12	obj	_	_	공업화/ncpa+를/jco
+11	산업혁명이라고	산업+혁명+이+라+고	VERB	_	12	conj	_	_	산업/ncn+혁명/ncpa+이/jp+라/ef+고/jcr
+12	부른다	부르+ㄴ다	VERB	_	0	root	_	_	부르/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이러한 조건이 중첩되어 면방적 , 면직물 공업이 급속히 발전했다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	조건이	조건+이	NOUN	_	3	nsubj	_	_	조건/ncn+이/jcs
+3	중첩되어	중첩+되+어	SCONJ	_	9	ccomp	_	_	중첩/ncpa+되/xsv+어/ecs
+4	면방적	면방적	NOUN	_	6	conj	_	_	면방적/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	면직물	면직물	NOUN	_	7	compound	_	_	면직물/ncn
+7	공업이	공업+이	NOUN	_	9	nsubj	_	_	공업/ncn+이/jcs
+8	급속히	급속+히	ADV	_	9	advmod	_	_	급속/ncps+히/xsa
+9	발전했다	발전+하+었+다	VERB	_	0	root	_	_	발전/ncpa+하/xsv+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이 때문에 영국 자본주의의 확립을 바탕으로 하여 세계를 무대로 하는 세계사의 성립이 이루어졌다고 보는 시각도 있다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	때문에	때문+에	ADV	_	13	obl	_	_	때문/nbn+에/jca
+3	영국	영국	PROPN	_	4	compound	_	_	영국/nq
+4	자본주의의	자본주의+의	NOUN	_	5	nmod	_	_	자본주의/ncn+의/jcm
+5	확립을	확립+을	NOUN	_	7	obj	_	_	확립/ncpa+을/jco
+6	바탕으로	바탕+으로	ADV	_	7	advcl	_	_	바탕/ncn+으로/jca
+7	하여	하+어	SCONJ	_	10	ccomp	_	_	하/pvg+어/ecs
+8	세계를	세계+를	NOUN	_	10	obj	_	_	세계/ncn+를/jco
+9	무대로	무대+로	ADV	_	10	advcl	_	_	무대/ncn+로/jca
+10	하는	하+는	VERB	_	11	acl	_	_	하/pvg+는/etm
+11	세계사의	세계사+의	NOUN	_	12	nmod	_	_	세계사/ncn+의/jcm
+12	성립이	성립+이	NOUN	_	13	nsubj	_	_	성립/ncpa+이/jcs
+13	이루어졌다고	이루+어+지+었+다+고	VERB	_	14	conj	_	_	이루/pvg+어/ecx+지/px+었/ep+다/ef+고/jcr
+14	보는	보+는	VERB	_	15	acl	_	_	보/pvg+는/etm
+15	시각도	시각+도	ADV	_	16	advcl	_	_	시각/ncn+도/jxc
+16	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이 산업혁명은 19 세기 전반에 일어난 일로서 프랑스 및 독일 등 유럽 대륙과 북아메리카까지 파급되었다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	산업혁명은	산업+혁명+은	NOUN	_	6	dislocated	_	_	산업/ncn+혁명/ncpa+은/jxt
+3	19	19	NUM	_	4	nummod	_	_	19/nno
+4	세기	세기	NOUN	_	5	compound	_	_	세기/ncn
+5	전반에	전반+에	ADV	_	6	obl	_	_	전반/ncn+에/jca
+6	일어난	일어나+ㄴ	VERB	_	7	acl	_	_	일어나/pvg+ㄴ/etm
+7	일로서	일+로서	ADV	_	15	advcl	_	_	일/ncpa+로서/jca
+8	프랑스	프랑스	PROPN	_	10	conj	_	_	프랑스/nq
+9	및	및	CCONJ	_	10	cc	_	_	및/maj
+10	독일	독일	PROPN	_	11	compound	_	_	독일/nq
+11	등	등	NOUN	_	13	mark	_	_	등/nbn
+12	유럽	유럽	PROPN	_	13	compound	_	_	유럽/nq
+13	대륙과	대륙+과	CCONJ	_	14	conj	_	_	대륙/ncn+과/jcj
+14	북아메리카까지	북아메리카+까지	ADV	_	15	advcl	_	_	북아메리카/nq+까지/jxc
+15	파급되었다	파급+되+었+다	VERB	_	0	root	_	_	파급/ncpa+되/xsv+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 공업화와 자본주의화가 진전되면서 노동자 계급이 생겨났고 노동조건도 열악해졌다 .
+1	공업화와	공업화+와	CCONJ	_	2	conj	_	_	공업화/ncpa+와/jcj
+2	자본주의화가	자본주의화+가	NOUN	_	3	nsubj	_	_	자본주의화/ncpa+가/jcs
+3	진전되면서	진전+되+면서	SCONJ	_	8	conj	_	_	진전/ncpa+되/xsv+면서/ecs
+4	노동자	노동자	NOUN	_	5	compound	_	_	노동자/ncn
+5	계급이	계급+이	NOUN	_	6	nsubj	_	_	계급/ncn+이/jcs
+6	생겨났고	생기+어+나+ㅆ+고	CCONJ	_	8	conj	_	_	생기/pvg+어/ecx+나/px+ㅆ/ep+고/ecc
+7	노동조건도	노동+조건+도	ADV	_	8	advcl	_	_	노동/ncpa+조건/ncn+도/jxc
+8	열악해졌다	열악+하+어+지+었+다	AUX	_	0	root	_	_	열악/ncps+하/xsm+어/ecx+지/px+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 농촌의 피폐도 한몫을 거들어 자본주의는 빈곤을 낳게 된 것이다 .
+1	농촌의	농촌+의	NOUN	_	2	nmod	_	_	농촌/ncn+의/jcm
+2	피폐도	피폐+도	ADV	_	4	advcl	_	_	피폐/ncpa+도/jxc
+3	한몫을	한몫+을	NOUN	_	4	obj	_	_	한몫/ncn+을/jco
+4	거들어	거들+어	SCONJ	_	7	ccomp	_	_	거들/pvg+어/ecs
+5	자본주의는	자본주의+는	NOUN	_	7	dislocated	_	_	자본주의/ncn+는/jxt
+6	빈곤을	빈곤+을	NOUN	_	7	obj	_	_	빈곤/ncpa+을/jco
+7	낳게	낳+게	VERB	_	0	root	_	_	낳/pvg+게/ecx
+8	된	되+ㄴ	AUX	_	7	aux	_	_	되/px+ㄴ/etm
+9	것이다	것+이+다	VERB	_	7	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 자본주의 경제는 순환적 경기변동이라는 , 전에는 경험하지 못한 현상을 동반하게 된 것이다 .
+1	자본주의	자본주+의	NOUN	_	2	nmod	_	_	자본주/ncn+의/jcm
+2	경제는	경제+는	NOUN	_	10	dislocated	_	_	경제/ncn+는/jxt
+3	순환적	순환+적	NOUN	_	4	amod	_	_	순환/ncpa+적/xsn
+4	경기변동이라는	경기+변동+이+라는	VERB	_	9	dep	_	_	경기/ncn+변동/ncpa+이/jp+라는/etm
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	전에는	전+에+는	NOUN	_	7	dislocated	_	_	전/ncn+에/jca+는/jxt
+7	경험하지	경험+하+지	VERB	_	9	acl	_	_	경험/ncpa+하/xsv+지/ecx
+8	못한	못하+ㄴ	AUX	_	7	aux	_	_	못하/px+ㄴ/etm
+9	현상을	현상+을	NOUN	_	10	obj	_	_	현상/ncn+을/jco
+10	동반하게	동반+하+게	VERB	_	0	root	_	_	동반/ncpa+하/xsv+게/ecx
+11	된	되+ㄴ	AUX	_	10	aux	_	_	되/px+ㄴ/etm
+12	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 영국으로부터 프랑스와 독일로 파급된 공업화의 흐름은 이들 나라의 정치적 발전단계를 그대로 반영하는 것이다 .
+1	영국으로부터	영국+으로+부터	ADV	_	4	advcl	_	_	영국/nq+으로/jca+부터/jxc
+2	프랑스와	프랑스+와	CCONJ	_	3	conj	_	_	프랑스/nq+와/jcj
+3	독일로	독일+로	ADV	_	4	advcl	_	_	독일/nq+로/jca
+4	파급된	파급+되+ㄴ	VERB	_	5	acl	_	_	파급/ncpa+되/xsv+ㄴ/etm
+5	공업화의	공업화+의	NOUN	_	6	nmod	_	_	공업화/ncpa+의/jcm
+6	흐름은	흐름+은	NOUN	_	12	dislocated	_	_	흐름/ncn+은/jxt
+7	이들	이+들	NOUN	_	8	compound	_	_	이/npd+들/xsn
+8	나라의	나라+의	NOUN	_	10	nmod	_	_	나라/ncn+의/jcm
+9	정치적	정치+적	NOUN	_	10	amod	_	_	정치/ncpa+적/xsn
+10	발전단계를	발전+단계+를	NOUN	_	12	obj	_	_	발전/ncpa+단계/ncn+를/jco
+11	그대로	그대로	ADV	_	12	advmod	_	_	그대로/mag
+12	반영하는	반영+하+는	VERB	_	0	root	_	_	반영/ncpa+하/xsv+는/etm
+13	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 많은 지역국가 , 도시국가로 분열되어 정치적으로 발전이 늦어졌던 독일은 프로이센 정부가 중심이 되어 공업화를 추진했다 .
+1	많은	많+ㄴ	ADJ	_	4	amod	_	_	많/paa+ㄴ/etm
+2	지역국가	지역+국가	NOUN	_	4	conj	_	_	지역/ncn+국가/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	도시국가로	도시+국가+로	ADV	_	5	advcl	_	_	도시/ncn+국가/ncn+로/jca
+5	분열되어	분열+되+어	SCONJ	_	8	conj	_	_	분열/ncpa+되/xsv+어/ecs
+6	정치적으로	정치+적+으로	ADV	_	8	advcl	_	_	정치/ncpa+적/xsn+으로/jca
+7	발전이	발전+이	NOUN	_	8	nsubj	_	_	발전/ncpa+이/jcs
+8	늦어졌던	늦+어+지+었+던	AUX	_	9	amod	_	_	늦/paa+어/ecx+지/px+었/ep+던/etm
+9	독일은	독일+은	PROPN	_	15	dislocated	_	_	독일/nq+은/jxt
+10	프로이센	프로이센	PROPN	_	11	compound	_	_	프로이센/nq
+11	정부가	정부+가	NOUN	_	13	nsubj	_	_	정부/ncn+가/jcs
+12	중심이	중심+이	NOUN	_	13	nsubj	_	_	중심/ncn+이/jcs
+13	되어	되+어	SCONJ	_	15	ccomp	_	_	되/pvg+어/ecs
+14	공업화를	공업화+를	NOUN	_	15	obj	_	_	공업화/ncpa+를/jco
+15	추진했다	추진+하+었+다	VERB	_	0	root	_	_	추진/ncpa+하/xsv+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 기독교 문명과 근대 합리주의의 융합이 역사에 새로운 시대를 개막시킨 것이다 .
+1	기독교	기독교	NOUN	_	2	compound	_	_	기독교/ncn
+2	문명과	문명+과	CCONJ	_	4	conj	_	_	문명/ncn+과/jcj
+3	근대	근대	NOUN	_	4	compound	_	_	근대/ncn
+4	합리주의의	합리주의+의	NOUN	_	5	nmod	_	_	합리주의/ncn+의/jcm
+5	융합이	융합+이	NOUN	_	9	nsubj	_	_	융합/ncpa+이/jcs
+6	역사에	역사+에	ADV	_	9	obl	_	_	역사/ncn+에/jca
+7	새로운	새롭+ㄴ	ADJ	_	8	amod	_	_	새롭/paa+ㄴ/etm
+8	시대를	시대+를	NOUN	_	9	obj	_	_	시대/ncn+를/jco
+9	개막시킨	개막+시키+ㄴ	VERB	_	0	root	_	_	개막/ncpa+시키/xsv+ㄴ/etm
+10	것이다	것+이+다	VERB	_	9	aux	_	_	것/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이 코스트를 인하하기 위해 세계 규모의 자원 획득 경쟁이 벌어져 식민지 쟁탈전이 가열되었고 이에 따라 이해의 대립이 심화하게 되었다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	코스트를	코스트+를	NOUN	_	3	obj	_	_	코스트/ncn+를/jco
+3	인하하기	인하+하+기	VERB	_	4	nmod	_	_	인하/ncpa+하/xsv+기/etn
+4	위해	위하+어	SCONJ	_	10	ccomp	_	_	위하/pvg+어/ecs
+5	세계	세계	NOUN	_	6	compound	_	_	세계/ncn
+6	규모의	규모+의	NOUN	_	9	nmod	_	_	규모/ncn+의/jcm
+7	자원	자원	NOUN	_	8	compound	_	_	자원/ncn
+8	획득	획득	NOUN	_	9	compound	_	_	획득/ncpa
+9	경쟁이	경쟁+이	NOUN	_	10	nsubj	_	_	경쟁/ncpa+이/jcs
+10	벌어져	벌+어+지+어	SCONJ	_	18	ccomp	_	_	벌/pvg+어/ecx+지/px+어/ecs
+11	식민지	식민지	NOUN	_	12	compound	_	_	식민지/ncn
+12	쟁탈전이	쟁탈전+이	NOUN	_	13	nsubj	_	_	쟁탈전/ncn+이/jcs
+13	가열되었고	가열+되+었+고	CCONJ	_	18	conj	_	_	가열/ncpa+되/xsv+었/ep+고/ecc
+14	이에	이+에	ADV	_	15	obl	_	_	이/npd+에/jca
+15	따라	따르+아	SCONJ	_	18	ccomp	_	_	따르/pvg+아/ecs
+16	이해의	이해+의	NOUN	_	17	nmod	_	_	이해/ncpa+의/jcm
+17	대립이	대립+이	NOUN	_	18	nsubj	_	_	대립/ncpa+이/jcs
+18	심화하게	심화+하+게	VERB	_	0	root	_	_	심화/ncpa+하/xsv+게/ecx
+19	되었다	되+었+다	AUX	_	18	aux	_	_	되/px+었/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 중세 이래 독일의 경쟁국이었던 프랑스가 보복을 가한 것이다 .
+1	중세	중세	NOUN	_	2	compound	_	_	중세/ncn
+2	이래	이래	NOUN	_	4	advmod	_	_	이래/ncn
+3	독일의	독일+의	PROPN	_	4	nmod	_	_	독일/nq+의/jcm
+4	경쟁국이었던	경쟁국+이+었+던	VERB	_	5	acl	_	_	경쟁국/ncn+이/jp+었/ep+던/etm
+5	프랑스가	프랑스+가	PROPN	_	7	nsubj	_	_	프랑스/nq+가/jcs
+6	보복을	보복+을	NOUN	_	7	obj	_	_	보복/ncpa+을/jco
+7	가한	가하+ㄴ	VERB	_	0	root	_	_	가하/pvg+ㄴ/etm
+8	것이다	것+이+다	VERB	_	7	aux	_	_	것/nbn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이러한 이유가 중첩되어 독일의 경제는 파탄하고 1923 년에는 천문학적인 인플레가 발생했다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	이유가	이유+가	NOUN	_	3	nsubj	_	_	이유/ncn+가/jcs
+3	중첩되어	중첩+되+어	SCONJ	_	11	ccomp	_	_	중첩/ncpa+되/xsv+어/ecs
+4	독일의	독일+의	PROPN	_	5	nmod	_	_	독일/nq+의/jcm
+5	경제는	경제+는	NOUN	_	6	dislocated	_	_	경제/ncn+는/jxt
+6	파탄하고	파탄+하+고	CCONJ	_	11	conj	_	_	파탄/ncpa+하/xsv+고/ecc
+7	1923	1923	NUM	_	8	nummod	_	_	1923/nno
+8	년에는	년+에+는	NOUN	_	11	dislocated	_	_	년/nbu+에/jca+는/jxt
+9	천문학적인	천문학+적+이+ㄴ	VERB	_	10	acl	_	_	천문학/ncn+적/xsn+이/jp+ㄴ/etm
+10	인플레가	인플레+가	NOUN	_	11	nsubj	_	_	인플레/ncn+가/jcs
+11	발생했다	발생+하+었+다	VERB	_	0	root	_	_	발생/ncpa+하/xsv+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 1920년 10월 뉴욕 주식시장이 큰 폭으로 폭락하는 것을 계기로 세계공황이 일어났다 .
+1	1920년	1920+년	NOUN	_	2	compound	_	_	1920/nno+년/nbu
+2	10월	10+월	NOUN	_	7	advmod	_	_	10/nno+월/nbu
+3	뉴욕	뉴욕	PROPN	_	4	compound	_	_	뉴욕/nq
+4	주식시장이	주식+시장+이	NOUN	_	7	nsubj	_	_	주식/ncn+시장/ncn+이/jcs
+5	큰	크+ㄴ	ADJ	_	6	amod	_	_	크/paa+ㄴ/etm
+6	폭으로	폭+으로	ADV	_	7	advcl	_	_	폭/ncn+으로/jca
+7	폭락하는	폭락+하+는	VERB	_	8	acl	_	_	폭락/ncpa+하/xsv+는/etm
+8	것을	것+을	NOUN	_	9	obj	_	_	것/nbn+을/jco
+9	계기로	계기+로	ADV	_	11	advcl	_	_	계기/ncn+로/jca
+10	세계공황이	세계+공황+이	NOUN	_	11	nsubj	_	_	세계/ncn+공황/ncn+이/jcs
+11	일어났다	일어나+았+다	VERB	_	0	root	_	_	일어나/pvg+았/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 자본주의 경제는 심각한 위기에 빠져들었다 .
+1	자본주의	자본주의	NOUN	_	2	compound	_	_	자본주의/ncn
+2	경제는	경제+는	NOUN	_	5	dislocated	_	_	경제/ncn+는/jxt
+3	심각한	심각+하+ㄴ	VERB	_	4	amod	_	_	심각/ncps+하/xsm+ㄴ/etm
+4	위기에	위기+에	ADV	_	5	obl	_	_	위기/ncn+에/jca
+5	빠져들었다	빠져들+었+다	VERB	_	0	root	_	_	빠져들/pvg+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 나치스가 정권을 잡은 독일은 국가가 경제를 철저히 통제하는 한편 대규모 공공사업을 일으켜 실업을 구제했다 .
+1	나치스가	나치스+가	NOUN	_	3	nsubj	_	_	나치스/ncn+가/jcs
+2	정권을	정권+을	NOUN	_	3	obj	_	_	정권/ncn+을/jco
+3	잡은	잡+ㄴ	VERB	_	4	acl	_	_	잡/pvg+ㄴ/etm
+4	독일은	독일+은	PROPN	_	14	dislocated	_	_	독일/nq+은/jxt
+5	국가가	국가+가	NOUN	_	8	nsubj	_	_	국가/ncn+가/jcs
+6	경제를	경제+를	NOUN	_	8	obj	_	_	경제/ncn+를/jco
+7	철저히	철저+히	ADV	_	8	advmod	_	_	철저/ncps+히/xsa
+8	통제하는	통제+하+는	VERB	_	9	acl	_	_	통제/ncpa+하/xsv+는/etm
+9	한편	한편	NOUN	_	12	advmod	_	_	한편/ncn
+10	대규모	대규모	NOUN	_	11	compound	_	_	대규모/ncn
+11	공공사업을	공공사업+을	NOUN	_	12	obj	_	_	공공사업/ncn+을/jco
+12	일으켜	일으키+어	SCONJ	_	14	ccomp	_	_	일으키/pvg+어/ecs
+13	실업을	실업+을	NOUN	_	14	obj	_	_	실업/ncn+을/jco
+14	구제했다	구제+하+었+다	VERB	_	0	root	_	_	구제/ncpa+하/xsv+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 경제를 국가가 부추기는 방식은 처음에는 소기의 성과를 거두었으나 히틀러의 야심과 맞아떨어져 군사독재 및 침략전쟁에의 길로 걸어가게 되었다 .
+1	경제를	경제+를	NOUN	_	3	obj	_	_	경제/ncn+를/jco
+2	국가가	국가+가	NOUN	_	3	nsubj	_	_	국가/ncn+가/jcs
+3	부추기는	부추기+는	VERB	_	4	acl	_	_	부추기/pvg+는/etm
+4	방식은	방식+은	NOUN	_	11	dislocated	_	_	방식/ncn+은/jxt
+5	처음에는	처음+에+는	NOUN	_	8	dislocated	_	_	처음/ncn+에/jca+는/jxt
+6	소기의	소기+의	NOUN	_	7	nmod	_	_	소기/ncn+의/jcm
+7	성과를	성과+를	NOUN	_	8	obj	_	_	성과/ncn+를/jco
+8	거두었으나	거두+었+으나	SCONJ	_	11	ccomp	_	_	거두/pvg+었/ep+으나/ecs
+9	히틀러의	히틀러+의	PROPN	_	10	nmod	_	_	히틀러/nq+의/jcm
+10	야심과	야심+과	CCONJ	_	11	conj	_	_	야심/ncn+과/jct
+11	맞아떨어져	맞아떨+어+지+어	SCONJ	_	16	ccomp	_	_	맞아떨/pvg+어/ecx+지/px+어/ecs
+12	군사독재	군사+독재	NOUN	_	14	conj	_	_	군사/ncn+독재/ncn
+13	및	및	CCONJ	_	14	cc	_	_	및/maj
+14	침략전쟁에의	침략+전쟁+에+의	NOUN	_	15	nmod	_	_	침략/ncpa+전쟁/ncpa+에/jca+의/jcm
+15	길로	길+로	ADV	_	16	advcl	_	_	길/ncn+로/jca
+16	걸어가게	걷+어+가+게	AUX	_	0	root	_	_	걷/pvg+어/ecx+가/px+게/ecx
+17	되었다	되+었+다	AUX	_	16	aux	_	_	되/px+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 국가 혹은 국민사회주의라고 부르는 나치 독일 체제는 국가권력의 통제하에 자본주의를 종속시키는 것을 그 특징으로 했다 .
+1	국가	국가	NOUN	_	3	conj	_	_	국가/ncn
+2	혹은	혹은	CCONJ	_	3	cc	_	_	혹은/maj
+3	국민사회주의라고	국민+사회주의+이+라+고	VERB	_	4	conj	_	_	국민/ncn+사회주의/ncn+이/jp+라/ef+고/jcr
+4	부르는	부르+는	VERB	_	7	acl	_	_	부르/pvg+는/etm
+5	나치	나치	NOUN	_	7	compound	_	_	나치/ncn
+6	독일	독일	PROPN	_	7	compound	_	_	독일/nq
+7	체제는	체제+는	NOUN	_	15	dislocated	_	_	체제/ncn+는/jxt
+8	국가권력의	국가+권력+의	NOUN	_	9	nmod	_	_	국가/ncn+권력/ncn+의/jcm
+9	통제하에	통제하+에	ADV	_	11	obl	_	_	통제하/ncn+에/jca
+10	자본주의를	자본주의+를	NOUN	_	11	obj	_	_	자본주의/ncn+를/jco
+11	종속시키는	종속+시키+는	VERB	_	12	acl	_	_	종속/ncpa+시키/xsv+는/etm
+12	것을	것+을	NOUN	_	15	obj	_	_	것/nbn+을/jco
+13	그	그	DET	_	14	det	_	_	그/mmd
+14	특징으로	특징+으로	ADV	_	15	advcl	_	_	특징/ncn+으로/jca
+15	했다	하+었+다	VERB	_	0	root	_	_	하/pvg+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 미국에서는 농업과 공업의 구제책으로서 루스벨트가 뉴딜정책을 제창했다 .
+1	미국에서는	미국+에서+는	PROPN	_	7	dislocated	_	_	미국/nq+에서/jca+는/jxt
+2	농업과	농업+과	CCONJ	_	3	conj	_	_	농업/ncn+과/jcj
+3	공업의	공업+의	NOUN	_	4	nmod	_	_	공업/ncn+의/jcm
+4	구제책으로서	구제책+으로서	ADV	_	7	advcl	_	_	구제책/ncn+으로서/jca
+5	루스벨트가	루스벨트+가	PROPN	_	7	nsubj	_	_	루스벨트/nq+가/jcs
+6	뉴딜정책을	뉴딜정책+을	NOUN	_	7	obj	_	_	뉴딜정책/ncn+을/jco
+7	제창했다	제창+하+었+다	VERB	_	0	root	_	_	제창/ncpa+하/xsv+었/ep+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그러나 산업의 진흥을 목적으로 한 이 정책을 국내의 복잡한 이해대립 때문에 충분한 성과를 올리지 못했다 .
+1	그러나	그러나	CCONJ	_	14	cc	_	_	그러나/maj
+2	산업의	산업+의	NOUN	_	3	nmod	_	_	산업/ncn+의/jcm
+3	진흥을	진흥+을	NOUN	_	5	obj	_	_	진흥/ncpa+을/jco
+4	목적으로	목적+으로	ADV	_	5	advcl	_	_	목적/ncpa+으로/jca
+5	한	하+ㄴ	VERB	_	7	acl	_	_	하/pvg+ㄴ/etm
+6	이	이	DET	_	7	det	_	_	이/mmd
+7	정책을	정책+은	NOUN	_	14	dislocated	_	_	정책/ncn+은/jxt
+8	국내의	국내+의	NOUN	_	10	nmod	_	_	국내/ncn+의/jcm
+9	복잡한	복잡+하+ㄴ	VERB	_	10	amod	_	_	복잡/ncps+하/xsm+ㄴ/etm
+10	이해대립	이해+대립	NOUN	_	11	compound	_	_	이해/ncn+대립/ncpa
+11	때문에	때문+에	ADV	_	14	obl	_	_	때문/nbn+에/jca
+12	충분한	충분+하+ㄴ	VERB	_	13	amod	_	_	충분/ncps+하/xsm+ㄴ/etm
+13	성과를	성과+를	NOUN	_	14	obj	_	_	성과/ncn+를/jco
+14	올리지	올리+지	VERB	_	0	root	_	_	올리/pvg+지/ecx
+15	못했다	못하+었+다	AUX	_	14	aux	_	_	못하/px+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 따라서 미국은 세계경제의 수호자가 되었는데 이것은 전쟁중에 강대한 생산력과 기술을 축적한 결과이다 .
+1	따라서	따라서	CCONJ	_	12	cc	_	_	따라서/maj
+2	미국은	미국+은	PROPN	_	5	dislocated	_	_	미국/nq+은/jxt
+3	세계경제의	세계+경제+의	NOUN	_	4	nmod	_	_	세계/ncn+경제/ncn+의/jcm
+4	수호자가	수호자+가	NOUN	_	5	csubj	_	_	수호자/ncn+가/jcc
+5	되었는데	되+었+는데	SCONJ	_	12	ccomp	_	_	되/pvg+었/ep+는데/ecs
+6	이것은	이것+은	PRON	_	12	dislocated	_	_	이것/npd+은/jxt
+7	전쟁중에	전쟁+중+에	ADV	_	11	obl	_	_	전쟁/ncpa+중/xsn+에/jca
+8	강대한	강대+하+ㄴ	VERB	_	10	amod	_	_	강대/ncps+하/xsm+ㄴ/etm
+9	생산력과	생산력+과	CCONJ	_	10	conj	_	_	생산력/ncn+과/jcj
+10	기술을	기술+을	NOUN	_	11	obj	_	_	기술/ncpa+을/jco
+11	축적한	축적+하+ㄴ	VERB	_	12	ccomp	_	_	축적/ncpa+하/xsv+ㄴ/etm
+12	결과이다	결과+이+다	VERB	_	0	root	_	_	결과/ncpa+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 유럽 각국은 이제 구식민지로부터 이민이 증가하는 등 역사의 후유증을 톡톡히 앓고 있다 .
+1	유럽	유럽	PROPN	_	2	compound	_	_	유럽/nq
+2	각국은	각국+은	NOUN	_	11	dislocated	_	_	각국/ncn+은/jxt
+3	이제	이제	ADV	_	11	advmod	_	_	이제/mag
+4	구식민지로부터	구식민지+로+부터	ADV	_	6	advcl	_	_	구식민지/ncn+로/jca+부터/jxc
+5	이민이	이민+이	NOUN	_	6	nsubj	_	_	이민/ncpa+이/jcs
+6	증가하는	증가+하+는	VERB	_	7	acl	_	_	증가/ncpa+하/xsv+는/etm
+7	등	등	NOUN	_	9	mark	_	_	등/nbn
+8	역사의	역사+의	NOUN	_	9	nmod	_	_	역사/ncn+의/jcm
+9	후유증을	후유증+을	NOUN	_	11	obj	_	_	후유증/ncn+을/jco
+10	톡톡히	톡톡+히	ADV	_	11	advmod	_	_	톡톡/ncps+히/xsa
+11	앓고	앓+고	VERB	_	0	root	_	_	앓/pvg+고/ecx
+12	있다	있+다	AUX	_	11	aux	_	_	있/px+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 전후의 부흥에 미국은 결정적 역할을 했다 .
+1	전후의	전후+의	NOUN	_	2	nmod	_	_	전후/ncn+의/jcm
+2	부흥에	부흥+에	ADV	_	6	obl	_	_	부흥/ncpa+에/jca
+3	미국은	미국+은	PROPN	_	6	dislocated	_	_	미국/nq+은/jxt
+4	결정적	결정+적	NOUN	_	5	amod	_	_	결정/ncpa+적/xsn
+5	역할을	역할+을	NOUN	_	6	obj	_	_	역할/ncn+을/jco
+6	했다	하+었+다	VERB	_	0	root	_	_	하/pvg+었/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그 견인차는 1948 년에 시작된 마셜 플랜이라는 원조 프로그램이었다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	견인차는	견인차+는	NOUN	_	9	dislocated	_	_	견인차/ncn+는/jxt
+3	1948	1948	NUM	_	4	nummod	_	_	1948/nno
+4	년에	년+에	ADV	_	5	obl	_	_	년/nbu+에/jca
+5	시작된	시작+되+ㄴ	VERB	_	7	ccomp	_	_	시작/ncpa+되/xsv+ㄴ/etm
+6	마셜	마셜	PROPN	_	7	flat	_	_	마셜/nq
+7	플랜이라는	플랜+이+라는	VERB	_	9	ccomp	_	_	플랜/nq+이/jp+라는/etm
+8	원조	원조	NOUN	_	9	compound	_	_	원조/ncpa
+9	프로그램이었다	프로그램+이+었+다	VERB	_	0	root	_	_	프로그램/ncn+이/jp+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 여기에는 스탈린 통치하의 소련이 서유렵에 영항력을 넓히는 것을 저지하려는 정치적 의도가 개재되어 있었다 .
+1	여기에는	여기+에+는	PRON	_	12	dislocated	_	_	여기/npd+에/jca+는/jxt
+2	스탈린	스탈린	PROPN	_	3	compound	_	_	스탈린/nq
+3	통치하의	통치하+의	NOUN	_	4	nmod	_	_	통치하/ncn+의/jcm
+4	소련이	소련+이	PROPN	_	7	nsubj	_	_	소련/nq+이/jcs
+5	서유렵에	서유렵+에	ADV	_	7	obl	_	_	서유렵/nq+에/jca
+6	영항력을	영항력+을	NOUN	_	7	obj	_	_	영항력/ncpa+을/jco
+7	넓히는	넓히+는	VERB	_	8	acl	_	_	넓히/pvg+는/etm
+8	것을	것+을	NOUN	_	9	obj	_	_	것/nbn+을/jco
+9	저지하려는	저지+하+려는	VERB	_	11	acl	_	_	저지/ncpa+하/xsv+려는/etm
+10	정치적	정치+적	NOUN	_	11	amod	_	_	정치/ncpa+적/xsn
+11	의도가	의도+가	NOUN	_	12	nsubj	_	_	의도/ncpa+가/jcs
+12	개재되어	개재+되+어	VERB	_	0	root	_	_	개재/ncpa+되/xsv+어/ecx
+13	있었다	있+었+다	AUX	_	12	aux	_	_	있/px+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 전후의 세계경제를 발전시킨 기고나차로는 세 가지 사항을 들 수 있다 .
+1	전후의	전후+의	NOUN	_	2	nmod	_	_	전후/ncn+의/jcm
+2	세계경제를	세계+경제+를	NOUN	_	3	obj	_	_	세계/ncn+경제/ncn+를/jco
+3	발전시킨	발전+시키+ㄴ	VERB	_	4	acl	_	_	발전/ncpa+시키/xsv+ㄴ/etm
+4	기고나차로는	기고나차로+는	PROPN	_	8	dislocated	_	_	기고나차로/nq+는/jxt
+5	세	세	NUM	_	6	nummod	_	_	세/nnc
+6	가지	가지	NOUN	_	7	compound	_	_	가지/nbu
+7	사항을	사항+을	NOUN	_	8	obj	_	_	사항/ncn+을/jco
+8	들	들+ㄹ	VERB	_	0	root	_	_	들/pvg+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	있다	있+다	ADJ	_	8	aux	_	_	있/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이 같은 이상주의의 이면에는 독일의 분단을 전제로 서독을 포함한 이웃나라의 위협을 제거하려는 프랑스의 냉전 외교가 작용했다 .
+1	이	이	PRON	_	2	dep	_	_	이/npd
+2	같은	같+은	ADJ	_	3	amod	_	_	같/paa+은/etm
+3	이상주의의	이상주의+의	NOUN	_	4	nmod	_	_	이상주의/ncn+의/jcm
+4	이면에는	이면+에+는	NOUN	_	16	dislocated	_	_	이면/ncn+에/jca+는/jxt
+5	독일의	독일+의	PROPN	_	6	nmod	_	_	독일/nq+의/jcm
+6	분단을	분단+을	NOUN	_	7	obj	_	_	분단/ncpa+을/jco
+7	전제로	전제+로	ADV	_	12	advcl	_	_	전제/ncpa+로/jca
+8	서독을	서독+을	PROPN	_	9	obj	_	_	서독/nq+을/jco
+9	포함한	포함+하+ㄴ	VERB	_	10	acl	_	_	포함/ncpa+하/xsv+ㄴ/etm
+10	이웃나라의	이웃+나라+의	NOUN	_	11	nmod	_	_	이웃/ncn+나라/ncn+의/jcm
+11	위협을	위협+을	NOUN	_	12	obj	_	_	위협/ncpa+을/jco
+12	제거하려는	제거+하+려는	VERB	_	15	acl	_	_	제거/ncpa+하/xsv+려는/etm
+13	프랑스의	프랑스+의	PROPN	_	15	nmod	_	_	프랑스/nq+의/jcm
+14	냉전	냉전	NOUN	_	15	compound	_	_	냉전/ncn
+15	외교가	외교+가	NOUN	_	16	nsubj	_	_	외교/ncn+가/jcs
+16	작용했다	작용+하+었+다	VERB	_	0	root	_	_	작용/ncpa+하/xsv+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 서독도 이 같은 공동체에 가입함으로써 국제사회에의 조속한 복귀를 노릴 수 있는 이점이 있었다 .
+1	서독도	서독+도	ADV	_	13	advcl	_	_	서독/nq+도/jxc
+2	이	이	PRON	_	3	dep	_	_	이/npd
+3	같은	같+ㄴ	ADJ	_	4	amod	_	_	같/paa+ㄴ/etm
+4	공동체에	공동체+에	ADV	_	5	obl	_	_	공동체/ncn+에/jca
+5	가입함으로써	가입+하+ㅁ+으로써	ADV	_	9	advcl	_	_	가입/ncpa+하/xsv+ㅁ/etn+으로써/jca
+6	국제사회에의	국제+사회+에+의	NOUN	_	8	nmod	_	_	국제/ncn+사회/ncn+에/jca+의/jcm
+7	조속한	조속+하+ㄴ	VERB	_	8	amod	_	_	조속/ncps+하/xsm+ㄴ/etm
+8	복귀를	복귀+를	NOUN	_	9	obj	_	_	복귀/ncpa+를/jco
+9	노릴	노리+ㄹ	VERB	_	12	acl	_	_	노리/pvg+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있는	있+는	ADJ	_	9	aux	_	_	있/paa+는/etm
+12	이점이	이점+이	NOUN	_	13	nsubj	_	_	이점/ncn+이/jcs
+13	있었다	있+었+다	ADJ	_	0	root	_	_	있/paa+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 1971 년 8 월 , 미국의 닉슨 대통령은 돌연 금과 달러의 연계를 폐지한다고 발표하여 세계에 충격을 주었다 .
+1	1971	1971	NUM	_	2	nummod	_	_	1971/nno
+2	년	년	NOUN	_	4	compound	_	_	년/nbu
+3	8	8	NUM	_	4	nummod	_	_	8/nno
+4	월	월	NOUN	_	14	advmod	_	_	월/nbu
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	미국의	미국+의	PROPN	_	8	nmod	_	_	미국/nq+의/jcm
+7	닉슨	닉슨	PROPN	_	8	compound	_	_	닉슨/nq
+8	대통령은	대통령+은	NOUN	_	14	dislocated	_	_	대통령/ncn+은/jxt
+9	돌연	돌연	ADV	_	14	advmod	_	_	돌연/mag
+10	금과	금+과	CCONJ	_	11	conj	_	_	금/ncn+과/jcj
+11	달러의	달러+의	NOUN	_	12	nmod	_	_	달러/ncn+의/jcm
+12	연계를	연계+를	NOUN	_	13	obj	_	_	연계/ncpa+를/jco
+13	폐지한다고	폐지+하+ㄴ다+고	VERB	_	14	conj	_	_	폐지/ncpa+하/xsv+ㄴ다/ef+고/jcr
+14	발표하여	발표+하+어	SCONJ	_	17	ccomp	_	_	발표/ncpa+하/xsv+어/ecs
+15	세계에	세계+에	ADV	_	17	obl	_	_	세계/ncn+에/jca
+16	충격을	충격+을	NOUN	_	17	obj	_	_	충격/ncn+을/jco
+17	주었다	주+었+다	VERB	_	0	root	_	_	주/pvg+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 소위 닉슨 쇼크라는 것이었다 .
+1	소위	소위	ADV	_	4	advmod	_	_	소위/mag
+2	닉슨	닉슨	PROPN	_	3	compound	_	_	닉슨/nq
+3	쇼크라는	쇼크+이+라는	VERB	_	4	ccomp	_	_	쇼크/ncn+이/jp+라는/etm
+4	것이었다	것+이+었+다	VERB	_	0	root	_	_	것/nbn+이/jp+었/ep+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 변동환율제는 다음의 새로운 통화제도로 이행하기까지의 잠정적 조치로서 받아들여지고 있다 .
+1	변동환율제는	변동환율제+는	NOUN	_	8	dislocated	_	_	변동환율제/ncn+는/jxt
+2	다음의	다음+의	NOUN	_	4	nmod	_	_	다음/ncn+의/jcm
+3	새로운	새롭+ㄴ	ADJ	_	4	amod	_	_	새롭/paa+ㄴ/etm
+4	통화제도로	통화+제도+로	ADV	_	5	advcl	_	_	통화/ncn+제도/ncn+로/jca
+5	이행하기까지의	이행+하+기+까지+의	NOUN	_	7	nmod	_	_	이행/ncpa+하/xsv+기/etn+까지/jxc+의/jcm
+6	잠정적	잠정+적	NOUN	_	7	amod	_	_	잠정/ncn+적/xsn
+7	조치로서	조치+로서	ADV	_	8	advcl	_	_	조치/ncpa+로서/jca
+8	받아들여지고	받아들이+어+지+고	AUX	_	0	root	_	_	받아들이/pvg+어/ecx+지/px+고/ecx
+9	있다	있+다	AUX	_	8	aux	_	_	있/px+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러나 사실상 이를 대신할 수 있는 대안이 없기 때문에 변동환율제는 세계경제에 정착되고 있다 .
+1	그러나	그러나	CCONJ	_	12	cc	_	_	그러나/maj
+2	사실상	사실상	NOUN	_	8	dep	_	_	사실상/ncn
+3	이를	이+를	PRON	_	4	obj	_	_	이/npd+를/jco
+4	대신할	대신+하+ㄹ	VERB	_	7	acl	_	_	대신/ncpa+하/xsv+ㄹ/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	있는	있+는	ADJ	_	4	aux	_	_	있/paa+는/etm
+7	대안이	대안+이	NOUN	_	8	nsubj	_	_	대안/ncn+이/jcs
+8	없기	없+기	ADJ	_	9	nmod	_	_	없/paa+기/etn
+9	때문에	때문+에	ADV	_	12	obl	_	_	때문/nbn+에/jca
+10	변동환율제는	변동환율제+는	NOUN	_	12	dislocated	_	_	변동환율제/ncpa+는/jxt
+11	세계경제에	세계+경제+에	ADV	_	12	obl	_	_	세계/ncn+경제/ncn+에/jca
+12	정착되고	정착+되+고	VERB	_	0	root	_	_	정착/ncpa+되/xsv+고/ecx
+13	있다	있+다	AUX	_	12	aux	_	_	있/px+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 서유럽경제의 특징을 단 한줄로 표현하는 것은 쉬운 일이 아니다 .
+1	서유럽경제의	서유럽+경제+의	PROPN	_	2	nmod	_	_	서유럽/nq+경제/ncn+의/jcm
+2	특징을	특징+을	NOUN	_	5	obj	_	_	특징/ncn+을/jco
+3	단	단	ADJ	_	4	amod	_	_	단/mma
+4	한줄로	한+줄+로	ADV	_	5	advcl	_	_	한/nnc+줄/nbu+로/jca
+5	표현하는	표현+하+는	VERB	_	6	acl	_	_	표현/ncpa+하/xsv+는/etm
+6	것은	것+은	NOUN	_	9	dislocated	_	_	것/nbn+은/jxt
+7	쉬운	쉽+ㄴ	ADJ	_	8	amod	_	_	쉽/paa+ㄴ/etm
+8	일이	일+이	NOUN	_	9	nsubj	_	_	일/ncpa+이/jcs
+9	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 기술혁신을 추진력의 바탕으로 하여 고도의 소비사회를 형성한 것은 미국이나 일본과 같지만 미국의 대량생산 , 대량소비와는 약간의 다른 면이 있다 .
+1	기술혁신을	기술+혁신+을	NOUN	_	4	obj	_	_	기술/ncn+혁신/ncpa+을/jco
+2	추진력의	추진력+의	NOUN	_	3	nmod	_	_	추진력/ncn+의/jcm
+3	바탕으로	바탕+으로	ADV	_	4	advcl	_	_	바탕/ncn+으로/jca
+4	하여	하+어	SCONJ	_	7	ccomp	_	_	하/pvg+어/ecs
+5	고도의	고도+의	NOUN	_	6	nmod	_	_	고도/ncn+의/jcm
+6	소비사회를	소비+사회+를	NOUN	_	7	obj	_	_	소비/ncpa+사회/ncn+를/jco
+7	형성한	형성+하+ㄴ	VERB	_	8	acl	_	_	형성/ncpa+하/xsv+ㄴ/etm
+8	것은	것+은	NOUN	_	19	dislocated	_	_	것/nbn+은/jxt
+9	미국이나	미국+이나	CCONJ	_	10	conj	_	_	미국/nq+이나/jcj
+10	일본과	일본+과	CCONJ	_	11	conj	_	_	일본/nq+과/jct
+11	같지만	같+지만	SCONJ	_	19	xcomp	_	_	같/paa+지만/ecs
+12	미국의	미국+의	PROPN	_	15	nmod	_	_	미국/nq+의/jcm
+13	대량생산	대량+생산	NOUN	_	15	conj	_	_	대량/ncn+생산/ncpa
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	대량소비와는	대량+소비+와+는	NOUN	_	19	dislocated	_	_	대량/ncn+소비/ncpa+와/jct+는/jxt
+16	약간의	약간+의	NOUN	_	18	nmod	_	_	약간/ncn+의/jcm
+17	다른	다르+ㄴ	ADJ	_	18	amod	_	_	다르/paa+ㄴ/etm
+18	면이	면+이	NOUN	_	19	nsubj	_	_	면/nbn+이/jcs
+19	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 사회자본 등의 면에서 축적이 이루어졌기 때문에 어느 면으로 보아도 성장보다는 안정을 지향하는 측면이 있다 .
+1	사회자본	사회+자본	NOUN	_	2	compound	_	_	사회/ncn+자본/ncn
+2	등의	등+의	NOUN	_	3	nmod	_	_	등/nbn+의/jcm
+3	면에서	면+에서	ADV	_	5	advcl	_	_	면/nbn+에서/jca
+4	축적이	축적+이	NOUN	_	5	nsubj	_	_	축적/ncpa+이/jcs
+5	이루어졌기	이루+어+지+었+기	AUX	_	6	nmod	_	_	이루/pvg+어/ecx+지/px+었/ep+기/etn
+6	때문에	때문+에	ADV	_	14	obl	_	_	때문/nbn+에/jca
+7	어느	어느	ADJ	_	8	amod	_	_	어느/mma
+8	면으로	면+으로	ADV	_	9	advcl	_	_	면/nbn+으로/jca
+9	보아도	보+아+도	ADV	_	14	dep	_	_	보/pvg+아/ecs+도/jxc
+10	성장보다는	성장+보다+는	NOUN	_	12	dislocated	_	_	성장/ncpa+보다/jca+는/jxt
+11	안정을	안정+을	NOUN	_	12	obj	_	_	안정/ncpa+을/jco
+12	지향하는	지향+하+는	VERB	_	13	acl	_	_	지향/ncpa+하/xsv+는/etm
+13	측면이	측면+이	NOUN	_	14	nsubj	_	_	측면/ncn+이/jcs
+14	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 일본과 같은 산업국가적 색채가 약하고 선진기술을 곧 상품화하는 기동성이 없다 .
+1	일본과	일본+과	CCONJ	_	2	conj	_	_	일본/nq+과/jct
+2	같은	같+ㄴ	ADJ	_	4	amod	_	_	같/paa+ㄴ/etm
+3	산업국가적	산업+국가+적	NOUN	_	4	amod	_	_	산업/ncn+국가/ncn+적/xsn
+4	색채가	색채+가	NOUN	_	5	nsubj	_	_	색채/ncn+가/jcs
+5	약하고	약하+고	CCONJ	_	10	conj	_	_	약하/paa+고/ecc
+6	선진기술을	선진+기술+을	NOUN	_	8	obj	_	_	선진/ncn+기술/ncn+을/jco
+7	곧	곧	ADV	_	8	advmod	_	_	곧/mag
+8	상품화하는	상품화+하+는	VERB	_	9	acl	_	_	상품화/ncpa+하/xsv+는/etm
+9	기동성이	기동성+이	NOUN	_	10	nsubj	_	_	기동성/ncn+이/jcs
+10	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 시민의 생활태도는 건실하다고 할 수 있다 .
+1	시민의	시민+의	NOUN	_	2	nmod	_	_	시민/ncn+의/jcm
+2	생활태도는	생활+태도+는	NOUN	_	3	dislocated	_	_	생활/ncpa+태도/ncn+는/jxt
+3	건실하다고	건실+하+다+고	VERB	_	4	conj	_	_	건실/ncps+하/xsm+다/ef+고/jcr
+4	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	있다	있+다	ADJ	_	4	aux	_	_	있/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그러나 이 점들은 대단히 피상적인 관찰에 지나지 않는다 .
+1	그러나	그러나	CCONJ	_	7	cc	_	_	그러나/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	점들은	점+들+은	NOUN	_	7	dislocated	_	_	점/nbu+들/xsn+은/jxt
+4	대단히	대단+히	ADV	_	5	advmod	_	_	대단/ncps+히/xsa
+5	피상적인	피상+적+이+ㄴ	VERB	_	6	acl	_	_	피상/ncn+적/xsn+이/jp+ㄴ/etm
+6	관찰에	관찰+에	ADV	_	7	obl	_	_	관찰/ncpa+에/jca
+7	지나지	지나+지	VERB	_	0	root	_	_	지나/pvg+지/ecx
+8	않는다	않+는다	AUX	_	7	aux	_	_	않/px+는다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 카톨릭국에서는 개인주의의 색채가 강하고 노사관계 등 계급제도의 흔적이 느껴지는 면도 있다 .
+1	카톨릭국에서는	카톨릭국+에서+는	NOUN	_	11	dislocated	_	_	카톨릭국/ncn+에서/jca+는/jxt
+2	개인주의의	개인주의+의	NOUN	_	3	nmod	_	_	개인주의/ncn+의/jcm
+3	색채가	색채+가	NOUN	_	4	nsubj	_	_	색채/ncn+가/jcs
+4	강하고	강하+고	CCONJ	_	11	conj	_	_	강하/paa+고/ecc
+5	노사관계	노사+관계	NOUN	_	6	compound	_	_	노사/ncn+관계/ncpa
+6	등	등	NOUN	_	7	mark	_	_	등/nbn
+7	계급제도의	계급+제도+의	NOUN	_	8	nmod	_	_	계급/ncn+제도/ncn+의/jcm
+8	흔적이	흔적+이	NOUN	_	9	nsubj	_	_	흔적/ncn+이/jcs
+9	느껴지는	느끼+어+지+는	AUX	_	10	acl	_	_	느끼/pvg+어/ecx+지/px+는/etm
+10	면도	면+도	ADV	_	11	advcl	_	_	면/nbn+도/jxc
+11	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 장래의 경제 통합은 이 격차를 평준화시키려는 과정이라고 할 수 있다 .
+1	장래의	장래+의	NOUN	_	3	nmod	_	_	장래/ncn+의/jcm
+2	경제	경제	NOUN	_	3	compound	_	_	경제/ncn
+3	통합은	통합+은	NOUN	_	7	dislocated	_	_	통합/ncpa+은/jxt
+4	이	이	DET	_	5	det	_	_	이/mmd
+5	격차를	격차+를	NOUN	_	6	obj	_	_	격차/ncn+를/jco
+6	평준화시키려는	평준화+시키+려는	VERB	_	7	ccomp	_	_	평준화/ncpa+시키/xsv+려는/etm
+7	과정이라고	과정+이+라+고	VERB	_	8	conj	_	_	과정/ncn+이/jp+라/ef+고/jcr
+8	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	있다	있+다	ADJ	_	8	aux	_	_	있/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 미국의 베트남전쟁 , 소련의 아프가니스탄 군사침공도 이것을 조장했다 .
+1	미국의	미국+의	PROPN	_	2	nmod	_	_	미국/nq+의/jcm
+2	베트남전쟁	베트남전쟁	PROPN	_	6	compound	_	_	베트남전쟁/nq
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	소련의	소련+의	PROPN	_	6	nmod	_	_	소련/nq+의/jcm
+5	아프가니스탄	아프가니스탄	PROPN	_	6	compound	_	_	아프가니스탄/nq
+6	군사침공도	군사+침공+도	ADV	_	8	advcl	_	_	군사/ncn+침공/ncpa+도/jxc
+7	이것을	이것+을	PRON	_	8	obj	_	_	이것/npd+을/jco
+8	조장했다	조장+하+었+다	VERB	_	0	root	_	_	조장/ncpa+하/xsv+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그러나 소련의 통제경제 계획은 실패를 거듭한 것만은 아니었다 .
+1	그러나	그러나	CCONJ	_	8	cc	_	_	그러나/maj
+2	소련의	소련+의	PROPN	_	4	nmod	_	_	소련/nq+의/jcm
+3	통제경제	통제+경제	NOUN	_	4	compound	_	_	통제/ncpa+경제/ncn
+4	계획은	계획+은	NOUN	_	8	dislocated	_	_	계획/ncpa+은/jxt
+5	실패를	실패+를	NOUN	_	6	obj	_	_	실패/ncn+를/jco
+6	거듭한	거듭하+ㄴ	VERB	_	7	acl	_	_	거듭하/pvg+ㄴ/etm
+7	것만은	것+만은	ADV	_	8	advcl	_	_	것/nbn+만은/jxc
+8	아니었다	아니+었+다	ADJ	_	0	root	_	_	아니/paa+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 인공위성의 개발 , 가가린 소련의 우주비행에 의해 대표되는 소련의 기술적 우위는 그 통제경제가 어느 정도 성과를 거둔 것이라고 할 수 있다 .
+1	인공위성의	인공위성+의	NOUN	_	2	nmod	_	_	인공위성/ncn+의/jcm
+2	개발	개발	NOUN	_	6	compound	_	_	개발/ncpa
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	가가린	가가린	PROPN	_	5	flat	_	_	가가린/nq
+5	소련의	소련+의	PROPN	_	6	nmod	_	_	소련/nq+의/jcm
+6	우주비행에	우주+비행+에	ADV	_	7	obl	_	_	우주/ncn+비행/ncn+에/jca
+7	의해	의하+어	SCONJ	_	8	ccomp	_	_	의하/pvg+어/ecs
+8	대표되는	대표+되+는	VERB	_	11	acl	_	_	대표/ncpa+되/xsv+는/etm
+9	소련의	소련+의	PROPN	_	11	nmod	_	_	소련/nq+의/jcm
+10	기술적	기술+적	NOUN	_	11	amod	_	_	기술/ncpa+적/xsn
+11	우위는	우위+는	NOUN	_	19	dislocated	_	_	우위/ncn+는/jxt
+12	그	그	DET	_	13	det	_	_	그/mmd
+13	통제경제가	통제+경제+가	NOUN	_	17	nsubj	_	_	통제/ncpa+경제/ncn+가/jcs
+14	어느	어느	ADJ	_	15	amod	_	_	어느/mma
+15	정도	정도	NOUN	_	17	advmod	_	_	정도/ncn
+16	성과를	성과+를	NOUN	_	17	obj	_	_	성과/ncn+를/jco
+17	거둔	거두+ㄴ	VERB	_	19	conj	_	_	거두/pvg+ㄴ/etm
+18	것이라고	것+이+라+고	VERB	_	17	aux	_	_	것/nbn+이/jp+라/ef+고/jcr
+19	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+20	수	수	NOUN	_	21	fixed	_	_	수/nbn
+21	있다	있+다	ADJ	_	19	aux	_	_	있/paa+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 또 군사우선의 중공업노선은 시민생활의 희생을 바탕으로 하여 성립된 것이다 .
+1	또	또	CCONJ	_	8	cc	_	_	또/maj
+2	군사우선의	군사+우선+의	NOUN	_	3	nmod	_	_	군사/ncn+우선/ncpa+의/jcm
+3	중공업노선은	중공업+노선+은	NOUN	_	8	dislocated	_	_	중공업/ncn+노선/ncn+은/jxt
+4	시민생활의	시민+생활+의	NOUN	_	5	nmod	_	_	시민/ncn+생활/ncpa+의/jcm
+5	희생을	희생+을	NOUN	_	7	obj	_	_	희생/ncpa+을/jco
+6	바탕으로	바탕+으로	ADV	_	7	advcl	_	_	바탕/ncn+으로/jca
+7	하여	하+어	SCONJ	_	8	ccomp	_	_	하/pvg+어/ecs
+8	성립된	성립+되+ㄴ	VERB	_	0	root	_	_	성립/ncpa+되/xsv+ㄴ/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 때로는 관료주의로부터 오는 비효율 , 특권계급의 출현에 따른 불평들의 확대 등 여러 가지 폐해가 눈에 띄게된다 .
+1	때로는	때+로+는	NOUN	_	16	dislocated	_	_	때/ncn+로/jca+는/jxt
+2	관료주의로부터	관료주의+로+부터	ADV	_	3	advcl	_	_	관료주의/ncn+로/jca+부터/jxc
+3	오는	오+는	VERB	_	4	acl	_	_	오/pvg+는/etm
+4	비효율	비효율	NOUN	_	10	compound	_	_	비효율/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	특권계급의	특권+계급+의	NOUN	_	7	nmod	_	_	특권/ncn+계급/ncn+의/jcm
+7	출현에	출현+에	ADV	_	8	obl	_	_	출현/ncpa+에/jca
+8	따른	따르+ㄴ	VERB	_	9	acl	_	_	따르/pvg+ㄴ/etm
+9	불평들의	불평+들+의	NOUN	_	10	nmod	_	_	불평/ncpa+들/xsn+의/jcm
+10	확대	확대	NOUN	_	11	compound	_	_	확대/ncpa
+11	등	등	NOUN	_	14	mark	_	_	등/nbn
+12	여러	여러	ADJ	_	13	amod	_	_	여러/mma
+13	가지	가지	NOUN	_	14	compound	_	_	가지/nbu
+14	폐해가	폐해+가	NOUN	_	16	nsubj	_	_	폐해/ncn+가/jcs
+15	눈에	눈+에	ADV	_	16	obl	_	_	눈/ncn+에/jca
+16	띄게된다	띄+게+되+ㄴ다	AUX	_	0	root	_	_	띄/pvg+게/ecx+되/px+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이것은 소련에만 한정되는 것이 아니고 동유럽 각국에 공통되는 현상이다 .
+1	이것은	이것+은	PRON	_	9	dislocated	_	_	이것/npd+은/jxt
+2	소련에만	소련+에+만	ADV	_	3	advcl	_	_	소련/nq+에/jca+만/jxc
+3	한정되는	한정+되+는	VERB	_	4	acl	_	_	한정/ncpa+되/xsv+는/etm
+4	것이	것+이	NOUN	_	5	nsubj	_	_	것/nbn+이/jcs
+5	아니고	아니+고	CCONJ	_	8	conj	_	_	아니/paa+고/ecc
+6	동유럽	동유럽	PROPN	_	7	compound	_	_	동유럽/nq
+7	각국에	각국+에	ADV	_	8	obl	_	_	각국/ncn+에/jca
+8	공통되는	공통+되+는	VERB	_	9	ccomp	_	_	공통/ncpa+되/xsv+는/etm
+9	현상이다	현상+이+다	VERB	_	0	root	_	_	현상/ncn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 또한 동유럽 각국이 중점적으로 담당하는 사업 분야를 결정해 상호 의존을 깊게 하여 각국의 경제적 자립을 방해하기도 했다 .
+1	또한	또한	CCONJ	_	17	cc	_	_	또한/maj
+2	동유럽	동유럽	PROPN	_	3	compound	_	_	동유럽/nq
+3	각국이	각국+이	NOUN	_	16	nsubj	_	_	각국/ncn+이/jcs
+4	중점적으로	중점+적+으로	ADV	_	5	advcl	_	_	중점/ncn+적/xsn+으로/jca
+5	담당하는	담당+하+는	VERB	_	7	acl	_	_	담당/ncpa+하/xsv+는/etm
+6	사업	사업	NOUN	_	7	compound	_	_	사업/ncpa
+7	분야를	분야+를	NOUN	_	8	obj	_	_	분야/ncn+를/jco
+8	결정해	결정+하+어	SCONJ	_	11	conj	_	_	결정/ncpa+하/xsv+어/ecs
+9	상호	상호	NOUN	_	10	compound	_	_	상호/ncn
+10	의존을	의존+을	NOUN	_	11	obj	_	_	의존/ncpa+을/jco
+11	깊게	깊+게	ADJ	_	16	amod	_	_	깊/paa+게/ecx
+12	하여	하+어	SCONJ	_	11	aux	_	_	하/px+어/ecs
+13	각국의	각국+의	NOUN	_	15	nmod	_	_	각국/ncn+의/jcm
+14	경제적	경제+적	NOUN	_	15	amod	_	_	경제/ncn+적/xsn
+15	자립을	자립+을	NOUN	_	16	obj	_	_	자립/ncpa+을/jco
+16	방해하기도	방해+하+기+도	ADV	_	17	advcl	_	_	방해/ncpa+하/xsv+기/etn+도/jxc
+17	했다	하+었+다	VERB	_	0	root	_	_	하/pvg+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이제 동유럽은 방파제가 아니라 부담스런 화물로 변질된 것이었다 .
+1	이제	이제	ADV	_	7	advmod	_	_	이제/mag
+2	동유럽은	동유럽+은	PROPN	_	7	dislocated	_	_	동유럽/nq+은/jxt
+3	방파제가	방파제+가	NOUN	_	4	nsubj	_	_	방파제/ncn+가/jcs
+4	아니라	아니+라	SCONJ	_	7	xcomp	_	_	아니/paa+라/ecs
+5	부담스런	부담+스럽+ㄴ	VERB	_	6	amod	_	_	부담/ncps+스럽/xsm+ㄴ/etm
+6	화물로	화물+로	ADV	_	7	advcl	_	_	화물/ncn+로/jca
+7	변질된	변질+되+ㄴ	VERB	_	0	root	_	_	변질/ncpa+되/xsv+ㄴ/etm
+8	것이었다	것+이+었+다	VERB	_	7	aux	_	_	것/nbn+이/jp+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 동유럽의 혁명이 소련에도 역으로 파급효과를 미쳐 공산당 지배가 흔들리기 시작했다 .
+1	동유럽의	동유럽+의	PROPN	_	2	nmod	_	_	동유럽/nq+의/jcm
+2	혁명이	혁명+이	NOUN	_	6	nsubj	_	_	혁명/ncpa+이/jcs
+3	소련에도	소련+에+도	ADV	_	6	advcl	_	_	소련/nq+에/jca+도/jxc
+4	역으로	역+으로	ADV	_	6	advcl	_	_	역/ncn+으로/jca
+5	파급효과를	파급+효과+를	NOUN	_	6	obj	_	_	파급/ncpa+효과/ncn+를/jco
+6	미쳐	미치+어	SCONJ	_	10	ccomp	_	_	미치/pvg+어/ecs
+7	공산당	공산당	NOUN	_	8	compound	_	_	공산당/ncn
+8	지배가	지배+가	NOUN	_	9	nsubj	_	_	지배/ncpa+가/jcs
+9	흔들리기	흔들리+기	VERB	_	10	nmod	_	_	흔들리/pvg+기/etn
+10	시작했다	시작+하+었+다	VERB	_	0	root	_	_	시작/ncpa+하/xsv+었/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그 뒤 소련 공산당은 해체의 운명으로 이끌려 들어갔다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	뒤	뒤	NOUN	_	8	advmod	_	_	뒤/ncn
+3	소련	소련	PROPN	_	4	compound	_	_	소련/nq
+4	공산당은	공산당+은	NOUN	_	8	dislocated	_	_	공산당/ncn+은/jxt
+5	해체의	해체+의	NOUN	_	6	nmod	_	_	해체/ncpa+의/jcm
+6	운명으로	운명+으로	ADV	_	8	advcl	_	_	운명/ncn+으로/jca
+7	이끌려	이끌+려	SCONJ	_	8	ccomp	_	_	이끌/pvg+려/ecs
+8	들어갔다	들어가+았+다	VERB	_	0	root	_	_	들어가/pvg+았/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 극단적인 이야기가 될는지 모르겠지만 정치제도 변혁은 하룻밤 사이에 일어날 수도 있다 .
+1	극단적인	극단+적+이+ㄴ	VERB	_	2	acl	_	_	극단/ncn+적/xsn+이/jp+ㄴ/etm
+2	이야기가	이야기+가	NOUN	_	3	csubj	_	_	이야기/ncn+가/jcc
+3	될는지	되+ㄹ는지	SCONJ	_	4	ccomp	_	_	되/pvg+ㄹ는지/ecs
+4	모르겠지만	모르+겠+지만	SCONJ	_	9	ccomp	_	_	모르/pvg+겠/ep+지만/ecs
+5	정치제도	정치+제도	NOUN	_	6	compound	_	_	정치/ncn+제도/ncn
+6	변혁은	변혁+은	NOUN	_	9	dislocated	_	_	변혁/ncpa+은/jxt
+7	하룻밤	하룻밤	NOUN	_	8	compound	_	_	하룻밤/ncn
+8	사이에	사이+에	ADV	_	9	obl	_	_	사이/ncn+에/jca
+9	일어날	일어나+ㄹ	VERB	_	0	root	_	_	일어나/pvg+ㄹ/etm
+10	수도	수+도	ADV	_	11	fixed	_	_	수/nbn+도/jxc
+11	있다	있+다	ADJ	_	9	aux	_	_	있/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그런 경제체제를 변혁하려면 오랜 시간이 필요하다 .
+1	그런	그렇+ㄴ	VERB	_	2	amod	_	_	그렇/pad+ㄴ/etm
+2	경제체제를	경제+체제+를	NOUN	_	3	obj	_	_	경제/ncn+체제/ncn+를/jco
+3	변혁하려면	변혁+하+려면	SCONJ	_	6	ccomp	_	_	변혁/ncpa+하/xsv+려면/ecs
+4	오랜	오랜	ADJ	_	5	amod	_	_	오랜/mma
+5	시간이	시간+이	NOUN	_	6	nsubj	_	_	시간/ncn+이/jcs
+6	필요하다	필요+하+다	VERB	_	0	root	_	_	필요/ncpa+하/xsv+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 특히 구소련에는 과거의 자본주의 시대를 알고 있는 사람이 거의 없는 상태이다 .
+1	특히	특히	ADV	_	10	advmod	_	_	특히/mag
+2	구소련에는	구소련+에+는	PROPN	_	10	dislocated	_	_	구소련/nq+에/jca+는/jxt
+3	과거의	과거+의	NOUN	_	5	nmod	_	_	과거/ncn+의/jcm
+4	자본주의	자본주의	NOUN	_	5	compound	_	_	자본주의/ncn
+5	시대를	시대+를	NOUN	_	6	obj	_	_	시대/ncn+를/jco
+6	알고	알+고	VERB	_	8	acl	_	_	알/pvg+고/ecx
+7	있는	있+는	AUX	_	6	aux	_	_	있/px+는/etm
+8	사람이	사람+이	NOUN	_	10	nsubj	_	_	사람/ncn+이/jcs
+9	거의	거의	ADV	_	10	advmod	_	_	거의/mag
+10	없는	없+는	ADJ	_	11	amod	_	_	없/paa+는/etm
+11	상태이다	상태+이+다	VERB	_	0	root	_	_	상태/ncn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 경제개혁을 궤도에 올려놓기 위해서는 강력한 정권이 필요한 것인데 구소련 , 동유럽 각국은 거의 예외 없이 약체 정권이다 .
+1	경제개혁을	경제+개혁+을	NOUN	_	3	obj	_	_	경제/ncn+개혁/ncpa+을/jco
+2	궤도에	궤도+에	ADV	_	3	obl	_	_	궤도/ncn+에/jca
+3	올려놓기	올리+어+놓+기	AUX	_	4	nmod	_	_	올리/pvg+어/ecx+놓/px+기/etn
+4	위해서는	위하+어서+는	NOUN	_	7	ccomp	_	_	위하/pvg+어서/ecs+는/jxt
+5	강력한	강력+하+ㄴ	VERB	_	6	amod	_	_	강력/ncps+하/xsm+ㄴ/etm
+6	정권이	정권+이	NOUN	_	7	nsubj	_	_	정권/ncn+이/jcs
+7	필요한	필요+하+ㄴ	VERB	_	17	ccomp	_	_	필요/ncpa+하/xsv+ㄴ/etm
+8	것인데	것+이+ㄴ데	SCONJ	_	7	aux	_	_	것/nbn+이/jp+ㄴ데/ecs
+9	구소련	구소련	PROPN	_	12	conj	_	_	구소련/nq
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	동유럽	동유럽	PROPN	_	12	compound	_	_	동유럽/nq
+12	각국은	각국+은	NOUN	_	17	dislocated	_	_	각국/ncn+은/jxt
+13	거의	거의	ADV	_	15	advmod	_	_	거의/mag
+14	예외	예외	NOUN	_	15	dep	_	_	예외/ncn
+15	없이	없+이	SCONJ	_	17	xcomp	_	_	없/paa+이/ecs
+16	약체	약체	NOUN	_	17	compound	_	_	약체/ncn
+17	정권이다	정권+이+다	VERB	_	0	root	_	_	정권/ncn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이 떼믄에 각국의 지도자는 경제 운영의 어려움을 절절히 맛보고 있다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	떼믄에	때문+에	ADV	_	9	obl	_	_	때문/nbn+에/jca
+3	각국의	각국+의	NOUN	_	4	nmod	_	_	각국/ncn+의/jcm
+4	지도자는	지도자+는	NOUN	_	9	dislocated	_	_	지도자/ncn+는/jxt
+5	경제	경제	NOUN	_	6	compound	_	_	경제/ncn
+6	운영의	운영+의	NOUN	_	7	nmod	_	_	운영/ncpa+의/jcm
+7	어려움을	어렵+ㅁ+을	NOUN	_	9	obj	_	_	어렵/paa+ㅁ/etn+을/jco
+8	절절히	절절+히	ADV	_	9	advmod	_	_	절절/ncps+히/xsa
+9	맛보고	맛보+고	VERB	_	0	root	_	_	맛보/pvg+고/ecx
+10	있다	있+다	AUX	_	9	aux	_	_	있/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 마르크스는 일찍이 경제라는 하부 구조가 정치라는 상부구조를 규정한다고 주장했다 .
+1	마르크스는	마르크스+는	PROPN	_	9	dislocated	_	_	마르크스/nq+는/jxt
+2	일찍이	일찍이	ADV	_	9	advmod	_	_	일찍이/mag
+3	경제라는	경제+이+라는	VERB	_	5	acl	_	_	경제/ncn+이/jp+라는/etm
+4	하부	하부	NOUN	_	5	compound	_	_	하부/ncn
+5	구조가	구조+가	NOUN	_	8	nsubj	_	_	구조/ncpa+가/jcs
+6	정치라는	정치+이+라는	VERB	_	7	acl	_	_	정치/ncpa+이/jp+라는/etm
+7	상부구조를	상부+구조+를	NOUN	_	8	obj	_	_	상부/ncn+구조/ncpa+를/jco
+8	규정한다고	규정+하+ㄴ다+고	VERB	_	9	conj	_	_	규정/ncpa+하/xsv+ㄴ다/ef+고/jcr
+9	주장했다	주장+하+었+다	VERB	_	0	root	_	_	주장/ncpa+하/xsv+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 동서의 군사긴장은 명실공히 없어졌을 뿐만 아니라 경제 면에서는 서방이 동쪽에 발목을 잡힐 가능성이 있다 .
+1	동서의	동서+의	NOUN	_	2	nmod	_	_	동서/ncn+의/jcm
+2	군사긴장은	군사+긴장+은	NOUN	_	4	dislocated	_	_	군사/ncn+긴장/ncps+은/jxt
+3	명실공히	명실공히	ADV	_	4	advmod	_	_	명실공히/mag
+4	없어졌을	없+어+지+었+ㄹ	AUX	_	14	amod	_	_	없/paa+어/ecx+지/px+었/ep+ㄹ/etm
+5	뿐만	뿐+만	ADV	_	6	fixed	_	_	뿐/nbn+만/jxc
+6	아니라	아니+라	SCONJ	_	4	aux	_	_	아니/paa+라/ecs
+7	경제	경제	NOUN	_	8	compound	_	_	경제/ncn
+8	면에서는	면+에서+는	NOUN	_	12	dislocated	_	_	면/nbn+에서/jca+는/jxt
+9	서방이	서방+이	NOUN	_	12	nsubj	_	_	서방/ncn+이/jcs
+10	동쪽에	동쪽+에	ADV	_	12	obl	_	_	동쪽/ncn+에/jca
+11	발목을	발목+을	NOUN	_	12	obj	_	_	발목/ncn+을/jco
+12	잡힐	잡히+ㄹ	VERB	_	13	acl	_	_	잡히/pvg+ㄹ/etm
+13	가능성이	가능성+이	NOUN	_	14	nsubj	_	_	가능성/ncn+이/jcs
+14	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 왜 통합이 필요한가 ?
+1	왜	왜	ADV	_	3	advmod	_	_	왜/mag
+2	통합이	통합+이	NOUN	_	3	nsubj	_	_	통합/ncpa+이/jcs
+3	필요한가	필요+하+ㄴ가	VERB	_	0	root	_	_	필요/ncpa+하/xsv+ㄴ가/ef
+4	?	?	PUNCT	_	3	punct	_	_	?/sf
+
+# 유럽이 금세기에 들어와서도 두번씩이나 세계대전의 발화점이 된 것은 이미 알고 있는 바와 같다 .
+1	유럽이	유럽+이	PROPN	_	7	nsubj	_	_	유럽/nq+이/jcs
+2	금세기에	금세기+에	ADV	_	3	obl	_	_	금세기/ncn+에/jca
+3	들어와서도	들어오+아서+도	ADV	_	7	ccomp	_	_	들어오/pvg+아서/ecs+도/jxc
+4	두번씩이나	두+번+씩+이나	ADV	_	7	advcl	_	_	두/nnc+번/nbu+씩/xsn+이나/jxc
+5	세계대전의	세계+대전+의	NOUN	_	6	nmod	_	_	세계/ncn+대전/ncn+의/jcm
+6	발화점이	발화점+이	NOUN	_	7	nsubj	_	_	발화점/ncn+이/jcs
+7	된	되+ㄴ	VERB	_	8	acl	_	_	되/pvg+ㄴ/etm
+8	것은	것+은	NOUN	_	10	dislocated	_	_	것/nbn+은/jxt
+9	이미	이미	ADV	_	10	advmod	_	_	이미/mag
+10	알고	알+고	VERB	_	12	acl	_	_	알/pvg+고/ecx
+11	있는	있+는	AUX	_	10	aux	_	_	있/px+는/etm
+12	바와	바+와	CCONJ	_	13	conj	_	_	바/nbn+와/jct
+13	같다	같+다	ADJ	_	0	root	_	_	같/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이것을 뒤집어 얘기하면 이 땅에서는 절대적인 패권을 확립하기가 어렵다는 얘기가 된다 .
+1	이것을	이것+을	PRON	_	2	obj	_	_	이것/npd+을/jco
+2	뒤집어	뒤집+어	SCONJ	_	3	ccomp	_	_	뒤집/pvg+어/ecs
+3	얘기하면	얘기+하+면	SCONJ	_	11	ccomp	_	_	얘기/ncpa+하/xsv+면/ecs
+4	이	이	DET	_	5	det	_	_	이/mmd
+5	땅에서는	땅+에서+는	NOUN	_	9	dislocated	_	_	땅/ncn+에서/jca+는/jxt
+6	절대적인	절대+적+이+ㄴ	VERB	_	7	acl	_	_	절대/ncn+적/xsn+이/jp+ㄴ/etm
+7	패권을	패권+을	NOUN	_	8	obj	_	_	패권/ncn+을/jco
+8	확립하기가	확립+하+기+가	NOUN	_	9	nsubj	_	_	확립/ncpa+하/xsv+기/etn+가/jcs
+9	어렵다는	어렵+다는	ADJ	_	10	amod	_	_	어렵/paa+다는/etm
+10	얘기가	얘기+가	NOUN	_	11	nsubj	_	_	얘기/ncpa+가/jcs
+11	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 역사상 이 위업을 달성한 것은 로마 제국뿐이다 .
+1	역사상	역사상	NOUN	_	4	advmod	_	_	역사상/ncn
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	위업을	위업+을	NOUN	_	4	obj	_	_	위업/ncn+을/jco
+4	달성한	달성+하+ㄴ	VERB	_	5	acl	_	_	달성/ncpa+하/xsv+ㄴ/etm
+5	것은	것+은	NOUN	_	7	dislocated	_	_	것/nbn+은/jxt
+6	로마	로마	PROPN	_	7	compound	_	_	로마/nq
+7	제국뿐이다	제국+뿐+이+다	VERB	_	0	root	_	_	제국/ncn+뿐/xsn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 사회 정세가 불안정하기 때문에 배타적인 민족주의가 사람들의 마음을 사로잡았다 .
+1	사회	사회	NOUN	_	2	compound	_	_	사회/ncn
+2	정세가	정세+가	NOUN	_	3	nsubj	_	_	정세/ncn+가/jcs
+3	불안정하기	불안정+하+기	VERB	_	4	nmod	_	_	불안정/ncps+하/xsm+기/etn
+4	때문에	때문+에	ADV	_	9	obl	_	_	때문/nbn+에/jca
+5	배타적인	배타+적+이+ㄴ	VERB	_	6	acl	_	_	배타/ncpa+적/xsn+이/jp+ㄴ/etm
+6	민족주의가	민족주의+가	NOUN	_	9	nsubj	_	_	민족주의/ncn+가/jcs
+7	사람들의	사람+들+의	NOUN	_	8	nmod	_	_	사람/ncn+들/xsn+의/jcm
+8	마음을	마음+을	NOUN	_	9	obj	_	_	마음/ncn+을/jco
+9	사로잡았다	사로잡+았+다	VERB	_	0	root	_	_	사로잡/pvg+았/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그것은 인간이 창조한 생각을 오랫동안 존속시키려면 기구가 필요하다는 것이었다 .
+1	그것은	그것+은	PRON	_	9	dislocated	_	_	그것/npd+은/jxt
+2	인간이	인간+이	NOUN	_	3	nsubj	_	_	인간/ncn+이/jcs
+3	창조한	창조+하+ㄴ	VERB	_	4	acl	_	_	창조/ncpa+하/xsv+ㄴ/etm
+4	생각을	생각+을	NOUN	_	6	obj	_	_	생각/ncpa+을/jco
+5	오랫동안	오랫동안	NOUN	_	6	compound	_	_	오랫동안/ncn
+6	존속시키려면	존속+시키+려면	SCONJ	_	8	ccomp	_	_	존속/ncpa+시키/xsv+려면/ecs
+7	기구가	기구+가	NOUN	_	8	nsubj	_	_	기구/ncn+가/jcs
+8	필요하다는	필요+하+다는	VERB	_	9	ccomp	_	_	필요/ncpa+하/xsv+다는/etm
+9	것이었다	것+이+었+다	VERB	_	0	root	_	_	것/nbn+이/jp+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이것은 코냑을 숙성시키는 것과 같이 시간을 들이지 않으면 불가능한 일이라는 것이었다 .
+1	이것은	이것+은	PRON	_	5	dislocated	_	_	이것/npd+은/jxt
+2	코냑을	코냑+을	NOUN	_	3	obj	_	_	코냑/ncn+을/jco
+3	숙성시키는	숙성+시키+는	VERB	_	4	acl	_	_	숙성/ncpa+시키/xsv+는/etm
+4	것과	것+과	CCONJ	_	5	conj	_	_	것/nbn+과/jct
+5	같이	같+이	SCONJ	_	10	xcomp	_	_	같/paa+이/ecs
+6	시간을	시간+을	NOUN	_	7	obj	_	_	시간/ncn+을/jco
+7	들이지	들이+지	VERB	_	9	conj	_	_	들이/pvg+지/ecx
+8	않으면	않+으면	SCONJ	_	7	aux	_	_	않/px+으면/ecs
+9	불가능한	불가능+하+ㄴ	VERB	_	10	amod	_	_	불가능/ncps+하/xsm+ㄴ/etm
+10	일이라는	일+이+라는	VERB	_	11	ccomp	_	_	일/ncpa+이/jp+라는/etm
+11	것이었다	것+이+었+다	VERB	_	0	root	_	_	것/nbn+이/jp+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 유럽 최강의 공업국인 독일의 지하자원은 프랑스와 국경을 마주하고 있는 자르 지방에서 나는 석탄과 철광석이다 .
+1	유럽	유럽	PROPN	_	2	compound	_	_	유럽/nq
+2	최강의	최강+의	NOUN	_	3	nmod	_	_	최강/ncn+의/jcm
+3	공업국인	공업국+이+ㄴ	VERB	_	4	acl	_	_	공업국/ncn+이/jp+ㄴ/etm
+4	독일의	독일+의	PROPN	_	5	nmod	_	_	독일/nq+의/jcm
+5	지하자원은	지하+자원+은	NOUN	_	14	dislocated	_	_	지하/ncn+자원/ncn+은/jxt
+6	프랑스와	프랑스+와	CCONJ	_	8	conj	_	_	프랑스/nq+와/jct
+7	국경을	국경+을	NOUN	_	8	obj	_	_	국경/ncn+을/jco
+8	마주하고	마주하+고	VERB	_	11	acl	_	_	마주하/pvg+고/ecx
+9	있는	있+는	AUX	_	8	aux	_	_	있/px+는/etm
+10	자르	자르	PROPN	_	11	compound	_	_	자르/nq
+11	지방에서	지방+에서	ADV	_	12	advcl	_	_	지방/ncn+에서/jca
+12	나는	나+는	VERB	_	14	ccomp	_	_	나/pvg+는/etm
+13	석탄과	석탄+과	CCONJ	_	14	conj	_	_	석탄/ncn+과/jcj
+14	철광석이다	철광석+이+다	VERB	_	0	root	_	_	철광석/ncn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 양국은 이 자원의 소유권을 둘러싸고 여러 차례에 걸쳐 국경 분쟁을 일으켜 온 역사가 있다 .
+1	양국은	양국+은	NOUN	_	14	dislocated	_	_	양국/ncn+은/jxt
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	자원의	자원+의	NOUN	_	4	nmod	_	_	자원/ncn+의/jcm
+4	소유권을	소유권+을	NOUN	_	5	obj	_	_	소유권/ncn+을/jco
+5	둘러싸고	둘러싸+고	CCONJ	_	11	conj	_	_	둘러싸/pvg+고/ecc
+6	여러	여러	ADJ	_	7	amod	_	_	여러/mma
+7	차례에	차례+에	ADV	_	8	obl	_	_	차례/ncn+에/jca
+8	걸쳐	걸치+어	SCONJ	_	11	ccomp	_	_	걸치/pvg+어/ecs
+9	국경	국경	NOUN	_	10	compound	_	_	국경/ncn
+10	분쟁을	분쟁+을	NOUN	_	11	obj	_	_	분쟁/ncpa+을/jco
+11	일으켜	일으키+어	VERB	_	13	acl	_	_	일으키/pvg+어/ecx
+12	온	오+ㄴ	AUX	_	11	aux	_	_	오/px+ㄴ/etm
+13	역사가	역사+가	NOUN	_	14	nsubj	_	_	역사/ncn+가/jcs
+14	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 더욱이 안전보장의 면에서도 유럽의 여러 나라가 공동보조를 취해야 할 중요성을 지적했다 .
+1	더욱이	더욱이	ADV	_	11	advmod	_	_	더욱이/mag
+2	안전보장의	안전+보장+의	NOUN	_	3	nmod	_	_	안전/ncpa+보장/ncpa+의/jcm
+3	면에서도	면+에서+도	ADV	_	8	advcl	_	_	면/nbn+에서/jca+도/jxc
+4	유럽의	유럽+의	PROPN	_	6	nmod	_	_	유럽/nq+의/jcm
+5	여러	여러	ADJ	_	6	amod	_	_	여러/mma
+6	나라가	나라+가	NOUN	_	8	nsubj	_	_	나라/ncn+가/jcs
+7	공동보조를	공동+보조+를	NOUN	_	8	obj	_	_	공동/ncn+보조/ncn+를/jco
+8	취해야	취하+어야	VERB	_	10	acl	_	_	취하/pvg+어야/ecx
+9	할	하+ㄹ	AUX	_	8	aux	_	_	하/px+ㄹ/etm
+10	중요성을	중요성+을	NOUN	_	11	obj	_	_	중요성/ncn+을/jco
+11	지적했다	지적+하+었+다	VERB	_	0	root	_	_	지적/ncpa+하/xsv+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 당시의 분위기는 유러페시미즘이 바로 그것이었다 .
+1	당시의	당시+의	NOUN	_	2	nmod	_	_	당시/ncn+의/jcm
+2	분위기는	분위기+는	NOUN	_	5	dislocated	_	_	분위기/ncn+는/jxt
+3	유러페시미즘이	유러페시미즘+이	NOUN	_	5	nsubj	_	_	유러페시미즘/ncn+이/jcs
+4	바로	바로	ADV	_	5	advmod	_	_	바로/mag
+5	그것이었다	그것+이+었+다	VERB	_	0	root	_	_	그것/npd+이/jp+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 유럽경제의 정체를 보여 주는 다음과 같은 통계수치도 있었다 .
+1	유럽경제의	유럽+경제+의	PROPN	_	2	nmod	_	_	유럽/nq+경제/ncn+의/jcm
+2	정체를	정체+를	NOUN	_	3	obj	_	_	정체/ncpa+를/jco
+3	보여	보이+어	VERB	_	7	acl	_	_	보이/pvg+어/ecx
+4	주는	주+는	AUX	_	3	aux	_	_	주/px+는/etm
+5	다음과	다음+과	CCONJ	_	6	conj	_	_	다음/ncn+과/jct
+6	같은	같+ㄴ	ADJ	_	7	amod	_	_	같/paa+ㄴ/etm
+7	통계수치도	통계+수치+도	ADV	_	8	advcl	_	_	통계/ncn+수치/ncn+도/jxc
+8	있었다	있+었+다	ADJ	_	0	root	_	_	있/paa+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 국제정세의 격변도 EC의 통합열을 높였다 .
+1	국제정세의	국제+정세+의	NOUN	_	2	nmod	_	_	국제/ncn+정세/ncn+의/jcm
+2	격변도	격변+도	ADV	_	5	advcl	_	_	격변/ncpa+도/jxc
+3	EC의	EC+의	NOUN	_	4	nmod	_	_	EC/f+의/jcm
+4	통합열을	통합열+을	NOUN	_	5	obj	_	_	통합열/ncn+을/jco
+5	높였다	높이+었+다	VERB	_	0	root	_	_	높이/pvg+었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 1991 년 12 월의 소련붕괴에 따른 동서냉전의 종결은 세계의 질서 형성에서 차지하는 군사력의 비중을 급속히 저하시켰다 .
+1	1991	1991	NUM	_	2	nummod	_	_	1991/nno
+2	년	년	NOUN	_	4	compound	_	_	년/nbu
+3	12	12	NUM	_	4	nummod	_	_	12/nno
+4	월의	월+의	NOUN	_	5	nmod	_	_	월/nbu+의/jcm
+5	소련붕괴에	소련+붕괴+에	ADV	_	6	obl	_	_	소련/nq+붕괴/ncpa+에/jca
+6	따른	따르+ㄴ	VERB	_	8	acl	_	_	따르/pvg+ㄴ/etm
+7	동서냉전의	동서+냉전+의	NOUN	_	8	nmod	_	_	동서/ncn+냉전/ncn+의/jcm
+8	종결은	종결+은	NOUN	_	16	dislocated	_	_	종결/ncpa+은/jxt
+9	세계의	세계+의	NOUN	_	11	nmod	_	_	세계/ncn+의/jcm
+10	질서	질서	NOUN	_	11	compound	_	_	질서/ncn
+11	형성에서	형성+에서	ADV	_	12	advcl	_	_	형성/ncpa+에서/jca
+12	차지하는	차지+하+는	VERB	_	14	acl	_	_	차지/ncpa+하/xsv+는/etm
+13	군사력의	군사력+의	NOUN	_	14	nmod	_	_	군사력/ncn+의/jcm
+14	비중을	비중+을	NOUN	_	16	obj	_	_	비중/ncn+을/jco
+15	급속히	급속+히	ADV	_	16	advmod	_	_	급속/ncps+히/xsa
+16	저하시켰다	저하+시키+었+다	VERB	_	0	root	_	_	저하/ncpa+시키/xsv+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그러나 냉전의 종식은 평화의 배당 , 곧 국방비의 대폭 삭감을 촉진시켰다 .
+1	그러나	그러나	CCONJ	_	11	cc	_	_	그러나/maj
+2	냉전의	냉전+의	NOUN	_	3	nmod	_	_	냉전/ncn+의/jcm
+3	종식은	종식+은	NOUN	_	11	dislocated	_	_	종식/ncpa+은/jxt
+4	평화의	평화+의	NOUN	_	5	nmod	_	_	평화/ncps+의/jcm
+5	배당	배당	NOUN	_	10	conj	_	_	배당/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	곧	곧	CCONJ	_	10	cc	_	_	곧/maj
+8	국방비의	국방비+의	NOUN	_	10	nmod	_	_	국방비/ncn+의/jcm
+9	대폭	대폭	ADV	_	10	advmod	_	_	대폭/mag
+10	삭감을	삭감+을	NOUN	_	11	obj	_	_	삭감/ncpa+을/jco
+11	촉진시켰다	촉진+시키+었+다	VERB	_	0	root	_	_	촉진/ncpa+시키/xsv+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러나 이상과 현실의 차이가 적지 않은 것이다 .
+1	그러나	그러나	CCONJ	_	5	cc	_	_	그러나/maj
+2	이상과	이상+과	CCONJ	_	3	conj	_	_	이상/ncn+과/jcj
+3	현실의	현실+의	NOUN	_	4	nmod	_	_	현실/ncn+의/jcm
+4	차이가	차이+가	NOUN	_	5	nsubj	_	_	차이/ncn+가/jcs
+5	적지	적+지	ADJ	_	0	root	_	_	적/paa+지/ecx
+6	않은	않+ㄴ	AUX	_	5	aux	_	_	않/px+ㄴ/etm
+7	것이다	것+이+다	VERB	_	5	aux	_	_	것/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 지금까지는 통합이라는 말을 별 뜻 없이 사용해 왔다 .
+1	지금까지는	지금+까지+는	NOUN	_	7	dislocated	_	_	지금/ncn+까지/jxc+는/jxt
+2	통합이라는	통합+이+라는	VERB	_	3	acl	_	_	통합/ncpa+이/jp+라는/etm
+3	말을	말+을	NOUN	_	7	obj	_	_	말/ncpa+을/jco
+4	별	별	ADJ	_	5	amod	_	_	별/mma
+5	뜻	뜻	NOUN	_	6	dep	_	_	뜻/ncn
+6	없이	없+이	SCONJ	_	7	xcomp	_	_	없/paa+이/ecs
+7	사용해	사용+하+어	VERB	_	0	root	_	_	사용/ncpa+하/xsv+어/ecx
+8	왔다	오+았+다	AUX	_	7	aux	_	_	오/px+았/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그러나 통합을 한마디로 정의하기는 대단히 어려운 일이다 .
+1	그러나	그러나	CCONJ	_	7	cc	_	_	그러나/maj
+2	통합을	통합+을	NOUN	_	4	obj	_	_	통합/ncpa+을/jco
+3	한마디로	한+마디+로	ADV	_	4	advcl	_	_	한/nnc+마디/ncn+로/jca
+4	정의하기는	정의+하+기+는	NOUN	_	7	dislocated	_	_	정의/ncpa+하/xsv+기/etn+는/jxt
+5	대단히	대단+히	ADV	_	6	advmod	_	_	대단/ncps+히/xsa
+6	어려운	어렵+ㄴ	ADJ	_	7	amod	_	_	어렵/paa+ㄴ/etm
+7	일이다	일+이+다	VERB	_	0	root	_	_	일/ncpa+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# EC에서는 수송 , 통신 , 금융 , 지적소유권 등의 독점금지정책에 대한 공통의 가이드라인을 다양한 법률 운용 면에서 만들고 있다 .
+1	EC에서는	EC+에서+는	NOUN	_	18	dislocated	_	_	EC/f+에서/jca+는/jxt
+2	수송	수송	NOUN	_	4	conj	_	_	수송/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	통신	통신	NOUN	_	6	conj	_	_	통신/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	금융	금융	NOUN	_	8	conj	_	_	금융/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	지적소유권	지적+소유권	NOUN	_	9	compound	_	_	지적/ncn+소유권/ncn
+9	등의	등+의	NOUN	_	10	nmod	_	_	등/nbn+의/jcm
+10	독점금지정책에	독점+금지+정책+에	ADV	_	11	obl	_	_	독점/ncpa+금지/ncpa+정책/ncn+에/jca
+11	대한	대하+ㄴ	VERB	_	13	acl	_	_	대하/pvg+ㄴ/etm
+12	공통의	공통+의	NOUN	_	13	nmod	_	_	공통/ncpa+의/jcm
+13	가이드라인을	가이드+라인+을	NOUN	_	18	obj	_	_	가이드/ncn+라인/ncn+을/jco
+14	다양한	다양+하+ㄴ	VERB	_	17	amod	_	_	다양/ncps+하/xsm+ㄴ/etm
+15	법률	법률	NOUN	_	16	compound	_	_	법률/ncn
+16	운용	운용	NOUN	_	17	compound	_	_	운용/ncpa
+17	면에서	면+에서	ADV	_	18	advcl	_	_	면/nbn+에서/jca
+18	만들고	만들+고	VERB	_	0	root	_	_	만들/pvg+고/ecx
+19	있다	있+다	AUX	_	18	aux	_	_	있/px+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 국경을 넘어 유럽 대륙을 달리는 트럭운전사는 이전에는 국경을 넘기 위해 70여 종의 서류를 휴대하지 않으면 안 되었다 .
+1	국경을	국경+을	NOUN	_	2	obj	_	_	국경/ncn+을/jco
+2	넘어	넘+어	SCONJ	_	5	ccomp	_	_	넘/pvg+어/ecs
+3	유럽	유럽	PROPN	_	4	compound	_	_	유럽/nq
+4	대륙을	대륙+을	NOUN	_	5	obj	_	_	대륙/ncn+을/jco
+5	달리는	달리+는	VERB	_	6	acl	_	_	달리/pvg+는/etm
+6	트럭운전사는	트럭+운전사+는	NOUN	_	17	dislocated	_	_	트럭/ncn+운전사/ncn+는/jxt
+7	이전에는	이전+에+는	NOUN	_	17	dislocated	_	_	이전/ncn+에/jca+는/jxt
+8	국경을	국경+을	NOUN	_	9	obj	_	_	국경/ncn+을/jco
+9	넘기	넘+기	VERB	_	10	nmod	_	_	넘/pvg+기/etn
+10	위해	위하+어	SCONJ	_	17	ccomp	_	_	위하/pvg+어/ecs
+11	70여	70+여	NOUN	_	12	advmod	_	_	70/nnc+여/xsn
+12	종의	종+의	NOUN	_	13	nmod	_	_	종/ncn+의/jcm
+13	서류를	서류+를	NOUN	_	14	obj	_	_	서류/ncn+를/jco
+14	휴대하지	휴대+하+지	VERB	_	17	ccomp	_	_	휴대/ncpa+하/xsv+지/ecx
+15	않으면	않+으면	SCONJ	_	14	aux	_	_	않/px+으면/ecs
+16	안	안	ADV	_	17	advmod	_	_	안/mag
+17	되었다	되+었+다	VERB	_	0	root	_	_	되/pvg+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그러나 1988 년의 개정법에 의해 단 한 가지 서류만으로 EC 각국을 달릴 수 있게 되었다 .
+1	그러나	그러나	CCONJ	_	12	cc	_	_	그러나/maj
+2	1988	1988	NUM	_	3	nummod	_	_	1988/nno
+3	년의	년+의	NOUN	_	4	nmod	_	_	년/nbu+의/jcm
+4	개정법에	개정법+에	ADV	_	5	obl	_	_	개정법/ncn+에/jca
+5	의해	의하+어	SCONJ	_	12	ccomp	_	_	의하/pvg+어/ecs
+6	단	단	ADJ	_	9	amod	_	_	단/mma
+7	한	한	NUM	_	8	nummod	_	_	한/nnc
+8	가지	가지	NOUN	_	9	compound	_	_	가지/nbu
+9	서류만으로	서류+만+으로	ADV	_	12	advcl	_	_	서류/ncn+만/jxc+으로/jca
+10	EC	EC	X	_	11	compound	_	_	EC/f
+11	각국을	각국+을	NOUN	_	12	obj	_	_	각국/ncn+을/jco
+12	달릴	달리+ㄹ	VERB	_	0	root	_	_	달리/pvg+ㄹ/etm
+13	수	수	NOUN	_	14	fixed	_	_	수/nbn
+14	있게	있+게	ADJ	_	12	aux	_	_	있/paa+게/ecx
+15	되었다	되+었+다	AUX	_	12	aux	_	_	되/px+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 통신 분야에서는 각국에서 상호 다른 전화기 등의 말단 규격이 이루어졌고 더욱이 공익법인만이 독점했던 사업에 민간기업의 참여가 인정되게 되었다 .
+1	통신	통신	NOUN	_	2	compound	_	_	통신/ncn
+2	분야에서는	분야+에서+는	NOUN	_	17	dislocated	_	_	분야/ncn+에서/jca+는/jxt
+3	각국에서	각국+에서	ADV	_	10	advcl	_	_	각국/ncn+에서/jca
+4	상호	상호	ADV	_	5	advmod	_	_	상호/mag
+5	다른	다르+ㄴ	ADJ	_	9	amod	_	_	다르/paa+ㄴ/etm
+6	전화기	전화기	NOUN	_	7	compound	_	_	전화기/ncn
+7	등의	등+의	NOUN	_	9	nmod	_	_	등/nbn+의/jcm
+8	말단	말단	NOUN	_	9	compound	_	_	말단/ncn
+9	규격이	규격+이	NOUN	_	10	nsubj	_	_	규격/ncn+이/jcs
+10	이루어졌고	이루+어+지+었+고	CCONJ	_	17	conj	_	_	이루/pvg+어/ecx+지/px+었/ep+고/ecc
+11	더욱이	더욱이	ADV	_	17	advmod	_	_	더욱이/mag
+12	공익법인만이	공익+법인+만+이	NOUN	_	13	nsubj	_	_	공익/ncn+법인/ncn+만/jxc+이/jcs
+13	독점했던	독점+하+었+던	VERB	_	14	acl	_	_	독점/ncpa+하/xsv+었/ep+던/etm
+14	사업에	사업+에	ADV	_	17	obl	_	_	사업/ncn+에/jca
+15	민간기업의	민간+기업+의	NOUN	_	16	nmod	_	_	민간/ncn+기업/ncn+의/jcm
+16	참여가	참여+가	NOUN	_	17	nsubj	_	_	참여/ncpa+가/jcs
+17	인정되게	인정+되+게	VERB	_	0	root	_	_	인정/ncpa+되/xsv+게/ecx
+18	되었다	되+었+다	AUX	_	17	aux	_	_	되/px+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이에 따라 EC 역내의 제조업체는 지금까지와는 비교가 되지 않는 거대한 시장을 상대로 사업을 전개하는 것이 가능해졌다 .
+1	이에	이+에	ADV	_	2	obl	_	_	이/npd+에/jca
+2	따라	따르+아	SCONJ	_	14	ccomp	_	_	따르/pvg+아/ecs
+3	EC	EC	X	_	4	compound	_	_	EC/f
+4	역내의	역내+의	NOUN	_	5	nmod	_	_	역내/ncn+의/jcm
+5	제조업체는	제조업체+는	NOUN	_	14	dislocated	_	_	제조업체/ncn+는/jxt
+6	지금까지와는	지금+까지+와+는	NOUN	_	8	dislocated	_	_	지금/ncn+까지/jxc+와/jct+는/jxt
+7	비교가	비교+가	NOUN	_	8	nsubj	_	_	비교/ncpa+가/jcs
+8	되지	되+지	VERB	_	11	acl	_	_	되/pvg+지/ecx
+9	않는	않+는	AUX	_	8	aux	_	_	않/px+는/etm
+10	거대한	거대+하+ㄴ	VERB	_	11	amod	_	_	거대/ncps+하/xsm+ㄴ/etm
+11	시장을	시장+을	NOUN	_	12	obj	_	_	시장/ncn+을/jco
+12	상대로	상대+로	ADV	_	14	advcl	_	_	상대/ncn+로/jca
+13	사업을	사업+을	NOUN	_	14	obj	_	_	사업/ncpa+을/jco
+14	전개하는	전개+하+는	VERB	_	15	acl	_	_	전개/ncpa+하/xsv+는/etm
+15	것이	것+이	NOUN	_	16	nsubj	_	_	것/nbn+이/jcs
+16	가능해졌다	가능+하+어+지+었+다	AUX	_	0	root	_	_	가능/ncps+하/xsm+어/ecx+지/px+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# EC 각국을 달릴 수 있게 되었다 .
+1	EC	EC	X	_	2	compound	_	_	EC/f
+2	각국을	각국+을	NOUN	_	3	obj	_	_	각국/ncn+을/jco
+3	달릴	달리+ㄹ	VERB	_	0	root	_	_	달리/pvg+ㄹ/etm
+4	수	수	NOUN	_	5	fixed	_	_	수/nbn
+5	있게	있+게	ADJ	_	3	aux	_	_	있/paa+게/ecx
+6	되었다	되+었+다	AUX	_	3	aux	_	_	되/px+었/ep+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# EC의 목적은 장벽의 철폐와 시장의 확대로 생산원가를 절감하고 경쟁의욕을 자극시켜 EC 제조업체의 경쟁력을 높여 보자는 것이다 .
+1	EC의	EC+의	NOUN	_	2	nmod	_	_	EC/f+의/jcm
+2	목적은	목적+은	NOUN	_	14	dislocated	_	_	목적/ncn+은/jxt
+3	장벽의	장벽+의	NOUN	_	4	nmod	_	_	장벽/ncn+의/jcm
+4	철폐와	철폐+와	CCONJ	_	6	conj	_	_	철폐/ncpa+와/jcj
+5	시장의	시장+의	NOUN	_	6	nmod	_	_	시장/ncn+의/jcm
+6	확대로	확대+로	ADV	_	10	advcl	_	_	확대/ncpa+로/jca
+7	생산원가를	생산+원가+를	NOUN	_	8	obj	_	_	생산/ncpa+원가/ncn+를/jco
+8	절감하고	절감+하+고	CCONJ	_	10	conj	_	_	절감/ncpa+하/xsv+고/ecc
+9	경쟁의욕을	경쟁+의욕+을	NOUN	_	10	obj	_	_	경쟁/ncpa+의욕/ncn+을/jco
+10	자극시켜	자극+시키+어	SCONJ	_	14	ccomp	_	_	자극/ncpa+시키/xsv+어/ecs
+11	EC	EC	X	_	12	compound	_	_	EC/f
+12	제조업체의	제조업체+의	PRON	_	13	nmod	_	_	제조업체/npp+의/jcm
+13	경쟁력을	경쟁력+을	NOUN	_	14	obj	_	_	경쟁력/ncn+을/jco
+14	높여	높이+어	VERB	_	0	root	_	_	높이/pvg+어/ecx
+15	보자는	보+자는	AUX	_	14	aux	_	_	보/px+자는/etm
+16	것이다	것+이+다	VERB	_	14	aux	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 지금까지 유럽의 각국은 아주 자세한 품질기준을 설정하여 왔다 .
+1	지금까지	지금+까지	ADV	_	7	advcl	_	_	지금/ncn+까지/jxc
+2	유럽의	유럽+의	PROPN	_	3	nmod	_	_	유럽/nq+의/jcm
+3	각국은	각국+은	NOUN	_	7	dislocated	_	_	각국/ncn+은/jxt
+4	아주	아주	ADV	_	5	advmod	_	_	아주/mag
+5	자세한	자세+하+ㄴ	VERB	_	6	amod	_	_	자세/ncps+하/xsm+ㄴ/etm
+6	품질기준을	품질+기준+을	NOUN	_	7	obj	_	_	품질/ncn+기준/ncpa+을/jco
+7	설정하여	설정+하+어	VERB	_	0	root	_	_	설정/ncpa+하/xsv+어/ecx
+8	왔다	오+았+다	AUX	_	7	aux	_	_	오/px+았/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 또 이탈리아는 자기 나라에서 주로 생산되는 듀라므 소맥만 파스타의 원료로 인정하여 그 이외의 제품은 파스타로 부르는 것을 금지해 왔다 .
+1	또	또	CCONJ	_	18	cc	_	_	또/maj
+2	이탈리아는	이탈리아+는	PROPN	_	18	dislocated	_	_	이탈리아/nq+는/jxt
+3	자기	자기	PRON	_	4	compound	_	_	자기/npp
+4	나라에서	나라+에서	ADV	_	6	advcl	_	_	나라/ncn+에서/jca
+5	주로	주로	ADV	_	6	advmod	_	_	주로/mag
+6	생산되는	생산+되+는	VERB	_	8	acl	_	_	생산/ncpa+되/xsv+는/etm
+7	듀라므	듀라므	NOUN	_	8	compound	_	_	듀라므/ncn
+8	소맥만	소맥+만	ADV	_	11	advcl	_	_	소맥/ncn+만/jxc
+9	파스타의	파스타+의	NOUN	_	10	nmod	_	_	파스타/ncn+의/jcm
+10	원료로	원료+로	ADV	_	11	advcl	_	_	원료/ncn+로/jca
+11	인정하여	인정+하+어	SCONJ	_	18	ccomp	_	_	인정/ncpa+하/xsv+어/ecs
+12	그	그	DET	_	13	det	_	_	그/mmd
+13	이외의	이외+의	NOUN	_	14	nmod	_	_	이외/ncn+의/jcm
+14	제품은	제품+은	NOUN	_	18	dislocated	_	_	제품/ncn+은/jxt
+15	파스타로	파스타+로	ADV	_	16	advcl	_	_	파스타/ncn+로/jca
+16	부르는	부르+는	VERB	_	17	acl	_	_	부르/pvg+는/etm
+17	것을	것+을	NOUN	_	18	obj	_	_	것/nbn+을/jco
+18	금지해	금지+하+어	VERB	_	0	root	_	_	금지/ncpa+하/xsv+어/ecx
+19	왔다	오+았+다	AUX	_	18	aux	_	_	오/px+았/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 한편 EC 각국의 산업계는 서로 협조하여 하이테크 분야에서 앞서가는 일본과 미국에의 반격 체제를 계속 만들어 가고 있다 .
+1	한편	한편	CCONJ	_	15	cc	_	_	한편/maj
+2	EC	EC	X	_	3	compound	_	_	EC/f
+3	각국의	각국+의	NOUN	_	4	nmod	_	_	각국/ncn+의/jcm
+4	산업계는	산업계+는	NOUN	_	15	dislocated	_	_	산업계/ncn+는/jxt
+5	서로	서로	ADV	_	6	advmod	_	_	서로/mag
+6	협조하여	협조+하+어	SCONJ	_	15	ccomp	_	_	협조/ncpa+하/xsv+어/ecs
+7	하이테크	하이테크	NOUN	_	8	compound	_	_	하이테크/ncn
+8	분야에서	분야+에서	ADV	_	9	advcl	_	_	분야/ncn+에서/jca
+9	앞서가는	앞서+어+가+는	AUX	_	11	acl	_	_	앞서/pvg+어/ecx+가/px+는/etm
+10	일본과	일본+과	CCONJ	_	11	conj	_	_	일본/nq+과/jcj
+11	미국에의	미국+에+의	PROPN	_	12	nmod	_	_	미국/nq+에/jca+의/jcm
+12	반격	반격	NOUN	_	13	compound	_	_	반격/ncpa
+13	체제를	체제+를	NOUN	_	15	obj	_	_	체제/ncn+를/jco
+14	계속	계속	ADV	_	15	advmod	_	_	계속/mag
+15	만들어	만들+어	VERB	_	0	root	_	_	만들/pvg+어/ecx
+16	가고	가+고	AUX	_	15	aux	_	_	가/px+고/ecx
+17	있다	있+다	AUX	_	15	aux	_	_	있/px+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그 대표적인 것이 에어버스인데 유럽 각국 정부로부터 보조금을 받아 가면서 세계시장에서 미국 기업과의 시장경쟁을 벌이고 있다 .
+1	그	그	DET	_	3	det	_	_	그/mmd
+2	대표적인	대표+적+이+ㄴ	VERB	_	3	acl	_	_	대표/ncpa+적/xsn+이/jp+ㄴ/etm
+3	것이	것+이	NOUN	_	4	nsubj	_	_	것/nbn+이/jcs
+4	에어버스인데	에어버스+이+ㄴ데	SCONJ	_	15	ccomp	_	_	에어버스/ncn+이/jp+ㄴ데/ecs
+5	유럽	유럽	PROPN	_	6	compound	_	_	유럽/nq
+6	각국	각국	NOUN	_	7	compound	_	_	각국/ncn
+7	정부로부터	정부+로+부터	ADV	_	9	advcl	_	_	정부/ncn+로/jca+부터/jxc
+8	보조금을	보조금+을	NOUN	_	9	obj	_	_	보조금/ncn+을/jco
+9	받아	받+아	VERB	_	15	conj	_	_	받/pvg+아/ecx
+10	가면서	가+면서	CCONJ	_	9	aux	_	_	가/px+면서/ecc
+11	세계시장에서	세계+시장+에서	ADV	_	15	advcl	_	_	세계/ncn+시장/ncn+에서/jca
+12	미국	미국	PROPN	_	13	compound	_	_	미국/nq
+13	기업과의	기업+과+의	NOUN	_	14	nmod	_	_	기업/ncn+과/jct+의/jcm
+14	시장경쟁을	시장+경쟁+을	NOUN	_	15	obj	_	_	시장/ncn+경쟁/ncpa+을/jco
+15	벌이고	벌+이+고	VERB	_	0	root	_	_	벌/ncn+이/jp+고/ecx
+16	있다	있+다	AUX	_	15	aux	_	_	있/px+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 또한 하이테크 교육 분야에서 비장의 카드인 유레카 계획도 명확한 모습으로 드러나기 시작했다 .
+1	또한	또한	CCONJ	_	12	cc	_	_	또한/maj
+2	하이테크	하이테크	NOUN	_	3	compound	_	_	하이테크/ncn
+3	교육	교육	NOUN	_	4	compound	_	_	교육/ncn
+4	분야에서	분야+에서	ADV	_	6	advcl	_	_	분야/ncn+에서/jca
+5	비장의	비장+의	NOUN	_	6	nmod	_	_	비장/ncn+의/jcm
+6	카드인	카드+이+ㄴ	VERB	_	8	acl	_	_	카드/ncn+이/jp+ㄴ/etm
+7	유레카	유레카	NOUN	_	8	compound	_	_	유레카/ncn
+8	계획도	계획+도	ADV	_	11	advcl	_	_	계획/ncpa+도/jxc
+9	명확한	명확+하+ㄴ	VERB	_	10	amod	_	_	명확/ncps+하/xsm+ㄴ/etm
+10	모습으로	모습+으로	ADV	_	11	advcl	_	_	모습/ncn+으로/jca
+11	드러나기	드러나+기	VERB	_	12	nmod	_	_	드러나/pvg+기/etn
+12	시작했다	시작+하+었+다	VERB	_	0	root	_	_	시작/ncpa+하/xsv+었/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# EC 내에서는 기업간의 제휴도 활발하게 진행되고 있다 .
+1	EC	EC	X	_	2	compound	_	_	EC/f
+2	내에서는	내+에서+는	NOUN	_	6	dislocated	_	_	내/ncn+에서/jca+는/jxt
+3	기업간의	기업+간+의	NOUN	_	4	nmod	_	_	기업/ncn+간/xsn+의/jcm
+4	제휴도	제휴+도	ADV	_	6	advcl	_	_	제휴/ncpa+도/jxc
+5	활발하게	활발+하+게	SCONJ	_	6	xcomp	_	_	활발/ncps+하/xsm+게/ecs
+6	진행되고	진행+되+고	VERB	_	0	root	_	_	진행/ncpa+되/xsv+고/ecx
+7	있다	있+다	AUX	_	6	aux	_	_	있/px+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이 같은 경우는 시장 통합의 메리트 중 극히 일부에 불과하다 .
+1	이	이	PRON	_	2	dep	_	_	이/npd
+2	같은	같+은	ADJ	_	3	amod	_	_	같/paa+은/etm
+3	경우는	경우+는	NOUN	_	10	dislocated	_	_	경우/ncn+는/jxt
+4	시장	시장	NOUN	_	5	compound	_	_	시장/ncn
+5	통합의	통합+의	NOUN	_	6	nmod	_	_	통합/ncpa+의/jcm
+6	메리트	메리트	NOUN	_	7	compound	_	_	메리트/ncn
+7	중	중	NOUN	_	9	compound	_	_	중/ncn
+8	극히	극히	ADV	_	9	advmod	_	_	극히/mag
+9	일부에	일부+에	ADV	_	10	obl	_	_	일부/ncn+에/jca
+10	불과하다	불과+하+다	VERB	_	0	root	_	_	불과/ncpa+하/xsv+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 합병이 이루어져 기업 규모도 확대될 것이다 .
+1	합병이	합병+이	NOUN	_	2	nsubj	_	_	합병/ncpa+이/jcs
+2	이루어져	이루+어+지+어	SCONJ	_	5	ccomp	_	_	이루/pvg+어/ecx+지/px+어/ecs
+3	기업	기업	NOUN	_	4	compound	_	_	기업/ncn
+4	규모도	규모+도	ADV	_	5	advcl	_	_	규모/ncn+도/jxc
+5	확대될	확대+되+ㄹ	VERB	_	0	root	_	_	확대/ncpa+되/xsv+ㄹ/etm
+6	것이다	것+이+다	VERB	_	5	aux	_	_	것/nbn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 각국에게 EC는 구소련을 대신하는 최대 무역 파트너가 된 것이다 .
+1	각국에게	각국+에게	ADV	_	8	iobj	_	_	각국/ncn+에게/jca
+2	EC는	EC+는	NOUN	_	8	dislocated	_	_	EC/f+는/jxt
+3	구소련을	구소련+을	PROPN	_	4	obj	_	_	구소련/nq+을/jco
+4	대신하는	대신+하+는	VERB	_	7	acl	_	_	대신/ncpa+하/xsv+는/etm
+5	최대	최대	NOUN	_	7	compound	_	_	최대/ncn
+6	무역	무역	NOUN	_	7	compound	_	_	무역/ncpa
+7	파트너가	파트너+가	NOUN	_	8	csubj	_	_	파트너/ncn+가/jcc
+8	된	되+ㄴ	VERB	_	0	root	_	_	되/pvg+ㄴ/etm
+9	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 체코는 공장 건설 등 직접투자의 8 할 이상을 독일이 투자한 것이다 .
+1	체코는	체코+는	PROPN	_	10	dislocated	_	_	체코/nq+는/jxt
+2	공장	공장	NOUN	_	3	compound	_	_	공장/ncn
+3	건설	건설	NOUN	_	4	compound	_	_	건설/ncpa
+4	등	등	NOUN	_	5	mark	_	_	등/nbn
+5	직접투자의	직접+투자+의	NOUN	_	8	nmod	_	_	직접/ncn+투자/ncpa+의/jcm
+6	8	8	NUM	_	7	nummod	_	_	8/nnc
+7	할	할	NOUN	_	8	compound	_	_	할/nbu
+8	이상을	이상+을	NOUN	_	10	obj	_	_	이상/ncn+을/jco
+9	독일이	독일+이	PROPN	_	10	nsubj	_	_	독일/nq+이/jcs
+10	투자한	투자+하+ㄴ	VERB	_	0	root	_	_	투자/ncpa+하/xsv+ㄴ/etm
+11	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 따라서 EC와의 관계강화가 가져온 파급효과를 무시할 수 없는 형편이다 .
+1	따라서	따라서	CCONJ	_	9	cc	_	_	따라서/maj
+2	EC와의	EC+와+의	NOUN	_	3	nmod	_	_	EC/f+와/jct+의/jcm
+3	관계강화가	관계+강화+가	NOUN	_	4	nsubj	_	_	관계/ncpa+강화/ncpa+가/jcs
+4	가져온	가지+어+오+ㄴ	AUX	_	5	acl	_	_	가지/pvg+어/ecx+오/px+ㄴ/etm
+5	파급효과를	파급+효과+를	NOUN	_	6	obj	_	_	파급/ncpa+효과/ncn+를/jco
+6	무시할	무시+하+ㄹ	VERB	_	9	ccomp	_	_	무시/ncpa+하/xsv+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	없는	없+는	ADJ	_	6	aux	_	_	없/paa+는/etm
+9	형편이다	형편+이+다	VERB	_	0	root	_	_	형편/ncn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# EC 측은 장기적인 과제로서 독립국가연합도 동료로서 맞아들이려는 자세를 보이고 있다 .
+1	EC	EC	X	_	2	compound	_	_	EC/f
+2	측은	측+은	NOUN	_	9	dislocated	_	_	측/ncn+은/jxt
+3	장기적인	장기+적+이+ㄴ	VERB	_	4	acl	_	_	장기/ncn+적/xsn+이/jp+ㄴ/etm
+4	과제로서	과제+로서	ADV	_	7	advcl	_	_	과제/ncn+로서/jca
+5	독립국가연합도	독립국가연합+도	ADV	_	7	advcl	_	_	독립국가연합/nq+도/jxc
+6	동료로서	동료+로서	ADV	_	7	advcl	_	_	동료/ncn+로서/jca
+7	맞아들이려는	맞아들이+려는	VERB	_	8	acl	_	_	맞아들이/pvg+려는/etm
+8	자세를	자세+를	NOUN	_	9	obj	_	_	자세/ncn+를/jco
+9	보이고	보이+고	VERB	_	0	root	_	_	보이/pvg+고/ecx
+10	있다	있+다	AUX	_	9	aux	_	_	있/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그러나 이렇게 되기 위해서는 정치의 민주화에 비해 크게 뒤떨어진 경제개혁이 일정수준까지 진척되는 것이 절대적인 조건이 되고 있다 .
+1	그러나	그러나	CCONJ	_	16	cc	_	_	그러나/maj
+2	이렇게	이렇+게	VERB	_	4	dep	_	_	이렇/pad+게/ecx
+3	되기	되+기	AUX	_	2	aux	_	_	되/px+기/etn
+4	위해서는	위하+어서+는	NOUN	_	16	ccomp	_	_	위하/pvg+어서/ecs+는/jxt
+5	정치의	정치+의	NOUN	_	6	nmod	_	_	정치/ncpa+의/jcm
+6	민주화에	민주화+에	ADV	_	7	obl	_	_	민주화/ncn+에/jca
+7	비해	비하+어	SCONJ	_	9	ccomp	_	_	비하/pvg+어/ecs
+8	크게	크게	ADV	_	9	advmod	_	_	크게/mag
+9	뒤떨어진	뒤떨어지+ㄴ	VERB	_	10	acl	_	_	뒤떨어지/pvg+ㄴ/etm
+10	경제개혁이	경제+개혁+이	NOUN	_	12	nsubj	_	_	경제/ncn+개혁/ncpa+이/jcs
+11	일정수준까지	일정+수준+까지	ADV	_	12	advcl	_	_	일정/ncpa+수준/ncn+까지/jxc
+12	진척되는	진척+되+는	VERB	_	13	acl	_	_	진척/ncpa+되/xsv+는/etm
+13	것이	것+이	NOUN	_	16	nsubj	_	_	것/nbn+이/jcs
+14	절대적인	절대+적+이+ㄴ	VERB	_	15	acl	_	_	절대/ncn+적/xsn+이/jp+ㄴ/etm
+15	조건이	조건+이	NOUN	_	16	nsubj	_	_	조건/ncn+이/jcs
+16	되고	되+고	VERB	_	0	root	_	_	되/pvg+고/ecx
+17	있다	있+다	AUX	_	16	aux	_	_	있/px+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 독립국가연합 중에는 동방정교 및 이슬람교를 믿기 때문에 문화와 전통의 면에서 이질적인 국가도 있다 .
+1	독립국가연합	독립국가연합	PROPN	_	2	compound	_	_	독립국가연합/nq
+2	중에는	중+에+는	NOUN	_	13	dislocated	_	_	중/ncn+에/jca+는/jxt
+3	동방정교	동방+정교	NOUN	_	5	conj	_	_	동방/ncn+정교/ncn
+4	및	및	CCONJ	_	5	cc	_	_	및/maj
+5	이슬람교를	이슬람교+를	NOUN	_	6	obj	_	_	이슬람교/ncn+를/jco
+6	믿기	믿+기	VERB	_	7	nmod	_	_	믿/pvg+기/etn
+7	때문에	때문+에	ADV	_	11	obl	_	_	때문/nbn+에/jca
+8	문화와	문화+와	CCONJ	_	9	conj	_	_	문화/ncn+와/jcj
+9	전통의	전통+의	NOUN	_	10	nmod	_	_	전통/ncn+의/jcm
+10	면에서	면+에서	ADV	_	11	advcl	_	_	면/nbn+에서/jca
+11	이질적인	이질+적+이+ㄴ	VERB	_	12	acl	_	_	이질/ncn+적/xsn+이/jp+ㄴ/etm
+12	국가도	국가+도	ADV	_	13	advcl	_	_	국가/ncn+도/jxc
+13	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그 의사결정의 과정을 이해하기 위해서는 우선 EC 내에서 중심적 역할을 하고 있는 기구에 대하여 간단하게 알아둘 필요가 있다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	의사결정의	의사+결정+의	NOUN	_	3	nmod	_	_	의사/ncn+결정/ncpa+의/jcm
+3	과정을	과정+을	NOUN	_	4	obj	_	_	과정/ncn+을/jco
+4	이해하기	이해+하+기	VERB	_	5	nmod	_	_	이해/ncpa+하/xsv+기/etn
+5	위해서는	위하+어서+는	NOUN	_	18	dep	_	_	위하/pvg+어서/ecs+는/jxt
+6	우선	우선	ADV	_	16	advmod	_	_	우선/mag
+7	EC	EC	X	_	8	compound	_	_	EC/f
+8	내에서	내+에서	ADV	_	11	advcl	_	_	내/ncn+에서/jca
+9	중심적	중심+적	NOUN	_	10	amod	_	_	중심/ncn+적/xsn
+10	역할을	역할+을	NOUN	_	11	obj	_	_	역할/ncn+을/jco
+11	하고	하+고	VERB	_	13	acl	_	_	하/pvg+고/ecx
+12	있는	있+는	AUX	_	11	aux	_	_	있/px+는/etm
+13	기구에	기구+에	ADV	_	14	obl	_	_	기구/ncn+에/jca
+14	대하여	대하+어	SCONJ	_	16	ccomp	_	_	대하/pvg+어/ecs
+15	간단하게	간단+하+게	SCONJ	_	16	xcomp	_	_	간단/ncps+하/xsm+게/ecs
+16	알아둘	알+아+두+ㄹ	AUX	_	17	acl	_	_	알/pvg+아/ecx+두/px+ㄹ/etm
+17	필요가	필요+가	NOUN	_	18	nsubj	_	_	필요/ncpa+가/jcs
+18	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# EC를 하나의 나라에 비견해 본다면 EC 위원회는 그 정부에 해당한다 .
+1	EC를	EC+를	NOUN	_	4	obj	_	_	EC/f+를/jco
+2	하나의	하나+의	NUM	_	3	nmod	_	_	하나/nnc+의/jcm
+3	나라에	나라+에	ADV	_	4	obl	_	_	나라/ncn+에/jca
+4	비견해	비견+하+어	VERB	_	10	ccomp	_	_	비견/ncpa+하/xsv+어/ecx
+5	본다면	보+ㄴ다면	SCONJ	_	4	aux	_	_	보/px+ㄴ다면/ecs
+6	EC	EC	X	_	7	compound	_	_	EC/f
+7	위원회는	위원회+는	NOUN	_	10	dislocated	_	_	위원회/ncn+는/jxt
+8	그	그	DET	_	9	det	_	_	그/mmd
+9	정부에	정부+에	ADV	_	10	obl	_	_	정부/ncn+에/jca
+10	해당한다	해당+하+ㄴ다	VERB	_	0	root	_	_	해당/ncpa+하/xsv+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 통상제도 및 독점금지정책 등의 각종 법안부에 해당한다 .
+1	통상제도	통상+제도	NOUN	_	3	conj	_	_	통상/ncn+제도/ncn
+2	및	및	CCONJ	_	3	cc	_	_	및/maj
+3	독점금지정책	독점+금지+정책	NOUN	_	4	compound	_	_	독점/ncpa+금지/ncpa+정책/ncn
+4	등의	등+의	NOUN	_	6	nmod	_	_	등/nbn+의/jcm
+5	각종	각종	NOUN	_	6	compound	_	_	각종/ncn
+6	법안부에	법안부+에	ADV	_	7	obl	_	_	법안부/ncn+에/jca
+7	해당한다	해당+하+ㄴ다	VERB	_	0	root	_	_	해당/ncpa+하/xsv+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이 정상회담의 의장국은 반년마다 교대된다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	정상회담의	정상+회담+의	NOUN	_	3	nmod	_	_	정상/ncn+회담/ncpa+의/jcm
+3	의장국은	의장국+은	NOUN	_	5	dislocated	_	_	의장국/ncn+은/jxt
+4	반년마다	반+년+마다	ADV	_	5	advcl	_	_	반/nno+년/nbu+마다/jxc
+5	교대된다	교대+되+ㄴ다	VERB	_	0	root	_	_	교대/ncpa+되/xsv+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 따라서 입법기관이라기보다는 자문기관에 가깝다 .
+1	따라서	따라서	CCONJ	_	4	cc	_	_	따라서/maj
+2	입법기관이라기보다는	입법+기관+이+라기+보다+는	NOUN	_	4	dislocated	_	_	입법/ncpa+기관/ncn+이/jp+라기/etn+보다/jca+는/jxt
+3	자문기관에	자문+기관+에	ADV	_	4	obl	_	_	자문/ncpa+기관/ncn+에/jca
+4	가깝다	가깝+다	ADJ	_	0	root	_	_	가깝/paa+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# EC의 의사결정 과정은 다음과 같이 요약될 수 있다 .
+1	EC의	EC+의	NOUN	_	3	nmod	_	_	EC/f+의/jcm
+2	의사결정	의사+결정	NOUN	_	3	compound	_	_	의사/ncn+결정/ncpa
+3	과정은	과정+은	NOUN	_	6	dislocated	_	_	과정/ncn+은/jxt
+4	다음과	다음+과	CCONJ	_	5	conj	_	_	다음/ncn+과/jct
+5	같이	같+이	SCONJ	_	6	xcomp	_	_	같/paa+이/ecs
+6	요약될	요약+되+ㄹ	VERB	_	0	root	_	_	요약/ncpa+되/xsv+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	있다	있+다	ADJ	_	6	aux	_	_	있/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 각료이사회는 법안을 자문하기 위해 유럽 의회에 보낸다 .
+1	각료이사회는	각료+이사회+는	NOUN	_	7	dislocated	_	_	각료/ncn+이사회/ncn+는/jxt
+2	법안을	법안+을	NOUN	_	3	obj	_	_	법안/ncn+을/jco
+3	자문하기	자문+하+기	VERB	_	4	nmod	_	_	자문/ncpa+하/xsv+기/etn
+4	위해	위하+어	SCONJ	_	7	ccomp	_	_	위하/pvg+어/ecs
+5	유럽	유럽	PROPN	_	6	compound	_	_	유럽/nq
+6	의회에	의회+에	ADV	_	7	obl	_	_	의회/ncn+에/jca
+7	보낸다	보내+ㄴ다	VERB	_	0	root	_	_	보내/pvg+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 유럽 의회는 해당 법안에 대해 토의하여 문제가 있다고 판단되면 각료이사회에 돌려준다 .
+1	유럽	유럽	PROPN	_	2	compound	_	_	유럽/nq
+2	의회는	의회+는	NOUN	_	11	dislocated	_	_	의회/ncn+는/jxt
+3	해당	해당	NOUN	_	4	compound	_	_	해당/ncpa
+4	법안에	법안+에	ADV	_	5	obl	_	_	법안/ncn+에/jca
+5	대해	대하+어	SCONJ	_	6	ccomp	_	_	대하/pvg+어/ecs
+6	토의하여	토의+하+어	SCONJ	_	9	ccomp	_	_	토의/ncpa+하/xsv+어/ecs
+7	문제가	문제+가	NOUN	_	8	nsubj	_	_	문제/ncn+가/jcs
+8	있다고	있+다+고	VERB	_	9	conj	_	_	있/paa+다/ef+고/jcr
+9	판단되면	판단+되+면	SCONJ	_	11	ccomp	_	_	판단/ncpa+되/xsv+면/ecs
+10	각료이사회에	각료+이사회+에	ADV	_	11	obl	_	_	각료/ncn+이사회/ncn+에/jca
+11	돌려준다	돌리+어+주+ㄴ다	AUX	_	0	root	_	_	돌리/pvg+어/ecx+주/px+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 경우에 따라서는 EC 위원회에 법안의 수정을 요구하면서 그것을 돌려준다 .
+1	경우에	경우+에	ADV	_	2	obl	_	_	경우/ncn+에/jca
+2	따라서는	따르+아서+는	NOUN	_	9	ccomp	_	_	따르/pvg+아서/ecs+는/jxt
+3	EC	EC	X	_	4	compound	_	_	EC/f
+4	위원회에	위원회+에	ADV	_	7	obl	_	_	위원회/ncn+에/jca
+5	법안의	법안+의	NOUN	_	6	nmod	_	_	법안/ncn+의/jcm
+6	수정을	수정+을	NOUN	_	7	obj	_	_	수정/ncn+을/jco
+7	요구하면서	요구+하+면서	CCONJ	_	9	conj	_	_	요구/ncpa+하/xsv+면서/ecc
+8	그것을	그것+을	PRON	_	9	obj	_	_	그것/npd+을/jco
+9	돌려준다	돌리+어+주+ㄴ다	AUX	_	0	root	_	_	돌리/pvg+어/ecx+주/px+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러나 마스트리히트조약과 같이 EC의 근간에 대한 문제에 대해서는 정상회담의 합의를 근거로 하여 각국은 국민투표 및 의회의 비준을 받아야 한다 .
+1	그러나	그러나	CCONJ	_	18	cc	_	_	그러나/maj
+2	마스트리히트조약과	마스트리히트조약+과	CCONJ	_	3	conj	_	_	마스트리히트조약/nq+과/jct
+3	같이	같+이	SCONJ	_	6	xcomp	_	_	같/paa+이/ecs
+4	EC의	EC+의	NOUN	_	5	nmod	_	_	EC/f+의/jcm
+5	근간에	근간+에	ADV	_	6	obl	_	_	근간/ncn+에/jca
+6	대한	대하+ㄴ	VERB	_	7	acl	_	_	대하/pvg+ㄴ/etm
+7	문제에	문제+에	ADV	_	8	obl	_	_	문제/ncn+에/jca
+8	대해서는	대하+어서+는	NOUN	_	18	ccomp	_	_	대하/pvg+어서/ecs+는/jxt
+9	정상회담의	정상+회담+의	NOUN	_	10	nmod	_	_	정상/ncn+회담/ncpa+의/jcm
+10	합의를	합의+를	NOUN	_	12	obj	_	_	합의/ncpa+를/jco
+11	근거로	근거+로	ADV	_	12	advcl	_	_	근거/ncpa+로/jca
+12	하여	하+어	SCONJ	_	18	ccomp	_	_	하/pvg+어/ecs
+13	각국은	각국+은	NOUN	_	18	dislocated	_	_	각국/ncn+은/jxt
+14	국민투표	국민+투표	NOUN	_	17	conj	_	_	국민/ncn+투표/ncpa
+15	및	및	CCONJ	_	17	cc	_	_	및/maj
+16	의회의	의회+의	NOUN	_	17	nmod	_	_	의회/ncn+의/jcm
+17	비준을	비준+을	NOUN	_	18	obj	_	_	비준/ncpa+을/jco
+18	받아야	받+아야	VERB	_	0	root	_	_	받/pvg+아야/ecx
+19	한다	하+ㄴ다	AUX	_	18	aux	_	_	하/px+ㄴ다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 이 제도는 EC 각국의 경제 규모와 인구에 비례하여 표수를 할당하고 그 표수를 합계하여 다수결로 한다는 것이다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	제도는	제도+는	NOUN	_	16	dislocated	_	_	제도/ncn+는/jxt
+3	EC	EC	X	_	4	compound	_	_	EC/f
+4	각국의	각국+의	NOUN	_	7	nmod	_	_	각국/ncn+의/jcm
+5	경제	경제	NOUN	_	6	compound	_	_	경제/ncn
+6	규모와	규모+와	CCONJ	_	7	conj	_	_	규모/ncn+와/jcj
+7	인구에	인구+에	ADV	_	8	obl	_	_	인구/ncn+에/jca
+8	비례하여	비례+하+어	SCONJ	_	10	ccomp	_	_	비례/ncpa+하/xsv+어/ecs
+9	표수를	표수+를	NOUN	_	10	obj	_	_	표수/ncn+를/jco
+10	할당하고	할당+하+고	CCONJ	_	15	conj	_	_	할당/ncpa+하/xsv+고/ecc
+11	그	그	DET	_	12	det	_	_	그/mmd
+12	표수를	표수+를	NOUN	_	13	obj	_	_	표수/ncn+를/jco
+13	합계하여	합계+하+어	SCONJ	_	15	ccomp	_	_	합계/ncpa+하/xsv+어/ecs
+14	다수결로	다수결+로	ADV	_	15	advcl	_	_	다수결/ncn+로/jca
+15	한다는	하+ㄴ다는	VERB	_	16	ccomp	_	_	하/pvg+ㄴ다는/etm
+16	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 단지 세제의 개정과 신규 가맹국의 승인 등 중요한 문제에는 만장일치 방식이 채책된다 .
+1	단지	단지	ADV	_	12	advmod	_	_	단지/mag
+2	세제의	세제+의	NOUN	_	3	nmod	_	_	세제/ncn+의/jcm
+3	개정과	개정+과	CCONJ	_	6	conj	_	_	개정/ncpa+과/jcj
+4	신규	신규	NOUN	_	5	compound	_	_	신규/ncn
+5	가맹국의	가맹국+의	NOUN	_	6	nmod	_	_	가맹국/ncn+의/jcm
+6	승인	승인	NOUN	_	7	compound	_	_	승인/ncpa
+7	등	등	NOUN	_	9	mark	_	_	등/nbn
+8	중요한	중요+하+ㄴ	VERB	_	9	amod	_	_	중요/ncps+하/xsm+ㄴ/etm
+9	문제에는	문제+에+는	NOUN	_	12	dislocated	_	_	문제/ncn+에/jca+는/jxt
+10	만장일치	만장일치	NOUN	_	11	compound	_	_	만장일치/ncn
+11	방식이	방식+이	NOUN	_	12	nsubj	_	_	방식/ncn+이/jcs
+12	채책된다	채책+되+ㄴ다	VERB	_	0	root	_	_	채책/ncpa+되/xsv+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 물론 1992 년 말까지 이들 안건이 모두 실행에 옮겨지는 것은 아니다 .
+1	물론	물론	ADV	_	11	advmod	_	_	물론/mag
+2	1992	1992	NUM	_	3	nummod	_	_	1992/nno
+3	년	년	NOUN	_	4	compound	_	_	년/nbu
+4	말까지	말+까지	ADV	_	9	advcl	_	_	말/ncpa+까지/jxc
+5	이들	이+들	NOUN	_	6	compound	_	_	이/npd+들/xsn
+6	안건이	안건+이	NOUN	_	9	nsubj	_	_	안건/ncn+이/jcs
+7	모두	모두	ADV	_	9	advmod	_	_	모두/mag
+8	실행에	실행+에	ADV	_	9	obl	_	_	실행/ncpa+에/jca
+9	옮겨지는	옮기+어+지+는	AUX	_	10	acl	_	_	옮기/pvg+어/ecx+지/px+는/etm
+10	것은	것+은	NOUN	_	11	dislocated	_	_	것/nbn+은/jxt
+11	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그 결과 EC 예산에서 차지하는 농업관계의 지출이 1992 년 시점에서 6 할을 넘는 사태로까지 발전했다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	결과	결과	NOUN	_	15	advmod	_	_	결과/ncpa
+3	EC	EC	X	_	4	compound	_	_	EC/f
+4	예산에서	예산+에서	ADV	_	5	advcl	_	_	예산/ncn+에서/jca
+5	차지하는	차지+하+는	VERB	_	7	acl	_	_	차지/ncpa+하/xsv+는/etm
+6	농업관계의	농업+관계+의	NOUN	_	7	nmod	_	_	농업/ncn+관계/ncpa+의/jcm
+7	지출이	지출+이	NOUN	_	13	nsubj	_	_	지출/ncpa+이/jcs
+8	1992	1992	NUM	_	9	nummod	_	_	1992/nno
+9	년	년	NOUN	_	10	compound	_	_	년/nbu
+10	시점에서	시점+에서	ADV	_	13	advcl	_	_	시점/ncn+에서/jca
+11	6	6	NUM	_	12	nummod	_	_	6/nno
+12	할을	할+을	NOUN	_	13	obj	_	_	할/nbu+을/jco
+13	넘는	넘+는	VERB	_	14	acl	_	_	넘/pvg+는/etm
+14	사태로까지	사태+로+까지	ADV	_	15	advcl	_	_	사태/ncn+로/jca+까지/jxc
+15	발전했다	발전+하+었+다	VERB	_	0	root	_	_	발전/ncpa+하/xsv+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 가트 사무국은 우루과이 라운드를 통하여 국내보조금 및 수출보조금의 일률적인 삭감을 가맹국에게 요구해 왔지만 여기에 대응하는 EC 각국의 태세는 일률적이지 않다 .
+1	가트	가트	PROPN	_	2	compound	_	_	가트/nq
+2	사무국은	사무국+은	NOUN	_	12	dislocated	_	_	사무국/ncn+은/jxt
+3	우루과이	우루과이	PROPN	_	4	flat	_	_	우루과이/nq
+4	라운드를	라운드+를	PROPN	_	5	obj	_	_	라운드/nq+를/jco
+5	통하여	통하+어	SCONJ	_	12	ccomp	_	_	통하/pvg+어/ecs
+6	국내보조금	국내+보조금	NOUN	_	8	conj	_	_	국내/ncn+보조금/ncn
+7	및	및	CCONJ	_	8	cc	_	_	및/maj
+8	수출보조금의	수출+보조금+의	NOUN	_	10	nmod	_	_	수출/ncpa+보조금/ncn+의/jcm
+9	일률적인	일률+적+이+ㄴ	VERB	_	10	acl	_	_	일률/ncn+적/xsn+이/jp+ㄴ/etm
+10	삭감을	삭감+을	NOUN	_	12	obj	_	_	삭감/ncpa+을/jco
+11	가맹국에게	가맹국+에게	ADV	_	12	iobj	_	_	가맹국/ncn+에게/jca
+12	요구해	요구+하+어	VERB	_	19	ccomp	_	_	요구/ncpa+하/xsv+어/ecx
+13	왔지만	오+았+지만	SCONJ	_	12	aux	_	_	오/px+았/ep+지만/ecs
+14	여기에	여기+에	ADV	_	15	obl	_	_	여기/npd+에/jca
+15	대응하는	대응+하+는	VERB	_	17	acl	_	_	대응/ncpa+하/xsv+는/etm
+16	EC	EC	X	_	17	compound	_	_	EC/f
+17	각국의	각국+의	NOUN	_	18	nmod	_	_	각국/ncn+의/jcm
+18	태세는	태세+는	NOUN	_	19	dislocated	_	_	태세/ncn+는/jxt
+19	일률적이지	일률+적+이+지	VERB	_	0	root	_	_	일률/ncn+적/xsn+이/jp+지/ecx
+20	않다	않+다	AUX	_	19	aux	_	_	않/px+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 오리무중인 안보체제 시장 통합 이외의 분야에서도 컨센서스 형성이 어려운 문제가 다수 나타나고 있다 .
+1	오리무중인	오리무중+이+ㄴ	VERB	_	6	acl	_	_	오리무중/ncn+이/jp+ㄴ/etm
+2	안보체제	안보+체제	NOUN	_	3	compound	_	_	안보/ncn+체제/ncn
+3	시장	시장	NOUN	_	4	compound	_	_	시장/ncn
+4	통합	통합	NOUN	_	5	compound	_	_	통합/ncpa
+5	이외의	이외+의	NOUN	_	6	nmod	_	_	이외/ncn+의/jcm
+6	분야에서도	분야+에서+도	ADV	_	12	advcl	_	_	분야/ncn+에서/jca+도/jxc
+7	컨센서스	컨센서스	NOUN	_	8	compound	_	_	컨센서스/ncn
+8	형성이	형성+이	NOUN	_	9	nsubj	_	_	형성/ncpa+이/jcs
+9	어려운	어렵+ㄴ	ADJ	_	10	amod	_	_	어렵/paa+ㄴ/etm
+10	문제가	문제+가	NOUN	_	12	nsubj	_	_	문제/ncn+가/jcs
+11	다수	다수	NOUN	_	12	dep	_	_	다수/ncn
+12	나타나고	나타나+고	VERB	_	0	root	_	_	나타나/pvg+고/ecx
+13	있다	있+다	AUX	_	12	aux	_	_	있/px+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그 중에서도 논의가 분분한 것은 냉전 이후의 안전보장 체제이다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	중에서도	중+에서+도	ADV	_	4	advcl	_	_	중/ncn+에서/jca+도/jxc
+3	논의가	논의+가	NOUN	_	4	nsubj	_	_	논의/ncpa+가/jcs
+4	분분한	분분+하+ㄴ	VERB	_	5	amod	_	_	분분/ncps+하/xsm+ㄴ/etm
+5	것은	것+은	NOUN	_	9	dislocated	_	_	것/nbn+은/jxt
+6	냉전	냉전	NOUN	_	7	compound	_	_	냉전/ncn
+7	이후의	이후+의	NOUN	_	9	nmod	_	_	이후/ncn+의/jcm
+8	안전보장	안전+보장	NOUN	_	9	compound	_	_	안전/ncn+보장/ncpa
+9	체제이다	체제+이+다	VERB	_	0	root	_	_	체제/ncn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 사태가 급전하기 시작한 것은 1992 년 5 월부터였다 .
+1	사태가	사태+가	NOUN	_	2	nsubj	_	_	사태/ncn+가/jcs
+2	급전하기	급전+하+기	VERB	_	3	nmod	_	_	급전/ncpa+하/xsv+기/etn
+3	시작한	시작+하+ㄴ	VERB	_	4	acl	_	_	시작/ncpa+하/xsv+ㄴ/etm
+4	것은	것+은	NOUN	_	8	dislocated	_	_	것/nbn+은/jxt
+5	1992	1992	NUM	_	6	nummod	_	_	1992/nno
+6	년	년	NOUN	_	8	compound	_	_	년/nbu
+7	5	5	NUM	_	8	nummod	_	_	5/nno
+8	월부터였다	월+부터+이+었+다	VERB	_	0	root	_	_	월/nbu+부터/jxc+이/jp+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 양국의 국경에서 가까운 프랑스의 스트스부르에 통합참모본부를 두어 WEU 가맹국에 참가를 호소하는 한편 , 합동군을 WEU 군이라고 부르기로 한 것이다 .
+1	양국의	양국+의	NOUN	_	2	nmod	_	_	양국/ncn+의/jcm
+2	국경에서	국경+에서	ADV	_	3	advcl	_	_	국경/ncn+에서/jca
+3	가까운	가깝+ㄴ	ADJ	_	5	amod	_	_	가깝/paa+ㄴ/etm
+4	프랑스의	프랑스+의	PROPN	_	5	nmod	_	_	프랑스/nq+의/jcm
+5	스트스부르에	스트스부르+에	ADV	_	7	obl	_	_	스트스부르/nq+에/jca
+6	통합참모본부를	통합+참모+본부+를	NOUN	_	7	obj	_	_	통합/ncpa+참모/ncn+본부/ncn+를/jco
+7	두어	두+어	SCONJ	_	11	ccomp	_	_	두/pvg+어/ecs
+8	WEU	WEU	X	_	9	compound	_	_	WEU/f
+9	가맹국에	가맹국+에	ADV	_	11	obl	_	_	가맹국/ncn+에/jca
+10	참가를	참가+를	NOUN	_	11	obj	_	_	참가/ncpa+를/jco
+11	호소하는	호소+하+는	VERB	_	12	acl	_	_	호소/ncpa+하/xsv+는/etm
+12	한편	한편	NOUN	_	18	advmod	_	_	한편/ncn
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	합동군을	합동군+을	NOUN	_	17	obj	_	_	합동군/ncn+을/jco
+15	WEU	WEU	X	_	16	compound	_	_	WEU/f
+16	군이라고	군+이+라+고	VERB	_	17	conj	_	_	군/ncn+이/jp+라/ef+고/jcr
+17	부르기로	부르+기+로	ADV	_	18	advcl	_	_	부르/pvg+기/etn+로/jca
+18	한	하+ㄴ	VERB	_	0	root	_	_	하/pvg+ㄴ/etm
+19	것이다	것+이+다	VERB	_	18	aux	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 그러나 나토의 맹주였던 미국과 영국 그리고 네덜란드가 여기에 반발했다 .
+1	그러나	그러나	CCONJ	_	9	cc	_	_	그러나/maj
+2	나토의	나토+의	PROPN	_	3	nmod	_	_	나토/nq+의/jcm
+3	맹주였던	맹주+이+었+던	VERB	_	7	acl	_	_	맹주/ncn+이/jp+었/ep+던/etm
+4	미국과	미국+과	CCONJ	_	5	conj	_	_	미국/nq+과/jcj
+5	영국	영국	PROPN	_	7	conj	_	_	영국/nq
+6	그리고	그리고	CCONJ	_	7	cc	_	_	그리고/maj
+7	네덜란드가	네덜란드+가	PROPN	_	9	nsubj	_	_	네덜란드/nq+가/jcs
+8	여기에	여기+에	ADV	_	9	obl	_	_	여기/npd+에/jca
+9	반발했다	반발+하+었+다	VERB	_	0	root	_	_	반발/ncpa+하/xsv+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+

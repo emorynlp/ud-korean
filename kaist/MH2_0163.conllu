@@ -1,0 +1,4512 @@
+# 이 글에서 본인은 주제의 포괄성에 비추어 , 단순화시키는 모험을 감수하면서 주로 주요개념들의 의의 및 사태의 본질을 압축적으로 드러내려고 할 것이다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	글에서	글+에서	ADV	_	18	advcl	_	_	글/ncn+에서/jca
+3	본인은	본인+은	NOUN	_	18	dislocated	_	_	본인/ncn+은/jxt
+4	주제의	주제+의	NOUN	_	5	nmod	_	_	주제/ncn+의/jcm
+5	포괄성에	포괄성+에	ADV	_	6	obl	_	_	포괄성/ncn+에/jca
+6	비추어	비추+어	SCONJ	_	8	ccomp	_	_	비추/pvg+어/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	단순화시키는	단순화+시키+는	VERB	_	9	acl	_	_	단순화/ncpa+시키/xsv+는/etm
+9	모험을	모험+을	NOUN	_	10	obj	_	_	모험/ncpa+을/jco
+10	감수하면서	감수+하+면서	CCONJ	_	18	conj	_	_	감수/ncpa+하/xsv+면서/ecc
+11	주로	주로	ADV	_	18	advmod	_	_	주로/mag
+12	주요개념들의	주요+개념+들+의	NOUN	_	13	nmod	_	_	주요/ncpa+개념/ncn+들/xsn+의/jcm
+13	의의	의의	NOUN	_	16	conj	_	_	의의/ncn
+14	및	및	CCONJ	_	16	cc	_	_	및/maj
+15	사태의	사태+의	NOUN	_	16	nmod	_	_	사태/ncn+의/jcm
+16	본질을	본질+을	NOUN	_	18	obj	_	_	본질/ncn+을/jco
+17	압축적으로	압축+적+으로	ADV	_	18	advcl	_	_	압축/ncpa+적/xsn+으로/jca
+18	드러내려고	드러내+려고	VERB	_	0	root	_	_	드러내/pvg+려고/ecx
+19	할	하+ㄹ	AUX	_	18	aux	_	_	하/px+ㄹ/etm
+20	것이다	것+이+다	VERB	_	18	aux	_	_	것/nbn+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 따라서 이 글은 구체적 분석을 행하는 것이라기보다는 사물을 바라보는 기본시각을 다룬다는 특징을 더 많이 지니고 있다 .
+1	따라서	따라서	CCONJ	_	15	cc	_	_	따라서/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	글은	글+은	NOUN	_	15	dislocated	_	_	글/ncn+은/jxt
+4	구체적	구체+적	NOUN	_	5	amod	_	_	구체/ncn+적/xsn
+5	분석을	분석+을	NOUN	_	6	obj	_	_	분석/ncpa+을/jco
+6	행하는	행하+는	VERB	_	7	acl	_	_	행하/pvg+는/etm
+7	것이라기보다는	것+이+라기+보다+는	NOUN	_	11	dislocated	_	_	것/nbn+이/jp+라기/etn+보다/jca+는/jxt
+8	사물을	사물+을	NOUN	_	9	obj	_	_	사물/ncn+을/jco
+9	바라보는	바라보+는	VERB	_	10	acl	_	_	바라보/pvg+는/etm
+10	기본시각을	기본+시각+을	NOUN	_	11	obj	_	_	기본/ncn+시각/ncn+을/jco
+11	다룬다는	다루+ㄴ다는	VERB	_	12	acl	_	_	다루/pvg+ㄴ다는/etm
+12	특징을	특징+을	NOUN	_	15	obj	_	_	특징/ncn+을/jco
+13	더	더	ADV	_	15	advmod	_	_	더/mag
+14	많이	많이	ADV	_	13	advmod	_	_	많이/mag
+15	지니고	지니+고	VERB	_	0	root	_	_	지니/pvg+고/ecx
+16	있다	있+다	AUX	_	15	aux	_	_	있/px+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 민주주의 문제는 무엇보다 사회의 정치적 형태와 관계되는 문제이다 .
+1	민주주의	민주주의	NOUN	_	2	compound	_	_	민주주의/ncn
+2	문제는	문제+는	NOUN	_	8	dislocated	_	_	문제/ncn+는/jxt
+3	무엇보다	무엇+보다	ADV	_	8	advcl	_	_	무엇/npd+보다/jca
+4	사회의	사회+의	NOUN	_	6	nmod	_	_	사회/ncn+의/jcm
+5	정치적	정치+적	NOUN	_	6	amod	_	_	정치/ncpa+적/xsn
+6	형태와	형태+와	CCONJ	_	7	conj	_	_	형태/ncn+와/jct
+7	관계되는	관계+되+는	VERB	_	8	ccomp	_	_	관계/ncpa+되/xsv+는/etm
+8	문제이다	문제+이+다	VERB	_	0	root	_	_	문제/ncn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이때 정치는 경제 등과 구분되는 의미의 협의의 정치가 아니라 , 경제적 관계를 포함한 모든 사회적 관계의 집중적 표현으로서의 포괄적 의미의 정치이다 .
+1	이때	이때	ADV	_	21	advmod	_	_	이때/mad
+2	정치는	정치+는	NOUN	_	21	dislocated	_	_	정치/ncpa+는/jxt
+3	경제	경제	NOUN	_	4	compound	_	_	경제/ncn
+4	등과	등+과	CCONJ	_	5	conj	_	_	등/nbn+과/jct
+5	구분되는	구분+되+는	VERB	_	6	acl	_	_	구분/ncpa+되/xsv+는/etm
+6	의미의	의미+의	NOUN	_	8	nmod	_	_	의미/ncpa+의/jcm
+7	협의의	협의+의	NOUN	_	8	nmod	_	_	협의/ncn+의/jcm
+8	정치가	정치+가	NOUN	_	9	nsubj	_	_	정치/ncpa+가/jcs
+9	아니라	아니+라	SCONJ	_	21	xcomp	_	_	아니/paa+라/ecs
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	경제적	경제+적	NOUN	_	12	amod	_	_	경제/ncn+적/xsn
+12	관계를	관계+를	NOUN	_	13	obj	_	_	관계/ncpa+를/jco
+13	포함한	포함+하+ㄴ	VERB	_	21	ccomp	_	_	포함/ncpa+하/xsv+ㄴ/etm
+14	모든	모든	ADJ	_	16	amod	_	_	모든/mma
+15	사회적	사회+적	NOUN	_	16	amod	_	_	사회/ncn+적/xsn
+16	관계의	관계+의	NOUN	_	18	nmod	_	_	관계/ncpa+의/jcm
+17	집중적	집중+적	NOUN	_	18	amod	_	_	집중/ncpa+적/xsn
+18	표현으로서의	표현+으로서+의	NOUN	_	21	nmod	_	_	표현/ncpa+으로서/jca+의/jcm
+19	포괄적	포괄+적	NOUN	_	20	amod	_	_	포괄/ncpa+적/xsn
+20	의미의	의미+의	NOUN	_	21	nmod	_	_	의미/ncpa+의/jcm
+21	정치이다	정치+이+다	VERB	_	0	root	_	_	정치/ncpa+이/jp+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 그런데 민주주의를 이해하는 방식은 그 문제에 접근하는 계급적 입장의 차이에 따라 달라진다 .
+1	그런데	그런데	CCONJ	_	12	cc	_	_	그런데/maj
+2	민주주의를	민주주의+를	NOUN	_	3	obj	_	_	민주주의/ncn+를/jco
+3	이해하는	이해+하+는	VERB	_	4	acl	_	_	이해/ncpa+하/xsv+는/etm
+4	방식은	방식+은	NOUN	_	12	dislocated	_	_	방식/ncn+은/jxt
+5	그	그	DET	_	6	det	_	_	그/mmd
+6	문제에	문제+에	ADV	_	7	obl	_	_	문제/ncn+에/jca
+7	접근하는	접근+하+는	VERB	_	10	acl	_	_	접근/ncpa+하/xsv+는/etm
+8	계급적	계급+적	NOUN	_	9	amod	_	_	계급/ncn+적/xsn
+9	입장의	입장+의	NOUN	_	10	nmod	_	_	입장/ncn+의/jcm
+10	차이에	차이+에	ADV	_	11	obl	_	_	차이/ncn+에/jca
+11	따라	따르+아	SCONJ	_	12	ccomp	_	_	따르/pvg+아/ecs
+12	달라진다	달라지+ㄴ다	VERB	_	0	root	_	_	달라지/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그리하여 민주주의의 문제는 근대세계속에서는 일차적으로 근대세계의 양대 기본계급인 부르조아지와 프롤레타리아트의 관점에서 제기되어 왔는데 , 부르조아적 관점에서 제기된 민주주의는 프롤레타리아민주주의라고 부른다 .
+1	그리하여	그리하여	CCONJ	_	20	cc	_	_	그리하여/maj
+2	민주주의의	민주주의+의	NOUN	_	3	nmod	_	_	민주주의/ncn+의/jcm
+3	문제는	문제+는	NOUN	_	20	dislocated	_	_	문제/ncn+는/jxt
+4	근대세계속에서는	근대+세계+속+에서+는	NOUN	_	12	dislocated	_	_	근대/ncn+세계/ncn+속/ncn+에서/jca+는/jxt
+5	일차적으로	일차+적+으로	ADV	_	12	advcl	_	_	일차/ncn+적/xsn+으로/jca
+6	근대세계의	근대+세계+의	NOUN	_	8	nmod	_	_	근대/ncn+세계/ncn+의/jcm
+7	양대	양대	NOUN	_	8	compound	_	_	양대/ncn
+8	기본계급인	기본+계급+이+ㄴ	VERB	_	10	acl	_	_	기본/ncn+계급/ncn+이/jp+ㄴ/etm
+9	부르조아지와	부르조아지+와	CCONJ	_	10	conj	_	_	부르조아지/ncn+와/jcj
+10	프롤레타리아트의	프롤레타리아트+의	NOUN	_	11	nmod	_	_	프롤레타리아트/ncn+의/jcm
+11	관점에서	관점+에서	ADV	_	12	advcl	_	_	관점/ncn+에서/jca
+12	제기되어	제기+되+어	VERB	_	20	ccomp	_	_	제기/ncpa+되/xsv+어/ecx
+13	왔는데	오+았+는데	SCONJ	_	12	aux	_	_	오/px+았/ep+는데/ecs
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	부르조아적	부르조아+적	NOUN	_	16	amod	_	_	부르조아/ncn+적/xsn
+16	관점에서	관점+에서	ADV	_	17	advcl	_	_	관점/ncn+에서/jca
+17	제기된	제기+되+ㄴ	VERB	_	18	acl	_	_	제기/ncpa+되/xsv+ㄴ/etm
+18	민주주의는	민주주의+는	NOUN	_	20	dislocated	_	_	민주주의/ncn+는/jxt
+19	프롤레타리아민주주의라고	프롤레타리아+민주주의+이+라고	SCONJ	_	20	ccomp	_	_	프롤레타리아/ncn+민주주의/ncn+이/jp+라고/ecs
+20	부른다	부르+ㄴ다	VERB	_	0	root	_	_	부르/pvg+ㄴ다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그런데 고전적 자유주의 국가는 초기자본주의가 자유경쟁 자본주의로 발전해 간 시기에 있었던 시민혁명과정을 거치면서 역사상 최초로 그 모습을 드러내었다 .
+1	그런데	그런데	CCONJ	_	18	cc	_	_	그런데/maj
+2	고전적	고전+적	NOUN	_	4	amod	_	_	고전/ncn+적/xsn
+3	자유주의	자유주의	NOUN	_	4	compound	_	_	자유주의/ncn
+4	국가는	국가+는	NOUN	_	18	dislocated	_	_	국가/ncn+는/jxt
+5	초기자본주의가	초기+자본주의+가	NOUN	_	8	nsubj	_	_	초기/ncn+자본주의/ncn+가/jcs
+6	자유경쟁	자유+경쟁	NOUN	_	7	compound	_	_	자유/ncps+경쟁/ncn
+7	자본주의로	자본주의+로	ADV	_	8	advcl	_	_	자본주의/ncn+로/jca
+8	발전해	발전+하+어	VERB	_	10	acl	_	_	발전/ncpa+하/xsv+어/ecx
+9	간	가+ㄴ	AUX	_	8	aux	_	_	가/px+ㄴ/etm
+10	시기에	시기+에	ADV	_	11	obl	_	_	시기/ncn+에/jca
+11	있었던	있+었+던	ADJ	_	12	amod	_	_	있/paa+었/ep+던/etm
+12	시민혁명과정을	시민+혁명+과정+을	NOUN	_	13	obj	_	_	시민/ncn+혁명/ncpa+과정/ncn+을/jco
+13	거치면서	거치+면서	CCONJ	_	18	conj	_	_	거치/pvg+면서/ecc
+14	역사상	역사상	NOUN	_	15	compound	_	_	역사상/ncn
+15	최초로	최초+로	ADV	_	18	advcl	_	_	최초/ncn+로/jca
+16	그	그	DET	_	17	det	_	_	그/mmd
+17	모습을	모습+을	NOUN	_	18	obj	_	_	모습/ncn+을/jco
+18	드러내었다	드러내+었+다	VERB	_	0	root	_	_	드러내/pvg+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이렇게 성립된 ' 자유민주주의체제 ' 는 대체로 다음과 같은 특징들을 지닌다 .
+1	이렇게	이렇+게	SCONJ	_	2	xcomp	_	_	이렇/pad+게/ecs
+2	성립된	성립+되+ㄴ	VERB	_	4	acl	_	_	성립/ncpa+되/xsv+ㄴ/etm
+3	'	'	PUNCT	_	4	punct	_	_	'/sl
+4	자유민주주의체제	자유+민주주의+체제	NOUN	_	11	dislocated	_	_	자유/ncps+민주주의/ncn+체제/ncn
+5	'	'	PUNCT	_	4	punct	_	_	'/sr
+6	는	는	ADP	_	4	case	_	_	는/jxt
+7	대체로	대체로	ADV	_	11	advmod	_	_	대체로/mag
+8	다음과	다음+과	CCONJ	_	9	conj	_	_	다음/ncn+과/jct
+9	같은	같+ㄴ	ADJ	_	10	amod	_	_	같/paa+ㄴ/etm
+10	특징들을	특징+들+을	NOUN	_	11	obj	_	_	특징/ncn+들/xsn+을/jco
+11	지닌다	지니+ㄴ다	VERB	_	0	root	_	_	지니/pvg+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이 점에서 자유민주주의는 부르조아민주주의의 발전된 형태 또는 발전된 민주주의라는 특징을 지닌다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	점에서	점+에서	ADV	_	11	advcl	_	_	점/ncn+에서/jca
+3	자유민주주의는	자유+민주주의+는	NOUN	_	11	dislocated	_	_	자유/ncps+민주주의/ncn+는/jxt
+4	부르조아민주주의의	부르조아+민주주의+의	NOUN	_	9	nmod	_	_	부르조아/ncn+민주주의/ncn+의/jcm
+5	발전된	발전+되+ㄴ	VERB	_	6	acl	_	_	발전/ncpa+되/xsv+ㄴ/etm
+6	형태	형태	NOUN	_	9	conj	_	_	형태/ncn
+7	또는	또는	CCONJ	_	9	cc	_	_	또는/maj
+8	발전된	발전+되+ㄴ	VERB	_	9	acl	_	_	발전/ncpa+되/xsv+ㄴ/etm
+9	민주주의라는	민주주의+이+라는	VERB	_	10	acl	_	_	민주주의/ncn+이/jp+라는/etm
+10	특징을	특징+을	NOUN	_	11	obj	_	_	특징/ncn+을/jco
+11	지닌다	지니+ㄴ다	VERB	_	0	root	_	_	지니/pvg+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 예를 들어 유럽의 어떤 자유민주주의체제에서도 공산당의 활동을 불법적인 것으로 봉쇄하는 체제는 없다 .
+1	예를	예+를	NOUN	_	2	obj	_	_	예/ncn+를/jco
+2	들어	들+어	SCONJ	_	12	conj	_	_	들/pvg+어/ecs
+3	유럽의	유럽+의	PROPN	_	5	nmod	_	_	유럽/nq+의/jcm
+4	어떤	어떤	DET	_	5	det	_	_	어떤/mmd
+5	자유민주주의체제에서도	자유+민주주의+체제+에서+도	ADV	_	12	advcl	_	_	자유/ncps+민주주의/ncn+체제/ncn+에서/jca+도/jxc
+6	공산당의	공산당+의	NOUN	_	7	nmod	_	_	공산당/ncn+의/jcm
+7	활동을	활동+을	NOUN	_	10	obj	_	_	활동/ncpa+을/jco
+8	불법적인	불법+적+이+ㄴ	VERB	_	9	acl	_	_	불법/ncn+적/xsn+이/jp+ㄴ/etm
+9	것으로	것+으로	ADV	_	10	advcl	_	_	것/nbn+으로/jca
+10	봉쇄하는	봉쇄+하+는	VERB	_	11	acl	_	_	봉쇄/ncpa+하/xsv+는/etm
+11	체제는	체제+는	NOUN	_	12	dislocated	_	_	체제/ncn+는/jxt
+12	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이와는 달리 자유민주 활동을 불법적인 것으로 봉쇄하는 체제는 없다 .
+1	이와는	이+와+는	PRON	_	2	dislocated	_	_	이/npd+와/jct+는/jxt
+2	달리	다르+이	SCONJ	_	9	xcomp	_	_	다르/paa+이/ecs
+3	자유민주	자유+민주	NOUN	_	4	compound	_	_	자유/ncps+민주/ncn
+4	활동을	활동+을	NOUN	_	7	obj	_	_	활동/ncpa+을/jco
+5	불법적인	불법+적+이+ㄴ	VERB	_	6	acl	_	_	불법/ncn+적/xsn+이/jp+ㄴ/etm
+6	것으로	것+으로	ADV	_	7	advcl	_	_	것/nbn+으로/jca
+7	봉쇄하는	봉쇄+하+는	VERB	_	8	acl	_	_	봉쇄/ncpa+하/xsv+는/etm
+8	체제는	체제+는	NOUN	_	9	dislocated	_	_	체제/ncn+는/jxt
+9	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그런데 사회 속에서 부르조아지의 이데올로기적 지배장치들이 그 속에서 작동하는 시민사회영역이다 .
+1	그런데	그런데	CCONJ	_	10	cc	_	_	그런데/maj
+2	사회	사회	NOUN	_	3	compound	_	_	사회/ncn
+3	속에서	속+에서	ADV	_	10	advcl	_	_	속/ncn+에서/jca
+4	부르조아지의	부르조아지+의	NOUN	_	6	nmod	_	_	부르조아지/ncn+의/jcm
+5	이데올로기적	이데올로기+적	NOUN	_	6	amod	_	_	이데올로기/ncn+적/xsn
+6	지배장치들이	지배+장치+들+이	NOUN	_	10	nsubj	_	_	지배/ncpa+장치/ncpa+들/xsn+이/jcs
+7	그	그	DET	_	8	det	_	_	그/mmd
+8	속에서	속+에서	ADV	_	9	advcl	_	_	속/ncn+에서/jca
+9	작동하는	작동+하+는	VERB	_	10	ccomp	_	_	작동/ncpa+하/xsv+는/etm
+10	시민사회영역이다	시민사회+영역+이+다	VERB	_	0	root	_	_	시민사회/ncn+영역/ncn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 넷째 , 자유민주주의체제는 모든 정당 , 정치세력에게 선거라는 게임을 통해 집권할 기회를 제공한다 .
+1	넷째	넷째	NUM	_	13	nummod	_	_	넷째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	자유민주주의체제는	자유+민주주의+체제+는	NOUN	_	13	dislocated	_	_	자유/ncps+민주주의/ncn+체제/ncn+는/jxt
+4	모든	모든	ADJ	_	7	amod	_	_	모든/mma
+5	정당	정당	NOUN	_	7	conj	_	_	정당/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	정치세력에게	정치+세력+에게	ADV	_	13	iobj	_	_	정치/ncpa+세력/ncn+에게/jca
+8	선거라는	선거+이+라는	VERB	_	9	acl	_	_	선거/ncpa+이/jp+라는/etm
+9	게임을	게임+을	NOUN	_	10	obj	_	_	게임/ncn+을/jco
+10	통해	통하+어	SCONJ	_	13	ccomp	_	_	통하/pvg+어/ecs
+11	집권할	집권+하+ㄹ	VERB	_	12	acl	_	_	집권/ncpa+하/xsv+ㄹ/etm
+12	기회를	기회+를	NOUN	_	13	obj	_	_	기회/ncn+를/jco
+13	제공한다	제공+하+ㄴ다	VERB	_	0	root	_	_	제공/ncpa+하/xsv+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 다섯째 , 자유민주주의는 부르조아지의 계급적 헤게모니를 전사회적으로 관철시키는 정치체제로서 의의를 지닌다 .
+1	다섯째	다섯째	NUM	_	11	nummod	_	_	다섯째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	자유민주주의는	자유+민주주의+는	NOUN	_	11	dislocated	_	_	자유/ncps+민주주의/ncn+는/jxt
+4	부르조아지의	부르조아지+의	NOUN	_	6	nmod	_	_	부르조아지/ncn+의/jcm
+5	계급적	계급+적	NOUN	_	6	amod	_	_	계급/ncn+적/xsn
+6	헤게모니를	헤게모니+를	NOUN	_	8	obj	_	_	헤게모니/ncn+를/jco
+7	전사회적으로	전사회+적+으로	ADV	_	8	advcl	_	_	전사회/ncn+적/xsn+으로/jca
+8	관철시키는	관철+시키+는	VERB	_	9	acl	_	_	관철/ncpa+시키/xsv+는/etm
+9	정치체제로서	정치체제+로서	ADV	_	11	advcl	_	_	정치체제/ncn+로서/jca
+10	의의를	의의+를	NOUN	_	11	obj	_	_	의의/ncn+를/jco
+11	지닌다	지니+ㄴ다	VERB	_	0	root	_	_	지니/pvg+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그러나 이 운동은 대체로 경제적으로는 자본주의적 시장 경제체제를 , 정치적으로는 자유민주주의를 옹호하면서 자본주의적 개혁운동 그 자체이다 .
+1	그러나	그러나	CCONJ	_	16	cc	_	_	그러나/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	운동은	운동+은	NOUN	_	16	dislocated	_	_	운동/ncpa+은/jxt
+4	대체로	대체로	ADV	_	12	advmod	_	_	대체로/mag
+5	경제적으로는	경제+적+으로+는	NOUN	_	8	dislocated	_	_	경제/ncn+적/xsn+으로/jca+는/jxt
+6	자본주의적	자본주의+적	NOUN	_	8	amod	_	_	자본주의/ncn+적/xsn
+7	시장	시장	NOUN	_	8	compound	_	_	시장/ncn
+8	경제체제를	경제+체제+를	NOUN	_	11	dep	_	_	경제/ncn+체제/ncn+를/jco
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	정치적으로는	정치+적+으로+는	NOUN	_	11	dislocated	_	_	정치/ncpa+적/xsn+으로/jca+는/jxt
+11	자유민주주의를	자유+민주주의+를	NOUN	_	12	obj	_	_	자유/ncps+민주주의/ncn+를/jco
+12	옹호하면서	옹호+하+면서	CCONJ	_	16	conj	_	_	옹호/ncpa+하/xsv+면서/ecc
+13	자본주의적	자본주의+적	NOUN	_	14	amod	_	_	자본주의/ncn+적/xsn
+14	개혁운동	개혁운동	NOUN	_	16	compound	_	_	개혁운동/ncpa
+15	그	그	DET	_	16	det	_	_	그/mmd
+16	자체이다	자체+이+다	VERB	_	0	root	_	_	자체/ncn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그런데 현실사회주의의 붕괴는 부르조아적 정치와 구분되는 완전히 새로운 유형의 정치의 실현 가능성에 대한 광범한 회의를 불러일으켰다 .
+1	그런데	그런데	CCONJ	_	16	cc	_	_	그런데/maj
+2	현실사회주의의	현실+사회주의+의	NOUN	_	3	nmod	_	_	현실/ncn+사회주의/ncn+의/jcm
+3	붕괴는	붕괴+는	NOUN	_	16	dislocated	_	_	붕괴/ncpa+는/jxt
+4	부르조아적	부르조아+적	NOUN	_	5	amod	_	_	부르조아/ncn+적/xsn
+5	정치와	정치+와	CCONJ	_	6	conj	_	_	정치/ncpa+와/jct
+6	구분되는	구분+되+는	VERB	_	10	acl	_	_	구분/ncpa+되/xsv+는/etm
+7	완전히	완전+히	ADV	_	8	advmod	_	_	완전/ncps+히/xsa
+8	새로운	새롭+ㄴ	ADJ	_	9	amod	_	_	새롭/paa+ㄴ/etm
+9	유형의	유형+의	NOUN	_	10	nmod	_	_	유형/ncn+의/jcm
+10	정치의	정치+의	NOUN	_	12	nmod	_	_	정치/ncpa+의/jcm
+11	실현	실현	NOUN	_	12	compound	_	_	실현/ncpa
+12	가능성에	가능성+에	ADV	_	13	obl	_	_	가능성/ncn+에/jca
+13	대한	대하+ㄴ	VERB	_	15	acl	_	_	대하/pvg+ㄴ/etm
+14	광범한	광범하+ㄴ	ADJ	_	15	amod	_	_	광범하/paa+ㄴ/etm
+15	회의를	회의+를	NOUN	_	16	obj	_	_	회의/ncpa+를/jco
+16	불러일으켰다	불러일으키+었+다	VERB	_	0	root	_	_	불러일으키/pvg+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이 점에서 그간의 소련체제의 변화과정에 대한 약간의 고찰이 필요하다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	점에서	점+에서	ADV	_	9	advcl	_	_	점/ncn+에서/jca
+3	그간의	그+간+의	PRON	_	5	nmod	_	_	그/npp+간/xsn+의/jcm
+4	소련체제의	소련+체제+의	PROPN	_	5	nmod	_	_	소련/nq+체제/ncn+의/jcm
+5	변화과정에	변화과정+에	ADV	_	6	obl	_	_	변화과정/ncn+에/jca
+6	대한	대하+ㄴ	VERB	_	8	acl	_	_	대하/pvg+ㄴ/etm
+7	약간의	약간+의	NOUN	_	8	nmod	_	_	약간/ncn+의/jcm
+8	고찰이	고찰+이	NOUN	_	9	nsubj	_	_	고찰/ncpa+이/jcs
+9	필요하다	필요+하+다	VERB	_	0	root	_	_	필요/ncpa+하/xsv+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이 점에서 혁명 초기의 쏘비에뜨체제는 프롤레타리아트와 농민의 계급동맹에 기초한 프롤레타리아 민주주의체제 또는 프롤레타리아국가의 민주적 형태였다고 규정할 수 있다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	점에서	점+에서	ADV	_	16	advcl	_	_	점/ncn+에서/jca
+3	혁명	혁명	NOUN	_	4	compound	_	_	혁명/ncpa
+4	초기의	초기+의	NOUN	_	5	nmod	_	_	초기/ncn+의/jcm
+5	쏘비에뜨체제는	쏘비에뜨+체제+는	PROPN	_	15	dislocated	_	_	쏘비에뜨/nq+체제/ncn+는/jxt
+6	프롤레타리아트와	프롤레타리아트+와	CCONJ	_	7	conj	_	_	프롤레타리아트/ncn+와/jcj
+7	농민의	농민+의	NOUN	_	8	nmod	_	_	농민/ncn+의/jcm
+8	계급동맹에	계급동맹+에	ADV	_	9	obl	_	_	계급동맹/ncpa+에/jca
+9	기초한	기초+하+ㄴ	VERB	_	11	acl	_	_	기초/ncpa+하/xsv+ㄴ/etm
+10	프롤레타리아	프롤레타리아	NOUN	_	11	compound	_	_	프롤레타리아/ncn
+11	민주주의체제	민주주의+체제	NOUN	_	15	compound	_	_	민주주의/ncn+체제/ncn
+12	또는	또는	CCONJ	_	15	cc	_	_	또는/maj
+13	프롤레타리아국가의	프롤레타리아+국가+의	NOUN	_	15	nmod	_	_	프롤레타리아/ncn+국가/ncn+의/jcm
+14	민주적	민주+적	NOUN	_	15	amod	_	_	민주/ncn+적/xsn
+15	형태였다고	형태+이+었+다+고	VERB	_	16	conj	_	_	형태/ncn+이/jp+었/ep+다/ef+고/jcr
+16	규정할	규정+하+ㄹ	VERB	_	0	root	_	_	규정/ncpa+하/xsv+ㄹ/etm
+17	수	수	NOUN	_	18	fixed	_	_	수/nbn
+18	있다	있+다	ADJ	_	16	aux	_	_	있/paa+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그런데 우리는 민주민주주의 또는 그와 유사한 이름하에 다양한 색채를 띤 이념적 조류들이 포괄되어 있음을 발견하게 된다 .
+1	그런데	그런데	CCONJ	_	15	cc	_	_	그런데/maj
+2	우리는	우리+는	PRON	_	15	dislocated	_	_	우리/npp+는/jxt
+3	민주민주주의	민주+민주주의	NOUN	_	7	conj	_	_	민주/ncn+민주주의/ncn
+4	또는	또는	CCONJ	_	7	cc	_	_	또는/maj
+5	그와	그+와	CCONJ	_	6	conj	_	_	그/npp+와/jct
+6	유사한	유사+하+ㄴ	VERB	_	7	acl	_	_	유사/ncpa+하/xsv+ㄴ/etm
+7	이름하에	이름+하+에	ADV	_	10	obl	_	_	이름/ncn+하/ncn+에/jca
+8	다양한	다양하+ㄴ	ADJ	_	9	amod	_	_	다양하/paa+ㄴ/etm
+9	색채를	색채+를	NOUN	_	10	obj	_	_	색채/ncn+를/jco
+10	띤	띠+ㄴ	VERB	_	12	acl	_	_	띠/pvg+ㄴ/etm
+11	이념적	이념+적	NOUN	_	12	amod	_	_	이념/ncn+적/xsn
+12	조류들이	조류+들+이	NOUN	_	13	nsubj	_	_	조류/ncn+들/xsn+이/jcs
+13	포괄되어	포괄+되+어	VERB	_	15	obj	_	_	포괄/ncpa+되/xsv+어/ecx
+14	있음을	있+ㅁ+을	NOUN	_	13	aux	_	_	있/px+ㅁ/etn+을/jco
+15	발견하게	발견+하+게	VERB	_	0	root	_	_	발견/ncpa+하/xsv+게/ecx
+16	된다	되+ㄴ다	AUX	_	15	aux	_	_	되/px+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 예를 들어 해산된 구민중당은 최초에 민중주체민주주의를 당노선으로 채택하면서 일종의 정치적으로는 자유민주주의적이고 경제적으로는 시장사회주의적인 사회주의사회의 건설을 당노선으로 삼았다 .
+1	예를	예+를	NOUN	_	2	obj	_	_	예/ncn+를/jco
+2	들어	들+어	SCONJ	_	17	ccomp	_	_	들/pvg+어/ecs
+3	해산된	해산+되+ㄴ	VERB	_	4	acl	_	_	해산/ncpa+되/xsv+ㄴ/etm
+4	구민중당은	구민중당+은	NOUN	_	17	dislocated	_	_	구민중당/ncn+은/jxt
+5	최초에	최초+에	ADV	_	8	obl	_	_	최초/ncn+에/jca
+6	민중주체민주주의를	민중주체+민주주의+를	NOUN	_	8	obj	_	_	민중주체/ncn+민주주의/ncn+를/jco
+7	당노선으로	당노선+으로	ADV	_	8	advcl	_	_	당노선/ncpa+으로/jca
+8	채택하면서	채택+하+면서	CCONJ	_	17	conj	_	_	채택/ncpa+하/xsv+면서/ecc
+9	일종의	일종+의	NOUN	_	15	nmod	_	_	일종/ncn+의/jcm
+10	정치적으로는	정치+적+으로+는	NOUN	_	11	dislocated	_	_	정치/ncpa+적/xsn+으로/jca+는/jxt
+11	자유민주주의적이고	자유+민주주의+적+이+고	CCONJ	_	13	conj	_	_	자유/ncps+민주주의/ncn+적/xsn+이/jp+고/ecc
+12	경제적으로는	경제+적+으로+는	NOUN	_	13	dislocated	_	_	경제/ncn+적/xsn+으로/jca+는/jxt
+13	시장사회주의적인	시장사회주의+적+이+ㄴ	VERB	_	14	acl	_	_	시장사회주의/ncn+적/xsn+이/jp+ㄴ/etm
+14	사회주의사회의	사회주의+사회+의	NOUN	_	15	nmod	_	_	사회주의/ncn+사회/ncn+의/jcm
+15	건설을	건설+을	NOUN	_	17	obj	_	_	건설/ncpa+을/jco
+16	당노선으로	당노선+으로	ADV	_	17	advcl	_	_	당노선/ncpa+으로/jca
+17	삼았다	삼+았+다	VERB	_	0	root	_	_	삼/pvg+았/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이러한 사회주의는 사회주의의 가능한 초기적 형태를 볼 수 있을 것이다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	사회주의는	사회주의+는	NOUN	_	7	dislocated	_	_	사회주의/ncn+는/jxt
+3	사회주의의	사회주의+의	NOUN	_	6	nmod	_	_	사회주의/ncn+의/jcm
+4	가능한	가능+하+ㄴ	VERB	_	6	amod	_	_	가능/ncps+하/xsm+ㄴ/etm
+5	초기적	초기+적	NOUN	_	6	amod	_	_	초기/ncn+적/xsn
+6	형태를	형태+를	NOUN	_	7	obj	_	_	형태/ncn+를/jco
+7	볼	보+ㄹ	VERB	_	0	root	_	_	보/pvg+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있을	있+ㄹ	ADJ	_	7	aux	_	_	있/paa+ㄹ/etm
+10	것이다	것+이+다	VERB	_	7	aux	_	_	것/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그러나 민중당의 이론적 대변자들은 그러한 사회주의가 지닌 내적 모순들에 대해서는 눈을 감고 그것을 민중적 자유가 실현되는 가장 이상적인 형태로 보았다 .
+1	그러나	그러나	CCONJ	_	20	cc	_	_	그러나/maj
+2	민중당의	민중당+의	NOUN	_	4	nmod	_	_	민중당/ncn+의/jcm
+3	이론적	이론+적	NOUN	_	4	amod	_	_	이론/ncn+적/xsn
+4	대변자들은	대변자+들+은	NOUN	_	20	dislocated	_	_	대변자/ncn+들/xsn+은/jxt
+5	그러한	그러하+ㄴ	VERB	_	6	amod	_	_	그러하/pad+ㄴ/etm
+6	사회주의가	사회주의+가	NOUN	_	7	nsubj	_	_	사회주의/ncn+가/jcs
+7	지닌	지니+ㄴ	VERB	_	9	acl	_	_	지니/pvg+ㄴ/etm
+8	내적	내적	NOUN	_	9	compound	_	_	내적/ncn
+9	모순들에	모순+들+에	ADV	_	10	obl	_	_	모순/ncpa+들/xsn+에/jca
+10	대해서는	대하+어서+는	NOUN	_	12	ccomp	_	_	대하/pvg+어서/ecs+는/jxt
+11	눈을	눈+을	NOUN	_	12	obj	_	_	눈/ncn+을/jco
+12	감고	감+고	CCONJ	_	20	conj	_	_	감/pvg+고/ecc
+13	그것을	그것+을	PRON	_	20	obj	_	_	그것/npd+을/jco
+14	민중적	민중+적	NOUN	_	15	amod	_	_	민중/ncn+적/xsn
+15	자유가	자유+가	NOUN	_	16	nsubj	_	_	자유/ncps+가/jcs
+16	실현되는	실현+되+는	VERB	_	19	acl	_	_	실현/ncpa+되/xsv+는/etm
+17	가장	가장	ADV	_	18	advmod	_	_	가장/mag
+18	이상적인	이상+적+이+ㄴ	VERB	_	19	acl	_	_	이상/ncn+적/xsn+이/jp+ㄴ/etm
+19	형태로	형태+로	ADV	_	20	advcl	_	_	형태/ncn+로/jca
+20	보았다	보+았+다	VERB	_	0	root	_	_	보/pvg+았/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 이때 포스트맑스주의가 자유민주주의의 맑스주의적 옹호론이라는 특징을 지닌다면 , 사회주의적 시민사회론은 자유민주주의화된 사회주의 옹호론이라는 특징을 지닌다 .
+1	이때	이때	NOUN	_	15	advmod	_	_	이때/ncn
+2	포스트맑스주의가	포스트+맑스주의+가	NOUN	_	7	nsubj	_	_	포스트/ncn+맑스주의/ncn+가/jcs
+3	자유민주주의의	자유+민주주의+의	NOUN	_	5	nmod	_	_	자유/ncps+민주주의/ncn+의/jcm
+4	맑스주의적	맑스주의+적	NOUN	_	5	amod	_	_	맑스주의/ncn+적/xsn
+5	옹호론이라는	옹호론+이+라는	VERB	_	6	acl	_	_	옹호론/ncn+이/jp+라는/etm
+6	특징을	특징+을	NOUN	_	7	obj	_	_	특징/ncn+을/jco
+7	지닌다면	지니+ㄴ다면	SCONJ	_	15	ccomp	_	_	지니/pvg+ㄴ다면/ecs
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	사회주의적	사회주의+적	NOUN	_	10	amod	_	_	사회주의/ncn+적/xsn
+10	시민사회론은	시민사회론+은	NOUN	_	15	dislocated	_	_	시민사회론/ncn+은/jxt
+11	자유민주주의화된	자유+민주주의화+되+ㄴ	VERB	_	13	ccomp	_	_	자유/ncps+민주주의화/ncpa+되/xsv+ㄴ/etm
+12	사회주의	사회주의	NOUN	_	13	compound	_	_	사회주의/ncn
+13	옹호론이라는	옹호론+이+라는	VERB	_	14	acl	_	_	옹호론/ncn+이/jp+라는/etm
+14	특징을	특징+을	NOUN	_	15	obj	_	_	특징/ncn+을/jco
+15	지닌다	지니+ㄴ다	VERB	_	0	root	_	_	지니/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 서구에서 유러코뮤니즘운동이 좌절한 것도 바로 이러한 사정에 기인한다고 하겠다 .
+1	서구에서	서구+에서	ADV	_	3	advcl	_	_	서구/ncn+에서/jca
+2	유러코뮤니즘운동이	유러코뮤니즘운동+이	NOUN	_	3	nsubj	_	_	유러코뮤니즘운동/ncpa+이/jcs
+3	좌절한	좌절+하+ㄴ	VERB	_	4	acl	_	_	좌절/ncpa+하/xsv+ㄴ/etm
+4	것도	것+도	ADV	_	8	advcl	_	_	것/nbn+도/jxc
+5	바로	바로	ADV	_	6	advmod	_	_	바로/mag
+6	이러한	이러하+ㄴ	VERB	_	7	amod	_	_	이러하/pad+ㄴ/etm
+7	사정에	사정+에	ADV	_	8	obl	_	_	사정/ncn+에/jca
+8	기인한다고	기인+하+ㄴ다+고	VERB	_	9	conj	_	_	기인/ncpa+하/xsv+ㄴ다/ef+고/jcr
+9	하겠다	하+겠+다	VERB	_	0	root	_	_	하/pvg+겠/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러나 이러한 사정은 다른 한편으로는 오늘날 우리가 발전된 자유민주주의체제를 지닌 선진자본주의사회가 누리는 전세계적인 이데올로기적 헤게모니하에서 살고 있다는 사실을 반영하는 것이다 .
+1	그러나	그러나	CCONJ	_	19	cc	_	_	그러나/maj
+2	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+3	사정은	사정+은	NOUN	_	19	dislocated	_	_	사정/ncn+은/jxt
+4	다른	다른	ADJ	_	5	amod	_	_	다른/mma
+5	한편으로는	한편+으로+는	NOUN	_	19	dislocated	_	_	한편/ncn+으로/jca+는/jxt
+6	오늘날	오늘날	NOUN	_	16	advmod	_	_	오늘날/ncn
+7	우리가	우리+가	PRON	_	16	nsubj	_	_	우리/npp+가/jcs
+8	발전된	발전+되+ㄴ	VERB	_	9	acl	_	_	발전/ncpa+되/xsv+ㄴ/etm
+9	자유민주주의체제를	자유+민주주의+체제+를	NOUN	_	10	obj	_	_	자유/ncps+민주주의/ncn+체제/ncn+를/jco
+10	지닌	지니+ㄴ	VERB	_	11	acl	_	_	지니/pvg+ㄴ/etm
+11	선진자본주의사회가	선진자본주의사회+가	NOUN	_	12	nsubj	_	_	선진자본주의사회/ncn+가/jcs
+12	누리는	누리+는	VERB	_	15	acl	_	_	누리/pvg+는/etm
+13	전세계적인	전세계+적+이+ㄴ	VERB	_	15	acl	_	_	전세계/ncn+적/xsn+이/jp+ㄴ/etm
+14	이데올로기적	이데올로기+적	NOUN	_	15	amod	_	_	이데올로기/ncn+적/xsn
+15	헤게모니하에서	헤게모니+하+에서	ADV	_	16	advcl	_	_	헤게모니/ncn+하/ncn+에서/jca
+16	살고	살+고	VERB	_	18	acl	_	_	살/pvg+고/ecx
+17	있다는	있+다는	AUX	_	16	aux	_	_	있/px+다는/etm
+18	사실을	사실+을	NOUN	_	19	obj	_	_	사실/ncn+을/jco
+19	반영하는	반영+하+는	VERB	_	0	root	_	_	반영/ncpa+하/xsv+는/etm
+20	것이다	것+이+다	VERB	_	19	aux	_	_	것/nbn+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 지금까지 우리는 근대세계에서 대립되는 두 개의 상이한 민주주의 형태인 부르조아민주주의와 프롤레타리아민주주의가 지닌 본질과 주요측면 및 그 실현형태와 변형형태 등에 대해 살펴보았다 .
+1	지금까지	지금+까지	ADV	_	21	advcl	_	_	지금/ncn+까지/jxc
+2	우리는	우리+는	PRON	_	21	dislocated	_	_	우리/npp+는/jxt
+3	근대세계에서	근대+세계+에서	ADV	_	4	advcl	_	_	근대/ncn+세계/ncn+에서/jca
+4	대립되는	대립+되+는	VERB	_	9	ccomp	_	_	대립/ncpa+되/xsv+는/etm
+5	두	두	ADJ	_	6	amod	_	_	두/mma
+6	개의	개+의	NOUN	_	9	nmod	_	_	개/nbu+의/jcm
+7	상이한	상이하+ㄴ	ADJ	_	9	amod	_	_	상이하/paa+ㄴ/etm
+8	민주주의	민주주의	NOUN	_	9	compound	_	_	민주주의/ncn
+9	형태인	형태+이+ㄴ	VERB	_	11	acl	_	_	형태/ncn+이/jp+ㄴ/etm
+10	부르조아민주주의와	부르조아+민주주의+와	CCONJ	_	11	conj	_	_	부르조아/ncn+민주주의/ncn+와/jcj
+11	프롤레타리아민주주의가	프롤레타리아+민주주의+가	NOUN	_	12	nsubj	_	_	프롤레타리아/ncn+민주주의/ncn+가/jcs
+12	지닌	지니+ㄴ	VERB	_	19	acl	_	_	지니/pvg+ㄴ/etm
+13	본질과	본질+과	CCONJ	_	14	conj	_	_	본질/ncn+과/jcj
+14	주요측면	주요+측면	NOUN	_	19	conj	_	_	주요/ncpa+측면/ncn
+15	및	및	CCONJ	_	19	cc	_	_	및/maj
+16	그	그	DET	_	18	det	_	_	그/mmd
+17	실현형태와	실현+형태+와	CCONJ	_	18	conj	_	_	실현/ncpa+형태/ncn+와/jcj
+18	변형형태	변형+형태	NOUN	_	19	compound	_	_	변형/ncpa+형태/ncn
+19	등에	등+에	ADV	_	20	obl	_	_	등/nbn+에/jca
+20	대해	대하+어	SCONJ	_	21	ccomp	_	_	대하/pvg+어/ecs
+21	살펴보았다	살펴보+았+다	VERB	_	0	root	_	_	살펴보/pvg+았/ep+다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 이 논의와 관련하여 다음의 두 가지 점이 부언될 필요가 있다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	논의와	논의+와	CCONJ	_	3	conj	_	_	논의/ncpa+와/jct
+3	관련하여	관련+하+어	SCONJ	_	10	conj	_	_	관련/ncpa+하/xsv+어/ecs
+4	다음의	다음+의	NOUN	_	7	nmod	_	_	다음/ncn+의/jcm
+5	두	두	NUM	_	6	nummod	_	_	두/nnc
+6	가지	가지	NOUN	_	7	compound	_	_	가지/nbu
+7	점이	점+이	NOUN	_	8	nsubj	_	_	점/ncn+이/jcs
+8	부언될	부언+되+ㄹ	VERB	_	9	acl	_	_	부언/ncpa+되/xsv+ㄹ/etm
+9	필요가	필요+가	NOUN	_	10	nsubj	_	_	필요/ncpa+가/jcs
+10	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 다시 말해 이 양자간에 존재하는 차이점은 결코 ' 이론적 절충 ' 을 허용하지 않는 차이이다 .
+1	다시	다시	ADV	_	2	advmod	_	_	다시/mag
+2	말해	말하+어	SCONJ	_	15	ccomp	_	_	말하/pvg+어/ecs
+3	이	이	DET	_	4	det	_	_	이/mmd
+4	양자간에	양자+간+에	ADV	_	5	obl	_	_	양자/ncn+간/xsn+에/jca
+5	존재하는	존재+하+는	VERB	_	6	acl	_	_	존재/ncpa+하/xsv+는/etm
+6	차이점은	차이점+은	NOUN	_	15	dislocated	_	_	차이점/ncn+은/jxt
+7	결코	결코	ADV	_	13	advmod	_	_	결코/mag
+8	'	'	PUNCT	_	9	punct	_	_	'/sl
+9	이론적	이론+적	NOUN	_	10	amod	_	_	이론/ncn+적/xsn
+10	절충	절충	NOUN	_	13	obj	_	_	절충/ncn
+11	'	'	PUNCT	_	10	punct	_	_	'/sr
+12	을	을	ADP	_	10	case	_	_	을/jco
+13	허용하지	허용+하+지	VERB	_	15	ccomp	_	_	허용/ncpa+하/xsv+지/ecx
+14	않는	않+는	AUX	_	13	aux	_	_	않/px+는/etm
+15	차이이다	차이+이+다	VERB	_	0	root	_	_	차이/ncn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그렇기 때문에 이 차이는 실제로는 이론적 논쟁에 의해서는 해결될 수 없고 , 오직 실천적으로만 해결될 수 있다 .
+1	그렇기	그렇+기	VERB	_	2	nmod	_	_	그렇/pad+기/etn
+2	때문에	때문+에	ADV	_	15	obl	_	_	때문/nbn+에/jca
+3	이	이	DET	_	4	det	_	_	이/mmd
+4	차이는	차이+는	NOUN	_	9	dislocated	_	_	차이/ncn+는/jxt
+5	실제로는	실제로+는	NOUN	_	9	advmod	_	_	실제로/mag+는/jxt
+6	이론적	이론+적	NOUN	_	7	amod	_	_	이론/ncn+적/xsn
+7	논쟁에	논쟁+에	ADV	_	8	obl	_	_	논쟁/ncpa+에/jca
+8	의해서는	의하+어서+는	NOUN	_	9	ccomp	_	_	의하/pvg+어서/ecs+는/jxt
+9	해결될	해결+되+ㄹ	VERB	_	15	conj	_	_	해결/ncpa+되/xsv+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	없고	없+고	CCONJ	_	9	aux	_	_	없/paa+고/ecc
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	오직	오직	ADV	_	15	advmod	_	_	오직/mag
+14	실천적으로만	실천+적+으로+만	ADV	_	15	advcl	_	_	실천/ncpa+적/xsn+으로/jca+만/jxc
+15	해결될	해결+되+ㄹ	VERB	_	0	root	_	_	해결/ncpa+되/xsv+ㄹ/etm
+16	수	수	NOUN	_	17	fixed	_	_	수/nbn
+17	있다	있+다	ADJ	_	15	aux	_	_	있/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그러나 이때에도 우리는 이러한 정치적 제휴와 협력을 이론적 절충과 혼동해서는 안된다 .
+1	그러나	그러나	CCONJ	_	11	cc	_	_	그러나/maj
+2	이때에도	이때+에+도	ADV	_	11	advcl	_	_	이때/ncn+에/jca+도/jxc
+3	우리는	우리+는	PRON	_	11	dislocated	_	_	우리/npp+는/jxt
+4	이러한	이러하+ㄴ	VERB	_	7	amod	_	_	이러하/pad+ㄴ/etm
+5	정치적	정치+적	NOUN	_	6	amod	_	_	정치/ncpa+적/xsn
+6	제휴와	제휴+와	CCONJ	_	7	conj	_	_	제휴/ncpa+와/jcj
+7	협력을	협력+을	NOUN	_	10	obj	_	_	협력/ncpa+을/jco
+8	이론적	이론+적	NOUN	_	9	amod	_	_	이론/ncn+적/xsn
+9	절충과	절충+과	CCONJ	_	10	conj	_	_	절충/ncpa+과/jct
+10	혼동해서는	혼동+하+어서+는	NOUN	_	11	ccomp	_	_	혼동/ncpa+하/xsv+어서/ecs+는/jxt
+11	안된다	안되+ㄴ다	ADJ	_	0	root	_	_	안되/paa+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 둘째 , 서유럽에서 민주주의의 확대과정은 부르조아민주주의적 개혁운동만이 아니라 , 더욱 중요하게는 프롤레타리아트적 , 급진민주주의적 대중운동의 힘에 추동되어 이루어졌다 .
+1	둘째	둘째	NUM	_	18	nummod	_	_	둘째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	서유럽에서	서유럽+에서	ADV	_	18	advcl	_	_	서유럽/nq+에서/jca
+4	민주주의의	민주주의+의	NOUN	_	5	nmod	_	_	민주주의/ncn+의/jcm
+5	확대과정은	확대+과정+은	NOUN	_	18	dislocated	_	_	확대/ncpa+과정/ncn+은/jxt
+6	부르조아민주주의적	부르조아+민주주의+적	NOUN	_	7	amod	_	_	부르조아/ncn+민주주의/ncn+적/xsn
+7	개혁운동만이	개혁운동+만+이	NOUN	_	8	nsubj	_	_	개혁운동/ncpa+만/jxc+이/jcs
+8	아니라	아니+라	SCONJ	_	18	xcomp	_	_	아니/paa+라/ecs
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	더욱	더욱	ADV	_	11	advmod	_	_	더욱/mag
+11	중요하게는	중요+하+게+는	NOUN	_	18	amod	_	_	중요/ncps+하/xsm+게/ecs+는/jxt
+12	프롤레타리아트적	프롤레타리아트+적	NOUN	_	14	conj	_	_	프롤레타리아트/ncn+적/xsn
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	급진민주주의적	급진+민주주의+적	NOUN	_	15	amod	_	_	급진/ncn+민주주의/ncn+적/xsn
+15	대중운동의	대중운동+의	NOUN	_	16	nmod	_	_	대중운동/ncpa+의/jcm
+16	힘에	힘+에	ADV	_	17	obl	_	_	힘/ncn+에/jca
+17	추동되어	추동+되+어	SCONJ	_	18	ccomp	_	_	추동/ncpa+되/xsv+어/ecs
+18	이루어졌다	이루어지+었+다	VERB	_	0	root	_	_	이루어지/pvg+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 이 사실은 예를 들어 동일한 액수의 임금인상일지라도 그것이 단순히 투쟁에 의해 이루어지는가에 따라 그 계급적 의의가 크게 달라지는 것과 마찬가지이다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	사실은	사실+은	NOUN	_	20	dislocated	_	_	사실/ncn+은/jxt
+3	예를	예+를	NOUN	_	4	obj	_	_	예/ncn+를/jco
+4	들어	들+어	SCONJ	_	20	ccomp	_	_	들/pvg+어/ecs
+5	동일한	동일+하+ㄴ	VERB	_	6	acl	_	_	동일/ncpa+하/xsv+ㄴ/etm
+6	액수의	액수+의	NOUN	_	7	nmod	_	_	액수/ncn+의/jcm
+7	임금인상일지라도	임금+인상+이+ㄹ지라도	SCONJ	_	18	ccomp	_	_	임금/ncn+인상/ncpa+이/jp+ㄹ지라도/ecs
+8	그것이	그것+이	PRON	_	12	nsubj	_	_	그것/npd+이/jcs
+9	단순히	단순+히	ADV	_	11	advmod	_	_	단순/ncps+히/xsa
+10	투쟁에	투쟁+에	ADV	_	11	obl	_	_	투쟁/ncpa+에/jca
+11	의해	의하+어	SCONJ	_	12	ccomp	_	_	의하/pvg+어/ecs
+12	이루어지는가에	이루어지+는가+에	ADV	_	13	obl	_	_	이루어지/pvg+는가/ef+에/jca
+13	따라	따르+아	SCONJ	_	18	ccomp	_	_	따르/pvg+아/ecs
+14	그	그	DET	_	16	det	_	_	그/mmd
+15	계급적	계급+적	NOUN	_	16	amod	_	_	계급/ncn+적/xsn
+16	의의가	의의+가	NOUN	_	17	nsubj	_	_	의의/ncn+가/jcs
+17	크게	크+게	SCONJ	_	18	xcomp	_	_	크/paa+게/ecs
+18	달라지는	달라지+는	VERB	_	19	acl	_	_	달라지/pvg+는/etm
+19	것과	것+과	CCONJ	_	20	conj	_	_	것/nbn+과/jct
+20	마찬가지이다	마찬가지+이+다	VERB	_	0	root	_	_	마찬가지/ncn+이/jp+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 따라서 일인독재나 군부독재라는 개념은 국가의 계급성과 사회과정에 대한 국가의 개입방식 등을 포착하는 개념으로 사용해야 할 것이다 .
+1	따라서	따라서	CCONJ	_	14	cc	_	_	따라서/maj
+2	일인독재나	일인독재+나	CCONJ	_	3	dep	_	_	일인독재/ncn+나/jcj
+3	군부독재라는	군부독재+이+라는	VERB	_	4	acl	_	_	군부독재/ncpa+이/jp+라는/etm
+4	개념은	개념+은	NOUN	_	14	dislocated	_	_	개념/ncn+은/jxt
+5	국가의	국가+의	NOUN	_	6	nmod	_	_	국가/ncn+의/jcm
+6	계급성과	계급성+과	CCONJ	_	10	conj	_	_	계급성/ncn+과/jcj
+7	사회과정에	사회과정+에	ADV	_	8	obl	_	_	사회과정/ncn+에/jca
+8	대한	대하+ㄴ	VERB	_	9	acl	_	_	대하/pvg+ㄴ/etm
+9	국가의	국가+의	NOUN	_	10	nmod	_	_	국가/ncn+의/jcm
+10	개입방식	개입+방식	NOUN	_	11	compound	_	_	개입/ncpa+방식/ncn
+11	등을	등+을	NOUN	_	12	obj	_	_	등/nbn+을/jco
+12	포착하는	포착+하+는	VERB	_	13	acl	_	_	포착/ncpa+하/xsv+는/etm
+13	개념으로	개념+으로	ADV	_	14	advcl	_	_	개념/ncn+으로/jca
+14	사용해야	사용+하+어야	VERB	_	0	root	_	_	사용/ncpa+하/xsv+어야/ecx
+15	할	하+ㄹ	AUX	_	14	aux	_	_	하/px+ㄹ/etm
+16	것이다	것+이+다	VERB	_	14	aux	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 반면 관료적 권위주의국가론은 일인독재론이나 군부독재론보다 진일보한 국가파악에 속한다고 볼 수 있다 .
+1	반면	반면	NOUN	_	3	compound	_	_	반면/ncn
+2	관료적	관료+적	NOUN	_	3	amod	_	_	관료/ncn+적/xsn
+3	권위주의국가론은	권위주의+국가론+은	NOUN	_	8	dislocated	_	_	권위주의/ncn+국가론/ncn+은/jxt
+4	일인독재론이나	일인독재론+이나	CCONJ	_	5	conj	_	_	일인독재론/ncn+이나/jcj
+5	군부독재론보다	군부독재론+보다	ADV	_	6	advcl	_	_	군부독재론/ncn+보다/jca
+6	진일보한	진일보+하+ㄴ	VERB	_	7	acl	_	_	진일보/ncpa+하/xsv+ㄴ/etm
+7	국가파악에	국가+파악+에	ADV	_	8	obl	_	_	국가/ncn+파악/ncpa+에/jca
+8	속한다고	속하+ㄴ다+고	VERB	_	9	conj	_	_	속하/pvg+ㄴ다/ef+고/jcr
+9	볼	보+ㄹ	VERB	_	0	root	_	_	보/pvg+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있다	있+다	ADJ	_	9	aux	_	_	있/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 그리고 우리는 국가체제와 정권을 개념적으로 구분해야 한다 .
+1	그리고	그리고	CCONJ	_	6	cc	_	_	그리고/maj
+2	우리는	우리+는	PRON	_	6	dislocated	_	_	우리/npp+는/jxt
+3	국가체제와	국가+체제+와	CCONJ	_	4	conj	_	_	국가/ncn+체제/ncn+와/jcj
+4	정권을	정권+을	NOUN	_	6	obj	_	_	정권/ncn+을/jco
+5	개념적으로	개념+적+으로	ADV	_	6	advcl	_	_	개념/ncn+적/xsn+으로/jca
+6	구분해야	구분+하+어야	VERB	_	0	root	_	_	구분/ncpa+하/xsv+어야/ecx
+7	한다	하+ㄴ다	AUX	_	6	aux	_	_	하/px+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그런데 정권의 성격은 국가유형 수준에 파악되는 바의 국가체제의 기본성격과 일치한다 .
+1	그런데	그런데	CCONJ	_	10	cc	_	_	그런데/maj
+2	정권의	정권+의	NOUN	_	3	nmod	_	_	정권/ncn+의/jcm
+3	성격은	성격+은	NOUN	_	10	dislocated	_	_	성격/ncn+은/jxt
+4	국가유형	국가+유형	NOUN	_	5	compound	_	_	국가/ncn+유형/ncn
+5	수준에	수준+에	ADV	_	6	obl	_	_	수준/ncn+에/jca
+6	파악되는	파악+되+ㄴ	VERB	_	7	acl	_	_	파악/ncpa+되/xsv+ㄴ/etm
+7	바의	바+의	NOUN	_	8	nmod	_	_	바/nbn+의/jcm
+8	국가체제의	국가+체제+의	NOUN	_	9	nmod	_	_	국가/ncn+체제/ncn+의/jcm
+9	기본성격과	기본성격+과	CCONJ	_	10	conj	_	_	기본성격/ncn+과/jct
+10	일치한다	일치+하+ㄴ다	VERB	_	0	root	_	_	일치/ncpa+하/xsv+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 나아가 정권의 성격은 국가형태 수준에서 파악되는 바의 국가체제의 성격과도 기본적으로 일치한다 .
+1	나아가	나아가+아	SCONJ	_	11	ccomp	_	_	나아가/pvg+아/ecs
+2	정권의	정권+의	NOUN	_	3	nmod	_	_	정권/ncn+의/jcm
+3	성격은	성격+은	NOUN	_	11	dislocated	_	_	성격/ncn+은/jxt
+4	국가형태	국가+형태	NOUN	_	5	compound	_	_	국가/ncn+형태/ncn
+5	수준에서	수준+에서	ADV	_	6	advcl	_	_	수준/ncn+에서/jca
+6	파악되는	파악+되+는	VERB	_	7	acl	_	_	파악/ncpa+되/xsv+는/etm
+7	바의	바+의	NOUN	_	8	nmod	_	_	바/nbn+의/jcm
+8	국가체제의	국가+체제+의	NOUN	_	9	nmod	_	_	국가/ncn+체제/ncn+의/jcm
+9	성격과도	성격+과+도	ADV	_	11	advcl	_	_	성격/ncn+과/jct+도/jxc
+10	기본적으로	기본+적+으로	ADV	_	11	advcl	_	_	기본/ncn+적/xsn+으로/jca
+11	일치한다	일치+하+ㄴ다	VERB	_	0	root	_	_	일치/ncpa+하/xsv+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 따라서 예를 들어 파시즘체제하에서는 자유부르조아세력의 집권을 허용하지 않으며 , 자유민주주의체제 역시 최소한 자유민주주의적 경기규칙을 무시하는 정치세력의 집권을 허용하지 않는다 .
+1	따라서	따라서	CCONJ	_	18	cc	_	_	따라서/maj
+2	예를	예+를	NOUN	_	3	obj	_	_	예/ncn+를/jco
+3	들어	들+어	SCONJ	_	18	ccomp	_	_	들/pvg+어/ecs
+4	파시즘체제하에서는	파시즘+체제하+에서+는	NOUN	_	7	dislocated	_	_	파시즘/ncn+체제하/ncn+에서/jca+는/jxt
+5	자유부르조아세력의	자유+부르조아+세력+의	NOUN	_	6	nmod	_	_	자유/ncps+부르조아/ncn+세력/ncn+의/jcm
+6	집권을	집권+을	NOUN	_	7	obj	_	_	집권/ncpa+을/jco
+7	허용하지	허용+하+지	VERB	_	18	ccomp	_	_	허용/ncpa+하/xsv+지/ecx
+8	않으며	않+으며	SCONJ	_	7	aux	_	_	않/px+으며/ecs
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	자유민주주의체제	자유+민주주의+체제	NOUN	_	11	dep	_	_	자유/ncps+민주주의/ncn+체제/ncn
+11	역시	역시	ADV	_	18	advmod	_	_	역시/mag
+12	최소한	최소한	ADV	_	18	advmod	_	_	최소한/mag
+13	자유민주주의적	자유+민주주의+적	NOUN	_	14	amod	_	_	자유/ncps+민주주의/ncn+적/xsn
+14	경기규칙을	경기규칙+을	NOUN	_	15	obj	_	_	경기규칙/ncn+을/jco
+15	무시하는	무시+하+는	VERB	_	16	acl	_	_	무시/ncpa+하/xsv+는/etm
+16	정치세력의	정치+세력+의	NOUN	_	17	nmod	_	_	정치/ncpa+세력/ncn+의/jcm
+17	집권을	집권+을	NOUN	_	18	obj	_	_	집권/ncpa+을/jco
+18	허용하지	허용+하+지	VERB	_	0	root	_	_	허용/ncpa+하/xsv+지/ecx
+19	않는다	않+는다	AUX	_	18	aux	_	_	않/px+는다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 이 변화과정은 그러나 단순히 일직선적인 것이 아니라 지극히 모순적인 것임을 그 이후의 우리 역사는 보여준다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	변화과정은	변화+과정+은	NOUN	_	15	dislocated	_	_	변화/ncpa+과정/ncn+은/jxt
+3	그러나	그러나	ADV	_	5	advmod	_	_	그러나/mag
+4	단순히	단순+히	ADV	_	3	dep	_	_	단순/ncps+히/xsa
+5	일직선적인	일직선+적+이+ㄴ	VERB	_	6	acl	_	_	일직선/ncn+적/xsn+이/jp+ㄴ/etm
+6	것이	것+이	NOUN	_	7	nsubj	_	_	것/nbn+이/jcs
+7	아니라	아니+라	SCONJ	_	10	xcomp	_	_	아니/paa+라/ecs
+8	지극히	지극+히	ADV	_	9	advmod	_	_	지극/ncps+히/xsa
+9	모순적인	모순+적+이+ㄴ	VERB	_	10	ccomp	_	_	모순/ncpa+적/xsn+이/jp+ㄴ/etm
+10	것임을	것+이+ㅁ+을	NOUN	_	15	obj	_	_	것/nbn+이/jp+ㅁ/etn+을/jco
+11	그	그	DET	_	12	det	_	_	그/mmd
+12	이후의	이후+의	NOUN	_	14	nmod	_	_	이후/ncn+의/jcm
+13	우리	우리	PRON	_	14	compound	_	_	우리/npp
+14	역사는	역사+는	NOUN	_	15	dislocated	_	_	역사/ncn+는/jxt
+15	보여준다	보여주+ㄴ다	VERB	_	0	root	_	_	보여주/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 13 대 대선 직전의 헌법개정 등을 통하여 자유민주주의적 요소들이 대폭 가미된 이완된 종속파시즘체제 혹은 완화된 종속파시즘체제였다 .
+1	13	13	NUM	_	2	nummod	_	_	13/nnc
+2	대	대	NOUN	_	3	compound	_	_	대/nbu
+3	대선	대선	NOUN	_	4	compound	_	_	대선/ncn
+4	직전의	직전+의	NOUN	_	5	nmod	_	_	직전/ncn+의/jcm
+5	헌법개정	헌법개정	NOUN	_	6	compound	_	_	헌법개정/ncn
+6	등을	등+을	NOUN	_	7	obj	_	_	등/nbn+을/jco
+7	통하여	통하+어	SCONJ	_	16	ccomp	_	_	통하/pvg+어/ecs
+8	자유민주주의적	자유+민주주의+적	NOUN	_	9	amod	_	_	자유/ncps+민주주의/ncn+적/xsn
+9	요소들이	요소+들+이	NOUN	_	11	nsubj	_	_	요소/ncn+들/xsn+이/jcs
+10	대폭	대폭	ADV	_	11	advmod	_	_	대폭/mag
+11	가미된	가미+되+ㄴ	VERB	_	16	ccomp	_	_	가미/ncpa+되/xsv+ㄴ/etm
+12	이완된	이완+되+ㄴ	VERB	_	13	acl	_	_	이완/ncpa+되/xsv+ㄴ/etm
+13	종속파시즘체제	종속+파시즘+체제	NOUN	_	16	conj	_	_	종속/ncpa+파시즘/ncn+체제/ncn
+14	혹은	혹은	CCONJ	_	16	cc	_	_	혹은/maj
+15	완화된	완화+되+ㄴ	VERB	_	16	acl	_	_	완화/ncpa+되/xsv+ㄴ/etm
+16	종속파시즘체제였다	종속+파시즘+체제+이+었+다	VERB	_	0	root	_	_	종속/ncpa+파시즘/ncn+체제/ncn+이/jp+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 또한 정권을 엄청난 수세로 내몰았던 5 공청산국면이 종결되는 것과 더불어 전격적으로 3 당통합을 추진하여 여소야대 정국을 일거에 여대야소 정국으로 전환시켰다 .
+1	또한	또한	CCONJ	_	20	cc	_	_	또한/maj
+2	정권을	정권+을	NOUN	_	5	obj	_	_	정권/ncn+을/jco
+3	엄청난	엄청나+ㄴ	ADJ	_	4	amod	_	_	엄청나/paa+ㄴ/etm
+4	수세로	수세+로	ADV	_	5	advcl	_	_	수세/ncn+로/jca
+5	내몰았던	내몰+았+던	VERB	_	7	acl	_	_	내몰/pvg+았/ep+던/etm
+6	5	5	NUM	_	7	nummod	_	_	5/nnc
+7	공청산국면이	공청산국면+이	NOUN	_	8	nsubj	_	_	공청산국면/ncn+이/jcs
+8	종결되는	종결+되+는	VERB	_	9	acl	_	_	종결/ncpa+되/xsv+는/etm
+9	것과	것+과	CCONJ	_	10	conj	_	_	것/nbn+과/jct
+10	더불어	더불+어	SCONJ	_	20	ccomp	_	_	더불/pvg+어/ecs
+11	전격적으로	전격+적+으로	ADV	_	14	advcl	_	_	전격/ncpa+적/xsn+으로/jca
+12	3	3	NUM	_	13	nummod	_	_	3/nnc
+13	당통합을	당통합+을	NOUN	_	14	obj	_	_	당통합/ncn+을/jco
+14	추진하여	추진+하+어	SCONJ	_	20	ccomp	_	_	추진/ncpa+하/xsv+어/ecs
+15	여소야대	여소야대	NOUN	_	16	compound	_	_	여소야대/ncn
+16	정국을	정국+을	NOUN	_	20	obj	_	_	정국/ncn+을/jco
+17	일거에	일거+에	ADV	_	20	obl	_	_	일거/ncn+에/jca
+18	여대야소	여대야소	NOUN	_	19	compound	_	_	여대야소/ncn
+19	정국으로	정국+으로	ADV	_	20	advcl	_	_	정국/ncn+으로/jca
+20	전환시켰다	전환+시키+었+다	VERB	_	0	root	_	_	전환/ncpa+시키/xsv+었/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 이를 통해 비록 중간층 등을 자신의 적극적인 기반으로 만드는 데에는 성공하지 못했지만 적어도 이들을 민중운동진영으로부터 분리해내는 데에는 일정하게 성공했다 .
+1	이를	이+를	PRON	_	2	obj	_	_	이/npd+를/jco
+2	통해	통하+어	SCONJ	_	11	ccomp	_	_	통하/pvg+어/ecs
+3	비록	비록	ADV	_	11	advmod	_	_	비록/mag
+4	중간층	중간층	NOUN	_	5	compound	_	_	중간층/ncn
+5	등을	등+을	NOUN	_	9	obj	_	_	등/nbn+을/jco
+6	자신의	자신+의	NOUN	_	8	nmod	_	_	자신/ncn+의/jcm
+7	적극적인	적극+적+이+ㄴ	VERB	_	8	acl	_	_	적극/ncn+적/xsn+이/jp+ㄴ/etm
+8	기반으로	기반+으로	ADV	_	9	advcl	_	_	기반/ncn+으로/jca
+9	만드는	만들+는	VERB	_	10	acl	_	_	만들/pvg+는/etm
+10	데에는	데+에+는	NOUN	_	11	dislocated	_	_	데/nbn+에/jca+는/jxt
+11	성공하지	성공+하+지	VERB	_	19	conj	_	_	성공/ncpa+하/xsv+지/ecx
+12	못했지만	못하+었+지만	CCONJ	_	11	aux	_	_	못하/px+었/ep+지만/ecc
+13	적어도	적어도	ADV	_	16	advmod	_	_	적어도/mag
+14	이들을	이+들+을	PRON	_	16	obj	_	_	이/npd+들/xsn+을/jco
+15	민중운동진영으로부터	민중+운동+진영+으로+부터	ADV	_	16	advcl	_	_	민중/ncn+운동/ncpa+진영/ncn+으로/jca+부터/jxc
+16	분리해내는	분리+하+어+내+는	AUX	_	17	acl	_	_	분리/ncpa+하/xsv+어/ecx+내/px+는/etm
+17	데에는	데+에+는	NOUN	_	19	dislocated	_	_	데/nbn+에/jca+는/jxt
+18	일정하게	일정하+게	SCONJ	_	19	xcomp	_	_	일정하/paa+게/ecs
+19	성공했다	성공+하+었+다	VERB	_	0	root	_	_	성공/ncpa+하/xsv+었/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 그러한 분리에는 우리 사이에 민주화가 일정하게 진전됨과 더불어 이러한 민주화의 혜택을 야당과 중간층이 집중적으로 받게 된 사정이 결정적으로 작용했다 .
+1	그러한	그러하+ㄴ	VERB	_	2	amod	_	_	그러하/pad+ㄴ/etm
+2	분리에는	분리+에+는	NOUN	_	19	dislocated	_	_	분리/ncpa+에/jca+는/jxt
+3	우리	우리	PRON	_	4	compound	_	_	우리/npp
+4	사이에	사이+에	ADV	_	7	obl	_	_	사이/ncn+에/jca
+5	민주화가	민주화+가	NOUN	_	7	nsubj	_	_	민주화/ncn+가/jcs
+6	일정하게	일정하+게	SCONJ	_	7	xcomp	_	_	일정하/paa+게/ecs
+7	진전됨과	진전+되+ㅁ+과	CCONJ	_	8	conj	_	_	진전/ncpa+되/xsv+ㅁ/etn+과/jct
+8	더불어	더불+어	SCONJ	_	19	ccomp	_	_	더불/pvg+어/ecs
+9	이러한	이러하+ㄴ	VERB	_	10	amod	_	_	이러하/pad+ㄴ/etm
+10	민주화의	민주화+의	NOUN	_	11	nmod	_	_	민주화/ncn+의/jcm
+11	혜택을	혜택+을	NOUN	_	15	obj	_	_	혜택/ncn+을/jco
+12	야당과	야당+과	CCONJ	_	13	conj	_	_	야당/ncn+과/jcj
+13	중간층이	중간층+이	NOUN	_	15	nsubj	_	_	중간층/ncn+이/jcs
+14	집중적으로	집중+적+으로	ADV	_	15	advcl	_	_	집중/ncpa+적/xsn+으로/jca
+15	받게	받+게	VERB	_	17	acl	_	_	받/pvg+게/ecx
+16	된	되+ㄴ	AUX	_	15	aux	_	_	되/px+ㄴ/etm
+17	사정이	사정+이	NOUN	_	19	nsubj	_	_	사정/ncn+이/jcs
+18	결정적으로	결정+적+으로	ADV	_	19	advcl	_	_	결정/ncpa+적/xsn+으로/jca
+19	작용했다	작용+하+었+다	VERB	_	0	root	_	_	작용/ncpa+하/xsv+었/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 이러한 사실은 한국에서 정치적 세력들 간의 힘관계의 변화와 관련하여 매우 중요한 역사적 의의를 지닌 것이다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	사실은	사실+은	NOUN	_	14	dislocated	_	_	사실/ncn+은/jxt
+3	한국에서	한국+에서	ADV	_	14	advcl	_	_	한국/nq+에서/jca
+4	정치적	정치+적	NOUN	_	5	amod	_	_	정치/ncpa+적/xsn
+5	세력들	세력+들	NOUN	_	6	compound	_	_	세력/ncn+들/xsn
+6	간의	간+의	NOUN	_	7	nmod	_	_	간/nbn+의/jcm
+7	힘관계의	힘관계+의	NOUN	_	8	nmod	_	_	힘관계/ncn+의/jcm
+8	변화와	변화+와	CCONJ	_	9	conj	_	_	변화/ncpa+와/jct
+9	관련하여	관련+하+어	SCONJ	_	14	ccomp	_	_	관련/ncpa+하/xsv+어/ecs
+10	매우	매우	ADV	_	11	advmod	_	_	매우/mag
+11	중요한	중요+하+ㄴ	VERB	_	13	amod	_	_	중요/ncps+하/xsm+ㄴ/etm
+12	역사적	역사+적	NOUN	_	13	amod	_	_	역사/ncn+적/xsn
+13	의의를	의의+를	NOUN	_	14	obj	_	_	의의/ncn+를/jco
+14	지닌	지니+ㄴ	VERB	_	0	root	_	_	지니/pvg+ㄴ/etm
+15	것이다	것+이+다	VERB	_	14	aux	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이로서 14 대 대선은 야당이 조락을 촉진하고 민중운동 전체에 엄청난 패배감을 안겨주는 가운데 김영삼을 내세운 지배세력의 승리로 종결되었다 .
+1	이로서	이+로서	ADV	_	18	advcl	_	_	이/npd+로서/jca
+2	14	14	NUM	_	3	nummod	_	_	14/nnc
+3	대	대	NOUN	_	4	compound	_	_	대/nbu
+4	대선은	대선+은	NOUN	_	12	dislocated	_	_	대선/ncn+은/jxt
+5	야당이	야당+이	NOUN	_	7	nsubj	_	_	야당/ncn+이/jcs
+6	조락을	조락+을	NOUN	_	7	obj	_	_	조락/ncpa+을/jco
+7	촉진하고	촉진+하+고	CCONJ	_	12	conj	_	_	촉진/ncpa+하/xsv+고/ecc
+8	민중운동	민중+운동	NOUN	_	9	compound	_	_	민중/ncn+운동/ncpa
+9	전체에	전체+에	ADV	_	12	obl	_	_	전체/ncn+에/jca
+10	엄청난	엄청나+ㄴ	ADJ	_	11	amod	_	_	엄청나/paa+ㄴ/etm
+11	패배감을	패배감+을	NOUN	_	12	obj	_	_	패배감/ncn+을/jco
+12	안겨주는	안기+어+주+는	AUX	_	13	acl	_	_	안기/pvg+어/ecx+주/px+는/etm
+13	가운데	가운데	NOUN	_	18	advmod	_	_	가운데/ncn
+14	김영삼을	김영삼+을	PROPN	_	15	obj	_	_	김영삼/nq+을/jco
+15	내세운	내세우+ㄴ	VERB	_	16	acl	_	_	내세우/pvg+ㄴ/etm
+16	지배세력의	지배+세력+의	NOUN	_	17	nmod	_	_	지배/ncpa+세력/ncn+의/jcm
+17	승리로	승리+로	ADV	_	18	advcl	_	_	승리/ncpa+로/jca
+18	종결되었다	종결+되+었+다	VERB	_	0	root	_	_	종결/ncpa+되/xsv+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 김영삼정권은 기존의 군부정권을 계승하는 정권이라는 점에서 그 이전의 정권과 기본적인 연속성을 지닌 정권으로 출범했다 .
+1	김영삼정권은	김영삼+정권+은	PROPN	_	5	dislocated	_	_	김영삼/nq+정권/ncn+은/jxt
+2	기존의	기존+의	NOUN	_	3	nmod	_	_	기존/ncpa+의/jcm
+3	군부정권을	군부+정권+을	NOUN	_	4	obj	_	_	군부/ncn+정권/ncn+을/jco
+4	계승하는	계승+하+는	VERB	_	5	ccomp	_	_	계승/ncpa+하/xsv+는/etm
+5	정권이라는	정권+이+라는	VERB	_	6	acl	_	_	정권/ncn+이/jp+라는/etm
+6	점에서	점+에서	ADV	_	14	advcl	_	_	점/ncn+에서/jca
+7	그	그	DET	_	8	det	_	_	그/mmd
+8	이전의	이전+의	NOUN	_	9	nmod	_	_	이전/ncn+의/jcm
+9	정권과	정권+과	CCONJ	_	12	conj	_	_	정권/ncn+과/jct
+10	기본적인	기본+적+이+ㄴ	VERB	_	11	acl	_	_	기본/ncn+적/xsn+이/jp+ㄴ/etm
+11	연속성을	연속성+을	NOUN	_	12	obj	_	_	연속성/ncn+을/jco
+12	지닌	지니+ㄴ	VERB	_	13	acl	_	_	지니/pvg+ㄴ/etm
+13	정권으로	정권+으로	ADV	_	14	advcl	_	_	정권/ncn+으로/jca
+14	출범했다	출범+하+었+다	VERB	_	0	root	_	_	출범/ncpa+하/xsv+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이러한 사실은 김영삼정권의 출범과 더불어 정권의 셩격과 국가체계의 성격간에는 일정한 괴리현상이 생겨나게 되었다는 것을 의미한다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	사실은	사실+은	NOUN	_	15	dislocated	_	_	사실/ncn+은/jxt
+3	김영삼정권의	김영삼+정권+의	PROPN	_	4	nmod	_	_	김영삼/nq+정권/ncn+의/jcm
+4	출범과	출범+과	CCONJ	_	5	conj	_	_	출범/ncpa+과/jct
+5	더불어	더불+어	SCONJ	_	12	ccomp	_	_	더불/pvg+어/ecs
+6	정권의	정권+의	NOUN	_	7	nmod	_	_	정권/ncn+의/jcm
+7	셩격과	셩격+과	CCONJ	_	9	conj	_	_	셩격/ncn+과/jcj
+8	국가체계의	국가+체계+의	NOUN	_	9	nmod	_	_	국가/ncn+체계/ncn+의/jcm
+9	성격간에는	성격+간+에+는	NOUN	_	12	dislocated	_	_	성격/ncn+간/xsn+에/jca+는/jxt
+10	일정한	일정하+ㄴ	ADJ	_	11	amod	_	_	일정하/paa+ㄴ/etm
+11	괴리현상이	괴리+현상+이	NOUN	_	12	nsubj	_	_	괴리/ncpa+현상/ncn+이/jcs
+12	생겨나게	생겨나+게	VERB	_	14	acl	_	_	생겨나/pvg+게/ecx
+13	되었다는	되+었+다는	AUX	_	12	aux	_	_	되/px+었/ep+다는/etm
+14	것을	것+을	NOUN	_	15	obj	_	_	것/nbn+을/jco
+15	의미한다	의미+하+ㄴ다	VERB	_	0	root	_	_	의미/ncpa+하/xsv+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 김영삼정권은 출범과 더불어 자신을 기존의 국가체제에 적응시키기보다 기본적으로 국가를 개혁하는 길로 나섰다 .
+1	김영삼정권은	김영삼+정권+은	PROPN	_	12	dislocated	_	_	김영삼/nq+정권/ncn+은/jxt
+2	출범과	출범+과	CCONJ	_	3	conj	_	_	출범/ncpa+과/jct
+3	더불어	더불+어	SCONJ	_	7	conj	_	_	더불/pvg+어/ecs
+4	자신을	자신+을	NOUN	_	7	obj	_	_	자신/ncn+을/jco
+5	기존의	기존+의	NOUN	_	6	nmod	_	_	기존/ncpa+의/jcm
+6	국가체제에	국가+체제+에	ADV	_	7	obl	_	_	국가/ncn+체제/ncn+에/jca
+7	적응시키기보다	적응+시키+기+보다	ADV	_	12	advcl	_	_	적응/ncpa+시키/xsv+기/etn+보다/jca
+8	기본적으로	기본+적+으로	ADV	_	10	advcl	_	_	기본/ncn+적/xsn+으로/jca
+9	국가를	국가+를	NOUN	_	10	obj	_	_	국가/ncn+를/jco
+10	개혁하는	개혁+하+는	VERB	_	11	acl	_	_	개혁/ncpa+하/xsv+는/etm
+11	길로	길+로	ADV	_	12	advcl	_	_	길/ncn+로/jca
+12	나섰다	나서+ㅆ+다	VERB	_	0	root	_	_	나서/pvg+ㅆ/ep+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그러나 김영삼정권의 그간의 개혁은 일관성을 지닌 민주개혁의 성격을 지닌 것이라기보다는 그 자체 모순적인 요소들을 함께 지니고 있는 것이기도 하였다 .
+1	그러나	그러나	CCONJ	_	19	cc	_	_	그러나/maj
+2	김영삼정권의	김영삼+정권+의	PROPN	_	4	nmod	_	_	김영삼/nq+정권/ncn+의/jcm
+3	그간의	그+간+의	PRON	_	4	nmod	_	_	그/npp+간/xsn+의/jcm
+4	개혁은	개혁+은	NOUN	_	6	dislocated	_	_	개혁/ncpa+은/jxt
+5	일관성을	일관성+을	NOUN	_	6	obj	_	_	일관성/ncn+을/jco
+6	지닌	지니+ㄴ	VERB	_	7	acl	_	_	지니/pvg+ㄴ/etm
+7	민주개혁의	민주개혁+의	NOUN	_	8	nmod	_	_	민주개혁/ncn+의/jcm
+8	성격을	성격+을	NOUN	_	9	obj	_	_	성격/ncn+을/jco
+9	지닌	지니+ㄴ	VERB	_	19	dislocated	_	_	지니/pvg+ㄴ/etm
+10	것이라기보다는	것+이+라기+보다+는	NOUN	_	9	aux	_	_	것/nbn+이/jp+라기/etn+보다/jca+는/jxt
+11	그	그	DET	_	13	det	_	_	그/mmd
+12	자체	자체	NOUN	_	13	compound	_	_	자체/ncn
+13	모순적인	모순+적+이+ㄴ	VERB	_	14	acl	_	_	모순/ncpa+적/xsn+이/jp+ㄴ/etm
+14	요소들을	요소+들+을	NOUN	_	16	obj	_	_	요소/ncn+들/xsn+을/jco
+15	함께	함께	ADV	_	16	advmod	_	_	함께/mag
+16	지니고	지니+고	VERB	_	19	advcl	_	_	지니/pvg+고/ecx
+17	있는	있+는	AUX	_	16	aux	_	_	있/px+는/etm
+18	것이기도	것+이+기+도	ADV	_	16	aux	_	_	것/nbn+이/jp+기/etn+도/jxc
+19	하였다	하+었+다	VERB	_	0	root	_	_	하/pvg+었/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 다른 한편 김영삼정권의 경제정책 기조는 8 월의 ' 금융실명제 ' 의 진격적이고 조기적인 실시를 계기로 하여 급변하였다 .
+1	다른	다른	ADJ	_	2	amod	_	_	다른/mma
+2	한편	한편	NOUN	_	17	advmod	_	_	한편/ncn
+3	김영삼정권의	김영삼+정권+의	PROPN	_	4	nmod	_	_	김영삼/nq+정권/ncn+의/jcm
+4	경제정책	경제정책	NOUN	_	5	compound	_	_	경제정책/ncn
+5	기조는	기조+는	NOUN	_	17	dislocated	_	_	기조/ncn+는/jxt
+6	8	8	NUM	_	7	nummod	_	_	8/nnc
+7	월의	월+의	NOUN	_	9	nmod	_	_	월/nbu+의/jcm
+8	'	'	PUNCT	_	9	punct	_	_	'/sl
+9	금융실명제	금융실명제	NOUN	_	12	nmod	_	_	금융실명제/ncn
+10	'	'	PUNCT	_	9	punct	_	_	'/sr
+11	의	의	ADP	_	9	case	_	_	의/jcm
+12	진격적이고	진격+적+이+고	CCONJ	_	13	conj	_	_	진격/ncpa+적/xsn+이/jp+고/ecc
+13	조기적인	조기+적+이+ㄴ	VERB	_	14	acl	_	_	조기/ncn+적/xsn+이/jp+ㄴ/etm
+14	실시를	실시+를	NOUN	_	16	obj	_	_	실시/ncpa+를/jco
+15	계기로	계기+로	ADV	_	16	advcl	_	_	계기/ncn+로/jca
+16	하여	하+어	SCONJ	_	17	ccomp	_	_	하/pvg+어/ecs
+17	급변하였다	급변+하+었+다	VERB	_	0	root	_	_	급변/ncpa+하/xsv+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 아무튼 금융실명제의 실시와 공직자윤리법에 의한 고위공직자들의 재산공개에 의해 정국은 새로운 발전국면에 접어들게 되었다 .
+1	아무튼	아무튼	ADV	_	12	advmod	_	_	아무튼/mag
+2	금융실명제의	금융실명제+의	NOUN	_	3	nmod	_	_	금융실명제/ncn+의/jcm
+3	실시와	실시+와	CCONJ	_	7	conj	_	_	실시/ncpa+와/jcj
+4	공직자윤리법에	공직자+윤리법+에	ADV	_	5	obl	_	_	공직자/ncn+윤리법/ncn+에/jca
+5	의한	의하+ㄴ	VERB	_	6	acl	_	_	의하/pvg+ㄴ/etm
+6	고위공직자들의	고위공직자+들+의	NOUN	_	7	nmod	_	_	고위공직자/ncn+들/xsn+의/jcm
+7	재산공개에	재산+공개+에	ADV	_	8	obl	_	_	재산/ncn+공개/ncpa+에/jca
+8	의해	의하+어	SCONJ	_	12	ccomp	_	_	의하/pvg+어/ecs
+9	정국은	정국+은	NOUN	_	12	dislocated	_	_	정국/ncn+은/jxt
+10	새로운	새롭+ㄴ	ADJ	_	11	amod	_	_	새롭/paa+ㄴ/etm
+11	발전국면에	발전+국면+에	ADV	_	12	obl	_	_	발전/ncpa+국면/ncn+에/jca
+12	접어들게	접어들+게	VERB	_	0	root	_	_	접어들/pvg+게/ecx
+13	되었다	되+었+다	AUX	_	12	aux	_	_	되/px+었/ep+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 그리하여 만일 김영삼정권이 임금동결정책과 같은 반민중적 정책을 계속 고수해나간다면 , 임기중에 민중의 광범한 저항에 부딪힐 가능성 역시 배재할 수 없다 .
+1	그리하여	그리하여	CCONJ	_	18	cc	_	_	그리하여/maj
+2	만일	만일	ADV	_	9	advmod	_	_	만일/mag
+3	김영삼정권이	김영삼+정권+이	PROPN	_	9	nsubj	_	_	김영삼/nq+정권/ncn+이/jcs
+4	임금동결정책과	임금+동결+정책+과	CCONJ	_	5	conj	_	_	임금/ncn+동결/ncpa+정책/ncn+과/jct
+5	같은	같+ㄴ	ADJ	_	7	amod	_	_	같/paa+ㄴ/etm
+6	반민중적	반민중+적	NOUN	_	7	amod	_	_	반민중/ncn+적/xsn
+7	정책을	정책+을	NOUN	_	9	obj	_	_	정책/ncn+을/jco
+8	계속	계속	ADV	_	9	advmod	_	_	계속/mag
+9	고수해나간다면	고수+하+어+나가+ㄴ다면	SCONJ	_	18	ccomp	_	_	고수/ncpa+하/xsv+어/ecx+나가/px+ㄴ다면/ecs
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	임기중에	임기+중+에	ADV	_	15	obl	_	_	임기/ncn+중/xsn+에/jca
+12	민중의	민중+의	NOUN	_	14	nmod	_	_	민중/ncn+의/jcm
+13	광범한	광범하+ㄴ	ADJ	_	14	amod	_	_	광범하/paa+ㄴ/etm
+14	저항에	저항+에	ADV	_	15	obl	_	_	저항/ncpa+에/jca
+15	부딪힐	부딪히+ㄹ	VERB	_	16	acl	_	_	부딪히/pvg+ㄹ/etm
+16	가능성	가능성	NOUN	_	17	dep	_	_	가능성/ncn
+17	역시	역시	ADV	_	18	advmod	_	_	역시/mag
+18	배재할	배재+하+ㄹ	VERB	_	0	root	_	_	배재/ncpa+하/xsv+ㄹ/etm
+19	수	수	NOUN	_	20	fixed	_	_	수/nbn
+20	없다	없+다	ADJ	_	18	aux	_	_	없/paa+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 정권 주도하에서 이루어지고 있는 이러한 개혁과정과 관련하여 이러한 개혁이 한국의 국가체제를 앞으로 얼마만큼 변화시킬 수 있을 것인가라는 질문이 제기된다 .
+1	정권	정권	NOUN	_	2	compound	_	_	정권/ncn
+2	주도하에서	주도하+에서	ADV	_	3	advcl	_	_	주도하/ncn+에서/jca
+3	이루어지고	이루어지+고	VERB	_	6	acl	_	_	이루어지/pvg+고/ecx
+4	있는	있+는	AUX	_	3	aux	_	_	있/px+는/etm
+5	이러한	이러하+ㄴ	VERB	_	6	amod	_	_	이러하/pad+ㄴ/etm
+6	개혁과정과	개혁+과정+과	CCONJ	_	7	conj	_	_	개혁/ncpa+과정/ncn+과/jct
+7	관련하여	관련+하+어	SCONJ	_	19	ccomp	_	_	관련/ncpa+하/xsv+어/ecs
+8	이러한	이러하+ㄴ	VERB	_	9	amod	_	_	이러하/pad+ㄴ/etm
+9	개혁이	개혁+이	NOUN	_	14	nsubj	_	_	개혁/ncpa+이/jcs
+10	한국의	한국+의	PROPN	_	11	nmod	_	_	한국/nq+의/jcm
+11	국가체제를	국가+체제+를	NOUN	_	14	obj	_	_	국가/ncn+체제/ncn+를/jco
+12	앞으로	앞+으로	ADV	_	14	advcl	_	_	앞/ncn+으로/jca
+13	얼마만큼	얼마+만큼	ADV	_	14	advcl	_	_	얼마/npd+만큼/jca
+14	변화시킬	변화+시키+ㄹ	VERB	_	18	acl	_	_	변화/ncpa+시키/xsv+ㄹ/etm
+15	수	수	NOUN	_	16	fixed	_	_	수/nbn
+16	있을	있+ㄹ	ADJ	_	14	aux	_	_	있/paa+ㄹ/etm
+17	것인가라는	것+이+ㄴ가라는	VERB	_	14	aux	_	_	것/nbn+이/jp+ㄴ가라는/etm
+18	질문이	질문+이	NOUN	_	19	nsubj	_	_	질문/ncpa+이/jcs
+19	제기된다	제기+되+ㄴ다	VERB	_	0	root	_	_	제기/ncpa+되/xsv+ㄴ다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 오히려 국가의 민주화 문제와 관련하여서는 안기부와 기무사의 권한 축소 등이 더욱 직접적인 중요성을 지닌다 .
+1	오히려	오히려	ADV	_	5	advmod	_	_	오히려/mag
+2	국가의	국가+의	NOUN	_	3	nmod	_	_	국가/ncn+의/jcm
+3	민주화	민주화	NOUN	_	4	compound	_	_	민주화/ncn
+4	문제와	문제+와	CCONJ	_	5	conj	_	_	문제/ncn+와/jct
+5	관련하여서는	관련+하+어서+는	NOUN	_	14	ccomp	_	_	관련/ncpa+하/xsv+어서/ecs+는/jxt
+6	안기부와	안기부+와	CCONJ	_	7	conj	_	_	안기부/ncn+와/jcj
+7	기무사의	기무사+의	NOUN	_	8	nmod	_	_	기무사/ncn+의/jcm
+8	권한	권한	NOUN	_	9	compound	_	_	권한/ncn
+9	축소	축소	NOUN	_	10	compound	_	_	축소/ncpa
+10	등이	등+이	NOUN	_	14	nsubj	_	_	등/nbn+이/jcs
+11	더욱	더욱	ADV	_	12	advmod	_	_	더욱/mag
+12	직접적인	직접+적+이+ㄴ	VERB	_	13	acl	_	_	직접/ncn+적/xsn+이/jp+ㄴ/etm
+13	중요성을	중요성+을	NOUN	_	14	obj	_	_	중요성/ncn+을/jco
+14	지닌다	지니+ㄴ다	VERB	_	0	root	_	_	지니/pvg+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그리고 이 정권은 경제정책 등에서 기존의 국가권위주의적인 개입정책을 기본적으로 답습하면서 이른바 신보수주의적 정책과 민주적 개혁이라는 정반대되는 정책들을 부가시켜나갈 것으로 보인다 .
+1	그리고	그리고	CCONJ	_	20	cc	_	_	그리고/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	정권은	정권+은	NOUN	_	20	dislocated	_	_	정권/ncn+은/jxt
+4	경제정책	경제+정책	NOUN	_	5	compound	_	_	경제/ncn+정책/ncn
+5	등에서	등+에서	ADV	_	10	advcl	_	_	등/nbn+에서/jca
+6	기존의	기존+의	NOUN	_	7	nmod	_	_	기존/ncpa+의/jcm
+7	국가권위주의적인	국가+권위주의+적+이+ㄴ	VERB	_	8	acl	_	_	국가/ncn+권위주의/ncn+적/xsn+이/jp+ㄴ/etm
+8	개입정책을	개입+정책+을	NOUN	_	10	obj	_	_	개입/ncpa+정책/ncn+을/jco
+9	기본적으로	기본+적+으로	ADV	_	10	advcl	_	_	기본/ncn+적/xsn+으로/jca
+10	답습하면서	답습+하+면서	CCONJ	_	20	conj	_	_	답습/ncpa+하/xsv+면서/ecc
+11	이른바	이른바	ADV	_	15	advmod	_	_	이른바/mag
+12	신보수주의적	신보수주의+적	NOUN	_	13	amod	_	_	신보수주의/ncn+적/xsn
+13	정책과	정책+과	CCONJ	_	15	conj	_	_	정책/ncn+과/jcj
+14	민주적	민주+적	NOUN	_	15	amod	_	_	민주/ncn+적/xsn
+15	개혁이라는	개혁+이+라는	VERB	_	17	acl	_	_	개혁/ncpa+이/jp+라는/etm
+16	정반대되는	정반대+되+는	VERB	_	17	acl	_	_	정반대/ncpa+되/xsv+는/etm
+17	정책들을	정책+들+을	NOUN	_	18	obj	_	_	정책/ncn+들/xsn+을/jco
+18	부가시켜나갈	부가+시키+어+나가+ㄹ	AUX	_	19	acl	_	_	부가/ncpa+시키/xsv+어/ecx+나가/px+ㄹ/etm
+19	것으로	것+으로	ADV	_	20	advcl	_	_	것/nbn+으로/jca
+20	보인다	보이+ㄴ다	VERB	_	0	root	_	_	보이/pvg+ㄴ다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 아울러 그간 국가코포라티즘적인 통제하에 놓여 있었던 노총이 한편으로는 국가에 기대면서도 다른 한편으로는 자기 목소리를 일정하게 내기 시작했다 .
+1	아울러	아울러	ADV	_	17	advmod	_	_	아울러/mag
+2	그간	그+간	NOUN	_	3	advmod	_	_	그/npd+간/xsn
+3	국가코포라티즘적인	국가코포라티즘+적+이+ㄴ	VERB	_	4	acl	_	_	국가코포라티즘/ncn+적/xsn+이/jp+ㄴ/etm
+4	통제하에	통제+하+에	ADV	_	5	obl	_	_	통제/ncn+하/ncn+에/jca
+5	놓여	놓이+어	VERB	_	7	acl	_	_	놓이/pvg+어/ecx
+6	있었던	있+었+던	AUX	_	5	aux	_	_	있/px+었/ep+던/etm
+7	노총이	노총+이	NOUN	_	17	nsubj	_	_	노총/ncn+이/jcs
+8	한편으로는	한편+으로+는	NOUN	_	10	dislocated	_	_	한편/ncn+으로/jca+는/jxt
+9	국가에	국가+에	ADV	_	10	obl	_	_	국가/ncn+에/jca
+10	기대면서도	기대+면서+도	ADV	_	16	dep	_	_	기대/pvg+면서/ecs+도/jxc
+11	다른	다른	ADJ	_	12	amod	_	_	다른/mma
+12	한편으로는	한편+으로+는	NOUN	_	15	dislocated	_	_	한편/ncn+으로/jca+는/jxt
+13	자기	자기	PRON	_	14	compound	_	_	자기/npp
+14	목소리를	목소리+를	NOUN	_	15	obj	_	_	목소리/ncn+를/jco
+15	일정하게	일정하+게	SCONJ	_	16	xcomp	_	_	일정하/paa+게/ecs
+16	내기	내+기	VERB	_	17	nmod	_	_	내/pvg+기/etn
+17	시작했다	시작+하+었+다	VERB	_	0	root	_	_	시작/ncpa+하/xsv+었/ep+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 노총은 현재 한편으로는 김영삼정권에 기대면서 다른 한편으로는 ' 경실련 ' 과 같은 시민민주주의적 운동단체와 연대하면서 노동운동의 부르조아화를 촉진시키고 있다 .
+1	노총은	노총+은	NOUN	_	18	dislocated	_	_	노총/ncn+은/jxt
+2	현재	현재	NOUN	_	18	advmod	_	_	현재/ncn
+3	한편으로는	한편+으로+는	NOUN	_	5	dislocated	_	_	한편/ncn+으로/jca+는/jxt
+4	김영삼정권에	김영삼+정권+에	ADV	_	5	obl	_	_	김영삼/nq+정권/ncn+에/jca
+5	기대면서	기대+면서	CCONJ	_	15	conj	_	_	기대/pvg+면서/ecc
+6	다른	다른	ADJ	_	7	amod	_	_	다른/mma
+7	한편으로는	한편+으로+는	NOUN	_	15	dislocated	_	_	한편/ncn+으로/jca+는/jxt
+8	'	'	PUNCT	_	9	punct	_	_	'/sl
+9	경실련	경실련	PROPN	_	12	conj	_	_	경실련/nq
+10	'	'	PUNCT	_	9	punct	_	_	'/sr
+11	과	과	ADP	_	9	case	_	_	과/jct
+12	같은	같+ㄴ	ADJ	_	14	amod	_	_	같/paa+ㄴ/etm
+13	시민민주주의적	시민+민주주의+적	NOUN	_	14	amod	_	_	시민/ncn+민주주의/ncn+적/xsn
+14	운동단체와	운동+단체+와	CCONJ	_	15	conj	_	_	운동/ncpa+단체/ncn+와/jct
+15	연대하면서	연대+하+면서	CCONJ	_	18	conj	_	_	연대/ncpa+하/xsv+면서/ecc
+16	노동운동의	노동운동+의	NOUN	_	17	nmod	_	_	노동운동/ncpa+의/jcm
+17	부르조아화를	부르조아화+를	NOUN	_	18	obj	_	_	부르조아화/ncn+를/jco
+18	촉진시키고	촉진+시키+고	VERB	_	0	root	_	_	촉진/ncpa+시키/xsv+고/ecx
+19	있다	있+다	AUX	_	18	aux	_	_	있/px+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 노태우정권하에서는 또한 노동자를 비롯한 기층민중들의 운동이 폭발적으로 등장하기 시작했다 .
+1	노태우정권하에서는	노태우+정권+하+에서+는	PROPN	_	9	dislocated	_	_	노태우/nq+정권/ncn+하/ncn+에서/jca+는/jxt
+2	또한	또한	ADV	_	9	advmod	_	_	또한/mag
+3	노동자를	노동자+를	NOUN	_	4	obj	_	_	노동자/ncn+를/jco
+4	비롯한	비롯+하+ㄴ	VERB	_	5	acl	_	_	비롯/ncpa+하/xsv+ㄴ/etm
+5	기층민중들의	기층민중+들+의	NOUN	_	6	nmod	_	_	기층민중/ncn+들/xsn+의/jcm
+6	운동이	운동+이	NOUN	_	8	nsubj	_	_	운동/ncpa+이/jcs
+7	폭발적으로	폭발+적+으로	ADV	_	8	advcl	_	_	폭발/ncpa+적/xsn+으로/jca
+8	등장하기	등장+하+기	VERB	_	9	nmod	_	_	등장/ncpa+하/xsv+기/etn
+9	시작했다	시작+하+었+다	VERB	_	0	root	_	_	시작/ncpa+하/xsv+었/ep+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 또한 민족주의적으로 정향된 많은 학생층들은 일정하게 자율성을 되찾은 사회운동의 공간을 다분히 정세돌출적인 통일운동으로 채워나갔다 .
+1	또한	또한	CCONJ	_	14	cc	_	_	또한/maj
+2	민족주의적으로	민족주의+적+으로	ADV	_	3	advcl	_	_	민족주의/ncn+적/xsn+으로/jca
+3	정향된	정향+되+ㄴ	VERB	_	5	acl	_	_	정향/ncpa+되/xsv+ㄴ/etm
+4	많은	많+ㄴ	ADJ	_	5	amod	_	_	많/paa+ㄴ/etm
+5	학생층들은	학생층+들+은	NOUN	_	14	dislocated	_	_	학생층/ncn+들/xsn+은/jxt
+6	일정하게	일정하+게	SCONJ	_	8	xcomp	_	_	일정하/paa+게/ecs
+7	자율성을	자율성+을	NOUN	_	8	obj	_	_	자율성/ncn+을/jco
+8	되찾은	되찾+ㄴ	VERB	_	10	acl	_	_	되찾/pvg+ㄴ/etm
+9	사회운동의	사회운동+의	NOUN	_	10	nmod	_	_	사회운동/ncpa+의/jcm
+10	공간을	공간+을	NOUN	_	14	obj	_	_	공간/ncn+을/jco
+11	다분히	다분히	ADV	_	12	advmod	_	_	다분히/mag
+12	정세돌출적인	정세+돌출+적+이+ㄴ	VERB	_	13	acl	_	_	정세/ncn+돌출/ncpa+적/xsn+이/jp+ㄴ/etm
+13	통일운동으로	통일운동+으로	ADV	_	14	advcl	_	_	통일운동/ncpa+으로/jca
+14	채워나갔다	채우+어+나가+ㅆ+다	AUX	_	0	root	_	_	채우/pvg+어/ecx+나가/px+ㅆ/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이들 민중운동세력은 크게 보면 1 다수파인 민족주의적 급진민주주의적인 민중운동세력 우파와 2 소수파인 노동자계급적 민중민주주의적인 민중운동세력 좌파로 구성되어 있다 .
+1	이들	이+들	NOUN	_	2	compound	_	_	이/npd+들/xsn
+2	민중운동세력은	민중+운동+세력+은	NOUN	_	4	dislocated	_	_	민중/ncn+운동/ncpa+세력/ncn+은/jxt
+3	크게	크+게	SCONJ	_	4	xcomp	_	_	크/paa+게/ecs
+4	보면	보+면	SCONJ	_	17	ccomp	_	_	보/pvg+면/ecs
+5	1	1	NUM	_	6	nummod	_	_	1/nnc
+6	다수파인	다수파+이+ㄴ	VERB	_	7	acl	_	_	다수파/ncn+이/jp+ㄴ/etm
+7	민족주의적	민족주의+적	NOUN	_	8	amod	_	_	민족주의/ncn+적/xsn
+8	급진민주주의적인	급진+민주주의+적+이+ㄴ	VERB	_	9	acl	_	_	급진/ncpa+민주주의/ncn+적/xsn+이/jp+ㄴ/etm
+9	민중운동세력	민중+운동+세력	NOUN	_	10	compound	_	_	민중/ncn+운동/ncpa+세력/ncn
+10	우파와	우파+와	CCONJ	_	16	conj	_	_	우파/ncn+와/jcj
+11	2	2	NUM	_	12	nummod	_	_	2/nnc
+12	소수파인	소수파+이+ㄴ	VERB	_	13	acl	_	_	소수파/ncn+이/jp+ㄴ/etm
+13	노동자계급적	노동자+계급+적	NOUN	_	14	amod	_	_	노동자/ncn+계급/ncn+적/xsn
+14	민중민주주의적인	민중+민주주의+적+이+ㄴ	VERB	_	15	acl	_	_	민중/ncn+민주주의/ncn+적/xsn+이/jp+ㄴ/etm
+15	민중운동세력	민중+운동+세력	NOUN	_	16	compound	_	_	민중/ncn+운동/ncpa+세력/ncn
+16	좌파로	좌파+로	ADV	_	17	advcl	_	_	좌파/ncn+로/jca
+17	구성되어	구성+되+어	VERB	_	0	root	_	_	구성/ncpa+되/xsv+어/ecx
+18	있다	있+다	AUX	_	17	aux	_	_	있/px+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그리고 민중운동세력의 입지가 취약해진 데에는 주체적으로는 구간 우파가 주도한 제반 운동에 나타난 정치주의적 , 통일지상주의적 , 야당지지적 경향이 결정적으로 작용했다 .
+1	그리고	그리고	CCONJ	_	20	cc	_	_	그리고/maj
+2	민중운동세력의	민중+운동+세력+의	NOUN	_	3	nmod	_	_	민중/ncn+운동/ncpa+세력/ncn+의/jcm
+3	입지가	입지+가	NOUN	_	4	nsubj	_	_	입지/ncn+가/jcs
+4	취약해진	취약하+어+지+ㄴ	AUX	_	5	acl	_	_	취약하/pvg+어/ecx+지/px+ㄴ/etm
+5	데에는	데+에+는	NOUN	_	20	dislocated	_	_	데/nbn+에/jca+는/jxt
+6	주체적으로는	주체+적+으로+는	NOUN	_	20	dislocated	_	_	주체/ncn+적/xsn+으로/jca+는/jxt
+7	구간	구간	NOUN	_	8	compound	_	_	구간/ncn
+8	우파가	우파+가	NOUN	_	9	nsubj	_	_	우파/ncn+가/jcs
+9	주도한	주도+하+ㄴ	VERB	_	11	acl	_	_	주도/ncpa+하/xsv+ㄴ/etm
+10	제반	제반	NOUN	_	11	compound	_	_	제반/ncn
+11	운동에	운동+에	ADV	_	12	obl	_	_	운동/ncpa+에/jca
+12	나타난	나타나+ㄴ	VERB	_	13	acl	_	_	나타나/pvg+ㄴ/etm
+13	정치주의적	정치주의+적	NOUN	_	15	conj	_	_	정치주의/ncn+적/xsn
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	통일지상주의적	통일+지상주의+적	NOUN	_	17	conj	_	_	통일/ncpa+지상주의/ncn+적/xsn
+16	,	,	PUNCT	_	15	punct	_	_	,/sp
+17	야당지지적	야당+지지+적	NOUN	_	18	amod	_	_	야당/ncn+지지/ncpa+적/xsn
+18	경향이	경향+이	NOUN	_	20	nsubj	_	_	경향/ncn+이/jcs
+19	결정적으로	결정+적+으로	ADV	_	20	advcl	_	_	결정/ncpa+적/xsn+으로/jca
+20	작용했다	작용+하+었+다	VERB	_	0	root	_	_	작용/ncpa+하/xsv+었/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그런 데에서 민주주의운동은 급진성을 띠었었다 .
+1	그런	그런	DET	_	2	det	_	_	그런/mmd
+2	데에서	데+에서	ADV	_	5	advcl	_	_	데/nbn+에서/jca
+3	민주주의운동은	민주주의+운동+은	NOUN	_	5	dislocated	_	_	민주주의/ncn+운동/ncpa+은/jxt
+4	급진성을	급진성+을	NOUN	_	5	obj	_	_	급진성/ncn+을/jco
+5	띠었었다	띠+었었+다	VERB	_	0	root	_	_	띠/pvg+었었/ep+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그러나 이 운동은 대체로 민중민주주의적 성격이 가미된 부르조아민주주의운동의 셩격을 지닌 것이었다 .
+1	그러나	그러나	CCONJ	_	10	cc	_	_	그러나/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	운동은	운동+은	NOUN	_	10	dislocated	_	_	운동/ncpa+은/jxt
+4	대체로	대체+로	ADV	_	10	advcl	_	_	대체/ncn+로/jca
+5	민중민주주의적	민중+민주주의+적	NOUN	_	6	amod	_	_	민중/ncn+민주주의/ncn+적/xsn
+6	성격이	성격+이	NOUN	_	7	nsubj	_	_	성격/ncn+이/jcs
+7	가미된	가미+되+ㄴ	VERB	_	8	acl	_	_	가미/ncpa+되/xsv+ㄴ/etm
+8	부르조아민주주의운동의	부르조아+민주주의+운동+의	NOUN	_	9	nmod	_	_	부르조아/ncn+민주주의/ncn+운동/ncpa+의/jcm
+9	셩격을	셩격+을	NOUN	_	10	obj	_	_	셩격/ncn+을/jco
+10	지닌	지니+ㄴ	VERB	_	0	root	_	_	지니/pvg+ㄴ/etm
+11	것이었다	것+이+었+다	VERB	_	10	aux	_	_	것/nbn+이/jp+었/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이러한 운동은 말할 필요도 없이 보다 민중민주주의적 운동으로 전환할 가능성과 역으로 보다 부르조아민주주의운동으로 변화할 가능성을 아울러 지닌다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	운동은	운동+은	NOUN	_	17	dislocated	_	_	운동/ncpa+은/jxt
+3	말할	말하+ㄹ	VERB	_	4	acl	_	_	말하/pvg+ㄹ/etm
+4	필요도	필요+도	ADV	_	5	advcl	_	_	필요/ncpa+도/jxc
+5	없이	없+이	SCONJ	_	17	xcomp	_	_	없/paa+이/ecs
+6	보다	보다	ADV	_	7	advmod	_	_	보다/mag
+7	민중민주주의적	민중민주주의+적	NOUN	_	8	amod	_	_	민중민주주의/ncn+적/xsn
+8	운동으로	운동+으로	ADV	_	9	advcl	_	_	운동/ncpa+으로/jca
+9	전환할	전환+하+ㄹ	VERB	_	10	acl	_	_	전환/ncpa+하/xsv+ㄹ/etm
+10	가능성과	가능성+과	CCONJ	_	15	conj	_	_	가능성/ncn+과/jcj
+11	역으로	역+으로	ADV	_	15	advcl	_	_	역/ncn+으로/jca
+12	보다	보다	ADV	_	13	advmod	_	_	보다/mag
+13	부르조아민주주의운동으로	부르조아+민주주의+운동+으로	ADV	_	14	advcl	_	_	부르조아/ncn+민주주의/ncn+운동/ncpa+으로/jca
+14	변화할	변화+하+ㄹ	VERB	_	15	acl	_	_	변화/ncpa+하/xsv+ㄹ/etm
+15	가능성을	가능성+을	NOUN	_	16	obj	_	_	가능성/ncn+을/jco
+16	아울러	아우르+어	SCONJ	_	17	ccomp	_	_	아우르/pvg+어/ecs
+17	지닌다	지니+ㄴ다	VERB	_	0	root	_	_	지니/pvg+ㄴ다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이것은 간략하게 정리해 본다면 다음과 같다 .
+1	이것은	이것+은	PRON	_	6	dislocated	_	_	이것/npd+은/jxt
+2	간략하게	간략하+게	SCONJ	_	3	xcomp	_	_	간략하/paa+게/ecs
+3	정리해	정리+하+어	VERB	_	6	conj	_	_	정리/ncpa+하/xsv+어/ecx
+4	본다면	보+ㄴ다면	SCONJ	_	3	aux	_	_	보/px+ㄴ다면/ecs
+5	다음과	다음+과	CCONJ	_	6	conj	_	_	다음/ncn+과/jct
+6	같다	같+다	ADJ	_	0	root	_	_	같/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 군부파시즘체제하에서는 군부파시즘에 맞서 싸우는 모든 민주세력들의 연대의 동맹은 민주주의의 진전을 위해 극히 중요한 일이었다 .
+1	군부파시즘체제하에서는	군부+파시즘+체제+하+에서+는	NOUN	_	14	dislocated	_	_	군부/ncn+파시즘/ncn+체제/ncn+하/ncn+에서/jca+는/jxt
+2	군부파시즘에	군부+파시즘+에	ADV	_	3	obl	_	_	군부/ncn+파시즘/ncn+에/jca
+3	맞서	맞서+어	SCONJ	_	4	ccomp	_	_	맞서/pvg+어/ecs
+4	싸우는	싸우+는	VERB	_	6	acl	_	_	싸우/pvg+는/etm
+5	모든	모든	ADJ	_	6	amod	_	_	모든/mma
+6	민주세력들의	민주세력+들+의	NOUN	_	7	nmod	_	_	민주세력/ncn+들/xsn+의/jcm
+7	연대의	연대+의	NOUN	_	8	nmod	_	_	연대/ncpa+의/jcm
+8	동맹은	동맹+은	NOUN	_	14	dislocated	_	_	동맹/ncpa+은/jxt
+9	민주주의의	민주주의+의	NOUN	_	10	nmod	_	_	민주주의/ncn+의/jcm
+10	진전을	진전+을	NOUN	_	11	obj	_	_	진전/ncpa+을/jco
+11	위해	위하+어	SCONJ	_	13	conj	_	_	위하/pvg+어/ecs
+12	극히	극히	ADV	_	13	advmod	_	_	극히/mag
+13	중요한	중요+하+ㄴ	VERB	_	14	amod	_	_	중요/ncps+하/xsm+ㄴ/etm
+14	일이었다	일+이+었+다	VERB	_	0	root	_	_	일/ncn+이/jp+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그리고 그 체제하에서는 강한 국가권력과 맞서 싸운 민주개혁운동 자체속에 이미 부르조아민주주의의 한계를 뛰어넘은 민주변혁적 요소가 경향적으로 내정되어 있었다 .
+1	그리고	그리고	CCONJ	_	17	cc	_	_	그리고/maj
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	체제하에서는	체제+하+에서+는	NOUN	_	17	dislocated	_	_	체제/ncn+하/ncn+에서/jca+는/jxt
+4	강한	강하+ㄴ	ADJ	_	5	amod	_	_	강하/paa+ㄴ/etm
+5	국가권력과	국가권력+과	CCONJ	_	6	conj	_	_	국가권력/ncn+과/jct
+6	맞서	맞서+어	SCONJ	_	7	ccomp	_	_	맞서/pvg+어/ecs
+7	싸운	싸우+ㄴ	VERB	_	8	acl	_	_	싸우/pvg+ㄴ/etm
+8	민주개혁운동	민주개혁+운동	NOUN	_	9	compound	_	_	민주개혁/ncpa+운동/ncpa
+9	자체속에	자체+속+에	ADV	_	17	obl	_	_	자체/ncn+속/ncn+에/jca
+10	이미	이미	ADV	_	13	advmod	_	_	이미/mag
+11	부르조아민주주의의	부르조아+민주주의+의	NOUN	_	12	nmod	_	_	부르조아/ncn+민주주의/ncn+의/jcm
+12	한계를	한계+를	NOUN	_	13	obj	_	_	한계/ncn+를/jco
+13	뛰어넘은	뛰어넘+ㄴ	VERB	_	14	acl	_	_	뛰어넘/pvg+ㄴ/etm
+14	민주변혁적	민주+변혁+적	NOUN	_	15	amod	_	_	민주/ncn+변혁/ncpa+적/xsn
+15	요소가	요소+가	NOUN	_	17	nsubj	_	_	요소/ncn+가/jcs
+16	경향적으로	경향+적+으로	ADV	_	17	advcl	_	_	경향/ncn+적/xsn+으로/jca
+17	내정되어	내정+되+어	VERB	_	0	root	_	_	내정/ncpa+되/xsv+어/ecx
+18	있었다	있+었+다	AUX	_	17	aux	_	_	있/px+었/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 한국의 국가체제는 앞으로도 비록 더 부드러워진 형태이지만 이완된 파시즘체제의 셩격을 지닐 것으로 예상된다 .
+1	한국의	한국+의	PROPN	_	2	nmod	_	_	한국/nq+의/jcm
+2	국가체제는	국가+체제+는	NOUN	_	13	dislocated	_	_	국가/ncn+체제/ncn+는/jxt
+3	앞으로도	앞+으로+도	ADV	_	6	advcl	_	_	앞/ncn+으로/jca+도/jxc
+4	비록	비록	ADV	_	6	advmod	_	_	비록/mag
+5	더	더	ADV	_	6	advmod	_	_	더/mag
+6	부드러워진	부드럽+어+지+ㄴ	AUX	_	7	amod	_	_	부드럽/paa+어/ecx+지/px+ㄴ/etm
+7	형태이지만	형태+이+지만	CCONJ	_	11	conj	_	_	형태/ncn+이/jp+지만/ecc
+8	이완된	이완+되+ㄴ	VERB	_	9	acl	_	_	이완/ncpa+되/xsv+ㄴ/etm
+9	파시즘체제의	파시즘+체제+의	NOUN	_	10	nmod	_	_	파시즘/ncn+체제/ncn+의/jcm
+10	셩격을	셩격+을	NOUN	_	11	obj	_	_	셩격/ncn+을/jco
+11	지닐	지니+ㄹ	VERB	_	12	acl	_	_	지니/pvg+ㄹ/etm
+12	것으로	것+으로	ADV	_	13	advcl	_	_	것/nbn+으로/jca
+13	예상된다	예상+되+ㄴ다	VERB	_	0	root	_	_	예상/ncpa+되/xsv+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 한국의 민주화과정은 오늘날 정권주도하의 민주화가 민주변혁운동의 입지 약화를 수반하면서 진행되고 있는 특징을 지닌다 .
+1	한국의	한국+의	PROPN	_	2	nmod	_	_	한국/nq+의/jcm
+2	민주화과정은	민주화+과정+은	NOUN	_	13	dislocated	_	_	민주화/ncpa+과정/ncn+은/jxt
+3	오늘날	오늘날	NOUN	_	4	compound	_	_	오늘날/ncn
+4	정권주도하의	정권+주도하+의	NOUN	_	5	nmod	_	_	정권/ncn+주도하/ncn+의/jcm
+5	민주화가	민주화+가	NOUN	_	10	nsubj	_	_	민주화/ncpa+가/jcs
+6	민주변혁운동의	민주+변혁운동+의	NOUN	_	7	nmod	_	_	민주/ncn+변혁운동/ncpa+의/jcm
+7	입지	입지	NOUN	_	8	compound	_	_	입지/ncn
+8	약화를	약화+를	NOUN	_	9	obj	_	_	약화/ncpa+를/jco
+9	수반하면서	수반+하+면서	CCONJ	_	10	conj	_	_	수반/ncpa+하/xsv+면서/ecc
+10	진행되고	진행+되+고	VERB	_	12	acl	_	_	진행/ncpa+되/xsv+고/ecx
+11	있는	있+는	AUX	_	10	aux	_	_	있/px+는/etm
+12	특징을	특징+을	NOUN	_	13	obj	_	_	특징/ncn+을/jco
+13	지닌다	지니+ㄴ다	VERB	_	0	root	_	_	지니/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이러한 상태로부터 벗어나기 위하여 민중운동세력은 당면과제의 해결과 장기적인 변혁의 전망을 결합시키는 온동형태를 창출해야 한다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	상태로부터	상태+로+부터	ADV	_	3	advcl	_	_	상태/ncn+로/jca+부터/jxc
+3	벗어나기	벗어나+기	VERB	_	4	nmod	_	_	벗어나/pvg+기/etn
+4	위하여	위하+어	SCONJ	_	13	ccomp	_	_	위하/pvg+어/ecs
+5	민중운동세력은	민중+운동+세력+은	NOUN	_	13	dislocated	_	_	민중/ncn+운동/ncpa+세력/ncn+은/jxt
+6	당면과제의	당면과제+의	NOUN	_	7	nmod	_	_	당면과제/ncn+의/jcm
+7	해결과	해결+과	CCONJ	_	10	conj	_	_	해결/ncpa+과/jcj
+8	장기적인	장기+적+이+ㄴ	VERB	_	9	acl	_	_	장기/ncn+적/xsn+이/jp+ㄴ/etm
+9	변혁의	변혁+의	NOUN	_	10	nmod	_	_	변혁/ncpa+의/jcm
+10	전망을	전망+을	NOUN	_	11	obj	_	_	전망/ncpa+을/jco
+11	결합시키는	결합+시키+는	VERB	_	12	acl	_	_	결합/ncpa+시키/xsv+는/etm
+12	온동형태를	온동+형태+를	NOUN	_	13	obj	_	_	온동/ncpa+형태/ncn+를/jco
+13	창출해야	창출+하+어야	VERB	_	0	root	_	_	창출/ncpa+하/xsv+어야/ecx
+14	한다	하+ㄴ다	AUX	_	13	aux	_	_	하/px+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 민주변혁의 장기적 목표만을 중시한다면 , 운동의 대중성을 확보해나가는 데에 어려움을 겪을 것이다 .
+1	민주변혁의	민주+변혁+의	NOUN	_	2	nmod	_	_	민주/ncn+변혁/ncpa+의/jcm
+2	장기적	장기+적	NOUN	_	3	amod	_	_	장기/ncn+적/xsn
+3	목표만을	목표+만+을	NOUN	_	4	obj	_	_	목표/ncpa+만/jxc+을/jco
+4	중시한다면	중시+하+ㄴ다면	SCONJ	_	11	ccomp	_	_	중시/ncpa+하/xsv+ㄴ다면/ecs
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	운동의	운동+의	NOUN	_	7	nmod	_	_	운동/ncpa+의/jcm
+7	대중성을	대중성+을	NOUN	_	8	obj	_	_	대중성/ncn+을/jco
+8	확보해나가는	확보+하+어+나가+는	AUX	_	9	acl	_	_	확보/ncpa+하/xsv+어/ecx+나가/px+는/etm
+9	데에	데+에	ADV	_	11	obl	_	_	데/nbn+에/jca
+10	어려움을	어려움+을	NOUN	_	11	obj	_	_	어려움/ncn+을/jco
+11	겪을	겪+ㄹ	VERB	_	0	root	_	_	겪/pvg+ㄹ/etm
+12	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 노동자운동을 비롯한 기충민중운동의 활성화는 어떤 시기 , 어떤 조건 속에서도 민주변혁운동을 진전시킨 가장 중요한 동력이다 .
+1	노동자운동을	노동자+운동+을	NOUN	_	2	obj	_	_	노동자/ncn+운동/ncpa+을/jco
+2	비롯한	비롯+하+ㄴ	VERB	_	3	acl	_	_	비롯/ncpa+하/xsv+ㄴ/etm
+3	기충민중운동의	기충+민중+운동+의	NOUN	_	4	nmod	_	_	기충/ncn+민중/ncn+운동/ncpa+의/jcm
+4	활성화는	활성화+는	NOUN	_	15	dislocated	_	_	활성화/ncn+는/jxt
+5	어떤	어떤	DET	_	6	det	_	_	어떤/mmd
+6	시기	시기	NOUN	_	9	compound	_	_	시기/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	어떤	어떤	DET	_	9	det	_	_	어떤/mmd
+9	조건	조건	NOUN	_	10	compound	_	_	조건/ncn
+10	속에서도	속+에서+도	ADV	_	12	advcl	_	_	속/ncn+에서/jca+도/jxc
+11	민주변혁운동을	민주+변혁운동+을	NOUN	_	12	obj	_	_	민주/ncn+변혁운동/ncpa+을/jco
+12	진전시킨	진전+시키+ㄴ	VERB	_	15	ccomp	_	_	진전/ncpa+시키/xsv+ㄴ/etm
+13	가장	가장	ADV	_	14	advmod	_	_	가장/mag
+14	중요한	중요+하+ㄴ	VERB	_	15	amod	_	_	중요/ncps+하/xsm+ㄴ/etm
+15	동력이다	동력+이+다	VERB	_	0	root	_	_	동력/ncn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 따라서 기층민중운동이 처한 조건과 그 운동을 활성화시키는 운동의 형태 등은 부단히 탐구되고 연구되어야 한다 .
+1	따라서	따라서	CCONJ	_	13	cc	_	_	따라서/maj
+2	기층민중운동이	기층민중운동+이	NOUN	_	3	nsubj	_	_	기층민중운동/ncpa+이/jcs
+3	처한	처하+ㄴ	VERB	_	4	acl	_	_	처하/pvg+ㄴ/etm
+4	조건과	조건+과	CCONJ	_	9	conj	_	_	조건/ncn+과/jcj
+5	그	그	DET	_	6	det	_	_	그/mmd
+6	운동을	운동+을	NOUN	_	7	obj	_	_	운동/ncpa+을/jco
+7	활성화시키는	활성화+시키+는	VERB	_	8	acl	_	_	활성화/ncpa+시키/xsv+는/etm
+8	운동의	운동+의	NOUN	_	9	nmod	_	_	운동/ncpa+의/jcm
+9	형태	형태	NOUN	_	10	compound	_	_	형태/ncn
+10	등은	등+은	NOUN	_	13	dislocated	_	_	등/nbn+은/jxt
+11	부단히	부단+히	ADV	_	12	advmod	_	_	부단/ncps+히/xsa
+12	탐구되고	탐구+되+고	CCONJ	_	13	conj	_	_	탐구/ncpa+되/xsv+고/ecc
+13	연구되어야	연구+되+어야	VERB	_	0	root	_	_	연구/ncpa+되/xsv+어야/ecx
+14	한다	하+ㄴ다	AUX	_	13	aux	_	_	하/px+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 또한 그 운동과 함께 하고 그 운동을 지원하는 것은 민주변혁을 추구하는 모든 사람들의 가장 일차적인 의무이다 .
+1	또한	또한	CCONJ	_	16	cc	_	_	또한/maj
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	운동과	운동+과	CCONJ	_	5	conj	_	_	운동/ncpa+과/jct
+4	함께	함께	ADV	_	5	advmod	_	_	함께/mag
+5	하고	하+고	CCONJ	_	8	conj	_	_	하/pvg+고/ecc
+6	그	그	DET	_	7	det	_	_	그/mmd
+7	운동을	운동+을	NOUN	_	8	obj	_	_	운동/ncpa+을/jco
+8	지원하는	지원+하+는	VERB	_	9	acl	_	_	지원/ncpa+하/xsv+는/etm
+9	것은	것+은	NOUN	_	16	dislocated	_	_	것/nbn+은/jxt
+10	민주변혁을	민주+변혁+을	NOUN	_	11	obj	_	_	민주/ncn+변혁/ncpa+을/jco
+11	추구하는	추구+하+는	VERB	_	13	acl	_	_	추구/ncpa+하/xsv+는/etm
+12	모든	모든	ADJ	_	13	amod	_	_	모든/mma
+13	사람들의	사람+들+의	NOUN	_	16	nmod	_	_	사람/ncn+들/xsn+의/jcm
+14	가장	가장	ADV	_	15	advmod	_	_	가장/mag
+15	일차적인	일차+적+이+ㄴ	VERB	_	16	acl	_	_	일차/ncn+적/xsn+이/jp+ㄴ/etm
+16	의무이다	의무+이+다	VERB	_	0	root	_	_	의무/ncn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이 분열상은 극복되어야 한다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	분열상은	분열상+은	NOUN	_	3	dislocated	_	_	분열상/ncn+은/jxt
+3	극복되어야	극복+되+어야	VERB	_	0	root	_	_	극복/ncpa+되/xsv+어야/ecx
+4	한다	하+ㄴ다	AUX	_	3	aux	_	_	하/px+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 일반적으로 기층민중운동과의 결합 강화 , 민중세력 내부의 단결이다 .
+1	일반적으로	일반+적+으로	ADV	_	8	advcl	_	_	일반/ncn+적/xsn+으로/jca
+2	기층민중운동과의	기층민중운동+과+의	NOUN	_	3	nmod	_	_	기층민중운동/ncpa+과/jct+의/jcm
+3	결합	결합	NOUN	_	4	compound	_	_	결합/ncpa
+4	강화	강화	NOUN	_	8	compound	_	_	강화/ncpa
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	민중세력	민중+세력	NOUN	_	7	compound	_	_	민중/ncn+세력/ncn
+7	내부의	내부+의	NOUN	_	8	nmod	_	_	내부/ncn+의/jcm
+8	단결이다	단결+이+다	VERB	_	0	root	_	_	단결/ncpa+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 이러한 점은 예를 들어 오늘날의 환경운동의 제이데올로기 속에서도 별견된다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	점은	점+은	NOUN	_	9	dislocated	_	_	점/ncn+은/jxt
+3	예를	예+를	NOUN	_	4	obj	_	_	예/ncn+를/jco
+4	들어	들+어	SCONJ	_	9	ccomp	_	_	들/pvg+어/ecs
+5	오늘날의	오늘날+의	NOUN	_	6	nmod	_	_	오늘날/ncn+의/jcm
+6	환경운동의	환경+운동+의	NOUN	_	7	nmod	_	_	환경/ncn+운동/ncpa+의/jcm
+7	제이데올로기	제이데올로기	NOUN	_	8	compound	_	_	제이데올로기/ncn
+8	속에서도	속+에서+도	ADV	_	9	advcl	_	_	속/ncn+에서/jca+도/jxc
+9	별견된다	별견+되+ㄴ다	VERB	_	0	root	_	_	별견/ncpa+되/xsv+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 더욱이 계급문제는 정세에 따라 다른 사회문제에 의해 과잉결정하는 그 시기의 가장 중요한 사회문제는 동시에 가장 중요한 그 시기의 계급문제이기도 하다 .
+1	더욱이	더욱이	ADV	_	20	advmod	_	_	더욱이/mag
+2	계급문제는	계급+문제+는	NOUN	_	20	dislocated	_	_	계급/ncn+문제/ncn+는/jxt
+3	정세에	정세+에	ADV	_	4	obl	_	_	정세/ncn+에/jca
+4	따라	따르+아	SCONJ	_	8	ccomp	_	_	따르/pvg+아/ecs
+5	다른	다른	ADJ	_	6	amod	_	_	다른/mma
+6	사회문제에	사회+문제+에	ADV	_	7	obl	_	_	사회/ncn+문제/ncn+에/jca
+7	의해	의하+어	SCONJ	_	8	ccomp	_	_	의하/pvg+어/ecs
+8	과잉결정하는	과잉+결정+하+는	VERB	_	13	acl	_	_	과잉/ncpa+결정/ncpa+하/xsv+는/etm
+9	그	그	DET	_	10	det	_	_	그/mmd
+10	시기의	시기+의	NOUN	_	13	nmod	_	_	시기/ncn+의/jcm
+11	가장	가장	ADV	_	12	advmod	_	_	가장/mag
+12	중요한	중요+하+ㄴ	VERB	_	13	amod	_	_	중요/ncps+하/xsm+ㄴ/etm
+13	사회문제는	사회+문제+는	NOUN	_	19	dislocated	_	_	사회/ncn+문제/ncn+는/jxt
+14	동시에	동시+에	ADV	_	16	obl	_	_	동시/ncn+에/jca
+15	가장	가장	ADV	_	16	advmod	_	_	가장/mag
+16	중요한	중요+하+ㄴ	VERB	_	19	amod	_	_	중요/ncps+하/xsm+ㄴ/etm
+17	그	그	DET	_	18	det	_	_	그/mmd
+18	시기의	시기+의	NOUN	_	19	nmod	_	_	시기/ncn+의/jcm
+19	계급문제이기도	계급+문제+이+기+도	ADV	_	20	advcl	_	_	계급/ncn+문제/ncn+이/jp+기/etn+도/jxc
+20	하다	하+다	VERB	_	0	root	_	_	하/pvg+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그러나 그러한 조직체가 취해야 할 형태와 관련하여 생각해야 할 점들이 있다 .
+1	그러나	그러나	CCONJ	_	11	cc	_	_	그러나/maj
+2	그러한	그러하+ㄴ	VERB	_	3	amod	_	_	그러하/pad+ㄴ/etm
+3	조직체가	조직체+가	NOUN	_	4	nsubj	_	_	조직체/ncn+가/jcs
+4	취해야	취하+어야	VERB	_	6	acl	_	_	취하/pvg+어야/ecx
+5	할	하+ㄹ	AUX	_	4	aux	_	_	하/px+ㄹ/etm
+6	형태와	형태+와	CCONJ	_	7	conj	_	_	형태/ncn+와/jct
+7	관련하여	관련+하+어	SCONJ	_	8	ccomp	_	_	관련/ncpa+하/xsv+어/ecs
+8	생각해야	생각+하+어야	VERB	_	10	acl	_	_	생각/ncpa+하/xsv+어야/ecx
+9	할	하+ㄹ	AUX	_	8	aux	_	_	하/px+ㄹ/etm
+10	점들이	점+들+이	NOUN	_	11	nsubj	_	_	점/ncn+들/xsn+이/jcs
+11	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 다시 말해 진리는 언제나 구체적인 것이기 때문에 구체적 상황에 대한 구체적 분석에 입각하는 운동만이 자신을 진전시킬 수 있다 .
+1	다시	다시	ADV	_	2	advmod	_	_	다시/mag
+2	말해	말하+어	SCONJ	_	16	ccomp	_	_	말하/pvg+어/ecs
+3	진리는	진리+는	NOUN	_	5	dislocated	_	_	진리/ncn+는/jxt
+4	언제나	언제나	ADV	_	5	advmod	_	_	언제나/mag
+5	구체적인	구체+적+이+ㄴ	VERB	_	7	dep	_	_	구체/ncn+적/xsn+이/jp+ㄴ/etm
+6	것이기	것+이+기	VERB	_	5	aux	_	_	것/nbn+이/jp+기/etn
+7	때문에	때문+에	ADV	_	16	obl	_	_	때문/nbn+에/jca
+8	구체적	구체+적	NOUN	_	9	amod	_	_	구체/ncn+적/xsn
+9	상황에	상황+에	ADV	_	10	obl	_	_	상황/ncn+에/jca
+10	대한	대하+ㄴ	VERB	_	12	acl	_	_	대하/pvg+ㄴ/etm
+11	구체적	구체+적	NOUN	_	12	amod	_	_	구체/ncn+적/xsn
+12	분석에	분석+에	ADV	_	13	obl	_	_	분석/ncpa+에/jca
+13	입각하는	입각+하+는	VERB	_	14	acl	_	_	입각/ncpa+하/xsv+는/etm
+14	운동만이	운동+만+이	NOUN	_	16	nsubj	_	_	운동/ncpa+만/jxc+이/jcs
+15	자신을	자신+을	NOUN	_	16	obj	_	_	자신/ncn+을/jco
+16	진전시킬	진전+시키+ㄹ	VERB	_	0	root	_	_	진전/ncpa+시키/xsv+ㄹ/etm
+17	수	수	NOUN	_	18	fixed	_	_	수/nbn
+18	있다	있+다	ADJ	_	16	aux	_	_	있/paa+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 제도들을 창안하고 발전시켜왔던 것이다 .
+1	제도들을	제도+들+을	NOUN	_	2	obj	_	_	제도/ncn+들/xsn+을/jco
+2	창안하고	창안+하+고	CCONJ	_	3	conj	_	_	창안/ncpa+하/xsv+고/ecc
+3	발전시켜왔던	발전+시키+어+오+았+던	AUX	_	0	root	_	_	발전/ncpa+시키/xsv+어/ecx+오/px+았/ep+던/etm
+4	것이다	것+이+다	VERB	_	3	aux	_	_	것/nbn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 한 사회 내에 어떤 정치제도가 얼마나 잘 정착되어 있는가를 규명하기 위해서는 최소한 두 가지 차원의 논의가 필요하다 .
+1	한	한	ADJ	_	2	amod	_	_	한/mma
+2	사회	사회	NOUN	_	3	compound	_	_	사회/ncn
+3	내에	내+에	ADV	_	8	obl	_	_	내/npp+에/jca
+4	어떤	어떤	DET	_	5	det	_	_	어떤/mmd
+5	정치제도가	정치+제도+가	NOUN	_	8	nsubj	_	_	정치/ncpa+제도/ncn+가/jcs
+6	얼마나	얼마나	ADV	_	8	advmod	_	_	얼마나/mag
+7	잘	잘	ADV	_	6	advmod	_	_	잘/mag
+8	정착되어	정착+되+어	VERB	_	10	obj	_	_	정착/ncpa+되/xsv+어/ecx
+9	있는가를	있+는가+를	NOUN	_	8	aux	_	_	있/px+는가/ef+를/jco
+10	규명하기	규명+하+기	VERB	_	11	nmod	_	_	규명/ncpa+하/xsv+기/etn
+11	위해서는	위하+어서+는	NOUN	_	17	ccomp	_	_	위하/pvg+어서/ecs+는/jxt
+12	최소한	최소한	ADV	_	15	advmod	_	_	최소한/mag
+13	두	두	ADJ	_	14	amod	_	_	두/mma
+14	가지	가지	NOUN	_	15	compound	_	_	가지/nbu
+15	차원의	차원+의	NOUN	_	16	nmod	_	_	차원/ncn+의/jcm
+16	논의가	논의+가	NOUN	_	17	nsubj	_	_	논의/ncpa+가/jcs
+17	필요하다	필요+하+다	VERB	_	0	root	_	_	필요/ncpa+하/xsv+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 우선 채택하고 있는 정치제도의 셩격이 민주주의 이념을 얼마나 잘 반영하고 있는가의 문제이다 .
+1	우선	우선	ADV	_	12	advmod	_	_	우선/mag
+2	채택하고	채택+하+고	VERB	_	4	acl	_	_	채택/ncpa+하/xsv+고/ecx
+3	있는	있+는	AUX	_	2	aux	_	_	있/px+는/etm
+4	정치제도의	정치+제도+의	NOUN	_	5	nmod	_	_	정치/ncpa+제도/ncn+의/jcm
+5	셩격이	셩격+이	NOUN	_	10	nsubj	_	_	셩격/ncn+이/jcs
+6	민주주의	민주주의	NOUN	_	7	compound	_	_	민주주의/ncn
+7	이념을	이념+을	NOUN	_	10	obj	_	_	이념/ncn+을/jco
+8	얼마나	얼마나	ADV	_	10	advmod	_	_	얼마나/mag
+9	잘	잘	ADV	_	8	advmod	_	_	잘/mag
+10	반영하고	반영+하+고	VERB	_	12	nmod	_	_	반영/ncpa+하/xsv+고/ecx
+11	있는가의	있+는가+의	NOUN	_	10	aux	_	_	있/px+는가/ef+의/jcm
+12	문제이다	문제+이+다	VERB	_	0	root	_	_	문제/ncn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 예컨대 보안법이나 안기부법을 개정해야 한다는 주장이 설득력을 갖는 이유는 그러한 제도가 내포하고 있는 반민주성에 있는 것이다 .
+1	예컨대	예컨대	CCONJ	_	15	cc	_	_	예컨대/maj
+2	보안법이나	보안법+이나	CCONJ	_	3	conj	_	_	보안법/ncn+이나/jcj
+3	안기부법을	안기부법+을	NOUN	_	4	obj	_	_	안기부법/ncn+을/jco
+4	개정해야	개정+하+어야	VERB	_	6	acl	_	_	개정/ncpa+하/xsv+어야/ecx
+5	한다는	하+ㄴ다는	AUX	_	4	aux	_	_	하/px+ㄴ다는/etm
+6	주장이	주장+이	NOUN	_	8	nsubj	_	_	주장/ncpa+이/jcs
+7	설득력을	설득력+을	NOUN	_	8	obj	_	_	설득력/ncn+을/jco
+8	갖는	갖+는	VERB	_	9	acl	_	_	갖/pvg+는/etm
+9	이유는	이유+는	NOUN	_	15	dislocated	_	_	이유/ncn+는/jxt
+10	그러한	그러하+ㄴ	VERB	_	11	amod	_	_	그러하/pad+ㄴ/etm
+11	제도가	제도+가	NOUN	_	12	nsubj	_	_	제도/ncn+가/jcs
+12	내포하고	내포+하+고	VERB	_	14	acl	_	_	내포/ncpa+하/xsv+고/ecx
+13	있는	있+는	AUX	_	12	aux	_	_	있/px+는/etm
+14	반민주성에	반민주성+에	ADV	_	15	obl	_	_	반민주성/ncn+에/jca
+15	있는	있+는	ADJ	_	0	root	_	_	있/paa+는/etm
+16	것이다	것+이+다	VERB	_	15	aux	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그러한 의미에서 어떤 제도를 채택하고 있는가라는 법적 , 형식적인 차원의 논의도 중요하지만 , 주어진 제도를 어떻게 운용하고 있는가라는 경험적인 차원의 논의도 중요하다 .
+1	그러한	그러하+ㄴ	VERB	_	2	amod	_	_	그러하/pad+ㄴ/etm
+2	의미에서	의미+에서	ADV	_	12	advcl	_	_	의미/ncpa+에서/jca
+3	어떤	어떤	DET	_	4	det	_	_	어떤/mmd
+4	제도를	제도+를	NOUN	_	5	obj	_	_	제도/ncn+를/jco
+5	채택하고	채택+하+고	VERB	_	11	acl	_	_	채택/ncpa+하/xsv+고/ecx
+6	있는가라는	있+는가+이+라는	AUX	_	5	aux	_	_	있/px+는가/ef+이/jp+라는/etm
+7	법적	법+적	NOUN	_	9	dep	_	_	법/ncn+적/xsn
+8	,	,	PUNCT	_	9	punct	_	_	,/sp
+9	형식적인	형식+적+이+ㄴ	VERB	_	10	acl	_	_	형식/ncn+적/xsn+이/jp+ㄴ/etm
+10	차원의	차원+의	NOUN	_	11	nmod	_	_	차원/ncn+의/jcm
+11	논의도	논의+도	ADV	_	12	advcl	_	_	논의/ncpa+도/jxc
+12	중요하지만	중요+하+지만	CCONJ	_	22	conj	_	_	중요/ncps+하/xsm+지만/ecc
+13	,	,	PUNCT	_	12	punct	_	_	,/sp
+14	주어진	주어지+ㄴ	VERB	_	15	acl	_	_	주어지/pvg+ㄴ/etm
+15	제도를	제도+를	NOUN	_	17	obj	_	_	제도/ncn+를/jco
+16	어떻게	어떻+게	SCONJ	_	17	xcomp	_	_	어떻/pad+게/ecs
+17	운용하고	운용+하+고	VERB	_	19	ccomp	_	_	운용/ncpa+하/xsv+고/ecx
+18	있는가라는	있+는가+이+라는	AUX	_	17	aux	_	_	있/px+는가/ef+이/jp+라는/etm
+19	경험적인	경험+적+이+ㄴ	VERB	_	20	acl	_	_	경험/ncn+적/xsn+이/jp+ㄴ/etm
+20	차원의	차원+의	NOUN	_	21	nmod	_	_	차원/ncn+의/jcm
+21	논의도	논의+도	ADV	_	22	advcl	_	_	논의/ncpa+도/jxc
+22	중요하다	중요+하+다	VERB	_	0	root	_	_	중요/ncps+하/xsm+다/ef
+23	.	.	PUNCT	_	22	punct	_	_	./sf
+
+# 현재 정치권은 소위 문민시대를 맞이하여 물리적인 힘보다는 법이나 제도에 의한 정치를 지향해 나가고 있다 .
+1	현재	현재	NOUN	_	2	compound	_	_	현재/ncn
+2	정치권은	정치권+은	NOUN	_	12	dislocated	_	_	정치권/ncn+은/jxt
+3	소위	소위	ADV	_	5	advmod	_	_	소위/mag
+4	문민시대를	문민+시대+를	NOUN	_	5	obj	_	_	문민/ncn+시대/ncn+를/jco
+5	맞이하여	맞이하+어	SCONJ	_	12	ccomp	_	_	맞이하/pvg+어/ecs
+6	물리적인	물리+적+이+ㄴ	VERB	_	7	acl	_	_	물리/ncn+적/xsn+이/jp+ㄴ/etm
+7	힘보다는	힘+보다+는	NOUN	_	12	dislocated	_	_	힘/ncn+보다/jca+는/jxt
+8	법이나	법+이나	CCONJ	_	9	conj	_	_	법/ncn+이나/jcj
+9	제도에	제도+에	ADV	_	10	obl	_	_	제도/ncn+에/jca
+10	의한	의하+ㄴ	VERB	_	11	acl	_	_	의하/pvg+ㄴ/etm
+11	정치를	정치+를	NOUN	_	12	obj	_	_	정치/ncpa+를/jco
+12	지향해	지향+하+어	VERB	_	0	root	_	_	지향/ncpa+하/xsv+어/ecx
+13	나가고	나가+고	AUX	_	12	aux	_	_	나가/px+고/ecx
+14	있다	있+다	AUX	_	12	aux	_	_	있/px+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그러므로 정치제도 개혁의 문제는 현정치권이 해결해 나가야 할 가장 시급한 과제가 되고 있다 .
+1	그러므로	그러므로	CCONJ	_	12	cc	_	_	그러므로/maj
+2	정치제도	정치+제도	NOUN	_	3	compound	_	_	정치/ncpa+제도/ncn
+3	개혁의	개혁+의	NOUN	_	4	nmod	_	_	개혁/ncpa+의/jcm
+4	문제는	문제+는	NOUN	_	12	dislocated	_	_	문제/ncn+는/jxt
+5	현정치권이	현+정치권+이	PART	_	6	nsubj	_	_	현/xp+정치권/ncn+이/jcs
+6	해결해	해결+하+어	VERB	_	8	ccomp	_	_	해결/ncpa+하/xsv+어/ecx
+7	나가야	나가+야	AUX	_	6	aux	_	_	나가/px+야/ef
+8	할	하+ㄹ	VERB	_	11	acl	_	_	하/pvg+ㄹ/etm
+9	가장	가장	ADV	_	10	advmod	_	_	가장/mag
+10	시급한	시급하+ㄴ	ADJ	_	11	amod	_	_	시급하/paa+ㄴ/etm
+11	과제가	과제+가	NOUN	_	12	csubj	_	_	과제/ncn+가/jcc
+12	되고	되+고	VERB	_	0	root	_	_	되/pvg+고/ecx
+13	있다	있+다	AUX	_	12	aux	_	_	있/px+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이러한 성향에서 한국정치제도의 현황을 면밀히 분석하여 그 문제점을 발굴하고 그 문제점을 해결하기 위한 방안이 무엇인지를 체계적으로 연구하는 것은 매우 중요하다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	성향에서	성향+에서	ADV	_	20	advcl	_	_	성향/ncn+에서/jca
+3	한국정치제도의	한국+정치+제도+의	PROPN	_	4	nmod	_	_	한국/nq+정치/ncpa+제도/ncn+의/jcm
+4	현황을	현황+을	NOUN	_	6	obj	_	_	현황/ncn+을/jco
+5	면밀히	면밀+히	ADV	_	6	advmod	_	_	면밀/ncps+히/xsa
+6	분석하여	분석+하+어	SCONJ	_	9	ccomp	_	_	분석/ncpa+하/xsv+어/ecs
+7	그	그	DET	_	8	det	_	_	그/mmd
+8	문제점을	문제점+을	NOUN	_	9	obj	_	_	문제점/ncn+을/jco
+9	발굴하고	발굴+하+고	CCONJ	_	15	conj	_	_	발굴/ncpa+하/xsv+고/ecc
+10	그	그	DET	_	11	det	_	_	그/mmd
+11	문제점을	문제점+을	NOUN	_	12	obj	_	_	문제점/ncn+을/jco
+12	해결하기	해결+하+기	VERB	_	13	nmod	_	_	해결/ncpa+하/xsv+기/etn
+13	위한	위하+ㄴ	VERB	_	14	acl	_	_	위하/pvg+ㄴ/etm
+14	방안이	방안+이	NOUN	_	15	nsubj	_	_	방안/ncn+이/jcs
+15	무엇인지를	무엇+이+ㄴ지+를	PRON	_	17	obj	_	_	무엇/npd+이/jp+ㄴ지/ef+를/jco
+16	체계적으로	체계+적+으로	ADV	_	17	advcl	_	_	체계/ncn+적/xsn+으로/jca
+17	연구하는	연구+하+는	VERB	_	18	acl	_	_	연구/ncpa+하/xsv+는/etm
+18	것은	것+은	NOUN	_	20	dislocated	_	_	것/nbn+은/jxt
+19	매우	매우	ADV	_	20	advmod	_	_	매우/mag
+20	중요하다	중요+하+다	VERB	_	0	root	_	_	중요/ncps+하/xsm+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 필자는 정치관계법 중 선거법 , 정당법 , 정치자금법을 중심으로 하여 개혁방안을 제시해 보고자 한다 .
+1	필자는	필자+는	NOUN	_	12	dislocated	_	_	필자/ncn+는/jxt
+2	정치관계법	정치+관계법	NOUN	_	3	compound	_	_	정치/ncpa+관계법/ncn
+3	중	중	NOUN	_	8	mark	_	_	중/nbn
+4	선거법	선거법	NOUN	_	6	conj	_	_	선거법/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	정당법	정당법	NOUN	_	8	conj	_	_	정당법/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	정치자금법을	정치+자금법+을	NOUN	_	10	obj	_	_	정치/ncpa+자금법/ncn+을/jco
+9	중심으로	중심+으로	ADV	_	10	advcl	_	_	중심/ncn+으로/jca
+10	하여	하+어	SCONJ	_	12	ccomp	_	_	하/pvg+어/ecs
+11	개혁방안을	개혁+방안+을	NOUN	_	12	obj	_	_	개혁/ncpa+방안/ncn+을/jco
+12	제시해	제시+하+어	VERB	_	0	root	_	_	제시/ncpa+하/xsv+어/ecx
+13	보고자	보+고자	AUX	_	12	aux	_	_	보/px+고자/ecx
+14	한다	하+ㄴ다	AUX	_	12	aux	_	_	하/px+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 선거는 국민의 의사에 따라 정치지도자를 선출하는 제도이다 .
+1	선거는	선거+는	NOUN	_	7	dislocated	_	_	선거/ncpa+는/jxt
+2	국민의	국민+의	NOUN	_	3	nmod	_	_	국민/ncn+의/jcm
+3	의사에	의사+에	ADV	_	4	obl	_	_	의사/ncn+에/jca
+4	따라	따르+아	SCONJ	_	6	ccomp	_	_	따르/pvg+아/ecs
+5	정치지도자를	정치+지도자+를	NOUN	_	6	obj	_	_	정치/ncpa+지도자/ncn+를/jco
+6	선출하는	선출+하+는	VERB	_	7	ccomp	_	_	선출/ncpa+하/xsv+는/etm
+7	제도이다	제도+이+다	VERB	_	0	root	_	_	제도/ncn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 주요공직자들을 선출하는 선거는 민주주의의 꽃이라고 할 정도로 민주정치과정의 중심이다 .
+1	주요공직자들을	주요+공직자+들+을	NOUN	_	2	obj	_	_	주요/ncpa+공직자/ncn+들/xsn+을/jco
+2	선출하는	선출+하+는	VERB	_	3	acl	_	_	선출/ncpa+하/xsv+는/etm
+3	선거는	선거+는	NOUN	_	9	dislocated	_	_	선거/ncpa+는/jxt
+4	민주주의의	민주주의+의	NOUN	_	5	nmod	_	_	민주주의/ncn+의/jcm
+5	꽃이라고	꽃+이+라+고	VERB	_	6	conj	_	_	꽃/ncn+이/jp+라/ef+고/jcr
+6	할	하+ㄹ	VERB	_	7	acl	_	_	하/pvg+ㄹ/etm
+7	정도로	정도+로	ADV	_	9	advcl	_	_	정도/ncn+로/jca
+8	민주정치과정의	민주+정치+의	NOUN	_	9	nmod	_	_	민주/ncn+정치/ncpa+의/jcm
+9	중심이다	중심+이+다	VERB	_	0	root	_	_	중심/ncn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 선거시에는 정치적인 이념이나 정책들이 상호경쟁하는 정치엘리뜨들에 의해서 국민에게 제시된다 .
+1	선거시에는	선거시+에+는	NOUN	_	9	dislocated	_	_	선거시/ncn+에/jca+는/jxt
+2	정치적인	정치+적+이+ㄴ	VERB	_	3	acl	_	_	정치/ncpa+적/xsn+이/jp+ㄴ/etm
+3	이념이나	이념+이나	CCONJ	_	4	conj	_	_	이념/ncn+이나/jcj
+4	정책들이	정책+들+이	NOUN	_	9	nsubj	_	_	정책/ncn+들/xsn+이/jcs
+5	상호경쟁하는	상호경쟁+하+는	VERB	_	6	acl	_	_	상호경쟁/ncpa+하/xsv+는/etm
+6	정치엘리뜨들에	정치+엘리뜨+들+에	ADV	_	7	obl	_	_	정치/ncpa+엘리뜨/ncn+들/xsn+에/jca
+7	의해서	의하+어서	SCONJ	_	9	ccomp	_	_	의하/pvg+어서/ecs
+8	국민에게	국민+에게	ADV	_	9	iobj	_	_	국민/ncn+에게/jca
+9	제시된다	제시+되+ㄴ다	VERB	_	0	root	_	_	제시/ncpa+되/xsv+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러므로 선거는 사회 내의 환부를 발견하고 치유하기 위해 민주사회에서 꼭 필요한 제도로서 인식한다 .
+1	그러므로	그러므로	CCONJ	_	13	cc	_	_	그러므로/maj
+2	선거는	선거+는	NOUN	_	13	dislocated	_	_	선거/ncpa+는/jxt
+3	사회	사회	NOUN	_	4	compound	_	_	사회/ncn
+4	내의	내+의	NOUN	_	5	nmod	_	_	내/ncn+의/jcm
+5	환부를	환부+를	NOUN	_	6	obj	_	_	환부/ncn+를/jco
+6	발견하고	발견+하+고	CCONJ	_	7	conj	_	_	발견/ncpa+하/xsv+고/ecc
+7	치유하기	치유+하+기	VERB	_	8	nmod	_	_	치유/ncpa+하/xsv+기/etn
+8	위해	위하+어	SCONJ	_	13	ccomp	_	_	위하/pvg+어/ecs
+9	민주사회에서	민주+사회+에서	ADV	_	11	advcl	_	_	민주/ncn+사회/ncn+에서/jca
+10	꼭	꼭	ADV	_	11	advmod	_	_	꼭/mag
+11	필요한	필요+하+ㄴ	VERB	_	12	acl	_	_	필요/ncpa+하/xsv+ㄴ/etm
+12	제도로서	제도+로서	ADV	_	13	advcl	_	_	제도/ncn+로서/jca
+13	인식한다	인식+하+ㄴ다	VERB	_	0	root	_	_	인식/ncpa+하/xsv+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 선거과정은 공정해야 해야 한다 .
+1	선거과정은	선거+과정+은	NOUN	_	2	dislocated	_	_	선거/ncn+과정/ncn+은/jxt
+2	공정해야	공정+하+어야	VERB	_	0	root	_	_	공정/ncpa+하/xsv+어야/ecx
+3	해야	하+어야	AUX	_	2	aux	_	_	하/px+어야/ecx
+4	한다	하+ㄴ다	AUX	_	2	aux	_	_	하/px+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 이제 선거과정의 공정성을 훼손하는 현행 선거제도상의 문제점을 구체적으로 발견하여 나름대로의 대안을 마련해 보고자 한다 .
+1	이제	이제	ADV	_	12	advmod	_	_	이제/mag
+2	선거과정의	선거+과정+의	NOUN	_	3	nmod	_	_	선거/ncpa+과정/ncn+의/jcm
+3	공정성을	공정성+을	NOUN	_	4	obj	_	_	공정성/ncn+을/jco
+4	훼손하는	훼손+하+는	VERB	_	5	acl	_	_	훼손/ncpa+하/xsv+는/etm
+5	현행	현행	NOUN	_	6	compound	_	_	현행/ncn
+6	선거제도상의	선거+제도상+의	NOUN	_	7	nmod	_	_	선거/ncpa+제도상/ncn+의/jcm
+7	문제점을	문제점+을	NOUN	_	9	obj	_	_	문제점/ncn+을/jco
+8	구체적으로	구체+적+으로	ADV	_	9	advcl	_	_	구체/ncn+적/xsn+으로/jca
+9	발견하여	발견+하+어	SCONJ	_	12	ccomp	_	_	발견/ncpa+하/xsv+어/ecs
+10	나름대로의	나름+대로+의	NOUN	_	11	nmod	_	_	나름/ncn+대로/jxc+의/jcm
+11	대안을	대안+을	NOUN	_	12	obj	_	_	대안/ncn+을/jco
+12	마련해	마련+하+어	VERB	_	0	root	_	_	마련/ncpa+하/xsv+어/ecx
+13	보고자	보+고자	AUX	_	12	aux	_	_	보/px+고자/ecx
+14	한다	하+ㄴ다	AUX	_	12	aux	_	_	하/px+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 선거과정의 불공정성 중에 가장 대표적으로 지적되어야 할 것은 현행소선거구제와 전국구제도의 병용이다 .
+1	선거과정의	선거+과정+의	NOUN	_	2	nmod	_	_	선거/ncn+과정/ncn+의/jcm
+2	불공정성	불공정성	NOUN	_	3	compound	_	_	불공정성/ncn
+3	중에	중+에	ADV	_	6	obl	_	_	중/nbn+에/jca
+4	가장	가장	ADV	_	5	advmod	_	_	가장/mag
+5	대표적으로	대표+적+으로	ADV	_	6	advcl	_	_	대표/ncpa+적/xsn+으로/jca
+6	지적되어야	지적+되+어야	VERB	_	8	acl	_	_	지적/ncpa+되/xsv+어야/ecx
+7	할	하+ㄹ	AUX	_	6	aux	_	_	하/px+ㄹ/etm
+8	것은	것+은	NOUN	_	11	dislocated	_	_	것/nbn+은/jxt
+9	현행소선거구제와	현행+소선거구제+와	CCONJ	_	10	conj	_	_	현행/ncn+소선거구제/ncn+와/jcj
+10	전국구제도의	전국구+제도+의	NOUN	_	11	nmod	_	_	전국구/ncn+제도/ncn+의/jcm
+11	병용이다	병용+이+다	VERB	_	0	root	_	_	병용/ncpa+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 각 정당이 얻는 득표율과 의석점유율 간에 편차가 너무 크다는 것이다 .
+1	각	각	ADJ	_	2	amod	_	_	각/mma
+2	정당이	정당+이	NOUN	_	3	nsubj	_	_	정당/ncn+이/jcs
+3	얻는	얻+는	VERB	_	6	acl	_	_	얻/pvg+는/etm
+4	득표율과	득표율+과	CCONJ	_	5	conj	_	_	득표율/ncn+과/jcj
+5	의석점유율	의석+점유율	NOUN	_	6	compound	_	_	의석/ncn+점유율/ncn
+6	간에	간+에	ADV	_	9	obl	_	_	간/nbn+에/jca
+7	편차가	편차+가	NOUN	_	9	nsubj	_	_	편차/ncn+가/jcs
+8	너무	너무	ADV	_	9	advmod	_	_	너무/mag
+9	크다는	크+ㄴ	ADJ	_	10	amod	_	_	크/paa+ㄴ/etm
+10	것이다	것+이+다	VERB	_	0	root	_	_	것/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그러한 편차를 선거의 불비례현상이라 칭한다 .
+1	그러한	그러하+ㄴ	VERB	_	2	amod	_	_	그러하/pad+ㄴ/etm
+2	편차를	편차+를	NOUN	_	4	obj	_	_	편차/ncn+를/jco
+3	선거의	선거+의	NOUN	_	4	nmod	_	_	선거/ncpa+의/jcm
+4	불비례현상이라	불비례현상+이+라	VERB	_	5	ccomp	_	_	불비례현상/ncn+이/jp+라/ef
+5	칭한다	칭하+ㄴ다	VERB	_	0	root	_	_	칭하/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 본래 소선거구제하에서는 사표가 많이 발생한다 .
+1	본래	본래	NOUN	_	5	advmod	_	_	본래/ncn
+2	소선거구제하에서는	소선거구제+하+에서+는	NOUN	_	5	dislocated	_	_	소선거구제/ncn+하/ncn+에서/jca+는/jxt
+3	사표가	사표+가	NOUN	_	5	nsubj	_	_	사표/ncn+가/jcs
+4	많이	많이	ADV	_	5	advmod	_	_	많이/mag
+5	발생한다	발생+하+ㄴ다	VERB	_	0	root	_	_	발생/ncpa+하/xsv+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 사표는 대체로 소수정당에게 많이 발생하기 때문에 소선거구제도는 소수정당에게 상대적으로 불리하다 .
+1	사표는	사표+는	NOUN	_	5	dislocated	_	_	사표/ncn+는/jxt
+2	대체로	대체로	ADV	_	3	advmod	_	_	대체로/mag
+3	소수정당에게	소수+정당+에게	ADV	_	5	iobj	_	_	소수/ncn+정당/ncn+에게/jca
+4	많이	많이	ADV	_	5	advmod	_	_	많이/mag
+5	발생하기	발생+하+기	VERB	_	6	nmod	_	_	발생/ncpa+하/xsv+기/etn
+6	때문에	때문+에	ADV	_	10	obl	_	_	때문/nbn+에/jca
+7	소선거구제도는	소선거구+제도+는	NOUN	_	10	dislocated	_	_	소선거구/ncn+제도/ncn+는/jxt
+8	소수정당에게	소수+정당+에게	ADV	_	10	iobj	_	_	소수/ncn+정당/ncn+에게/jca
+9	상대적으로	상대+적+으로	ADV	_	10	advcl	_	_	상대/ncpa+적/xsn+으로/jca
+10	불리하다	불리하+다	ADJ	_	0	root	_	_	불리하/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그러나 그러한 불비례현상은 전국구제도에 의해서 다시 한번 증폭된다 .
+1	그러나	그러나	CCONJ	_	8	cc	_	_	그러나/maj
+2	그러한	그러하+ㄴ	VERB	_	3	amod	_	_	그러하/pad+ㄴ/etm
+3	불비례현상은	불비례현상+은	NOUN	_	8	dislocated	_	_	불비례현상/ncn+은/jxt
+4	전국구제도에	전국구+제도+에	ADV	_	5	obl	_	_	전국구/ncn+제도/ncn+에/jca
+5	의해서	의하+어서	SCONJ	_	8	ccomp	_	_	의하/pvg+어서/ecs
+6	다시	다시	ADV	_	7	advmod	_	_	다시/mag
+7	한번	한번	NOUN	_	8	compound	_	_	한번/ncn
+8	증폭된다	증폭+되+ㄴ다	VERB	_	0	root	_	_	증폭/ncpa+되/xsv+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 왜냐하면 전국구의석을 각 정당의 특표율에 의해서 배분하는 것이 아니라 , 의석수에 비례하여 배분하기 때문이다 .
+1	왜냐하면	왜냐하면	CCONJ	_	13	cc	_	_	왜냐하면/maj
+2	전국구의석을	전국구+의석+을	NOUN	_	7	obj	_	_	전국구/ncn+의석/ncn+을/jco
+3	각	각	ADJ	_	4	amod	_	_	각/mma
+4	정당의	정당+의	NOUN	_	5	nmod	_	_	정당/ncn+의/jcm
+5	특표율에	특표율+에	ADV	_	6	obl	_	_	특표율/ncn+에/jca
+6	의해서	의하+어서	SCONJ	_	7	ccomp	_	_	의하/pvg+어서/ecs
+7	배분하는	배분+하+는	VERB	_	8	acl	_	_	배분/ncpa+하/xsv+는/etm
+8	것이	것+이	NOUN	_	9	csubj	_	_	것/nbn+이/jcc
+9	아니라	아니+라	SCONJ	_	13	xcomp	_	_	아니/paa+라/ecs
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	의석수에	의석수+에	ADV	_	12	obl	_	_	의석수/ncn+에/jca
+12	비례하여	비례+하+어	SCONJ	_	13	ccomp	_	_	비례/ncpa+하/xsv+어/ecs
+13	배분하기	배분+하+기	VERB	_	0	root	_	_	배분/ncpa+하/xsv+기/etn
+14	때문이다	때문+이+다	VERB	_	13	aux	_	_	때문/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이와 같은 유권자의 정치적 의사를 이중적으로 왜곡시키는 현행 제도는 반드시 개선되어야 한다 .
+1	이와	이+와	CCONJ	_	2	conj	_	_	이/npd+와/jct
+2	같은	같+ㄴ	ADJ	_	5	amod	_	_	같/paa+ㄴ/etm
+3	유권자의	유권자+의	NOUN	_	4	nmod	_	_	유권자/ncn+의/jcm
+4	정치적	정치+적	NOUN	_	5	amod	_	_	정치/ncpa+적/xsn
+5	의사를	의사+를	NOUN	_	7	obj	_	_	의사/ncn+를/jco
+6	이중적으로	이중+적+으로	ADV	_	7	advcl	_	_	이중/ncn+적/xsn+으로/jca
+7	왜곡시키는	왜곡+시키+는	VERB	_	8	acl	_	_	왜곡/ncpa+시키/xsv+는/etm
+8	현행	현행	NOUN	_	9	compound	_	_	현행/ncn
+9	제도는	제도+는	NOUN	_	11	dislocated	_	_	제도/ncn+는/jxt
+10	반드시	반드시	ADV	_	11	advmod	_	_	반드시/mag
+11	개선되어야	개선+되+어야	VERB	_	0	root	_	_	개선/ncpa+되/xsv+어야/ecx
+12	한다	하+ㄴ다	AUX	_	11	aux	_	_	하/px+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그러한 관점에서 보면 현행 전국구제도는 폐지됨이 마땅하다 .
+1	그러한	그러하+ㄴ	VERB	_	2	amod	_	_	그러하/pad+ㄴ/etm
+2	관점에서	관점+에서	ADV	_	3	advcl	_	_	관점/ncn+에서/jca
+3	보면	보+면	SCONJ	_	7	conj	_	_	보/pvg+면/ecs
+4	현행	현행	NOUN	_	5	compound	_	_	현행/ncn
+5	전국구제도는	전국구+제도+는	NOUN	_	6	dislocated	_	_	전국구/ncn+제도/ncn+는/jxt
+6	폐지됨이	폐지+되+ㅁ+이	NOUN	_	7	nsubj	_	_	폐지/ncpa+되/xsv+ㅁ/etn+이/jcs
+7	마땅하다	마땅하+다	ADJ	_	0	root	_	_	마땅하/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 따라서 전국구제도는 그대로 유지하되 각 정당이 제시하는 전국구후보자 명부에 대해서도 유권자들의 선택권을 인정하는 방향으로 개선하는 것이 바람직하다 .
+1	따라서	따라서	CCONJ	_	17	cc	_	_	따라서/maj
+2	전국구제도는	전국구+제도+는	NOUN	_	4	dislocated	_	_	전국구/ncn+제도/ncn+는/jxt
+3	그대로	그대로	ADV	_	4	advmod	_	_	그대로/mag
+4	유지하되	유지+하+되	SCONJ	_	15	ccomp	_	_	유지/ncpa+하/xsv+되/ecs
+5	각	각	ADJ	_	6	amod	_	_	각/mma
+6	정당이	정당+이	NOUN	_	7	nsubj	_	_	정당/ncn+이/jcs
+7	제시하는	제시+하+는	VERB	_	8	acl	_	_	제시/ncpa+하/xsv+는/etm
+8	전국구후보자	전국구+후보자	NOUN	_	9	compound	_	_	전국구/ncn+후보자/ncn
+9	명부에	명부+에	ADV	_	10	obl	_	_	명부/ncn+에/jca
+10	대해서도	대하+어서+도	ADV	_	13	ccomp	_	_	대하/pvg+어서/ecs+도/jxc
+11	유권자들의	유권자+들+의	NOUN	_	12	nmod	_	_	유권자/ncn+들/xsn+의/jcm
+12	선택권을	선택권+을	NOUN	_	13	obj	_	_	선택권/ncn+을/jco
+13	인정하는	인정+하+는	VERB	_	14	acl	_	_	인정/ncpa+하/xsv+는/etm
+14	방향으로	방향+으로	ADV	_	15	advcl	_	_	방향/ncn+으로/jca
+15	개선하는	개선+하+는	VERB	_	16	acl	_	_	개선/ncpa+하/xsv+는/etm
+16	것이	것+이	NOUN	_	17	nsubj	_	_	것/nbn+이/jcs
+17	바람직하다	바람직하+다	ADJ	_	0	root	_	_	바람직하/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 즉 독일식 1 인 2 표 제도의 채택이 요망된다 .
+1	즉	즉	CCONJ	_	9	cc	_	_	즉/maj
+2	독일식	독일식	NOUN	_	7	compound	_	_	독일식/ncn
+3	1	1	NUM	_	4	nummod	_	_	1/nnc
+4	인	인	NOUN	_	6	compound	_	_	인/nbu
+5	2	2	NUM	_	6	nummod	_	_	2/nnc
+6	표	표	NOUN	_	7	compound	_	_	표/ncn
+7	제도의	제도+의	NOUN	_	8	nmod	_	_	제도/ncn+의/jcm
+8	채택이	채택+이	NOUN	_	9	nsubj	_	_	채택/ncpa+이/jcs
+9	요망된다	요망+되+ㄴ다	VERB	_	0	root	_	_	요망/ncpa+되/xsv+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 민주선거의 가장 중요한 원칙은 1 인 1 표 , 1 표등가의 원칙이다 .
+1	민주선거의	민주+선거+의	NOUN	_	4	nmod	_	_	민주/ncn+선거/ncpa+의/jcm
+2	가장	가장	ADV	_	3	advmod	_	_	가장/mag
+3	중요한	중요+하+ㄴ	VERB	_	4	amod	_	_	중요/ncps+하/xsm+ㄴ/etm
+4	원칙은	원칙+은	NOUN	_	12	dislocated	_	_	원칙/ncn+은/jxt
+5	1	1	NUM	_	6	nummod	_	_	1/nnc
+6	인	인	NOUN	_	8	compound	_	_	인/nbu
+7	1	1	NUM	_	8	nummod	_	_	1/nnc
+8	표	표	NOUN	_	11	compound	_	_	표/ncn
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	1	1	NUM	_	11	nummod	_	_	1/nnc
+11	표등가의	표+등가+의	NOUN	_	12	nmod	_	_	표/ncn+등가/ncn+의/jcm
+12	원칙이다	원칙+이+다	VERB	_	0	root	_	_	원칙/ncn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그러나 현행 선거법하에서는 도시 선거구의 유권자수는 농촌지역 선거구의 유권자수보다 월등히 많다 .
+1	그러나	그러나	CCONJ	_	11	cc	_	_	그러나/maj
+2	현행	현행	NOUN	_	3	compound	_	_	현행/ncn
+3	선거법하에서는	선거법+하+에서+는	NOUN	_	11	dislocated	_	_	선거법/ncn+하/ncn+에서/jca+는/jxt
+4	도시	도시	NOUN	_	5	compound	_	_	도시/ncn
+5	선거구의	선거구+의	NOUN	_	6	nmod	_	_	선거구/ncn+의/jcm
+6	유권자수는	유권자수+는	NOUN	_	11	dislocated	_	_	유권자수/ncn+는/jxt
+7	농촌지역	농촌+지역	NOUN	_	8	compound	_	_	농촌/ncn+지역/ncn
+8	선거구의	선거구+의	NOUN	_	9	nmod	_	_	선거구/ncn+의/jcm
+9	유권자수보다	유권자수+보다	ADV	_	11	advcl	_	_	유권자수/ncn+보다/jca
+10	월등히	월등+히	ADV	_	11	advmod	_	_	월등/ncps+히/xsa
+11	많다	많+다	ADJ	_	0	root	_	_	많/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 약 6 배의 편차가 나고 있다 .
+1	약	약	ADJ	_	3	amod	_	_	약/mma
+2	6	6	NUM	_	3	nummod	_	_	6/nnc
+3	배의	배+의	NOUN	_	4	nmod	_	_	배/ncn+의/jcm
+4	편차가	편차+가	NOUN	_	5	nsubj	_	_	편차/ncn+가/jcs
+5	나고	나+고	VERB	_	0	root	_	_	나/pvg+고/ecx
+6	있다	있+다	AUX	_	5	aux	_	_	있/px+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 우리나라의 경우 유신 시절에 선거구 내의 기준인구수 명시조항을 삭제함에 따라 선거구간의 유권자수의 편차는 심화되어왔다 .
+1	우리나라의	우리+나라+의	PRON	_	2	nmod	_	_	우리/npp+나라/ncn+의/jcm
+2	경우	경우	NOUN	_	14	advmod	_	_	경우/ncn
+3	유신	유신	NOUN	_	4	compound	_	_	유신/ncn
+4	시절에	시절+에	ADV	_	9	obl	_	_	시절/ncn+에/jca
+5	선거구	선거구	NOUN	_	6	compound	_	_	선거구/ncn
+6	내의	내+의	NOUN	_	7	nmod	_	_	내/ncn+의/jcm
+7	기준인구수	기준+인구수	NOUN	_	8	compound	_	_	기준/ncn+인구수/ncn
+8	명시조항을	명시+조항+을	NOUN	_	9	obj	_	_	명시/ncpa+조항/ncn+을/jco
+9	삭제함에	삭제+하+ㅁ+에	ADV	_	10	obl	_	_	삭제/ncpa+하/xsv+ㅁ/etn+에/jca
+10	따라	따르+아	SCONJ	_	14	ccomp	_	_	따르/pvg+아/ecs
+11	선거구간의	선거구+간+의	NOUN	_	12	nmod	_	_	선거구/ncn+간/xsn+의/jcm
+12	유권자수의	유권자수+의	NOUN	_	13	nmod	_	_	유권자수/ncn+의/jcm
+13	편차는	편차+는	NOUN	_	14	dislocated	_	_	편차/ncn+는/jxt
+14	심화되어왔다	심화+되+어+오+았+다	AUX	_	0	root	_	_	심화/ncpa+되/xsv+어/ecx+오/px+았/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 또한 급속한 산업화로 인한 농촌인구의 도시유입현상은 점차 농촌인구를 상대적으로 감소시켜왔다 .
+1	또한	또한	CCONJ	_	10	cc	_	_	또한/maj
+2	급속한	급속하+ㄴ	ADJ	_	3	amod	_	_	급속하/paa+ㄴ/etm
+3	산업화로	산업화+로	ADV	_	4	advcl	_	_	산업화/ncn+로/jca
+4	인한	인하+ㄴ	VERB	_	5	acl	_	_	인하/pvg+ㄴ/etm
+5	농촌인구의	농촌+인구+의	NOUN	_	6	nmod	_	_	농촌/ncn+인구/ncn+의/jcm
+6	도시유입현상은	도시+유입+현상+은	NOUN	_	10	dislocated	_	_	도시/ncn+유입/ncpa+현상/ncn+은/jxt
+7	점차	점차	ADV	_	10	advmod	_	_	점차/mag
+8	농촌인구를	농촌+인구+를	NOUN	_	10	obj	_	_	농촌/ncn+인구/ncn+를/jco
+9	상대적으로	상대+적+으로	ADV	_	10	advcl	_	_	상대/ncpa+적/xsn+으로/jca
+10	감소시켜왔다	감소+시키+어+오+았+다	AUX	_	0	root	_	_	감소/ncpa+시키/xsv+어/ecx+오/px+았/ep+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 이러한 선거구간에 존재하는 유권자수의 심한 편차는 여촌야도현상이 지배적인 한국의 정치적 상황하에서는 집권여당에게 일방적으로 유리한 결과를 가져왔다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	선거구간에	선거+구간+에	ADV	_	3	obl	_	_	선거/ncpa+구간/ncn+에/jca
+3	존재하는	존재+하+는	VERB	_	6	acl	_	_	존재/ncpa+하/xsv+는/etm
+4	유권자수의	유권자수+의	NOUN	_	6	nmod	_	_	유권자수/ncn+의/jcm
+5	심한	심하+ㄴ	ADJ	_	6	amod	_	_	심하/paa+ㄴ/etm
+6	편차는	편차+는	NOUN	_	16	dislocated	_	_	편차/ncn+는/jxt
+7	여촌야도현상이	여촌야도+현상+이	NOUN	_	8	nsubj	_	_	여촌야도/ncn+현상/ncn+이/jcs
+8	지배적인	지배+적+이+ㄴ	VERB	_	9	acl	_	_	지배/ncpa+적/xsn+이/jp+ㄴ/etm
+9	한국의	한국+의	PROPN	_	10	nmod	_	_	한국/nq+의/jcm
+10	정치적	정치+적	NOUN	_	11	amod	_	_	정치/ncpa+적/xsn
+11	상황하에서는	상황하+에서+는	NOUN	_	16	dislocated	_	_	상황하/ncn+에서/jca+는/jxt
+12	집권여당에게	집권+여당+에게	ADV	_	14	iobj	_	_	집권/ncpa+여당/ncn+에게/jca
+13	일방적으로	일방+적+으로	ADV	_	14	advcl	_	_	일방/ncn+적/xsn+으로/jca
+14	유리한	유리+하+ㄴ	VERB	_	15	acl	_	_	유리/ncpa+하/xsv+ㄴ/etm
+15	결과를	결과+를	NOUN	_	16	obj	_	_	결과/ncpa+를/jco
+16	가져왔다	가지+어+오+았+다	AUX	_	0	root	_	_	가지/pvg+어/ecx+오/px+았/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 이러한 집권여당에게 일방적으로 유리하게 작용하는 1 표 등가원칙의 위배는 시정되어야 한다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	집권여당에게	집권+여당+에게	ADV	_	5	iobj	_	_	집권/ncpa+여당/ncn+에게/jca
+3	일방적으로	일방+적+으로	ADV	_	4	advcl	_	_	일방/ncn+적/xsn+으로/jca
+4	유리하게	유리+하+게	SCONJ	_	5	ccomp	_	_	유리/ncpa+하/xsv+게/ecs
+5	작용하는	작용+하+는	VERB	_	9	acl	_	_	작용/ncpa+하/xsv+는/etm
+6	1	1	NUM	_	7	nummod	_	_	1/nnc
+7	표	표	NOUN	_	8	compound	_	_	표/nbu
+8	등가원칙의	등가+원칙+의	NOUN	_	9	nmod	_	_	등가/ncn+원칙/ncn+의/jcm
+9	위배는	위배+는	NOUN	_	10	dislocated	_	_	위배/ncpa+는/jxt
+10	시정되어야	시정+되+어야	VERB	_	0	root	_	_	시정/ncpa+되/xsv+어야/ecx
+11	한다	하+ㄴ다	AUX	_	10	aux	_	_	하/px+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 영국과 독일의 경우에는 정치적으로 중립적인 선거구확정위원회가 기능하여 1 표등가의 원칙을 지키려 노력하고 있다 .
+1	영국과	영국+과	CCONJ	_	2	conj	_	_	영국/nq+과/jcj
+2	독일의	독일+의	PROPN	_	3	nmod	_	_	독일/nq+의/jcm
+3	경우에는	경우+에+는	NOUN	_	12	dislocated	_	_	경우/ncn+에/jca+는/jxt
+4	정치적으로	정치+적+으로	ADV	_	5	advcl	_	_	정치/ncpa+적/xsn+으로/jca
+5	중립적인	중립+적+이+ㄴ	VERB	_	6	acl	_	_	중립/ncpa+적/xsn+이/jp+ㄴ/etm
+6	선거구확정위원회가	선거구+확정+위원회+가	NOUN	_	7	nsubj	_	_	선거구/ncn+확정/ncpa+위원회/ncn+가/jcs
+7	기능하여	기능+하+어	SCONJ	_	12	ccomp	_	_	기능/ncpa+하/xsv+어/ecs
+8	1	1	NUM	_	9	nummod	_	_	1/nnc
+9	표등가의	표+등가+의	NOUN	_	10	nmod	_	_	표/ncn+등가/ncn+의/jcm
+10	원칙을	원칙+을	NOUN	_	11	obj	_	_	원칙/ncn+을/jco
+11	지키려	지키+려	SCONJ	_	12	ccomp	_	_	지키/pvg+려/ecs
+12	노력하고	노력+하+고	VERB	_	0	root	_	_	노력/ncpa+하/xsv+고/ecx
+13	있다	있+다	AUX	_	12	aux	_	_	있/px+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 헌법기관임과 동시에 정치적으로 중립된 선거관리위원회가 선거구 확정을 위한 제반 업무를 관장할 수도 있을 것이다 .
+1	헌법기관임과	헌법기관+이+ㅁ+과	CCONJ	_	11	conj	_	_	헌법기관/ncn+이/jp+ㅁ/etn+과/jct
+2	동시에	동시+에	ADV	_	11	obl	_	_	동시/ncn+에/jca
+3	정치적으로	정치+적+으로	ADV	_	4	advcl	_	_	정치/ncpa+적/xsn+으로/jca
+4	중립된	중립+되+ㄴ	VERB	_	5	acl	_	_	중립/ncpa+되/xsv+ㄴ/etm
+5	선거관리위원회가	선거+관리+위원회+가	NOUN	_	11	nsubj	_	_	선거/ncpa+관리/ncpa+위원회/ncn+가/jcs
+6	선거구	선거구	NOUN	_	7	compound	_	_	선거구/ncn
+7	확정을	확정+을	NOUN	_	8	obj	_	_	확정/ncpa+을/jco
+8	위한	위하+ㄴ	VERB	_	9	acl	_	_	위하/pvg+ㄴ/etm
+9	제반	제반	NOUN	_	10	compound	_	_	제반/ncn
+10	업무를	업무+를	NOUN	_	11	obj	_	_	업무/ncn+를/jco
+11	관장할	관장+하+ㄹ	VERB	_	0	root	_	_	관장/ncpa+하/xsv+ㄹ/etm
+12	수도	수+도	ADV	_	13	fixed	_	_	수/nbn+도/jxc
+13	있을	있+ㄹ	ADJ	_	11	aux	_	_	있/paa+ㄹ/etm
+14	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 한국선거의 가장 큰 문제는 금권선거이다 .
+1	한국선거의	한국+선거+의	PROPN	_	4	nmod	_	_	한국/nq+선거/ncn+의/jcm
+2	가장	가장	ADV	_	3	advmod	_	_	가장/mag
+3	큰	크+ㄴ	ADJ	_	4	amod	_	_	크/paa+ㄴ/etm
+4	문제는	문제+는	NOUN	_	5	dislocated	_	_	문제/ncn+는/jxt
+5	금권선거이다	금권+선거+이+다	VERB	_	0	root	_	_	금권/ncn+선거/ncpa+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 과거의 선거가 관권개입에 의해 그 공정성이 훼손되었다면 오늘의 선거는 금권에 의해 그 공정성이 무너지고 있다 .
+1	과거의	과거+의	NOUN	_	2	nmod	_	_	과거/ncn+의/jcm
+2	선거가	선거+가	NOUN	_	7	nsubj	_	_	선거/ncpa+가/jcs
+3	관권개입에	관권+개입+에	ADV	_	4	obl	_	_	관권/ncn+개입/ncpa+에/jca
+4	의해	의하+어	SCONJ	_	7	ccomp	_	_	의하/pvg+어/ecs
+5	그	그	DET	_	6	det	_	_	그/mmd
+6	공정성이	공정성+이	NOUN	_	7	nsubj	_	_	공정성/ncn+이/jcs
+7	훼손되었다면	훼손+되+었+다면	SCONJ	_	14	ccomp	_	_	훼손/ncpa+되/xsv+었/ep+다면/ecs
+8	오늘의	오늘+의	NOUN	_	9	nmod	_	_	오늘/ncn+의/jcm
+9	선거는	선거+는	NOUN	_	14	dislocated	_	_	선거/ncpa+는/jxt
+10	금권에	금권+에	ADV	_	11	obl	_	_	금권/ncn+에/jca
+11	의해	의하+어	SCONJ	_	14	ccomp	_	_	의하/pvg+어/ecs
+12	그	그	DET	_	13	det	_	_	그/mmd
+13	공정성이	공정성+이	NOUN	_	14	nsubj	_	_	공정성/ncn+이/jcs
+14	무너지고	무너지+고	VERB	_	0	root	_	_	무너지/pvg+고/ecx
+15	있다	있+다	AUX	_	14	aux	_	_	있/px+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 왜 금권선거가 한국선거의 특징이 되겠는가 ?
+1	왜	왜	ADV	_	5	advmod	_	_	왜/mag
+2	금권선거가	금권+선거+가	NOUN	_	5	nsubj	_	_	금권/ncn+선거/ncpa+가/jcs
+3	한국선거의	한국+선거+의	PROPN	_	4	nmod	_	_	한국/nq+선거/ncn+의/jcm
+4	특징이	특징+이	NOUN	_	5	nsubj	_	_	특징/ncn+이/jcs
+5	되겠는가	되+겠+는가	VERB	_	0	root	_	_	되/pvg+겠/ep+는가/ef
+6	?	?	PUNCT	_	5	punct	_	_	?/sf
+
+# 그 뿌리는 매우 깊다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	뿌리는	뿌리+는	NOUN	_	4	dislocated	_	_	뿌리/ncn+는/jxt
+3	매우	매우	ADV	_	4	advmod	_	_	매우/mag
+4	깊다	깊+다	ADJ	_	0	root	_	_	깊/paa+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 과거 정통성이 취약했던 군사정부는 정책이나 이념의 대결은 집권세력에게 일방적으로 불리할 것이라고 판단했기 때문에 , 금권에 의존하여 선거를 치를 수밖에 없었다 .
+1	과거	과거	NOUN	_	2	compound	_	_	과거/ncn
+2	정통성이	정통성+이	NOUN	_	3	nsubj	_	_	정통성/ncn+이/jcs
+3	취약했던	취약+하+었+던	VERB	_	4	acl	_	_	취약/ncpa+하/xsv+었/ep+던/etm
+4	군사정부는	군사+정부+는	NOUN	_	18	dislocated	_	_	군사/ncn+정부/ncn+는/jxt
+5	정책이나	정책+이나	CCONJ	_	6	conj	_	_	정책/ncn+이나/jcj
+6	이념의	이념+의	NOUN	_	7	nmod	_	_	이념/ncn+의/jcm
+7	대결은	대결+은	NOUN	_	10	dislocated	_	_	대결/ncpa+은/jxt
+8	집권세력에게	집권+세력+에게	ADV	_	10	iobj	_	_	집권/ncpa+세력/ncn+에게/jca
+9	일방적으로	일방+적+으로	ADV	_	10	advcl	_	_	일방/ncn+적/xsn+으로/jca
+10	불리할	불리하+ㄹ	ADJ	_	12	amod	_	_	불리하/paa+ㄹ/etm
+11	것이라고	것+이+라고	SCONJ	_	10	aux	_	_	것/nbn+이/jp+라고/ecs
+12	판단했기	판단+하+었+기	VERB	_	13	nmod	_	_	판단/ncpa+하/xsv+었/ep+기/etn
+13	때문에	때문+에	ADV	_	18	advmod	_	_	때문/nbn+에/jca
+14	,	,	PUNCT	_	13	punct	_	_	,/sp
+15	금권에	금권+에	ADV	_	16	obl	_	_	금권/ncn+에/jca
+16	의존하여	의존+하+어	SCONJ	_	18	ccomp	_	_	의존/ncpa+하/xsv+어/ecs
+17	선거를	선거+를	NOUN	_	18	obj	_	_	선거/ncpa+를/jco
+18	치를	치르+ㄹ	VERB	_	0	root	_	_	치르/pvg+ㄹ/etm
+19	수밖에	수+밖에	ADV	_	20	fixed	_	_	수/nbn+밖에/jxc
+20	없었다	없+었+다	ADJ	_	18	aux	_	_	없/paa+었/ep+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 그러한 나쁜 관행이 유권자들의 의식을 타락시켰고 선거시에 돈이나 이권을 주고 받는 것이 우리 선거문화의 특징이 되어버렸던 것이다 .
+1	그러한	그러하+ㄴ	VERB	_	3	amod	_	_	그러하/pad+ㄴ/etm
+2	나쁜	나쁘+ㄴ	ADJ	_	3	amod	_	_	나쁘/paa+ㄴ/etm
+3	관행이	관행+이	NOUN	_	6	nsubj	_	_	관행/ncn+이/jcs
+4	유권자들의	유권자+들+의	NOUN	_	5	nmod	_	_	유권자/ncn+들/xsn+의/jcm
+5	의식을	의식+을	NOUN	_	6	obj	_	_	의식/ncpa+을/jco
+6	타락시켰고	타락+시키+었+고	CCONJ	_	16	conj	_	_	타락/ncpa+시키/xsv+었/ep+고/ecc
+7	선거시에	선거시+에	ADV	_	11	obl	_	_	선거시/ncn+에/jca
+8	돈이나	돈+이나	CCONJ	_	9	conj	_	_	돈/ncn+이나/jcj
+9	이권을	이권+을	NOUN	_	10	obj	_	_	이권/ncn+을/jco
+10	주고	주+고	CCONJ	_	11	conj	_	_	주/pvg+고/ecc
+11	받는	받+는	VERB	_	12	acl	_	_	받/pvg+는/etm
+12	것이	것+이	NOUN	_	16	nsubj	_	_	것/nbn+이/jcs
+13	우리	우리	PRON	_	14	compound	_	_	우리/npp
+14	선거문화의	선거+문화+의	NOUN	_	15	nmod	_	_	선거/ncpa+문화/ncn+의/jcm
+15	특징이	특징+이	NOUN	_	16	csubj	_	_	특징/ncn+이/jcc
+16	되어버렸던	되+어+버리+었+던	AUX	_	0	root	_	_	되/pvg+어/ecx+버리/px+었/ep+던/etm
+17	것이다	것+이+다	VERB	_	16	aux	_	_	것/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이러한 막대한 선거비용이 과연 어떻게 충당되는 것일까 ?
+1	이러한	이러하+ㄴ	VERB	_	3	amod	_	_	이러하/pad+ㄴ/etm
+2	막대한	막대하+ㄴ	ADJ	_	3	amod	_	_	막대하/paa+ㄴ/etm
+3	선거비용이	선거+비용+이	NOUN	_	6	nsubj	_	_	선거/ncpa+비용/ncn+이/jcs
+4	과연	과연	ADV	_	5	advmod	_	_	과연/mag
+5	어떻게	어떻+게	SCONJ	_	6	xcomp	_	_	어떻/pad+게/ecs
+6	충당되는	충당+되+는	VERB	_	0	root	_	_	충당/ncpa+되/xsv+는/etm
+7	것일까	것+이+ㄹ까	VERB	_	6	aux	_	_	것/nbn+이/jp+ㄹ까/ef
+8	?	?	PUNCT	_	7	punct	_	_	?/sf
+
+# 선거자금을 둘러싼 많은 정치비리가 우리의 정치풍토를 훼손하고 있음은 우연이 아니다 .
+1	선거자금을	선거+자금+을	NOUN	_	2	obj	_	_	선거/ncpa+자금/ncn+을/jco
+2	둘러싼	둘러싸+ㄴ	VERB	_	4	acl	_	_	둘러싸/pvg+ㄴ/etm
+3	많은	많+ㄴ	ADJ	_	4	amod	_	_	많/paa+ㄴ/etm
+4	정치비리가	정치+비리+가	NOUN	_	7	nsubj	_	_	정치/ncpa+비리/ncn+가/jcs
+5	우리의	우리+의	PRON	_	6	nmod	_	_	우리/npp+의/jcm
+6	정치풍토를	정치+풍토+를	NOUN	_	7	obj	_	_	정치/ncn+풍토/ncn+를/jco
+7	훼손하고	훼손+하+고	VERB	_	10	dislocated	_	_	훼손/ncpa+하/xsv+고/ecx
+8	있음은	있+ㅁ+은	NOUN	_	7	aux	_	_	있/px+ㅁ/etn+은/jxt
+9	우연이	우연+이	NOUN	_	10	csubj	_	_	우연/ncpa+이/jcc
+10	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 선거에 많은 돈을 들인 국회의원이 정치적인 부정을 저지르는 것은 어떻게 보면 당연하다고 말할 수 있을 것이다 .
+1	선거에	선거+에	ADV	_	4	obl	_	_	선거/ncpa+에/jca
+2	많은	많+ㄴ	ADJ	_	3	amod	_	_	많/paa+ㄴ/etm
+3	돈을	돈+을	NOUN	_	4	obj	_	_	돈/ncn+을/jco
+4	들인	들이+ㄴ	VERB	_	5	acl	_	_	들이/pvg+ㄴ/etm
+5	국회의원이	국회의원+이	NOUN	_	8	nsubj	_	_	국회의원/ncn+이/jcs
+6	정치적인	정치+적+이+ㄴ	VERB	_	7	acl	_	_	정치/ncpa+적/xsn+이/jp+ㄴ/etm
+7	부정을	부정+을	NOUN	_	8	obj	_	_	부정/ncpa+을/jco
+8	저지르는	저지르+는	VERB	_	9	acl	_	_	저지르/pvg+는/etm
+9	것은	것+은	NOUN	_	13	dislocated	_	_	것/nbn+은/jxt
+10	어떻게	어떻+게	SCONJ	_	11	xcomp	_	_	어떻/pad+게/ecs
+11	보면	보+면	SCONJ	_	12	conj	_	_	보/pvg+면/ecs
+12	당연하다고	당연하+다고	SCONJ	_	13	xcomp	_	_	당연하/paa+다고/ecs
+13	말할	말하+ㄹ	VERB	_	0	root	_	_	말하/pvg+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있을	있+ㄹ	ADJ	_	13	aux	_	_	있/paa+ㄹ/etm
+16	것이다	것+이+다	VERB	_	13	aux	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 과다한 선거비용은 정치인들을 각종 비리에 연루시키는 근본원인 중의 하나임에 틀림없다 .
+1	과다한	과다+하+ㄴ	VERB	_	2	amod	_	_	과다/ncps+하/xsm+ㄴ/etm
+2	선거비용은	선거+비용+은	NOUN	_	6	dislocated	_	_	선거/ncpa+비용/ncn+은/jxt
+3	정치인들을	정치인+들+을	NOUN	_	6	obj	_	_	정치인/ncn+들/xsn+을/jco
+4	각종	각종	NOUN	_	5	compound	_	_	각종/ncn
+5	비리에	비리+에	ADV	_	6	obl	_	_	비리/ncn+에/jca
+6	연루시키는	연루+시키+는	VERB	_	7	acl	_	_	연루/ncpa+시키/xsv+는/etm
+7	근본원인	근본+원인	NOUN	_	8	compound	_	_	근본/ncn+원인/ncn
+8	중의	중+의	NOUN	_	9	nmod	_	_	중/nbn+의/jcm
+9	하나임에	하나+이+ㅁ+에	ADV	_	10	obl	_	_	하나/nnc+이/jp+ㅁ/etn+에/jca
+10	틀림없다	틀림없+다	ADJ	_	0	root	_	_	틀림없/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 선거비용을 억제하기 위한 현행 선거법은 별문제가 없다 .
+1	선거비용을	선거+비용+을	NOUN	_	2	obj	_	_	선거/ncpa+비용/ncn+을/jco
+2	억제하기	억제+하+기	VERB	_	3	nmod	_	_	억제/ncpa+하/xsv+기/etn
+3	위한	위하+ㄴ	VERB	_	4	acl	_	_	위하/pvg+ㄴ/etm
+4	현행	현행	NOUN	_	5	compound	_	_	현행/ncn
+5	선거법은	선거법+은	NOUN	_	7	dislocated	_	_	선거법/ncn+은/jxt
+6	별문제가	별문제+가	NOUN	_	7	nsubj	_	_	별문제/ncn+가/jcs
+7	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 법정선거비용 제한액은 평균 1억 1천 5백만 원 정도에 불과하다 .
+1	법정선거비용	법정+선거+비용	NOUN	_	2	compound	_	_	법정/ncn+선거/ncpa+비용/ncn
+2	제한액은	제한액+은	NOUN	_	9	dislocated	_	_	제한액/ncn+은/jxt
+3	평균	평균	NOUN	_	8	compound	_	_	평균/ncn
+4	1억	1+억	NUM	_	6	compound	_	_	1/nnc+억/nnc
+5	1천	1+천	NUM	_	6	compound	_	_	1/nnc+천/nnc
+6	5백만	5+백만	NUM	_	7	compound	_	_	5/nnc+백만/nnc
+7	원	원	NOUN	_	8	compound	_	_	원/nbu
+8	정도에	정도+에	ADV	_	9	obl	_	_	정도/ncn+에/jca
+9	불과하다	불과하+다	ADJ	_	0	root	_	_	불과하/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그리고 선거 후에 선관위에 제출한 각 후보자들의 선거비용지출명세서를 보면 법정선거비용을 초과해서 선거비용을 지출한 후보자는 단 1 명도 없다 .
+1	그리고	그리고	CCONJ	_	18	cc	_	_	그리고/maj
+2	선거	선거	NOUN	_	3	compound	_	_	선거/ncpa
+3	후에	후+에	ADV	_	5	obl	_	_	후/ncn+에/jca
+4	선관위에	선관위+에	ADV	_	5	obl	_	_	선관위/ncn+에/jca
+5	제출한	제출+하+ㄴ	VERB	_	8	acl	_	_	제출/ncpa+하/xsv+ㄴ/etm
+6	각	각	ADJ	_	7	amod	_	_	각/mma
+7	후보자들의	후보자+들+의	NOUN	_	8	nmod	_	_	후보자/ncn+들/xsn+의/jcm
+8	선거비용지출명세서를	선거+비용+지출+명세서+를	NOUN	_	9	obj	_	_	선거/ncpa+비용/ncn+지출/ncpa+명세서/ncn+를/jco
+9	보면	보+면	SCONJ	_	18	conj	_	_	보/pvg+면/ecs
+10	법정선거비용을	법정+선거+비용+을	NOUN	_	11	obj	_	_	법정/ncn+선거/ncpa+비용/ncn+을/jco
+11	초과해서	초과+하+어서	SCONJ	_	13	ccomp	_	_	초과/ncpa+하/xsv+어서/ecs
+12	선거비용을	선거+비용+을	NOUN	_	13	obj	_	_	선거/ncpa+비용/ncn+을/jco
+13	지출한	지출+하+ㄴ	VERB	_	14	acl	_	_	지출/ncpa+하/xsv+ㄴ/etm
+14	후보자는	후보자+는	NOUN	_	18	dislocated	_	_	후보자/ncn+는/jxt
+15	단	단	ADJ	_	17	amod	_	_	단/mma
+16	1	1	NUM	_	17	nummod	_	_	1/nnc
+17	명도	명+도	ADV	_	18	advcl	_	_	명/nbu+도/jxc
+18	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 그러나 아무도 그러한 지출명세서에 기재된 내용을 사실로 받아들이지 않는다 .
+1	그러나	그러나	CCONJ	_	8	cc	_	_	그러나/maj
+2	아무도	아무+도	ADV	_	8	advcl	_	_	아무/npp+도/jxc
+3	그러한	그러하+ㄴ	VERB	_	4	amod	_	_	그러하/pad+ㄴ/etm
+4	지출명세서에	지출+명세서+에	ADV	_	5	obl	_	_	지출/ncpa+명세서/ncn+에/jca
+5	기재된	기재+되+ㄴ	VERB	_	6	acl	_	_	기재/ncpa+되/xsv+ㄴ/etm
+6	내용을	내용+을	NOUN	_	8	obj	_	_	내용/ncn+을/jco
+7	사실로	사실+로	ADV	_	8	advcl	_	_	사실/ncn+로/jca
+8	받아들이지	받아들이+지	VERB	_	0	root	_	_	받아들이/pvg+지/ecx
+9	않는다	않+는다	AUX	_	8	aux	_	_	않/px+는다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 거의 모든 후보자들이 허위보고를 하고 있기 때문이다 .
+1	거의	거의	ADV	_	3	advmod	_	_	거의/mag
+2	모든	모든	ADJ	_	3	amod	_	_	모든/mma
+3	후보자들이	후보자+들+이	NOUN	_	5	nsubj	_	_	후보자/ncn+들/xsn+이/jcs
+4	허위보고를	허위+보고+를	NOUN	_	5	obj	_	_	허위/ncn+보고/ncpa+를/jco
+5	하고	하+고	VERB	_	0	root	_	_	하/pvg+고/ecx
+6	있기	있+기	AUX	_	5	aux	_	_	있/px+기/etn
+7	때문이다	때문+이+다	VERB	_	5	aux	_	_	때문/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 금유제 실시로 인하여 그러한 허위보고는 상당한 수준에서 억제될 것으로 생각되지만 , 금권선거의 관행은 쉽사리 근절되지 않을 것으로 생각된다 .
+1	금유제	금유제	NOUN	_	2	compound	_	_	금유제/ncn
+2	실시로	실시+로	ADV	_	3	advcl	_	_	실시/ncpa+로/jca
+3	인하여	인하+어	SCONJ	_	10	ccomp	_	_	인하/pvg+어/ecs
+4	그러한	그러하+ㄴ	VERB	_	5	amod	_	_	그러하/pad+ㄴ/etm
+5	허위보고는	허위+보고+는	NOUN	_	6	dislocated	_	_	허위/ncn+보고/ncpa+는/jxt
+6	상당한	상당하+ㄴ	ADJ	_	7	amod	_	_	상당하/paa+ㄴ/etm
+7	수준에서	수준+에서	ADV	_	8	advcl	_	_	수준/ncn+에서/jca
+8	억제될	억제+되+ㄹ	VERB	_	9	acl	_	_	억제/ncpa+되/xsv+ㄹ/etm
+9	것으로	것+으로	ADV	_	10	advcl	_	_	것/nbn+으로/jca
+10	생각되지만	생각+되+지만	CCONJ	_	18	conj	_	_	생각/ncpa+되/xsv+지만/ecc
+11	,	,	PUNCT	_	10	punct	_	_	,/sp
+12	금권선거의	금권+선거+의	NOUN	_	13	nmod	_	_	금권/ncn+선거/ncpa+의/jcm
+13	관행은	관행+은	NOUN	_	15	dislocated	_	_	관행/ncn+은/jxt
+14	쉽사리	쉽사리	ADV	_	15	advmod	_	_	쉽사리/mag
+15	근절되지	근절+되+지	VERB	_	17	acl	_	_	근절/ncpa+되/xsv+지/ecx
+16	않을	않+ㄹ	AUX	_	15	aux	_	_	않/px+ㄹ/etm
+17	것으로	것+으로	ADV	_	18	advcl	_	_	것/nbn+으로/jca
+18	생각된다	생각+되+ㄴ다	VERB	_	0	root	_	_	생각/ncpa+되/xsv+ㄴ다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 즉 의식혁명이 일어나야 한다는 것이다 .
+1	즉	즉	CCONJ	_	3	cc	_	_	즉/maj
+2	의식혁명이	의식+혁명+이	NOUN	_	3	nsubj	_	_	의식/ncpa+혁명/ncpa+이/jcs
+3	일어나야	일어나+아야	VERB	_	0	root	_	_	일어나/pvg+아야/ecx
+4	한다는	하+ㄴ다는	AUX	_	3	aux	_	_	하/px+ㄴ다는/etm
+5	것이다	것+이+다	VERB	_	3	aux	_	_	것/nbn+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 그러나 공명선거캠페인에 의한 국민의식 개혁은 시간이 오래 걸리는 데 비해서 제도의 개혁은 보다 빠른 효과를 가져올 수 있다 .
+1	그러나	그러나	CCONJ	_	16	cc	_	_	그러나/maj
+2	공명선거캠페인에	공명선거+캠페인+에	ADV	_	3	obl	_	_	공명선거/ncpa+캠페인/ncn+에/jca
+3	의한	의하+ㄴ	VERB	_	4	acl	_	_	의하/pvg+ㄴ/etm
+4	국민의식	국민+의식	NOUN	_	5	compound	_	_	국민/ncn+의식/ncpa
+5	개혁은	개혁+은	NOUN	_	8	dislocated	_	_	개혁/ncpa+은/jxt
+6	시간이	시간+이	NOUN	_	8	nsubj	_	_	시간/ncn+이/jcs
+7	오래	오래	ADV	_	8	advmod	_	_	오래/mag
+8	걸리는	걸리+는	VERB	_	9	acl	_	_	걸리/pvg+는/etm
+9	데	데	NOUN	_	10	mark	_	_	데/nbn
+10	비해서	비하+어서	SCONJ	_	16	ccomp	_	_	비하/pvg+어서/ecs
+11	제도의	제도+의	NOUN	_	12	nmod	_	_	제도/ncn+의/jcm
+12	개혁은	개혁+은	NOUN	_	16	dislocated	_	_	개혁/ncpa+은/jxt
+13	보다	보다	ADV	_	14	advmod	_	_	보다/mag
+14	빠른	빠르+ㄴ	ADJ	_	15	amod	_	_	빠르/paa+ㄴ/etm
+15	효과를	효과+를	NOUN	_	16	obj	_	_	효과/ncn+를/jco
+16	가져올	가지+어+오+ㄹ	AUX	_	0	root	_	_	가지/pvg+어/ecx+오/px+ㄹ/etm
+17	수	수	NOUN	_	18	fixed	_	_	수/nbn
+18	있다	있+다	ADJ	_	16	aux	_	_	있/paa+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 선거공영제의 과감한 확대실시를 제안한다 .
+1	선거공영제의	선거+공영제+의	NOUN	_	3	nmod	_	_	선거/ncpa+공영제/ncn+의/jcm
+2	과감한	과감하+ㄴ	ADJ	_	3	amod	_	_	과감하/paa+ㄴ/etm
+3	확대실시를	확대+실시+를	NOUN	_	4	obj	_	_	확대/ncpa+실시/ncpa+를/jco
+4	제안한다	제안+하+ㄴ다	VERB	_	0	root	_	_	제안/ncpa+하/xsv+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 현행선거법은 선거관리의 측면에서만의 과감한 확대실시를 제안한다 .
+1	현행선거법은	현행+선거법+은	NOUN	_	6	dislocated	_	_	현행/ncpa+선거법/ncn+은/jxt
+2	선거관리의	선거+관리+의	NOUN	_	3	nmod	_	_	선거/ncpa+관리/ncpa+의/jcm
+3	측면에서만의	측면+에서+만+의	NOUN	_	5	nmod	_	_	측면/ncn+에서/jca+만/jxc+의/jcm
+4	과감한	과감하+ㄴ	ADJ	_	5	amod	_	_	과감하/paa+ㄴ/etm
+5	확대실시를	확대+실시+를	NOUN	_	6	obj	_	_	확대/ncpa+실시/ncpa+를/jco
+6	제안한다	제안+하+ㄴ다	VERB	_	0	root	_	_	제안/ncpa+하/xsv+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 현행선거법은 선거관리의 측면에서만은 불완전한 선거공영제는 정당 또는 후보자가 선거비용의 대부분을 마련하는 원인을 제공하고 있다 .
+1	현행선거법은	현행+선거법+은	NOUN	_	13	dislocated	_	_	현행/ncpa+선거법/ncn+은/jxt
+2	선거관리의	선거+관리+의	NOUN	_	3	nmod	_	_	선거/ncpa+관리/ncpa+의/jcm
+3	측면에서만은	측면+에서+만+은	NOUN	_	13	dislocated	_	_	측면/ncn+에서/jca+만/jxc+은/jxt
+4	불완전한	불완전+하+ㄴ	VERB	_	5	acl	_	_	불완전/ncpa+하/xsv+ㄴ/etm
+5	선거공영제는	선거+공영제+는	NOUN	_	13	dislocated	_	_	선거/ncpa+공영제/ncn+는/jxt
+6	정당	정당	NOUN	_	8	conj	_	_	정당/ncn
+7	또는	또는	CCONJ	_	8	cc	_	_	또는/maj
+8	후보자가	후보자+가	NOUN	_	11	nsubj	_	_	후보자/ncn+가/jcs
+9	선거비용의	선거+비용+의	NOUN	_	10	nmod	_	_	선거/ncpa+비용/ncn+의/jcm
+10	대부분을	대부분+을	NOUN	_	11	obj	_	_	대부분/ncn+을/jco
+11	마련하는	마련+하+는	VERB	_	12	acl	_	_	마련/ncpa+하/xsv+는/etm
+12	원인을	원인+을	NOUN	_	13	obj	_	_	원인/ncn+을/jco
+13	제공하고	제공+하+고	VERB	_	0	root	_	_	제공/ncpa+하/xsv+고/ecx
+14	있다	있+다	AUX	_	13	aux	_	_	있/px+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 현행 선거법에는 의석수가 많은 정당의 순으로 입후보자의 기호를 1 번부터 시작하여 순서대로 부여하게 되어 있다 .
+1	현행	현행	NOUN	_	2	compound	_	_	현행/ncn
+2	선거법에는	선거법+에+는	NOUN	_	13	dislocated	_	_	선거법/ncn+에/jca+는/jxt
+3	의석수가	의석수+가	NOUN	_	4	nsubj	_	_	의석수/ncn+가/jcs
+4	많은	많+ㄴ	ADJ	_	5	amod	_	_	많/paa+ㄴ/etm
+5	정당의	정당+의	NOUN	_	6	nmod	_	_	정당/ncn+의/jcm
+6	순으로	순+으로	ADV	_	13	advcl	_	_	순/ncn+으로/jca
+7	입후보자의	입후보자+의	NOUN	_	8	nmod	_	_	입후보자/ncn+의/jcm
+8	기호를	기호+를	NOUN	_	13	obj	_	_	기호/ncn+를/jco
+9	1	1	NUM	_	10	nummod	_	_	1/nnc
+10	번부터	번+부터	ADV	_	11	advcl	_	_	번/nbu+부터/jxc
+11	시작하여	시작+하+어	SCONJ	_	13	ccomp	_	_	시작/ncpa+하/xsv+어/ecs
+12	순서대로	순서+대로	ADV	_	13	advcl	_	_	순서/ncn+대로/jxc
+13	부여하게	부여+하+게	VERB	_	0	root	_	_	부여/ncpa+하/xsv+게/ecx
+14	되어	되+어	AUX	_	13	aux	_	_	되/px+어/ecx
+15	있다	있+다	AUX	_	13	aux	_	_	있/px+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 1 번의 기호를 차지하게 되는 후보자가 선거에서 많은 이점을 갖는 것은 당연하다 .
+1	1	1	NUM	_	2	nummod	_	_	1/nnc
+2	번의	번+의	NOUN	_	3	nmod	_	_	번/nbu+의/jcm
+3	기호를	기호+를	NOUN	_	4	obj	_	_	기호/ncn+를/jco
+4	차지하게	차지+하+게	VERB	_	6	acl	_	_	차지/ncpa+하/xsv+게/ecx
+5	되는	되+는	AUX	_	4	aux	_	_	되/px+는/etm
+6	후보자가	후보자+가	NOUN	_	10	nsubj	_	_	후보자/ncn+가/jcs
+7	선거에서	선거+에서	ADV	_	10	advcl	_	_	선거/ncpa+에서/jca
+8	많은	많+ㄴ	ADJ	_	9	amod	_	_	많/paa+ㄴ/etm
+9	이점을	이점+을	NOUN	_	10	obj	_	_	이점/ncn+을/jco
+10	갖는	갖+는	VERB	_	11	acl	_	_	갖/pvg+는/etm
+11	것은	것+은	NOUN	_	12	dislocated	_	_	것/nbn+은/jxt
+12	당연하다	당연하+다	ADJ	_	0	root	_	_	당연하/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 따라서 현행기호부제도는 집권여당에게 일방적으로 유리하게 작용한다고 볼 수 있다 .
+1	따라서	따라서	CCONJ	_	7	cc	_	_	따라서/maj
+2	현행기호부제도는	현행+기호부+제도+는	NOUN	_	6	dislocated	_	_	현행/ncn+기호부/ncn+제도/ncn+는/jxt
+3	집권여당에게	집권+여당+에게	ADV	_	6	iobj	_	_	집권/ncpa+여당/ncn+에게/jca
+4	일방적으로	일방+적+으로	ADV	_	5	advcl	_	_	일방/ncn+적/xsn+으로/jca
+5	유리하게	유리+하+게	SCONJ	_	6	ccomp	_	_	유리/ncpa+하/xsv+게/ecs
+6	작용한다고	작용+하+ㄴ다+고	VERB	_	7	conj	_	_	작용/ncpa+하/xsv+ㄴ다/ef+고/jcr
+7	볼	보+ㄹ	VERB	_	0	root	_	_	보/pvg+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있다	있+다	ADJ	_	7	aux	_	_	있/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 선거벽보도 기호순으로 붙이게 되며 , 각종 언론기관의 보도도 기호순이다 .
+1	선거벽보도	선거+벽보+도	ADV	_	3	advcl	_	_	선거/ncpa+벽보/ncn+도/jxc
+2	기호순으로	기호순+으로	ADV	_	3	advcl	_	_	기호순/ncn+으로/jca
+3	붙이게	붙이+게	VERB	_	9	conj	_	_	붙이/pvg+게/ecx
+4	되며	되+며	CCONJ	_	3	aux	_	_	되/px+며/ecc
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	각종	각종	NOUN	_	7	compound	_	_	각종/ncn
+7	언론기관의	언론+기관+의	NOUN	_	8	nmod	_	_	언론/ncn+기관/ncn+의/jcm
+8	보도도	보도+도	ADV	_	9	advcl	_	_	보도/ncpa+도/jxc
+9	기호순이다	기호순+이+다	VERB	_	0	root	_	_	기호순/ncn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 선거벽보도 기호순으로 붙이게 되며 , 각종 언론기관의 보도도 기호순으로 진행된다 .
+1	선거벽보도	선거+벽보+도	ADV	_	3	advcl	_	_	선거/ncpa+벽보/ncn+도/jxc
+2	기호순으로	기호순+으로	ADV	_	3	advcl	_	_	기호순/ncn+으로/jca
+3	붙이게	붙이+게	VERB	_	10	conj	_	_	붙이/pvg+게/ecx
+4	되며	되+며	CCONJ	_	3	aux	_	_	되/px+며/ecc
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	각종	각종	NOUN	_	7	compound	_	_	각종/ncn
+7	언론기관의	언론+기관+의	NOUN	_	8	nmod	_	_	언론/ncn+기관/ncn+의/jcm
+8	보도도	보도+도	ADV	_	10	advcl	_	_	보도/ncpa+도/jxc
+9	기호순으로	기호순+으로	ADV	_	10	advcl	_	_	기호순/ncn+으로/jca
+10	진행된다	진행+되+ㄴ다	VERB	_	0	root	_	_	진행/ncpa+되/xsv+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 기호가 이름을 식별할 수 없는 문맹자를 위해 필요했던 것이라면 , 문맹률이 세계적으로 낮은 편인 한국에서 기호제도를 고집할 필요가 없다 .
+1	기호가	기호+가	NOUN	_	8	nsubj	_	_	기호/ncn+가/jcs
+2	이름을	이름+을	NOUN	_	3	obj	_	_	이름/ncn+을/jco
+3	식별할	식별+하+ㄹ	VERB	_	6	acl	_	_	식별/ncpa+하/xsv+ㄹ/etm
+4	수	수	NOUN	_	5	fixed	_	_	수/nbn
+5	없는	없+는	ADJ	_	3	aux	_	_	없/paa+는/etm
+6	문맹자를	문맹자+를	NOUN	_	7	obj	_	_	문맹자/ncn+를/jco
+7	위해	위하+어	SCONJ	_	8	conj	_	_	위하/pvg+어/ecs
+8	필요했던	필요+하+었+던	VERB	_	19	amod	_	_	필요/ncps+하/xsm+었/ep+던/etm
+9	것이라면	것+이+라면	SCONJ	_	8	aux	_	_	것/nbn+이/jp+라면/ecs
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	문맹률이	문맹률+이	NOUN	_	13	nsubj	_	_	문맹률/ncn+이/jcs
+12	세계적으로	세계+적+으로	ADV	_	13	advcl	_	_	세계/ncn+적/xsn+으로/jca
+13	낮은	낮+ㄴ	ADJ	_	14	amod	_	_	낮/paa+ㄴ/etm
+14	편인	편+이+ㄴ	VERB	_	15	acl	_	_	편/ncn+이/jp+ㄴ/etm
+15	한국에서	한국+에서	ADV	_	17	advcl	_	_	한국/nq+에서/jca
+16	기호제도를	기호+제도+를	NOUN	_	17	obj	_	_	기호/ncn+제도/ncn+를/jco
+17	고집할	고집+하+ㄹ	VERB	_	18	acl	_	_	고집/ncpa+하/xsv+ㄹ/etm
+18	필요가	필요+가	NOUN	_	19	nsubj	_	_	필요/ncps+가/jcs
+19	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 거의 모든 유권자가 후보자의 이름과 정당명만을 가지고도 충분히 각 후보자를 식별해낼 수 있기 때문이다 .
+1	거의	거의	ADV	_	3	advmod	_	_	거의/mag
+2	모든	모든	ADJ	_	3	amod	_	_	모든/mma
+3	유권자가	유권자+가	NOUN	_	11	nsubj	_	_	유권자/ncn+가/jcs
+4	후보자의	후보자+의	NOUN	_	5	nmod	_	_	후보자/ncn+의/jcm
+5	이름과	이름+과	CCONJ	_	6	conj	_	_	이름/ncn+과/jcj
+6	정당명만을	정당명+만+을	NOUN	_	7	obj	_	_	정당명/ncn+만/jxc+을/jco
+7	가지고도	가지+고+도	ADV	_	11	ccomp	_	_	가지/pvg+고/ecc+도/jxc
+8	충분히	충분+히	ADV	_	11	advmod	_	_	충분/ncps+히/xsa
+9	각	각	ADJ	_	10	amod	_	_	각/mma
+10	후보자를	후보자+를	NOUN	_	11	obj	_	_	후보자/ncn+를/jco
+11	식별해낼	식별+하+어+내+ㄹ	AUX	_	0	root	_	_	식별/ncpa+하/xsv+어/ecx+내/px+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있기	있+기	ADJ	_	11	aux	_	_	있/paa+기/etn
+14	때문이다	때문+이+다	VERB	_	11	aux	_	_	때문/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그러나 선거벽보 , 언론보도 , 투표용지에 어떠한 식으로 후보자들을 배열해야 하는가의 문제가 남아 있다 .
+1	그러나	그러나	CCONJ	_	13	cc	_	_	그러나/maj
+2	선거벽보	선거+벽보	NOUN	_	4	compound	_	_	선거/ncpa+벽보/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	언론보도	언론+보도	NOUN	_	6	compound	_	_	언론/ncn+보도/ncpa
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	투표용지에	투표용지+에	ADV	_	10	obl	_	_	투표용지/ncn+에/jca
+7	어떠한	어떠하+ㄴ	VERB	_	8	amod	_	_	어떠하/pad+ㄴ/etm
+8	식으로	식+으로	ADV	_	10	advcl	_	_	식/ncn+으로/jca
+9	후보자들을	후보자+들+을	NOUN	_	10	obj	_	_	후보자/ncn+들/xsn+을/jco
+10	배열해야	배열+하+어야	VERB	_	12	nmod	_	_	배열/ncpa+하/xsv+어야/ecx
+11	하는가의	하+는가+의	NOUN	_	10	aux	_	_	하/px+는가/ef+의/jcm
+12	문제가	문제+가	NOUN	_	13	nsubj	_	_	문제/ncn+가/jcs
+13	남아	남+아	VERB	_	0	root	_	_	남/pvg+아/ecx
+14	있다	있+다	AUX	_	13	aux	_	_	있/px+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 여러가지 방식이 있을 수 있다 .
+1	여러가지	여러가지	NOUN	_	2	compound	_	_	여러가지/ncn
+2	방식이	방식+이	NOUN	_	3	nsubj	_	_	방식/ncn+이/jcs
+3	있을	있+ㄹ	ADJ	_	0	root	_	_	있/paa+ㄹ/etm
+4	수	수	NOUN	_	5	fixed	_	_	수/nbn
+5	있다	있+다	ADJ	_	3	aux	_	_	있/paa+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 각 선거구별로 등록된 후보자들이 직접 추첨에 의해서 배열순서를 정할 수 있다 .
+1	각	각	ADJ	_	2	amod	_	_	각/mma
+2	선거구별로	선거구별+로	ADV	_	3	advcl	_	_	선거구별/ncn+로/jca
+3	등록된	등록+되+ㄴ	VERB	_	4	acl	_	_	등록/ncpa+되/xsv+ㄴ/etm
+4	후보자들이	후보자+들+이	NOUN	_	9	nsubj	_	_	후보자/ncn+들/xsn+이/jcs
+5	직접	직접	ADV	_	7	advmod	_	_	직접/mag
+6	추첨에	추첨+에	ADV	_	7	obl	_	_	추첨/ncpa+에/jca
+7	의해서	의하+어서	SCONJ	_	9	ccomp	_	_	의하/pvg+어서/ecs
+8	배열순서를	배열+순서+를	NOUN	_	9	obj	_	_	배열/ncpa+순서/ncn+를/jco
+9	정할	정하+ㄹ	VERB	_	0	root	_	_	정하/pvg+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있다	있+다	ADJ	_	9	aux	_	_	있/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 아니면 지난번 선거에서 득표를 많이 한 후보자순으로 배열순서를 정하는 방법도 있을 수 있다 .
+1	아니면	아니+면	SCONJ	_	11	xcomp	_	_	아니/paa+면/ecs
+2	지난번	지난번	NOUN	_	3	compound	_	_	지난번/ncn
+3	선거에서	선거+에서	ADV	_	6	advcl	_	_	선거/ncpa+에서/jca
+4	득표를	득표+를	NOUN	_	6	obj	_	_	득표/ncpa+를/jco
+5	많이	많이	ADV	_	6	advmod	_	_	많이/mag
+6	한	하+ㄴ	VERB	_	7	acl	_	_	하/pvg+ㄴ/etm
+7	후보자순으로	후보자순+으로	ADV	_	9	advcl	_	_	후보자순/ncn+으로/jca
+8	배열순서를	배열+순서+를	NOUN	_	9	obj	_	_	배열/ncpa+순서/ncn+를/jco
+9	정하는	정하+는	VERB	_	10	acl	_	_	정하/pvg+는/etm
+10	방법도	방법+도	ADV	_	11	advcl	_	_	방법/ncn+도/jxc
+11	있을	있+ㄹ	ADJ	_	0	root	_	_	있/paa+ㄹ/etm
+12	수	수	NOUN	_	13	fixed	_	_	수/nbn
+13	있다	있+다	ADJ	_	11	aux	_	_	있/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 이 경우 새로운 도전자는 순서에 있어 미지막을 차지하게 된다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	경우	경우	NOUN	_	8	advmod	_	_	경우/ncn
+3	새로운	새롭+ㄴ	ADJ	_	4	amod	_	_	새롭/paa+ㄴ/etm
+4	도전자는	도전자+는	NOUN	_	8	dislocated	_	_	도전자/ncn+는/jxt
+5	순서에	순서+에	ADV	_	6	obl	_	_	순서/ncn+에/jca
+6	있어	있+어	SCONJ	_	8	xcomp	_	_	있/paa+어/ecs
+7	미지막을	미지막+을	NOUN	_	8	obj	_	_	미지막/ncn+을/jco
+8	차지하게	차지+하+게	VERB	_	0	root	_	_	차지/ncpa+하/xsv+게/ecx
+9	된다	되+ㄴ다	AUX	_	8	aux	_	_	되/px+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 한 선거구에 새로운 도전자가 2 인 이상일 경우에는 그들 간의 순서는 추첨에 의해 결정할 수 있을 것이다 .
+1	한	한	ADJ	_	2	amod	_	_	한/mma
+2	선거구에	선거구+에	ADV	_	7	obl	_	_	선거구/ncn+에/jca
+3	새로운	새롭+ㄴ	ADJ	_	4	amod	_	_	새롭/paa+ㄴ/etm
+4	도전자가	도전자+가	NOUN	_	7	nsubj	_	_	도전자/ncn+가/jcs
+5	2	2	NUM	_	6	nummod	_	_	2/nnc
+6	인	인	NOUN	_	7	compound	_	_	인/nbu
+7	이상일	이상+이+ㄹ	VERB	_	8	acl	_	_	이상/ncn+이/jp+ㄹ/etm
+8	경우에는	경우+에+는	NOUN	_	14	dislocated	_	_	경우/ncn+에/jca+는/jxt
+9	그들	그+들	NOUN	_	10	compound	_	_	그/npp+들/xsn
+10	간의	간+의	NOUN	_	11	nmod	_	_	간/nbn+의/jcm
+11	순서는	순서+는	NOUN	_	14	dislocated	_	_	순서/ncn+는/jxt
+12	추첨에	추첨+에	ADV	_	13	obl	_	_	추첨/ncpa+에/jca
+13	의해	의하+어	SCONJ	_	14	ccomp	_	_	의하/pvg+어/ecs
+14	결정할	결정+하+ㄹ	VERB	_	0	root	_	_	결정/ncpa+하/xsv+ㄹ/etm
+15	수	수	NOUN	_	16	fixed	_	_	수/nbn
+16	있을	있+ㄹ	ADJ	_	14	aux	_	_	있/paa+ㄹ/etm
+17	것이다	것+이+다	VERB	_	14	aux	_	_	것/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 또는 역사가 오랜 정당의 입후보자를 먼저 배열할 수도 있다 .
+1	또는	또는	CCONJ	_	7	cc	_	_	또는/maj
+2	역사가	역사+가	NOUN	_	3	nsubj	_	_	역사/ncn+가/jcs
+3	오랜	오래+ㄴ	ADJ	_	4	amod	_	_	오래/paa+ㄴ/etm
+4	정당의	정당+의	NOUN	_	5	nmod	_	_	정당/ncn+의/jcm
+5	입후보자를	입후보자+를	NOUN	_	7	obj	_	_	입후보자/ncn+를/jco
+6	먼저	먼저	ADV	_	7	advmod	_	_	먼저/mag
+7	배열할	배열+하+ㄹ	VERB	_	0	root	_	_	배열/ncpa+하/xsv+ㄹ/etm
+8	수도	수+도	ADV	_	9	fixed	_	_	수/nbn+도/jxc
+9	있다	있+다	ADJ	_	7	aux	_	_	있/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이러한 방식은 정당의 이합집산현상을 어느 정도 억제할 수 있는 효과를 가져올 수도 있을 것이다 .
+1	이러한	이러하+ㄴ	VERB	_	2	amod	_	_	이러하/pad+ㄴ/etm
+2	방식은	방식+은	NOUN	_	7	dislocated	_	_	방식/ncn+은/jxt
+3	정당의	정당+의	NOUN	_	4	nmod	_	_	정당/ncn+의/jcm
+4	이합집산현상을	이합집산+현상+을	NOUN	_	7	obj	_	_	이합집산/ncn+현상/ncn+을/jco
+5	어느	어느	DET	_	6	det	_	_	어느/mmd
+6	정도	정도	NOUN	_	7	compound	_	_	정도/ncn
+7	억제할	억제+하+ㄹ	VERB	_	10	acl	_	_	억제/ncpa+하/xsv+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있는	있+는	ADJ	_	7	aux	_	_	있/paa+는/etm
+10	효과를	효과+를	NOUN	_	11	obj	_	_	효과/ncn+를/jco
+11	가져올	가지+어+오+ㄹ	AUX	_	0	root	_	_	가지/pvg+어/ecx+오/px+ㄹ/etm
+12	수도	수+도	ADV	_	13	fixed	_	_	수/nbn+도/jxc
+13	있을	있+ㄹ	ADJ	_	11	aux	_	_	있/paa+ㄹ/etm
+14	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 정당명이나 후보자이름을 가지고 가나다식의 순으로 배열할 수도 있을 것이다 .
+1	정당명이나	정당명+이나	CCONJ	_	2	conj	_	_	정당명/ncn+이나/jcj
+2	후보자이름을	후보자+이름+을	NOUN	_	3	obj	_	_	후보자/ncn+이름/ncn+을/jco
+3	가지고	가지+고	CCONJ	_	6	conj	_	_	가지/pvg+고/ecc
+4	가나다식의	가나다식+의	NOUN	_	5	nmod	_	_	가나다식/ncn+의/jcm
+5	순으로	순+으로	ADV	_	6	advcl	_	_	순/ncn+으로/jca
+6	배열할	배열+하+ㄹ	VERB	_	0	root	_	_	배열/ncpa+하/xsv+ㄹ/etm
+7	수도	수+도	ADV	_	8	fixed	_	_	수/nbn+도/jxc
+8	있을	있+ㄹ	ADJ	_	6	aux	_	_	있/paa+ㄹ/etm
+9	것이다	것+이+다	VERB	_	6	aux	_	_	것/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 관권의 개입은 정부수립 이후 줄곧 한국의 선거과정을 교란시켜왔다 .
+1	관권의	관권+의	NOUN	_	2	nmod	_	_	관권/ncn+의/jcm
+2	개입은	개입+은	NOUN	_	8	dislocated	_	_	개입/ncpa+은/jxt
+3	정부수립	정부+수립	NOUN	_	4	compound	_	_	정부/ncn+수립/ncpa
+4	이후	이후	NOUN	_	8	advmod	_	_	이후/ncn
+5	줄곧	줄곧	ADV	_	8	advmod	_	_	줄곧/mag
+6	한국의	한국+의	PROPN	_	7	nmod	_	_	한국/nq+의/jcm
+7	선거과정을	선거+과정+을	NOUN	_	8	obj	_	_	선거/ncpa+과정/ncn+을/jco
+8	교란시켜왔다	교란+시키+어+오+았+다	AUX	_	0	root	_	_	교란/ncpa+시키/xsv+어/ecx+오/px+았/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 관권개입을 차단하기 위해서는 공무원이 정치적으로 중립을 유지하고서도 인사에서 전혀 불이익을 당하지 않을 수 있는 직업공무원제도의 확립이 필요하다 .
+1	관권개입을	관권+개입+을	NOUN	_	2	obj	_	_	관권/ncn+개입/ncpa+을/jco
+2	차단하기	차단+하+기	VERB	_	3	nmod	_	_	차단/ncpa+하/xsv+기/etn
+3	위해서는	위하+어서+는	NOUN	_	17	dep	_	_	위하/pvg+어서/ecs+는/jxt
+4	공무원이	공무원+이	NOUN	_	11	nsubj	_	_	공무원/ncn+이/jcs
+5	정치적으로	정치+적+으로	ADV	_	7	advcl	_	_	정치/ncpa+적/xsn+으로/jca
+6	중립을	중립+을	NOUN	_	7	obj	_	_	중립/ncpa+을/jco
+7	유지하고서도	유지+하+고서+도	ADV	_	11	ccomp	_	_	유지/ncpa+하/xsv+고서/ecs+도/jxc
+8	인사에서	인사+에서	ADV	_	11	advcl	_	_	인사/ncn+에서/jca
+9	전혀	전혀	ADV	_	11	advmod	_	_	전혀/mag
+10	불이익을	불이익+을	NOUN	_	11	obj	_	_	불이익/ncn+을/jco
+11	당하지	당하+지	VERB	_	15	acl	_	_	당하/pvg+지/ecx
+12	않을	않+ㄹ	AUX	_	11	aux	_	_	않/px+ㄹ/etm
+13	수	수	NOUN	_	14	fixed	_	_	수/nbn
+14	있는	있+는	ADJ	_	11	aux	_	_	있/paa+는/etm
+15	직업공무원제도의	직업+공무원+제도+의	NOUN	_	16	nmod	_	_	직업/ncn+공무원/ncn+제도/ncn+의/jcm
+16	확립이	확립+이	NOUN	_	17	nsubj	_	_	확립/ncpa+이/jcs
+17	필요하다	필요+하+다	VERB	_	0	root	_	_	필요/ncps+하/xsm+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 특히 통 반장의 선거운동은 실제로 집권여당에게 엄청난 프리미엄을 가져다 준다 .
+1	특히	특히	ADV	_	9	advmod	_	_	특히/mag
+2	통	통	NOUN	_	3	compound	_	_	통/ncn
+3	반장의	반장+의	NOUN	_	4	nmod	_	_	반장/ncn+의/jcm
+4	선거운동은	선거+운동+은	NOUN	_	9	dislocated	_	_	선거/ncpa+운동/ncpa+은/jxt
+5	실제로	실제로	ADV	_	9	advmod	_	_	실제로/mag
+6	집권여당에게	집권+여당+에게	ADV	_	9	iobj	_	_	집권/ncpa+여당/ncn+에게/jca
+7	엄청난	엄청나+ㄴ	ADJ	_	8	amod	_	_	엄청나/paa+ㄴ/etm
+8	프리미엄을	프리미엄+을	NOUN	_	9	obj	_	_	프리미엄/ncn+을/jco
+9	가져다	가지+어+다	ADV	_	0	root	_	_	가지/pvg+어/ecx+다/jxc
+10	준다	주+ㄴ다	AUX	_	9	aux	_	_	주/px+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 주민과 가까이 있고 평소 주민에게 잘 알려져 있는 통 반장이 선거운동에 동원될 경우 득표에 크게 유리함은 물론이다 .
+1	주민과	주민+과	CCONJ	_	3	conj	_	_	주민/ncn+과/jct
+2	가까이	가까이	ADV	_	3	advmod	_	_	가까이/mag
+3	있고	있+고	CCONJ	_	7	conj	_	_	있/paa+고/ecc
+4	평소	평소	NOUN	_	5	compound	_	_	평소/ncn
+5	주민에게	주민+에게	ADV	_	7	iobj	_	_	주민/ncn+에게/jca
+6	잘	잘	ADV	_	7	advmod	_	_	잘/mag
+7	알려져	알려지+어	VERB	_	10	acl	_	_	알려지/pvg+어/ecx
+8	있는	있+는	AUX	_	7	aux	_	_	있/px+는/etm
+9	통	통	NOUN	_	10	compound	_	_	통/ncn
+10	반장이	반장+이	NOUN	_	12	nsubj	_	_	반장/ncn+이/jcs
+11	선거운동에	선거+운동+에	ADV	_	12	obl	_	_	선거/ncpa+운동/ncpa+에/jca
+12	동원될	동원+되+ㄹ	VERB	_	13	acl	_	_	동원/ncpa+되/xsv+ㄹ/etm
+13	경우	경우	NOUN	_	17	advmod	_	_	경우/ncn
+14	득표에	득표+에	ADV	_	15	obl	_	_	득표/ncpa+에/jca
+15	크게	크+게	SCONJ	_	16	xcomp	_	_	크/paa+게/ecs
+16	유리함은	유리+하+ㅁ+은	NOUN	_	17	dislocated	_	_	유리/ncpa+하/xsv+ㅁ/etn+은/jxt
+17	물론이다	물론+이+다	VERB	_	0	root	_	_	물론/ncn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이렇게 선거시에 역기능을 담당하고 있는 통 반장제도가 과연 꼭 필요한 제도인가 ?
+1	이렇게	이렇+게	SCONJ	_	4	xcomp	_	_	이렇/pad+게/ecs
+2	선거시에	선거시+에	ADV	_	4	obl	_	_	선거시/ncn+에/jca
+3	역기능을	역기능+을	NOUN	_	4	obj	_	_	역기능/ncn+을/jco
+4	담당하고	담당+하+고	VERB	_	7	acl	_	_	담당/ncpa+하/xsv+고/ecx
+5	있는	있+는	AUX	_	4	aux	_	_	있/px+는/etm
+6	통	통	NOUN	_	7	compound	_	_	통/ncn
+7	반장제도가	반장+제도+가	NOUN	_	11	nsubj	_	_	반장/ncn+제도/ncn+가/jcs
+8	과연	과연	ADV	_	10	advmod	_	_	과연/mag
+9	꼭	꼭	ADV	_	8	advmod	_	_	꼭/mag
+10	필요한	필요+하+ㄴ	VERB	_	11	amod	_	_	필요/ncps+하/xsm+ㄴ/etm
+11	제도인가	제도+이+ㄴ가	VERB	_	0	root	_	_	제도/ncn+이/jp+ㄴ가/ef
+12	?	?	PUNCT	_	11	punct	_	_	?/sf
+
+# 현재생활을 영위해나가는 데 있어서 통 반장으로부터 주민들이 어떠한 도움을 받고 있는가 ?
+1	현재생활을	현재+생활+을	NOUN	_	2	obj	_	_	현재/ncn+생활/ncpa+을/jco
+2	영위해나가는	영위+하+어+나가+는	AUX	_	10	ccomp	_	_	영위/ncpa+하/xsv+어/ecx+나가/px+는/etm
+3	데	데	NOUN	_	4	fixed	_	_	데/nbn
+4	있어서	있+어서	SCONJ	_	2	aux	_	_	있/paa+어서/ecs
+5	통	통	NOUN	_	6	compound	_	_	통/ncn
+6	반장으로부터	반장+으로+부터	ADV	_	10	advcl	_	_	반장/ncn+으로/jca+부터/jxc
+7	주민들이	주민+들+이	NOUN	_	10	nsubj	_	_	주민/ncn+들/xsn+이/jcs
+8	어떠한	어떠하+ㄴ	VERB	_	9	amod	_	_	어떠하/pad+ㄴ/etm
+9	도움을	도움+을	NOUN	_	10	obj	_	_	도움/ncn+을/jco
+10	받고	받+고	VERB	_	0	root	_	_	받/pvg+고/ecx
+11	있는가	있+는가	AUX	_	10	aux	_	_	있/px+는가/ef
+12	?	?	PUNCT	_	11	punct	_	_	?/sf
+
+# 통 반장이 전입 , 전출 서류에 형식적으로 도장 찍어주는 일 이외에 구체적으로 하는 일이 무엇인가 ?
+1	통	통	NOUN	_	2	compound	_	_	통/ncn
+2	반장이	반장+이	NOUN	_	9	nsubj	_	_	반장/ncn+이/jcs
+3	전입	전입	NOUN	_	5	conj	_	_	전입/ncpa
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	전출	전출	NOUN	_	6	compound	_	_	전출/ncpa
+6	서류에	서류+에	ADV	_	9	obl	_	_	서류/ncn+에/jca
+7	형식적으로	형식+적+으로	ADV	_	9	advcl	_	_	형식/ncn+적/xsn+으로/jca
+8	도장	도장	NOUN	_	9	dep	_	_	도장/ncn
+9	찍어주는	찍+어+주+는	AUX	_	10	acl	_	_	찍/pvg+어/ecx+주/px+는/etm
+10	일	일	NOUN	_	11	compound	_	_	일/ncpa
+11	이외에	이외+에	ADV	_	15	obl	_	_	이외/ncn+에/jca
+12	구체적으로	구체+적+으로	ADV	_	13	advcl	_	_	구체/ncn+적/xsn+으로/jca
+13	하는	하+는	VERB	_	14	acl	_	_	하/pvg+는/etm
+14	일이	일+이	NOUN	_	15	nsubj	_	_	일/ncpa+이/jcs
+15	무엇인가	무엇+이+ㄴ가	VERB	_	0	root	_	_	무엇/npd+이/jp+ㄴ가/ef
+16	?	?	PUNCT	_	15	punct	_	_	?/sf
+
+# 대부분의 사람들은 일상생활에서 통 반장 없이도 아무런 불편을 느끼지 않는다 .
+1	대부분의	대부분+의	NOUN	_	2	nmod	_	_	대부분/ncn+의/jcm
+2	사람들은	사람+들+은	NOUN	_	9	dislocated	_	_	사람/ncn+들/xsn+은/jxt
+3	일상생활에서	일상+생활+에서	ADV	_	6	advcl	_	_	일상/ncn+생활/ncpa+에서/jca
+4	통	통	NOUN	_	5	compound	_	_	통/ncn
+5	반장	반장	NOUN	_	6	dep	_	_	반장/ncn
+6	없이도	없+이+도	ADV	_	9	amod	_	_	없/paa+이/ecs+도/jxc
+7	아무런	아무렇+ㄴ	VERB	_	8	amod	_	_	아무렇/pad+ㄴ/etm
+8	불편을	불편+을	NOUN	_	9	obj	_	_	불편/ncpa+을/jco
+9	느끼지	느끼+지	VERB	_	0	root	_	_	느끼/pvg+지/ecx
+10	않는다	않+는다	AUX	_	9	aux	_	_	않/px+는다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 일제시대에 동족을 감시하기 위해서 생겨났던 통 반장제도가 아직까지 현존하고 있는 것이 오히려 이상하게 생각된다 .
+1	일제시대에	일제+시대+에	ADV	_	5	obl	_	_	일제/ncn+시대/ncn+에/jca
+2	동족을	동족+을	NOUN	_	3	obj	_	_	동족/ncn+을/jco
+3	감시하기	감시+하+기	VERB	_	4	nmod	_	_	감시/ncpa+하/xsv+기/etn
+4	위해서	위하+어서	SCONJ	_	5	ccomp	_	_	위하/pvg+어서/ecs
+5	생겨났던	생겨나+ㅆ+던	VERB	_	7	acl	_	_	생겨나/pvg+ㅆ/ep+던/etm
+6	통	통	NOUN	_	7	compound	_	_	통/ncn
+7	반장제도가	반장+제도+가	NOUN	_	9	nsubj	_	_	반장/ncn+제도/ncn+가/jcs
+8	아직까지	아직+까지	ADV	_	9	advmod	_	_	아직/mag+까지/jxc
+9	현존하고	현존+하+고	VERB	_	11	acl	_	_	현존/ncpa+하/xsv+고/ecx
+10	있는	있+는	AUX	_	9	aux	_	_	있/px+는/etm
+11	것이	것+이	NOUN	_	14	nsubj	_	_	것/nbn+이/jcs
+12	오히려	오히려	ADV	_	13	advmod	_	_	오히려/mag
+13	이상하게	이상+하+게	SCONJ	_	14	ccomp	_	_	이상/ncpa+하/xsv+게/ecs
+14	생각된다	생각+되+ㄴ다	VERB	_	0	root	_	_	생각/ncpa+되/xsv+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 동네일을 공동으로 처리해나가기 위해 어떤 조직망이 필요할 때에는 주민들 스스로 조직을 만들어 운용해나가면 될 일이다 .
+1	동네일을	동네+일+을	NOUN	_	3	obj	_	_	동네/ncn+일/ncpa+을/jco
+2	공동으로	공동+으로	ADV	_	3	advcl	_	_	공동/ncn+으로/jca
+3	처리해나가기	처리+하+어+나가+기	AUX	_	4	nmod	_	_	처리/ncpa+하/xsv+어/ecx+나가/px+기/etn
+4	위해	위하+어	SCONJ	_	7	conj	_	_	위하/pvg+어/ecs
+5	어떤	어떤	DET	_	6	det	_	_	어떤/mmd
+6	조직망이	조직망+이	NOUN	_	7	nsubj	_	_	조직망/ncn+이/jcs
+7	필요할	필요+하+ㄹ	VERB	_	8	amod	_	_	필요/ncps+하/xsm+ㄹ/etm
+8	때에는	때+에+는	NOUN	_	15	dislocated	_	_	때/ncn+에/jca+는/jxt
+9	주민들	주민+들	NOUN	_	10	compound	_	_	주민/ncn+들/xsn
+10	스스로	스스로	NOUN	_	12	advmod	_	_	스스로/ncn
+11	조직을	조직+을	NOUN	_	12	obj	_	_	조직/ncpa+을/jco
+12	만들어	만들+어	SCONJ	_	13	ccomp	_	_	만들/pvg+어/ecs
+13	운용해나가면	운용+하+어+나가+면	SCONJ	_	14	ccomp	_	_	운용/ncpa+하/xsv+어/ecx+나가/px+면/ecs
+14	될	되+ㄹ	VERB	_	15	ccomp	_	_	되/pvg+ㄹ/etm
+15	일이다	일+이+다	VERB	_	0	root	_	_	일/ncpa+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 점진적으로 통 반장제도의 폐지를 검토해야 할 것이라 생각한다 .
+1	점진적으로	점진+적+으로	ADV	_	5	advcl	_	_	점진/ncpa+적/xsn+으로/jca
+2	통	통	NOUN	_	3	compound	_	_	통/ncn
+3	반장제도의	반장+제도+의	NOUN	_	4	nmod	_	_	반장/ncn+제도/ncn+의/jcm
+4	폐지를	폐지+를	NOUN	_	5	obj	_	_	폐지/ncpa+를/jco
+5	검토해야	검토+하+어야	VERB	_	7	acl	_	_	검토/ncpa+하/xsv+어야/ecx
+6	할	하+ㄹ	AUX	_	5	aux	_	_	하/px+ㄹ/etm
+7	것이라	것+이라	ADV	_	8	advcl	_	_	것/nbn+이라/jca
+8	생각한다	생각+하+ㄴ다	VERB	_	0	root	_	_	생각/ncpa+하/xsv+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 선거운동은 후보자나 정당이 그들의 정책이나 이념을 유권자에게 전달하여 유권자들로부터 지지를 획득하고자 하는 노력이다 .
+1	선거운동은	선거+운동+은	NOUN	_	13	dislocated	_	_	선거/ncpa+운동/ncpa+은/jxt
+2	후보자나	후보자+나	CCONJ	_	3	conj	_	_	후보자/ncn+나/jcj
+3	정당이	정당+이	NOUN	_	8	nsubj	_	_	정당/ncn+이/jcs
+4	그들의	그+들+의	PRON	_	6	nmod	_	_	그/npp+들/xsn+의/jcm
+5	정책이나	정책+이나	CCONJ	_	6	conj	_	_	정책/ncn+이나/jcj
+6	이념을	이념+을	NOUN	_	8	obj	_	_	이념/ncn+을/jco
+7	유권자에게	유권자+에게	ADV	_	8	iobj	_	_	유권자/ncn+에게/jca
+8	전달하여	전달+하+어	SCONJ	_	11	ccomp	_	_	전달/ncpa+하/xsv+어/ecs
+9	유권자들로부터	유권자+들+로+부터	ADV	_	11	advcl	_	_	유권자/ncn+들/xsn+로/jca+부터/jxc
+10	지지를	지지+를	NOUN	_	11	obj	_	_	지지/ncpa+를/jco
+11	획득하고자	획득+하+고자	VERB	_	13	ccomp	_	_	획득/ncpa+하/xsv+고자/ecx
+12	하는	하+는	AUX	_	11	aux	_	_	하/px+는/etm
+13	노력이다	노력+이+다	VERB	_	0	root	_	_	노력/ncpa+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 선거운동은 가능한 한 자유로운 분위기에서 이루어져야 한다 .
+1	선거운동은	선거+운동+은	NOUN	_	6	dislocated	_	_	선거/ncpa+운동/ncpa+은/jxt
+2	가능한	가능+하+ㄴ	VERB	_	3	amod	_	_	가능/ncps+하/xsm+ㄴ/etm
+3	한	한	NOUN	_	4	mark	_	_	한/nbn
+4	자유로운	자유롭+ㄴ	ADJ	_	5	amod	_	_	자유롭/paa+ㄴ/etm
+5	분위기에서	분위기+에서	ADV	_	6	advcl	_	_	분위기/ncn+에서/jca
+6	이루어져야	이루어지+어야	VERB	_	0	root	_	_	이루어지/pvg+어야/ecx
+7	한다	하+ㄴ다	AUX	_	6	aux	_	_	하/px+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 왜냐하면 억제된 분위기에서는 정치적 의견이 자유롭게 개진되기 어렵기 때문이다 .
+1	왜냐하면	왜냐하면	CCONJ	_	8	cc	_	_	왜냐하면/maj
+2	억제된	억제+되+ㄴ	VERB	_	3	acl	_	_	억제/ncpa+되/xsv+ㄴ/etm
+3	분위기에서는	분위기+에서+는	NOUN	_	8	dislocated	_	_	분위기/ncn+에서/jca+는/jxt
+4	정치적	정치+적	NOUN	_	5	amod	_	_	정치/ncpa+적/xsn
+5	의견이	의견+이	NOUN	_	7	nsubj	_	_	의견/ncn+이/jcs
+6	자유롭게	자유롭+게	SCONJ	_	7	xcomp	_	_	자유롭/paa+게/ecs
+7	개진되기	개진+되+기	VERB	_	8	nmod	_	_	개진/ncpa+되/xsv+기/etn
+8	어렵기	어렵+기	ADJ	_	0	root	_	_	어렵/paa+기/etn
+9	때문이다	때문+이+다	VERB	_	8	aux	_	_	때문/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 현행 선거법에는 선거운동에 대한 포괄적 금지규정이 있다 .
+1	현행	현행	NOUN	_	2	compound	_	_	현행/ncn
+2	선거법에는	선거법+에+는	NOUN	_	7	dislocated	_	_	선거법/ncn+에/jca+는/jxt
+3	선거운동에	선거+운동+에	ADV	_	4	obl	_	_	선거/ncpa+운동/ncpa+에/jca
+4	대한	대하+ㄴ	VERB	_	5	acl	_	_	대하/pvg+ㄴ/etm
+5	포괄적	포괄+적	NOUN	_	6	amod	_	_	포괄/ncpa+적/xsn
+6	금지규정이	금지+규정+이	NOUN	_	7	nsubj	_	_	금지/ncpa+규정/ncpa+이/jcs
+7	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 선거법에 명시되지 아니한 방식의 모든 선거운동을 원칙적으로 금지하고 있는 것이다 .
+1	선거법에	선거법+에	ADV	_	2	obl	_	_	선거법/ncn+에/jca
+2	명시되지	명시+되+지	SCONJ	_	3	ccomp	_	_	명시/ncpa+되/xsv+지/ecs
+3	아니한	아니하+ㄴ	VERB	_	4	acl	_	_	아니하/pvg+ㄴ/etm
+4	방식의	방식+의	NOUN	_	6	nmod	_	_	방식/ncn+의/jcm
+5	모든	모든	ADJ	_	6	amod	_	_	모든/mma
+6	선거운동을	선거+운동+을	NOUN	_	8	obj	_	_	선거/ncpa+운동/ncpa+을/jco
+7	원칙적으로	원칙+적+으로	ADV	_	8	advcl	_	_	원칙/ncn+적/xsn+으로/jca
+8	금지하고	금지+하+고	VERB	_	0	root	_	_	금지/ncpa+하/xsv+고/ecx
+9	있는	있+는	AUX	_	8	aux	_	_	있/px+는/etm
+10	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 모든 후보자들은 현실적으로 본인의 정견이나 정책을 유권자들에게 전달할 수 있는 충분한 통로를 가지고 있지 못한 실정이다 .
+1	모든	모든	ADJ	_	2	amod	_	_	모든/mma
+2	후보자들은	후보자+들+은	NOUN	_	8	dislocated	_	_	후보자/ncn+들/xsn+은/jxt
+3	현실적으로	현실+적+으로	ADV	_	8	advcl	_	_	현실/ncn+적/xsn+으로/jca
+4	본인의	본인+의	NOUN	_	6	nmod	_	_	본인/ncn+의/jcm
+5	정견이나	정견+이나	CCONJ	_	6	conj	_	_	정견/ncn+이나/jcj
+6	정책을	정책+을	NOUN	_	8	obj	_	_	정책/ncn+을/jco
+7	유권자들에게	유권자+들+에게	ADV	_	8	iobj	_	_	유권자/ncn+들/xsn+에게/jca
+8	전달할	전달+하+ㄹ	VERB	_	12	acl	_	_	전달/ncpa+하/xsv+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	있는	있+는	ADJ	_	8	aux	_	_	있/paa+는/etm
+11	충분한	충분하+ㄴ	ADJ	_	12	amod	_	_	충분하/paa+ㄴ/etm
+12	통로를	통로+를	NOUN	_	13	obj	_	_	통로/ncn+를/jco
+13	가지고	가지+고	VERB	_	16	ccomp	_	_	가지/pvg+고/ecx
+14	있지	있+지	AUX	_	13	aux	_	_	있/px+지/ecx
+15	못한	못하+ㄴ	AUX	_	13	aux	_	_	못하/px+ㄴ/etm
+16	실정이다	실정+이+다	VERB	_	0	root	_	_	실정/ncn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 양성적인 선거운동을 지나치게 규제함으로써 오히려 불법적인 음성적인 방식의 선거운동이 판을 치고 있다 .
+1	양성적인	양성+적+이+ㄴ	VERB	_	2	acl	_	_	양성/ncpa+적/xsn+이/jp+ㄴ/etm
+2	선거운동을	선거+운동+을	NOUN	_	4	obj	_	_	선거/ncpa+운동/ncpa+을/jco
+3	지나치게	지나치+게	SCONJ	_	4	ccomp	_	_	지나치/pvg+게/ecs
+4	규제함으로써	규제+하+ㅁ+으로써	ADV	_	11	advcl	_	_	규제/ncpa+하/xsv+ㅁ/etn+으로써/jca
+5	오히려	오히려	ADV	_	6	advmod	_	_	오히려/mag
+6	불법적인	불법+적+이+ㄴ	VERB	_	7	ccomp	_	_	불법/ncn+적/xsn+이/jp+ㄴ/etm
+7	음성적인	음성+적+이+ㄴ	VERB	_	8	acl	_	_	음성/ncn+적/xsn+이/jp+ㄴ/etm
+8	방식의	방식+의	NOUN	_	9	nmod	_	_	방식/ncn+의/jcm
+9	선거운동이	선거+운동+이	NOUN	_	11	nsubj	_	_	선거/ncpa+운동/ncpa+이/jcs
+10	판을	판+을	NOUN	_	11	obj	_	_	판/ncn+을/jco
+11	치고	치+고	VERB	_	0	root	_	_	치/pvg+고/ecx
+12	있다	있+다	AUX	_	11	aux	_	_	있/px+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 기본적으로 선거운동의 자유를 크게 확대하는 것이 바람직하다는 생각이다 .
+1	기본적으로	기본+적+으로	ADV	_	5	advcl	_	_	기본/ncn+적/xsn+으로/jca
+2	선거운동의	선거+운동+의	NOUN	_	3	nmod	_	_	선거/ncpa+운동/ncpa+의/jcm
+3	자유를	자유+를	NOUN	_	5	obj	_	_	자유/ncps+를/jco
+4	크게	크+게	SCONJ	_	5	xcomp	_	_	크/paa+게/ecs
+5	확대하는	확대+하+는	VERB	_	6	acl	_	_	확대/ncpa+하/xsv+는/etm
+6	것이	것+이	NOUN	_	7	nsubj	_	_	것/nbn+이/jcs
+7	바람직하다는	바람직하+다는	ADJ	_	8	amod	_	_	바람직하/paa+다는/etm
+8	생각이다	생각+이+다	VERB	_	0	root	_	_	생각/ncpa+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 포괄적 금지조항을 개별적 금지조항으로 대치하여야 할 것이다 .
+1	포괄적	포괄+적	NOUN	_	2	amod	_	_	포괄/ncpa+적/xsn
+2	금지조항을	금지+조항+을	NOUN	_	5	obj	_	_	금지/ncpa+조항/ncn+을/jco
+3	개별적	개별+적	NOUN	_	4	amod	_	_	개별/ncn+적/xsn
+4	금지조항으로	금지+조항+으로	ADV	_	5	advcl	_	_	금지/ncpa+조항/ncn+으로/jca
+5	대치하여야	대치+하+어야	VERB	_	0	root	_	_	대치/ncpa+하/xsv+어야/ecx
+6	할	하+ㄹ	AUX	_	5	aux	_	_	하/px+ㄹ/etm
+7	것이다	것+이+다	VERB	_	5	aux	_	_	것/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 가능하면 유권자와 후보자가 공개적으로 자연스럽게 만날 수 있는 기회를 많이 주어야 한다 .
+1	가능하면	가능+하+면	SCONJ	_	11	xcomp	_	_	가능/ncps+하/xsm+면/ecs
+2	유권자와	유권자+와	CCONJ	_	3	conj	_	_	유권자/ncn+와/jcj
+3	후보자가	후보자+가	NOUN	_	6	nsubj	_	_	후보자/ncn+가/jcs
+4	공개적으로	공개+적+으로	ADV	_	6	advcl	_	_	공개/ncpa+적/xsn+으로/jca
+5	자연스럽게	자연+스럽+게	SCONJ	_	6	xcomp	_	_	자연/ncps+스럽/xsm+게/ecs
+6	만날	만나+ㄹ	VERB	_	9	acl	_	_	만나/pvg+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	있는	있+는	ADJ	_	6	aux	_	_	있/paa+는/etm
+9	기회를	기회+를	NOUN	_	11	obj	_	_	기회/ncn+를/jco
+10	많이	많이	ADV	_	11	advmod	_	_	많이/mag
+11	주어야	주+어야	VERB	_	0	root	_	_	주/pvg+어야/ecx
+12	한다	하+ㄴ다	AUX	_	11	aux	_	_	하/px+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 유권자의 후보자에 대한 평가는 후보자에 대한 정확한 정보에 근거할 때 비로소 의미가 있기 때문이다 .
+1	유권자의	유권자+의	NOUN	_	2	nmod	_	_	유권자/ncn+의/jcm
+2	후보자에	후보자+에	ADV	_	3	obl	_	_	후보자/ncn+에/jca
+3	대한	대하+ㄴ	VERB	_	4	acl	_	_	대하/pvg+ㄴ/etm
+4	평가는	평가+는	NOUN	_	13	dislocated	_	_	평가/ncpa+는/jxt
+5	후보자에	후보자+에	ADV	_	6	obl	_	_	후보자/ncn+에/jca
+6	대한	대하+ㄴ	VERB	_	8	acl	_	_	대하/pvg+ㄴ/etm
+7	정확한	정확+하+ㄴ	VERB	_	8	acl	_	_	정확/ncpa+하/xsv+ㄴ/etm
+8	정보에	정보+에	ADV	_	9	obl	_	_	정보/ncn+에/jca
+9	근거할	근거+하+ㄹ	VERB	_	10	acl	_	_	근거/ncpa+하/xsv+ㄹ/etm
+10	때	때	NOUN	_	13	dep	_	_	때/ncn
+11	비로소	비로소	ADV	_	13	advmod	_	_	비로소/mag
+12	의미가	의미+가	NOUN	_	13	nsubj	_	_	의미/ncpa+가/jcs
+13	있기	있+기	ADJ	_	0	root	_	_	있/paa+기/etn
+14	때문이다	때문+이+다	VERB	_	13	aux	_	_	때문/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 선거운동과정은 유권자들이 후보자의 정책이나 이념에 대하여 정확한 정보를 얻도록 기능해야 한다는 것이다 .
+1	선거운동과정은	선거+운동+과정+은	NOUN	_	10	dislocated	_	_	선거/ncpa+운동/ncpa+과정/ncn+은/jxt
+2	유권자들이	유권자+들+이	NOUN	_	10	nsubj	_	_	유권자/ncn+들/xsn+이/jcs
+3	후보자의	후보자+의	NOUN	_	5	nmod	_	_	후보자/ncn+의/jcm
+4	정책이나	정책+이나	CCONJ	_	5	conj	_	_	정책/ncn+이나/jcj
+5	이념에	이념+에	ADV	_	6	obl	_	_	이념/ncn+에/jca
+6	대하여	대하+어	SCONJ	_	10	ccomp	_	_	대하/pvg+어/ecs
+7	정확한	정확+하+ㄴ	VERB	_	8	amod	_	_	정확/ncps+하/xsm+ㄴ/etm
+8	정보를	정보+를	NOUN	_	9	obj	_	_	정보/ncn+를/jco
+9	얻도록	얻+도록	SCONJ	_	10	ccomp	_	_	얻/pvg+도록/ecs
+10	기능해야	기능+하+어야	VERB	_	0	root	_	_	기능/ncpa+하/xsv+어야/ecx
+11	한다는	하+ㄴ다는	AUX	_	10	aux	_	_	하/px+ㄴ다는/etm
+12	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 선거일의 결정은 정치적으로 매우 중요하다 .
+1	선거일의	선거일+의	NOUN	_	2	nmod	_	_	선거일/ncn+의/jcm
+2	결정은	결정+은	NOUN	_	5	dislocated	_	_	결정/ncpa+은/jxt
+3	정치적으로	정치+적+으로	ADV	_	5	advcl	_	_	정치/ncpa+적/xsn+으로/jca
+4	매우	매우	ADV	_	5	advmod	_	_	매우/mag
+5	중요하다	중요+하+다	VERB	_	0	root	_	_	중요/ncps+하/xsm+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 왜냐하면 집권당에 대한 국민지지의 정도는 일정불변하는 것이 아니라 시시각각으로 변화하는 것이기 때문이다 .
+1	왜냐하면	왜냐하면	CCONJ	_	10	cc	_	_	왜냐하면/maj
+2	집권당에	집권당+에	ADV	_	3	obl	_	_	집권당/ncn+에/jca
+3	대한	대하+ㄴ	VERB	_	4	acl	_	_	대하/pvg+ㄴ/etm
+4	국민지지의	국민+지지+의	NOUN	_	5	nmod	_	_	국민/ncn+지지/ncpa+의/jcm
+5	정도는	정도+는	NOUN	_	6	dislocated	_	_	정도/ncn+는/jxt
+6	일정불변하는	일정불변+하+는	VERB	_	7	acl	_	_	일정불변/ncpa+하/xsv+는/etm
+7	것이	것+이	NOUN	_	8	csubj	_	_	것/nbn+이/jcc
+8	아니라	아니+라	SCONJ	_	10	xcomp	_	_	아니/paa+라/ecs
+9	시시각각으로	시시각각+으로	ADV	_	10	advcl	_	_	시시각각/ncn+으로/jca
+10	변화하는	변화+하+는	VERB	_	0	root	_	_	변화/ncpa+하/xsv+는/etm
+11	것이기	것+이+기	VERB	_	10	aux	_	_	것/nbn+이/jp+기/etn
+12	때문이다	때문+이+다	VERB	_	10	aux	_	_	때문/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 현행 국회의원선거법에는 국회의원선거일은 의원의 임기만료 150 일 내지 20 일전에 실시하게 되어 있다 .
+1	현행	현행	NOUN	_	2	compound	_	_	현행/ncn
+2	국회의원선거법에는	국회의원+선거법+에+는	NOUN	_	11	dislocated	_	_	국회의원/ncn+선거법/ncn+에/jca+는/jxt
+3	국회의원선거일은	국회의원+선거일+은	NOUN	_	11	dislocated	_	_	국회의원/ncn+선거일/ncn+은/jxt
+4	의원의	의원+의	NOUN	_	5	nmod	_	_	의원/ncn+의/jcm
+5	임기만료	임기+만료	NOUN	_	10	compound	_	_	임기/ncn+만료/ncn
+6	150	150	NUM	_	7	nummod	_	_	150/nnc
+7	일	일	NOUN	_	10	conj	_	_	일/nbu
+8	내지	내지	CCONJ	_	10	cc	_	_	내지/maj
+9	20	20	NUM	_	10	nummod	_	_	20/nnc
+10	일전에	일+전+에	ADV	_	11	obl	_	_	일/nbu+전/ncn+에/jca
+11	실시하게	실시+하+게	VERB	_	0	root	_	_	실시/ncpa+하/xsv+게/ecx
+12	되어	되+어	AUX	_	11	aux	_	_	되/px+어/ecx
+13	있다	있+다	AUX	_	11	aux	_	_	있/px+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 약 4 개월 이상의 기간 중에 집권당에게 가장 유리할 것으로 생각되는 날짜로 임의로 선택해 선거를 치를 수 있는 것이다 .
+1	약	약	ADJ	_	3	amod	_	_	약/mma
+2	4	4	NUM	_	3	nummod	_	_	4/nnc
+3	개월	개월	NOUN	_	4	compound	_	_	개월/nbu
+4	이상의	이상+의	NOUN	_	5	nmod	_	_	이상/ncn+의/jcm
+5	기간	기간	NOUN	_	6	compound	_	_	기간/ncn
+6	중에	중+에	ADV	_	9	obl	_	_	중/nbn+에/jca
+7	집권당에게	집권당+에게	ADV	_	9	iobj	_	_	집권당/ncn+에게/jca
+8	가장	가장	ADV	_	9	advmod	_	_	가장/mag
+9	유리할	유리+하+ㄹ	VERB	_	10	acl	_	_	유리/ncpa+하/xsv+ㄹ/etm
+10	것으로	것+으로	ADV	_	11	advcl	_	_	것/nbn+으로/jca
+11	생각되는	생각+되+는	VERB	_	12	acl	_	_	생각/ncpa+되/xsv+는/etm
+12	날짜로	날짜+로	ADV	_	16	advcl	_	_	날짜/ncn+로/jca
+13	임의로	임의+로	ADV	_	14	advcl	_	_	임의/ncn+로/jca
+14	선택해	선택+하+어	SCONJ	_	16	ccomp	_	_	선택/ncpa+하/xsv+어/ecs
+15	선거를	선거+를	NOUN	_	16	obj	_	_	선거/ncpa+를/jco
+16	치를	치르+ㄹ	VERB	_	0	root	_	_	치르/pvg+ㄹ/etm
+17	수	수	NOUN	_	18	fixed	_	_	수/nbn
+18	있는	있+는	ADJ	_	16	aux	_	_	있/paa+는/etm
+19	것이다	것+이+다	VERB	_	16	aux	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 과거 권위주의정권은 종종 간첩사건 등을 공표하여 안보에 대한 위기 의식을 전사회적으로 확산시킨 후에 선거날짜를 공표하곤 했다 .
+1	과거	과거	NOUN	_	2	compound	_	_	과거/ncn
+2	권위주의정권은	권위주의+정권+은	NOUN	_	6	dislocated	_	_	권위주의/ncn+정권/ncn+은/jxt
+3	종종	종종	ADV	_	6	advmod	_	_	종종/mag
+4	간첩사건	간첩+사건	NOUN	_	5	compound	_	_	간첩/ncn+사건/ncn
+5	등을	등+을	NOUN	_	6	obj	_	_	등/nbn+을/jco
+6	공표하여	공표+하+어	SCONJ	_	15	ccomp	_	_	공표/ncpa+하/xsv+어/ecs
+7	안보에	안보+에	ADV	_	8	obl	_	_	안보/ncn+에/jca
+8	대한	대하+ㄴ	VERB	_	10	acl	_	_	대하/pvg+ㄴ/etm
+9	위기	위기	NOUN	_	10	compound	_	_	위기/ncn
+10	의식을	의식+을	NOUN	_	12	obj	_	_	의식/ncpa+을/jco
+11	전사회적으로	전사회+적+으로	ADV	_	12	advcl	_	_	전사회/ncn+적/xsn+으로/jca
+12	확산시킨	확산+시키+ㄴ	VERB	_	13	acl	_	_	확산/ncpa+시키/xsv+ㄴ/etm
+13	후에	후+에	ADV	_	15	obl	_	_	후/ncn+에/jca
+14	선거날짜를	선거+날짜+를	NOUN	_	15	obj	_	_	선거/ncpa+날짜/ncn+를/jco
+15	공표하곤	공표+하+곤	VERB	_	0	root	_	_	공표/ncpa+하/xsv+곤/ecx
+16	했다	하+었+다	AUX	_	15	aux	_	_	하/px+었/ep+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 정부는 그러한 위기의식을 기초로 총화단결이라는 정치적 구호의 정당성을 확보하고 , 그 결과가 선거운동의 자유를 제한하는 정치적 분위기를 연출해내곤 했다 .
+1	정부는	정부+는	NOUN	_	18	dislocated	_	_	정부/ncn+는/jxt
+2	그러한	그러하+ㄴ	VERB	_	3	amod	_	_	그러하/pad+ㄴ/etm
+3	위기의식을	위기+의식+을	NOUN	_	9	obj	_	_	위기/ncn+의식/ncpa+을/jco
+4	기초로	기초+로	ADV	_	9	advcl	_	_	기초/ncn+로/jca
+5	총화단결이라는	총화+단결+이+라는	VERB	_	7	acl	_	_	총화/ncn+단결/ncpa+이/jp+라는/etm
+6	정치적	정치+적	NOUN	_	7	amod	_	_	정치/ncpa+적/xsn
+7	구호의	구호+의	NOUN	_	8	nmod	_	_	구호/ncn+의/jcm
+8	정당성을	정당성+을	NOUN	_	9	obj	_	_	정당성/ncn+을/jco
+9	확보하고	확보+하+고	CCONJ	_	18	conj	_	_	확보/ncpa+하/xsv+고/ecc
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	그	그	DET	_	12	det	_	_	그/mmd
+12	결과가	결과+가	NOUN	_	15	nsubj	_	_	결과/ncn+가/jcs
+13	선거운동의	선거+운동+의	NOUN	_	14	nmod	_	_	선거/ncpa+운동/ncpa+의/jcm
+14	자유를	자유+를	NOUN	_	15	obj	_	_	자유/ncps+를/jco
+15	제한하는	제한+하+는	VERB	_	17	acl	_	_	제한/ncpa+하/xsv+는/etm
+16	정치적	정치+적	NOUN	_	17	amod	_	_	정치/ncpa+적/xsn
+17	분위기를	분위기+를	NOUN	_	18	obj	_	_	분위기/ncn+를/jco
+18	연출해내곤	연출+하+어+내+곤	AUX	_	0	root	_	_	연출/ncpa+하/xsv+어/ecx+내/px+곤/ecx
+19	했다	하+었+다	AUX	_	18	aux	_	_	하/px+었/ep+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 그러한 선거분위기는 집권여당에게 크게 유리했음은 물론이다 .
+1	그러한	그러하+ㄴ	VERB	_	2	amod	_	_	그러하/pad+ㄴ/etm
+2	선거분위기는	선거+분위기+는	NOUN	_	5	dislocated	_	_	선거/ncpa+분위기/ncn+는/jxt
+3	집권여당에게	집권+여당+에게	ADV	_	5	iobj	_	_	집권/ncpa+여당/ncn+에게/jca
+4	크게	크+게	SCONJ	_	5	xcomp	_	_	크/paa+게/ecs
+5	유리했음은	유리+하+었+ㅁ+은	NOUN	_	6	dislocated	_	_	유리/ncpa+하/xsv+었/ep+ㅁ/etn+은/jxt
+6	물론이다	물론+이+다	VERB	_	0	root	_	_	물론/ncn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 선거일이 집권당의 총수인 대통령에 의해 자의적으로 결정된다는 것은 불합리하다 .
+1	선거일이	선거일+이	NOUN	_	7	nsubj	_	_	선거일/ncn+이/jcs
+2	집권당의	집권당+의	NOUN	_	3	nmod	_	_	집권당/ncn+의/jcm
+3	총수인	총수+이+ㄴ	VERB	_	4	acl	_	_	총수/ncn+이/jp+ㄴ/etm
+4	대통령에	대통령+에	ADV	_	5	obl	_	_	대통령/ncn+에/jca
+5	의해	의하+어	SCONJ	_	7	ccomp	_	_	의하/pvg+어/ecs
+6	자의적으로	자의+적+으로	ADV	_	7	advcl	_	_	자의/ncn+적/xsn+으로/jca
+7	결정된다는	결정+되+ㄴ다는	VERB	_	8	acl	_	_	결정/ncpa+되/xsv+ㄴ다는/etm
+8	것은	것+은	NOUN	_	9	dislocated	_	_	것/nbn+은/jxt
+9	불합리하다	불합리+하+다	VERB	_	0	root	_	_	불합리/ncpa+하/xsv+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러한 의미에서 선거일을 법적으로 미리 확정해 놓는 것이 바람직하다 .
+1	그러한	그러하+ㄴ	VERB	_	2	amod	_	_	그러하/pad+ㄴ/etm
+2	의미에서	의미+에서	ADV	_	9	advcl	_	_	의미/ncpa+에서/jca
+3	선거일을	선거일+을	NOUN	_	6	obj	_	_	선거일/ncn+을/jco
+4	법적으로	법+적+으로	ADV	_	6	advcl	_	_	법/ncn+적/xsn+으로/jca
+5	미리	미리	ADV	_	6	advmod	_	_	미리/mag
+6	확정해	확정+하+어	VERB	_	8	acl	_	_	확정/ncpa+하/xsv+어/ecx
+7	놓는	놓+는	AUX	_	6	aux	_	_	놓/px+는/etm
+8	것이	것+이	NOUN	_	9	nsubj	_	_	것/nbn+이/jcs
+9	바람직하다	바람직하+다	ADJ	_	0	root	_	_	바람직하/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 선진민주주의국가에서는 통상 ' 임기만료 전 몇째주 무슨 요일 ' 이라는 형식으로 선거일이 확정되어 있다 .
+1	선진민주주의국가에서는	선진+민주주의+국가+에서+는	NOUN	_	13	dislocated	_	_	선진/ncpa+민주주의/ncn+국가/ncn+에서/jca+는/jxt
+2	통상	통상	NOUN	_	8	advmod	_	_	통상/ncn
+3	'	'	PUNCT	_	4	punct	_	_	'/sl
+4	임기만료	임기+만료	NOUN	_	5	compound	_	_	임기/ncn+만료/ncpa
+5	전	전	NOUN	_	6	compound	_	_	전/ncn
+6	몇째주	몇째+주	NOUN	_	8	compound	_	_	몇째/nno+주/nbu
+7	무슨	무슨	DET	_	8	det	_	_	무슨/mmd
+8	요일	요일	NOUN	_	11	acl	_	_	요일/ncn
+9	'	'	PUNCT	_	8	punct	_	_	'/sr
+10	이라는	이+라는	ADP	_	8	cop	_	_	이/jp+라는/etm
+11	형식으로	형식+으로	ADV	_	13	advcl	_	_	형식/ncn+으로/jca
+12	선거일이	선거일+이	NOUN	_	13	nsubj	_	_	선거일/ncn+이/jcs
+13	확정되어	확정+되+어	VERB	_	0	root	_	_	확정/ncpa+되/xsv+어/ecx
+14	있다	있+다	AUX	_	13	aux	_	_	있/px+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 따라서 선거일 선정 문제를 놓고 정권에서 뜨겁게 다투는 일이 없는 것이다 .
+1	따라서	따라서	CCONJ	_	10	cc	_	_	따라서/maj
+2	선거일	선거일	NOUN	_	3	compound	_	_	선거일/ncn
+3	선정	선정	NOUN	_	4	compound	_	_	선정/ncpa
+4	문제를	문제+를	NOUN	_	5	obj	_	_	문제/ncn+를/jco
+5	놓고	놓+고	CCONJ	_	10	conj	_	_	놓/pvg+고/ecc
+6	정권에서	정권+에서	ADV	_	8	advcl	_	_	정권/ncn+에서/jca
+7	뜨겁게	뜨겁+게	SCONJ	_	8	xcomp	_	_	뜨겁/paa+게/ecs
+8	다투는	다투+는	VERB	_	9	acl	_	_	다투/pvg+는/etm
+9	일이	일+이	NOUN	_	10	nsubj	_	_	일/ncpa+이/jcs
+10	없는	없+는	ADJ	_	0	root	_	_	없/paa+는/etm
+11	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 민주사회 내에서의 정당은 정권 유지와 획득을 위하여 상호경쟁한다 .
+1	민주사회	민주+사회	NOUN	_	2	compound	_	_	민주/ncn+사회/ncn
+2	내에서의	내+에서+의	NOUN	_	3	nmod	_	_	내/ncn+에서/jca+의/jcm
+3	정당은	정당+은	NOUN	_	8	dislocated	_	_	정당/ncn+은/jxt
+4	정권	정권	NOUN	_	6	compound	_	_	정권/ncn
+5	유지와	유지+와	CCONJ	_	6	conj	_	_	유지/ncpa+와/jcj
+6	획득을	획득+을	NOUN	_	7	obj	_	_	획득/ncpa+을/jco
+7	위하여	위하+어	SCONJ	_	8	ccomp	_	_	위하/pvg+어/ecs
+8	상호경쟁한다	상호경쟁+하+ㄴ다	VERB	_	0	root	_	_	상호경쟁/ncpa+하/xsv+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 인류는 역사적 경험을 통하여 일당독재의 경우보다 정당간의 상호경쟁이 제도적으로 보장될 때 보다 나은 정치를 기대할 수 있음을 알았다 .
+1	인류는	인류+는	NOUN	_	18	dislocated	_	_	인류/ncn+는/jxt
+2	역사적	역사+적	NOUN	_	3	amod	_	_	역사/ncn+적/xsn
+3	경험을	경험+을	NOUN	_	4	obj	_	_	경험/ncpa+을/jco
+4	통하여	통하+어	SCONJ	_	15	ccomp	_	_	통하/pvg+어/ecs
+5	일당독재의	일당+독재+의	NOUN	_	6	nmod	_	_	일당/ncn+독재/ncpa+의/jcm
+6	경우보다	경우+보다	ADV	_	10	advcl	_	_	경우/ncn+보다/jca
+7	정당간의	정당+간+의	NOUN	_	8	nmod	_	_	정당/ncn+간/xsn+의/jcm
+8	상호경쟁이	상호경쟁+이	NOUN	_	10	nsubj	_	_	상호경쟁/ncpa+이/jcs
+9	제도적으로	제도+적+으로	ADV	_	10	advcl	_	_	제도/ncn+적/xsn+으로/jca
+10	보장될	보장+되+ㄹ	VERB	_	11	acl	_	_	보장/ncpa+되/xsv+ㄹ/etm
+11	때	때	NOUN	_	15	advmod	_	_	때/ncn
+12	보다	보다	ADV	_	13	advmod	_	_	보다/mag
+13	나은	낫+ㄴ	VERB	_	14	acl	_	_	낫/pvg+ㄴ/etm
+14	정치를	정치+를	NOUN	_	15	obj	_	_	정치/ncpa+를/jco
+15	기대할	기대+하+ㄹ	VERB	_	18	obj	_	_	기대/ncpa+하/xsv+ㄹ/etm
+16	수	수	NOUN	_	17	fixed	_	_	수/nbn
+17	있음을	있+ㅁ+을	NOUN	_	15	aux	_	_	있/paa+ㅁ/etn+을/jco
+18	알았다	알+았+다	VERB	_	0	root	_	_	알/pvg+았/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 과거 파시스트정당과 공산당독재의 정치적 종말은 일당독재의 폐해를 잘 보여준다 .
+1	과거	과거	NOUN	_	5	compound	_	_	과거/ncn
+2	파시스트정당과	파시스트+정당+과	CCONJ	_	3	conj	_	_	파시스트/ncn+정당/ncn+과/jcj
+3	공산당독재의	공산당+독재+의	NOUN	_	5	nmod	_	_	공산당/ncn+독재/ncpa+의/jcm
+4	정치적	정치+적	NOUN	_	5	amod	_	_	정치/ncpa+적/xsn
+5	종말은	종말+은	NOUN	_	9	dislocated	_	_	종말/ncn+은/jxt
+6	일당독재의	일당+독재+의	NOUN	_	7	nmod	_	_	일당/ncn+독재/ncpa+의/jcm
+7	폐해를	폐해+를	NOUN	_	9	obj	_	_	폐해/ncn+를/jco
+8	잘	잘	ADV	_	9	advmod	_	_	잘/mag
+9	보여준다	보이+어+주+ㄴ다	AUX	_	0	root	_	_	보이/pvg+어/ecx+주/px+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 우리나라 정당제도는 그 형식적인 측면에서는 서구민주주의하의 정당제도와 유사하나 , 그 실제운용 면에서는 매우 다르다 .
+1	우리나라	우리+나라	NOUN	_	2	compound	_	_	우리/npp+나라/ncn
+2	정당제도는	정당+제도+는	NOUN	_	14	dislocated	_	_	정당/ncn+제도/ncn+는/jxt
+3	그	그	DET	_	4	det	_	_	그/mmd
+4	형식적인	형식+적+이+ㄴ	VERB	_	5	acl	_	_	형식/ncn+적/xsn+이/jp+ㄴ/etm
+5	측면에서는	측면+에서+는	NOUN	_	8	dislocated	_	_	측면/ncn+에서/jca+는/jxt
+6	서구민주주의하의	서구+민주주의+하+의	NOUN	_	7	nmod	_	_	서구/ncn+민주주의/ncn+하/ncn+의/jcm
+7	정당제도와	정당+제도+와	CCONJ	_	8	conj	_	_	정당/ncn+제도/ncn+와/jct
+8	유사하나	유사+하+나	SCONJ	_	14	conj	_	_	유사/ncpa+하/xsv+나/ecs
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	그	그	DET	_	11	det	_	_	그/mmd
+11	실제운용	실제+운용	NOUN	_	12	compound	_	_	실제/ncn+운용/ncn
+12	면에서는	면+에서+는	NOUN	_	14	dislocated	_	_	면/ncn+에서/jca+는/jxt
+13	매우	매우	ADV	_	14	advmod	_	_	매우/mag
+14	다르다	다르+다	ADJ	_	0	root	_	_	다르/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 과거 권위주의 정치하에서는 정당간의 자유로운 경쟁이 보장되지 않았다 .
+1	과거	과거	NOUN	_	3	compound	_	_	과거/ncn
+2	권위주의	권위주의	NOUN	_	3	compound	_	_	권위주의/ncn
+3	정치하에서는	정치+하+에서+는	NOUN	_	7	dislocated	_	_	정치/ncn+하/ncn+에서/jca+는/jxt
+4	정당간의	정당+간+의	NOUN	_	6	nmod	_	_	정당/ncn+간/xsn+의/jcm
+5	자유로운	자유+롭+ㄴ	VERB	_	6	amod	_	_	자유/ncps+롭/xsm+ㄴ/etm
+6	경쟁이	경쟁+이	NOUN	_	7	nsubj	_	_	경쟁/ncpa+이/jcs
+7	보장되지	보장+되+지	VERB	_	0	root	_	_	보장/ncpa+되/xsv+지/ecx
+8	않았다	않+았+다	AUX	_	7	aux	_	_	않/px+았/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 오히려 야당은 정치탄압의 대상이었고 , 여야정치인들은 경쟁이 아니라 정치적인 투쟁을 일삼아왔다 .
+1	오히려	오히려	ADV	_	4	advmod	_	_	오히려/mag
+2	야당은	야당+은	NOUN	_	4	dislocated	_	_	야당/ncn+은/jxt
+3	정치탄압의	정치+탄압+의	NOUN	_	4	nmod	_	_	정치/ncpa+탄압/ncpa+의/jcm
+4	대상이었고	대상+이+었+고	CCONJ	_	11	conj	_	_	대상/ncn+이/jp+었/ep+고/ecc
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	여야정치인들은	여야+정치인+들+은	NOUN	_	11	dislocated	_	_	여야/ncn+정치인/ncn+들/xsn+은/jxt
+7	경쟁이	경쟁+이	NOUN	_	8	csubj	_	_	경쟁/ncpa+이/jcc
+8	아니라	아니+라	SCONJ	_	11	xcomp	_	_	아니/paa+라/ecs
+9	정치적인	정치+적+이+ㄴ	VERB	_	10	acl	_	_	정치/ncpa+적/xsn+이/jp+ㄴ/etm
+10	투쟁을	투쟁+을	NOUN	_	11	obj	_	_	투쟁/ncpa+을/jco
+11	일삼아왔다	일삼+아+오+았+다	AUX	_	0	root	_	_	일삼/pvg+아/ecx+오/px+았/ep+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 정치적 경쟁이 없는 상태에서 정당정치는 발전할 수 없다는 사실을 경험해왔던 것이다 .
+1	정치적	정치+적	NOUN	_	2	amod	_	_	정치/ncpa+적/xsn
+2	경쟁이	경쟁+이	NOUN	_	3	nsubj	_	_	경쟁/ncpa+이/jcs
+3	없는	없+는	ADJ	_	4	amod	_	_	없/paa+는/etm
+4	상태에서	상태+에서	ADV	_	6	advcl	_	_	상태/ncn+에서/jca
+5	정당정치는	정당+정치+는	NOUN	_	6	dislocated	_	_	정당/ncn+정치/ncpa+는/jxt
+6	발전할	발전+하+ㄹ	VERB	_	9	acl	_	_	발전/ncpa+하/xsv+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	없다는	없+다는	ADJ	_	6	aux	_	_	없/paa+다는/etm
+9	사실을	사실+을	NOUN	_	10	obj	_	_	사실/ncn+을/jco
+10	경험해왔던	경험+하+어+오+았+던	AUX	_	0	root	_	_	경험/ncpa+하/xsv+어/ecx+오/px+았/ep+던/etm
+11	것이다	것+이+다	VERB	_	10	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 결과적으로 한국정당은 아직 대중 속에 뿌리내리고 있지 못하다 .
+1	결과적으로	결과+적+으로	ADV	_	6	advcl	_	_	결과/ncpa+적/xsn+으로/jca
+2	한국정당은	한국+정당+은	PROPN	_	6	dislocated	_	_	한국/nq+정당/ncn+은/jxt
+3	아직	아직	ADV	_	6	advmod	_	_	아직/mag
+4	대중	대중	NOUN	_	5	compound	_	_	대중/ncn
+5	속에	속+에	ADV	_	6	obl	_	_	속/ncn+에/jca
+6	뿌리내리고	뿌리내리+고	VERB	_	0	root	_	_	뿌리내리/pvg+고/ecx
+7	있지	있+지	AUX	_	6	aux	_	_	있/px+지/ecx
+8	못하다	못하+다	AUX	_	6	aux	_	_	못하/px+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 한국정당의 특징 중의 하나는 명사정당이라는 것이다 .
+1	한국정당의	한국+정당+의	PROPN	_	2	nmod	_	_	한국/nq+정당/ncn+의/jcm
+2	특징	특징	NOUN	_	3	compound	_	_	특징/ncn
+3	중의	중+의	NOUN	_	4	nmod	_	_	중/nbn+의/jcm
+4	하나는	하나+는	NUM	_	5	dislocated	_	_	하나/nnc+는/jxt
+5	명사정당이라는	명사+정당+이+라는	VERB	_	0	root	_	_	명사/ncn+정당/ncn+이/jp+라는/etm
+6	것이다	것+이+다	VERB	_	5	aux	_	_	것/nbn+이/jp+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 명사정당이란 대중정당과 구분되는 개념인데 , 몇몇 소수의 명망가들을 중심으로 당이 조직되고 운용되는 정당을 말한다 .
+1	명사정당이란	명사+정당+이란	ADV	_	4	advcl	_	_	명사/ncn+정당/ncn+이란/jxc
+2	대중정당과	대중+정당+과	CCONJ	_	3	conj	_	_	대중/ncn+정당/ncn+과/jct
+3	구분되는	구분+되+는	VERB	_	4	ccomp	_	_	구분/ncpa+되/xsv+는/etm
+4	개념인데	개념+이+ㄴ데	SCONJ	_	14	ccomp	_	_	개념/ncn+이/jp+ㄴ데/ecs
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	몇몇	몇몇	ADJ	_	7	amod	_	_	몇몇/mma
+7	소수의	소수+의	NOUN	_	8	nmod	_	_	소수/ncn+의/jcm
+8	명망가들을	명망가+들+을	NOUN	_	12	obj	_	_	명망가/ncn+들/xsn+을/jco
+9	중심으로	중심+으로	ADV	_	12	advcl	_	_	중심/ncn+으로/jca
+10	당이	당+이	NOUN	_	11	nsubj	_	_	당/ncn+이/jcs
+11	조직되고	조직+되+고	CCONJ	_	12	conj	_	_	조직/ncpa+되/xsv+고/ecc
+12	운용되는	운용+되+ㄴ	VERB	_	13	acl	_	_	운용/ncpa+되/xsv+ㄴ/etm
+13	정당을	정당+을	NOUN	_	14	obj	_	_	정당/ncn+을/jco
+14	말한다	말하+ㄴ다	VERB	_	0	root	_	_	말하/pvg+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 명사정당은 그 조직과 운용에서 소수의 인물에게 크게 의존하게 되므로 하부대중조직이 취약하다는 특성을 가진다 .
+1	명사정당은	명사+정당+은	NOUN	_	8	dislocated	_	_	명사/ncn+정당/ncn+은/jxt
+2	그	그	DET	_	4	det	_	_	그/mmd
+3	조직과	조직+과	CCONJ	_	4	conj	_	_	조직/ncpa+과/jcj
+4	운용에서	운용+에서	ADV	_	8	advcl	_	_	운용/ncpa+에서/jca
+5	소수의	소수+의	NOUN	_	6	nmod	_	_	소수/ncn+의/jcm
+6	인물에게	인물+에게	ADV	_	8	iobj	_	_	인물/ncn+에게/jca
+7	크게	크+게	SCONJ	_	8	xcomp	_	_	크/paa+게/ecs
+8	의존하게	의존+하+게	VERB	_	13	ccomp	_	_	의존/ncpa+하/xsv+게/ecx
+9	되므로	되+므로	SCONJ	_	8	aux	_	_	되/px+므로/ecs
+10	하부대중조직이	하부+대중+조직+이	NOUN	_	11	nsubj	_	_	하부/ncn+대중/ncn+조직/ncpa+이/jcs
+11	취약하다는	취약+하+다는	VERB	_	12	acl	_	_	취약/ncpa+하/xsv+다는/etm
+12	특성을	특성+을	NOUN	_	13	obj	_	_	특성/ncn+을/jco
+13	가진다	가지+ㄴ다	VERB	_	0	root	_	_	가지/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 마찬가지로 정당이 중앙에 있는 몇몇 사람에 의해 운용되므로 중앙집권적인 특성을 가진다 .
+1	마찬가지로	마찬가지+로	ADV	_	11	advcl	_	_	마찬가지/ncn+로/jca
+2	정당이	정당+이	NOUN	_	4	nsubj	_	_	정당/ncn+이/jcs
+3	중앙에	중앙+에	ADV	_	4	obl	_	_	중앙/ncn+에/jca
+4	있는	있+는	ADJ	_	6	amod	_	_	있/paa+는/etm
+5	몇몇	몇몇	ADJ	_	6	amod	_	_	몇몇/mma
+6	사람에	사람+에	ADV	_	7	obl	_	_	사람/ncn+에/jca
+7	의해	의하+어	SCONJ	_	8	ccomp	_	_	의하/pvg+어/ecs
+8	운용되므로	운용+되+므로	SCONJ	_	11	ccomp	_	_	운용/ncpa+되/xsv+므로/ecs
+9	중앙집권적인	중앙집권+적+이+ㄴ	VERB	_	10	acl	_	_	중앙집권/ncn+적/xsn+이/jp+ㄴ/etm
+10	특성을	특성+을	NOUN	_	11	obj	_	_	특성/ncn+을/jco
+11	가진다	가지+ㄴ다	VERB	_	0	root	_	_	가지/pvg+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 또한 지극히 인물 중심적인 성격을 가지게 되므로 정당의 제도화 수준은 매우 낮다 .
+1	또한	또한	CCONJ	_	12	cc	_	_	또한/maj
+2	지극히	지극히	ADV	_	4	advmod	_	_	지극히/mag
+3	인물	인물	NOUN	_	4	compound	_	_	인물/ncn
+4	중심적인	중심+적+이+ㄴ	VERB	_	5	acl	_	_	중심/ncn+적/xsn+이/jp+ㄴ/etm
+5	성격을	성격+을	NOUN	_	6	obj	_	_	성격/ncn+을/jco
+6	가지게	가지+게	VERB	_	12	conj	_	_	가지/pvg+게/ecx
+7	되므로	되+므로	SCONJ	_	6	aux	_	_	되/px+므로/ecs
+8	정당의	정당+의	NOUN	_	9	nmod	_	_	정당/ncn+의/jcm
+9	제도화	제도화	NOUN	_	10	compound	_	_	제도화/ncn
+10	수준은	수준+은	NOUN	_	12	dislocated	_	_	수준/ncn+은/jxt
+11	매우	매우	ADV	_	12	advmod	_	_	매우/mag
+12	낮다	낮+다	ADJ	_	0	root	_	_	낮/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 따라서 당내 최고지도자가 사망하거나 정치적인 힘을 상실하게 되면 정당조직은 순식간에 해체되고 만다 .
+1	따라서	따라서	CCONJ	_	11	cc	_	_	따라서/maj
+2	당내	당내	NOUN	_	3	compound	_	_	당내/ncn
+3	최고지도자가	최고+지도자+가	NOUN	_	4	nsubj	_	_	최고/ncn+지도자/ncn+가/jcs
+4	사망하거나	사망+하+거나	CCONJ	_	7	conj	_	_	사망/ncpa+하/xsv+거나/ecc
+5	정치적인	정치+적+이+ㄴ	VERB	_	6	acl	_	_	정치/ncpa+적/xsn+이/jp+ㄴ/etm
+6	힘을	힘+을	NOUN	_	7	obj	_	_	힘/ncn+을/jco
+7	상실하게	상실+하+게	VERB	_	11	ccomp	_	_	상실/ncpa+하/xsv+게/ecx
+8	되면	되+면	SCONJ	_	7	aux	_	_	되/px+면/ecs
+9	정당조직은	정당+조직+은	NOUN	_	11	dislocated	_	_	정당/ncn+조직/ncpa+은/jxt
+10	순식간에	순식간+에	ADV	_	11	obl	_	_	순식간/ncn+에/jca
+11	해체되고	해체+되+고	VERB	_	0	root	_	_	해체/ncpa+되/xsv+고/ecx
+12	만다	말+ㄴ다	AUX	_	11	aux	_	_	말/px+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 과거 박정희대통령이 사망하자 민주공화당이 즉시 해체되었던 경험은 명사정당의 제도적 취약성을 여실히 보여주는 예이다 .
+1	과거	과거	NOUN	_	3	advmod	_	_	과거/ncn
+2	박정희대통령이	박정희+대통령+이	PROPN	_	3	nsubj	_	_	박정희/nq+대통령/ncn+이/jcs
+3	사망하자	사망+하+자	SCONJ	_	6	ccomp	_	_	사망/ncpa+하/xsv+자/ecs
+4	민주공화당이	민주+공화당+이	NOUN	_	6	nsubj	_	_	민주/ncn+공화당/ncn+이/jcs
+5	즉시	즉시	ADV	_	6	advmod	_	_	즉시/mag
+6	해체되었던	해체+되+었+던	VERB	_	7	acl	_	_	해체/ncpa+되/xsv+었/ep+던/etm
+7	경험은	경험+은	NOUN	_	13	dislocated	_	_	경험/ncpa+은/jxt
+8	명사정당의	명사+정당+의	NOUN	_	10	nmod	_	_	명사/ncn+정당/ncn+의/jcm
+9	제도적	제도+적	NOUN	_	10	amod	_	_	제도/ncn+적/xsn
+10	취약성을	취약성+을	NOUN	_	12	obj	_	_	취약성/ncn+을/jco
+11	여실히	여실히	ADV	_	12	advmod	_	_	여실히/mag
+12	보여주는	보이+어+주+는	AUX	_	13	ccomp	_	_	보이/pvg+어/ecx+주/px+는/etm
+13	예이다	예+이+다	VERB	_	0	root	_	_	예/ncn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 우리의 정당구조는 인물 중심으로부터 과감히 탈피해야 한다 .
+1	우리의	우리+의	PRON	_	2	nmod	_	_	우리/npp+의/jcm
+2	정당구조는	정당+구조+는	NOUN	_	6	dislocated	_	_	정당/ncn+구조/ncn+는/jxt
+3	인물	인물	NOUN	_	4	compound	_	_	인물/ncn
+4	중심으로부터	중심+으로+부터	ADV	_	6	advcl	_	_	중심/ncn+으로/jca+부터/jxc
+5	과감히	과감+히	ADV	_	6	advmod	_	_	과감/ncps+히/xsa
+6	탈피해야	탈피+하+어야	VERB	_	0	root	_	_	탈피/ncpa+하/xsv+어야/ecx
+7	한다	하+ㄴ다	AUX	_	6	aux	_	_	하/px+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 즉 정당이 몇몇 정치적 명망가의 수중으로부터 재중의 수중으로 넘어와야 한다는 것이다 .
+1	즉	즉	CCONJ	_	9	cc	_	_	즉/maj
+2	정당이	정당+이	NOUN	_	9	nsubj	_	_	정당/ncn+이/jcs
+3	몇몇	몇몇	ADJ	_	5	amod	_	_	몇몇/mma
+4	정치적	정치+적	NOUN	_	5	amod	_	_	정치/ncpa+적/xsn
+5	명망가의	명망가+의	NOUN	_	6	nmod	_	_	명망가/ncn+의/jcm
+6	수중으로부터	수중+으로+부터	ADV	_	9	advcl	_	_	수중/ncn+으로/jca+부터/jxc
+7	재중의	재중+의	NOUN	_	8	nmod	_	_	재중/ncn+의/jcm
+8	수중으로	수중+으로	ADV	_	9	advcl	_	_	수중/ncn+으로/jca
+9	넘어와야	넘+어+오+아야	AUX	_	0	root	_	_	넘/pvg+어/ecx+오/px+아야/ecx
+10	한다는	하+ㄴ다는	AUX	_	9	aux	_	_	하/px+ㄴ다는/etm
+11	것이다	것+이+다	VERB	_	9	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 오늘날 한국의 정치가 지역주의에 의해 크게 영향을 받고 있는 상황은 결코 인물 중심의 정당구조와 무관하지 않다 .
+1	오늘날	오늘날	NOUN	_	3	compound	_	_	오늘날/ncn
+2	한국의	한국+의	PROPN	_	3	nmod	_	_	한국/nq+의/jcm
+3	정치가	정치가	NOUN	_	8	advmod	_	_	정치가/ncn
+4	지역주의에	지역주의+에	ADV	_	5	obl	_	_	지역주의/ncn+에/jca
+5	의해	의하+어	SCONJ	_	8	ccomp	_	_	의하/pvg+어/ecs
+6	크게	크+게	SCONJ	_	8	xcomp	_	_	크/paa+게/ecs
+7	영향을	영향+을	NOUN	_	8	obj	_	_	영향/ncn+을/jco
+8	받고	받+고	VERB	_	10	acl	_	_	받/pvg+고/ecx
+9	있는	있+는	AUX	_	8	aux	_	_	있/px+는/etm
+10	상황은	상황+은	NOUN	_	15	dislocated	_	_	상황/ncn+은/jxt
+11	결코	결코	ADV	_	15	advmod	_	_	결코/mag
+12	인물	인물	NOUN	_	13	compound	_	_	인물/ncn
+13	중심의	중심+의	NOUN	_	14	nmod	_	_	중심/ncn+의/jcm
+14	정당구조와	정당+구조+와	CCONJ	_	15	conj	_	_	정당/ncn+구조/ncpa+와/jct
+15	무관하지	무관하+지	ADJ	_	0	root	_	_	무관하/paa+지/ecx
+16	않다	않+다	AUX	_	15	aux	_	_	않/px+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 인물 중심의 정당정치는 파벌정치를 낳기 쉽고 , 파벌정치의 성행은 정치의 질을 떨어뜨리기 쉽다 .
+1	인물	인물	NOUN	_	2	compound	_	_	인물/ncn
+2	중심의	중심+의	NOUN	_	3	nmod	_	_	중심/ncn+의/jcm
+3	정당정치는	정당+정치+는	NOUN	_	5	dislocated	_	_	정당/ncn+정치/ncpa+는/jxt
+4	파벌정치를	파벌+정치+를	NOUN	_	5	obj	_	_	파벌/ncn+정치/ncpa+를/jco
+5	낳기	낳+기	VERB	_	6	nmod	_	_	낳/pvg+기/etn
+6	쉽고	쉽+고	CCONJ	_	13	conj	_	_	쉽/paa+고/ecc
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	파벌정치의	파벌+정치+의	NOUN	_	9	nmod	_	_	파벌/ncn+정치/ncpa+의/jcm
+9	성행은	성행+은	NOUN	_	12	dislocated	_	_	성행/ncpa+은/jxt
+10	정치의	정치+의	NOUN	_	11	nmod	_	_	정치/ncpa+의/jcm
+11	질을	질+을	NOUN	_	12	obj	_	_	질/ncn+을/jco
+12	떨어뜨리기	떨어뜨리+기	VERB	_	13	nmod	_	_	떨어뜨리/pvg+기/etn
+13	쉽다	쉽+다	ADJ	_	0	root	_	_	쉽/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 파벌정치는 국가를 통합하기보다는 분열시키며 , 결과적으로 정치적 불안정을 야기하기 쉽다 .
+1	파벌정치는	파벌+정치+는	NOUN	_	4	dislocated	_	_	파벌/ncn+정치/ncpa+는/jxt
+2	국가를	국가+를	NOUN	_	3	obj	_	_	국가/ncn+를/jco
+3	통합하기보다는	통합+하+기+보다+는	NOUN	_	4	dislocated	_	_	통합/ncpa+하/xsv+기/etn+보다/jca+는/jxt
+4	분열시키며	분열+시키+며	CCONJ	_	10	conj	_	_	분열/ncpa+시키/xsv+며/ecc
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	결과적으로	결과+적+으로	ADV	_	10	advcl	_	_	결과/ncpa+적/xsn+으로/jca
+7	정치적	정치+적	NOUN	_	8	amod	_	_	정치/ncpa+적/xsn
+8	불안정을	불안정+을	NOUN	_	9	obj	_	_	불안정/ncpa+을/jco
+9	야기하기	야기+하+기	VERB	_	10	nmod	_	_	야기/ncpa+하/xsv+기/etn
+10	쉽다	쉽+다	ADJ	_	0	root	_	_	쉽/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 우리의 정치계가 국민의 지탄을 받아온 것도 바로 그러한 파벌 또는 계보 정치의 폐해 때문이었다 .
+1	우리의	우리+의	PRON	_	2	nmod	_	_	우리/npp+의/jcm
+2	정치계가	정치계+가	NOUN	_	5	nsubj	_	_	정치계/ncn+가/jcs
+3	국민의	국민+의	NOUN	_	4	nmod	_	_	국민/ncn+의/jcm
+4	지탄을	지탄+을	NOUN	_	5	obj	_	_	지탄/ncpa+을/jco
+5	받아온	받+아+오+ㄴ	AUX	_	6	acl	_	_	받/pvg+아/ecx+오/px+ㄴ/etm
+6	것도	것+도	ADV	_	14	advcl	_	_	것/nbn+도/jxc
+7	바로	바로	ADV	_	14	advmod	_	_	바로/mag
+8	그러한	그러하+ㄴ	VERB	_	11	amod	_	_	그러하/pad+ㄴ/etm
+9	파벌	파벌	NOUN	_	11	conj	_	_	파벌/ncn
+10	또는	또는	CCONJ	_	11	cc	_	_	또는/maj
+11	계보	계보	NOUN	_	12	compound	_	_	계보/ncn
+12	정치의	정치+의	NOUN	_	13	nmod	_	_	정치/ncpa+의/jcm
+13	폐해	폐해	NOUN	_	14	compound	_	_	폐해/ncn
+14	때문이었다	때문+이+었+다	VERB	_	0	root	_	_	때문/nbn+이/jp+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 하루빨리 한국 정당체계가 인물 중심의 수렁으로부터 벗어나야 하겠다 .
+1	하루빨리	하루빨리	ADV	_	7	advmod	_	_	하루빨리/mag
+2	한국	한국	PROPN	_	3	compound	_	_	한국/nq
+3	정당체계가	정당+체계+가	NOUN	_	7	nsubj	_	_	정당/ncn+체계/ncn+가/jcs
+4	인물	인물	NOUN	_	5	compound	_	_	인물/ncn
+5	중심의	중심+의	NOUN	_	6	nmod	_	_	중심/ncn+의/jcm
+6	수렁으로부터	수렁+으로+부터	ADV	_	7	advcl	_	_	수렁/ncn+으로/jca+부터/jxc
+7	벗어나야	벗어나+아야	VERB	_	0	root	_	_	벗어나/pvg+아야/ecx
+8	하겠다	하+겠+다	AUX	_	7	aux	_	_	하/px+겠/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 즉 제도 중심은 정당운영이 되어야 한다는 것이다 .
+1	즉	즉	CCONJ	_	5	cc	_	_	즉/maj
+2	제도	제도	NOUN	_	3	compound	_	_	제도/ncn
+3	중심은	중심+은	NOUN	_	5	dislocated	_	_	중심/ncn+은/jxt
+4	정당운영이	정당+운영+이	NOUN	_	5	nsubj	_	_	정당/ncn+운영/ncpa+이/jcs
+5	되어야	되+어야	VERB	_	0	root	_	_	되/pvg+어야/ecx
+6	한다는	하+ㄴ다는	AUX	_	5	aux	_	_	하/px+ㄴ다는/etm
+7	것이다	것+이+다	VERB	_	5	aux	_	_	것/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 인물 중심의 정당정치는 정당을 지나치게 중앙집권화하는 경향이 있다 .
+1	인물	인물	NOUN	_	2	compound	_	_	인물/ncn
+2	중심의	중심+의	NOUN	_	3	nmod	_	_	중심/ncn+의/jcm
+3	정당정치는	정당+정치+는	NOUN	_	8	dislocated	_	_	정당/ncn+정치/ncpa+는/jxt
+4	정당을	정당+을	NOUN	_	5	obj	_	_	정당/ncn+을/jco
+5	지나치게	지나치+게	SCONJ	_	6	ccomp	_	_	지나치/pvg+게/ecs
+6	중앙집권화하는	중앙집권화+하+는	VERB	_	7	acl	_	_	중앙집권화/ncpa+하/xsv+는/etm
+7	경향이	경향+이	NOUN	_	8	nsubj	_	_	경향/ncn+이/jcs
+8	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 예를 들면 모든 공직자후보자들의 공천권이 중앙에 있는 당내 몇몇 인사들에 의해서 독점된다 .
+1	예를	예+를	NOUN	_	2	obj	_	_	예/ncn+를/jco
+2	들면	들+면	SCONJ	_	12	ccomp	_	_	들/pvg+면/ecs
+3	모든	모든	ADJ	_	4	amod	_	_	모든/mma
+4	공직자후보자들의	공직자+후보자+들+의	NOUN	_	5	nmod	_	_	공직자/ncn+후보자/ncn+들/xsn+의/jcm
+5	공천권이	공천권+이	NOUN	_	12	nsubj	_	_	공천권/ncn+이/jcs
+6	중앙에	중앙+에	ADV	_	7	obl	_	_	중앙/ncn+에/jca
+7	있는	있+는	ADJ	_	10	amod	_	_	있/paa+는/etm
+8	당내	당내	NOUN	_	10	compound	_	_	당내/ncn
+9	몇몇	몇몇	ADJ	_	10	amod	_	_	몇몇/mma
+10	인사들에	인사+들+에	ADV	_	11	obl	_	_	인사/ncn+들/xsn+에/jca
+11	의해서	의하+어서	SCONJ	_	12	ccomp	_	_	의하/pvg+어서/ecs
+12	독점된다	독점+되+ㄴ다	VERB	_	0	root	_	_	독점/ncpa+되/xsv+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 지구당원들은 자기 지역구의 공직자후보자선출과정에서 철저히 배제된다 .
+1	지구당원들은	지구+당원+들+은	NOUN	_	6	dislocated	_	_	지구/ncn+당원/ncn+들/xsn+은/jxt
+2	자기	자기	PRON	_	3	compound	_	_	자기/npp
+3	지역구의	지역구+의	NOUN	_	4	nmod	_	_	지역구/ncn+의/jcm
+4	공직자후보자선출과정에서	공직자+후보자+선출+과정+에서	ADV	_	6	advcl	_	_	공직자/ncn+후보자/ncn+선출/ncpa+과정/ncn+에서/jca
+5	철저히	철저히	ADV	_	6	advmod	_	_	철저히/mag
+6	배제된다	배제+되+ㄴ다	VERB	_	0	root	_	_	배제/ncpa+되/xsv+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 공천과정이 공개 리에 진행되지 못하기 때문에 온갖 정치적 비리가 공천과정에서부터 발생한다 .
+1	공천과정이	공천+과정+이	NOUN	_	4	nsubj	_	_	공천/ncpa+과정/ncn+이/jcs
+2	공개	공개	NOUN	_	3	compound	_	_	공개/ncn
+3	리에	리+에	ADV	_	4	obl	_	_	리/nbn+에/jca
+4	진행되지	진행+되+지	VERB	_	6	dep	_	_	진행/ncpa+되/xsv+지/ecx
+5	못하기	못하+기	AUX	_	4	aux	_	_	못하/px+기/etn
+6	때문에	때문+에	ADV	_	11	obl	_	_	때문/nbn+에/jca
+7	온갖	온갖	ADJ	_	8	amod	_	_	온갖/mma
+8	정치적	정치+적	NOUN	_	9	amod	_	_	정치/ncpa+적/xsn
+9	비리가	비리+가	NOUN	_	11	nsubj	_	_	비리/ncn+가/jcs
+10	공천과정에서부터	공천+과정+에서+부터	ADV	_	11	advcl	_	_	공천/ncpa+과정/ncn+에서/jca+부터/jxc
+11	발생한다	발생+하+ㄴ다	VERB	_	0	root	_	_	발생/ncpa+하/xsv+ㄴ다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 따라서 지구당원들의 자기 정당에 대한 애착심이나 충성심은 자라날 수 없다 .
+1	따라서	따라서	CCONJ	_	8	cc	_	_	따라서/maj
+2	지구당원들의	지구+당원+들+의	NOUN	_	7	nmod	_	_	지구/ncn+당원/ncn+들/xsn+의/jcm
+3	자기	자기	PRON	_	4	compound	_	_	자기/npp
+4	정당에	정당+에	ADV	_	5	obl	_	_	정당/ncn+에/jca
+5	대한	대하+ㄴ	VERB	_	7	acl	_	_	대하/pvg+ㄴ/etm
+6	애착심이나	애착심+이나	CCONJ	_	7	conj	_	_	애착심/ncn+이나/jcj
+7	충성심은	충성심+은	NOUN	_	8	dislocated	_	_	충성심/ncn+은/jxt
+8	자라날	자라나+ㄹ	VERB	_	0	root	_	_	자라나/pvg+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	없다	없+다	ADJ	_	8	aux	_	_	없/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 지구당원들은 항상 정치적인 들러리 역할만을 수행하고 있기 때문에 지구당이 활성화되기도 어렵다 .
+1	지구당원들은	지구+당원+들+은	NOUN	_	6	dislocated	_	_	지구/ncn+당원/ncn+들/xsn+은/jxt
+2	항상	항상	ADV	_	5	advmod	_	_	항상/mag
+3	정치적인	정치+적+이+ㄴ	VERB	_	4	acl	_	_	정치/ncpa+적/xsn+이/jp+ㄴ/etm
+4	들러리	들러리	NOUN	_	5	compound	_	_	들러리/ncn
+5	역할만을	역할+만+을	NOUN	_	6	obj	_	_	역할/ncpa+만/jxc+을/jco
+6	수행하고	수행+하+고	VERB	_	8	dep	_	_	수행/ncpa+하/xsv+고/ecx
+7	있기	있+기	AUX	_	6	aux	_	_	있/px+기/etn
+8	때문에	때문+에	ADV	_	11	obl	_	_	때문/nbn+에/jca
+9	지구당이	지구당+이	NOUN	_	10	nsubj	_	_	지구당/ncn+이/jcs
+10	활성화되기도	활성화+되+기+도	ADV	_	11	advcl	_	_	활성화/ncpa+되/xsv+기/etn+도/jxc
+11	어렵다	어렵+다	ADJ	_	0	root	_	_	어렵/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 선거시에 입후보자들의 정당단합대회나 정당연설회 등으로 많은 시간과 경비를 낭비하는 이유도 바로 여기에 있다 .
+1	선거시에	선거시+에	ADV	_	9	obl	_	_	선거시/ncn+에/jca
+2	입후보자들의	입후보자+들+의	NOUN	_	5	nmod	_	_	입후보자/ncn+들/xsn+의/jcm
+3	정당단합대회나	정당+단합+대회+나	CCONJ	_	4	conj	_	_	정당/ncn+단합/ncpa+대회/ncn+나/jcj
+4	정당연설회	정당+연설회	NOUN	_	5	compound	_	_	정당/ncn+연설회/ncn
+5	등으로	등+으로	ADV	_	9	advcl	_	_	등/nbn+으로/jca
+6	많은	많+ㄴ	ADJ	_	8	amod	_	_	많/paa+ㄴ/etm
+7	시간과	시간+과	CCONJ	_	8	conj	_	_	시간/ncn+과/jcj
+8	경비를	경비+를	NOUN	_	9	obj	_	_	경비/ncn+를/jco
+9	낭비하는	낭비+하+는	VERB	_	10	acl	_	_	낭비/ncpa+하/xsv+는/etm
+10	이유도	이유+도	ADV	_	13	advcl	_	_	이유/ncn+도/jxc
+11	바로	바로	ADV	_	13	advmod	_	_	바로/mag
+12	여기에	여기+에	ADV	_	13	obl	_	_	여기/npd+에/jca
+13	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 입후보자들은 선거에 무관심한 자기 정당원들을 자신의 지지자로 전환시키는 데 엄청난 노력을 기울이고 있는 것이다 .
+1	입후보자들은	입후보자+들+은	NOUN	_	12	dislocated	_	_	입후보자/ncn+들/xsn+은/jxt
+2	선거에	선거+에	ADV	_	3	obl	_	_	선거/ncpa+에/jca
+3	무관심한	무관심+하+ㄴ	VERB	_	5	acl	_	_	무관심/ncpa+하/xsv+ㄴ/etm
+4	자기	자기	PRON	_	5	compound	_	_	자기/npp
+5	정당원들을	정당원+들+을	NOUN	_	8	obj	_	_	정당원/ncn+들/xsn+을/jco
+6	자신의	자신+의	NOUN	_	7	nmod	_	_	자신/ncn+의/jcm
+7	지지자로	지지자+로	ADV	_	8	advcl	_	_	지지자/ncn+로/jca
+8	전환시키는	전환+시키+는	VERB	_	9	acl	_	_	전환/ncpa+시키/xsv+는/etm
+9	데	데	NOUN	_	12	advmod	_	_	데/nbn
+10	엄청난	엄청나+ㄴ	ADJ	_	11	amod	_	_	엄청나/paa+ㄴ/etm
+11	노력을	노력+을	NOUN	_	12	obj	_	_	노력/ncpa+을/jco
+12	기울이고	기울이+고	VERB	_	0	root	_	_	기울이/pvg+고/ecx
+13	있는	있+는	AUX	_	12	aux	_	_	있/px+는/etm
+14	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 지구당원들에게 실제로 부여된 정치적 권한이 없기 때문에 당원들은 당비를 납부할 아무런 이유를 발견할 수 없다 .
+1	지구당원들에게	지구+당원+들+에게	ADV	_	3	iobj	_	_	지구/ncn+당원/ncn+들/xsn+에게/jca
+2	실제로	실제로	ADV	_	3	advmod	_	_	실제로/mag
+3	부여된	부여+되+ㄴ	VERB	_	5	acl	_	_	부여/ncpa+되/xsv+ㄴ/etm
+4	정치적	정치+적	NOUN	_	5	amod	_	_	정치/ncpa+적/xsn
+5	권한이	권한+이	NOUN	_	6	nsubj	_	_	권한/ncn+이/jcs
+6	없기	없+기	ADJ	_	7	nmod	_	_	없/paa+기/etn
+7	때문에	때문+에	ADV	_	13	obl	_	_	때문/nbn+에/jca
+8	당원들은	당원+들+은	NOUN	_	13	dislocated	_	_	당원/ncn+들/xsn+은/jxt
+9	당비를	당비+를	NOUN	_	10	obj	_	_	당비/ncn+를/jco
+10	납부할	납부+하+ㄹ	VERB	_	12	acl	_	_	납부/ncpa+하/xsv+ㄹ/etm
+11	아무런	아무렇+ㄴ	VERB	_	12	amod	_	_	아무렇/pad+ㄴ/etm
+12	이유를	이유+를	NOUN	_	13	obj	_	_	이유/ncn+를/jco
+13	발견할	발견+하+ㄹ	VERB	_	0	root	_	_	발견/ncpa+하/xsv+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	없다	없+다	ADJ	_	13	aux	_	_	없/paa+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 따라서 정치자금은 당비이외의 방법으로 충당될 수밖에 없다 .
+1	따라서	따라서	CCONJ	_	5	cc	_	_	따라서/maj
+2	정치자금은	정치+자금+은	NOUN	_	5	dislocated	_	_	정치/ncpa+자금/ncn+은/jxt
+3	당비이외의	당비+이외+의	NOUN	_	4	nmod	_	_	당비/ncn+이외/ncn+의/jcm
+4	방법으로	방법+으로	ADV	_	5	advcl	_	_	방법/ncn+으로/jca
+5	충당될	충당+되+ㄹ	VERB	_	0	root	_	_	충당/ncpa+되/xsv+ㄹ/etm
+6	수밖에	수+밖에	ADV	_	7	fixed	_	_	수/nbn+밖에/jxc
+7	없다	없+다	ADJ	_	5	aux	_	_	없/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 지구당원들은 오로지 정치적 동원의 대상으로만 기능하고 있는 것이다 .
+1	지구당원들은	지구+당원+들+은	NOUN	_	6	dislocated	_	_	지구/ncn+당원/ncn+들/xsn+은/jxt
+2	오로지	오로지	ADV	_	6	advmod	_	_	오로지/mag
+3	정치적	정치+적	NOUN	_	4	amod	_	_	정치/ncpa+적/xsn
+4	동원의	동원+의	NOUN	_	5	nmod	_	_	동원/ncpa+의/jcm
+5	대상으로만	대상+으로+만	ADV	_	6	advcl	_	_	대상/ncn+으로/jca+만/jxc
+6	기능하고	기능+하+고	VERB	_	0	root	_	_	기능/ncpa+하/xsv+고/ecx
+7	있는	있+는	AUX	_	6	aux	_	_	있/px+는/etm
+8	것이다	것+이+다	VERB	_	6	aux	_	_	것/nbn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 지구당원들이 스스로 입후보자를 선출하는 방향으로 각 정당은 당헌을 바꾸어야 한다 .
+1	지구당원들이	지구+당원+들+이	NOUN	_	4	nsubj	_	_	지구/ncn+당원/ncn+들/xsn+이/jcs
+2	스스로	스스로	NOUN	_	3	compound	_	_	스스로/ncn
+3	입후보자를	입후보자+를	NOUN	_	4	obj	_	_	입후보자/ncn+를/jco
+4	선출하는	선출+하+는	VERB	_	5	acl	_	_	선출/ncpa+하/xsv+는/etm
+5	방향으로	방향+으로	ADV	_	9	advcl	_	_	방향/ncn+으로/jca
+6	각	각	ADJ	_	7	amod	_	_	각/mma
+7	정당은	정당+은	NOUN	_	9	dislocated	_	_	정당/ncn+은/jxt
+8	당헌을	당헌+을	NOUN	_	9	obj	_	_	당헌/ncn+을/jco
+9	바꾸어야	바꾸+어야	VERB	_	0	root	_	_	바꾸/pvg+어야/ecx
+10	한다	하+ㄴ다	AUX	_	9	aux	_	_	하/px+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 미국과 영국이 경우 지구당에서 입후보자를 결정한다 .
+1	미국과	미국+과	CCONJ	_	2	conj	_	_	미국/nq+과/jcj
+2	영국이	영국+의	PROPN	_	3	nmod	_	_	영국/nq+의/jcm
+3	경우	경우	NOUN	_	6	advmod	_	_	경우/ncn
+4	지구당에서	지구당+에서	ADV	_	6	advcl	_	_	지구당/ncn+에서/jca
+5	입후보자를	입후보자+를	NOUN	_	6	obj	_	_	입후보자/ncn+를/jco
+6	결정한다	결정+하+ㄴ다	VERB	_	0	root	_	_	결정/ncpa+하/xsv+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 당원들은 당비를 기꺼이 납부할 뿐 아니라 , 모금운동에 앞장서며 , 선거운동원으로서 자원봉사한다 .
+1	당원들은	당원+들+은	NOUN	_	12	dislocated	_	_	당원/ncn+들/xsn+은/jxt
+2	당비를	당비+를	NOUN	_	4	obj	_	_	당비/ncn+를/jco
+3	기꺼이	기꺼이	ADV	_	4	advmod	_	_	기꺼이/mag
+4	납부할	납부+하+ㄹ	VERB	_	12	ccomp	_	_	납부/ncpa+하/xsv+ㄹ/etm
+5	뿐	뿐	NOUN	_	6	fixed	_	_	뿐/nbn
+6	아니라	아니+라	SCONJ	_	4	aux	_	_	아니/paa+라/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	모금운동에	모금+운동+에	ADV	_	9	obl	_	_	모금/ncpa+운동/ncpa+에/jca
+9	앞장서며	앞장서+며	CCONJ	_	12	conj	_	_	앞장서/pvg+며/ecc
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	선거운동원으로서	선거+운동원+으로서	ADV	_	12	advcl	_	_	선거/ncn+운동원/ncn+으로서/jca
+12	자원봉사한다	자원+봉사+하+ㄴ다	VERB	_	0	root	_	_	자원/ncpa+봉사/ncpa+하/xsv+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 하부당원들이 지역수준의 정치에 관심이 높을 뿐 아니라 참여의 정도도 높기 때문에 풀뿌리민주주의가 이룩된다 .
+1	하부당원들이	하부+당원+들+이	NOUN	_	5	nsubj	_	_	하부/ncn+당원/ncn+들/xsn+이/jcs
+2	지역수준의	지역+수준+의	NOUN	_	3	nmod	_	_	지역/ncn+수준/ncn+의/jcm
+3	정치에	정치+에	ADV	_	5	obl	_	_	정치/ncpa+에/jca
+4	관심이	관심+이	NOUN	_	5	nsubj	_	_	관심/ncpa+이/jcs
+5	높을	높+ㄹ	ADJ	_	10	amod	_	_	높/paa+ㄹ/etm
+6	뿐	뿐	NOUN	_	7	fixed	_	_	뿐/nbn
+7	아니라	아니+라	SCONJ	_	5	aux	_	_	아니/paa+라/ecs
+8	참여의	참여+의	NOUN	_	9	nmod	_	_	참여/ncpa+의/jcm
+9	정도도	정도+도	ADV	_	10	advcl	_	_	정도/ncn+도/jxc
+10	높기	높+기	ADJ	_	11	nmod	_	_	높/paa+기/etn
+11	때문에	때문+에	ADV	_	13	obl	_	_	때문/nbn+에/jca
+12	풀뿌리민주주의가	풀뿌리+민주주의+가	NOUN	_	13	nsubj	_	_	풀뿌리/ncn+민주주의/ncn+가/jcs
+13	이룩된다	이룩되+ㄴ다	VERB	_	0	root	_	_	이룩되/pvg+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 정당조직상의 비중이 소수 정치엘리뜨에 집중되어 있지 않고 오히려 하부조직에 있을 때 , 정당의 대중적 기반이 튼튼해질 수 있기 때문이다 .
+1	정당조직상의	정당+조직상+의	NOUN	_	2	nmod	_	_	정당/ncn+조직상/ncn+의/jcm
+2	비중이	비중+이	NOUN	_	5	nsubj	_	_	비중/ncn+이/jcs
+3	소수	소수	NOUN	_	4	compound	_	_	소수/ncn
+4	정치엘리뜨에	정치+엘리뜨+에	ADV	_	5	obl	_	_	정치/ncpa+엘리뜨/ncn+에/jca
+5	집중되어	집중+되+어	VERB	_	10	conj	_	_	집중/ncpa+되/xsv+어/ecx
+6	있지	있+지	AUX	_	5	aux	_	_	있/px+지/ecx
+7	않고	않+고	CCONJ	_	5	aux	_	_	않/px+고/ecc
+8	오히려	오히려	ADV	_	10	advmod	_	_	오히려/mag
+9	하부조직에	하부+조직+에	ADV	_	10	obl	_	_	하부/ncn+조직/ncpa+에/jca
+10	있을	있+ㄹ	ADJ	_	11	amod	_	_	있/paa+ㄹ/etm
+11	때	때	NOUN	_	16	compound	_	_	때/ncn
+12	,	,	PUNCT	_	11	punct	_	_	,/sp
+13	정당의	정당+의	NOUN	_	15	nmod	_	_	정당/ncn+의/jcm
+14	대중적	대중+적	NOUN	_	15	amod	_	_	대중/ncn+적/xsn
+15	기반이	기반+이	NOUN	_	16	nsubj	_	_	기반/ncpa+이/jcs
+16	튼튼해질	튼튼+하+어+지+ㄹ	AUX	_	0	root	_	_	튼튼/ncps+하/xsm+어/ecx+지/px+ㄹ/etm
+17	수	수	NOUN	_	18	fixed	_	_	수/nbn
+18	있기	있+기	ADJ	_	16	aux	_	_	있/paa+기/etn
+19	때문이다	때문+이+다	VERB	_	16	aux	_	_	때문/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 특히 당대표 , 사무총장 , 원내총무 , 지구당위원장 등 주요 당간부직은 자유경선에 의해 선출될 수 있도록 해야 할 것이다 .
+1	특히	특히	ADV	_	17	advmod	_	_	특히/mag
+2	당대표	당+대표	NOUN	_	4	compound	_	_	당/ncn+대표/ncn
+3	,	,	PUNCT	_	2	punct	_	_	,/sp
+4	사무총장	사무+총장	NOUN	_	6	compound	_	_	사무/ncn+총장/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	원내총무	원내+총무	NOUN	_	8	compound	_	_	원내/ncn+총무/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	지구당위원장	지구당+위원장	NOUN	_	9	compound	_	_	지구당/ncn+위원장/ncn
+9	등	등	NOUN	_	11	mark	_	_	등/nbn
+10	주요	주요	NOUN	_	11	compound	_	_	주요/ncpa
+11	당간부직은	당+간부직+은	NOUN	_	14	dislocated	_	_	당/ncn+간부직/ncn+은/jxt
+12	자유경선에	자유+경선+에	ADV	_	13	obl	_	_	자유/ncps+경선/ncn+에/jca
+13	의해	의하+어	SCONJ	_	14	ccomp	_	_	의하/pvg+어/ecs
+14	선출될	선출+되+ㄹ	VERB	_	17	ccomp	_	_	선출/ncpa+되/xsv+ㄹ/etm
+15	수	수	NOUN	_	16	fixed	_	_	수/nbn
+16	있도록	있+도록	SCONJ	_	14	aux	_	_	있/paa+도록/ecs
+17	해야	하+어야	VERB	_	0	root	_	_	하/pvg+어야/ecx
+18	할	하+ㄹ	AUX	_	17	aux	_	_	하/px+ㄹ/etm
+19	것이다	것+이+다	VERB	_	17	aux	_	_	것/nbn+이/jp+다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 정당설립의 자유는 가능한 한 보장되어야 한다 .
+1	정당설립의	정당+설립+의	NOUN	_	2	nmod	_	_	정당/ncn+설립/ncpa+의/jcm
+2	자유는	자유+는	NOUN	_	5	dislocated	_	_	자유/ncps+는/jxt
+3	가능한	가능+하+ㄴ	VERB	_	4	amod	_	_	가능/ncps+하/xsm+ㄴ/etm
+4	한	한	NOUN	_	5	compound	_	_	한/ncn
+5	보장되어야	보장+되+어야	VERB	_	0	root	_	_	보장/ncpa+되/xsv+어야/ecx
+6	한다	하+ㄴ다	AUX	_	5	aux	_	_	하/px+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 사회가 점차로 다원화 되어가고 있는 상황에서 다양한 사회세력의 정치화가 자연스럽게 이루어져야 한다 .
+1	사회가	사회+가	NOUN	_	4	nsubj	_	_	사회/ncn+가/jcs
+2	점차로	점차로	ADV	_	4	advmod	_	_	점차로/mag
+3	다원화	다원화	NOUN	_	4	dep	_	_	다원화/ncn
+4	되어가고	되+어+가+고	AUX	_	6	acl	_	_	되/pvg+어/ecx+가/px+고/ecx
+5	있는	있+는	AUX	_	4	aux	_	_	있/px+는/etm
+6	상황에서	상황+에서	ADV	_	11	advcl	_	_	상황/ncn+에서/jca
+7	다양한	다양하+ㄴ	ADJ	_	8	amod	_	_	다양하/paa+ㄴ/etm
+8	사회세력의	사회+세력+의	NOUN	_	9	nmod	_	_	사회/ncn+세력/ncn+의/jcm
+9	정치화가	정치화+가	NOUN	_	11	nsubj	_	_	정치화/ncn+가/jcs
+10	자연스럽게	자연+스럽+게	SCONJ	_	11	xcomp	_	_	자연/ncps+스럽/xsm+게/ecs
+11	이루어져야	이루어지+어야	VERB	_	0	root	_	_	이루어지/pvg+어야/ecx
+12	한다	하+ㄴ다	AUX	_	11	aux	_	_	하/px+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 국민의 자발적인 정치참여 없이는 건강한 민주주의를 기대할 수 없기 때문이다 .
+1	국민의	국민+의	NOUN	_	2	nmod	_	_	국민/ncn+의/jcm
+2	자발적인	자발+적+이+ㄴ	VERB	_	3	acl	_	_	자발/ncn+적/xsn+이/jp+ㄴ/etm
+3	정치참여	정치+참여	NOUN	_	4	dep	_	_	정치/ncpa+참여/ncpa
+4	없이는	없+이+는	NOUN	_	7	amod	_	_	없/paa+이/ecs+는/jxt
+5	건강한	건강+하+ㄴ	VERB	_	6	acl	_	_	건강/ncpa+하/xsv+ㄴ/etm
+6	민주주의를	민주주의+를	NOUN	_	7	obj	_	_	민주주의/ncn+를/jco
+7	기대할	기대+하+ㄹ	VERB	_	0	root	_	_	기대/ncpa+하/xsv+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	없기	없+기	ADJ	_	7	aux	_	_	없/paa+기/etn
+10	때문이다	때문+이+다	VERB	_	7	aux	_	_	때문/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 정치적 무관심이 지배하는 현대사회에서 정당설립의 자유마저 제한받는다면 국민의 정치참여는 기대하기 어렵다 .
+1	정치적	정치+적	NOUN	_	2	amod	_	_	정치/ncpa+적/xsn
+2	무관심이	무관심+이	NOUN	_	3	nsubj	_	_	무관심/ncpa+이/jcs
+3	지배하는	지배+하+는	VERB	_	4	acl	_	_	지배/ncpa+하/xsv+는/etm
+4	현대사회에서	현대+사회+에서	ADV	_	7	advcl	_	_	현대/ncn+사회/ncn+에서/jca
+5	정당설립의	정당+설립+의	NOUN	_	6	nmod	_	_	정당/ncn+설립/ncpa+의/jcm
+6	자유마저	자유+마저	ADV	_	7	advcl	_	_	자유/ncps+마저/jxc
+7	제한받는다면	제한받+는다면	SCONJ	_	11	conj	_	_	제한받/pvg+는다면/ecs
+8	국민의	국민+의	NOUN	_	9	nmod	_	_	국민/ncn+의/jcm
+9	정치참여는	정치+참여+는	NOUN	_	10	dislocated	_	_	정치/ncpa+참여/ncpa+는/jxt
+10	기대하기	기대+하+기	VERB	_	11	nmod	_	_	기대/ncpa+하/xsv+기/etn
+11	어렵다	어렵+다	ADJ	_	0	root	_	_	어렵/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 예컨대 독일의 경우 환경보호를 주장하는 사람들이 녹색당이 정치세력화하는 데 성공한 것은 정당성립요건이 우리보다 덜 제한적이기 때문이다 .
+1	예컨대	예컨대	CCONJ	_	15	cc	_	_	예컨대/maj
+2	독일의	독일+의	PROPN	_	3	nmod	_	_	독일/nq+의/jcm
+3	경우	경우	NOUN	_	10	advmod	_	_	경우/ncn
+4	환경보호를	환경+보호+를	NOUN	_	5	obj	_	_	환경/ncn+보호/ncpa+를/jco
+5	주장하는	주장+하+는	VERB	_	6	acl	_	_	주장/ncpa+하/xsv+는/etm
+6	사람들이	사람+들+이	NOUN	_	10	nsubj	_	_	사람/ncn+들/xsn+이/jcs
+7	녹색당이	녹색당+이	NOUN	_	8	nsubj	_	_	녹색당/ncn+이/jcs
+8	정치세력화하는	정치세력화+하+는	VERB	_	9	acl	_	_	정치세력화/ncpa+하/xsv+는/etm
+9	데	데	NOUN	_	10	mark	_	_	데/nbn
+10	성공한	성공+하+ㄴ	VERB	_	11	acl	_	_	성공/ncpa+하/xsv+ㄴ/etm
+11	것은	것+은	NOUN	_	15	dislocated	_	_	것/nbn+은/jxt
+12	정당성립요건이	정당+성립+요건+이	NOUN	_	15	nsubj	_	_	정당/ncn+성립/ncpa+요건/ncn+이/jcs
+13	우리보다	우리+보다	ADV	_	15	advcl	_	_	우리/npp+보다/jca
+14	덜	덜	ADV	_	15	advmod	_	_	덜/mag
+15	제한적이기	제한+적+이+기	VERB	_	0	root	_	_	제한/ncpa+적/xsn+이/jp+기/etn
+16	때문이다	때문+이+다	VERB	_	15	aux	_	_	때문/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 현행 정당법에 의하면 정당은 국회의원선거법에 의한 지역선거구총수의 5 분의 1 이상에 해당하는 수의 지구당을 가져야 한다 .
+1	현행	현행	NOUN	_	2	compound	_	_	현행/ncn
+2	정당법에	정당법+에	ADV	_	3	obl	_	_	정당법/ncn+에/jca
+3	의하면	의하+면	SCONJ	_	15	ccomp	_	_	의하/pvg+면/ecs
+4	정당은	정당+은	NOUN	_	15	dislocated	_	_	정당/ncn+은/jxt
+5	국회의원선거법에	국회의원+선거법+에	ADV	_	6	obl	_	_	국회의원/ncn+선거법/ncn+에/jca
+6	의한	의하+ㄴ	VERB	_	11	acl	_	_	의하/pvg+ㄴ/etm
+7	지역선거구총수의	지역+선거구+총수+의	NOUN	_	11	nmod	_	_	지역/ncn+선거구/ncn+총수/ncn+의/jcm
+8	5	5	NUM	_	9	nummod	_	_	5/nnc
+9	분의	분+의	NOUN	_	10	nmod	_	_	분/nbn+의/jcm
+10	1	1	NUM	_	11	nummod	_	_	1/nnc
+11	이상에	이상+에	ADV	_	12	obl	_	_	이상/ncn+에/jca
+12	해당하는	해당+하+는	VERB	_	13	acl	_	_	해당/ncpa+하/xsv+는/etm
+13	수의	수+의	NOUN	_	14	nmod	_	_	수/ncn+의/jcm
+14	지구당을	지구당+을	NOUN	_	15	obj	_	_	지구당/ncn+을/jco
+15	가져야	가지+어야	VERB	_	0	root	_	_	가지/pvg+어야/ecx
+16	한다	하+ㄴ다	AUX	_	15	aux	_	_	하/px+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 정당을 새롭게 설립하고자 하는 사람들에게 48 개 이상의 지구당 설립을 처음부터 요구하는 것은 무리일 것이다 .
+1	정당을	정당+을	NOUN	_	3	obj	_	_	정당/ncn+을/jco
+2	새롭게	새롭+게	SCONJ	_	3	xcomp	_	_	새롭/paa+게/ecs
+3	설립하고자	설립+하+고자	VERB	_	5	acl	_	_	설립/ncpa+하/xsv+고자/ecx
+4	하는	하+는	AUX	_	3	aux	_	_	하/px+는/etm
+5	사람들에게	사람+들+에게	ADV	_	12	iobj	_	_	사람/ncn+들/xsn+에게/jca
+6	48	48	NUM	_	7	nummod	_	_	48/nnc
+7	개	개	NOUN	_	8	compound	_	_	개/nbu
+8	이상의	이상+의	NOUN	_	10	nmod	_	_	이상/ncn+의/jcm
+9	지구당	지구당	NOUN	_	10	compound	_	_	지구당/ncn
+10	설립을	설립+을	NOUN	_	12	obj	_	_	설립/ncpa+을/jco
+11	처음부터	처음+부터	ADV	_	12	advcl	_	_	처음/ncn+부터/jxc
+12	요구하는	요구+하+는	VERB	_	13	acl	_	_	요구/ncpa+하/xsv+는/etm
+13	것은	것+은	NOUN	_	14	dislocated	_	_	것/nbn+은/jxt
+14	무리일	무리+이+ㄹ	VERB	_	0	root	_	_	무리/ncn+이/jp+ㄹ/etm
+15	것이다	것+이+다	VERB	_	14	aux	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이와 같이 상당수의 지구당 구성을 정당성립요건으로 하고 있는 것은 거대정당의 기득권을 보장하는 것으로서 정당평등 , 복수정당제도 등에 관한 헙법정신에 정면으로 배치된다 .
+1	이와	이+와	CCONJ	_	2	conj	_	_	이/npd+와/jct
+2	같이	같+이	SCONJ	_	7	xcomp	_	_	같/paa+이/ecs
+3	상당수의	상당수+의	NOUN	_	4	nmod	_	_	상당수/ncn+의/jcm
+4	지구당	지구당	NOUN	_	5	compound	_	_	지구당/ncn
+5	구성을	구성+을	NOUN	_	7	obj	_	_	구성/ncpa+을/jco
+6	정당성립요건으로	정당+성립+요건+으로	ADV	_	7	advcl	_	_	정당/ncn+성립/ncpa+요건/ncn+으로/jca
+7	하고	하+고	VERB	_	9	acl	_	_	하/pvg+고/ecx
+8	있는	있+는	AUX	_	7	aux	_	_	있/px+는/etm
+9	것은	것+은	NOUN	_	12	dislocated	_	_	것/nbn+은/jxt
+10	거대정당의	거대+정당+의	NOUN	_	11	nmod	_	_	거대/ncpa+정당/ncn+의/jcm
+11	기득권을	기득권+을	NOUN	_	12	obj	_	_	기득권/ncn+을/jco
+12	보장하는	보장+하+는	VERB	_	13	acl	_	_	보장/ncpa+하/xsv+는/etm
+13	것으로서	것+으로서	ADV	_	21	advcl	_	_	것/nbn+으로서/jca
+14	정당평등	정당+평등	NOUN	_	16	compound	_	_	정당/ncn+평등/ncps
+15	,	,	PUNCT	_	14	punct	_	_	,/sp
+16	복수정당제도	복수+정당+제도	NOUN	_	17	compound	_	_	복수/ncn+정당/ncn+제도/ncn
+17	등에	등+에	ADV	_	18	obl	_	_	등/nbn+에/jca
+18	관한	관하+ㄴ	VERB	_	19	acl	_	_	관하/pvg+ㄴ/etm
+19	헙법정신에	헙법+정신+에	ADV	_	21	obl	_	_	헙법/ncn+정신/ncn+에/jca
+20	정면으로	정면+으로	ADV	_	21	advcl	_	_	정면/ncn+으로/jca
+21	배치된다	배치+되+ㄴ다	VERB	_	0	root	_	_	배치/ncpa+되/xsv+ㄴ다/ef
+22	.	.	PUNCT	_	21	punct	_	_	./sf
+
+# 진보세력을 배경으로 하여 출범한 민주당이 14 대 국회의원선거 후 이 조항에 의해 등록취소를 당했다 .
+1	진보세력을	진보+세력+을	NOUN	_	3	obj	_	_	진보/ncpa+세력/ncn+을/jco
+2	배경으로	배경+으로	ADV	_	3	advcl	_	_	배경/ncn+으로/jca
+3	하여	하+어	SCONJ	_	4	ccomp	_	_	하/pvg+어/ecs
+4	출범한	출범+하+ㄴ	VERB	_	5	acl	_	_	출범/ncpa+하/xsv+ㄴ/etm
+5	민주당이	민주당+이	PROPN	_	14	nsubj	_	_	민주당/nq+이/jcs
+6	14	14	NUM	_	7	nummod	_	_	14/nnc
+7	대	대	NOUN	_	8	compound	_	_	대/nbu
+8	국회의원선거	국회의원+선거	NOUN	_	9	compound	_	_	국회의원/ncn+선거/ncpa
+9	후	후	NOUN	_	14	advmod	_	_	후/ncn
+10	이	이	DET	_	11	det	_	_	이/mmd
+11	조항에	조항+에	ADV	_	12	obl	_	_	조항/ncn+에/jca
+12	의해	의하+어	SCONJ	_	14	ccomp	_	_	의하/pvg+어/ecs
+13	등록취소를	등록+취소+를	NOUN	_	14	obj	_	_	등록/ncpa+취소/ncpa+를/jco
+14	당했다	당하+었+다	VERB	_	0	root	_	_	당하/pvg+었/ep+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 정치비용이 과다하게 요구되는 한국적인 정치풍토는 신생정당의 정치활동을 크게 위축시키기 때문에 선거에서 의식을 획득하거나 유효투표총수의 2 % 이상을 얻어내기가 쉽지 않다 .
+1	정치비용이	정치+비용+이	NOUN	_	3	nsubj	_	_	정치/ncpa+비용/ncn+이/jcs
+2	과다하게	과다하+게	SCONJ	_	3	xcomp	_	_	과다하/paa+게/ecs
+3	요구되는	요구+되+는	VERB	_	5	acl	_	_	요구/ncpa+되/xsv+는/etm
+4	한국적인	한국+적+이+ㄴ	VERB	_	5	acl	_	_	한국/nq+적/xsn+이/jp+ㄴ/etm
+5	정치풍토는	정치+풍토+는	NOUN	_	9	dislocated	_	_	정치/ncpa+풍토/ncn+는/jxt
+6	신생정당의	신생+정당+의	NOUN	_	7	nmod	_	_	신생/ncpa+정당/ncn+의/jcm
+7	정치활동을	정치+활동+을	NOUN	_	9	obj	_	_	정치/ncpa+활동/ncpa+을/jco
+8	크게	크+게	SCONJ	_	9	xcomp	_	_	크/paa+게/ecs
+9	위축시키기	위축+시키+기	VERB	_	10	nmod	_	_	위축/ncpa+시키/xsv+기/etn
+10	때문에	때문+에	ADV	_	19	obl	_	_	때문/nbn+에/jca
+11	선거에서	선거+에서	ADV	_	13	advcl	_	_	선거/ncpa+에서/jca
+12	의식을	의식+을	NOUN	_	13	obj	_	_	의식/ncpa+을/jco
+13	획득하거나	획득+하+거나	CCONJ	_	18	conj	_	_	획득/ncpa+하/xsv+거나/ecc
+14	유효투표총수의	유효+투표+총수+의	NOUN	_	15	nmod	_	_	유효/ncpa+투표/ncn+총수/ncn+의/jcm
+15	2	2	NUM	_	17	nummod	_	_	2/nnc
+16	%	%	SYM	_	15	punct	_	_	%/su
+17	이상을	이상+을	NOUN	_	18	obj	_	_	이상/ncn+을/jco
+18	얻어내기가	얻어내+기+가	NOUN	_	19	nsubj	_	_	얻어내/pvg+기/etn+가/jcs
+19	쉽지	쉽+지	ADJ	_	0	root	_	_	쉽/paa+지/ecx
+20	않다	않+다	AUX	_	19	aux	_	_	않/px+다/ef
+21	.	.	PUNCT	_	20	punct	_	_	./sf
+
+# 따라서 이 규정도 적절히 완화시키는 것이 바람직하다고 생각한다 .
+1	따라서	따라서	CCONJ	_	8	cc	_	_	따라서/maj
+2	이	이	DET	_	3	det	_	_	이/mmd
+3	규정도	규정+도	ADV	_	5	advcl	_	_	규정/ncpa+도/jxc
+4	적절히	적절히	ADV	_	5	advmod	_	_	적절히/mag
+5	완화시키는	완화+시키+는	VERB	_	6	acl	_	_	완화/ncpa+시키/xsv+는/etm
+6	것이	것+이	NOUN	_	7	nsubj	_	_	것/nbn+이/jcs
+7	바람직하다고	바람직하+다고	SCONJ	_	8	xcomp	_	_	바람직하/paa+다고/ecs
+8	생각한다	생각+하+ㄴ다	VERB	_	0	root	_	_	생각/ncpa+하/xsv+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 헌법에는 모든 국민에게 정당 가입 및 탈퇴의 자유가 보장되어 있다 .
+1	헌법에는	헌법+에+는	NOUN	_	9	dislocated	_	_	헌법/ncn+에/jca+는/jxt
+2	모든	모든	ADJ	_	3	amod	_	_	모든/mma
+3	국민에게	국민+에게	ADV	_	9	iobj	_	_	국민/ncn+에게/jca
+4	정당	정당	NOUN	_	7	compound	_	_	정당/ncn
+5	가입	가입	NOUN	_	7	conj	_	_	가입/ncpa
+6	및	및	CCONJ	_	7	cc	_	_	및/maj
+7	탈퇴의	탈퇴+의	NOUN	_	8	nmod	_	_	탈퇴/ncpa+의/jcm
+8	자유가	자유+가	NOUN	_	9	nsubj	_	_	자유/ncps+가/jcs
+9	보장되어	보장+되+어	VERB	_	0	root	_	_	보장/ncpa+되/xsv+어/ecx
+10	있다	있+다	AUX	_	9	aux	_	_	있/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 국민의 정치참여를 확대하고 , 참여의 질을 높이기 위해서는 정당가입 제한조항은 원칙적으로 폐지되어야 한다고 한다 .
+1	국민의	국민+의	NOUN	_	2	nmod	_	_	국민/ncn+의/jcm
+2	정치참여를	정치+참여+를	NOUN	_	3	obj	_	_	정치/ncpa+참여/ncpa+를/jco
+3	확대하고	확대+하+고	CCONJ	_	7	conj	_	_	확대/ncpa+하/xsv+고/ecc
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	참여의	참여+의	NOUN	_	6	nmod	_	_	참여/ncpa+의/jcm
+6	질을	질+을	NOUN	_	7	obj	_	_	질/ncn+을/jco
+7	높이기	높이+기	VERB	_	8	nmod	_	_	높이/pvg+기/etn
+8	위해서는	위하+어서+는	NOUN	_	12	ccomp	_	_	위하/pvg+어서/ecs+는/jxt
+9	정당가입	정당+가입	NOUN	_	10	compound	_	_	정당/ncn+가입/ncpa
+10	제한조항은	제한+조항+은	NOUN	_	12	dislocated	_	_	제한/ncpa+조항/ncn+은/jxt
+11	원칙적으로	원칙+적+으로	ADV	_	12	advcl	_	_	원칙/ncn+적/xsn+으로/jca
+12	폐지되어야	폐지+되+어야	VERB	_	14	conj	_	_	폐지/ncpa+되/xsv+어야/ecx
+13	한다고	하+ㄴ다+고	VERB	_	12	aux	_	_	하/px+ㄴ다/ef+고/jcr
+14	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그러나 한국적인 정치현실에서 공무원에게 정당가입을 전면 허용한다면 공무원의 대다수가 집권당에 가입할 가능성이 높다 .
+1	그러나	그러나	CCONJ	_	13	cc	_	_	그러나/maj
+2	한국적인	한국+적+이+ㄴ	VERB	_	3	acl	_	_	한국/nq+적/xsn+이/jp+ㄴ/etm
+3	정치현실에서	정치+현실+에서	ADV	_	7	advcl	_	_	정치/ncpa+현실/ncn+에서/jca
+4	공무원에게	공무원+에게	ADV	_	7	iobj	_	_	공무원/ncn+에게/jca
+5	정당가입을	정당+가입+을	NOUN	_	7	obj	_	_	정당/ncn+가입/ncpa+을/jco
+6	전면	전면	NOUN	_	7	compound	_	_	전면/ncn
+7	허용한다면	허용+하+ㄴ다면	SCONJ	_	13	conj	_	_	허용/ncpa+하/xsv+ㄴ다면/ecs
+8	공무원의	공무원+의	NOUN	_	9	nmod	_	_	공무원/ncn+의/jcm
+9	대다수가	대다수+가	NOUN	_	11	nsubj	_	_	대다수/ncn+가/jcs
+10	집권당에	집권당+에	ADV	_	11	obl	_	_	집권당/ncn+에/jca
+11	가입할	가입+하+ㄹ	VERB	_	12	acl	_	_	가입/ncpa+하/xsv+ㄹ/etm
+12	가능성이	가능성+이	NOUN	_	13	nsubj	_	_	가능성/ncn+이/jcs
+13	높다	높+다	ADJ	_	0	root	_	_	높/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 아직 직업공무원제도가 확립되지 못한 상태에서 전면적으로 정당가입을 허용하는 것은 공무원에게 장당가입을 허용한다면 공정한 선거관리는 보장받기 어려울 것이다 .
+1	아직	아직	ADV	_	3	advmod	_	_	아직/mag
+2	직업공무원제도가	직업+공무원+제도+가	NOUN	_	3	nsubj	_	_	직업/ncn+공무원/ncn+제도/ncn+가/jcs
+3	확립되지	확립+되+지	VERB	_	5	acl	_	_	확립/ncpa+되/xsv+지/ecx
+4	못한	못하+ㄴ	AUX	_	3	aux	_	_	못하/px+ㄴ/etm
+5	상태에서	상태+에서	ADV	_	8	advcl	_	_	상태/ncn+에서/jca
+6	전면적으로	전면+적+으로	ADV	_	8	advcl	_	_	전면/ncn+적/xsn+으로/jca
+7	정당가입을	정당+가입+을	NOUN	_	8	obj	_	_	정당/ncn+가입/ncpa+을/jco
+8	허용하는	허용+하+는	VERB	_	9	acl	_	_	허용/ncpa+하/xsv+는/etm
+9	것은	것+은	NOUN	_	16	dislocated	_	_	것/nbn+은/jxt
+10	공무원에게	공무원+에게	ADV	_	12	iobj	_	_	공무원/ncn+에게/jca
+11	장당가입을	장당+가입+을	NOUN	_	12	obj	_	_	장당/ncn+가입/ncpa+을/jco
+12	허용한다면	허용+하+ㄴ다면	SCONJ	_	16	conj	_	_	허용/ncpa+하/xsv+ㄴ다면/ecs
+13	공정한	공정+하+ㄴ	VERB	_	14	acl	_	_	공정/ncpa+하/xsv+ㄴ/etm
+14	선거관리는	선거+관리+는	NOUN	_	15	dislocated	_	_	선거/ncpa+관리/ncpa+는/jxt
+15	보장받기	보장받+기	VERB	_	16	nmod	_	_	보장받/pvg+기/etn
+16	어려울	어렵+ㄹ	ADJ	_	0	root	_	_	어렵/paa+ㄹ/etm
+17	것이다	것+이+다	VERB	_	16	aux	_	_	것/nbn+이/jp+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 그리고 현행 정당가입 제한은 대통령령으로 되어 있다 .
+1	그리고	그리고	CCONJ	_	6	cc	_	_	그리고/maj
+2	현행	현행	NOUN	_	3	compound	_	_	현행/ncn
+3	정당가입	정당+가입	NOUN	_	4	compound	_	_	정당/ncn+가입/ncpa
+4	제한은	제한+은	NOUN	_	6	dislocated	_	_	제한/ncpa+은/jxt
+5	대통령령으로	대통령령+으로	ADV	_	6	advcl	_	_	대통령령/ncn+으로/jca
+6	되어	되+어	VERB	_	0	root	_	_	되/pvg+어/ecx
+7	있다	있+다	AUX	_	6	aux	_	_	있/px+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 대통령은 집권당의 총재이므로 역시 집권당에게 유리한 방식으로 규정을 만들 소지가 많다 .
+1	대통령은	대통령+은	NOUN	_	3	dislocated	_	_	대통령/ncn+은/jxt
+2	집권당의	집권당+의	NOUN	_	3	nmod	_	_	집권당/ncn+의/jcm
+3	총재이므로	총재+이+므로	SCONJ	_	11	conj	_	_	총재/ncn+이/jp+므로/ecs
+4	역시	역시	ADV	_	9	advmod	_	_	역시/mag
+5	집권당에게	집권당+에게	ADV	_	6	iobj	_	_	집권당/ncn+에게/jca
+6	유리한	유리+하+ㄴ	VERB	_	7	acl	_	_	유리/ncpa+하/xsv+ㄴ/etm
+7	방식으로	방식+으로	ADV	_	9	advcl	_	_	방식/ncn+으로/jca
+8	규정을	규정+을	NOUN	_	9	obj	_	_	규정/ncpa+을/jco
+9	만들	만들+ㄹ	VERB	_	10	acl	_	_	만들/pvg+ㄹ/etm
+10	소지가	소지+가	NOUN	_	11	nsubj	_	_	소지/ncn+가/jcs
+11	많다	많+다	ADJ	_	0	root	_	_	많/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 따라서 정당가입 제한을 법률로 정하도록 하는 것이 바람직하다 .
+1	따라서	따라서	CCONJ	_	8	cc	_	_	따라서/maj
+2	정당가입	정당+가입	NOUN	_	3	compound	_	_	정당/ncn+가입/ncpa
+3	제한을	제한+을	NOUN	_	6	obj	_	_	제한/ncpa+을/jco
+4	법률로	법률+로	ADV	_	5	advcl	_	_	법률/ncn+로/jca
+5	정하도록	정하+도록	SCONJ	_	6	ccomp	_	_	정하/pvg+도록/ecs
+6	하는	하+는	VERB	_	7	acl	_	_	하/pvg+는/etm
+7	것이	것+이	NOUN	_	8	nsubj	_	_	것/nbn+이/jcs
+8	바람직하다	바람직하+다	ADJ	_	0	root	_	_	바람직하/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 요즈음 여권으로부터 엄청난 조직관리비용이 드는 지구당을 폐지해야 한다는 견해가 나오고 있다 .
+1	요즈음	요즈음	ADV	_	10	advmod	_	_	요즈음/mag
+2	여권으로부터	여권+으로+부터	ADV	_	10	advcl	_	_	여권/ncn+으로/jca+부터/jxc
+3	엄청난	엄청나+ㄴ	ADJ	_	4	amod	_	_	엄청나/paa+ㄴ/etm
+4	조직관리비용이	조직+관리+비용+이	NOUN	_	5	nsubj	_	_	조직/ncpa+관리/ncn+비용/ncn+이/jcs
+5	드는	들+는	VERB	_	6	acl	_	_	들/pvg+는/etm
+6	지구당을	지구당+을	NOUN	_	7	obj	_	_	지구당/ncn+을/jco
+7	폐지해야	폐지+하+어야	VERB	_	9	acl	_	_	폐지/ncpa+하/xsv+어야/ecx
+8	한다는	하+ㄴ다는	AUX	_	7	aux	_	_	하/px+ㄴ다는/etm
+9	견해가	견해+가	NOUN	_	10	nsubj	_	_	견해/ncn+가/jcs
+10	나오고	나오+고	VERB	_	0	root	_	_	나오/pvg+고/ecx
+11	있다	있+다	AUX	_	10	aux	_	_	있/px+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 돈이 많이 들기 때문에 지구당을 폐지해야 한다는 주장은 설득력이 없다 .
+1	돈이	돈+이	NOUN	_	3	nsubj	_	_	돈/ncn+이/jcs
+2	많이	많이	ADV	_	3	advmod	_	_	많이/mag
+3	들기	들+기	VERB	_	4	nmod	_	_	들/pvg+기/etn
+4	때문에	때문+에	ADV	_	6	obl	_	_	때문/nbn+에/jca
+5	지구당을	지구당+을	NOUN	_	6	obj	_	_	지구당/ncn+을/jco
+6	폐지해야	폐지+하+어야	VERB	_	8	acl	_	_	폐지/ncpa+하/xsv+어야/ecx
+7	한다는	하+ㄴ다는	AUX	_	6	aux	_	_	하/px+ㄴ다는/etm
+8	주장은	주장+은	NOUN	_	10	dislocated	_	_	주장/ncpa+은/jxt
+9	설득력이	설득력+이	NOUN	_	10	nsubj	_	_	설득력/ncn+이/jcs
+10	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 왜냐하면 돈이 적게 드는 지구당운용이 가능하기 때문이다 .
+1	왜냐하면	왜냐하면	CCONJ	_	6	cc	_	_	왜냐하면/maj
+2	돈이	돈+이	NOUN	_	4	nsubj	_	_	돈/ncn+이/jcs
+3	적게	적+게	SCONJ	_	4	xcomp	_	_	적/paa+게/ecs
+4	드는	들+는	VERB	_	5	acl	_	_	들/pvg+는/etm
+5	지구당운용이	지구당+운용+이	NOUN	_	6	nsubj	_	_	지구당/ncn+운용/ncpa+이/jcs
+6	가능하기	가능+하+기	VERB	_	0	root	_	_	가능/ncps+하/xsm+기/etn
+7	때문이다	때문+이+다	VERB	_	6	aux	_	_	때문/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 평소 지구당운용에 드는 비용중 상당액은 지역구민의 경조사에 지출된다 .
+1	평소	평소	NOUN	_	2	compound	_	_	평소/ncn
+2	지구당운용에	지구당+운용+에	ADV	_	3	obl	_	_	지구당/ncn+운용/ncpa+에/jca
+3	드는	들+는	VERB	_	4	acl	_	_	들/pvg+는/etm
+4	비용중	비용+중	NOUN	_	5	advmod	_	_	비용/ncn+중/xsn
+5	상당액은	상당액+은	NOUN	_	8	dislocated	_	_	상당액/ncn+은/jxt
+6	지역구민의	지역+구민+의	NOUN	_	7	nmod	_	_	지역/ncn+구민/ncn+의/jcm
+7	경조사에	경조사+에	ADV	_	8	obl	_	_	경조사/ncn+에/jca
+8	지출된다	지출+되+ㄴ다	VERB	_	0	root	_	_	지출/ncpa+되/xsv+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 만일 지역구민의 경조사에 하환이나 돈봉투를 보내지 않을 수 있다면 돈을 크게 절약할 수 있다 .
+1	만일	만일	ADV	_	6	advmod	_	_	만일/mag
+2	지역구민의	지역+구민+의	NOUN	_	3	nmod	_	_	지역/ncn+구민/ncn+의/jcm
+3	경조사에	경조사+에	ADV	_	6	obl	_	_	경조사/ncn+에/jca
+4	하환이나	하환+이나	CCONJ	_	5	conj	_	_	하환/ncn+이나/jcj
+5	돈봉투를	돈봉투+를	NOUN	_	6	obj	_	_	돈봉투/ncn+를/jco
+6	보내지	보내+지	VERB	_	12	ccomp	_	_	보내/pvg+지/ecx
+7	않을	않+ㄹ	AUX	_	6	aux	_	_	않/px+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있다면	있+다면	SCONJ	_	6	aux	_	_	있/paa+다면/ecs
+10	돈을	돈+을	NOUN	_	12	obj	_	_	돈/ncn+을/jco
+11	크게	크+게	SCONJ	_	12	xcomp	_	_	크/paa+게/ecs
+12	절약할	절약+하+ㄹ	VERB	_	0	root	_	_	절약/ncpa+하/xsv+ㄹ/etm
+13	수	수	NOUN	_	14	fixed	_	_	수/nbn
+14	있다	있+다	ADJ	_	12	aux	_	_	있/paa+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 그리고 유급사무원 대신에 시간제 자원봉사자들을 적절히 활용할 수 있다면 엄청난 경비절감을 할 수 있을 것이다 .
+1	그리고	그리고	CCONJ	_	12	cc	_	_	그리고/maj
+2	유급사무원	유급+사무원	NOUN	_	3	compound	_	_	유급/ncn+사무원/ncn
+3	대신에	대신+에	ADV	_	7	obl	_	_	대신/ncpa+에/jca
+4	시간제	시간제	NOUN	_	5	compound	_	_	시간제/ncn
+5	자원봉사자들을	자원+봉사자+들+을	NOUN	_	7	obj	_	_	자원/ncpa+봉사자/ncn+들/xsn+을/jco
+6	적절히	적절히	ADV	_	7	advmod	_	_	적절히/mag
+7	활용할	활용+하+ㄹ	VERB	_	12	ccomp	_	_	활용/ncpa+하/xsv+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있다면	있+다면	SCONJ	_	7	aux	_	_	있/paa+다면/ecs
+10	엄청난	엄청나+ㄴ	ADJ	_	11	amod	_	_	엄청나/paa+ㄴ/etm
+11	경비절감을	경비+절감+을	NOUN	_	12	obj	_	_	경비/ncn+절감/ncpa+을/jco
+12	할	하+ㄹ	VERB	_	0	root	_	_	하/pvg+ㄹ/etm
+13	수	수	NOUN	_	14	fixed	_	_	수/nbn
+14	있을	있+ㄹ	ADJ	_	12	aux	_	_	있/paa+ㄹ/etm
+15	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 또한 경비가 많이 드는 당원단합대회 등의 행사위주 활동보다는 경비가 적게 드는 소규모 정책설명회 등을 활성화할 수 있을 것이다 .
+1	또한	또한	CCONJ	_	15	cc	_	_	또한/maj
+2	경비가	경비+가	NOUN	_	4	nsubj	_	_	경비/ncn+가/jcs
+3	많이	많이	ADV	_	4	advmod	_	_	많이/mag
+4	드는	들+는	VERB	_	5	acl	_	_	들/pvg+는/etm
+5	당원단합대회	당원+단합+대회	NOUN	_	6	compound	_	_	당원/ncn+단합/ncpa+대회/ncn
+6	등의	등+의	NOUN	_	8	nmod	_	_	등/nbn+의/jcm
+7	행사위주	행사+위주	NOUN	_	8	compound	_	_	행사/ncpa+위주/ncn
+8	활동보다는	활동+보다+는	NOUN	_	15	dislocated	_	_	활동/ncpa+보다/jca+는/jxt
+9	경비가	경비+가	NOUN	_	11	nsubj	_	_	경비/ncn+가/jcs
+10	적게	적+게	SCONJ	_	11	xcomp	_	_	적/paa+게/ecs
+11	드는	들+는	VERB	_	13	acl	_	_	들/pvg+는/etm
+12	소규모	소규모	NOUN	_	13	compound	_	_	소규모/ncn
+13	정책설명회	정책+설명회	NOUN	_	14	compound	_	_	정책/ncn+설명회/ncn
+14	등을	등+을	NOUN	_	15	obj	_	_	등/nbn+을/jco
+15	활성화할	활성화+하+ㄹ	VERB	_	0	root	_	_	활성화/ncpa+하/xsv+ㄹ/etm
+16	수	수	NOUN	_	17	fixed	_	_	수/nbn
+17	있을	있+ㄹ	ADJ	_	15	aux	_	_	있/paa+ㄹ/etm
+18	것이다	것+이+다	VERB	_	15	aux	_	_	것/nbn+이/jp+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 지구당제도는 유지되어야 한다 .
+1	지구당제도는	지구당+제도+는	NOUN	_	2	dislocated	_	_	지구당/ncn+제도/ncn+는/jxt
+2	유지되어야	유지+되+어야	VERB	_	0	root	_	_	유지/ncpa+되/xsv+어야/ecx
+3	한다	하+ㄴ다	AUX	_	2	aux	_	_	하/px+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 앞으로 한국의 정치는 지방자치의 전면실시와 더불어 지방분권하 추세로 나아갈 전망이다 .
+1	앞으로	앞+으로	ADV	_	10	advcl	_	_	앞/ncn+으로/jca
+2	한국의	한국+의	PROPN	_	3	nmod	_	_	한국/nq+의/jcm
+3	정치는	정치+는	NOUN	_	10	dislocated	_	_	정치/ncpa+는/jxt
+4	지방자치의	지방+자치+의	NOUN	_	5	nmod	_	_	지방/ncn+자치/ncpa+의/jcm
+5	전면실시와	전면+실시+와	CCONJ	_	6	conj	_	_	전면/ncn+실시/ncpa+와/jct
+6	더불어	더불+어	SCONJ	_	9	ccomp	_	_	더불/pvg+어/ecs
+7	지방분권하	지방+분권화	NOUN	_	8	compound	_	_	지방/ncn+분권화/ncn
+8	추세로	추세+로	ADV	_	9	advcl	_	_	추세/ncn+로/jca
+9	나아갈	나아가+ㄹ	VERB	_	10	ccomp	_	_	나아가/pvg+ㄹ/etm
+10	전망이다	전망+이+다	VERB	_	0	root	_	_	전망/ncpa+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그리고 지구당은 전국에 흩어져 있는 민중들의 의견을 중앙으로 수렴할 수 있는 창구 역할을 담당할 수 있다 .
+1	그리고	그리고	CCONJ	_	14	cc	_	_	그리고/maj
+2	지구당은	지구당+은	NOUN	_	9	dislocated	_	_	지구당/ncn+은/jxt
+3	전국에	전국+에	ADV	_	4	obl	_	_	전국/ncn+에/jca
+4	흩어져	흩어지+어	VERB	_	6	acl	_	_	흩어지/pvg+어/ecx
+5	있는	있+는	AUX	_	4	aux	_	_	있/px+는/etm
+6	민중들의	민중+들+의	NOUN	_	7	nmod	_	_	민중/ncn+들/xsn+의/jcm
+7	의견을	의견+을	NOUN	_	9	obj	_	_	의견/ncn+을/jco
+8	중앙으로	중앙+으로	ADV	_	9	advcl	_	_	중앙/ncn+으로/jca
+9	수렴할	수렴+하+ㄹ	VERB	_	13	acl	_	_	수렴/ncpa+하/xsv+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있는	있+는	ADJ	_	9	aux	_	_	있/paa+는/etm
+12	창구	창구	NOUN	_	13	compound	_	_	창구/ncn
+13	역할을	역할+을	NOUN	_	14	obj	_	_	역할/ncn+을/jco
+14	담당할	담당+하+ㄹ	VERB	_	0	root	_	_	담당/ncpa+하/xsv+ㄹ/etm
+15	수	수	NOUN	_	16	fixed	_	_	수/nbn
+16	있다	있+다	ADJ	_	14	aux	_	_	있/paa+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 지구당 수준에서 작은 규모의 정치를 경험한 사람들이 미래의 중앙무대에서 정치를 담당할 정치엘리뜨로 성장할 수 있다는 것이다 .
+1	지구당	지구당	NOUN	_	2	compound	_	_	지구당/ncn
+2	수준에서	수준+에서	ADV	_	6	advcl	_	_	수준/ncn+에서/jca
+3	작은	작+ㄴ	ADJ	_	4	amod	_	_	작/paa+ㄴ/etm
+4	규모의	규모+의	NOUN	_	5	nmod	_	_	규모/ncn+의/jcm
+5	정치를	정치+를	NOUN	_	6	obj	_	_	정치/ncpa+를/jco
+6	경험한	경험+하+ㄴ	VERB	_	7	acl	_	_	경험/ncpa+하/xsv+ㄴ/etm
+7	사람들이	사람+들+이	NOUN	_	13	nsubj	_	_	사람/ncn+들/xsn+이/jcs
+8	미래의	미래+의	NOUN	_	9	nmod	_	_	미래/ncn+의/jcm
+9	중앙무대에서	중앙+무대+에서	ADV	_	11	advcl	_	_	중앙/ncn+무대/ncn+에서/jca
+10	정치를	정치+를	NOUN	_	11	obj	_	_	정치/ncpa+를/jco
+11	담당할	담당+하+ㄹ	VERB	_	12	acl	_	_	담당/ncpa+하/xsv+ㄹ/etm
+12	정치엘리뜨로	정치+엘리뜨+로	ADV	_	13	advcl	_	_	정치/ncpa+엘리뜨/ncn+로/jca
+13	성장할	성장+하+ㄹ	VERB	_	0	root	_	_	성장/ncpa+하/xsv+ㄹ/etm
+14	수	수	NOUN	_	15	fixed	_	_	수/nbn
+15	있다는	있+다는	ADJ	_	13	aux	_	_	있/paa+다는/etm
+16	것이다	것+이+다	VERB	_	13	aux	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 각정당은 돈이 적게 드는 지구당운용 방안을 시급히 마련하여야 할 것이다 .
+1	각정당은	각+정당+은	NOUN	_	8	dislocated	_	_	각/ncn+정당/ncn+은/jxt
+2	돈이	돈+이	NOUN	_	4	nsubj	_	_	돈/ncn+이/jcs
+3	적게	적+게	SCONJ	_	4	xcomp	_	_	적/paa+게/ecs
+4	드는	들+는	VERB	_	6	acl	_	_	들/pvg+는/etm
+5	지구당운용	지구당+운용	NOUN	_	6	compound	_	_	지구당/ncn+운용/ncpa
+6	방안을	방안+을	NOUN	_	8	obj	_	_	방안/ncn+을/jco
+7	시급히	시급히	ADV	_	8	advmod	_	_	시급히/mag
+8	마련하여야	마련+하+어야	VERB	_	0	root	_	_	마련/ncpa+하/xsv+어야/ecx
+9	할	하+ㄹ	AUX	_	8	aux	_	_	하/px+ㄹ/etm
+10	것이다	것+이+다	VERB	_	8	aux	_	_	것/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 정치자금법 금융실명제 실시 이후 음성적인 정치자금의 흐름이 확연히 차단되어가는 듯 하다 .
+1	정치자금법	정치+자금법	NOUN	_	2	compound	_	_	정치/ncpa+자금법/ncn
+2	금융실명제	금융+실명제	NOUN	_	3	compound	_	_	금융/ncn+실명제/ncn
+3	실시	실시	NOUN	_	4	compound	_	_	실시/ncpa
+4	이후	이후	NOUN	_	11	advmod	_	_	이후/ncn
+5	음성적인	음성+적+이+ㄴ	VERB	_	6	acl	_	_	음성/ncn+적/xsn+이/jp+ㄴ/etm
+6	정치자금의	정치+자금+의	NOUN	_	7	nmod	_	_	정치/ncpa+자금/ncn+의/jcm
+7	흐름이	흐름+이	NOUN	_	9	nsubj	_	_	흐름/ncn+이/jcs
+8	확연히	확연히	ADV	_	9	advmod	_	_	확연히/mag
+9	차단되어가는	차단+되+어+가+는	AUX	_	10	acl	_	_	차단/ncpa+되/xsv+어/ecx+가/px+는/etm
+10	듯	듯	NOUN	_	11	mark	_	_	듯/nbn
+11	하다	하+다	VERB	_	0	root	_	_	하/pvg+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 정치인들은 정치자금의 조달이 어려운 현실을 두려운 눈으로 바라보고 있다 .
+1	정치인들은	정치인+들+은	NOUN	_	8	dislocated	_	_	정치인/ncn+들/xsn+은/jxt
+2	정치자금의	정치+자금+의	NOUN	_	3	nmod	_	_	정치/ncpa+자금/ncn+의/jcm
+3	조달이	조달+이	NOUN	_	4	nsubj	_	_	조달/ncpa+이/jcs
+4	어려운	어렵+ㄴ	ADJ	_	5	amod	_	_	어렵/paa+ㄴ/etm
+5	현실을	현실+을	NOUN	_	8	obj	_	_	현실/ncn+을/jco
+6	두려운	두렵+ㄴ	ADJ	_	7	amod	_	_	두렵/paa+ㄴ/etm
+7	눈으로	눈+으로	ADV	_	8	advcl	_	_	눈/ncn+으로/jca
+8	바라보고	바라보+고	VERB	_	0	root	_	_	바라보/pvg+고/ecx
+9	있다	있+다	AUX	_	8	aux	_	_	있/px+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 한국정치 발전을 위해 상당히 고무적인 현상으로 간주된다 .
+1	한국정치	한국+정치	NOUN	_	2	compound	_	_	한국/nq+정치/ncpa
+2	발전을	발전+을	NOUN	_	3	obj	_	_	발전/ncpa+을/jco
+3	위해	위하+어	SCONJ	_	5	ccomp	_	_	위하/pvg+어/ecs
+4	상당히	상당+히	ADV	_	5	advmod	_	_	상당/ncps+히/xsa
+5	고무적인	고무+적+이+ㄴ	VERB	_	6	acl	_	_	고무/ncpa+적/xsn+이/jp+ㄴ/etm
+6	현상으로	현상+으로	ADV	_	7	advcl	_	_	현상/ncn+으로/jca
+7	간주된다	간주+되+ㄴ다	VERB	_	0	root	_	_	간주/ncpa+되/xsv+ㄴ다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 그러나 정치는 돈을 필요로 한다 .
+1	그러나	그러나	CCONJ	_	5	cc	_	_	그러나/maj
+2	정치는	정치+는	NOUN	_	5	dislocated	_	_	정치/ncpa+는/jxt
+3	돈을	돈+을	NOUN	_	5	obj	_	_	돈/ncn+을/jco
+4	필요로	필요+로	ADV	_	5	advcl	_	_	필요/ncps+로/jca
+5	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 한국정치의 문제는 돈이 지나치게 많이 소요된다는 데 있다 .
+1	한국정치의	한국+정치+의	PROPN	_	2	nmod	_	_	한국/nq+정치/ncpa+의/jcm
+2	문제는	문제+는	NOUN	_	6	dislocated	_	_	문제/ncn+는/jxt
+3	돈이	돈+이	NOUN	_	6	nsubj	_	_	돈/ncn+이/jcs
+4	지나치게	지나치+게	SCONJ	_	6	ccomp	_	_	지나치/pvg+게/ecs
+5	많이	많이	ADV	_	6	advmod	_	_	많이/mag
+6	소요된다는	소요+되+ㄴ다는	VERB	_	0	root	_	_	소요/ncpa+되/xsv+ㄴ다는/etm
+7	데	데	NOUN	_	8	fixed	_	_	데/nbn
+8	있다	있+다	ADJ	_	6	aux	_	_	있/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 한국의 정치인들은 금융실명제 이전에는 음성적인 정치자금에 크게 의존해왔다 .
+1	한국의	한국+의	PROPN	_	2	nmod	_	_	한국/nq+의/jcm
+2	정치인들은	정치인+들+은	NOUN	_	8	dislocated	_	_	정치인/ncn+들/xsn+은/jxt
+3	금융실명제	금융+실명제	NOUN	_	4	compound	_	_	금융/ncn+실명제/ncn
+4	이전에는	이전+에+는	NOUN	_	8	dislocated	_	_	이전/ncn+에/jca+는/jxt
+5	음성적인	음성+적+이+ㄴ	VERB	_	6	acl	_	_	음성/ncn+적/xsn+이/jp+ㄴ/etm
+6	정치자금에	정치+자금+에	ADV	_	8	obl	_	_	정치/ncpa+자금/ncn+에/jca
+7	크게	크+게	SCONJ	_	8	xcomp	_	_	크/paa+게/ecs
+8	의존해왔다	의존+하+어+오+았+다	AUX	_	0	root	_	_	의존/ncpa+하/xsv+어/ecx+오/px+았/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 그러나 앞으로는 음성적인 정치자금의 조달은 점점 어려워질 것이 분명하다 .
+1	그러나	그러나	CCONJ	_	9	cc	_	_	그러나/maj
+2	앞으로는	앞+으로+는	NOUN	_	7	dislocated	_	_	앞/ncn+으로/jca+는/jxt
+3	음성적인	음성+적+이+ㄴ	VERB	_	4	acl	_	_	음성/ncn+적/xsn+이/jp+ㄴ/etm
+4	정치자금의	정치+자금+의	NOUN	_	5	nmod	_	_	정치/ncpa+자금/ncn+의/jcm
+5	조달은	조달+은	NOUN	_	7	dislocated	_	_	조달/ncpa+은/jxt
+6	점점	점점	ADV	_	7	advmod	_	_	점점/mag
+7	어려워질	어려워지+ㄹ	VERB	_	8	acl	_	_	어려워지/pvg+ㄹ/etm
+8	것이	것+이	NOUN	_	9	nsubj	_	_	것/nbn+이/jcs
+9	분명하다	분명하+다	ADJ	_	0	root	_	_	분명하/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그러나 금융실명제 실시만으로 정경유착의 고리가 완전히 차단될 것이라는 성급한 판단을 내려서는 안된다 .
+1	그러나	그러나	CCONJ	_	12	cc	_	_	그러나/maj
+2	금융실명제	금융+실명제	NOUN	_	3	compound	_	_	금융/ncn+실명제/ncn
+3	실시만으로	실시+만+으로	ADV	_	7	advcl	_	_	실시/ncpa+만/jxc+으로/jca
+4	정경유착의	정경유착+의	NOUN	_	5	nmod	_	_	정경유착/ncn+의/jcm
+5	고리가	고리+가	NOUN	_	7	nsubj	_	_	고리/ncn+가/jcs
+6	완전히	완전+히	ADV	_	7	advmod	_	_	완전/ncps+히/xsa
+7	차단될	차단+되+ㄹ	VERB	_	10	acl	_	_	차단/ncpa+되/xsv+ㄹ/etm
+8	것이라는	것+이+라는	VERB	_	7	aux	_	_	것/nbn+이/jp+라는/etm
+9	성급한	성급하+ㄴ	ADJ	_	10	amod	_	_	성급하/paa+ㄴ/etm
+10	판단을	판단+을	NOUN	_	11	obj	_	_	판단/ncpa+을/jco
+11	내려서는	내리+어서+는	NOUN	_	12	ccomp	_	_	내리/pvg+어서/ecs+는/jxt
+12	안된다	안되+ㄴ다	ADJ	_	0	root	_	_	안되/paa+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 따라서 정치자금의 수입과 지출은 모두 공개되어야 하고 중앙선관위에 정기적으로 보고하여 심사를 받도록 해야 한다 .
+1	따라서	따라서	CCONJ	_	13	cc	_	_	따라서/maj
+2	정치자금의	정치+자금+의	NOUN	_	4	nmod	_	_	정치/ncpa+자금/ncn+의/jcm
+3	수입과	수입+과	CCONJ	_	4	conj	_	_	수입/ncpa+과/jcj
+4	지출은	지출+은	NOUN	_	6	dislocated	_	_	지출/ncpa+은/jxt
+5	모두	모두	ADV	_	6	advmod	_	_	모두/mag
+6	공개되어야	공개+되+어야	VERB	_	13	conj	_	_	공개/ncpa+되/xsv+어야/ecx
+7	하고	하+고	CCONJ	_	6	aux	_	_	하/px+고/ecc
+8	중앙선관위에	중앙+선관위+에	ADV	_	10	obl	_	_	중앙/ncn+선관위/ncn+에/jca
+9	정기적으로	정기+적+으로	ADV	_	10	advcl	_	_	정기/ncn+적/xsn+으로/jca
+10	보고하여	보고+하+어	SCONJ	_	13	ccomp	_	_	보고/ncpa+하/xsv+어/ecs
+11	심사를	심사+를	NOUN	_	12	obj	_	_	심사/ncpa+를/jco
+12	받도록	받+도록	SCONJ	_	13	ccomp	_	_	받/pvg+도록/ecs
+13	해야	하+어야	VERB	_	0	root	_	_	하/pvg+어야/ecx
+14	한다	하+ㄴ다	AUX	_	13	aux	_	_	하/px+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 중앙선관위가 필요시 정치자금에 관한 감사를 행할 수 있는 권한을 가져야 함은 물론이다 .
+1	중앙선관위가	중앙+선관위+가	NOUN	_	10	nsubj	_	_	중앙/ncn+선관위/ncn+가/jcs
+2	필요시	필요시	NOUN	_	6	advmod	_	_	필요시/ncn
+3	정치자금에	정치+자금+에	ADV	_	4	obl	_	_	정치/ncpa+자금/ncn+에/jca
+4	관한	관하+ㄴ	VERB	_	5	acl	_	_	관하/pvg+ㄴ/etm
+5	감사를	감사+를	NOUN	_	6	obj	_	_	감사/ncpa+를/jco
+6	행할	행하+ㄹ	VERB	_	9	acl	_	_	행하/pvg+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	있는	있+는	ADJ	_	6	aux	_	_	있/paa+는/etm
+9	권한을	권한+을	NOUN	_	10	obj	_	_	권한/ncn+을/jco
+10	가져야	가지+어야	VERB	_	12	dislocated	_	_	가지/pvg+어야/ecx
+11	함은	하+ㅁ+은	NOUN	_	10	aux	_	_	하/px+ㅁ/etn+은/jxt
+12	물론이다	물론+이+다	VERB	_	0	root	_	_	물론/ncn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 정치자금 흐름을 국민이 투명하게 바라볼 수 있는 제도가 마련되어야 한다는 것이다 .
+1	정치자금	정치+자금	NOUN	_	2	compound	_	_	정치/ncpa+자금/ncn
+2	흐름을	흐름+을	NOUN	_	5	obj	_	_	흐름/ncn+을/jco
+3	국민이	국민+이	NOUN	_	5	nsubj	_	_	국민/ncn+이/jcs
+4	투명하게	투명+하+게	SCONJ	_	5	ccomp	_	_	투명/ncpa+하/xsv+게/ecs
+5	바라볼	바라보+ㄹ	VERB	_	8	acl	_	_	바라보/pvg+ㄹ/etm
+6	수	수	NOUN	_	7	fixed	_	_	수/nbn
+7	있는	있+는	ADJ	_	5	aux	_	_	있/paa+는/etm
+8	제도가	제도+가	NOUN	_	9	nsubj	_	_	제도/ncn+가/jcs
+9	마련되어야	마련+되+어야	VERB	_	0	root	_	_	마련/ncpa+되/xsv+어야/ecx
+10	한다는	하+ㄴ다는	AUX	_	9	aux	_	_	하/px+ㄴ다는/etm
+11	것이다	것+이+다	VERB	_	9	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 현행 정치자금 조성방법으로는 당비 , 후원회제도 , 기탁금제도 , 국고보조금제도 등이 있다 .
+1	현행	현행	NOUN	_	2	compound	_	_	현행/ncn
+2	정치자금	정치+자금	NOUN	_	3	compound	_	_	정치/ncpa+자금/ncn
+3	조성방법으로는	조성+방법+으로+는	NOUN	_	12	dislocated	_	_	조성/ncpa+방법/ncn+으로/jca+는/jxt
+4	당비	당비	NOUN	_	6	compound	_	_	당비/ncn
+5	,	,	PUNCT	_	4	punct	_	_	,/sp
+6	후원회제도	후원회+제도	NOUN	_	8	compound	_	_	후원회/ncn+제도/ncn
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	기탁금제도	기탁금+제도	NOUN	_	10	compound	_	_	기탁금/ncn+제도/ncn
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	국고보조금제도	국고+보조금+제도	NOUN	_	11	compound	_	_	국고/ncn+보조금/ncn+제도/ncn
+11	등이	등+이	NOUN	_	12	nsubj	_	_	등/nbn+이/jcs
+12	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 각 정당의 당비는 주로 당지도부가 제공하는 특별현금으로 마련된다 .
+1	각	각	ADJ	_	2	amod	_	_	각/mma
+2	정당의	정당+의	NOUN	_	3	nmod	_	_	정당/ncn+의/jcm
+3	당비는	당비+는	NOUN	_	8	dislocated	_	_	당비/ncn+는/jxt
+4	주로	주로	ADV	_	6	advmod	_	_	주로/mag
+5	당지도부가	당+지도부+가	NOUN	_	6	nsubj	_	_	당/ncn+지도부/ncn+가/jcs
+6	제공하는	제공+하+는	VERB	_	7	acl	_	_	제공/ncpa+하/xsv+는/etm
+7	특별현금으로	특별+현금+으로	ADV	_	8	advcl	_	_	특별/ncpa+현금/ncn+으로/jca
+8	마련된다	마련+되+ㄴ다	VERB	_	0	root	_	_	마련/ncpa+되/xsv+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 평당원이 납부한 당비는 거의 무시할 만한 액수에 불과하다 .
+1	평당원이	평당원+이	NOUN	_	2	nsubj	_	_	평당원/ncn+이/jcs
+2	납부한	납부+하+ㄴ	VERB	_	3	acl	_	_	납부/ncpa+하/xsv+ㄴ/etm
+3	당비는	당비+는	NOUN	_	8	dislocated	_	_	당비/ncn+는/jxt
+4	거의	거의	ADV	_	5	advmod	_	_	거의/mag
+5	무시할	무시+하+ㄹ	VERB	_	7	acl	_	_	무시/ncpa+하/xsv+ㄹ/etm
+6	만한	만하+ㄴ	AUX	_	5	aux	_	_	만하/px+ㄴ/etm
+7	액수에	액수+에	ADV	_	8	obl	_	_	액수/ncn+에/jca
+8	불과하다	불과하+다	ADJ	_	0	root	_	_	불과하/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 각 정당은 평당원의 당비의 비중을 혁신적으로 높여나갈 수 있는 방안을 마련하여야 할 것이다 .
+1	각	각	ADJ	_	2	amod	_	_	각/mma
+2	정당은	정당+은	NOUN	_	11	dislocated	_	_	정당/ncn+은/jxt
+3	평당원의	평당원+의	NOUN	_	4	nmod	_	_	평당원/ncn+의/jcm
+4	당비의	당비+의	NOUN	_	5	nmod	_	_	당비/ncn+의/jcm
+5	비중을	비중+을	NOUN	_	7	obj	_	_	비중/ncn+을/jco
+6	혁신적으로	혁신+적+으로	ADV	_	7	advcl	_	_	혁신/ncpa+적/xsn+으로/jca
+7	높여나갈	높이+어+나가+ㄹ	AUX	_	10	acl	_	_	높이/pvg+어/ecx+나가/px+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있는	있+는	ADJ	_	7	aux	_	_	있/paa+는/etm
+10	방안을	방안+을	NOUN	_	11	obj	_	_	방안/ncn+을/jco
+11	마련하여야	마련+하+어야	VERB	_	0	root	_	_	마련/ncpa+하/xsv+어야/ecx
+12	할	하+ㄹ	AUX	_	11	aux	_	_	하/px+ㄹ/etm
+13	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 후원회제도는 여당의 경우 비교적 잘 할용되고 있으나 , 야당의 경우 거의 활용되고 있지 못한 실정이다 .
+1	후원회제도는	후원회+제도+는	NOUN	_	15	dislocated	_	_	후원회/ncn+제도/ncn+는/jxt
+2	여당의	여당+의	NOUN	_	3	nmod	_	_	여당/ncn+의/jcm
+3	경우	경우	NOUN	_	6	advmod	_	_	경우/ncn
+4	비교적	비교+적	NOUN	_	6	advmod	_	_	비교/ncpa+적/xsn
+5	잘	잘	ADV	_	6	advmod	_	_	잘/mag
+6	할용되고	할용+되+고	VERB	_	12	ccomp	_	_	할용/ncpa+되/xsv+고/ecx
+7	있으나	있+으나	SCONJ	_	6	aux	_	_	있/px+으나/ecs
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	야당의	야당+의	NOUN	_	10	nmod	_	_	야당/ncn+의/jcm
+10	경우	경우	NOUN	_	12	advmod	_	_	경우/ncn
+11	거의	거의	ADV	_	12	advmod	_	_	거의/mag
+12	활용되고	활용+되+고	VERB	_	15	ccomp	_	_	활용/ncpa+되/xsv+고/ecx
+13	있지	있+지	AUX	_	12	aux	_	_	있/px+지/ecx
+14	못한	못하+ㄴ	AUX	_	12	aux	_	_	못하/px+ㄴ/etm
+15	실정이다	실정+이+다	VERB	_	0	root	_	_	실정/ncn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 현행후원회 구성방법은 민자당 200여 개 , 민주당 10여 개 , 국민당 5개 등이다 .
+1	현행후원회	현행+후원회	NOUN	_	2	compound	_	_	현행/ncn+후원회/ncn
+2	구성방법은	구성+방법+은	NOUN	_	13	dislocated	_	_	구성/ncpa+방법/ncn+은/jxt
+3	민자당	민자당	PROPN	_	5	compound	_	_	민자당/nq
+4	200여	200+여	NOUN	_	5	advmod	_	_	200/nnc+여/xsn
+5	개	개	NOUN	_	13	advmod	_	_	개/nbu
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	민주당	민주당	PROPN	_	9	compound	_	_	민주당/nq
+8	10여	10+여	NOUN	_	9	advmod	_	_	10/nnc+여/xsn
+9	개	개	NOUN	_	13	advmod	_	_	개/nbn
+10	,	,	PUNCT	_	9	punct	_	_	,/sp
+11	국민당	국민당	NOUN	_	12	compound	_	_	국민당/ncn
+12	5개	5+개	NOUN	_	13	compound	_	_	5/nnc+개/nbu
+13	등이다	등+이+다	VERB	_	0	root	_	_	등/nbn+이/jp+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 위와 같은 상황을 볼 때 , 현행 후원회제도는 집권여당의 정치자금만을 조성해주는 일방적 자치에 불과하다고 말할 수 있다 .
+1	위와	위+와	CCONJ	_	2	conj	_	_	위/ncn+와/jct
+2	같은	같+ㄴ	ADJ	_	3	amod	_	_	같/paa+ㄴ/etm
+3	상황을	상황+을	NOUN	_	4	obj	_	_	상황/ncn+을/jco
+4	볼	보+ㄹ	VERB	_	5	acl	_	_	보/pvg+ㄹ/etm
+5	때	때	NOUN	_	15	advmod	_	_	때/ncn
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	현행	현행	NOUN	_	8	compound	_	_	현행/ncn
+8	후원회제도는	후원회+제도+는	NOUN	_	11	dislocated	_	_	후원회/ncn+제도/ncn+는/jxt
+9	집권여당의	집권+여당+의	NOUN	_	10	nmod	_	_	집권/ncn+여당/ncn+의/jcm
+10	정치자금만을	정치+자금+만+을	NOUN	_	11	obj	_	_	정치/ncpa+자금/ncn+만/jxc+을/jco
+11	조성해주는	조성+하+어+주+는	AUX	_	13	acl	_	_	조성/ncpa+하/xsv+어/ecx+주/px+는/etm
+12	일방적	일방+적	NOUN	_	13	amod	_	_	일방/ncn+적/xsn
+13	자치에	자치+에	ADV	_	14	obl	_	_	자치/ncpa+에/jca
+14	불과하다고	불과하+다고	SCONJ	_	15	xcomp	_	_	불과하/paa+다고/ecs
+15	말할	말하+ㄹ	VERB	_	0	root	_	_	말하/pvg+ㄹ/etm
+16	수	수	NOUN	_	17	fixed	_	_	수/nbn
+17	있다	있+다	ADJ	_	15	aux	_	_	있/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 현행 후원회제도를 여야가 균형 있게 정치자금을 조달할 수 있는 제도로 발전시켜나가기 위해서는 먼저 ' 소액다수 ' 제도로 전환하여야 한다 .
+1	현행	현행	NOUN	_	2	compound	_	_	현행/ncn
+2	후원회제도를	후원회+제도+를	NOUN	_	11	obj	_	_	후원회/ncn+제도/ncn+를/jco
+3	여야가	여야+가	NOUN	_	7	nsubj	_	_	여야/ncn+가/jcs
+4	균형	균형	NOUN	_	5	dep	_	_	균형/ncn
+5	있게	있+게	SCONJ	_	7	xcomp	_	_	있/paa+게/ecs
+6	정치자금을	정치+자금+을	NOUN	_	7	obj	_	_	정치/ncpa+자금/ncn+을/jco
+7	조달할	조달+하+ㄹ	VERB	_	10	acl	_	_	조달/ncpa+하/xsv+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있는	있+는	ADJ	_	7	aux	_	_	있/paa+는/etm
+10	제도로	제도+로	ADV	_	11	advcl	_	_	제도/ncn+로/jca
+11	발전시켜나가기	발전+시키+어+나가+기	AUX	_	12	nmod	_	_	발전/ncpa+시키/xsv+어/ecx+나가/px+기/etn
+12	위해서는	위하+어서+는	NOUN	_	18	ccomp	_	_	위하/pvg+어서/ecs+는/jxt
+13	먼저	먼저	ADV	_	18	advmod	_	_	먼저/mag
+14	'	'	PUNCT	_	15	punct	_	_	'/sl
+15	소액다수	소액다수	PROPN	_	17	compound	_	_	소액다수/nq
+16	'	'	PUNCT	_	15	punct	_	_	'/sr
+17	제도로	제도+로	ADV	_	18	advcl	_	_	제도/ncn+로/jca
+18	전환하여야	전환+하+어야	VERB	_	0	root	_	_	전환/ncpa+하/xsv+어야/ecx
+19	한다	하+ㄴ다	AUX	_	18	aux	_	_	하/px+ㄴ다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 또한 후원인의 후원금 하한선을 낮추어야 할 것이다 .
+1	또한	또한	CCONJ	_	5	cc	_	_	또한/maj
+2	후원인의	후원인+의	NOUN	_	4	nmod	_	_	후원인/ncn+의/jcm
+3	후원금	후원금	NOUN	_	4	compound	_	_	후원금/ncn
+4	하한선을	하한선+을	NOUN	_	5	obj	_	_	하한선/ncn+을/jco
+5	낮추어야	낮추+어야	VERB	_	0	root	_	_	낮추/pvg+어야/ecx
+6	할	하+ㄹ	AUX	_	5	aux	_	_	하/px+ㄹ/etm
+7	것이다	것+이+다	VERB	_	5	aux	_	_	것/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 기탁금제도는 지정기탁금과 비지정기탁금으로 나뉜다 .
+1	기탁금제도는	기탁금+제도+는	NOUN	_	4	dislocated	_	_	기탁금/ncn+제도/ncn+는/jxt
+2	지정기탁금과	지정+기탁금+과	CCONJ	_	3	conj	_	_	지정/ncpa+기탁금/ncn+과/jcj
+3	비지정기탁금으로	비지정+기탁금+으로	ADV	_	4	advcl	_	_	비지정/ncn+기탁금/ncn+으로/jca
+4	나뉜다	나뉘+ㄴ다	VERB	_	0	root	_	_	나뉘/pvg+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 그러나 지정기탁금제도는 집권당의 정치자금을 위한 장치로서 기능하고 있을 뿐이다 .
+1	그러나	그러나	CCONJ	_	7	cc	_	_	그러나/maj
+2	지정기탁금제도는	지정+기탁금+제도+는	NOUN	_	7	dislocated	_	_	지정/ncpa+기탁금/ncn+제도/ncn+는/jxt
+3	집권당의	집권당+의	NOUN	_	4	nmod	_	_	집권당/ncn+의/jcm
+4	정치자금을	정치+자금+을	NOUN	_	5	obj	_	_	정치/ncpa+자금/ncn+을/jco
+5	위한	위하+ㄴ	VERB	_	6	acl	_	_	위하/pvg+ㄴ/etm
+6	장치로서	장치+로서	ADV	_	7	advcl	_	_	장치/ncpa+로서/jca
+7	기능하고	기능+하+고	VERB	_	0	root	_	_	기능/ncn+하/xsv+고/ecx
+8	있을	있+ㄹ	AUX	_	7	aux	_	_	있/px+ㄹ/etm
+9	뿐이다	뿐+이+다	VERB	_	7	aux	_	_	뿐/nbn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 야당을 위한 지정기탁은 전혀 없는 실정이기 때문이다 .
+1	야당을	야당+을	NOUN	_	2	obj	_	_	야당/ncn+을/jco
+2	위한	위하+ㄴ	VERB	_	3	acl	_	_	위하/pvg+ㄴ/etm
+3	지정기탁은	지정+기탁+은	NOUN	_	6	dislocated	_	_	지정/ncpa+기탁/ncpa+은/jxt
+4	전혀	전혀	ADV	_	5	advmod	_	_	전혀/mag
+5	없는	없+는	ADJ	_	6	amod	_	_	없/paa+는/etm
+6	실정이기	실정+이+기	VERB	_	0	root	_	_	실정/ncn+이/jp+기/etn
+7	때문이다	때문+이+다	VERB	_	6	aux	_	_	때문/nbn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 따라서 현행 지정기탁금이 일정한도를 의무적으로 지정하지 않은 정당에 배분하여야 할 것이다 .
+1	따라서	따라서	CCONJ	_	9	cc	_	_	따라서/maj
+2	현행	현행	NOUN	_	3	compound	_	_	현행/ncn
+3	지정기탁금이	지정+기탁금+이	NOUN	_	9	nsubj	_	_	지정/ncpa+기탁금/ncn+이/jcs
+4	일정한도를	일정+한도+를	NOUN	_	6	obj	_	_	일정/ncn+한도/ncn+를/jco
+5	의무적으로	의무+적+으로	ADV	_	6	advcl	_	_	의무/ncn+적/xsn+으로/jca
+6	지정하지	지정+하+지	VERB	_	8	acl	_	_	지정/ncpa+하/xsv+지/ecx
+7	않은	않+ㄴ	AUX	_	6	aux	_	_	않/px+ㄴ/etm
+8	정당에	정당+에	ADV	_	9	obl	_	_	정당/ncn+에/jca
+9	배분하여야	배분+하+어야	VERB	_	0	root	_	_	배분/ncpa+하/xsv+어야/ecx
+10	할	하+ㄹ	AUX	_	9	aux	_	_	하/px+ㄹ/etm
+11	것이다	것+이+다	VERB	_	9	aux	_	_	것/nbn+이/jp+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 배분방식은 국고보조금 배분방식에 준하는 것이 바람직하다 .
+1	배분방식은	배분+방식+은	NOUN	_	6	dislocated	_	_	배분/ncpa+방식/ncn+은/jxt
+2	국고보조금	국고+보조금	NOUN	_	3	compound	_	_	국고/ncn+보조금/ncn
+3	배분방식에	배분+방식+에	ADV	_	4	obl	_	_	배분/ncpa+방식/ncn+에/jca
+4	준하는	준하+는	VERB	_	5	acl	_	_	준하/pvg+는/etm
+5	것이	것+이	NOUN	_	6	nsubj	_	_	것/nbn+이/jcs
+6	바람직하다	바람직하+다	ADJ	_	0	root	_	_	바람직하/paa+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 마지막으로 국고보조금제도가 있다 .
+1	마지막으로	마지막+으로	ADV	_	3	advcl	_	_	마지막/ncn+으로/jca
+2	국고보조금제도가	국고+보조금+제도+가	NOUN	_	3	nsubj	_	_	국고/ncn+보조금/ncn+제도/ncn+가/jcs
+3	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 정당을 사적인 기관이 아니라 공적인 기관으로 넓게 해석할 수 있다 .
+1	정당을	정당+을	NOUN	_	8	obj	_	_	정당/ncn+을/jco
+2	사적인	사+적+이+ㄴ	VERB	_	3	acl	_	_	사/ncn+적/xsn+이/jp+ㄴ/etm
+3	기관이	기관+이	NOUN	_	4	csubj	_	_	기관/ncn+이/jcc
+4	아니라	아니+라	SCONJ	_	8	xcomp	_	_	아니/paa+라/ecs
+5	공적인	공적+이+ㄴ	VERB	_	6	acl	_	_	공적/ncn+이/jp+ㄴ/etm
+6	기관으로	기관+으로	ADV	_	8	advcl	_	_	기관/ncn+으로/jca
+7	넓게	넓+게	SCONJ	_	8	xcomp	_	_	넓/paa+게/ecs
+8	해석할	해석+하+ㄹ	VERB	_	0	root	_	_	해석/ncpa+하/xsv+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	있다	있+다	ADJ	_	8	aux	_	_	있/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그리고 정치자금의 음성적 조달 등으로 기관으로 넓게 해석할 수 있다 .
+1	그리고	그리고	CCONJ	_	8	cc	_	_	그리고/maj
+2	정치자금의	정치+자금+의	NOUN	_	4	nmod	_	_	정치/ncpa+자금/ncn+의/jcm
+3	음성적	음성+적	NOUN	_	4	amod	_	_	음성/ncn+적/xsn
+4	조달	조달	NOUN	_	5	compound	_	_	조달/ncpa
+5	등으로	등+으로	ADV	_	8	advcl	_	_	등/nbn+으로/jca
+6	기관으로	기관+으로	ADV	_	8	advcl	_	_	기관/ncn+으로/jca
+7	넓게	넓+게	SCONJ	_	8	xcomp	_	_	넓/paa+게/ecs
+8	해석할	해석+하+ㄹ	VERB	_	0	root	_	_	해석/ncpa+하/xsv+ㄹ/etm
+9	수	수	NOUN	_	10	fixed	_	_	수/nbn
+10	있다	있+다	ADJ	_	8	aux	_	_	있/paa+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 국고보조금이 많은가 적은가의 문제는 선거비용공영제의 학대 여부 , 국가적 경제규모 등을 고려하여 신중히 논의되어야 할 것이다 .
+1	국고보조금이	국고+보조금+이	NOUN	_	2	nsubj	_	_	국고/ncn+보조금/ncn+이/jcs
+2	많은가	많+ㄴ가	ADJ	_	3	dep	_	_	많/paa+ㄴ가/ef
+3	적은가의	적+은가+의	NOUN	_	4	nmod	_	_	적/paa+은가/ef+의/jcm
+4	문제는	문제+는	NOUN	_	14	dislocated	_	_	문제/ncn+는/jxt
+5	선거비용공영제의	선거+비용+공영제+의	NOUN	_	6	nmod	_	_	선거/ncpa+비용/ncn+공영제/ncn+의/jcm
+6	학대	학대	NOUN	_	7	compound	_	_	학대/ncpa
+7	여부	여부	NOUN	_	10	compound	_	_	여부/ncn
+8	,	,	PUNCT	_	7	punct	_	_	,/sp
+9	국가적	국가+적	NOUN	_	10	amod	_	_	국가/ncn+적/xsn
+10	경제규모	경제+규모	NOUN	_	11	compound	_	_	경제/ncn+규모/ncn
+11	등을	등+을	NOUN	_	12	obj	_	_	등/nbn+을/jco
+12	고려하여	고려+하+어	SCONJ	_	14	ccomp	_	_	고려/ncpa+하/xsv+어/ecs
+13	신중히	신중+히	ADV	_	14	advmod	_	_	신중/ncps+히/xsa
+14	논의되어야	논의+되+어야	VERB	_	0	root	_	_	논의/ncpa+되/xsv+어야/ecx
+15	할	하+ㄹ	AUX	_	14	aux	_	_	하/px+ㄹ/etm
+16	것이다	것+이+다	VERB	_	14	aux	_	_	것/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 또한 국민의 세금인 국고보조금의 증대보다는 당비나 후원회제도의 활성화를 통하여 정치자금을 조달하는 것이 국민의 자발적 참여를 존중한다는 의미에서 바람직하다고 생각한다 .
+1	또한	또한	CCONJ	_	19	cc	_	_	또한/maj
+2	국민의	국민+의	NOUN	_	3	nmod	_	_	국민/ncn+의/jcm
+3	세금인	세금+이+ㄴ	VERB	_	4	acl	_	_	세금/ncn+이/jp+ㄴ/etm
+4	국고보조금의	국고+보조금+의	NOUN	_	5	nmod	_	_	국고/ncn+보조금/ncn+의/jcm
+5	증대보다는	증대+보다+는	NOUN	_	8	nmod	_	_	증대/ncpa+보다/jca+는/jcm
+6	당비나	당비+나	CCONJ	_	7	conj	_	_	당비/ncn+나/jcj
+7	후원회제도의	후원회+제도+의	NOUN	_	8	nmod	_	_	후원회/ncn+제도/ncn+의/jcm
+8	활성화를	활성화+를	NOUN	_	9	obj	_	_	활성화/ncn+를/jco
+9	통하여	통하+어	SCONJ	_	11	ccomp	_	_	통하/pvg+어/ecs
+10	정치자금을	정치+자금+을	NOUN	_	11	obj	_	_	정치/ncpa+자금/ncn+을/jco
+11	조달하는	조달+하+는	VERB	_	12	acl	_	_	조달/ncpa+하/xsv+는/etm
+12	것이	것+이	NOUN	_	19	nsubj	_	_	것/nbn+이/jcs
+13	국민의	국민+의	NOUN	_	15	nmod	_	_	국민/ncn+의/jcm
+14	자발적	자발+적	NOUN	_	15	amod	_	_	자발/ncn+적/xsn
+15	참여를	참여+를	NOUN	_	16	obj	_	_	참여/ncpa+를/jco
+16	존중한다는	존중+하+ㄴ다는	VERB	_	17	acl	_	_	존중/ncpa+하/xsv+ㄴ다는/etm
+17	의미에서	의미+에서	ADV	_	18	advcl	_	_	의미/ncpa+에서/jca
+18	바람직하다고	바람직하+다고	SCONJ	_	19	xcomp	_	_	바람직하/paa+다고/ecs
+19	생각한다	생각+하+ㄴ다	VERB	_	0	root	_	_	생각/ncpa+하/xsv+ㄴ다/ef
+20	.	.	PUNCT	_	19	punct	_	_	./sf
+
+# 오늘날 회자되고 있는 정치개혁의 당위성에 대하여 의문을 제기하고 있는 사람들은 거의 없다 .
+1	오늘날	오늘날	NOUN	_	2	advmod	_	_	오늘날/ncn
+2	회자되고	회자+되+고	VERB	_	4	acl	_	_	회자/ncpa+되/xsv+고/ecx
+3	있는	있+는	AUX	_	2	aux	_	_	있/px+는/etm
+4	정치개혁의	정치+개혁+의	NOUN	_	5	nmod	_	_	정치/ncpa+개혁/ncpa+의/jcm
+5	당위성에	당위성+에	ADV	_	6	obl	_	_	당위성/ncn+에/jca
+6	대하여	대하+어	SCONJ	_	8	ccomp	_	_	대하/pvg+어/ecs
+7	의문을	의문+을	NOUN	_	8	obj	_	_	의문/ncpa+을/jco
+8	제기하고	제기+하+고	VERB	_	10	acl	_	_	제기/ncpa+하/xsv+고/ecx
+9	있는	있+는	AUX	_	8	aux	_	_	있/px+는/etm
+10	사람들은	사람+들+은	NOUN	_	12	dislocated	_	_	사람/ncn+들/xsn+은/jxt
+11	거의	거의	ADV	_	12	advmod	_	_	거의/mag
+12	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 그러한 이유중의 하나는 정치개혁을 반드시 정치민주화를 수반하거나 적어도 정치민주화를 방해하지는 않을 것이라는 기본적인 가정이 있기 때문이다 .
+1	그러한	그러하+ㄴ	VERB	_	2	amod	_	_	그러하/pad+ㄴ/etm
+2	이유중의	이유+중+의	NOUN	_	3	nmod	_	_	이유/ncn+중/xsn+의/jcm
+3	하나는	하나+는	NUM	_	15	dislocated	_	_	하나/nnc+는/jxt
+4	정치개혁을	정치+개혁+을	NOUN	_	10	obj	_	_	정치/ncpa+개혁/ncpa+을/jco
+5	반드시	반드시	ADV	_	7	advmod	_	_	반드시/mag
+6	정치민주화를	정치+민주화+를	NOUN	_	7	obj	_	_	정치/ncpa+민주화/ncn+를/jco
+7	수반하거나	수반+하+거나	CCONJ	_	10	conj	_	_	수반/ncpa+하/xsv+거나/ecc
+8	적어도	적어도	ADV	_	10	advmod	_	_	적어도/mag
+9	정치민주화를	정치+민주화+를	NOUN	_	10	obj	_	_	정치/ncpa+민주화/ncn+를/jco
+10	방해하지는	방해+하+지+는	NOUN	_	13	ccomp	_	_	방해/ncpa+하/xsv+지/ecx+는/jxt
+11	않을	않+ㄹ	AUX	_	10	aux	_	_	않/px+ㄹ/etm
+12	것이라는	것+이+라는	VERB	_	10	aux	_	_	것/nbn+이/jp+라는/etm
+13	기본적인	기본+적+이+ㄴ	VERB	_	14	acl	_	_	기본/ncn+적/xsn+이/jp+ㄴ/etm
+14	가정이	가정+이	NOUN	_	15	nsubj	_	_	가정/ncpa+이/jcs
+15	있기	있+기	ADJ	_	0	root	_	_	있/paa+기/etn
+16	때문이다	때문+이+다	VERB	_	15	aux	_	_	때문/nbn+이/jp+다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 그러나 엄밀히 말해서 개혁과 민주화는 상당히 다른 의미를 내포하는 개념이다 .
+1	그러나	그러나	CCONJ	_	10	cc	_	_	그러나/maj
+2	엄밀히	엄밀히	ADV	_	3	advmod	_	_	엄밀히/mag
+3	말해서	말하+어서	SCONJ	_	10	ccomp	_	_	말하/pvg+어서/ecs
+4	개혁과	개혁+과	CCONJ	_	5	conj	_	_	개혁/ncpa+과/jcj
+5	민주화는	민주화+는	NOUN	_	10	dislocated	_	_	민주화/ncn+는/jxt
+6	상당히	상당+히	ADV	_	7	advmod	_	_	상당/ncps+히/xsa
+7	다른	다르+ㄴ	ADJ	_	8	amod	_	_	다르/paa+ㄴ/etm
+8	의미를	의미+를	NOUN	_	9	obj	_	_	의미/ncpa+를/jco
+9	내포하는	내포+하+는	VERB	_	10	ccomp	_	_	내포/ncpa+하/xsv+는/etm
+10	개념이다	개념+이+다	VERB	_	0	root	_	_	개념/ncn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 또한 사회주의적인 개혁도 있을 수 있으며 문민독재형 개혁도 있을 수 있다 .
+1	또한	또한	CCONJ	_	9	cc	_	_	또한/maj
+2	사회주의적인	사회주의+적+이+ㄴ	VERB	_	3	acl	_	_	사회주의/ncn+적/xsn+이/jp+ㄴ/etm
+3	개혁도	개혁+도	ADV	_	4	advcl	_	_	개혁/ncpa+도/jxc
+4	있을	있+ㄹ	ADJ	_	9	amod	_	_	있/paa+ㄹ/etm
+5	수	수	NOUN	_	6	fixed	_	_	수/nbn
+6	있으며	있+으며	SCONJ	_	4	aux	_	_	있/paa+으며/ecs
+7	문민독재형	문민+독재형	NOUN	_	8	compound	_	_	문민/ncn+독재형/ncn
+8	개혁도	개혁+도	ADV	_	9	advcl	_	_	개혁/ncpa+도/jxc
+9	있을	있+ㄹ	ADJ	_	0	root	_	_	있/paa+ㄹ/etm
+10	수	수	NOUN	_	11	fixed	_	_	수/nbn
+11	있다	있+다	ADJ	_	9	aux	_	_	있/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 따라서 오늘날 문민정부가 추진하고 있는 개혁이 반드시 민주화에 기여할 것이라고 미리 단정하는 것은 매우 위험한 발상임에 틀림없다 .
+1	따라서	따라서	CCONJ	_	17	cc	_	_	따라서/maj
+2	오늘날	오늘날	NOUN	_	3	compound	_	_	오늘날/ncn
+3	문민정부가	문민정부+가	NOUN	_	4	nsubj	_	_	문민정부/ncn+가/jcs
+4	추진하고	추진+하+고	VERB	_	6	acl	_	_	추진/ncpa+하/xsv+고/ecx
+5	있는	있+는	AUX	_	4	aux	_	_	있/px+는/etm
+6	개혁이	개혁+이	NOUN	_	9	nsubj	_	_	개혁/ncpa+이/jcs
+7	반드시	반드시	ADV	_	9	advmod	_	_	반드시/mag
+8	민주화에	민주화+에	ADV	_	9	obl	_	_	민주화/ncn+에/jca
+9	기여할	기여+하+ㄹ	VERB	_	12	ccomp	_	_	기여/ncpa+하/xsv+ㄹ/etm
+10	것이라고	것+이+라고	SCONJ	_	9	aux	_	_	것/nbn+이/jp+라고/ecs
+11	미리	미리	ADV	_	12	advmod	_	_	미리/mag
+12	단정하는	단정+하+는	VERB	_	13	acl	_	_	단정/ncpa+하/xsv+는/etm
+13	것은	것+은	NOUN	_	17	dislocated	_	_	것/nbn+은/jxt
+14	매우	매우	ADV	_	15	advmod	_	_	매우/mag
+15	위험한	위험+하+ㄴ	VERB	_	16	amod	_	_	위험/ncps+하/xsm+ㄴ/etm
+16	발상임에	발상+이+ㅁ+에	ADV	_	17	obl	_	_	발상/ncn+이/jp+ㅁ/etn+에/jca
+17	틀림없다	틀림없+다	ADJ	_	0	root	_	_	틀림없/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 장기간의 군사독재로 한국정치는 캄캄한 어둠 속에 묻혀 있었다 .
+1	장기간의	장기간+의	NOUN	_	2	nmod	_	_	장기간/ncn+의/jcm
+2	군사독재로	군사+독재+로	ADV	_	7	advcl	_	_	군사/ncn+독재/ncpa+로/jca
+3	한국정치는	한국+정치+는	PROPN	_	7	dislocated	_	_	한국/nq+정치/ncpa+는/jxt
+4	캄캄한	캄캄하+ㄴ	ADJ	_	5	amod	_	_	캄캄하/paa+ㄴ/etm
+5	어둠	어둠	NOUN	_	6	compound	_	_	어둠/ncn
+6	속에	속+에	ADV	_	7	obl	_	_	속/ncn+에/jca
+7	묻혀	묻히+어	VERB	_	0	root	_	_	묻히/pvg+어/ecx
+8	있었다	있+었+다	AUX	_	7	aux	_	_	있/px+었/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 14 대 대통령선거 과정과 그 결과 탄생한 문민정부라는 빛은 모든 사람들의 눈을 부시게 하기에 충분했다 .
+1	14	14	NUM	_	2	nummod	_	_	14/nnc
+2	대	대	NOUN	_	3	compound	_	_	대/nbu
+3	대통령선거	대통령+선거	NOUN	_	4	compound	_	_	대통령/ncn+선거/ncpa
+4	과정과	과정+과	CCONJ	_	9	conj	_	_	과정/ncn+과/jcj
+5	그	그	DET	_	6	det	_	_	그/mmd
+6	결과	결과	NOUN	_	7	compound	_	_	결과/ncn
+7	탄생한	탄생+하+ㄴ	VERB	_	8	ccomp	_	_	탄생/ncpa+하/xsv+ㄴ/etm
+8	문민정부라는	문민정부+이+라는	VERB	_	9	acl	_	_	문민정부/ncn+이/jp+라는/etm
+9	빛은	빛+은	NOUN	_	15	dislocated	_	_	빛/ncn+은/jxt
+10	모든	모든	ADJ	_	11	amod	_	_	모든/mma
+11	사람들의	사람+들+의	NOUN	_	12	nmod	_	_	사람/ncn+들/xsn+의/jcm
+12	눈을	눈+을	NOUN	_	13	obj	_	_	눈/ncn+을/jco
+13	부시게	부시+게	ADJ	_	15	obl	_	_	부시/paa+게/ecx
+14	하기에	하+기+에	ADV	_	13	aux	_	_	하/px+기/etn+에/jca
+15	충분했다	충분하+었+다	ADJ	_	0	root	_	_	충분하/paa+었/ep+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 그러나 그 빛이 얼마나 오래 갈지 아무도 모른다 .
+1	그러나	그러나	CCONJ	_	8	cc	_	_	그러나/maj
+2	그	그	DET	_	3	det	_	_	그/mmd
+3	빛이	빛+이	NOUN	_	6	nsubj	_	_	빛/ncn+이/jcs
+4	얼마나	얼마나	ADV	_	6	advmod	_	_	얼마나/mag
+5	오래	오래	ADV	_	4	advmod	_	_	오래/mag
+6	갈지	가+ㄹ지	SCONJ	_	8	ccomp	_	_	가/pvg+ㄹ지/ecs
+7	아무도	아무+도	ADV	_	8	advcl	_	_	아무/npp+도/jxc
+8	모른다	모르+ㄴ다	VERB	_	0	root	_	_	모르/pvg+ㄴ다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 가림이 얼마 남지 않은 초롱불로부터 방출되는 빛일 수도 있기 때문이다 .
+1	가림이	가리+ㅁ+이	NOUN	_	3	nsubj	_	_	가리/pvg+ㅁ/etn+이/jcs
+2	얼마	얼마	ADV	_	3	advmod	_	_	얼마/mag
+3	남지	남+지	VERB	_	5	acl	_	_	남/pvg+지/ecx
+4	않은	않+ㄴ	AUX	_	3	aux	_	_	않/px+ㄴ/etm
+5	초롱불로부터	초롱불+로+부터	ADV	_	6	advcl	_	_	초롱불/ncn+로/jca+부터/jxc
+6	방출되는	방출+되+는	VERB	_	7	ccomp	_	_	방출/ncpa+되/xsv+는/etm
+7	빛일	빛+이+ㄹ	VERB	_	0	root	_	_	빛/ncn+이/jp+ㄹ/etm
+8	수도	수+도	ADV	_	9	fixed	_	_	수/nbn+도/jxc
+9	있기	있+기	ADJ	_	7	aux	_	_	있/paa+기/etn
+10	때문이다	때문+이+다	VERB	_	7	aux	_	_	때문/nbn+이/jp+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 개혁을 잘 추진해 나가기 위해서는 개혁의 방향이 반드시 한국사회를 민주화시키는 데 기여해야 한다 .
+1	개혁을	개혁+을	NOUN	_	3	obj	_	_	개혁/ncpa+을/jco
+2	잘	잘	ADV	_	3	advmod	_	_	잘/mag
+3	추진해	추진+하+어	VERB	_	5	ccomp	_	_	추진/ncpa+하/xsv+어/ecx
+4	나가기	나가+기	AUX	_	3	aux	_	_	나가/px+기/etn
+5	위해서는	위하+어서+는	NOUN	_	12	ccomp	_	_	위하/pvg+어서/ecs+는/jxt
+6	개혁의	개혁+의	NOUN	_	7	nmod	_	_	개혁/ncpa+의/jcm
+7	방향이	방향+이	NOUN	_	10	nsubj	_	_	방향/ncn+이/jcs
+8	반드시	반드시	ADV	_	10	advmod	_	_	반드시/mag
+9	한국사회를	한국+사회+를	PROPN	_	10	obj	_	_	한국/nq+사회/ncn+를/jco
+10	민주화시키는	민주화+시키+는	VERB	_	11	acl	_	_	민주화/ncpa+시키/xsv+는/etm
+11	데	데	NOUN	_	12	mark	_	_	데/nbn
+12	기여해야	기여+하+어야	VERB	_	0	root	_	_	기여/ncpa+하/xsv+어야/ecx
+13	한다	하+ㄴ다	AUX	_	12	aux	_	_	하/px+ㄴ다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+

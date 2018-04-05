@@ -1,0 +1,624 @@
+# 이런 질병들이 현대병이나 문명병으로 불리는 것은 현대에 들어 이런 질병들이 부쩍 늘었다는 것을 뜻한다 .
+1	이런	이런	DET	_	2	det	_	_	이런/mmd
+2	질병들이	질병+들+이	NOUN	_	5	nsubj	_	_	질병/ncn+들/xsn+이/jcs
+3	현대병이나	현대병+이나	CCONJ	_	4	conj	_	_	현대병/ncn+이나/jcj
+4	문명병으로	문명병+으로	ADV	_	5	advcl	_	_	문명병/ncn+으로/jca
+5	불리는	불리+는	VERB	_	6	acl	_	_	불리/pvg+는/etm
+6	것은	것+은	NOUN	_	14	dislocated	_	_	것/nbn+은/jxt
+7	현대에	현대+에	ADV	_	8	obl	_	_	현대/ncn+에/jca
+8	들어	들+어	SCONJ	_	12	ccomp	_	_	들/pvg+어/ecs
+9	이런	이런	DET	_	10	det	_	_	이런/mmd
+10	질병들이	질병+들+이	NOUN	_	12	nsubj	_	_	질병/ncn+들/xsn+이/jcs
+11	부쩍	부쩍	ADV	_	12	advmod	_	_	부쩍/mag
+12	늘었다는	늘+었+다는	VERB	_	13	acl	_	_	늘/pvg+었/ep+다는/etm
+13	것을	것+을	NOUN	_	14	obj	_	_	것/nbn+을/jco
+14	뜻한다	뜻+하+ㄴ다	VERB	_	0	root	_	_	뜻/ncpa+하/xsv+ㄴ다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 동양 의학은 철학에 바탕을 두고 , 서양 의학은 자연 과학에 바탕을 두고 있다 .
+1	동양	동양	NOUN	_	2	compound	_	_	동양/ncn
+2	의학은	의학+은	NOUN	_	5	dislocated	_	_	의학/ncn+은/jxt
+3	철학에	철학+에	ADV	_	5	obl	_	_	철학/ncn+에/jca
+4	바탕을	바탕+을	NOUN	_	5	obj	_	_	바탕/ncn+을/jco
+5	두고	두+고	CCONJ	_	12	conj	_	_	두/pvg+고/ecc
+6	,	,	PUNCT	_	5	punct	_	_	,/sp
+7	서양	서양	NOUN	_	8	compound	_	_	서양/ncn
+8	의학은	의학+은	NOUN	_	12	dislocated	_	_	의학/ncn+은/jxt
+9	자연	자연	NOUN	_	10	compound	_	_	자연/ncn
+10	과학에	과학+에	ADV	_	12	obl	_	_	과학/ncn+에/jca
+11	바탕을	바탕+을	NOUN	_	12	obj	_	_	바탕/ncn+을/jco
+12	두고	두+고	VERB	_	0	root	_	_	두/pvg+고/ecx
+13	있다	있+다	AUX	_	12	aux	_	_	있/px+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 다음에 몇 가지 구체적인 사실을 들어 이야기해 보자 .
+1	다음에	다음+에	ADV	_	6	obl	_	_	다음/ncn+에/jca
+2	몇	몇	ADJ	_	3	amod	_	_	몇/mma
+3	가지	가지	NOUN	_	5	compound	_	_	가지/nbu
+4	구체적인	구체+적+이+ㄴ	VERB	_	5	acl	_	_	구체/ncn+적/xsn+이/jp+ㄴ/etm
+5	사실을	사실+을	NOUN	_	6	obj	_	_	사실/ncn+을/jco
+6	들어	들+어	SCONJ	_	7	ccomp	_	_	들/pvg+어/ecs
+7	이야기해	이야기+하+어	VERB	_	0	root	_	_	이야기/ncpa+하/xsv+어/ecx
+8	보자	보+자	AUX	_	7	aux	_	_	보/px+자/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 어떤 원인에 의해서 코 부분의 화농균이 번식하지 못하도록 억제하는 저항력이 감퇴된 데에 있다 .
+1	어떤	어떤	DET	_	2	det	_	_	어떤/mmd
+2	원인에	원인+에	ADV	_	3	obl	_	_	원인/ncn+에/jca
+3	의해서	의하+어서	SCONJ	_	11	ccomp	_	_	의하/pvg+어서/ecs
+4	코	코	NOUN	_	5	compound	_	_	코/ncn
+5	부분의	부분+의	NOUN	_	6	nmod	_	_	부분/ncn+의/jcm
+6	화농균이	화농균+이	NOUN	_	7	nsubj	_	_	화농균/ncn+이/jcs
+7	번식하지	번식+하+지	VERB	_	9	ccomp	_	_	번식/ncpa+하/xsv+지/ecx
+8	못하도록	못하+도록	SCONJ	_	7	aux	_	_	못하/px+도록/ecs
+9	억제하는	억제+하+는	VERB	_	10	acl	_	_	억제/ncpa+하/xsv+는/etm
+10	저항력이	저항력+이	NOUN	_	11	nsubj	_	_	저항력/ncn+이/jcs
+11	감퇴된	감퇴+되+ㄴ	VERB	_	12	acl	_	_	감퇴/ncpa+되/xsv+ㄴ/etm
+12	데에	데+에	ADV	_	13	obl	_	_	데/nbn+에/jca
+13	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+14	.	.	PUNCT	_	13	punct	_	_	./sf
+
+# 열병에 얼음찜질하는 것을 예로 들어 보자 .
+1	열병에	열병+에	ADV	_	2	obl	_	_	열병/ncn+에/jca
+2	얼음찜질하는	얼음찜질+하+는	VERB	_	3	acl	_	_	얼음찜질/ncpa+하/xsv+는/etm
+3	것을	것+을	NOUN	_	5	obj	_	_	것/nbn+을/jco
+4	예로	예+로	ADV	_	5	advcl	_	_	예/ncn+로/jca
+5	들어	들+어	VERB	_	0	root	_	_	들/pvg+어/ecx
+6	보자	보+자	AUX	_	5	aux	_	_	보/px+자/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 얼음이 녹을 때는 많은 열을 흡수한다는 것은 누구나 다 아는 일일 것이다 .
+1	얼음이	얼음+이	NOUN	_	2	nsubj	_	_	얼음/ncn+이/jcs
+2	녹을	녹+ㄹ	VERB	_	3	acl	_	_	녹/pvg+ㄹ/etm
+3	때는	때+는	NOUN	_	6	dislocated	_	_	때/ncn+는/jxt
+4	많은	많+ㄴ	ADJ	_	5	amod	_	_	많/paa+ㄴ/etm
+5	열을	열+을	NOUN	_	6	obj	_	_	열/ncn+을/jco
+6	흡수한다는	흡수+하+ㄴ다는	VERB	_	7	acl	_	_	흡수/ncpa+하/xsv+ㄴ다는/etm
+7	것은	것+은	NOUN	_	11	dislocated	_	_	것/nbn+은/jxt
+8	누구나	누구+나	ADV	_	10	advcl	_	_	누구/npp+나/jxc
+9	다	다	ADV	_	10	advmod	_	_	다/mag
+10	아는	알+는	VERB	_	11	ccomp	_	_	알/pvg+는/etm
+11	일일	일+이+ㄹ	VERB	_	0	root	_	_	일/ncpa+이/jp+ㄹ/etm
+12	것이다	것+이+다	VERB	_	11	aux	_	_	것/nbn+이/jp+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 이 방법에 일리가 없는 것은 아니지만 다음과 같이 좋지 않은 점도 있다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	방법에	방법+에	ADV	_	4	obl	_	_	방법/ncn+에/jca
+3	일리가	일리+가	NOUN	_	4	nsubj	_	_	일리/ncn+가/jcs
+4	없는	없+는	ADJ	_	5	amod	_	_	없/paa+는/etm
+5	것은	것+은	NOUN	_	6	dislocated	_	_	것/nbn+은/jxt
+6	아니지만	아니+지만	SCONJ	_	12	xcomp	_	_	아니/paa+지만/ecs
+7	다음과	다음+과	CCONJ	_	8	conj	_	_	다음/ncn+과/jct
+8	같이	같+이	SCONJ	_	12	xcomp	_	_	같/paa+이/ecs
+9	좋지	좋+지	ADJ	_	11	amod	_	_	좋/paa+지/ecx
+10	않은	않+ㄴ	AUX	_	9	aux	_	_	않/px+ㄴ/etm
+11	점도	점+도	ADV	_	12	advcl	_	_	점/ncn+도/jxc
+12	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 셋째 , 전체는 뜨거운데 일부분만 차게 하는 것은 결코 좋은 일이 아니다 .
+1	셋째	셋째	NUM	_	12	nummod	_	_	셋째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	전체는	전체+는	NOUN	_	4	dislocated	_	_	전체/ncn+는/jxt
+4	뜨거운데	뜨겁+ㄴ데	SCONJ	_	6	xcomp	_	_	뜨겁/paa+ㄴ데/ecs
+5	일부분만	일부분+만	ADV	_	6	advcl	_	_	일부분/ncn+만/jxc
+6	차게	차+게	ADJ	_	8	amod	_	_	차/paa+게/ecx
+7	하는	하+는	AUX	_	6	aux	_	_	하/px+는/etm
+8	것은	것+은	NOUN	_	12	dislocated	_	_	것/nbn+은/jxt
+9	결코	결코	ADV	_	12	advmod	_	_	결코/mag
+10	좋은	좋+ㄴ	ADJ	_	11	amod	_	_	좋/paa+ㄴ/etm
+11	일이	일+이	NOUN	_	12	csubj	_	_	일/ncpa+이/jcc
+12	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 유리나 도자기 같은 것은 부분에 따라 온도 차가 심하면 곧 깨지지 않는가 ?
+1	유리나	유리+나	CCONJ	_	2	conj	_	_	유리/ncn+나/jcj
+2	도자기	도자기	NOUN	_	3	dep	_	_	도자기/ncn
+3	같은	같+ㄴ	ADJ	_	4	amod	_	_	같/paa+ㄴ/etm
+4	것은	것+은	NOUN	_	11	dislocated	_	_	것/nbn+은/jxt
+5	부분에	부분+에	ADV	_	6	obl	_	_	부분/ncn+에/jca
+6	따라	따르+아	SCONJ	_	9	conj	_	_	따르/pvg+아/ecs
+7	온도	온도	NOUN	_	8	compound	_	_	온도/ncn
+8	차가	차+가	NOUN	_	9	nsubj	_	_	차/ncn+가/jcs
+9	심하면	심하+면	SCONJ	_	11	xcomp	_	_	심하/paa+면/ecs
+10	곧	곧	ADV	_	11	advmod	_	_	곧/mag
+11	깨지지	깨지+지	VERB	_	0	root	_	_	깨지/pvg+지/ecx
+12	않는가	않+는가	AUX	_	11	aux	_	_	않/px+는가/ef
+13	?	?	PUNCT	_	12	punct	_	_	?/sf
+
+# 공기 이외의 물질은 모두 소화기를 통해서 체내에 흡수되는 것이 자연스러운데 직접 혈관으로 어떤 물질을 주입하는 것은 부자연스럽다 .
+1	공기	공기	NOUN	_	2	compound	_	_	공기/ncn
+2	이외의	이외+의	NOUN	_	3	nmod	_	_	이외/nbn+의/jcm
+3	물질은	물질+은	NOUN	_	8	dislocated	_	_	물질/ncn+은/jxt
+4	모두	모두	ADV	_	8	advmod	_	_	모두/mag
+5	소화기를	소화기+를	NOUN	_	6	obj	_	_	소화기/ncn+를/jco
+6	통해서	통하+어서	SCONJ	_	8	ccomp	_	_	통하/pvg+어서/ecs
+7	체내에	체내+에	ADV	_	8	obl	_	_	체내/ncn+에/jca
+8	흡수되는	흡수+되+는	VERB	_	9	acl	_	_	흡수/ncpa+되/xsv+는/etm
+9	것이	것+이	NOUN	_	10	nsubj	_	_	것/nbn+이/jcs
+10	자연스러운데	자연+스럽+ㄴ데	SCONJ	_	17	xcomp	_	_	자연/ncps+스럽/xsm+ㄴ데/ecs
+11	직접	직접	ADV	_	15	advmod	_	_	직접/mag
+12	혈관으로	혈관+으로	ADV	_	15	advcl	_	_	혈관/ncn+으로/jca
+13	어떤	어떤	DET	_	14	det	_	_	어떤/mmd
+14	물질을	물질+을	NOUN	_	15	obj	_	_	물질/ncn+을/jco
+15	주입하는	주입+하+는	VERB	_	16	acl	_	_	주입/ncpa+하/xsv+는/etm
+16	것은	것+은	NOUN	_	17	dislocated	_	_	것/nbn+은/jxt
+17	부자연스럽다	부자연+스럽+다	VERB	_	0	root	_	_	부자연/ncps+스럽/xsm+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 이것은 확실히 획일주의의 약점이다 .
+1	이것은	이것+은	PRON	_	4	dislocated	_	_	이것/npd+은/jxt
+2	확실히	확실히	ADV	_	4	advmod	_	_	확실히/mag
+3	획일주의의	획일주의+의	NOUN	_	4	nmod	_	_	획일주의/ncn+의/jcm
+4	약점이다	약점+이+다	VERB	_	0	root	_	_	약점/ncn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 이는 의학에서뿐만 아니라 모든 측면에서 그렇다 .
+1	이는	이+는	PRON	_	6	dislocated	_	_	이/npd+는/jxt
+2	의학에서뿐만	의학+에서+뿐만	ADV	_	3	advcl	_	_	의학/ncn+에서/jca+뿐만/jxc
+3	아니라	아니+라	SCONJ	_	6	xcomp	_	_	아니/paa+라/ecs
+4	모든	모든	ADJ	_	5	amod	_	_	모든/mma
+5	측면에서	측면+에서	ADV	_	6	advcl	_	_	측면/ncn+에서/jca
+6	그렇다	그렇+다	VERB	_	0	root	_	_	그렇/pad+다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 벽돌집은 아무리 크더라도 벽돌의 개수까지 능히 계산할 수 있다 .
+1	벽돌집은	벽돌집+은	NOUN	_	3	dislocated	_	_	벽돌집/ncn+은/jxt
+2	아무리	아무리	ADV	_	3	advmod	_	_	아무리/mag
+3	크더라도	크+더라도	SCONJ	_	7	xcomp	_	_	크/paa+더라도/ecs
+4	벽돌의	벽돌+의	NOUN	_	5	nmod	_	_	벽돌/ncn+의/jcm
+5	개수까지	개수+까지	ADV	_	7	advcl	_	_	개수/ncn+까지/jxc
+6	능히	능히	ADV	_	7	advmod	_	_	능히/mag
+7	계산할	계산+하+ㄹ	VERB	_	0	root	_	_	계산/ncpa+하/xsv+ㄹ/etm
+8	수	수	NOUN	_	9	fixed	_	_	수/nbn
+9	있다	있+다	ADJ	_	7	aux	_	_	있/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 요령 부득인 것 같은데 요령이 있고 광막한 가운데 묘한 이치가 있다 .
+1	요령	요령	NOUN	_	2	compound	_	_	요령/ncn
+2	부득인	부득+이+ㄴ	VERB	_	6	conj	_	_	부득/ncn+이/jp+ㄴ/etm
+3	것	것	NOUN	_	4	fixed	_	_	것/nbn
+4	같은데	같+ㄴ데	SCONJ	_	2	aux	_	_	같/paa+ㄴ데/ecs
+5	요령이	요령+이	NOUN	_	6	nsubj	_	_	요령/ncn+이/jcs
+6	있고	있+고	CCONJ	_	11	conj	_	_	있/paa+고/ecc
+7	광막한	광막+하+ㄴ	VERB	_	8	amod	_	_	광막/ncps+하/xsm+ㄴ/etm
+8	가운데	가운데	NOUN	_	11	dep	_	_	가운데/ncn
+9	묘한	묘하+ㄴ	ADJ	_	10	amod	_	_	묘하/paa+ㄴ/etm
+10	이치가	이치+가	NOUN	_	11	nsubj	_	_	이치/ncn+가/jcs
+11	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+12	.	.	PUNCT	_	11	punct	_	_	./sf
+
+# 이 한의학의 미신과 전설의 옷을 벗기고 그 원리를 대중에게 알려서 대중을 구제하는 진정한 인술이 되게 할 시기가 왔다 .
+1	이	이	DET	_	5	det	_	_	이/mmd
+2	한의학의	한의학+의	NOUN	_	5	nmod	_	_	한의학/ncn+의/jcm
+3	미신과	미신+과	CCONJ	_	4	conj	_	_	미신/ncn+과/jcj
+4	전설의	전설+의	NOUN	_	5	nmod	_	_	전설/ncn+의/jcm
+5	옷을	옷+을	NOUN	_	6	obj	_	_	옷/ncn+을/jco
+6	벗기고	벗기+고	CCONJ	_	10	conj	_	_	벗기/pvg+고/ecc
+7	그	그	DET	_	8	det	_	_	그/mmd
+8	원리를	원리+를	NOUN	_	10	obj	_	_	원리/ncn+를/jco
+9	대중에게	대중+에게	ADV	_	10	iobj	_	_	대중/ncn+에게/jca
+10	알려서	알리+어서	SCONJ	_	15	ccomp	_	_	알리/pvg+어서/ecs
+11	대중을	대중+을	NOUN	_	12	obj	_	_	대중/ncn+을/jco
+12	구제하는	구제+하+는	VERB	_	14	acl	_	_	구제/ncpa+하/xsv+는/etm
+13	진정한	진정+하+ㄴ	VERB	_	14	amod	_	_	진정/ncps+하/xsm+ㄴ/etm
+14	인술이	인술+이	NOUN	_	15	csubj	_	_	인술/ncn+이/jcc
+15	되게	되+게	VERB	_	17	acl	_	_	되/pvg+게/ecx
+16	할	하+ㄹ	AUX	_	15	aux	_	_	하/px+ㄹ/etm
+17	시기가	시기+가	NOUN	_	18	nsubj	_	_	시기/ncpa+가/jcs
+18	왔다	오+았+다	VERB	_	0	root	_	_	오/pvg+았/ep+다/ef
+19	.	.	PUNCT	_	18	punct	_	_	./sf
+
+# 한의학의 장점은 대중을 위하고 숨어서 덕을 베푸는 데 있다 .
+1	한의학의	한의학+의	NOUN	_	2	nmod	_	_	한의학/ncn+의/jcm
+2	장점은	장점+은	NOUN	_	9	dislocated	_	_	장점/ncn+은/jxt
+3	대중을	대중+을	NOUN	_	4	obj	_	_	대중/ncn+을/jco
+4	위하고	위하+고	CCONJ	_	7	conj	_	_	위하/pvg+고/ecc
+5	숨어서	숨+어서	SCONJ	_	7	ccomp	_	_	숨/pvg+어서/ecs
+6	덕을	덕+을	NOUN	_	7	obj	_	_	덕/ncn+을/jco
+7	베푸는	베풀+는	VERB	_	8	acl	_	_	베풀/pvg+는/etm
+8	데	데	NOUN	_	9	mark	_	_	데/nbn
+9	있다	있+다	ADJ	_	0	root	_	_	있/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 다음에 몇 가지 예를 들어 보기로 하자 .
+1	다음에	다음+에	ADV	_	7	obl	_	_	다음/ncn+에/jca
+2	몇	몇	ADJ	_	3	amod	_	_	몇/mma
+3	가지	가지	NOUN	_	4	compound	_	_	가지/nbu
+4	예를	예+를	NOUN	_	5	obj	_	_	예/ncn+를/jco
+5	들어	들+어	VERB	_	7	advcl	_	_	들/pvg+어/ecx
+6	보기로	보+기+로	ADV	_	5	aux	_	_	보/px+기/etn+로/jca
+7	하자	하+자	VERB	_	0	root	_	_	하/pvg+자/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 한국에서는 아이를 낳은 여자에게 될 수 있는 대로 미역국을 많이 끓여 먹인다 .
+1	한국에서는	한국+에서+는	PROPN	_	12	dislocated	_	_	한국/nq+에서/jca+는/jxt
+2	아이를	아이+를	NOUN	_	3	obj	_	_	아이/ncn+를/jco
+3	낳은	낳+은	VERB	_	4	acl	_	_	낳/pvg+은/etm
+4	여자에게	여자+에게	ADV	_	12	iobj	_	_	여자/ncn+에게/jca
+5	될	되+ㄹ	VERB	_	8	acl	_	_	되/pvg+ㄹ/etm
+6	수	수	NOUN	_	7	fixed	_	_	수/nbn
+7	있는	있+는	ADJ	_	5	aux	_	_	있/paa+는/etm
+8	대로	대로	NOUN	_	12	advmod	_	_	대로/nbn
+9	미역국을	미역국+을	NOUN	_	12	obj	_	_	미역국/ncn+을/jco
+10	많이	많이	ADV	_	12	advmod	_	_	많이/mag
+11	끓여	끓이+어	SCONJ	_	12	ccomp	_	_	끓이/pvg+어/ecs
+12	먹인다	먹이+ㄴ다	VERB	_	0	root	_	_	먹이/pvg+ㄴ다/ef
+13	.	.	PUNCT	_	12	punct	_	_	./sf
+
+# 둘째 , 병적인 세포 및 세균을 파괴하고 죽인다 .
+1	둘째	둘째	NUM	_	9	nummod	_	_	둘째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	병적인	병+적+이+ㄴ	VERB	_	6	acl	_	_	병/ncn+적/xsn+이/jp+ㄴ/etm
+4	세포	세포	NOUN	_	6	conj	_	_	세포/ncn
+5	및	및	CCONJ	_	6	cc	_	_	및/maj
+6	세균을	세균+을	NOUN	_	9	obj	_	_	세균/ncn+을/jco
+7	파괴하고	파괴+하+고	CCONJ	_	8	conj	_	_	파괴/ncpa+하/xsv+고/ecc
+8	죽인다	죽이+ㄴ다	VERB	_	9	conj	_	_	죽이/pvg+ㄴ다/ef
+9	.	.	PUNCT	_	0	root	_	_	./sf
+
+# 셋째 , 체내에 있는 독소를 중화하거나 몸 밖으로 배출시킨다 .
+1	셋째	셋째	NUM	_	9	nummod	_	_	셋째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	체내에	체내+에	ADV	_	4	obl	_	_	체내/ncn+에/jca
+4	있는	있+는	ADJ	_	5	amod	_	_	있/paa+는/etm
+5	독소를	독소+를	NOUN	_	6	obj	_	_	독소/ncn+를/jco
+6	중화하거나	중화+하+거나	CCONJ	_	9	conj	_	_	중화/ncpa+하/xsv+거나/ecc
+7	몸	몸	NOUN	_	8	compound	_	_	몸/ncn
+8	밖으로	밖+으로	ADV	_	9	advcl	_	_	밖/ncn+으로/jca
+9	배출시킨다	배출+시키+ㄴ다	VERB	_	0	root	_	_	배출/ncpa+시키/xsv+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 이 밖에도 많이 있으니 기회 있는 대로 소개하겠다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	밖에도	밖+에+도	ADV	_	4	advcl	_	_	밖/ncn+에/jca+도/jxc
+3	많이	많이	ADV	_	4	advmod	_	_	많이/mag
+4	있으니	있+으니	SCONJ	_	8	xcomp	_	_	있/paa+으니/ecs
+5	기회	기회	NOUN	_	6	dep	_	_	기회/ncn
+6	있는	있+는	ADJ	_	7	amod	_	_	있/paa+는/etm
+7	대로	대로	NOUN	_	8	mark	_	_	대로/nbn
+8	소개하겠다	소개+하+겠+다	VERB	_	0	root	_	_	소개/ncpa+하/xsv+겠/ep+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 미국인의 체구가 한국인의 체구에 비해서 큰 것은 사실이다 .
+1	미국인의	미국인+의	NOUN	_	2	nmod	_	_	미국인/ncn+의/jcm
+2	체구가	체구+가	NOUN	_	6	nsubj	_	_	체구/ncn+가/jcs
+3	한국인의	한국인+의	NOUN	_	4	nmod	_	_	한국인/ncn+의/jcm
+4	체구에	체구+에	ADV	_	5	obl	_	_	체구/ncn+에/jca
+5	비해서	비하+어서	SCONJ	_	6	conj	_	_	비하/pvg+어서/ecs
+6	큰	크+ㄴ	ADJ	_	7	amod	_	_	크/paa+ㄴ/etm
+7	것은	것+은	NOUN	_	8	dislocated	_	_	것/nbn+은/jxt
+8	사실이다	사실+이+다	VERB	_	0	root	_	_	사실/ncn+이/jp+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 병 이름은 같아도 갑에게 효과 있는 약이 을에게는 효과가 없는 것은 이 개인차에 연유하는 것이다 .
+1	병	병	NOUN	_	2	compound	_	_	병/ncn
+2	이름은	이름+은	NOUN	_	3	dislocated	_	_	이름/ncn+은/jxt
+3	같아도	같+아도	SCONJ	_	10	xcomp	_	_	같/paa+아도/ecs
+4	갑에게	갑+에게	ADV	_	6	iobj	_	_	갑/ncn+에게/jca
+5	효과	효과	NOUN	_	6	dep	_	_	효과/ncn
+6	있는	있+는	ADJ	_	7	amod	_	_	있/paa+는/etm
+7	약이	약+이	NOUN	_	10	nsubj	_	_	약/ncps+이/jcs
+8	을에게는	을+에게+는	NOUN	_	10	dislocated	_	_	을/ncn+에게/jca+는/jxt
+9	효과가	효과+가	NOUN	_	10	nsubj	_	_	효과/ncn+가/jcs
+10	없는	없+는	ADJ	_	11	amod	_	_	없/paa+는/etm
+11	것은	것+은	NOUN	_	14	dislocated	_	_	것/nbn+은/jxt
+12	이	이	DET	_	13	det	_	_	이/mmd
+13	개인차에	개인차+에	ADV	_	14	obl	_	_	개인차/ncn+에/jca
+14	연유하는	연유+하+는	VERB	_	0	root	_	_	연유/ncpa+하/xsv+는/etm
+15	것이다	것+이+다	VERB	_	14	aux	_	_	것/nbn+이/jp+다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 이 체질과 개인차를 명확히 구분하는 것이 동양 의학의 특징이다 .
+1	이	이	DET	_	2	det	_	_	이/mmd
+2	체질과	체질+과	CCONJ	_	3	conj	_	_	체질/ncn+과/jcj
+3	개인차를	개인차+를	NOUN	_	5	obj	_	_	개인차/ncn+를/jco
+4	명확히	명확히	ADV	_	5	advmod	_	_	명확히/mag
+5	구분하는	구분+하+는	VERB	_	6	acl	_	_	구분/ncpa+하/xsv+는/etm
+6	것이	것+이	NOUN	_	9	nsubj	_	_	것/nbn+이/jcs
+7	동양	동양	NOUN	_	8	compound	_	_	동양/ncn
+8	의학의	의학+의	NOUN	_	9	nmod	_	_	의학/ncn+의/jcm
+9	특징이다	특징+이+다	VERB	_	0	root	_	_	특징/ncn+이/jp+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그 밖에 세밀히 관찰하면 한이 없는 다른 증후로 나타난다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	밖에	밖+에	ADV	_	4	obl	_	_	밖/ncn+에/jca
+3	세밀히	세밀히	ADV	_	4	advmod	_	_	세밀히/mag
+4	관찰하면	관찰+하+면	SCONJ	_	9	ccomp	_	_	관찰/ncpa+하/xsv+면/ecs
+5	한이	한+이	NOUN	_	6	nsubj	_	_	한/ncn+이/jcs
+6	없는	없+는	ADJ	_	8	amod	_	_	없/paa+는/etm
+7	다른	다르+ㄴ	ADJ	_	8	amod	_	_	다르/paa+ㄴ/etm
+8	증후로	증후+로	ADV	_	9	advcl	_	_	증후/ncn+로/jca
+9	나타난다	나타나+ㄴ다	VERB	_	0	root	_	_	나타나/pvg+ㄴ다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 영양분도 역시 개인의 체질을 떠나서 생각할 수 없다 .
+1	영양분도	영양분+도	ADV	_	6	advcl	_	_	영양분/ncn+도/jxc
+2	역시	역시	ADV	_	6	advmod	_	_	역시/mag
+3	개인의	개인+의	NOUN	_	4	nmod	_	_	개인/ncn+의/jcm
+4	체질을	체질+을	NOUN	_	5	obj	_	_	체질/ncn+을/jco
+5	떠나서	떠나+서	SCONJ	_	6	ccomp	_	_	떠나/pvg+서/ecs
+6	생각할	생각+하+ㄹ	VERB	_	0	root	_	_	생각/ncpa+하/xsv+ㄹ/etm
+7	수	수	NOUN	_	8	fixed	_	_	수/nbn
+8	없다	없+다	ADJ	_	6	aux	_	_	없/paa+다/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 여기에서 한 두 가지 문제를 검토하고 넘어가기로 하자 .
+1	여기에서	여기+에서	ADV	_	6	advcl	_	_	여기/npd+에서/jca
+2	한	한	NUM	_	3	nummod	_	_	한/nnc
+3	두	두	NUM	_	4	nummod	_	_	두/nnc
+4	가지	가지	NOUN	_	5	compound	_	_	가지/nbu
+5	문제를	문제+를	NOUN	_	6	obj	_	_	문제/ncn+를/jco
+6	검토하고	검토+하+고	SCONJ	_	7	conj	_	_	검토/ncpa+하/xsv+고/ecs
+7	넘어가기로	넘어가+기+로	ADV	_	8	advcl	_	_	넘어가/pvg+기/etn+로/jca
+8	하자	하+자	VERB	_	0	root	_	_	하/pvg+자/ef
+9	.	.	PUNCT	_	8	punct	_	_	./sf
+
+# 뿐만 아니라 편도선염은 한방 요법으로 아주 쉽게 치료되는 질병이기도 하다 .
+1	뿐만	뿐+만	ADV	_	2	dep	_	_	뿐/nbn+만/jxc
+2	아니라	아니+라	SCONJ	_	9	cc	_	_	아니/paa+라/ecs
+3	편도선염은	편도선염+은	NOUN	_	9	dislocated	_	_	편도선염/ncn+은/jxt
+4	한방	한방	NOUN	_	5	compound	_	_	한방/ncn
+5	요법으로	요법+으로	ADV	_	8	advcl	_	_	요법/ncn+으로/jca
+6	아주	아주	ADV	_	7	advmod	_	_	아주/mag
+7	쉽게	쉽+게	SCONJ	_	8	xcomp	_	_	쉽/paa+게/ecs
+8	치료되는	치료+되+는	VERB	_	9	ccomp	_	_	치료/ncpa+되/xsv+는/etm
+9	질병이기도	질병+이+기+도	ADV	_	0	root	_	_	질병/ncn+이/jp+기/etn+도/jxc
+10	하다	하+다	AUX	_	9	aux	_	_	하/px+다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 침에 대해서 서양 의학과 한의학의 견해가 아주 다른데 , 여기에 대해 한 마디 할까 한다 .
+1	침에	침+에	ADV	_	2	obl	_	_	침/ncn+에/jca
+2	대해서	대하+어서	SCONJ	_	8	conj	_	_	대하/pvg+어서/ecs
+3	서양	서양	NOUN	_	4	compound	_	_	서양/ncn
+4	의학과	의학+과	CCONJ	_	5	conj	_	_	의학/ncn+과/jcj
+5	한의학의	한의학+의	NOUN	_	6	nmod	_	_	한의학/ncn+의/jcm
+6	견해가	견해+가	NOUN	_	8	nsubj	_	_	견해/ncn+가/jcs
+7	아주	아주	ADV	_	8	advmod	_	_	아주/mag
+8	다른데	다르+ㄴ데	SCONJ	_	15	xcomp	_	_	다르/paa+ㄴ데/ecs
+9	,	,	PUNCT	_	8	punct	_	_	,/sp
+10	여기에	여기+에	ADV	_	11	obl	_	_	여기/npd+에/jca
+11	대해	대하+어	SCONJ	_	15	ccomp	_	_	대하/pvg+어/ecs
+12	한	한	NUM	_	13	nummod	_	_	한/nnc
+13	마디	마디	NOUN	_	14	dep	_	_	마디/ncn
+14	할까	하+ㄹ까	SCONJ	_	15	ccomp	_	_	하/pvg+ㄹ까/ecs
+15	한다	하+ㄴ다	VERB	_	0	root	_	_	하/pvg+ㄴ다/ef
+16	.	.	PUNCT	_	15	punct	_	_	./sf
+
+# 세균학적으로 관찰할 때는 사람의 입 같이 더러운 곳이 없다 .
+1	세균학적으로	세균학+적+으로	ADV	_	2	advcl	_	_	세균학/ncn+적/xsn+으로/jca
+2	관찰할	관찰+하+ㄹ	VERB	_	3	acl	_	_	관찰/ncpa+하/xsv+ㄹ/etm
+3	때는	때+는	NOUN	_	9	dislocated	_	_	때/ncn+는/jxt
+4	사람의	사람+의	NOUN	_	5	nmod	_	_	사람/ncn+의/jcm
+5	입	입	NOUN	_	6	dep	_	_	입/ncn
+6	같이	같+이	SCONJ	_	7	xcomp	_	_	같/paa+이/ecs
+7	더러운	더럽+ㄴ	ADJ	_	8	amod	_	_	더럽/paa+ㄴ/etm
+8	곳이	곳+이	NOUN	_	9	nsubj	_	_	곳/ncn+이/jcs
+9	없다	없+다	ADJ	_	0	root	_	_	없/paa+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 그래서 서양 의학에서는 침을 대단히 위험한 것으로 보고 있다 .
+1	그래서	그래서	CCONJ	_	8	cc	_	_	그래서/maj
+2	서양	서양	NOUN	_	3	compound	_	_	서양/ncn
+3	의학에서는	의학+에서+는	NOUN	_	8	dislocated	_	_	의학/ncn+에서/jca+는/jxt
+4	침을	침+을	NOUN	_	8	obj	_	_	침/ncn+을/jco
+5	대단히	대단히	ADV	_	6	advmod	_	_	대단히/mag
+6	위험한	위험+하+ㄴ	VERB	_	7	amod	_	_	위험/ncps+하/xsm+ㄴ/etm
+7	것으로	것+으로	ADV	_	8	advcl	_	_	것/nbn+으로/jca
+8	보고	보+고	VERB	_	0	root	_	_	보/pvg+고/ecx
+9	있다	있+다	AUX	_	8	aux	_	_	있/px+다/ef
+10	.	.	PUNCT	_	9	punct	_	_	./sf
+
+# 여기에서 다음 몇 가지를 생각해 보자 .
+1	여기에서	여기+에서	ADV	_	5	advcl	_	_	여기/npd+에서/jca
+2	다음	다음	NOUN	_	4	compound	_	_	다음/ncn
+3	몇	몇	ADJ	_	4	amod	_	_	몇/mma
+4	가지를	가지+를	NOUN	_	5	obj	_	_	가지/nbu+를/jco
+5	생각해	생각+하+어	VERB	_	0	root	_	_	생각/ncpa+하/xsv+어/ecx
+6	보자	보+자	AUX	_	5	aux	_	_	보/px+자/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 그 이유는 무엇인가 ?
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	이유는	이유+는	NOUN	_	3	dislocated	_	_	이유/ncn+는/jxt
+3	무엇인가	무엇+이+ㄴ가	VERB	_	0	root	_	_	무엇/npd+이/jp+ㄴ가/ef
+4	?	?	PUNCT	_	3	punct	_	_	?/sf
+
+# 첫째 , 균으로 균을 죽인다 .
+1	첫째	첫째	NUM	_	5	nummod	_	_	첫째/nno
+2	,	,	PUNCT	_	1	punct	_	_	,/sp
+3	균으로	균+으로	ADV	_	5	advcl	_	_	균/ncn+으로/jca
+4	균을	균+을	NOUN	_	5	obj	_	_	균/ncn+을/jco
+5	죽인다	죽이+ㄴ다	VERB	_	0	root	_	_	죽이/pvg+ㄴ다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 입 안에는 웬만한 상처가 생겨도 화농하는 일이 없고 금방 치료된다 .
+1	입	입	NOUN	_	2	compound	_	_	입/ncn
+2	안에는	안+에+는	NOUN	_	5	dislocated	_	_	안/ncn+에/jca+는/jxt
+3	웬만한	웬만+하+ㄴ	VERB	_	4	amod	_	_	웬만/ncps+하/xsm+ㄴ/etm
+4	상처가	상처+가	NOUN	_	5	nsubj	_	_	상처/ncn+가/jcs
+5	생겨도	생기+어도	SCONJ	_	8	conj	_	_	생기/pvg+어도/ecs
+6	화농하는	화농+하+는	VERB	_	7	acl	_	_	화농/ncpa+하/xsv+는/etm
+7	일이	일+이	NOUN	_	8	nsubj	_	_	일/ncpa+이/jcs
+8	없고	없+고	CCONJ	_	10	conj	_	_	없/paa+고/ecc
+9	금방	금방	ADV	_	10	advmod	_	_	금방/mag
+10	치료된다	치료+되+ㄴ다	VERB	_	0	root	_	_	치료/ncpa+되/xsv+ㄴ다/ef
+11	.	.	PUNCT	_	10	punct	_	_	./sf
+
+# 그 까닭은 아마도 입 안에 있는 균들 중에 화농균을 죽이는 균이 있기 때문일 것이다 .
+1	그	그	DET	_	2	det	_	_	그/mmd
+2	까닭은	까닭+은	NOUN	_	12	dislocated	_	_	까닭/ncn+은/jxt
+3	아마도	아마도	ADV	_	12	advmod	_	_	아마도/mag
+4	입	입	NOUN	_	5	compound	_	_	입/ncn
+5	안에	안+에	ADV	_	6	obl	_	_	안/ncn+에/jca
+6	있는	있+는	ADJ	_	7	amod	_	_	있/paa+는/etm
+7	균들	균+들	NOUN	_	8	compound	_	_	균/ncn+들/xsn
+8	중에	중+에	ADV	_	12	obl	_	_	중/nbn+에/jca
+9	화농균을	화농균+을	NOUN	_	10	obj	_	_	화농균/ncn+을/jco
+10	죽이는	죽이+는	VERB	_	11	acl	_	_	죽이/pvg+는/etm
+11	균이	균+이	NOUN	_	12	nsubj	_	_	균/ncn+이/jcs
+12	있기	있+기	ADJ	_	0	root	_	_	있/paa+기/etn
+13	때문일	때문+이+ㄹ	VERB	_	12	aux	_	_	때문/nbn+이/jp+ㄹ/etm
+14	것이다	것+이+다	VERB	_	12	aux	_	_	것/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 이것 역시 어쩌다가 그렇게 된 것이 아니다 .
+1	이것	이것	PRON	_	5	advmod	_	_	이것/npd
+2	역시	역시	ADV	_	5	advmod	_	_	역시/mag
+3	어쩌다가	어쩌다가	ADV	_	5	advmod	_	_	어쩌다가/mag
+4	그렇게	그렇게	ADV	_	5	advmod	_	_	그렇게/mad
+5	된	되+ㄴ	VERB	_	6	acl	_	_	되/pvg+ㄴ/etm
+6	것이	것+이	NOUN	_	7	csubj	_	_	것/nbn+이/jcc
+7	아니다	아니+다	ADJ	_	0	root	_	_	아니/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 음양설은 중국 철학에 바탕을 두고 있으니 , 우주 자연의 이법을 이 음양설로 설명하는 것이다 .
+1	음양설은	음양설+은	NOUN	_	5	dislocated	_	_	음양설/ncn+은/jxt
+2	중국	중국	PROPN	_	3	compound	_	_	중국/nq
+3	철학에	철학+에	ADV	_	5	obl	_	_	철학/ncn+에/jca
+4	바탕을	바탕+을	NOUN	_	5	obj	_	_	바탕/ncn+을/jco
+5	두고	두+고	VERB	_	13	ccomp	_	_	두/pvg+고/ecx
+6	있으니	있+으니	SCONJ	_	5	aux	_	_	있/px+으니/ecs
+7	,	,	PUNCT	_	6	punct	_	_	,/sp
+8	우주	우주	NOUN	_	9	compound	_	_	우주/ncn
+9	자연의	자연+의	NOUN	_	10	nmod	_	_	자연/ncn+의/jcm
+10	이법을	이법+을	NOUN	_	13	obj	_	_	이법/ncn+을/jco
+11	이	이	DET	_	12	det	_	_	이/mmd
+12	음양설로	음양설+로	ADV	_	13	advcl	_	_	음양설/ncn+로/jca
+13	설명하는	설명+하+는	VERB	_	0	root	_	_	설명/ncpa+하/xsv+는/etm
+14	것이다	것+이+다	VERB	_	13	aux	_	_	것/nbn+이/jp+다/ef
+15	.	.	PUNCT	_	14	punct	_	_	./sf
+
+# 음양이 양적으로 어떻게 배합되느냐에 따라서 오행의 물질이 생겨나고 음양 두 기운의 자람과 스러짐에 따라 계절이 바뀐다 .
+1	음양이	음양+이	NOUN	_	4	nsubj	_	_	음양/ncn+이/jcs
+2	양적으로	양+적+으로	ADV	_	4	advcl	_	_	양/ncn+적/xsn+으로/jca
+3	어떻게	어떻게	ADV	_	4	advmod	_	_	어떻게/mad
+4	배합되느냐에	배합+되+느냐+에	ADV	_	5	obl	_	_	배합/ncpa+되/xsv+느냐/ef+에/jca
+5	따라서	따르+아서	SCONJ	_	8	ccomp	_	_	따르/pvg+아서/ecs
+6	오행의	오행+의	NOUN	_	7	nmod	_	_	오행/ncn+의/jcm
+7	물질이	물질+이	NOUN	_	8	nsubj	_	_	물질/ncn+이/jcs
+8	생겨나고	생기+어+나+고	CCONJ	_	16	conj	_	_	생기/pvg+어/ecx+나/px+고/ecc
+9	음양	음양	NOUN	_	11	compound	_	_	음양/ncn
+10	두	두	NUM	_	11	nummod	_	_	두/nnc
+11	기운의	기운+의	NOUN	_	13	nmod	_	_	기운/ncn+의/jcm
+12	자람과	자라+ㅁ+과	CCONJ	_	13	conj	_	_	자라/pvg+ㅁ/etn+과/jcj
+13	스러짐에	스러지+ㅁ+에	ADV	_	14	obl	_	_	스러지/pvg+ㅁ/etn+에/jca
+14	따라	따르+아	SCONJ	_	16	ccomp	_	_	따르/pvg+아/ecs
+15	계절이	계절+이	NOUN	_	16	nsubj	_	_	계절/ncn+이/jcs
+16	바뀐다	바뀌+ㄴ다	VERB	_	0	root	_	_	바뀌/pvg+ㄴ다/ef
+17	.	.	PUNCT	_	16	punct	_	_	./sf
+
+# 양은 적극적이며 음은 소극적이다 .
+1	양은	양+은	NOUN	_	2	dislocated	_	_	양/ncn+은/jxt
+2	적극적이며	적극+적+이+며	CCONJ	_	4	conj	_	_	적극/ncn+적/xsn+이/jp+며/ecc
+3	음은	음+은	NOUN	_	4	dislocated	_	_	음/ncn+은/jxt
+4	소극적이다	소극+적+이+다	VERB	_	0	root	_	_	소극/ncn+적/xsn+이/jp+다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 지나친 것도 병이요 , 부족한 것도 병이다 .
+1	지나친	지나치+ㄴ	VERB	_	2	acl	_	_	지나치/pvg+ㄴ/etm
+2	것도	것+도	ADV	_	3	advcl	_	_	것/nbn+도/jxc
+3	병이요	병+이+요	CCONJ	_	7	conj	_	_	병/ncn+이/jp+요/ecc
+4	,	,	PUNCT	_	3	punct	_	_	,/sp
+5	부족한	부족+하+ㄴ	VERB	_	6	amod	_	_	부족/ncps+하/xsm+ㄴ/etm
+6	것도	것+도	ADV	_	7	advcl	_	_	것/nbn+도/jxc
+7	병이다	병+이+다	VERB	_	0	root	_	_	병/ncn+이/jp+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 이것이 한의학에서 말하는 음양 조화이다 .
+1	이것이	이것+이	PRON	_	5	nsubj	_	_	이것/npd+이/jcs
+2	한의학에서	한의학+에서	ADV	_	3	advcl	_	_	한의학/ncn+에서/jca
+3	말하는	말하+는	VERB	_	5	ccomp	_	_	말하/pvg+는/etm
+4	음양	음양	NOUN	_	5	compound	_	_	음양/ncn
+5	조화이다	조화+이+다	VERB	_	0	root	_	_	조화/ncpa+이/jp+다/ef
+6	.	.	PUNCT	_	5	punct	_	_	./sf
+
+# 음성 체질인 사람과 양성 체질인 사람이 나타내는 생리 현상을 대조해 보면 대체로 다음과 같이 가를 수 있다 .
+1	음성	음성	NOUN	_	2	compound	_	_	음성/ncn
+2	체질인	체질+이+ㄴ	VERB	_	3	acl	_	_	체질/ncn+이/jp+ㄴ/etm
+3	사람과	사람+과	CCONJ	_	6	conj	_	_	사람/ncn+과/jcj
+4	양성	양성	NOUN	_	5	compound	_	_	양성/ncn
+5	체질인	체질+이+ㄴ	VERB	_	6	acl	_	_	체질/ncn+이/jp+ㄴ/etm
+6	사람이	사람+이	NOUN	_	7	nsubj	_	_	사람/ncn+이/jcs
+7	나타내는	나타내+는	VERB	_	9	acl	_	_	나타내/pvg+는/etm
+8	생리	생리	NOUN	_	9	compound	_	_	생리/ncn
+9	현상을	현상+을	NOUN	_	10	obj	_	_	현상/ncn+을/jco
+10	대조해	대조+하+어	VERB	_	15	ccomp	_	_	대조/ncpa+하/xsv+어/ecx
+11	보면	보+면	SCONJ	_	10	aux	_	_	보/px+면/ecs
+12	대체로	대체로	ADV	_	15	advmod	_	_	대체로/mag
+13	다음과	다음+과	CCONJ	_	14	conj	_	_	다음/ncn+과/jct
+14	같이	같+이	SCONJ	_	15	xcomp	_	_	같/paa+이/ecs
+15	가를	가르+ㄹ	VERB	_	0	root	_	_	가르/pvg+ㄹ/etm
+16	수	수	NOUN	_	17	fixed	_	_	수/nbn
+17	있다	있+다	ADJ	_	15	aux	_	_	있/paa+다/ef
+18	.	.	PUNCT	_	17	punct	_	_	./sf
+
+# 체온이 높다 .
+1	체온이	체온+이	NOUN	_	2	nsubj	_	_	체온/ncn+이/jcs
+2	높다	높+다	ADJ	_	0	root	_	_	높/paa+다/ef
+3	.	.	PUNCT	_	2	punct	_	_	./sf
+
+# 서늘한 것을 좋아한다 .
+1	서늘한	서늘하+ㄴ	ADJ	_	2	amod	_	_	서늘하/paa+ㄴ/etm
+2	것을	것+을	NOUN	_	3	obj	_	_	것/nbn+을/jco
+3	좋아한다	좋아하+ㄴ다	VERB	_	0	root	_	_	좋아하/pvg+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 맥박이 강하고 빠르다 .
+1	맥박이	맥박+이	NOUN	_	4	nsubj	_	_	맥박/ncn+이/jcs
+2	강하고	강하+고	CCONJ	_	3	conj	_	_	강하/paa+고/ecc
+3	빠르다	빠르+다	ADJ	_	4	conj	_	_	빠르/paa+다/ef
+4	.	.	PUNCT	_	0	root	_	_	./sf
+
+# 내쉬는 숨이 강하다 .
+1	내쉬는	내쉬+는	VERB	_	2	acl	_	_	내쉬/pvg+는/etm
+2	숨이	숨+이	NOUN	_	3	nsubj	_	_	숨/ncn+이/jcs
+3	강하다	강하+다	ADJ	_	0	root	_	_	강하/paa+다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 물을 많이 마시고 특히 냉수를 좋아한다 .
+1	물을	물+을	NOUN	_	3	obj	_	_	물/ncn+을/jco
+2	많이	많이	ADV	_	3	advmod	_	_	많이/mag
+3	마시고	마시+고	CCONJ	_	6	conj	_	_	마시/pvg+고/ecc
+4	특히	특히	ADV	_	6	advmod	_	_	특히/mag
+5	냉수를	냉수+를	NOUN	_	6	obj	_	_	냉수/ncn+를/jco
+6	좋아한다	좋아하+ㄴ다	VERB	_	0	root	_	_	좋아하/pvg+ㄴ다/ef
+7	.	.	PUNCT	_	6	punct	_	_	./sf
+
+# 담백하고 시원한 음식을 좋아한다 .
+1	담백하고	담백+하+고	CCONJ	_	2	conj	_	_	담백/ncps+하/xsm+고/ecc
+2	시원한	시원+하+ㄴ	VERB	_	3	amod	_	_	시원/ncps+하/xsm+ㄴ/etm
+3	음식을	음식+을	NOUN	_	4	obj	_	_	음식/ncn+을/jco
+4	좋아한다	좋아하+ㄴ다	VERB	_	0	root	_	_	좋아하/pvg+ㄴ다/ef
+5	.	.	PUNCT	_	4	punct	_	_	./sf
+
+# 얼굴에 붉은빛이 돈다 .
+1	얼굴에	얼굴+에	ADV	_	3	obl	_	_	얼굴/ncn+에/jca
+2	붉은빛이	붉은빛+이	NOUN	_	3	nsubj	_	_	붉은빛/ncn+이/jcs
+3	돈다	돌+ㄴ다	VERB	_	0	root	_	_	돌/pvg+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 색깔이 붉고 분량이 적고 누는 회수가 드물다 .
+1	색깔이	색깔+이	NOUN	_	2	nsubj	_	_	색깔/ncn+이/jcs
+2	붉고	붉+고	CCONJ	_	4	conj	_	_	붉/paa+고/ecc
+3	분량이	분량+이	NOUN	_	4	nsubj	_	_	분량/ncn+이/jcs
+4	적고	적+고	CCONJ	_	7	conj	_	_	적/paa+고/ecc
+5	누는	누+는	VERB	_	6	acl	_	_	누/pvg+는/etm
+6	회수가	회수+가	NOUN	_	7	nsubj	_	_	회수/ncn+가/jcs
+7	드물다	드물+다	ADJ	_	0	root	_	_	드물/paa+다/ef
+8	.	.	PUNCT	_	7	punct	_	_	./sf
+
+# 변비가 잘 된다 .
+1	변비가	변비+가	NOUN	_	3	csubj	_	_	변비/ncn+가/jcc
+2	잘	잘	ADV	_	3	advmod	_	_	잘/mag
+3	된다	되+ㄴ다	VERB	_	0	root	_	_	되/pvg+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
+# 추운 계절을 좋아한다 .
+1	추운	춥+ㄴ	ADJ	_	2	amod	_	_	춥/paa+ㄴ/etm
+2	계절을	계절+을	NOUN	_	3	obj	_	_	계절/ncn+을/jco
+3	좋아한다	좋아하+ㄴ다	VERB	_	0	root	_	_	좋아하/pvg+ㄴ다/ef
+4	.	.	PUNCT	_	3	punct	_	_	./sf
+
