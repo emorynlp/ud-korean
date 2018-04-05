@@ -3,7 +3,7 @@
 The Universal Dependencies in Korean (UDK) project provides dependency treebanks pseudo-annotated by the guidelines from the [Universal Dependencies](http://universaldependencies.org) framework.
 Thus far, UDK has generated universal dependency trees for the following corpora:
 
-* [Google Treebank](gsd): 6,339 sentences, 80,392 tokens (McDonald et al., 2013).
+* [Google Treebank](google): 6,339 sentences, 80,392 tokens (McDonald et al., 2013).
 * [Kaist Treebank](kaist): 27,363 sentences, 350,090 tokens (Choi et al., 1994).
 * [Penn Treebank](penn): 5,010 sentences, 132,041 tokens (Han et al., 2002).
 
@@ -30,7 +30,7 @@ This work is a collaborative effort between Emory University, University of Pitt
 
 ## Part-of-Speech Tags
 
-| Tag   |    GSD |   Kaist |    Penn |
+| Tag   | Google |   Kaist |    Penn |
 |:-----:|-------:|--------:|--------:|
 |  ADJ  |  2,760 |  14,223 |   3,431 |
 |  ADP  |  1,791 |   1,498 |   1,251 |
@@ -54,7 +54,7 @@ This work is a collaborative effort between Emory University, University of Pitt
 
 ## Dependency Labels
 
-|    Label   |    GSD |   Kaist |    Penn |
+|    Label   | Google |   Kaist |    Penn |
 |:----------:|-------:|--------:|--------:|
 |     acl    |      4 |  21,468 |   1,488 |
 |  acl:relcl |  3,194 |       0 |       0 |
