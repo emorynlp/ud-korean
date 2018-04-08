@@ -9514,17 +9514,15 @@
 
 # sent_id = test-s612
 # text = 원래 ``외환보유고''는 금으로만 구성되어 있었다.
-1	원래	원래	ADV	NNG	_	9	advmod	_	_
-2	`	`	PUNCT	SS	_	4	punct	_	SpaceAfter=No
-3	`	`	PUNCT	SP	_	4	punct	_	SpaceAfter=No
-4	외환보유고	외환+보유고	NOUN	NNG+NNG	_	9	dep	_	SpaceAfter=No
-5	'	'	PUNCT	SS	_	4	punct	_	SpaceAfter=No
-6	'	'	PUNCT	SS	_	4	punct	_	SpaceAfter=No
-7	는	는	ADP	JX	_	4	case	_	_
-8	금으로만	금+으로+만	ADV	NNG+JKB+JX	_	9	advmod	_	_
-9	구성되어	구성+되+어	VERB	NNG+XSV+EC	_	0	root	_	_
-10	있었다	있+었+다	VERB	VX+EP+EF	_	9	flat	_	SpaceAfter=No
-11	.	.	PUNCT	SF	_	10	punct	_	_
+1	원래	원래	ADV	NNG	_	7	advmod	_	_
+2	``	``	PUNCT	SS	_	3	punct	_	SpaceAfter=No
+3	외환보유고	외환+보유고	NOUN	NNG+NNG	_	7	dep	_	SpaceAfter=No
+4	''	''	PUNCT	SS	_	3	punct	_	SpaceAfter=No
+5	는	는	ADP	JX	_	3	case	_	_
+6	금으로만	금+으로+만	ADV	NNG+JKB+JX	_	7	advmod	_	_
+7	구성되어	구성+되+어	VERB	NNG+XSV+EC	_	0	root	_	_
+8	있었다	있+었+다	VERB	VX+EP+EF	_	7	flat	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
 
 # sent_id = test-s613
 # text = 이렇게 큰 힘이 기준 단위가 된 것은 전기에 대한 상세한 지식이 없는 시절에 이를 측정 단위로 삼았기 때문이다.

@@ -10760,24 +10760,22 @@
 
 # sent_id = dev-s683
 # text = 또한 1980년 광주항쟁 당시에는 ``광주 사람들 다 때려 죽여야 한다''고 말했다고 한다.
-1	또한	또한	ADV	MAJ	_	17	advmod	_	_
-2	1980년	1980+년	NOUN	SN+NNB	_	16	advmod	_	_
+1	또한	또한	ADV	MAJ	_	15	advmod	_	_
+2	1980년	1980+년	NOUN	SN+NNB	_	14	advmod	_	_
 3	광주항쟁	광주+항쟁	NOUN	NNP+NNG	_	2	flat	_	_
 4	당시에는	당시+에+는	ADV	NNG+JKB+JX	_	2	flat	_	_
-5	`	`	PUNCT	SF	_	11	punct	_	SpaceAfter=No
-6	`	`	PUNCT	SF	_	11	punct	_	SpaceAfter=No
-7	광주	광주	NOUN	NNP	_	10	obj	_	_
-8	사람들	사람+들	NOUN	NNG+XSN	_	7	flat	_	_
-9	다	다	ADV	MAG	_	10	advmod	_	_
-10	때려	때리+어	VERB	VV+EC	_	11	advcl	_	_
-11	죽여야	죽이+어야	VERB	VV+EC	_	16	ccomp	_	_
-12	한다	하+ㄴ다	AUX	VX+EF	_	11	aux	_	SpaceAfter=No
-13	'	'	PUNCT	SS	_	11	punct	_	SpaceAfter=No
-14	'	'	PUNCT	SS	_	11	punct	_	SpaceAfter=No
-15	고	고	ADP	JKQ	_	12	case	_	_
-16	말했다고	말+하+았+다고	VERB	NNG+XSV+EP+EC	_	17	ccomp	_	_
-17	한다	하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
-18	.	.	PUNCT	SF	_	17	punct	_	_
+5	``	``	PUNCT	SF	_	10	punct	_	SpaceAfter=No
+6	광주	광주	NOUN	NNP	_	10	obj	_	_
+7	사람들	사람+들	NOUN	NNG+XSN	_	6	flat	_	_
+8	다	다	ADV	MAG	_	10	advmod	_	_
+9	때려	때리+어	VERB	VV+EC	_	10	advcl	_	_
+10	죽여야	죽이+어야	VERB	VV+EC	_	14	ccomp	_	_
+11	한다	하+ㄴ다	AUX	VX+EF	_	10	aux	_	SpaceAfter=No
+12	''	''	PUNCT	SS	_	10	punct	_	SpaceAfter=No
+13	고	고	ADP	JKQ	_	11	case	_	_
+14	말했다고	말+하+았+다고	VERB	NNG+XSV+EP+EC	_	15	ccomp	_	_
+15	한다	하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
 
 # sent_id = dev-s684
 # text = 좋은 여행이 되었지요
@@ -12509,25 +12507,24 @@
 
 # sent_id = dev-s810
 # text = 생리학에서 Young은 1808년에 했던 ''심장과 동맥의 기능’이라는 과목의 Croonian 강의로 혈류역학에 중대한 기여를 했다.
-1	생리학에서	생리학+에서	ADV	NNG+JKB	_	18	advmod	_	_
-2	Young은	Young+은	NOUN	SL+JX	_	18	nsubj	_	_
+1	생리학에서	생리학+에서	ADV	NNG+JKB	_	17	advmod	_	_
+2	Young은	Young+은	NOUN	SL+JX	_	17	nsubj	_	_
 3	1808년에	1808+년+에	ADV	SN+NNB+JKB	_	4	obl	_	_
-4	했던	하+았+던	VERB	VV+EP+ETM	_	13	acl:relcl	_	_
-5	'	'	PUNCT	SS	_	7	punct	_	SpaceAfter=No
-6	'	'	PUNCT	SS	_	7	punct	_	SpaceAfter=No
-7	심장과	심장+과	NOUN	NNG+JC	_	12	dep	_	_
-8	동맥의	동맥+의	NOUN	NNG+JKG	_	7	flat	_	_
-9	기능	기능	NOUN	NNG	_	7	flat	_	SpaceAfter=No
-10	’	’	PUNCT	SS	_	7	punct	_	SpaceAfter=No
-11	이라는	이+라는	VERB	VCP+ETM	_	7	cop	_	_
-12	과목의	과목+의	NOUN	NNG+JKG	_	13	det:poss	_	_
-13	Croonian	Croonian	NOUN	SL	_	18	advmod	_	_
-14	강의로	강의+로	ADV	NNG+JKB	_	13	flat	_	_
-15	혈류역학에	혈류+역학+에	ADV	NNG+NNG+JKB	_	18	obl	_	_
-16	중대한	중대+하+ㄴ	ADJ	XR+XSA+ETM	_	17	amod	_	_
-17	기여를	기여+를	NOUN	NNG+JKO	_	18	obj	_	_
-18	했다	하+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
-19	.	.	PUNCT	SF	_	18	punct	_	_
+4	했던	하+았+던	VERB	VV+EP+ETM	_	12	acl:relcl	_	_
+5	''	''	PUNCT	SS	_	6	punct	_	SpaceAfter=No
+6	심장과	심장+과	NOUN	NNG+JC	_	11	dep	_	_
+7	동맥의	동맥+의	NOUN	NNG+JKG	_	6	flat	_	_
+8	기능	기능	NOUN	NNG	_	6	flat	_	SpaceAfter=No
+9	’	’	PUNCT	SS	_	6	punct	_	SpaceAfter=No
+10	이라는	이+라는	VERB	VCP+ETM	_	6	cop	_	_
+11	과목의	과목+의	NOUN	NNG+JKG	_	12	det:poss	_	_
+12	Croonian	Croonian	NOUN	SL	_	17	advmod	_	_
+13	강의로	강의+로	ADV	NNG+JKB	_	12	flat	_	_
+14	혈류역학에	혈류+역학+에	ADV	NNG+NNG+JKB	_	17	obl	_	_
+15	중대한	중대+하+ㄴ	ADJ	XR+XSA+ETM	_	16	amod	_	_
+16	기여를	기여+를	NOUN	NNG+JKO	_	17	obj	_	_
+17	했다	하+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
 
 # sent_id = dev-s811
 # text = 한국어 번역판에서도 그대로 타이틀로 쓰고 있다.
